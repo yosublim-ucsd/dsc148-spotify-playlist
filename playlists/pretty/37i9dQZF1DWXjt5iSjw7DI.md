@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,182 likes - 150 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,260 likes - 150 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Gettin' By](https://open.spotify.com/track/3jBzXVNSgRPvpGRenSkvL1) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 3:42 |
 | 150 | [Sunday Mornin’ Comin’ Down \- Live At Gilley's](https://open.spotify.com/track/1IsXVneJGgi0PuPh91YSwX) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Sunday Mornin’ Comin’ Down](https://open.spotify.com/album/5oYl8mRbVpOcyw3cc0gLXG) | 2:29 |
 
-Snapshot ID: `MCw2YmQxYTE3ODQ1Y2JhMWY4OWQxZmRjYTk2MTIwNDcxNjczMzEzMDM1`
+Snapshot ID: `MCw5MjA2MGQ4NGY0ZjgwN2RlMjEyMjE3MTg3MzExNDAyMGNkMTlkM2Vj`

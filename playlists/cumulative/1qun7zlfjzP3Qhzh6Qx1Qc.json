@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Little Devil / Tiny Wooden Box",
+        "url": "https://open.spotify.com/album/5QjTvxUeVtVavvBaNUk0Ls"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231552,
+      "name": "A Little Devil",
+      "url": "https://open.spotify.com/track/3qdSwHoHEQBcboISRiZWgO"
+    },
+    {
+      "album": {
         "name": "Ahead Of Our Time",
         "url": "https://open.spotify.com/album/2RFEvvzKbTk5hvSG1gJW6J"
       },
@@ -131,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Boy Mama",
+        "url": "https://open.spotify.com/album/2VhYSS3WTyv2zZYIyY2Ukf"
+      },
+      "artists": [
+        {
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208200,
+      "name": "Boy Mama",
+      "url": "https://open.spotify.com/track/0haq9AWS0LX1v7KhLMtJQm"
+    },
+    {
+      "album": {
         "name": "Breakin' in Boots",
         "url": "https://open.spotify.com/album/1sHuCLfs5sMWVneNgcCoqS"
       },
@@ -200,7 +236,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 194127,
       "name": "Changing Me",
       "url": "https://open.spotify.com/track/2p9pk1ecXomNAC88DW7cCK"
@@ -640,7 +676,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
@@ -1023,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Where I Grew Up",
+        "url": "https://open.spotify.com/album/7G6jpk4zsUQMFhPeoB9lnM"
+      },
+      "artists": [
+        {
+          "name": "Dillon Carmichael",
+          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "When a Cowboy Cries",
+      "url": "https://open.spotify.com/track/3vUuMxg9Fx9fYWzDaItKhr"
+    },
+    {
+      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/0nsgPm8ByoomqRM1uxTC6q"
       },
@@ -1146,7 +1200,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 229266,
       "name": "You Were Right - Nat's Song",
       "url": "https://open.spotify.com/track/1v6gRTiLJGgFHtdqi532SU"

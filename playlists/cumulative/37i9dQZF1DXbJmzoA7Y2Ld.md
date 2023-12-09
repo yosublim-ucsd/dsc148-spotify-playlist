@@ -4,7 +4,7 @@
 
 > Blues favorites released in 2020\. Cover: Shemekia Copeland
 
-70 songs - 4 hr 36 min
+71 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 | 2020-12-08 |  |
 | [Homemade Disaster](https://open.spotify.com/track/1Vg6Y0vdiBFp1EgF4z397j) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/4QNZhx7sTpEWI8Bj5ZtPkH) | 3:14 | 2020-12-08 | 2022-07-29 |
 | [Homemade Disaster](https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1) | 3:14 | 2020-12-08 |  |
-| [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 | 2020-12-08 |  |
+| [Howlin'](https://open.spotify.com/track/0VauXNyCPoRumexBquycYR) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Bury Me](https://open.spotify.com/album/5bH0uvRjdLCrxG73wayab9) | 2:56 | 2020-12-08 |  |
+| [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 | 2020-12-08 | 2023-12-09 |
 | [Is It Over](https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl) | [Don Bryant](https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I) | [You Make Me Feel](https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN) | 4:30 | 2020-12-08 |  |
 | [Just Beyond the Dawn](https://open.spotify.com/track/41l5Dk1GoCjzjLy7e5ePiY) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Just Beyond the Dawn](https://open.spotify.com/album/5WoOhAzEqK5IwUs0i96RNP) | 3:10 | 2020-12-08 |  |
 | [Just Beyond the Dawn](https://open.spotify.com/track/4Xy2i27HGAGENa13YMmKls) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Just Beyond the Dawn](https://open.spotify.com/album/3V4c8jFN21XSEEBGkXrmiL) | 3:10 | 2020-12-08 | 2023-08-31 |

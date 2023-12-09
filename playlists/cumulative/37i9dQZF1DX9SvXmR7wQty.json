@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Etienne Dufresne",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Jul",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -920,7 +920,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 237653,
       "name": "_sept magie mauve",
       "url": "https://open.spotify.com/track/0OO8vt6iCMZAqZe8xrW2ky"
@@ -3822,7 +3822,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 275342,
       "name": "Big Pharma",
       "url": "https://open.spotify.com/track/2HhKYAgFjRf63cXqSMMr5w"
@@ -4555,6 +4555,24 @@
     },
     {
       "album": {
+        "name": "Que ta t\u00eate fleurisse toujours",
+        "url": "https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197053,
+      "name": "Bougez",
+      "url": "https://open.spotify.com/track/2NmHMbZ6LRvyvTY0nbalfg"
+    },
+    {
+      "album": {
         "name": "Boulevard Alexandre",
         "url": "https://open.spotify.com/album/7qK4fRCeA00Jnvcp6bTknx"
       },
@@ -5032,7 +5050,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 215000,
       "name": "B\u00e9ton",
       "url": "https://open.spotify.com/track/7q95k2ibJsnd2GdrZowhXP"
@@ -5470,7 +5488,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 188997,
       "name": "C'\u00e9tait salement romantique - Reprise",
       "url": "https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p"
@@ -5514,6 +5532,24 @@
       "duration_ms": 181589,
       "name": "C00N",
       "url": "https://open.spotify.com/track/4wJyyhwG8ZeESwPVR9mKg2"
+    },
+    {
+      "album": {
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174819,
+      "name": "Cabeza",
+      "url": "https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit"
     },
     {
       "album": {
@@ -13942,7 +13978,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 168720,
       "name": "fou",
       "url": "https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B"
@@ -19610,7 +19646,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 274415,
       "name": "L'effroi",
       "url": "https://open.spotify.com/track/2BLiJUbJJuCtSbwj75UOoC"
@@ -20415,6 +20451,28 @@
     },
     {
       "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219680,
+      "name": "La fusion",
+      "url": "https://open.spotify.com/track/5zDwN3tjp5OGK7SD6gXYbr"
+    },
+    {
+      "album": {
         "name": "La Fus\u00e9e du Chagrin",
         "url": "https://open.spotify.com/album/1tTnVmiwEvpFkWk7ZPaJJ1"
       },
@@ -21064,7 +21122,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 178216,
       "name": "La Vie Qu'on M\u00e8ne",
       "url": "https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re"
@@ -23466,7 +23524,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 176843,
       "name": "Liaison toxique",
       "url": "https://open.spotify.com/track/2ty8WQ2JfPRvZEfgi68ltm"
@@ -28886,7 +28944,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 190506,
       "name": "Onze",
       "url": "https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr"
@@ -29878,7 +29936,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 167000,
       "name": "Pas la peine",
       "url": "https://open.spotify.com/track/4rjS2xJ4ky6S9unMoNfujB"
@@ -36378,7 +36436,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 270370,
       "name": "Soucoupes volantes",
       "url": "https://open.spotify.com/track/4tJ2SLAfnDbrxd7p48DSGc"
@@ -37046,7 +37104,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 190696,
       "name": "Sur la glace",
       "url": "https://open.spotify.com/track/0Pw98pAQO87gY4zS1xyoqb"
@@ -37578,7 +37636,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 204477,
       "name": "Tant de choses",
       "url": "https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ"
@@ -39862,7 +39920,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 164352,
       "name": "T\u00e9l\u00e9travail",
       "url": "https://open.spotify.com/track/0mQTO2NhLuWzOfchhO4N6l"
@@ -40978,7 +41036,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 268037,
       "name": "VIAUVILLE",
       "url": "https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG"
@@ -42227,6 +42285,24 @@
     },
     {
       "album": {
+        "name": "Weekend \u00e0 Marseille",
+        "url": "https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA"
+      },
+      "artists": [
+        {
+          "name": "Lujipeka",
+          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163373,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC"
+    },
+    {
+      "album": {
         "name": "zzz",
         "url": "https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP"
       },
@@ -42902,7 +42978,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 141662,
       "name": "\u00c7a Parait",
       "url": "https://open.spotify.com/track/53hrIOmrtgJYJi1rIfVJTF"

@@ -4,13 +4,13 @@
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: SV Squad
 
-191 songs - 11 hr 6 min
+192 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Wag Kang Bibitaw](https://open.spotify.com/track/79oy8hPDOSMh9XbVJfXNTE) | [Cean Jr.](https://open.spotify.com/artist/4LT250S0fAe4cYqPbRk56m) | ['Wag Kang Bibitaw](https://open.spotify.com/album/0wjHRyQJ2oYWGcFPTbnc9L) | 2:51 | 2023-11-17 |  |
 | [23rd](https://open.spotify.com/track/4QSf9GiULy3ewwxudseNxU) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [23rd](https://open.spotify.com/album/1fShewlQIUq3cveesD6uXg) | 2:39 | 2023-12-01 |  |
-| [3 AM](https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [3 AM](https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY) | 2:56 | 2023-08-03 |  |
+| [3 AM](https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [3 AM](https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY) | 2:56 | 2023-08-03 | 2023-12-09 |
 | [3 am](https://open.spotify.com/track/23gFlhoLbhFSZ7mFa3vGLI) | [Jade Ivy](https://open.spotify.com/artist/6krwmRWIoIZyJIyU9sSabI) | [3 am](https://open.spotify.com/album/7mV5egRWPduuwLMSNlHVoo) | 3:14 | 2022-10-12 | 2023-05-03 |
 | [4:AM](https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [4:AM](https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo) | 3:48 | 2023-09-15 |  |
 | [4ever](https://open.spotify.com/track/0pzHaxiZ4ZgA4V8zqant5Y) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao), [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [4ever](https://open.spotify.com/album/2Hhyis0MdNzUCWd4fnnMIR) | 6:00 | 2023-07-28 | 2023-11-18 |
@@ -109,6 +109,7 @@
 | [Ligaw](https://open.spotify.com/track/7CgEAxsgEf3L6EoSTEiDq8) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw), [VNCE](https://open.spotify.com/artist/3zMIe4QuRLRn7JDkxBeENc) | [Ligaw](https://open.spotify.com/album/6TErTHNkA9zNz4m7quSBfO) | 3:23 | 2022-10-12 | 2023-07-29 |
 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 | 2023-06-26 | 2023-10-28 |
 | [LIME](https://open.spotify.com/track/2KBOjDGiLYvy8KL41BgO3z) | [tome.](https://open.spotify.com/artist/3L80nqfTP0E4VHc3iIYxQW) | [LIME](https://open.spotify.com/album/1KDZdQcha6B5mDgmuO19OS) | 3:01 | 2023-07-28 | 2023-10-28 |
+| [lito](https://open.spotify.com/track/4FT7mRLMG9vwTDuKpYK6n5) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lito](https://open.spotify.com/album/4CagZ4J1OLFu1dEVGmdstr) | 3:03 | 2023-12-08 |  |
 | [Love Or Lust](https://open.spotify.com/track/4Nmo5m5ZBiPWDGqLuCTk23) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Love Or Lust](https://open.spotify.com/album/2YycMpmAokC9s0drh9tcnQ) | 2:57 | 2022-10-12 | 2023-05-18 |
 | [Lowkey](https://open.spotify.com/track/0SeoyoooF656nZQavqT07Z) | [HIMALAYA](https://open.spotify.com/artist/2Ho4YWSnkNlVV0pvZQF8eU) | [Lowkey](https://open.spotify.com/album/7x97eRi6cyLPqI109TjTRd) | 3:09 | 2023-07-28 | 2023-10-12 |
 | [Luhod](https://open.spotify.com/track/7LNBQgGSCJaOVvr8JNv19n) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf) | [Luhod](https://open.spotify.com/album/44aiwRUlLdzc6tjZD0xdo0) | 2:44 | 2023-12-05 |  |

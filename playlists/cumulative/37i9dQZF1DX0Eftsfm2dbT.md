@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Watson
 
-316 songs - 16 hr 28 min
+317 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [IKA letter GAME](https://open.spotify.com/track/5aPAncEGI6VzGEplT2Kcw2) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [IKA letter GAME](https://open.spotify.com/album/23bSPuy3UH9jqJJoxhy5YH) | 3:38 | 2023-10-31 | 2023-11-22 |
 | [INAZMA](https://open.spotify.com/track/3hOFLp8wvYrM9Yq7I2IoUl) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C) | [INAZMA](https://open.spotify.com/album/01SXicU5VYRgyKJf02JV7E) | 1:59 | 2023-11-08 | 2023-11-22 |
 | [Inori](https://open.spotify.com/track/2q8CAa5H8Bih1zWvwzAglO) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:30 | 2023-09-21 |  |
-| [insomnia world](https://open.spotify.com/track/57ScqdklA6LB7zXhweVF1c) | [Insomnia](https://open.spotify.com/artist/2sGeNPQoc4qsSOzwB2H9yf), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [ascii](https://open.spotify.com/artist/0FJAEsqXrLPtaOjr1xygEO), [YSMA](https://open.spotify.com/artist/79RbvSXUWFakY0L3LFef51) | [insomnia world](https://open.spotify.com/album/67nC7MbJUYisiKwP1WfzPv) | 2:17 | 2023-12-07 |  |
+| [insomnia world](https://open.spotify.com/track/1uMDNdT82iN9VsfINJ7ChV) | [Insomnia](https://open.spotify.com/artist/2sGeNPQoc4qsSOzwB2H9yf), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [ascii](https://open.spotify.com/artist/0FJAEsqXrLPtaOjr1xygEO), [YSMA](https://open.spotify.com/artist/79RbvSXUWFakY0L3LFef51) | [insomnia world](https://open.spotify.com/album/5i51JypSNg66fyYkGONDCa) | 2:17 | 2023-12-07 |  |
+| [insomnia world](https://open.spotify.com/track/57ScqdklA6LB7zXhweVF1c) | [Insomnia](https://open.spotify.com/artist/2sGeNPQoc4qsSOzwB2H9yf), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [ascii](https://open.spotify.com/artist/0FJAEsqXrLPtaOjr1xygEO), [YSMA](https://open.spotify.com/artist/79RbvSXUWFakY0L3LFef51) | [insomnia world](https://open.spotify.com/album/67nC7MbJUYisiKwP1WfzPv) | 2:17 | 2023-12-07 | 2023-12-09 |
 | [KANPA!!I](https://open.spotify.com/track/0hiPtmo9yYVkcKMmBZmLsJ) | [DJ LEAD](https://open.spotify.com/artist/0MSf8DDA2e9OOztlchsyJ7), [Chinito2800](https://open.spotify.com/artist/1m6Yu9fhZvfZWgeLyurWU5), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [KANPA!!I](https://open.spotify.com/album/6lTC9ayrVp4YhSquBEDTGM) | 4:02 | 2023-09-26 | 2023-10-11 |
 | [KANPA!!I](https://open.spotify.com/track/1Q9jeNolvrOPMYeOxbM01I) | [DJ LEAD](https://open.spotify.com/artist/0MSf8DDA2e9OOztlchsyJ7), [Chinito2800](https://open.spotify.com/artist/1m6Yu9fhZvfZWgeLyurWU5), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [KANPA!!I](https://open.spotify.com/album/7uoyutpzVGO0AJjE6S5D1s) | 4:02 | 2023-09-26 | 2023-09-28 |
 | [KIDS](https://open.spotify.com/track/5okhyPltDqGPvh4Jjctqm1) | [me2](https://open.spotify.com/artist/1bLpAMszAGByoGRRVdZsuh), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD) | [Message in a Bottle \- EP](https://open.spotify.com/album/66pxYIS1IwRGXVqvFDmyhd) | 3:49 | 2023-11-28 |  |

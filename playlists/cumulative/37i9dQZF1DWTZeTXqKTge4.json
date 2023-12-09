@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Yes*",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Raccoon",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -894,6 +894,24 @@
       "duration_ms": 171075,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/5WP7fIhGPXgf4bx4uipzAr"
+    },
+    {
+      "album": {
+        "name": "Ayenne",
+        "url": "https://open.spotify.com/album/15UWoGQBrHIVSb8fWRihZd"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156055,
+      "name": "Ayenne",
+      "url": "https://open.spotify.com/track/0SS8kqR1B5nw2XldAKOoiz"
     },
     {
       "album": {
@@ -3022,7 +3040,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 167444,
       "name": "Death Note",
       "url": "https://open.spotify.com/track/5lK58jbXWVRXQ9EYvAWPse"
@@ -3058,10 +3076,32 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 120368,
       "name": "Dehors",
       "url": "https://open.spotify.com/track/1GsemtxnOpIyhbqCUZ8INy"
+    },
+    {
+      "album": {
+        "name": "EGK, Vol. 1",
+        "url": "https://open.spotify.com/album/1LeiBBLGUOO5swWKKZjyhP"
+      },
+      "artists": [
+        {
+          "name": "Gutta192",
+          "url": "https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe"
+        },
+        {
+          "name": "VT",
+          "url": "https://open.spotify.com/artist/6sAxiQQZfNZPbwnpFW9C1m"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Dehors",
+      "url": "https://open.spotify.com/track/3hVBSzqIMOz5HERbVccKS4"
     },
     {
       "album": {
@@ -3660,7 +3700,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 148800,
       "name": "EGK",
       "url": "https://open.spotify.com/track/5EDdPjs1fNdxmHGUCiV7MQ"
@@ -4656,7 +4696,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 119928,
       "name": "GOD COMPLEX",
       "url": "https://open.spotify.com/track/0zkWMIIyfZWPOXnjZyKqR7"
@@ -7244,7 +7284,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 123908,
       "name": "MOTOMAMI",
       "url": "https://open.spotify.com/track/7mdMJNBm9Ufi2yybr49DNT"
@@ -9453,6 +9493,28 @@
     },
     {
       "album": {
+        "name": "R\u00e9cession Disco 2",
+        "url": "https://open.spotify.com/album/5ySJK6I81k8TSuCFPNoynw"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy"
+        },
+        {
+          "name": "Key Watch",
+          "url": "https://open.spotify.com/artist/4iH7YzKgfq5SdcYUmK8usu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "R\u00e9cession Disco 2",
+      "url": "https://open.spotify.com/track/6REJ4MiExwSnDSWxDhf6Cj"
+    },
+    {
+      "album": {
         "name": "R\u00e9giment",
         "url": "https://open.spotify.com/album/1qkXGEbx5bpWXf0NhKlDHU"
       },
@@ -9970,7 +10032,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 210845,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/4vxCBbwpMyrcbzAe4uO2oO"
@@ -10774,6 +10836,24 @@
       "duration_ms": 244128,
       "name": "Triomphe",
       "url": "https://open.spotify.com/track/4PaVygkVBqsBEu8BTfvhDp"
+    },
+    {
+      "album": {
+        "name": "MAELSTR\u00d6M",
+        "url": "https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl"
+      },
+      "artists": [
+        {
+          "name": "Malko",
+          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108948,
+      "name": "TRISTE & C\u00c9L\u00c8BRE",
+      "url": "https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT"
     },
     {
       "album": {

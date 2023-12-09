@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,087 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,171 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 149 | [Suzuki](https://open.spotify.com/track/4NDmNfG9jaUEBO4nYKuxxi) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Suzuki/Paradise Pistol](https://open.spotify.com/album/5z4lU6v1yjb9wonwxq9YB6) | 4:11 |
 | 150 | [Take it or Leave It](https://open.spotify.com/track/2W1ktdyrDicViPdd9swErb) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp), [Rakjay](https://open.spotify.com/artist/5PgyKgHJoVE2uIXXy06mEQ) | [Nintendo EP](https://open.spotify.com/album/0eKI9p9akhOoj35BlLtrrr) | 4:07 |
 
-Snapshot ID: `MCw3MjExOWU1Y2MzMDgxNDI3ZjI0NDYxYTc4NWIyNGUzZWQ2ZTM0M2Jl`
+Snapshot ID: `MCwzMTM3OTUyMzIzY2E3MzVjY2IxMjY5OTljNDQyNGE3ZmRiOWQyMDU1`

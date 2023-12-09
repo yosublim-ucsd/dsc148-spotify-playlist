@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from Africa this year\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=XU\-hT4i7TO\-GoA1GLDBjRA"> YKB </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,680 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,714 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 59 | [Soja Man](https://open.spotify.com/track/7GIO22V1L4wUq23NUQyhQE) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/3beW8OdVYWIke4rpJiPTcH) | 3:21 |
 | 60 | [Feel So Right](https://open.spotify.com/track/2pKM0v34uiyv7fEKWfARxR) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/4s0PMOiNGkO4wukgX8SgQc) | 3:16 |
 
-Snapshot ID: `MCxiYjJiNGExYWJkZGVlZTM2N2MzMGFhODAzMWFkNjEzODZkY2YwMWY3`
+Snapshot ID: `MCxjY2M1NGQwMzhhZGEwYjk2OGI5MzcwNGY0MTBhMjM3MTA3YThmOWE4`

@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 148288,
       "name": "Call On Me - Acoustic Version",
       "url": "https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 177605,
       "name": "False Alarm - Acoustic Version",
       "url": "https://open.spotify.com/track/1HtZGloe3ovx3CadjR97dr"
@@ -1236,10 +1236,28 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 231653,
       "name": "If I Ain't Got You - Piano & Vocal Version",
       "url": "https://open.spotify.com/track/3VdLjuOdBfFHQ2TTCY7zKw"
+    },
+    {
+      "album": {
+        "name": "If I Ain't Got You (Remixes)",
+        "url": "https://open.spotify.com/album/09Hv0TDIjHuPFymQjOTmsX"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "If I Ain't Got You - Piano & Vocal Version",
+      "url": "https://open.spotify.com/track/7tyBkTQUkczW7SMXYjc2GH"
     },
     {
       "album": {
@@ -1276,6 +1294,24 @@
       "duration_ms": 202630,
       "name": "In My Blood",
       "url": "https://open.spotify.com/track/0GwkiRlUjjMjrOa2trBjMu"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/3XE3fDJVA9vMjycWghQQ3W"
     },
     {
       "album": {
@@ -1842,7 +1878,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 199111,
       "name": "Now and Later - Acoustic Version",
       "url": "https://open.spotify.com/track/3KhgqRMwfWSI9J41k7pbvD"
@@ -2724,7 +2760,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 209449,
       "name": "Sugar - Acoustic",
       "url": "https://open.spotify.com/track/3zjScixLevnImm0BErIHxQ"
@@ -2808,6 +2844,24 @@
       "duration_ms": 302880,
       "name": "Sweet Child o' Mine",
       "url": "https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR"
+    },
+    {
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "album": {

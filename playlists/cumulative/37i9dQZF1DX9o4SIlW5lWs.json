@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Al coraz\u00f3n! Foto: La Joaqui.",
+  "description": "Al coraz\u00f3n! Foto: Emanero, Angela Torres, Karina & j mena.",
   "name": "Cumbia y Romance",
   "tracks": [
     {
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 238720,
       "name": "De M\u00ed Enam\u00f3rate",
       "url": "https://open.spotify.com/track/4JrLetRUyUCLLWzsZxsiNK"
@@ -3125,6 +3125,28 @@
     },
     {
       "album": {
+        "name": "Maldita Flor",
+        "url": "https://open.spotify.com/album/02pZs137dI76WI0aNsHMz6"
+      },
+      "artists": [
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+        },
+        {
+          "name": "El Suppe'r De Oro",
+          "url": "https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182114,
+      "name": "Maldita flor",
+      "url": "https://open.spotify.com/track/72Oc0OIk1j0UfMkq9zV79L"
+    },
+    {
+      "album": {
         "name": "Maldita Traidora",
         "url": "https://open.spotify.com/album/1z8zIqVzGUC6SbO2RpTMXi"
       },
@@ -4292,7 +4314,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 171076,
       "name": "Pideme la Luna",
       "url": "https://open.spotify.com/track/69dck8DkCQr45RNexlWZq0"
@@ -4426,7 +4448,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 273575,
       "name": "Porque Te Quiero",
       "url": "https://open.spotify.com/track/6HSf4qTPcIXH4Utqy1yEAl"
@@ -5171,6 +5193,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193347,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
+    },
+    {
+      "album": {
         "name": "Solo Parec\u00eda Amor",
         "url": "https://open.spotify.com/album/1andvP8dyAISy4SH1Z5NxH"
       },
@@ -5456,7 +5496,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 211488,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/35ZHtz35yjq91UBqe7fTdk"
@@ -5626,7 +5666,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 191333,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"

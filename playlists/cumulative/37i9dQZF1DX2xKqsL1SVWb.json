@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Folk tan dulce como la miel. Valeria Jasso en portada.",
+  "description": "Folk tan dulce como la miel. Sebasti\u00e1n Romero en portada.",
   "name": "madera y miel",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 208898,
       "name": "$AD BOYZ II",
       "url": "https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL"
@@ -631,6 +631,28 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Herido",
+        "url": "https://open.spotify.com/album/2YV6BsLMN5EP4BROla7taX"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Pablo Eduardo",
+          "url": "https://open.spotify.com/artist/18E3Tdz1YYdEyMlOm1YaVB"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Coraz\u00f3n Herido",
+      "url": "https://open.spotify.com/track/5yABypq4vGBgk84LC7FUco"
+    },
+    {
+      "album": {
         "name": "Corrido Ser\u00e1",
         "url": "https://open.spotify.com/album/5L9FBfsRy92FnKP34ZCHiS"
       },
@@ -718,6 +740,28 @@
       "duration_ms": 178000,
       "name": "Cu\u00e1nto Tiempo Sin Verte",
       "url": "https://open.spotify.com/track/6jjQY90GmwJoQtxl7GOkIM"
+    },
+    {
+      "album": {
+        "name": "De Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/6QTrGFiAh0VzvqnfO4cOxf"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162993,
+      "name": "De Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/3KrmfOUi4f6IE6JizbVMhs"
     },
     {
       "album": {
@@ -877,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Ecos y Ruido",
+        "url": "https://open.spotify.com/album/7yMKIXccKrlZt7A9EbLlgW"
+      },
+      "artists": [
+        {
+          "name": "Kill Aniston",
+          "url": "https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216234,
+      "name": "Ecos y Ruido",
+      "url": "https://open.spotify.com/track/1u2aFq1CWNi97H2JQlYRKW"
+    },
+    {
+      "album": {
         "name": "El Fin",
         "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
       },
@@ -986,7 +1048,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 239840,
       "name": "Est\u00e1 Da\u00f1ada - Remix",
       "url": "https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb"
@@ -1008,6 +1070,24 @@
       "duration_ms": 201900,
       "name": "Euforia",
       "url": "https://open.spotify.com/track/2hHaDesv4GPrUFALA10p0B"
+    },
+    {
+      "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
     },
     {
       "album": {
@@ -1152,7 +1232,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 154048,
       "name": "La Balada de Sarah Lynn",
       "url": "https://open.spotify.com/track/358ITOTwU2zByvL2YftgGn"
@@ -1376,7 +1456,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 514052,
       "name": "Luces De Ti",
       "url": "https://open.spotify.com/track/6GQJR8ZiVXv07Oe8ZPO9ig"
@@ -1459,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "me va a costar",
+        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "me va a costar",
+      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
+    },
+    {
+      "album": {
         "name": "Me Vale",
         "url": "https://open.spotify.com/album/2AB0FCPBg9G7pbHoQIhDZX"
       },
@@ -1488,7 +1586,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 197000,
       "name": "mejor me voy",
       "url": "https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG"
@@ -1578,7 +1676,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 230760,
       "name": "mis compas tan aqu\u00ed",
       "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
@@ -1748,7 +1846,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 222438,
       "name": "Nos Dijimos Adi\u00f3s",
       "url": "https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU"
@@ -2008,7 +2106,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 163958,
       "name": "Repetir",
       "url": "https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7"
@@ -2312,6 +2410,24 @@
     {
       "album": {
         "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244251,
+      "name": "Tab\u00fa",
+      "url": "https://open.spotify.com/track/6UJg0mVgXgQCDFOmi3lem6"
+    },
+    {
+      "album": {
+        "name": "Tab\u00fa",
         "url": "https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx"
       },
       "artists": [
@@ -2358,7 +2474,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 229060,
       "name": "TE EXTRA\u00d1O Y LO SIENTO...",
       "url": "https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK"
@@ -2398,7 +2514,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 218657,
       "name": "Te hab\u00eda contao",
       "url": "https://open.spotify.com/track/00pEWo382r8gERWquqG1wS"
@@ -2557,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "tiempo a solas (nude version)",
+        "url": "https://open.spotify.com/album/0K0TWzm721PjIB5ybimRov"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221123,
+      "name": "tiempo a solas - nude version",
+      "url": "https://open.spotify.com/track/2uNqdJbr1uTRaZFxjt6e2X"
+    },
+    {
+      "album": {
         "name": "Todo Lo Que Hay",
         "url": "https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7"
       },
@@ -2576,6 +2710,28 @@
       "duration_ms": 169441,
       "name": "Todo Lo Que Hay",
       "url": "https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t"
+    },
+    {
+      "album": {
+        "name": "todos menos yo",
+        "url": "https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag"
+      },
+      "artists": [
+        {
+          "name": "Anna Garc\u00eda",
+          "url": "https://open.spotify.com/artist/7BaSeoQcti9uDTykvmXC0e"
+        },
+        {
+          "name": "Abraham G\u00dc",
+          "url": "https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196675,
+      "name": "todos menos yo",
+      "url": "https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh"
     },
     {
       "album": {
@@ -2687,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "Vainilla y Tabaco",
+        "url": "https://open.spotify.com/album/736zW78lKleYziVBKPuWNG"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127649,
+      "name": "Vainilla y Tabaco - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0dfUYySSEgAwTRatbDC2TG"
+    },
+    {
+      "album": {
         "name": "Vamos a Brillar",
         "url": "https://open.spotify.com/album/2DWMgT5GxpTlLgCdVEu4D5"
       },
@@ -2738,6 +2912,24 @@
       "duration_ms": 181066,
       "name": "Viernes 13",
       "url": "https://open.spotify.com/track/3oZ1k0maDv6kIcFMy03OdW"
+    },
+    {
+      "album": {
+        "name": "Volver\u00e1s",
+        "url": "https://open.spotify.com/album/0svz0zAFjvUJx9JEpIi12a"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219391,
+      "name": "Volver\u00e1s",
+      "url": "https://open.spotify.com/track/2X4xsgZLE8Q1AlHgSzOYaS"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Libianca",
-  "num_followers": 545302,
+  "num_followers": 545333,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjE0NWQwMzEwMDVmYjQ3N2M5YzIxZDhjOTBlN2UwMzRkNzM1OTQ1",
+  "snapshot_id": "MCxiNzU3NTFmMzIzMTk1ZDUxYTBjMmEyZGQxNzY1MDQ3MmQ5M2E2MWUz",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -71,6 +71,26 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
+    },
+    {
+      "added_at": "2023-12-08 11:59:41",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -510,10 +530,6 @@
         {
           "name": "Marten H\u00f8rger",
           "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        },
-        {
-          "name": "Insomniac Records",
-          "url": "https://open.spotify.com/artist/51xR0dvqUomzb5eY6dvT4M"
         }
       ],
       "duration_ms": 165000,
@@ -1407,26 +1423,6 @@
       "duration_ms": 176578,
       "name": "Lunar Eclipse",
       "url": "https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "FREEDOM",
-        "url": "https://open.spotify.com/album/2QRJBU3HqPYYfE1Qh8Njy3"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 117839,
-      "name": "BADMAN",
-      "url": "https://open.spotify.com/track/3FEAgxuYNeFjKzwNqRcnwV"
     },
     {
       "added_at": "2023-12-08 00:08:00",

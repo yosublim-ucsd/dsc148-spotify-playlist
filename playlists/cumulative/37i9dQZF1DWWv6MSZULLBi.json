@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 246454,
       "name": "9beat",
       "url": "https://open.spotify.com/track/1Oy7QJxv45ubZDirk4z0Lk"
@@ -676,6 +676,24 @@
       "duration_ms": 171486,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/5zvo5IHhdyHXTBSdO8H4ZI"
+    },
+    {
+      "album": {
+        "name": "another sublet",
+        "url": "https://open.spotify.com/album/3j4TeXExZfONFBsnukEMuG"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182720,
+      "name": "another sublet",
+      "url": "https://open.spotify.com/track/5QXO4uPk1FdznZEGqTJsLb"
     },
     {
       "album": {
@@ -1317,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Bubba",
+        "url": "https://open.spotify.com/album/3jTD1rSEBGiYzLNvOKYkua"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189073,
+      "name": "Bubba",
+      "url": "https://open.spotify.com/track/6mR8WKU0eHUrhn8SvJAsqa"
+    },
+    {
+      "album": {
         "name": "Bug Like an Angel",
         "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
       },
@@ -1332,6 +1368,24 @@
       "duration_ms": 212333,
       "name": "Bug Like an Angel",
       "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200021,
+      "name": "Burn Me Once - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/1wB4su0ngpr8Rnh96So3vJ"
     },
     {
       "album": {
@@ -3754,7 +3808,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 264779,
       "name": "For Shaughnessy",
       "url": "https://open.spotify.com/track/1pg1StMQXpjTKFDtlQJnBP"
@@ -4318,6 +4372,24 @@
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
+    },
+    {
+      "album": {
+        "name": "Keepsakes",
+        "url": "https://open.spotify.com/album/5saWLgRVHZoGDtopmWkyMv"
+      },
+      "artists": [
+        {
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189811,
+      "name": "Heart Shaped Locket",
+      "url": "https://open.spotify.com/track/5oaThEaulai5NDF9I0kz1T"
     },
     {
       "album": {
@@ -5416,7 +5488,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 218581,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/3SLfONUr1O6vT50WSMRyWQ"
@@ -6269,6 +6341,24 @@
     },
     {
       "album": {
+        "name": "Looking For",
+        "url": "https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Looking For",
+      "url": "https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F"
+    },
+    {
+      "album": {
         "name": "Looking For Love",
         "url": "https://open.spotify.com/album/2VPn8eCJ3fm4A77GNa3ZbW"
       },
@@ -6464,6 +6554,24 @@
       "duration_ms": 191413,
       "name": "Make No Mistakes",
       "url": "https://open.spotify.com/track/0YT0OGtTkkYOlqVXfMOqE5"
+    },
+    {
+      "album": {
+        "name": "Those Years",
+        "url": "https://open.spotify.com/album/3I7HtpecHef8cSTQwXOR9o"
+      },
+      "artists": [
+        {
+          "name": "Julianna Laine",
+          "url": "https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291442,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/5EphqHUo5K7fgkZ7xYn3bK"
     },
     {
       "album": {
@@ -6716,6 +6824,24 @@
       "duration_ms": 223000,
       "name": "Monica",
       "url": "https://open.spotify.com/track/5CtJFkJ5IPpqKgqaV9KuxL"
+    },
+    {
+      "album": {
+        "name": "To Learn, More",
+        "url": "https://open.spotify.com/album/39ePBzunWnT1ieSGbjUbsM"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196313,
+      "name": "Monogamy",
+      "url": "https://open.spotify.com/track/0uCKOztTB9eW3ApEAGpeS5"
     },
     {
       "album": {
@@ -8364,7 +8490,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 231724,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
@@ -10554,7 +10680,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
@@ -10576,7 +10702,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 274720,
       "name": "too young to die",
       "url": "https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV"
@@ -10902,7 +11028,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"

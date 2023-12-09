@@ -488,6 +488,24 @@
       },
       "artists": [
         {
+          "name": "EUNSANG",
+          "url": "https://open.spotify.com/artist/1UbuFUoIrtWpITdS9OMzJN"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210450,
+      "name": "To U",
+      "url": "https://open.spotify.com/track/5mvIFPXN7ImVG2jaxNnjfn"
+    },
+    {
+      "album": {
+        "name": "IDOL : The Coup (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2RPRofE4Hq2f8KOLWR9B2M"
+      },
+      "artists": [
+        {
           "name": "Kim Min Kyu",
           "url": "https://open.spotify.com/artist/5rGTIicetUCmoXHgpU7fKz"
         },
@@ -510,26 +528,8 @@
       },
       "artists": [
         {
-          "name": "Lee Eun Sang",
-          "url": "https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ"
-        }
-      ],
-      "date_added": "2022-01-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210450,
-      "name": "To U",
-      "url": "https://open.spotify.com/track/5mvIFPXN7ImVG2jaxNnjfn"
-    },
-    {
-      "album": {
-        "name": "IDOL : The Coup (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/2RPRofE4Hq2f8KOLWR9B2M"
-      },
-      "artists": [
-        {
-          "name": "Lee Eun Sang",
-          "url": "https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ"
+          "name": "EUNSANG",
+          "url": "https://open.spotify.com/artist/1UbuFUoIrtWpITdS9OMzJN"
         },
         {
           "name": "Kim Min Kyu",

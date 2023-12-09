@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-318 songs - 19 hr 18 min
+320 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Billie Jean](https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between The Bars \(EP\)](https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5) | 4:19 | 2021-11-12 | 2022-07-29 |
 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 | 2022-07-27 |  |
 | [Black Beatles \- Acoustic](https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Black Beatles \(Acoustic\)](https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf) | 3:31 | 2021-11-12 |  |
-| [Black Star](https://open.spotify.com/track/2ILZnAkZ993wHUjd1Haroi) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Black Star / Just](https://open.spotify.com/album/48QUJsKRxCC8Cnm9U8RGfk) | 3:39 | 2021-11-12 |  |
+| [Black Star](https://open.spotify.com/track/2ILZnAkZ993wHUjd1Haroi) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Black Star / Just](https://open.spotify.com/album/48QUJsKRxCC8Cnm9U8RGfk) | 3:39 | 2021-11-12 | 2023-12-09 |
+| [Black Star](https://open.spotify.com/track/5LbDbeuANg3CeO5g9GHAMj) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV) | 3:39 | 2023-10-23 |  |
 | [BLACKBIRD](https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [BLACKBIRD](https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW) | 2:08 | 2023-02-03 |  |
 | [Blank Space / Jealous \(Acoustic Mashup\)](https://open.spotify.com/track/2eNDSQxow7YrptjNiluPaH) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Blank Space / Jealous \(Acoustic Mashup\)](https://open.spotify.com/album/2Zza5p2s1rtGpntv76HPIF) | 4:40 | 2021-11-12 |  |
 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 | 2021-11-12 |  |
@@ -121,7 +122,8 @@
 | [Here Comes the Sun \- Acoustic](https://open.spotify.com/track/41cpdd5Hvy577Ta7HV8FuV) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/album/431eyjZ99xg2q86X3aQA7h) | 3:08 | 2023-02-24 | 2023-11-05 |
 | [Hey Ya \- solo version](https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [The Tip Jar Volume One](https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx) | 4:58 | 2021-11-12 |  |
 | [Hide Away \- Acoustic Version](https://open.spotify.com/track/0UCsrU37XWdbddPCTRG4Pj) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [Hide Away](https://open.spotify.com/album/2nluaXCp3OtbaBcEW0UbqO) | 3:31 | 2021-11-12 | 2022-01-06 |
-| [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-11-12 |  |
+| [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-11-12 | 2023-12-09 |
+| [High And Dry](https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV) | 3:52 | 2023-10-23 |  |
 | [Ho Hey](https://open.spotify.com/track/2BwRvOaG8JdpX3F5LqiLHo) | [Nashville Cast](https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I), [Lennon & Maisy](https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr) | [The Music Of Nashville Original Soundtrack Volume 2](https://open.spotify.com/album/2Q8nxuKZsr2Yaz20BmAHQT) | 2:06 | 2021-11-12 |  |
 | [Hold Me While You Wait \- Acoustic](https://open.spotify.com/track/1L7Q3hDV2EVFCRXpwhVd6V) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Hold Me While You Wait \(Acoustic\)](https://open.spotify.com/album/69XRbNeKzcSaZk43fB69OY) | 3:12 | 2021-11-12 | 2022-07-29 |
 | [Hold Me While You Wait \- Acoustic](https://open.spotify.com/track/2NL3mpVXdEJD6RqKZxYWl3) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Hold Me While You Wait \(Acoustic\)](https://open.spotify.com/album/2FFG9G1WjcnEvhdM31xXGX) | 3:12 | 2022-07-27 |  |

@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-106 songs - 6 hr 0 min
+107 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,10 +26,11 @@
 | [Don't Cry](https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 4:29 | 2022-06-06 |  |
 | [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 | 2022-12-09 |  |
 | [Dreams](https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Dreams](https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH) | 3:06 | 2023-11-16 |  |
-| [Evergreen](https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Afrie](https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A) | [Love and Light](https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ) | 3:19 | 2022-06-06 |  |
+| [Evergreen](https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Afrie](https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A) | [Love and Light](https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ) | 3:19 | 2022-06-06 | 2023-12-09 |
 | [Fire Deh Deh](https://open.spotify.com/track/3CLcX5MphVX20oqeGDaNT7) | [Felista Di Superstar](https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH) | [Fire Deh Deh](https://open.spotify.com/album/2D5qDtijtUUlf4UB2RXrDm) | 3:25 | 2022-12-16 | 2023-08-12 |
 | [Give Me Your Hand](https://open.spotify.com/track/6SzIN4egYTNrqE22mcb6WR) | [Bravo Lion](https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A), [Dvoice](https://open.spotify.com/artist/5rAc0Q7Vylz98aK0UWJ6Gf) | [Give Me Your Hand](https://open.spotify.com/album/25EzvrXbFM5qKNy2qHmZZH) | 3:59 | 2023-01-26 |  |
 | [Grand Pa](https://open.spotify.com/track/0Ty3jrWi07X1bYyiHNX4q5) | [Dreventy](https://open.spotify.com/artist/20rJZ2igPSXRYRp09Kppb3) | [Blue Detail](https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz) | 2:46 | 2022-07-25 |  |
+| [GROOVE WITH ME \- A COLORS SHOW](https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [GROOVE WITH ME \- A COLORS SHOW](https://open.spotify.com/album/1AFLKfNYVhAgGZubUO2glF) | 2:45 | 2023-11-30 |  |
 | [Habibi](https://open.spotify.com/track/5iz5aaY16uQ29mkNXsiBre) | [Lamu](https://open.spotify.com/artist/5ygdLFNJNX7nuQbZKb26lS) | [No Pressure](https://open.spotify.com/album/4JxJjVcjULbJNQxBPpH324) | 3:23 | 2022-06-06 | 2023-09-08 |
 | [Harder](https://open.spotify.com/track/5biHJejkpcsUaqGd2jgxMK) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:46 | 2023-10-12 |  |
 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 | 2022-06-06 | 2023-10-13 |
@@ -51,7 +52,7 @@
 | [Kwaata Wano](https://open.spotify.com/track/4IZ3S8yLA4MtBx6dWrXh8O) | [Sylver](https://open.spotify.com/artist/4dHmyAX71EzkOxKV34nAWU) | [Kwaata Wano](https://open.spotify.com/album/7ah4EmgbvbW5IchFO3HlVI) | 3:48 | 2022-08-05 |  |
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-08 |  |
 | [Legeza](https://open.spotify.com/track/4FragLnXmS8EJA9WPLr9fW) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6), [Walter Yt](https://open.spotify.com/artist/1M3yIJrAXh63N36XijhgfA) | [Niwe Akeine](https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE) | 3:26 | 2022-06-06 | 2023-07-01 |
-| [Little Faith](https://open.spotify.com/track/2DNOzgqgDrrB9j0LbMJs84) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Sandra Suubi](https://open.spotify.com/artist/33JYHmzZa3lNG7VtH0wNSM) | [Little Faith](https://open.spotify.com/album/6K43HxSlOV0wgIcJqgrege) | 3:15 | 2022-08-05 |  |
+| [Little Faith](https://open.spotify.com/track/2DNOzgqgDrrB9j0LbMJs84) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Sandra Suubi](https://open.spotify.com/artist/33JYHmzZa3lNG7VtH0wNSM) | [Little Faith](https://open.spotify.com/album/6K43HxSlOV0wgIcJqgrege) | 3:15 | 2022-08-05 | 2023-12-09 |
 | [Love Letter](https://open.spotify.com/track/4p6jxHgZuMPL8fbv5oEg5X) | [UNiTY Originaal](https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V), [Lilly Ahabwe](https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl) | [Love Letter](https://open.spotify.com/album/7IasjQ1vyIPAPlOhvsM6S6) | 3:14 | 2023-08-25 | 2023-11-11 |
 | [Lover Girl](https://open.spotify.com/track/3xvordMfsFsbPsuCWEdnAf) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [Lover Girl](https://open.spotify.com/album/6ZPwy1sInfO5kbh6G9N9n6) | 3:21 | 2023-02-10 |  |
 | [Luberera](https://open.spotify.com/track/4tWynXHlhctDDWr0Spw6Zn) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ) | [Luberera](https://open.spotify.com/album/2ekWdKwqx2qzbqsECQcn8h) | 3:51 | 2022-06-06 | 2023-11-18 |

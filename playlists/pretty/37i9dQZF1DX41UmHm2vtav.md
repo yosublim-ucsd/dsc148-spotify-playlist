@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,352 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,469 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Todo Homem \- Bhaskar, Mojjo Remix](https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Todo Homem \(Bhaskar, Mojjo Remix\)](https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN) | 4:29 |
 | 70 | [Imprevisível \- Overdriver Duo e Guz Zanotto Remix](https://open.spotify.com/track/3z51kAmAca2StfedNebGNe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18), [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI) | [Imprevisível \(Overdriver Duo e Guz Zanotto Remix\)](https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW) | 3:35 |
 
-Snapshot ID: `MCw4NGRhM2YwZTc0MjUyMDkxOGJmNmEyNTkyMWNmOTRjNWY4NWU2NzEw`
+Snapshot ID: `MCw0ZjUwYTk1Nzk0NGI5MmYzZDZmNzQ1NjJiOTRlNmZkYzUxMGQxNTkx`

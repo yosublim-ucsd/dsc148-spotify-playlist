@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > The very best rock covers\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,568 likes - 150 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,645 likes - 150 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 149 | [Blinded By The Light \- From "Super Troopers 2" Soundtrack](https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Blinded By The Light \(From "Super Troopers 2" Soundtrack\)](https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9) | 4:36 |
 | 150 | [Table For Glasses](https://open.spotify.com/track/2eYqYMFIyOq9yJSZzAy6B7) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Table For Glasses](https://open.spotify.com/album/3aE2gaGZQVA0X6YcspS0fs) | 3:51 |
 
-Snapshot ID: `MCxmM2EwY2M3NTdhZjMyN2M4YTliYTBkOWIxM2JiY2Y2OGY3ZjI3ZGU1`
+Snapshot ID: `MCw5N2U5N2UzMzk1YTljZDAzZWY3OTUyNTUwNmI3ZGZjY2M1NDE0NTI1`

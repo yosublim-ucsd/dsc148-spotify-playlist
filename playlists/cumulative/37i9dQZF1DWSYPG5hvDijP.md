@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-193 songs - 10 hr 16 min
+194 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1 KHABRI / 2 NUMBARI](https://open.spotify.com/track/7rhx3r2Qg0IEawcuKZhDLg) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [Circle Tone](https://open.spotify.com/artist/5FLdl3TGJp0xXgUSimW2yQ), [EBE](https://open.spotify.com/artist/2sjGdn40Lg3bhZOL5W8S7A) | [RUAB](https://open.spotify.com/album/7kkeViLxDfmxJeNUClsQWk) | 8:09 | 2023-08-08 | 2023-10-10 |
 | [10 Pe 10](https://open.spotify.com/track/7AMHv3AWy7xy9MHya4KPMg) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [10 Pe 10](https://open.spotify.com/album/1x7Je1a2xgUd0EtWjvdcGu) | 3:07 | 2023-03-29 | 2023-04-17 |
 | [100](https://open.spotify.com/track/1i0OA7qz1PQkX01TeR8Ua8) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 1:47 | 2023-04-01 | 2023-06-02 |
+| [11:11](https://open.spotify.com/track/0jaX10A3R9z6iMdVrq6Xiz) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [11:11](https://open.spotify.com/album/7AeLzb0S0TzNqTCN5YPkoZ) | 3:43 | 2023-12-08 |  |
 | [2023 FLOW](https://open.spotify.com/track/3BcqRnsndjbzXARO1cuQJT) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2023 FLOW](https://open.spotify.com/album/4OJpmHAuQ4O8bB7e2HTdDw) | 5:34 | 2023-03-29 | 2023-04-17 |
 | [36](https://open.spotify.com/track/24uSxern7HZJupb1fGqLuQ) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:58 | 2023-03-29 | 2023-04-17 |
 | [808](https://open.spotify.com/track/5zq4bkV1NxcJ9pyZCXqE6l) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:09 | 2023-09-13 | 2023-10-28 |
@@ -103,7 +104,7 @@
 | [Judgement](https://open.spotify.com/track/4XoECpd0nkk9OSLUIEOi1i) | [Gopi Longia](https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE) | [Judgement](https://open.spotify.com/album/3e1XAJm7FEvTMaaJ5SiksX) | 5:14 | 2023-03-29 | 2023-04-25 |
 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 | 2023-03-29 |  |
 | [Kalamkaand](https://open.spotify.com/track/2uickBJkb6Q9p5OUijDyXA) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA) | [Kalamkaand](https://open.spotify.com/album/6MPlFOjhFBYddTxV4shdcX) | 2:00 | 2023-05-12 |  |
-| [Kehne Bhi De](https://open.spotify.com/track/3eGhjlURW4FfzShAlWVkPx) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o), [Refix](https://open.spotify.com/artist/2QD7mDvWWHZmkOxtXBurr0) | [Kehne Bhi De](https://open.spotify.com/album/4EOQEw6j8ojRKGmydNt2hN) | 2:36 | 2023-12-06 |  |
+| [Kehne Bhi De](https://open.spotify.com/track/3eGhjlURW4FfzShAlWVkPx) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o), [Refix](https://open.spotify.com/artist/2QD7mDvWWHZmkOxtXBurr0) | [Kehne Bhi De](https://open.spotify.com/album/4EOQEw6j8ojRKGmydNt2hN) | 2:36 | 2023-12-06 | 2023-12-09 |
 | [Khabardaar](https://open.spotify.com/track/73no2a4Duu6WQenItVWniv) | [DeeKing](https://open.spotify.com/artist/7wx6OARYCPCI8ziz1kKSLD), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Khabardaar](https://open.spotify.com/album/4rh9PT4D50UngZEre4xqy4) | 2:35 | 2023-08-19 | 2023-10-13 |
 | [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 | 2023-11-29 |  |
 | [King Of Indian Hip Hop](https://open.spotify.com/track/21noylFh40f8j2lyWah95R) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of Indian Hip Hop](https://open.spotify.com/album/6CiopvBPnSPd7G6l3qbbHt) | 7:20 | 2023-06-06 |  |

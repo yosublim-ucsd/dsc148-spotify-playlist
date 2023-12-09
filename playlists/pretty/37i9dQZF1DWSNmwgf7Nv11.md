@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,877 likes - 164 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,843 likes - 164 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 14 | [Chasing Spirits](https://open.spotify.com/track/4KFerK4qS5krV7MxVC4iDe) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 2:44 |
 | 15 | [Fever Pitch](https://open.spotify.com/track/5vyt44455ipNNVSYq8fYY7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:43 |
 | 16 | [Protection](https://open.spotify.com/track/78dfUJzw0hQnRlxgFY1qFY) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO), [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Nakama](https://open.spotify.com/album/7kPc6efhRopgssDtCKhY7i) | 4:34 |
-| 17 | [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 |
+| 17 | [Heavy](https://open.spotify.com/track/26eylodAJLTp1GkG4Q7wNy) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 3:01 |
 | 18 | [Fair Play \- Acoustic Version](https://open.spotify.com/track/3cPje9gVPHats5iBqZcLNc) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Fair Play \(Acoustic Version\)](https://open.spotify.com/album/2S70oYEY3gqo1ghMqClu9Q) | 4:19 |
 | 19 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 |
 | 20 | [Looking Too Closely](https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:10 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 58 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 |
 | 59 | [Turntable](https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [My Mother the Moon](https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P) | 3:16 |
 | 60 | [Fever Dream](https://open.spotify.com/track/5aQge4CQGxd4hp7YtVEHy5) | [Sea High](https://open.spotify.com/artist/3zOedO0mn7ikOxKcshuHsY), [Wallfella](https://open.spotify.com/artist/6fYRV3qeqpfNv29wOThawF), [Citizen Black](https://open.spotify.com/artist/1XZroKJxeCMmLjHScn7XTO) | [Degradation of Imagination](https://open.spotify.com/album/3h227ffzTp1JxmbK76fg6C) | 3:22 |
-| 61 | [Bones](https://open.spotify.com/track/0hGO3Ws99t05Iboxcve9DC) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bones](https://open.spotify.com/album/3xHx0ZEM8KLsEN7yGqYUAf) | 2:58 |
+| 61 | [Bones](https://open.spotify.com/track/2DDKpgjub5JCPkM41bH3Tp) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV) | 2:58 |
 | 62 | [Nica Libres At Dusk \- Radio Edit](https://open.spotify.com/track/6c1r9Vdso5n3QjGMBTNpFh) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Nica Libres At Dusk \(Radio Edit\)](https://open.spotify.com/album/3WDWet8acFs2XAAI7ADLoA) | 3:59 |
 | 63 | [Salem](https://open.spotify.com/track/1u7cLB3jSUdBTfttKd1LeN) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:44 |
 | 64 | [Walk Away](https://open.spotify.com/track/3U1FsTAe4KYRaWntA3MiQY) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Personal History](https://open.spotify.com/album/2dKKvtXMxAOAJsiHHu44IX) | 3:12 |
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 142 | [Hurts to liv](https://open.spotify.com/track/0Qr0rDGtKmoq0LRqvU4P9H) | [liv](https://open.spotify.com/artist/7nmgl15vMVoESrB2SZUWlC) | [Hurts to liv](https://open.spotify.com/album/4QqwfjmRKK1dBNK8lz8ecq) | 5:02 |
 | 143 | [Better Still](https://open.spotify.com/track/3lhcKkCSj2roKSRkdyYGBr) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Better Still](https://open.spotify.com/album/76jcRAzqVmJ4nyAYUybgMi) | 3:55 |
 | 144 | [Send Me Away](https://open.spotify.com/track/7zMGgwV7iV4fL3zqP1EjjN) | [Steve Tyssen](https://open.spotify.com/artist/5jyPnkEhFmcxXHpGzQavhk) | [Send Me Away](https://open.spotify.com/album/5gDfrinkxK2nBZskaeub7l) | 3:22 |
-| 145 | [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/1Lp6ewfK7ABZWemResfRyK) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/3Xk3lT15u68kn5kxyCdGGs) | 3:48 |
+| 145 | [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/6wurCbhueS1T61C2BgRHnL) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/6UxKGcyntU9E3f8Zx4PZ4b) | 3:48 |
 | 146 | [Strangers](https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Strangers](https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui) | 3:13 |
 | 147 | [Heathering](https://open.spotify.com/track/6j8AX1UsEt4WQqK1IIVbgS) | [Your Friend](https://open.spotify.com/artist/0shSyn6H4T9cdmM3j0tTnA) | [Gumption](https://open.spotify.com/album/61cxehrTLtnviFkhATZ9mp) | 4:22 |
 | 148 | [Cherry Baby](https://open.spotify.com/track/1BiazS694A1E7aIURdanmB) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Cherry Baby](https://open.spotify.com/album/60BbO5iCynpny3YwRjAUq9) | 5:26 |
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 160 | [No One Loves You \(OurVinyl Sessions\)](https://open.spotify.com/track/6Yi4hvMi5D4dm6dFdbwjPT) | [Chance McCoy](https://open.spotify.com/artist/4VcDjGUnE1kwHbsWnvlgya), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [No One Loves You \(OurVinyl Sessions\)](https://open.spotify.com/album/3PjJxd9BLKfIiLHipFvV2C) | 2:16 |
 | 161 | [Two Hearts](https://open.spotify.com/track/0uh5L0aTFSVxi7Dw29eN6L) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:53 |
 | 162 | [Deep In Love](https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 5:09 |
-| 163 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
+| 163 | [Reds](https://open.spotify.com/track/2hBqCLEJc1OiRjMjHW2BnM) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/5lVHUBJ98A0YBQa1HPkamR) | 2:58 |
 | 164 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MCxlMDhkY2UwZjVhODBkNGQ1NWQ1OTAwZWRhY2ExMzBiNGZmOTgyZWFi`
+Snapshot ID: `MCw4MDc2OGIwZWNiY2RlNmFiY2U5MjliMmVlYmE1OTQzMjFlN2JhYTZj`

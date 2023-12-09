@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,087 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,139 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 99 | [El Titiritero \- Directo México](https://open.spotify.com/track/3PjTUuYX87fitBBaRhFaVa) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat en Bellas Artes \(Directo México\)](https://open.spotify.com/album/7kOxIx5NZ9dFbArJFMNZIY) | 4:21 |
 | 100 | [Mas de Cien Mentiras \- En Directo](https://open.spotify.com/track/4Nt5ZxHaMELMnGmrL5pn6v) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 3:23 |
 
-Snapshot ID: `MCxiYzJlNWI0ODFjZDUyMzFiOGJkYWFmNTdlMjg0MmY4Y2ZmNzgwYTYy`
+Snapshot ID: `MCw0MmU4OGY0ZTQwZWQ1ZjNhMGJhYTFjYTllODRkMzdkZDY2Y2UyOTM5`

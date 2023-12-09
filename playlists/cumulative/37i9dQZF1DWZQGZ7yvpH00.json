@@ -567,6 +567,32 @@
     },
     {
       "album": {
+        "name": "Copa Tras Copas",
+        "url": "https://open.spotify.com/album/6U1aNoigyf6SvWEC82PpKG"
+      },
+      "artists": [
+        {
+          "name": "Alejandroo",
+          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
+        },
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/3qAdZSijJdaym3wQfMCktd"
+        },
+        {
+          "name": "Brian Mendoza",
+          "url": "https://open.spotify.com/artist/1PkMdAG1vujZStQVTjF3I9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167112,
+      "name": "Copa Tras Copas",
+      "url": "https://open.spotify.com/track/1gLNj6ANVeSYSvBGLODeQ5"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
       },
@@ -893,6 +919,24 @@
     },
     {
       "album": {
+        "name": "Dices me Extra\u00f1as",
+        "url": "https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292317,
+      "name": "Dices me Extra\u00f1as",
+      "url": "https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH"
+    },
+    {
+      "album": {
         "name": "Con Un Porte Diferente (Vol 2)",
         "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
       },
@@ -933,6 +977,28 @@
     },
     {
       "album": {
+        "name": "DISTRACCIONES",
+        "url": "https://open.spotify.com/album/6cJdhE7WbMik7x96Us1lMt"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212672,
+      "name": "DISTRACCIONES",
+      "url": "https://open.spotify.com/track/2VfwnBJHhG8Ue4KRL8BjH0"
+    },
+    {
+      "album": {
         "name": "Donde Est\u00e1s",
         "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
       },
@@ -944,10 +1010,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 249040,
       "name": "Donde Est\u00e1s",
       "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
+    },
+    {
+      "album": {
+        "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
+        "url": "https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192922,
+      "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
+      "url": "https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5"
     },
     {
       "album": {
@@ -1144,7 +1228,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 245201,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
@@ -3684,7 +3768,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 127978,
       "name": "Solo T\u00fa Nomas",
       "url": "https://open.spotify.com/track/6z3ntFQzzu0aGtrHAKcCiR"
@@ -3756,7 +3840,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 185913,
       "name": "Sue\u00f1o Lucido",
       "url": "https://open.spotify.com/track/3U48aBGPmYVfxnJrT820mS"

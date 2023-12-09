@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,411 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,496 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 99 | [AL MUNDO PAZ](https://open.spotify.com/track/0rPxempwI3Htj5f07xwiPt) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20) | [AL MUNDO PAZ](https://open.spotify.com/album/1VPMpj11LVpbxusl9fZNG3) | 2:59 |
 | 100 | [Ella Dijo Sí](https://open.spotify.com/track/6m4U9w2dmzS6qqjYVhJCLA) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Ella Dijo Sí](https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv) | 2:46 |
 
-Snapshot ID: `MCw4YWE3N2M4MGJjZTk1MDVhNzk5ZTljNzBiYjA5MmVjYTAxYTU4Zjg1`
+Snapshot ID: `MCw2MTI0NTEyMWM1ZjI1ZDczMGZmZTUxYmI2OTIwYWMzZTAwMWVlMzk4`

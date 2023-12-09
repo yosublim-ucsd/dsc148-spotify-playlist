@@ -4,7 +4,7 @@
 
 > Listen to the music from and inspired by Scott Pilgrim Takes Off, now streaming on Netflix.
 
-75 songs - 1 hr 49 min
+76 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Big Bad](https://open.spotify.com/track/7L3wVhRK0oqFPWxc9hdXFa) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 2:53 | 2023-11-17 |  |
 | [Billionaire](https://open.spotify.com/track/58B42tWH3Q1AeMmpjxs9aV) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:30 | 2023-11-17 |  |
 | [Blame It On The Goose](https://open.spotify.com/track/2c7cI9frjHFu3our8SChc9) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 1:23 | 2023-11-17 |  |
+| [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 | 2023-11-29 |  |
 | [Breathless](https://open.spotify.com/track/2nSaHIrBaUrfh8QU2RpxAh) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [More Fun in the New World](https://open.spotify.com/album/0av4KiOIEjud5VyXf3yyG0) | 2:18 | 2023-11-17 |  |
 | [Character Assassination](https://open.spotify.com/track/04lIEdI5TiibZGZpfLATHP) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 1:30 | 2023-11-17 |  |
 | [Date](https://open.spotify.com/track/2omFYxmdqOWLcbEb2bPwb3) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 1:20 | 2023-11-17 |  |

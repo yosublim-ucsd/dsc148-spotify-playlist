@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 109975,
       "name": "BUBBLE GREEN",
       "url": "https://open.spotify.com/track/3geCHoatBHgpCbLmittPye"
@@ -4072,7 +4072,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 192009,
       "name": "Do The Most",
       "url": "https://open.spotify.com/track/1yg9VKFZ4nAtylknE3lUHo"
@@ -4212,7 +4212,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 175536,
       "name": "Don Julio",
       "url": "https://open.spotify.com/track/3sa1dDORZBfg9x1gVOCavj"
@@ -4933,6 +4933,28 @@
     },
     {
       "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
+    },
+    {
+      "album": {
         "name": "Everything Dead",
         "url": "https://open.spotify.com/album/194pYj4CXWWsNUS8LMIWeO"
       },
@@ -5619,6 +5641,24 @@
     },
     {
       "album": {
+        "name": "FOMV",
+        "url": "https://open.spotify.com/album/3tPbnB3oONoslFV9uxSX3s"
+      },
+      "artists": [
+        {
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132723,
+      "name": "FOMV",
+      "url": "https://open.spotify.com/track/4G5wmfVLt31zCJwLFSVKOp"
+    },
+    {
+      "album": {
         "name": "Fools Fall N Love (feat.YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/0ltJlAUpxDZunfWQmFFrMp"
       },
@@ -5962,6 +6002,24 @@
       "duration_ms": 165754,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/4TZxTK5bGS8dxjLTjcQsxx"
+    },
+    {
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
       "album": {
@@ -6840,7 +6898,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 108375,
       "name": "Gun for Gun",
       "url": "https://open.spotify.com/track/6HD02KC4uZSGDOlzbUXfbx"
@@ -10919,6 +10977,28 @@
     },
     {
       "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
+    {
+      "album": {
         "name": "Vultures Don't Kry (Deluxe)",
         "url": "https://open.spotify.com/album/0P23gdec7VQ44s1dZaxWLv"
       },
@@ -11745,6 +11825,32 @@
     },
     {
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192195,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/1E8gIkkdLsCVDtMNbMpiQk"
       },
@@ -11826,6 +11932,28 @@
       "duration_ms": 119016,
       "name": "On You",
       "url": "https://open.spotify.com/track/7bk2AkYdSKrtnzq7OTgdB6"
+    },
+    {
+      "album": {
+        "name": "One Foot In",
+        "url": "https://open.spotify.com/album/6lngN4MM1P71ocrwive5Cg"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164501,
+      "name": "One Foot In (with Stove God Cooks)",
+      "url": "https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy"
     },
     {
       "album": {
@@ -12904,7 +13032,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 129229,
       "name": "Project XXX",
       "url": "https://open.spotify.com/track/35f1EXgZelEJKJPGo6VWIQ"
@@ -13134,6 +13262,28 @@
       "duration_ms": 146938,
       "name": "Put In Work (feat. Dusty Locane)",
       "url": "https://open.spotify.com/track/2VOgN0UIoBnWahApbZvyhG"
+    },
+    {
+      "album": {
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/3VLvNs02uHEhNzv49mTlQy"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Put On (feat. Icewear Vezzo)",
+      "url": "https://open.spotify.com/track/2Vyv8L8ajfQlugnyiglaB8"
     },
     {
       "album": {
@@ -13490,7 +13640,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 114000,
       "name": "Realest In The City",
       "url": "https://open.spotify.com/track/0wn43CJ1CNFYMMTnwOpIjK"
@@ -18146,7 +18296,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 119172,
       "name": "Why Would I?",
       "url": "https://open.spotify.com/track/5IN2qvFpISNge4Bed3fJz4"

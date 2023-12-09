@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Watson
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,762 likes - 83 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,819 likes - 83 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 35 | [Osanpo \- Remix](https://open.spotify.com/track/5wWoGtwYK9xhPTgHBFJ4JK) | [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [Space Dust Club](https://open.spotify.com/artist/2gzAqApojzEcGpWzvrZjRy) | [Osanpo \(Remix\)](https://open.spotify.com/album/6qSEgFsSbHoSi5LXJQp8z5) | 3:01 |
 | 36 | [Gear 5](https://open.spotify.com/track/3a3IzXws4QWyMJjpalutIi) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [SUN NO KUNI](https://open.spotify.com/album/36kBvq8ThgFCCIHuJfoPfu) | 3:46 |
 | 37 | [128 Bars](https://open.spotify.com/track/2hkOHWM4vSn29S4Pp6SlhL) | [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [NOTYPE 9](https://open.spotify.com/artist/4hj5UsmCq95ZkDfzXUx2ol) | [128 Bars](https://open.spotify.com/album/5wKICxJUmd47XwX5PGc81w) | 4:18 |
-| 38 | [insomnia world](https://open.spotify.com/track/57ScqdklA6LB7zXhweVF1c) | [Insomnia](https://open.spotify.com/artist/2sGeNPQoc4qsSOzwB2H9yf), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [ascii](https://open.spotify.com/artist/0FJAEsqXrLPtaOjr1xygEO), [YSMA](https://open.spotify.com/artist/79RbvSXUWFakY0L3LFef51) | [insomnia world](https://open.spotify.com/album/67nC7MbJUYisiKwP1WfzPv) | 2:17 |
+| 38 | [insomnia world](https://open.spotify.com/track/1uMDNdT82iN9VsfINJ7ChV) | [Insomnia](https://open.spotify.com/artist/2sGeNPQoc4qsSOzwB2H9yf), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [ascii](https://open.spotify.com/artist/0FJAEsqXrLPtaOjr1xygEO), [YSMA](https://open.spotify.com/artist/79RbvSXUWFakY0L3LFef51) | [insomnia world](https://open.spotify.com/album/5i51JypSNg66fyYkGONDCa) | 2:17 |
 | 39 | [DONZOKO](https://open.spotify.com/track/51XArAjSvrRdN1Fl2cNk0O) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [DONZOKO](https://open.spotify.com/album/71KcrHwW5XTus1EOeyFAwH) | 2:33 |
 | 40 | [RANDO](https://open.spotify.com/track/5fJZDfgIiQgjzTlRxR6Q5G) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [RANDO](https://open.spotify.com/album/4NQ2zVZ53ndO3XCMTuhOj5) | 2:26 |
 | 41 | [Mune Ni Loyalty](https://open.spotify.com/track/1SKUPtggLzRAGkoN4PmDhJ) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [ineedmorebux](https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW), [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME) | [Mune Ni Loyalty](https://open.spotify.com/album/4jZr44xKS1cDjJOo4w5PG9) | 3:16 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 82 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 | 83 | [Makuhari](https://open.spotify.com/track/6AaePXUruO3297PugyiDwT) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Makuhari](https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o) | 4:10 |
 
-Snapshot ID: `MCxjNTE0ZjFhZTRmMGNhY2ZiZGQ0YWE1YjQ0NTJjYTgwZjdhYzFiYmMy`
+Snapshot ID: `MCw1ZGI1MjcxMjhlMjIzZjFkZDE5ZmY2MTIyNWE2OTYwYTY1Y2Y3OWE1`

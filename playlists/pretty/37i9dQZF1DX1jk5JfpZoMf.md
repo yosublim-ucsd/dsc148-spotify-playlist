@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,949 likes - 275 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,945 likes - 275 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 | 274 | [Visualization Rain](https://open.spotify.com/track/2VXMXjpalNPiIc2Es3aSye) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Rain Mantra](https://open.spotify.com/album/73M4YzG8IXgcVqixgmsYU4) | 2:38 |
 | 275 | [Waves & Rain](https://open.spotify.com/track/6vfrEUYhbdQLLq2H3U5Fjs) | [Sound Designer Pro](https://open.spotify.com/artist/7JEDsx3pReEdanif7Q89KC) | [Rainy Day Rain](https://open.spotify.com/album/72Exc8Tx2dPL19X7AtieW3) | 2:46 |
 
-Snapshot ID: `MCxlYWMwMzUxOTJmOTMwNGM3NWI5MTAwODViOGU3YWUxMmM1M2E4NDg4`
+Snapshot ID: `MCw4Mzk0ZTRhODdlMTllMTJhYTdmOGFiNTM0ZGEwZjRiMTgxYjBkMWY0`

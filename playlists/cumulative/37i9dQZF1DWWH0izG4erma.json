@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "s\u00f8n of dad",
+        "url": "https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268956,
+      "name": "Cuckoo",
+      "url": "https://open.spotify.com/track/3qGtdBULj8YlGAYYrPhUJF"
+    },
+    {
+      "album": {
         "name": "On Your Time",
         "url": "https://open.spotify.com/album/52ERswZYKe68NHnMAI8AXi"
       },
@@ -1614,6 +1632,24 @@
       "duration_ms": 198591,
       "name": "Dragging Me Down",
       "url": "https://open.spotify.com/track/3jiccoy5e5npYDj8yVr5g1"
+    },
+    {
+      "album": {
+        "name": "Drunk Prayer",
+        "url": "https://open.spotify.com/album/63JXCuKtwKdcwtZchH17Cb"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Drunk Prayer",
+      "url": "https://open.spotify.com/track/7w92AueIig6NWpM8kqAwMK"
     },
     {
       "album": {
@@ -2594,7 +2630,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 240000,
       "name": "Houston",
       "url": "https://open.spotify.com/track/4PnJsoMs6wpyjLBbbsTr3l"
@@ -4290,7 +4326,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 202531,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/0nwwcVkIvLXNPwgWro38Cd"

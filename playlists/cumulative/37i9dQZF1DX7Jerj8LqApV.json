@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 241132,
       "name": "Asan Ka Na Ba",
       "url": "https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 229120,
       "name": "Dal'wang Patinig",
       "url": "https://open.spotify.com/track/1RuU3Nuwnv5RZExtG5w94l"
@@ -338,6 +338,24 @@
       "duration_ms": 321817,
       "name": "Imahe",
       "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+    },
+    {
+      "album": {
+        "name": "Isang Tingin Mo Lang",
+        "url": "https://open.spotify.com/album/33ID8iZWFWy1Vq7s6TBqEb"
+      },
+      "artists": [
+        {
+          "name": "Noah Alejandre",
+          "url": "https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186076,
+      "name": "Isang Tingin Mo Lang",
+      "url": "https://open.spotify.com/track/2UPr5h1Px0LGbgoc6X5Vnx"
     },
     {
       "album": {
@@ -558,6 +576,42 @@
       "duration_ms": 209782,
       "name": "Make It With You",
       "url": "https://open.spotify.com/track/6t4CmQGucLORsKZF4M6NNC"
+    },
+    {
+      "album": {
+        "name": "Miss Miss",
+        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265677,
+      "name": "Miss Miss",
+      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
+    },
+    {
+      "album": {
+        "name": "Moving Closer",
+        "url": "https://open.spotify.com/album/4MVrOj7WGuYoq3CA8c5A9T"
+      },
+      "artists": [
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173710,
+      "name": "Moving Closer",
+      "url": "https://open.spotify.com/track/59PCn7ObERln3cPl84CGx6"
     },
     {
       "album": {
@@ -846,7 +900,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 233023,
       "name": "Something",
       "url": "https://open.spotify.com/track/3hd1QCyMqEunjjR2D6ctPa"
@@ -904,7 +958,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 232340,
       "name": "Victim",
       "url": "https://open.spotify.com/track/7JyXUBn67ouH8RtY7sZWp9"
@@ -922,7 +976,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 208384,
       "name": "waiting 4 u (delulu)",
       "url": "https://open.spotify.com/track/2Mu4urHpPTtvH8kyVVnhje"

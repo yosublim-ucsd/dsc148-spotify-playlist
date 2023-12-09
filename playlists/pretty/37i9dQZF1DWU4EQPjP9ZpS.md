@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,430 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,610 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Summer Days](https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng) | [Trushinitas](https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI) | [Ocean Breeze](https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt) | 2:15 |
 | 100 | [Monogon](https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a) | [Vaporwave Club](https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx) | [Polygon Paradise](https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5) | 2:20 |
 
-Snapshot ID: `MCw5Y2QxODg5ZmQ5YjgzOGI5N2U3YzE1ZDY0NTQ3ZTkxYzJkNDE5M2Uy`
+Snapshot ID: `MCxhOGRiNTliMTJjOWM4ZGU4ODY4NzVlZTBlYzYzODlhYWQ5ODc0YzQy`

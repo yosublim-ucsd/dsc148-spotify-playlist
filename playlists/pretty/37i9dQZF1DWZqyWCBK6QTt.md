@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,606 likes - 150 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,693 likes - 150 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 |
 | 150 | [Sugar Man](https://open.spotify.com/track/6skjFQ6Rs3sQlE2nsIB9Nh) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux) | 4:21 |
 
-Snapshot ID: `MCxjZWZlYjk4ZGI4ZTM1YTc3ODdjMzU2YjgyMDRmNzRkYjgyZjIwZjMx`
+Snapshot ID: `MCxmMmZmMzZmZjdjYzYxYmQ2NjQzMDk1NDIzMGNlMTRhOThiNDkxMzlm`

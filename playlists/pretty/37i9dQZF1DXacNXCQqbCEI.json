@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 357465,
+  "num_followers": 357543,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2MzNjkyNDVmNGM5NmZmNzE2ZDQ5MTIwNDY3OTIxOTYxMjU1NDA4",
+  "snapshot_id": "MCxiZjY3OTE3MTQwZDVhY2Y5ZmExZjZkMjc5ZjY3MGVjNTFlNGQwNWQx",
   "tracks": [
     {
       "added_at": "2023-11-24 02:05:30",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Aurora Remixed",
         "url": "https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 254163,
       "name": "Pura Flor (El B\u00faho Remix)",
       "url": "https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -711,22 +711,6 @@
       "duration_ms": 347763,
       "name": "Siete",
       "url": "https://open.spotify.com/track/6H76nYgiuQ1BotX9hUKW6i"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Te Quiero Olvidar",
-        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -895,18 +879,26 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Conciencia",
-        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
+        "name": "Zenit & Nadir",
+        "url": "https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6"
       },
       "artists": [
         {
-          "name": "La Payara",
-          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
+        {
+          "name": "Mikongo",
+          "url": "https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45"
+        },
+        {
+          "name": "Sara Van",
+          "url": "https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Bogot\u00e1",
-      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
+      "duration_ms": 285581,
+      "name": "El Cavilante",
+      "url": "https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -931,26 +923,18 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Zenit & Nadir",
-        "url": "https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6"
+        "name": "Conciencia",
+        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
       },
       "artists": [
         {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        },
-        {
-          "name": "Mikongo",
-          "url": "https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45"
-        },
-        {
-          "name": "Sara Van",
-          "url": "https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY"
+          "name": "La Payara",
+          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
         }
       ],
-      "duration_ms": 285581,
-      "name": "El Cavilante",
-      "url": "https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst"
+      "duration_ms": 210731,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -1015,18 +999,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
+        "name": "Semillero",
+        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
       },
       "artists": [
         {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
+        {
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
         }
       ],
-      "duration_ms": 144021,
-      "name": "Agujeros Blancos",
-      "url": "https://open.spotify.com/track/7IqNYA6InoqletEJBVrgnm"
+      "duration_ms": 348009,
+      "name": "Pua",
+      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -1067,6 +1055,38 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "Ghetto Kumb\u00e9",
+        "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kumb\u00e9",
+          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
+        }
+      ],
+      "duration_ms": 255976,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "Agujeros Blancos",
+      "url": "https://open.spotify.com/track/7IqNYA6InoqletEJBVrgnm"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "Sue\u00f1o Marino",
         "url": "https://open.spotify.com/album/4Zum2b4dCeuUviiWKKMMdS"
       },
@@ -1083,22 +1103,6 @@
       "duration_ms": 181914,
       "name": "Sue\u00f1o Marino",
       "url": "https://open.spotify.com/track/0ajaJkoPOJwT3Ks3GlKQ8G"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Ghetto Kumb\u00e9",
-        "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kumb\u00e9",
-          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
-        }
-      ],
-      "duration_ms": 255976,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Horse Named Christmas",
+        "url": "https://open.spotify.com/album/78Wq9rLNmmYOToHdYGQwkw"
+      },
+      "artists": [
+        {
+          "name": "Erin Enderlin",
+          "url": "https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj"
+        },
+        {
+          "name": "Kimberly Kelly",
+          "url": "https://open.spotify.com/artist/5lXFUPKLFCgdpsP7WJ3Czc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179844,
+      "name": "A Horse Named Christmas",
+      "url": "https://open.spotify.com/track/3JnduhM1P90BlPx6AaVmwJ"
+    },
+    {
+      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/2Ke8YIg9jYWhaqhUNAWbhT"
       },
@@ -695,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/7djQadfzYqqFoggnnJiheR"
+      },
+      "artists": [
+        {
+          "name": "Emily Brooke",
+          "url": "https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245833,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/77aDdG4vLSFn4sEM3burtJ"
+    },
+    {
+      "album": {
         "name": "Holiday Road",
         "url": "https://open.spotify.com/album/7CHqXHrygge73VcQKj6Vva"
       },
@@ -1118,6 +1158,24 @@
       "duration_ms": 277552,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/24u4rA8edrSR9atuzyh91Q"
+    },
+    {
+      "album": {
+        "name": "Classic Country Christmas",
+        "url": "https://open.spotify.com/album/2oeipRRBTmA3FZBbwqLDu7"
+      },
+      "artists": [
+        {
+          "name": "Coffey Anderson",
+          "url": "https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/1basKOs1JqdhGItHhU3IHM"
     },
     {
       "album": {

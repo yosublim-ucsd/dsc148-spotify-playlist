@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,399 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,645 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 99 | [Purple Moon](https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L) | [Ilgen\-Nur](https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX) | [Purple Moon](https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4) | 3:17 |
 | 100 | [Sour](https://open.spotify.com/track/0D7DZCT5CuzzwcVY2Dkuxk) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Sour](https://open.spotify.com/album/5P6X6QiReluxDWc7Xp0dKp) | 2:33 |
 
-Snapshot ID: `MCw5NThmMjE5ZGM2NWEwMDY0MjNkYTBkYTBhZmFlMjhkZTRiOTdiOGZk`
+Snapshot ID: `MCxjNzQ0ODhhZDJmY2E5NWYwZmQ2ODQwZjY1ZTA1MWVjZWY3ZGI1ZTAx`

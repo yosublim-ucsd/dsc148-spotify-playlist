@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Songs so beautiful, made for the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,861 likes - 90 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,167 likes - 90 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 13 | [ain't the same](https://open.spotify.com/track/36HiyxDVheJRnCDhJk73Um) | [Lwny](https://open.spotify.com/artist/0nwK1tWueQUPpKudMyAArz) | [ain't the same](https://open.spotify.com/album/5FZolbTrLLPuvTPoVKidJW) | 4:24 |
 | 14 | [If U Ever](https://open.spotify.com/track/4VIdv8msCE1hSUKHiEyodG) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/10jrrIHBximrLnUQIEyajM) | 4:48 |
 | 15 | [Take Flight](https://open.spotify.com/track/34eW8CuvTJoxdbzy0diSpG) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Take Flight](https://open.spotify.com/album/2Vmp8gBL6Lnc7XoQDrJFkD) | 4:34 |
-| 16 | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/album/2AaQrVHf965fI2uPLXdGF4) | 4:28 |
+| 16 | [Ready For You \(feat\. Celeste\) \(feat\. Celeste\)](https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/38HQUXPU9vnrA8TbkUtTIQ) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 4:28 |
 | 17 | [Touch](https://open.spotify.com/track/2jtlU6H5C9WFB0x72f6YGo) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Elements](https://open.spotify.com/album/10F2GXUHZjSzWpOcX0aoNR) | 5:13 |
 | 18 | [Heaven](https://open.spotify.com/track/3PKd9beBPjwU9RP7e1Bvke) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Heaven](https://open.spotify.com/album/3mjRL9Jz75UKCzwIvXH2DB) | 3:21 |
 | 19 | [Lone Raver](https://open.spotify.com/track/3557dpMjGiydWbB98MT6H5) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 4:17 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 34 | [Half of Mine](https://open.spotify.com/track/0jk9fGjCcebNf4TfrJBMl0) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Tarian](https://open.spotify.com/artist/7h5vyR4LxVT0UZLBMcT59P) | [Half of Mine](https://open.spotify.com/album/5vn826N8Fxt4E0DKvEnwX6) | 2:58 |
 | 35 | [JOY \(Overcome\)](https://open.spotify.com/track/5jDR7oIt1Ibz0xuZRhJuAf) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Overcome\)](https://open.spotify.com/album/5UqtSRZcARg0vpN4SZvO5I) | 3:36 |
 | 36 | [Love Me, Haunt Me](https://open.spotify.com/track/0y1nYb8VBwGNy8WfDZs2iQ) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH) | [Love Me, Haunt Me](https://open.spotify.com/album/4ns9URhZwLURgevUkZhxye) | 4:09 |
-| 37 | [You and Me](https://open.spotify.com/track/2RuOeqFMhuYLVGbgGPQx2l) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:54 |
+| 37 | [You and Me](https://open.spotify.com/track/58K9hOJ2NmtcNywdFIy1AL) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Souls](https://open.spotify.com/album/6h8evmiksmB6ZAXzg2ebQR) | 3:54 |
 | 38 | [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 |
 | 39 | [FHKD](https://open.spotify.com/track/4XpLwRcfumQsZ0IxDNOP3f) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:29 |
 | 40 | [Need You](https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Need You](https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF) | 3:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 89 | [Sacred](https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 5:47 |
 | 90 | [Little Girl](https://open.spotify.com/track/6MWW1R6QcvgZOJ27ANqb9j) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/3vwyoOkfnsK1cr4kIknmnz) | 4:12 |
 
-Snapshot ID: `MCxmY2U1NDBhMDg5NGIyNTJkNjA3M2I0NmNlNDNlNGM3YWYyOGFjNDc1`
+Snapshot ID: `MCxkYzNkZWZjMDQxMjQyNzZmY2RmNjIyOWQ5ZWNlNDkxNGI1NjQzMjk0`

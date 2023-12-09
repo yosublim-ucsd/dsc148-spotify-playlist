@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,134 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,129 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 32 | [Osaka Dreams](https://open.spotify.com/track/7HxJ4o4dId4o21IjTpS7GJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l) | [Osaka Dreams](https://open.spotify.com/album/38tKGDcaJUmRh1C5hxV0kS) | 1:49 |
 | 33 | [Trip to nowhere](https://open.spotify.com/track/3coM0MQwvOgwAx2Lndy3PC) | [DJ Ryow a.k.a\. Smooth Current](https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy), [Kenichi Fukushima](https://open.spotify.com/artist/1DyrMs3GFURTTbnF7lGtVc) | [Trip to nowhere](https://open.spotify.com/album/5M7bZFaERTCVnXLONy7BSb) | 3:06 |
 | 34 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 |
-| 35 | [Talking to myself](https://open.spotify.com/track/1XgT7W3POsztEoqVtaCbvV) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Talking to myself](https://open.spotify.com/album/6sRCDTfsRwOsQpb6Aj1HOu) | 2:14 |
+| 35 | [Talking to myself](https://open.spotify.com/track/2acpp6BCVP0UPbnzT4UCWi) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Talking to myself](https://open.spotify.com/album/0qLqN0c0XOXrBVZaf1nLv8) | 2:14 |
 | 36 | [Hey](https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Hey](https://open.spotify.com/album/4oe6eDcPo0sLyEpnyXEeRx) | 2:09 |
 | 37 | [touch](https://open.spotify.com/track/4N9k6Nklzns7QzslAABaTq) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/0Y8r76clygH0KolOk3ohpR) | 1:28 |
 | 38 | [Arayashiki](https://open.spotify.com/track/0XWQDqYLIVz9maYrUGNYQ7) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [That's Life](https://open.spotify.com/album/2RjG0cRdZWlSOTakPbKxB6) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 |
 | 100 | [Keyframe](https://open.spotify.com/track/3zUPEfda1zsGBQ8ODoJozL) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Keyframe](https://open.spotify.com/album/2DVMwBgoDdVVvDdagyeEmk) | 2:00 |
 
-Snapshot ID: `MCw3YTJkZDBkYTkyOWQyYWEyZGUzMDY5ZmI1NjhmYjU5YmZiMjc1ZGE1`
+Snapshot ID: `MCxlMjEzZjQ2MmEwNDM2YjU3Mjc4OTQ4MjE4OGIzNGVlMzFlYmY0YTE0`

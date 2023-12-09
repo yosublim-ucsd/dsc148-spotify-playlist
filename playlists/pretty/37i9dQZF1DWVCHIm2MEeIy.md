@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,210 likes - 70 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,338 likes - 70 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Night Wire](https://open.spotify.com/track/2gbRYQwkLSu7I3lF08WoiZ) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Night Wire](https://open.spotify.com/album/6s6EzpFNC2zY0lL1VqoBuG) | 3:17 |
 | 70 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
 
-Snapshot ID: `MCwyZTVjZTRlOWQ1YzNhM2Q5NTE3ODZlNGI5MTliNjQ4N2ZhZWM4NDAy`
+Snapshot ID: `MCw2OWVjM2QyMjQ4NDJlMjJjMTAzMjYxOGRiNzBlODViMWY1YTJkNTRj`

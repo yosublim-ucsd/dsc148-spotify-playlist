@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from Blxckie\(pictured\), Shane Eagle, Offset, Drake, and more...
+> Only the hottest Hip Hop from Nasty C and ODUMODUBLVCK \(pictured\), Offset, Blxckie, Drake, and more...
 
-245 songs - 13 hr 21 min
+247 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Forever \(feat\. Fridayy\)](https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:47 | 2022-10-21 | 2022-11-18 |
 | [Freestyle](https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:42 | 2023-02-23 |  |
 | [From Nothing](https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [From Nothing](https://open.spotify.com/album/1aDPMtE5pS8cNUKC3FnoIH) | 2:49 | 2022-09-28 | 2022-11-04 |
+| [Fuck That \(feat\. ODUMODUBLVCK\) \- Remix](https://open.spotify.com/track/2sKuOOhxWpXOTDcKiTitc9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Fuck That \(Remix\)](https://open.spotify.com/album/2ZlSnhUh40vj76xvWw0ijr) | 3:25 | 2023-12-08 |  |
 | [Fuck The Girls \(FTG\)](https://open.spotify.com/track/6DOphQTeNmy1gk3um8sPYC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:32 | 2023-09-22 | 2023-09-30 |
 | [FUCK THE WORLD!](https://open.spotify.com/track/7mJg58d7kPdTlukVXGXZHf) | [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [FUCK THE WORLD!](https://open.spotify.com/album/5dhRqFNRXk9Y6hYvdXxVs7) | 2:17 | 2022-08-29 | 2022-11-04 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-06-23 |  |
@@ -111,6 +112,7 @@
 | [I Aint Got The Answers](https://open.spotify.com/track/4JrBckJi6ntTg2883PLOFD) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Ginger Trill](https://open.spotify.com/artist/6RBOLfqkI4jKZxRw2X89rI) | [I Ain't Got The Answers](https://open.spotify.com/album/7FvIp2G42YVskYHRbvoWBy) | 4:20 | 2023-11-23 |  |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-09-22 |  |
 | [I'll Always Have Me](https://open.spotify.com/track/21IPXg9zJBfJRPzwMuVjpN) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Veena](https://open.spotify.com/artist/4hSFcNs4ESZUO7f4LDYqOn) | [S.O.O.N 2 \(A Better Year\) \[Deluxe Edition\]](https://open.spotify.com/album/6Xp9Tw8YX3689PRvd23Rl6) | 5:00 | 2023-01-23 | 2023-02-24 |
+| [IDGAF](https://open.spotify.com/track/5w7NisdsB4ixAUNfC0eCPf) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [IDGAF](https://open.spotify.com/album/2UQnTNhYkgv8JGzT8hc5Ss) | 2:39 | 2023-12-08 |  |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-02-23 | 2023-03-07 |
 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 | 2022-11-10 | 2023-03-11 |
 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-09-22 |  |

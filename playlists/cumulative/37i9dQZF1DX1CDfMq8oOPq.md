@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: Karol Conka, Tasha & Tracie
 
-199 songs - 9 hr 28 min
+200 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Linda, Chique, Sexy & Braba](https://open.spotify.com/track/1JwSUCeNoLgqb5rTUIbA3W) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [Linda, Chique, Sexy & Braba](https://open.spotify.com/album/3MFToXYZ3DfGpJqUEp5maK) | 2:44 | 2022-03-11 | 2022-04-23 |
 | [Linha Torta](https://open.spotify.com/track/1jp3ua6XiMziN3PbDBKMuA) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:08 | 2023-11-17 |  |
 | [Louca e Sagaz \(feat\. WC no Beat\)](https://open.spotify.com/track/5EpPmsMyOYId0GzjXdr5bX) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Louca e Sagaz \(feat\. WC no Beat\)](https://open.spotify.com/album/0iCw4A5XxTUq6T3wc8tHlj) | 3:13 | 2022-03-11 | 2022-06-25 |
-| [Loucona de Toddyn](https://open.spotify.com/track/3ix7zsFUG6OAW7QMjZbgns) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Loucona de Toddyn](https://open.spotify.com/album/0OTEIZb8v2VfSKwLZ06MgD) | 2:18 | 2023-10-13 |  |
+| [Loucona de Toddyn](https://open.spotify.com/track/3ix7zsFUG6OAW7QMjZbgns) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Loucona de Toddyn](https://open.spotify.com/album/0OTEIZb8v2VfSKwLZ06MgD) | 2:18 | 2023-10-13 | 2023-12-09 |
 | [MACETAH! \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/track/6uFXQbkmMG0rI7D03tktCV) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [MACETAH! \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/album/3VuOEKHPWAlU5MJvimXx0A) | 3:40 | 2022-03-11 | 2022-04-29 |
 | [MADDY](https://open.spotify.com/track/0sTU2re42O2KQGpyqK7ngN) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [MADDY](https://open.spotify.com/album/2JQSEpZshZaAqlFyySYtu6) | 2:26 | 2023-10-20 |  |
 | [Malandrona](https://open.spotify.com/track/5CNE1OG4dUufkO8NrKlfxF) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Malandrona](https://open.spotify.com/album/2zMrmtd5uzAjLO83Fr2pVc) | 3:24 | 2022-03-11 | 2022-10-15 |
@@ -140,6 +140,7 @@
 | [Oompa Loompa](https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 3:14 | 2023-10-06 | 2023-11-25 |
 | [Oompa Loompa](https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Oompa Loompa](https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M) | 3:14 | 2022-06-24 | 2023-10-11 |
 | [Outro Som de Sacanagem](https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Outro Som de Sacanagem](https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh) | 1:55 | 2023-11-10 |  |
+| [Owens](https://open.spotify.com/track/16yrHiZiZPsNlWVAHE94pT) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [BIG CA$H](https://open.spotify.com/album/1XVJWUfSwdUuOicmgjYd1m) | 2:24 | 2023-12-08 |  |
 | [Papo Reto](https://open.spotify.com/track/51KzKfcPELW9rrWi3Rxfll) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Papo Reto](https://open.spotify.com/album/0IIF5iRrk0Xc0spUkT2lzi) | 2:40 | 2022-03-11 | 2022-04-02 |
 | [Pele.](https://open.spotify.com/track/0gDMh0AU5u9QDmZqRNLvHo) | [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Pele.](https://open.spotify.com/album/3SnK4T0S2TShoO0WTTGK9K) | 3:25 | 2022-03-11 | 2022-06-04 |
 | [Pensamentos Intrusivos](https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:13 | 2023-10-20 |  |

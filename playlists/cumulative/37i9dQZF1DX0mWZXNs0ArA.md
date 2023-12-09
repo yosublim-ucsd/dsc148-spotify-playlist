@@ -4,7 +4,7 @@
 
 > 150%
 
-285 songs - 12 hr 23 min
+287 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Murder In My Mind \- Sped Up](https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind \(Sped Up\)](https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ) | 1:55 | 2022-07-22 |  |
 | [My Bed \- Sped Up](https://open.spotify.com/track/5LzjICdYWEDS6VhkRBzpAj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [My Bed \(Sped Up\)](https://open.spotify.com/album/55jmaAhuVFxWXnRoq4Y5MV) | 2:16 | 2023-02-03 | 2023-04-04 |
 | [Need 2 \- fast pinegrove](https://open.spotify.com/track/5v6DitH5Jdmm3L2WryVsl7) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Need 2](https://open.spotify.com/album/2uN1p9u0v9lA3PH4pyxygn) | 2:37 | 2023-06-16 | 2023-11-17 |
+| [Never Let Go \(Of Me\) \- Sped Up](https://open.spotify.com/track/14903RK7FPQAptnH3aSbSb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:23 | 2023-12-08 |  |
 | [nina \(sped up\)](https://open.spotify.com/track/0OvIG0LWT4Wu21PR5plYL8) | [4everd4nny](https://open.spotify.com/artist/5ycCQZx5Go6Hqcg1iHzsdu) | [nina](https://open.spotify.com/album/45XlVtRzkFnM59zSqj5Mfi) | 1:15 | 2022-06-09 | 2022-12-14 |
 | [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 | 2022-06-09 | 2022-12-14 |
 | [No Wind Resistance SPED UP!](https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq) | [Kinneret](https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ) | [No Wind Resistance SPED UP!](https://open.spotify.com/album/5QOIpTHNCMfnDJSXU2pCv1) | 2:45 | 2022-12-12 | 2023-11-17 |
@@ -203,6 +204,7 @@
 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 | 2023-07-21 | 2023-11-17 |
 | [One Kiss \- Sped Up](https://open.spotify.com/track/7zjeayoF3ziY3Hu3xdKQKr) | [DJ Tec](https://open.spotify.com/artist/6Ydp8ZG2TzDyUnJctruKiC), [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [One Kiss \(Sped Up\)](https://open.spotify.com/album/0RJnMCSv4HmIE42Xieb8RR) | 2:43 | 2023-01-27 | 2023-04-14 |
 | [One Kiss \- Sped Up](https://open.spotify.com/track/0GAiKtdJPxIZBMooHqLsuN) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [One Kiss \- Sped Up](https://open.spotify.com/album/7rpvJbNeNjGPE1yjFhu5cM) | 2:43 | 2023-01-27 | 2023-03-27 |
+| [One Of Your Girls \- Sped Up](https://open.spotify.com/track/3aP1ep4PqgP5IPXUdPsxD5) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [One Of Your Girls \(Sped Up\)](https://open.spotify.com/album/48cK704EMiYSveyWWCST4j) | 2:36 | 2023-12-08 |  |
 | [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 | 2022-08-05 |  |
 | [Out thë way \- sped up version](https://open.spotify.com/track/6B5pdKWob9kjr0WpjJkVVD) | [Yeat sped up](https://open.spotify.com/artist/1Bb7MWbSKAtxBl436nDnlS) | [Out thë way \(sped up version\)](https://open.spotify.com/album/1SS5Pz4SRRSiPCOrqjEKSn) | 2:05 | 2022-12-14 | 2023-08-16 |
 | [Over \- Sped Up](https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over \(Sped Up\)](https://open.spotify.com/album/5Y2tMLWU1OuAS7MYOKORJy) | 2:50 | 2022-06-09 | 2023-04-29 |

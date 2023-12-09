@@ -1,13 +1,45 @@
 {
-  "description": "Explore all things indie rock right now. Featuring new music by Slow Pulp",
-  "num_followers": 843392,
+  "description": "Explore all things indie rock right now. Featuring new music by Real Estate",
+  "num_followers": 843412,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDgxNjNjNzc1NDk1ODA3ZDZiNzRkNTRkZDVkNDIyY2FhZDk4ZDY2",
+  "snapshot_id": "MCxkYTVlZmJmNGJmMTE2ZDIwNDQxMzgxMGI4NGJkZmM3ODQwNTM0MDY1",
   "tracks": [
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Heading For The Door",
+        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Heading For The Door",
+      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "u come near",
+        "url": "https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "u come near",
+      "url": "https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN"
+    },
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
@@ -25,6 +57,54 @@
       "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "EP IV",
+        "url": "https://open.spotify.com/album/1NBvOzOE6BDw0yCOyTUvIM"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 213002,
+      "name": "KPR",
+      "url": "https://open.spotify.com/track/1JhA5lyvVDg1fmsqsZdd0Z"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Love To Walk Away",
+        "url": "https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 127474,
+      "name": "Love To Walk Away",
+      "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Wanna",
+        "url": "https://open.spotify.com/album/5ziaDeu4Ulk0MkIujM5Fw8"
+      },
+      "artists": [
+        {
+          "name": "Paul Dally",
+          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
+        }
+      ],
+      "duration_ms": 153492,
+      "name": "Wanna",
+      "url": "https://open.spotify.com/track/5FxmV25XctzXjuHNaQPpBz"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Yard",
@@ -39,6 +119,22 @@
       "duration_ms": 246426,
       "name": "MUD",
       "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Woolgathering",
+        "url": "https://open.spotify.com/album/23MLPEeA9PvusSP1iCdsEQ"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "duration_ms": 187442,
+      "name": "Woolgathering",
+      "url": "https://open.spotify.com/track/7Ft23DcwyyiTeuiNvXyrSf"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -103,22 +199,6 @@
       "duration_ms": 261760,
       "name": "Bubblegum Dog",
       "url": "https://open.spotify.com/track/5MHNVfob6U5PBe8y15A4MG"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Woolgathering",
-        "url": "https://open.spotify.com/album/23MLPEeA9PvusSP1iCdsEQ"
-      },
-      "artists": [
-        {
-          "name": "mercury",
-          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
-        }
-      ],
-      "duration_ms": 187442,
-      "name": "Woolgathering",
-      "url": "https://open.spotify.com/track/7Ft23DcwyyiTeuiNvXyrSf"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -571,22 +651,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Say It Like You Mean It",
-        "url": "https://open.spotify.com/album/60Dn3hJOYD75S9SahrlWp9"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "Say It Like You Mean It",
-      "url": "https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Sophie",
         "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
       },
@@ -807,22 +871,6 @@
       "duration_ms": 268586,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/3Y7aoI9rr7TqA2ONaIHgB9"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Cartwheel",
-        "url": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz"
-      },
-      "artists": [
-        {
-          "name": "Hotline TNT",
-          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
-        }
-      ],
-      "duration_ms": 162032,
-      "name": "Stump",
-      "url": "https://open.spotify.com/track/2HYNOLnG9RhqqPKAmYncek"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1287,22 +1335,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Cousin",
-        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 251386,
-      "name": "Levee",
-      "url": "https://open.spotify.com/track/3LjINbaBQeitJZD36pVdP4"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Ultrapure",
         "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
       },
@@ -1467,26 +1499,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Dark Prince (feat. Mac DeMarco)",
-        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 214356,
-      "name": "The Dark Prince (feat. Mac DeMarco)",
-      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "zzz",
         "url": "https://open.spotify.com/album/4gklfgELi4bE9MhaPe9PDF"
       },
@@ -1627,22 +1639,6 @@
       "duration_ms": 242906,
       "name": "The Freedom to Fuck Off",
       "url": "https://open.spotify.com/track/2DTRZKLOfm8BQOdNljrF7K"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 家主
 
-1,094 songs - 2 day 20 hr 2 min
+1,096 songs - 2 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Heart Out](https://open.spotify.com/track/5v4rT0n41XtkhHSaP5wSzl) | [Charlotte is Mine](https://open.spotify.com/artist/4qjYirCZfhEHkaixuexPTV) | [Heart Out](https://open.spotify.com/album/4Hy9cLV06yCCttpjFtClv8) | 2:44 | 2023-01-12 | 2023-01-25 |
 | [Heaven](https://open.spotify.com/track/7iA5JECof3LNeKOJjJjV3j) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [GuruConnect](https://open.spotify.com/artist/5RDnewAvgHZQ5gCf1h74kF) | [Heaven](https://open.spotify.com/album/4Or4MgaVHzMxr8Q6jMRko0) | 3:27 | 2023-01-12 | 2023-03-18 |
 | [Height](https://open.spotify.com/track/6EygYVTCRzcPk1djzLQoqT) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Height](https://open.spotify.com/album/49JJC4xVS7urfzqvxtLgXX) | 3:27 | 2023-03-28 | 2023-04-05 |
+| [Hello Goodbye](https://open.spotify.com/track/4ZlxrxzTA8yw2tO8AkT6gr) | [Superyou](https://open.spotify.com/artist/1jXQ438KxFz6ShKWTkXoMh) | [Hello Goodbye](https://open.spotify.com/album/7D3phVXDzH9Vj85uue6txn) | 3:54 | 2023-12-07 |  |
 | [HENSHIИ](https://open.spotify.com/track/1wCAizrOQ9SaVgQpPEpQvN) | [Mlle.](https://open.spotify.com/artist/5vZykXr0Y9ms4Rz4hFE7ZW) | [HENSHIИ](https://open.spotify.com/album/7CoWMZ2wbjxtHhm87yDjV4) | 3:32 | 2023-01-17 | 2023-01-25 |
 | [Here I Stand](https://open.spotify.com/track/1xmcCam3mEi2Tmajwkdt6X) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/1RY9bS3e6w4akVpgedsXNH) | 6:50 | 2023-02-21 | 2023-03-08 |
 | [hey dad you sent me postcards](https://open.spotify.com/track/5ffw9FBlKKv6wqvKkV6SoR) | [Wang\-Wang\(旺旺\)](https://open.spotify.com/artist/3P5cZnDKVRP2tcYJ7GHDuD) | [Arrow](https://open.spotify.com/album/0Rv1EUFlf1xPlejjgOnYod) | 4:27 | 2023-01-12 | 2023-02-08 |
@@ -308,6 +309,7 @@
 | [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 | 2023-01-12 | 2023-05-30 |
 | [In Crossing](https://open.spotify.com/track/7fzC8IP1IbYvuhgMxRBlrY) | [togaru](https://open.spotify.com/artist/3lCZbOLryImbqSIs87DKJA) | [Togaru to Rasen.](https://open.spotify.com/album/3cfCCF47aaXjD3l8YB5GtF) | 4:02 | 2023-03-23 | 2023-03-29 |
 | [Inclusion & Groove](https://open.spotify.com/track/1SQLv9kx6RzfQZulYRICcu) | [GAME CENTER & Future Brothers](https://open.spotify.com/artist/5KmK4SkU5gy76btbPAuS1q) | [Inclusion & Groove](https://open.spotify.com/album/0yC2V4EQMpoMbJuyoYEpFz) | 3:31 | 2023-01-31 | 2023-03-29 |
+| [Intruder](https://open.spotify.com/track/6ksDpdIAvw6tXUV8oKEYIx) | [Petrolz](https://open.spotify.com/artist/1DI7HK9920SYDDcxXPWeWw) | [Ranhansha](https://open.spotify.com/album/0lKwDRBDmPOZCDfkIASQg2) | 4:58 | 2023-12-07 |  |
 | [INU](https://open.spotify.com/track/26UKmLKURjKwYa8wUBSDmp) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [到底及ばない](https://open.spotify.com/album/2ZGZrYV9cyqiG6YQKiIudt) | 4:11 | 2023-10-31 | 2023-11-29 |
 | [irk](https://open.spotify.com/track/1v5w6qzUug2apEg3PUsOY7) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [WH3Nwh3re](https://open.spotify.com/album/6gwVTUoyp5t5FY9NE17oHx) | 3:44 | 2023-03-21 | 2023-03-29 |
 | [ISEI \- Live](https://open.spotify.com/track/5yqfQrV58tECLnLjus0rHr) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [ISEI \(Live\)](https://open.spotify.com/album/0R0u6CpTlOXPtwmO7AS4iz) | 4:13 | 2023-08-01 | 2023-08-16 |
@@ -843,7 +845,7 @@
 | [ハッピースター](https://open.spotify.com/track/0NuNbA26R8KV5p0biOFqhJ) | [メとメ](https://open.spotify.com/artist/66yrLdRscnShf6ZIKqUltg) | [1st Single](https://open.spotify.com/album/5GB1jFBogsf27sIGcRhb5a) | 1:37 | 2023-02-28 | 2023-03-15 |
 | [ハニーとマスタード](https://open.spotify.com/track/5Old3zhCyVtgPCArANiMNw) | [The Whoops](https://open.spotify.com/artist/0wNomLWF4Yg4XN2hHlP3Cz) | [ハニーとマスタード](https://open.spotify.com/album/5fJw0wUOt9yesE75myJFNV) | 1:56 | 2023-01-31 | 2023-02-02 |
 | [ハルケシ](https://open.spotify.com/track/35r5R6H2wyjkOsbvGh0YiX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハルケシ](https://open.spotify.com/album/5WLYwlMKYlv33hNEooeGy4) | 3:53 | 2023-05-23 | 2023-08-02 |
-| [ハローグッバイ](https://open.spotify.com/track/6hZgLEX5jzfqBp0BChLQWu) | [Superyou](https://open.spotify.com/artist/1jXQ438KxFz6ShKWTkXoMh) | [ハローグッバイ](https://open.spotify.com/album/3JALtJ8IidOz0sCmsX96Bk) | 3:54 | 2023-12-07 |  |
+| [ハローグッバイ](https://open.spotify.com/track/6hZgLEX5jzfqBp0BChLQWu) | [Superyou](https://open.spotify.com/artist/1jXQ438KxFz6ShKWTkXoMh) | [ハローグッバイ](https://open.spotify.com/album/3JALtJ8IidOz0sCmsX96Bk) | 3:54 | 2023-12-07 | 2023-12-09 |
 | [バケーションに沿って](https://open.spotify.com/track/0CnzkJ43YQpKu7IbBFxwvd) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [バケーションに沿って](https://open.spotify.com/album/6kmhdz9RBc5dfXl0vXEHSX) | 3:16 | 2023-07-18 | 2023-09-24 |
 | [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 | 2023-11-07 |  |
 | [バッドデイズ・オンファイヤー](https://open.spotify.com/track/6XuHRXgiGEpxs03w47OGy1) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [バッドデイズ・オンファイヤー](https://open.spotify.com/album/7I0ezrFRdXuNBD2C0Hp5p2) | 2:16 | 2023-10-24 | 2023-10-26 |
@@ -1080,7 +1082,7 @@
 | [金星](https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [金星](https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0) | 3:37 | 2023-09-05 |  |
 | [鏡](https://open.spotify.com/track/12fp45tYJPBSXskUcDIOsV) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [馬](https://open.spotify.com/album/7hBlB0CWXZb3Eti75HJNT6) | 3:57 | 2023-10-17 | 2023-11-29 |
 | [関係](https://open.spotify.com/track/4cU8UnedtX81snnj9UM46H) | [Tocago](https://open.spotify.com/artist/5WYxT3w8PntFhAJC48Y7oc) | [関係](https://open.spotify.com/album/0foZAfsPEa4YAZCf6WoahF) | 2:56 | 2023-07-18 | 2023-07-26 |
-| [闖入者](https://open.spotify.com/track/1ZtYHdhncrvnrm6wMrhk7s) | [Petrolz](https://open.spotify.com/artist/1DI7HK9920SYDDcxXPWeWw) | [乱反射](https://open.spotify.com/album/6sdDF0mmlJudW83EA8XYnm) | 4:58 | 2023-12-07 |  |
+| [闖入者](https://open.spotify.com/track/1ZtYHdhncrvnrm6wMrhk7s) | [Petrolz](https://open.spotify.com/artist/1DI7HK9920SYDDcxXPWeWw) | [乱反射](https://open.spotify.com/album/6sdDF0mmlJudW83EA8XYnm) | 4:58 | 2023-12-07 | 2023-12-09 |
 | [阿佐ヶ谷音頭](https://open.spotify.com/track/7KwB5s3fkbGVglP4bnrzLs) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [阿佐ヶ谷音頭](https://open.spotify.com/album/7LCH6Fs2vYeSiNvoP9wRCU) | 3:26 | 2023-07-04 | 2023-07-12 |
 | [陽だまり](https://open.spotify.com/track/2qoykjvBYWN3ZdfO7DCffb) | [波のよう](https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ) | [陽だまり](https://open.spotify.com/album/5R7hDgqqACspHDN2hXs1WN) | 5:00 | 2023-06-13 | 2023-06-21 |
 | [離島](https://open.spotify.com/track/3MCtCWgoMP3E8iRZQ6kGV2) | [須藤寿 GATALI ACOUSTIC SET](https://open.spotify.com/artist/7J2esCjHEGAabGs2OzYcvr) | [離島](https://open.spotify.com/album/5ySbpAvgUG6QZyiE1TOUnX) | 4:01 | 2023-06-27 | 2023-07-05 |

@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-117 songs - 9 hr 2 min
+118 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [the sea and a pearl](https://open.spotify.com/track/0m7O37bxQV9y1AS9afCVD0) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [the sea and a pearl](https://open.spotify.com/album/7mzVjw02rCoOluqsnhboJ8) | 4:39 | 2022-02-28 | 2023-04-15 |
 | [the sea and a pearl \(Japanese Ver\)](https://open.spotify.com/track/3xsyanQ2qccUr6HVd48jc5) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 4:39 | 2022-02-28 |  |
 | [the world](https://open.spotify.com/track/3JTzSjvoNTfVRYoW9hMf5R) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK1](https://open.spotify.com/album/2lA3xStYGlHINVKyab7pAl) | 5:03 | 2022-02-28 |  |
+| [the world](https://open.spotify.com/track/03wGNAgIlaNUfGOLB8lpcA) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [30th Anniversary Early BEST Collection for Soundtrack](https://open.spotify.com/album/59JBJQI8lO2ltdMWICPdFe) | 5:05 | 2023-12-05 |  |
 | [to the beginning](https://open.spotify.com/track/3UqqDey54pOsAc31ZnXL0y) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/5QI1q4o2LJ4UpbgesVfBcL) | 4:16 | 2022-02-28 | 2022-07-29 |
 | [to the beginning](https://open.spotify.com/track/5aZYyAIBmLSXTlez59ZvZ7) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/6wUa2X4ZWE82DSpCn6zNsb) | 4:16 | 2022-02-28 |  |
 | [to the beginning](https://open.spotify.com/track/7Fn39khTcovMslPdNxx7b8) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 4:17 | 2022-02-28 | 2022-11-13 |

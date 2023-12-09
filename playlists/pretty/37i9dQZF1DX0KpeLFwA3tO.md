@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: BIG SPECIAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,269 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,327 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 43 | [april's](https://open.spotify.com/track/2GPtEQJmB9Ipn9gQVhKI4k) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [something4now](https://open.spotify.com/album/5gJWaMnvdKsuDYUWPEDpgj) | 3:23 |
 | 44 | [World In Disguise](https://open.spotify.com/track/20ooL92gUFrwz5AwSGEjNy) | [Death](https://open.spotify.com/artist/6GLYG6CiVx1P5D8Qa6Ulyo) | [Death / Rough Francis Split](https://open.spotify.com/album/5XqnnBCg7g7DQcjPYYn2aq) | 2:26 |
 | 45 | [Refuse the Rules](https://open.spotify.com/track/6q5lmTclsSZqUHcX4ovGBy) | [pink suits](https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL) | [Refuse the Rules](https://open.spotify.com/album/0eCGoIXdYOw4m8bIgHvopI) | 1:38 |
-| 46 | [Stitched Up](https://open.spotify.com/track/5wNDcjt9d5ec3JMPIjtr4d) | [Beerwolf](https://open.spotify.com/artist/3B1fGSgxcPnDHGEloDLyi5) | [Stitched Up](https://open.spotify.com/album/3dlGaTZXRlhA2NVopLPuyo) | 3:07 |
+| 46 | [Stitched Up](https://open.spotify.com/track/4Ggs9ddCiXMhjSYmvBBUuU) | [Beerwolf](https://open.spotify.com/artist/3B1fGSgxcPnDHGEloDLyi5) | [Common Grief](https://open.spotify.com/album/74P1BOFZGOxKgtaXnO7NJw) | 3:07 |
 | 47 | [Mirror Game](https://open.spotify.com/track/6yqxM7jzslZdhNzUHvb8YG) | [Aversions](https://open.spotify.com/artist/65fB37pXWPMPJrNg1ZJOpR) | [Mirror Game](https://open.spotify.com/album/2xLjjPv1UimaUAeBqUQCvE) | 2:54 |
 | 48 | [Lip](https://open.spotify.com/track/49KU7hgM1KD3py8fNAAkPG) | [Mama Zu](https://open.spotify.com/artist/6OG25jh0gJ5FaFhw39eX2y) | [Lip](https://open.spotify.com/album/5PvUkKp9ifL4RpUcKjtHoQ) | 3:04 |
 | 49 | [Famous](https://open.spotify.com/track/3PEAEm9CRz5ME4Zt6AnZmK) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Famous](https://open.spotify.com/album/5seaTIXtd8jOpbQDqa5qIs) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Identical Days](https://open.spotify.com/track/4hrptHq1WUVnUIsZpyt3YE) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Identical Days](https://open.spotify.com/album/519UtOzExBjOwddalv1eJL) | 3:04 |
 | 100 | [Try](https://open.spotify.com/track/1isiUXaYArJVAFe2f6vRPt) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:57 |
 
-Snapshot ID: `MCwzMzY1Njk5N2IwODE5M2U0YWJmNWI3NmIzNWQwYzJjYzgxMjcyMjQ4`
+Snapshot ID: `MCxmNjk2ZjBlMzUzNDk3NTc4MDczOTIxZTU2OTMwOGRmMDEzMTI0NWY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,756 likes - 75 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,913 likes - 75 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 74 | [Tembo](https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Humanidad](https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6) | 8:41 |
 | 75 | [Soul](https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Aitor González](https://open.spotify.com/artist/2n5l3m6thhRJvYEpn99r3a), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Soul](https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP) | 7:29 |
 
-Snapshot ID: `MCw2NWQ4MDM5Yzk2NDQzMWNjYjNkMjIxZWJiOWQ1MjY1ZWRjNTg4YzI1`
+Snapshot ID: `MCwwMjUxYzUwYjA5YjNmOWUyNGJlNTdlZDVkMzFhNGVlNzcxMGU5YzJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,384 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,392 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 9 | [My Life](https://open.spotify.com/track/4AT8VJdq0SHvBPRdACc9Oc) | [Kholi](https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze) | [My Life](https://open.spotify.com/album/1FoaE6WIwzaif4jyMkmNK9) | 2:50 |
 | 10 | [Henny Talk](https://open.spotify.com/track/468SYRGypmd3GEQuTrMOiN) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Henny Talk](https://open.spotify.com/album/0r1Eqg2JzE6gPXxjoIj1VT) | 2:56 |
 | 11 | [Mad](https://open.spotify.com/track/1XADbL6VwPL1rqXBVOszfG) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Mad](https://open.spotify.com/album/24Liy9BnSbQPWQoGncnGCE) | 3:22 |
-| 12 | [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 |
-| 13 | [Don't Lemme Fall](https://open.spotify.com/track/4MVTqwtTHFu8DJ5UscmiQA) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Don't Lemme Fall](https://open.spotify.com/album/55v53pg1Ptr1jLNLl8ewwC) | 2:50 |
-| 14 | [Vanilla](https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [A Wonderful Time](https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N) | 1:33 |
-| 15 | [Save Your Tears \- Cover](https://open.spotify.com/track/0WGl0AtjfkuF0p20MzwEOP) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Save Your Tears \(Cover\)](https://open.spotify.com/album/7tHPtTL1aUEIc3GYJBrIn1) | 2:22 |
-| 16 | [MINISKIRT](https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [MINISKIRT](https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo) | 2:04 |
-| 17 | [Show Me Love](https://open.spotify.com/track/39KMqRO39T7yjijC8Hbkkg) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Show Me Love](https://open.spotify.com/album/0GnipIQCgYKtWD6BP0xYie) | 3:13 |
-| 18 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
-| 19 | [Signs](https://open.spotify.com/track/11Hgw9wXWzS4RbqWsKu0JP) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [Naughty by Nature](https://open.spotify.com/album/3uaeQQUWVQyCvnFOtTmS1Y) | 2:03 |
+| 12 | [Don't Lemme Fall](https://open.spotify.com/track/4MVTqwtTHFu8DJ5UscmiQA) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Don't Lemme Fall](https://open.spotify.com/album/55v53pg1Ptr1jLNLl8ewwC) | 2:50 |
+| 13 | [Vanilla](https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [A Wonderful Time](https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N) | 1:33 |
+| 14 | [Save Your Tears \- Cover](https://open.spotify.com/track/0WGl0AtjfkuF0p20MzwEOP) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Save Your Tears \(Cover\)](https://open.spotify.com/album/7tHPtTL1aUEIc3GYJBrIn1) | 2:22 |
+| 15 | [MINISKIRT](https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [MINISKIRT](https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo) | 2:04 |
+| 16 | [Show Me Love](https://open.spotify.com/track/39KMqRO39T7yjijC8Hbkkg) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Show Me Love](https://open.spotify.com/album/0GnipIQCgYKtWD6BP0xYie) | 3:13 |
+| 17 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
+| 18 | [Signs](https://open.spotify.com/track/11Hgw9wXWzS4RbqWsKu0JP) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [Naughty by Nature](https://open.spotify.com/album/3uaeQQUWVQyCvnFOtTmS1Y) | 2:03 |
+| 19 | [Free](https://open.spotify.com/track/12GIrfQdKSQAZ7wYgwmhUb) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [ALT SOUL, Vol\. 1](https://open.spotify.com/album/3xZmmPqI56XhwpiRAfqsDN) | 3:10 |
 | 20 | [Unforgettable](https://open.spotify.com/track/62pnmQnkWCNVQusRO0sIPM) | [J.E.N.N.Y](https://open.spotify.com/artist/4CXFDVOCfxAsJJwvxUR4Vc) | [Unforgettable](https://open.spotify.com/album/5D0Uo5APiROUL9ukcALFXC) | 2:43 |
 | 21 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
 | 22 | [Where's My Baby?](https://open.spotify.com/track/67vFDr4C5z0vwR0X9UtEpA) | [Victorano](https://open.spotify.com/artist/71NRxzaoTS0tFkgiOZ8Xni) | [Where's My Baby?](https://open.spotify.com/album/2yoFuuxRVxqfZhYsWwbSEb) | 2:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 |
 | 80 | [Miss Me](https://open.spotify.com/track/0Nnq0gfsq7Inx7b4zQSJob) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Miss Me](https://open.spotify.com/album/5JRQtqu5HrSXebzylfn5xJ) | 4:27 |
 
-Snapshot ID: `MCxkOGZhNmJmMGJmODdmNWI3YzkzZWQzMjYxZWRiZTRmOTU1Yzg3NjIx`
+Snapshot ID: `MCwwZGZmNWUxZTQyNDk5MmY1ODFjYmE5MDcwYzMzMTM0MjFmMmViMjhj`

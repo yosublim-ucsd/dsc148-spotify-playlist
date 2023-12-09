@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,306 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,307 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [So U Wanna Be Hardcore \(feat\. MC META\)](https://open.spotify.com/track/4zwuU19U6bRPpsIEEn5USo) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [MC META](https://open.spotify.com/artist/07rwmkNYYA2KFxHQ12Slo7) | [Heavy Bass](https://open.spotify.com/album/3fSQ0q58tU7ENEzGC3MsuK) | 3:09 |
 | 100 | [I Don't Give a F\*\*k \(With DEADP, DEEPFLOW\)](https://open.spotify.com/track/5JLuYzihQrbSUChde9wCFn) | [DEADP](https://open.spotify.com/artist/3hk800Fb8F8IQe1WfFGT1w), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Nastyz](https://open.spotify.com/artist/7i3DzAwRJW84LWLHGjzY6g) | [One Nation](https://open.spotify.com/album/6lspY215eSyzOThJHq0WFq) | 3:48 |
 
-Snapshot ID: `MCw0MTdiZWI4NTg1YmRiMzVhMGY3OTg2YjQwN2YwZmE3NzZlMmY2NjM3`
+Snapshot ID: `MCw2MjllOWRhZThjYWFjNTg0ZWIxOTY5ZjUzOTkyMWI5M2I2M2MxODRi`

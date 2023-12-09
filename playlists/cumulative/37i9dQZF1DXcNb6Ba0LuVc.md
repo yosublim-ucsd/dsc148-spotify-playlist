@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-474 songs - 18 hr 25 min
+476 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Anime Allstars](https://open.spotify.com/track/6QlFygpU82COhwOT7Nz6Pv) | [Nadja Salkova](https://open.spotify.com/artist/7tmmBlFgiMjRHlv1GY1l18) | [Walking In The Rain](https://open.spotify.com/album/6aoHysv4kqrMuVixhuONsk) | 1:42 | 2021-11-11 | 2022-05-27 |
 | [Apolloniz](https://open.spotify.com/track/0a2LxXM7I3nkbpz229aZeJ) | [A Monica](https://open.spotify.com/artist/6EyqcmMTxOuihJaiuJYW4y) | [Swimming Instructor](https://open.spotify.com/album/2YzhNxTnyOltLyF6AsiGHu) | 2:08 | 2021-11-11 |  |
 | [Arraial Da Ajuda](https://open.spotify.com/track/7CFOFPykUPagxBUwa7D0AQ) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Arraial Da Ajuda](https://open.spotify.com/album/0Ok5qEMTp8NBbxvWWJFa3V) | 2:45 | 2022-07-22 |  |
+| [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 | 2023-12-08 |  |
 | [Autumn in Prague](https://open.spotify.com/track/3lG3nnXioF0tPONms64ANl) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [I'll Leave the Light on for You](https://open.spotify.com/album/1uEqiWIlQBYypx6pZFZ6xL) | 3:43 | 2021-11-11 | 2022-05-27 |
 | [Backrest](https://open.spotify.com/track/4cPAlNvmPCRulfIldis6aL) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Backrest](https://open.spotify.com/album/6S3huq65cOIbaKwOWLLMjr) | 2:26 | 2021-11-11 | 2022-04-08 |
 | [bad habit](https://open.spotify.com/track/5TZjQUcJwhqlDfQ4BApbYy) | [cingie](https://open.spotify.com/artist/3LRWwnmhuhlhZilHht5dYw) | [bad habit](https://open.spotify.com/album/5Y67fTLxbnk8hgscy8nEB9) | 2:02 | 2021-11-11 | 2022-09-03 |
@@ -201,7 +202,7 @@
 | [Just Vibin’](https://open.spotify.com/track/4XqMeXDc6GrMIhKo9AIFeQ) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Just Vibin’](https://open.spotify.com/album/1sbGkDsIHzeesq8VTbdaOM) | 2:06 | 2021-11-11 | 2022-10-29 |
 | [keyless](https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [dry&high](https://open.spotify.com/album/1mVUu7fnWB58ld4PTUd8dQ) | 1:41 | 2021-11-11 |  |
 | [Kickers & Curbs](https://open.spotify.com/track/3LbzFO5sGl57tqGrb9Uvb7) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Cvsket Pretty](https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I), [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Kickers & Curbs](https://open.spotify.com/album/5KXxlwvQrn3RkaQXqF5MoC) | 1:51 | 2022-08-12 | 2022-11-20 |
-| [Kickers & Curbs](https://open.spotify.com/track/5wtHOgqZrDGthuxu22Ezxx) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Cvsket Pretty](https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I), [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Kickers & Curbs](https://open.spotify.com/album/4e30gdx3YwHfuPOs8m1j9E) | 1:51 | 2022-11-11 |  |
+| [Kickers & Curbs](https://open.spotify.com/track/5wtHOgqZrDGthuxu22Ezxx) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Cvsket Pretty](https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I), [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Kickers & Curbs](https://open.spotify.com/album/4e30gdx3YwHfuPOs8m1j9E) | 1:51 | 2022-11-11 | 2023-12-09 |
 | [Koji](https://open.spotify.com/track/1nC17MFFBInGll7Wjun7XS) | [Calabrese](https://open.spotify.com/artist/3Bbd9D85OngaqLISpyDUmf), [Jay PowPow](https://open.spotify.com/artist/4iKJ2T8WvQc8SDxg6qdbrg) | [Koji](https://open.spotify.com/album/2h0JTol7uA3XQxaVgFfKG1) | 2:45 | 2022-04-15 | 2023-01-13 |
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2021-11-11 | 2022-08-19 |
 | [Lab](https://open.spotify.com/track/2kHDQldORUg2dYR1BOQlWc) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Lab](https://open.spotify.com/album/4CnTuWjhnYgnE2Wqv57AUc) | 2:21 | 2021-11-11 | 2022-07-08 |
@@ -225,6 +226,7 @@
 | [Lights](https://open.spotify.com/track/2Mhuiai4G6F55u2ABlgTfx) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Journey](https://open.spotify.com/album/45d85cjZ1WpzNanWJXE23f) | 2:09 | 2022-04-22 |  |
 | [Lightways](https://open.spotify.com/track/2CPrRvxxnaiSgujFmCsS82) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Lightways](https://open.spotify.com/album/3a8JhY9MsBDSkPHb5oHAmz) | 2:47 | 2023-09-22 |  |
 | [Like Water](https://open.spotify.com/track/6H1OU7JVRSNaZXrVU6JQnt) | [Herr Kaschke](https://open.spotify.com/artist/2dGqSVZSyxJpLWtWRkm7Ba) | [Like Water](https://open.spotify.com/album/3vruSZimL0mCbGfQcGaAfz) | 2:21 | 2023-06-15 |  |
+| [limelight](https://open.spotify.com/track/2D6U1ScmjRJ5QLrYhMCQDe) | [Louis Loux](https://open.spotify.com/artist/4TSSTLGRVNcu07DrrYni5V) | [limelight](https://open.spotify.com/album/5yMQnvnMglKwQ7V9pVALVX) | 2:24 | 2023-12-08 |  |
 | [Limited Time Only](https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Limited Time Only](https://open.spotify.com/album/6TAj2O65OHQReNLVGck44m) | 3:33 | 2022-07-01 | 2022-08-19 |
 | [Lint](https://open.spotify.com/track/7JtmJQRQOIrI3yfNyoqfw1) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Lint](https://open.spotify.com/album/2uPymhchLS7jEbOJgqJdrF) | 2:42 | 2021-11-11 | 2022-09-03 |
 | [Little Bee](https://open.spotify.com/track/3FInpBbpMTFvx5P4zxJY8B) | [Aborre](https://open.spotify.com/artist/12nFi1kyqz3Tb3KByPPjpv) | [nilson](https://open.spotify.com/album/5rnlaVpE86lSfW0BFRdb60) | 1:46 | 2022-04-08 |  |

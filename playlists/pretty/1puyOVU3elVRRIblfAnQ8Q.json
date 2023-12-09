@@ -1,13 +1,37 @@
 {
   "description": "Updated Weekly! DC and Hooks selected jams from Deadbeats record label and beyond. DEADBEATS ON TOUR NOW--&gt; <a href=\"http://www.deadbeatsofficial.com\">www.deadbeatsofficial.com</a>",
-  "num_followers": 62621,
+  "num_followers": 62623,
   "original_name": "Zeds Dead's Deadbeats",
   "owner": {
     "name": "Zeds Dead",
     "url": "https://open.spotify.com/user/zedsdeadofficial"
   },
-  "snapshot_id": "NTc4NSxjZTE4MzVkZjE4ZTNmZWM3Y2Q0Y2JhMDRiM2M4MDJiNDNiMDdmMWRi",
+  "snapshot_id": "NTc4OCw4NTdjOTkyZTdiODM3MTg2Zjk3YmQzMWM4MTFjOWFkYjE2Y2VjNmY4",
   "tracks": [
+    {
+      "added_at": "2023-12-08 14:15:09",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/6UUxfgFRnORokuQCqEXA1g"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "L8NCY",
+          "url": "https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/1l90jvHTkNh9VmOh2LbbeC"
+    },
     {
       "added_at": "2023-12-04 19:55:24",
       "album": {

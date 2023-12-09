@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,836 likes - 125 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,896 likes - 125 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 | 124 | [The Pleasure Principle](https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Changing Tides of Dreams](https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I) | 3:01 |
 | 125 | [Ice Cold Coolers](https://open.spotify.com/track/32YuJrtLLVAMjskLgAfZKg) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T) | [Good Vibes](https://open.spotify.com/album/6ow7Sf2iH1b8Q50hjBfSVo) | 2:05 |
 
-Snapshot ID: `MCw1MzYwMTQ1NzVhM2JlMDk0NjFiMWU5Zjc4MjE5NWRlODRhYTQxNGM3`
+Snapshot ID: `MCwzNTNjYmFmNzUzYWFjOGUwZDcxYTdjZDc0MTdlMmRhMTMxYzAyYjE5`

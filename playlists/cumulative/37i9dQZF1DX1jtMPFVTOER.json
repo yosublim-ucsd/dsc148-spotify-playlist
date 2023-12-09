@@ -622,7 +622,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 139634,
       "name": "atimemyfriend",
       "url": "https://open.spotify.com/track/1FZJuTa8z5fe1RC67AbuZ5"
@@ -2045,6 +2045,32 @@
     },
     {
       "album": {
+        "name": "Closer (feat. Andreya Triana)",
+        "url": "https://open.spotify.com/album/7tE9gx7J5h4NKc4K3hVcmt"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Mala",
+          "url": "https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258608,
+      "name": "Closer (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/6Qi2kyUmKxlzlYLnOaDnHZ"
+    },
+    {
+      "album": {
         "name": "Code Green",
         "url": "https://open.spotify.com/album/2m4yqj3JXflgCEsrsArJRg"
       },
@@ -2348,7 +2374,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 271000,
       "name": "Cusp",
       "url": "https://open.spotify.com/track/3lInJDgHSNOdetZy02Qi2J"
@@ -6144,6 +6170,46 @@
       "duration_ms": 178387,
       "name": "Lucid",
       "url": "https://open.spotify.com/track/2m2waNWjpMs86VezrND2CJ"
+    },
+    {
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq"
+    },
+    {
+      "album": {
+        "name": "Original Flow: Chapter One",
+        "url": "https://open.spotify.com/album/7mfJOpjPtROoY4o4eEx7S2"
+      },
+      "artists": [
+        {
+          "name": "Mo Kolours",
+          "url": "https://open.spotify.com/artist/7o9hTqdhcddND3te69BBsk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230933,
+      "name": "Magic Momentum",
+      "url": "https://open.spotify.com/track/5I0vx247CZ5aA4JTuvZNKU"
     },
     {
       "album": {
@@ -11416,7 +11482,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 233518,
       "name": "Wrap It Up",
       "url": "https://open.spotify.com/track/1WrDhpbwUcUO37U6jktT0L"

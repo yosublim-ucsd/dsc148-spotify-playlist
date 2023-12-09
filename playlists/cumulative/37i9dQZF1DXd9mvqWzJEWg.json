@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/1yGg3EWGfbhHJJ7WcIpR0Q?si=S67L-gTrRSGWwiGYA6XpQA\">Ms. Cosmo</a>",
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka?si=BrZ_qy7VTQqtW6k5J6oDQQ\">QUE DJ</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -168,6 +168,32 @@
       "duration_ms": 308593,
       "name": "Azikhale",
       "url": "https://open.spotify.com/track/2gDmNSk15mcSBYGd0GnyO1"
+    },
+    {
+      "album": {
+        "name": "Bamba iRoof (feat. Thobeka)",
+        "url": "https://open.spotify.com/album/7xdHv88Q4NNrK5RcHjwAER"
+      },
+      "artists": [
+        {
+          "name": "QUE DJ",
+          "url": "https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka"
+        },
+        {
+          "name": "Goldmax",
+          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+        },
+        {
+          "name": "Thobeka",
+          "url": "https://open.spotify.com/artist/3AyBsX5nXTMPaXkmZelNCu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261635,
+      "name": "Bamba iRoof (feat. Thobeka)",
+      "url": "https://open.spotify.com/track/1YHfI5IrtFrbr3jickVdsf"
     },
     {
       "album": {
@@ -1393,6 +1419,40 @@
     },
     {
       "album": {
+        "name": "Isgubhu Sa December",
+        "url": "https://open.spotify.com/album/3JBnQRAoVKkut7LNhz0tU0"
+      },
+      "artists": [
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        },
+        {
+          "name": "Smah Berry",
+          "url": "https://open.spotify.com/artist/6M1YzPMAP623IB8N6dpFLR"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        },
+        {
+          "name": "Ben Ten",
+          "url": "https://open.spotify.com/artist/4GIcDHkcnfUF9SxbCNQFQP"
+        },
+        {
+          "name": "Campmasters",
+          "url": "https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336377,
+      "name": "Isgubhu Sa December",
+      "url": "https://open.spotify.com/track/0LATDL16wmIykUEYTlUiLg"
+    },
+    {
+      "album": {
         "name": "Iskhathi",
         "url": "https://open.spotify.com/album/5ENrExL7A2Fqd4kj6nGqgs"
       },
@@ -1592,6 +1652,58 @@
       "duration_ms": 183405,
       "name": "Klap Klap",
       "url": "https://open.spotify.com/track/3GGvTviqpbhc9L9XHRk1Uj"
+    },
+    {
+      "album": {
+        "name": "Tronics Land Series 2",
+        "url": "https://open.spotify.com/album/7enwXRokiAliOKBLROnp2I"
+      },
+      "artists": [
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        },
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435504,
+      "name": "Kwandonga Ziyaduma",
+      "url": "https://open.spotify.com/track/4PkzeTYPMBXdjhEW6RsbPt"
+    },
+    {
+      "album": {
+        "name": "Kwenzakalan",
+        "url": "https://open.spotify.com/album/3bMm9uOsgWcgpkMWkqKqk1"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Leodaleo",
+          "url": "https://open.spotify.com/artist/7bJ9EMwSG96uo9Fl8KuAO5"
+        },
+        {
+          "name": "Dezzodigo",
+          "url": "https://open.spotify.com/artist/5PWY0kEF14p1jEAtwRJRKn"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293335,
+      "name": "Kwenzakalan",
+      "url": "https://open.spotify.com/track/6Nupcrtf9XFpQ2nwHCY0fI"
     },
     {
       "album": {
@@ -2816,7 +2928,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 337002,
       "name": "Thayela",
       "url": "https://open.spotify.com/track/3nPRu3yG0hVuUOJOiW6zo3"
@@ -2890,6 +3002,24 @@
       "duration_ms": 341106,
       "name": "This is Too Much",
       "url": "https://open.spotify.com/track/30qRb82NJDdYyTm5xucjqC"
+    },
+    {
+      "album": {
+        "name": "Tronics Land Series 2",
+        "url": "https://open.spotify.com/album/7enwXRokiAliOKBLROnp2I"
+      },
+      "artists": [
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364724,
+      "name": "Thunderstorm",
+      "url": "https://open.spotify.com/track/14i6vgvjg5ZnRMKZ26R2uF"
     },
     {
       "album": {
@@ -3500,10 +3630,40 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 345648,
       "name": "Yamemeza",
       "url": "https://open.spotify.com/track/0cXSOyPN1KormAshR4q7hl"
+    },
+    {
+      "album": {
+        "name": "Gqom Made Me Do It",
+        "url": "https://open.spotify.com/album/2brS94w8kfxvrqPQcpmCgv"
+      },
+      "artists": [
+        {
+          "name": "Glisten",
+          "url": "https://open.spotify.com/artist/5GLIwkxBHSyAiNuASLISZW"
+        },
+        {
+          "name": "Madanon",
+          "url": "https://open.spotify.com/artist/0MnqNJsyaYr24L9bN7PpJQ"
+        },
+        {
+          "name": "Tellcom",
+          "url": "https://open.spotify.com/artist/1RFQbybWEBfeJ0wKqYgnWs"
+        },
+        {
+          "name": "Tsakzin",
+          "url": "https://open.spotify.com/artist/5GhRWMJ4lrZeiYEvkYEzLA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345648,
+      "name": "Yamemeza",
+      "url": "https://open.spotify.com/track/5rpINlgn8w5yZxz1hVdXVg"
     },
     {
       "album": {

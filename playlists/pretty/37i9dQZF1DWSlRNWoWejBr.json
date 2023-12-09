@@ -1,12 +1,12 @@
 {
   "description": "OU VC DAN\u00c7A OU O GRAVE T BALAN\u00c7A",
-  "num_followers": 666317,
+  "num_followers": 667115,
   "original_name": "funk challenge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmZiODQyNjE2NjQxMGM3NWIzYjViMjllYzAwNDQ1MWY3ZDUwMzhm",
+  "snapshot_id": "MCwzMjk4YmI1ZWJiZjgwNGE1NjgwNzcxNjE2NzEyODJhYTE0ZmZkMGU1",
   "tracks": [
     {
       "added_at": "2023-11-29 18:53:06",
@@ -284,20 +284,20 @@
       },
       "artists": [
         {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        },
-        {
           "name": "MC Maneirinho",
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "MC Tigr\u00e3o",
+          "url": "https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW"
         },
         {
           "name": "Mc Luan",
           "url": "https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF"
         },
         {
-          "name": "Mc Tig\u00e3o",
-          "url": "https://open.spotify.com/artist/7GH9MFF3c1nPkH2bQ7JG2X"
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
         }
       ],
       "duration_ms": 178080,

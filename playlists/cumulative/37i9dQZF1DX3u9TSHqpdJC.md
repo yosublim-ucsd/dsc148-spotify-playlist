@@ -4,7 +4,7 @@
 
 > The top 50 tracks from Fresh Finds Pop in 2023\. Cover: Debbii Dawson
 
-3,233 songs - 6 day 20 hr 29 min
+3,234 songs - 6 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2316,7 +2316,8 @@
 | [Reminder](https://open.spotify.com/track/3yK9PBNfMJ9rlzcSauWHaN) | [Lindsxy Mesenburg](https://open.spotify.com/artist/6VwDZ6kAtwpng8gGLHTkVz) | [Reminder](https://open.spotify.com/album/789BOV4ak4fPtBPUgwqkvJ) | 2:59 | 2021-03-06 | 2021-04-01 |
 | [Reminisce](https://open.spotify.com/track/7DWgedRJK6hHkF3gSAkB08) | [HIRA](https://open.spotify.com/artist/2rxiXXKdtR1e3ByeaGs7tv) | [Reminisce](https://open.spotify.com/album/7m4rN8Jrb29Ymd1bO2d6iB) | 2:38 | 2021-07-02 | 2021-07-29 |
 | [Rent Free](https://open.spotify.com/track/10ZpyvFgwKsgy79vRL6f4D) | [Natalie Barth](https://open.spotify.com/artist/2IlhZ3ugiAIrNDHHoBU7Hy) | [Rent Free](https://open.spotify.com/album/7mD5irFVPBTSjRVDEZ8h7K) | 3:24 | 2022-02-23 | 2022-04-07 |
-| [Replace You](https://open.spotify.com/track/4KtVL332elRhpZoctkarI3) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Replace You](https://open.spotify.com/album/6TUvBFwQuHPp7ks7fIHgBE) | 3:20 | 2023-02-01 |  |
+| [Replace You](https://open.spotify.com/track/0SmPS7g9KqFYHMMZrcsidS) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Replace You](https://open.spotify.com/album/5PgQYRXxoikSChTvkUd2GG) | 3:20 | 2023-11-29 |  |
+| [Replace You](https://open.spotify.com/track/4KtVL332elRhpZoctkarI3) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Replace You](https://open.spotify.com/album/6TUvBFwQuHPp7ks7fIHgBE) | 3:20 | 2023-02-01 | 2023-12-09 |
 | [Replacement](https://open.spotify.com/track/0gy6PnFdJLARyAoMMMMvS8) | [ThenWhen](https://open.spotify.com/artist/1ykV0FXRjFXfh5DawDxnMI) | [Replacement](https://open.spotify.com/album/6IuEhPn6WRG9wHB4KZsmBd) | 3:13 | 2021-01-15 | 2021-02-04 |
 | [RESCUE](https://open.spotify.com/track/4qnVxBglqdM4IQRZpzT2mp) | [Johnny 2 Phones](https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy) | [RESCUE](https://open.spotify.com/album/0Rjg8zwBBYiVXoQHLBVsfL) | 2:37 | 2020-11-18 | 2020-12-08 |
 | [Reset](https://open.spotify.com/track/6wSXxJVS9RKY54JzfFVecw) | [NATIIVE](https://open.spotify.com/artist/7iHTJPF1k1e9SF1BwqbAe0), [FINLAY](https://open.spotify.com/artist/2pAjU5iA2LSqy1junlcA6P) | [Reset](https://open.spotify.com/album/2WKPh3OLByXhZ6Pw5l05Hv) | 2:35 | 2021-02-10 | 2021-03-11 |

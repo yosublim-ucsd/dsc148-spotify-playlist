@@ -2670,6 +2670,24 @@
     {
       "album": {
         "name": "De Cuba a Per\u00fa",
+        "url": "https://open.spotify.com/album/4b00R4Z5nToeFS9tS9F03w"
+      },
+      "artists": [
+        {
+          "name": "Bamboleo",
+          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295543,
+      "name": "Usted No Sabe",
+      "url": "https://open.spotify.com/track/0NcmQ04wzsyNiXqRLWWO92"
+    },
+    {
+      "album": {
+        "name": "De Cuba a Per\u00fa",
         "url": "https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep"
       },
       "artists": [
@@ -2680,7 +2698,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 295543,
       "name": "Usted No Sabe",
       "url": "https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ"

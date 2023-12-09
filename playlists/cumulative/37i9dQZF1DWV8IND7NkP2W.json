@@ -11468,10 +11468,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 134074,
       "name": "Talking to myself",
       "url": "https://open.spotify.com/track/1XgT7W3POsztEoqVtaCbvV"
+    },
+    {
+      "album": {
+        "name": "Talking to myself",
+        "url": "https://open.spotify.com/album/0qLqN0c0XOXrBVZaf1nLv8"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134074,
+      "name": "Talking to myself",
+      "url": "https://open.spotify.com/track/2acpp6BCVP0UPbnzT4UCWi"
     },
     {
       "album": {

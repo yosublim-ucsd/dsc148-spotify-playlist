@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Ceilings",
+        "url": "https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU"
+      },
+      "artists": [
+        {
+          "name": "Miriam Modest",
+          "url": "https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Ceilings",
+      "url": "https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/3EPmgFC6pA8SYeIRMJWwMJ"
       },
@@ -632,6 +650,24 @@
       "duration_ms": 220047,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/6EoPNWD4JE1BQZ8VxbYiM8"
+    },
+    {
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv"
+      },
+      "artists": [
+        {
+          "name": "Lars Florence",
+          "url": "https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234937,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L"
     },
     {
       "album": {
@@ -1031,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/0vYgrYSmyXIW4Mc3qL1ZGb"
+      },
+      "artists": [
+        {
+          "name": "Laszlo Teofil",
+          "url": "https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154374,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/7L8zYETEb2WqxOTGO0kgjS"
+    },
+    {
+      "album": {
         "name": "Let me love you",
         "url": "https://open.spotify.com/album/5rHBl1BPlHZsc9BB7DWO0o"
       },
@@ -1312,7 +1366,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 142000,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9"
@@ -2050,7 +2104,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 132000,
       "name": "YMCA",
       "url": "https://open.spotify.com/track/5WLMPMlxqaLtfxkPfZXcAI"

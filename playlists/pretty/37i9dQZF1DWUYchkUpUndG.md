@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs>Jimmy D Psalmist</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,105 likes - 105 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,258 likes - 105 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 104 | [Only You](https://open.spotify.com/track/5GUUtAGAPjKn2QtANfnFYq) | [Victor and the Kingstarworld](https://open.spotify.com/artist/4zsAeve23gd8J2AgPbMasp), [Billion Barry](https://open.spotify.com/artist/57r7YZ7GaTLNz5njAT95ey) | [Only You](https://open.spotify.com/album/5lZnmQizptmk1kD8lfDRYf) | 4:14 |
 | 105 | [Worry Not](https://open.spotify.com/track/3Unwj05FxehuTZK58yAzPz) | [Amulaku](https://open.spotify.com/artist/4V8J4CAhy135yvxpsFq68B), [Anita Elisa](https://open.spotify.com/artist/6HVimeRn4zX5LwR3GhsdwQ) | [Worry Not](https://open.spotify.com/album/74QW1Q8pALsdveKdMRnRnF) | 2:05 |
 
-Snapshot ID: `MCw0ODJhN2NiYjQ2ZmYyOWIyNjhiYTQ1NmY1MDVmMmUzMDc3NjAzMDhh`
+Snapshot ID: `MCxkNTM3YmM1ODM3NDMyYmUxZTAyZDMwOWVhYTVmNmQwMTMxMzJhMDhm`

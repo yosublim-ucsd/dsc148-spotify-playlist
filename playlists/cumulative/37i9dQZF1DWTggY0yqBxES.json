@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 108000,
       "name": "Barf",
       "url": "https://open.spotify.com/track/4IxcVM7qUaCZ16zqrBQqQg"
@@ -5138,7 +5138,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 286991,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/0GKTYwPjp3eCLUv2GhVulB"
@@ -6739,6 +6739,24 @@
     },
     {
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3voD7pJszKgAqaa1EIHbG7"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127921,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/76anofjGblYvXoOmXBAAy8"
+    },
+    {
+      "album": {
         "name": "Kall Me (feat. Kevin Sinatra)",
         "url": "https://open.spotify.com/album/2d7tmlgAIX6H9Y0tSH0MMB"
       },
@@ -7113,6 +7131,28 @@
     },
     {
       "album": {
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "album": {
         "name": "Left 4 Dead",
         "url": "https://open.spotify.com/album/6ZnveWEVVScM3a2labkJLv"
       },
@@ -7208,6 +7248,28 @@
       "duration_ms": 171690,
       "name": "Lethal",
       "url": "https://open.spotify.com/track/3AOUjnwJHwVyvZm0Ol9qag"
+    },
+    {
+      "album": {
+        "name": "I HOPE YOU'RE HAPPY",
+        "url": "https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        },
+        {
+          "name": "ZillaKami",
+          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121666,
+      "name": "LIFE SUCKS SO WE FUCK (feat. ZillaKami)",
+      "url": "https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE"
     },
     {
       "album": {
@@ -8648,7 +8710,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 200571,
       "name": "Needles Kimono (Feat. Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/05bNTit7wIhHDxO6SVQW9f"
@@ -10209,6 +10271,28 @@
     },
     {
       "album": {
+        "name": "DOOR TO DUSK",
+        "url": "https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125004,
+      "name": "PURPLE HEART (w/ Don Toliver)",
+      "url": "https://open.spotify.com/track/7DRF9F5YevI4SjsKDpZsBw"
+    },
+    {
+      "album": {
         "name": "Purr (feat. Kari Faux)",
         "url": "https://open.spotify.com/album/1iWIu8GEWjvJIoaWdqK2Fb"
       },
@@ -11698,7 +11782,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 199764,
       "name": "STARBIRTH (Let The Story Begin)",
       "url": "https://open.spotify.com/track/0VOuXtXIluSkgcd3XKJxJA"
@@ -14408,6 +14492,24 @@
       "duration_ms": 127369,
       "name": "Yondu",
       "url": "https://open.spotify.com/track/0j5YzEgl3PSHBRhaagkjpY"
+    },
+    {
+      "album": {
+        "name": "You 2 Thank",
+        "url": "https://open.spotify.com/album/770NPIetbye6vd31ZDuG09"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "You 2 Thank",
+      "url": "https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC"
     },
     {
       "album": {

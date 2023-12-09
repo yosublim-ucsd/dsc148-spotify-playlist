@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Acid Peppers",
+        "url": "https://open.spotify.com/album/6oka5q4Rg2o2wOWQ2Jzzei"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Acid Peppers",
+      "url": "https://open.spotify.com/track/4GvP0i8hmuyFPoLfxOq29d"
+    },
+    {
+      "album": {
         "name": "Ai Papi",
         "url": "https://open.spotify.com/album/5q36s9vwucIs4XKp03mNVv"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 195840,
       "name": "ARPT",
       "url": "https://open.spotify.com/track/3obLSyxtsr0R5hGISMPwFd"
@@ -418,7 +436,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 184807,
       "name": "Bubbalicious",
       "url": "https://open.spotify.com/track/3ZLROYAeP1y3CouHBYZCg7"
@@ -500,7 +518,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 183750,
       "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
       "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
@@ -966,6 +984,28 @@
       "duration_ms": 290629,
       "name": "Down - Illusionize, Viot Rework",
       "url": "https://open.spotify.com/track/6yJLDJD5DPa7ZG6ICH5vc0"
+    },
+    {
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/2AvSRmLXT7fw20Egn9DiSr"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150559,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/6h9Ff5LGaS2h0G3iB5jim6"
     },
     {
       "album": {
@@ -2006,7 +2046,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
@@ -2438,6 +2478,24 @@
       "duration_ms": 185714,
       "name": "Rare Vision",
       "url": "https://open.spotify.com/track/4XGTuVNDxJzYu0YMRr32fc"
+    },
+    {
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/11L6VBSHib3rjEo7PQbJib"
+      },
+      "artists": [
+        {
+          "name": "Kubi",
+          "url": "https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/0ppTYxMWmNN8SuVoRZMbKB"
     },
     {
       "album": {
@@ -3220,6 +3278,24 @@
       "duration_ms": 253658,
       "name": "With You",
       "url": "https://open.spotify.com/track/3hx2GGk4lwbOislq85AE0q"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/18ejf0VB2RM7UnyTZ3EIOc"
+      },
+      "artists": [
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124142,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4pD7ds0WqjF6I5xrRJStkk"
     },
     {
       "album": {

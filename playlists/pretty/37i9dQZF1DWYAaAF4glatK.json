@@ -1,12 +1,12 @@
 {
   "description": "La playlist de ton \u00e9t\u00e9 2023 ! \ud83c\udf1e",
-  "num_followers": 296606,
+  "num_followers": 296614,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDc4Y2QxZjllYTIzMzMxN2YyMzdiNDUwNzdhOThiOGYwOWM4OGM2",
+  "snapshot_id": "MCw5OTg0ZDk2NDEwMWNlYWYyZDY3OTEzZTAzZDRmNDI2OGViMjIwMmRl",
   "tracks": [
     {
       "added_at": "2023-09-05 15:40:40",
@@ -772,12 +772,12 @@
           "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
         },
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
           "name": "Ninho",
           "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
       "duration_ms": 201533,

@@ -1,15 +1,31 @@
 {
   "description": "Time to headbang around the Christmas tree! Cover: August Burns Red",
-  "num_followers": 106795,
+  "num_followers": 107667,
   "original_name": "Metal Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmNhYTU3NTg2YTdmNTFiZjc3YTE0NjNhY2VjZTFkMWQ3MGViNDM0",
+  "snapshot_id": "MCw5NTk2OTEyNmI3MzU5NDBjOTZhYWZlZThmOTFiMzJmMWYzZWMwNmE5",
   "tracks": [
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
+      "album": {
+        "name": "Christmas Eve and Other Stories",
+        "url": "https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT"
+      },
+      "artists": [
+        {
+          "name": "Trans-Siberian Orchestra",
+          "url": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Christmas Eve / Sarajevo 12/24 - Instrumental",
+      "url": "https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup"
+    },
+    {
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "The Razors Edge",
         "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6xwxKqCIdrs0RDWkmFxzZs"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "August Burns Red Presents: Sleddin' Hill, A Holiday Album",
         "url": "https://open.spotify.com/album/0KFHRTPO0Na2urb69czjhM"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/2UxVAx0Ydcn4xs9FIRBczz"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "The Jack 2 Pack (The Nightmare Before Christmas)",
         "url": "https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT"
@@ -57,23 +73,23 @@
       "url": "https://open.spotify.com/track/4IhcTCymItOCN0d8kSLJFo"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+        "name": "Carol of The Bells",
+        "url": "https://open.spotify.com/album/5PHDePBPQQM5VsXO98L3Pc"
       },
       "artists": [
         {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
         }
       ],
-      "duration_ms": 207000,
-      "name": "This Christmas (I'll Burn It To The Ground)",
-      "url": "https://open.spotify.com/track/4lc26OWTRFdEZediB0picq"
+      "duration_ms": 172390,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/5Awe7avyVaXwZEfgdKqBsN"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Christmas Truce",
         "url": "https://open.spotify.com/album/7AiY9akdD7xsmk9skmMIyL"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/5FaSqONiGaXC0LwQRSYgJq"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "We Wish You A Metal XMas...And A Headbanging New Year!",
         "url": "https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/0eL99mrX8qVKgYJU46QHUb"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "We Wish You A Metal XMas...And A Headbanging New Year!",
         "url": "https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/23L3lZfC8tjIBDZhl0odQ1"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Jingle Bell Rock / Dance of the Sugar Plum Fairy",
         "url": "https://open.spotify.com/album/4XaF5rkbxBH0PArJqK6kFp"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/4DAWtJ9AtRjOMRKJYzdFKW"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "The Silver Scream",
         "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/2kM94CiYjbN4932wToEMJo"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "X-M@$",
         "url": "https://open.spotify.com/album/2z2D8A4HGkR5HQtSvb2lV8"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/1a8UIPEA1syyBSNhWwRfrY"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "O Holy Night (feat. Eva Under Fire)",
         "url": "https://open.spotify.com/album/5lu7JfIt0sYgi2JAd25UxA"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/71c1CDrbPMM1P8wd9gXAIj"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/3iQzsXaCoEeNAP1bt1tqFn"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/1qsPbldREgR4wRvmK1FMBl"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Vol. 4 (2014 Remaster)",
         "url": "https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/5w091st8zPd8c01LFzTY8B"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/4yYRCfrUG8Ck6nkqOEJDtQ"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/2KpS37udVvcVTP8lkKyYjG"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "October Rust (Special Edition)",
         "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/6Z8SIHKpQvtP8nBkjH3lIo"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/4wVgm80aNC8S8XwxpDakws"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/0pyQo1PdONXpHPe9maPrr3"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Merry Xmas Everybody",
         "url": "https://open.spotify.com/album/4lOIVncvZ3AIJeiCCFZvFC"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/0PK1T1PiN7XuQvihwibFof"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Monster Ballads X-Mas",
         "url": "https://open.spotify.com/album/0wA8kXmYc5DRmcJXYQ49G8"
@@ -325,7 +341,39 @@
       "url": "https://open.spotify.com/track/1zftFFa10Lt1afCWUbL0XN"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
+      "album": {
+        "name": "Permission To Land... Again (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1C2yA2sLXxjbytmYxvbDN0"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Christmas Time (Don't Let the Bells End)",
+      "url": "https://open.spotify.com/track/6CFaXCTcip2BhzKetDKR6b"
+    },
+    {
+      "added_at": "2023-12-08 05:10:00",
+      "album": {
+        "name": "A Monster Only You Can't See",
+        "url": "https://open.spotify.com/album/3gObgFliVNVCROweTRHIZE"
+      },
+      "artists": [
+        {
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
+        }
+      ],
+      "duration_ms": 356174,
+      "name": "A Monster Only You Can't See",
+      "url": "https://open.spotify.com/track/6hJLh8rxEM2BfJmkYd4MtR"
+    },
+    {
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Underneath The Tree",
         "url": "https://open.spotify.com/album/6VfTqRxq1HRwmzUdg3lhW3"
@@ -341,7 +389,23 @@
       "url": "https://open.spotify.com/track/1AOCOGWR2hcAwpoHQVzAb3"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "This Christmas (I'll Burn It To The Ground)",
+      "url": "https://open.spotify.com/track/4lc26OWTRFdEZediB0picq"
+    },
+    {
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Merry Blah Blah Blah",
         "url": "https://open.spotify.com/album/3uSQOTSTrxjzdCHjwQnDAw"
@@ -357,7 +421,7 @@
       "url": "https://open.spotify.com/track/1OOPUbMuiP64MSWZUNWNJd"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "A Twisted Christmas",
         "url": "https://open.spotify.com/album/0NokM2CRbGwVjhS7J1nyAC"
@@ -373,7 +437,7 @@
       "url": "https://open.spotify.com/track/41PR8gGCJhDhPaVUDDrK33"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Christmas in New York City",
         "url": "https://open.spotify.com/album/6fXR6MMItpBIShRRSHrYg3"
@@ -389,7 +453,7 @@
       "url": "https://open.spotify.com/track/3sW8TtpsP2DWeCnRh0MtFT"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Naughty Christmas",
         "url": "https://open.spotify.com/album/6p5WKBrX2alTVVYAfN7zOz"
@@ -405,7 +469,7 @@
       "url": "https://open.spotify.com/track/1KuIua691nfs4NgBMr3yA5"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Christmas Spirits",
         "url": "https://open.spotify.com/album/4NPY2fu35U240KjopE7u0X"
@@ -421,7 +485,7 @@
       "url": "https://open.spotify.com/track/7eN6fj9rE8jZLlIxH6DWCE"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/31Z5P9kwY8HbUZNnZl5LeR"
@@ -437,7 +501,7 @@
       "url": "https://open.spotify.com/track/29WgoS3yvkl62MwOLQlT3Q"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Winter Wilderness EP",
         "url": "https://open.spotify.com/album/1iNaHBJANUPl2U84kSjogc"
@@ -453,7 +517,7 @@
       "url": "https://open.spotify.com/track/3vSogSk1GgB0D1V7r8nkEP"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Monster Ballads X-Mas",
         "url": "https://open.spotify.com/album/0wA8kXmYc5DRmcJXYQ49G8"
@@ -469,7 +533,7 @@
       "url": "https://open.spotify.com/track/78VaaL0KLkj7FpLmXjC4co"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Lowborn",
         "url": "https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL"
@@ -485,7 +549,7 @@
       "url": "https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "God Rest Ye Merry Gentlemen",
         "url": "https://open.spotify.com/album/4XycN6qCKZS88CUOogVnRN"
@@ -501,23 +565,7 @@
       "url": "https://open.spotify.com/track/2VxlPbzNZPpoVJ2CmI6QsI"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "A Twisted Christmas",
-        "url": "https://open.spotify.com/album/0NokM2CRbGwVjhS7J1nyAC"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 314853,
-      "name": "Heavy Metal Christmas (The Twelve Days of Christmas)",
-      "url": "https://open.spotify.com/track/59WsYKt9mpTd0c1Z9uLGsw"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Lowborn",
         "url": "https://open.spotify.com/album/42fwK8CU4k8YMq2d0rVxOO"
@@ -533,7 +581,7 @@
       "url": "https://open.spotify.com/track/77t2jkqojne0vc9YDnJ3NP"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Halford III: Winter Songs",
         "url": "https://open.spotify.com/album/23gl11F7n7YNPGdI9L8XSd"
@@ -553,7 +601,7 @@
       "url": "https://open.spotify.com/track/1oGcrOPzQrKFKZnNCjWfGu"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Up on the Housetop",
         "url": "https://open.spotify.com/album/1X9qEFsBIondSzwmT2yPWn"
@@ -569,7 +617,7 @@
       "url": "https://open.spotify.com/track/1z5GlN4nJElIMEBaiy9FyY"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "The Puppet Master",
         "url": "https://open.spotify.com/album/0G7drliRgUljrZBgQWaeM8"
@@ -585,7 +633,7 @@
       "url": "https://open.spotify.com/track/1gd7BAVNxGcioiNi1A2yvt"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Dead Winter Dead",
         "url": "https://open.spotify.com/album/3kqF5ukXazAtsYIFoIMDkB"
@@ -601,23 +649,7 @@
       "url": "https://open.spotify.com/track/1aOIW5GzlVx0B8lX2foIFg"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Carol of The Bells",
-        "url": "https://open.spotify.com/album/5PHDePBPQQM5VsXO98L3Pc"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 172390,
-      "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/5Awe7avyVaXwZEfgdKqBsN"
-    },
-    {
-      "added_at": "2023-12-06 02:52:18",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/1DbZpAbmGi5WL9dkPiELx8"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/3R8St06LJzL7SoneXQy7tL"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Ragnarok Juletide",
         "url": "https://open.spotify.com/album/4x3cXClXfNUbTy52FDdkZ5"
@@ -693,7 +725,7 @@
       "url": "https://open.spotify.com/track/5FshWATdIqCL2nMO11roIK"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Halford III: Winter Songs",
         "url": "https://open.spotify.com/album/23gl11F7n7YNPGdI9L8XSd"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/4PHKTROdkM3lW5he03HqEa"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Christmas Number Ones",
         "url": "https://open.spotify.com/album/6ZocP1wM3eBktrLL2YGxfv"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/0RGvnAtQxaOwgtOtitSxfB"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "A Christmas Carol",
         "url": "https://open.spotify.com/album/2ctzCcSgotPQKues1laJWj"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/4vCCjkUK3TngTc9uHbLY2h"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Rudolph the Red Nosed Reindeer (Heavy Metal Version)",
         "url": "https://open.spotify.com/album/2n13PPzmfEAW3ggTfasNOJ"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/3IUxODcR9IOJpYIcPEhqfK"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "All I Want for Christmas",
         "url": "https://open.spotify.com/album/2YHHyj12JSWQG2y8lUl4lT"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/4xHV6Hb7maNSTk52rI48rU"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "We Wish You A Metal XMas...And A Headbanging New Year!",
         "url": "https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc"
@@ -809,7 +841,7 @@
       "url": "https://open.spotify.com/track/7wtEU2FsjBytfLR4y5PRLA"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "The Dark Sides",
         "url": "https://open.spotify.com/album/0JXKB69mOVC0qVNKz4VMlO"
@@ -825,7 +857,7 @@
       "url": "https://open.spotify.com/track/1UNyNWe03mb3RGZmkcu7lr"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "We Wish You A Metal XMas...And A Headbanging New Year!",
         "url": "https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc"
@@ -857,7 +889,7 @@
       "url": "https://open.spotify.com/track/5p9TD0RIUOMxGToRJNFUYa"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/5DBiGgXmH0sgiQE6juD6Yo"
@@ -873,7 +905,7 @@
       "url": "https://open.spotify.com/track/3nigc80wmSKOm3VpBl8R2T"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Halford III: Winter Songs",
         "url": "https://open.spotify.com/album/23gl11F7n7YNPGdI9L8XSd"
@@ -893,7 +925,7 @@
       "url": "https://open.spotify.com/track/5UOq2c7K2GOHDwiL7BsK6Y"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "A Christmas Carol (Extended Version)",
         "url": "https://open.spotify.com/album/7EP0PL7eSomccxe37OIjoS"
@@ -909,7 +941,7 @@
       "url": "https://open.spotify.com/track/0mxNIGjdC0S3yTQzruTJ43"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Rockin' Around the Christmas Tree",
         "url": "https://open.spotify.com/album/6DhsdnWLeBx8U309wLTIH1"
@@ -925,7 +957,7 @@
       "url": "https://open.spotify.com/track/1NcwwGQmTgIaUimgUMN6hk"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "A Very Metal Xmas",
         "url": "https://open.spotify.com/album/4yIcXXvkfOTl58xvAjBslh"
@@ -945,7 +977,7 @@
       "url": "https://open.spotify.com/track/6xUPF0cpNS3lL1Q4c5k9fa"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Heavy Metal Christmas",
         "url": "https://open.spotify.com/album/3s5PHvys0oH8inYn8WUEgl"
@@ -965,7 +997,7 @@
       "url": "https://open.spotify.com/track/3YRXVd1lusaMPCJYav3pRz"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Crazy Christmas",
         "url": "https://open.spotify.com/album/6Z2B8H2CRZEFAWEnmUrsN3"
@@ -981,7 +1013,7 @@
       "url": "https://open.spotify.com/track/1oKyk3gWJJSqb0NT5PZnug"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "We Wish You A Metal Xmas And A Headbanging New Year",
         "url": "https://open.spotify.com/album/6toBzQcCJouEJxa8Bcsutn"
@@ -1013,7 +1045,7 @@
       "url": "https://open.spotify.com/track/0NUXtWOORgTXdFwHysxV0C"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "This Is Spinal Tap",
         "url": "https://open.spotify.com/album/76KLnwAF285xUWRn8bT1Q2"
@@ -1029,7 +1061,7 @@
       "url": "https://open.spotify.com/track/7tuO9p4tvMLKPOirkJa6S8"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "We Wish You A Metal Xmas And A Headbanging New Year",
         "url": "https://open.spotify.com/album/6toBzQcCJouEJxa8Bcsutn"
@@ -1057,7 +1089,7 @@
       "url": "https://open.spotify.com/track/4YO3waLH32FEdCKJ5RBtuh"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Ragnarok Juletide",
         "url": "https://open.spotify.com/album/4x3cXClXfNUbTy52FDdkZ5"
@@ -1077,7 +1109,7 @@
       "url": "https://open.spotify.com/track/1C1z0j86okvfGRPRn1rI9b"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "We Wish You A Metal Xmas And A Headbanging New Year",
         "url": "https://open.spotify.com/album/6toBzQcCJouEJxa8Bcsutn"
@@ -1105,7 +1137,23 @@
       "url": "https://open.spotify.com/track/23yqcmk9JLR8tzv3qfXPg4"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
+      "album": {
+        "name": "A Twisted Christmas",
+        "url": "https://open.spotify.com/album/0NokM2CRbGwVjhS7J1nyAC"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 314853,
+      "name": "Heavy Metal Christmas (The Twelve Days of Christmas)",
+      "url": "https://open.spotify.com/track/59WsYKt9mpTd0c1Z9uLGsw"
+    },
+    {
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "A Heavy Metal Christmas",
         "url": "https://open.spotify.com/album/3k7mUNhTAu4wtLe5lpUd2j"
@@ -1121,7 +1169,7 @@
       "url": "https://open.spotify.com/track/3CA8Bx0aE8tuNYTy9OvVfW"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Mary Did You Know",
         "url": "https://open.spotify.com/album/6RvqLASS8YpPUuF41STGR1"
@@ -1137,7 +1185,7 @@
       "url": "https://open.spotify.com/track/5mvByjQpP60Peg80DURkXa"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "A Heavy Metal Christmas Too",
         "url": "https://open.spotify.com/album/3LkzHEuobNQNHZ9kDjjhhi"
@@ -1153,7 +1201,7 @@
       "url": "https://open.spotify.com/track/7wKOOVdySGGYeCB5MHhhqY"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Scary Christmas Time",
         "url": "https://open.spotify.com/album/1Fg3WSRCsYfR0GXvjuqFZh"
@@ -1169,7 +1217,7 @@
       "url": "https://open.spotify.com/track/0mg4hpatPSpWEUnoIqAX49"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Darkest Carols, Faithful Sing",
         "url": "https://open.spotify.com/album/6b4auQytxYBDMZcYynCL6T"
@@ -1185,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3wF7umDgSCKVLUWtoMOeab"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "Merry Metal Xmas",
         "url": "https://open.spotify.com/album/15n2Te5hsJUpQ0Iuv2Deig"
@@ -1205,7 +1253,7 @@
       "url": "https://open.spotify.com/track/3oQVHS7EC6AzfqSmlRUwse"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "The Essential Korn",
         "url": "https://open.spotify.com/album/4YsYdC1VAagQknJujE7cvC"
@@ -1221,7 +1269,7 @@
       "url": "https://open.spotify.com/track/1YpvaqiJEB1sZy7YXp9T9t"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:10:00",
       "album": {
         "name": "A VERY DEATHCORE CHRISTMAS WITH BROJOB 2",
         "url": "https://open.spotify.com/album/4nKOQ3IQWQtnlcRI4USzk4"

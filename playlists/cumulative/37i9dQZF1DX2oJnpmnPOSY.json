@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/1xrzHjo7J4bhtSfjkwnZAQ"
@@ -358,6 +358,32 @@
       "duration_ms": 239996,
       "name": "NO LO S\u00c9",
       "url": "https://open.spotify.com/track/5WlFKlTHjg3x8G8icmQjzP"
+    },
+    {
+      "album": {
+        "name": "WorKING",
+        "url": "https://open.spotify.com/album/02STLoPPeQ8PoV91Ilkg08"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257682,
+      "name": "NOPALATELE",
+      "url": "https://open.spotify.com/track/5TF6x1UsQnX3Tv3wd5Fw78"
     },
     {
       "album": {

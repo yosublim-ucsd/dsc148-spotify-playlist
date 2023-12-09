@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,798 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,029 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 149 | [Baby Boy](https://open.spotify.com/track/59bmTqt7AFMBGLssuhtkmK) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [We Need Emmanuel](https://open.spotify.com/album/1iagly9M3C91gzkNAJSWZz) | 3:50 |
 | 150 | [Silver Bells](https://open.spotify.com/track/3gndDjG0Lxsm2b1eH5nA0Z) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:17 |
 
-Snapshot ID: `MCxjNTY2NTRmNGNlNzA1ZTkxZTNlNzYwZjAxZDhiYTMwZTRiNGM4NzAw`
+Snapshot ID: `MCxmNDJiY2ZlZjU2NjgyNWUxM2MxYjhhYWVlMWJmZDc3OWQ2ZmRkZTVh`

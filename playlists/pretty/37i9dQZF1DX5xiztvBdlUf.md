@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,188 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,301 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Looking For The Light](https://open.spotify.com/track/2aKi0hmZ7M5wVnd69RUEu7) | [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8), [Luxe Agoris](https://open.spotify.com/artist/6ejyZKJqfU1trzNHiAA3Ro) | [Looking For The Light](https://open.spotify.com/album/0TPIkCygwT8QuomYuRi7sW) | 2:57 |
 | 80 | [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 |
 
-Snapshot ID: `MCw0M2JlYTk5ODIyNDI3NGQyMmNjZGE1MjVkZGE0YmY0YzU5OTE5Yzgy`
+Snapshot ID: `MCw3ODEzNzMzY2VjZGE0ZWU1MGQwMzM3OWExYjEwOWYwZThhOGMzMTIw`

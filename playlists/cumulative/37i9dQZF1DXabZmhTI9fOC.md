@@ -4,7 +4,7 @@
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-508 songs - 1 day 3 hr 40 min
+509 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,8 @@
 | [Sunshine \(feat\. Dan Harkna\) \- Radio Edit](https://open.spotify.com/track/3jbsz68DZXoqTlCz0n05xn) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Dan Harkna](https://open.spotify.com/artist/5xeGJm9dgg2x5luZLEYtMx) | [Sunshine \(feat\. Dan Harkna\) \[Radio Edit\]](https://open.spotify.com/album/7qAljACjJJN2jhgB4aA9sZ) | 3:00 | 2022-08-26 | 2023-07-19 |
 | [Sweet Revenge](https://open.spotify.com/track/4UFQsCXZT7FjeqSPGxVVf2) | [Kat Leon](https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF), [Jo Blankenburg](https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz) | [The World Is Waiting](https://open.spotify.com/album/3hvlXTpTYSalmTQpAlrWs0) | 4:51 | 2022-08-19 |  |
 | [Sweet Revenge](https://open.spotify.com/track/69jbM1IoQzMyaUxstiVA4P) | [Kat Leon](https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF), [Jo Blankenburg](https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz) | [The World Is Waiting](https://open.spotify.com/album/6vI02PfVIVXwPLUhcyKHpt) | 4:51 | 2022-08-19 | 2022-10-13 |
-| [Sweetest Human Being Alive](https://open.spotify.com/track/1zwplwLfK5H0D86lPYkxBG) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2023-09-13 |  |
+| [Sweetest Human Being Alive](https://open.spotify.com/track/1zwplwLfK5H0D86lPYkxBG) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2023-09-13 | 2023-12-09 |
+| [Sweetest Human Being Alive](https://open.spotify.com/track/4wiCxiYEgrL5O6QTLbFacc) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 3:45 | 2023-09-13 |  |
 | [Sweetest Thing](https://open.spotify.com/track/4BCda1bJa57fTMB2laaOeX) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [RNSOM](https://open.spotify.com/artist/0PDXIBsT4ZOJyqrF1MYnxh), [Davis](https://open.spotify.com/artist/1UMFvfUUhddeehpyd7D8dw) | [UNSOUND EP](https://open.spotify.com/album/5OntSYDFZdSm4byHGNiUOj) | 3:28 | 2023-08-16 |  |
 | [Take Me Home](https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 4:25 | 2022-08-26 | 2023-07-19 |
 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2022-08-26 | 2023-07-19 |

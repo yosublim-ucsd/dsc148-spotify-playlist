@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Malcolm VL",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: TOKIODK, Raff\u00e9, tchelo rodrigues, Lipinho",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -478,6 +478,24 @@
       "duration_ms": 190000,
       "name": "7 Meiota",
       "url": "https://open.spotify.com/track/7GlKZPZ02XIhVCSwHboMTb"
+    },
+    {
+      "album": {
+        "name": "VINCIT",
+        "url": "https://open.spotify.com/album/78THMgC0ZrLA6a9chvaLux"
+      },
+      "artists": [
+        {
+          "name": "CHS",
+          "url": "https://open.spotify.com/artist/3MHIgk9kofA8ZkNcZoQMpj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185950,
+      "name": "70",
+      "url": "https://open.spotify.com/track/3Zh05jDHdA0POpE6BjLZOg"
     },
     {
       "album": {
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 183370,
       "name": "Bairro Chique",
       "url": "https://open.spotify.com/track/7xwR6GT7wqbzyztKqSDREp"
@@ -3143,6 +3161,28 @@
     },
     {
       "album": {
+        "name": "BIG CA$H",
+        "url": "https://open.spotify.com/album/1XVJWUfSwdUuOicmgjYd1m"
+      },
+      "artists": [
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168133,
+      "name": "Bonga",
+      "url": "https://open.spotify.com/track/721akDonOcrjqFgH9dAJVV"
+    },
+    {
+      "album": {
         "name": "Bonnie e Clyde",
         "url": "https://open.spotify.com/album/5yoWHXp86tr5pvCm49XRQY"
       },
@@ -3166,6 +3206,32 @@
       "duration_ms": 162951,
       "name": "Bonnie e Clyde",
       "url": "https://open.spotify.com/track/3V0bMTZ3vJVOTmdpzQotIn"
+    },
+    {
+      "album": {
+        "name": "Bon\u00e9 de Detento",
+        "url": "https://open.spotify.com/album/2oZTrKyLRD3qpxWSgJHxQx"
+      },
+      "artists": [
+        {
+          "name": "Zambrota",
+          "url": "https://open.spotify.com/artist/0yILk4EVQcvXQK2dTISXDI"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "KarpaBeats",
+          "url": "https://open.spotify.com/artist/6D3sLCYbKtRoLsjmdFbdTh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154080,
+      "name": "Bon\u00e9 de Detento",
+      "url": "https://open.spotify.com/track/2maYu9vMUwcWfJzNq0VrI6"
     },
     {
       "album": {
@@ -4325,6 +4391,24 @@
     },
     {
       "album": {
+        "name": "CENTOPEIA HUMANA",
+        "url": "https://open.spotify.com/album/4IYkl9nTIvKajNeOvn3C8A"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341664,
+      "name": "CENTOPEIA HUMANA",
+      "url": "https://open.spotify.com/track/4KnHVjKZ94OFdL6IHt8m0K"
+    },
+    {
+      "album": {
         "name": "Certo pelo Certo",
         "url": "https://open.spotify.com/album/4PoIrEBglloxPqFPO4IEZc"
       },
@@ -5272,7 +5356,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 166000,
       "name": "CRIB / PSICODELIA",
       "url": "https://open.spotify.com/track/2jafH6mHutzDVgO8RO0Lpb"
@@ -5716,7 +5800,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 197616,
       "name": "De Novo N\u00e3o Vamp",
       "url": "https://open.spotify.com/track/3afLfk2lCYvMjoksGVIpsC"
@@ -7155,6 +7239,24 @@
     },
     {
       "album": {
+        "name": "UNIK",
+        "url": "https://open.spotify.com/album/77JE2iIITjvdSYcE7lB19z"
+      },
+      "artists": [
+        {
+          "name": "DESSIIIK",
+          "url": "https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Drogas e Roupas",
+      "url": "https://open.spotify.com/track/1pAs5lYoGJ8UWt3k4Irxwq"
+    },
+    {
+      "album": {
         "name": "Dtml",
         "url": "https://open.spotify.com/album/2cIDEiDekBHyduSkY1UBVX"
       },
@@ -7322,7 +7424,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 199111,
       "name": "E.T",
       "url": "https://open.spotify.com/track/23Jv9CFq7wuwTwpY9C42YU"
@@ -8662,7 +8764,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 168311,
       "name": "Festa privada",
       "url": "https://open.spotify.com/track/3cj7Teci7GN2VrfCOQx61c"
@@ -8806,6 +8908,32 @@
       "duration_ms": 140000,
       "name": "Final",
       "url": "https://open.spotify.com/track/4lIn41yvvWuW6s0BlQsVbZ"
+    },
+    {
+      "album": {
+        "name": "BLACKJUSTINBIEBER",
+        "url": "https://open.spotify.com/album/6NY4bto5iCsH2F7VGesC7X"
+      },
+      "artists": [
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "OG Bahia",
+          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "FININ",
+      "url": "https://open.spotify.com/track/2WYRjtty8RK6tf4qS3YoQG"
     },
     {
       "album": {
@@ -10057,6 +10185,32 @@
     },
     {
       "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "RT Mallone",
+          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Hitchcock - Feat. RT Mallone",
+      "url": "https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez"
+    },
+    {
+      "album": {
         "name": "Hobby",
         "url": "https://open.spotify.com/album/28RDt9nIo3n2JUMMxjwScs"
       },
@@ -10890,7 +11044,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 125892,
       "name": "JOIAS EM MIM",
       "url": "https://open.spotify.com/track/0SMlYWcymwHTETbvdhwafd"
@@ -11504,7 +11658,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 151403,
       "name": "Lombrado",
       "url": "https://open.spotify.com/track/6ELNqOKP8Z7snwfaaeUoow"
@@ -16826,7 +16980,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 148800,
       "name": "Problemas",
       "url": "https://open.spotify.com/track/2CkejP98m6e6xMUuQl4Bri"
@@ -17450,7 +17604,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 159999,
       "name": "Queima de arquivo",
       "url": "https://open.spotify.com/track/6HPbXAw3Mp9L78lbWSlKp8"
@@ -18920,7 +19074,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 192000,
       "name": "SENSITIVA",
       "url": "https://open.spotify.com/track/3qRWM4ynpBWkaVOE6NHPqa"
@@ -19677,6 +19831,28 @@
     },
     {
       "album": {
+        "name": "BIG CA$H",
+        "url": "https://open.spotify.com/album/1XVJWUfSwdUuOicmgjYd1m"
+      },
+      "artists": [
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "DESSIIIK",
+          "url": "https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150204,
+      "name": "Strike",
+      "url": "https://open.spotify.com/track/0wrQ9w2VDfPc9JFA85imjj"
+    },
+    {
+      "album": {
         "name": "SUBMUNDO - EP",
         "url": "https://open.spotify.com/album/1aqhJ0KOFa7QT9sp6kgKjX"
       },
@@ -20366,6 +20542,40 @@
       "duration_ms": 109723,
       "name": "Thc",
       "url": "https://open.spotify.com/track/1RvF2WLvq8xVMYksqaWALN"
+    },
+    {
+      "album": {
+        "name": "THE BOX MEDLEY 6",
+        "url": "https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Lipinho Oficial",
+          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241799,
+      "name": "THE BOX MEDLEY 6",
+      "url": "https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu"
     },
     {
       "album": {
@@ -21168,6 +21378,28 @@
       "duration_ms": 112000,
       "name": "Turma do Bairro (Interl\u00fadio)",
       "url": "https://open.spotify.com/track/1dVpfF7fycdR2uO0BJwili"
+    },
+    {
+      "album": {
+        "name": "TWIN",
+        "url": "https://open.spotify.com/album/70VNiMRBaqfqa73jtrwAqW"
+      },
+      "artists": [
+        {
+          "name": "Shark47",
+          "url": "https://open.spotify.com/artist/32x7enJjI5BDRQUZNAHj3F"
+        },
+        {
+          "name": "Severo OG",
+          "url": "https://open.spotify.com/artist/2YyN20sS25TM7vlkjhkhVg"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156557,
+      "name": "TWIN",
+      "url": "https://open.spotify.com/track/0SUjyW8mo4hmyUYHOEyWbu"
     },
     {
       "album": {
@@ -22127,6 +22359,28 @@
     },
     {
       "album": {
+        "name": "BLACKJUSTINBIEBER",
+        "url": "https://open.spotify.com/album/6NY4bto5iCsH2F7VGesC7X"
+      },
+      "artists": [
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Jogzz",
+          "url": "https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186932,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/4Wvt9nPImBEokpxTBKUM7y"
+    },
+    {
+      "album": {
         "name": "V\u00e3o Falar Mal",
         "url": "https://open.spotify.com/album/0nU5cWX54zRZkiXxanJbgK"
       },
@@ -22496,7 +22750,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 104878,
       "name": "Zidane",
       "url": "https://open.spotify.com/track/5203anqH3H9vJT8URmbF4X"

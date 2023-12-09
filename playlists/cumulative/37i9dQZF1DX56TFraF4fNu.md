@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Micro TDH
 
-122 songs - 6 hr 24 min
+123 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 | 2023-03-31 |  |
 | [Que Mas Pues \- Remix](https://open.spotify.com/track/7fODjB7BrQTGqh0hogW6XD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 5:05 | 2023-03-31 |  |
 | [Que Vuelta](https://open.spotify.com/track/0o1MSPQCoDgRa6QNInsmM2) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [Que Vuelta](https://open.spotify.com/album/3ZBvfasRNMjMjy6b5RO0yx) | 3:26 | 2023-03-31 |  |
-| [Quizás \- Remix](https://open.spotify.com/track/42549yqr1MFmRCXSPpNrXn) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Quizás \(Remix\)](https://open.spotify.com/album/1VKVdWADMgG4Lkj39E98Lr) | 3:35 | 2023-03-31 |  |
+| [Quizás \- Remix](https://open.spotify.com/track/42549yqr1MFmRCXSPpNrXn) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Quizás \(Remix\)](https://open.spotify.com/album/1VKVdWADMgG4Lkj39E98Lr) | 3:35 | 2023-03-31 | 2023-12-09 |
 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2023-03-31 |  |
 | [Satisfayer](https://open.spotify.com/track/0wHDmsGl8OZcRv7GoadQWn) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Perro Romántico](https://open.spotify.com/album/5vS4SjErxZ0EGsiUYImwFN) | 1:51 | 2023-10-20 | 2023-12-02 |
 | [Si Te Vas](https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Si Te Vas](https://open.spotify.com/album/2S6p0g6YzG3609Ty45i5Cq) | 3:24 | 2023-03-31 |  |
@@ -128,6 +128,7 @@
 | [VOL 2](https://open.spotify.com/track/1TNSlRzSRjDeMJQQ2KzBQ4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 1:10 | 2023-09-29 |  |
 | [VOL 2](https://open.spotify.com/track/3YZyRP5bddC0iQTeALPQep) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:10 | 2023-09-29 | 2023-10-12 |
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2023-03-31 |  |
+| [XQ TAN DIFERENTE \(≠\)](https://open.spotify.com/track/1N1YQPsLuEP2k6bZEmNWew) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [XQ TAN DIFERENTE \(≠\)](https://open.spotify.com/album/4cotdPZq0krUEWJmljpnGN) | 3:00 | 2023-12-08 |  |
 | [Yo, que muero de soledad](https://open.spotify.com/track/5TFYCJBnFdRE1gRPmB6TkA) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Teddy Coldcuts](https://open.spotify.com/artist/7ojh0jV8kpQ9aGNSVElv1e) | [Yo, que muero de soledad](https://open.spotify.com/album/07qupx7WswYnEPnkJnJTFA) | 2:38 | 2023-11-10 |  |
 | [Zaza \(Chimbita\)](https://open.spotify.com/track/5oVdxjNUUjf9Q06LnPYYay) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Xantos](https://open.spotify.com/artist/3HPOnbuwLP2qlwWQ7cgxYW), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Zaza \(Chimbita\)](https://open.spotify.com/album/7tZYg2RzA4NSNFACxWhy9Y) | 3:08 | 2023-03-31 | 2023-07-22 |
 

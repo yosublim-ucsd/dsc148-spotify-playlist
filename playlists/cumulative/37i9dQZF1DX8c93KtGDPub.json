@@ -3961,6 +3961,32 @@
     },
     {
       "album": {
+        "name": "Strict Joy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6VuvqpeSGgdtJrrmPJFxld"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        },
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589653,
+      "name": "Star Star (Live)",
+      "url": "https://open.spotify.com/track/05gfBG9GcyEbLTrUS8TPc1"
+    },
+    {
+      "album": {
         "name": "Strict Joy [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5dA8EHydNLWo29675jA2cj"
       },
@@ -3990,7 +4016,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 589653,
       "name": "Star Star - Live",
       "url": "https://open.spotify.com/track/3F3SaGhhAlXVUDD1Y3jIQ3"

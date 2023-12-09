@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,281 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,502 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 27 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 | 28 | [Boa Noite](https://open.spotify.com/track/6BCizRXYVjlVsTHWporI29) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b) | [Boa Noite](https://open.spotify.com/album/2bxlAdHsTpyuo1eWjMMuMc) | 2:46 |
 | 29 | [Madres](https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:56 |
-| 30 | [Bosque Verde \- Radio Edit](https://open.spotify.com/track/03rLGvMkzl9qtHJ6ceYGe4) | [DiMO \(BG\)](https://open.spotify.com/artist/0gp2EoMHGiVIho7ba9nPmw), [Dan Tanev](https://open.spotify.com/artist/2nfwsX5i1HNXkoJjRiGMpi) | [Bosque Verde \(Radio Edit\)](https://open.spotify.com/album/0LlBZ4D5LFzC22FfiDHwWJ) | 3:23 |
+| 30 | [Bosque Verde \- Radio Edit](https://open.spotify.com/track/7o8GY5XYAHCaBSb8yRVr3S) | [DiMO \(BG\)](https://open.spotify.com/artist/0gp2EoMHGiVIho7ba9nPmw), [Dan Tanev](https://open.spotify.com/artist/2nfwsX5i1HNXkoJjRiGMpi) | [Bosque Verde \(Radio Edit\)](https://open.spotify.com/album/71m3f0lXBHQd7oa6fqCAGZ) | 3:23 |
 | 31 | [Scandalosa](https://open.spotify.com/track/7tcyt0AGkCSYwiO9nkzCW7) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [LeCloarec](https://open.spotify.com/artist/0Aa8SAfVNznvAyAFmfgu1x) | [Scandalosa](https://open.spotify.com/album/3mdWkfqmhJ6rpmcIP6dEEj) | 7:21 |
 | 32 | [Rumba Tumba \- TÂCHES Remix](https://open.spotify.com/track/1RdEvl55O3CIDJPvMUEsIC) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Alkaline Georgi](https://open.spotify.com/artist/5saZfXv9xuKNduTSutboQ6) | [With Each Passing Day](https://open.spotify.com/album/0V8V5mvIx3HwSZjtsuYNGz) | 5:42 |
 | 33 | [Feeling Good \- Band&Dos Radio Edit](https://open.spotify.com/track/5sIaYxoC2vnvLxB8APSxml) | [The Angels](https://open.spotify.com/artist/2pVGLwnxVTzWK6fdTzwVSz), [Shrii](https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo), [Band&dos](https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI) | [Feeling Good \(Band&Dos Remix\)](https://open.spotify.com/album/3GOMvt7Mzb0FUtsNcmygoZ) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [A Flecha \- Extended](https://open.spotify.com/track/5uzzl0M6zG2L2nByFip1Z3) | [Natema](https://open.spotify.com/artist/4rRv0Fox6Cw8lHMorSyksg) | [A Flecha](https://open.spotify.com/album/1ukLthhXWSmgM73XHTMT9T) | 6:05 |
 | 50 | [Chan Chan](https://open.spotify.com/track/0K4Cv55G86CAGt2wwRIceK) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Joao del Monte](https://open.spotify.com/artist/7pMIhJRnRP1wg1rAW3wy9v) | [Chan Chan](https://open.spotify.com/album/4TFMCF9Z7ZYvvlLcMRFzxD) | 5:18 |
 
-Snapshot ID: `MCwyOWM5ZGYwYjdkMGMyYmZjNWQwOTE3OWYxZGNkOTMyNDNkNjEzMTcy`
+Snapshot ID: `MCxmNjE3Y2YxZDU0MjA1M2ZhYjRiOTg0NTRjZjI5OTNmZDhhYWRhMjc3`

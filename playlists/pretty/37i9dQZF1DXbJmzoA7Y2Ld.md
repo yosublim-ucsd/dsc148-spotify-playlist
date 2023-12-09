@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 
 > Blues favorites released in 2020\. Cover: Shemekia Copeland
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,063 likes - 46 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,067 likes - 46 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 | 37 | [Storm Came](https://open.spotify.com/track/6oHqTQAnT0gqHfirnS1pu9) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Thomas Lindsey](https://open.spotify.com/artist/6HgqFc4JO1dbSw6oIqrdVi) | [Amitié](https://open.spotify.com/album/46lxdP9TY1y8hLJyy2NWFE) | 2:18 |
 | 38 | [Homemade Disaster](https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1) | 3:14 |
 | 39 | [On Fire Like Zsa Zsa](https://open.spotify.com/track/2s5GAeKtQZfaSXOL3bqg5I) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/2FPldCz6JwLElIjJZ9B9s9) | 3:21 |
-| 40 | [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 |
+| 40 | [Howlin'](https://open.spotify.com/track/0VauXNyCPoRumexBquycYR) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Bury Me](https://open.spotify.com/album/5bH0uvRjdLCrxG73wayab9) | 2:56 |
 | 41 | [Troubled Man](https://open.spotify.com/track/40Um13ugeXKggVtaJF0i03) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT), [The Brotherhood](https://open.spotify.com/artist/6N9kctJhQRc8tzejdUOYNW), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Blue Sky](https://open.spotify.com/album/34Jvqkq2fN1s8GmEGTo6X2) | 3:34 |
 | 42 | [Threw Me to the Wolves](https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves \(Revisited\)](https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6) | 3:52 |
 | 43 | [All My Dues Are Paid](https://open.spotify.com/track/3znhGwwxf4qFynHf6tnNwD) | [Frank Bey](https://open.spotify.com/artist/0na4KYz5VSu44CvyPGVzKE) | [All My Dues Are Paid](https://open.spotify.com/album/6txO0ubyiIe50vVGyUAUyg) | 4:11 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 | 45 | [Just Beyond the Dawn](https://open.spotify.com/track/41l5Dk1GoCjzjLy7e5ePiY) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Just Beyond the Dawn](https://open.spotify.com/album/5WoOhAzEqK5IwUs0i96RNP) | 3:10 |
 | 46 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
 
-Snapshot ID: `MCxmNjg1OTkwYjYzZTZhZDk0NGJlMzExMjA2OWRiZDI3ODk1MjI0Mjdm`
+Snapshot ID: `MCwyMzNkODQ4YjNkNDIzYWE2NjY3MTY3M2M5OWJmY2I4MzIwNjU5M2M0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,748 likes - 150 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,899 likes - 150 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 149 | [1 Room](https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 3:52 |
 | 150 | [Ribbon](https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:06 |
 
-Snapshot ID: `MCw2MWEyOGJhOWYwZDM1YzdkMjMyMTI0MGJjNTA4MTNiN2JiOTc3MDdk`
+Snapshot ID: `MCw0MzFiYzIxNWM4Zjc0Mjg3MmZmYzk3YTY2MWRmNzk1ODk2NWZmNTQ4`

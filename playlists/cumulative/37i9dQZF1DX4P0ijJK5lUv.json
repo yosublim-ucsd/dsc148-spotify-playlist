@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Christmas Through the Ages",
+        "url": "https://open.spotify.com/album/00llkASE5DJCnCuqcZR89x"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Leighton",
+          "url": "https://open.spotify.com/artist/4KNbrQQ9B1wRB4asKMQUfj"
+        },
+        {
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+        },
+        {
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197213,
+      "name": "3 Carols, Op. 25: No. 2, Lully, Lulla, Thou Little Tiny Child",
+      "url": "https://open.spotify.com/track/3XH4NG7sofCpKz8YBMwsC3"
+    },
+    {
+      "album": {
         "name": "Christmas Festival",
         "url": "https://open.spotify.com/album/6K8tX0izIKPpeVx4RQEorz"
       },
@@ -928,6 +954,36 @@
       "duration_ms": 293146,
       "name": "Carol of the Bells (arr. piano)",
       "url": "https://open.spotify.com/track/5FCJXbQPOgC68fpHnBgHWx"
+    },
+    {
+      "album": {
+        "name": "Christmas Through the Ages",
+        "url": "https://open.spotify.com/album/00llkASE5DJCnCuqcZR89x"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+        },
+        {
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195746,
+      "name": "Carol of the Children",
+      "url": "https://open.spotify.com/track/4bpURm7v2afEIu4f92Q7jU"
     },
     {
       "album": {

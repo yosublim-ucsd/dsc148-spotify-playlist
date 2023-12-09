@@ -4,10 +4,11 @@
 
 > This year's new country holiday songs! Cover: Maddie & Tae
 
-92 songs - 4 hr 56 min
+95 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Horse Named Christmas](https://open.spotify.com/track/3JnduhM1P90BlPx6AaVmwJ) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Kimberly Kelly](https://open.spotify.com/artist/5lXFUPKLFCgdpsP7WJ3Czc) | [A Horse Named Christmas](https://open.spotify.com/album/78Wq9rLNmmYOToHdYGQwkw) | 2:59 | 2023-12-08 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/1ONdZCRH07xQUgkTxA9kKQ) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [All I Want For Christmas Is You](https://open.spotify.com/album/2Ke8YIg9jYWhaqhUNAWbhT) | 4:11 | 2023-11-24 |  |
 | [ALL I WANT FOR CHRISTMAS IS YOU](https://open.spotify.com/track/7rPinTAHul6UER4cNmyHY9) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Anna Moon](https://open.spotify.com/artist/0DGI7yVTDYCnkY06mBLBje) | [ALL I WANT FOR CHRISTMAS IS YOU \(feat\. Anna Moon\)](https://open.spotify.com/album/6ArfVumRHgUfcs9QafIkv9) | 4:06 | 2023-11-24 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/5doDIuDiarczhIkbudNuUC) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [All I Want for Christmas Is You](https://open.spotify.com/album/7itCtZEW4ZIPgFGIGQ0Doo) | 3:35 | 2023-11-24 |  |
@@ -45,6 +46,7 @@
 | [Hard Candy Christmas](https://open.spotify.com/track/5j0cJnxgBeHAPw02it3R64) | [Rachel Edge](https://open.spotify.com/artist/5KW8PdAs3eCFWi7dAoEIM8), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Hard Candy Christmas](https://open.spotify.com/album/5mpRAA2ljY76uCnCu1cJRK) | 3:32 | 2023-11-24 |  |
 | [Hard Candy Christmas](https://open.spotify.com/track/29ndsk3u476Z2EsLzcvlF6) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [For You For Christmas](https://open.spotify.com/album/6DTy9NvZKKEFhixx3Qra3s) | 3:34 | 2023-11-24 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2yl1PQ1M2lEzISV7xemFee) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/6aZuXbMJjFf8zcbA27h3HD) | 4:34 | 2023-11-24 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/77aDdG4vLSFn4sEM3burtJ) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7djQadfzYqqFoggnnJiheR) | 4:05 | 2023-12-08 |  |
 | [Holiday Road](https://open.spotify.com/track/6iv3rsnlG2NKFuIh5t3uT1) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Holiday Road](https://open.spotify.com/album/7CHqXHrygge73VcQKj6Vva) | 2:08 | 2023-11-24 |  |
 | [Hot Pink Christmas](https://open.spotify.com/track/1RQWYbbVJCsQErc09l3VVQ) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Hot Pink Christmas](https://open.spotify.com/album/2LIjyzfiw867GA7EJ477ZT) | 2:36 | 2023-11-24 |  |
 | [Hurry Up Christmas](https://open.spotify.com/track/5xSMrP8c9doImUxajUi882) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/1fLwyTyXwRYx387gZLPJx9) | 2:47 | 2023-11-24 |  |
@@ -68,6 +70,7 @@
 | [O Christmas Tree](https://open.spotify.com/track/18k5cXsmyfv8zQjY7KManB) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [O Christmas Tree](https://open.spotify.com/album/2G29sODSfS34dFxpBSGrdu) | 2:44 | 2023-11-24 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/7vAtxxIskJvuEjEzzZ5hco) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [O Come All Ye Faithful](https://open.spotify.com/album/77RAitt8pGClwqj64jOGEB) | 3:59 | 2023-11-24 |  |
 | [O Holy Night](https://open.spotify.com/track/24u4rA8edrSR9atuzyh91Q) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 4:37 | 2023-11-24 |  |
+| [O Holy Night](https://open.spotify.com/track/1basKOs1JqdhGItHhU3IHM) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Classic Country Christmas](https://open.spotify.com/album/2oeipRRBTmA3FZBbwqLDu7) | 3:48 | 2023-12-08 |  |
 | [O Holy Night](https://open.spotify.com/track/3132nlQjmjbqTfngpTP9jw) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [O Holy Night](https://open.spotify.com/album/3KLLCWa0AzGm2YwIaJJz1R) | 4:57 | 2023-11-24 |  |
 | [O Holy Night](https://open.spotify.com/track/14K3UQ2IR4UfmAxjadEOB6) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [O Holy Night](https://open.spotify.com/album/085lMH6I79hVVbyATMspdf) | 3:09 | 2023-12-01 |  |
 | [Once A Year](https://open.spotify.com/track/0ZdlHTzPhkKGvIvd7dIMeo) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Once A Year](https://open.spotify.com/album/73xMNATNLhKm7R2HfzgVZc) | 2:57 | 2023-11-24 |  |

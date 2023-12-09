@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of electronic trap. Cover: Boombox Cartel & FrostTop",
+  "description": "The best of electronic trap. Cover: Jon Casey & Pauline Herr",
   "name": "Trap Mojito",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 150370,
       "name": "Active",
       "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Brain Tickler",
+        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+      },
+      "artists": [
+        {
+          "name": "Ahee",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144134,
+      "name": "Brain Tickler",
+      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
+    },
+    {
+      "album": {
         "name": "Braincase",
         "url": "https://open.spotify.com/album/2yTltxoHOTg3reSa6Hll3r"
       },
@@ -897,6 +915,28 @@
     },
     {
       "album": {
+        "name": "Choppas",
+        "url": "https://open.spotify.com/album/2tL2mYx1by5C0Vne9ilN5Q"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Cesqeaux",
+          "url": "https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178008,
+      "name": "Choppas",
+      "url": "https://open.spotify.com/track/53KC0vl1WMkoMYrJkqwygf"
+    },
+    {
+      "album": {
         "name": "Cobra",
         "url": "https://open.spotify.com/album/1se7OjX41LBkLRQT73mR1t"
       },
@@ -1199,6 +1239,32 @@
     },
     {
       "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
+    },
+    {
+      "album": {
         "name": "Blow the Roof",
         "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
       },
@@ -1280,6 +1346,28 @@
       "duration_ms": 152000,
       "name": "Dojo (feat. TroyBoi)",
       "url": "https://open.spotify.com/track/4u4qWIezCZStrTvpQJGIBM"
+    },
+    {
+      "album": {
+        "name": "DON'T SAY (Hex Cougar Remix)",
+        "url": "https://open.spotify.com/album/4f9k3G2TXaMJEaAzxGIudL"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "DON'T SAY - Hex Cougar Remix",
+      "url": "https://open.spotify.com/track/3t9tnaSIsLdUMfvkAwTpwx"
     },
     {
       "album": {
@@ -1517,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/6nOfozdTp3QQv3rTXkb2LP"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212977,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/0YnZDJrw2Rtkj3k99U3wXr"
+    },
+    {
+      "album": {
         "name": "enough",
         "url": "https://open.spotify.com/album/6NBSOdNlc2dhzHrHttMUhw"
       },
@@ -1678,7 +1784,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 270000,
       "name": "Fatal Attraction (feat. Reese LAFLARE)",
       "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
@@ -2119,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "GITP",
+        "url": "https://open.spotify.com/album/09p0AA8UmQWGViT4MegOjA"
+      },
+      "artists": [
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234737,
+      "name": "GITP",
+      "url": "https://open.spotify.com/track/3N6pwAMhcYjyaN2Jd4UTpe"
+    },
+    {
+      "album": {
         "name": "Kid Calamity",
         "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
       },
@@ -2382,7 +2506,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 191244,
       "name": "Hand Up (Bass Boosted)",
       "url": "https://open.spotify.com/track/7jJDybHOdsOxKvM90HRDFu"
@@ -2612,7 +2736,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 173950,
       "name": "I Admit It (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am"
@@ -3079,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "A Sleeping Scene",
+        "url": "https://open.spotify.com/album/7amPkoYXOMxqERJlikDT2K"
+      },
+      "artists": [
+        {
+          "name": "DMVU",
+          "url": "https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274153,
+      "name": "Killa Sound",
+      "url": "https://open.spotify.com/track/3w5zppchpoYcxkipSI9PJs"
+    },
+    {
+      "album": {
         "name": "Kindred",
         "url": "https://open.spotify.com/album/18utaWOKDrEGnQBsj1PWTE"
       },
@@ -3382,7 +3524,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 165675,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh"
@@ -3400,7 +3542,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 203809,
       "name": "Love Hotel",
       "url": "https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN"
@@ -3740,6 +3882,40 @@
       "duration_ms": 174967,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/1Ezrl79QX3LqBk9v3qIdCl"
+    },
+    {
+      "album": {
+        "name": "Monzo",
+        "url": "https://open.spotify.com/album/0SzAdr9vEME4ynywDkEZLS"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        },
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "X&G",
+          "url": "https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG"
+        },
+        {
+          "name": "Gaszia",
+          "url": "https://open.spotify.com/artist/4g1Lsci8x957T6ksPgsW6Z"
+        },
+        {
+          "name": "Kollaba",
+          "url": "https://open.spotify.com/artist/6Ls6gOeudldLCGkNCgUMTG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194993,
+      "name": "Monzo",
+      "url": "https://open.spotify.com/track/4uEE7AyvysiCXq7jBdj4NJ"
     },
     {
       "album": {
@@ -4548,7 +4724,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 121007,
       "name": "Red Ish",
       "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
@@ -4756,7 +4932,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 165346,
       "name": "SABER TOOTH",
       "url": "https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC"
@@ -4925,6 +5101,32 @@
     },
     {
       "album": {
+        "name": "Shift",
+        "url": "https://open.spotify.com/album/6mT3Y11cQk2dSQBdjhrgCP"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Shift",
+      "url": "https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO"
+    },
+    {
+      "album": {
         "name": "Shut Shit Down",
         "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
       },
@@ -5028,7 +5230,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 244302,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
@@ -5240,7 +5442,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 150857,
       "name": "Steve Aoki (feat. bludnymph)",
       "url": "https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx"
@@ -5965,6 +6167,32 @@
     },
     {
       "album": {
+        "name": "For The Love Of Bounce",
+        "url": "https://open.spotify.com/album/0JVygXqxUp7sIyDrFDiRvB"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "UK Ting",
+      "url": "https://open.spotify.com/track/3PuTUAsUTR7D3PnYtW1yj4"
+    },
+    {
+      "album": {
         "name": "ULTRAMAGNET",
         "url": "https://open.spotify.com/album/6XaUan1jso0Nbpiqe3UYmy"
       },
@@ -6130,6 +6358,28 @@
       "duration_ms": 154616,
       "name": "WARDOGZ",
       "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
+    },
+    {
+      "album": {
+        "name": "Whip It Up",
+        "url": "https://open.spotify.com/album/1HovnCOvJthebS7vPVVw63"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Peaceful James",
+          "url": "https://open.spotify.com/artist/7GmgIztm5lnP5w3pefyYF1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Whip It Up",
+      "url": "https://open.spotify.com/track/6u9plBOCtznp7bGnxNZt5S"
     },
     {
       "album": {
@@ -6342,7 +6592,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 159310,
       "name": "Zurna",
       "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"

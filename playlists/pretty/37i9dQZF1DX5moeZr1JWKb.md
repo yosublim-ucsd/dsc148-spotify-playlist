@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Tres Coronas
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,504 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,505 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 42 | [Un Beso](https://open.spotify.com/track/007UTWXFgD65IDRcoVvQx9) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Astrallbass](https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t) | [Un Beso](https://open.spotify.com/album/4wT4HRcRMowd3m2smj8NfI) | 3:43 |
 | 43 | [frutiño](https://open.spotify.com/track/3hDU4KpyHbpZfbkGf6YorE) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX) | [back to lo básico](https://open.spotify.com/album/4rrhaxUtoUqJjShPKM5h4x) | 3:15 |
 | 44 | [Tú](https://open.spotify.com/track/3qP10K3jeiB2xoz8OZF6nO) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:33 |
-| 45 | [The Look Of Love](https://open.spotify.com/track/7IpyBfP2eVGHGiGgkJqGxS) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq) | [The Look Of Love](https://open.spotify.com/album/3CEjATheM3YuuXKG0sU8XE) | 3:21 |
+| 45 | [The Look of Love](https://open.spotify.com/track/1gAHoIk7sdqxdXTNRgeYX1) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [The Look of Love](https://open.spotify.com/album/4yVrtmVo36fxd2nGCKuxMT) | 3:19 |
 | 46 | [Ya No Te Pude Ver](https://open.spotify.com/track/4qSqnCaVelsI9bvwrxJjty) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:41 |
 | 47 | [Rostros](https://open.spotify.com/track/7Cx1EFIk3QU9l5mrSwiuv5) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Astrallbass](https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t) | [Rostros](https://open.spotify.com/album/1lhMLJ6dQ8mvdT0bT7ZG3i) | 4:35 |
 | 48 | [La Llave del Universo](https://open.spotify.com/track/5DFu8B851bdNDpKipQsoFW) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 74 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
 | 75 | [Mal Ejemplo](https://open.spotify.com/track/1IwdJy0egbXlhmY6dmTU9j) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mal Ejemplo](https://open.spotify.com/album/26dgbqThI76gzXN2lTAcfK) | 3:11 |
 
-Snapshot ID: `MCwxMzg4NWVlODVkMWU2MzFiMzMwYWVjOGI3N2Q5YzQyYzFlNDM1NmNl`
+Snapshot ID: `MCw4NDVlNTQ5OTgyNTMwM2EyNTMwMTI2OThhMWUzY2RhNTY0NDQ1YWJl`

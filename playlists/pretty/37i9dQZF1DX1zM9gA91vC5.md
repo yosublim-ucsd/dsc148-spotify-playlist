@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,774 likes - 250 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,779 likes - 250 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 |
 | 250 | [Chi cerca trova](https://open.spotify.com/track/5dm9SeBifoI3dIiWkgAYvR) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Chi cerca trova](https://open.spotify.com/album/2ekqyWVRTlwJcHhn2nz7AV) | 2:29 |
 
-Snapshot ID: `MCxkYTQ2OGEzOWI2N2JlN2NkZTk4N2MzNGY4NzhmZDI2NDNlZWJjMjE2`
+Snapshot ID: `MCw2ZmQwYTYzOGIxZTE3ZTI2Nzc4ZTRlMTExMmFhZDY5ZWYzNThjYzdm`

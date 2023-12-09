@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Amaarae",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Tyla",
   "name": "Channel-X",
   "tracks": [
     {
@@ -460,7 +460,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 156014,
       "name": "Aint Mine",
       "url": "https://open.spotify.com/track/52hK9zEXqx2Fvxz8X4nWxb"
@@ -4658,7 +4658,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 227878,
       "name": "Gyaldem Riddim (feat. PsychoYP)",
       "url": "https://open.spotify.com/track/7ArtQ0O1ced93NTjokhwtt"
@@ -4702,10 +4702,36 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 137142,
       "name": "HALLELUJAH (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
+    },
+    {
+      "album": {
+        "name": "Happiness (feat. Asake & Gunna)",
+        "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174743,
+      "name": "Happiness (feat. Asake & Gunna)",
+      "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
     },
     {
       "album": {
@@ -5124,7 +5150,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 166623,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
@@ -5623,6 +5649,28 @@
     },
     {
       "album": {
+        "name": "ROCK PAPER SCISSORS: RECUT",
+        "url": "https://open.spotify.com/album/62ZENIIyJs5LzzG2nOdHR1"
+      },
+      "artists": [
+        {
+          "name": "Rosemarie",
+          "url": "https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "Is It Real? (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3RlcyNhoM8zAEL32RF6axe"
+    },
+    {
+      "album": {
         "name": "Is It Real? (feat. Roddy Ricch)",
         "url": "https://open.spotify.com/album/4HORf4RtMyCUu5FIQ6pEsS"
       },
@@ -5638,7 +5686,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 203294,
       "name": "Is It Real? (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/6VWxLcnrLGJDE6Cr4nm0lW"
@@ -6244,7 +6292,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 139586,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
@@ -6709,6 +6757,28 @@
     },
     {
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/5l41YMfQTv7Rn2htpTbDit"
       },
@@ -7004,6 +7074,32 @@
       "duration_ms": 172647,
       "name": "missin u - r&b edit",
       "url": "https://open.spotify.com/track/2TpcFRFD5DESYD1JF9nJ9q"
+    },
+    {
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221242,
+      "name": "Mistaken",
+      "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
     },
     {
       "album": {
@@ -9271,6 +9367,36 @@
     },
     {
       "album": {
+        "name": "She Ready 2",
+        "url": "https://open.spotify.com/album/61dfJtAsI75mR2c0zvf4oJ"
+      },
+      "artists": [
+        {
+          "name": "Myles Brando",
+          "url": "https://open.spotify.com/artist/6W6KuSNP1kE8MJAx6XVU09"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203946,
+      "name": "She Ready 2",
+      "url": "https://open.spotify.com/track/27rt6BpE2zbjc0GwNWKI2c"
+    },
+    {
+      "album": {
         "name": "She'll Be OK",
         "url": "https://open.spotify.com/album/04XpFnF73mrCeMAyjqFTYg"
       },
@@ -10254,7 +10380,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 216546,
       "name": "Stay Part 1 (feat. Kalan.FrFr, K-Ci Hailey and Jeremih)",
       "url": "https://open.spotify.com/track/3lIfHGfbcisJ8S3MLDux5G"
@@ -11128,7 +11254,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 195394,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/46HSxW50CCEQgCwhdxUvZB"
@@ -11306,7 +11432,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 152072,
       "name": "Undercover Lover",
       "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"
@@ -12246,7 +12372,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 230000,
       "name": "Wossop",
       "url": "https://open.spotify.com/track/6QvgQtIQzYy48w68M4iFhL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,444 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,455 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 |
 | 125 | [Rollin' \(with Eli Mac\)](https://open.spotify.com/track/7KgeB13kf4VXVEOT4AVtBX) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Eli\-Mac](https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK) | [Departure](https://open.spotify.com/album/1hVbu9jTKeMS477FLE8tX5) | 3:15 |
 
-Snapshot ID: `MCw1ODEwNjJmNWY0ZmY1ZTM2YzIxZDI4ZWQ1ZWZkOTYwNjI4NDM0Mzkw`
+Snapshot ID: `MCxkYjc4NTk2MmMzMjcyMDdmZWUxMmQ0YTY1ZGZkYTc2MmY0MjYwZTdi`

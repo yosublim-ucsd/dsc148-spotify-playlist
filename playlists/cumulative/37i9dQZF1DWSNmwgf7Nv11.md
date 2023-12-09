@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-294 songs - 18 hr 32 min
+298 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Binge Drinking & D.H\. Lawrence](https://open.spotify.com/track/2ChuBy6tP62Nu0MWL5BX0H) | [Lake South](https://open.spotify.com/artist/5IQtbBmCk7x6ZJT6iqKZjF) | [If You're Born On An Island The Ocean Heals You](https://open.spotify.com/album/7CadRR5bDJBC1CAbbVSbYD) | 3:58 | 2023-06-09 |  |
 | [Blind Man \(Gionna Lee Remix\)](https://open.spotify.com/track/1dx7c3AyA4F9m82gXMqSQU) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Blind Man \(Gionna Lee Remix\)](https://open.spotify.com/album/6N6i6STxE8KkiZ4oD2v128) | 3:33 | 2021-07-30 |  |
 | [Blow Up](https://open.spotify.com/track/2SAmtUrqUOsNXkYBTIFYNG) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Land of No Junction](https://open.spotify.com/album/10QaSb6RScjUha6Wkeu1Km) | 4:51 | 2021-07-30 |  |
-| [Bones](https://open.spotify.com/track/0hGO3Ws99t05Iboxcve9DC) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bones](https://open.spotify.com/album/3xHx0ZEM8KLsEN7yGqYUAf) | 2:58 | 2021-07-30 |  |
+| [Bones](https://open.spotify.com/track/0hGO3Ws99t05Iboxcve9DC) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bones](https://open.spotify.com/album/3xHx0ZEM8KLsEN7yGqYUAf) | 2:58 | 2021-07-30 | 2023-12-09 |
+| [Bones](https://open.spotify.com/track/2DDKpgjub5JCPkM41bH3Tp) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV) | 2:58 | 2023-06-09 |  |
 | [Broken Wing](https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A) | [Evil](https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD) | [Broken Wing](https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr) | 4:35 | 2021-08-30 | 2022-02-26 |
 | [Bronze \- Acoustic](https://open.spotify.com/track/0lmDEvJrYoNGB7WwH4YsLD) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. III](https://open.spotify.com/album/3QcsQCJT7QmIlPdVznpsmv) | 3:38 | 2022-02-25 |  |
 | [Bronze \- Acoustic](https://open.spotify.com/track/0z4Xb99vjsFVSHzcwPMg4n) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Better Than the Pain / Bronze \(Acoustic\)](https://open.spotify.com/album/66YoBGlVuCJtczrsHm5GTr) | 3:38 | 2021-07-30 | 2022-07-29 |
@@ -127,7 +128,8 @@
 | [Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/track/3SGLrn5arZurgQifNAV7Sm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [You've Got a Woman / Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/album/1AnS0syANUM5Qpv6hLxd22) | 1:49 | 2022-02-25 |  |
 | [Heathering](https://open.spotify.com/track/5JsIWFdKcgUD02KrGRIcnL) | [Your Friend](https://open.spotify.com/artist/0shSyn6H4T9cdmM3j0tTnA) | [Heathering](https://open.spotify.com/album/65Rq4tTsFWSKIBKYuriH8u) | 4:22 | 2021-07-30 | 2022-07-29 |
 | [Heathering](https://open.spotify.com/track/6j8AX1UsEt4WQqK1IIVbgS) | [Your Friend](https://open.spotify.com/artist/0shSyn6H4T9cdmM3j0tTnA) | [Gumption](https://open.spotify.com/album/61cxehrTLtnviFkhATZ9mp) | 4:22 | 2022-02-25 |  |
-| [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 | 2021-07-30 |  |
+| [Heavy](https://open.spotify.com/track/26eylodAJLTp1GkG4Q7wNy) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 3:01 | 2023-06-09 |  |
+| [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 | 2021-07-30 | 2023-12-09 |
 | [Hermosa Drive](https://open.spotify.com/track/3ZYlHhwB1YnzenzkURxprc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb) | 3:54 | 2023-01-16 |  |
 | [Hold On](https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:49 | 2022-02-25 |  |
 | [Hold On](https://open.spotify.com/track/5lXbZUPAC0ZPJ2zHRXGEIs) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold On](https://open.spotify.com/album/5rbn4SQx7JVldqUVFqyKBX) | 3:49 | 2021-07-30 | 2022-07-29 |
@@ -210,7 +212,8 @@
 | [Pale November Dew](https://open.spotify.com/track/1k0lOmYQWNyQnQYs0RepPV) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Pale November Dew](https://open.spotify.com/album/2ea78WFnPuZiXVietGV08T) | 3:50 | 2021-07-30 | 2022-07-29 |
 | [Pale November Dew](https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:50 | 2022-02-25 |  |
 | [Protection](https://open.spotify.com/track/78dfUJzw0hQnRlxgFY1qFY) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO), [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Nakama](https://open.spotify.com/album/7kPc6efhRopgssDtCKhY7i) | 4:34 | 2022-02-25 |  |
-| [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 | 2021-07-30 |  |
+| [Reds](https://open.spotify.com/track/2hBqCLEJc1OiRjMjHW2BnM) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/5lVHUBJ98A0YBQa1HPkamR) | 2:58 | 2023-06-09 |  |
+| [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 | 2021-07-30 | 2023-12-09 |
 | [Redwood Tree](https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Redwood Tree](https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep) | 2:50 | 2021-07-30 |  |
 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 | 2021-07-30 | 2022-07-29 |
 | [Ricochet](https://open.spotify.com/track/5UmoFSMOWeilPzzDCQHND2) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 3:20 | 2023-06-09 |  |
@@ -246,7 +249,8 @@
 | [Slumbr](https://open.spotify.com/track/5PQ1a1zxILh9ncbj2gwxEe) | [Zack Oke](https://open.spotify.com/artist/3M3KbaQtjT2PgdDLM85oqG), [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Sleepwalkers](https://open.spotify.com/album/16b9hC4l55WPqi5K3frIUI) | 2:42 | 2021-07-30 | 2023-10-15 |
 | [Still Clean](https://open.spotify.com/track/3z34424BttGlU2lTT3CneM) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 4:01 | 2022-02-25 |  |
 | [Still Clean](https://open.spotify.com/track/7M6Q6uTePWYONBQZh9h015) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Still Clean](https://open.spotify.com/album/7niXuUmy6b4EiYR5CnaqNe) | 4:01 | 2021-07-30 | 2022-07-29 |
-| [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/1Lp6ewfK7ABZWemResfRyK) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/3Xk3lT15u68kn5kxyCdGGs) | 3:48 | 2021-07-30 |  |
+| [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/1Lp6ewfK7ABZWemResfRyK) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/3Xk3lT15u68kn5kxyCdGGs) | 3:48 | 2021-07-30 | 2023-12-09 |
+| [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/6wurCbhueS1T61C2BgRHnL) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/6UxKGcyntU9E3f8Zx4PZ4b) | 3:48 | 2023-06-09 |  |
 | [Strangers](https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Strangers](https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui) | 3:13 | 2021-07-30 |  |
 | [Sweet Bunch](https://open.spotify.com/track/4M3HbDckVkAaEc5vAwt0Yn) | [Andy Jenkins](https://open.spotify.com/artist/7grGoDIxuUQFN3OwCuPXmN), [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Sweet Bunch](https://open.spotify.com/album/6BWD3OL99qv4osC443uacs) | 5:58 | 2021-07-30 | 2022-07-29 |
 | [Sweet Bunch \(feat\. Matthew E\. White\)](https://open.spotify.com/track/1Bo86IP547UQzMNAkhLfSr) | [Andy Jenkins](https://open.spotify.com/artist/7grGoDIxuUQFN3OwCuPXmN), [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Sweet Bunch](https://open.spotify.com/album/1OAd43hLS7VwHeXAP0BwBp) | 5:58 | 2022-02-25 |  |

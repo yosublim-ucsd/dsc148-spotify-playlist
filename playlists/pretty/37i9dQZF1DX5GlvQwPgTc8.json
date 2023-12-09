@@ -1,12 +1,12 @@
 {
   "description": "Your favourite party hits to kick off the weekend. Can you taste it?",
-  "num_followers": 20760,
+  "num_followers": 20761,
   "original_name": "That Party Feeling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDA5OWY1M2RjYzMzMzhlNDgwNjAyN2Y1YjNlZDA1YTU4OTU2YzVl",
+  "snapshot_id": "MCw4MTEzMTQxYThkNjEyNjBlMDFhNTQ3YTdlNzY4OGM3ZTI1OGRlOTkw",
   "tracks": [
     {
       "added_at": "2019-03-25 10:58:27",
@@ -969,32 +969,28 @@
       "url": "https://open.spotify.com/track/5mPl0yWNZXXMQnsLM8aiiq"
     },
     {
-      "added_at": "2020-09-07 09:37:59",
+      "added_at": "2018-12-03 10:26:01",
       "album": {
-        "name": "Brother Louie",
-        "url": "https://open.spotify.com/album/6mGRWR6C2qe3nWOn83iCbb"
+        "name": "Drive (feat. Delilah Montagu)",
+        "url": "https://open.spotify.com/album/3EDihmekkrp2FXfJiMAJlV"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Dieter Bohlen",
-          "url": "https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
         }
       ],
-      "duration_ms": 172459,
-      "name": "Brother Louie",
-      "url": "https://open.spotify.com/track/0fQfopzcRtmYxdK9xFA3Qr"
+      "duration_ms": 191258,
+      "name": "Drive (feat. Delilah Montagu) - Edit",
+      "url": "https://open.spotify.com/track/6X7PK2UQMUU36ux9pynSkV"
     }
   ],
   "unique_name": "That Party Feeling",

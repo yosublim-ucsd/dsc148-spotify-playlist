@@ -2998,10 +2998,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 240065,
       "name": "Mr. Midnight (Winter Time Remix)",
       "url": "https://open.spotify.com/track/3kAWVzglbxR3PjYg1NYF0C"
+    },
+    {
+      "album": {
+        "name": "Back 2 Love",
+        "url": "https://open.spotify.com/album/5aPQUMh6FT9qZA97ZH6QZH"
+      },
+      "artists": [
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "name": "Bee Boy$oul",
+          "url": "https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240065,
+      "name": "Mr. Midnight (Winter Time Remix)",
+      "url": "https://open.spotify.com/track/4YgSbiKEci7QjkOT0oo7zB"
     },
     {
       "album": {
@@ -4786,6 +4808,28 @@
     {
       "album": {
         "name": "From Lust Till Dawn",
+        "url": "https://open.spotify.com/album/4ZLdzPexpu7tb068zRz503"
+      },
+      "artists": [
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "name": "GeorgiaReign",
+          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157640,
+      "name": "Wait On Me Pt. 2 / Remix",
+      "url": "https://open.spotify.com/track/4WvBRYAI9k7BS2lk2Q1JsK"
+    },
+    {
+      "album": {
+        "name": "From Lust Till Dawn",
         "url": "https://open.spotify.com/album/4yDOgY5kkq7bi8o2WnAe6N"
       },
       "artists": [
@@ -4800,7 +4844,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 157640,
       "name": "Wait On Me Pt. 2 / Remix",
       "url": "https://open.spotify.com/track/6ZajtDkRBBiUKzf4Gmzhgc"

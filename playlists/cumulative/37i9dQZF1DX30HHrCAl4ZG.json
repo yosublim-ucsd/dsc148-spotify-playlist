@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring new music by Slow Pulp",
+  "description": "Explore all things indie rock right now. Featuring new music by Real Estate",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -6372,7 +6372,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 155733,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
@@ -9427,6 +9427,24 @@
     },
     {
       "album": {
+        "name": "Heading For The Door",
+        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Heading For The Door",
+      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
+    },
+    {
+      "album": {
         "name": "Headset Go",
         "url": "https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ"
       },
@@ -12115,6 +12133,24 @@
     },
     {
       "album": {
+        "name": "EP IV",
+        "url": "https://open.spotify.com/album/1NBvOzOE6BDw0yCOyTUvIM"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213002,
+      "name": "KPR",
+      "url": "https://open.spotify.com/track/1JhA5lyvVDg1fmsqsZdd0Z"
+    },
+    {
+      "album": {
         "name": "L-Train",
         "url": "https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO"
       },
@@ -12422,7 +12458,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 251386,
       "name": "Levee",
       "url": "https://open.spotify.com/track/3LjINbaBQeitJZD36pVdP4"
@@ -13030,6 +13066,24 @@
       "duration_ms": 210323,
       "name": "Love in the Afternoon",
       "url": "https://open.spotify.com/track/7GdhqmcbfFfTLXVfhysn1Y"
+    },
+    {
+      "album": {
+        "name": "Love To Walk Away",
+        "url": "https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127474,
+      "name": "Love To Walk Away",
+      "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
     },
     {
       "album": {
@@ -17500,7 +17554,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 224444,
       "name": "Say It Like You Mean It",
       "url": "https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc"
@@ -19318,7 +19372,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 162032,
       "name": "Stump",
       "url": "https://open.spotify.com/track/2HYNOLnG9RhqqPKAmYncek"
@@ -20254,7 +20308,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
@@ -21571,6 +21625,24 @@
     },
     {
       "album": {
+        "name": "u come near",
+        "url": "https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192390,
+      "name": "u come near",
+      "url": "https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN"
+    },
+    {
+      "album": {
         "name": "u dont kno me",
         "url": "https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp"
       },
@@ -22130,6 +22202,24 @@
       "duration_ms": 305946,
       "name": "Wall Of Eyes",
       "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
+    },
+    {
+      "album": {
+        "name": "Wanna",
+        "url": "https://open.spotify.com/album/5ziaDeu4Ulk0MkIujM5Fw8"
+      },
+      "artists": [
+        {
+          "name": "Paul Dally",
+          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153492,
+      "name": "Wanna",
+      "url": "https://open.spotify.com/track/5FxmV25XctzXjuHNaQPpBz"
     },
     {
       "album": {

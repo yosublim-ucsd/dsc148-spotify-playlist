@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with NGHTMRE, Rezz & DeathbyRomy",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Levity",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 290482,
       "name": "Back In Time",
       "url": "https://open.spotify.com/track/6APQnRyhLuPtpWyYDNSyCt"
@@ -1094,6 +1094,32 @@
       "duration_ms": 273333,
       "name": "Badman",
       "url": "https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ"
+    },
+    {
+      "album": {
+        "name": "Ball So Hard (PIERCE Remix)",
+        "url": "https://open.spotify.com/album/2TEa0aL1nxqMB4nLRHrbnt"
+      },
+      "artists": [
+        {
+          "name": "Hucci",
+          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+        },
+        {
+          "name": "Stooki Sound",
+          "url": "https://open.spotify.com/artist/6ky7h0ow6NQgAnsoN2AB7h"
+        },
+        {
+          "name": "PIERCE",
+          "url": "https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Ball So Hard - PIERCE Remix",
+      "url": "https://open.spotify.com/track/3Xe1gYN2scJOx0R4C289YY"
     },
     {
       "album": {
@@ -1745,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Brain Tickler",
+        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+      },
+      "artists": [
+        {
+          "name": "Ahee",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144134,
+      "name": "Brain Tickler",
+      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
+    },
+    {
+      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
       },
@@ -1858,7 +1902,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 238566,
       "name": "Brightest Light (feat. Dotter)",
       "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
@@ -1884,7 +1928,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 125851,
       "name": "Bring It Back (Spencer Ramsay Remix)",
       "url": "https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh"
@@ -2392,6 +2436,28 @@
       "duration_ms": 198281,
       "name": "CHOMP",
       "url": "https://open.spotify.com/track/6ehkaqY90vXs9noImg2AVT"
+    },
+    {
+      "album": {
+        "name": "Choppas",
+        "url": "https://open.spotify.com/album/2tL2mYx1by5C0Vne9ilN5Q"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Cesqeaux",
+          "url": "https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178008,
+      "name": "Choppas",
+      "url": "https://open.spotify.com/track/53KC0vl1WMkoMYrJkqwygf"
     },
     {
       "album": {
@@ -3235,6 +3301,32 @@
     },
     {
       "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
+    },
+    {
+      "album": {
         "name": "Do Over",
         "url": "https://open.spotify.com/album/5BuOTw8w1ZefJ8j3qaQsgU"
       },
@@ -3372,6 +3464,28 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "album": {
+        "name": "Don't You Dare Go Hollow",
+        "url": "https://open.spotify.com/album/1Hhc7Xf30VgmsLaRuyMGWY"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225857,
+      "name": "Don't You Dare Go Hollow",
+      "url": "https://open.spotify.com/track/26TKv9T50hSeZUi995fg5x"
     },
     {
       "album": {
@@ -4444,7 +4558,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 194823,
       "name": "Falling Over You",
       "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
@@ -4674,7 +4788,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 160357,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy"
@@ -4762,7 +4876,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 199147,
       "name": "Find It In Your Mind",
       "url": "https://open.spotify.com/track/29ytM04QyJTJWVzod8J75t"
@@ -5340,6 +5454,28 @@
       "duration_ms": 230400,
       "name": "Ghosts 'n' Stuff (feat. Rob Swire) [Jauz Remix]",
       "url": "https://open.spotify.com/track/70vjXI7oBou5buTtgiJeRW"
+    },
+    {
+      "album": {
+        "name": "Gladiator",
+        "url": "https://open.spotify.com/album/1syBtYI0asFIInNYjw7bNI"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Def3",
+          "url": "https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Gladiator",
+      "url": "https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb"
     },
     {
       "album": {
@@ -5974,7 +6110,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 229805,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/701sPqgQqlzdBPE8reDeBH"
@@ -7786,7 +7922,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "low",
       "url": "https://open.spotify.com/track/0MeVLXYXl55nom0wFD2hZm"
@@ -7808,7 +7944,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 255882,
       "name": "LOYAL",
       "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
@@ -7826,7 +7962,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 168000,
       "name": "Machine",
       "url": "https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx"
@@ -8303,6 +8439,40 @@
     },
     {
       "album": {
+        "name": "Monzo",
+        "url": "https://open.spotify.com/album/0SzAdr9vEME4ynywDkEZLS"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        },
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "X&G",
+          "url": "https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG"
+        },
+        {
+          "name": "Gaszia",
+          "url": "https://open.spotify.com/artist/4g1Lsci8x957T6ksPgsW6Z"
+        },
+        {
+          "name": "Kollaba",
+          "url": "https://open.spotify.com/artist/6Ls6gOeudldLCGkNCgUMTG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194993,
+      "name": "Monzo",
+      "url": "https://open.spotify.com/track/4uEE7AyvysiCXq7jBdj4NJ"
+    },
+    {
+      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/3asWZDjuiU2ED1GoVphwLr"
       },
@@ -8771,6 +8941,32 @@
     },
     {
       "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/1IqahQZWVdxO8ZMAsbO0hE"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        },
+        {
+          "name": "RISK",
+          "url": "https://open.spotify.com/artist/2y8amp7s5Rf4Qwj0Fke3Kr"
+        },
+        {
+          "name": "Gold",
+          "url": "https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Night Owl",
+      "url": "https://open.spotify.com/track/6Y1MgWD1GaACKpwmKPu12d"
+    },
+    {
+      "album": {
         "name": "Nightbird",
         "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
       },
@@ -8830,7 +9026,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 174400,
       "name": "NO FEAR",
       "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
@@ -9193,7 +9389,7 @@
         },
         {
           "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         },
         {
           "name": "Eptic",
@@ -10919,6 +11115,24 @@
     },
     {
       "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/2BILojmBtQCPOqer3QZgcT"
+      },
+      "artists": [
+        {
+          "name": "DMVU",
+          "url": "https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260808,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/50ORNvMk1shGimoj02FBrj"
+    },
+    {
+      "album": {
         "name": "Run It Up EP",
         "url": "https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8"
       },
@@ -11707,6 +11921,32 @@
     },
     {
       "album": {
+        "name": "Shift",
+        "url": "https://open.spotify.com/album/6mT3Y11cQk2dSQBdjhrgCP"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Shift",
+      "url": "https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO"
+    },
+    {
+      "album": {
         "name": "Shivering",
         "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
       },
@@ -12012,6 +12252,28 @@
       "duration_ms": 195310,
       "name": "Skull Machine",
       "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
+    },
+    {
+      "album": {
+        "name": "Casket Case",
+        "url": "https://open.spotify.com/album/0LAEzwovvTyF4o8s08G8uS"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Sky High",
+      "url": "https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA"
     },
     {
       "album": {
@@ -14458,7 +14720,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 214400,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
@@ -14828,7 +15090,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 219718,
       "name": "Your Lovin'",
       "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"

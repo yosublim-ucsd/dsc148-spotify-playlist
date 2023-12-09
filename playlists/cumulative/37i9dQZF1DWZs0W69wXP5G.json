@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Everything Broadway-adjacent. Cover: Ryan Gosling in Barbie",
+  "description": "Everything Broadway-adjacent. Cover: WONKA",
   "name": "Off Broadway",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 242079,
       "name": "All Love Is Love - Radio Edit",
       "url": "https://open.spotify.com/track/7lXxblI12cgLHjG5x38oWT"
@@ -2263,6 +2263,28 @@
     },
     {
       "album": {
+        "name": "Wonka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO"
+      },
+      "artists": [
+        {
+          "name": "Hugh Grant",
+          "url": "https://open.spotify.com/artist/0dtmYDbYpwcdHPBI1OJatT"
+        },
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64834,
+      "name": "Oompa Loompa",
+      "url": "https://open.spotify.com/track/17bN37TI0A1ZqTB5XGvQj7"
+    },
+    {
+      "album": {
         "name": "Out Alpha The Alpha",
         "url": "https://open.spotify.com/album/4vgXGnGzxojy5spBZranjW"
       },
@@ -2379,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Wonka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187997,
+      "name": "Pure Imagination (from \"Wonka\")",
+      "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
+    },
+    {
+      "album": {
         "name": "Puttin' on the Ritz",
         "url": "https://open.spotify.com/album/5lfj8Fo7O6MYpODE334Rhi"
       },
@@ -2489,6 +2529,28 @@
     },
     {
       "album": {
+        "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201347,
+      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
+    },
+    {
+      "album": {
         "name": "Crazy Ex-Girlfriend: Season 1 (Original Television Soundtrack, Vol. 1)",
         "url": "https://open.spotify.com/album/5gbZoZ7m1smzPGe5yDWWeL"
       },
@@ -2504,7 +2566,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 191800,
       "name": "Settle For Me (feat. Santino Fontana)",
       "url": "https://open.spotify.com/track/29ZLj9ivRLJg5vHpMUzYWp"

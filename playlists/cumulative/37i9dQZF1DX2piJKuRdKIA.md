@@ -4,7 +4,7 @@
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 
-81 songs - 6 hr 38 min
+82 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,11 +54,12 @@
 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 | 2021-04-30 |  |
 | [Porque Te Amo](https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Exitos Y Mas Exitos](https://open.spotify.com/album/0ZiO84WuLFyD21W4lq62LO) | 5:06 | 2021-04-30 |  |
 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1r2EerxDMVQbXxqsqnjUhy) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia](https://open.spotify.com/album/5wfnIPd0TYl6ZKNPhvaYwW) | 5:05 | 2021-04-30 |  |
+| [Quien Piensa En Ti](https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 7](https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN) | 4:38 | 2023-11-16 |  |
 | [Quien Piensa en Ti](https://open.spotify.com/track/5hJeFKfmLxHcwzz0lLsPTN) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Original](https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6) | 4:38 | 2022-07-28 | 2023-02-25 |
 | [Quiero Llenarte](https://open.spotify.com/track/2znlMTgRTU4VMbKzToDIyN) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 4:32 | 2021-04-30 |  |
 | [Quiero Morir En Tu Piel](https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 6:17 | 2021-04-30 |  |
 | [Quiero Quedarme en Ti](https://open.spotify.com/track/3JBLdVJrLFymAihS70d395) | [La Suprema Corte](https://open.spotify.com/artist/2oQSuDSAp77ozD3JqzEbEm) | [Escombros](https://open.spotify.com/album/5Y1RfqAu5RaqpfsCKY6ouD) | 4:48 | 2021-04-30 |  |
-| [Quién Piensa en Ti](https://open.spotify.com/track/2PnW8tCjNkP3Ctd8K3d8NS) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Salsa Original](https://open.spotify.com/album/2yeJL6Tv6HBNYL4kIlMPmY) | 4:38 | 2021-04-30 |  |
+| [Quién Piensa en Ti](https://open.spotify.com/track/2PnW8tCjNkP3Ctd8K3d8NS) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Salsa Original](https://open.spotify.com/album/2yeJL6Tv6HBNYL4kIlMPmY) | 4:38 | 2021-04-30 | 2023-12-09 |
 | [Si Supieras](https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Exitos Originales](https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy) | 5:10 | 2021-04-30 |  |
 | [Si Volveras a Mí](https://open.spotify.com/track/1PSD7RIsoOGQPgzmV7B2f6) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:50 | 2021-04-30 | 2022-07-29 |
 | [Si Volvieras A Mi](https://open.spotify.com/track/1GErRNAH0KFy0IbCIxqN4L) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:50 | 2022-07-28 | 2022-11-14 |

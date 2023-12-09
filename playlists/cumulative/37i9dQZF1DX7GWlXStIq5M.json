@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits j\u00e1 consagrados e os novos nomes da mistura pop dividindo o mesmo palco!  / Foto: Jade Baraldo",
+  "description": "Os hits j\u00e1 consagrados e os novos nomes da mistura pop dividindo o mesmo palco!  / Foto: CHAMELEO",
   "name": "Palco POP",
   "tracks": [
     {
@@ -734,6 +734,28 @@
       "duration_ms": 131300,
       "name": "Alma de Cigana",
       "url": "https://open.spotify.com/track/5bm3eNPRGw03HdazdZOiMK"
+    },
+    {
+      "album": {
+        "name": "ALTA TENS\u00c3O",
+        "url": "https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        },
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128021,
+      "name": "ALTA TENS\u00c3O",
+      "url": "https://open.spotify.com/track/3WpW3fck8V6yljWCRNynXL"
     },
     {
       "album": {
@@ -3395,6 +3417,36 @@
     },
     {
       "album": {
+        "name": "P\u00eassego",
+        "url": "https://open.spotify.com/album/3x36px2sBmvdOt0RcD0U1w"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        },
+        {
+          "name": "Melissa Hartman",
+          "url": "https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36"
+        },
+        {
+          "name": "Leo Ost",
+          "url": "https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196271,
+      "name": "Devi",
+      "url": "https://open.spotify.com/track/7ztSM4otmMcgWQF7yd05qv"
+    },
+    {
+      "album": {
         "name": "DEZ EM DEZ",
         "url": "https://open.spotify.com/album/2EvPoH55P6BNg7gn3RFFmE"
       },
@@ -5820,6 +5872,24 @@
       "duration_ms": 190153,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r"
+    },
+    {
+      "album": {
+        "name": "Juras De Amor",
+        "url": "https://open.spotify.com/album/7kHFuafy2K2CSNghMZuFsY"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179236,
+      "name": "Juras De Amor",
+      "url": "https://open.spotify.com/track/5TTerkWDZPhRqFaHBTfiV0"
     },
     {
       "album": {
@@ -8924,7 +8994,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Patipapa",
       "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
@@ -9909,6 +9979,36 @@
     },
     {
       "album": {
+        "name": "Princesinha",
+        "url": "https://open.spotify.com/album/1u09TfxCEGXrUh8Jbuedxc"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        },
+        {
+          "name": "Vivi",
+          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
+        },
+        {
+          "name": "Mc Tato",
+          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147850,
+      "name": "Princesinha",
+      "url": "https://open.spotify.com/track/0tMkiGINaYI9C4cxvD6LTc"
+    },
+    {
+      "album": {
         "name": "Principalmente Me Sinto Arrasada",
         "url": "https://open.spotify.com/album/0nGT3dSLevJUiziHzMlWKU"
       },
@@ -10364,6 +10464,32 @@
       "duration_ms": 193861,
       "name": "Que Passa",
       "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
+    },
+    {
+      "album": {
+        "name": "Que saudade de voc\u00ea",
+        "url": "https://open.spotify.com/album/24UppRUshYhEjY05qdUxh5"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        },
+        {
+          "name": "Gene Evaro Jr.",
+          "url": "https://open.spotify.com/artist/1YRe2Misa5PCCUiR8jAPZE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265068,
+      "name": "Que saudade de voc\u00ea",
+      "url": "https://open.spotify.com/track/6P6B7hMCL4irsQQ1jQu7qY"
     },
     {
       "album": {
@@ -11446,7 +11572,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 173684,
       "name": "sinto muito",
       "url": "https://open.spotify.com/track/1ZNk7XzTYha1MgKl4K3kJw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,385 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,466 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [I Could Have Told You](https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Could Have Told You](https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh) | 3:36 |
 | 150 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 |
 
-Snapshot ID: `MCw5ZmNjM2UzOTVjNGM3NmQwNWFmY2Q4ZTU4MzQ0NjYyNzYzNzg0MGFh`
+Snapshot ID: `MCxlYjIxMmJhZGY0YmIzZjU4MzA4NDA3NGU2MmEzZDVkZGU2YTZmNWQ2`

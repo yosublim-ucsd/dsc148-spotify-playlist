@@ -4,7 +4,7 @@
 
 > Acoustic versions of well\-known songs.
 
-264 songs - 14 hr 38 min
+267 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Hey Brother](https://open.spotify.com/track/05gcHHlHlpq6f2c0ZYDU6t) | [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Hey Brother](https://open.spotify.com/album/2GOqQ0zblw9ZIFmcNnXrSf) | 2:44 | 2021-12-09 | 2022-07-29 |
 | [Hey Brother](https://open.spotify.com/track/4M11hawY5nZYgSRsp0CHGt) | [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Hey Brother](https://open.spotify.com/album/5qx09udi8zpTid44NMxxer) | 2:44 | 2022-07-26 | 2022-12-01 |
 | [Hey Ya! \- Acoustic](https://open.spotify.com/track/7id2nRroQIMekiV1KRWzGW) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Hey Ya! \(Acoustic\)](https://open.spotify.com/album/7CRgaJzV0QUPKI423ONdwQ) | 2:27 | 2023-05-12 | 2023-09-08 |
-| [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-12-09 |  |
+| [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-12-09 | 2023-12-09 |
+| [High And Dry](https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV) | 3:52 | 2023-11-24 |  |
 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 | 2021-12-09 |  |
 | [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 | 2021-12-09 | 2022-09-21 |
 | [Hollywood's Bleeding](https://open.spotify.com/track/56twDecxsQon61crfEXrA5) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Hollywood's Bleeding](https://open.spotify.com/album/4O15gCnDaJvYAmG5q7nO1U) | 3:37 | 2021-12-09 | 2022-08-04 |
@@ -183,6 +184,7 @@
 | [Little Bit More](https://open.spotify.com/track/2FT0891amRHkKxCy3BYrx6) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Little Bit More](https://open.spotify.com/album/14N5RjqtTvCajNgV6gGd8m) | 3:02 | 2023-05-12 |  |
 | [Little Lies](https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Little Lies](https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV) | 3:17 | 2023-06-08 |  |
 | [love on the weekend](https://open.spotify.com/track/6PvqD3FhLOvNz0lyDjiHrl) | [love & back](https://open.spotify.com/artist/7mq5fcHr1XI4YdNaqtmE2M) | [love on the weekend](https://open.spotify.com/album/1fv3JS6iIvyJB9OPnug2Hb) | 3:17 | 2022-11-30 |  |
+| [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 | 2023-11-24 |  |
 | [Mama Tried](https://open.spotify.com/track/3rf6VnUNCIgWlujpWL5hlE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Mama Tried](https://open.spotify.com/album/1iQ3sSsCp4nvcs4313TKpF) | 2:24 | 2022-07-01 |  |
 | [Milkshake \(Acoustic\)](https://open.spotify.com/track/7GBJgWf0GLs4RgSlqsSSf3) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Milkshake \(Acoustic\)](https://open.spotify.com/album/5eCExezuvtFapdTybgDB8H) | 2:28 | 2023-05-12 | 2023-06-16 |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2022-05-05 |  |
@@ -255,6 +257,7 @@
 | [Time After Time](https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q) | 2:50 | 2021-12-09 | 2022-07-29 |
 | [Too Much To Ask \- Acoustic](https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask \(Acoustic\)](https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up) | 3:41 | 2021-12-09 | 2023-09-01 |
 | [Wake Me Up](https://open.spotify.com/track/2nBrIzKacrNdIxs90FlsT1) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Wake Me Up](https://open.spotify.com/album/3vTe1NISvsM9f1QGjraPsQ) | 3:16 | 2022-05-05 |  |
+| [Waterfalls](https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Waterfalls](https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz) | 2:50 | 2023-11-24 |  |
 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/5PacEiW4GT9mLA1d0W95tA) | [Vivid Color](https://open.spotify.com/artist/4qXCADLD9pMWPUkOBCLQ9H) | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/album/4mR4c3Ljm6Ch58uEOiGk1N) | 3:17 | 2021-12-09 | 2023-04-21 |
 | [We Found Love](https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3), [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [We Found Love](https://open.spotify.com/album/5RoKyeuJi66yRI4qjIXbpO) | 2:53 | 2021-12-09 | 2022-08-04 |
 | [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 | 2023-10-27 |  |

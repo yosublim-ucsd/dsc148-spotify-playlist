@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-753 songs - 1 day 19 hr 36 min
+754 songs - 1 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,6 +705,7 @@
 | [علي باب السيما \- من مسلسل ريفو](https://open.spotify.com/track/5gdERhZjshqCGHnCPWJhqM) | [ريفو شو](https://open.spotify.com/artist/176F6CdFEVWYNwqM6HEXU2) | [Rivo \(من مسلسل ريفو\)](https://open.spotify.com/album/1EfYYVFrbQubucndRHR9um) | 2:31 | 2023-07-06 | 2023-11-29 |
 | [علي راحتي](https://open.spotify.com/track/7ovuIttxBRyuJepLizxnbJ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جزيرة البطل](https://open.spotify.com/album/4YDXa3PlsqjaUdT9rClcY7) | 3:42 | 2021-03-27\* | 2021-04-14 |
 | [غاغة](https://open.spotify.com/track/4dhBcmOsysqol75RKDMooX) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 1:56 | 2022-10-11 | 2023-03-12 |
+| [غيرك حاول](https://open.spotify.com/track/5R5ijj7vBugTf5Lnp0qbWk) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [غيرك حاول](https://open.spotify.com/album/4OTUDz9Mm3VtTbNHg8eoss) | 3:15 | 2023-12-08 |  |
 | [فانتازيا](https://open.spotify.com/track/1Ryokp2XGqiw1Mh6NTmKUV) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [بلان بي](https://open.spotify.com/album/32rH8RDPdrKhR2Unq1FEKU) | 2:33 | 2021-03-27\* | 2021-04-21 |
 | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 | 2023-06-03 |  |
 | [كابتن](https://open.spotify.com/track/6dR03uJtlIIIfQsf6EuesI) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/04RBwKhmlQubyTNNu70Xx1) | 2:58 | 2022-01-30 | 2022-02-24 |
@@ -720,7 +721,7 @@
 | [لبيك اللهم لبيك \. بصوت جميل ورائع تقبل الله منا ومنكم صالح الأعمال](https://open.spotify.com/track/2Bss7c9kMzNh8ZEtmaxJpn) | [الشيخ عمر الباسط](https://open.spotify.com/artist/4l0APg9kVZWpH58sKXzenn) | [لبيك اللهم لبيك \. بصوت جميل ورائع تقبل الله منا ومنكم صالح الأعمال](https://open.spotify.com/album/3rC2drXkYNeuPziZUNAgiZ) | 26:01 | 2023-06-28 | 2023-06-30 |
 | [لغبطيطا](https://open.spotify.com/track/73wCLmIvEKJFU6aVHWsjjG) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [لغبطيطا](https://open.spotify.com/album/2SrRqE53cNal5gW2FWD5Dz) | 3:10 | 2021-03-27\* | 2021-04-05 |
 | [لفينا الدنيا](https://open.spotify.com/track/4Vm5J277k6HH6CNZEZXAE9) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لفينا الدنيا](https://open.spotify.com/album/6hBfYe9PE9Wp1CAs9C2nRq) | 3:20 | 2023-07-01 |  |
-| [لما بيوحشني](https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 4:32 | 2023-10-03 |  |
+| [لما بيوحشني](https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 4:32 | 2023-10-03 | 2023-12-09 |
 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 | 2023-07-27 | 2023-09-27 |
 | [لو جاي في رجوع انساني \(بأماره مين\)](https://open.spotify.com/track/1VDFqucFhHuldAZGNYrNt1) | [Bodyykhaledd](https://open.spotify.com/artist/5iIuR1hkhyNJNzB9aVPbGj), [Farid](https://open.spotify.com/artist/60H8oTIvEmE39gGGVTfNku) | [لو جاي في رجوع انساني \(بأماره مين\)](https://open.spotify.com/album/7eVzmFhRfoA5Xg576aoopt) | 3:21 | 2022-10-15 | 2022-10-19 |
 | [ليلى \- كايروكي من الاستوديو](https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [كايروكي من الاستوديو](https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp) | 3:32 | 2023-11-16 | 2023-11-24 |

@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-60 songs - 3 hr 14 min
+61 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Over Again](https://open.spotify.com/track/31X4uDq2h3d9eFrrNrfEfX) | [2NATURAL](https://open.spotify.com/artist/2FdAwKcNkxtdpTyA9rnmoF), [lama](https://open.spotify.com/artist/01M9LokQdmZvlAuwBLsYYH), [Wendy Wang](https://open.spotify.com/artist/7znQY25vppSqJD7K9OjRqv) | [Over Again](https://open.spotify.com/album/0EycAELw67SjjxcDES9NWQ) | 3:27 | 2023-10-20 |  |
 | [Punjabi Tadka](https://open.spotify.com/track/1D6ELTUl96uMxPaESkYYB8) | [Paranox](https://open.spotify.com/artist/6o1YVhW8DcsADkYtZwDavj), [Deelush](https://open.spotify.com/artist/6rpShJWdb8KY7Zt6bnNN07), [Srijan](https://open.spotify.com/artist/7vIDfRXA8FiC6FRXW8eNUh) | [Punjabi Tadka \- Single](https://open.spotify.com/album/5cAC9cJSyGM1tlNIcXr9Ch) | 2:52 | 2023-10-20 |  |
 | [Ready](https://open.spotify.com/track/0wlaeFaSX0L6yrn5DXrLO9) | [Project 91](https://open.spotify.com/artist/6HbsMua3wRqwv8WQRpbpYp), [OnePlusOne](https://open.spotify.com/artist/1AhgqeZLaibBRg9tpEffcH) | [Ready](https://open.spotify.com/album/168ihFGkCQF4WxQeoZhBtf) | 3:35 | 2023-10-20 |  |
-| [Room](https://open.spotify.com/track/4U2SX7G1ROWGlzZAClKrXu) | [MÜNE](https://open.spotify.com/artist/0d7ucg4dn8r65y7UccChlb) | [Room](https://open.spotify.com/album/7lrnyUlmZPuZSVD4WRAxKC) | 3:24 | 2023-10-20 |  |
+| [Room](https://open.spotify.com/track/3D0jsZ1OTPQIijtYHVrGWz) | [MÜNE](https://open.spotify.com/artist/0d7ucg4dn8r65y7UccChlb) | [Room](https://open.spotify.com/album/472V2dlfjtAZk7re11FXC9) | 3:24 | 2023-12-06 |  |
+| [Room](https://open.spotify.com/track/4U2SX7G1ROWGlzZAClKrXu) | [MÜNE](https://open.spotify.com/artist/0d7ucg4dn8r65y7UccChlb) | [Room](https://open.spotify.com/album/7lrnyUlmZPuZSVD4WRAxKC) | 3:24 | 2023-10-20 | 2023-12-09 |
 | [Roshni](https://open.spotify.com/track/0MZ6NFEV7oQSDMzuXBVS5E) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Roshni](https://open.spotify.com/album/27KyEgaluOMGNdtKud8Axt) | 2:54 | 2023-10-20 |  |
 | [Samhaar](https://open.spotify.com/track/2TY1R9ntXEF772pSGlRthG) | [Gurnani](https://open.spotify.com/artist/3K748gear2PIQP1M8o7gkN) | [Samhaar](https://open.spotify.com/album/5MUztf6w3dVz2uA9B55mC7) | 3:23 | 2023-10-20 |  |
 | [Sathi](https://open.spotify.com/track/3QCL4FJOSqLrFDJmcdNSbA) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:36 | 2023-10-20 |  |

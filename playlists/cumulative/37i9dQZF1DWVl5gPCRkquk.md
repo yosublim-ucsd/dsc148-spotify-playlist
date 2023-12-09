@@ -4,12 +4,12 @@
 
 > Channel some chilled\-out back yard vibes.
 
-296 songs - 18 hr 32 min
+297 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Familiar Place](https://open.spotify.com/track/0lp0bQqzyLmNNHHFYRaaJf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/6Ru52lwXvbPaAMSdyPOFsL) | 2:55 | 2021-10-29 | 2022-04-21 |
-| [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 | 2022-04-15 |  |
+| [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 | 2022-04-15 | 2023-12-09 |
 | [A Mermaid in Lisbon](https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Teresa Salgueiro](https://open.spotify.com/artist/49W26EcOwY0UdytNfa3zGH) | [A Mermaid in Lisbon](https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd) | 3:28 | 2021-10-29 |  |
 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 | 2021-10-29 | 2023-05-15 |
 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 | 2023-09-29 |  |
@@ -286,6 +286,7 @@
 | [Walk Away](https://open.spotify.com/track/0OgN6FQsmQV8xaFaOWF9LX) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Personal History](https://open.spotify.com/album/6boV9BoOGBvjoQ3YugOW3n) | 3:12 | 2021-10-29 | 2022-07-26 |
 | [Waverly \- Anjimile Version](https://open.spotify.com/track/381NH2HA2mjllxsXuASEm7) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Waverly \(Anjimile Version\)](https://open.spotify.com/album/5HPDLm7sCPqC9aB5t1QGZE) | 2:36 | 2022-04-15 | 2022-04-21 |
 | [We Don't Know](https://open.spotify.com/track/3eL5l4NdFBIc9J7rAFhDZL) | [Beeches](https://open.spotify.com/artist/1E0QKf8pdbq9zoiwZoHAGh) | [We Don't Know](https://open.spotify.com/album/1pClZAFP2hH0X5qCSXMCcz) | 3:30 | 2022-04-15 | 2022-04-19 |
+| [We Know the Way Back Home](https://open.spotify.com/track/7pOqf0QrSk5bkRT4lj7vIM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Featherbrained Wealth Motel](https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo) | 2:15 | 2023-12-08 |  |
 | [Weather2020](https://open.spotify.com/track/726E9Bz9YOJUD65r155ZXQ) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Charlie Whitten](https://open.spotify.com/artist/2s49L4iq7P9PdxKOAXgcLg) | [290520](https://open.spotify.com/album/4dlBHjqNQvkOTnKTOVsUta) | 4:49 | 2021-10-29 | 2022-01-29 |
 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 | 2021-10-29 |  |
 | [Weeds](https://open.spotify.com/track/71iWjFGvH1mnBZiMziR6cu) | [Lee DeWyze](https://open.spotify.com/artist/1KNNZV9twnpQBqyUoGvWA6) | [Weeds](https://open.spotify.com/album/6BD4Jo940ZvwYNp01Ex34n) | 4:15 | 2021-10-29 | 2022-07-19 |

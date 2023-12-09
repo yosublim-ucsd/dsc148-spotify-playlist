@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Good Luck And God",
+        "url": "https://open.spotify.com/album/43rp0X7Z1ZKiUM9Sbf5jzP"
+      },
+      "artists": [
+        {
+          "name": "Shane Profitt",
+          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171458,
+      "name": "Good Luck And God",
+      "url": "https://open.spotify.com/track/5smCFXppZRreSX0Bl0jqTC"
+    },
+    {
+      "album": {
         "name": "Good Morning Mercy",
         "url": "https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc"
       },

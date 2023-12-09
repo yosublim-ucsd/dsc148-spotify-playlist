@@ -2,7 +2,7 @@
 
 ### [Leyendas del Mariachi](https://open.spotify.com/playlist/37i9dQZF1DWTyvco9C4Og0)
 
-> Las leyendas del mariachi están aquí\. Alejandro Fernández en portada.
+> Las leyendas del mariachi están aquí: Vicente Fernández en portada.
 
 192 songs - 9 hr 53 min
 

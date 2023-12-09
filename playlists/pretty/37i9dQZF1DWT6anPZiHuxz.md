@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,459 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,489 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [I Wanna Know \(feat\. Bea Miller\) \- Syn Cole Remix](https://open.spotify.com/track/5qmklQfO5yyZ3Es4e0c0ax) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [I Wanna Know \(feat\. Bea Miller\) \- Remixes](https://open.spotify.com/album/1wmDPQq4ZbnASBzAsf8d5l) | 2:59 |
 | 50 | [Million Dollar Baby \- Nathan Dawe Remix](https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Million Dollar Baby \(Nathan Dawe Remix\)](https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T) | 3:05 |
 
-Snapshot ID: `MCwyM2UyZjU3MzhjNTk3ZWM0MzkxNzM2ZWI3ZjAxOTQ5NGVjNzRmOTNi`
+Snapshot ID: `MCxiMzEyNDI2MzlmODBmZTQ5ODZiMjI1ZWM5ZjAxNTVkMGYxYTI0YTFj`

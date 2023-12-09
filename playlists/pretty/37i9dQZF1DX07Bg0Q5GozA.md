@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Giolì & Assia
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,448 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,470 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 6 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 |
 | 7 | [Hollow \- Joe Goddard Remix](https://open.spotify.com/track/4vo9RlUaL3jHapwpUMfFKZ) | [Kaleida](https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Hollow \(Joe Goddard Remix\)](https://open.spotify.com/album/5xijjV9VS7NRJz0dMwmQqv) | 6:41 |
 | 8 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 |
-| 9 | [Under The Light \- Cut Copy Remix](https://open.spotify.com/track/1PzLdi4IlVgmtVYwmS3NXs) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0), [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Under The Light \(Cut Copy Remix\)](https://open.spotify.com/album/6ahvgtYtPtSjSRR9bmmLPC) | 4:28 |
+| 9 | [Under The Light \- Remix](https://open.spotify.com/track/7DFYfdzWJAQK59YrQ4CftD) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0), [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Under The Light \(Remix\)](https://open.spotify.com/album/7djxJDYoeQfrH6haKtws8c) | 4:28 |
 | 10 | [She Is Coming \- Jean Tonique Remix](https://open.spotify.com/track/4qYqjNyEIWX3lSoUVZgCY0) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [She Is Coming \(Jean Tonique Remix\)](https://open.spotify.com/album/4ffi6qFZOWFltGjdOyTPJP) | 3:37 |
 | 11 | [Fine](https://open.spotify.com/track/1tCkS9oiXu9gvSbv759DKy) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Fine](https://open.spotify.com/album/4yOv7Rc99hXBEg6B8dblFd) | 3:26 |
 | 12 | [Swirl \- Roosevelt Remix](https://open.spotify.com/track/7sH9vN5ziCJ3snQ2nxJtMG) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0JcAcT7K4l5dp5grqmiIaN) | 5:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [running in circles \- David Bay Remix](https://open.spotify.com/track/1yZ4BB0ks2tfGC6NuU7hJz) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [running in circles \(David Bay Remix\)](https://open.spotify.com/album/3oyEwXZ8tKl17RmhJBM7jJ) | 2:54 |
 | 75 | [Off And On](https://open.spotify.com/track/2t0RlrKuzerkIeujXbRS4l) | [5K HD](https://open.spotify.com/artist/6ZMLkcfjNwPGCAlL7LvMyr) | [Off And On](https://open.spotify.com/album/0fr3l4VLVWCdSSJh1BdSRc) | 4:24 |
 
-Snapshot ID: `MCwyOTdjNmVjYTUwNDVhNWZlNmRkNWIwMGJjZTI5NTExNzk2YzJjYzRm`
+Snapshot ID: `MCxiOWQ4YjA4NWFhMTQ4YTA4ZGI3YjBmMDEwN2Y2NzlkYTBmMTE4ODE0`

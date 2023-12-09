@@ -2,13 +2,14 @@
 
 ### [Salsa Nation](https://open.spotify.com/playlist/37i9dQZF1DX4qKWGR9z0LI)
 
-> Lo último y lo mejor de la salsa\. Cover: Gian Marco & Daniela Darcourt
+> Lo último y lo mejor de la salsa\. Cover: Myke Towers
 
-247 songs - 18 hr 34 min
+248 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\-Te Voy A Hacer Feliz](https://open.spotify.com/track/1d9LhayPyXx9lkCpJhKT9P) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [DE COSTA A COSTA](https://open.spotify.com/album/12eZeG9t7QD5LG5ED1oPIj) | 5:09 | 2022-01-01 | 2022-07-29 |
+| [18](https://open.spotify.com/track/3QeUJezWTKjbkM4PegVqsg) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [18](https://open.spotify.com/album/6OJgwW8xB9bvJL5U5EK0Ui) | 3:51 | 2023-12-08 |  |
 | [A Mal Tiempo Buena Salsa](https://open.spotify.com/track/0sgPyUXELg85REg7HFusDF) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Pedro Brull](https://open.spotify.com/artist/5gNP6xGmxzC25B3Fhqg5eg) | [A Mal Tiempo Buena Salsa](https://open.spotify.com/album/2ebZpoAUABkDTbbLGGKnGg) | 5:37 | 2022-01-01 | 2022-07-27 |
 | [Abre Que Voy](https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw) | [Miguel Enriquez](https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL) | [Grandes Exitos](https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ) | 4:22 | 2022-01-01 |  |
 | [Acuyuye](https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Pacheco Y Su Charanga Vol\. 3: Que Suene La Flauta](https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy) | 2:33 | 2022-01-01 |  |
@@ -213,7 +214,7 @@
 | [Te Estan Buscando](https://open.spotify.com/track/61p1Ha5D8jCY42BnocQu5j) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/4XQDD2iAavRQ9caGWBfHqc) | 6:28 | 2022-01-01 | 2022-07-04 |
 | [Te Están Buscando](https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 6:28 | 2022-05-20 |  |
 | [Te Propongo](https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ) | [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv) | [Al Duro](https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U) | 4:37 | 2022-01-01 |  |
-| [Te Quise Olvidar](https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Te Quise Olvidar](https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3) | 3:29 | 2023-08-11 |  |
+| [Te Quise Olvidar](https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Te Quise Olvidar](https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3) | 3:29 | 2023-08-11 | 2023-12-09 |
 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 | 2022-05-20 |  |
 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 | 2022-01-01 |  |
 | [Tengo Que Colgar](https://open.spotify.com/track/6W9gmfyZ94oeAaBK3IjAqx) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Hot Salsa 2017 \[19 Salsa Latin Hits \(Salsa Romántica, Urbana, para Bailar\)\]](https://open.spotify.com/album/4UfiwSxgoLBp2FDEZjHCve) | 3:40 | 2022-01-01 | 2022-07-22 |

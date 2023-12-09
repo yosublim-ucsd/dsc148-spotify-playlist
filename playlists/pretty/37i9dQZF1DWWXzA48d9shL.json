@@ -1,13 +1,57 @@
 {
-  "description": "Rap from hell. Cover: $uicideboy$",
-  "num_followers": 558226,
+  "description": "Rap from hell. Cover: SXMPRA",
+  "num_followers": 558509,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDcxNzM3NDA3MTVlNmNkNzVlOWM1Nzc3ZGM2NThmYTlmYmM0ZGMy",
+  "snapshot_id": "MCwxMDBhMmM0MjViMzVmZTM0MTlhMTI0MzQ2NWQyYjQ2N2ExYTA1MTU0",
   "tracks": [
+    {
+      "added_at": "2023-12-08 15:38:28",
+      "album": {
+        "name": "BUSINESS MAN (feat. Juicy J)",
+        "url": "https://open.spotify.com/album/6x8lWNQO52kkPpsQ7TpFyP"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "BUSINESS MAN (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/1Mw3psWtFi2ojE9gudDpm1"
+    },
+    {
+      "added_at": "2023-11-13 15:13:31",
+      "album": {
+        "name": "Memphis Cult Vol. 6",
+        "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
+      },
+      "artists": [
+        {
+          "name": "Memphis Cult",
+          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
+        },
+        {
+          "name": "Groove Dealers",
+          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
+        },
+        {
+          "name": "SPLYXER",
+          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
+        }
+      ],
+      "duration_ms": 86709,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
+    },
     {
       "added_at": "2023-12-01 15:46:50",
       "album": {
@@ -33,24 +77,24 @@
       "url": "https://open.spotify.com/track/6i3NunmMCcqnYVWCna0k44"
     },
     {
-      "added_at": "2023-12-05 18:13:33",
+      "added_at": "2023-12-08 15:38:28",
       "album": {
-        "name": "SOUTH STRIP",
-        "url": "https://open.spotify.com/album/6erVSzriWHdz8wEYpM0iU2"
+        "name": "I HOPE YOU'RE HAPPY",
+        "url": "https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p"
       },
       "artists": [
         {
-          "name": "South Strip",
-          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
         },
         {
-          "name": "Pouya",
-          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+          "name": "ZillaKami",
+          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
         }
       ],
-      "duration_ms": 195405,
-      "name": "KOTA",
-      "url": "https://open.spotify.com/track/6eYNLf71cggJ1OKIgu8gnW"
+      "duration_ms": 121666,
+      "name": "LIFE SUCKS SO WE FUCK (feat. ZillaKami)",
+      "url": "https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE"
     },
     {
       "added_at": "2023-11-16 22:44:54",
@@ -73,6 +117,22 @@
       "url": "https://open.spotify.com/track/1t7TcT6RHgZAZZQeNHNLYm"
     },
     {
+      "added_at": "2023-12-08 15:38:28",
+      "album": {
+        "name": "P_O_S",
+        "url": "https://open.spotify.com/album/3bIYVd083y0DYIxvrsRLLc"
+      },
+      "artists": [
+        {
+          "name": "buffalo_farm",
+          "url": "https://open.spotify.com/artist/2PeR3T5bsrS6lJ7VpfYXJk"
+        }
+      ],
+      "duration_ms": 64151,
+      "name": "P_O_S",
+      "url": "https://open.spotify.com/track/2KhL8xLS3x2LCwPT2nx2EG"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "BANDS!",
@@ -87,6 +147,26 @@
       "duration_ms": 142047,
       "name": "BANDS!",
       "url": "https://open.spotify.com/track/00DcGQYevuWmUzqXetdczu"
+    },
+    {
+      "added_at": "2023-12-08 15:38:28",
+      "album": {
+        "name": "DADE COUNTY SUICIDE",
+        "url": "https://open.spotify.com/album/0QLCyl9KIwORSxc17aLSBU"
+      },
+      "artists": [
+        {
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "duration_ms": 127222,
+      "name": "DADE COUNTY SUICIDE",
+      "url": "https://open.spotify.com/track/0qDh00qePgockS9SuBap61"
     },
     {
       "added_at": "2023-08-29 17:56:43",
@@ -123,6 +203,26 @@
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
+    },
+    {
+      "added_at": "2023-12-08 15:38:28",
+      "album": {
+        "name": "harmful",
+        "url": "https://open.spotify.com/album/3801uSyiDSkOYSWaNL7dNg"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "duration_ms": 123926,
+      "name": "harmful",
+      "url": "https://open.spotify.com/track/63kMVxA0GX56dSBmmmPbP7"
     },
     {
       "added_at": "2023-12-05 18:11:47",
@@ -177,6 +277,26 @@
       "url": "https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG"
     },
     {
+      "added_at": "2023-11-08 18:53:31",
+      "album": {
+        "name": "Radical $uicide",
+        "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Memoirs of a Gorilla",
+      "url": "https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ"
+    },
+    {
       "added_at": "2023-11-28 15:10:16",
       "album": {
         "name": "INTENSIVE CARE UNIT",
@@ -213,28 +333,24 @@
       "url": "https://open.spotify.com/track/1TgfuMX9NCHkMTMlAf1yQB"
     },
     {
-      "added_at": "2023-11-13 15:13:31",
+      "added_at": "2023-12-05 18:13:33",
       "album": {
-        "name": "Memphis Cult Vol. 6",
-        "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
+        "name": "SOUTH STRIP",
+        "url": "https://open.spotify.com/album/6erVSzriWHdz8wEYpM0iU2"
       },
       "artists": [
         {
-          "name": "Memphis Cult",
-          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
+          "name": "South Strip",
+          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
         },
         {
-          "name": "Groove Dealers",
-          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
-        },
-        {
-          "name": "SPLYXER",
-          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
         }
       ],
-      "duration_ms": 86709,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
+      "duration_ms": 195405,
+      "name": "KOTA",
+      "url": "https://open.spotify.com/track/6eYNLf71cggJ1OKIgu8gnW"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -319,6 +435,26 @@
       "duration_ms": 192989,
       "name": "Nightmare on Peachtree Street (feat. Freddie Dredd)",
       "url": "https://open.spotify.com/track/1iSNk5qM7aScyTL3508KQ6"
+    },
+    {
+      "added_at": "2023-12-08 15:38:28",
+      "album": {
+        "name": "ABSENCE",
+        "url": "https://open.spotify.com/album/7Aui4EMVMjhiuDLwUjRXAy"
+      },
+      "artists": [
+        {
+          "name": "BVDLVD",
+          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
+        },
+        {
+          "name": "Biv",
+          "url": "https://open.spotify.com/artist/3dszargYpFZjGo6vpjHNQS"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "TABLE CLOTH",
+      "url": "https://open.spotify.com/track/094IRY5d7WvM0MlDTdpZ7N"
     },
     {
       "added_at": "2023-11-28 15:10:16",
@@ -659,26 +795,6 @@
       "duration_ms": 200753,
       "name": "Special Bullets",
       "url": "https://open.spotify.com/track/5vL9fTDxOGPB0RIyu2QrcZ"
-    },
-    {
-      "added_at": "2023-11-08 18:53:31",
-      "album": {
-        "name": "Radical $uicide",
-        "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "Memoirs of a Gorilla",
-      "url": "https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ"
     },
     {
       "added_at": "2023-08-04 04:00:00",

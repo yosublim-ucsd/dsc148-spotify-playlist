@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "MP El Juvenil & Lucho SSJ en la casa del Trap Argentino.",
+  "description": "ZARAMAY en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -732,6 +732,24 @@
       "duration_ms": 146341,
       "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
       "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "album": {
+        "name": "CALL ME MAYBE",
+        "url": "https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222401,
+      "name": "CALL ME MAYBE",
+      "url": "https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk"
     },
     {
       "album": {
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 124324,
       "name": "GASTO",
       "url": "https://open.spotify.com/track/5ULCGfNrYTwyRnHrGzkBDF"
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 149571,
       "name": "Impala",
       "url": "https://open.spotify.com/track/3TYAP8JTrp84JQuk6Z5Gkm"
@@ -3227,6 +3245,36 @@
     },
     {
       "album": {
+        "name": "LA RECETA DEL FLOW",
+        "url": "https://open.spotify.com/album/5JuAmZktmDauKMWAUpYR88"
+      },
+      "artists": [
+        {
+          "name": "Sixto Yegros",
+          "url": "https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "BAXIAN",
+          "url": "https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X"
+        },
+        {
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222236,
+      "name": "NO QUIERO HACERTE ESPERAR",
+      "url": "https://open.spotify.com/track/0C5nMyoKtZhLLCj0hP4sb2"
+    },
+    {
+      "album": {
         "name": "No Tiene Sentido",
         "url": "https://open.spotify.com/album/3ZGtjPuGFi585P7tMgyNBI"
       },
@@ -3486,6 +3534,24 @@
       "duration_ms": 193960,
       "name": "Otro De Esos D\u00edas",
       "url": "https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V"
+    },
+    {
+      "album": {
+        "name": "Paganini",
+        "url": "https://open.spotify.com/album/0rfK5qF3MFG9iKgc4Laf6I"
+      },
+      "artists": [
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Paganini",
+      "url": "https://open.spotify.com/track/3KoLkijsDOTBsecxg8L9g2"
     },
     {
       "album": {
@@ -3872,7 +3938,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 160055,
       "name": "RELOJES REVENTADOS",
       "url": "https://open.spotify.com/track/3WHBTuOibN5pPTiz9eyUpA"
@@ -4132,7 +4198,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 179847,
       "name": "SER EL TRAP",
       "url": "https://open.spotify.com/track/2mmYwg4OgThj9vHgwc1rgL"
@@ -4788,7 +4854,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 269538,
       "name": "Tengo 30 (feat. Duki, Cazzu, Neo Pistea & Tali Goya)",
       "url": "https://open.spotify.com/track/0VuRUZhflBYpC3bzQJ0PXu"
@@ -5250,6 +5316,28 @@
       "duration_ms": 111844,
       "name": "Ultimo Tren a Ameri",
       "url": "https://open.spotify.com/track/6AgGMIxxvzzpqvRHRfrRMm"
+    },
+    {
+      "album": {
+        "name": "Un Hijo Mio",
+        "url": "https://open.spotify.com/album/4KQWT1IApkEOG0eFXHONNX"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Un Hijo Mio",
+      "url": "https://open.spotify.com/track/0qzCeecDTX38EOr0gM6pMt"
     },
     {
       "album": {
@@ -5747,6 +5835,28 @@
     },
     {
       "album": {
+        "name": "Y Ustedes?",
+        "url": "https://open.spotify.com/album/7mnFdczF3FOEUuoWJ9thMi"
+      },
+      "artists": [
+        {
+          "name": "AFTER",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133403,
+      "name": "Y ustedes?",
+      "url": "https://open.spotify.com/track/5e3dtNAmfC4G2Kes9Xd7BH"
+    },
+    {
+      "album": {
         "name": "Y ustedes?",
         "url": "https://open.spotify.com/album/12Z8itqVuIXECLPRwceAYd"
       },
@@ -5762,7 +5872,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 133403,
       "name": "Y ustedes?",
       "url": "https://open.spotify.com/track/6UdKndtKQUPWeYNkcUbikU"

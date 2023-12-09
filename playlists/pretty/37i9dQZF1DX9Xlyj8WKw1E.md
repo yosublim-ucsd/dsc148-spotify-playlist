@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:5YHM0i7v5TqqibZhS0YiuX">Ryan Trey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,919 likes - 61 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,942 likes - 61 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 60 | [OUTSIDE ALL SUMMER](https://open.spotify.com/track/4VreDYwSxLuxATdvW975On) | [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Frsh Waters](https://open.spotify.com/artist/14hFXWA8giW96HpYkTxywX), [Tru](https://open.spotify.com/artist/51Y9uMxhciB1I5qIAhJs8q) | [OUTSIDE ALL SUMMER](https://open.spotify.com/album/4vhbtuoynRryWO4M7RTmLk) | 2:44 |
 | 61 | [Tell Shyanne](https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Tell Shyanne](https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76) | 2:23 |
 
-Snapshot ID: `MCxlMzlmODM3MjE4MDliYzQ4MjExZjdmZmE0NjVhM2IzNTA5MWFhYjhm`
+Snapshot ID: `MCwyZjZjODM1NzNjMDQ1NTlmYWFkZTBmZDAwNTdmZjU1Y2NkNThiNWM2`

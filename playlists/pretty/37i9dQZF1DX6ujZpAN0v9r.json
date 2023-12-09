@@ -1,13 +1,29 @@
 {
-  "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. my bloody valentine on cover",
-  "num_followers": 561904,
+  "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
+  "num_followers": 562190,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjRhODU3NWI0YmNiZTdkNjZlZDJmZWViMzFkOGJmNmYyZDc0Y2Yy",
+  "snapshot_id": "MCxjYWU0NWIyMjA2NDQxOGM1OTFlODgxYjc2MTY0ZTBhNDM0NzM2MzAz",
   "tracks": [
+    {
+      "added_at": "2023-12-08 16:49:10",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
+    },
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
@@ -27,22 +43,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 285906,
-      "name": "When the Sun Hits",
-      "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -55,6 +55,22 @@
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
+    },
+    {
+      "added_at": "2023-10-19 18:31:49",
+      "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/0rdqoGy3iMbJJDjiOKrywY"
+      },
+      "artists": [
+        {
+          "name": "Blue Smiley",
+          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+        }
+      ],
+      "duration_ms": 75297,
+      "name": "flower",
+      "url": "https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -123,18 +139,34 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Psychocandy",
-        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
       },
       "artists": [
         {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 181746,
-      "name": "Just Like Honey",
-      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
+      "duration_ms": 285906,
+      "name": "When the Sun Hits",
+      "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44"
+    },
+    {
+      "added_at": "2023-10-19 18:31:49",
+      "album": {
+        "name": "return",
+        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
+      },
+      "artists": [
+        {
+          "name": "Blue Smiley",
+          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+        }
+      ],
+      "duration_ms": 102421,
+      "name": "bird",
+      "url": "https://open.spotify.com/track/6aC2oJJirBozj0cT6E2g1t"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -155,18 +187,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
         }
       ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
+      "duration_ms": 181746,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -249,22 +281,6 @@
       "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
     },
     {
-      "added_at": "2023-10-19 18:31:49",
-      "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/0rdqoGy3iMbJJDjiOKrywY"
-      },
-      "artists": [
-        {
-          "name": "Blue Smiley",
-          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
-        }
-      ],
-      "duration_ms": 75297,
-      "name": "flower",
-      "url": "https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "Odes to the Void",
@@ -283,18 +299,34 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
       },
       "artists": [
         {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 297501,
-      "name": "Gauze",
-      "url": "https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt"
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
+    },
+    {
+      "added_at": "2023-10-19 18:31:49",
+      "album": {
+        "name": "return",
+        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
+      },
+      "artists": [
+        {
+          "name": "Blue Smiley",
+          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+        }
+      ],
+      "duration_ms": 122752,
+      "name": "flip",
+      "url": "https://open.spotify.com/track/1HVgDSMFQIRHBRuhOs85fL"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -313,38 +345,6 @@
       "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
     },
     {
-      "added_at": "2023-07-17 18:59:20",
-      "album": {
-        "name": "Still In A Dream: A Story Of Shoegaze 1988-1995",
-        "url": "https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao"
-      },
-      "artists": [
-        {
-          "name": "Ecstasy Of St. Theresa",
-          "url": "https://open.spotify.com/artist/7bgjou2Fwb15jvve7eXZrm"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "Square Wave",
-      "url": "https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 338869,
-      "name": "Star Roving",
-      "url": "https://open.spotify.com/track/7nq6qpHhCJ3pNOa3KHi8fe"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "Deceiver",
@@ -359,6 +359,22 @@
       "duration_ms": 268800,
       "name": "Taker",
       "url": "https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 297501,
+      "name": "Gauze",
+      "url": "https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -443,18 +459,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Les voyages de l'\u00e2me",
-        "url": "https://open.spotify.com/album/1yENAh14y99tcC6No2mXWl"
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
       },
       "artists": [
         {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 350320,
-      "name": "Autre temps",
-      "url": "https://open.spotify.com/track/50dpeks48j0zMECIKVAGUG"
+      "duration_ms": 338869,
+      "name": "Star Roving",
+      "url": "https://open.spotify.com/track/7nq6qpHhCJ3pNOa3KHi8fe"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -473,36 +489,20 @@
       "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
     },
     {
-      "added_at": "2023-10-19 18:31:49",
-      "album": {
-        "name": "return",
-        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
-      },
-      "artists": [
-        {
-          "name": "Blue Smiley",
-          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
-        }
-      ],
-      "duration_ms": 102421,
-      "name": "bird",
-      "url": "https://open.spotify.com/track/6aC2oJJirBozj0cT6E2g1t"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+        "name": "Les voyages de l'\u00e2me",
+        "url": "https://open.spotify.com/album/1yENAh14y99tcC6No2mXWl"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
         }
       ],
-      "duration_ms": 357373,
-      "name": "Souvlaki Space Station",
-      "url": "https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA"
+      "duration_ms": 350320,
+      "name": "Autre temps",
+      "url": "https://open.spotify.com/track/50dpeks48j0zMECIKVAGUG"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Souvenirs d'un autre monde",
-        "url": "https://open.spotify.com/album/1zQQoViMwTIXwmidyqTXdF"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 368626,
-      "name": "Souvenirs d'un autre monde",
-      "url": "https://open.spotify.com/track/1eD8fNbyfyXWrTLokilmEM"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
@@ -575,22 +559,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Just For A Day",
-        "url": "https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Catch The Breeze",
-      "url": "https://open.spotify.com/track/4cz5bBa239LZ0Pt5DrJXYK"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Glider",
         "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
       },
@@ -603,6 +571,38 @@
       "duration_ms": 255426,
       "name": "Off Your Face",
       "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 357373,
+      "name": "Souvlaki Space Station",
+      "url": "https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Souvenirs d'un autre monde",
+        "url": "https://open.spotify.com/album/1zQQoViMwTIXwmidyqTXdF"
+      },
+      "artists": [
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+        }
+      ],
+      "duration_ms": 368626,
+      "name": "Souvenirs d'un autre monde",
+      "url": "https://open.spotify.com/track/1eD8fNbyfyXWrTLokilmEM"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -715,22 +715,6 @@
       "duration_ms": 426331,
       "name": "Bout des doigts",
       "url": "https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy"
-    },
-    {
-      "added_at": "2023-10-19 18:31:49",
-      "album": {
-        "name": "return",
-        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
-      },
-      "artists": [
-        {
-          "name": "Blue Smiley",
-          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
-        }
-      ],
-      "duration_ms": 122752,
-      "name": "flip",
-      "url": "https://open.spotify.com/track/1HVgDSMFQIRHBRuhOs85fL"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1393,6 +1377,22 @@
       "url": "https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl"
     },
     {
+      "added_at": "2023-07-17 18:59:20",
+      "album": {
+        "name": "Still In A Dream: A Story Of Shoegaze 1988-1995",
+        "url": "https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao"
+      },
+      "artists": [
+        {
+          "name": "Ecstasy Of St. Theresa",
+          "url": "https://open.spotify.com/artist/7bgjou2Fwb15jvve7eXZrm"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "Square Wave",
+      "url": "https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW"
+    },
+    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "Dust and Disquiet",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Whirlpool (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
+      },
+      "artists": [
+        {
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Guilt",
+      "url": "https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Altered Perception",
         "url": "https://open.spotify.com/album/35FaV3DMDOI7LplP3GDFWo"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 262946,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/0jAREqpRxde4sjHfghbNGW"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Whirlpool (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Guilt",
-      "url": "https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -2195,6 +2195,22 @@
       "duration_ms": 221053,
       "name": "Drain Cosmetics",
       "url": "https://open.spotify.com/track/2dIXaDSmad5KrAX4DEXYny"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Just For A Day",
+        "url": "https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "Catch The Breeze",
+      "url": "https://open.spotify.com/track/4cz5bBa239LZ0Pt5DrJXYK"
     },
     {
       "added_at": "2021-06-03 02:39:04",

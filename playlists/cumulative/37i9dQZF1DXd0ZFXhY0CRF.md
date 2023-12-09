@@ -4,7 +4,7 @@
 
 > These women rock our worlds with their music and influence\. Cover: Tina Turner
 
-254 songs - 15 hr 4 min
+255 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2023-03-08 |  |
 | [Gasoline \(feat\. Taylor Swift\)](https://open.spotify.com/track/645Exr2lJIO45Guht3qyIa) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:13 | 2023-03-08 |  |
 | [Give It Up](https://open.spotify.com/track/02bT4Tb5OOTiZ3t7NDru0D) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Give It Up](https://open.spotify.com/album/15KGaPTe9OJK0ksAW1ofM2) | 2:59 | 2020-03-11 | 2022-03-09 |
-| [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-03-08 |  |
+| [GODDESS](https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 2:32 | 2023-05-24 |  |
+| [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-03-08 | 2023-12-09 |
 | [H B I C](https://open.spotify.com/track/3VTlWV4YoSgVvyfJI0IMZR) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [H B I C](https://open.spotify.com/album/6ZQ0O1rreAlHfDHteGubjh) | 2:38 | 2021-05-07 | 2022-03-09 |
 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 | 2022-03-08 |  |
 | [Hanging On The Telephone \- Remastered](https://open.spotify.com/track/1YocvD67rXtMiItLFRXIbD) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Hanging On The Telephone](https://open.spotify.com/album/5B9T1ETJzrXQTOwFom9w2z) | 2:22 | 2023-03-08 |  |

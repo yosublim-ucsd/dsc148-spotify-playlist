@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,525 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,602 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 |
 | 100 | [Little Walk](https://open.spotify.com/track/4nYrj53C7CgDWJtKHFgKx6) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [What We Do](https://open.spotify.com/album/60rpQDTCR4ZtfJ9o5YMzT7) | 6:36 |
 
-Snapshot ID: `MCwxYzNjYWI3YzUzYTUwMjkyNjE2YTE3N2RmMzBhY2FkNzNhNzhkY2Mw`
+Snapshot ID: `MCw5NDAzMTEyYzllMjZiNDdhMGJhNjViOTBhOGY1OTI1NDY5YWIzN2Qw`

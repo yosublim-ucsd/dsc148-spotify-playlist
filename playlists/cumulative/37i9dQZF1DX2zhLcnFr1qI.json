@@ -16,10 +16,36 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 125454,
       "name": "2020 Christmas",
       "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
+    },
+    {
+      "album": {
+        "name": "Adeste Fideles",
+        "url": "https://open.spotify.com/album/1InCbTTa3j95HwmGnIeTn4"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "SMVGGLERS",
+          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121029,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/3ufwBsrEH7Tg0ojkPTMKMc"
     },
     {
       "album": {
@@ -204,7 +230,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 157440,
       "name": "Battle - Cause & Affect Jingle Bells Remix",
       "url": "https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO"
@@ -270,7 +296,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 199384,
       "name": "Carnival - Xmas Edition",
       "url": "https://open.spotify.com/track/46DEBWLA2nsbvzrsLTraEF"
@@ -995,6 +1021,28 @@
     },
     {
       "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/2yCFOTJ2sbkOC7mkNgKTRi"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222295,
+      "name": "Home For Christmas",
+      "url": "https://open.spotify.com/track/2MA5wVGdhhPCRJ7XLyh0Kp"
+    },
+    {
+      "album": {
         "name": "Christmas With Yellow Claw",
         "url": "https://open.spotify.com/album/25bktrqlypnTwJ50DhC3n2"
       },
@@ -1142,7 +1190,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 163312,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
@@ -1371,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Last Christmas (Techno Remix)",
+        "url": "https://open.spotify.com/album/72Zzvgn7JbEeUquIXEUwe3"
+      },
+      "artists": [
+        {
+          "name": "Blaze U",
+          "url": "https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "Last Christmas - Techno Remix",
+      "url": "https://open.spotify.com/track/0BnZyRDwbkEKyIZKuwoK1r"
+    },
+    {
+      "album": {
         "name": "Last Christmas (YAMAS Edit)",
         "url": "https://open.spotify.com/album/0NAnNrWeRjfT7kMaB9QbLE"
       },
@@ -1562,7 +1628,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Rock Them Bells",
       "url": "https://open.spotify.com/track/5BfSrnlJdpRpSrCRoiAIja"
@@ -1731,6 +1797,50 @@
     },
     {
       "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/4Ya1nBIiIKwE7bRyVw7Zx4"
+      },
+      "artists": [
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Stephanie Schulte",
+          "url": "https://open.spotify.com/artist/0lFLwxM5lPGtJVmCkjYTQ3"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157815,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/4AmUOomwGifLOR3lPiweuc"
+    },
+    {
+      "album": {
+        "name": "An Electronic Christmas",
+        "url": "https://open.spotify.com/album/5Xn1YKCazTYhB9YFGXd6SW"
+      },
+      "artists": [
+        {
+          "name": "Dimmalou",
+          "url": "https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT"
+        },
+        {
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125280,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/6cTobmqfNHINKoQ6jRYYAD"
+    },
+    {
+      "album": {
         "name": "An Electronic Christmas",
         "url": "https://open.spotify.com/album/1O9x3r0VqEdu05RL9xFPoc"
       },
@@ -1856,6 +1966,28 @@
       "duration_ms": 246493,
       "name": "Still Still Still",
       "url": "https://open.spotify.com/track/5KZjGGlnhMHQpVoMhbSX01"
+    },
+    {
+      "album": {
+        "name": "Taste like Christmas Time",
+        "url": "https://open.spotify.com/album/3PQpKypwpmomqBsGGLqJI3"
+      },
+      "artists": [
+        {
+          "name": "OFF KEY JUNIOR",
+          "url": "https://open.spotify.com/artist/41mD8iGiM0QCM3l6NwhyxW"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181951,
+      "name": "Taste like Christmas Time",
+      "url": "https://open.spotify.com/track/12DDf86PRKoQwwv5SXZIFB"
     },
     {
       "album": {
@@ -2117,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "wish \u272e\u22c6\u02d9",
+        "url": "https://open.spotify.com/album/0OI5jimIAjOVUfFiNcE5QM"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131666,
+      "name": "wish \u272e\u22c6\u02d9",
+      "url": "https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB"
+    },
+    {
+      "album": {
         "name": "Wonderful Dream (Holidays Are Coming)",
         "url": "https://open.spotify.com/album/1cErEnoh23Dw8bUjbxu6WL"
       },
@@ -2176,7 +2326,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 161157,
       "name": "Wonderful Time",
       "url": "https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N"

@@ -1,15 +1,31 @@
 {
   "description": "Listen to the music from and inspired by Scott Pilgrim Takes Off, now streaming on Netflix. ",
-  "num_followers": 8242,
+  "num_followers": 22921,
   "original_name": "Scott Pilgrim Takes Off Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzY0NDgyNjRhMjkyMjkxOTFlMzA1MmRmMjE5MDhmNmM2OTVhMGU2",
+  "snapshot_id": "MCxlZGY2ZmQ0N2ZjNmU5ZWFjMDgxN2M2Yjc4YmFjNTc4NDE2ZDJkMWZi",
   "tracks": [
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
+      "album": {
+        "name": "bloom",
+        "url": "https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K"
+      },
+      "artists": [
+        {
+          "name": "\u30cd\u30af\u30e9\u30a4\u30c8\u30fc\u30ad\u30fc",
+          "url": "https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws"
+        }
+      ],
+      "duration_ms": 197237,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis"
+    },
+    {
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "More Fun in the New World",
         "url": "https://open.spotify.com/album/0av4KiOIEjud5VyXf3yyG0"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2nSaHIrBaUrfh8QU2RpxAh"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Sleep It Off",
         "url": "https://open.spotify.com/album/4U9YMT6QGoghoijFHyAp5O"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/6g51SVENTratWne1965zKG"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Fake Songs",
         "url": "https://open.spotify.com/album/6LGx2GBdjcJb4naTlvyPMw"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/6Jub05dvpbF4Im83NqMCUg"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Milking The Sacred Cow",
         "url": "https://open.spotify.com/album/5L1eRBUJE2pFGyKvABtN3u"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/78wM0fAp1HsAvhpyJQlUUm"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/6QPlCJYRLy7l8xZxyJ4DrV"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/4l4s3IARxPjby8OOaRrFbg"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Kidnapped by Neptune",
         "url": "https://open.spotify.com/album/0GF1AfwRsWj8yQ7o6ObSDk"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/2mb3n5HJi16sYTK4HGJelV"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "ZZ Top's Greatest Hits",
         "url": "https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/0f9h8awV1X4jSllHXXYdfX"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Predicts the Future",
         "url": "https://open.spotify.com/album/4ss4IGobJB38f1pgogEp7t"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/7L4AofQZoGr4mVrjB6MyfZ"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "So Jealous",
         "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/5XrpGRTACaYCT7ijWtnUsI"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim vs. the World: The Game (Original Videogame Soundtrack)",
         "url": "https://open.spotify.com/album/3DNHW2ckMRr3v0f7JF3HcR"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/6U5g7Doh2ec6MljZc7p8As"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/3heBIU1G3GTA6NkbZdBCfp"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/7FUXU3d1lOpbikVA8ewNOS"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/7E95SsjwLh21FxnyxTiMEj"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/34UvWY4On4cr90TpqR9Kiu"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/108Fv7C3wVxL8Wp5QzpwLN"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/2ysd4jIysZVFhFwWuPxDhS"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/4cTKNndDFA7GV1goAedZjA"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/0mtAt0QEQaeBSYK5MeTcK6"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/20ODBa7uFHzuRzi4c2zu1M"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/6YJLrNNIhrrSICYiSOEcEE"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/0nii6CtwPZIaEUXwgWFb8E"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/2omFYxmdqOWLcbEb2bPwb3"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/2H0scGnJ8DEEOfMsxgOXx8"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/58UNIozwHbC4a8rRjiLApy"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/5ysYu1eGOAZet1pAVuXp3J"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/34tnMe4a1Kdlkvyn0aRFfu"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/0yGSByEMJ0E2DN9QOxDiG4"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/1ye51qSpumoBH922nhW77z"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/1WAFWW6jQkKbnqwzNTec4v"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/2095Z00qi8SaC8KgkSJAR7"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/4eosPCFMhP3dlLoITDPwrH"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/6JsrsUFzcqXbUwsSYsfmoE"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/6xl8UzJVtCNkA5eI0PxmQ0"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/2c7cI9frjHFu3our8SChc9"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/58B42tWH3Q1AeMmpjxs9aV"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/6ilM3ez8GAzpeB9WMVZAgK"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/1x5qaRqhOS9VMjDg0X2YLz"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/0g6OPaUaRczfr28y4oYGsO"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/04lIEdI5TiibZGZpfLATHP"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/0YNxfmi18n6ZFIAvoqpFpM"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/3P9LvXKi88bep12At19PEq"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/7KS4ft8T293Vuy00GZ4XvA"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/1Q9tJv1ILKBSGpTQ9ekUyl"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -853,7 +869,7 @@
       "url": "https://open.spotify.com/track/6Rqkz9Ht5sZrhBLgvvoi2F"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/7ha1PpagRHoohia1hVY57T"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/3y0lmQ0jL5sua5hZgGuIlP"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/5XhQ7AvGTzHWXtyjcMAggx"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/3BEmaFUxyNCKE8sAUppKMX"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -953,7 +969,7 @@
       "url": "https://open.spotify.com/track/1NzN7jKPpN0zQUNnPDtREb"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/7L3wVhRK0oqFPWxc9hdXFa"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -993,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2cVdbuInYw9ehlwuYCfMF0"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1013,7 +1029,7 @@
       "url": "https://open.spotify.com/track/0k396naKE6AxuN0ueROdVF"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1033,7 +1049,7 @@
       "url": "https://open.spotify.com/track/4VB2GRMYKEFP5TzNTKD1cs"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1053,7 +1069,7 @@
       "url": "https://open.spotify.com/track/3TEE4mvca5CEcRKqkH3CNI"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1069,7 +1085,7 @@
       "url": "https://open.spotify.com/track/6bvNern4bxnGjVVcggr8R5"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1089,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1JfP5nKwlNWbOUkTF1Py3W"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1109,7 +1125,7 @@
       "url": "https://open.spotify.com/track/5RVwcWLJPTSSvwLpCWJRRR"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1129,7 +1145,7 @@
       "url": "https://open.spotify.com/track/4F3aHaLkBlIDlVytT9g4o3"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1149,7 +1165,7 @@
       "url": "https://open.spotify.com/track/4ytMLLtul7kckAzW8zAvru"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1169,7 +1185,7 @@
       "url": "https://open.spotify.com/track/5zBi1srpDzVkWeHQuRreaJ"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1189,7 +1205,7 @@
       "url": "https://open.spotify.com/track/5ItXs1NlKtrzPSmoCiW7Yj"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1209,7 +1225,7 @@
       "url": "https://open.spotify.com/track/4G2A4Eyo15PMu8yTnuQLzs"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1229,7 +1245,7 @@
       "url": "https://open.spotify.com/track/6LjD8ji9wuV53rQ1pl34EB"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1249,7 +1265,7 @@
       "url": "https://open.spotify.com/track/3RiLimhvA3cw9krPAjelFb"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1269,7 +1285,7 @@
       "url": "https://open.spotify.com/track/5RM6le7cy5pd5H5VAuft6o"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1289,7 +1305,7 @@
       "url": "https://open.spotify.com/track/3hx2M1E6U5QXxLfCtjtoeg"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1309,7 +1325,7 @@
       "url": "https://open.spotify.com/track/4QnhohWbuU1sy3YA0CVRM3"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1329,7 +1345,7 @@
       "url": "https://open.spotify.com/track/4hFdh5E5vdWCgpEjd2vDda"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1349,7 +1365,7 @@
       "url": "https://open.spotify.com/track/04qZamEbHSDxwBPa8LNejx"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1369,7 +1385,7 @@
       "url": "https://open.spotify.com/track/11ZaiFDABFiH8GKOVPn1ms"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1389,7 +1405,7 @@
       "url": "https://open.spotify.com/track/41twb8RQHSb1V4ZFz1mAPU"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"
@@ -1409,7 +1425,7 @@
       "url": "https://open.spotify.com/track/761wA4ahjL8XV2w3mGWLyy"
     },
     {
-      "added_at": "2023-11-17 21:29:20",
+      "added_at": "2023-11-29 21:04:12",
       "album": {
         "name": "Scott Pilgrim Takes Off (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31"

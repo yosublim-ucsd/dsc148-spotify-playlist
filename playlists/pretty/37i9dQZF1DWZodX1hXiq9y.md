@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,457 likes - 150 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,580 likes - 150 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 149 | [Byablue](https://open.spotify.com/track/4MhGJyGOmgURHEJBatYzMz) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Byablue](https://open.spotify.com/album/7BVDdIIHvAleYqTVobRLjr) | 7:19 |
 | 150 | [Kalypso](https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [The Sirens](https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK) | 8:24 |
 
-Snapshot ID: `MCw0OWZkNzJkOWQ3N2Q5NmVmNTAyNGE1NGNkZjlhODExOWRkNTE1MjNj`
+Snapshot ID: `MCwwZDkwZDljNTFiMTRkNzI2ZTlhZmFmOTcyZDc1OTliMzU2ZWY0MTMy`

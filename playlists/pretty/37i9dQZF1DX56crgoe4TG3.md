@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,833 likes - 139 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,881 likes - 139 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 19 | [Pursuit of Happiness](https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW) | [Tray Wellington Band](https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp), [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Pursuit of Happiness](https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq) | 5:33 |
 | 20 | [Late Night Talking](https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Late Night Talking](https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l) | 3:15 |
 | 21 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:32 |
-| 22 | [Sweet Child O' Mine](https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to Guns N' Roses](https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN) | 4:01 |
+| 22 | [Sweet Child O' Mine](https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to Guns n' Roses](https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN) | 4:01 |
 | 23 | [Folsom Prison Blues](https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB) | [The String Revolution](https://open.spotify.com/artist/3a92Lwi4cm5FadiUpIpizc), [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [Folsom Prison Blues](https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW) | 3:26 |
 | 24 | [Royals](https://open.spotify.com/track/2yWtZjGxu76tyPkVzEdIr6) | [The Dirty Grass Players](https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X) | [Royals \(Bluegrass Cover\)](https://open.spotify.com/album/0IkOVFkJiIQASnXyVEqSeN) | 6:36 |
 | 25 | [Girl From the North Country \(Bob Dylan Cover\)](https://open.spotify.com/track/2wQLflu5Z6WQE5LVEfQTQD) | [Hayde Bluegrass Orchestra](https://open.spotify.com/artist/5L3ac0hlDxpbLBj3oQq3Ly) | [Amerikakoffert](https://open.spotify.com/album/2oi19N452zDFw7zbsnRiac) | 4:18 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 138 | [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 |
 | 139 | [On The Road Again](https://open.spotify.com/track/3xkY21Y37cXIHrWTQBAKNZ) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Country Mountain Tributes: The Songs of Willie Nelson](https://open.spotify.com/album/5hVPIFkN55JJWu2iM6CW5D) | 3:22 |
 
-Snapshot ID: `MCwwZTJiY2VlNWZmY2NiM2JlNWY0NjhjYTJjMjE0M2IxNDk2ZjIxYjEx`
+Snapshot ID: `MCxjNjkxNTA2ZWU4OWU3Y2YxMGExZTA1MGEwZTAyNmMyNzA3MWM3Nzc5`

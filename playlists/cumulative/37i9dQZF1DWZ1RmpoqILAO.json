@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Land",
+        "url": "https://open.spotify.com/album/36W3NXzrIHvMSnIY8h5em3"
+      },
+      "artists": [
+        {
+          "name": "Another Michael",
+          "url": "https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167445,
+      "name": "About",
+      "url": "https://open.spotify.com/track/4sOPZqn8nkweocgJQZJwmH"
+    },
+    {
+      "album": {
         "name": "Birdie",
         "url": "https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy"
       },
@@ -92,6 +110,24 @@
       "duration_ms": 138673,
       "name": "Angels Bowling",
       "url": "https://open.spotify.com/track/6i7nxi0UXihzEUoIaU9Mku"
+    },
+    {
+      "album": {
+        "name": "another sublet",
+        "url": "https://open.spotify.com/album/3j4TeXExZfONFBsnukEMuG"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182720,
+      "name": "another sublet",
+      "url": "https://open.spotify.com/track/5QXO4uPk1FdznZEGqTJsLb"
     },
     {
       "album": {
@@ -250,7 +286,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 320808,
       "name": "Big Open Sky Flyer",
       "url": "https://open.spotify.com/track/5FlLGHaavAIPxvVPEuphiF"
@@ -990,7 +1026,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 190292,
       "name": "DON'T YOU THINK IT'D BE NICE ?",
       "url": "https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D"
@@ -1034,7 +1070,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 206254,
       "name": "Drivin (Runnner Remix)",
       "url": "https://open.spotify.com/track/0ufgQYjEOPqqy0yn2JRehB"
@@ -1149,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/5WE0uZelPKzwZdymyKsLf3"
+      },
+      "artists": [
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544565,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/15FNZhperxThEW9hbekubq"
+    },
+    {
+      "album": {
         "name": "Foggy",
         "url": "https://open.spotify.com/album/2nrvUYyF6cd7aBzjdTwzLr"
       },
@@ -1200,7 +1254,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 172666,
       "name": "Formula One",
       "url": "https://open.spotify.com/track/2ncRTRkNzVOpaGoita2qPI"
@@ -1225,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "talk soon",
+        "url": "https://open.spotify.com/album/356rRbXibYCUg2gkyRZIZF"
+      },
+      "artists": [
+        {
+          "name": "hemlock",
+          "url": "https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131854,
+      "name": "garbage truck",
+      "url": "https://open.spotify.com/track/4DQnPtChUxquO83Fjn6D3S"
+    },
+    {
+      "album": {
         "name": "Acetone",
         "url": "https://open.spotify.com/album/7reRvUl6TnOYkfgKO5kDP9"
       },
@@ -1240,6 +1312,24 @@
       "duration_ms": 284706,
       "name": "Germs",
       "url": "https://open.spotify.com/track/37xUeodJvuKZl19BaUboHo"
+    },
+    {
+      "album": {
+        "name": "Glaze",
+        "url": "https://open.spotify.com/album/6vQc9oS4OPg5QKkXZ5DvLA"
+      },
+      "artists": [
+        {
+          "name": "Hook-Ups",
+          "url": "https://open.spotify.com/artist/6FMudRfeeTt2SB4g7mIgDk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189974,
+      "name": "Glaze",
+      "url": "https://open.spotify.com/track/4jkRnUuBruxsBxwGvljLTe"
     },
     {
       "album": {
@@ -1452,7 +1542,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 167663,
       "name": "Hard Headed",
       "url": "https://open.spotify.com/track/2mQDrIJA2oN5AKaMZxw1Fe"
@@ -1686,7 +1776,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 123306,
       "name": "I Know You're Wrong",
       "url": "https://open.spotify.com/track/25SJcZXOn89sHTfP3g5tsu"
@@ -1813,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174521,
+      "name": "June 9th Nighttime",
+      "url": "https://open.spotify.com/track/0NvYcEGXXoLabFZARKmb0U"
+    },
+    {
+      "album": {
         "name": "Kansas",
         "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
       },
@@ -1896,7 +2004,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 203608,
       "name": "Knockin - Single Version",
       "url": "https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc"
@@ -2291,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182306,
+      "name": "Pressure To Party",
+      "url": "https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu"
+    },
+    {
+      "album": {
         "name": "b'lieve i'm goin down...",
         "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
       },
@@ -2378,6 +2504,24 @@
       "duration_ms": 453682,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/4InyDtnc3LXJQ7IQb5gDe7"
+    },
+    {
+      "album": {
+        "name": "1992 - 2001",
+        "url": "https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW"
+      },
+      "artists": [
+        {
+          "name": "Acetone",
+          "url": "https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319640,
+      "name": "Return From The Ice",
+      "url": "https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10"
     },
     {
       "album": {
@@ -2608,7 +2752,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 140145,
       "name": "Shell",
       "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
@@ -2770,7 +2914,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 218017,
       "name": "Solid Heart",
       "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
@@ -2824,7 +2968,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 260010,
       "name": "Splash",
       "url": "https://open.spotify.com/track/1XZw7J3QerIqF253V4zQgf"
@@ -2929,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "album": {
         "name": "The Holey Bible",
         "url": "https://open.spotify.com/album/60DTLJMVuo2iDezOWMl8QI"
       },
@@ -2984,6 +3146,24 @@
       "duration_ms": 181400,
       "name": "The Bottom of It",
       "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
+    },
+    {
+      "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228459,
+      "name": "The Bug Collector",
+      "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
     },
     {
       "album": {
@@ -3209,6 +3389,42 @@
     },
     {
       "album": {
+        "name": "1990",
+        "url": "https://open.spotify.com/album/3puh4gwTuQFlPTZaEezmqa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Johnston",
+          "url": "https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111170,
+      "name": "True Love Will Find You in the End",
+      "url": "https://open.spotify.com/track/6fEjOPaZoxQl3oha9GDJAN"
+    },
+    {
+      "album": {
+        "name": "I'm Green",
+        "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
+      },
+      "artists": [
+        {
+          "name": "Mali Velasquez",
+          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236057,
+      "name": "Turn Red",
+      "url": "https://open.spotify.com/track/0rayVRqTtVHVkFiYdI8QW2"
+    },
+    {
+      "album": {
         "name": "Knockin'",
         "url": "https://open.spotify.com/album/6SX1sQ1tNE2d9jlLSFplla"
       },
@@ -3292,7 +3508,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 96386,
       "name": "Vines to Make It All Worth It",
       "url": "https://open.spotify.com/track/1OyKSBvrtyy3LczOQQagJb"
@@ -3418,7 +3634,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 306205,
       "name": "Yosemite",
       "url": "https://open.spotify.com/track/3WIifw9lqdgSZpt9renBAg"

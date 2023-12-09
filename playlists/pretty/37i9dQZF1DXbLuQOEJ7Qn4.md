@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 
 > when bass music was life
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,062 likes - 57 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,518 likes - 57 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 51 | [26 Basslines](https://open.spotify.com/track/1oyc8GS43HQ0SDunBMn9Bd) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Diary Of An Afro Warrior \(Expanded Edition\)](https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K) | 5:01 |
 | 52 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 |
 | 53 | [Bricks Don't Roll](https://open.spotify.com/track/1SBs5cEBLhTugiSHko2qx4) | [DJ Hazard](https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh) | [Bricks Don't Roll EP](https://open.spotify.com/album/0SbH0tpWimrsP1q4mJLEIS) | 4:13 |
-| 54 | [Cinema \- Skrillex Remix](https://open.spotify.com/track/02FuO3zDHGFAz0yP7HHGvy) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Electroman](https://open.spotify.com/album/5miSqsykQPBenTYVCx3uN5) | 5:07 |
+| 54 | [Cinema \(feat\. Gary Go\) \- Skrillex Remix](https://open.spotify.com/track/6jNM6fKx3WnyHbWBI9hs2r) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs) | [Electroman](https://open.spotify.com/album/6NPb3Bb77dtZhnypL0W0fv) | 5:07 |
 | 55 | [Basscone](https://open.spotify.com/track/6LKjMFJakQikJc1nhRsam9) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Lost In Your Love](https://open.spotify.com/album/6LFFQHqGu0AhDQNjkCyxpF) | 3:52 |
 | 56 | [Source 16](https://open.spotify.com/track/73qzJNohM4C0h02kWMe21B) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Source 16](https://open.spotify.com/album/5rvNcDCoS3esebzx8crgZ6) | 3:20 |
 | 57 | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR) | 8:00 |
 
-Snapshot ID: `MCxlMGIxMzZkYjBhOTU0NDIzMTM0YjJhYWE1OTA0ZjI3NjUxNjAwNTY1`
+Snapshot ID: `MCwyZTY1OTVlYzc3ZTIyOGQ0ODBiZDZiYjAzYWNhYjRkZDgwN2JiM2Fm`

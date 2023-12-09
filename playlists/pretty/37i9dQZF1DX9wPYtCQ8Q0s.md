@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,178 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,166 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 99 | [Panini \- DaBaby Remix](https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Panini](https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov) | 2:31 |
 | 100 | [Hylander](https://open.spotify.com/track/3sOcmmmWB7dqyziUVLXpTi) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [somynem.grin](https://open.spotify.com/artist/5AQpcBCqfE0mHDM4dh02mf) | [Hylander](https://open.spotify.com/album/0XbOcrzCIIltxgcBdBUGAs) | 1:36 |
 
-Snapshot ID: `MCxjYzE2ZmJmNmNiMWUyMzE5NTVlNWYxMTEyYTY2ODFiZjYzM2M1MGVi`
+Snapshot ID: `MCxjZTM2NTZiMzkzZjZmZDg4OWMwZGNlYmRmY2NiYzc5NTE1NjdmZDE2`

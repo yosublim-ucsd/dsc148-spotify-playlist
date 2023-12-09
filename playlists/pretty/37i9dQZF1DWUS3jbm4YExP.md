@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,604 likes - 150 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,819 likes - 150 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 149 | [Lotus](https://open.spotify.com/track/4Lgp39erLhFmODQ2AnPl2r) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Eastern Flowers](https://open.spotify.com/album/3MzZNd1GFSCkb40EBv326G) | 3:24 |
 | 150 | [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 |
 
-Snapshot ID: `MCwxMjBjNjE2ODExOTQwNGI5Zjc4NTU3ZTY5ZTQ0MzM0M2UzNDBmZTFh`
+Snapshot ID: `MCw2ZmE0NjIwOWM5YzljZmQ3OGUxNzNkN2JlMWM0YWI5NDVhNjUyOWMy`

@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 137879,
       "name": "Atrial",
       "url": "https://open.spotify.com/track/2E2MwUbN2TG9sfMYMVygHs"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160540,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/6V9JyTxs7RkraVjnom973c"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 139805,
       "name": "Goiaba",
       "url": "https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 168297,
       "name": "It's Ok",
       "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 153253,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5DQ0QCjMsFzIfdhGHtlamp"
@@ -3436,7 +3436,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 192000,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/2c4ID1tG3Y0sp20zLRV8TI"
@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 153417,
       "name": "Sesame",
       "url": "https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV"
@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 196923,
       "name": "Silience",
       "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"
@@ -4590,7 +4590,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 181428,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/4GSPOPaOAMtkmIHgT6SZgL"
@@ -4828,7 +4828,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 121519,
       "name": "Wish You Were Mine",
       "url": "https://open.spotify.com/track/1ZHRUXw3f03W6YM3vQ3ehv"

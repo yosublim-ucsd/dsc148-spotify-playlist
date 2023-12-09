@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Lex en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,507 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,515 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [KARMA](https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk) | [Clara Floc](https://open.spotify.com/artist/0e16Li9kILC0goZoA7WR5f), [Light Reaction](https://open.spotify.com/artist/4ImPMY6kcAHp54Zfvc035x), [Gabo Versus](https://open.spotify.com/artist/1N4FEl0zyRocPbZBiWPzJN) | [KARMA](https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr) | 3:34 |
 | 90 | [Space](https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3) | [NØRBY](https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Space](https://open.spotify.com/album/3r4UauxvbGR8am8API7124) | 2:58 |
 
-Snapshot ID: `MCwzZTQyYTNlNmY3ODlkMmFkOWY5MTY3ODA4MjNmYTk1ZDY2YjBhMDVl`
+Snapshot ID: `MCwxOTFkOTgzYmY3OTEyYmZlOTk2NDZmYTQyYjA3ZmY5MDFkYmU0OTQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, tenth sky\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,125 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,137 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [Io non voglio più soffrire](https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Io non voglio più soffrire](https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1) | 2:36 |
 | 100 | [senza te](https://open.spotify.com/track/6FzDpbUfMipKnZHvk4egh2) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj) | [senza te](https://open.spotify.com/album/7ee5kaFMWyI7Wpnr0LHMNL) | 2:38 |
 
-Snapshot ID: `MCxiNWNjOTBmZmQ5NzA4NzA1NWEyMTA1MTA3MWZiNWZmY2JkMjg4ZjAw`
+Snapshot ID: `MCxmMjQyODIxNTU5ZmFmMjc3YzBiYmQ3OGI0NjcwZDc1NjFiZmY3Y2Zm`

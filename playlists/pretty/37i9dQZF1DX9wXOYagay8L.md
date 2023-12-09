@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu?si=nvvCipfkR6KQyMwv3cqysw">Mnqobi Yazo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,055 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,282 likes - 55 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 54 | [Feelings](https://open.spotify.com/track/3LNQ3RLbxPOjfGVTrlXQl5) | [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Feelings](https://open.spotify.com/album/2kN74xWPubjhrFnDtL2pHJ) | 2:54 |
 | 55 | [Kukude Emathandweni](https://open.spotify.com/track/5gwyqqUjqTSOnXklI7582D) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Kukude Emathandweni](https://open.spotify.com/album/18UdSJLB7xeeigWWsF0u4s) | 3:52 |
 
-Snapshot ID: `MCw2NWQzOWMzY2FjYWRiZjQ3NDliY2VmOTMxYWZhMDFiNTcyOTdiMzk4`
+Snapshot ID: `MCwwZjQwMDZmZDYzYzNjYmUwNGMzMzVkNjNiMTE0NThjMDQ3NzRhNjEy`

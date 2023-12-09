@@ -119,6 +119,32 @@
     },
     {
       "album": {
+        "name": "Arakkonam Style (From \"Blue Star\")",
+        "url": "https://open.spotify.com/album/4LsdHtrT3Xy4XeLnQ8oFLm"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Gana Balachandar",
+          "url": "https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191925,
+      "name": "Arakkonam Style - From \"Blue Star\"",
+      "url": "https://open.spotify.com/track/51NhQWfzmCMK6hB1PFKmPc"
+    },
+    {
+      "album": {
         "name": "Prince (Tamil)",
         "url": "https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA"
       },

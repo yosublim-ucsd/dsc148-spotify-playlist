@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 71593,
+  "num_followers": 71592,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU1MzEzNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU1NDAwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "MARTILLAZO",
         "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
@@ -49,7 +49,23 @@
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "Estrellita",
+        "url": "https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW"
+      },
+      "artists": [
+        {
+          "name": "Zhamira Zambrano",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "PURA FIXA QLA",
         "url": "https://open.spotify.com/album/31UEoeQB7d4G4qv4YfruYq"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/4za8yeXikIpowhHVJobvvt"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Le Gustan lo' Flaites",
         "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Partyson",
         "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
@@ -101,7 +117,7 @@
       "url": "https://open.spotify.com/track/4uelxH4T8ewn0wwQC5gGLh"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Aprovechame (Cris Mj - ia) IAVERSO #1",
         "url": "https://open.spotify.com/album/601kUgYSKK1ySoEAtYe03S"
@@ -117,7 +133,39 @@
       "url": "https://open.spotify.com/track/0RGJntz0mZMZ3R8EODpP5g"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 173785,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "bye bye",
         "url": "https://open.spotify.com/album/4tmDMwfDVOVOBVS1ODnLEo"
@@ -141,59 +189,7 @@
       "url": "https://open.spotify.com/track/38RGH6JMSBNEV9BBRFv3pQ"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "Partyson",
-        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 173785,
-      "name": "Daytona",
-      "url": "https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "fantasmas",
-        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 287248,
-      "name": "fantasmas",
-      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "Confortas Pero Da\u00f1as",
-        "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Resonancia Et\u00e9rea",
-          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
-        }
-      ],
-      "duration_ms": 249502,
-      "name": "Confortas Pero Da\u00f1as",
-      "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
@@ -213,7 +209,47 @@
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "Tas Texteandome",
+        "url": "https://open.spotify.com/album/4lcpQOkpFBp3qGV0jR8N6v"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 176700,
+      "name": "Tas Texteandome",
+      "url": "https://open.spotify.com/track/7spAR93xvPOfkxIeTGbpPf"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "Confortas Pero Da\u00f1as",
+        "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Resonancia Et\u00e9rea",
+          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
+        }
+      ],
+      "duration_ms": 249502,
+      "name": "Confortas Pero Da\u00f1as",
+      "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "EL AFTER DEL AFTER",
         "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
@@ -237,27 +273,7 @@
       "url": "https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "Tas Texteandome",
-        "url": "https://open.spotify.com/album/4lcpQOkpFBp3qGV0jR8N6v"
-      },
-      "artists": [
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 176700,
-      "name": "Tas Texteandome",
-      "url": "https://open.spotify.com/track/7spAR93xvPOfkxIeTGbpPf"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Good God!",
         "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Manos Rotas",
         "url": "https://open.spotify.com/album/7KKBibFuDeAKYrB79gPcHu"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/3BFh8rR6aMexy7ELu2UQy3"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Talento de Vida",
         "url": "https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Controlando el Ki",
         "url": "https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I"
@@ -329,7 +345,27 @@
       "url": "https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "BLACK YAYO VOL 1",
+        "url": "https://open.spotify.com/album/4UPMJzwSy8OwRYmV9dDbyh"
+      },
+      "artists": [
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Heridas",
+      "url": "https://open.spotify.com/track/1bectpQhg99WBgecDJIntY"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "PARANOIA",
         "url": "https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc"
@@ -365,7 +401,7 @@
       "url": "https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Dear Insanity...",
         "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
@@ -381,27 +417,7 @@
       "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "BLACK YAYO VOL 1",
-        "url": "https://open.spotify.com/album/4UPMJzwSy8OwRYmV9dDbyh"
-      },
-      "artists": [
-        {
-          "name": "Bryartz",
-          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "Heridas",
-      "url": "https://open.spotify.com/track/1bectpQhg99WBgecDJIntY"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "\u00c9NFASIS",
         "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
@@ -453,47 +469,7 @@
       "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "Lo Que Tiene",
-        "url": "https://open.spotify.com/album/1bDRGkwsccXIuVgFKda4LC"
-      },
-      "artists": [
-        {
-          "name": "MDLUXE",
-          "url": "https://open.spotify.com/artist/2voI2aILML9xOO0eazobd9"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Lo Que Tiene",
-      "url": "https://open.spotify.com/track/728kg1ila9Fhjv2amlyxut"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "BONNIE AND CLYDE (REMIX)",
-        "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 286265,
-      "name": "BONNIE AND CLYDE - REMIX",
-      "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Camino Pa' La Fama",
         "url": "https://open.spotify.com/album/2VZiS6UyKKSF0HdsqG6uPo"
@@ -525,7 +501,7 @@
       "url": "https://open.spotify.com/track/4VSnD9fASuVoEZIH7TnAFE"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Al Paso",
         "url": "https://open.spotify.com/album/1HqbfQoIpDjhQJE5pkIKQX"
@@ -553,7 +529,47 @@
       "url": "https://open.spotify.com/track/5Du6QeemuTCF6YFamMNWMb"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "BONNIE AND CLYDE (REMIX)",
+        "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 286265,
+      "name": "BONNIE AND CLYDE - REMIX",
+      "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "Lo Que Tiene",
+        "url": "https://open.spotify.com/album/1bDRGkwsccXIuVgFKda4LC"
+      },
+      "artists": [
+        {
+          "name": "MDLUXE",
+          "url": "https://open.spotify.com/artist/2voI2aILML9xOO0eazobd9"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Lo Que Tiene",
+      "url": "https://open.spotify.com/track/728kg1ila9Fhjv2amlyxut"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Kittyponeo",
         "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
@@ -573,7 +589,63 @@
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "COSAS QUE NO TE DIJE",
+        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "COSAS QUE NO TE DIJE",
+      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "Querer Querernos",
+        "url": "https://open.spotify.com/album/7xTUjhiCQyxFFUDHDNcW29"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 240047,
+      "name": "Querer Querernos",
+      "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Black Sheep (Brie Larson Vocal Version)",
         "url": "https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd"
@@ -593,23 +665,87 @@
       "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
-        "name": "La negrita",
-        "url": "https://open.spotify.com/album/1bW0NsssiZnAF2TJcma1mh"
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
       },
       "artists": [
         {
-          "name": "EL TRUENO",
-          "url": "https://open.spotify.com/artist/4De3G4EpwCFk5MZejp7xzB"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 183247,
-      "name": "LA NEGRITA",
-      "url": "https://open.spotify.com/track/4lHP7JSvlDZ6EeVZg5Ud0q"
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/2Ex6JjyUiIcQRqFeoTSInw"
+      },
+      "artists": [
+        {
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "Bugambilia",
+      "url": "https://open.spotify.com/track/5hXCTV8OCsNak8OVry7yzM"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "LAS QUE NO TIENEN PAP\u00c1",
+        "url": "https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "LAS QUE NO TIENEN PAP\u00c1",
+      "url": "https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Tendo (Remix)",
         "url": "https://open.spotify.com/album/6YXUx0N5rTZDcIYo2Z7fPw"
@@ -637,39 +773,91 @@
       "url": "https://open.spotify.com/track/5iQlORQQ6qpj9QSyWoxLbs"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
-        "name": "COSAS QUE NO TE DIJE",
-        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
+        "name": "No Compe",
+        "url": "https://open.spotify.com/album/430gNVv6387cVEvbnFSw3K"
       },
       "artists": [
         {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Baby J & Young Weapon",
+          "url": "https://open.spotify.com/artist/4IRrYqHes6JTQwU5lePXNx"
         }
       ],
-      "duration_ms": 224725,
-      "name": "COSAS QUE NO TE DIJE",
-      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
+      "duration_ms": 148314,
+      "name": "No Me Sueltes",
+      "url": "https://open.spotify.com/track/0nxTx0b1KOKwycQESSeZym"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
-        "name": "Querer Querernos",
-        "url": "https://open.spotify.com/album/7xTUjhiCQyxFFUDHDNcW29"
+        "name": "Ballin pablo chill (Cover)",
+        "url": "https://open.spotify.com/album/5csANjO03ZOs1xZ6jM8WE3"
       },
       "artists": [
         {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+          "name": "Pablo chill-e",
+          "url": "https://open.spotify.com/artist/01nVCWM4omWs8dRrrt7t6h"
         }
       ],
-      "duration_ms": 240047,
-      "name": "Querer Querernos",
-      "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
+      "duration_ms": 148677,
+      "name": "Ballin pablo chill",
+      "url": "https://open.spotify.com/track/6y29hf6bJxazOkTkfBUKZR"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "La negrita",
+        "url": "https://open.spotify.com/album/1bW0NsssiZnAF2TJcma1mh"
+      },
+      "artists": [
+        {
+          "name": "EL TRUENO",
+          "url": "https://open.spotify.com/artist/4De3G4EpwCFk5MZejp7xzB"
+        }
+      ],
+      "duration_ms": 183247,
+      "name": "LA NEGRITA",
+      "url": "https://open.spotify.com/track/4lHP7JSvlDZ6EeVZg5Ud0q"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/3zuTLmEBNcPK3AkfiKc7Sx"
+      },
+      "artists": [
+        {
+          "name": "FlowGPT",
+          "url": "https://open.spotify.com/artist/3wxoU8tGfS8OTUoqTAoB0m"
+        }
+      ],
+      "duration_ms": 223583,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/4KkQ972Gp2xP7KYBgDNEiI"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj"
+      },
+      "artists": [
+        {
+          "name": "Carrion GodBle$$",
+          "url": "https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
+    },
+    {
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Cora Roto",
         "url": "https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl"
@@ -689,127 +877,7 @@
       "url": "https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Lily-Rose Depp",
-          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
-        }
-      ],
-      "duration_ms": 244684,
-      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
-      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "Perfect Night",
-        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "Perfect Night",
-      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Standing Next to You",
-      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "LAS QUE NO TIENEN PAP\u00c1",
-        "url": "https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "LAS QUE NO TIENEN PAP\u00c1",
-      "url": "https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "No Compe",
-        "url": "https://open.spotify.com/album/430gNVv6387cVEvbnFSw3K"
-      },
-      "artists": [
-        {
-          "name": "Baby J & Young Weapon",
-          "url": "https://open.spotify.com/artist/4IRrYqHes6JTQwU5lePXNx"
-        }
-      ],
-      "duration_ms": 148314,
-      "name": "No Me Sueltes",
-      "url": "https://open.spotify.com/track/0nxTx0b1KOKwycQESSeZym"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/2Ex6JjyUiIcQRqFeoTSInw"
-      },
-      "artists": [
-        {
-          "name": "Nasa Histoires",
-          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
-        }
-      ],
-      "duration_ms": 189640,
-      "name": "Bugambilia",
-      "url": "https://open.spotify.com/track/5hXCTV8OCsNak8OVry7yzM"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "Ballin pablo chill (Cover)",
-        "url": "https://open.spotify.com/album/5csANjO03ZOs1xZ6jM8WE3"
-      },
-      "artists": [
-        {
-          "name": "Pablo chill-e",
-          "url": "https://open.spotify.com/artist/01nVCWM4omWs8dRrrt7t6h"
-        }
-      ],
-      "duration_ms": 148677,
-      "name": "Ballin pablo chill",
-      "url": "https://open.spotify.com/track/6y29hf6bJxazOkTkfBUKZR"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Oye Mami Solo Dime",
         "url": "https://open.spotify.com/album/09VeI6G1FqRSvMeTX47jLi"
@@ -825,39 +893,55 @@
       "url": "https://open.spotify.com/track/3Q6o01nivhX5FkHVMfBLm5"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/3zuTLmEBNcPK3AkfiKc7Sx"
+        "name": "Con To (feat. Flow Nasty)",
+        "url": "https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf"
       },
       "artists": [
         {
-          "name": "FlowGPT",
-          "url": "https://open.spotify.com/artist/3wxoU8tGfS8OTUoqTAoB0m"
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Andre Noriega",
+          "url": "https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        },
+        {
+          "name": "Flow Nasty",
+          "url": "https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk"
         }
       ],
-      "duration_ms": 223583,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/4KkQ972Gp2xP7KYBgDNEiI"
+      "duration_ms": 132539,
+      "name": "Con To (feat. Flow Nasty)",
+      "url": "https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
-        "name": "Drama - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+        "name": "La Purga",
+        "url": "https://open.spotify.com/album/3zHAGkOIV9ut97pmLfd76p"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "Custom",
+          "url": "https://open.spotify.com/artist/0cZRCTXUF6Bn7r7LTl6f7x"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+      "duration_ms": 400449,
+      "name": "La Purga",
+      "url": "https://open.spotify.com/track/4ELHvTp06qVu1XvWe7sy5Z"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "Canciones para Despertar Ni\u00f1os",
         "url": "https://open.spotify.com/album/36cHeQFdpoYNFTLFnsppZl"
@@ -873,7 +957,7 @@
       "url": "https://open.spotify.com/track/16BBRNgw82jgleM4Ds31GG"
     },
     {
-      "added_at": "2023-12-07 17:12:45",
+      "added_at": "2023-12-08 19:31:56",
       "album": {
         "name": "TROMPETAS (feat. King Savagge & Best)",
         "url": "https://open.spotify.com/album/7pm56gmohoxcfT1sGB41DR"
@@ -903,90 +987,6 @@
       "duration_ms": 166168,
       "name": "TROMPETAS (feat. King Savagge & Best)",
       "url": "https://open.spotify.com/track/7FwUyEny91YMSWGPyi99dG"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj"
-      },
-      "artists": [
-        {
-          "name": "Carrion GodBle$$",
-          "url": "https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU"
-        },
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "La Purga",
-        "url": "https://open.spotify.com/album/3zHAGkOIV9ut97pmLfd76p"
-      },
-      "artists": [
-        {
-          "name": "Custom",
-          "url": "https://open.spotify.com/artist/0cZRCTXUF6Bn7r7LTl6f7x"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 400449,
-      "name": "La Purga",
-      "url": "https://open.spotify.com/track/4ELHvTp06qVu1XvWe7sy5Z"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "Fetty",
-        "url": "https://open.spotify.com/album/6iU0MQfHr7q8XCU2cGwX1q"
-      },
-      "artists": [
-        {
-          "name": "Il Nene De Oro",
-          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Fetty",
-      "url": "https://open.spotify.com/track/4VUCD7MJpEsPG71MJDXBdD"
-    },
-    {
-      "added_at": "2023-12-07 17:12:45",
-      "album": {
-        "name": "Con To (feat. Flow Nasty)",
-        "url": "https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf"
-      },
-      "artists": [
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Andre Noriega",
-          "url": "https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si"
-        },
-        {
-          "name": "Ovi\u00f1a",
-          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
-        },
-        {
-          "name": "Flow Nasty",
-          "url": "https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk"
-        }
-      ],
-      "duration_ms": 132539,
-      "name": "Con To (feat. Flow Nasty)",
-      "url": "https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q"
     }
   ],
   "unique_name": "Viral 50 - Chile",

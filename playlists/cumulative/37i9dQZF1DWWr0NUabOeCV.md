@@ -4,7 +4,7 @@
 
 > Para iniciar la fiesta\. ¡Salud!
 
-104 songs - 5 hr 56 min
+105 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [911](https://open.spotify.com/track/2TksvaRivgAEj780DgRB73) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [911](https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1) | 3:35 | 2021-12-14 |  |
 | [Agua \(with J Balvin\)](https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [The SpongeBob Movie: Sponge On The Run \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7) | 2:39 | 2021-12-14 |  |
 | [Agua de Jamaica](https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 2:56 | 2021-12-14 |  |
-| [Aire](https://open.spotify.com/track/3yFFIGLByW4gG7U7ogIHPd) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Aire](https://open.spotify.com/album/1Jl4xXoDOnHqWpdAS1RFNV) | 3:44 | 2021-12-14 |  |
+| [Aire](https://open.spotify.com/track/3yFFIGLByW4gG7U7ogIHPd) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Aire](https://open.spotify.com/album/1Jl4xXoDOnHqWpdAS1RFNV) | 3:44 | 2021-12-14 | 2023-12-09 |
+| [Aire](https://open.spotify.com/track/5uHfjw0Ht5xuFBmQLLhOu5) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Aire](https://open.spotify.com/album/0unybQKJCBw7h7nxhuh5GA) | 3:44 | 2021-12-14 |  |
 | [Algo Mágico \- R3HAB Remix](https://open.spotify.com/track/0AKJnGrZazPQbEoGamsQT9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Algo Mágico \(R3HAB Remix\)](https://open.spotify.com/album/1UC5jCthGQNO7vgtdLau7R) | 2:47 | 2021-12-14 |  |
 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 | 2021-12-14 |  |
 | [Amor en Coma](https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Amor en Coma](https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2) | 3:19 | 2021-12-14 |  |

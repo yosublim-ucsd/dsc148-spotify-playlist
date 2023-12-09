@@ -4,7 +4,7 @@
 
 > Descubra Abbot e novos talentos brasileiros no horizonte.
 
-317 songs - 15 hr 57 min
+318 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [Minha Vida](https://open.spotify.com/track/0Fyrt87Xhfbqp72uFKdZAq) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [agnvtnc](https://open.spotify.com/artist/7tCGWyI4avaGaBBqMHh8Ch), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Minha Vida](https://open.spotify.com/album/1jnYFy43yKnJXz90j1XYv4) | 2:26 | 2021-11-19 | 2022-02-15 |
 | [Money Rain](https://open.spotify.com/track/43xN94U5MAyfDOFdqwGxWw) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [ÉTPM?!](https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV) | 3:28 | 2021-11-19 | 2022-01-26 |
 | [Morena](https://open.spotify.com/track/6zsEKAZZulmsl1Qlw5G3EX) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Com Você ou Sem](https://open.spotify.com/album/01avJKYxgb9Ctr73WLzTmk) | 2:58 | 2021-11-19 | 2022-02-15 |
-| [Movimento \- Spotify Singles](https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ) | 2:38 | 2022-10-14 |  |
+| [Movimento \- Spotify Singles](https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ) | 2:38 | 2022-10-14 | 2023-12-09 |
+| [Movimento \- Spotify Singles](https://open.spotify.com/track/6SMH0vJtez9fJmg3Nh2heG) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/7C5Wqc2KWxxTvRg6UmcxSU) | 2:38 | 2023-10-05 |  |
 | [Moça](https://open.spotify.com/track/150lAFv2BIRzo76x3pSVcI) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [Moça](https://open.spotify.com/album/1uZgfhoXpXvNI0UXMFPmGG) | 2:19 | 2021-11-19 | 2022-02-15 |
 | [MTG \- ELA VAI JOGA](https://open.spotify.com/track/4VjuRtqxq5y9EPJix8MqVO) | [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Mc Nego Nojo](https://open.spotify.com/artist/6GW21sFa6YFY7HLVqFHFp3), [Mc Mr\. Bim](https://open.spotify.com/artist/0Lhk5DBsN2N0HGUZ0TmUq2) | [MTG \- ELA VAI JOGA](https://open.spotify.com/album/68TzuJYpUcJHP8MhttAY9b) | 2:40 | 2021-11-19 | 2022-02-04 |
 | [Mtg Vou Machucar](https://open.spotify.com/track/4wNrJs4OOMO6BwhmifUgup) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Dj Sammer](https://open.spotify.com/artist/0SkoCU8IIYx3t5DMLggRmd), [Dj Marquinho Do Serrão](https://open.spotify.com/artist/13nnjvMNrkQuIjH59duA8o) | [Mtg Vou Machucar](https://open.spotify.com/album/2Lg74m2C7hqksIUF8iG635) | 2:55 | 2021-11-19 | 2022-01-08 |

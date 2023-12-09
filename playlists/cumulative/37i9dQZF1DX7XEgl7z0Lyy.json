@@ -177,6 +177,24 @@
     },
     {
       "album": {
+        "name": "amends",
+        "url": "https://open.spotify.com/album/4eVKslgPopgYARIH7TiSPX"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158961,
+      "name": "amends",
+      "url": "https://open.spotify.com/track/2zeyfLYqiAp0dkvaKY93HI"
+    },
+    {
+      "album": {
         "name": "BABY I'M HOME (w/ Kanii & 9lives)",
         "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
       },
@@ -675,6 +693,24 @@
     },
     {
       "album": {
+        "name": "DOOR TO DUSK",
+        "url": "https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142016,
+      "name": "DOOR TO DUSK",
+      "url": "https://open.spotify.com/track/0TGArkMCrtF5KaRT7ZvNHu"
+    },
+    {
+      "album": {
         "name": "DREAMSCAPE",
         "url": "https://open.spotify.com/album/6lIObPGguCyVTQf8f1RVag"
       },
@@ -894,6 +930,32 @@
       "duration_ms": 86308,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/3tVzkAo4dmzdYxbnrWIwxM"
+    },
+    {
+      "album": {
+        "name": "garden +jersey+",
+        "url": "https://open.spotify.com/album/3dfmxvekNvub6fZ2aaVJ7u"
+      },
+      "artists": [
+        {
+          "name": "CactusTeam",
+          "url": "https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm"
+        },
+        {
+          "name": "temcandoanything",
+          "url": "https://open.spotify.com/artist/4k7v8gQIQQDOKVIZ1nbxvI"
+        },
+        {
+          "name": "Yabujin",
+          "url": "https://open.spotify.com/artist/3xMSStWH6Wz2KAJqkZwXLu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165184,
+      "name": "garden +jersey+",
+      "url": "https://open.spotify.com/track/6C1zDj14LtTSbkhLOas9ha"
     },
     {
       "album": {
@@ -1237,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "ICEWHORE!",
+        "url": "https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123062,
+      "name": "ICEWHORE! - slowed",
+      "url": "https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua"
+    },
+    {
+      "album": {
         "name": "INVINCIBLE",
         "url": "https://open.spotify.com/album/3pKMJN25tbBk9YV76EHnMj"
       },
@@ -1522,6 +1602,24 @@
       "duration_ms": 102860,
       "name": "let's get paid!",
       "url": "https://open.spotify.com/track/3uMDzjC36gRF3zWbxAc705"
+    },
+    {
+      "album": {
+        "name": "Like A G6",
+        "url": "https://open.spotify.com/album/6Q6euJJrGm04OqBRLAycNV"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167275,
+      "name": "Like A G6",
+      "url": "https://open.spotify.com/track/129rk9pTdMs0a0JGHMSW8x"
     },
     {
       "album": {
@@ -2105,6 +2203,28 @@
     },
     {
       "album": {
+        "name": "DOOR TO DUSK",
+        "url": "https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125004,
+      "name": "PURPLE HEART (w/ Don Toliver)",
+      "url": "https://open.spotify.com/track/7DRF9F5YevI4SjsKDpZsBw"
+    },
+    {
+      "album": {
         "name": "EGOISTA: LOVE YOURSELF!",
         "url": "https://open.spotify.com/album/6lMBU96G6OEjSdXDlIiGPk"
       },
@@ -2212,6 +2332,28 @@
       "duration_ms": 141176,
       "name": "Saffron Forest",
       "url": "https://open.spotify.com/track/2Dw26esVMltthp13n4YfNx"
+    },
+    {
+      "album": {
+        "name": "SEXTO SENTIDO",
+        "url": "https://open.spotify.com/album/0NmIsaBvZaGyf6hqyGbGqU"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        },
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76895,
+      "name": "SEXTO SENTIDO",
+      "url": "https://open.spotify.com/track/4cYUN0he5ndvrrqVscZEkF"
     },
     {
       "album": {
@@ -2400,6 +2542,24 @@
       "duration_ms": 88838,
       "name": "So Fast",
       "url": "https://open.spotify.com/track/2JhhwzWuNYa8JtXduJE3Aj"
+    },
+    {
+      "album": {
+        "name": "so nice of you",
+        "url": "https://open.spotify.com/album/2NveJmvAvsRGG3WBCxjA3i"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130457,
+      "name": "so nice of you",
+      "url": "https://open.spotify.com/track/0kvJIoVCamQAYrd0CL2lyD"
     },
     {
       "album": {

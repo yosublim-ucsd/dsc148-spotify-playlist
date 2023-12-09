@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,876 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,919 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [The Get Back](https://open.spotify.com/track/22wegVv3MYQOu4WgVbhaXp) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [The Get Back](https://open.spotify.com/album/408QsFdYz9ZT0jq9uqAyOY) | 2:10 |
 | 80 | [In the Shadows 2k22 \- Krowdexx Mix](https://open.spotify.com/track/6pgDjTGp6VgbUG2dYLUMdO) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [A.Spencer](https://open.spotify.com/artist/5mc3fIXZDVqM8g9wkntXyg), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [In the Shadows 2k22 \(Krowdexx Mix\)](https://open.spotify.com/album/5l19N5cOJJv9Mj4KF5dJDk) | 2:39 |
 
-Snapshot ID: `MCw4NjM1ZDlkMzk1MGYwOGU4NDRlNDhlMmEyZjgwMTJiNTc2N2JiMjlm`
+Snapshot ID: `MCw1NjdjY2EzNGMzNmNlZjE0NDhhMThkZTQ3ZGNjYzlhZWYxMWUwZWM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,299 likes - 150 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,303 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 149 | [Plaything](https://open.spotify.com/track/0VEU0lalfqxjwezz7M1YaI) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [We Are Reasonable People](https://open.spotify.com/album/3uuoa0fvvb93KoORCTpPko) | 4:14 |
 | 150 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
 
-Snapshot ID: `MCw0NzgxMzg5YjhiMjYyZTg1NGY1NmNkYmExNTQ4NWZkNmYyYjIzMDA5`
+Snapshot ID: `MCw2MGNmMzhhNjhlMmE2YTY4NmJmOGI1ZGMyZjk3MmU2YTFhN2NmODhm`

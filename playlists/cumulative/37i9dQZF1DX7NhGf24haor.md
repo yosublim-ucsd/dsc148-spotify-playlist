@@ -4,7 +4,7 @@
 
 > Updated weekly \| Hardstyle \| Cover: Gunz For Hire \(Ran\-D & Adaro\)
 
-700 songs - 1 day 14 hr 15 min
+701 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Bowy \(The World Is Yours\)](https://open.spotify.com/track/14sNEXdQWD74CkF5GTLd8l) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Bowy \(The World Is Yours\)](https://open.spotify.com/album/20FHllcZJkMAIsUSKnESEb) | 3:31 | 2023-03-16 | 2023-04-07 |
 | [Break My Heart Again](https://open.spotify.com/track/7cyvD3Tkdk5rysxBhv3ihW) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Break My Heart Again](https://open.spotify.com/album/3pMTdANEnWqRSF1W9n2ges) | 3:05 | 2023-07-06 | 2023-09-16 |
 | [Break The Rules](https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Break The Rules](https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2) | 3:51 | 2023-06-30 | 2023-09-08 |
-| [Bring The Fire](https://open.spotify.com/track/77s5PJsYbv9wkTBNSbI5EI) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [A New Decade](https://open.spotify.com/album/74OTp7REGaYuxV3On4hHLm) | 3:12 | 2023-12-08 |  |
+| [Bring The Fire](https://open.spotify.com/track/3ltWDlBkU2UNdS7rbQVTRP) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [A New Decade](https://open.spotify.com/album/4VOgerUKF1flW6PupyI1Y6) | 3:12 | 2023-12-08 |  |
+| [Bring The Fire](https://open.spotify.com/track/77s5PJsYbv9wkTBNSbI5EI) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [A New Decade](https://open.spotify.com/album/74OTp7REGaYuxV3On4hHLm) | 3:12 | 2023-12-08 | 2023-12-09 |
 | [Broken Dreams](https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx) | [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Broken Dreams](https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX) | 3:42 | 2023-12-01 |  |
 | [Broken Halo](https://open.spotify.com/track/5sLngIxGJ5QFnYDnDzCYnT) | [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Broken Halo \(feat\. Nino Lucarelli\)](https://open.spotify.com/album/3PP07ls7AuqWr3aIJKjtmv) | 5:15 | 2022-12-08 | 2023-02-24 |
 | [Brothers by Blade](https://open.spotify.com/track/5tNPQ5KQPdE5ZJFOKK3ojR) | [Neolux](https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ) | [Brothers by Blade](https://open.spotify.com/album/1aIB9ydxgzx6NuBZi9GHLS) | 3:48 | 2022-12-08 | 2022-12-24 |

@@ -4,7 +4,7 @@
 
 > The best Blues for a long trip behind the wheel.
 
-145 songs - 8 hr 36 min
+146 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(I Got A\) Stomach Ache](https://open.spotify.com/track/4qHJ2Ap72rtcupZrn7f1do) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [It's My Life Baby](https://open.spotify.com/album/5BO0YaOMf0isXQcVqr14XH) | 3:26 | 2022-05-25 |  |
 | [A Hard Road](https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 3:09 | 2022-05-25 |  |
 | [Ain't Superstitious](https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 3:30 | 2022-05-25 |  |
-| [All Your Love \- Mono](https://open.spotify.com/track/6jKcmgac1pj1iaqBPsF3rF) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:35 | 2022-05-25 |  |
+| [All Your Love \- Mono](https://open.spotify.com/track/6jKcmgac1pj1iaqBPsF3rF) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:35 | 2022-05-25 |  |
 | [Big Legs, Tight Skirt](https://open.spotify.com/track/1RjsFNsXnkFETdkLNRpAg0) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:17 | 2022-05-25 |  |
 | [Billy Boy's Jump](https://open.spotify.com/track/1FdYBTTaSGYMaz1zf42kzJ) | [Billy Boy Arnold](https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o) | [Goin' To Chicago](https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K) | 2:31 | 2022-05-25 |  |
 | [Black Cat Moan](https://open.spotify.com/track/6fagHyNeLIDG58qt0GQ8l2) | [Beck, Bogert, Appice](https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP) | [Beck, Bogert, Appice](https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz) | 3:46 | 2023-01-27 |  |
@@ -42,7 +42,8 @@
 | [Cryin' Won't Help You Now](https://open.spotify.com/track/6KtESjDOSUU8xftDla9i5d) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 6:27 | 2022-05-25 |  |
 | [Don't Need No Horse](https://open.spotify.com/track/44f9KFtJb0tdnqJ7RFBqLN) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:15 | 2022-05-25 |  |
 | [Don't Start Cryin' Now](https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Retrospective 1957\-62](https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe) | 2:13 | 2022-05-25 |  |
-| [Don't Stay Out All Night](https://open.spotify.com/track/5nNLdUPVy9J0fYdlS6al2i) | [Billy Boy Arnold](https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o) | [Chicago Blues From Islington Mews 1977](https://open.spotify.com/album/0aDCNjNtPRJsPMkfutDO62) | 3:15 | 2022-05-25 |  |
+| [Don't Stay Out All Night](https://open.spotify.com/track/5nNLdUPVy9J0fYdlS6al2i) | [Billy Boy Arnold](https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o) | [Chicago Blues From Islington Mews 1977](https://open.spotify.com/album/0aDCNjNtPRJsPMkfutDO62) | 3:15 | 2022-05-25 | 2023-12-09 |
+| [Don't Stay Out All Night](https://open.spotify.com/track/2w5wOsTUOPRGekr3z65G2l) | [Billy Boy Arnold](https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o), [Tony McPhee](https://open.spotify.com/artist/641MUhxfyhBorLlnQ2983q), [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Checkin' It Out](https://open.spotify.com/album/75cACdZc7bh9xgE402Tsmg) | 3:16 | 2023-01-27 |  |
 | [Don’t Want Nobody Else](https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [On The Waterfront](https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ) | 2:24 | 2022-05-25 |  |
 | [Down Town](https://open.spotify.com/track/0uty39dFnwtbMGpdN4nxz0) | [Alexis Korner](https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe) | [R&B From The Marquee](https://open.spotify.com/album/2Uv8U2JwRRbeqBfk8OS4Na) | 3:01 | 2022-05-25 | 2022-07-29 |
 | [Down Town](https://open.spotify.com/track/2bJ92Hu2jjvz3p2P7ySOMG) | [Alexis Korner](https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe) | [British Blues Legend](https://open.spotify.com/album/3qVbRLI0IJXgauRJwnzXea) | 3:01 | 2022-08-25 | 2022-11-14 |

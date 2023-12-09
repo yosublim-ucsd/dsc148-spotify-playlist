@@ -4,7 +4,7 @@
 
 > Relax to the calming sounds of choral music.
 
-117 songs - 8 hr 52 min
+118 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Media Vita](https://open.spotify.com/track/4htAzv3rkpAzCjo2pW12id) | [Kerensa Briggs](https://open.spotify.com/artist/36QRQEhytT1w0kRiF3g27b), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35) | [Media Vita](https://open.spotify.com/album/21ruoumhxcMcRsD08UF9Mj) | 3:00 | 2021-07-21 |  |
 | [Miserere, Op\. 44: 11\. Miserere nobis \- Lento, tranquilissimo, cantabilissimo, dolcissimo](https://open.spotify.com/track/0aBnLtwnQVTtTrSL41Qfmb) | [Henryk Górecki](https://open.spotify.com/artist/5PIshNx38qyLggwpqRhRRI), [Los Angeles Master Chorale](https://open.spotify.com/artist/66HwS8U1RybE701IOdJT1x), [Grant Gershon](https://open.spotify.com/artist/6ue8YoBGM5IQGRKnCmCJ2W) | [Górecki: Miserere](https://open.spotify.com/album/0T8MdEPHYeBmghGAFafhAB) | 2:50 | 2022-07-22 |  |
 | [Miserere, Op\. 44: 11\. Miserere nobis \- Lento, tranquilissimo, cantabilissimo, dolcissimo](https://open.spotify.com/track/12sHdE4waQ9BkFPBF1AvZ0) | [Henryk Górecki](https://open.spotify.com/artist/5PIshNx38qyLggwpqRhRRI), [Los Angeles Master Chorale](https://open.spotify.com/artist/66HwS8U1RybE701IOdJT1x), [Grant Gershon](https://open.spotify.com/artist/6ue8YoBGM5IQGRKnCmCJ2W) | [Górecki: Miserere](https://open.spotify.com/album/1UQnYM5lunxFGXadRGynvn) | 2:50 | 2022-01-25 | 2022-07-29 |
-| [momentary \- choir version](https://open.spotify.com/track/3Wa0N4CYjsUEzzfrrPCy5U) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [momentary \(choir version\)](https://open.spotify.com/album/2Bqy8Y0KOt3leOpABhixnA) | 2:51 | 2021-07-21 |  |
+| [momentary \- choir version](https://open.spotify.com/track/1fvq9rlEnv4ekSPjbpmJlf) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [re:member \(choir versions\)](https://open.spotify.com/album/7cAS0vh9p8qlukglR8wrCh) | 2:51 | 2023-10-20 |  |
+| [momentary \- choir version](https://open.spotify.com/track/3Wa0N4CYjsUEzzfrrPCy5U) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [momentary \(choir version\)](https://open.spotify.com/album/2Bqy8Y0KOt3leOpABhixnA) | 2:51 | 2021-07-21 | 2023-12-09 |
 | [Nachtlied, Op\. 138, No\. 3](https://open.spotify.com/track/67vgXrVt6vPSMJuAOy2PTo) | [Max Reger](https://open.spotify.com/artist/2qpchAUtJNY45rG7auwQgz), [Windsbacher Knabenchor](https://open.spotify.com/artist/60jvihLnawjn2BXOOCC9Nq), [Martin Lehmann](https://open.spotify.com/artist/5Mu5paLCKf3rcMEu5MbwMR) | [Water & Spirit](https://open.spotify.com/album/1xAnDJWDXOaLSJaSMAgBds) | 3:01 | 2021-07-21 |  |
 | [Nimrod \(Lux Aeterna\)](https://open.spotify.com/track/5GKUI9Az2rkSC7O1z8TBCD) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Queen Elizabeth II: Music in Memoriam](https://open.spotify.com/album/27lXOHP44F5JhiCjgNqycI) | 3:50 | 2022-11-10 | 2022-11-13 |
 | [Nimrod \(Lux Aeterna\)](https://open.spotify.com/track/1aJcDNDrKduMegTZzOemVd) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Lux](https://open.spotify.com/album/0sqRF0UZjwVg7ecgSwr7Wh) | 3:52 | 2022-11-10 |  |

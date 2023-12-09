@@ -88,6 +88,28 @@
     {
       "album": {
         "name": "Aadhi Bhagavan",
+        "url": "https://open.spotify.com/album/3M4UBZxgOu71F4vi5IJ6m9"
+      },
+      "artists": [
+        {
+          "name": "Sathyan",
+          "url": "https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI"
+        },
+        {
+          "name": "Rajeev Tha Prophecy",
+          "url": "https://open.spotify.com/artist/0aeDdf5VxXJ5J5EIDvPJr3"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222824,
+      "name": "Bhagavan Rap",
+      "url": "https://open.spotify.com/track/1BkIQxD8RsyKCKOHNGbTFm"
+    },
+    {
+      "album": {
+        "name": "Aadhi Bhagavan",
         "url": "https://open.spotify.com/album/3hBtdA6JRSFzEGjOM11ZDm"
       },
       "artists": [
@@ -124,7 +146,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 222955,
       "name": "Bhagavan Rap",
       "url": "https://open.spotify.com/track/5wPZVAdagsB8TbSamfOGst"
@@ -1972,6 +1994,24 @@
       "duration_ms": 246725,
       "name": "Vaadi Pulla Vaadi - From \"Meesaya Murukku\"",
       "url": "https://open.spotify.com/track/5gBa7yfdEUKrpJbhAygKRs"
+    },
+    {
+      "album": {
+        "name": "Japan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4COrVfMzSxgK56ZDWCuetU"
+      },
+      "artists": [
+        {
+          "name": "Dinesh Rajendran",
+          "url": "https://open.spotify.com/artist/2iug7kxvE5gghENPriuotP"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159452,
+      "name": "Vaanga Vaada",
+      "url": "https://open.spotify.com/track/4MG9uBrLjWD68WTXpuc3uV"
     },
     {
       "album": {

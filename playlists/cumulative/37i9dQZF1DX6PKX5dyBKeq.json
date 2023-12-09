@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Cristale",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Moko",
   "name": "Rap UK",
   "tracks": [
     {
@@ -2488,6 +2488,24 @@
       "duration_ms": 145777,
       "name": "Arrogant",
       "url": "https://open.spotify.com/track/6fugJLhec4sxCmooCeklD9"
+    },
+    {
+      "album": {
+        "name": "Antisocial",
+        "url": "https://open.spotify.com/album/1LC0NKB3yklAQE4prNhFbU"
+      },
+      "artists": [
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126053,
+      "name": "Artiste",
+      "url": "https://open.spotify.com/track/1uAFzVmlo4V4ndVtbF1ZlM"
     },
     {
       "album": {
@@ -5631,6 +5649,24 @@
     },
     {
       "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/6wsIo3vFHDlJx3yvUIUOSj"
+      },
+      "artists": [
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165618,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/6MXTjM7YiZUnd2FjPG8Q4h"
+    },
+    {
+      "album": {
         "name": "Cadabra Freestyle",
         "url": "https://open.spotify.com/album/6JVGBnNV8H4YIrVSS0DRH1"
       },
@@ -6226,7 +6262,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 145707,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/3KVrGYmxpd86Mw1t3dUA6k"
@@ -6780,7 +6816,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 193635,
       "name": "Click Of My Fingers",
       "url": "https://open.spotify.com/track/1Ohz23hcw8s35yExjFv3Rc"
@@ -7086,6 +7122,24 @@
       "duration_ms": 168200,
       "name": "Come for Shay (feat. Snap Capone)",
       "url": "https://open.spotify.com/track/4lqg4E8qKbB3o9wQAMdaQ0"
+    },
+    {
+      "album": {
+        "name": "Come From",
+        "url": "https://open.spotify.com/album/3i05IMBPL2cICBufcYZ8Xb"
+      },
+      "artists": [
+        {
+          "name": "TeeZandos",
+          "url": "https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170566,
+      "name": "Come From",
+      "url": "https://open.spotify.com/track/52AEhL8n3671030l7eH0o0"
     },
     {
       "album": {
@@ -10062,7 +10116,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 136666,
       "name": "DTB",
       "url": "https://open.spotify.com/track/4ydiRNXIuhD1ehRpUpdcLw"
@@ -10928,7 +10982,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 202000,
       "name": "Facade",
       "url": "https://open.spotify.com/track/48i8sfmvRIQpWv7gCqacLO"
@@ -13851,6 +13905,32 @@
     },
     {
       "album": {
+        "name": "A Drillers Perspective 2.7",
+        "url": "https://open.spotify.com/album/66VJMqcCT2UWLul7ZHyjvF"
+      },
+      "artists": [
+        {
+          "name": "CB",
+          "url": "https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "bkayproducer",
+          "url": "https://open.spotify.com/artist/4XuCohRQfXJKVtmlFu34wv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "Hollows",
+      "url": "https://open.spotify.com/track/3S5QlSVPAatCWNnVaAI102"
+    },
+    {
+      "album": {
         "name": "Homecoming Freestyle",
         "url": "https://open.spotify.com/album/07I5P5PXGXGVyxspY6POWQ"
       },
@@ -16610,7 +16690,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 179154,
       "name": "Let's Talk Money (feat. Headie One)",
       "url": "https://open.spotify.com/track/0RpedbIrHwjQQTt7HnYPm7"
@@ -18180,7 +18260,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 211240,
       "name": "Massacre",
       "url": "https://open.spotify.com/track/2eNYRh1TuRum5vAMk9VLc3"
@@ -19330,7 +19410,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 177103,
       "name": "More Money More Problems",
       "url": "https://open.spotify.com/track/0VC8IBllrQImnLk0TCJmKH"
@@ -19730,6 +19810,24 @@
       "duration_ms": 160293,
       "name": "My Family (feat. BackRoad Gee)",
       "url": "https://open.spotify.com/track/4yDpjbGgFbu1RpFxWK4SJH"
+    },
+    {
+      "album": {
+        "name": "Good Friday",
+        "url": "https://open.spotify.com/album/6y3SeD5fMYAYk4sow2qNjh"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "my shoes",
+      "url": "https://open.spotify.com/track/6QWPr0tfAhCqJgRkJKy6zX"
     },
     {
       "album": {
@@ -20794,7 +20892,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 158267,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7rWUc4LuZ081oZ9VBZd6JK"
@@ -21880,6 +21978,24 @@
       "duration_ms": 209607,
       "name": "Out The Blue",
       "url": "https://open.spotify.com/track/7An0jm0ELhysPt5wdqPJkR"
+    },
+    {
+      "album": {
+        "name": "OUT THE MARGIN",
+        "url": "https://open.spotify.com/album/2pdF1ymr3HuDNvpigw7ri9"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127823,
+      "name": "OUT THE MARGIN",
+      "url": "https://open.spotify.com/track/3e8CTssZt38eKrydWwvRdF"
     },
     {
       "album": {
@@ -23884,7 +24000,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 168157,
       "name": "Pull Up (feat. Backroad Gee)",
       "url": "https://open.spotify.com/track/0t9kZenG9DPNMyo2eBKwFY"
@@ -25760,6 +25876,24 @@
       "duration_ms": 154285,
       "name": "RUUD",
       "url": "https://open.spotify.com/track/4sBgGeMaofSSSZwve9YV7F"
+    },
+    {
+      "album": {
+        "name": "WHO DARES WINS",
+        "url": "https://open.spotify.com/album/2r7Whdu2robw1TMlBmeLZl"
+      },
+      "artists": [
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131960,
+      "name": "S.A.S",
+      "url": "https://open.spotify.com/track/02a3soEFabQ27HV6PLd1Fc"
     },
     {
       "album": {
@@ -28209,6 +28343,32 @@
     },
     {
       "album": {
+        "name": "Stop Giving Me Advice",
+        "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242453,
+      "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+      "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
+    },
+    {
+      "album": {
         "name": "No Limbo EP",
         "url": "https://open.spotify.com/album/3ObpTYXwEP8M6sk7A8iGwd"
       },
@@ -28534,7 +28694,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 180000,
       "name": "summers over",
       "url": "https://open.spotify.com/track/4I4HnXLIdHBcamz2VKLqE1"
@@ -32422,6 +32582,28 @@
       "duration_ms": 191666,
       "name": "What's The Motion",
       "url": "https://open.spotify.com/track/1LLcWzBzD14bzxcxvTnuoS"
+    },
+    {
+      "album": {
+        "name": "What\u2019s Real?",
+        "url": "https://open.spotify.com/album/6yGAfG9FbUBztv5l7U8h0I"
+      },
+      "artists": [
+        {
+          "name": "wewantwraiths",
+          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
+        },
+        {
+          "name": "Lil Macks",
+          "url": "https://open.spotify.com/artist/0r8PPl6CXkR4SWhbyoSTLU"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176432,
+      "name": "What\u2019s Real?",
+      "url": "https://open.spotify.com/track/4ZuAAHYpnXDWBrJpDXFBek"
     },
     {
       "album": {

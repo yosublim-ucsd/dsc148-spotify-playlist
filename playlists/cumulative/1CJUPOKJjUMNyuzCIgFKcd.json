@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Trophies",
+        "url": "https://open.spotify.com/album/4QcAsaILcr6N6VcLmDiZkp"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Bank Truck",
+      "url": "https://open.spotify.com/track/4ZsXWjCRhEkKPlDVtNvap6"
+    },
+    {
+      "album": {
         "name": "Big Peach",
         "url": "https://open.spotify.com/album/5sGp1iT8ElQJMNUmnfR2ZN"
       },
@@ -136,6 +158,24 @@
       "duration_ms": 196295,
       "name": "Boss Blues",
       "url": "https://open.spotify.com/track/2VAr6Z5n4pO3kI8m1ncYpb"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/2cBWEbN85uv6gT3Wjnnj94"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150746,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4L7PA4GJ8opDpOhlK25wGx"
     },
     {
       "album": {
@@ -547,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Fish Bowl",
+        "url": "https://open.spotify.com/album/50LOxYYUJns97tycJc4kDg"
+      },
+      "artists": [
+        {
+          "name": "FMB DZ",
+          "url": "https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106736,
+      "name": "Fish Bowl",
+      "url": "https://open.spotify.com/track/56sxhRbTBj6ekLi0sPW28B"
+    },
+    {
+      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/7tCumu7kRFLx7lF306jfCY"
       },
@@ -708,6 +766,32 @@
       "duration_ms": 219542,
       "name": "Hook Mitchell (feat. Dame D.O.L.L.A.)",
       "url": "https://open.spotify.com/track/6CKDa6mKBdGpllS72Bpj5V"
+    },
+    {
+      "album": {
+        "name": "Benzes & Trackhawks",
+        "url": "https://open.spotify.com/album/1W5HkkXy3T2QBmMkQMuuJU"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        },
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        },
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "Humble & Heartless (feat. Lil Yee)",
+      "url": "https://open.spotify.com/track/6tD5baN25aR6VLGXV3SjSL"
     },
     {
       "album": {
@@ -1530,6 +1614,24 @@
       "duration_ms": 105130,
       "name": "XPLOSIVE",
       "url": "https://open.spotify.com/track/4Yk97MKGfwL707ASkje7Qf"
+    },
+    {
+      "album": {
+        "name": "You 2 Thank",
+        "url": "https://open.spotify.com/album/1AHynywfnZGfxVt2iLfzL7"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "You 2 Thank",
+      "url": "https://open.spotify.com/track/5n0mrZ3vD772kuwt9trMZ0"
     }
   ],
   "url": "https://open.spotify.com/playlist/1CJUPOKJjUMNyuzCIgFKcd"

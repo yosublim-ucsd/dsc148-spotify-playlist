@@ -177,6 +177,24 @@
     },
     {
       "album": {
+        "name": "bloom",
+        "url": "https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K"
+      },
+      "artists": [
+        {
+          "name": "\u30cd\u30af\u30e9\u30a4\u30c8\u30fc\u30ad\u30fc",
+          "url": "https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197237,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis"
+    },
+    {
+      "album": {
         "name": "More Fun in the New World",
         "url": "https://open.spotify.com/album/0av4KiOIEjud5VyXf3yyG0"
       },

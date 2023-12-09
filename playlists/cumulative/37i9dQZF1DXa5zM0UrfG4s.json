@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 136100,
       "name": "Du kan inte f\u00e5 min \u00f6l",
       "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 236520,
       "name": "Ei runde til",
       "url": "https://open.spotify.com/track/0xjKyw8MYQY33BlY9bvqCS"
@@ -1598,6 +1598,24 @@
       "duration_ms": 242906,
       "name": "Ei tid - Akustisk versjon",
       "url": "https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK"
+    },
+    {
+      "album": {
+        "name": "En birra har aldrig",
+        "url": "https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147375,
+      "name": "En birra har aldrig",
+      "url": "https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu"
     },
     {
       "album": {
@@ -2682,7 +2700,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 129375,
       "name": "Hej sk\u00e5l!",
       "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
@@ -4930,7 +4948,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 131571,
       "name": "Raggen m\u00e5ste g\u00e5",
       "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
@@ -5808,10 +5826,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 161104,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/4dbHMUMM1Xh33GPwXXd4OA"
+    },
+    {
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/0V54CqEaVc2NJe167KXdqe"
+      },
+      "artists": [
+        {
+          "name": "Oberg",
+          "url": "https://open.spotify.com/artist/1g9S6C1WRQYwddKiR3Kwcv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161104,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/5DcVJM3W2lkjogTromoy3D"
     },
     {
       "album": {
@@ -6208,7 +6244,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 226946,
       "name": "Vakker og vill",
       "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"

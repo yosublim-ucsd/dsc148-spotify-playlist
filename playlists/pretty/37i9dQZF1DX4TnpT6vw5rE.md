@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,520 likes - 120 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,582 likes - 120 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [Split Second](https://open.spotify.com/track/6fWoRDNfECgRS3au8UjMqA) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Split Second](https://open.spotify.com/album/62jzv9TYMKZhDgxo1e0fA2) | 2:33 |
 | 120 | [Liberation](https://open.spotify.com/track/2CbHrpzQRhQ1uG0J2dMrCP) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Liberation](https://open.spotify.com/album/5zbwTRBUIfwLsC9SkQUX9t) | 3:16 |
 
-Snapshot ID: `MCxkYmJjYzUxZjc5ZWJjMzBjYmNlZGMyYmVhNzRmMTUyYTVlOGQ5MWMx`
+Snapshot ID: `MCw2YTBjYWQ5NGQ1YmZjODM3NjgwODhkZTM1ZmIyY2Q3YmM5NDEyNDg2`

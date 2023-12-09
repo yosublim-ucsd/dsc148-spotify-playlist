@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-369 songs - 1 day 3 hr 47 min
+371 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Freddie's Warmup](https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [Freddie's Warmup](https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m) | 2:00 | 2023-11-09 |  |
 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 | 2023-04-13 |  |
 | [Freedom \- Jesse Jacob Remix](https://open.spotify.com/track/740cmV4DyAuleXnqBi6lrZ) | [ASTRE](https://open.spotify.com/artist/5gyCnWXQjDs0npIMbiP1Iw), [Jesse Jacob](https://open.spotify.com/artist/5mY4Ioa0HqWcAX8MIdQtPc) | [Freedom EP](https://open.spotify.com/album/1bKYnmBrRkCrSwhdr456Dk) | 3:16 | 2023-06-22 | 2023-08-02 |
+| [Freekazoid \- Ruff Mix](https://open.spotify.com/track/4ICacB65QM2k0ET6oGeF4n) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Freekazoid](https://open.spotify.com/album/1LJYdPsBqkqZZRa5wnonsK) | 5:47 | 2023-12-08 |  |
 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 | 2023-04-13 |  |
 | [Get Away](https://open.spotify.com/track/7DAluCyMYoeXU7N8ftYDy6) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Looney Talks](https://open.spotify.com/album/1RpbVl2wdDPxBDwkyaA8bi) | 7:23 | 2023-04-13 | 2023-08-02 |
 | [Get Away \(We Love House Remix\)](https://open.spotify.com/track/6mM4muql5uzdMJmEpS9vXQ) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Get Away \(We Love House Remix\)](https://open.spotify.com/album/7bsxqS9AjAz43vbLaasY4R) | 5:33 | 2023-05-11 |  |
@@ -373,8 +374,9 @@
 | [XXL](https://open.spotify.com/track/4W4m2zIJEeRJrVqXXIRilb) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [No Title Yet](https://open.spotify.com/album/6f0vJAFCklYzFAnpCc34QJ) | 6:34 | 2023-06-29 | 2023-08-25 |
 | [Ya Just Need 2 Believe in Yaself](https://open.spotify.com/track/3u1hU4L9HLGBjcj1nQekIv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [4MYPPL\#1](https://open.spotify.com/album/3jHf5zZ8d5MQg03YyfTa2I) | 7:02 | 2023-04-13 |  |
 | [You've Been Missing Me](https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Good Vibes Only E.P](https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN) | 5:53 | 2023-06-29 | 2023-08-02 |
-| [Your Love \(Coco & Breezy Remix\)](https://open.spotify.com/track/1R6oh1GNq3Ql0OJDtym9qw) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Your Love \(Coco & Breezy Remix\)](https://open.spotify.com/album/6tHmz3CPozjHWyn5337q3G) | 3:00 | 2023-12-08 |  |
+| [Your Love \(Coco & Breezy Remix\)](https://open.spotify.com/track/1R6oh1GNq3Ql0OJDtym9qw) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Your Love \(Coco & Breezy Remix\)](https://open.spotify.com/album/6tHmz3CPozjHWyn5337q3G) | 3:00 | 2023-12-08 | 2023-12-09 |
 | [Your Love \(feat\. BLAME\) \[VIP Mix\]](https://open.spotify.com/track/1SYW0BMtnQhrgH2i8R1OLJ) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [BLAME](https://open.spotify.com/artist/1YigAsKtNYzATFkCe6u0fG) | [Your Love \(feat\. BLAME\) \[VIP Mix\]](https://open.spotify.com/album/4kT6jd6LpvmWjUIjryRuDk) | 2:33 | 2023-06-29 | 2023-08-25 |
+| [Your Love \(feat\. House Gospel Choir\) \(Coco & Breezy Remix\)](https://open.spotify.com/track/22NJL6tmHY3doX9E6sZqQi) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Your Love \(feat\. House Gospel Choir\) \(Coco & Breezy Remix\)](https://open.spotify.com/album/0RRg7EIinOboPr1zyywm9r) | 3:00 | 2023-12-08 |  |
 | [Your Love \- After Dark Remix](https://open.spotify.com/track/0mofRY35dqIZBdexSEjTfq) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love \(After Dark Remix\)](https://open.spotify.com/album/5kOCoiurM7vrGSRAGIT1Dv) | 3:49 | 2023-05-11 | 2023-08-25 |
 | [Your Mind](https://open.spotify.com/track/4MdbPf2h9dvCASJzPvwKQR) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo) | 5:40 | 2023-05-11 |  |
 

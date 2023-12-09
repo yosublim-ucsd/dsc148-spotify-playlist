@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,490 likes - 150 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,701 likes - 150 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [Sunrise 2 Sunset](https://open.spotify.com/track/7EJOV089sJE935qHobWmxA) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Vincent Charlow](https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3), [ITM](https://open.spotify.com/artist/6QmwIBi7pzFs75SnQFX6Hn), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV) | [We Outside](https://open.spotify.com/album/67WCbBUMISteFiNbOZ2Yqw) | 3:42 |
 | 150 | [DEAD OR ALIVE](https://open.spotify.com/track/6uMOXc2gcS8ARTNhfAaCf3) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [DEAD OR ALIVE](https://open.spotify.com/album/17F4eTY0xjfaJPXgjlxEQx) | 2:40 |
 
-Snapshot ID: `MCwyZTY4MzNmMWMyZGRjOWUwY2Q0YzFjMWZiNmRjNTkzMjZjMGFiZTU5`
+Snapshot ID: `MCw3MTdiNGNhNWNkNjdlNmJiN2JkYmU0OGQ1MTUyMWJlNjViNmU4M2M4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302,396 likes - 600 songs - 22 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,302,960 likes - 600 songs - 22 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 599 | [Pacific Coast](https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Pacific Coast](https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8) | 2:18 |
 | 600 | [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 |
 
-Snapshot ID: `MCxiODA1ODI2OTA4ZGIyZDg3NzAzZjdiNDM3NTQzZTM1NzYxZTMwZjU0`
+Snapshot ID: `MCxkMGQ4MGMzYWMxYmI3MjQzNWIyNWQ1NmVjN2E2ZWJjMGI4NGQ1Yjc3`

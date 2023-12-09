@@ -4,7 +4,7 @@
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-134 songs - 7 hr 0 min
+135 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Vocalise, Op\. 34, No\. 14](https://open.spotify.com/track/1ceQjLSObUMLnqMs7xbKp7) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Anita Emmery](https://open.spotify.com/artist/5BH2HdXaKZ8rau4ZhhYLDh) | [The Great Composers](https://open.spotify.com/album/4mWn7tS8Fk6C8SZY3cmXlQ) | 3:15 | 2021-09-10 |  |
 | [Walk Towards Silence](https://open.spotify.com/track/0cp2H7dP3uUJuHDDndOcfE) | [Kasper Schill](https://open.spotify.com/artist/2P2QGjpDk60svsWQGidU0J) | [Versus](https://open.spotify.com/album/6ehOCDefU91mg0nczNOteq) | 3:12 | 2021-09-10 |  |
 | [Wanderlust](https://open.spotify.com/track/6KNLUSRViRg5bG0E1y1feX) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Discovery](https://open.spotify.com/album/2krPbH9goFZldIUjP7WfRE) | 3:51 | 2022-01-19 |  |
-| [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2023-01-02 |  |
+| [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1eDy2A3euqy3axIdoKgQd5) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 4:24 | 2023-01-02 |  |
+| [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2023-01-02 | 2023-12-09 |
 | [What Arms Are These for You! \(Vanessa Wagner Version\)](https://open.spotify.com/track/2IhE2YFbnCQDtVhjkb5wjQ) | [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [EP01](https://open.spotify.com/album/3kInmt0CjnAnIxHsVRgAmM) | 2:54 | 2021-09-10 |  |
 | [When You Wish \(Cuando Sueñas\) \- Piano](https://open.spotify.com/track/49A3qwVyoYJ8poNAcXv7d6) | [Sueñito](https://open.spotify.com/artist/3ScsUDOUKuTIV8rbrYWVzK) | [When You Wish \(Cuando Sueñas\) \[Piano\]](https://open.spotify.com/album/5lqIIW91kAc40scIEJbz6u) | 3:29 | 2023-02-27 |  |
 | [Why Me](https://open.spotify.com/track/5ea1LyyvBGWH3Hp0f61Pwt) | [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU) | [Why Me](https://open.spotify.com/album/2W2K8SjkzULAvFF93OBN5U) | 2:46 | 2021-09-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,314 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,817 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 99 | [Christmas Brings Me Down](https://open.spotify.com/track/6JT5mL6HCTBIFWeYNMfexd) | [Sparks The Rescue](https://open.spotify.com/artist/07DRdecWdrPljDGClOl3nL) | [Tis The Season To Be Fearless](https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a) | 3:21 |
 | 100 | [Christmas Time Again](https://open.spotify.com/track/6ZBiqkomTsOLCAdblXZYH1) | [Amely](https://open.spotify.com/artist/6AjPiGacexlUKYQ3dePBjv) | [Christmas Time Again](https://open.spotify.com/album/1v4pc6q6grWqB4MO4uTlSH) | 4:09 |
 
-Snapshot ID: `MCwzYjZkMjEyMzc4OTQ1MmZhMjAwNTUwOGZhMDRlNjQ1ZDMzMDcxNTAx`
+Snapshot ID: `MCxlZjYzMmU0ZjUyZWI1YjM3OTMzYzljMmYxNTI1YjVkMDEzYzNiYzkw`

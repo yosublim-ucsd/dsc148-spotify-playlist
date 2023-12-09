@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 
 > Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,620 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,019 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 | 49 | [Planeta](https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ) | [Planeta](https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R) | 3:30 |
 | 50 | [Desconocidos](https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa) | [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi), [Mula](https://open.spotify.com/artist/7wGtDLvDRGllVRX01cj9Ml) | [Caribe Express](https://open.spotify.com/album/4ab1kveCYeqKhuhYwX17P8) | 3:01 |
 
-Snapshot ID: `MCxiNmMwY2MzMGM5MTdiMjBlOTY2ZjVlNWUwNGVjNmUzMWI5NTkyNWY0`
+Snapshot ID: `MCw4ODQ2YWJlMmI0YzhlMDUwMjk1ZGVhYzViYThmY2QyYTI3MDkwMzE4`

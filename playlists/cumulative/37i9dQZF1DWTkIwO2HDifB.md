@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Baile do Bruxo e os funks mais 🔑 do Brasil\. Foto: Tropa do Bruxo, DJ Ws da Igrejinha, SMU, Triz, MC Menor Thalis
+> Tipo Hollywood e os funks mais 🔑 do Brasil\. Foto: Mc Ws da leste, Dj Chadin do C, MC Cothiê
 
 214 songs - 11 hr 35 min
 
@@ -130,7 +130,7 @@
 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 | 2022-08-05 | 2023-07-22 |
 | [Menina Se Prepara](https://open.spotify.com/track/2aqqXrjrPdRHU9uSeRmL3C) | [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Menina Se Prepara](https://open.spotify.com/album/3Lm13mfUcBeFGDitToszX5) | 3:30 | 2021-12-31 | 2023-03-21 |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-07-21 | 2023-09-30 |
-| [MONTAGEM ANOS 2000](https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mc Luan](https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF), [Mc Tigão](https://open.spotify.com/artist/7GH9MFF3c1nPkH2bQ7JG2X) | [A.Mago \- Playlist do Mago](https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So) | 2:58 | 2023-09-22 |  |
+| [MONTAGEM ANOS 2000](https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [MC Tigrão](https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW), [Mc Luan](https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [A.Mago \- Playlist do Mago](https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So) | 2:58 | 2023-09-22 |  |
 | [Mtg \- Vem Sentando Vem \(feat\. Dj Nbeat\) \- Remix](https://open.spotify.com/track/2Xgc216OMnc9PyUalpaSPc) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS), [Dj Nbeat](https://open.spotify.com/artist/0bzyhFojsIgDceZ4NQK9pY) | [Mtg \- Vem Sentando Vem \(feat\. Dj Nbeat\) \[Remix\]](https://open.spotify.com/album/4N6rRcnZCELIQGfHRmQ5ni) | 2:19 | 2021-12-31 | 2022-04-09 |
 | [Mtg Ta Brotando No Plantão Pra Tira Foto Com Revolver](https://open.spotify.com/track/1pPuodu8A0LxAuVhf3QniW) | [Dj Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Mtg Ta Brotando No Plantão Pra Tira Foto Com Revolver](https://open.spotify.com/album/74KdOIHh6aHI2qoHkqWeqS) | 1:56 | 2021-12-31 | 2022-06-18 |
 | [Mágico do Som](https://open.spotify.com/track/0eumeycOAI8ew5qRzFJbEr) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Mágico do Som](https://open.spotify.com/album/6elOu6PrCxDHrnOT9E2wjC) | 2:01 | 2022-03-18 | 2022-08-13 |

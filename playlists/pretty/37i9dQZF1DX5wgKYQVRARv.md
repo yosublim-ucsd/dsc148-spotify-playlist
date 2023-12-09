@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,317 likes - 200 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,453 likes - 200 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 199 | [The Lie](https://open.spotify.com/track/4CJcbhNcSiuRsgbw2bubCB) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [The Lie](https://open.spotify.com/album/1qKCuTTwzdCZnKKwo5hqP7) | 3:17 |
 | 200 | [Dissonance](https://open.spotify.com/track/3VTipthZvRfTC2KQhJUi5q) | [Deceptic](https://open.spotify.com/artist/71waPeZf36tWy5Ha4PLupX) | [Dissonance](https://open.spotify.com/album/21JBvvner2uMhhsufWMQ8v) | 3:42 |
 
-Snapshot ID: `MCw4NGNkYzc4NjlmZGIwNjVhYjA0NzlkYzk0YWVhYmZhMDFhMDIzOGJi`
+Snapshot ID: `MCxjYTZkNjgxZDYyNWIxM2M5NjdlNjMzNWNjYzVhZjE3MDBiNjIwMzhk`

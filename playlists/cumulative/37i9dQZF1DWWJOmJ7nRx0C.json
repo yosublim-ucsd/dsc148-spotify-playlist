@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Instructions: volume up. Cover: Palaye Royale",
+  "description": "Instructions: volume up. Cover: Atreyu",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 229900,
       "name": "Agua",
       "url": "https://open.spotify.com/track/1FVPHZcQQGiEO7XUmqsxCh"
@@ -1010,6 +1010,24 @@
       "duration_ms": 208528,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/0Rrf0IzuiJzthkbjvwCnhm"
+    },
+    {
+      "album": {
+        "name": "Anxious State of Mind",
+        "url": "https://open.spotify.com/album/0veEsBw8e77FDY5OwDwYvh"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246420,
+      "name": "Anxious State of Mind",
+      "url": "https://open.spotify.com/track/7uV2jXPIfxEXTDcGSwAgIZ"
     },
     {
       "album": {
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 161201,
       "name": "Bound For Glory (feat. Markus Vides\u00e4ter of Solence)",
       "url": "https://open.spotify.com/track/5qPvBmcIscVajn1Fh3QXhO"
@@ -5314,7 +5332,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 198200,
       "name": "Dynamite - 2023 Version",
       "url": "https://open.spotify.com/track/2ldT3qdqwNsnKAji6AarfD"
@@ -6732,7 +6750,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 193853,
       "name": "Gimme That Boom",
       "url": "https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j"
@@ -6912,7 +6930,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 223866,
       "name": "Gone",
       "url": "https://open.spotify.com/track/5POKGPTOqi6IsZyKnqFjrq"
@@ -6934,6 +6952,24 @@
       "duration_ms": 223866,
       "name": "Gone",
       "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
+    },
+    {
+      "album": {
+        "name": "The Beautiful Dark of Life",
+        "url": "https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223866,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/6B2IqGrF7Dh0WQlnO5C34c"
     },
     {
       "album": {
@@ -7378,7 +7414,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 146364,
       "name": "Hard",
       "url": "https://open.spotify.com/track/1gaGSdNSAWyxdMYdRcM9T5"
@@ -8115,6 +8151,24 @@
     },
     {
       "album": {
+        "name": "Dream Machine",
+        "url": "https://open.spotify.com/album/7s0ZTcFsL35WUQycjHVPnn"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "I Am The Lightning",
+      "url": "https://open.spotify.com/track/4wnCcp9LAL9aFl7hev8lg2"
+    },
+    {
+      "album": {
         "name": "EXPLOSIONS",
         "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
@@ -8574,7 +8628,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 290356,
       "name": "Imperial Heretic",
       "url": "https://open.spotify.com/track/52Ee1NSe8oaum15FN1CyH7"
@@ -8828,7 +8882,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 232125,
       "name": "IT'S YOUR LACK OF RESPECT",
       "url": "https://open.spotify.com/track/2sMqQreD7c9xDV6gBKyt9o"
@@ -9028,7 +9082,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 151304,
       "name": "Just My Type",
       "url": "https://open.spotify.com/track/1MVIdMpAqFn2zdg7ylnp1T"
@@ -9440,7 +9494,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 283714,
       "name": "Last Resort - Reimagined",
       "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
@@ -10182,7 +10236,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 126600,
       "name": "LOST!",
       "url": "https://open.spotify.com/track/7AOe2bLNTnBt09RkfrRudU"
@@ -10348,6 +10402,24 @@
       "duration_ms": 187291,
       "name": "Lowest In Me",
       "url": "https://open.spotify.com/track/4vCmNZrbKxTaRB4gVrTsR1"
+    },
+    {
+      "album": {
+        "name": "Loyal to the Lie",
+        "url": "https://open.spotify.com/album/3x4yMUi5dCP6AZNHb8AXdd"
+      },
+      "artists": [
+        {
+          "name": "Mick Mars",
+          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232593,
+      "name": "Loyal to the Lie",
+      "url": "https://open.spotify.com/track/7AIj2haVhqsX2MDDZ8cEmn"
     },
     {
       "album": {
@@ -11340,7 +11412,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
@@ -11452,7 +11524,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 257946,
       "name": "Never Ending Moment",
       "url": "https://open.spotify.com/track/2JXU9wKtEj55VxsNPGQRZV"
@@ -12486,7 +12558,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 202776,
       "name": "Paper Machete",
       "url": "https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W"
@@ -12544,6 +12616,24 @@
       "duration_ms": 212802,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0sBXPxWJpMlQBnVF2y78Rg"
+    },
+    {
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/1snJ2mJ2UJXASD7QteQ6PK"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164093,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/47yul4OvMZctnAVjrEJ1YC"
     },
     {
       "album": {
@@ -12822,7 +12912,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 228406,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
@@ -13244,7 +13334,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 179482,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
@@ -14324,6 +14414,24 @@
       "duration_ms": 238200,
       "name": "Secrets - with Sonny Sandoval of P.O.D.",
       "url": "https://open.spotify.com/track/1xudtCUOnGO5WSIFuEKmls"
+    },
+    {
+      "album": {
+        "name": "Seeing Red",
+        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
     },
     {
       "album": {
@@ -16309,6 +16417,24 @@
     },
     {
       "album": {
+        "name": "The Break",
+        "url": "https://open.spotify.com/album/5BnBXjYHPfWhjXlDhqOUpx"
+      },
+      "artists": [
+        {
+          "name": "Blame My Youth",
+          "url": "https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "The Break",
+      "url": "https://open.spotify.com/track/7MpX5zBhcr3wZrHgs3rCM0"
+    },
+    {
+      "album": {
         "name": "The Captains Sat",
         "url": "https://open.spotify.com/album/0MqckUlgOyFq6dHqxSXBaa"
       },
@@ -16657,6 +16783,24 @@
     },
     {
       "album": {
+        "name": "The General",
+        "url": "https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262776,
+      "name": "The General",
+      "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"
+    },
+    {
+      "album": {
         "name": "LIES THEY TELL OUR CHILDREN",
         "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
       },
@@ -16894,7 +17038,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 211555,
       "name": "The Scandinavian Dream",
       "url": "https://open.spotify.com/track/3ZItvJmLEg2wK2PmHpw0pR"
@@ -19020,7 +19164,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"

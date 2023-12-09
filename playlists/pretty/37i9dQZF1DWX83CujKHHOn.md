@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,352,124 likes - 150 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,352,289 likes - 150 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 149 | [Never Get Over You](https://open.spotify.com/track/68Y2EMgrAZDrwRIlhWxLxa) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Never Get Over You](https://open.spotify.com/album/3s5eczhgSVYS1dhBao4UQu) | 3:40 |
 | 150 | [I Found \- Acoustic](https://open.spotify.com/track/3i7Iyc932rv1AZz7gl7dj8) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Pilot EP](https://open.spotify.com/album/6gYzypEY4tTiESfptdoOrB) | 4:19 |
 
-Snapshot ID: `MCw5NGMxMDJhMWQ2ODFiMzJjM2E0ZDY4MzkwNDFlYzg5NWVjMzYwMDZk`
+Snapshot ID: `MCwyYWU5YzUzNWI3NTFiOGQ5ZWE4ZTI1Y2RhZmQwNDFiYTk1NWVmNDM3`

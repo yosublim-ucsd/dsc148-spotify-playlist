@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 
 > Instrumental relaxing jazz with the cozy sound of soft vinyl crackle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,220 likes - 26 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,103 likes - 26 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Have You Seen Me Lately](https://open.spotify.com/track/02VNGyJUX1Wptq1FnytNLz) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/1QUUDCMMNssid4YCLPNGtU) | 2:50 |
+| 1 | [Have You Seen Me Lately](https://open.spotify.com/track/02VNGyJUX1Wptq1FnytNLz) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/1QUUDCMMNssid4YCLPNGtU) | 2:24 |
 | 2 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/27T8YYQU9b0iVtZ0HpdAzt) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/1EpnWVzzrX8DfvtFhkUIkw) | 2:21 |
 | 3 | [How High Is the Moon](https://open.spotify.com/track/2Gy8akJ4dmH5yVyaVVWh8W) | [Maude De Geyndt](https://open.spotify.com/artist/6W7IM4n11sIO9QqcCVQcNX) | [How High Is the Moon](https://open.spotify.com/album/4QHQ99exCjhNpTcYA5hkWX) | 3:37 |
 | 4 | [Did you dream too](https://open.spotify.com/track/0F9nEWUXKZc4fJugGPqVX7) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/6T2PyJ2bjFRCtX5w5P8Ko6) | 3:17 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 | 25 | [In the Blue Of The Evening](https://open.spotify.com/track/1rLuWpZwNX4wXP4y7eRmc3) | [Kerrie Walton](https://open.spotify.com/artist/6LHJu0JVH5MbOgsogB7EhR) | [In the Blue Of The Evening](https://open.spotify.com/album/3OgbQEZ1stEBi6tw6sTvv4) | 2:36 |
 | 26 | [Journeying](https://open.spotify.com/track/7EiFxYWutlCRtrQHHwKVeS) | [Rossdale Juntion](https://open.spotify.com/artist/6ERbL5L4LpFFmA2dS9zJ9D) | [Journeying](https://open.spotify.com/album/0o2DSj4LinX5MLJGxzKcnS) | 2:33 |
 
-Snapshot ID: `MCxlMzhmZWVhZTNjZTgxMGI1ZDBjN2I4NjJkY2RlNTQxZjk2NjViZTVj`
+Snapshot ID: `MCxhODM1NTlhNWViZThiZTQwY2M4YzI1MzJlNTQ2ZTQ2NTlhMjI4ODY2`

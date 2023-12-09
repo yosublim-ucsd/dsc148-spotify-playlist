@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,378 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,464 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 99 | [How Long Has This Been Going On? \- Instrumental](https://open.spotify.com/track/1pRlbZOrK4SzYLqOKxvgZY) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [The Cats](https://open.spotify.com/album/7aW9SO9EQ569LB2SwpaIYQ) | 5:55 |
 | 100 | [Blackbird](https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 8:14 |
 
-Snapshot ID: `MCw4MzhkZTAwZDdhZWZhMDUxNjg3ODY3Y2VmYjY0NGY0ZjYyM2EyOTNl`
+Snapshot ID: `MCwxOWM2Y2E3ZDRiMzRhYzkzYTk1MzYzMjZhZjNjNDZmOGVmYWNkYTUy`

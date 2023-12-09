@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-713 songs - 2 day 0 hr 54 min
+715 songs - 2 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [I’m Not My Season](https://open.spotify.com/track/2U48shTX8FoiDa3tNMRlKt) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Time in a Bottle / I’m Not My Season](https://open.spotify.com/album/1jD8MNqELrC0uNWhNLhF9E) | 3:15 | 2022-12-06 | 2023-02-02 |
 | [Jelsy](https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Jelsy](https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn) | 3:48 | 2023-10-12 | 2023-11-16 |
 | [Jewellery](https://open.spotify.com/track/42ezIrJQsV4OQ939bEQCzH) | [Former Champ](https://open.spotify.com/artist/1ntDd3adPrsrlLpiJBPfzM) | [Jewellery](https://open.spotify.com/album/7o5PG7t9vyRRb3LznxR6JV) | 2:37 | 2023-11-01 | 2023-12-07 |
+| [Jurgita’s Theme](https://open.spotify.com/track/7n8IOvKlfpcd7yakNTnSPN) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g), [Katie Austra Stelmanis](https://open.spotify.com/artist/1YGbmqX8wyAWaFHe2c4rLi) | [Swan Song](https://open.spotify.com/album/1MqdekNvsg1MCVV6QSKUhw) | 2:50 | 2023-12-08 |  |
 | [Jus U \- Edit](https://open.spotify.com/track/47xVTOMAyy1hfXyMk8mzXf) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [Mera Bhai](https://open.spotify.com/artist/4C8nlIoLPOidEuovsSBSqU) | [Jus U](https://open.spotify.com/album/4MHiBV3HFk6f5vlT36Xdzx) | 4:34 | 2023-08-09 | 2023-09-28 |
 | [Jóhannsson: A Sparrow Alighted upon our Shoulder](https://open.spotify.com/track/43BDNPWzxY17HpyufviqNQ) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Air Lyndhurst String Orchestra](https://open.spotify.com/artist/72UK8pq1vewvVNs0mGCoH8), [Anthony Weeden](https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98) | [Elegy for Lost Time](https://open.spotify.com/album/2tqvdLokbQJQsNtB9R9grn) | 2:26 | 2023-08-09 | 2023-09-28 |
 | [Karaoke](https://open.spotify.com/track/4WCPrvhloByVBtR0A9hqoo) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Karaoke](https://open.spotify.com/album/4Wl09axz0nWF0XwdZn4TYJ) | 3:41 | 2022-07-27 | 2022-09-15 |
@@ -441,6 +442,7 @@
 | [Never Coming Back](https://open.spotify.com/track/0ZtUCVf7uuDAQ7dXGTALEG) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The Upper Cuts Singles \(2023 Edition\)](https://open.spotify.com/album/7gggj6SUuzQ8x2NSySkzTu) | 3:23 | 2023-03-09 | 2023-04-27 |
 | [New York](https://open.spotify.com/track/5ehna23pO7qdgQjDFbuJrF) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56) | [New York](https://open.spotify.com/album/782f4OR6lKLwAdad0p4tAc) | 3:34 | 2023-08-02 | 2023-08-10 |
 | [New York](https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [New York / LA Hex](https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK) | 4:04 | 2023-07-25 | 2023-09-28 |
+| [Nietzsche on the Beach \- Raf Rundell Remix](https://open.spotify.com/track/1yMkWzGdFnyyL4We4Vqbvu) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6), [Raf Rundell](https://open.spotify.com/artist/3ndq9cOqNc3DEQOBsO10DG) | [All These Things \(Deluxe Edition\)](https://open.spotify.com/album/1m4JpY8QSuyeLk5L0ypRD1) | 5:52 | 2023-12-08 |  |
 | [Night Crawling](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Night Crawling](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 | 2022-08-01 | 2022-09-22 |
 | [Night Walk](https://open.spotify.com/track/1ufmBDHamjH3v8Ms1cyNsN) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Night Walk](https://open.spotify.com/album/4gSxWOsNY1BvLAzHPc3lOU) | 4:49 | 2022-09-21 | 2022-10-21 |
 | [No Caffeine](https://open.spotify.com/track/4if3aJ01ZXMajhwZctU06a) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [No Caffeine](https://open.spotify.com/album/37fWX21foAwqgvhdFvm3KX) | 3:11 | 2023-10-05 | 2023-11-16 |

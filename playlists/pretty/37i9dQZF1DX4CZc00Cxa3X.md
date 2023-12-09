@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,469 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,562 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [in pieces](https://open.spotify.com/track/3uzOkkEKhM3RAgvopKAUGH) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [epoch](https://open.spotify.com/album/4ylWmjw0NWQJ0fA4mKQbz6) | 3:08 |
 | 100 | [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 |
 
-Snapshot ID: `MCw1NDMwMDk2ZDgzMDlkMGFlYTEzNTM1ZGM3MWM2YzMzNWI5ZTU0NDNi`
+Snapshot ID: `MCxkOGJmYzMxZDE5YmJjOWE2MjBmN2IxNTQwMGU0YzVkY2E4NTQ0ZWU1`

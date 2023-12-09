@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Elliot Greer Presents: Barebones II",
+        "url": "https://open.spotify.com/album/1NwqBdHo8IPvu8CKqzwa51"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213124,
+      "name": "Closer (Side A)",
+      "url": "https://open.spotify.com/track/7xAgn8pKEF0kYykyXOYzGb"
+    },
+    {
+      "album": {
         "name": "ballerini",
         "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
       },
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 222000,
       "name": "No One Dies From Love (Stripped in France)",
       "url": "https://open.spotify.com/track/27xRPKb5q7YmDIzOUSHOa9"
@@ -3550,7 +3568,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 178983,
       "name": "South Dakota",
       "url": "https://open.spotify.com/track/3wxqXbquEp4LsURWXWgAcm"
@@ -4000,6 +4018,24 @@
       "duration_ms": 218915,
       "name": "Trampoline - Stripped",
       "url": "https://open.spotify.com/track/7HHSCN8qAcPBKqNolT5qBg"
+    },
+    {
+      "album": {
+        "name": "roots",
+        "url": "https://open.spotify.com/album/5TPV8JYLrkm15MVr7RhFdi"
+      },
+      "artists": [
+        {
+          "name": "gavn!",
+          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166938,
+      "name": "vices",
+      "url": "https://open.spotify.com/track/762n155rz6x9e5UHjoxmVC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,551 songs - 3 day 12 hr 3 min
+1,552 songs - 3 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Esos Ojxss](https://open.spotify.com/track/48KzcxV31Yi1UHNCGulhez) | [daviid\_328](https://open.spotify.com/artist/4mxv3XnN0fRgjMBdSWNSlP) | [Esos Ojxss](https://open.spotify.com/album/4YUJNVbNwVT0Hytc0pvor5) | 2:13 | 2023-04-29 | 2023-05-07 |
 | [ESTOY A UN VASO NOMA'](https://open.spotify.com/track/21MdRfo44efC3AsbExT4by) | [VIUS](https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE) | [ESTOY A UN VASO NOMA'](https://open.spotify.com/album/5RjA2YTDUAojaHYyutcNH4) | 2:51 | 2023-10-17 | 2023-10-25 |
 | [Estoy Volando Alto \- Spanish](https://open.spotify.com/track/1tXMbAZwHKKvtFCUKawo4p) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Estoy Volando Alto \(Spanish\)](https://open.spotify.com/album/66J6ay8JpjkB4bKbUOjYrJ) | 2:00 | 2022-08-09 | 2022-08-12 |
+| [Estrellita](https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Estrellita](https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW) | 2:37 | 2023-12-08 |  |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-08-15 | 2023-09-16 |
 | [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 | 2023-04-17 | 2023-04-19 |
 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-05-24 | 2023-07-09 |
@@ -489,7 +490,7 @@
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2022-09-14 | 2022-09-16 |
 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2022-06-28 | 2022-07-27 |
 | [FERXXO 81](https://open.spotify.com/track/7zFcL9F8IidFWVXQ0978RE) | [FERXXO81](https://open.spotify.com/artist/2tp6RzzAcwwc0hdFFjnSso) | [FERXXO 81](https://open.spotify.com/album/65WM9pZVKuKwSVN99ZaiuM) | 2:56 | 2022-11-21 | 2022-11-24 |
-| [Fetty](https://open.spotify.com/track/4VUCD7MJpEsPG71MJDXBdD) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Fetty](https://open.spotify.com/album/6iU0MQfHr7q8XCU2cGwX1q) | 2:53 | 2023-11-21 |  |
+| [Fetty](https://open.spotify.com/track/4VUCD7MJpEsPG71MJDXBdD) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Fetty](https://open.spotify.com/album/6iU0MQfHr7q8XCU2cGwX1q) | 2:53 | 2023-11-21 | 2023-12-09 |
 | [Fiera](https://open.spotify.com/track/4tWO6MRXQwmh8nKlWHgBYz) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 2:55 | 2022-11-25 | 2022-12-06 |
 | [Fiera](https://open.spotify.com/track/5cDyidxA6n2xI4iFsqzt6D) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Fiera](https://open.spotify.com/album/5wElk4V6mpataJOwrjLsj1) | 2:55 | 2022-11-22 | 2022-11-26 |
 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 | 2023-02-28 | 2023-03-16 |

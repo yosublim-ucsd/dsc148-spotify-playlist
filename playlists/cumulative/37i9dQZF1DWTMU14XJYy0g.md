@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Babasónicos
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Airbag
 
-231 songs - 14 hr 27 min
+233 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Hacerlo Bien](https://open.spotify.com/track/0hJBuCIq43WYZgZQ9A3Aq7) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Hacerlo Bien](https://open.spotify.com/album/2H73ICOxIxQAbAetEg70Qm) | 4:09 | 2023-10-13 |  |
 | [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 | 2023-11-10 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-06-24 | 2023-09-27 |
+| [Himno de Mi Corazón](https://open.spotify.com/track/34IdqsIJU7LvCOZbxMkmdt) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI) | [Himno de Mi Corazón](https://open.spotify.com/album/486m3Z1LXcVvDl3uRZNE38) | 4:11 | 2023-12-08 |  |
 | [Home Sweet Home](https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Home Sweet Home](https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX) | 3:24 | 2022-06-24 |  |
 | [Impulsando El Encuentro](https://open.spotify.com/track/2La3j8YgEErCVBXWIopKym) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Impulsando El Encuentro](https://open.spotify.com/album/6aaFN44R7nF2J7uI6kiAKj) | 4:19 | 2023-03-31 | 2023-06-03 |
 | [Indómito Sentir](https://open.spotify.com/track/0ldljvvUw0ApIcnVdzrupm) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Indómito Sentir](https://open.spotify.com/album/0Cqfl5mK3EmyH2baOd2a7K) | 4:09 | 2022-09-30 | 2023-09-09 |
@@ -120,7 +121,7 @@
 | [La Ciudad Sin Alma](https://open.spotify.com/track/3sDI2suYX1N8IuszYbRmuZ) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [La Ciudad Sin Alma](https://open.spotify.com/album/5fKFrKFHXp0ZDaGSZ2YgQx) | 3:51 | 2022-06-24 | 2022-07-09 |
 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 | 2022-06-24 |  |
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2022-06-24 | 2023-09-27 |
-| [La Ladrona](https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [La Ladrona](https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5) | 3:19 | 2022-07-08 |  |
+| [La Ladrona](https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [La Ladrona](https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5) | 3:19 | 2022-07-08 | 2023-12-09 |
 | [La Libertad](https://open.spotify.com/track/1Qd1kCBn0GPFl7y3fZZ8uG) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Huracán, Vol\. 9](https://open.spotify.com/album/0qLHnQBkMI3lhYELDxZeDb) | 3:16 | 2022-07-01 |  |
 | [La Marcha Que Les Debía](https://open.spotify.com/track/31agtWMCKheGN5fi5B7Zaz) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [La Marcha Que Les Debía](https://open.spotify.com/album/5DXFoAlWhyjNrSSLTOFECY) | 4:17 | 2023-09-22 |  |
 | [La Noche Sin Tí](https://open.spotify.com/track/01Nl8C2RuzukJWbOfYxsU6) | [Bulldog](https://open.spotify.com/artist/0bI566gNqVLuVAra7TXQp9) | [Filosopunk](https://open.spotify.com/album/0RXMKMiInn9AezTxtb9I5U) | 5:41 | 2022-07-15 |  |
@@ -159,11 +160,12 @@
 | [Ni Mierda](https://open.spotify.com/track/3wJHwgJ2UXYicGth7OCkUD) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Abran Paso](https://open.spotify.com/album/1I6Tfo2FpfHPuvC3Pvaq39) | 4:44 | 2022-06-24 | 2023-03-04 |
 | [No Aguanto Más](https://open.spotify.com/track/2cqFQ9mcQCRpW2kdvAxUPM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:46 | 2023-03-03 |  |
 | [No Estés Triste](https://open.spotify.com/track/4Bm9mh2IiaMU77PuIqIvsR) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [No Estés Triste](https://open.spotify.com/album/725IopLufwMCMGq5pc3aux) | 3:46 | 2022-09-02 | 2023-09-27 |
-| [No Me Dejan Salir](https://open.spotify.com/track/3W8seqNrzD6IpdQH3sTzMA) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Me Dejan Salir](https://open.spotify.com/album/3Vn2NZJiGhQMgNZurR86d5) | 4:13 | 2023-11-10 |  |
+| [No Me Dejan Salir](https://open.spotify.com/track/3W8seqNrzD6IpdQH3sTzMA) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Me Dejan Salir](https://open.spotify.com/album/3Vn2NZJiGhQMgNZurR86d5) | 4:13 | 2023-11-10 | 2023-12-09 |
 | [No Puedo Dormir](https://open.spotify.com/track/0qwTx0y2uPkVcXT9M9fu9e) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1), [Nico Bereciartua](https://open.spotify.com/artist/79KJ0gUMjDNnDWrT9szmZM) | [No Puedo Dormir](https://open.spotify.com/album/5VDaXN4qeSZIZpEoucY9Ow) | 3:57 | 2022-06-24 | 2023-04-22 |
 | [No Tengo](https://open.spotify.com/track/0ZGmRAxY2XT3G0TJqWVOjA) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [No Tengo](https://open.spotify.com/album/3l3Pp0CTPk3SNToZzX2fEu) | 5:19 | 2022-06-24 | 2022-07-02 |
 | [Nos Pasa Lo Mismo](https://open.spotify.com/track/5gSDKJXKITtPcxnQJ8yNri) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Nos Pasa Lo Mismo](https://open.spotify.com/album/0S052giv0KheknU0PiEY5C) | 3:01 | 2023-09-26 |  |
 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 | 2023-03-03 |  |
+| [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 5:02 | 2023-12-08 |  |
 | [Nunca quise](https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:20 | 2022-06-24 | 2022-10-15 |
 | [Oda a la Sin Nombre](https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [A Través del Mar de los Sargazos](https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ) | 4:32 | 2022-06-24 | 2022-12-17 |
 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 | 2023-04-14 | 2023-09-27 |

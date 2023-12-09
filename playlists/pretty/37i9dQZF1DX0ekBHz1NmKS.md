@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,365 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,379 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Du har fel](https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Du har fel](https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH) | 2:44 |
 | 100 | [THERAPY](https://open.spotify.com/track/3ijEcYXQWIKn2Ndx0jubx2) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [THERAPY](https://open.spotify.com/album/3CBtXeUWfk0aRCx6Ri5YQU) | 3:17 |
 
-Snapshot ID: `MCw2NGRhNzMxNmFlYzU0ZGM2YWU2MWM4ZWVhNTJlYzA0NDc1ZTQ0YzYw`
+Snapshot ID: `MCxiZGRmOWExZTIwMDJiNmIyNDQ5YjZiMDYxNzIzNGIyMGI0MjZlNzE2`

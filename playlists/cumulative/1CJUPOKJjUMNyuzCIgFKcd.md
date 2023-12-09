@@ -4,17 +4,19 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-76 songs - 3 hr 18 min
+81 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40x](https://open.spotify.com/track/0b8U8Ow5AgqHrWbIjr4aqk) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [40x](https://open.spotify.com/album/2syjdE335q11f2DJ8bhhBo) | 2:28 | 2023-12-01 |  |
 | [8 to Infinity](https://open.spotify.com/track/6f7Iyjqrggq7y25Zg4k97Y) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [8 to Infinity](https://open.spotify.com/album/3WDZzJ5bANP4qOUrQFLcrJ) | 2:40 | 2023-09-05 |  |
 | [Backslide](https://open.spotify.com/track/3fpF1wbhka6wD52euq4UaU) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [Backslide](https://open.spotify.com/album/7ActXZISNRFX3jBRPcE7XW) | 2:43 | 2023-08-28 |  |
+| [Bank Truck](https://open.spotify.com/track/4ZsXWjCRhEkKPlDVtNvap6) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Trophies](https://open.spotify.com/album/4QcAsaILcr6N6VcLmDiZkp) | 2:45 | 2023-12-08 |  |
 | [Big Peach](https://open.spotify.com/track/5HMw8a6zOfzKDh0Azze6sA) | [Allstar JR](https://open.spotify.com/artist/5o9e9YHe1OVQcbMv3Rvk32) | [Big Peach](https://open.spotify.com/album/5sGp1iT8ElQJMNUmnfR2ZN) | 2:59 | 2023-11-18 |  |
 | [Black & Platinums](https://open.spotify.com/track/4yjiNUbEqrEcM9gpBCSIGb) | [HBK](https://open.spotify.com/artist/5Px2gUGA6EDKiqqqUGR4ql), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Black & Platinums](https://open.spotify.com/album/3cgZK5L9bK9T1uQu7cVcAY) | 2:05 | 2023-09-28 |  |
 | [booted](https://open.spotify.com/track/74RmSldi1mEwYY6mnHBHk6) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [booted](https://open.spotify.com/album/3k6sGgGBxqBV1THjRKgBtD) | 2:18 | 2023-10-06 |  |
 | [Boss Blues](https://open.spotify.com/track/2VAr6Z5n4pO3kI8m1ncYpb) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Boss Blues](https://open.spotify.com/album/7deP4NemY3eCBMgk3GmlWG) | 3:16 | 2023-09-08 |  |
+| [Breathe](https://open.spotify.com/track/4L7PA4GJ8opDpOhlK25wGx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Breathe](https://open.spotify.com/album/2cBWEbN85uv6gT3Wjnnj94) | 2:30 | 2023-12-08 |  |
 | [Brothers Only](https://open.spotify.com/track/4Rf9xUNWcZXQpwq6OHkuTY) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Pyrex Kids](https://open.spotify.com/album/0WS1JqFCANiSjK186Rkbxo) | 2:38 | 2023-10-30 |  |
 | [Buckle Up](https://open.spotify.com/track/225mfDVl2zv1gcS3QAtXXH) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Buckle Up](https://open.spotify.com/album/2HJxcPLIKtKd8LPSAHwsQL) | 1:58 | 2023-09-15 |  |
 | [Bully Flow](https://open.spotify.com/track/0CpvLQPZpypNSueYp4MCIb) | [Tay Savage](https://open.spotify.com/artist/3bEvCfguncHB5a063kJr71) | [Bully Flow](https://open.spotify.com/album/3mGduF88Hg7QiWf4vwQ9zR) | 1:59 | 2023-09-15 |  |
@@ -35,6 +37,7 @@
 | [Ears Bleeding](https://open.spotify.com/track/73tWYhqUEf22rdKVbJg2CD) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [Ears Bleeding](https://open.spotify.com/album/2vASZo0aIK2v8jngVRqP57) | 2:36 | 2023-08-28 |  |
 | [Elegant](https://open.spotify.com/track/10Ey3kdeqbBB2CuR3HmlWw) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Elegant](https://open.spotify.com/album/6mpou6lKuWukKnE0XWQmzb) | 2:11 | 2023-10-06 |  |
 | [Fear No Man](https://open.spotify.com/track/6mdQDcpikCXZhGHSSsG5SI) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Fear No Man](https://open.spotify.com/album/0ic9UPGkVgy9W8qrM2rdFf) | 2:06 | 2023-08-11 | 2023-11-18 |
+| [Fish Bowl](https://open.spotify.com/track/56sxhRbTBj6ekLi0sPW28B) | [FMB DZ](https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa) | [Fish Bowl](https://open.spotify.com/album/50LOxYYUJns97tycJc4kDg) | 1:46 | 2023-12-08 |  |
 | [Free My Mind](https://open.spotify.com/track/0hJFRBkbBS20cLnVnQZQuv) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Free My Mind](https://open.spotify.com/album/7tCumu7kRFLx7lF306jfCY) | 3:25 | 2023-10-13 |  |
 | [givenofuks](https://open.spotify.com/track/4BYtFyjFMZD21Gbmq9Vhin) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [givenofuks](https://open.spotify.com/album/5Uddyq30WFHpADa8yP8KrH) | 2:31 | 2023-11-18 |  |
 | [Glitch Again](https://open.spotify.com/track/2y9lKLfl0GUKiMfGt7jLPT) | [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI) | [Glitch Again](https://open.spotify.com/album/3Tp2JbgBBWN98XUUXq4TYo) | 2:10 | 2023-08-28 |  |
@@ -43,6 +46,7 @@
 | [Heavy](https://open.spotify.com/track/43pjKTwerf0zk3WSj1TE7I) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Heavy](https://open.spotify.com/album/48eAYIvW7LSsqDVfOgJrER) | 2:53 | 2023-09-28 |  |
 | [Him](https://open.spotify.com/track/27knn3RM7DiYpXdPNr4lfU) | [Jimbo World](https://open.spotify.com/artist/2SOPsk10xOOjO0M1oyNCmu) | [HIM](https://open.spotify.com/album/4S4B4h9FARvAzRuYnJmTAq) | 2:39 | 2023-10-30 |  |
 | [Hook Mitchell \(feat\. Dame D.O.L.L.A.\)](https://open.spotify.com/track/6CKDa6mKBdGpllS72Bpj5V) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ) | [Hook Mitchell \(feat\. Dame D.O.L.L.A.\)](https://open.spotify.com/album/0f3GzsAigXJPTZj6pNmODH) | 3:39 | 2023-09-15 |  |
+| [Humble & Heartless \(feat\. Lil Yee\)](https://open.spotify.com/track/6tD5baN25aR6VLGXV3SjSL) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [Benzes & Trackhawks](https://open.spotify.com/album/1W5HkkXy3T2QBmMkQMuuJU) | 3:51 | 2023-12-08 |  |
 | [I AM NOT HUMAN](https://open.spotify.com/track/1ezhzDiymFiBKe7tjLC2Hg) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [I AM NOT HUMAN](https://open.spotify.com/album/7cZ6YKcfURpbY49rSKGejv) | 2:10 | 2023-12-01 |  |
 | [I Know](https://open.spotify.com/track/7pWtaVnfDEr3Nh2rMKdXOL) | [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI), [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [I Know](https://open.spotify.com/album/0lzHQCI1kbWSda3LzuTnXd) | 2:21 | 2023-10-06 |  |
 | [Lake Lanier](https://open.spotify.com/track/79aaQYVOpTVL4Jpkmc0GDm) | [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [Lake Lanier](https://open.spotify.com/album/4AmS8OoOwlqO8oGF42IsEQ) | 1:44 | 2023-10-06 |  |
@@ -84,5 +88,6 @@
 | [Without You \(Blxst Interlude\)](https://open.spotify.com/track/4o37I9GMKgu8bTvt4Zd4Ny) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Without You \(Blxst Interlude\)](https://open.spotify.com/album/7tYruPXBGvlRyeY6ShHX1C) | 2:44 | 2023-10-30 |  |
 | [Workin](https://open.spotify.com/track/6uYs9BaaR0gWqFGP3Gw5Vy) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Workin](https://open.spotify.com/album/0vqB5bvxtquqB5g87MNDw9) | 3:04 | 2023-11-18 |  |
 | [XPLOSIVE](https://open.spotify.com/track/4Yk97MKGfwL707ASkje7Qf) | [MRG](https://open.spotify.com/artist/6eqLAUIm0u7CgcbjX9O5fb) | [XPLOSIVE](https://open.spotify.com/album/2Gj5KgYzMteatwKBUuxyEO) | 1:45 | 2023-12-01 |  |
+| [You 2 Thank](https://open.spotify.com/track/5n0mrZ3vD772kuwt9trMZ0) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/1AHynywfnZGfxVt2iLfzL7) | 2:44 | 2023-12-08 |  |
 
 \*This playlist was first scraped on 2023-11-08. Prior content cannot be recovered.

@@ -432,7 +432,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 123592,
-      "name": "Close Your Eyes And Listen",
+      "name": "Close Your Eyes and Listen",
       "url": "https://open.spotify.com/track/006nnWonryJaAktux75zAs"
     },
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 192876,
       "name": "Dark Stereo White Noise",
       "url": "https://open.spotify.com/track/6xkDglPeV4MvqvtBp32R3p"
@@ -866,6 +866,24 @@
       "duration_ms": 142278,
       "name": "Forever Ambient Noise",
       "url": "https://open.spotify.com/track/4Qs93QCHeZOsf01IVNQCBY"
+    },
+    {
+      "album": {
+        "name": "Frost Echo (White Noise)",
+        "url": "https://open.spotify.com/album/1KqENBgWtdlybFpzMz7sPV"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Frost Echo - White Noise",
+      "url": "https://open.spotify.com/track/4viGeuY6gRxtE7i1XZBj1Y"
     },
     {
       "album": {
@@ -1517,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "My little White Noise Machine",
+        "url": "https://open.spotify.com/album/5UQhx35Ullhit2jcnCcRPu"
+      },
+      "artists": [
+        {
+          "name": "Wavelab",
+          "url": "https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314465,
+      "name": "My little White Noise Machine",
+      "url": "https://open.spotify.com/track/2JEp7APVgK2rwgOfMP0g9g"
+    },
+    {
+      "album": {
         "name": "Sounds of Serenity",
         "url": "https://open.spotify.com/album/5torbd6LM91zIYzUDvRGhW"
       },
@@ -1841,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Pure Comfort (White Noise)",
+        "url": "https://open.spotify.com/album/6C0ycscmQUlAihFXiY5IMR"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Pure Comfort - White Noise",
+      "url": "https://open.spotify.com/track/31lC4tzNB39HglGpngUs4n"
+    },
+    {
+      "album": {
         "name": "Pure White Noise",
         "url": "https://open.spotify.com/album/1MMdqKZxMDdIEOQMjS45Us"
       },
@@ -2086,7 +2140,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 169430,
       "name": "Ruido Blanco Natural",
       "url": "https://open.spotify.com/track/3R3Rn4uwNYxAQPT7aPWUQ6"
@@ -2698,7 +2752,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 175933,
       "name": "Spaceful White",
       "url": "https://open.spotify.com/track/1n4kT38WJy4bLKajINLIbi"
@@ -3328,10 +3382,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 125155,
       "name": "White Noise - Relaxation - Part 2",
       "url": "https://open.spotify.com/track/3ACE9IJeMC6vTjEwjOITD6"
+    },
+    {
+      "album": {
+        "name": "White Noise - REM Sleep",
+        "url": "https://open.spotify.com/album/4CqWnCw84Gb9fTEfPzpQnP"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Activity",
+          "url": "https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197065,
+      "name": "White Noise - REM Sleep",
+      "url": "https://open.spotify.com/track/3spnIMQNyQKet0F5lELlt4"
     },
     {
       "album": {
@@ -4102,7 +4174,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 204000,
       "name": "White Noise Machine",
       "url": "https://open.spotify.com/track/3rcqaQqGBeL5f7jqUUxDmE"
@@ -4502,6 +4574,24 @@
       "duration_ms": 202714,
       "name": "White Noise Windows Open at Night",
       "url": "https://open.spotify.com/track/7GSfkfVhKjZ4TL2jYFGyuG"
+    },
+    {
+      "album": {
+        "name": "White Noise Winter Dreams",
+        "url": "https://open.spotify.com/album/7CZu7ZsAzkSCwEZtB4Ouyt"
+      },
+      "artists": [
+        {
+          "name": "Freifall",
+          "url": "https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "White Noise Winter Dreams",
+      "url": "https://open.spotify.com/track/0WYciAV0lVsMEQk15UXVw1"
     },
     {
       "album": {

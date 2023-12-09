@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Himlabacken Vol. 2",
+        "url": "https://open.spotify.com/album/6d2gRQNPW6CWrBjXpffvGQ"
+      },
+      "artists": [
+        {
+          "name": "Moon Safari",
+          "url": "https://open.spotify.com/artist/0Wr0oT0aCD6w7O25TPwnoX"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235080,
+      "name": "198X (Heaven Hill)",
+      "url": "https://open.spotify.com/track/4wXRVUEbiCVmAcGtLoxp1J"
+    },
+    {
+      "album": {
         "name": "Himlabacken (Vol.2)",
         "url": "https://open.spotify.com/album/2mfyTUrJLUuGE9056jPxgH"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 235080,
       "name": "198X (Heaven Hill)",
       "url": "https://open.spotify.com/track/72O0FUZgcBFa6e9iEK3oCe"

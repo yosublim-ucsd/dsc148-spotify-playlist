@@ -1503,6 +1503,28 @@
     },
     {
       "album": {
+        "name": "Different Lives",
+        "url": "https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        },
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Different Lives",
+      "url": "https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq"
+    },
+    {
+      "album": {
         "name": "Dippin My Feet",
         "url": "https://open.spotify.com/album/2S2jgHkv3R3lmc92DPHSjy"
       },
@@ -1532,7 +1554,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 153096,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw"

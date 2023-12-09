@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-147 songs - 8 hr 22 min
+149 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Magic Touch](https://open.spotify.com/track/5Y4shJuqQRfXfs1tF8wFXQ) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Magic Touch](https://open.spotify.com/album/7pZplMGBwPoG7hBgyoUWaf) | 2:15 | 2023-07-21 | 2023-09-16 |
 | [Mary Jane](https://open.spotify.com/track/2ufkb3FQTmK8OJpP7dZ5oB) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ), [LLølita](https://open.spotify.com/artist/0fnCSuylj2kNfNzpvmFeM3) | [Mary Jane](https://open.spotify.com/album/0bOPG9YALZ4nbNA9u3I7XU) | 5:10 | 2023-07-21 | 2023-08-26 |
 | [Moogzera](https://open.spotify.com/track/6VZvPSON6mVk6MI9N2A9QB) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L) | [Moogzera](https://open.spotify.com/album/2VtpyqXLCV3X6UBKcb95MC) | 3:11 | 2023-07-21 | 2023-08-05 |
+| [Moonlight](https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Moonlight](https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng) | 5:37 | 2023-12-08 |  |
 | [My Face](https://open.spotify.com/track/7CYORRllLV3k116cZcmDux) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Foxel](https://open.spotify.com/artist/2SmWWW2ttL5QA3E624TOKX) | [My Face](https://open.spotify.com/album/5NTd9H9gkWkpR58oTmlWHL) | 2:41 | 2023-07-21 | 2023-09-16 |
 | [My Moment](https://open.spotify.com/track/1yD2PHNXRMhJPcseTiOjg4) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [My Moment](https://open.spotify.com/album/0qXlWHYppyw1zrNBZcDoyf) | 2:00 | 2023-08-04 |  |
 | [Need U](https://open.spotify.com/track/2xJqtUrOdN7W2TqB84wHE1) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Need U](https://open.spotify.com/album/6gd2HEIElKRml3UJnIRNw3) | 2:30 | 2023-08-25 |  |
@@ -117,7 +118,7 @@
 | [Shake For Me](https://open.spotify.com/track/506Xzmxx9wmqrL5F0uyW2u) | [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW), [Nogue](https://open.spotify.com/artist/0ZCRAH96d0NQAcHcE6bCEJ) | [Shake For Me](https://open.spotify.com/album/11SpfzP6rZhPmN9rHYr4XY) | 2:17 | 2023-09-22 |  |
 | [Shattered Ego](https://open.spotify.com/track/55x1qja65P0L0m8VisGMN9) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Shattered Ego](https://open.spotify.com/album/4QDz9D4zU81o43991NumKu) | 3:34 | 2023-09-15 | 2023-09-30 |
 | [Show You](https://open.spotify.com/track/3Prgb5oHGJpaVanWZUHODc) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [No ExpressioN](https://open.spotify.com/artist/6RNcIa7VcxBBIgW6boctFo) | [Show You](https://open.spotify.com/album/6Y3EKiOO4EVu4if9Ge0KMr) | 2:39 | 2023-07-21 | 2023-08-19 |
-| [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 | 2023-07-28 |  |
+| [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 | 2023-07-28 | 2023-12-09 |
 | [So Bad](https://open.spotify.com/track/1ZYHIV76qQYr59eIMqF92C) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8), [LÖÖC](https://open.spotify.com/artist/2zPE3wnLyhZHbWqtjDOlmB) | [So Bad](https://open.spotify.com/album/2vDifuf2AOtvrxVUbBZYGw) | 2:25 | 2023-10-20 |  |
 | [So Beautiful](https://open.spotify.com/track/1yLkoxMWyzo39M5AIeEceQ) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S) | [So Beautiful](https://open.spotify.com/album/23RzzkhH3R2swSwhasgq3N) | 5:30 | 2023-07-21 | 2023-10-14 |
 | [Still Alone \- Radio Mix](https://open.spotify.com/track/1Tdm1UZvAGhuftWElWq1SX) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Still Alone](https://open.spotify.com/album/6yuKeb3lMCXGSqnDfRIU86) | 3:16 | 2023-09-01 |  |
@@ -142,6 +143,7 @@
 | [Trust Yourself \- RAMAH Remix](https://open.spotify.com/track/7fRkT3nEZ9dcdReEDiP8lC) | [CEVITH](https://open.spotify.com/artist/0R5cBqUk6GntjEAHrAQxjd), [RAMAH](https://open.spotify.com/artist/1Mk6KWgnA9JzOnS1TgSwJi) | [Trust Yourself \(RAMAH Remix\)](https://open.spotify.com/album/2fjKSDSWwUoVKJtzMaitUH) | 4:13 | 2023-11-17 |  |
 | [Try](https://open.spotify.com/track/6SdMZ4jklZZNtuzNVQZPCY) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs) | [Try](https://open.spotify.com/album/37WRmPS6elxB9UQZw84GTH) | 2:26 | 2023-10-20 |  |
 | [Tugudu](https://open.spotify.com/track/7pobnc2nZR6B1BWXksLPz9) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Tugudu](https://open.spotify.com/album/4X8ykiffFeI1RPpC0gVAxr) | 3:31 | 2023-09-01 |  |
+| [Under the Glow](https://open.spotify.com/track/2dRRH5xLawGk6qAbuvcuhq) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Under the Glow](https://open.spotify.com/album/0lVIqGTK1L22cdO1PcwGft) | 3:11 | 2023-12-08 |  |
 | [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 | 2023-10-20 |  |
 | [Up N' Down \(feat\. JmNPR\)](https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [JmNPR](https://open.spotify.com/artist/30tkBTplmnwCCDx8Ueuau2) | [Up N' Down \(feat\. JmNPR\)](https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9) | 3:28 | 2023-09-29 |  |
 | [Vai no Chão 2k23 \- Original Mix](https://open.spotify.com/track/6BH2EOiwGPsa99fYTOdPAr) | [Blaf Music \(Br\)](https://open.spotify.com/artist/3PvFN3ThKEI7t79YEW9M41), [Ali\_live](https://open.spotify.com/artist/03pwYVt6u2LbrDCUYnjGHz), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Vai no Chão 2k23 \(Original Mix\)](https://open.spotify.com/album/39BfhReJ5DS5fOrM2nYdzy) | 3:54 | 2023-07-21 | 2023-09-23 |

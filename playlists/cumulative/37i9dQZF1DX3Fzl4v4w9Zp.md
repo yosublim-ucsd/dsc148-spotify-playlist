@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Jess Williamson
 
-569 songs - 1 day 11 hr 13 min
+570 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [All It Cost Me Was Everything](https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [All It Cost Me Was Everything](https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC) | 3:50 | 2021-12-17 | 2022-04-02 |
 | [All My Exes Live in L.A.](https://open.spotify.com/track/3ixSiGWX59GYPNf8gnXU0c) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [All My Exes Live in L.A.](https://open.spotify.com/album/0YDQ6x3Lf2bfReLsZfOLYw) | 3:18 | 2023-08-18 |  |
 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 | 2022-06-03 | 2023-09-23 |
+| [All The Angelenos](https://open.spotify.com/track/2Q08EbpkqcfIMipdAoeivQ) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [Like It's The Last One Left](https://open.spotify.com/album/0fhkwxWGU1kAaqkCq6WGsd) | 3:01 | 2023-12-08 |  |
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-04-01 | 2022-05-14 |
 | [All The Lilacs In Ohio](https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [All The Lilacs In Ohio](https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au) | 3:29 | 2021-12-17 | 2022-02-23 |
 | [Always Saw Coming](https://open.spotify.com/track/4PkNM6c47VlKeElu3x0Pg0) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Always Saw Coming](https://open.spotify.com/album/6Wu31vZfPvx9L4hBwtJm3b) | 3:03 | 2022-05-20 | 2023-01-21 |
@@ -165,7 +166,7 @@
 | [For the Birds](https://open.spotify.com/track/46dQTGTOvHTV3TFsNP7v3M) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [Single Wide Dreamer](https://open.spotify.com/album/4aRnSu933sKKthwIVQT21x) | 3:41 | 2022-05-13 | 2023-04-22 |
 | [For Your Consideration](https://open.spotify.com/track/0DgwphlY2xms3N6x9OnSvL) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [For Your Consideration](https://open.spotify.com/album/2kkyEVREqyEEEwwChURwQ9) | 3:51 | 2021-12-17 | 2022-05-14 |
 | [For Your Soul](https://open.spotify.com/track/0nCS9vXUbuD13169TCPCv2) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Sawgrass / For Your Soul](https://open.spotify.com/album/7l2Z5C2MAkfKlU9xs3uNph) | 3:05 | 2023-03-10 | 2023-10-21 |
-| [For Your Soul](https://open.spotify.com/track/5eimsB6KHfDsTSSETgx18Q) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Spectral Lines](https://open.spotify.com/album/22nZ1NT4IWj6boYaz8xe2q) | 3:05 | 2023-10-20 |  |
+| [For Your Soul](https://open.spotify.com/track/5eimsB6KHfDsTSSETgx18Q) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Spectral Lines](https://open.spotify.com/album/22nZ1NT4IWj6boYaz8xe2q) | 3:05 | 2023-10-20 | 2023-12-09 |
 | [Forged In Hell And Heaven Sent](https://open.spotify.com/track/4YzjGUn7KgL2w5d89DeIV0) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Welcome 2 Club XIII](https://open.spotify.com/album/5QO99FKAyigde7NHHyGZaK) | 4:45 | 2022-07-22 | 2023-05-06 |
 | [Forged in Hell and Heaven Sent](https://open.spotify.com/track/7BI77Zk4GyY88tB3SJyx8p) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Welcome 2 Club XIII](https://open.spotify.com/album/36KLZL4EDBBiEkLdl1BEJ7) | 4:45 | 2022-06-03 | 2022-07-29 |
 | [Forgiving Ties](https://open.spotify.com/track/3pv0IJiSYPx531RuNSbtjR) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [Forgiving Ties b/w The Real Thing](https://open.spotify.com/album/6sGyKPSxmuSamY3duTPkvQ) | 4:10 | 2023-06-23 |  |

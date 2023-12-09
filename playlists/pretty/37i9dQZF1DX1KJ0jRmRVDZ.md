@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,219 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,254 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [Wakuseitsushin feat\. Mel](https://open.spotify.com/track/5sPyRxOdmBXoONmkIXAUkK) | [Has\-ki](https://open.spotify.com/artist/7pvleOZtwMfQPOkZ57czSA), [Mel](https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a) | [Wakuseitsushin feat\. Mel](https://open.spotify.com/album/1WqErc2gluGCawMMWoaGtf) | 4:16 |
 | 50 | [個性](https://open.spotify.com/track/56Fr4U5BImRoCe84QqCNJf) | [Awairo](https://open.spotify.com/artist/5zCXmpe2klqd9LXL9Q7gxa) | [個性](https://open.spotify.com/album/3ZCcLATYnK0XMLiZErvagX) | 3:16 |
 
-Snapshot ID: `MCxmZmRhMGZhNmI2MGUxOTM5MTAzNzlhMWQzYjc5Zjc3M2QwNWE5Nzc0`
+Snapshot ID: `MCw3M2FjNDFmMjRjNWQwNDZmYjRhODk1ZjczYzEzN2Q2ZWQwMDE3YmEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,476 likes - 69 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,643 likes - 69 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 13 | [Clap Gently](https://open.spotify.com/track/46lj4ymw5WmQkuTw9XJuHZ) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Resort Island](https://open.spotify.com/album/5Wo4dlvUMAsTVLL86Ud3iA) | 2:28 |
 | 14 | [Rise](https://open.spotify.com/track/6W1L9urqGfVv8Eh4T0qyTR) | [Alican](https://open.spotify.com/artist/20JcfncPyV3x2XjAKLWL98) | [Overexposed](https://open.spotify.com/album/049xq9iGeiLWSgvz6WE9Xn) | 6:24 |
 | 15 | [Bloom](https://open.spotify.com/track/5DpUcOaS5yCkQ424XumkwX) | [James Harcourt](https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O) | [Siamese Anthology V \(Part 4/4\)](https://open.spotify.com/album/4GIdTRKiMGRATYQ2uJ9Imy) | 7:43 |
-| 16 | [Crystal Volcano \(Chloé \(Thévenin\) Remix\)](https://open.spotify.com/track/1fXqBLgaaCpbsjujwKgdXr) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Crystal Volcano \[Chloé \(Thévenin\) Remix\]](https://open.spotify.com/album/7dUodSX3SnRIwDTHPuQJvL) | 7:06 |
+| 16 | [Crystal Volcano \(Chloé \(Thévenin\) Remix\)](https://open.spotify.com/track/63Kh4DPQTI3Ffb4GvLbMvA) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Garden Gaia Remixes](https://open.spotify.com/album/7BfEieD8wRanTgqgRy3rGg) | 7:03 |
 | 17 | [Doors To Shambhala \- Surgeons Girl Remix](https://open.spotify.com/track/2ggxO1Tgsic6HpV0TxWjyE) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp), [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:42 |
 | 18 | [America \(Terrence Dixon MInimal Detroit Mix\) \- Mixed](https://open.spotify.com/track/5emMNsPjNJscowHjjWexuh) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G), [Terrence Dixon](https://open.spotify.com/artist/78x5Xzi7CUmQZtZfFYBK9m) | [DJ\-Kicks \(Mount Kimbie\) \[DJ Mix\]](https://open.spotify.com/album/4e817Y4x5DNfPu5QGyLoHO) | 1:52 |
 | 19 | [Something On My Mind](https://open.spotify.com/track/3eg8iC2uwnMb3lgOywFzXA) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [The Feeling EP](https://open.spotify.com/album/0Fhto3YGabtjbr2iftxJ5c) | 6:46 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 68 | [Sans l'oublier \- Chloé Remix](https://open.spotify.com/track/3eWgUvZKfTqJilMne1E8XV) | [Ezéchiel Pailhès](https://open.spotify.com/artist/4rqegcqfzES4oBRh4n8TM1), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Oh ! Remixes](https://open.spotify.com/album/5WnWyUtMzM7ZXAgWUS6mlf) | 7:26 |
 | 69 | [El Escondite](https://open.spotify.com/track/3GRk3gmqrfU0erMD6VHUwE) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Blanquita \(Original Soundtrack\)](https://open.spotify.com/album/2SbndURUZ0k22dK3jzoyYJ) | 6:31 |
 
-Snapshot ID: `MCxlNjdkODNjYzllZTRiMjQ1ZjUxY2Q1ZjRiMzI3ZjY4ODkzODRkNTc5`
+Snapshot ID: `MCxlNzhmNDY1YmZjMWUwYzI2OGUxNWFiZTk4ZmU1MzRiMTMxZjhlNTc3`

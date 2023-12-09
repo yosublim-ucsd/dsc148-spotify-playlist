@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Green Day
 
-863 songs - 2 day 1 hr 56 min
+864 songs - 2 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [\(Make the Music Go\) Boom](https://open.spotify.com/track/7mjQknb3FC7VJqTMuuAuuo) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Mindsets](https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO) | 3:30 | 2023-06-01 | 2023-06-09 |
 | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg) | 3:36 | 2023-04-06 | 2023-04-21 |
 | [103](https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [103](https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i) | 4:05 | 2023-08-31 | 2023-09-08 |
-| [198X \(Heaven Hill\)](https://open.spotify.com/track/72O0FUZgcBFa6e9iEK3oCe) | [Moon Safari](https://open.spotify.com/artist/0Wr0oT0aCD6w7O25TPwnoX) | [Himlabacken \(Vol.2\)](https://open.spotify.com/album/2mfyTUrJLUuGE9056jPxgH) | 3:55 | 2023-12-07 |  |
+| [198X \(Heaven Hill\)](https://open.spotify.com/track/4wXRVUEbiCVmAcGtLoxp1J) | [Moon Safari](https://open.spotify.com/artist/0Wr0oT0aCD6w7O25TPwnoX) | [Himlabacken Vol\. 2](https://open.spotify.com/album/6d2gRQNPW6CWrBjXpffvGQ) | 3:55 | 2023-12-07 |  |
+| [198X \(Heaven Hill\)](https://open.spotify.com/track/72O0FUZgcBFa6e9iEK3oCe) | [Moon Safari](https://open.spotify.com/artist/0Wr0oT0aCD6w7O25TPwnoX) | [Himlabacken \(Vol.2\)](https://open.spotify.com/album/2mfyTUrJLUuGE9056jPxgH) | 3:55 | 2023-12-07 | 2023-12-09 |
 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-14 | 2023-04-20 |
 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-13 | 2023-04-21 |
 | [30 Somehow](https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [How Do You Love Me](https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s) | 4:41 | 2023-12-07 |  |

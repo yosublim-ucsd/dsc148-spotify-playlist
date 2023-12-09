@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Max Styler",
-  "name": "Operator",
+  "description": "Tech house technicians, featuring Tita Lau",
+  "name": "Tech House Operator",
   "tracks": [
     {
       "album": {
@@ -982,7 +982,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 177195,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 204250,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/0uPv6eHiyLixtoyI5mVJ1f"
@@ -1612,6 +1612,24 @@
       "duration_ms": 157200,
       "name": "Back 2 Me",
       "url": "https://open.spotify.com/track/5z5nSG2BY7Nt8kYtz8D6wJ"
+    },
+    {
+      "album": {
+        "name": "Back Again",
+        "url": "https://open.spotify.com/album/3y28akF5VQEwLeuubsBUA8"
+      },
+      "artists": [
+        {
+          "name": "Alaia & Gallo",
+          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205238,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/71ArHbikuV6KOGRy2KHsCo"
     },
     {
       "album": {
@@ -2781,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
+    },
+    {
+      "album": {
         "name": "Boom Boom (feat. CHRSTPHR)",
         "url": "https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt"
       },
@@ -3062,7 +3098,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 178242,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm"
@@ -6062,7 +6098,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 190429,
       "name": "Dominator (2K23)",
       "url": "https://open.spotify.com/track/7IuGLuWImOmbG0PSXzJseW"
@@ -8456,7 +8492,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 168750,
       "name": "Fire - Edit",
       "url": "https://open.spotify.com/track/1AB5OcHQX33njTi9qTqBQ9"
@@ -11105,6 +11141,24 @@
     },
     {
       "album": {
+        "name": "I Can't Take No More",
+        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157784,
+      "name": "I Can't Take No More",
+      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
+    },
+    {
+      "album": {
         "name": "I Confess (feat. ROM\u00c9O)",
         "url": "https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b"
       },
@@ -11207,6 +11261,32 @@
     },
     {
       "album": {
+        "name": "I Got Nothing",
+        "url": "https://open.spotify.com/album/32wadIN0emxBanTLINlH08"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203540,
+      "name": "I Got Nothing",
+      "url": "https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw"
+    },
+    {
+      "album": {
         "name": "I Got The Cheese",
         "url": "https://open.spotify.com/album/78eUQoVk2kfhqPqOhIv9Ew"
       },
@@ -11284,6 +11364,24 @@
       "duration_ms": 202560,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6a7Vnxz6aezPxdKPTF72Yb"
+    },
+    {
+      "album": {
+        "name": "I Like It",
+        "url": "https://open.spotify.com/album/2kEXuGSEcp6XROaJfOThDD"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/3L6EghIKQmanSLXpSsgaaN"
     },
     {
       "album": {
@@ -13503,6 +13601,28 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
+    },
+    {
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
       },
@@ -14589,6 +14709,28 @@
     },
     {
       "album": {
+        "name": "Low Rider (Kyle Watson Remix)",
+        "url": "https://open.spotify.com/album/2GbMNQQT9q4Y3ULVdmwbji"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+        },
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200788,
+      "name": "Low Rider - Kyle Watson Remix",
+      "url": "https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG"
+    },
+    {
+      "album": {
         "name": "Madhouse",
         "url": "https://open.spotify.com/album/2iP0400PbH6t0W7X4nalH8"
       },
@@ -14742,6 +14884,24 @@
       "duration_ms": 196404,
       "name": "Make This Mofo",
       "url": "https://open.spotify.com/track/26L76W2WTYHDTNVj5Lc4d4"
+    },
+    {
+      "album": {
+        "name": "Make U Sweat",
+        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148730,
+      "name": "Make U Sweat",
+      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
     },
     {
       "album": {
@@ -16869,6 +17029,32 @@
     },
     {
       "album": {
+        "name": "Never Leave You (Uh Oh)",
+        "url": "https://open.spotify.com/album/1sssFgcui6LQhjkvTKwRUb"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "AtcG",
+          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
+        },
+        {
+          "name": "Sara De Sanctis",
+          "url": "https://open.spotify.com/artist/3oKKcd37PpjAdDqRuDzGwK"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "Never Leave You (Uh Oh) - Club Mix",
+      "url": "https://open.spotify.com/track/6vS4QHhODz5P779tfqIzB4"
+    },
+    {
+      "album": {
         "name": "Never Thought [Printworks]",
         "url": "https://open.spotify.com/album/0MMwTEnSyr3w6T1D01XNR6"
       },
@@ -17604,7 +17790,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 165242,
       "name": "On & On",
       "url": "https://open.spotify.com/track/1xgRUkB6OZH70aFtTGkk9n"
@@ -21586,7 +21772,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 219375,
       "name": "Share My Love",
       "url": "https://open.spotify.com/track/5ty8HYH9f1xQuWoPuijYXf"
@@ -24652,7 +24838,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 156923,
       "name": "The Master",
       "url": "https://open.spotify.com/track/7lFrPi52k2FgW2C5DbmTvk"
@@ -25594,7 +25780,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 217920,
       "name": "Toxic Trip",
       "url": "https://open.spotify.com/track/3j3qSyaPJt5Gnwu4MRqqZ0"

@@ -4,7 +4,7 @@
 
 > Listen to the hottest songs from LGBTQIA+ artists in 2023\. Cover: Sam Smith
 
-1,010 songs - 2 day 6 hr 58 min
+1,011 songs - 2 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,7 +698,8 @@
 | [Pintas de punki](https://open.spotify.com/track/3pYacQzqMUP25Tz1UuJzFL) | [mis amigas fuman todas](https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me) | [Pintas de punki](https://open.spotify.com/album/7f6EA73EsumyisyCgmjHyS) | 3:06 | 2023-03-07 | 2023-04-01 |
 | [Play God](https://open.spotify.com/track/1JeNe2MbM5ho0WpCXOCbJ8) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Play God](https://open.spotify.com/album/7E9KWeTboK20nXJ5bzMElQ) | 3:47 | 2023-11-14 | 2023-11-30 |
 | [Play It Cool](https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Play It Cool](https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa) | 2:43 | 2023-05-16 | 2023-06-02 |
-| [Playing Around](https://open.spotify.com/track/1u4dJb0Xnl6B2txgNk5P2c) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Playing Around](https://open.spotify.com/album/7zLdtN7TW0SGaasMU6cZFT) | 2:38 | 2023-01-24 |  |
+| [Playing Around](https://open.spotify.com/track/1u4dJb0Xnl6B2txgNk5P2c) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Playing Around](https://open.spotify.com/album/7zLdtN7TW0SGaasMU6cZFT) | 2:38 | 2023-01-24 | 2023-12-09 |
+| [Playing Around](https://open.spotify.com/track/7q6UMF3jrrusd65LlQ5qvZ) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Playing Around](https://open.spotify.com/album/5MxYbwS1acKx2A6sT8u2g6) | 2:38 | 2023-11-29 |  |
 | [Playing God](https://open.spotify.com/track/6ql1z5p5t2OXMxIxsRcYUu) | [Katie Buxton](https://open.spotify.com/artist/6HIvdxEp3DJ5IoiPcqIquO) | [Playing God](https://open.spotify.com/album/5kTZtPSbsQOIvVIjWz3FPb) | 3:43 | 2022-04-01 | 2022-07-27 |
 | [PLS DADDY](https://open.spotify.com/track/11LItHLzC70mIBzlifYCPU) | [Robin Solf](https://open.spotify.com/artist/0s2mgqgMuYfyB1c5rysyXL) | [PLS DADDY](https://open.spotify.com/album/1yMKq2OFt9PGa9e7fiBRCI) | 2:10 | 2023-06-30 | 2023-07-12 |
 | [Pluto](https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Pluto](https://open.spotify.com/album/6Iwf7mZlw59EtjlnLPzki9) | 3:51 | 2021-12-17 | 2022-03-26 |

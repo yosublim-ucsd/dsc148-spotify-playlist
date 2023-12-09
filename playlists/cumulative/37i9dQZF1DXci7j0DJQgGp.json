@@ -886,6 +886,24 @@
     {
       "album": {
         "name": "C\u2019est La Vie",
+        "url": "https://open.spotify.com/album/2oqDbd9Hmbp6RinQQmZNWd"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205823,
+      "name": "C'est La Vie No.2",
+      "url": "https://open.spotify.com/track/3my5gLh7Ow54FerRCRInRC"
+    },
+    {
+      "album": {
+        "name": "C\u2019est La Vie",
         "url": "https://open.spotify.com/album/2Ex277htheVs9aDi6svcsv"
       },
       "artists": [
@@ -3142,7 +3160,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 200946,
       "name": "It Ain\u2019t Easy",
       "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"

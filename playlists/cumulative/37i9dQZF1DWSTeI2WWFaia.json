@@ -1249,6 +1249,40 @@
     },
     {
       "album": {
+        "name": "Flying Objects (Extended Version)",
+        "url": "https://open.spotify.com/album/5dZKoTH8rRl5DDqU5lmn3a"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341233,
+      "name": "Beyond Spiritual (feat. Wiz Khalifa, Big K.R.I.T. & Curren$y)",
+      "url": "https://open.spotify.com/track/2Fy4jOsRb58vn9bgJw1TxA"
+    },
+    {
+      "album": {
         "name": "Champagne For Breakfast",
         "url": "https://open.spotify.com/album/5pA2URj3rPHWDoSnInQpjD"
       },
@@ -2674,7 +2708,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 171989,
       "name": "Dead Men (feat. Cozz)",
       "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
@@ -5868,7 +5902,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 198609,
       "name": "Kobe Season",
       "url": "https://open.spotify.com/track/0x3uu7hZ4AzK91djvxPagF"
@@ -6899,6 +6933,32 @@
     },
     {
       "album": {
+        "name": "Mind Tricks",
+        "url": "https://open.spotify.com/album/0KG3a7se4qwgsvxPge3myG"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        },
+        {
+          "name": "KNDRX",
+          "url": "https://open.spotify.com/artist/3w3sVV7gANjfBWFb4cMSXT"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Mind Tricks",
+      "url": "https://open.spotify.com/track/60vdXqY6OJf78HFc5qwaBG"
+    },
+    {
+      "album": {
         "name": "G.R.A.M.S.",
         "url": "https://open.spotify.com/album/1UQHTiRtuGTCTvwIFDcKkZ"
       },
@@ -7060,7 +7120,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 174545,
       "name": "Montagna",
       "url": "https://open.spotify.com/track/5mk53q4ragqU6CMaTH6JQ3"
@@ -7792,6 +7852,28 @@
       "duration_ms": 232017,
       "name": "Office Hours (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
+    },
+    {
+      "album": {
+        "name": "One Foot In",
+        "url": "https://open.spotify.com/album/6lngN4MM1P71ocrwive5Cg"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164501,
+      "name": "One Foot In (with Stove God Cooks)",
+      "url": "https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy"
     },
     {
       "album": {

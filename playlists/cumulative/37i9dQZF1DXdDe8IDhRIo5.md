@@ -4,7 +4,7 @@
 
 > Django and beyond.
 
-102 songs - 6 hr 17 min
+103 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Nymphéas](https://open.spotify.com/track/40nqi9rHYgwlw688GfD2zr) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Nymphéas](https://open.spotify.com/album/4xZ3oe0Ia3VG2dqjTgYigE) | 4:31 | 2022-05-20 |  |
 | [One for Nieb](https://open.spotify.com/track/5Gw7MeQTfT7WXrn5f14mm8) | [Paulo Morello](https://open.spotify.com/artist/7HOLgdn03zAzkJ0c1Rdzv0), [Mulo Francel](https://open.spotify.com/artist/4ZfWg40EXHfCUiXHOIfRsI), [Sven Faller](https://open.spotify.com/artist/498SI25eedUQQUqzrf74NF) | [One for Nieb](https://open.spotify.com/album/5ohscyS9sYAT7AEKR8avFd) | 5:29 | 2022-02-04 | 2022-07-29 |
 | [One for Nieb](https://open.spotify.com/track/6gXB8XHdXAXtZn0GAnLmWg) | [Paulo Morello](https://open.spotify.com/artist/7HOLgdn03zAzkJ0c1Rdzv0), [Mulo Francel](https://open.spotify.com/artist/4ZfWg40EXHfCUiXHOIfRsI), [Sven Faller](https://open.spotify.com/artist/498SI25eedUQQUqzrf74NF) | [Living Is Easy, Mostly](https://open.spotify.com/album/0fssDBwchxUnVYVZ30MuHp) | 5:29 | 2022-02-04 |  |
-| [Place du Swing](https://open.spotify.com/track/4PuBOTid6MaWmqdAj2D9nc) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [Carte Blanche](https://open.spotify.com/album/7eYyziAjk0yVs7Ozha0NAs) | 4:03 | 2023-07-21 |  |
+| [Place Du Swing](https://open.spotify.com/track/1A5y1IjiYtAjYGtZecUUpV) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [Where Does It Go from Here?](https://open.spotify.com/album/6qEJC5MwUxqI3PigfNmvqj) | 4:03 | 2023-07-21 |  |
+| [Place du Swing](https://open.spotify.com/track/4PuBOTid6MaWmqdAj2D9nc) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [Carte Blanche](https://open.spotify.com/album/7eYyziAjk0yVs7Ozha0NAs) | 4:03 | 2023-07-21 | 2023-12-09 |
 | [Place du Swing](https://open.spotify.com/track/5ybS0DddQYx9gO6YKtFcIQ) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [Place du swing](https://open.spotify.com/album/3S4mE5XrpQcV2w0CPLhOIB) | 4:03 | 2023-07-21 | 2023-10-24 |
 | [Place du Swing](https://open.spotify.com/track/6yEqWdVTUt0wvOp1Ycs1sN) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [Valse Volant](https://open.spotify.com/album/4DNTwU5pKqjKIPQ6u1SaiE) | 4:03 | 2023-07-21 | 2023-09-19 |
 | [Place du Swing](https://open.spotify.com/track/7g55UW2Aln5Kx2aHDyhVxL) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [Salut du Combo](https://open.spotify.com/album/4rtN36lSpDvxHr0JPIf2uF) | 4:03 | 2023-07-21 | 2023-10-13 |

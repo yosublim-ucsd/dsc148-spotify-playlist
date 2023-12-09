@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,511 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,550 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Muita Bobeira](https://open.spotify.com/track/3yWwPTIZAw9qYkH1L3tIdO) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Duos II](https://open.spotify.com/album/5HBHLmP3Zv5Qc1a5NdguBn) | 2:52 |
 | 100 | [Luces](https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 4:53 |
 
-Snapshot ID: `MCw0ZWE4Y2UyNDdiNjllYTk0MDA5NmJiZTMwMjc3NWJhNjNkMzQ2YWFl`
+Snapshot ID: `MCw0NmQxMTg1Yjc2NDE3OTZiODIwODZjYTM5N2I3ZDFjMmRiZjhkNjcy`

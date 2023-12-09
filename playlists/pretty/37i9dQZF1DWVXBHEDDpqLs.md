@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,500 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,510 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 97 | [I Said](https://open.spotify.com/track/4Memi5MoLKZVCELuMCa3ku) | [Kade Young](https://open.spotify.com/artist/0HuyMTJ3Nd3JQsOfDrGYVT) | [I Said](https://open.spotify.com/album/3dRwrDrZAVZuUnPQ0mZCde) | 2:58 |
 | 98 | [Dance](https://open.spotify.com/track/3fgbDLcBPZlpvpuQh3RqCL) | [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0), [DJ Beast Baltimore](https://open.spotify.com/artist/4IXgBHhKrwz40lIHFNSGzS) | [Dance](https://open.spotify.com/album/7umROuCtAPm20KzC8PW6m5) | 2:26 |
 | 99 | [Deep Down](https://open.spotify.com/track/1eGZJFuBUorRGAx3GGC4dR) | [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m), [Divine](https://open.spotify.com/artist/11ycSvFZCC0BFloxOAaray) | [Deep Down](https://open.spotify.com/album/3e2suSs2luyHB3Dy5FNCDZ) | 3:12 |
-| 100 | [Eyes On Me \- Solardo Remix](https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U) | [Chelley](https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Eyes On Me \(Solardo Remix\)](https://open.spotify.com/album/3t7TCJ10JcLJR6ZYqbRONr) | 2:30 |
+| 100 | [FIJI WATER](https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k) | [MONEYONYOURMIND](https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [FIJI WATER](https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk) | 2:16 |
 
-Snapshot ID: `MCw0ZmI4NzI5ZmY5ODA1NWExZjEzMTMyMDk5ZTg0NGRjNmU2YzFjZDc4`
+Snapshot ID: `MCxlNWUyYjdhM2UyNTI4ZjlhNjIxNWNlYjJmYmI4MmQzM2RkMzRiZTE2`

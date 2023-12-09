@@ -3164,7 +3164,7 @@
     {
       "album": {
         "name": "insomnia world",
-        "url": "https://open.spotify.com/album/67nC7MbJUYisiKwP1WfzPv"
+        "url": "https://open.spotify.com/album/5i51JypSNg66fyYkGONDCa"
       },
       "artists": [
         {
@@ -3187,6 +3187,36 @@
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137379,
+      "name": "insomnia world",
+      "url": "https://open.spotify.com/track/1uMDNdT82iN9VsfINJ7ChV"
+    },
+    {
+      "album": {
+        "name": "insomnia world",
+        "url": "https://open.spotify.com/album/67nC7MbJUYisiKwP1WfzPv"
+      },
+      "artists": [
+        {
+          "name": "Insomnia",
+          "url": "https://open.spotify.com/artist/2sGeNPQoc4qsSOzwB2H9yf"
+        },
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7"
+        },
+        {
+          "name": "ascii",
+          "url": "https://open.spotify.com/artist/0FJAEsqXrLPtaOjr1xygEO"
+        },
+        {
+          "name": "YSMA",
+          "url": "https://open.spotify.com/artist/79RbvSXUWFakY0L3LFef51"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
       "duration_ms": 137379,
       "name": "insomnia world",
       "url": "https://open.spotify.com/track/57ScqdklA6LB7zXhweVF1c"

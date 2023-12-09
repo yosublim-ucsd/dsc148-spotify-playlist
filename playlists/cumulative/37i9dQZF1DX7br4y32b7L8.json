@@ -3157,6 +3157,24 @@
     },
     {
       "album": {
+        "name": "Meer Niet Minder",
+        "url": "https://open.spotify.com/album/5iZ9vkNLhGfQvAYTgJVP6o"
+      },
+      "artists": [
+        {
+          "name": "Schoppenvier",
+          "url": "https://open.spotify.com/artist/2G4yKSjBFu05HsEkxkYZwV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Meer Niet Minder",
+      "url": "https://open.spotify.com/track/6ZLenpFuI8pxKkqmi2feSj"
+    },
+    {
+      "album": {
         "name": "Meisjes lopen sneller",
         "url": "https://open.spotify.com/album/2kfLBi7ezCQRJfMHH11ZGx"
       },

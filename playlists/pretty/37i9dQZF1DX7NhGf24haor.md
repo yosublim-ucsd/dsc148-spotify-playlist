@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Gunz For Hire \(Ran\-D & Adaro\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,813 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,042 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 2 | [Arabian Nights](https://open.spotify.com/track/4i4KAZzbz2LIf9AoZNqp6t) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Bram Boender](https://open.spotify.com/artist/1VUCpVmcvvkZ9W65lm7Wob) | [Arabian Nights](https://open.spotify.com/album/2uun19aNDXcQxa1Pa827hX) | 3:17 |
 | 3 | [Trouble](https://open.spotify.com/track/2DtksILTdrKLY2wB05iA8f) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [Trouble](https://open.spotify.com/album/4BL933LPw3SAtBxSVzabDr) | 2:39 |
 | 4 | [MADE FOR YOU](https://open.spotify.com/track/2gRlN8SSpFocZKUqqSDNOy) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [RAVE LOVE PT.2](https://open.spotify.com/album/3p3wFoUkTRpFah1PqWWfTK) | 4:15 |
-| 5 | [Bring The Fire](https://open.spotify.com/track/77s5PJsYbv9wkTBNSbI5EI) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [A New Decade](https://open.spotify.com/album/74OTp7REGaYuxV3On4hHLm) | 3:12 |
+| 5 | [Bring The Fire](https://open.spotify.com/track/3ltWDlBkU2UNdS7rbQVTRP) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [A New Decade](https://open.spotify.com/album/4VOgerUKF1flW6PupyI1Y6) | 3:12 |
 | 6 | [Reflected Reality \- Official Shockerz 2023 Anthem](https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Reflected Reality \(Official Shockerz 2023 Anthem\)](https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx) | 3:55 |
 | 7 | [Sandstorm](https://open.spotify.com/track/2yyaTlex3YaCat520CSzti) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Sandstorm](https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a) | 3:08 |
 | 8 | [Blood Sugar](https://open.spotify.com/track/4PgNET8VJxNSZYl8ywBuc2) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Blood Sugar](https://open.spotify.com/album/5y9YW2YriPyHx54lNo7Qi5) | 3:27 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 107 | [The Best Night](https://open.spotify.com/track/5RdqaD1NJS8CFxDogGEj7w) | [X.AYA](https://open.spotify.com/artist/61QYj9ZPwaO68IxP6mhooq), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [The Best Night](https://open.spotify.com/album/6HXupTPN8q8nTFWL5S43yg) | 2:42 |
 | 108 | [Bound By Blood](https://open.spotify.com/track/0urHN48EcZuLqImG7ASp98) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Bound By Blood](https://open.spotify.com/album/2fH2mZmPLKbWrnFBdQ90gw) | 3:45 |
 
-Snapshot ID: `MCw4ZDc3YmNjNDAzZjVmNTMxNjRmOWZlMDU2NDJjZmFjMmIwZDkzZGFh`
+Snapshot ID: `MCw5NGYzYjUwOWM5NjQxYjQ3MmJiNTExZTc4ODc0NGY2OTQ0OTBmNDg4`

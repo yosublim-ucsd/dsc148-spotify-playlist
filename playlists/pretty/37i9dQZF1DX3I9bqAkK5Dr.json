@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : Damini Bhatla, Krishna Tejasvi",
-  "num_followers": 31224,
+  "num_followers": 31237,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzk4OGIwNmFlYWNjODA3YTBhNTlkZTFhMWM3Zjg5ZTA5NGM4Mzc0",
+  "snapshot_id": "MCxlY2NlNWI1MmI4MTM0MGYxOWUzMjg3NTYyODUyMDBmM2M4NDkxNWM4",
   "tracks": [
     {
       "added_at": "2023-10-10 05:04:58",
@@ -43,6 +43,46 @@
       "duration_ms": 206285,
       "name": "Senorita",
       "url": "https://open.spotify.com/track/3sOIbX8Z78FhbGlkEyyGik"
+    },
+    {
+      "added_at": "2023-12-08 04:43:25",
+      "album": {
+        "name": "The Flandy Song (feat. Nawab Gang, Suparna Vontair & Abhijeeth Dubey)",
+        "url": "https://open.spotify.com/album/6Gi5ZYgaQtORcGLg6l1mN7"
+      },
+      "artists": [
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        },
+        {
+          "name": "Damini Bhatla",
+          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
+        },
+        {
+          "name": "Asura",
+          "url": "https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6"
+        },
+        {
+          "name": "Yashwanth Nag",
+          "url": "https://open.spotify.com/artist/3bKJ5PWY9uLhNGhTKiBrlG"
+        },
+        {
+          "name": "Nawab Gang",
+          "url": "https://open.spotify.com/artist/6b0vYJgno5fBgu3UJBPXst"
+        },
+        {
+          "name": "Suparna Vontair",
+          "url": "https://open.spotify.com/artist/6NMChauRkbcKF15Z6epcJf"
+        },
+        {
+          "name": "Abhijeeth Dubey",
+          "url": "https://open.spotify.com/artist/1wSCJisCGYABc4gPDlJfMj"
+        }
+      ],
+      "duration_ms": 191217,
+      "name": "The Flandy Song (feat. Nawab Gang, Suparna Vontair & Abhijeeth Dubey)",
+      "url": "https://open.spotify.com/track/1LSoTJCXu849hRwA7YBnqg"
     },
     {
       "added_at": "2023-11-15 13:02:41",
@@ -1247,30 +1287,6 @@
       "duration_ms": 171428,
       "name": "Oohale Oosule",
       "url": "https://open.spotify.com/track/4lyl9K1D7syj1d0LL8nNGA"
-    },
-    {
-      "added_at": "2023-04-06 11:00:18",
-      "album": {
-        "name": "Padessave Pilla",
-        "url": "https://open.spotify.com/album/58o4XflfE94ZzJlU7iySkA"
-      },
-      "artists": [
-        {
-          "name": "Harsha Prawin",
-          "url": "https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1"
-        },
-        {
-          "name": "Venkat Chaitanya",
-          "url": "https://open.spotify.com/artist/2GNR01LjMoSuhvp4GSuFX8"
-        },
-        {
-          "name": "Vijay Bhanu",
-          "url": "https://open.spotify.com/artist/3kGye1N1zSbmdG81klESLO"
-        }
-      ],
-      "duration_ms": 186594,
-      "name": "Padessave Pilla",
-      "url": "https://open.spotify.com/track/3rXoZn6p4OY6gYqPV9A9ko"
     },
     {
       "added_at": "2023-03-23 05:05:41",

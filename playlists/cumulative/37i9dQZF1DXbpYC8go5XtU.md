@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-219 songs - 17 hr 28 min
+221 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aru](https://open.spotify.com/track/3imnDatPTaEg1Y1SuBlvEs) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Hibi](https://open.spotify.com/album/2ilbAhaYpdlFGe5e3FzRhS) | 2:46 | 2021-12-22 |  |
 | [Ashore](https://open.spotify.com/track/7okAPL9Qoj88byNDbuIjiV) | [Ebauche](https://open.spotify.com/artist/5n0eez6NwUmuLTn2AwA0i3) | [Adrift](https://open.spotify.com/album/19jaJ8g4HUynwp0fREHFe4) | 9:20 | 2021-12-22 |  |
 | [Assured](https://open.spotify.com/track/2yUD0XuUPhhM3l3M6if6Jh) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Headwaters](https://open.spotify.com/album/4zw3XeZ8dDXuUDcd1flLtl) | 7:23 | 2022-11-11 |  |
+| [Autumn Foliage](https://open.spotify.com/track/3sHq1QNjfj9Niq1Hb6KXuE) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [Queens of the Dream World](https://open.spotify.com/artist/3CyLUmnwr7NReZg4Hm4EWz) | [Elven Forest Ambient Dreamscapes](https://open.spotify.com/album/1dd9NpR3ulY1o0Pihk1RrP) | 2:39 | 2023-12-04 |  |
 | [Awake \(Delightful Music Textures For Sleeping\)](https://open.spotify.com/track/5e62DsPlpwc649qy7yOvhd) | [Medicine Music](https://open.spotify.com/artist/5t7xC9DNiemIbOpo1GP10J) | [ODYSSEY \(Delightful Music Textures For Sleeping\)](https://open.spotify.com/album/6TmyNcxtcISn5tne5TDh2Q) | 1:25 | 2023-01-27 | 2023-10-06 |
 | [Ballad of a Sleepless Traveler](https://open.spotify.com/track/1o5IIGHsAPrOcehvvfmP7K) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Ballad of a Sleepless Traveler](https://open.spotify.com/album/0lk0cAw5RSaFwEbEJrnxoT) | 3:37 | 2022-05-25 |  |
 | [beautiful soundscape \- Spa Edit](https://open.spotify.com/track/6w9GkQiwwzCv9N1LXeyBds) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [beautiful soundscape \(Spa Edit\)](https://open.spotify.com/album/0vr9IDaXieLwJeEmn1RQxV) | 3:24 | 2021-12-22 |  |
@@ -74,6 +75,7 @@
 | [Imaginary Soundscape II, Postcard Four](https://open.spotify.com/track/2lE2t3noIZ1WBa1Ekf4qcx) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:09 | 2021-12-22 |  |
 | [Imaginary Soundscape III, Postcard Two](https://open.spotify.com/track/4Onuwx9ruFbjuLQi9zU0w2) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:41 | 2021-12-22 |  |
 | [Immerse](https://open.spotify.com/track/59pY24i8At7QE6hH75ag0i) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL), [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [Immerse](https://open.spotify.com/album/4lSgERc8JliAQCG0LMfS3X) | 4:25 | 2022-09-23 |  |
+| [In the Mirror](https://open.spotify.com/track/5Hb4ibFJyxsQeA7zlVvbCH) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ), [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Summer Chronicles](https://open.spotify.com/album/3kXTpQS86OJ2U5yt1GP2y3) | 2:47 | 2023-12-04 |  |
 | [Inpour](https://open.spotify.com/track/4lShevCVGTcmaE51KyB87e) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Darkest Place](https://open.spotify.com/album/6Os8YfXapiTML5ZJIXmVfp) | 4:29 | 2021-12-22 |  |
 | [Into The Blue](https://open.spotify.com/track/3QYlpiYbm1tzXa0yKvKvo6) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 3:54 | 2022-05-18 |  |
 | [Japanese Meditation](https://open.spotify.com/track/4OG6VAfkY5Z2ZiDsitnjDs) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 3:00 | 2021-12-22 |  |
@@ -90,7 +92,7 @@
 | [Melodica](https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 3:39 | 2022-09-07 |  |
 | [Melon City](https://open.spotify.com/track/4jmrVb5sGRXBzxqxceVTOK) | [Dream Carpets](https://open.spotify.com/artist/3SKUZkAW7rWwREfd0qt3LY) | [Interior Fountains](https://open.spotify.com/album/0Xm7NaLPApbyKZigoJl2lJ) | 10:06 | 2021-12-22 | 2023-05-27 |
 | [Midnight](https://open.spotify.com/track/6eIgX83EFYk0zUnCznpxq1) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK), [Kenji Kihara](https://open.spotify.com/artist/56NSyAdmTubt4VsZ4SOVJ8) | [Clouds and Waves](https://open.spotify.com/album/2XXW74ft0AGkR32Triofua) | 4:45 | 2021-12-22 |  |
-| [Mir](https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE) | 11:28 | 2023-03-16 |  |
+| [Mir](https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE) | 11:28 | 2023-03-16 | 2023-12-09 |
 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2021-12-22 | 2023-03-26 |
 | [Morgenånder](https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Hidden Terraces](https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c) | 18:07 | 2021-12-22 | 2023-07-07 |
 | [Morning Energy](https://open.spotify.com/track/7q3nvwGs9BTXP6syRF8JgL) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Morning Energy](https://open.spotify.com/album/5hX1qUBCqJ28wtQovxDRXH) | 2:00 | 2023-01-16 |  |
@@ -196,7 +198,7 @@
 | [Triennale](https://open.spotify.com/track/4Ly1RN4O1aBZruEPJtxfjC) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/6NhNNVgJ1w3pf1AOzAjSN3) | 4:06 | 2023-07-07 |  |
 | [tsukimi dango \- Meditation](https://open.spotify.com/track/42tLQymkJ8SlkSl7Mebyrt) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tsukimi dango](https://open.spotify.com/album/3iof4fuNnejiULldVY8Z1R) | 3:02 | 2022-05-06 |  |
 | [Twilight \(Delightful Music Textures For Sleeping\)](https://open.spotify.com/track/3n0zXFGAE9WY3fVdVX4gX0) | [Medicine Music](https://open.spotify.com/artist/5t7xC9DNiemIbOpo1GP10J) | [TWILIGHT \(Delightful Music Textures For Sleeping\)](https://open.spotify.com/album/3PvNMCFPpwBhgCgKRk0IB2) | 1:11 | 2023-01-27 | 2023-10-06 |
-| [Und](https://open.spotify.com/track/0Zseawrdx3aB2JJp0UbknM) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:24 | 2021-12-22 |  |
+| [Und](https://open.spotify.com/track/0Zseawrdx3aB2JJp0UbknM) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:24 | 2021-12-22 | 2023-12-09 |
 | [Under The Thunder](https://open.spotify.com/track/4L7K2qGigEOYYfAtpgIswc) | [Now Unlimited](https://open.spotify.com/artist/1D1sQVMQGI56YYpFMeO7xS) | [Euphoric Forest](https://open.spotify.com/album/6HrO27BUeHUoFvTKNljTcr) | 2:00 | 2022-11-11 |  |
 | [Vienna](https://open.spotify.com/track/2CZm12Kpg0i9o5h07ZEgNb) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 2:11 | 2021-12-22 | 2023-01-09 |
 | [Vienna](https://open.spotify.com/track/2lKNGpiuqPUnQTbhMYjJ9T) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Gradients](https://open.spotify.com/album/4j1o6OTO5ff3UABzIqHnhx) | 2:11 | 2023-01-06 | 2023-09-09 |

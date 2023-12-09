@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > El soundtrack oficial de la Liga Mexicana de Beisbol ⚾️🏟🧢
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,903 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,915 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 124 | [Oye](https://open.spotify.com/track/04JEvxmdGP93VzXekCxoJZ) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 2:35 |
 | 125 | [Vestido Rojo](https://open.spotify.com/track/3Uitq3sF1gNMOGDMCbolhh) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [20 Éxitos](https://open.spotify.com/album/1qPiKFJw97JSrDCrv0U6oe) | 4:17 |
 
-Snapshot ID: `MCxlZjVhN2M2OTQ4YWY3YzQ0ZWJhMTQxNDhmMjRhMjYxZWQ1NDY5OWFh`
+Snapshot ID: `MCwyNDhkYTFkODRiZWNjMDY2NDFmNDk0ZjA2ZmE0NDQxYjYyZGRmNWEz`

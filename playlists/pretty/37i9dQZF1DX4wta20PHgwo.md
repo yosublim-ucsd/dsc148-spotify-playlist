@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,071,725 likes - 200 songs - 18 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,072,018 likes - 200 songs - 18 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 199 | [Nefertiti](https://open.spotify.com/track/2HdqSqyzDeleLnKRMhKEdl) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Artur Tuźnik](https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k) | [The Shortlist](https://open.spotify.com/album/49Qgb95zWh524MQfwJMVvx) | 5:55 |
 | 200 | [As We Were \(feat\. Jared Gold & McClenty Hunter Jr.\)](https://open.spotify.com/track/2GVoBRIR777NoOppqPa5ie) | [Dave Stryker](https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6), [Jared Gold](https://open.spotify.com/artist/5jrT4GPD1AtHhvHR3hTsvW), [McClenty Hunter Jr.](https://open.spotify.com/artist/1d6NjSLLkNWEu6PZ04WfSs) | [Prime](https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI) | 5:25 |
 
-Snapshot ID: `MCxiZmIwYTExZTU1Zjc5OGUzMTIwYjE2ODZkYWRlMjkwMjJmMmUzNjEz`
+Snapshot ID: `MCxjNTJiNjc2ODhhNWZhMzhjZTliNjgwNmNlNWViZGI3YWY5ZGZiNjI3`

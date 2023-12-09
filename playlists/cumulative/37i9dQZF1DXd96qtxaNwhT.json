@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 218040,
       "name": "Colours Of You",
       "url": "https://open.spotify.com/track/0fgb9XN0RUp5phN8UADvsP"
@@ -3043,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167099,
+      "name": "Hard to Love",
+      "url": "https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI"
+    },
+    {
+      "album": {
         "name": "Hate That You Hurt",
         "url": "https://open.spotify.com/album/5JFGwX6w1TzPmxs3jUwsg3"
       },
@@ -3934,6 +3952,24 @@
       "duration_ms": 213333,
       "name": "i should just leave",
       "url": "https://open.spotify.com/track/3W07QZMPnT5qPrTmbT4UCZ"
+    },
+    {
+      "album": {
+        "name": "I Would",
+        "url": "https://open.spotify.com/album/65Phf4Ar2O7uXUn8sflqFI"
+      },
+      "artists": [
+        {
+          "name": "HANNI",
+          "url": "https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201054,
+      "name": "I Would",
+      "url": "https://open.spotify.com/track/1TfyoN21PbOuUQXBkjNjGk"
     },
     {
       "album": {
@@ -5150,7 +5186,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 205493,
       "name": "Lose It All",
       "url": "https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ"
@@ -7856,7 +7892,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 188673,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa"
@@ -8112,6 +8148,24 @@
       "duration_ms": 172880,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0"
+    },
+    {
+      "album": {
+        "name": "Here They Come",
+        "url": "https://open.spotify.com/album/0xFyzrWzYYyRD5H8eVW8QO"
+      },
+      "artists": [
+        {
+          "name": "Eliza Hull",
+          "url": "https://open.spotify.com/artist/1zccMq9Jsy1X4Cs6uQ1T4M"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252653,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4B3IN8Sixp7nToUW7AF3Zx"
     },
     {
       "album": {
@@ -8588,6 +8642,24 @@
       "duration_ms": 268597,
       "name": "The Good Side",
       "url": "https://open.spotify.com/track/4WZMggnO37eRLo58CyOC4p"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/29SqmcxIyuP7GpPJZMhXpT"
+      },
+      "artists": [
+        {
+          "name": "David McCredie",
+          "url": "https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/7Ki24HFDYKZUF3iIctL0k6"
     },
     {
       "album": {
@@ -9390,7 +9462,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 184822,
       "name": "What I Get for Loving You",
       "url": "https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd"

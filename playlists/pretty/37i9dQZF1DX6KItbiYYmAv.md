@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KItbiYYmAv.md) - [plain]
 
 > Hol dir dein Lieblingscafé nach Hause.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,329 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,384 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KItbiYYmAv.md) - [plain]
 | 149 | [Take It Slowly](https://open.spotify.com/track/0GXBDT4AVhWrKKkk2IXlFO) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:52 |
 | 150 | [Old Soul](https://open.spotify.com/track/3ThbiGsMJGSLOUHVxyFQQk) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:06 |
 
-Snapshot ID: `MCwyMzk1YTYzY2Q3YTMyNGU1Yzc2ZGRhMDliOWU4ZDI5Zjg1ZjI3ZDRj`
+Snapshot ID: `MCw1NWIyNjgyMDBlZTdjOTA3MmYxZWM0ODc2NDhjNzIxZTliZjE2NDRj`

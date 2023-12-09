@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 222555,
+  "num_followers": 223352,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWM3MDc3ZWFmOTJkMzIyN2M3ZmE4MTRjYjVjNmE4ZGVlZjEyNDYw",
+  "snapshot_id": "MCxjMzA3MGU2MjQ1OWFiZWZmZWFlNDc2MTQ5MWFiMGJmMGZlZGE1YTVk",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 299373,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
+      "duration_ms": 495186,
+      "name": "I Feel Love - 12\" Version",
+      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 299373,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "The Nightfly",
         "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 363413,
       "name": "I.G.Y.",
       "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "I Feel Love - 12\" Version",
-      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
-      },
-      "artists": [
-        {
-          "name": "Indeep",
-          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
-        }
-      ],
-      "duration_ms": 341426,
-      "name": "Last Night a D.J. Saved My Life",
-      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Get as Much Love as You Can",
         "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 279800,
       "name": "Nights Over Egypt",
       "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
+      },
+      "artists": [
+        {
+          "name": "Indeep",
+          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
+        }
+      ],
+      "duration_ms": 341426,
+      "name": "Last Night a D.J. Saved My Life",
+      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Private Life: The Compass Point Sessions",
-        "url": "https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 498840,
-      "name": "Slave To The Rhythm - Hot Blooded Version",
-      "url": "https://open.spotify.com/track/3di2SUB3jU1v5HPQCkc84L"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Just A Touch Of Love",
         "url": "https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 392733,
       "name": "Just a Touch of Love",
       "url": "https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Private Life: The Compass Point Sessions",
+        "url": "https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 498840,
+      "name": "Slave To The Rhythm - Hot Blooded Version",
+      "url": "https://open.spotify.com/track/3di2SUB3jU1v5HPQCkc84L"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -651,26 +651,6 @@
       "duration_ms": 479629,
       "name": "Aaj Shanibar",
       "url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
-        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
-      },
-      "artists": [
-        {
-          "name": "Grandmaster Flash",
-          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
-        },
-        {
-          "name": "Grandmaster Melle Mel",
-          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "White Lines (Don't Do It)",
-      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -761,7 +741,7 @@
       "artists": [
         {
           "name": "The System",
-          "url": "https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX"
+          "url": "https://open.spotify.com/artist/0Dhlcr8EQOAp0hHbhz1ozR"
         }
       ],
       "duration_ms": 357812,
@@ -851,6 +831,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Modern Heat EP",
+        "url": "https://open.spotify.com/album/2XpgR4dDcY1Z29FX9KtIfB"
+      },
+      "artists": [
+        {
+          "name": "MAM",
+          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
+        }
+      ],
+      "duration_ms": 280417,
+      "name": "Crushed Ice",
+      "url": "https://open.spotify.com/track/6Ne0XHyV9tVZhF1gCtyLPx"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "First True Love Affair",
         "url": "https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq"
       },
@@ -867,18 +863,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "I Can't Get Along Without You",
-        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
+        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
+        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
       "artists": [
         {
-          "name": "Vance and Suzzanne",
-          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
+          "name": "Grandmaster Flash",
+          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
+        },
+        {
+          "name": "Grandmaster Melle Mel",
+          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
         }
       ],
-      "duration_ms": 400000,
-      "name": "I Can't Get Along Without You",
-      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
+      "duration_ms": 269666,
+      "name": "White Lines (Don't Do It)",
+      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "I Can't Get Along Without You",
+        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
+      },
+      "artists": [
+        {
+          "name": "Vance and Suzzanne",
+          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "I Can't Get Along Without You",
+      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Sound System",
         "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 337773,
       "name": "The Magnificent Dance",
       "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Modern Heat EP",
-        "url": "https://open.spotify.com/album/2XpgR4dDcY1Z29FX9KtIfB"
-      },
-      "artists": [
-        {
-          "name": "MAM",
-          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
-        }
-      ],
-      "duration_ms": 280417,
-      "name": "Crushed Ice",
-      "url": "https://open.spotify.com/track/6Ne0XHyV9tVZhF1gCtyLPx"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Straight From The Heart",
-        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 408142,
-      "name": "Number One - 12\" Version",
-      "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Hi-Life",
         "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 540986,
       "name": "Disco Hi - Life",
       "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Straight From The Heart",
+        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 408142,
+      "name": "Number One - 12\" Version",
+      "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+        "name": "Is It All Over My Face?",
+        "url": "https://open.spotify.com/album/4G6WjvXgMQQFskCBBQFi7N"
       },
       "artists": [
         {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+          "name": "Loose Joints",
+          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
         }
       ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
+      "duration_ms": 427978,
+      "name": "Is It All over My Face? (Female Version) (2012 - Remaster)",
+      "url": "https://open.spotify.com/track/7lwTSaPgRxgnlkmFCSKtIw"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1123,6 +1123,22 @@
       "duration_ms": 396546,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1207,34 +1223,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Is It All Over My Face?",
-        "url": "https://open.spotify.com/album/4G6WjvXgMQQFskCBBQFi7N"
+        "name": "Love in a Black Dimension",
+        "url": "https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc"
       },
       "artists": [
         {
-          "name": "Loose Joints",
-          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
+          "name": "Jestofunk",
+          "url": "https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA"
         }
       ],
-      "duration_ms": 427978,
-      "name": "Is It All over My Face? (Female Version) (2012 - Remaster)",
-      "url": "https://open.spotify.com/track/7lwTSaPgRxgnlkmFCSKtIw"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
-        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
-      },
-      "artists": [
-        {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
-        }
-      ],
-      "duration_ms": 423240,
-      "name": "Found a Cure - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
+      "duration_ms": 338426,
+      "name": "For Your Precious Love",
+      "url": "https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love in a Black Dimension",
-        "url": "https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc"
+        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
+        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
       "artists": [
         {
-          "name": "Jestofunk",
-          "url": "https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA"
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
         }
       ],
-      "duration_ms": 338426,
-      "name": "For Your Precious Love",
-      "url": "https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN"
+      "duration_ms": 423240,
+      "name": "Found a Cure - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
-        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
         }
       ],
-      "duration_ms": 438199,
-      "name": "Haven't You Heard - 12\" Version",
-      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1363,6 +1347,22 @@
       "duration_ms": 259415,
       "name": "You're a Melody - Extended Disco Version",
       "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 438199,
+      "name": "Haven't You Heard - 12\" Version",
+      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Taana Gardner",
+        "url": "https://open.spotify.com/album/3Cry53QsMK0kF7Z59FUml0"
+      },
+      "artists": [
+        {
+          "name": "Taana Gardner",
+          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+        }
+      ],
+      "duration_ms": 587029,
+      "name": "Heartbeat (Club Mix) (2012 - Remaster)",
+      "url": "https://open.spotify.com/track/281WOsKoaGN9lMttUL7tjs"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Paradise (Remastered)",
         "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Early Recordings",
-        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
-      },
-      "artists": [
-        {
-          "name": "Patchworks",
-          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
-        }
-      ],
-      "duration_ms": 330013,
-      "name": "Brothers on the Slide - Brooklyn Mix",
-      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Chicago Service",
         "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 328858,
       "name": "Disco Fantasy",
       "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Early Recordings",
+        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
+      },
+      "artists": [
+        {
+          "name": "Patchworks",
+          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
+        }
+      ],
+      "duration_ms": 330013,
+      "name": "Brothers on the Slide - Brooklyn Mix",
+      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Baby",
-        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
       },
       "artists": [
         {
-          "name": "Y. Gershovsky",
-          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
         }
       ],
-      "duration_ms": 229734,
-      "name": "Disco Baby - Floating Points & Red Greg Edit",
-      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
+      "duration_ms": 406533,
+      "name": "When You Wake up Tomorrow",
+      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1547,50 +1563,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Taana Gardner",
-        "url": "https://open.spotify.com/album/3Cry53QsMK0kF7Z59FUml0"
+        "name": "Disco Baby",
+        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
       },
       "artists": [
         {
-          "name": "Taana Gardner",
-          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+          "name": "Y. Gershovsky",
+          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
         }
       ],
-      "duration_ms": 587029,
-      "name": "Heartbeat (Club Mix) (2012 - Remaster)",
-      "url": "https://open.spotify.com/track/281WOsKoaGN9lMttUL7tjs"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 406533,
-      "name": "When You Wake up Tomorrow",
-      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Gwen McCrae: Cat & Atlantic Years",
-        "url": "https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "All This Love That I'm Givin'",
-      "url": "https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu"
+      "duration_ms": 229734,
+      "name": "Disco Baby - Floating Points & Red Greg Edit",
+      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1639,18 +1623,34 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
+        "name": "Gwen McCrae: Cat & Atlantic Years",
+        "url": "https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt"
       },
       "artists": [
         {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
         }
       ],
-      "duration_ms": 284985,
-      "name": "Lypso Illusion",
-      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
+      "duration_ms": 233306,
+      "name": "All This Love That I'm Givin'",
+      "url": "https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Dancing in Outer Space",
+        "url": "https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r"
+      },
+      "artists": [
+        {
+          "name": "Atmosfear",
+          "url": "https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF"
+        }
+      ],
+      "duration_ms": 577093,
+      "name": "Dancing in Outer Space",
+      "url": "https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH"
     }
   ],
   "unique_name": "Disco Hi-Life",

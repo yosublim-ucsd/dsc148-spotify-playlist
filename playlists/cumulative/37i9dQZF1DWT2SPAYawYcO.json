@@ -1390,10 +1390,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 220355,
       "name": "Affection",
       "url": "https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm"
+    },
+    {
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3"
+      },
+      "artists": [
+        {
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220355,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM"
     },
     {
       "album": {
@@ -5138,7 +5156,7 @@
     {
       "album": {
         "name": "PUSHER",
-        "url": "https://open.spotify.com/album/4wP7WFvZGQUHyqYpYOeUz8"
+        "url": "https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs"
       },
       "artists": [
         {
@@ -5149,6 +5167,24 @@
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 240000,
+      "name": "BLINDED",
+      "url": "https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8"
+    },
+    {
+      "album": {
+        "name": "PUSHER",
+        "url": "https://open.spotify.com/album/4wP7WFvZGQUHyqYpYOeUz8"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
       "duration_ms": 240000,
       "name": "BLINDED",
       "url": "https://open.spotify.com/track/5e86PQ6kZGuMB3M9f4QSUu"
@@ -7952,6 +7988,24 @@
       "duration_ms": 247558,
       "name": "Circuit Current",
       "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/5WpKAcrNQFQzlgohl2gxSp"
+      },
+      "artists": [
+        {
+          "name": "FLY BOY JACK",
+          "url": "https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152705,
+      "name": "CIRCULAR MOTION",
+      "url": "https://open.spotify.com/track/2PRYNI6AbycoGMX31wy9Rq"
     },
     {
       "album": {
@@ -20633,6 +20687,24 @@
     },
     {
       "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/2UQnTNhYkgv8JGzT8hc5Ss"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159627,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/5w7NisdsB4ixAUNfC0eCPf"
+    },
+    {
+      "album": {
         "name": "If Not Now",
         "url": "https://open.spotify.com/album/1iPnfAQkApgaxX6Yy7WTc9"
       },
@@ -23479,6 +23551,28 @@
     },
     {
       "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244446,
+      "name": "Let Me Calm Down (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/44gmXwbdHjwQsQvsiraj14"
+    },
+    {
+      "album": {
         "name": "Let's Duet",
         "url": "https://open.spotify.com/album/1DDTtecaPf9zmBBtsCwQyr"
       },
@@ -23646,10 +23740,6 @@
         {
           "name": "Marten H\u00f8rger",
           "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        },
-        {
-          "name": "Insomniac Records",
-          "url": "https://open.spotify.com/artist/51xR0dvqUomzb5eY6dvT4M"
         }
       ],
       "date_added": "2023-12-07",
@@ -27811,6 +27901,28 @@
     },
     {
       "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
+    {
+      "album": {
         "name": "Needs",
         "url": "https://open.spotify.com/album/1xYasQnBT0AZVgQhlEGQTW"
       },
@@ -29344,6 +29456,10 @@
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
         }
       ],
       "date_added": "2023-12-07",
@@ -31696,28 +31812,6 @@
       "duration_ms": 175757,
       "name": "Pray",
       "url": "https://open.spotify.com/track/5pev0qyOzwnfkXzNKf6tU4"
-    },
-    {
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/5WpKAcrNQFQzlgohl2gxSp"
-      },
-      "artists": [
-        {
-          "name": "FLY BOY JACK",
-          "url": "https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ"
-        },
-        {
-          "name": "Mr. Congo",
-          "url": "https://open.spotify.com/artist/4bVfGKaBV2v5YgeMMPfpEI"
-        }
-      ],
-      "date_added": "2023-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207598,
-      "name": "PRAY!",
-      "url": "https://open.spotify.com/track/2PRYNI6AbycoGMX31wy9Rq"
     },
     {
       "album": {
@@ -46044,10 +46138,32 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 156093,
       "name": "Young & Foolish",
       "url": "https://open.spotify.com/track/0l366R35BCqNxDygjm3Yee"
+    },
+    {
+      "album": {
+        "name": "Young & Foolish",
+        "url": "https://open.spotify.com/album/3t7ewN9SVxMCeXTZBvJoNR"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "Young & Foolish",
+      "url": "https://open.spotify.com/track/3KtqBwqDbjxjXmJQ2gmtzW"
     },
     {
       "album": {

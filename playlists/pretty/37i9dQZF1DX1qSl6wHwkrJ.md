@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,344 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,443 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 79 | [Happy New Year](https://open.spotify.com/track/6XsoEbKIVrLnR8tR9G42YR) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Best Of Lightnin' Hopkins](https://open.spotify.com/album/7vAiJW4xi4VNmRjcZsLO33) | 3:15 |
 | 80 | [Christmas Blues](https://open.spotify.com/track/3E9ZTLhHcpn6KJVvSiBf2w) | [Larry Darnell](https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS) | [Christmas Blues](https://open.spotify.com/album/02daPiQEjrb6T9GkU0NVKN) | 2:52 |
 
-Snapshot ID: `MCxjYzM4ZTVhYjlmYTZhNjkyYTU5NjhjNWUwMTIwOTI4MjJjMTQzNmVk`
+Snapshot ID: `MCxhY2NjYTcyMGU3OTU3Zjg1YjcwNzcyYzE3ZjgxNTRiYmY4OTg4ZjRl`

@@ -4,7 +4,7 @@
 
 > Highlights of 2023, listen to women at full volume \#SpotifyWrapped Cover \- Shilpa Rao
 
-251 songs - 14 hr 35 min
+252 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Kashmir](https://open.spotify.com/track/0FDlo7Rz1GQXjYz3y0UxPb) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:36 | 2023-11-25 | 2023-11-30 |
 | [Kashmiri Apple](https://open.spotify.com/track/3BOCJTidTQjcF1Wtx23FEG) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kashmiri Apple](https://open.spotify.com/album/4uv4ayUNwsS959kshlPpxi) | 3:24 | 2022-03-07 | 2022-04-06 |
 | [Kehndi Haan Kehndi Naa](https://open.spotify.com/track/7jl8FKIm4v4RfaGXLEV0s6) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Kehndi Haan Kehndi Naa](https://open.spotify.com/album/5KBhZPdX6L8iWK8E6azUde) | 3:21 | 2022-02-01 | 2022-03-08 |
-| [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-06 |  |
+| [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-06 | 2023-12-09 |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2023-03-02 | 2023-08-04 |
 | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK) | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9) | 3:15 | 2022-02-01 |  |
 | [Kyun](https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Kyun](https://open.spotify.com/album/6GxIBsdJ8kYdHgnpKRByFM) | 2:26 | 2023-06-07 |  |
@@ -249,6 +249,7 @@
 | [Vaari Vaari](https://open.spotify.com/track/2xOmEPAN79q9s2rfp50vIz) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Vaari Vaari](https://open.spotify.com/album/11MHkHTCh8qKoG6beDGHD6) | 2:41 | 2023-11-17 | 2023-11-30 |
 | [Vail](https://open.spotify.com/track/1bqAnuqlgbQ55AByEp0SmM) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Vail](https://open.spotify.com/album/0SUKbK4r6wQS0t9gdMsIdm) | 3:20 | 2022-02-01 | 2022-03-08 |
 | [Vaseegara / Zara Zara Mashup](https://open.spotify.com/track/3B7eDo0JA8rkMRsPa9n7rq) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Vaseegara / Zara Zara Mashup \- Single](https://open.spotify.com/album/6vDWOmsEBS7HIkmO5uagXk) | 3:04 | 2023-03-02 |  |
+| [Ve Mai Kehna](https://open.spotify.com/track/54xudESkJcqv9R6wPxNUJ9) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Ve Mai Kehna](https://open.spotify.com/album/07mr9B5rufrsckncMTmLda) | 3:11 | 2023-12-08 |  |
 | [Vibe](https://open.spotify.com/track/6kShRZG72aZcuj36nRDmnf) | [Savina](https://open.spotify.com/artist/4fGfsNK7RGd358RrUYivUu) | [Vibe](https://open.spotify.com/album/4n17plcKfif4stXCUFxd77) | 2:45 | 2023-07-07 | 2023-09-28 |
 | [Video Bana De](https://open.spotify.com/track/7hXcOpRn1c1zFG6sOFcfj5) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Video Bana De](https://open.spotify.com/album/5dCxhMSOKC6RTwWcAFCtM0) | 3:07 | 2022-02-01 | 2022-03-08 |
 | [Waah Sajna](https://open.spotify.com/track/1W09KnUmN919i5upuJXD2S) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Gulraj Singh](https://open.spotify.com/artist/7apTJ2UKJkBZNKwCiPkfLJ) | [Waah Sajna](https://open.spotify.com/album/0ylRYNvQcZnyWQeprACjIA) | 3:31 | 2023-07-14 | 2023-11-30 |

@@ -9,8 +9,8 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Song for the Rain](https://open.spotify.com/track/5MRoGBJFdaDmlEpUGJhyZK) | [Pelagos](https://open.spotify.com/artist/5791YwmwIl6tp7JMVKHVcn) | [The Boat](https://open.spotify.com/album/4ByWNHMb230SG31OpNl4HD) | 2:47 | 2022-05-20 |  |
-| [Act Like an Animal](https://open.spotify.com/track/21GyRkGNA6mLudwWvBJWca) | [6:33](https://open.spotify.com/artist/0oBPg2seHzVcAIOpdi1Ojj) | [Act Like an Animal](https://open.spotify.com/album/4qeXRafVd22N0LDAgG4AIa) | 3:51 | 2022-05-20 | 2023-12-01 |
-| [Act Like an Animal](https://open.spotify.com/track/44rcSxoUZHEO2zP6K9sZQw) | [6:33](https://open.spotify.com/artist/0oBPg2seHzVcAIOpdi1Ojj) | [Feary Tales For Strange Lullabies: The Dome](https://open.spotify.com/album/3u7skSbhFIW76N6AvwMfOW) | 3:51 | 2022-11-17 |  |
+| [Act Like an Animal](https://open.spotify.com/track/21GyRkGNA6mLudwWvBJWca) | [6:33](https://open.spotify.com/artist/0oBPg2seHzVcAIOpdi1Ojj) | [Act Like an Animal](https://open.spotify.com/album/4qeXRafVd22N0LDAgG4AIa) | 3:51 | 2022-05-20 |  |
+| [Act Like an Animal](https://open.spotify.com/track/44rcSxoUZHEO2zP6K9sZQw) | [6:33](https://open.spotify.com/artist/0oBPg2seHzVcAIOpdi1Ojj) | [Feary Tales For Strange Lullabies: The Dome](https://open.spotify.com/album/3u7skSbhFIW76N6AvwMfOW) | 3:51 | 2022-11-17 | 2023-12-09 |
 | [All Candy](https://open.spotify.com/track/5JbG05V0dUyHK6aDEmqsPA) | [Greyhaven](https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL) | [All Candy](https://open.spotify.com/album/34qdi9Fcsoeqy7QXU8K6uN) | 2:56 | 2022-05-20 |  |
 | [All of a Sudden, You're Gone](https://open.spotify.com/track/4PgWfDa2qogMzEqwOzzq5q) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [All of a Sudden, You're Gone](https://open.spotify.com/album/5VbUia8LpeD0U3kayUNBT4) | 7:12 | 2022-05-20 |  |
 | [Alpha Howl](https://open.spotify.com/track/1IAOYhIuzz1O9dJqd2AtFu) | [Moon Tooth](https://open.spotify.com/artist/7ssGZO3qDsbwCaBOBcQ4aA) | [Alpha Howl](https://open.spotify.com/album/6PSB8BuGrQjgkNYy6ipToU) | 3:54 | 2022-05-20 |  |

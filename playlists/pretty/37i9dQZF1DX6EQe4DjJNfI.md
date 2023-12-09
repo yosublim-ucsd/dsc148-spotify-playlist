@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Hanifah, Doug O.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,680 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,696 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Santa Melanina](https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB) | [Santa Melanina](https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT) | 2:21 |
 | 75 | [AMSTERDÃ](https://open.spotify.com/track/5yv1WZnGg25Xp2X5e78Cce) | [Nay](https://open.spotify.com/artist/14O6fkCHntWGqGGibsFpXl) | [AMSTERDÃ](https://open.spotify.com/album/2UCga76KqUyQombwCGGQbN) | 2:28 |
 
-Snapshot ID: `MCxlMzE0NTE5ODRlMjRmOWI3Zjg2ZGExMzc1ODU3NDNlODdlY2RkN2Fi`
+Snapshot ID: `MCw4MDM5ZDU1MGExOTA4NWRkZjVhNDcxMzExYjI1M2IwZDRiMjkwNDI3`

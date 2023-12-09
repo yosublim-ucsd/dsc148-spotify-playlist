@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-166 songs - 7 hr 43 min
+170 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [aisatsana \[102\]](https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:21 | 2022-12-21 |  |
 | [alive](https://open.spotify.com/track/2XqX1e0lH7O83AaDzbsD8s) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [alive](https://open.spotify.com/album/6EebIEnkHOZkgvyaRhQQaK) | 1:48 | 2023-10-20 |  |
 | [All I Need](https://open.spotify.com/track/0FLFE8mxBn1yWAX8s2L8ru) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 3:44 | 2022-08-22 | 2022-09-21 |
+| [apathy sine](https://open.spotify.com/track/4lVi2FvVQUAHfbi6PrjI8V) | [Piedkies](https://open.spotify.com/artist/1dT2lRJatpaerhp5FEKEGo), [Jay Karin](https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL) | [apathy sine](https://open.spotify.com/album/3i1qjvLf3Ga9tUg0UC0G56) | 2:23 | 2023-12-08 |  |
 | [backroom labyrinth](https://open.spotify.com/track/0HRk2U8OCDkS2asQEt22wf) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [backroom labyrinth](https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk) | 2:48 | 2022-08-22 | 2022-08-24 |
 | [Best of Luck](https://open.spotify.com/track/3D0SDYQLsZFt3DK6iRiWs1) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Velocity \(Music from the Film\)](https://open.spotify.com/album/0YeQBgnX0wFRWNWoXPjmNR) | 1:51 | 2022-12-16 |  |
 | [Best of Luck](https://open.spotify.com/track/4UwwTjYElB7ODGfPXQzURF) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Best of Luck \(From the Film "Velocity"\)](https://open.spotify.com/album/7JREhlt7IIkD2mCr3Gwr5E) | 1:51 | 2022-12-16 | 2023-03-01 |
@@ -40,6 +41,7 @@
 | [Comfort Chain](https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1) | 3:04 | 2022-09-06 |  |
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2022-08-22 | 2023-06-18 |
 | [Deep Swim](https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Enchanted Instrumentals and Whispers](https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N) | 4:16 | 2022-08-22 |  |
+| [distant echoes](https://open.spotify.com/track/05DTaFBU0GVPrsf75YRvqF) | [sevenlies](https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7) | [distant echoes](https://open.spotify.com/album/4OyCXhpxF1yTnuI0xVkQMQ) | 2:35 | 2023-12-08 |  |
 | [Dreamin](https://open.spotify.com/track/5YzYFYZfOwpiHm6UKK9qUh) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Dreamin](https://open.spotify.com/album/27uNgJuKbQzIjvdeh5TVb0) | 2:12 | 2022-08-22 |  |
 | [Dreamy](https://open.spotify.com/track/2MjH8zGem3EI6QhOQNaNLE) | [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Dreamy](https://open.spotify.com/album/10NuSLkvCefcDM1famDz0H) | 3:30 | 2023-03-24 |  |
 | [drowning](https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/5FNQDzhZFLwzKyEOwDlmTp) | 1:57 | 2023-02-09 |  |
@@ -98,10 +100,11 @@
 | [Just Monika.](https://open.spotify.com/track/58D0rgpXlThmJDml7VltUt) | [Dan Salvato](https://open.spotify.com/artist/1i0Yz0IcoZXlZOk0kAnw5B) | [Doki Doki Literature Club! \(Original Soundtrack\)](https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k) | 3:22 | 2022-08-22 | 2022-08-31 |
 | [Key](https://open.spotify.com/track/7K7E7LKK51PezScgsvVg9Y) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 1:05 | 2022-09-20 | 2023-01-18 |
 | [last promise](https://open.spotify.com/track/7w1jMzO4BMwlT6nz1u53p1) | [seen twice](https://open.spotify.com/artist/39keBJgLqxOZbZNStbbYAn) | [last promise](https://open.spotify.com/album/7kG4760gTaRXxzzfa2DLOB) | 2:28 | 2023-07-28 |  |
+| [left earth.](https://open.spotify.com/track/0WK0MCAsf4xfHcSCtJld8y) | [Sleepy Owl](https://open.spotify.com/artist/42KY2KLec7FP5djQS8tgNi), [ambt.](https://open.spotify.com/artist/4J7wMlXwVi9YQFCWCBMlUU) | [left earth.](https://open.spotify.com/album/15VxOdztWG4FVNwOmS8S7m) | 1:55 | 2023-12-08 |  |
 | [Let Go](https://open.spotify.com/track/07mdQUH1Cy5j4mTpyG6IOe) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/2jyHYK0byP7L61nlSJf4Wn) | 4:08 | 2022-09-06 |  |
 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2022-08-22 | 2023-05-05 |
 | [Level 4 Abandoned Office](https://open.spotify.com/track/4XdvQE2cXhbGxCtEDVamXj) | [Iwakura](https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv) | [The Backrooms Original Soundtrack](https://open.spotify.com/album/0GB4VKnUoTKSBbWzZc8rV0) | 3:41 | 2022-11-09 | 2023-01-12 |
-| [life, on hold](https://open.spotify.com/track/0uAxQHG8LGdZGKLpDR47nE) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [life, on hold](https://open.spotify.com/album/4eynYkU2hmErPY5FB0FZKZ) | 1:28 | 2023-12-06 |  |
+| [life, on hold](https://open.spotify.com/track/0uAxQHG8LGdZGKLpDR47nE) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [life, on hold](https://open.spotify.com/album/4eynYkU2hmErPY5FB0FZKZ) | 1:28 | 2023-12-06 | 2023-12-09 |
 | [Main Title \(The Shining\)](https://open.spotify.com/track/4WnuHIJTLrFkAQdpryLDe7) | [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB), [Rachel Elkind](https://open.spotify.com/artist/26WQwAYoinO6Cda6Gwy7yR) | [The Shining \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI) | 3:24 | 2023-01-03 |  |
 | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/track/2mei1NCzlPpkh98PzEqc4N) | [Maria Pseftoga](https://open.spotify.com/artist/0eiGR5RtOEfEFqRhSp6mIa), [May Roosevelt](https://open.spotify.com/artist/3Fs0Rcn2Ss2fqbrLvLN4Kt) | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/album/5bQrNKusEFt4fgS5z0Pjog) | 1:57 | 2022-08-22 |  |
 | [memories](https://open.spotify.com/track/4VkRQSpG16JxrXaVlNyWdX) | [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb) | [memories](https://open.spotify.com/album/1W7locJBenHBGz0Z8OzBcq) | 1:26 | 2023-08-16 |  |
@@ -154,6 +157,7 @@
 | [terrarium](https://open.spotify.com/track/0XPhX8Uaw9sx3HGqB629X1) | [Robinson's Village](https://open.spotify.com/artist/6Sgq1dL8uoxXhdKi1tZLIW) | [what i like? a dash of light.](https://open.spotify.com/album/3gfMbuc3ldbFWYr92tjKeS) | 5:40 | 2023-06-23 | 2023-07-29 |
 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 | 2022-08-22 |  |
 | [The Lobotomy](https://open.spotify.com/track/6U15XUlSWG6RGx4OhAHKHf) | [Maebi](https://open.spotify.com/artist/6tVxgFV9M1sqlTWUnQOhlu) | [The Lobotomy](https://open.spotify.com/album/3U9MYZmNOkSsfgz4OKxHOZ) | 1:07 | 2023-01-23 |  |
+| [the past, the present](https://open.spotify.com/track/5cuXTY79l2LkWuQdcEXlMk) | [helix fracture](https://open.spotify.com/artist/33FFHowZPPYyzmNhnhCMIM), [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [the past, the present](https://open.spotify.com/album/1mpc6cT1VJofiGcUgsd44T) | 1:53 | 2023-12-08 |  |
 | [Tip Toe Thru' the Tulips with Me](https://open.spotify.com/track/1Vchex0xowRj9k59RLvRfo) | [Tiny Tim](https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC) | [God Bless Tiny Tim](https://open.spotify.com/album/6Oimi4JAkSAH3qhZmswoE9) | 1:50 | 2023-03-20 |  |
 | [Transgender](https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:04 | 2022-08-22 | 2022-08-24 |
 | [u and i](https://open.spotify.com/track/3HvgYuJX72wO515RG4aQz2) | [vhs ghost](https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl) | [u and i](https://open.spotify.com/album/5LtQfvIeTCgvD2xx6jI4ck) | 2:03 | 2022-11-23 |  |

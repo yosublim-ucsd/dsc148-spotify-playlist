@@ -4,7 +4,7 @@
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more.
 
-113 songs - 4 hr 59 min
+114 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,9 +16,10 @@
 | [Action Packed](https://open.spotify.com/track/6HlW8keWGQo1PE8c4JyXGZ) | [Ronnie Dawson](https://open.spotify.com/artist/2Fgg6KYXIgeRY3VxQjX9lP) | [Ronnie Dawson Presents Rockin' Bones](https://open.spotify.com/album/1hCRjgooSVFgMKvZMHWa9n) | 2:12 | 2022-08-16 |  |
 | [Action Packed](https://open.spotify.com/track/5X4RBTKTA0FENrLxHUfZkr) | [Ronnie Dawson](https://open.spotify.com/artist/2Fgg6KYXIgeRY3VxQjX9lP) | [Rockin' Bones](https://open.spotify.com/album/1BqE7sSumMEzQ0q2K3ST08) | 2:17 | 2019-03-04 | 2023-03-06 |
 | [All I Have To Do Is Dream](https://open.spotify.com/track/6Et30R1GtviOIDU7wYYyxp) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Simply \- The Everly Brothers \( 42 Essential Tracks\)](https://open.spotify.com/album/4wKRl6zRLNrg1WpHwpIGtX) | 2:19 | 2019-03-04 | 2022-07-29 |
+| [All I Have To Do Is Dream](https://open.spotify.com/track/2yTzXsYOrevaVIzQQgB3YL) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Cadence Years, Vol\. 1](https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx) | 2:21 | 2022-08-16 |  |
 | [All I Have to Do Is Dream](https://open.spotify.com/track/5KPSG4BvDmFy0uLXrdGSUm) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [100 Greatest Feel Good](https://open.spotify.com/album/5PHIHxs0Xiu66Ah511IRFw) | 2:23 | 2022-08-16 | 2022-11-13 |
 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 | 2022-05-06 | 2023-09-15 |
-| [All I Have to Do Is Dream \(Single Version\)](https://open.spotify.com/track/0Q1tq0hFra4W9k6kx1MSjG) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:20 | 2022-08-16 |  |
+| [All I Have to Do Is Dream \(Single Version\)](https://open.spotify.com/track/0Q1tq0hFra4W9k6kx1MSjG) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:20 | 2022-08-16 | 2023-12-09 |
 | [All I've Got To Do \- Remastered 2009](https://open.spotify.com/track/5tztLBvTlNC15Np2tnQ5Ll) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:02 | 2019-03-04 | 2022-08-17 |
 | [Be\-Bop\-a\-Lula](https://open.spotify.com/track/4AaHCzwKBltFBqp9ngboWU) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Reeling and Rocking](https://open.spotify.com/album/3OfWasjuVTLrqFpLOgMKEi) | 2:34 | 2019-03-04 | 2022-07-29 |
 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 | 2022-05-06 | 2023-09-15 |

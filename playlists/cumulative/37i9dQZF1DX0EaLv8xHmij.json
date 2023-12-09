@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 166428,
       "name": "Catequese 2",
       "url": "https://open.spotify.com/track/2f2KHGQD3aaF9CkCU8jJuf"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 188330,
       "name": "CRIME",
       "url": "https://open.spotify.com/track/0beS82r81NQmbSmZ3hEGgt"
@@ -2804,6 +2804,36 @@
       "duration_ms": 166756,
       "name": "F\u00f4lego",
       "url": "https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm"
+    },
+    {
+      "album": {
+        "name": "ORDEM & PROGRESSO",
+        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181192,
+      "name": "G3 (feat. Ajaxx, Chefin & Leviano)",
+      "url": "https://open.spotify.com/track/4Vo6xhWP515MuQRK55927I"
     },
     {
       "album": {
@@ -4376,6 +4406,48 @@
       "duration_ms": 97947,
       "name": "Pelo Pr\u00eamio - Remix",
       "url": "https://open.spotify.com/track/4M6YxopOmUreT4AL5GoGAL"
+    },
+    {
+      "album": {
+        "name": "Bruxa Solta",
+        "url": "https://open.spotify.com/album/1xrsaFiracZiOl5VxOnquP"
+      },
+      "artists": [
+        {
+          "name": "Covil da Bruxa",
+          "url": "https://open.spotify.com/artist/3nwU82nDl4cjn5OVAqJb6h"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        },
+        {
+          "name": "Didior",
+          "url": "https://open.spotify.com/artist/5u61pkUucuOj2bBDuCDi3k"
+        },
+        {
+          "name": "Linin",
+          "url": "https://open.spotify.com/artist/7K1d3J0gQiMiXg4nUgeo4l"
+        },
+        {
+          "name": "OGBRITTO",
+          "url": "https://open.spotify.com/artist/1nG1LGzLg38SukC9KquraC"
+        },
+        {
+          "name": "BOMCOF",
+          "url": "https://open.spotify.com/artist/1iB8lK914gppllMrraxRHM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Pente Estendido",
+      "url": "https://open.spotify.com/track/07GFy6pbIMQVMAdsZRwDa4"
     },
     {
       "album": {

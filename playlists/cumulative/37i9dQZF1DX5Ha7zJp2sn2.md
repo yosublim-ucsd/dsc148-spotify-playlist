@@ -4,7 +4,7 @@
 
 > El sonido de la nueva canción latinoamericana\. Foto: Jaison Neutra
 
-80 songs - 4 hr 39 min
+81 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Ni un Miligramo](https://open.spotify.com/track/496fkESsqJaMRVFXExTK5r) | [Surcos](https://open.spotify.com/artist/2IW0xn9rXParsnatyDv2B7), [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Ni un Miligramo](https://open.spotify.com/album/5VviOg13Jpx5KXfsKgznNX) | 3:44 | 2023-09-29 | 2023-11-18 |
 | [No Creo \- En Vivo](https://open.spotify.com/track/1GM2ouHHKW3tuCzjSZKIyr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 4:08 | 2023-09-29 | 2023-11-18 |
 | [Oye India](https://open.spotify.com/track/5REhXdAdTTgOldFRRazlQY) | [Mulato Bantú](https://open.spotify.com/artist/5LlAvjBzOsTKiGsb9r3sHe) | [Oye India](https://open.spotify.com/album/3dX53QZySOo10EhUJh7a0Q) | 3:05 | 2023-11-17 |  |
-| [Pa Poderte Ver](https://open.spotify.com/track/43hSlJcM3EZeocev7yCNKX) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [juliocesar](https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o) | [Pa Poderte Ver](https://open.spotify.com/album/3SAtWLXztoa1yCChDBa7sk) | 2:46 | 2023-09-29 |  |
+| [Pa Poderte Ver](https://open.spotify.com/track/43hSlJcM3EZeocev7yCNKX) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [juliocesar](https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o) | [Pa Poderte Ver](https://open.spotify.com/album/3SAtWLXztoa1yCChDBa7sk) | 2:46 | 2023-09-29 | 2023-12-09 |
 | [Perdido](https://open.spotify.com/track/5buZqedSR0olgt0xUlFiJW) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Perdido](https://open.spotify.com/album/4uGnO4nlb3mrVT8INc0IJW) | 4:01 | 2023-09-29 |  |
 | [Plantas Naranjas](https://open.spotify.com/track/2fG1rZ8Vb9hNf9krZHMNrA) | [Túporaquí Yoporallá](https://open.spotify.com/artist/7vCSYKfU63WmWyX6l4G0Fp) | [Plantas Naranjas](https://open.spotify.com/album/6BJKcMp2xc4M5YBoU2zUMl) | 4:14 | 2023-09-29 | 2023-11-18 |
 | [Poción Secreta](https://open.spotify.com/track/6CEqZ6SsbbxgBRJ545DDH6) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Mínimo Infinito](https://open.spotify.com/album/7yVqq3iFqnUTnZnrZE0SM8) | 3:29 | 2023-09-29 | 2023-11-18 |
@@ -88,5 +88,6 @@
 | [Venezuela](https://open.spotify.com/track/0I2Uh0q80nrSCfGs3Xsujy) | [Velandia y La Tigra](https://open.spotify.com/artist/2saVhSlCKjNZnW4QZcFHkE), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Venezuela](https://open.spotify.com/album/1iAmsae29xHGez7zSD1tXC) | 3:50 | 2023-11-17 |  |
 | [Viento del Sur](https://open.spotify.com/track/0MM6CB03vuVnsDTdXBAXnT) | [Nuria Saba](https://open.spotify.com/artist/7FGP7oOzsmZJve5HtRZdvo) | [Viento del Sur](https://open.spotify.com/album/0qRn3HbTQc4gHNZf7P5Kli) | 3:20 | 2023-11-17 |  |
 | [Y Volviste a Decir Te Amo](https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Y Volviste a Decir Te Amo](https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG) | 3:46 | 2023-11-17 |  |
+| [¿Cuándo Será?](https://open.spotify.com/track/0U4ZSDbWAW6EAxEzDqwFJ3) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9), [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [¿Cuándo Será?](https://open.spotify.com/album/64xHoQCDAVvKLihVtG2Q0z) | 3:34 | 2023-12-08 |  |
 
 \*This playlist was first scraped on 2023-11-13. Prior content cannot be recovered.

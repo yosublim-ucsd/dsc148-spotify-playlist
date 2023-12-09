@@ -920,7 +920,7 @@
     {
       "album": {
         "name": "El Mundo Baila",
-        "url": "https://open.spotify.com/album/6gfawBHQ4lX5d1G7stPJkt"
+        "url": "https://open.spotify.com/album/6SrYNZDQKFaInFfdDgNRkg"
       },
       "artists": [
         {
@@ -931,6 +931,24 @@
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 156097,
+      "name": "El Mundo Baila",
+      "url": "https://open.spotify.com/track/0KWPdSc26GIMEn7PA4Y1bP"
+    },
+    {
+      "album": {
+        "name": "El Mundo Baila",
+        "url": "https://open.spotify.com/album/6gfawBHQ4lX5d1G7stPJkt"
+      },
+      "artists": [
+        {
+          "name": "B'Elle",
+          "url": "https://open.spotify.com/artist/3Bp4EXpyHUtJn0HNOk7RVz"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
       "duration_ms": 156097,
       "name": "El Mundo Baila",
       "url": "https://open.spotify.com/track/7ec664OOg6lMzOLz8aztZ8"
@@ -3574,10 +3592,28 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 157903,
       "name": "So Blue",
       "url": "https://open.spotify.com/track/1aNYOEOIlPAaWGd5QkwEx0"
+    },
+    {
+      "album": {
+        "name": "So Blue",
+        "url": "https://open.spotify.com/album/6ohOLOpPUOX9Xg5eRlzhU2"
+      },
+      "artists": [
+        {
+          "name": "Sondr",
+          "url": "https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157904,
+      "name": "So Blue",
+      "url": "https://open.spotify.com/track/1rZ8BHp2CIRnvp65wzcEJL"
     },
     {
       "album": {
@@ -3936,10 +3972,32 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 179279,
       "name": "Swing",
       "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
+    },
+    {
+      "album": {
+        "name": "Swing (feat. Allday)",
+        "url": "https://open.spotify.com/album/2Oc9TM1D0ud8AlNmHJE2Df"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179279,
+      "name": "Swing (feat. Allday)",
+      "url": "https://open.spotify.com/track/2ks3RwyEr6tYG4S3bfqMjY"
     },
     {
       "album": {
@@ -4279,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/4zFIRPY8llGfRQeO4TaqdA"
+      },
+      "artists": [
+        {
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156745,
+      "name": "We Go",
+      "url": "https://open.spotify.com/track/1SqrNc95y15tjfS7vH0etA"
+    },
+    {
+      "album": {
         "name": "We Go",
         "url": "https://open.spotify.com/album/2Xqpnsi5fIIFaVz6kHfyIK"
       },
@@ -4290,7 +4366,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 156745,
       "name": "We Go",
       "url": "https://open.spotify.com/track/2mca0xAH7h8fKVmXTn6jwC"

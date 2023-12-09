@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Drake 🐕
 
-702 songs - 1 day 12 hr 8 min
+703 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 | 2023-10-12 | 2023-10-27 |
 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 | 2023-10-20 |  |
 | [first order of business](https://open.spotify.com/track/4d6z0mKVcnhE5x0YWvTexh) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:48 | 2022-01-07 | 2022-07-22 |
+| [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-12-08 |  |
 | [Fish Fish](https://open.spotify.com/track/1qjrNEqL2zaRvEPWWNmSTt) | [Lavi$h](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [Fish Fish](https://open.spotify.com/album/5eqEKU8F5aFgjTILfgtORT) | 2:40 | 2022-02-25 | 2022-04-19 |
 | [Five Stars](https://open.spotify.com/track/2SNf0cSVFOEBhM4x8MvtB6) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [Heaven Can Wait](https://open.spotify.com/album/3RRFCfxnZbsZHDtfAszc3V) | 3:21 | 2022-01-14 | 2022-04-28 |
 | [Flawless](https://open.spotify.com/track/6nsAyDBxkvDLyq75QuQOJ6) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [Flawless](https://open.spotify.com/album/3wmCGxvOiljnq6TNKgtbNm) | 2:30 | 2022-02-11 | 2022-02-16 |
@@ -311,7 +312,7 @@
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-11-04 |  |
 | [Johnny P's Caddy](https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Johnny P's Caddy](https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM) | 3:45 | 2022-04-01 | 2022-07-22 |
 | [JOKER](https://open.spotify.com/track/0HkoTr9t0f6MeqGoUS3E3e) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [JOKER](https://open.spotify.com/album/4xOiHZgwfz07RULSAmRNdd) | 4:07 | 2022-04-01 | 2022-04-12 |
-| [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 | 2023-09-15 |  |
+| [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 | 2023-09-15 | 2023-12-09 |
 | [Just Coz](https://open.spotify.com/track/1vThiuxP3lAHp85Q9qO8E5) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Just Coz](https://open.spotify.com/album/1LZzgEgmuOh5fhpCb2oUWy) | 3:16 | 2022-07-21 | 2022-07-24 |
 | [JUST LIKE YOU](https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [CLOUDS \(THE MIXTAPE\)](https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t) | 4:11 | 2022-04-01 | 2023-04-21 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2023-04-27 |  |

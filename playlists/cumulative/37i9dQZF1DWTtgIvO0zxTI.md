@@ -2,9 +2,9 @@
 
 ### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
-> Aquí está el sonido urbano de Venezuela\. Cover: Briella
+> Aquí está el sonido urbano de Venezuela\. Cover: Irepelusa
 
-146 songs - 7 hr 49 min
+147 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Quién Lo Diría?](https://open.spotify.com/track/6CEE6AMe6tRBqdvhtnl3BD) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [EP\-rimento \#1: Boleritos de la Mar](https://open.spotify.com/album/2WQLIMrzvZz5TsNLEioSHC) | 3:38 | 2023-07-28 |  |
 | [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 | 2023-07-28 |  |
 | [Quítate La Ropa](https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Quítate La Ropa](https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7) | 2:19 | 2023-08-11 |  |
-| [Raro](https://open.spotify.com/track/4DEldV3wQKjbMRhVw64bg6) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Raro](https://open.spotify.com/album/3yepH0ckADnbqwISL1zi0M) | 3:19 | 2022-03-11 |  |
+| [Raro](https://open.spotify.com/track/4DEldV3wQKjbMRhVw64bg6) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Raro](https://open.spotify.com/album/3yepH0ckADnbqwISL1zi0M) | 3:19 | 2022-03-11 | 2023-12-09 |
 | [Rayos, Besos, Fallos](https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Rayos, Besos, Fallos](https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU) | 2:33 | 2023-04-21 | 2023-08-12 |
 | [Red Hot Chile Papers](https://open.spotify.com/track/6e5OMnekNGplphCr01YK7q) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Don Cupón](https://open.spotify.com/artist/2xU1khcfqErVoih679pYM1) | [Red Hot Chile Papers](https://open.spotify.com/album/6l1q4am1kKUk0AihwVDKca) | 4:46 | 2023-07-14 |  |
 | [Relación](https://open.spotify.com/track/28U2VaH8PflE2peJ0f9wZp) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Relación](https://open.spotify.com/album/0UA6rWr1ZXfv9aBR94Hx4g) | 3:55 | 2022-05-13 | 2022-12-24 |
@@ -151,6 +151,7 @@
 | [Vuela](https://open.spotify.com/track/08WtcbUnNVB4J2DCre8LHZ) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Rain City](https://open.spotify.com/album/3R6sgv6rk66P3zIJ4SNKOg) | 3:18 | 2023-03-17 |  |
 | [Vuela](https://open.spotify.com/track/5atvVaX7LAya8JS7acZJz6) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vuela](https://open.spotify.com/album/56lXsTpyHxdhdmEF09AGT4) | 3:18 | 2022-03-11 | 2023-04-13 |
 | [Xocolate](https://open.spotify.com/track/10asRCljWZ51jZ22RnbiKV) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Xocolate](https://open.spotify.com/album/5nBvx0AU9yBm7toxNo8aBN) | 3:56 | 2023-07-28 | 2023-08-12 |
+| [XQ TAN DIFERENTE \(≠\)](https://open.spotify.com/track/1N1YQPsLuEP2k6bZEmNWew) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [XQ TAN DIFERENTE \(≠\)](https://open.spotify.com/album/4cotdPZq0krUEWJmljpnGN) | 3:00 | 2023-12-08 |  |
 | [Xulitos](https://open.spotify.com/track/2oAcKRifuogjcy5MSZaeYK) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Xulitos](https://open.spotify.com/album/75V05gZImDLeUV0I2yaF9T) | 3:57 | 2022-03-11 | 2022-04-09 |
 | [You Know](https://open.spotify.com/track/15SCB5046vyZmM142VihbU) | [Dani Barranco](https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6) | [You Know](https://open.spotify.com/album/3XixvF5Kbbd3957K5KBtzM) | 3:07 | 2023-10-27 |  |
 | [Óyeme \(feat\. Betomonte & Eric Chacón\)](https://open.spotify.com/track/6jIeBE2ZbTPful6Itow2m6) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monno Briceno](https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Betomonte](https://open.spotify.com/artist/3aAVHDGT5oIwTbppEcR7sb), [Eric Chacón](https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR) | [Óyeme \(feat\. Betomonte & Eric Chacón\)](https://open.spotify.com/album/4QwHKoItqKwfCVw1OK1IgP) | 2:52 | 2022-09-09 | 2023-03-18 |

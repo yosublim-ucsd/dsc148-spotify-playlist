@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music making waves. Cover: Tanner Adell",
+  "description": "Country music making waves. Cover: The Kentucky Gentlemen",
   "name": "Country Frequency",
   "tracks": [
     {
@@ -1549,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Leave Right Now",
+        "url": "https://open.spotify.com/album/0WLh4sClyd5u3UuRxXRf5x"
+      },
+      "artists": [
+        {
+          "name": "The Kentucky Gentlemen",
+          "url": "https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172270,
+      "name": "Leave Right Now",
+      "url": "https://open.spotify.com/track/2IxqiVtNPokQ2klL2tQr2p"
+    },
+    {
+      "album": {
         "name": "Leave You Alone",
         "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
       },
@@ -2516,10 +2534,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 196401,
       "name": "Somebody's Gotta Do It",
       "url": "https://open.spotify.com/track/4NocrufS4EcSjccPQYJIDD"
+    },
+    {
+      "album": {
+        "name": "Somebody's Gotta Do It",
+        "url": "https://open.spotify.com/album/39M3izca9vavMUCh7HzJ53"
+      },
+      "artists": [
+        {
+          "name": "Tony Evans Jr.",
+          "url": "https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196401,
+      "name": "Somebody's Gotta Do It",
+      "url": "https://open.spotify.com/track/5JCUymeWDY9eELXHvipBU5"
     },
     {
       "album": {

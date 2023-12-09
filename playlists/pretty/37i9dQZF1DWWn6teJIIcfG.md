@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,310 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,375 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Sarabande et rigaudon, Op\. 93: Sarabande](https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Orchestre National de Lille](https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf), [Jun Markl](https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd) | [Saint\-Saëns: Symphonic Poems](https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD) | 6:16 |
 | 60 | [Invention No\. 1 in C Major, BWV 772](https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Simone Dinnerstein](https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ) | [Bach: Inventions & Sinfonias](https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr) | 1:28 |
 
-Snapshot ID: `MCw4MmMwMjA1M2NjYjU4ZjRhYTdmODk4YjA4OTg2MzEyN2I2YTBmOTU0`
+Snapshot ID: `MCw2ZWQ3ODNmNWI3Nzk3ZDUyNGFhYjQ2N2VmMjEwNWIzNDJlMTIxODgx`

@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 168979,
       "name": "Ajini",
       "url": "https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 199411,
       "name": "BLADI",
       "url": "https://open.spotify.com/track/16RbqwDYPAHUPR9esyfGlq"
@@ -2873,6 +2873,28 @@
     },
     {
       "album": {
+        "name": "L7ARB (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0hrLNERzqFfgqVZbkS9Zmk"
+      },
+      "artists": [
+        {
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        },
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242708,
+      "name": "L7ARB - Spotify Singles",
+      "url": "https://open.spotify.com/track/5GNQQVf3hHLtSp4XP143Xa"
+    },
+    {
+      "album": {
         "name": "\u0664in",
         "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
       },
@@ -4508,7 +4530,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 225230,
       "name": "Omri",
       "url": "https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj"
@@ -4530,7 +4552,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 128828,
       "name": "Original",
       "url": "https://open.spotify.com/track/7jUxtWSgaVzJ4C6wEA0LQ6"
@@ -5373,6 +5395,50 @@
     },
     {
       "album": {
+        "name": "TODO BEN\u00c9 (Spotify Singles)",
+        "url": "https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x"
+      },
+      "artists": [
+        {
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "TODO BEN\u00c9 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd"
+    },
+    {
+      "album": {
+        "name": "Unplugged (Spotify Singles)",
+        "url": "https://open.spotify.com/album/157sF3l27tLvkrIJzqFUeg"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        },
+        {
+          "name": "VALEN",
+          "url": "https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176589,
+      "name": "Unplugged - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN"
+    },
+    {
+      "album": {
         "name": "Vangogh",
         "url": "https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j"
       },
@@ -6142,6 +6208,28 @@
       "duration_ms": 168600,
       "name": "\u00c7a Y Est",
       "url": "https://open.spotify.com/track/2qu0j5rf7W5ZAmQafEg0bB"
+    },
+    {
+      "album": {
+        "name": "\u00c9chec (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        },
+        {
+          "name": "Sipo",
+          "url": "https://open.spotify.com/artist/3oMj4UHfEpUEtClL0pcT8o"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203807,
+      "name": "\u00c9chec - Spotify Singles",
+      "url": "https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN"
     },
     {
       "album": {

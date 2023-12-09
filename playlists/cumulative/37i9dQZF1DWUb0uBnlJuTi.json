@@ -217,6 +217,52 @@
     },
     {
       "album": {
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/5l5vMpKbdQAc2rN1wI2UU9"
+      },
+      "artists": [
+        {
+          "name": "Joabe Reis",
+          "url": "https://open.spotify.com/artist/1JiLPWNdWWRYIkMfh4m2PK"
+        },
+        {
+          "name": "Agenor de Lorenzi",
+          "url": "https://open.spotify.com/artist/08tzQH6xIsbJxxq4hNygPG"
+        },
+        {
+          "name": "Daniel Pinheiro",
+          "url": "https://open.spotify.com/artist/621ldIdMOskFO8bAxEhi17"
+        },
+        {
+          "name": "Fl\u00e1vio Silva",
+          "url": "https://open.spotify.com/artist/5mC4ZacVsd5bOV2C5XRWdH"
+        },
+        {
+          "name": "Josue Lopez",
+          "url": "https://open.spotify.com/artist/0mhi3HqBVORAmDbKFQNkJA"
+        },
+        {
+          "name": "Rafael Reis",
+          "url": "https://open.spotify.com/artist/2xYZ8QYAJSI5qNNcGg4LeE"
+        },
+        {
+          "name": "Sidmar Vieira",
+          "url": "https://open.spotify.com/artist/13yenubT6mQJO3m6uDQTiN"
+        },
+        {
+          "name": "Tuto Ferraz",
+          "url": "https://open.spotify.com/artist/3AVod2hiob1FXHhXv3UwZd"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247428,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1ytNQaSmAcMnnWtzC4eLjt"
+    },
+    {
+      "album": {
         "name": "Aspects (Greg Wilson Mix)",
         "url": "https://open.spotify.com/album/7IQCFeNZDIHk6TuRICdaB4"
       },
@@ -834,7 +880,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 152195,
       "name": "Chardonnay Kisses",
       "url": "https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd"
@@ -2294,7 +2340,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 128634,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/0PXtPC7EtkqcbHpIZtGVAb"
@@ -4128,6 +4174,28 @@
       "duration_ms": 162198,
       "name": "No Beginning",
       "url": "https://open.spotify.com/track/4Eigj06JGTcmMYZmHvNfQR"
+    },
+    {
+      "album": {
+        "name": "No, No, No Pt. 2",
+        "url": "https://open.spotify.com/album/2giHV2PIregp4L6fJdwR85"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "Jonathan Mones",
+          "url": "https://open.spotify.com/artist/1eLGtP5vWAvZuBmL51J1gD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284250,
+      "name": "No, No, No Pt. 2",
+      "url": "https://open.spotify.com/track/7APHXq8XGcfgNuTZqZn5Uy"
     },
     {
       "album": {

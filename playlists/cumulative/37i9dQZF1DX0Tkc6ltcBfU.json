@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 151926,
       "name": "3D",
       "url": "https://open.spotify.com/track/7t7eBzrvv1YL547LI44Bvb"
@@ -5031,6 +5031,24 @@
     },
     {
       "album": {
+        "name": "HIGHWAY 9",
+        "url": "https://open.spotify.com/album/7lCXh8800hclBxkoLIunEx"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "FACTS",
+      "url": "https://open.spotify.com/track/52sUnIQRojLUTxo7OWW2qv"
+    },
+    {
+      "album": {
         "name": "CHOMP 2",
         "url": "https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK"
       },
@@ -5632,7 +5650,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 160465,
       "name": "FK Everybody",
       "url": "https://open.spotify.com/track/45YtAmvSaVvXfGEoRnIxK7"
@@ -5948,6 +5966,32 @@
       "duration_ms": 167977,
       "name": "Forever (feat. Fridayy)",
       "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/1oLihKPBT36E4csJUGlLP7"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234880,
+      "name": "Freak Junt (Ext)",
+      "url": "https://open.spotify.com/track/5eVPo9th097MkEwAhINEOV"
     },
     {
       "album": {
@@ -6504,6 +6548,28 @@
       "duration_ms": 173589,
       "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
+    },
+    {
+      "album": {
+        "name": "Gimme Da Lite",
+        "url": "https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "Gimme Da Lite",
+      "url": "https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn"
     },
     {
       "album": {
@@ -12497,6 +12563,32 @@
     },
     {
       "album": {
+        "name": "Now or Neva (feat. Moneybagg Yo & YTB Fatt)",
+        "url": "https://open.spotify.com/album/3kDxLToBvaHZetsjwy605w"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104727,
+      "name": "Now or Neva (feat. Moneybagg Yo & YTB Fatt)",
+      "url": "https://open.spotify.com/track/7rx8jrF9kvwIr2lQIMPZLG"
+    },
+    {
+      "album": {
         "name": "STILL (Five & A F*** You) [Deluxe]",
         "url": "https://open.spotify.com/album/3ntrXHNZUCz0ScUKDziuP8"
       },
@@ -13458,7 +13550,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 217453,
       "name": "Perkys For The Pain",
       "url": "https://open.spotify.com/track/4NH6uz7nK8HIwwXkAGUIWN"
@@ -15342,7 +15434,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 178964,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/6jlBIo4lam4ZFso2PciGwU"
@@ -15360,7 +15452,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 105037,
       "name": "She Legit",
       "url": "https://open.spotify.com/track/59fW5x3glsGiYADid8Dazy"
@@ -15526,6 +15618,24 @@
       "duration_ms": 187843,
       "name": "Shoot It Myself (feat. Future)",
       "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
+    },
+    {
+      "album": {
+        "name": "Shotta Flow 7",
+        "url": "https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165433,
+      "name": "Shotta Flow 7",
+      "url": "https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa"
     },
     {
       "album": {
@@ -16098,6 +16208,28 @@
       "duration_ms": 189757,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/3hJmvCJQE7crXKhxGVPT3E"
+    },
+    {
+      "album": {
+        "name": "Spend That Bag",
+        "url": "https://open.spotify.com/album/47ofz7Q2l3tVbeRaIj6lft"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159144,
+      "name": "Spend That Bag",
+      "url": "https://open.spotify.com/track/7BRllEPvzxFw0vTAfkfUwt"
     },
     {
       "album": {
@@ -16976,6 +17108,24 @@
       "duration_ms": 158731,
       "name": "Swing My Doe (feat. BiC Fizzle)",
       "url": "https://open.spotify.com/track/4ZTbRGeqWhzv4T5gjcyoJE"
+    },
+    {
+      "album": {
+        "name": "Tag Me In",
+        "url": "https://open.spotify.com/album/6Xxmm6M26fdlewgIBxRWVd"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173749,
+      "name": "Tag Me In",
+      "url": "https://open.spotify.com/track/5QQ1zEhxJ4k2zdkcHV2hoT"
     },
     {
       "album": {
@@ -19398,7 +19548,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 151749,
       "name": "Which One",
       "url": "https://open.spotify.com/track/3uZ6TJZmID7iy1v8mmeWpg"

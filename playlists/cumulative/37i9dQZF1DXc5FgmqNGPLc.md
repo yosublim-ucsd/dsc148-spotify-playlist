@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-133 songs - 19 hr 37 min
+134 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Heart Song \- Live](https://open.spotify.com/track/1tcpNKH7NWjoPZaELScpd2) | [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [There's a Reason for Things to Do \(Live\)](https://open.spotify.com/album/6TTm8BfUM3bK3hZOJSX9m1) | 7:09 | 2022-07-01 | 2023-03-23 |
 | [Heart Song \- Live](https://open.spotify.com/track/4auFbiuMrpvqxs3237Asgn) | [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [Heart Song \(Live\)](https://open.spotify.com/album/5abUJ9e8YQ1nuLvldIk96e) | 7:09 | 2022-07-01 | 2022-08-28 |
 | [I Can't Stand It \- Live At Club Mozambique, Detroit, 1970](https://open.spotify.com/track/0nkL1ZQc2KkRxdLW7xQaRh) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Live At Club Mozambique](https://open.spotify.com/album/1Ky6DlBjmTsPJtnJT8AGeD) | 8:24 | 2021-11-12 |  |
-| [I Could Write a Book \- Live](https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [I Could Write a Book \(Live\)](https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN) | 7:38 | 2023-10-06 |  |
+| [I Could Write a Book \- Live](https://open.spotify.com/track/0vJ58MsgTfLfn2eT0eEGQR) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Con Alma: The Oscar Peterson Trio – Live in Lugano, 1964](https://open.spotify.com/album/4mS8SOqsZclqx0UN3QcBVE) | 7:38 | 2023-10-06 |  |
+| [I Could Write a Book \- Live](https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [I Could Write a Book \(Live\)](https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN) | 7:38 | 2023-10-06 | 2023-12-09 |
 | [I Cried For You](https://open.spotify.com/track/3CB1D8GtpOxRE0ZhrKZXwg) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ), [Jerome Richardson](https://open.spotify.com/artist/3oLQqwPfXDOPsoP9U768OG) | [I Cried For You](https://open.spotify.com/album/3f2xuAK9DfNd2ujQKYKcbZ) | 3:42 | 2023-06-09 |  |
 | [I Do It For Your Love](https://open.spotify.com/track/4Rnob7gKR2aLS7sm1IeJKO) | [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Don Braden](https://open.spotify.com/artist/6qppe86GWNyVd8KeAbvg1o), [Bruce Cox](https://open.spotify.com/artist/5alxENWo4vQJNNNbjvuSf6) | [I Do It For Your Love](https://open.spotify.com/album/5S1AvsNiHQm4Ynt0KHdGI4) | 6:21 | 2022-03-18 | 2023-03-25 |
 | [If I Were A Bell \- Live at the Plugged Nickel, Chicago, IL \(1st Set\) \- December 22, 1965](https://open.spotify.com/track/49cHo96zu4M7q5IvAXRRUY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Live At The Plugged Nickel \- 1965](https://open.spotify.com/album/2mU4JzmR1ej9ruf9FNx4eR) | 17:02 | 2021-11-12 |  |

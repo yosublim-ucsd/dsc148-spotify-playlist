@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,048 likes - 250 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,156 likes - 250 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 249 | [Soar](https://open.spotify.com/track/5JoCHCDI2s4PvI2H2yGlHs) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Soar](https://open.spotify.com/album/20V23ZlHIuN3hChiJPFrLj) | 2:24 |
 | 250 | [Ophélia](https://open.spotify.com/track/6TgKautKqkRvvbaJcGCRxr) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Ophélia](https://open.spotify.com/album/5CJOzMHgVwXe1sjd0bQABe) | 2:13 |
 
-Snapshot ID: `MCw3M2E2MjgwODhkNGI5NDMwODhiMWIyNTgxMDRmYzg3ZjYzOTFmNDQ0`
+Snapshot ID: `MCxiYjAwZGQ3MTQzN2I3MTc1MTFlYzUxNzUyNWFiNjliNDUwNTc1ZDlj`

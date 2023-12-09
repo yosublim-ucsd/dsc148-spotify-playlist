@@ -2,7 +2,7 @@
 
 ### [Post\-Grunge Society](https://open.spotify.com/playlist/37i9dQZF1DWVwr24yj95lH)
 
-> The best Grunge heirs' songs\. Cover: Puddle of Mudd
+> The best Grunge heirs' songs\. Cover: Staind
 
 162 songs - 11 hr 8 min
 

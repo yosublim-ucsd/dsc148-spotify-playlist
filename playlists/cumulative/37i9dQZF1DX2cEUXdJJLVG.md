@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-288 songs - 17 hr 18 min
+290 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Brave](https://open.spotify.com/track/6AQygTQqLS5uKpXqiM6dRG) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Yemaya](https://open.spotify.com/album/3Ezpz7KzzZVcTeapT5oSww) | 2:36 | 2022-09-09 | 2022-09-16 |
 | [Breeze \- Remix](https://open.spotify.com/track/2orDjs0U3dgK0anh6M7QAd) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Bora](https://open.spotify.com/artist/5jedSTtBRn1JoOsIop4A6t) | [Breeze \(Remix\)](https://open.spotify.com/album/7K9N5hcPwPmEjhYZHhqA45) | 2:43 | 2022-09-09 |  |
 | [But, I'm Tied](https://open.spotify.com/track/416qwFAr8F4MJ7PzEJB1xy) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [But, I'm Tied](https://open.spotify.com/album/5OJiEIOVS1vJiLDW7oRpvo) | 2:30 | 2022-09-09 |  |
-| [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe) | 3:00 | 2022-09-09 |  |
+| [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/track/16xOOeiaf3Hn5Rpn4l9QIY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Lush Life](https://open.spotify.com/album/4Z3clJrBFpORXTaP6D5t2v) | 3:00 | 2023-12-08 |  |
+| [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe) | 3:00 | 2022-09-09 | 2023-12-09 |
 | [Call Me](https://open.spotify.com/track/0DMIyfegCv93GER37aHR4E) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Call Me](https://open.spotify.com/album/2EAoeBk0yH5I6kVMaXJCV0) | 3:18 | 2022-10-27 |  |
 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 | 2023-10-12 |  |
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 | 2022-09-09 | 2023-10-05 |
@@ -294,6 +295,7 @@
 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/7rxDQ5tgnJ4T6gJL1HyoZ1) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall](https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO) | 3:45 | 2022-09-15 | 2022-10-13 |
 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 4:02 | 2022-09-09 | 2023-10-05 |
 | [Workin' All Day](https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 5:58 | 2022-12-05 |  |
+| [You 2 Thank](https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/770NPIetbye6vd31ZDuG09) | 2:44 | 2023-12-08 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-12 |  |
 | [ZBRA](https://open.spotify.com/track/3qdXAF9oso5YlFm1imEGV6) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Débuts](https://open.spotify.com/album/05tLWcrTEgOThINtKQAMhi) | 4:34 | 2022-09-09 | 2022-10-15 |
 

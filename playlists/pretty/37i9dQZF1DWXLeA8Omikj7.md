@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,676,601 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,676,766 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 149 | [I Remember Maine](https://open.spotify.com/track/1YrV8fAkywtQ1fs4GwGewK) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Here on My Own](https://open.spotify.com/album/6c93BbSAJETqKh5THU24qa) | 2:53 |
 | 150 | [The Mountain Will Fall](https://open.spotify.com/track/2zFdB0tHEumsFa5Z6tLuBM) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Mountain Will Fall](https://open.spotify.com/album/3OSeqyUWmkngEhQTTkdTSA) | 4:36 |
 
-Snapshot ID: `MCwxN2QxZGE2ODJkMTJiY2FjZjRjM2Y4ODlhNmM0NDEwNmU3N2E0Zjg3`
+Snapshot ID: `MCwyYjhiNzBmZjU1NTM0ZDBlODgzOGVmYmMxNmUzNzY3NWQwMWZkOWQ1`

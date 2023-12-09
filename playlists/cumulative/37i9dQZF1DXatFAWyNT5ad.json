@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 121674,
       "name": "Alive and Unwell",
       "url": "https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh"
@@ -670,6 +670,24 @@
       "duration_ms": 170386,
       "name": "Alpha Zulu",
       "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
+    },
+    {
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/3AgnnuHliXoWbS3TfCKirV"
     },
     {
       "album": {
@@ -2922,6 +2940,24 @@
       "duration_ms": 180203,
       "name": "Deep",
       "url": "https://open.spotify.com/track/1Qd0jDJKlgBTuCNqlM4GWO"
+    },
+    {
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164106,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW"
     },
     {
       "album": {
@@ -9332,7 +9368,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 158423,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/24PrTycumc8Itm3ksXF0jP"

@@ -77,7 +77,7 @@
     },
     {
       "album": {
-        "name": "Bluesbreakers",
+        "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
       "artists": [
@@ -640,10 +640,36 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 195720,
       "name": "Don't Stay Out All Night",
       "url": "https://open.spotify.com/track/5nNLdUPVy9J0fYdlS6al2i"
+    },
+    {
+      "album": {
+        "name": "Checkin' It Out",
+        "url": "https://open.spotify.com/album/75cACdZc7bh9xgE402Tsmg"
+      },
+      "artists": [
+        {
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+        },
+        {
+          "name": "Tony McPhee",
+          "url": "https://open.spotify.com/artist/641MUhxfyhBorLlnQ2983q"
+        },
+        {
+          "name": "The Groundhogs",
+          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Don't Stay Out All Night",
+      "url": "https://open.spotify.com/track/2w5wOsTUOPRGekr3z65G2l"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con El Doctor & Pablo Chill-E.",
+  "description": "Flow sudamericano con Nickoog Clk & BM.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5Q9WL6KjOioqfqJdX2W72I"
@@ -38,6 +38,32 @@
       "duration_ms": 173793,
       "name": "'Ta Conmigo",
       "url": "https://open.spotify.com/track/4q7VsuFHeglzawWjqNBvgl"
+    },
+    {
+      "album": {
+        "name": "+ Paca M\u00e1s El\u00e1stico",
+        "url": "https://open.spotify.com/album/5AxZHvhaqY1zMszup4tDIU"
+      },
+      "artists": [
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "+ Paca M\u00e1s El\u00e1stico",
+      "url": "https://open.spotify.com/track/66klWPlXvdhLaaAFVtgh1c"
     },
     {
       "album": {
@@ -140,6 +166,28 @@
       "duration_ms": 215379,
       "name": "03:35",
       "url": "https://open.spotify.com/track/42HKPss4PmxTaMKbPQtsZz"
+    },
+    {
+      "album": {
+        "name": "06: 06",
+        "url": "https://open.spotify.com/album/1eh2Fjgh7JKPEka9K9pHG7"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "06:06",
+      "url": "https://open.spotify.com/track/2qmKKjjJhzeZkED1BfCKuA"
     },
     {
       "album": {
@@ -408,6 +456,28 @@
       "duration_ms": 137559,
       "name": "24/7 6.5",
       "url": "https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL"
+    },
+    {
+      "album": {
+        "name": "3+1",
+        "url": "https://open.spotify.com/album/5e3AQeyqQrvUJ5c9rtoTQR"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237871,
+      "name": "3+1",
+      "url": "https://open.spotify.com/track/1kBLmb9VHjuBuriVBa1k2a"
     },
     {
       "album": {
@@ -986,7 +1056,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 292752,
       "name": "ADICTO (feat. Best, Bayriton)",
       "url": "https://open.spotify.com/track/0pVFw0LHdpjAWI2xwoUXQZ"
@@ -1293,6 +1363,28 @@
     },
     {
       "album": {
+        "name": "Afrocito",
+        "url": "https://open.spotify.com/album/0G75T7MelxGCrgWsFp7POC"
+      },
+      "artists": [
+        {
+          "name": "Cestar",
+          "url": "https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d"
+        },
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204315,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/19Eh98G8Xhlk3fljf1H52Y"
+    },
+    {
+      "album": {
         "name": "Almanaque",
         "url": "https://open.spotify.com/album/3ZAKehawQdF1HlKRFJVZ8l"
       },
@@ -1396,7 +1488,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 195652,
       "name": "Amor Bipolar",
       "url": "https://open.spotify.com/track/54azU25VdlyMhiqHOOCZeL"
@@ -1720,7 +1812,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 163200,
       "name": "Aracnofobia",
       "url": "https://open.spotify.com/track/58zcBvEjBEIi7ZpFOImgTm"
@@ -1930,7 +2022,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 215172,
       "name": "Ayayay!",
       "url": "https://open.spotify.com/track/4WbVFTTOkBKDYWZbemaMtI"
@@ -3215,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "CALL ME MAYBE",
+        "url": "https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222401,
+      "name": "CALL ME MAYBE",
+      "url": "https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk"
+    },
+    {
+      "album": {
         "name": "Calle y Pistola",
         "url": "https://open.spotify.com/album/2rMOOoHNbnz9cw4WrZP2fV"
       },
@@ -3506,6 +3616,24 @@
       "duration_ms": 170259,
       "name": "Charla Motivacional (Crema Lirical #1)",
       "url": "https://open.spotify.com/track/5uTL1L9FsP2zy57mDnKxft"
+    },
+    {
+      "album": {
+        "name": "Cheto Mal",
+        "url": "https://open.spotify.com/album/2oJxZbquPWkGZOlsRIIl2k"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122307,
+      "name": "Cheto Mal",
+      "url": "https://open.spotify.com/track/32299N6IyNvtw1O3eTmWbv"
     },
     {
       "album": {
@@ -4648,6 +4776,24 @@
       "duration_ms": 153913,
       "name": "Cuando Se Apaga La Luz",
       "url": "https://open.spotify.com/track/4U6xgntrpMLoeD30fS4HSE"
+    },
+    {
+      "album": {
+        "name": "Cuando Un Bandido Se Enamora",
+        "url": "https://open.spotify.com/album/1kuu3zPce05oeXLdk0v5h8"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Cuando Un Bandido Se Enamora",
+      "url": "https://open.spotify.com/track/7ubUW5H3zEXQxbS1jnSY15"
     },
     {
       "album": {
@@ -8538,7 +8684,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 225315,
       "name": "Harakiri",
       "url": "https://open.spotify.com/track/7LMd7iyJyS2y3lGzYLuMQR"
@@ -10758,6 +10904,28 @@
       "duration_ms": 190000,
       "name": "Lo 100to",
       "url": "https://open.spotify.com/track/5K7DierHuSWyzmCzPNapd8"
+    },
+    {
+      "album": {
+        "name": "LO DE ATRA",
+        "url": "https://open.spotify.com/album/69nlAeXve0Lz9f0vuzJt8T"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155833,
+      "name": "LO DE ATRA",
+      "url": "https://open.spotify.com/track/0eraiv0elFrJ5DZf8SRJ00"
     },
     {
       "album": {
@@ -18896,7 +19064,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 189523,
       "name": "Si Lo Nuestro",
       "url": "https://open.spotify.com/track/4NCsrLb8m43cuxfQW2axJv"
@@ -19474,7 +19642,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 149312,
       "name": "Soy millonaria",
       "url": "https://open.spotify.com/track/5GOcR77MtRkhxsFVWMau13"
@@ -21101,6 +21269,28 @@
     },
     {
       "album": {
+        "name": "Tu Flaite",
+        "url": "https://open.spotify.com/album/3jgcsYhoQlc5fJ4PngwjYt"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178425,
+      "name": "Tu Flaite",
+      "url": "https://open.spotify.com/track/03jyAhC78tqfRqXPo73qBt"
+    },
+    {
+      "album": {
         "name": "Tu Luna",
         "url": "https://open.spotify.com/album/4qkDvJPXV73brNrXPBrtgK"
       },
@@ -21714,6 +21904,28 @@
       "duration_ms": 202173,
       "name": "UN BANDOLERO (feat. C.R.O)",
       "url": "https://open.spotify.com/track/3vh0hTfg90xqPMI5J6Z90p"
+    },
+    {
+      "album": {
+        "name": "Un Hijo Mio",
+        "url": "https://open.spotify.com/album/4KQWT1IApkEOG0eFXHONNX"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Un Hijo Mio",
+      "url": "https://open.spotify.com/track/0qzCeecDTX38EOr0gM6pMt"
     },
     {
       "album": {
@@ -22808,7 +23020,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 195555,
       "name": "X5",
       "url": "https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk"

@@ -328,7 +328,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 154573,
       "name": "Cafetin",
       "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 247026,
       "name": "El Abrojito",
       "url": "https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 207746,
       "name": "El Mundo De La Fantas\u00eda",
       "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Los Lobos del Recuerdo",
+        "url": "https://open.spotify.com/album/17BgcItk2ixHXDenSIdA4T"
+      },
+      "artists": [
+        {
+          "name": "La Chicana",
+          "url": "https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171990,
+      "name": "F\u00f3sil",
+      "url": "https://open.spotify.com/track/0gxxQkcl0XPRnAvwG0XZ5K"
+    },
+    {
+      "album": {
         "name": "From Argentina To The World",
         "url": "https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G"
       },
@@ -1190,6 +1208,24 @@
       "duration_ms": 175186,
       "name": "Ilusi\u00f3n De Mi Vida - Instrumental",
       "url": "https://open.spotify.com/track/4bctNy4NQDBheODvK56ab8"
+    },
+    {
+      "album": {
+        "name": "Jugar Con Fuego",
+        "url": "https://open.spotify.com/album/6fI5p3T9SCZYudbeziHmfb"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177510,
+      "name": "Jugar Con Fuego",
+      "url": "https://open.spotify.com/track/24P2QUnDcKOcPL4umczz39"
     },
     {
       "album": {
@@ -2290,7 +2326,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 209746,
       "name": "Si Sos Brujo",
       "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"

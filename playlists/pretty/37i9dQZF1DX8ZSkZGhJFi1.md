@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,979 likes - 450 songs - 17 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,987 likes - 450 songs - 17 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 449 | [Elysian Fields](https://open.spotify.com/track/7MtTVOpbquSu8SCiNQY0fS) | [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [DJ Lagoa](https://open.spotify.com/artist/4YFewOTyrU36fR7k3LkIY4) | [Elysian Fields](https://open.spotify.com/album/4KM1V8eVOymeKDI64aInfM) | 2:30 |
 | 450 | [Busy Branches](https://open.spotify.com/track/2GKQNEAMc6bQjqBHdNtlzz) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Busy Branches](https://open.spotify.com/album/5hSpAo6OG8Z4GmkPwX1fw3) | 2:18 |
 
-Snapshot ID: `MCxkZGZiNjg0NTA5YTg2MDNjOTYyYmE1OWFiMmFhYzc3YzEwNGNhMzVl`
+Snapshot ID: `MCw5NGZlZmEwYmUzOWFjZTU5ZWJhOTJlY2JkNzJmMDQyMzBiMzAzMzM5`

@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "30th Anniversary Early BEST Collection for Soundtrack",
+        "url": "https://open.spotify.com/album/59JBJQI8lO2ltdMWICPdFe"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305826,
+      "name": "the world",
+      "url": "https://open.spotify.com/track/03wGNAgIlaNUfGOLB8lpcA"
+    },
+    {
+      "album": {
         "name": "Consolation",
         "url": "https://open.spotify.com/album/5QI1q4o2LJ4UpbgesVfBcL"
       },

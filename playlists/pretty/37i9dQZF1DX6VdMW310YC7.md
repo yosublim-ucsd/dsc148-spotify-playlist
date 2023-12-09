@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,695,155 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,695,584 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 |
 | 100 | [Do I Go](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Do I Go](https://open.spotify.com/album/4SJrqffwVOdXAhuzl1subk) | 3:34 |
 
-Snapshot ID: `MCw1NzhiY2RlOWNhNGU2ZWNkZmNlNmE5NTkyM2M4NmU2NjgxZTE5ODJm`
+Snapshot ID: `MCw1ZTUxMDNjM2NhYzRmNjMwOTUzYzE1YzkwMTE4Y2NiNjEyZDNjMWNi`

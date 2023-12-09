@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "above the clouds",
+        "url": "https://open.spotify.com/album/2CuKBq5lsJJh87ajdVzwa9"
+      },
+      "artists": [
+        {
+          "name": "Dancing and Dreaming",
+          "url": "https://open.spotify.com/artist/0og1CmJP5QtC99aDftPaOt"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "above the clouds",
+      "url": "https://open.spotify.com/track/3tYIa6bWt6MFfDHCRceCZ6"
+    },
+    {
+      "album": {
         "name": "Ascending",
         "url": "https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz"
       },
@@ -502,7 +520,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 144483,
       "name": "Bedtime Roses",
       "url": "https://open.spotify.com/track/78p1VT3WakXX97qnnRqQGD"
@@ -4913,6 +4931,24 @@
     },
     {
       "album": {
+        "name": "Spirit Dance",
+        "url": "https://open.spotify.com/album/2Urj4oCqA2SzlhZpmD6oOH"
+      },
+      "artists": [
+        {
+          "name": "Toledo Rains",
+          "url": "https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185597,
+      "name": "Spirit Dance",
+      "url": "https://open.spotify.com/track/60782fvOOB4v0m9dYT7F8M"
+    },
+    {
+      "album": {
         "name": "Spiritual Alignment",
         "url": "https://open.spotify.com/album/6APh84KBRc7seMrOxssFi4"
       },
@@ -6084,6 +6120,24 @@
       "duration_ms": 185188,
       "name": "White Light",
       "url": "https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG"
+    },
+    {
+      "album": {
+        "name": "Windcatcher",
+        "url": "https://open.spotify.com/album/52L1n8jLGDdkwE7CLzwS9v"
+      },
+      "artists": [
+        {
+          "name": "Vayda Sun",
+          "url": "https://open.spotify.com/artist/2DDcsNRmquB7eoFY1S0oxX"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178513,
+      "name": "Windcatcher",
+      "url": "https://open.spotify.com/track/1s3acPHWlJ5irFhryf82xI"
     },
     {
       "album": {

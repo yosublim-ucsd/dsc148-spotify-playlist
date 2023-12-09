@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 66004,
+  "num_followers": 66044,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -83,18 +83,18 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Una Vida No Es Suficiente",
-        "url": "https://open.spotify.com/album/0C7eBRwY63jNnFyqqwrwlj"
+        "name": "A\u00f1os Maravillosos",
+        "url": "https://open.spotify.com/album/0VxzeXQEnzpNsxWxR1yPFC"
       },
       "artists": [
         {
-          "name": "INSITE",
-          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
+          "name": "Klzon Chino",
+          "url": "https://open.spotify.com/artist/6LOwMyA2rOPFKQFOu0rVwn"
         }
       ],
-      "duration_ms": 173133,
-      "name": "Cielos Que Lloran",
-      "url": "https://open.spotify.com/track/1YMUqYf5tNsXJEzaBlswnz"
+      "duration_ms": 224818,
+      "name": "A\u00f1os Maravillosos",
+      "url": "https://open.spotify.com/track/3YguoqggwCvjY3WkAWzLL9"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -119,18 +119,18 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "A\u00f1os Maravillosos",
-        "url": "https://open.spotify.com/album/0VxzeXQEnzpNsxWxR1yPFC"
+        "name": "Una Vida No Es Suficiente",
+        "url": "https://open.spotify.com/album/0C7eBRwY63jNnFyqqwrwlj"
       },
       "artists": [
         {
-          "name": "Klzon Chino",
-          "url": "https://open.spotify.com/artist/6LOwMyA2rOPFKQFOu0rVwn"
+          "name": "INSITE",
+          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
         }
       ],
-      "duration_ms": 224818,
-      "name": "A\u00f1os Maravillosos",
-      "url": "https://open.spotify.com/track/3YguoqggwCvjY3WkAWzLL9"
+      "duration_ms": 173133,
+      "name": "Cielos Que Lloran",
+      "url": "https://open.spotify.com/track/1YMUqYf5tNsXJEzaBlswnz"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
-      },
-      "artists": [
-        {
-          "name": "Aurum",
-          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
-        }
-      ],
-      "duration_ms": 216296,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
         "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 214592,
       "name": "Espero Nadie Ocupe Mi Lugar",
       "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
+      },
+      "artists": [
+        {
+          "name": "Aurum",
+          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
+        }
+      ],
+      "duration_ms": 216296,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "UNODOCE",
-        "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
+        "name": "Disparos",
+        "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
       },
       "artists": [
         {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+          "name": "INSITE",
+          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
         }
       ],
-      "duration_ms": 73533,
-      "name": "UNODOCE",
-      "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
+      "duration_ms": 229500,
+      "name": "Disparos",
+      "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -611,6 +611,22 @@
       "duration_ms": 180000,
       "name": "Nadie Me Entiende",
       "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "UNODOCE",
+        "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
+      },
+      "artists": [
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 73533,
+      "name": "UNODOCE",
+      "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -635,22 +651,6 @@
       "duration_ms": 206451,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "Disparos",
-        "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
-      },
-      "artists": [
-        {
-          "name": "INSITE",
-          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Disparos",
-      "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
-      },
-      "artists": [
-        {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
-        }
-      ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Lugar Especial",
         "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 204168,
       "name": "Lugar Especial",
       "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+      },
+      "artists": [
+        {
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
     },
     {
       "added_at": "2023-10-27 21:57:42",

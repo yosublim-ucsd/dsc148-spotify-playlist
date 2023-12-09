@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 
 > Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,738 likes - 75 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,766 likes - 75 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 | 74 | [Violin Concerto in A minor, Op\. 53: 3\. Finale \(Allegro giocoso, ma non troppo\)](https://open.spotify.com/track/2w1Cl2jswZvdNOC0eVlbZo) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Julia Fischer](https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2), [Tonhalle\-Orchester Zürich](https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg), [David Zinman](https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT) | [Bruch & Dvorak Violin Concertos](https://open.spotify.com/album/76LRTyT5kzhVZ7VMDi3Wbg) | 10:11 |
 | 75 | [Symphony No\. 8 in G Major, Op\. 88, B\. 163: II\. Adagio](https://open.spotify.com/track/1ZdoNaPpjjqUFaWl8AxZmN) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Rafael Kubelík](https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C) | [Dvorak: Symphonies Nos.7 & 8](https://open.spotify.com/album/1DE2xA2tdE4mphmUSpy7eJ) | 10:19 |
 
-Snapshot ID: `MCw2ODUwMDlkMDhhZjAyYjRkNmFiOWMxNDZmMTc5N2I2N2ExYTg2Y2Ew`
+Snapshot ID: `MCw4MDRhNWYzMGZlMDg0NmViNjFiODU3ZTU0MWJjYWY0NjdmMjg4MzY5`

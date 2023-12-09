@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Howdappa Howdu - The Secret of Life",
+        "url": "https://open.spotify.com/album/13qgAYlWQ9NyRhlmP4gr86"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Kumar M S",
+          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291898,
+      "name": "Howdappa Howdu - The Secret of Life",
+      "url": "https://open.spotify.com/track/06IGehC54CWNiupQEi8v9z"
+    },
+    {
+      "album": {
         "name": "Hrudhaya",
         "url": "https://open.spotify.com/album/17ipKkqA6aMzls60vOtOx0"
       },
@@ -3142,7 +3160,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 224158,
       "name": "Nenapaagiru",
       "url": "https://open.spotify.com/track/3pAb0JyhnVl8U6PGUpEmmL"
@@ -3442,7 +3460,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 172312,
       "name": "Ninnane Bayaside",
       "url": "https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu"
@@ -3676,8 +3694,8 @@
           "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
         },
         {
-          "name": "J.O.Y",
-          "url": "https://open.spotify.com/artist/5kPJFxIz3zK6ViPvDPcVOb"
+          "name": "J.O.High",
+          "url": "https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr"
         },
         {
           "name": "Yaaru",
@@ -3850,7 +3868,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 159589,
       "name": "RCB 12th Man Army",
       "url": "https://open.spotify.com/track/3w0i0dc5rDKfpBTp3e3k07"
@@ -4454,6 +4472,24 @@
       "duration_ms": 181162,
       "name": "Top Dawg (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/1h1yNag53gicTawGrxDa1v"
+    },
+    {
+      "album": {
+        "name": "TREND",
+        "url": "https://open.spotify.com/album/7bhoaQXLpTvu5sagNExL1k"
+      },
+      "artists": [
+        {
+          "name": "MC Thrift",
+          "url": "https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "TREND",
+      "url": "https://open.spotify.com/track/7g60e8xOB8DKFoLf9HIi4C"
     },
     {
       "album": {

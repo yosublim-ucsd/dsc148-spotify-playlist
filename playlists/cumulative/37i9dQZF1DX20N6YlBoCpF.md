@@ -2,7 +2,7 @@
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd?si=n\-r0jeoTS8G\_44K7sOPvsw">Kurt Darren</a>
+> Die nuutste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd?si=n\-r0jeoTS8G\_44K7sOPvsw">Kurt Darren</a>
 
 675 songs - 1 day 14 hr 11 min
 

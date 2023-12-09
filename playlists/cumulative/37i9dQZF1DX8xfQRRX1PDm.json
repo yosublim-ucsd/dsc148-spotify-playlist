@@ -3211,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Raees (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5htEa8wThL3TBnRLmsuxzD"
+      },
+      "artists": [
+        {
+          "name": "Pawni Pandey",
+          "url": "https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306582,
+      "name": "Laila Main Laila",
+      "url": "https://open.spotify.com/track/0eNiqkazTEYJJ8fMRPyJx8"
+    },
+    {
+      "album": {
         "name": "Jai Mummy Di",
         "url": "https://open.spotify.com/album/1TMCwsNUq63F8u5RzdBpBC"
       },
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 202556,
       "name": "Not Ramaiya Vastavaiya",
       "url": "https://open.spotify.com/track/5inzjqKe05zP1eInEO8O1i"

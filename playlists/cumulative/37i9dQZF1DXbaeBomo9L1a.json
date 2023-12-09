@@ -770,6 +770,24 @@
     {
       "album": {
         "name": "CeeLo Green Is Thomas Callaway",
+        "url": "https://open.spotify.com/album/6yaXjgyaD0FkhM5DK8pYX1"
+      },
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201846,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1svcYUe9sE7eHVxcu7ijef"
+    },
+    {
+      "album": {
+        "name": "CeeLo Green Is Thomas Callaway",
         "url": "https://open.spotify.com/album/2FtrghOi4t9mjjay5RBXhf"
       },
       "artists": [
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 265186,
       "name": "NOTHING TO ME",
       "url": "https://open.spotify.com/track/6QTxtk3ZO30mI8gHj8aGTP"

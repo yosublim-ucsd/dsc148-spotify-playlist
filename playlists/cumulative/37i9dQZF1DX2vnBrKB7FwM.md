@@ -2,9 +2,9 @@
 
 ### [RAPública de Colombia](https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM)
 
-> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Vic Deal
+> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Luis7Lunes & Sison Beats/Nemesis
 
-129 songs - 7 hr 8 min
+130 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Días de Perros](https://open.spotify.com/track/6Y279nOMn5B8FR7Qb86P5j) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Vergüenza Propia](https://open.spotify.com/album/6G7bf3U6XL6Fo0E2yh8MXD) | 3:32 | 2022-07-15 |  |
 | [Días de Perros](https://open.spotify.com/track/7e2ekeBme0YGET2yOZncue) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Días de Perros](https://open.spotify.com/album/5LrNCIlSOahQZM6WHphvMD) | 3:32 | 2022-02-25 | 2022-07-29 |
 | [El Camión de la Basura](https://open.spotify.com/track/7rAeQfVOdfAIWqHgk28x0A) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [N\-Wise Allah](https://open.spotify.com/artist/4NGPHzbZNLMQkjtrJ2a2Sx) | [El Camión de la Basura](https://open.spotify.com/album/5aAhr5816Tn3pkLSHZwefN) | 3:59 | 2022-02-25 |  |
+| [El Milagro](https://open.spotify.com/track/2Ix36EiqHb6ZeLevZpZTAz) | [Sison Beats/Nemesis](https://open.spotify.com/artist/1WtgnQniTZnkC1ep4OqIQy), [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB) | [El Milagro](https://open.spotify.com/album/0rvW8L8qsRBO3oiBIIijw3) | 3:09 | 2023-12-08 |  |
 | [El Mismo de Siempre](https://open.spotify.com/track/10AjYRkbsAdhnLXrGjGoAg) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [El Mismo de Siempre](https://open.spotify.com/album/5nQ70m6yy4Cc6stPUXSsc9) | 3:23 | 2022-02-25 | 2022-12-24 |
 | [El Remate](https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [El Remate](https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5) | 4:04 | 2022-12-16 |  |
 | [Emancipación](https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5) | 3:54 | 2023-02-17 |  |
@@ -110,7 +111,7 @@
 | [Renace](https://open.spotify.com/track/3d9JEd8TuNfZMrvfVyrBFJ) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [De Vuelta al Sol](https://open.spotify.com/album/5BXQQzcoEgxHGhkPPFn3H8) | 2:31 | 2022-07-15 | 2022-09-02 |
 | [Retrato & Son](https://open.spotify.com/track/4XQhhsiPQsnxLFHAWOXbZY) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Retrato & Son](https://open.spotify.com/album/6CqdWdsbdpe3Gba32qH9YM) | 3:01 | 2022-02-25 |  |
 | [Ritual](https://open.spotify.com/track/7lOfdVm2W1Zk12Jnd8T3ap) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [REDANBLÚ](https://open.spotify.com/album/74TXyCEug1xi0cYVHJL51T) | 2:22 | 2023-08-25 |  |
-| [Roloz In Paris](https://open.spotify.com/track/1z9vlah0a4tPVXBaWZw5mK) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [PNO](https://open.spotify.com/artist/6WvzfmDzyF1baKzCps2Odf), [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Roloz In Paris](https://open.spotify.com/album/75URC7VNJPDs87sb5I8pmb) | 2:50 | 2023-08-25 |  |
+| [Roloz In Paris](https://open.spotify.com/track/1z9vlah0a4tPVXBaWZw5mK) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [PNO](https://open.spotify.com/artist/6WvzfmDzyF1baKzCps2Odf), [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Roloz In Paris](https://open.spotify.com/album/75URC7VNJPDs87sb5I8pmb) | 2:50 | 2023-08-25 | 2023-12-09 |
 | [Sale Fácil](https://open.spotify.com/track/2sNgFAW3YmxwlDg6QuMqXE) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Sale Fácil](https://open.spotify.com/album/4wDwZb0aqX0seZahSU11Vd) | 3:16 | 2022-02-25 |  |
 | [Siempre Recuerdo](https://open.spotify.com/track/0U1sNqtTaZePegE7dfyvek) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6ChyYaAHTxyVQp4il1Qyjs), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Universos Mixtape](https://open.spotify.com/album/7MnWuyMR88boF22p1x9Eus) | 4:00 | 2022-02-25 | 2023-03-01 |
 | [Siempre Recuerdos](https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 4:00 | 2023-02-17 | 2023-12-02 |

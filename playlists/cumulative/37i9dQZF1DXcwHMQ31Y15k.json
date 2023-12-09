@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Happy Asmara",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -16,10 +16,50 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 262297,
       "name": "1001 Bintang",
       "url": "https://open.spotify.com/track/1DCgrzKULaaB2lsPgz8zNY"
+    },
+    {
+      "album": {
+        "name": "1001 Bintang",
+        "url": "https://open.spotify.com/album/6mdusVzOJ061kBqNpo6crI"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262297,
+      "name": "1001 Bintang",
+      "url": "https://open.spotify.com/track/2NR8mSUSmDh7q0LcHxMVvJ"
+    },
+    {
+      "album": {
+        "name": "Abadi",
+        "url": "https://open.spotify.com/album/3pzWxqQOAgJUrTTjll36t7"
+      },
+      "artists": [
+        {
+          "name": "Dendi Nata",
+          "url": "https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn"
+        },
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292864,
+      "name": "Abadi",
+      "url": "https://open.spotify.com/track/6UCbr0O5A3MpqQTjC6eYlx"
     },
     {
       "album": {
@@ -38,7 +78,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 292864,
       "name": "Abadi",
       "url": "https://open.spotify.com/track/6rdqabpJT3jplQzor1os8j"
@@ -60,10 +100,32 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 330850,
       "name": "Abadi - Dangdut Version",
       "url": "https://open.spotify.com/track/1D2YEPKpqCvmQOOi2xHsxX"
+    },
+    {
+      "album": {
+        "name": "Abadi (Dangdut Version)",
+        "url": "https://open.spotify.com/album/0k9lghtcfPTZukrevsgb9f"
+      },
+      "artists": [
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        },
+        {
+          "name": "Syalala Orkes Milenial",
+          "url": "https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330850,
+      "name": "Abadi - Dangdut Version",
+      "url": "https://open.spotify.com/track/3BDmcNJKjZtwaYUEo0FE96"
     },
     {
       "album": {
@@ -193,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Anak Lanang",
+        "url": "https://open.spotify.com/album/37UR4PopF3odzG2214LRW2"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396500,
+      "name": "Anak Lanang",
+      "url": "https://open.spotify.com/track/3WV04K6iHFtoDy5NJ3eYQ9"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq"
       },
@@ -222,7 +302,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 259512,
       "name": "angin dalu",
       "url": "https://open.spotify.com/track/658ox296pj18QSjzTBGWWy"
@@ -276,7 +356,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 249000,
       "name": "Banyu Moto",
       "url": "https://open.spotify.com/track/1UqXKWMR9HXUSabmXxxUiB"
@@ -348,7 +428,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 439945,
       "name": "Bojomu Sesok Tak Silihe",
       "url": "https://open.spotify.com/track/5tH7E362a0KblrK7ycNzBU"
@@ -552,6 +632,24 @@
     {
       "album": {
         "name": "Cundamani",
+        "url": "https://open.spotify.com/album/3RBD9wziMS3dcoKmul4ucQ"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287213,
+      "name": "Cundamani",
+      "url": "https://open.spotify.com/track/4sqUbZcSkxmkc8VWLTcqiY"
+    },
+    {
+      "album": {
+        "name": "Cundamani",
         "url": "https://open.spotify.com/album/6L2xfwstUhr4VJNfbFgLiz"
       },
       "artists": [
@@ -562,7 +660,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 287213,
       "name": "Cundamani",
       "url": "https://open.spotify.com/track/64MmMbaX3hmAKQ6nFLJgpg"
@@ -620,7 +718,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 226942,
       "name": "Dadi Siji",
       "url": "https://open.spotify.com/track/7vJffOmu35UgVjAasLGSts"
@@ -936,6 +1034,24 @@
     {
       "album": {
         "name": "Full Senyum Sayang",
+        "url": "https://open.spotify.com/album/6qYd6W2PyMVSjDCs5VEh6g"
+      },
+      "artists": [
+        {
+          "name": "Evan Loss",
+          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246834,
+      "name": "Full Senyum Sayang",
+      "url": "https://open.spotify.com/track/6Vhst432fSvsduUkqFruiq"
+    },
+    {
+      "album": {
+        "name": "Full Senyum Sayang",
         "url": "https://open.spotify.com/album/3wy9IbCarGhOSaY3WY731C"
       },
       "artists": [
@@ -946,7 +1062,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 246834,
       "name": "Full Senyum Sayang",
       "url": "https://open.spotify.com/track/7k2TwP9u83aABMkNoQuBnn"
@@ -986,6 +1102,24 @@
       "duration_ms": 276480,
       "name": "ganti ayang",
       "url": "https://open.spotify.com/track/1VvExYaGt1IaycmrJPR0ZO"
+    },
+    {
+      "album": {
+        "name": "Gedhe Roso",
+        "url": "https://open.spotify.com/album/6YYcwJN46gVbp8WK2ep1uP"
+      },
+      "artists": [
+        {
+          "name": "Damara De",
+          "url": "https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199205,
+      "name": "Gedhe Roso",
+      "url": "https://open.spotify.com/track/6EHeh6p6C0EllB4e7W8RZB"
     },
     {
       "album": {
@@ -1210,6 +1344,24 @@
     {
       "album": {
         "name": "Kalih Welasku",
+        "url": "https://open.spotify.com/album/5JOZgGxjTBpBlCvcz1W0ie"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304383,
+      "name": "Kalih Welasku",
+      "url": "https://open.spotify.com/track/1Ku6hA1iYecBzIW1JoIffi"
+    },
+    {
+      "album": {
+        "name": "Kalih Welasku",
         "url": "https://open.spotify.com/album/7ft4oHOQSoZz805ZV4bRSX"
       },
       "artists": [
@@ -1220,7 +1372,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 304383,
       "name": "Kalih Welasku",
       "url": "https://open.spotify.com/track/4JRp8Wma0HjHvkHx2Ctl2d"
@@ -1278,6 +1430,28 @@
       "duration_ms": 199800,
       "name": "Kangen Bali Ndeso",
       "url": "https://open.spotify.com/track/2PrN2IROTrrA2ykkEuRWHt"
+    },
+    {
+      "album": {
+        "name": "Kapang (feat. Ajeng Yulia Abdilla)",
+        "url": "https://open.spotify.com/album/0YLvl6OFE7wBC1uFRQgNPY"
+      },
+      "artists": [
+        {
+          "name": "Adhimas Dewa Tricahya",
+          "url": "https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv"
+        },
+        {
+          "name": "Ajeng Yulia Abdilla",
+          "url": "https://open.spotify.com/artist/6KNevSfPmGyAXGulaz95Hl"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339373,
+      "name": "Kapang (feat. Ajeng Yulia Abdilla)",
+      "url": "https://open.spotify.com/track/4YQ5EKOsHCNKZLIuUQkDAM"
     },
     {
       "album": {
@@ -1668,7 +1842,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 388286,
       "name": "Kurangku Opo",
       "url": "https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA"
@@ -1820,6 +1994,24 @@
       "duration_ms": 305454,
       "name": "Lintang Sewengi",
       "url": "https://open.spotify.com/track/4qYRw5qEaofw25P36WWfSR"
+    },
+    {
+      "album": {
+        "name": "LINTANG TRESNO",
+        "url": "https://open.spotify.com/album/7pePOgLJLUMctA667qpAKi"
+      },
+      "artists": [
+        {
+          "name": "Intan Chacha",
+          "url": "https://open.spotify.com/artist/5SpXroFYbrLLG5fgOBkTVk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309677,
+      "name": "LINTANG TRESNO",
+      "url": "https://open.spotify.com/track/2SaWykWk6mlPziz1jSJgvr"
     },
     {
       "album": {
@@ -2008,7 +2200,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 290152,
       "name": "MANGSA OBAH",
       "url": "https://open.spotify.com/track/29wLB4HBboFcB4AtS0VqKf"
@@ -2142,10 +2334,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 270000,
       "name": "Minggir Awas Pliket",
       "url": "https://open.spotify.com/track/2zIqhoCmnbmcapjODS1Kkr"
+    },
+    {
+      "album": {
+        "name": "Modal Percoyo",
+        "url": "https://open.spotify.com/album/70cBWzDCOSHspnLLdRUNwb"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291692,
+      "name": "Modal Percoyo",
+      "url": "https://open.spotify.com/track/4Sv8Mrq1C59S0YEVmBm9cW"
     },
     {
       "album": {
@@ -2284,6 +2494,24 @@
     {
       "album": {
         "name": "Nemen (Hiphop Dangdut Version)",
+        "url": "https://open.spotify.com/album/11lUbzZyDxoBy4yJYASpQy"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274879,
+      "name": "Nemen - Hiphop Dangdut Version",
+      "url": "https://open.spotify.com/track/3Q6DjwdB1gfLJMq1xkGov9"
+    },
+    {
+      "album": {
+        "name": "Nemen (Hiphop Dangdut Version)",
         "url": "https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc"
       },
       "artists": [
@@ -2294,7 +2522,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 274879,
       "name": "Nemen - Hiphop Dangdut Version",
       "url": "https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8"
@@ -2330,7 +2558,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 282240,
       "name": "Nemu",
       "url": "https://open.spotify.com/track/2FvlyBkBPJe1HfScQih3VN"
@@ -2490,6 +2718,24 @@
     {
       "album": {
         "name": "Ngertenono Ati (NDX A.K.A. Version)",
+        "url": "https://open.spotify.com/album/6t3BaKpsXsMDVozmbOqFBS"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240553,
+      "name": "Ngertenono Ati - NDX A.K.A. Version",
+      "url": "https://open.spotify.com/track/4Ozqq0yyfqdaI3i7lXxw8X"
+    },
+    {
+      "album": {
+        "name": "Ngertenono Ati (NDX A.K.A. Version)",
         "url": "https://open.spotify.com/album/50h3iNxuauf2J2Bn0Uk2b5"
       },
       "artists": [
@@ -2500,7 +2746,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 240553,
       "name": "Ngertenono Ati - NDX A.K.A. Version",
       "url": "https://open.spotify.com/track/5HGhb6GnOjIqt8cD1kDAMU"
@@ -2554,10 +2800,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 252867,
       "name": "Ninggal Loro",
       "url": "https://open.spotify.com/track/6oLNZlzyBqN2WCTfwYnXww"
+    },
+    {
+      "album": {
+        "name": "Ninggal Loro",
+        "url": "https://open.spotify.com/album/4bR3qFvIsBhSYn1JfGExNB"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252867,
+      "name": "Ninggal Loro",
+      "url": "https://open.spotify.com/track/7rC9pK7Bz2c8K3TSFx6t7o"
     },
     {
       "album": {
@@ -2688,7 +2952,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 328625,
       "name": "Ojo Dibandingke",
       "url": "https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W"
@@ -2930,10 +3194,28 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 314057,
       "name": "Pelaku Macak Korban",
       "url": "https://open.spotify.com/track/0tZQUbI9L0LsjkEO79wEtL"
+    },
+    {
+      "album": {
+        "name": "Pelaku Macak Korban",
+        "url": "https://open.spotify.com/album/0CU4ITSBkNCl9kD9EPENCp"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314057,
+      "name": "Pelaku Macak Korban",
+      "url": "https://open.spotify.com/track/1l5Vdl7NeeR1kRYMLR4rKg"
     },
     {
       "album": {
@@ -3372,7 +3654,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 285886,
       "name": "Rasah Nyangkem 3 (Gak Bahaya Ta?)",
       "url": "https://open.spotify.com/track/2aueDPar55SYxa2zFn17PZ"
@@ -3412,7 +3694,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 235200,
       "name": "Resiko Tresna Sejati",
       "url": "https://open.spotify.com/track/117nf2jn1zsHG9H7gZaEjv"
@@ -3550,7 +3832,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 259500,
       "name": "Rungkad",
       "url": "https://open.spotify.com/track/7ykyqUPZMYu6ElknvIOr31"
@@ -3616,6 +3898,24 @@
       "duration_ms": 270666,
       "name": "Sak Dheg Sak Nyet",
       "url": "https://open.spotify.com/track/4nfyju9QoSwzwEZsyn7Tgs"
+    },
+    {
+      "album": {
+        "name": "Salam Tresno",
+        "url": "https://open.spotify.com/album/0eAI9lcLsSjqB8tw89hUdW"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313367,
+      "name": "Salam Tresno",
+      "url": "https://open.spotify.com/track/1vwIQKsGlO41jnKjTGF8qp"
     },
     {
       "album": {
@@ -3746,7 +4046,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 288692,
       "name": "Satru 2",
       "url": "https://open.spotify.com/track/6iKnMyr7TkZxlHZD8ILew9"
@@ -3858,7 +4158,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 352000,
       "name": "Sido Rondo (feat. Mas Tutur)",
       "url": "https://open.spotify.com/track/0CxgPOuTACNddFQC82zu9l"
@@ -4338,7 +4638,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 253440,
       "name": "Waton",
       "url": "https://open.spotify.com/track/3uIn4odpSB1ob8lqSYE0VP"
@@ -4404,6 +4704,24 @@
     {
       "album": {
         "name": "Wes Tatas",
+        "url": "https://open.spotify.com/album/52LPJku9cYjXiBmASI7Yzz"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247328,
+      "name": "Wes Tatas",
+      "url": "https://open.spotify.com/track/1eqJbOz1dIztx3W88CaRbM"
+    },
+    {
+      "album": {
+        "name": "Wes Tatas",
         "url": "https://open.spotify.com/album/0st0wABUWgfiEPkF3fPhsz"
       },
       "artists": [
@@ -4414,7 +4732,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 247328,
       "name": "Wes Tatas",
       "url": "https://open.spotify.com/track/6g6tlaJKQWsL6Ysrt6anxs"

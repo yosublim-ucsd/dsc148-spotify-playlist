@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 ### [Clásicas de Banda](https://open.spotify.com/playlist/37i9dQZF1DX5O5m2ypWiqa)
 
-> ¡Y qué retumbe la bandona, pariente! Banda MS en portada
+> ¡Y qué retumbe la bandona, pariente! Joan Sebastian en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,795,717 likes - 150 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,796,250 likes - 150 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 149 | [Mi Mayor Anhelo](https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 3:29 |
 | 150 | [Y Tú \- Ranchera](https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:51 |
 
-Snapshot ID: `MCw1Njc4YjNmOGM3YzM5NzYwMTkwNDVmNmM3ZjZhZGQ2YTJjYjgzZmFi`
+Snapshot ID: `MCwyMjlmMzE2ZDZlMGJmN2Y5NjE3ZDc5OTc5ZGQzZjAwMGQ1OTNiMzdl`

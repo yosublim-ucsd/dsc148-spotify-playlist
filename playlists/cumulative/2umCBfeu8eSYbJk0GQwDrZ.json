@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 208393,
       "name": "Bad Feelings",
       "url": "https://open.spotify.com/track/5qd1dQIQx64UBRrz9R2rv2"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 211067,
       "name": "Bad Taste",
       "url": "https://open.spotify.com/track/5SmTHQfqmBWbaak0mCyYi4"
@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "bumpercar",
+        "url": "https://open.spotify.com/album/3qkjGDRmq1rl1j8ljNHdjk"
+      },
+      "artists": [
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144752,
+      "name": "bumpercar",
+      "url": "https://open.spotify.com/track/7zBRgPUID7ERXyims1BufW"
+    },
+    {
+      "album": {
         "name": "Candy Pop",
         "url": "https://open.spotify.com/album/7fXCm0PCqu1iVopffq3ZVU"
       },
@@ -450,7 +468,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 181026,
       "name": "Dried Up",
       "url": "https://open.spotify.com/track/2whji197SjeEyLafUkEAbN"
@@ -562,7 +580,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 216666,
       "name": "Fruits Of My Labor",
       "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
@@ -598,7 +616,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 184046,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/0uwtm9ukSarYFqalRStZtb"
@@ -768,6 +786,24 @@
       "duration_ms": 196373,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW"
+    },
+    {
+      "album": {
+        "name": "Another Year Gone",
+        "url": "https://open.spotify.com/album/5Ue9eH8utP2C5koj3Efp6q"
+      },
+      "artists": [
+        {
+          "name": "Elephant Stone",
+          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218665,
+      "name": "History Repeating",
+      "url": "https://open.spotify.com/track/6Sxu3yHQkn27qn6HdWC81f"
     },
     {
       "album": {
@@ -993,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Laced",
+        "url": "https://open.spotify.com/album/3Ai0s9Mub52lhvfhPW0wfr"
+      },
+      "artists": [
+        {
+          "name": "Yumi Nu",
+          "url": "https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201102,
+      "name": "Laced",
+      "url": "https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2"
+    },
+    {
+      "album": {
         "name": "Cousin",
         "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
       },
@@ -1008,6 +1062,24 @@
       "duration_ms": 251386,
       "name": "Levee",
       "url": "https://open.spotify.com/track/3LjINbaBQeitJZD36pVdP4"
+    },
+    {
+      "album": {
+        "name": "Love To Walk Away",
+        "url": "https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127474,
+      "name": "Love To Walk Away",
+      "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
     },
     {
       "album": {
@@ -1325,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Selassie is the Chapel",
+        "url": "https://open.spotify.com/album/6gkiVkkaGUkZRsv6GNOpRd"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/0koNR9Vh7Fe3CDzbGsqiTk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212245,
+      "name": "Selassie is the Chapel",
+      "url": "https://open.spotify.com/track/6347eqxZEaPQr9Y4hSAgc2"
+    },
+    {
+      "album": {
         "name": "Separate Ways (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz"
       },
@@ -1589,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "u come near",
+        "url": "https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192390,
+      "name": "u come near",
+      "url": "https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN"
+    },
+    {
+      "album": {
         "name": "Unhappier",
         "url": "https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5"
       },
@@ -1622,6 +1730,24 @@
       "duration_ms": 198375,
       "name": "waiting",
       "url": "https://open.spotify.com/track/2zkdrkOrB4vzU9O7SyWDD7"
+    },
+    {
+      "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "album": {
@@ -1672,7 +1798,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 253689,
       "name": "We're Gonna Get There In The End",
       "url": "https://open.spotify.com/track/5KfRTm8XQgWBtKNHfVxyei"
@@ -1690,7 +1816,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 183080,
       "name": "What Should I Do?",
       "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"

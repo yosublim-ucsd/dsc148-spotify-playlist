@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "Band On The Run (Underdubbed Mix)",
+        "url": "https://open.spotify.com/album/391TZzS13fNdJ8Dk2AN0oO"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317240,
+      "name": "Band On The Run - Underdubbed Mix",
+      "url": "https://open.spotify.com/track/76nlqO22biwQTzHr194H2N"
+    },
+    {
+      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -844,7 +866,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 280266,
       "name": "Foxey Lady - Live In Maui, 1970",
       "url": "https://open.spotify.com/track/7blY9jGplyzTiS2qltyfFe"

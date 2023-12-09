@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Sofía Reyes & Beéle
 
-335 songs - 20 hr 37 min
+336 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Donde Estan Esos Amigos](https://open.spotify.com/track/0PLpw3w76h4mVnXUDnveRG) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Ya Me Canse](https://open.spotify.com/album/1y8IaieixW46sJO0Zio0EV) | 4:30 | 2022-07-19 | 2023-02-25 |
 | [Donde Estan Esos Amigos](https://open.spotify.com/track/1dN6LzonVuFgQ90x4Ttrse) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Ya Me Canse](https://open.spotify.com/album/2lqcFHVGcnVbR0SvqSICSv) | 4:30 | 2022-03-04 | 2022-07-29 |
 | [Dos Locos](https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:06 | 2022-03-04 | 2022-09-03 |
-| [El Cuchillo](https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [A World Tour](https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U) | 3:41 | 2022-03-04 |  |
+| [El Campeón](https://open.spotify.com/track/3HEXAkSc7S6Dbo4pJpOp1R) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [El Campeón](https://open.spotify.com/album/5hWtvm0it85s5boeVL6v7G) | 3:43 | 2023-12-08 |  |
+| [El Cuchillo](https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [A World Tour](https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U) | 3:41 | 2022-03-04 | 2023-12-09 |
 | [El Guión](https://open.spotify.com/track/0vhTmQVJYu1IGKcGHfwkYO) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [My Destiny](https://open.spotify.com/album/4VW1AYCLK5bpjLwsevKdjh) | 3:29 | 2022-03-25 | 2022-07-22 |
 | [El Guión](https://open.spotify.com/track/50BYSpPCSxT9Uy5ZjarBMt) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [My Destiny](https://open.spotify.com/album/2DjM5pDh6eQxjHOKRSg29X) | 3:29 | 2022-07-19 | 2022-09-03 |
 | [El Intruso](https://open.spotify.com/track/0gSBSVrek88L0xnSUQwlst) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 2:52 | 2022-03-04 |  |

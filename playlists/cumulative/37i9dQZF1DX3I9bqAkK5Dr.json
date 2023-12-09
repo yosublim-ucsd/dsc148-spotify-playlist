@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 186594,
       "name": "Padessave Pilla",
       "url": "https://open.spotify.com/track/3rXoZn6p4OY6gYqPV9A9ko"
@@ -3340,6 +3340,48 @@
       "duration_ms": 218117,
       "name": "The Break-Up Song",
       "url": "https://open.spotify.com/track/5mSMsW4RbRLVly7SEFCSYp"
+    },
+    {
+      "album": {
+        "name": "The Flandy Song (feat. Nawab Gang, Suparna Vontair & Abhijeeth Dubey)",
+        "url": "https://open.spotify.com/album/6Gi5ZYgaQtORcGLg6l1mN7"
+      },
+      "artists": [
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        },
+        {
+          "name": "Damini Bhatla",
+          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
+        },
+        {
+          "name": "Asura",
+          "url": "https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6"
+        },
+        {
+          "name": "Yashwanth Nag",
+          "url": "https://open.spotify.com/artist/3bKJ5PWY9uLhNGhTKiBrlG"
+        },
+        {
+          "name": "Nawab Gang",
+          "url": "https://open.spotify.com/artist/6b0vYJgno5fBgu3UJBPXst"
+        },
+        {
+          "name": "Suparna Vontair",
+          "url": "https://open.spotify.com/artist/6NMChauRkbcKF15Z6epcJf"
+        },
+        {
+          "name": "Abhijeeth Dubey",
+          "url": "https://open.spotify.com/artist/1wSCJisCGYABc4gPDlJfMj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191217,
+      "name": "The Flandy Song (feat. Nawab Gang, Suparna Vontair & Abhijeeth Dubey)",
+      "url": "https://open.spotify.com/track/1LSoTJCXu849hRwA7YBnqg"
     },
     {
       "album": {

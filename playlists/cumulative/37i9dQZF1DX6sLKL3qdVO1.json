@@ -4977,6 +4977,24 @@
     },
     {
       "album": {
+        "name": "LA PRIMERA",
+        "url": "https://open.spotify.com/album/102J1ctTdvklm64wfmgGby"
+      },
+      "artists": [
+        {
+          "name": "Deimi",
+          "url": "https://open.spotify.com/artist/0NrygGrqdoAjfoUieqPFmD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "LA PRIMERA",
+      "url": "https://open.spotify.com/track/2tEC8ZAo3zVwflDjOGVMJZ"
+    },
+    {
+      "album": {
         "name": "La P\u00e1gina",
         "url": "https://open.spotify.com/album/6UFlCcAwI2kV6ICxm48lYT"
       },

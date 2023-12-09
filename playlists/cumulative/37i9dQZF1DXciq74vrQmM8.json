@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Anna Sofia ",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Siiickbrain",
   "name": "misfits 2.0",
   "tracks": [
+    {
+      "album": {
+        "name": "(WHAT DID YOU EXPECT FROM) SEX WITH A STRANGER",
+        "url": "https://open.spotify.com/album/4vLrXibV3kr91I2deh6GUp"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201144,
+      "name": "(WHAT DID YOU EXPECT FROM) SEX WITH A STRANGER",
+      "url": "https://open.spotify.com/track/2h15hDIwg3c0ojcpob5eHI"
+    },
     {
       "album": {
         "name": "i care so much that i dont care at all",
@@ -226,6 +244,24 @@
       "duration_ms": 109157,
       "name": "AGORAPHOBIC",
       "url": "https://open.spotify.com/track/08vwKlwLT6uALzO23JhfFC"
+    },
+    {
+      "album": {
+        "name": "AI (Save Yourself)",
+        "url": "https://open.spotify.com/album/2PcWCQtSCQea2SDQbJmuqO"
+      },
+      "artists": [
+        {
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188895,
+      "name": "AI (Save Yourself)",
+      "url": "https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv"
     },
     {
       "album": {
@@ -1330,7 +1366,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 244876,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/55QKgQKHffpFemjyt0B9iV"
@@ -2405,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/5Md6s8myCyloKB3gJTExZT"
+      },
+      "artists": [
+        {
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148754,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/2WH3mS1wEQVOnqM3MrtgrA"
+    },
+    {
+      "album": {
         "name": "CREEP HEAT",
         "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
       },
@@ -3316,7 +3370,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 230985,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2c6DUvTVi7UkUXmnGmUxuf"
@@ -3558,7 +3612,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 192666,
       "name": "Enemies with Benefits",
       "url": "https://open.spotify.com/track/2Mq5YOnYgqvOfZn8uMMAvC"
@@ -3992,6 +4046,28 @@
       "duration_ms": 186759,
       "name": "Filfy",
       "url": "https://open.spotify.com/track/2QeNrtujr8snbhO954HeUH"
+    },
+    {
+      "album": {
+        "name": "Filfy (Tokky Horror Remix)",
+        "url": "https://open.spotify.com/album/5Ojc6abnr3eUkwIiQlMlrh"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        },
+        {
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177628,
+      "name": "Filfy - Tokky Horror Remix",
+      "url": "https://open.spotify.com/track/73vppi63Im7YURIt1aqi4w"
     },
     {
       "album": {
@@ -5611,6 +5687,24 @@
     },
     {
       "album": {
+        "name": "MY MASOCHISTIC MIND",
+        "url": "https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131076,
+      "name": "I am a Machine",
+      "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
+    },
+    {
+      "album": {
         "name": "I CAN'T FLY",
         "url": "https://open.spotify.com/album/5E3LwMkc36cZjRAugUlI0o"
       },
@@ -5622,7 +5716,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 149620,
       "name": "I CAN'T FLY",
       "url": "https://open.spotify.com/track/1N7gxaXwuUnPZxmJKECApJ"
@@ -6588,6 +6682,28 @@
       "duration_ms": 145651,
       "name": "jeLLiefish aPocaLypsE",
       "url": "https://open.spotify.com/track/5R8UCyOosnFz00nwrY5v38"
+    },
+    {
+      "album": {
+        "name": "Jokeman",
+        "url": "https://open.spotify.com/album/3JbsEMs98HOKzYMmsX6Am4"
+      },
+      "artists": [
+        {
+          "name": "CHELJI",
+          "url": "https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO"
+        },
+        {
+          "name": "Jacob Sartorius",
+          "url": "https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139055,
+      "name": "Jokeman",
+      "url": "https://open.spotify.com/track/55yxVpDoJv8HVM8yRRFuCO"
     },
     {
       "album": {
@@ -9138,7 +9254,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 236437,
       "name": "permanent s m i l e",
       "url": "https://open.spotify.com/track/7xJnVFoKuFqHCfbaShP63W"
@@ -11043,6 +11159,24 @@
     },
     {
       "album": {
+        "name": "straight out the oven !",
+        "url": "https://open.spotify.com/album/1xMSlBl1FaPiCJIZ8ppofk"
+      },
+      "artists": [
+        {
+          "name": "SPIDER",
+          "url": "https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184111,
+      "name": "straight out the oven !",
+      "url": "https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac"
+    },
+    {
+      "album": {
         "name": "STRANGERS",
         "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
       },
@@ -11947,6 +12081,24 @@
     },
     {
       "album": {
+        "name": "Toothache",
+        "url": "https://open.spotify.com/album/67lWLXOlTjMwtfdrgTMElp"
+      },
+      "artists": [
+        {
+          "name": "Westislonely",
+          "url": "https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186229,
+      "name": "Toothache",
+      "url": "https://open.spotify.com/track/0AyKfB8CNXhohSuOfenvpO"
+    },
+    {
+      "album": {
         "name": "GOODGRIEF",
         "url": "https://open.spotify.com/album/0iHirYdH4xyeJrdVtXmhUQ"
       },
@@ -12393,6 +12545,24 @@
     },
     {
       "album": {
+        "name": "TWST0002 (Off-World)",
+        "url": "https://open.spotify.com/album/6OUbgFiB8b7YbFFE7AZFEh"
+      },
+      "artists": [
+        {
+          "name": "twst",
+          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230258,
+      "name": "Was I Ever Alone?",
+      "url": "https://open.spotify.com/track/4BDQ6qmjENrdu4G18xfTuU"
+    },
+    {
+      "album": {
         "name": "watery",
         "url": "https://open.spotify.com/album/5Kxux1R2Ke01Uh5oa1loXi"
       },
@@ -12592,6 +12762,24 @@
       "duration_ms": 167272,
       "name": "WHAT'S WRONG?",
       "url": "https://open.spotify.com/track/1iU6wiNG5YY7AaL2rfAqZf"
+    },
+    {
+      "album": {
+        "name": "When The Devil Speaks\u2026",
+        "url": "https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182197,
+      "name": "When The Devil Speaks\u2026",
+      "url": "https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR"
     },
     {
       "album": {

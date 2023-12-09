@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Don Pero
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,403 likes - 55 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,439 likes - 55 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Rolly Mami](https://open.spotify.com/track/1tJ4indh8Qe1g8S3DvX7DZ) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU) | [Rolly Mami](https://open.spotify.com/album/13oHJvGsqa5I6RFxqX4sSb) | 2:19 |
 | 55 | [Non sai di me](https://open.spotify.com/track/3A9N1BNNayyIwV4TndhNbs) | [Flaza](https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH) | [Non sai di me](https://open.spotify.com/album/4Rg5xUoxzHyY4734IBTcrk) | 3:12 |
 
-Snapshot ID: `MCwyM2IyMDBhMjcyY2UyMmM2NjhhMjJjMjA1MjFhMDk2MGMxYjQ1Zjlk`
+Snapshot ID: `MCwwZWM3OWM0YTNkMmQ3ZWJkNzNiZGM5OWExYTFjNmE2Mjk2ZjMwMjQx`

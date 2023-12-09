@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 139800,
       "name": "EUPHORIA SECRET",
       "url": "https://open.spotify.com/track/29aUIAviBlcr0yuIAjuzNn"
@@ -2111,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/0p5240k3qJdmTjdMCR5lEO"
+      },
+      "artists": [
+        {
+          "name": "HXPETRAIN",
+          "url": "https://open.spotify.com/artist/58Kb5i2Bxw4XM6Cj8a5hbi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5Oom5k3WHqAhJRe0lgueTI"
+    },
+    {
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/5ZcRhb7zelopjMDIAXn5Xn"
       },
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 114947,
       "name": "Night Finding",
       "url": "https://open.spotify.com/track/6e8aObTgP8Jb4eZt5mAAk1"
@@ -2828,6 +2846,28 @@
       "duration_ms": 214290,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/4tyb212aoIT5gYJQIg40MM"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/6aXWH9B3mn8qewDzzuIzkm"
+      },
+      "artists": [
+        {
+          "name": "LXRY PXNK",
+          "url": "https://open.spotify.com/artist/25ZRM52hYigccz8com4s8t"
+        },
+        {
+          "name": "CHMCL S\u00d8UP",
+          "url": "https://open.spotify.com/artist/3o6lxZ9ULOHMk438t24bIH"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/48Kws1UrNWaIpoo6w8u2IX"
     },
     {
       "album": {

@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 180000,
       "name": "36,201 feet",
       "url": "https://open.spotify.com/track/2i28I5oI7HrkYxX1zS91AK"
@@ -540,7 +540,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 123592,
-      "name": "Close Your Eyes And Listen",
+      "name": "Close Your Eyes and Listen",
       "url": "https://open.spotify.com/track/006nnWonryJaAktux75zAs"
     },
     {
@@ -848,6 +848,24 @@
       "duration_ms": 159027,
       "name": "Dreams & Calmness",
       "url": "https://open.spotify.com/track/295uck3ky42Qj4rxbISGG5"
+    },
+    {
+      "album": {
+        "name": "Dreams & White Noise",
+        "url": "https://open.spotify.com/album/5fPC95lYoKdzVLxHIubFRJ"
+      },
+      "artists": [
+        {
+          "name": "Xiskko",
+          "url": "https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205146,
+      "name": "Dreams & White Noise",
+      "url": "https://open.spotify.com/track/2XoROGFdiU4XDCrUvK7Agz"
     },
     {
       "album": {
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 150000,
       "name": "Low Earth Orbit",
       "url": "https://open.spotify.com/track/6iFY0bfr83RB6oq8V6MkSG"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 149672,
       "name": "Mirrored Sky",
       "url": "https://open.spotify.com/track/1xfTMONZWgzxpjSyEV4b4Q"
@@ -2446,7 +2464,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 198250,
       "name": "Pink Noise 609Hz",
       "url": "https://open.spotify.com/track/7tGJq9NtNagYGsgSdYFhGE"
@@ -4347,6 +4365,24 @@
     },
     {
       "album": {
+        "name": "White Noise - REM Sleep",
+        "url": "https://open.spotify.com/album/4CqWnCw84Gb9fTEfPzpQnP"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Activity",
+          "url": "https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197065,
+      "name": "White Noise - REM Sleep",
+      "url": "https://open.spotify.com/track/3spnIMQNyQKet0F5lELlt4"
+    },
+    {
+      "album": {
         "name": "Sleep Through the Night",
         "url": "https://open.spotify.com/album/0QJdY7Fk0QhTPwPBmP1EmS"
       },
@@ -4560,6 +4596,24 @@
       "duration_ms": 164583,
       "name": "White Noise for Baby Sleep",
       "url": "https://open.spotify.com/track/16Vewnjl60wKkzZb8bz0Hp"
+    },
+    {
+      "album": {
+        "name": "White Noise for Cold Nights",
+        "url": "https://open.spotify.com/album/2bpefnmSKrpk0YYhEB62dd"
+      },
+      "artists": [
+        {
+          "name": "Brightlo",
+          "url": "https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200548,
+      "name": "White Noise for Cold Nights",
+      "url": "https://open.spotify.com/track/1WRRnYrTK5lsxYTCjPwWpz"
     },
     {
       "album": {

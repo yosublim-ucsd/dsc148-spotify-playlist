@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume! Cover: Jessica Mauboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,691 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,707 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 49 | [Bigger](https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Bigger](https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl) | 3:18 |
 | 50 | [NIGHTS LIKE THIS](https://open.spotify.com/track/2hOKrPOGFsWinOWguSvjSR) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/3gKp0v7cx8VBr0C3dzgizg) | 3:03 |
 
-Snapshot ID: `MCxhMTEyMjBkMmQ1MzEwZTVhODVmNjE2MjAyNDMyNjAxNzJiMTM5NTY1`
+Snapshot ID: `MCxiNmM4NzhmMTZmOWI2ODRlMzdlMTIyZWQyN2I3NmI2Y2EyNjYxNWFi`

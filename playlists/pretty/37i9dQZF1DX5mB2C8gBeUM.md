@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Redferrin
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,140 likes - 150 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,174 likes - 150 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 149 | [Hate Me More](https://open.spotify.com/track/3eR9esizpZyvy4NBAiViZ6) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Hate Me More](https://open.spotify.com/album/75zEUdUGdIoRQDU5MXnzcj) | 2:40 |
 | 150 | [Gave It Up](https://open.spotify.com/track/2RJowhbRcHVqobHqGsoa5N) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt), [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Gave It Up](https://open.spotify.com/album/52uUMdmL7s6iFCvGLU4aSr) | 3:23 |
 
-Snapshot ID: `MCxjY2U5ZTVkYjA2ZDY5Njg2NzRkOTM1NzBhYWY3YmMwNGNiNjMxYWZm`
+Snapshot ID: `MCw3M2Q1MWEyMDk3YjU4NWNmYWVjZmI3MDc3YzVhYjU3ZjUxZjM2ZTk3`

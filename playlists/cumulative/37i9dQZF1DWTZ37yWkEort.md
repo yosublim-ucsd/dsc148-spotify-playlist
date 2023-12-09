@@ -4,7 +4,7 @@
 
 > From joyful jubillance to hushed harmonies\. Cover: Pentatonix
 
-78 songs - 3 hr 50 min
+79 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Carol of the Bells](https://open.spotify.com/track/3rBwq738wVuKxJZ6YBvfV5) | [Red Letter Daze](https://open.spotify.com/artist/1vAhVbWP3CHJtZ4Tf9gcdW) | [Carol of the Bells](https://open.spotify.com/album/60lvtyh0ZKUrIxyle722Ou) | 2:05 | 2023-11-24 |  |
 | [Carol Of The Bells Of Notre Dame](https://open.spotify.com/track/1KqASVrRuKk4sQ8c6Cbcr4) | [Voctave](https://open.spotify.com/artist/6qCQcw3ZKdmAFv0v4u5ey2) | [The Spirit Of The Season \(Deluxe Edition\)](https://open.spotify.com/album/5BCKBGFjhmVbHg29qQkzCT) | 2:50 | 2022-11-15 | 2023-10-21 |
 | [Christmas Don't Be Late](https://open.spotify.com/track/5d2oZk4nUXRdd3yQ8AnXSr) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [Deejay Young](https://open.spotify.com/artist/3xzi7hxS4oDQt8PeSvtkkN) | [Christmas Don't Be Late](https://open.spotify.com/album/2fs7dB0LoUPqVnBd8iJ82T) | 3:09 | 2022-12-08 |  |
-| [Christmas Don’t Be Late \(The Chipmunk Song\)](https://open.spotify.com/track/1URQnVsdxFsgKSjb8zXtaI) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [A Rockapella Holiday](https://open.spotify.com/album/1WCdcmjKznIqlpGrSzMKWO) | 2:58 | 2017-11-08 |  |
+| [Christmas Don’t Be Late \(The Chipmunk Song\)](https://open.spotify.com/track/1URQnVsdxFsgKSjb8zXtaI) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [A Rockapella Holiday](https://open.spotify.com/album/1WCdcmjKznIqlpGrSzMKWO) | 2:58 | 2017-11-08 | 2023-12-09 |
 | [Christmas Eve / Sarajevo 12/24](https://open.spotify.com/track/4G1ZHJG1wPzkXuDG6FEHVj) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) | [He Is Born](https://open.spotify.com/album/0EN4NLHCDuXDbMQDIDZK0H) | 3:16 | 2017-11-08 |  |
 | [Christmas Night With You](https://open.spotify.com/track/2JS7lS8Ydlnd4p6NnXMdNQ) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Christmas Night With You](https://open.spotify.com/album/6Sq3zZIxUkBgHTQS8YooAQ) | 2:39 | 2022-12-08 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/5dQRW3FZhhf9aNXujAT4r5) | [Afro Blue](https://open.spotify.com/artist/7BN6dSeHMZJUBap8P4Nxew) | [The Sing\-Off: Songs of the Season](https://open.spotify.com/album/4tmjqrOYzoP6nIn4oFBLlE) | 2:51 | 2017-11-08 |  |
@@ -78,6 +78,7 @@
 | [The 12 Days of Christmas](https://open.spotify.com/track/5f5wlkRHWhYxOdp1hOUsTb) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Christmas Cheers \(Deluxe\)](https://open.spotify.com/album/2M5NEqQVs7kIit8QbtXrRs) | 2:58 | 2017-11-08 | 2023-10-21 |
 | [The Christmas Rush](https://open.spotify.com/track/7y4JA8uQPhjH3459EZy72u) | [Mike Tompkins](https://open.spotify.com/artist/3h3F1qpVfzQDCODlvMCQZm) | [The Christmas Rush \- Single](https://open.spotify.com/album/0a1Smb21lciXGVk8hrzYxA) | 2:48 | 2017-11-08 |  |
 | [The First Noel](https://open.spotify.com/track/6Lu8BYRVgnlgEj65RvpFdH) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:24 | 2017-11-08 |  |
+| [The First Noel 2023](https://open.spotify.com/track/3yIevB0X71GJW5dAiV1auG) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [The First Noel 2023](https://open.spotify.com/album/5JyUknRbmUjGkehYL8dYOS) | 2:30 | 2023-12-08 |  |
 | [Up on the House Top](https://open.spotify.com/track/0OlajupYfpKTRLhE5Kxa0o) | [Mike Tompkins](https://open.spotify.com/artist/3h3F1qpVfzQDCODlvMCQZm) | [Up on the House Top](https://open.spotify.com/album/0h3wl0m0rGLS81RecbWS2s) | 1:40 | 2017-11-08 |  |
 | [We Need a Little Christmas](https://open.spotify.com/track/75ho68NuOvqytkUAVxYuW5) | [Voctave](https://open.spotify.com/artist/6qCQcw3ZKdmAFv0v4u5ey2) | [It Feels Like Christmas](https://open.spotify.com/album/1e49L78osVK0BiJK1pngDS) | 2:04 | 2023-10-20 |  |
 | [What Child Is This](https://open.spotify.com/track/0OjbIsZ9ttxQGBMO6d14LA) | [The Ball Brothers](https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js) | [What Child Is This](https://open.spotify.com/album/0CgbCARQPYaxnCeoVa71bH) | 3:33 | 2022-11-15 |  |

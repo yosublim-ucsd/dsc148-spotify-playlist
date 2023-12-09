@@ -4,7 +4,7 @@
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-80 songs - 5 hr 28 min
+81 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aaluma Doluma](https://open.spotify.com/track/1Do2hDE0etMakAEQbyOd4L) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 4:18 | 2021-11-15 |  |
 | [Aathangara Orathil](https://open.spotify.com/track/1ZbfvUHBfdODgIL70sk6XR) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [MC Vickey](https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2) | [Yaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HtrooMm0B6ORAX2vIOlJC) | 4:24 | 2021-11-15 |  |
 | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy) | 2:52 | 2021-11-15 |  |
+| [Arakkonam Style \- From "Blue Star"](https://open.spotify.com/track/51NhQWfzmCMK6hB1PFKmPc) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Arakkonam Style \(From "Blue Star"\)](https://open.spotify.com/album/4LsdHtrT3Xy4XeLnQ8oFLm) | 3:11 | 2023-11-27 |  |
 | [Bimbilikki Pilapi](https://open.spotify.com/track/1Hdz67JES35Z4h3Yd4PXvV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Prince \(Tamil\)](https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA) | 4:07 | 2022-10-11 |  |
 | [Bittu Padam Di](https://open.spotify.com/track/3kKHUvSrR4wx3UhRb5bXaH) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Adhik Ravichandran](https://open.spotify.com/artist/4NtAip7XvIcTAy40TvK1cV) | [Trisha Illana Nayanthara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vq5Malmnzi69toC2WN41D) | 3:47 | 2021-11-15 |  |
 | [Breakup Song \- From "Naan Sirithal"](https://open.spotify.com/track/7wXCinXw50iT5VdReFalv2) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Breakup Song \(From "Naan Sirithal"\)](https://open.spotify.com/album/6ABJBM7ORI04UjG0btqkDL) | 2:49 | 2021-11-15 |  |

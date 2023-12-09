@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 222971,
       "name": "Calming Seashore",
       "url": "https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc"
@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Delta Ocean Bath",
+        "url": "https://open.spotify.com/album/6ohfoEEk0Q5o3K5uJawdqZ"
+      },
+      "artists": [
+        {
+          "name": "Sofia Marcello",
+          "url": "https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173154,
+      "name": "Delta Ocean Bath",
+      "url": "https://open.spotify.com/track/6KFqZ7xPvxSdqVGm06HUnM"
+    },
+    {
+      "album": {
         "name": "Devine Waves",
         "url": "https://open.spotify.com/album/7987vByLF9HkepU0VIabSG"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 154819,
       "name": "Empyrean Sun",
       "url": "https://open.spotify.com/track/7F3hKJIuRMTXT4tvgUF1cK"
@@ -492,6 +510,24 @@
       "duration_ms": 178285,
       "name": "Hidden Beach",
       "url": "https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp"
+    },
+    {
+      "album": {
+        "name": "Insignia Waves",
+        "url": "https://open.spotify.com/album/6mj5pCg8JG9iOWzr1cKPQI"
+      },
+      "artists": [
+        {
+          "name": "Jungussen",
+          "url": "https://open.spotify.com/artist/0pEakNfx2p7HQU6e3Ow9jW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232624,
+      "name": "Insignia Waves",
+      "url": "https://open.spotify.com/track/1v3PCOshBc0zitzDZ0Hlcw"
     },
     {
       "album": {

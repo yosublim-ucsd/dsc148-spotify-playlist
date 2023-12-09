@@ -1,12 +1,12 @@
 {
   "description": "Funk favorites from 2023. Cover: Kossisko #SpotifyWrapped",
-  "num_followers": 6637,
+  "num_followers": 6655,
   "original_name": "Best Funk Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTBiYTZkNzE1YWNiZjRmYzdkMDY0YTc3ZWQ4YTI3Zjg1MzNjNWMz",
+  "snapshot_id": "MCxkZGYxNmQzNWU5YTc1MmE5MzY4YTBkY2M5ODIzMjc5NTI3ZjQ2M2I2",
   "tracks": [
     {
       "added_at": "2023-11-29 12:17:00",
@@ -688,18 +688,6 @@
           "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
         },
         {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
-        },
-        {
-          "name": "Fred Wesley",
-          "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        },
-        {
           "name": "Pee Wee Ellis",
           "url": "https://open.spotify.com/artist/4nOsbPxGYii9IpCEfCCSbo"
         },
@@ -712,12 +700,20 @@
           "url": "https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg"
         },
         {
-          "name": "Richie Stevens",
-          "url": "https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl"
-        },
-        {
           "name": "Reuben Fowler",
           "url": "https://open.spotify.com/artist/1VvCD8wmMTcFpQoiikyIbo"
+        },
+        {
+          "name": "Fred Wesley",
+          "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
         }
       ],
       "duration_ms": 305454,

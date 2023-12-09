@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Milroe
+> Fourth quarter, two minutes left .\. get locked in\. Cover: LeBron James & Anthony Davis
 
-557 songs - 1 day 4 hr 22 min
+559 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Futsal Shuffle 2020](https://open.spotify.com/track/2Ec33AVlkTTq8BHFgBTdQs) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Futsal Shuffle 2020](https://open.spotify.com/album/4uTOUYhLrGRKkfxfPKTkuy) | 3:18 | 2021-09-02 | 2022-06-25 |
 | [GAH DAMN HIGH](https://open.spotify.com/track/74QDDpNKio3jo0SmLT71nv) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [GAH DAMN HIGH](https://open.spotify.com/album/0eVdtXi4iRhiBezYq2nzp1) | 2:49 | 2021-09-02 | 2023-02-18 |
 | [GEEKALEEK \(feat\. Cash Kidd\)](https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [GEEKALEEK \(feat\. Cash Kidd\)](https://open.spotify.com/album/37Vw00Rrpb0klzR4Tez4bo) | 2:26 | 2023-02-03 | 2023-02-15 |
+| [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2023-12-08 |  |
 | [Girls Have Fun \(feat\. G\-Eazy & Rich The Kid\)](https://open.spotify.com/track/1NHlyKgtR4roNylOhidKSv) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Girls Have Fun \(feat\. G\-Eazy & Rich The Kid\)](https://open.spotify.com/album/1KLUE6sVMdRUxD3MRUyS0M) | 2:55 | 2021-09-02 | 2022-06-23 |
 | [Glock In My Lap](https://open.spotify.com/track/6pcywuOeGGWeOQzdUyti6k) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:13 | 2023-09-01 |  |
 | [GO AGAIN \- Intro](https://open.spotify.com/track/7gDBTPpsYhVi93lvhVTJWZ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby 2](https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz) | 2:06 | 2022-09-30 | 2022-10-22 |
@@ -314,6 +315,7 @@
 | [Mood Swings \(feat\. Lil Tjay\)](https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:33 | 2021-09-02 | 2023-03-14 |
 | [Moonwalking in Calabasas \- YG Remix](https://open.spotify.com/track/0Ho6FZYMzklqIlRaa9LRR3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Moonwalking in Calabasas \(YG Remix\)](https://open.spotify.com/album/1gaTBBgYUTU0mSzJtMzYdo) | 3:02 | 2021-09-02 | 2022-06-25 |
 | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/track/5FAQb7Cfps6JCYl2ZjtWHO) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/album/1RuIdS69hrZ6ToCFOIRjYK) | 3:36 | 2022-06-24 | 2023-06-09 |
+| [Morant \(feat\. Skilla Baby\)](https://open.spotify.com/track/3skAfNDUhLK3dZsF9ac7Fw) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Back Outside](https://open.spotify.com/album/4g0tiSLEGgiPOPTOMS5UGP) | 2:59 | 2023-12-08 |  |
 | [Motion God](https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 | 2023-06-09 |  |
 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 | 2023-05-18 | 2023-06-18 |
 | [Murder On My Mind](https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [I AM YOU](https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW) | 4:28 | 2021-09-02 | 2022-06-25 |

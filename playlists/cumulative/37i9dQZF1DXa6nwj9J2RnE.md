@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Naaz
 
-113 songs - 6 hr 15 min
+115 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [For Good](https://open.spotify.com/track/2yjaGTM6j1aOW3OXmEbvsy) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [With You In The Room](https://open.spotify.com/album/2aN4RGXYEXSAtC92ePD7JD) | 3:04 | 2023-02-23 | 2023-04-01 |
 | [Forever](https://open.spotify.com/track/6mWi1D3usqO9JSFTqZWUuZ) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [GODSPEED](https://open.spotify.com/album/5PznlTVFdnmXyp34K4iJjI) | 3:06 | 2023-02-23 |  |
 | [Glas In Lood](https://open.spotify.com/track/2jXsjXKDneBlnppUhdaaKC) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 3:36 | 2023-02-23 |  |
-| [Golvend Water](https://open.spotify.com/track/11WNquIczwWq8t8utMQpae) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Golvend Water](https://open.spotify.com/album/3rqmnLiK024NpId3HhxkdB) | 2:30 | 2023-02-23 |  |
+| [Golvend Water](https://open.spotify.com/track/11WNquIczwWq8t8utMQpae) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Golvend Water](https://open.spotify.com/album/3rqmnLiK024NpId3HhxkdB) | 2:30 | 2023-02-23 | 2023-12-09 |
 | [Guitar Guy](https://open.spotify.com/track/2PN5wHMSWg8U6Ord2lfwU7) | [Mayer Malik](https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw) | [Guitar Guy](https://open.spotify.com/album/1dW4MSpzSFrVPUQZ46WT6T) | 3:24 | 2023-02-23 | 2023-05-10 |
 | [Hard Work](https://open.spotify.com/track/5erRk2eskp3Ns8pfOEtbxq) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Hard Work](https://open.spotify.com/album/5iCijpR8CvLw1ftF7M71k1) | 2:35 | 2023-02-23 | 2023-05-12 |
 | [I Don't Care Tonight](https://open.spotify.com/track/6kZwi3zqzCwVejpjYfIaOa) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [I Don't Care Tonight](https://open.spotify.com/album/4WZaOHiKK6GLGimpLPHZC3) | 3:48 | 2023-05-26 |  |
@@ -114,6 +114,7 @@
 | [Waarom /2](https://open.spotify.com/track/1BjpwQcgj54IukIeD9eMEs) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Waarom /2](https://open.spotify.com/album/2BIesNOHRfDIy0moaQc3gD) | 3:19 | 2023-02-23 | 2023-05-26 |
 | [Waiting On You \- Recorded Live](https://open.spotify.com/track/4YRPoV5sVEWaIwbyOBrQMx) | [Lance Priester](https://open.spotify.com/artist/2c57pFinaNzjVJOUUqai3v) | [Waiting On You \(Recorded Live\)](https://open.spotify.com/album/48gFbqIM1Q8LQMAAfNC4hK) | 5:04 | 2023-06-08 |  |
 | [Where Nothing Lives](https://open.spotify.com/track/6ofdXDYZi0FlGADmT8GXLM) | [Ariana Popal](https://open.spotify.com/artist/2KtR4fuIjdVu1h8slsENsD) | [Where Nothing Lives](https://open.spotify.com/album/4hftnqNfW3ZwZKoGpgehEV) | 3:28 | 2023-02-23 | 2023-11-10 |
+| [Who Are You Running From](https://open.spotify.com/track/3jSDhLHxnERqG9XWc4ynFz) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Who Are You Running From](https://open.spotify.com/album/3sWrHw3QHMZXIfEjZ4x387) | 3:16 | 2023-12-07 |  |
 | [wolken](https://open.spotify.com/track/26QmlgDd3OyGvXPjueLSHW) | [damy](https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK) | [mensenkind](https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM) | 2:24 | 2023-10-12 |  |
 | [Woman Life Freedom](https://open.spotify.com/track/4pbNBY48GTfZ16X4jJxba5) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Woman Life Freedom](https://open.spotify.com/album/4GB69MswlOepsu21T0NqUF) | 4:12 | 2023-02-23 | 2023-11-08 |
 | [youandme](https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r) | 2:59 | 2023-03-16 |  |
@@ -121,5 +122,6 @@
 | [Zondagskind](https://open.spotify.com/track/5hWgdvdXXvq6l9ezrFeI8F) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 2:45 | 2023-02-23 | 2023-04-01 |
 | [Zonder](https://open.spotify.com/track/4ZMYnbAOkyOIhfuA0hHHq0) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Zonder](https://open.spotify.com/album/1yPgri8VVGPHaHoI8Mc18h) | 3:25 | 2023-04-27 |  |
 | [Zorgeloos](https://open.spotify.com/track/2M4ullZOgWZWSovqHslHG4) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Onverwachte Visite](https://open.spotify.com/album/7sylTYO4m4ccNyQd6zWFeX) | 3:03 | 2023-09-22 |  |
+| [Zoute Tranen](https://open.spotify.com/track/1GTiOgLHzzCnrIyWQY0ehe) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [VOLGEND WATER](https://open.spotify.com/album/5spkxtK1yVIfaJTXKF7gil) | 2:23 | 2023-12-07 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

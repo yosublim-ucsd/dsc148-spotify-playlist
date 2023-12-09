@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,043 likes - 225 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,097 likes - 225 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,7 +222,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 212 | [Celebrate](https://open.spotify.com/track/5zxcKJeM7LEKDnl8vibmB8) | [Tim Halperin](https://open.spotify.com/artist/3nVeK8gQChVtVCCjGreal2) | [Celebrate](https://open.spotify.com/album/0ae0jyL9WxxZ8zkyYxs3HJ) | 2:49 |
 | 213 | [Only You](https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only You](https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB) | 2:52 |
 | 214 | [Right Here Waiting](https://open.spotify.com/track/1WzcZ2CHRcQBgfP5AANeF0) | [John Coggins](https://open.spotify.com/artist/3GNSeGfBuZWIfsBMUVJs10) | [Right Here Waiting](https://open.spotify.com/album/3ZTmzMaFDKwrk2dTFR5zmx) | 4:30 |
-| 215 | [Sweetest Human Being Alive](https://open.spotify.com/track/1zwplwLfK5H0D86lPYkxBG) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 |
+| 215 | [Sweetest Human Being Alive](https://open.spotify.com/track/4wiCxiYEgrL5O6QTLbFacc) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 3:45 |
 | 216 | [Stars Are Falling](https://open.spotify.com/track/3P9pajE7RDeigUXHmIw1AG) | [Nina Lee](https://open.spotify.com/artist/3U12hH1pf72nEL57RNI4uY) | [Damn These Voices](https://open.spotify.com/album/4qzPrl9XkuDpUjlJ4KILVr) | 3:13 |
 | 217 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 |
 | 218 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 224 | [Rise Above](https://open.spotify.com/track/1hXiLd0EV2krVVBQaxcjnB) | [Veigar Margeirsson](https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF) | [Rise Above \- Position Music Orchestral Series Vol\. 8](https://open.spotify.com/album/5kimW3aRgVsPGVIrrAkYCF) | 2:41 |
 | 225 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
 
-Snapshot ID: `MCxmMDk3ZjhkZGE5ODVlNjJlN2RmNDNhZTc5ODkzOGYxYmRhMjBjNDZm`
+Snapshot ID: `MCxiNDU1OTMwMjUzMTFhZjkzMzk5YjU5ODI1NzI2OWIwZTZmZjk3YzA1`

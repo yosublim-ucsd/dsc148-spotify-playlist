@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,490 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,547 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Indian Summer](https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:04 |
 | 100 | [June 2nd](https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Emotions](https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb) | 5:01 |
 
-Snapshot ID: `MCxkNDU1M2ZkODM1N2M3ZmI1NTc1MGQ2ZTk5NTRmNjdkOWM4NGE2YjYz`
+Snapshot ID: `MCw1YzY4YjczMDZlMmY0NmQ0MTUzMDllYjdkZTNmZDJmZWJmOGE3ZmNm`

@@ -4,7 +4,7 @@
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-93 songs - 5 hr 57 min
+95 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Dime Cuantas Veces](https://open.spotify.com/track/6z0eMk6Xa8Mx7AjhydUOZ2) | [Fuera del Resto](https://open.spotify.com/artist/7v5UtTSIrVtQneJY6EK0r7), [Daniella Saettone](https://open.spotify.com/artist/48RFZr0AZskIbjRBmZhx72) | [Fuera del Resto](https://open.spotify.com/album/00pt8qwh9djWy5oGJDoK4A) | 4:48 | 2022-04-01 |  |
 | [El Hombre Que Quería Ser un Arbol](https://open.spotify.com/track/2MxQZWdX4CVshx2L9WTj7L) | [Rafo Raez y los Paranoias](https://open.spotify.com/artist/481gdbLADpe8TGkv8Td4a5) | [Camisa](https://open.spotify.com/album/3o3jj7LXcJ8JZj46Eti6eu) | 3:51 | 2022-04-01 |  |
 | [El Tiempo](https://open.spotify.com/track/4X2IwER8pyOAnqO17PMd1B) | [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93) | [Love](https://open.spotify.com/album/123qwjmrd4Kt1hkRJRffbJ) | 3:14 | 2022-04-01 |  |
-| [El Umbral](https://open.spotify.com/track/4A8FFbP2EEW5blEINK0PF8) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Desvío Alcázar](https://open.spotify.com/album/4QuDEdQx24FbtN6YtfmfwT) | 3:44 | 2022-04-01 |  |
+| [El Umbral](https://open.spotify.com/track/42jtZRwVIUrYUCsgT2tZCu) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Desvío Alcázar](https://open.spotify.com/album/0J4dS3di5qV2QPtSf1Yiw8) | 3:44 | 2022-04-01 |  |
+| [El Umbral](https://open.spotify.com/track/4A8FFbP2EEW5blEINK0PF8) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Desvío Alcázar](https://open.spotify.com/album/4QuDEdQx24FbtN6YtfmfwT) | 3:44 | 2022-04-01 | 2023-12-09 |
 | [El Umbral](https://open.spotify.com/track/5dhzfsKB4dx9i4RoHaApxH) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [El Umbral](https://open.spotify.com/album/4LLjvqOSUFPpq6gstFRbec) | 3:44 | 2022-04-01 | 2022-07-29 |
 | [En Esta Habitación](https://open.spotify.com/track/1gAB76RAMN8sZl0PjKyqXA) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 4:32 | 2022-04-01 |  |
 | [En Ésta Habitación](https://open.spotify.com/track/4cmwZNWaTgRZttPTEy5lE5) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/5s10x7mdcsdV6kOIG7FyKT) | 4:32 | 2022-04-01 | 2022-07-29 |
@@ -59,7 +60,8 @@
 | [Me Resfrié en Brasil](https://open.spotify.com/track/6owthHOJo06koXPXe7xBG9) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 3:47 | 2022-04-01 |  |
 | [Máquina](https://open.spotify.com/track/1OTgiJYTDcXxp4KFeNzmgh) | [Cuchillazo](https://open.spotify.com/artist/2PUyeJkrdcOntByKHmnKtv) | [Días Negros](https://open.spotify.com/album/3PEirdybTes0NQVNKlKzEv) | 2:50 | 2022-04-01 |  |
 | [Más Poder](https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt) | [La Sarita](https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR) | [Más Poder](https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN) | 4:15 | 2022-04-01 |  |
-| [Nuestro Viejo Hotel](https://open.spotify.com/track/12ybnfIatnLWEC2S6BYmas) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Nuestro Viejo Hotel](https://open.spotify.com/album/5jSoD1MdnqYhfjU5tUyDIJ) | 3:32 | 2022-04-01 |  |
+| [Nuestro Viejo Hotel](https://open.spotify.com/track/12ybnfIatnLWEC2S6BYmas) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Nuestro Viejo Hotel](https://open.spotify.com/album/5jSoD1MdnqYhfjU5tUyDIJ) | 3:32 | 2022-04-01 | 2023-12-09 |
+| [Nuestro Viejo Hotel](https://open.spotify.com/track/2G0IITQMlsMoMdGURgXqJq) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Desvío Alcázar](https://open.spotify.com/album/0J4dS3di5qV2QPtSf1Yiw8) | 3:32 | 2022-04-01 |  |
 | [Oirán Tu Voz, Oirán Nuestra Voz](https://open.spotify.com/track/50MinBuDveXXwAagB1wtC1) | [Leusemia](https://open.spotify.com/artist/35BTdhvVMG0JrhFriUiT0U) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7nFEFppkVpb6SYDDnBFqjJ) | 3:35 | 2022-04-01 |  |
 | [Oirán Tu Voz, Oirán Nuestra Voz](https://open.spotify.com/track/7xU6yVm80QPyNa4tTdEeri) | [Leusemia](https://open.spotify.com/artist/37OPn98RccfMVIfzK9bYO1) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7iEEgIff9HCNt7LkweBlMj) | 3:39 | 2022-04-01 | 2022-11-03 |
 | [Otra Mejor Que Tú](https://open.spotify.com/track/5gUp2GYPSZulV3q5ilvY7a) | [Los Datsuns](https://open.spotify.com/artist/7mLWJvI7Qjetu2WJZbz96L) | [Ritmo y Movimiento Con los Datsun´s](https://open.spotify.com/album/3OzwNkPFtLV2Mytl1f5Oc4) | 2:41 | 2022-04-01 |  |

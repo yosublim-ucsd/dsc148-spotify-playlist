@@ -4,7 +4,7 @@
 
 > All the Punk Rock that you need in your life\. Cover: Rancid
 
-143 songs - 7 hr 21 min
+144 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [I'm The One](https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:15 | 2022-08-31 | 2023-07-13 |
 | [Insects Destroy](https://open.spotify.com/track/3h0cVQlafBKn2dHPIiCmBb) | [Pulley](https://open.spotify.com/artist/1D20Qqq2BnfaShwNDb00KU) | [Matters](https://open.spotify.com/album/5pqTt0JqhaYsIW7HV3Uh4a) | 3:20 | 2021-10-05 | 2022-07-08 |
 | [Insubordination](https://open.spotify.com/track/1WIhQj1Bv1XTscWNCgmQvX) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Who Is, This Is?](https://open.spotify.com/album/0xQkQHaAt66O0hqsA7gQAV) | 3:28 | 2021-10-05 | 2022-07-25 |
-| [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 | 2022-12-12 |  |
+| [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 | 2022-12-12 | 2023-12-09 |
 | [Kemp](https://open.spotify.com/track/6hhXVmXQBECK7Z0DXrFb2U) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Home From Home](https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn) | 3:26 | 2021-10-05 | 2022-07-28 |
 | [Knifeman](https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(III\)](https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ) | 3:55 | 2021-10-05 | 2022-05-17 |
 | [Lean On Sheena](https://open.spotify.com/track/7IR7GUO0dUyUsBp7BfQ3vJ) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [The Gold Record](https://open.spotify.com/album/3MF7PvmrMjEXGvA8fP3L6l) | 3:20 | 2021-10-05 | 2022-11-13 |
@@ -83,6 +83,7 @@
 | [May 16](https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Let's Talk About Feelings](https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz) | 2:56 | 2022-12-12 | 2023-01-24 |
 | [Mercy Me](https://open.spotify.com/track/2YrB3vM3H7TcXZ0rAq4X8Y) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 2:49 | 2021-10-05 | 2023-11-11 |
 | [Mercy Me](https://open.spotify.com/track/3lyGPUbSIXOuOWZ636okzu) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/52JNZxOp2MGW2HBXAg8TKr) | 2:49 | 2021-10-05 | 2022-07-29 |
+| [Mercy Me](https://open.spotify.com/track/5SZA0lHcG0ucCGBqKK32tF) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 2:49 | 2023-03-07 |  |
 | [Mexican Radio](https://open.spotify.com/track/6mFRfprP5OTvr82GzGhHXJ) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Andiamo \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/26DSJ5UgCat5UB3CPX7DlK) | 2:53 | 2021-10-05 | 2022-07-29 |
 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 | 2021-10-05 |  |
 | [Monumental](https://open.spotify.com/track/31Ohbu0LL85vXRIZnKsGEe) | [The Flatliners](https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB) | [Cavalcade](https://open.spotify.com/album/44dpgYXof01Os8NTURaIDs) | 2:56 | 2021-10-05 | 2022-07-29 |

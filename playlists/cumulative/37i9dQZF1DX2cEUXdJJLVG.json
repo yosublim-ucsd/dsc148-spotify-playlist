@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/4Z3clJrBFpORXTaP6D5t2v"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180327,
+      "name": "Californication (Feels Like I'm Falling In Love)",
+      "url": "https://open.spotify.com/track/16xOOeiaf3Hn5Rpn4l9QIY"
+    },
+    {
+      "album": {
         "name": "Californication (Feels Like I'm Falling In Love)",
         "url": "https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe"
       },
@@ -720,7 +738,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 180327,
       "name": "Californication (Feels Like I'm Falling In Love)",
       "url": "https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW"
@@ -6026,6 +6044,24 @@
       "duration_ms": 358875,
       "name": "Workin' All Day",
       "url": "https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU"
+    },
+    {
+      "album": {
+        "name": "You 2 Thank",
+        "url": "https://open.spotify.com/album/770NPIetbye6vd31ZDuG09"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "You 2 Thank",
+      "url": "https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC"
     },
     {
       "album": {

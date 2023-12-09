@@ -1,12 +1,12 @@
 {
   "description": "Vibey indie tracks for just hanging out.",
-  "num_followers": 807835,
+  "num_followers": 807918,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTQ1Y2I0NjIxOWZmMGM0MjE3YWM0ZWRjODJjNjVlOGVjYjg1Mjg1",
+  "snapshot_id": "MCw1MmRiYzk3NDM3ODBmOGUyN2QxNjY5MDRhOTllNjJmMjgzNzUxOGIy",
   "tracks": [
     {
       "added_at": "2023-10-25 18:45:06",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab"
     },
     {
-      "added_at": "2023-10-02 23:06:35",
-      "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/5oLudn7CAOILun2yHH48jB"
-      },
-      "artists": [
-        {
-          "name": "NOT THE TWOS",
-          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/6rZjqLz4k7psYLWDgDTw8l"
-    },
-    {
       "added_at": "2023-09-29 19:50:59",
       "album": {
         "name": "Charmed",
@@ -1675,6 +1659,22 @@
       "duration_ms": 211875,
       "name": "Gimme A Chance",
       "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 210329,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
     }
   ],
   "unique_name": "Indie Chillout",

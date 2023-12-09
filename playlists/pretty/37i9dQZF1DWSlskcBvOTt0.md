@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,396 likes - 125 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,573 likes - 125 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [Não Sei Parar](https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [Não Sei Parar](https://open.spotify.com/album/3DH0NYxAi5Mw8YpmHXgAMb) | 3:25 |
 | 125 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/37nppJzOgypngu1szTRD06) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7) | 9:16 |
 
-Snapshot ID: `MCwzNmNhZDcwYTQyYjQ2MmVhNzg0YTJmOTgxNzZiMTIwYTlkOTg0NjU5`
+Snapshot ID: `MCw1ZDEwYTY5N2FlMjFlNzNhOWFjOGM3MWViOTNkYzY2NDg1Zjg0MDZk`

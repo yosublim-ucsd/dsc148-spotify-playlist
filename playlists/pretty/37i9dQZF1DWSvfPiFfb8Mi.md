@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,865 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,939 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [How It Feels](https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [How It Feels](https://open.spotify.com/album/0RUZEsQQWmWhsuKKo6sk8J) | 3:19 |
 | 100 | [Last Dance](https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Last Dance](https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9) | 3:29 |
 
-Snapshot ID: `MCwxNzNkOTMzNDU5NzZjMDA4NmVlODhiOWY4MWUwMzZkNWY2NDU0ZGIx`
+Snapshot ID: `MCwzNTVhMDk1N2E3NGJlYzA1OTM1MjkwMzc1MWFhMzFkMTkyNmE0NWIz`

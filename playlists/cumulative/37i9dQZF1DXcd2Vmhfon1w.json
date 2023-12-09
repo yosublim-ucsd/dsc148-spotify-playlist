@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Prok",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. FERNANDOCOSTA",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 166730,
       "name": "Israel B - Selecta Motorseries #05",
       "url": "https://open.spotify.com/track/5PYLohuj2eelCiSAch4wrZ"
@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 145000,
       "name": "Madame Bovary",
       "url": "https://open.spotify.com/track/6Pu1EJORDSkTgVhZXx9V8U"
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 183947,
       "name": "MAMITA",
       "url": "https://open.spotify.com/track/0k7K5AQ6mn6JeRDFmYlhZQ"
@@ -2908,6 +2908,28 @@
       "duration_ms": 296170,
       "name": "Marvin",
       "url": "https://open.spotify.com/track/2A2gwWp7rMVCJUGkZ9wWTd"
+    },
+    {
+      "album": {
+        "name": "McAfee",
+        "url": "https://open.spotify.com/album/6WCmUbg65raxVJQdoTIvUq"
+      },
+      "artists": [
+        {
+          "name": "Midas Alonso",
+          "url": "https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW"
+        },
+        {
+          "name": "Delson Aravena",
+          "url": "https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "McAfee",
+      "url": "https://open.spotify.com/track/398CZv4tK5ukwRt8SjO1t2"
     },
     {
       "album": {
@@ -3305,6 +3327,28 @@
     },
     {
       "album": {
+        "name": "Nadie Regala Nada",
+        "url": "https://open.spotify.com/album/0MfgosQNL9rIr8cP1xv6Px"
+      },
+      "artists": [
+        {
+          "name": "Israel B",
+          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "Nadie Regala Nada",
+      "url": "https://open.spotify.com/track/718k7I8qhfZq8deQUqO7PM"
+    },
+    {
+      "album": {
         "name": "Nana",
         "url": "https://open.spotify.com/album/78CkLda43EMXmQ20Brjb9D"
       },
@@ -3646,10 +3690,32 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 187199,
       "name": "Opel Kadett",
       "url": "https://open.spotify.com/track/7isNv0eu0LEdAg0zq02t8h"
+    },
+    {
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3LjBIUkmoxKVMSUxV6BYHs"
+      },
+      "artists": [
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        },
+        {
+          "name": "Pedro Calderon",
+          "url": "https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/7msaM57358aHFozcAswOl2"
     },
     {
       "album": {
@@ -3910,6 +3976,24 @@
       "duration_ms": 187059,
       "name": "RUIDO",
       "url": "https://open.spotify.com/track/1k8dEIK2NDebaHUiyq3Qt5"
+    },
+    {
+      "album": {
+        "name": "RUMBO FIJO",
+        "url": "https://open.spotify.com/album/4qgJlMrpjvxhP3wE7dCb0r"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189055,
+      "name": "RUMBO FIJO",
+      "url": "https://open.spotify.com/track/6JPGgqIeR3ik9PCXcXvDBX"
     },
     {
       "album": {
@@ -4198,6 +4282,24 @@
       "duration_ms": 185322,
       "name": "Shars 2020",
       "url": "https://open.spotify.com/track/2OazFN4VRGMQe09Z71Yqqa"
+    },
+    {
+      "album": {
+        "name": "Shars 2023",
+        "url": "https://open.spotify.com/album/5ckWMNdOU6xVxQF3PbIsmt"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163342,
+      "name": "Shars 2023",
+      "url": "https://open.spotify.com/track/5k129qDFmei3s0kLWhjXRw"
     },
     {
       "album": {
@@ -5110,7 +5212,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 164571,
       "name": "Yo No S\u00e9",
       "url": "https://open.spotify.com/track/0q2CiondkI8yh7CrAdrIXx"

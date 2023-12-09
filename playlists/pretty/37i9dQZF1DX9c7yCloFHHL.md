@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Alaskan Tapes on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,497 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,595 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Mesmerising Waves](https://open.spotify.com/track/3xXFRBuzJysZwZ8h2ljVGz) | [Narrow Skies](https://open.spotify.com/artist/6YqqrMdzu6vkcS6EBzxPth), [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Mesmerising Waves](https://open.spotify.com/album/5UVbMTGLR7YZHyqqhB5bVt) | 1:57 |
 | 100 | [Music For Growing Flowers \- Pt\. 7](https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 4:55 |
 
-Snapshot ID: `MCw4NTk0Njc0ZjM1NjM3NzM0NzQyYzgxZjQ4ZWM4NTE4NWY2MGIxZmEx`
+Snapshot ID: `MCxkOWMwZDYyMWYxOWIzNzUzYzA5MzUyMzgyMzI0NTY5MTlkZDM2Yzk3`

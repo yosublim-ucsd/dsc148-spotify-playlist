@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Bath Time Freeze Dance",
+        "url": "https://open.spotify.com/album/6lG15hlcYwGNFEqz6CcRKK"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114919,
+      "name": "Bath Time Freeze Dance",
+      "url": "https://open.spotify.com/track/0EYrMlMMxouVxPPsM2Al5O"
+    },
+    {
+      "album": {
         "name": "We Got This",
         "url": "https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq"
       },
@@ -658,7 +676,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 190515,
       "name": "Empathy",
       "url": "https://open.spotify.com/track/6XRx37vhiTLSmoM9pLLcrm"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 106680,
       "name": "I Am Kind",
       "url": "https://open.spotify.com/track/0rhQdMKkwaMo8wOlyO4AAw"
@@ -1334,6 +1352,24 @@
       "duration_ms": 197471,
       "name": "I Can Do Hard Things",
       "url": "https://open.spotify.com/track/2aBO3KmhLEkeVdV7VLL0M5"
+    },
+    {
+      "album": {
+        "name": "Care Bears Unlock the Music, Vol. 4",
+        "url": "https://open.spotify.com/album/2YE6InemI1fcDSosOtasd2"
+      },
+      "artists": [
+        {
+          "name": "Care Bears",
+          "url": "https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159320,
+      "name": "I Care Bear",
+      "url": "https://open.spotify.com/track/0VnSdWDiOkBUesZl0NNX13"
     },
     {
       "album": {
@@ -1388,7 +1424,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 188018,
       "name": "I'm Always Me",
       "url": "https://open.spotify.com/track/3706vBqhCe42c5ulhhE2S1"
@@ -1446,6 +1482,28 @@
       "duration_ms": 187760,
       "name": "It Takes All Kinds",
       "url": "https://open.spotify.com/track/6buOAgCVrNmVjxa3VmKgd7"
+    },
+    {
+      "album": {
+        "name": "It's Stariana!",
+        "url": "https://open.spotify.com/album/5yhIJn35x1qpZVTdg4Mv4Q"
+      },
+      "artists": [
+        {
+          "name": "The Cast of Baby Shark's Big Movie",
+          "url": "https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR"
+        },
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43202,
+      "name": "It's Stariana!",
+      "url": "https://open.spotify.com/track/0mI8clBGy1IIVDctrLA9fP"
     },
     {
       "album": {

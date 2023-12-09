@@ -3678,7 +3678,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 197164,
       "name": "Eat Your Man (with Nelly Furtado)",
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
@@ -4745,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "GIFTS GIFTS GIFTS (GIRLS GIRLS GIRLS REMIX)",
+        "url": "https://open.spotify.com/album/0A1M7lpsjI9BCnuO3Ouv9e"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178759,
+      "name": "GIFTS GIFTS GIFTS - GIRLS GIRLS GIRLS REMIX",
+      "url": "https://open.spotify.com/track/3SW26w23QM9DkpIbRYkzct"
+    },
+    {
+      "album": {
         "name": "Gimme (feat. Koffee & Jessie Reyez)",
         "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
       },
@@ -4876,7 +4894,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 177810,
       "name": "GIRLS GIRLS GIRLS",
       "url": "https://open.spotify.com/track/0LMry7J6N4fouJrOkpDjXy"
@@ -4938,6 +4956,24 @@
       "duration_ms": 143730,
       "name": "GIRLS WORLD!",
       "url": "https://open.spotify.com/track/7c3kTRls4JudXnc5RQOVNV"
+    },
+    {
+      "album": {
+        "name": "God Invented The Radio",
+        "url": "https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137827,
+      "name": "God Invented The Radio",
+      "url": "https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY"
     },
     {
       "album": {
@@ -6348,7 +6384,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 190902,
       "name": "I like u",
       "url": "https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ"
@@ -6819,6 +6855,28 @@
     },
     {
       "album": {
+        "name": "Hold The Girl (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220304,
+      "name": "Imagining (feat. Amaarae)",
+      "url": "https://open.spotify.com/track/4H9yO3xQEpKHbLwF6n5ldj"
+    },
+    {
+      "album": {
         "name": "Immature",
         "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
       },
@@ -6986,7 +7044,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 199512,
       "name": "ITALODISCO - English Version",
       "url": "https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ"
@@ -7903,6 +7961,32 @@
     },
     {
       "album": {
+        "name": "Losing You - Spotify Singles",
+        "url": "https://open.spotify.com/album/4mvTc8TXIbBjfruHuuwk4m"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "bshp",
+          "url": "https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ"
+        },
+        {
+          "name": "Joe Cleere",
+          "url": "https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180127,
+      "name": "Losing You - Spotify Singles",
+      "url": "https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ"
+    },
+    {
+      "album": {
         "name": "Love And Appreciation (Radio Edit)",
         "url": "https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558"
       },
@@ -8704,7 +8788,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 146762,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/2HYay9cjoX0v5mgOaQFufh"
@@ -10016,7 +10100,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 272035,
       "name": "Psychedelic Switch",
       "url": "https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX"
@@ -12222,7 +12306,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 181280,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/7lm4AtFWHNaL5o3aRgVWFr"

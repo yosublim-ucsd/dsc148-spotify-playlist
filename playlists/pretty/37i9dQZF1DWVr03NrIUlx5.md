@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,325 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,413 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [I Miss You \(8 Bit Version\)](https://open.spotify.com/track/07ZC7ayLLiQJ2GPOrhP35q) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [The 8 Bit Mix Tape](https://open.spotify.com/album/6ocA2f6IzrcMSJuEX6q3Yd) | 2:16 |
 | 100 | [Last Caress](https://open.spotify.com/track/3QayeKx6qnhDB1Q7aK0T1t) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Misfits](https://open.spotify.com/album/3cfju3IBxXEbCkRsSrzqOl) | 1:50 |
 
-Snapshot ID: `MCxhOGI1MTllODZlMjYxYTU2OGIxMzNlNzU4NzU5OWU3ZGEzMGFlZWQw`
+Snapshot ID: `MCxmMGFlZTQxM2M0MjZlM2NiMzU2NThiOGZmMGIwZDdmOTNlZjljOTU5`

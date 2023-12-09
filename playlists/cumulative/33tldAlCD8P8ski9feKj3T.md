@@ -4,7 +4,7 @@
 
 > The best in new Modern Music\. Artist Image: <a href="https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph?si=J9U2u3f7QEeZS9qdsgartg">Mother Mother</a>
 
-78 songs - 4 hr 16 min
+81 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-11-03 |  |
 | [adore u \(Live from the Treehouse\)](https://open.spotify.com/track/259K0DlR586fupbKcwQNBW) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [adore u \(Live from the Treehouse\)](https://open.spotify.com/album/4Bqwsu0e3jiPX38LS6jWui) | 3:47 | 2023-11-03 |  |
 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 | 2023-11-03 |  |
-| [alife](https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [alife](https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm) | 4:33 | 2023-11-03 |  |
+| [alife](https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [alife](https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm) | 4:33 | 2023-11-03 | 2023-12-09 |
 | [All My Love](https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:11 | 2023-11-03 | 2023-11-25 |
 | [All Now](https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM) | 4:30 | 2023-11-17 |  |
 | [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 | 2023-11-03 |  |
@@ -42,6 +42,7 @@
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-11-03 | 2023-11-18 |
 | [GO! \(feat\. BENKRO\)](https://open.spotify.com/track/6tVghhzof1GBVNWTpJLaZV) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3), [BENKRO](https://open.spotify.com/artist/73909hxACjd2Mk5REFdTGg) | [GO! \(feat\. BENKRO\)](https://open.spotify.com/album/0D8SmNwhP1DmoN2cOvOaE9) | 2:51 | 2023-11-03 | 2023-11-18 |
 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 | 2023-11-03 | 2023-11-18 |
+| [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 | 2023-12-08 |  |
 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 | 2023-11-03 |  |
 | [Higher Love](https://open.spotify.com/track/25RDBIp0Rj9goD09kWReH8) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Higher Love](https://open.spotify.com/album/5yetKRuRUyIgM5UgRyAOPj) | 4:21 | 2023-11-03 |  |
 | [Home Where](https://open.spotify.com/track/3GRAyz3IthDwutYpdeicDa) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Home Where](https://open.spotify.com/album/5M6KfuWFJdMO7bZkxF58gL) | 2:56 | 2023-11-03 |  |
@@ -54,9 +55,9 @@
 | [Main Character](https://open.spotify.com/track/6wBYxqnbcvaUCb7B5TqvKx) | [Wolf Saga](https://open.spotify.com/artist/0Lwn2PjwIw7QaoN7gHyqCA) | [Main Character](https://open.spotify.com/album/4q2MlTXqxj5EJBywYsYUWM) | 3:06 | 2023-11-03 | 2023-12-02 |
 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 | 2023-11-03 | 2023-12-02 |
 | [Mother Nature](https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Mother Nature](https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1) | 3:56 | 2023-11-03 | 2023-12-02 |
-| [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-11-03 |  |
+| [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-11-03 | 2023-12-09 |
 | [newrules](https://open.spotify.com/track/5R6MXypO60PCViBX5NBq9V) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [newrules](https://open.spotify.com/album/2blDLfji74IFcz24chuzCU) | 3:18 | 2023-12-01 |  |
-| [NFU](https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [NFU](https://open.spotify.com/album/6e5xluOlHaZPnI1ORf483L) | 3:41 | 2023-11-03 |  |
+| [NFU](https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [NFU](https://open.spotify.com/album/6e5xluOlHaZPnI1ORf483L) | 3:41 | 2023-11-03 | 2023-12-09 |
 | [Nightmares](https://open.spotify.com/track/4zcMNqi8H8DPpZwLYNhhc8) | [Madhouse](https://open.spotify.com/artist/5bScfl9QpBaP9DOmlIqQUY) | [Nightmares](https://open.spotify.com/album/1T0KRFnwqud4CSAXvxkIR0) | 1:51 | 2023-11-03 |  |
 | [Nightmares](https://open.spotify.com/track/5sj7q2esW3Ri0SZDdk9zkW) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Nightmares](https://open.spotify.com/album/0RbyXbAchLRqDOa7a4cV8N) | 3:44 | 2023-11-17 |  |
 | [Olympus](https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:36 | 2023-12-01 |  |
@@ -73,6 +74,7 @@
 | [Something To Hide](https://open.spotify.com/track/1rjZicKSpIJ3WYffIK9Fuy) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 1:59 | 2023-11-03 |  |
 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 | 2023-11-03 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-01 |  |
+| [Tauchen](https://open.spotify.com/track/1KAj8sihsZYYBMCZuXHq3o) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Tauchen](https://open.spotify.com/album/7ch3M4qcbnjN4v19mZHz7U) | 2:53 | 2023-12-08 |  |
 | [The Hills](https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [The Hills](https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz) | 3:31 | 2023-11-03 |  |
 | [The Matrix](https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [The Matrix](https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd) | 3:21 | 2023-11-03 |  |
 | [thoughts i have while lying in bed](https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 | 2023-11-24 |  |
@@ -81,6 +83,7 @@
 | [Unhinged Memory](https://open.spotify.com/track/4iZbx0wn1iXKQJ3DtkaToq) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Versions for the End](https://open.spotify.com/album/6mKt6CkAEvfCwIhHGmcKgu) | 3:01 | 2023-12-01 |  |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-11-03 | 2023-11-18 |
 | [We Don't Talk About It](https://open.spotify.com/track/0IPHPjgFNGKkLQZnhRXR04) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [We Don't Talk About It](https://open.spotify.com/album/2fg8nUZnoXnoTK3bmQWdqk) | 2:54 | 2023-11-17 |  |
+| [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 | 2023-12-08 |  |
 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 | 2023-11-03 |  |
 | [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:35 | 2023-11-03 |  |
 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 | 2023-11-03 | 2023-12-02 |

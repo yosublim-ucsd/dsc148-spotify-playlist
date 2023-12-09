@@ -1,12 +1,12 @@
 {
   "description": "New and emerging R&B, afropop and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ\"> Y'akoto </a>",
-  "num_followers": 13384,
+  "num_followers": 13392,
   "original_name": "Sizzlers ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGZhNmJmMGJmODdmNWI3YzkzZWQzMjYxZWRiZTRmOTU1Yzg3NjIx",
+  "snapshot_id": "MCwwZGZmNWUxZTQyNDk5MmY1ODFjYmE5MDcwYzMzMTM0MjFmMmViMjhj",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -195,26 +195,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 204608,
-      "name": "Pieces (with Tay Iwar)",
-      "url": "https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Don't Lemme Fall",
         "url": "https://open.spotify.com/album/55v53pg1Ptr1jLNLl8ewwC"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 123529,
       "name": "Signs",
       "url": "https://open.spotify.com/track/11Hgw9wXWzS4RbqWsKu0JP"
+    },
+    {
+      "added_at": "2023-12-08 09:00:05",
+      "album": {
+        "name": "ALT SOUL, Vol. 1",
+        "url": "https://open.spotify.com/album/3xZmmPqI56XhwpiRAfqsDN"
+      },
+      "artists": [
+        {
+          "name": "Aema",
+          "url": "https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/12GIrfQdKSQAZ7wYgwmhUb"
     },
     {
       "added_at": "2023-12-08 00:08:00",

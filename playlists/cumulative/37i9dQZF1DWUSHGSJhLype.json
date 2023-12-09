@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "Aquele Love",
+        "url": "https://open.spotify.com/album/7veHxl8PHbSiJV374QsCdt"
+      },
+      "artists": [
+        {
+          "name": "US Agroboy",
+          "url": "https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d"
+        },
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Aquele Love",
+      "url": "https://open.spotify.com/track/4AcwJhodfCcIymJL8ZjeUV"
+    },
+    {
+      "album": {
         "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
         "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
       },
@@ -528,7 +550,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 136615,
       "name": "BANDIDONA",
       "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
@@ -2283,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Raiz Goi\u00e2nia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265450,
+      "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD"
+    },
+    {
+      "album": {
         "name": "Mec Life",
         "url": "https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4"
       },
@@ -2420,20 +2460,20 @@
       },
       "artists": [
         {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        },
-        {
           "name": "MC Maneirinho",
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "MC Tigr\u00e3o",
+          "url": "https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW"
         },
         {
           "name": "Mc Luan",
           "url": "https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF"
         },
         {
-          "name": "Mc Tig\u00e3o",
-          "url": "https://open.spotify.com/artist/7GH9MFF3c1nPkH2bQ7JG2X"
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
         }
       ],
       "date_added": "2023-09-13",
@@ -3602,7 +3642,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 165333,
       "name": "SEQU\u00caNCIA REVOLUCION\u00c1RIA",
       "url": "https://open.spotify.com/track/5L5iGJlfO3FgICMMop7vJw"

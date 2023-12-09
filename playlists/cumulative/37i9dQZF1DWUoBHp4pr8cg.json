@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from Blxckie(pictured), Shane Eagle, Offset, Drake, and more...",
+  "description": "Only the hottest Hip Hop from Nasty C and ODUMODUBLVCK (pictured), Offset, Blxckie, Drake, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -1629,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Fuck That (Remix)",
+        "url": "https://open.spotify.com/album/2ZlSnhUh40vj76xvWw0ijr"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205211,
+      "name": "Fuck That (feat. ODUMODUBLVCK) - Remix",
+      "url": "https://open.spotify.com/track/2sKuOOhxWpXOTDcKiTitc9"
+    },
+    {
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -2164,6 +2186,24 @@
       "duration_ms": 300500,
       "name": "I'll Always Have Me",
       "url": "https://open.spotify.com/track/21IPXg9zJBfJRPzwMuVjpN"
+    },
+    {
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/2UQnTNhYkgv8JGzT8hc5Ss"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159627,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/5w7NisdsB4ixAUNfC0eCPf"
     },
     {
       "album": {

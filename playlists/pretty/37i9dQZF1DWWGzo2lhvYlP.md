@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 
 > nothing but bangers to help you with the grind
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,275 likes - 200 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,315 likes - 200 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 199 | [Need You](https://open.spotify.com/track/0EQeui6OBMzqJ3Z3wCOzZh) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Need You](https://open.spotify.com/album/1IqpPKPKVpu1VWZ67VnHPB) | 3:02 |
 | 200 | [Already Mine](https://open.spotify.com/track/2KxD6ttxiW1d7x0qpUmWfK) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Already Mine](https://open.spotify.com/album/6NWCgWQdIoR3lKCfhUXgIm) | 2:25 |
 
-Snapshot ID: `MCw1ZDY0YmU0YTc4ZjBmYTlmZmUzN2RhNGY4NjE3NzdiYzJkNDU3YmQy`
+Snapshot ID: `MCwyOTgxODE0N2VjZmMyYWI3OWFhM2FhNWVhMjk2OTNiMmNkNmU4OWRl`

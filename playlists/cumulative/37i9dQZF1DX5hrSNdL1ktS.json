@@ -3117,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "Gym",
+        "url": "https://open.spotify.com/album/2Ovyz1Vr1eEugR97dz85gm"
+      },
+      "artists": [
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134700,
+      "name": "Gym",
+      "url": "https://open.spotify.com/track/113IwSna3DYr3fgyrcmpRA"
+    },
+    {
+      "album": {
         "name": "Hablame Claro",
         "url": "https://open.spotify.com/album/3nAMyoZg2fzN63FHvr3ftE"
       },
@@ -6562,6 +6580,32 @@
       "duration_ms": 209857,
       "name": "POEMA A TUS PROBLEMAS",
       "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
+    },
+    {
+      "album": {
+        "name": "POLANCO",
+        "url": "https://open.spotify.com/album/25Imq3pv6wApPvAcqZ3keF"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Mauro Dembow",
+          "url": "https://open.spotify.com/artist/0YMgAVpGRw5rTCBCC1YufD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162493,
+      "name": "POLANCO",
+      "url": "https://open.spotify.com/track/7K0RqlHk8tyi6yZUPQSssY"
     },
     {
       "album": {

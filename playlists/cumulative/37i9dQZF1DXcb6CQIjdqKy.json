@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"spotify:artist:7H0gjeKVq6IPXcAUZzzhD2\">Jon Reddick</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"spotify:artist:1bdnGJxkbIIys5Jhk1T74v\">Brandon Lake</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -568,7 +568,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 177668,
       "name": "Anxious Heart",
       "url": "https://open.spotify.com/track/2lgK3q3cnmrHzZwDOgfMdG"
@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+    },
+    {
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB"
       },
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 210522,
       "name": "Detras De Mi",
       "url": "https://open.spotify.com/track/1h4vdbJlwTksTjcY55KpVf"
@@ -3794,7 +3812,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 365767,
       "name": "Grace To Grace (Staring Out Into The Old City) - Live",
       "url": "https://open.spotify.com/track/7FqbZmbhvGeKu0E0V5cumF"
@@ -5257,6 +5275,24 @@
     },
     {
       "album": {
+        "name": "I'm Not There Yet",
+        "url": "https://open.spotify.com/album/4Tv8zGbURkuRbl3YkHn19n"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "I'm Not There Yet",
+      "url": "https://open.spotify.com/track/4a4wtjkAxRRDOFirDkPLDJ"
+    },
+    {
+      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/6J077INxLUE8Yq1xhRKx7E"
       },
@@ -6671,6 +6707,32 @@
     },
     {
       "album": {
+        "name": "Let the Sparks Fly",
+        "url": "https://open.spotify.com/album/1SgHuXrG74oPv7PGm6inM3"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        },
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230263,
+      "name": "Let the Sparks Fly - 2023",
+      "url": "https://open.spotify.com/track/3sNXJt9GqDcMlmbaiZ4lAG"
+    },
+    {
+      "album": {
         "name": "Let Your Light Shine",
         "url": "https://open.spotify.com/album/34sda18nBBQ2RUNR0R4Pft"
       },
@@ -7558,7 +7620,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 256531,
       "name": "Monday Morning Faith - Studio Version",
       "url": "https://open.spotify.com/track/5pttLvlCeWoUsjMqoQL54O"
@@ -7598,7 +7660,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 228121,
       "name": "More Church Than Church (feat. Walker Hayes)",
       "url": "https://open.spotify.com/track/3iiSh6hLXOzeZ5HBM5heZw"
@@ -8754,10 +8816,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 171834,
       "name": "Place For Me",
       "url": "https://open.spotify.com/track/14ZwtJEQKZfIxV7fNXfWcI"
+    },
+    {
+      "album": {
+        "name": "Land Of The Living",
+        "url": "https://open.spotify.com/album/5L8kyQqKEvjOZVP0Oj4RiH"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171834,
+      "name": "Place For Me",
+      "url": "https://open.spotify.com/track/48Rv2UyK4yhXxCTeP5Z4W5"
     },
     {
       "album": {
@@ -10725,6 +10805,24 @@
     },
     {
       "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/7k72tV30lur2P6kbgNRKKX"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233627,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/5JcFCdauxuNGH6G1JnrWzm"
+    },
+    {
+      "album": {
         "name": "Take Me to the River (I Will Swim)",
         "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
       },
@@ -11722,7 +11820,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 220718,
       "name": "This I Know (Jesus Loves Me) - Radio Version",
       "url": "https://open.spotify.com/track/1db90ivgGa6T7yqCoHhAZe"
@@ -12144,6 +12242,24 @@
       "duration_ms": 254099,
       "name": "Walls",
       "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
+    },
+    {
+      "album": {
+        "name": "Wartime",
+        "url": "https://open.spotify.com/album/1otnvSufLsIMVHvnfmqary"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121463,
+      "name": "Wartime",
+      "url": "https://open.spotify.com/track/1h9ZOKO0nzcKxFRpA2JoKi"
     },
     {
       "album": {
@@ -13182,7 +13298,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 191265,
       "name": "Your Devil Is A Ghost",
       "url": "https://open.spotify.com/track/4zBVeBFp5MdOAFJPi2Tk31"

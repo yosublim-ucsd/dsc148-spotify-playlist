@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Enjoy the selection of ‘vocals with unique voices’ selected by BMK! \(BMK가 선곡한 '독보적인 음색이 돋보이는 보컬들' 선곡을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,773 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,917 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 |
 | 100 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 |
 
-Snapshot ID: `MCw1ZWU1NWI3MDk2M2UxMjE2M2E1YjQ2ZTQwNGQ5OTJmMDM1OWFjYmY2`
+Snapshot ID: `MCxjMWJlZWViZjZjODkxMDJjZjM5ZmE0Mzc1NjM1ZTY3YmNjODM2YTRl`

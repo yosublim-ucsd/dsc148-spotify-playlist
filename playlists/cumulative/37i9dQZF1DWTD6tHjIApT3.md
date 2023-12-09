@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: chelmico
 
-1,997 songs - 5 day 9 hr 1 min
+1,998 songs - 5 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Hekireki](https://open.spotify.com/track/09FxXfNTQsCgzkPmCeFwlr) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Emi Nishino](https://open.spotify.com/artist/1VozNsgCh7n6FBO285Z1et), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK) | [Hekireki](https://open.spotify.com/album/4IoppmDr5YdPSIrEOXUC2B) | 4:16 | 2023-08-01 | 2023-10-18 |
 | [Hello Hello! \(with LAGHEADS\)](https://open.spotify.com/track/5Mfx8dfIkQbItEYnirmlN3) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C), [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN) | [Hello Hello! \(with LAGHEADS\)](https://open.spotify.com/album/1Ds35zki0viNoYUb8204IX) | 3:32 | 2023-11-14 | 2023-11-22 |
 | [Hello Love](https://open.spotify.com/track/4SCVAJvm7EDqVTCEymv9QA) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [HELLO LOVE](https://open.spotify.com/album/7JoYjx7EGwAnMltBIYJMPx) | 4:23 | 2022-05-29 | 2022-07-27 |
+| [Heppokoman \- rearrange ver.](https://open.spotify.com/track/5jXLtOpxAnkmdwcLBzEeMj) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Hashiyasume](https://open.spotify.com/album/6fbgUWFEUPht1KuOYlfdmF) | 2:37 | 2023-12-07 |  |
 | [Here Comes The Dream](https://open.spotify.com/track/7oddxyA8wpORZL7gEsiyk0) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [Myrah Kay](https://open.spotify.com/artist/5xWfRHup3qVidAA0TYL54p) | [Here Comes The Dream](https://open.spotify.com/album/3WuEpDwZtOU65AzXAYT94D) | 3:21 | 2023-08-22 | 2023-08-30 |
 | [Here Comes The Sun](https://open.spotify.com/track/5rdFXDtwQnGEikghK9Me8R) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [恋愛小説4～音楽飛行](https://open.spotify.com/album/5OrIKp4u65lKY1MGvhzWZB) | 3:12 | 2023-10-24 | 2023-11-08 |
 | [Here for You](https://open.spotify.com/track/3zVN21stLWCwU5dpWFehiz) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn) | [Here for You](https://open.spotify.com/album/0vdreEoFoUTnQX8jwNj5B8) | 3:30 | 2022-06-07 | 2022-06-18 |
@@ -1298,7 +1299,7 @@
 | [ふうらい](https://open.spotify.com/track/4oEvF0PQaGrsRUrLODHNIx) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [ふうらい](https://open.spotify.com/album/7gAtFAU2BNh9ofR9YBSz5q) | 3:48 | 2022-11-10 | 2022-11-16 |
 | [ふがいない](https://open.spotify.com/track/61PdtK20peDS3dMjjz4nQD) | [松本千夏](https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS) | [ふがいない](https://open.spotify.com/album/50OUQ0kQ1ooEeAmInFUMAL) | 3:08 | 2022-05-29 | 2022-07-20 |
 | [ふたつの星](https://open.spotify.com/track/2V9Q8ELH3TAmyIuDlVo83F) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [ふたつの星](https://open.spotify.com/album/22nrObzA6hQ5OaV2fJxKRe) | 5:49 | 2022-08-17 | 2022-08-24 |
-| [へっぽこまん \- rearrange ver.](https://open.spotify.com/track/7GbLlaxs7jumurnaQgyE2u) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [はしやすめ](https://open.spotify.com/album/1omaiBv0kc0lIBNDLExibH) | 2:37 | 2023-12-07 |  |
+| [へっぽこまん \- rearrange ver.](https://open.spotify.com/track/7GbLlaxs7jumurnaQgyE2u) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [はしやすめ](https://open.spotify.com/album/1omaiBv0kc0lIBNDLExibH) | 2:37 | 2023-12-07 | 2023-12-09 |
 | [ぼく](https://open.spotify.com/track/5E126Hhzr684Nr7iBt05o4) | [麗奈](https://open.spotify.com/artist/5DwNbc9qoOadKsP5btdj6O) | [ぼく](https://open.spotify.com/album/7ENSPxwDvZp4uUlxMwm1X4) | 4:17 | 2022-06-07 | 2022-06-09 |
 | [ぼちぼち銀河 \- Takuro Okada Remix](https://open.spotify.com/track/1xxJ0QaQjymIQhmcJ2nJGv) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [ぼちぼち銀河 \- Takuro Okada Remix](https://open.spotify.com/album/6bU2H4oyVVYyJXcL6D6JR3) | 3:34 | 2022-07-19 | 2022-07-27 |
 | [まだ、、](https://open.spotify.com/track/30IKYXLWdtU8ukRcMh5Mel) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [まだ、、](https://open.spotify.com/album/4vkWuPOXUvBHvSCJqi1kc5) | 4:16 | 2023-06-13 | 2023-06-21 |

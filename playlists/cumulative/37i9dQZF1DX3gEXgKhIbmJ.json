@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 124230,
       "name": "Novos Donos",
       "url": "https://open.spotify.com/track/1OqrG7SdIAO8wvSuXt1Ga8"
@@ -2263,6 +2263,32 @@
     },
     {
       "album": {
+        "name": "Uk Drill",
+        "url": "https://open.spotify.com/album/7lfvKFpnyyIkabluqj6O0h"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "DJ Game Beat",
+          "url": "https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126245,
+      "name": "Uk Drill",
+      "url": "https://open.spotify.com/track/46nlWdYZz0uf5rqi6zyE3S"
+    },
+    {
+      "album": {
         "name": "UM Quebrada Inteligente",
         "url": "https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y"
       },
@@ -2340,7 +2366,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 118108,
       "name": "We Could've Been Jersey Club",
       "url": "https://open.spotify.com/track/4QyGCDEBhibMXAMc7ykfGm"

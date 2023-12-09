@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-236 songs - 14 hr 40 min
+237 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [cabin](https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i) | 3:20 | 2020-12-21 | 2023-09-01 |
 | [Cataracts](https://open.spotify.com/track/0TwvRIqAkUi5s87I863ITg) | [Dancing Plague](https://open.spotify.com/artist/4oJqMEXMl9AaEYqlFk4UgY) | [Pure Desperation](https://open.spotify.com/album/5BLRoloNdyaldZPRdetTSo) | 5:06 | 2023-08-31 |  |
 | [Chez Toi](https://open.spotify.com/track/69VjPausWbwW7f2ytRdULI) | [La Bande\-Son Imaginaire](https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7) | [Chez Toi](https://open.spotify.com/album/7en4PuHhcFXFYrYJ2xflY2) | 4:41 | 2023-07-04 |  |
-| [Club De Vampiros](https://open.spotify.com/track/7yQbHXCnBieG8tLJj1SEiW) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [Club De Vampiros](https://open.spotify.com/album/2xjEFklVuHKvJ0D3OKTsIL) | 3:09 | 2023-08-31 |  |
+| [Club De Vampiros](https://open.spotify.com/track/4TxToCFgMm9MlO9lM0yrSC) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [Club De Vampiros](https://open.spotify.com/album/0Qew35hf2XIAjCRxWsWRzw) | 3:09 | 2023-08-31 |  |
+| [Club De Vampiros](https://open.spotify.com/track/7yQbHXCnBieG8tLJj1SEiW) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [Club De Vampiros](https://open.spotify.com/album/2xjEFklVuHKvJ0D3OKTsIL) | 3:09 | 2023-08-31 | 2023-12-09 |
 | [Comfort of the Void](https://open.spotify.com/track/0hBMXdq7TT0fxHi7mfeAMT) | [Give My Remains to Broadway](https://open.spotify.com/artist/6Xk78EyrGe8jXw4JuxbQVx) | [Beyond the Gates of Xouztoth](https://open.spotify.com/album/5NqNKmc7NJoyABSn3wmRum) | 2:25 | 2023-08-31 |  |
 | [Common Coffin](https://open.spotify.com/track/5eOMtsu5okb1yFtlBqAIn7) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Departed](https://open.spotify.com/album/1joLW4jRpV9ELUuZtzLiVp) | 3:00 | 2023-08-31 |  |
 | [Complainer](https://open.spotify.com/track/7EzsU6MrB1vTgs4Q8LCobR) | [Choir Boy](https://open.spotify.com/artist/2EvEdhJhS6JhayAsJZyAyL) | [Gathering Swans](https://open.spotify.com/album/1SgyxFqDtKdvHYbUoGhEw8) | 3:37 | 2023-08-31 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
-  "num_followers": 422140,
+  "num_followers": 422226,
   "original_name": "Rainy Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWEwYzNlNGNlMzBjYWU2ZmUxYmVjZjZlOWZmNmYyNzQ3ZWI4NDc0",
+  "snapshot_id": "MCw2ZDdkOGRmNzcwNmZlYjk3ZGMyZGE3MzI1MmZjMzY3NjU5MzQ0ODQx",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -283,6 +283,38 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252454,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Into the Depths of Hell",
         "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
       },
@@ -315,18 +347,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Philharmonics",
-        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
       "artists": [
         {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 228546,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
+      "duration_ms": 240560,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -347,38 +379,6 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 252454,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Your Needs, My Needs",
-      "url": "https://open.spotify.com/track/43lHewwomOqpJ4ZVwLRfgr"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Run, Lucifer",
         "url": "https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 176167,
       "name": "Beautiful Hell",
       "url": "https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 351309,
+      "name": "Imagining My Man",
+      "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 351309,
-      "name": "Imagining My Man",
-      "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Stayed Up Late (Sunrise Version)",
         "url": "https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 206165,
       "name": "Stayed Up Late - Sunrise Version",
       "url": "https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Your Needs, My Needs",
+      "url": "https://open.spotify.com/track/43lHewwomOqpJ4ZVwLRfgr"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Sketches for My Sweetheart The Drunk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Morning Theft",
+      "url": "https://open.spotify.com/track/0WlRW4CG9ccUi96tP7GAwL"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "The Wilds",
         "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
       },
@@ -579,18 +595,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Sketches for My Sweetheart The Drunk (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng"
+        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
+        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
       },
       "artists": [
         {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
         }
       ],
-      "duration_ms": 219466,
-      "name": "Morning Theft",
-      "url": "https://open.spotify.com/track/0WlRW4CG9ccUi96tP7GAwL"
+      "duration_ms": 196613,
+      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
+      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -607,6 +623,22 @@
       "duration_ms": 221760,
       "name": "Standing in the Rain",
       "url": "https://open.spotify.com/track/5S4pAZfIugwULt49eneojF"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Theatrics",
+        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
+      },
+      "artists": [
+        {
+          "name": "Puzzle Muteson",
+          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
+        }
+      ],
+      "duration_ms": 218332,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -631,34 +663,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
-        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
+        "name": "The Wind Rose EP",
+        "url": "https://open.spotify.com/album/282IyhL4hVih0WwLOwrvtl"
       },
       "artists": [
         {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 196613,
-      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
-      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Theatrics",
-        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
-      },
-      "artists": [
-        {
-          "name": "Puzzle Muteson",
-          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
-        }
-      ],
-      "duration_ms": 218332,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+      "duration_ms": 254897,
+      "name": "The Lily",
+      "url": "https://open.spotify.com/track/6clgEkDsjM0QGLRPH7GAwx"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -679,18 +695,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "The Wind Rose EP",
-        "url": "https://open.spotify.com/album/282IyhL4hVih0WwLOwrvtl"
+        "name": "In Darkened Rooms",
+        "url": "https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "Sam Airey",
+          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
         }
       ],
-      "duration_ms": 254897,
-      "name": "The Lily",
-      "url": "https://open.spotify.com/track/6clgEkDsjM0QGLRPH7GAwx"
+      "duration_ms": 322680,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -723,22 +739,6 @@
       "duration_ms": 199906,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "In Darkened Rooms",
-        "url": "https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7"
-      },
-      "artists": [
-        {
-          "name": "Sam Airey",
-          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
-        }
-      ],
-      "duration_ms": 322680,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Motivational Speaking",
-        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Nothing Clever",
-      "url": "https://open.spotify.com/track/2sFIDchqcVhlNnpSH1mAGN"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX"
       },
@@ -859,22 +843,6 @@
       "duration_ms": 239080,
       "name": "No One's Gonna Love You - Live from Spotify Sweden",
       "url": "https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Without People",
-        "url": "https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 186143,
-      "name": "Seeing Other People",
-      "url": "https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -895,18 +863,50 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "At Swim",
-        "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
+        "name": "Motivational Speaking",
+        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
       },
       "artists": [
         {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
         }
       ],
-      "duration_ms": 179826,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
+      "duration_ms": 231773,
+      "name": "Nothing Clever",
+      "url": "https://open.spotify.com/track/2sFIDchqcVhlNnpSH1mAGN"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Without People",
+        "url": "https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 186143,
+      "name": "Seeing Other People",
+      "url": "https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Caught in the Strange (Deluxe)",
+        "url": "https://open.spotify.com/album/74vkVl8dlwKGSv9Unn6JKf"
+      },
+      "artists": [
+        {
+          "name": "Racing Glaciers",
+          "url": "https://open.spotify.com/artist/11iuJcoaqtToPVCJ3DeBev"
+        }
+      ],
+      "duration_ms": 205402,
+      "name": "Caught in the Strange",
+      "url": "https://open.spotify.com/track/67SFgwRk1tnYDIIB10j78g"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "If This Is The End",
-        "url": "https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 362786,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Motel Bouquet",
         "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
       },
@@ -955,22 +939,6 @@
       "duration_ms": 184787,
       "name": "Motel",
       "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -991,18 +959,50 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/3OaA2qwULCg9W9QTvMv1iy"
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
       "artists": [
         {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Ricochet",
-      "url": "https://open.spotify.com/track/6If4a7ytTXliui3vJVi9px"
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "At Swim",
+        "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
+      },
+      "artists": [
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "If This Is The End",
+        "url": "https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 362786,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h"
     }
   ],
   "unique_name": "Rainy Day",

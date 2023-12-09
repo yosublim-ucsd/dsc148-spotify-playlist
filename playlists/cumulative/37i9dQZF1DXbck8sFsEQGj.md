@@ -4,11 +4,12 @@
 
 > Hottest tracks from Coke Studio Pakistan\. Cover: Talal Qureshi
 
-51 songs - 5 hr 17 min
+52 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Aaj Jane Ki Zid Na Karo](https://open.spotify.com/track/2FPoTfF8c3DziIxEsMFDWf) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 3:10 | 2022-10-12 |  |
+| [Aaj Jane Ki Zid Na Karo](https://open.spotify.com/track/2FPoTfF8c3DziIxEsMFDWf) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 3:10 | 2022-10-12 | 2023-12-09 |
+| [Aaj Jane Ki Zid Na Karo](https://open.spotify.com/track/2kS4b0yqQPkEjHFLxK0dWx) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 3:10 | 2022-10-12 |  |
 | [Aaj Jane Ki Zid Na Karo](https://open.spotify.com/track/6XFGKGOjlwXWm12DHV1CWc) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 3:10 | 2022-03-15 | 2023-10-08 |
 | [Aakhon ke Sagar](https://open.spotify.com/track/6vwDylCMJ5yP26iG5oXlIC) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:16 | 2022-03-15 |  |
 | [Afreen Afreen](https://open.spotify.com/track/4tTfuSruVfIbN1PgpgmTee) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 6:40 | 2022-03-15 | 2022-07-29 |

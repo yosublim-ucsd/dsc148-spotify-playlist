@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: feeble little horse
 
-376 songs - 20 hr 17 min
+377 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [I Think](https://open.spotify.com/track/5y311JJkdTxu989fjIlgom) | [seekx](https://open.spotify.com/artist/08ugVajzIjHOiJ7SHCMYXJ) | [I Think](https://open.spotify.com/album/6wCOtNIn9HG0VgiqkQhCAP) | 2:16 | 2021-10-09 | 2022-06-12 |
 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 | 2020-10-30 |  |
 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 | 2022-09-13 | 2023-11-21 |
+| [i want to die in your arms](https://open.spotify.com/track/0qEPwjJHlNUSWf2Ghlxdqq) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:16 | 2023-12-02 |  |
 | [I'll be your star](https://open.spotify.com/track/0qokAYYFmEC3VwV4vrj5wc) | [Tyler Burkhart](https://open.spotify.com/artist/6hNArc2Vya9KBBDhvIj1BM) | [I'll be your star](https://open.spotify.com/album/4335JjYuXsLQiD08cLhRKJ) | 4:59 | 2023-05-18 | 2023-06-20 |
 | [I'm So Sorry](https://open.spotify.com/track/1MlyMtFTogPbQ3xe0S4GDD) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:22 | 2023-07-21 |  |
 | [i've got a best friend](https://open.spotify.com/track/1zrkQcUJWom13vJxWHSKM7) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [a love letter to the moments spent outside](https://open.spotify.com/album/4R6Cz3ASQXTOALvohpyJic) | 3:33 | 2021-02-26 | 2022-04-21 |
@@ -235,7 +236,7 @@
 | [Mystery](https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:43 | 2022-03-30 |  |
 | [Mystery](https://open.spotify.com/track/4Hv4J9U4tzp8Knjpg3yj60) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Mystery](https://open.spotify.com/album/6riLNJCqWuYAoESWmxZay7) | 3:43 | 2021-05-21 | 2022-07-29 |
 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/2ER7HL3wKh5e7eKWwz02fS) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Mystery Key \(Eyedress Remix\)](https://open.spotify.com/album/0HVg3wxAiBilevHzR1euOx) | 2:17 | 2022-03-17 | 2022-07-21 |
-| [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi) | 2:17 | 2022-09-13 |  |
+| [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi) | 2:17 | 2022-09-13 | 2023-12-09 |
 | [Natural](https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:43 | 2020-11-03 |  |
 | [New York, Paris and London](https://open.spotify.com/track/1qz48hLN202OabIYOSkCFZ) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/2ytKiQourWaysAlwUlkrnO) | 3:26 | 2022-03-30 | 2023-07-09 |
 | [New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7) | 3:26 | 2023-07-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Edi Rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,560 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,749 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 5 | [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/track/4ZZSTRy9eugd4v9falGoMs) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv) | [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/album/5e1VkQhetJMWxRb77LGPCj) | 3:10 |
 | 6 | [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/0in5MharrmpP0ZBA25Tm1Q) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Tunes That Stick Vol 6](https://open.spotify.com/album/69vmtpUmljdtwNf4mdcHGS) | 2:55 |
 | 7 | [Hip Hop](https://open.spotify.com/track/73QNN34ltQRUR2i6hI08Vd) | [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z), [Ieda Hills](https://open.spotify.com/artist/4C6FdPXAivI1RSEL63afq4) | [Hip Hop](https://open.spotify.com/album/0CjnAZ9CdW6wSoMCnLA7w8) | 3:27 |
-| 8 | [Not Bad Boy](https://open.spotify.com/track/30g6Q7eLE2yHgcmOiHmkDq) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [Fernando Beat box](https://open.spotify.com/artist/32wsz1EuJkEs2owEhtxwfY) | [Not Bad Boy](https://open.spotify.com/album/5WWFo7oGUUoO6VGWa8yZRq) | 4:31 |
+| 8 | [Not Bad Boy](https://open.spotify.com/track/30g6Q7eLE2yHgcmOiHmkDq) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [Fernandinho Beat Box](https://open.spotify.com/artist/05LPSp743MO2geOYjoA17i) | [Not Bad Boy](https://open.spotify.com/album/5WWFo7oGUUoO6VGWa8yZRq) | 4:31 |
 | 9 | [Vida Loka, Pt\. 1](https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:03 |
 | 10 | [Calabouço](https://open.spotify.com/track/4r7hAL0YBd7knlDbNjAZh0) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2) | [Calabouço](https://open.spotify.com/album/5lFpFDdsKZxhIWoRP8c88Q) | 3:14 |
 | 11 | [Seu Pesadelo Continua](https://open.spotify.com/track/2MB5bNanBf3Y6pvpYzOxqe) | [Detentos do Rap](https://open.spotify.com/artist/7BUfNHoRQsXyJrIP1iIrAI), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Seu Pesadelo Continua](https://open.spotify.com/album/1mqc77D4LodMdzs187qoKi) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 74 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 75 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/7yXhCLwFbj4L5WEhgX62L4) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Antes das 6:00, Pt\. 2 \(Bonus Track\)](https://open.spotify.com/album/5j7lUcfsGu9T4QHe6WCnkv) | 4:01 |
 
-Snapshot ID: `MCxiZGU5YmI0YjFhYjU1MjQ1YmMwZWFlMjU4YzM0MWRiMWM0ZDA3OTk1`
+Snapshot ID: `MCw4Y2JhOWQ2NGE0N2JjYTZkMzlkNWI2ODcxMTk5NGQ3MDBkOTdlMTA1`

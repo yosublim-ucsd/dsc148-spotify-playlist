@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-417 songs - 23 hr 26 min
+418 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Don't Lose Sight \(Acoustic\)](https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Don't Lose Sight](https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo) | 6:46 | 2022-05-06 |  |
 | [Don't Trip](https://open.spotify.com/track/1fWJ5Q2o5XJDO7aaoEEln3) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/6bncnRFItEWzbdaXwurKhe) | 3:00 | 2022-04-15 | 2022-07-29 |
 | [Don't Trip](https://open.spotify.com/track/42HWBRIGDyswiKXJB3O9PP) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:00 | 2022-04-22 | 2023-04-30 |
-| [Don't Trip](https://open.spotify.com/track/5mJpenSgvHOjfnK1Z4fc1p) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:00 | 2022-04-22 |  |
+| [Don't Trip](https://open.spotify.com/track/5mJpenSgvHOjfnK1Z4fc1p) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:00 | 2022-04-22 | 2023-12-09 |
 | [Don’t Care](https://open.spotify.com/track/327XHz25Jg8Ib5O3qcYdGU) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 5:22 | 2022-10-14 | 2023-01-20 |
 | [Dynamite](https://open.spotify.com/track/5J4CkTyZitaJ0L0X5kSoJr) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ), [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ), [Alex Ghenea](https://open.spotify.com/artist/1mGISDumAyOoK6epKA8gq1) | [Dynamite](https://open.spotify.com/album/33lLqNPDlSDWWbnEFFPgja) | 2:56 | 2021-09-21 | 2022-06-15 |
 | [Earworm](https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Earworm](https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl) | 2:24 | 2022-12-02 | 2023-01-01 |
@@ -148,6 +148,7 @@
 | [Girls](https://open.spotify.com/track/1LFu0JwC7x6CFLc6jpRKzH) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Girls](https://open.spotify.com/album/5pmNkvkpQCHdFvdbwEM2aa) | 3:24 | 2020-11-13 | 2022-03-19 |
 | [Givin'](https://open.spotify.com/track/0miEcUq0VOQnaJ1oJL4Qum) | [The Futurelics](https://open.spotify.com/artist/2wUlCFFpvqdGiV1LIGr1Gk) | [Givin'](https://open.spotify.com/album/6mo0TkwTXp7RmvYRsfC2nN) | 2:48 | 2021-09-21 | 2022-10-15 |
 | [Glad U Came](https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Glad U Came](https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj) | 2:58 | 2023-04-28 |  |
+| [GLOOMTOWN BRATS](https://open.spotify.com/track/5vBAjwTwk34cyQ4KgqgoP6) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [GLOOMTOWN BRATS](https://open.spotify.com/album/3bNUksAi616JZtViQ7ivwh) | 3:13 | 2023-12-08 |  |
 | [Going Straight Crazy \(feat\. Princess Shaw\)](https://open.spotify.com/track/3W1p5WQYuH0MGIKEydV5Xb) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Princess Shaw](https://open.spotify.com/artist/4nNqSw4oiBkrRjd4vEivbD) | [Going Straight Crazy \(feat\. Princess Shaw\)](https://open.spotify.com/album/4wPAg6ZaQU4s4kiMookJzy) | 3:27 | 2020-11-13 | 2022-03-26 |
 | [Golden](https://open.spotify.com/track/0K4oZ2Pt2VJ55nA5LX3rTH) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Tim Myers](https://open.spotify.com/artist/44BkC9lJfLmhcRB4NV7Z38) | [Golden](https://open.spotify.com/album/6okG7bZpTzeVJiyp6pKik4) | 3:10 | 2023-09-08 |  |
 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 | 2021-07-30 | 2023-02-18 |

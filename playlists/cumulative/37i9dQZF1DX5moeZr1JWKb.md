@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Tres Coronas
 
-103 songs - 5 hr 34 min
+104 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Sueños](https://open.spotify.com/track/3FNwVWTL8yuT7AuL875x4i) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Sueños](https://open.spotify.com/album/6Z5f0NA36ooIM67hv3WtdZ) | 3:34 | 2023-05-26 |  |
 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 | 2023-05-26 |  |
 | [Tequiero](https://open.spotify.com/track/4SeXUVfZwY001lS93d6Gqz) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Tequiero](https://open.spotify.com/album/5yTVLuOiRvb7tXTkpbUjXR) | 3:20 | 2023-05-26 |  |
-| [The Look Of Love](https://open.spotify.com/track/7IpyBfP2eVGHGiGgkJqGxS) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq) | [The Look Of Love](https://open.spotify.com/album/3CEjATheM3YuuXKG0sU8XE) | 3:21 | 2023-05-26 |  |
+| [The Look Of Love](https://open.spotify.com/track/7IpyBfP2eVGHGiGgkJqGxS) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq) | [The Look Of Love](https://open.spotify.com/album/3CEjATheM3YuuXKG0sU8XE) | 3:21 | 2023-05-26 | 2023-12-09 |
+| [The Look of Love](https://open.spotify.com/track/1gAHoIk7sdqxdXTNRgeYX1) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [The Look of Love](https://open.spotify.com/album/4yVrtmVo36fxd2nGCKuxMT) | 3:19 | 2023-11-10 |  |
 | [Tickete$](https://open.spotify.com/track/458EoGLFOBxgHH8NqPRoN0) | [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Tickete$](https://open.spotify.com/album/3ajTkwZ9wCc9hcbxxwD713) | 3:15 | 2023-05-26 |  |
 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 | 2023-05-26 |  |
 | [Tú](https://open.spotify.com/track/3qP10K3jeiB2xoz8OZF6nO) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:33 | 2023-05-26 |  |

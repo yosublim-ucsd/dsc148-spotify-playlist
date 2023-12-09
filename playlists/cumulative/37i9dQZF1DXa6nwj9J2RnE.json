@@ -596,7 +596,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 150725,
       "name": "Golvend Water",
       "url": "https://open.spotify.com/track/11WNquIczwWq8t8utMQpae"
@@ -2041,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Who Are You Running From",
+        "url": "https://open.spotify.com/album/3sWrHw3QHMZXIfEjZ4x387"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196516,
+      "name": "Who Are You Running From",
+      "url": "https://open.spotify.com/track/3jSDhLHxnERqG9XWc4ynFz"
+    },
+    {
+      "album": {
         "name": "mensenkind",
         "url": "https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM"
       },
@@ -2164,6 +2182,24 @@
       "duration_ms": 183000,
       "name": "Zorgeloos",
       "url": "https://open.spotify.com/track/2M4ullZOgWZWSovqHslHG4"
+    },
+    {
+      "album": {
+        "name": "VOLGEND WATER",
+        "url": "https://open.spotify.com/album/5spkxtK1yVIfaJTXKF7gil"
+      },
+      "artists": [
+        {
+          "name": "NAVARONE COLE",
+          "url": "https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143397,
+      "name": "Zoute Tranen",
+      "url": "https://open.spotify.com/track/1GTiOgLHzzCnrIyWQY0ehe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE"

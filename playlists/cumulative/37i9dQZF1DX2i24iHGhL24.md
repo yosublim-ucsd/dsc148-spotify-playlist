@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-414 songs - 23 hr 45 min
+415 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Kiss Me](https://open.spotify.com/track/6Ngyk6TvmMeXqxlgdq0u9f) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Kiss Me](https://open.spotify.com/album/6h9bC3nDWad10hG7b5UCbd) | 2:26 | 2022-07-08 | 2022-12-30 |
 | [Kiss Me](https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Kiss Me](https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN) | 2:28 | 2023-02-24 |  |
 | [Kiss Me](https://open.spotify.com/track/4xni5u37UubdobwY7FpnqZ) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Kiss Me](https://open.spotify.com/album/7xpY3HpVuf7KsxPFXXU6nO) | 2:28 | 2023-02-17 | 2023-03-18 |
-| [Kissing You](https://open.spotify.com/track/4cTafvpYaCM3u41plC0eK4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria \(Special Edition\)](https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW) | 4:55 | 2023-04-14 |  |
+| [Kissing You](https://open.spotify.com/track/4cTafvpYaCM3u41plC0eK4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria \(Special Edition\)](https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW) | 4:55 | 2023-04-14 | 2023-12-09 |
 | [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-08-26 | 2022-12-30 |
 | [Landslide](https://open.spotify.com/track/0xhpxr1fREd1Ibk8nn2GgJ) | [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [Landslide](https://open.spotify.com/album/6IqV86UKrnvcXmN7TKucPa) | 3:45 | 2021-12-17 | 2023-10-17 |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-05-27 |  |
@@ -300,6 +300,7 @@
 | [Rather Be](https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1) | 4:07 | 2021-12-24 | 2021-12-31 |
 | [Rather Be](https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB) | 4:07 | 2022-07-08 | 2022-10-29 |
 | [Rather Be](https://open.spotify.com/track/65JDgeD464dj7HzRBHKnaY) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/4FVakTdaFIU6acV4hHypOs) | 4:07 | 2022-02-18 | 2022-07-29 |
+| [Rewrite the Stars](https://open.spotify.com/track/6MmBZEU7zbWwPP32XJQPoI) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Rewrite the Stars](https://open.spotify.com/album/1SA55aT60plxlyPRErTCRw) | 2:31 | 2023-12-08 |  |
 | [River](https://open.spotify.com/track/2jqvNMwGblEUNMwTMBhXMV) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [River](https://open.spotify.com/album/4i1B3n7MJsMwGapAjOxvBF) | 3:45 | 2022-03-25 | 2022-04-16 |
 | [RUNNING UP THAT HILL](https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [RUNNING UP THAT HILL](https://open.spotify.com/album/4b0lmXRVg3jpRkrLS49yeg) | 3:19 | 2023-02-17 | 2023-11-05 |
 | [RUNNING UP THAT HILL](https://open.spotify.com/track/4NfjZe19Gsnm4pto3oJ8zb) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [RUNNING UP THAT HILL](https://open.spotify.com/album/3k5d8t2nSAr7saw6yqm5vC) | 3:19 | 2023-10-18 |  |

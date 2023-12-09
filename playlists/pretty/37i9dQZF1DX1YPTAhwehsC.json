@@ -1,13 +1,33 @@
 {
   "description": "Up and down I-95. Cover: 41",
-  "num_followers": 454847,
+  "num_followers": 454885,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzJlY2YzYTk0YzYwNjkxNzk5NjFlM2I4N2Y0Y2VlNTRhODE1Y2Fl",
+  "snapshot_id": "MCw4YTQwYzgzYTRjNWUzNjExYWFhZGE0NTI5MTI2NzMwZGNlMjg4NjVj",
   "tracks": [
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
@@ -61,6 +81,122 @@
       "url": "https://open.spotify.com/track/30TEsD9nJfrJSRL1RTJMDg"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "duration_ms": 192195,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "HVN ON EARTH",
+        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "HVN ON EARTH (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "One Foot In",
+        "url": "https://open.spotify.com/album/6lngN4MM1P71ocrwive5Cg"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "duration_ms": 164501,
+      "name": "One Foot In (with Stove God Cooks)",
+      "url": "https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Blick",
+        "url": "https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "duration_ms": 134344,
+      "name": "Blick",
+      "url": "https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Good Girls Ain't No Fun",
+        "url": "https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 142911,
+      "name": "Good Girls Ain't No Fun",
+      "url": "https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "500lbs",
@@ -75,26 +211,6 @@
       "duration_ms": 144390,
       "name": "500lbs",
       "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "You (feat. Bryson Tiller)",
-        "url": "https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl"
-      },
-      "artists": [
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "You (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -119,38 +235,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Good Girls Ain't No Fun",
-        "url": "https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u"
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/1wXA0CPAKjjqonYux7JJvC"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         }
       ],
-      "duration_ms": 142911,
-      "name": "Good Girls Ain't No Fun",
-      "url": "https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "HVN ON EARTH",
-        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "HVN ON EARTH (with Kodak Black)",
-      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
+      "duration_ms": 194478,
+      "name": "Looking For Nipsey",
+      "url": "https://open.spotify.com/track/4Cgaq1KqdMFmlciy0PR4dX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -175,34 +271,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Decisions",
-        "url": "https://open.spotify.com/album/1wXA0CPAKjjqonYux7JJvC"
+        "name": "You (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl"
       },
       "artists": [
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 194478,
-      "name": "Looking For Nipsey",
-      "url": "https://open.spotify.com/track/4Cgaq1KqdMFmlciy0PR4dX"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Why Would I?",
-        "url": "https://open.spotify.com/album/2lAvIgCeAzIgdjJHLjuBt5"
-      },
-      "artists": [
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
         {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 119172,
-      "name": "Why Would I?",
-      "url": "https://open.spotify.com/track/5IN2qvFpISNge4Bed3fJz4"
+      "duration_ms": 161400,
+      "name": "You (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -257,6 +341,26 @@
       "url": "https://open.spotify.com/track/02WbmXcfVEPDOZH91K8OtL"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/3VLvNs02uHEhNzv49mTlQy"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Put On (feat. Icewear Vezzo)",
+      "url": "https://open.spotify.com/track/2Vyv8L8ajfQlugnyiglaB8"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "OK (feat. Young Thug)",
@@ -281,20 +385,20 @@
       "url": "https://open.spotify.com/track/06P0OMevRLv6wWGdXHSGN2"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Gun for Gun",
-        "url": "https://open.spotify.com/album/65xUGIszcBbbpBRpoAEiLu"
+        "name": "FOMV",
+        "url": "https://open.spotify.com/album/3tPbnB3oONoslFV9uxSX3s"
       },
       "artists": [
         {
-          "name": "Sha EK",
-          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
         }
       ],
-      "duration_ms": 108375,
-      "name": "Gun for Gun",
-      "url": "https://open.spotify.com/track/6HD02KC4uZSGDOlzbUXfbx"
+      "duration_ms": 132723,
+      "name": "FOMV",
+      "url": "https://open.spotify.com/track/4G5wmfVLt31zCJwLFSVKOp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -351,6 +455,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Brick by Brick",
+        "url": "https://open.spotify.com/album/0gIj2BQkFsWl2wemwpdGMr"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "duration_ms": 121690,
+      "name": "Brick by Brick",
+      "url": "https://open.spotify.com/track/2Sr9XpAEpFSOk3EpowGyYp"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Big Dog",
         "url": "https://open.spotify.com/album/5N1Y4h6H1fiS7tIL0fPivM"
       },
@@ -367,22 +491,6 @@
       "duration_ms": 253760,
       "name": "Big Dog (with Lil Wayne)",
       "url": "https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Blick",
-        "url": "https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq"
-      },
-      "artists": [
-        {
-          "name": "ScarLip",
-          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
-        }
-      ],
-      "duration_ms": 134344,
-      "name": "Blick",
-      "url": "https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -459,26 +567,6 @@
       "duration_ms": 197335,
       "name": "30 for 30",
       "url": "https://open.spotify.com/track/3v6GHqxoK7hQM8ubHc92ds"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Project XXX",
-        "url": "https://open.spotify.com/album/2EZrlcbTi3NHvlw0OTAHaX"
-      },
-      "artists": [
-        {
-          "name": "B Jack$",
-          "url": "https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo"
-        },
-        {
-          "name": "MCVERTT",
-          "url": "https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Project XXX",
-      "url": "https://open.spotify.com/track/35f1EXgZelEJKJPGo6VWIQ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -839,22 +927,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Realest In The City",
-        "url": "https://open.spotify.com/album/5Jh381Kt0Nf4VLeIDwxTv9"
-      },
-      "artists": [
-        {
-          "name": "Rowdy Rebel",
-          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Realest In The City",
-      "url": "https://open.spotify.com/track/0wn43CJ1CNFYMMTnwOpIjK"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "A Forsaken Lover's Plea",
         "url": "https://open.spotify.com/album/1Gyeg7Y0DYpD03XVEVuraW"
       },
@@ -987,26 +1059,6 @@
       "duration_ms": 199746,
       "name": "Don't Get Me Started (feat. Coi Leray & Nija)",
       "url": "https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Brick by Brick",
-        "url": "https://open.spotify.com/album/0gIj2BQkFsWl2wemwpdGMr"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
-        }
-      ],
-      "duration_ms": 121690,
-      "name": "Brick by Brick",
-      "url": "https://open.spotify.com/track/2Sr9XpAEpFSOk3EpowGyYp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1231,22 +1283,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "GHOST (DELUXE EDITION)",
-        "url": "https://open.spotify.com/album/5Yte8LPU5DI49QYBiMmI4E"
-      },
-      "artists": [
-        {
-          "name": "FLEE",
-          "url": "https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p"
-        }
-      ],
-      "duration_ms": 109975,
-      "name": "BUBBLE GREEN",
-      "url": "https://open.spotify.com/track/3geCHoatBHgpCbLmittPye"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "DOS",
         "url": "https://open.spotify.com/album/3DC1WcfMt8LVwSzqiJnJs1"
       },
@@ -1327,30 +1363,6 @@
       "duration_ms": 165514,
       "name": "Options",
       "url": "https://open.spotify.com/track/2wdtc3sdFO1rkAQYFJholn"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Jim Jones Presents Byrdgang 2.0",
-        "url": "https://open.spotify.com/album/5lTmlJdGumADhU059U0uYm"
-      },
-      "artists": [
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Dyce Payso",
-          "url": "https://open.spotify.com/artist/2m1Dl2eo3Lg9z1fB7j5Hin"
-        },
-        {
-          "name": "Melii",
-          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
-        }
-      ],
-      "duration_ms": 175536,
-      "name": "Don Julio",
-      "url": "https://open.spotify.com/track/3sa1dDORZBfg9x1gVOCavj"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1791,22 +1803,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Do The Most",
-        "url": "https://open.spotify.com/album/7umiUkssxpb76qm8AT8Uq0"
-      },
-      "artists": [
-        {
-          "name": "Dustystaytrue",
-          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
-        }
-      ],
-      "duration_ms": 192009,
-      "name": "Do The Most",
-      "url": "https://open.spotify.com/track/1yg9VKFZ4nAtylknE3lUHo"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Last One Left",
         "url": "https://open.spotify.com/album/1SH0SWEZWW9fKuQR77Ths2"
       },
@@ -1891,6 +1887,22 @@
       "duration_ms": 158181,
       "name": "No Statements",
       "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     }
   ],
   "unique_name": "State of Mind",

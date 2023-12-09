@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 
 > Un suave trasfondo musical para mantener el foco en tus tareas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,402 likes - 223 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,405 likes - 223 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 | 222 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 |
 | 223 | [Sand Drawings](https://open.spotify.com/track/2Dp9TIMXgkkJKIMDlMRVga) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Before Bed](https://open.spotify.com/album/2VU935bqWQB3q0xqkAojfc) | 2:00 |
 
-Snapshot ID: `MCxlZThlMWJjMzZjZjVjY2FmNTY5ZDcxNTY1ODU0MWU2NjJmMWUxNTc3`
+Snapshot ID: `MCw0YWI2OTkyZGRiNDNjMDU4NTgzNmMzYTQ3YTZkNzUxMDI2MTMzN2Ri`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Pop in 2023\. Cover: Debbii Dawson
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,441 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,534 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 13 | [little miss misogyny](https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [little miss misogyny](https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS) | 2:27 |
 | 14 | [Coincidence](https://open.spotify.com/track/2V5l77xUr1wyBkILj2qF8K) | [Rosse](https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i) | [Coincidence](https://open.spotify.com/album/0YiNeZCJUJLOl6xUekCBFV) | 3:22 |
 | 15 | [different but exactly like you](https://open.spotify.com/track/7IbkNoUqOuOSUeSqqxm56f) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [idk if this is it](https://open.spotify.com/album/6pCfsQZiAiWXx9zMctgxyj) | 3:47 |
-| 16 | [Replace You](https://open.spotify.com/track/4KtVL332elRhpZoctkarI3) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Replace You](https://open.spotify.com/album/6TUvBFwQuHPp7ks7fIHgBE) | 3:20 |
+| 16 | [Replace You](https://open.spotify.com/track/0SmPS7g9KqFYHMMZrcsidS) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Replace You](https://open.spotify.com/album/5PgQYRXxoikSChTvkUd2GG) | 3:20 |
 | 17 | [Sweet Nothings](https://open.spotify.com/track/58fTsTMMtsbkmmfKvigaAT) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Sweet Nothings](https://open.spotify.com/album/2AF660vQbgKR2QHGZ83kW3) | 2:15 |
 | 18 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 |
 | 19 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 49 | [If You'll Have Me](https://open.spotify.com/track/5eocW7HblxHATAlUkwihVj) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [If You'll Have Me](https://open.spotify.com/album/2Tj6aMOWvhNxk4bh3JA3vj) | 2:50 |
 | 50 | [Pardon My French](https://open.spotify.com/track/3Fk6VAsLpyrPlGcEzNbSyP) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Pardon My French](https://open.spotify.com/album/6tU236uAny4Fttxjoq1srR) | 2:21 |
 
-Snapshot ID: `MCxmMGMyYmQ5OTIwOWRhZTc2NzcxMjhiYjRmZjk0MDQxODAyYTgxZTUx`
+Snapshot ID: `MCwxMmY3ZGUwZDM0ZjIyOTk1YWY0MTVmZjlhODcyNGZhMjg5ODMzNGVm`

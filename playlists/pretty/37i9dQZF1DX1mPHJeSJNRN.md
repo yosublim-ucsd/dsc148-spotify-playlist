@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,505 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,502 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [Comes Love](https://open.spotify.com/track/6KPzkbirCRJJdgRHFM9ozt) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [The Danish Radio Big Band](https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE) | [We've Just Begun](https://open.spotify.com/album/0IDhy8JGpoMH9xw4gnMHZh) | 6:41 |
 | 100 | [Westinghouse](https://open.spotify.com/track/5xBnT2MvhDcEmkE5OT9fvi) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:36 |
 
-Snapshot ID: `MCw0ZTM0YjVkN2IzYzkzOTFlZjkyYTkwM2Q3YmE1M2ZhMmZiZmMzMmQ0`
+Snapshot ID: `MCw2Y2YyY2Q5OWNkYjUxMWZiMDA5MTVlNDUzYzUwMTA1MWUwMjgyYThj`

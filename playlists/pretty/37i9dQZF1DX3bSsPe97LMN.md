@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Grupo TMB en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,794 likes - 89 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,805 likes - 89 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 75 | [Yo Soy Guerrera](https://open.spotify.com/track/02qS6Wk3yj1SfEqYt8d8Ya) | [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Yo Soy Guerrera](https://open.spotify.com/album/59Tnc8xzcatjqS7n9eBdks) | 2:18 |
 | 76 | [Cada Loco A Su Papel](https://open.spotify.com/track/1PkJfH6o8nMPImI8PQUxLA) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Cada Loco A Su Papel](https://open.spotify.com/album/0wL5GsQvcPv3UrbPoG8Ktf) | 2:33 |
 | 77 | [Qué Ganas de Volver](https://open.spotify.com/track/2xfgaz02xDkL2Yyumjhejz) | [Omar Robles](https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL) | [Qué Ganas de Volver](https://open.spotify.com/album/0HNCuLUkataflaUI5NtVIy) | 3:40 |
-| 78 | [Rey Arturo](https://open.spotify.com/track/3yoDB3fToxn1WQ7i95FYtU) | [BÉLICO INDIE](https://open.spotify.com/artist/31kHBwfQiX3Iha7wxGwFo3), [Última Evidencia](https://open.spotify.com/artist/4oJxCo8SivdsvareMkYmZL) | [Rey Arturo](https://open.spotify.com/album/4Llilk6OHfidqG3Wki97HJ) | 3:15 |
+| 78 | [Rey Arturo](https://open.spotify.com/track/3yoDB3fToxn1WQ7i95FYtU) | [BÉLICO INDIE](https://open.spotify.com/artist/31kHBwfQiX3Iha7wxGwFo3), [Ultima Evidencia](https://open.spotify.com/artist/264QcNQeRvWfegabHBMJFG) | [Rey Arturo](https://open.spotify.com/album/4Llilk6OHfidqG3Wki97HJ) | 3:15 |
 | 79 | [Que Bonito Es Tomar](https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Que Bonito Es Tomar](https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP) | 2:45 |
 | 80 | [Tal Vez](https://open.spotify.com/track/4KCGkBwcME4GUR96jGvR4s) | [Gabo Ponce](https://open.spotify.com/artist/2Cby4NWU4TyYUK8Lx2LViY) | [Tal Vez](https://open.spotify.com/album/3dKFFChE0pV72EGw3Hhgly) | 5:23 |
 | 81 | [Los Chismes](https://open.spotify.com/track/39DEc4b2WcKd9aNAM37Xa0) | [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [Los Chismes](https://open.spotify.com/album/1b3pThADFDTmQITRpwRqzI) | 2:34 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 88 | [DÉJENME TOMAR](https://open.spotify.com/track/40SkbtGWQyvLpuve5bPfO2) | [ARRIOLA](https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked) | [DÉJENME TOMAR](https://open.spotify.com/album/5c5y9U97aVoJKcGXZ8Dx91) | 2:25 |
 | 89 | [Toro Relajo](https://open.spotify.com/track/1N6XCVkEpYzLbKsO2BZt7P) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Toro Relajo](https://open.spotify.com/album/6IluN3tRW1DIQg9mAOQI4q) | 3:38 |
 
-Snapshot ID: `MCxiZTdkZTJhNDhlMTc5ZThlZThhYWVkNDE0OTAxNjYwOGJiZGY3NzFj`
+Snapshot ID: `MCwxMjcyMDJmZTgzYzNmODU1NTY0YjE0MzZlM2QzNTYzYmZkZjA2NWIw`

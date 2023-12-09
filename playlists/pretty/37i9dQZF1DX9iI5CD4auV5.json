@@ -1,12 +1,12 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3ABaec4jjl95VqmG1iD4k2\">Green Velvet</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 55857,
+  "num_followers": 55893,
   "original_name": "Green Velvet's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDc2NDE2NjhmNmZlYzkzZTQyMTljNzk4NDQ3ODU3YmU1ZjEzNmEy",
+  "snapshot_id": "MCxhNDhhN2UxOTc3MmNhNWRiMTYzYzg5MDFiMjJkOWE3NTMyMzY2Yjgx",
   "tracks": [
     {
       "added_at": "2023-11-22 16:36:11",
@@ -1524,7 +1524,7 @@
       "added_at": "2023-11-22 16:36:11",
       "album": {
         "name": "Jolean",
-        "url": "https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj"
+        "url": "https://open.spotify.com/album/31tFwWld1FcTuvwqTCdFai"
       },
       "artists": [
         {
@@ -1542,7 +1542,7 @@
       ],
       "duration_ms": 193602,
       "name": "Jolean",
-      "url": "https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi"
+      "url": "https://open.spotify.com/track/5nUJfA9CcphMdkS14cAPoo"
     }
   ],
   "unique_name": "Green Velvet's track IDs",

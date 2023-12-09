@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the internet. Cover: Lil Mabu",
-  "num_followers": 1392606,
+  "num_followers": 1392591,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWY0NTI4ZGRjNGYwNWFiMjIxYjBhOWYwNDM4NjI0MTFjNGU5NGJj",
+  "snapshot_id": "MCxmMDAyOGE5NjkzYjEwYTMyOTNkODhlY2Q0NDllMjhmMTA0MWQzODI2",
   "tracks": [
     {
       "added_at": "2023-12-06 21:50:48",
@@ -43,6 +43,22 @@
       "duration_ms": 108750,
       "name": "MR. TAKE YA B*TCH (FEAT. CHRISEANROCK)",
       "url": "https://open.spotify.com/track/38R5sydMbsBzSPGPMfmtpb"
+    },
+    {
+      "added_at": "2023-12-08 22:46:00",
+      "album": {
+        "name": "douji feva",
+        "url": "https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5"
+      },
+      "artists": [
+        {
+          "name": "Barretta",
+          "url": "https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl"
+        }
+      ],
+      "duration_ms": 105229,
+      "name": "douji feva",
+      "url": "https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -623,8 +639,8 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "RATHER BE",
-        "url": "https://open.spotify.com/album/2HwUleY40tW6VGwIiq5vmG"
+        "name": "LAMBDIDDY 2 EP",
+        "url": "https://open.spotify.com/album/3gCjy6KiSUHOGszFDrsPJ3"
       },
       "artists": [
         {
@@ -633,8 +649,8 @@
         }
       ],
       "duration_ms": 107389,
-      "name": "RATHER BE",
-      "url": "https://open.spotify.com/track/0ZeI050Xzsr5v6FodFzaLV"
+      "name": "UP",
+      "url": "https://open.spotify.com/track/7Mkc0cgOKfT6FsdNG5D9A9"
     },
     {
       "added_at": "2023-12-01 05:00:00",

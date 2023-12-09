@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-87 songs - 5 hr 20 min
+88 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [My Medicine](https://open.spotify.com/track/5jeXDGMNkY8G2bPsHLaNnm) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Ego Trippin'](https://open.spotify.com/album/5EtVXHkqYV1ebAoYNDFmmY) | 2:39 | 2022-04-20 | 2023-08-21 |
 | [No Stone Unturned](https://open.spotify.com/track/6ePOIK1QboDEYxhR0ZccTG) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/0JNnoUpkLCLzdI9pIfWfQi) | 4:21 | 2023-04-20 |  |
 | [No Stone Unturned](https://open.spotify.com/track/6iFZZn1BcsHzSP13598ujN) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 4:21 | 2021-04-20 | 2023-11-11 |
+| [Old Familiar Drunken Feeling](https://open.spotify.com/track/2slmd60iUQz0tGUObmVX0d) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Old Familiar Drunken Feeling](https://open.spotify.com/album/1WA2SE1Wl91iWGLCSBTjLW) | 5:08 | 2023-11-28 |  |
 | [One Toke Over the Line](https://open.spotify.com/track/5NU6nNizcd38J1xJi1tGXE) | [Brewer & Shipley](https://open.spotify.com/artist/4bx9rfUR9C0H26TEiVCwdi) | [Tarkio Road](https://open.spotify.com/album/5lHnXRX9sgB9aGo6r3lcdG) | 3:19 | 2021-04-20 |  |
 | [Our Grass Is Legal](https://open.spotify.com/track/5WREsIXrQ8pleixunsClED) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 4:12 | 2022-04-20 |  |
 | [Paid My Dues \(feat\. Jack Ingram\)](https://open.spotify.com/track/6zEdC244iXLmU9JfQzidAU) | [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Jack Ingram](https://open.spotify.com/artist/6VQGYwqcmPDtqfVTSDqBgp) | [Bruce Robison & the Back Porch Band](https://open.spotify.com/album/63OvteRfdrITCzn2km5Yln) | 3:22 | 2021-11-26 | 2023-08-21 |

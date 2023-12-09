@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-345 songs - 16 hr 27 min
+348 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Presence Felt](https://open.spotify.com/track/1Uli6hijxurqXnmkNCZuyK) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [The Crossing](https://open.spotify.com/album/5o7ZYBKSmXLLm9mIHIqJUc) | 3:04 | 2022-07-22 |  |
 | [A Presence Felt](https://open.spotify.com/track/1nhuTS6xotWZima4bQJUvX) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [The Crossing](https://open.spotify.com/album/5PdN1hbgdNfgEKFG5nsq24) | 3:04 | 2020-10-20\* | 2022-07-29 |
 | [A Way to Heaven](https://open.spotify.com/track/53P3pDWN0hGSLypCMWCech) | [Maurice Windham](https://open.spotify.com/artist/1BqkyvviBNHzqXWxfCOYtL) | [A Way to Heaven](https://open.spotify.com/album/0zpY104xA55q6yTnvfrZt1) | 1:02 | 2020-10-20\* | 2023-07-29 |
+| [above the clouds](https://open.spotify.com/track/3tYIa6bWt6MFfDHCRceCZ6) | [Dancing and Dreaming](https://open.spotify.com/artist/0og1CmJP5QtC99aDftPaOt) | [above the clouds](https://open.spotify.com/album/2CuKBq5lsJJh87ajdVzwa9) | 2:05 | 2023-12-01 |  |
 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 | 2021-10-28 |  |
 | [All Around Us](https://open.spotify.com/track/5jFQb4HLIsyOpClpUNDKqy) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [All Around Us](https://open.spotify.com/album/2wL1Qgbzh1v5NDF4kpMbQC) | 2:50 | 2020-10-20\* |  |
 | [All Is Good](https://open.spotify.com/track/2taX1reIQRP5APwN3AYmDq) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/6BbtnPyEH0COVx1F0bsIpk) | 2:25 | 2020-10-20\* | 2022-07-29 |
@@ -35,7 +36,7 @@
 | [Ava](https://open.spotify.com/track/2ZOcIBtmGkwQeL1ZQxhCEy) | [Kasper Schill](https://open.spotify.com/artist/2P2QGjpDk60svsWQGidU0J) | [Ava](https://open.spotify.com/album/7v48jyII9Nshy8uhsFSiMX) | 2:48 | 2020-10-20\* | 2022-07-29 |
 | [Ava](https://open.spotify.com/track/527OzwwTayP2ZYijImtf1B) | [Kasper Schill](https://open.spotify.com/artist/2P2QGjpDk60svsWQGidU0J) | [Ava](https://open.spotify.com/album/3er4lN4fHeQkuTp5v3JkJo) | 2:48 | 2022-07-22 |  |
 | [Beautiful Wave](https://open.spotify.com/track/2MG1XEnVM6rq63IDiOrdIN) | [Patterns In Everything](https://open.spotify.com/artist/2mgIQPmnKgc7jOQgq8JDDl) | [Beautiful Wave](https://open.spotify.com/album/3og8lAbTWBCejbKVa0O6Vh) | 3:58 | 2020-10-20\* | 2022-08-13 |
-| [Bedtime Roses](https://open.spotify.com/track/78p1VT3WakXX97qnnRqQGD) | [Enlightment Spirits](https://open.spotify.com/artist/0OLeckavC2DOpjGiVUTqTF) | [Bedtime Roses](https://open.spotify.com/album/1D1pF0jmc7dIiqltajtMPr) | 2:24 | 2020-10-20\* |  |
+| [Bedtime Roses](https://open.spotify.com/track/78p1VT3WakXX97qnnRqQGD) | [Enlightment Spirits](https://open.spotify.com/artist/0OLeckavC2DOpjGiVUTqTF) | [Bedtime Roses](https://open.spotify.com/album/1D1pF0jmc7dIiqltajtMPr) | 2:24 | 2020-10-20\* | 2023-12-09 |
 | [Bergamot](https://open.spotify.com/track/7E5pn3FakM4zKk7CpbK6hI) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Bergamot](https://open.spotify.com/album/2qI2lDAkfUH8nBKszazYRs) | 3:15 | 2022-07-15 |  |
 | [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2020-10-20\* | 2022-07-29 |
 | [Between Moments](https://open.spotify.com/track/7IeAd6rhMU9zMG0wccZbwb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC) | 1:56 | 2022-07-22 | 2023-07-29 |
@@ -280,6 +281,7 @@
 | [Somnolence](https://open.spotify.com/track/42l68t0uutO6GH5xGEJLuO) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Somnolence](https://open.spotify.com/album/2I22kCuVqwkvnJ2sfO1huh) | 4:07 | 2020-10-20\* | 2022-02-04 |
 | [Song For Saul](https://open.spotify.com/track/4kNNXWML7vg2b4NXAGILdd) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Fields Of Moab](https://open.spotify.com/album/0koXNisSlKiZui2102JtVx) | 3:53 | 2020-10-20\* | 2022-08-13 |
 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 | 2021-09-24 |  |
+| [Spirit Dance](https://open.spotify.com/track/60782fvOOB4v0m9dYT7F8M) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Spirit Dance](https://open.spotify.com/album/2Urj4oCqA2SzlhZpmD6oOH) | 3:05 | 2023-12-01 |  |
 | [Spiritual Alignment](https://open.spotify.com/track/2i171UfyH6nG0qqrIdwoCO) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Spiritual Alignment](https://open.spotify.com/album/6APh84KBRc7seMrOxssFi4) | 3:42 | 2020-10-20\* | 2023-02-10 |
 | [Starlight Song](https://open.spotify.com/track/6D1DLNT4FshLPwdiQ45rXu) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Starlight Song](https://open.spotify.com/album/0a81mgVUyef6JqS7DIPGb4) | 2:59 | 2021-08-27 |  |
 | [State of Tranquility](https://open.spotify.com/track/1JFb0Na5vJFckCPOmrxPXR) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 4:08 | 2020-10-20\* |  |
@@ -345,6 +347,7 @@
 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 | 2022-01-07 |  |
 | [Where The Street End](https://open.spotify.com/track/4hc6B7G97DoU45u5lYsoZ8) | [Alpine Sun](https://open.spotify.com/artist/5FivdXVNbUZheGS5gTb9WE) | [Weightless Sorrows](https://open.spotify.com/album/0XhPFxCMNU3aCQqrDnk3pT) | 3:02 | 2020-10-20\* |  |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2020-10-20\* |  |
+| [Windcatcher](https://open.spotify.com/track/1s3acPHWlJ5irFhryf82xI) | [Vayda Sun](https://open.spotify.com/artist/2DDcsNRmquB7eoFY1S0oxX) | [Windcatcher](https://open.spotify.com/album/52L1n8jLGDdkwE7CLzwS9v) | 2:58 | 2023-12-01 |  |
 | [Winding Trails](https://open.spotify.com/track/5X3hvz25Pyqgtj1jF3HX4V) | [Cara Wolff](https://open.spotify.com/artist/4awzT4TfiIuWgss8saWodD) | [Winding Trails](https://open.spotify.com/album/6pVYhysoA5VGngRzATX4bo) | 2:02 | 2020-10-20\* |  |
 | [Winter Hideaway](https://open.spotify.com/track/7xP42oGDgsbySKzKH2750d) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Winter Hideaway](https://open.spotify.com/album/0KygdGPgmuaOMhBRX5BAdE) | 2:10 | 2023-01-06 |  |
 | [Wishes](https://open.spotify.com/track/7giuPZOPDPkpNOeVjC56rm) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Higher States](https://open.spotify.com/album/2RcXr9Wzd3mjH3P8ghQsjZ) | 3:04 | 2020-10-20\* |  |

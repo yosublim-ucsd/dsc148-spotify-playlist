@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175161,
+      "name": "42",
+      "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/0EGEqpUrrlDzUQJvTQjjFR"
       },
@@ -3121,7 +3143,7 @@
     },
     {
       "album": {
-        "name": "Greatest Hits (Remastered)",
+        "name": "Greatest Hits (Remastered 2023)",
         "url": "https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI"
       },
       "artists": [
@@ -3755,6 +3777,28 @@
     },
     {
       "album": {
+        "name": "World on Fire (VAVO Remix)",
+        "url": "https://open.spotify.com/album/55hKzA1ahojcAZL1ukmRmB"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153046,
+      "name": "World on Fire - VAVO Remix",
+      "url": "https://open.spotify.com/track/7uzhzMMLvN8GKb0JhBs1uc"
+    },
+    {
+      "album": {
         "name": "Wrong Side Of Love",
         "url": "https://open.spotify.com/album/22JimFUaCr4DaWx7b6FWoJ"
       },
@@ -3778,6 +3822,32 @@
     {
       "album": {
         "name": "Yeehaw",
+        "url": "https://open.spotify.com/album/5EprgE7RwWDD7fXLzIv3R9"
+      },
+      "artists": [
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        },
+        {
+          "name": "Rynn",
+          "url": "https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl"
+        },
+        {
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146433,
+      "name": "Yeehaw",
+      "url": "https://open.spotify.com/track/1N0eBZxgmCM2eWY2CsNRDR"
+    },
+    {
+      "album": {
+        "name": "Yeehaw",
         "url": "https://open.spotify.com/album/42iCh9VeEuvdweymnrZydN"
       },
       "artists": [
@@ -3796,7 +3866,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 146433,
       "name": "Yeehaw",
       "url": "https://open.spotify.com/track/3h7Ftxcsch5Vf9gudChXCR"

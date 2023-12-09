@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 150000,
       "name": "Circulator",
       "url": "https://open.spotify.com/track/1CGS1ivLi4e7ejfr7Qrgi0"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 247868,
       "name": "Invisible Images",
       "url": "https://open.spotify.com/track/5bgjFnhNGkut8KQHVMY31A"
@@ -1297,6 +1297,32 @@
     },
     {
       "album": {
+        "name": "Ogoin & Linguini: TV Show",
+        "url": "https://open.spotify.com/album/1rKjTHrC5iRC5e9Vm8Widv"
+      },
+      "artists": [
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        },
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196260,
+      "name": "Nossa Noite",
+      "url": "https://open.spotify.com/track/19ZBM3YUW2ckbZ9uAnNbha"
+    },
+    {
+      "album": {
         "name": "Nossa Gangue",
         "url": "https://open.spotify.com/album/4Hc0j4uyuMGefL33kkYmn6"
       },
@@ -1316,6 +1342,32 @@
       "duration_ms": 376859,
       "name": "Nosso Espa\u00e7o",
       "url": "https://open.spotify.com/track/5CRAaaj8HsuQ9gUXFE4RqR"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Sei Parar (Mojjo Remix)",
+        "url": "https://open.spotify.com/album/1OUJtYZFBjqViGP0WPHXPl"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Afterclapp",
+          "url": "https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "N\u00e3o Sei Parar - Mojjo Remix",
+      "url": "https://open.spotify.com/track/6j45uOIAiHWIEEaSiCRi4L"
     },
     {
       "album": {

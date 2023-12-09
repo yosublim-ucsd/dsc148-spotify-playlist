@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "*snow in berlin*",
+        "url": "https://open.spotify.com/album/7K3Ig78OIzZBNlvFdtzAfk"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159636,
+      "name": "*snow in berlin*",
+      "url": "https://open.spotify.com/track/6MgDPVjjEloarAofqPE4we"
+    },
+    {
+      "album": {
         "name": "Big Bad World",
         "url": "https://open.spotify.com/album/5TAmG2iyx5BRYR2z8f9xUd"
       },

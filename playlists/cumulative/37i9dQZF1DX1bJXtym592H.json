@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 176094,
       "name": "a higher power!",
       "url": "https://open.spotify.com/track/6AIc2FJCa0HxADaRLrYOK9"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 129916,
       "name": "Fly by Night",
       "url": "https://open.spotify.com/track/5u3vpXS3p1NEPGpK87MfTO"
@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Industrial Skyfall",
+        "url": "https://open.spotify.com/album/2RzXG4oYdk8vSoTpCbQfwZ"
+      },
+      "artists": [
+        {
+          "name": "poems",
+          "url": "https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Industrial Skyfall",
+      "url": "https://open.spotify.com/track/3evbYbOixIUNCfOXSkrFsZ"
+    },
+    {
+      "album": {
         "name": "Dangerous Eyes",
         "url": "https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz"
       },
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 180504,
       "name": "Like You",
       "url": "https://open.spotify.com/track/0wycCZ0b3g2NoqZV9OtCaM"
@@ -2355,6 +2373,28 @@
     },
     {
       "album": {
+        "name": "OJAI",
+        "url": "https://open.spotify.com/album/3KQBvhXcVqEk6kL5wKgnJB"
+      },
+      "artists": [
+        {
+          "name": "404flipp",
+          "url": "https://open.spotify.com/artist/0JAoyodhQGwikUsJp8FKNV"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131976,
+      "name": "OJAI",
+      "url": "https://open.spotify.com/track/7xB1XN3jO6PfKl04Q9g7S5"
+    },
+    {
+      "album": {
         "name": "Old Fashioned",
         "url": "https://open.spotify.com/album/7r26BSZm9wHxpagpuT47hj"
       },
@@ -2492,7 +2532,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 177711,
       "name": "Pajamas",
       "url": "https://open.spotify.com/track/2m7cPIPwClFt9haB2kux3z"
@@ -2697,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Purple Skies",
+        "url": "https://open.spotify.com/album/4Thel3mQHPCmIUUaQgoN7B"
+      },
+      "artists": [
+        {
+          "name": "Venti",
+          "url": "https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137761,
+      "name": "Purple Skies",
+      "url": "https://open.spotify.com/track/1fhsrPZVn5i7tsEsbspzgM"
+    },
+    {
+      "album": {
         "name": "Akademgorodok",
         "url": "https://open.spotify.com/album/4hxiBnBum1xzbW8e1hgo1L"
       },
@@ -2810,7 +2868,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 131153,
       "name": "Retrospective",
       "url": "https://open.spotify.com/track/5BYOPUidJX9Hx0T6tv3lWA"
@@ -3051,6 +3109,24 @@
     },
     {
       "album": {
+        "name": "slowly",
+        "url": "https://open.spotify.com/album/2wWNAkygpEnps2NpktCrju"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8wkey",
+          "url": "https://open.spotify.com/artist/0CgkKi2bj6cYB9sNMn0JPz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98863,
+      "name": "slowly",
+      "url": "https://open.spotify.com/track/0OQycB6AjHHMbGii30Mo56"
+    },
+    {
+      "album": {
         "name": "Small Steps",
         "url": "https://open.spotify.com/album/00Ce43IgXDRPKSyJndsvFE"
       },
@@ -3066,6 +3142,24 @@
       "duration_ms": 175714,
       "name": "Small Steps",
       "url": "https://open.spotify.com/track/3hsZTBrM7nqAF81K4XiR7A"
+    },
+    {
+      "album": {
+        "name": "Smoove it",
+        "url": "https://open.spotify.com/album/7DsMpXrDtMEZbnCd6WYBbE"
+      },
+      "artists": [
+        {
+          "name": "Gooee",
+          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159573,
+      "name": "Smoove it",
+      "url": "https://open.spotify.com/track/1TH9qGv02IQYNh8rWweltY"
     },
     {
       "album": {

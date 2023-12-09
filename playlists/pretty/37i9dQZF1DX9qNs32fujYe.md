@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,710 likes - 200 songs - 14 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,186 likes - 200 songs - 14 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 199 | [Song to Say Goodbye](https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx) | [Harakiri for the Sky](https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq) | [Mære](https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK) | 5:24 |
 | 200 | [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 |
 
-Snapshot ID: `MCw2NWRkNDg3YmM4ZTVhM2IxYmFiNmE2N2ZmN2ZjMzM2NjZmZDYyNzc0`
+Snapshot ID: `MCw4Y2JhODM2MzA0ZWY4YTMwNmIwM2FiYjdkYjY3OWE1Y2U0Y2FmYjZj`

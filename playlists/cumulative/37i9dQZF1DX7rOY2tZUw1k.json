@@ -3773,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206936,
+      "name": "You're The First, The Last, My Everything - Edit",
+      "url": "https://open.spotify.com/track/5EcmvgWODi8PNTfVeTlZjb"
+    },
+    {
+      "album": {
         "name": "Soulklassiker",
         "url": "https://open.spotify.com/album/55lqkJnXgVUl1mZcnU52zY"
       },
@@ -3802,7 +3820,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 212906,
       "name": "You're The First, The Last, My Everything - Single Version",
       "url": "https://open.spotify.com/track/3ZYO0HGRFFdAGeb8o7F9KC"

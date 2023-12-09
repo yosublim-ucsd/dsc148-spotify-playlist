@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,117 likes - 250 songs - 20 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,206 likes - 250 songs - 20 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Sua Beleza e Beleza](https://open.spotify.com/track/5QuPgQRKb6ojYzbvNTRjQv) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/2qWnN8q2Tulx0oH4MJY12Z) | 3:00 |
 | 250 | [Bells](https://open.spotify.com/track/7z6j3kX2t2auYlckhFLqAK) | [Siema Ziemia](https://open.spotify.com/artist/6kh7JrYsS9kZfbYkDFIVmD) | [Bells](https://open.spotify.com/album/6Xpjh3HzVkl45x18ZJEea5) | 8:25 |
 
-Snapshot ID: `MCxlMDE3NDU5MGMzOWE1NGE5NzE3MmY2YzA3NmFkYzgyNTA0NWViYTk0`
+Snapshot ID: `MCwxM2UwMTY2NmI4YTkzZGY0NjgwZGY4YjIwZWRlYzNiZjYwMDJiYTVk`

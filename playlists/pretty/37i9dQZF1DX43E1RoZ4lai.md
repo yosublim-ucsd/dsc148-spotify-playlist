@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,649 likes - 200 songs - 17 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,693 likes - 200 songs - 17 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [Normal](https://open.spotify.com/track/21LPdnK8KHB0G23Jsrxc7X) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Normal](https://open.spotify.com/album/7cMwT9KvJki2cxMjU7mJD1) | 5:56 |
 | 200 | [Walking Home](https://open.spotify.com/track/2aPpyPZcJ7GW632Pc9cF0B) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [American Ballad](https://open.spotify.com/album/6IMyFCMfT7Gqh7UioxMRfC) | 5:08 |
 
-Snapshot ID: `MCxmMTFhMWVkYjhkZmM1ZDAyZmE2MmE2MzkwYjQ4MjZkM2VkODExYjU2`
+Snapshot ID: `MCw2NzFkMTJkMDhjNWQxNGE4ZTM0YTQ1NTIyYWRlN2ViMDk1NDFhNDdm`

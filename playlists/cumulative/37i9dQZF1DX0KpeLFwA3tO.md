@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: BIG SPECIAL
 
-1,481 songs - 3 day 1 hr 59 min
+1,482 songs - 3 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1197,7 +1197,8 @@
 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 | 2022-05-26 | 2022-07-29 |
 | [Stick Up](https://open.spotify.com/track/3k9gh7zRCItcTo363Re0DR) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Stick Up](https://open.spotify.com/album/6YmNTDXbkcrhFqrswdyLxp) | 2:38 | 2023-05-04 | 2023-06-30 |
 | [Still Running \(5K\) \(feat.DJ Lethal\)](https://open.spotify.com/track/0ZVEWpBhZ5sJKD5ZWn8ieG) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [DJ Lethal](https://open.spotify.com/artist/2ajHgsmpiyhXrx3JoigTO2) | [Still Running \(5K\)](https://open.spotify.com/album/1Rb4OowmozoRFy2qpR6tnT) | 3:36 | 2022-03-31 | 2022-05-06 |
-| [Stitched Up](https://open.spotify.com/track/5wNDcjt9d5ec3JMPIjtr4d) | [Beerwolf](https://open.spotify.com/artist/3B1fGSgxcPnDHGEloDLyi5) | [Stitched Up](https://open.spotify.com/album/3dlGaTZXRlhA2NVopLPuyo) | 3:07 | 2023-11-17 |  |
+| [Stitched Up](https://open.spotify.com/track/4Ggs9ddCiXMhjSYmvBBUuU) | [Beerwolf](https://open.spotify.com/artist/3B1fGSgxcPnDHGEloDLyi5) | [Common Grief](https://open.spotify.com/album/74P1BOFZGOxKgtaXnO7NJw) | 3:07 | 2023-12-08 |  |
+| [Stitched Up](https://open.spotify.com/track/5wNDcjt9d5ec3JMPIjtr4d) | [Beerwolf](https://open.spotify.com/artist/3B1fGSgxcPnDHGEloDLyi5) | [Stitched Up](https://open.spotify.com/album/3dlGaTZXRlhA2NVopLPuyo) | 3:07 | 2023-11-17 | 2023-12-09 |
 | [Stockholm Syndrome](https://open.spotify.com/track/6v05B04FBFqXPpYYP9oedP) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Stockholm Syndrome](https://open.spotify.com/album/3qEjfWQeyI7KED7GXGDujw) | 2:41 | 2023-09-08 | 2023-10-27 |
 | [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-03-24 | 2023-05-19 |
 | [Storm Clouds](https://open.spotify.com/track/1rfuc7NQutRDLD2qz8L1PC) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [Storm Clouds](https://open.spotify.com/album/666obAJKsm1ClwuJsGtP4v) | 2:34 | 2022-02-18 | 2022-04-08 |

@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 160003,
       "name": "BETTER OFF ALONE",
       "url": "https://open.spotify.com/track/1xuA0Xfi6BVrTZDQnX8X4i"
@@ -2304,6 +2304,24 @@
       "duration_ms": 163278,
       "name": "Boundaries - Trap VIP Mix",
       "url": "https://open.spotify.com/track/37F3QLQTVSMUF0Ef041dUp"
+    },
+    {
+      "album": {
+        "name": "Brain Tickler",
+        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+      },
+      "artists": [
+        {
+          "name": "Ahee",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144134,
+      "name": "Brain Tickler",
+      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
     },
     {
       "album": {
@@ -3238,7 +3256,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 205241,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/0oHPlZZ15WEmQ2AsSHxuXr"
@@ -3432,7 +3450,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 180507,
       "name": "Combination",
       "url": "https://open.spotify.com/track/6r4MCnRfYxdP9G4QglaV1h"
@@ -6283,6 +6301,32 @@
     },
     {
       "album": {
+        "name": "For The Most Part",
+        "url": "https://open.spotify.com/album/0M2ZFWs4sdIc9SOGuJSjfq"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        },
+        {
+          "name": "SadBois",
+          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+        },
+        {
+          "name": "VNDETTA",
+          "url": "https://open.spotify.com/artist/0QCqlmP7IpItw2dkQekiM5"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218028,
+      "name": "For The Most Part",
+      "url": "https://open.spotify.com/track/67VgKO83J9P12AiLW5IjN4"
+    },
+    {
+      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/7sHgL4Rl2GqefbufyPsUnc"
       },
@@ -6386,7 +6430,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 245581,
       "name": "Found You",
       "url": "https://open.spotify.com/track/22UhyRzrygZzLFJHkchvlk"
@@ -9381,6 +9425,28 @@
     },
     {
       "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/4FVnSnXWuUsL8dD3avOL0h"
+      },
+      "artists": [
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210967,
+      "name": "Jinx",
+      "url": "https://open.spotify.com/track/3NreeKDKXqET25p7w1UxXZ"
+    },
+    {
+      "album": {
         "name": "Journ\u00e9e de merde.",
         "url": "https://open.spotify.com/album/6SITryF4euMgRubCc3slzm"
       },
@@ -12272,7 +12338,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 123340,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6shgJJaxMRRgVzFcC1EDLb"
@@ -12734,7 +12800,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 220267,
       "name": "Nu Bluem",
       "url": "https://open.spotify.com/track/3D0gUUumDPAiy0BAK1RxbO"
@@ -13408,7 +13474,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 182437,
       "name": "OVERCAST - JWUU Remix",
       "url": "https://open.spotify.com/track/6Gjh8iQzH7g6TYFHm4lRSM"
@@ -14388,7 +14454,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 124850,
       "name": "RAGING",
       "url": "https://open.spotify.com/track/0twDEBl6ZZ5vDPmHV6icmH"
@@ -14432,7 +14498,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 195104,
       "name": "Rain Man",
       "url": "https://open.spotify.com/track/5dghyxlFupCpY6SOpRC7id"
@@ -14596,7 +14662,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 162519,
       "name": "REBOOT",
       "url": "https://open.spotify.com/track/69zXY2jsafABeD9q5Qh7ky"
@@ -14940,7 +15006,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 240216,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/1GQnUNe0cPPHEKQc5LjsOL"
@@ -16228,6 +16294,32 @@
       "duration_ms": 202666,
       "name": "Shatterproof",
       "url": "https://open.spotify.com/track/5u4swRwMpaURxHbz8yUrlN"
+    },
+    {
+      "album": {
+        "name": "Shift",
+        "url": "https://open.spotify.com/album/6mT3Y11cQk2dSQBdjhrgCP"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Shift",
+      "url": "https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO"
     },
     {
       "album": {
@@ -17836,7 +17928,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 145161,
       "name": "The Homelander",
       "url": "https://open.spotify.com/track/6cvax9x0G13nHJTyMQ7tGf"
@@ -17898,7 +17990,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 121500,
       "name": "THE KING",
       "url": "https://open.spotify.com/track/2EZGFxBSf3gKTERcHdRgUG"
@@ -19294,7 +19386,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 137204,
       "name": "Vem DJ",
       "url": "https://open.spotify.com/track/0H86ggZBO7GtQ0Kf560ijY"
@@ -20502,7 +20594,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 155624,
       "name": "WRAITHS",
       "url": "https://open.spotify.com/track/1UE4tesz9vNWaX5Y0NsmZY"

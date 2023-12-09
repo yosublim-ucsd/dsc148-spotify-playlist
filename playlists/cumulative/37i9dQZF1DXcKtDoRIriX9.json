@@ -285,6 +285,28 @@
     },
     {
       "album": {
+        "name": "Garden Gaia Remixes",
+        "url": "https://open.spotify.com/album/7BfEieD8wRanTgqgRy3rGg"
+      },
+      "artists": [
+        {
+          "name": "Pantha Du Prince",
+          "url": "https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi"
+        },
+        {
+          "name": "CHLOE (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423920,
+      "name": "Crystal Volcano (Chlo\u00e9 (Th\u00e9venin) Remix)",
+      "url": "https://open.spotify.com/track/63Kh4DPQTI3Ffb4GvLbMvA"
+    },
+    {
+      "album": {
         "name": "Crystal Volcano [Chlo\u00e9 (Th\u00e9venin) Remix]",
         "url": "https://open.spotify.com/album/7dUodSX3SnRIwDTHPuQJvL"
       },
@@ -300,7 +322,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 426146,
       "name": "Crystal Volcano (Chlo\u00e9 (Th\u00e9venin) Remix)",
       "url": "https://open.spotify.com/track/1fXqBLgaaCpbsjujwKgdXr"

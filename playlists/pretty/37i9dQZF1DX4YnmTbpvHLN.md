@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 
 > Degusta de lo más delicioso para cenar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,777 likes - 350 songs - 21 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,775 likes - 350 songs - 21 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 | 349 | [Here's That Rainy Day](https://open.spotify.com/track/1c5xi6V22AXSmXJfcpWwII) | [Tenille Taylor Quartet](https://open.spotify.com/artist/3UMb1QH0ZwX6GqtDxSsIPK) | [Here's That Rainy Day](https://open.spotify.com/album/1KzZ4ioqkhR9d5POqDGwnp) | 4:37 |
 | 350 | [Estrellita](https://open.spotify.com/track/230SRIeY6sOIr0jhks11Xz) | [Christian Warner Band](https://open.spotify.com/artist/33v9UFXH7pCXb4kmEz91SF) | [Estrellita](https://open.spotify.com/album/5nam9UDpTq9AqnwtSSBUdj) | 4:52 |
 
-Snapshot ID: `MCw2MzFlODAzMTlhNTg4MDA1NTA5NzliMjI1YWM4YTAwMDYwMTFlOGUw`
+Snapshot ID: `MCxkYTgyZjk2ZDg5OGZhNTY3ODI3OGFlYTM3MGVhMWI4MTU4YjI0YTBl`

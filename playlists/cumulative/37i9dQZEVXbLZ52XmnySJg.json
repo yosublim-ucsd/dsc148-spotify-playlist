@@ -347,6 +347,28 @@
     },
     {
       "album": {
+        "name": "Abrar\u2019s Entry | Jamal Kudu (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/0n0KkxmGPAKTV8udObls8m"
+      },
+      "artists": [
+        {
+          "name": "Harshavardhan Rameshwar",
+          "url": "https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU"
+        },
+        {
+          "name": "Choir",
+          "url": "https://open.spotify.com/artist/1EQLSftgrQ3WMEofBfhlIZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134110,
+      "name": "Abrar\u2019s Entry | Jamal Kudu (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO"
+    },
+    {
+      "album": {
         "name": "Achha Sila Diya",
         "url": "https://open.spotify.com/album/7cwXuOBoenVpKagfx3BAzF"
       },
@@ -1090,7 +1112,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 224240,
       "name": "Asal Mein",
       "url": "https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p"
@@ -2714,7 +2736,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 208933,
       "name": "Chale Jaana Phir (Humko Tere Bina)",
       "url": "https://open.spotify.com/track/04ChFQZCKl2yRcvc0VR7qN"
@@ -6164,7 +6186,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 181428,
       "name": "Hum Toh Deewane",
       "url": "https://open.spotify.com/track/2A4lcqTJZgUs1XrW6TSvt0"
@@ -11524,7 +11546,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 313051,
       "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
       "url": "https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7"
@@ -16242,10 +16264,28 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 226029,
       "name": "Tu Jaana Na Piya",
       "url": "https://open.spotify.com/track/2yIW0esEphGtQgVV0w2SYU"
+    },
+    {
+      "album": {
+        "name": "NEW LIFE",
+        "url": "https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226029,
+      "name": "Tu Jaana Na Piya",
+      "url": "https://open.spotify.com/track/4u0D2jZ20wQaEMHBSqsDnZ"
     },
     {
       "album": {
@@ -16698,6 +16738,32 @@
       "duration_ms": 193398,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV"
+    },
+    {
+      "album": {
+        "name": "Unakku Thaan (From \"Chithha\")",
+        "url": "https://open.spotify.com/album/55eUIAV83uDArXPcQipWeb"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Dhvani Kailas",
+          "url": "https://open.spotify.com/artist/66wcf4Q64sXblp7ZHTaJC7"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216214,
+      "name": "Unakku Thaan - From \"Chithha\"",
+      "url": "https://open.spotify.com/track/4H1FLy4H7nS9wy9gg9JeFQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,316 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,347 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 74 | [Let Me Go Home, Whiskey](https://open.spotify.com/track/25Ae3RvcXl3QXhkgtpGVDm) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Chicken Shack Boogie](https://open.spotify.com/album/4NQQLUJTNkuzX8u859MTBQ) | 2:45 |
 | 75 | [State Street Jive](https://open.spotify.com/track/2SDm7Yn0uWuiimKzFpnoEW) | [Charles "Cow Cow" Davenport](https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd), [Ivy Smith](https://open.spotify.com/artist/3Cn3MlNoC7D2vHMvjJgV2Y) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 3:01 |
 
-Snapshot ID: `MCxmMWQ0NjMwMzVmNzAxODFmMTQwMzk0MWIwMmVkZGU2YWQxNWI3NjVj`
+Snapshot ID: `MCxhYzczYjM3MWE0ZDc1YTUwMTQ1YWU3YjZmNDVlNTBiNGE1NDU5OWVh`

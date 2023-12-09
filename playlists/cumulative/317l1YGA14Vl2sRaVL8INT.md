@@ -4,11 +4,12 @@
 
 > Its pop punk, its the best
 
-153 songs - 8 hr 23 min
+154 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\*Equip Sunglasses\*](https://open.spotify.com/track/427OHPoIWqO3SsFw77EkDf) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [you'll be fine](https://open.spotify.com/album/5MutKcn3J1xzbBKOzr1oGI) | 2:46 | 2023-10-19 | 2023-12-02 |
+| [\*snow in berlin\*](https://open.spotify.com/track/6MgDPVjjEloarAofqPE4we) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [\*snow in berlin\*](https://open.spotify.com/album/7K3Ig78OIzZBNlvFdtzAfk) | 2:39 | 2023-12-08 |  |
 | [1, 2, 3, 4](https://open.spotify.com/track/5VWmMZCfJ4yVkJw9ZLFXej) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Big Bad World](https://open.spotify.com/album/5TAmG2iyx5BRYR2z8f9xUd) | 3:18 | 2023-10-19 | 2023-12-02 |
 | [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF) | 3:13 | 2023-10-17 | 2023-12-02 |
 | [30 Days \- Single Version](https://open.spotify.com/track/4rc4rFZMmeQFijKH2l8TyA) | [Never Shout Never](https://open.spotify.com/artist/5pUmXBIQtqpvdV1HAy2xYC) | [30 Days](https://open.spotify.com/album/7hwrcoTt8UyO73Q1s7MDE0) | 3:11 | 2023-12-01 |  |

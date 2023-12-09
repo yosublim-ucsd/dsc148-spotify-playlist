@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-671 songs - 1 day 8 hr 47 min
+672 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Forever](https://open.spotify.com/track/17NVTfQBL35FZMAN5nd1pD) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg) | 3:04 | 2022-07-21 | 2023-02-04 |
 | [Formula](https://open.spotify.com/track/0ALMUzYqM0gQOKpj1G29CR) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Formula](https://open.spotify.com/album/3BpxVtjRCsv1sTaZBInyHB) | 2:53 | 2022-09-09 | 2022-12-09 |
 | [Foundry](https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk) | [Foundry](https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe) | 3:55 | 2022-07-25 | 2023-11-03 |
+| [Free](https://open.spotify.com/track/12GIrfQdKSQAZ7wYgwmhUb) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [ALT SOUL, Vol\. 1](https://open.spotify.com/album/3xZmmPqI56XhwpiRAfqsDN) | 3:10 | 2023-12-08 |  |
 | [Free](https://open.spotify.com/track/3Ts5RylTIKoNViYysjGbOy) | [Queen Ayorkor](https://open.spotify.com/artist/4Y9FihnUo5vo4tVYTbYqaw) | [Phase & Faces](https://open.spotify.com/album/1Ki1jMf5LII3klooMcQblw) | 3:49 | 2023-07-28 | 2023-09-15 |
 | [Friday](https://open.spotify.com/track/2PSzHKPwhLFVU6UJkcOfAF) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Matter of Time](https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g) | 3:31 | 2022-11-04 | 2023-02-17 |
 | [Fujipiano](https://open.spotify.com/track/6NF4cMRW9alAr2K7TXB7yY) | [Dajon AF](https://open.spotify.com/artist/4yN3RB5NqyHi9cSyllXgeS), [Slimpee Beatz](https://open.spotify.com/artist/5d5gcjlWRQyhVXNqGw2JOF) | [Fujipiano](https://open.spotify.com/album/61WYeMLodYapBUO6DuOISL) | 3:43 | 2023-11-24 |  |
@@ -475,7 +476,7 @@
 | [Perfect for You](https://open.spotify.com/track/0eT2eNReYnqqwmBpnNkLV8) | [Majesty Lyn](https://open.spotify.com/artist/5ZETERIwOXfWYCBljWg3Hk), [Waye](https://open.spotify.com/artist/4xB0OZoxh4Kv0dbn4YDT4v) | [Perfect for You](https://open.spotify.com/album/52q1z24xP20oeiQWUR1Cav) | 3:03 | 2022-09-29 | 2022-11-04 |
 | [Perfect Girl \(feat\. MisterKay\)](https://open.spotify.com/track/02N7PICytyxQIB83WNtxC8) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [MisterKay](https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN) | [Perfect Girl \(feat\. MisterKay\)](https://open.spotify.com/album/10SAFauFQQneSjEe47W0hw) | 2:33 | 2022-10-28 | 2023-02-24 |
 | [Personal](https://open.spotify.com/track/03TXdrL0GlDeqIwTnkj6HT) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Personal](https://open.spotify.com/album/4DeGCqMQZgH5K7RCFkAGwi) | 2:15 | 2023-01-13 | 2023-02-04 |
-| [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 | 2023-05-25 |  |
+| [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 | 2023-05-25 | 2023-12-09 |
 | [PILOLO](https://open.spotify.com/track/5CDy5HTPY2NgSkkR2xrnZ2) | [Yxng Jiggy](https://open.spotify.com/artist/4nSR0H0wawWr0iiBwk8eGR) | [PILOLO](https://open.spotify.com/album/2z6eXV8K9WYA7EhPjS1mM2) | 2:46 | 2023-03-10 | 2023-03-25 |
 | [Please](https://open.spotify.com/track/1Pqx8ch3QEQrJJendsvq7p) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg) | [Becoming](https://open.spotify.com/album/02KVxtR1TIKvWxhxXBDsyF) | 2:53 | 2022-11-04 | 2023-01-14 |
 | [Pleasure](https://open.spotify.com/track/6INtRY5ec8tZ0DWkjHurfw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Pleasure](https://open.spotify.com/album/3muAl354ZsR01jO4Gsi22W) | 3:03 | 2022-08-26 | 2022-11-04 |

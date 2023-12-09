@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz, ENNIO
 
-466 songs - 22 hr 34 min
+467 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Du tust mir nie mehr weh](https://open.spotify.com/track/6HNyXYZijMzIdykDQRLC9N) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Du tust mir nie mehr weh](https://open.spotify.com/album/5q1JwWlzbpMMztg80XSSka) | 2:58 | 2023-02-02 | 2023-03-05 |
 | [Du wartest](https://open.spotify.com/track/1stpx89jWVwK5twH4g9xBB) | [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt), [Tristan Brusch](https://open.spotify.com/artist/2XbRunIT35jrB8HRsISPgT) | [Du wartest](https://open.spotify.com/album/0uEqVvkXEukoi3vNapr1DR) | 2:52 | 2023-05-04 | 2023-06-16 |
 | [dudenkstsoschön](https://open.spotify.com/track/4ln3kBmN7yFA1BfthpliPu) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [dudenkstsoschön \- EP](https://open.spotify.com/album/1kzYVp0ptv49eWRu7ATcxp) | 2:50 | 2023-09-21 |  |
+| [Duftbaum](https://open.spotify.com/track/7igfdCIrQ3UjddTPeRDVhr) | [YRRRE](https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC) | [Duftbaum](https://open.spotify.com/album/69DWu002XdzEkMDTVYCH5J) | 2:31 | 2023-12-08 |  |
 | [Dunkles Herz](https://open.spotify.com/track/0Ukdo082XT59U3knpa7fPf) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Dunkles Herz](https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u) | 3:04 | 2023-03-02 | 2023-04-14 |
 | [Durch die Nacht](https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [Perlen](https://open.spotify.com/album/1n5G19KN2dpBAtdaC1VZBn) | 3:12 | 2023-04-20 | 2023-06-16 |
 | [echt von unten / zoé freestyle](https://open.spotify.com/track/5Y5F8yjB2ZnCS0E9kCFR2Y) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [echt von unten / zoé freestyle](https://open.spotify.com/album/4GtfNpDYB3K8gqeQLLFDzA) | 3:11 | 2023-09-07 | 2023-10-06 |
@@ -359,7 +360,7 @@
 | [Schwerkraft](https://open.spotify.com/track/3TltWI1lSnko4Iv1z39NRT) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl), [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [Schwerkraft](https://open.spotify.com/album/1N61M4kkQw7z2ZlpA2ExgY) | 3:10 | 2023-02-16 | 2023-03-03 |
 | [Schön/Scheisse](https://open.spotify.com/track/0EcO8AnnMVDQYL7T8RzG1R) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Schön/Scheisse](https://open.spotify.com/album/2cdSrivIiikYOarkkNIeXQ) | 2:25 | 2023-05-25 | 2023-08-04 |
 | [Scooter](https://open.spotify.com/track/0iGfo2eIw23rv8djztx8tl) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Scooter](https://open.spotify.com/album/0pu6Bt22v6J4S6ZqVUY50i) | 2:59 | 2023-10-05 |  |
-| [Seifenblase](https://open.spotify.com/track/2YKPy9smBSO3g01qXWoCNK) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr), [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Seifenblase](https://open.spotify.com/album/452pLNzYYdjvWsVlIc0i08) | 3:21 | 2023-10-26 |  |
+| [Seifenblase](https://open.spotify.com/track/2YKPy9smBSO3g01qXWoCNK) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr), [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Seifenblase](https://open.spotify.com/album/452pLNzYYdjvWsVlIc0i08) | 3:21 | 2023-10-26 | 2023-12-09 |
 | [Sekundenschlaf](https://open.spotify.com/track/1nl2fmtFjDhplqdyecVIjn) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/58wvPo48VlBS9ySAYlUhGs) | 2:33 | 2023-08-17 |  |
 | [Sekundenschlaf](https://open.spotify.com/track/3nGHhdwp64mgOW4bOIjzZ2) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/7vSpIPqyUwujwf3PxJmWtR) | 2:33 | 2023-08-03 | 2023-08-24 |
 | [Selbstspüren](https://open.spotify.com/track/5NtwruoP4MFCJw3OndR3tF) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Selbstspüren](https://open.spotify.com/album/79MRFDhwy0G3O59EyCbmY0) | 2:54 | 2023-09-07 | 2023-10-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,836 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,901 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [Mas Que Amiga](https://open.spotify.com/track/7rqKqtWF99DvueyNdRImXf) | [Grupo Bananas](https://open.spotify.com/artist/0kFlXH8kEcLpAVjDQbPCM8) | [Un Mundo De Colores](https://open.spotify.com/album/3bdBFy3ys7ZNU6DybFRLff) | 4:14 |
 | 100 | [Adios Amor](https://open.spotify.com/track/3ZakXSNfEAUWLB0sPmjR3q) | [Luis Mateus Y La Nueva Generacion](https://open.spotify.com/artist/47Bb4NcbxnlPH6LIYgAGFF), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [14 Vallenatos Románticos, Vol\. 1](https://open.spotify.com/album/5Mwissywi3bMNfg2kLuDf6) | 4:19 |
 
-Snapshot ID: `MCxiNDRkODY5OTk1YTg2MTQyOWMyZjFiYmZkZDg0ZjQ3OWMwOGUwMzJi`
+Snapshot ID: `MCw1Mzk0MjgyN2E0NWU5ZTliZDczZmY0NmJkNGY1ZmRhNjZiNmU5MzAx`

@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 195771,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/72VZQD3XRqAUzi1EoOOTf6"
@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Belleza de Cantina",
+        "url": "https://open.spotify.com/album/2jaZ1eJRgLLHhxSFHc35Hf"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185271,
+      "name": "Belleza de Cantina",
+      "url": "https://open.spotify.com/track/78q5BxQZLz31sY9gHqe47w"
+    },
+    {
+      "album": {
         "name": "Besos Contados",
         "url": "https://open.spotify.com/album/42Nd5nywb9uEVZ3JiXgCwu"
       },
@@ -963,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Centro de Atencion (En Vivo)",
+        "url": "https://open.spotify.com/album/1hBevbeIe2rseuSIUVZJto"
+      },
+      "artists": [
+        {
+          "name": "Jaime Y Fernando",
+          "url": "https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Centro de Atencion (En Vivo)",
+      "url": "https://open.spotify.com/track/2vBjSW3RnQnEbY6uGkUoFP"
+    },
+    {
+      "album": {
         "name": "Chalino",
         "url": "https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO"
       },
@@ -1010,7 +1046,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 159056,
       "name": "Cholos al Punto",
       "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
@@ -1148,6 +1184,28 @@
       "duration_ms": 201898,
       "name": "Con Una Mirada",
       "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
+    },
+    {
+      "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146659,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa"
     },
     {
       "album": {
@@ -1402,7 +1460,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 197508,
       "name": "Cuando sola est\u00e9s",
       "url": "https://open.spotify.com/track/6GcUiFAUpfMVXjNnHFvnua"
@@ -1882,7 +1940,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 181600,
       "name": "El Cinco De Las Cuatro",
       "url": "https://open.spotify.com/track/1TUszLjyHqWjruuOMOv0ro"
@@ -2958,7 +3016,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 168960,
       "name": "Equipo Cannabis",
       "url": "https://open.spotify.com/track/7Kuljk1IHforwjZryE6QC5"
@@ -3208,6 +3266,24 @@
       "duration_ms": 232216,
       "name": "Fuentes De Ortiz",
       "url": "https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1"
+    },
+    {
+      "album": {
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163359,
+      "name": "Fuga Del Jefe",
+      "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
     },
     {
       "album": {
@@ -3820,7 +3896,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 198480,
       "name": "La Barbie",
       "url": "https://open.spotify.com/track/6k3ng0apceyq91moCbqLnw"
@@ -3900,7 +3976,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 138500,
       "name": "La Chapiza",
       "url": "https://open.spotify.com/track/6M9iYgZmNla94UTWEjHaVK"
@@ -3954,7 +4030,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 213266,
       "name": "La Hija Del Sr.",
       "url": "https://open.spotify.com/track/3uSnklocXnasLoqWMMMurP"
@@ -4708,6 +4784,24 @@
       "duration_ms": 187929,
       "name": "Mas Que Amigos - En Vivo",
       "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+    },
+    {
+      "album": {
+        "name": "Broche De Oro, Vol. 2",
+        "url": "https://open.spotify.com/album/2VNRQcvWyaZY20xKwGEOz0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182298,
+      "name": "Me Di Cuenta",
+      "url": "https://open.spotify.com/track/0xfdBhImqnPN4yh2bT1rr0"
     },
     {
       "album": {
@@ -5745,6 +5839,28 @@
     },
     {
       "album": {
+        "name": "Ojal\u00e1 Que Te Mueras",
+        "url": "https://open.spotify.com/album/6Us6zDsEZbXA7pAMlSSpu0"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169853,
+      "name": "Ojal\u00e1 Que Te Mueras",
+      "url": "https://open.spotify.com/track/56ebjrGMxk4cjmycPiZJIM"
+    },
+    {
+      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/0qVXRHwu90sEGTIk5EbHGm"
       },
@@ -5828,7 +5944,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 185735,
       "name": "Pap\u00e1 Mundo",
       "url": "https://open.spotify.com/track/5NttWarP12vtmBUYB6gfwy"
@@ -6524,7 +6640,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 335634,
       "name": "Retropopurr\u00ed (Calles Enlodadas, Pase Y Pase, Dos Pajaritos) (En Vivo)",
       "url": "https://open.spotify.com/track/08NvjgDsn0n0gIFbT3W436"
@@ -6684,7 +6800,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 216032,
       "name": "Ser Parte De Tu Vida",
       "url": "https://open.spotify.com/track/3XIDTQ6xXxL0F4Qddqs9lH"
@@ -7456,7 +7572,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252888,
-      "name": "Te Vez Buena",
+      "name": "Te Vez Buena - En Vivo",
       "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
     },
     {
@@ -8018,7 +8134,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 190344,
       "name": "Yo No Entiendo",
       "url": "https://open.spotify.com/track/6ukZTlYnyKh1XdTOjj4DPj"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-04",
-  "description": "Come, lets take a soulful journey through rhythmic grooves",
+  "description": "Come, lets take a soulful journey through rhythmic grooves. Cover Matt Ngesa",
   "name": "Alternative Avenue",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 232800,
       "name": "Caught Out",
       "url": "https://open.spotify.com/track/3RwL3Dm5AbICvYXSAGFuu0"
@@ -175,7 +175,7 @@
       "artists": [
         {
           "name": "Njerae",
-          "url": "https://open.spotify.com/artist/3ZYEtzcOgxeYX1DdaAYjuO"
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
         }
       ],
       "date_added": "2023-11-10",
@@ -504,6 +504,24 @@
       "duration_ms": 166666,
       "name": "Money Emotions",
       "url": "https://open.spotify.com/track/79KjJ83HOF9hKl7eUC9yfq"
+    },
+    {
+      "album": {
+        "name": "Muse - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303260,
+      "name": "Muse - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2"
     },
     {
       "album": {
@@ -860,7 +878,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 228983,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF"
@@ -1064,6 +1082,24 @@
       "duration_ms": 168000,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ"
+    },
+    {
+      "album": {
+        "name": "Time Allows",
+        "url": "https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV"
+      },
+      "artists": [
+        {
+          "name": "Altair Sa\u00efd",
+          "url": "https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231376,
+      "name": "Time Allows",
+      "url": "https://open.spotify.com/track/2pksmPxpgVX3ocBYtQwqFV"
     },
     {
       "album": {

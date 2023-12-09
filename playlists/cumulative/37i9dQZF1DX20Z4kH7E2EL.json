@@ -63,6 +63,32 @@
     },
     {
       "album": {
+        "name": "Equanimity (Remixes) pt.1",
+        "url": "https://open.spotify.com/album/6Q5Js1x4jJu73FPS9emm5F"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321573,
+      "name": "20ms - Cristoph Mix",
+      "url": "https://open.spotify.com/track/0Klcd0tEhbpkOeXS2GJca8"
+    },
+    {
+      "album": {
         "name": "Didn't Even Say Goodbye / Above It All",
         "url": "https://open.spotify.com/album/79TGyJ5qC4zq86ovZ25vIF"
       },
@@ -360,6 +386,24 @@
       "duration_ms": 551135,
       "name": "Be With U",
       "url": "https://open.spotify.com/track/1xiNLNvfmHtFEd0ZaCnTNN"
+    },
+    {
+      "album": {
+        "name": "Beach Kisses (2023 Mix)",
+        "url": "https://open.spotify.com/album/2gPm45Eeibll0lTcpHJ0HT"
+      },
+      "artists": [
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Beach Kisses - 2023 Mix",
+      "url": "https://open.spotify.com/track/2bUw0rwZ8gb5vYiZPALIXS"
     },
     {
       "album": {
@@ -1238,7 +1282,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 372080,
       "name": "Encounters - SOHMI Fantasy Extended Remix",
       "url": "https://open.spotify.com/track/7JmUuXLWxna6TC1ZqIL1kZ"
@@ -1462,7 +1506,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 268571,
       "name": "Fake ID - Extended Mix",
       "url": "https://open.spotify.com/track/5agU3PEpVdU4FMYfcLESbu"
@@ -3799,6 +3843,24 @@
     },
     {
       "album": {
+        "name": "20 Years Of Phonica (Digital Sampler 3)",
+        "url": "https://open.spotify.com/album/5N7u3kazHks21Bsvucg4ao"
+      },
+      "artists": [
+        {
+          "name": "Dauwd",
+          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375737,
+      "name": "Slam",
+      "url": "https://open.spotify.com/track/0TYGCUSNdjz68pc9eu0hav"
+    },
+    {
+      "album": {
         "name": "Snabeln",
         "url": "https://open.spotify.com/album/7sSQAt7qsqPYx00Qy8kTIA"
       },
@@ -4144,7 +4206,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 256002,
       "name": "Sweet Mistake - Mixed",
       "url": "https://open.spotify.com/track/6gUH6KsSdqwnC4rvLfF7v1"
@@ -4224,7 +4286,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 379000,
       "name": "Tell Me - Extended Mix",
       "url": "https://open.spotify.com/track/4i2B7FbsKHi9QpLLZKEpqc"
@@ -4904,6 +4966,24 @@
       "duration_ms": 371076,
       "name": "Work - CVMPANILE & Draxx Extended Remix",
       "url": "https://open.spotify.com/track/5DZccyNEsfrSWTP02aWMrU"
+    },
+    {
+      "album": {
+        "name": "Anjunabeats Worldwide 11 (Live from The Poetry Club, Glasgow)",
+        "url": "https://open.spotify.com/album/1qbJD6oNvNagngK3QHIKKS"
+      },
+      "artists": [
+        {
+          "name": "Jordin Post",
+          "url": "https://open.spotify.com/artist/0bXDktUgihGHdyqpwF86TG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274351,
+      "name": "Your Intent - Live from The Poetry Club, Glasgow",
+      "url": "https://open.spotify.com/track/2uIOAcbBXOqQoulrbiHCD5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > you're gathering flowers in the forest, listening to birdsong, humming a sweet melody.
 
-93 songs - 4 hr 5 min
+94 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Comodinodi Foglie](https://open.spotify.com/track/1Is0TOiqxHpYjDCoHQSpiE) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Comodinodi Foglie](https://open.spotify.com/album/0EJFmkGxrSJ0FqxOedfpor) | 1:47 | 2023-10-09 | 2023-10-13 |
 | [Conscious Jorney](https://open.spotify.com/track/2KiNlLvSDfEd3MLIYTAmY6) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Conscious Jorney](https://open.spotify.com/album/5CfoAkeqrKd46Jy8m4cza3) | 2:43 | 2023-04-26 | 2023-10-24 |
 | [Dasikó Planktón](https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Dasikó Planktón](https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu) | 3:30 | 2023-10-09 |  |
-| [Days of Rain](https://open.spotify.com/track/5y8lkSuUCUU0aOY35ocja3) | [Andrés Oro](https://open.spotify.com/artist/5PWDlM9eEzaPH02FpI8uM9) | [Days of Rain](https://open.spotify.com/album/3c5uDhij6hPLqAZBY1RimI) | 2:56 | 2023-04-26 |  |
+| [Days of Rain](https://open.spotify.com/track/0nwHmynSiU87VPESKBszNx) | [Andrés Oro](https://open.spotify.com/artist/5PWDlM9eEzaPH02FpI8uM9) | [Days of Rain](https://open.spotify.com/album/5DFWZ7r253ML5LOzRYEW5e) | 2:56 | 2023-10-17 |  |
+| [Days of Rain](https://open.spotify.com/track/5y8lkSuUCUU0aOY35ocja3) | [Andrés Oro](https://open.spotify.com/artist/5PWDlM9eEzaPH02FpI8uM9) | [Days of Rain](https://open.spotify.com/album/3c5uDhij6hPLqAZBY1RimI) | 2:56 | 2023-04-26 | 2023-12-09 |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-04-26 |  |
 | [Early Morning Bliss](https://open.spotify.com/track/0Nb1uxPJgZGonJrkl76PkM) | [Bastian Sjelberg](https://open.spotify.com/artist/3Rgg1JKEs7YEpXZYeEHa2z) | [Early Morning Bliss](https://open.spotify.com/album/7JQ2U8loYFz3nqKklYr7mD) | 2:32 | 2023-04-26 | 2023-10-24 |
 | [Early Morning Walk](https://open.spotify.com/track/0Noa9gO5dDrWqzcnFPezhG) | [Whispering Streams](https://open.spotify.com/artist/6YgVDA4WlsMISJq4BDzUeO) | [Early Morning Walk](https://open.spotify.com/album/53A5UVK34dMKM7aDogkkuz) | 3:13 | 2023-04-26 |  |

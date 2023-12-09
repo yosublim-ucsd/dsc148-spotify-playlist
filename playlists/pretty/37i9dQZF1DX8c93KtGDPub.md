@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,156 likes - 177 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,572 likes - 177 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 137 | [Christmas Alone](https://open.spotify.com/track/6CiWjivcgYzpHZ44XiHoqW) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Maybe This Christmas, Vol 4: Holiday Folk](https://open.spotify.com/album/2081ZONNeBVsfDhuXw86JI) | 3:48 |
 | 138 | [Over The River](https://open.spotify.com/track/7nDZSg69xVHsreY6dp2MQW) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [Sleigh Ride](https://open.spotify.com/album/6mbPCYFK2QdAzq6zkTvC9t) | 2:51 |
 | 139 | [On Ice](https://open.spotify.com/track/7ovNMSBomzImYzBi7RWepo) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Country: Winter Classics](https://open.spotify.com/album/5UJjnFszZcUR7JUb35H7aQ) | 3:52 |
-| 140 | [Star Star \- Live](https://open.spotify.com/track/3F3SaGhhAlXVUDD1Y3jIQ3) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074) | [Strict Joy \(Deluxe Edition\)](https://open.spotify.com/album/0PzQfgLNIgyNYcHvIjvmVs) | 9:49 |
+| 140 | [Star Star \(Live\)](https://open.spotify.com/track/05gfBG9GcyEbLTrUS8TPc1) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx), [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074) | [Strict Joy \(Deluxe Edition\)](https://open.spotify.com/album/6VuvqpeSGgdtJrrmPJFxld) | 9:49 |
 | 141 | [Green Grows The Holly](https://open.spotify.com/track/5P0cZ3i8YB7DFbVLXuuPeL) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:59 |
 | 142 | [Snow Angel](https://open.spotify.com/track/1wYYeL1U58MfPFHRRfdunQ) | [Sugar & The Hi Lows](https://open.spotify.com/artist/3ocspfRKSu50vCoUYexOpy) | [Snow Angel](https://open.spotify.com/album/3StV5cF5hyUlvJeIWmPlv6) | 3:19 |
 | 143 | [Holidays](https://open.spotify.com/track/7CH8W7Nt7gJDEZLFfFjqly) | [The Lonely Wild](https://open.spotify.com/artist/7uG1pvcReIxuBhvpabjdom) | [Holidays](https://open.spotify.com/album/2AjiirTvdABxb6A8XO7cpK) | 5:39 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 176 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 177 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 
-Snapshot ID: `MCxhNGNjMDgyMTY5MGViNDZjMTQ0MzEwNzlhMmRkM2RkYzc5OWM0YTUw`
+Snapshot ID: `MCw0MWNjOWJkYjNhOWYyMWUwYTJhODEyYzc4OWFjYjcwYzRhYjRmMThj`

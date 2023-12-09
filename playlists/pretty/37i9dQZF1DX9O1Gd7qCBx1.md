@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,182 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,180 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
 | 100 | [Antes Paso por la Gloria](https://open.spotify.com/track/6aEXuG2SnDuZLZiEJuW952) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo), [Constantino Garín](https://open.spotify.com/artist/2pZG4XjBTOdPxQKzua7Asm) | [Más Alto](https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG) | 4:00 |
 
-Snapshot ID: `MCw5YzA4Zjk2Y2RmMGI1NmYyMGZjMTgyZGZmZGFkMzdjZTcyMjQ5ZmIw`
+Snapshot ID: `MCxlYzY4ZTE2NjYzOWNjYzg3Njk3MjhlZGY0Mzk0OTBlMzRmOWRmOTc4`

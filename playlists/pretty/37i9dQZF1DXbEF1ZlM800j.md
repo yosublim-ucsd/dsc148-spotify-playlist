@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 
 > Get your kids in the holiday spirit with this collection of Hanukkah tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,836 likes - 47 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,161 likes - 45 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 | 39 | [Baby Ben's First Hanukkah \- From "Puppy Dog Pals"](https://open.spotify.com/track/2nOGA598YTCMPR2FCxG7PZ) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Jump into the Holidays](https://open.spotify.com/album/4ukvskShYg1dv5SQqfPZMa) | 1:11 |
 | 40 | [Pass The Candle \(From Left To Right\)](https://open.spotify.com/track/5Xywj8tRtm5hkXnkoGjluC) | [Michelle Citrin](https://open.spotify.com/artist/2jINb9SCrCBDzo6zRFdXVh) | [Pass The Candle](https://open.spotify.com/album/4wbRrzaXiqRVs4Spjljkad) | 2:12 |
 | 41 | [Matzoh Ball \(Don't Kick It\)](https://open.spotify.com/track/2tSaa9gdESyloY0ERcKesA) | [The Macaroons](https://open.spotify.com/artist/1AZTxBWb4pVLX7ODoWv3qd) | [Let's Go Coconuts!](https://open.spotify.com/album/2bEILkxVU6voGQcapZg7qs) | 2:25 |
-| 42 | [Hanukkah's Flame \- Live](https://open.spotify.com/track/5m32Rw3QjSjk118qJGJDh6) | [Nefesh Mountain](https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL) | [Live From Levon Helm Studios: A Hanukkah Holiday Concert](https://open.spotify.com/album/1J2KDHB5lLW91g6WJu8AG6) | 3:50 |
-| 43 | [Oh Hanukkah](https://open.spotify.com/track/1vK4S0PCGyPGpykjy1te2d) | [Maccabeats](https://open.spotify.com/artist/2plllpJj0sU7FsdZrn8EHq) | [A Maccabeats Hanukkah](https://open.spotify.com/album/4uhCOOmk62FJOMqMCzL1No) | 1:03 |
-| 44 | [Happy Joyous Hanukkah](https://open.spotify.com/track/6MEsn0DpqBBV6dhDRASOd3) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Holly Happy Days](https://open.spotify.com/album/45acBSRzU6wh64ZHDOJaWF) | 3:40 |
-| 45 | [The Dreidel Song](https://open.spotify.com/track/17SPi8SvX8igfYrnBA4lxE) | [Julie Silver](https://open.spotify.com/artist/4SVVGGqXul9hu7HAloNftO) | [It's Chanukah Time](https://open.spotify.com/album/5yiDN4CNdqgXgL3WesHROJ) | 3:21 |
-| 46 | [Dreidel, Dreidel, Dreidel](https://open.spotify.com/track/2nJ7khC20N59Oo5gTALYHv) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Let's Eat!](https://open.spotify.com/album/4g7Q9tZW8LxneGkMTSQAWO) | 1:01 |
-| 47 | [Latke Clan](https://open.spotify.com/track/6Yvqjn1jhBlzPmKcpZqD4o) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl) | 2:51 |
+| 42 | [Oh Hanukkah](https://open.spotify.com/track/1vK4S0PCGyPGpykjy1te2d) | [Maccabeats](https://open.spotify.com/artist/2plllpJj0sU7FsdZrn8EHq) | [A Maccabeats Hanukkah](https://open.spotify.com/album/4uhCOOmk62FJOMqMCzL1No) | 1:03 |
+| 43 | [Happy Joyous Hanukkah](https://open.spotify.com/track/6MEsn0DpqBBV6dhDRASOd3) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Holly Happy Days](https://open.spotify.com/album/45acBSRzU6wh64ZHDOJaWF) | 3:40 |
+| 44 | [Dreidel, Dreidel, Dreidel](https://open.spotify.com/track/2nJ7khC20N59Oo5gTALYHv) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Let's Eat!](https://open.spotify.com/album/4g7Q9tZW8LxneGkMTSQAWO) | 1:01 |
+| 45 | [Latke Clan](https://open.spotify.com/track/6Yvqjn1jhBlzPmKcpZqD4o) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl) | 2:51 |
 
-Snapshot ID: `MCwwYjZmYjhlMmMxMjI3YWIyNzExNzQyYzUzOGM5ODAwMGQ4MGIyMmY2`
+Snapshot ID: `MCxhN2FmYzJiNzRkZWRhODlhN2E5ZmQ1MGYxNmM0YzM1NWJlZGYyY2Mw`

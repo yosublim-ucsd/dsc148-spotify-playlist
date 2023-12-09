@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Sarah Kang",
-  "num_followers": 414461,
+  "num_followers": 414605,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzU3OTI1ZTE1ZWVlZDBmMDMxYTY4YzVlMzBlNjAzNWVmOGQxNWMx",
+  "snapshot_id": "MCw2YTRjMzlhYzg0ZGMyMmVhZTdhYzMwZDgyZjI3MzcxYWY5ZTg0N2Mx",
   "tracks": [
     {
       "added_at": "2023-11-10 05:01:00",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/7ATrjLiCw3DGbDqzGH65Bo"
     },
     {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 161567,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Hello Love (Edit)",
@@ -111,22 +127,6 @@
       "duration_ms": 169484,
       "name": "Literally Dead",
       "url": "https://open.spotify.com/track/3PAi27peQmIvoWUFjOTKJJ"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 232277,
-      "name": "Doesn\u2019t Do Me Any Good",
-      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
     },
     {
       "added_at": "2023-10-13 04:01:00",

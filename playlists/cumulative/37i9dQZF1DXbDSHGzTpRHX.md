@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-184 songs - 9 hr 26 min
+185 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [90's Green Screen](https://open.spotify.com/track/7yXkyxotSbVF1mkP2KNjEA) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Bad Sports](https://open.spotify.com/album/6YJHZfZHLAuwCfBN5FbzPI) | 3:10 | 2019-12-10 |  |
 | [Bitter](https://open.spotify.com/track/5CtRiLuaTYS5LYvqocWPsq) | [CUB](https://open.spotify.com/artist/05IBfj7YDIhBkZRjoC7w4f), [Taylor J\. Frost](https://open.spotify.com/artist/2hrew4PnAbzEkeDMrNFJ4Z) | [Bitter](https://open.spotify.com/album/3tBdGynDpZNwQowRU39mTe) | 2:22 | 2019-12-10 |  |
 | [BLUE](https://open.spotify.com/track/3ne8aXLTHtwrdtpItqCgfT) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [BLUE](https://open.spotify.com/album/02QfpmjkUYBmLkyhzupPvC) | 2:17 | 2019-12-10 |  |
-| [Blue Skies](https://open.spotify.com/track/5418UMEZW10tHZ6qrIVlKW) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Ponyboy EP](https://open.spotify.com/album/0oKIN8Ld0MA3hL8edgz6cq) | 5:04 | 2019-12-10 |  |
+| [Blue Skies](https://open.spotify.com/track/05UusNYR6VupjBMHZyv6I1) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Ponyboy EP](https://open.spotify.com/album/3nLCHfeURD87rYUaKCv8Br) | 5:04 | 2019-12-10 |  |
+| [Blue Skies](https://open.spotify.com/track/5418UMEZW10tHZ6qrIVlKW) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Ponyboy EP](https://open.spotify.com/album/0oKIN8Ld0MA3hL8edgz6cq) | 5:04 | 2019-12-10 | 2023-12-09 |
 | [Breathe](https://open.spotify.com/track/0IDnurzMLSgapUP0Ov35zc) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Pop Chill](https://open.spotify.com/album/2yUz9QKekYKZPKpyNbH3px) | 2:37 | 2019-12-10 | 2022-11-13 |
 | [Breathe](https://open.spotify.com/track/1VvsPJMas06GEwf5NLV1vw) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [The Sad Vegan](https://open.spotify.com/album/3Q0RCCVgwcJgN0zUDooJoW) | 2:37 | 2019-12-10 |  |
 | [Breathe](https://open.spotify.com/track/5kLIYCtwwjG2ykmF1DbZxY) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [The Sad Vegan](https://open.spotify.com/album/3vAZ15vcecSZLBtDQHZngL) | 2:37 | 2019-12-10 | 2022-07-29 |

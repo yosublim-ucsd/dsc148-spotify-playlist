@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 
 > Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,469 likes - 100 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,499 likes - 100 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 | 99 | [Nasceu o Amor](https://open.spotify.com/track/1C8bNtsT3FF5AFMISWVqKt) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Daniel Santiago](https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g), [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE), [Thiago Espirito Santo](https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx) | [Harmonize](https://open.spotify.com/album/50FauL4PvB8nRiTO44pWcF) | 6:42 |
 | 100 | [Deus É Amor Pra Tudo Que É Fé](https://open.spotify.com/track/4u9aQn8xLCcLlbJsOAspoO) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Daniel Santiago](https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g), [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE), [Thiago Espirito Santo](https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx) | [Harmonize](https://open.spotify.com/album/50FauL4PvB8nRiTO44pWcF) | 5:48 |
 
-Snapshot ID: `MCw0N2U3MzFiYzNjZTQ3NmQxNTFkNmE1N2NkMDc3ZTBhOGRlMGZhNDg4`
+Snapshot ID: `MCw4YWUyOTNhNDEyNGQxNjNhNDIwY2MzYWJlMzRmNjM1YTc2MDk3NDRh`

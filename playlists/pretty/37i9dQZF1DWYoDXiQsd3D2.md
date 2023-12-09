@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 
 > look up, dream on, drift off...
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,566 likes - 148 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,617 likes - 148 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 26 | [Ray](https://open.spotify.com/track/4DZZQbBwmrheEeiVqvkpEx) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Ray](https://open.spotify.com/album/0RFSLWfMPONtCdhxIRvCPL) | 4:56 |
 | 27 | [Drang](https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe), [Ruben Jeyasundaram](https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2), [Vocaal Ensemble Cordier](https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr) | [Elv](https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu) | 2:41 |
 | 28 | [Young and Alive](https://open.spotify.com/track/6T0Gh0lAUECJtTf1lmlEa9) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl), [Richard Collins](https://open.spotify.com/artist/0hFIRIeQXr4h867zMh3qlp) | [Wildcat \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4QOGoAaYzylEqk91LOszwI) | 2:51 |
-| 29 | [Video Tape \- From "Surface"](https://open.spotify.com/track/7zTaLLMF9A170FfPtBaL3m) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Video Tape \(From "Surface"\)](https://open.spotify.com/album/3qFNuf0WssUVPXTPdrxGho) | 2:17 |
+| 29 | [Video Tape \- From "Surface"](https://open.spotify.com/track/5z3KcciOg8G1IsIaRN5ZOv) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Surface \(Music from the Original TV Series\)](https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst) | 2:17 |
 | 30 | [Familiar](https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Familiar](https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT) | 3:32 |
 | 31 | [Nebula](https://open.spotify.com/track/21f5l8xk2D7yU6HMQdBY5b) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Nebula](https://open.spotify.com/album/0aH7hoOv70QMHImL9tEge6) | 4:36 |
 | 32 | [Father](https://open.spotify.com/track/1QNGr8uTs4cSKG7YI2Qol7) | [Foli](https://open.spotify.com/artist/2HdDpDCP2RQVHQhG5Kc09Q) | [Father](https://open.spotify.com/album/2NtbfKEHiiKkMqGIx4gPTH) | 2:38 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 147 | [Ordinary Bones](https://open.spotify.com/track/3LMB1SBK5SMdtFwGZ1AhGj) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Riven](https://open.spotify.com/album/350aCIe1s5yP9XOoO1ZTZg) | 2:29 |
 | 148 | [We Came And Left](https://open.spotify.com/track/02Tb4Ftr6z6vrfzwOGYUfG) | [Cedric Vermue](https://open.spotify.com/artist/3pUznuXyn6lL9VGKAV6Ydh) | [Left Upon Us](https://open.spotify.com/album/2mvUfWFb1iPupKxdOK2fxh) | 5:41 |
 
-Snapshot ID: `MCw2YTExNGU2M2RjNDc4ODdlNTkzNTNjMDk5YTA3ZGVhOTdhYmM1MjA0`
+Snapshot ID: `MCw4ODZmNWM0ZTUzNWYxNGU1ODU3NGRkYTQ0ZDQ0MmZmYTIyM2IwMTU2`

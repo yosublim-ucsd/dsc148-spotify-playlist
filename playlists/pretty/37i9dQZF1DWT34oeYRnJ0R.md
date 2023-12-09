@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Farruko, La Factoria & Eddy Lover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,200 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,192 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 99 | [Bubbaloo](https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Bubbaloo](https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4) | 3:12 |
 | 100 | [Limonadita Fresca](https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6) | [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Limonadita Fresca](https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH) | 3:20 |
 
-Snapshot ID: `MCxkMjliN2Q2MjMxNzBhZTJiNWM4Yjg3NGUxNmEzNGQ3OWQ0ZjVmNDVk`
+Snapshot ID: `MCxkZDAzNmU2ZDUwNWQzOTFjZWI2ZmViZGNjNGFjY2Y5MWZlOTI5YTYw`

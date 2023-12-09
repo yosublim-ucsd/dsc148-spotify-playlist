@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,448 likes - 104 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,460 likes - 104 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 103 | [Transcend](https://open.spotify.com/track/1dUDWTN2g42sz1yXykCUQn) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv), [William Cepeda](https://open.spotify.com/artist/0w2oHz4dH8krp7aEc7zTWc) | [Transcend](https://open.spotify.com/album/3Ox4brenAwA37r3RPNoXjB) | 9:37 |
 | 104 | [So...Now Hear This](https://open.spotify.com/track/0qA1raigGUBHtn8AIU1sj0) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga) | 5:09 |
 
-Snapshot ID: `MCxhYTMzNGQ4YTgxZDIwMzM4MDlkNzNjNTg3OTVmNjAyY2Y0NzgwOWJl`
+Snapshot ID: `MCw4YmY1MDY0YzE2OTJlZWNiZWUwOTFkNmRkZDE1MjFlOWI0ZWEwZTI1`

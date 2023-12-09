@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > Its pop punk, its the best
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 44,118 likes - 42 songs - 2 hr 24 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 44,114 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 | 40 | [Santa Baby \- Holiday Version](https://open.spotify.com/track/5YA161xGuYRgxVCYN276tL) | [VersaEmerge](https://open.spotify.com/artist/429v4ypVJLyIyC4hKea0KN) | [Santa Baby](https://open.spotify.com/album/7rgFH9fvweq4pf9vsW6cep) | 5:19 |
 | 41 | [Oh, Holy Night](https://open.spotify.com/track/7vu44m5Z9nUQY4y3eWpXgD) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [The Christmas EP](https://open.spotify.com/album/09sySCP5nPgwgFRz0rJ0Nm) | 3:34 |
 | 42 | [CHRISTMAS SUCKS](https://open.spotify.com/track/11MnUjcQ3YHQLbgxl4uQHi) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow \(Deluxe\)](https://open.spotify.com/album/0Ne9hQqlrVOEHTphkXiK9T) | 2:36 |
+| 43 | [\*snow in berlin\*](https://open.spotify.com/track/6MgDPVjjEloarAofqPE4we) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [\*snow in berlin\*](https://open.spotify.com/album/7K3Ig78OIzZBNlvFdtzAfk) | 2:39 |
 
-Snapshot ID: `NjcwNCwzOWY5ZDJlYzg0NjY3NjJmODI3NGE3OWEwYjhlZjE4ZGY4YjgwNWY2`
+Snapshot ID: `NjcwNSw1YjY5ZGM2NzFlYjJiNjAwNjYzMGNhMzJlZDBjNDMyMDVkNWM2MzVm`

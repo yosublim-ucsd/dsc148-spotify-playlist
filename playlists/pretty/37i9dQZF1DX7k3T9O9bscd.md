@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,199 likes - 100 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,347 likes - 100 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 99 | [End of the Night](https://open.spotify.com/track/7CWh8Z5lxzAji5F1CPr3mD) | [A Place To Bury Strangers](https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR) | [Hologram](https://open.spotify.com/album/3TAM2d6u89SFo3WCGTC1Yo) | 5:26 |
 | 100 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 |
 
-Snapshot ID: `MCwzZmEwNGRmNWYwYjg2MmI2ODBiMjgwMWFkMDA5NjgyYWMxMGRiZWM5`
+Snapshot ID: `MCw0Zjg4NTRlNDdlOTc0ODFmYjQyNGEzNGM5NWU5OTRkODE3MjBmMTY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,390 likes - 125 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,425 likes - 125 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [Can't Sleep Alone At Night](https://open.spotify.com/track/7BBzoOS8HR4zdlk1y0VNBB) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Reload EP](https://open.spotify.com/album/6ImjX7QeTg1JljGIawFWWP) | 2:58 |
 | 125 | [amends \- VIP edit](https://open.spotify.com/track/6WaJmBHeaVqscrZJvnpprf) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [amends \(VIP edit\)](https://open.spotify.com/album/2tZ625xvSujXfdLrAyIovx) | 1:24 |
 
-Snapshot ID: `MCwxZjYwMjdhMjlhMTljNjk0MjNjMTgwZGM3YzIwYmViMmUyNzI5ZWE0`
+Snapshot ID: `MCw2NGI5YTNhNzE3MjY0NDI5NjU0OGVmNzIyYjI2OTRkZDExZTM0ZDkw`

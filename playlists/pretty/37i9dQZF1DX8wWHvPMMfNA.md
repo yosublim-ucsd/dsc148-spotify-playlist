@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,429 likes - 600 songs - 1 day 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,565 likes - 600 songs - 1 day 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 599 | [60 Miles to Vegas](https://open.spotify.com/track/1lh26QT19Mh0l8BSvakaKv) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [60 Miles to Vegas](https://open.spotify.com/album/1awLbiU61GNd82Trm0opNL) | 2:43 |
 | 600 | [There Will Never Be Another You](https://open.spotify.com/track/7wcmJbWzDh81fU0dszxzAi) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Big 6](https://open.spotify.com/album/7rpVIPYd0mq2gJG9GRgXlz) | 5:04 |
 
-Snapshot ID: `MCwzZTg0Mzk2Y2NmZjc4ZmM2MGJjYzlmYTM2ZWI4Mjk1ZDgxZjNiOWEx`
+Snapshot ID: `MCwwYjRhZjE0MzllNTcyNDU0NmQ4MzgzNjQyZDdiOTZkY2FkN2ZhOTJi`

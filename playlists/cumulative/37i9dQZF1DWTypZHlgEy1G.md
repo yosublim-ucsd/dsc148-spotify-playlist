@@ -2,7 +2,7 @@
 
 ### [Standards de la Chanson Française](https://open.spotify.com/playlist/37i9dQZF1DWTypZHlgEy1G)
 
-> Le patrimoine de la chanson française\. Photo : Charles Aznavour
+> Le patrimoine de la chanson française\. Photo : Jacques Brel
 
 156 songs - 8 hr 29 min
 

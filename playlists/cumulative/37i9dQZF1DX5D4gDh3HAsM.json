@@ -125,6 +125,36 @@
     },
     {
       "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/2DE0OWGtJhJQnx3jrmOWnE"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179416,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/5AA209yWZzBZ3ASH0g5ECH"
+    },
+    {
+      "album": {
         "name": "Christmas Cookin'",
         "url": "https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC"
       },
@@ -198,7 +228,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 226973,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/0aMkS3yNwY1wYgvsQTj7ZB"
@@ -530,7 +560,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 226917,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l"
@@ -606,6 +636,24 @@
       "duration_ms": 210693,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9"
+    },
+    {
+      "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK"
+      },
+      "artists": [
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104793,
+      "name": "Dance of the Sugar Plum Fairy",
+      "url": "https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0"
     },
     {
       "album": {

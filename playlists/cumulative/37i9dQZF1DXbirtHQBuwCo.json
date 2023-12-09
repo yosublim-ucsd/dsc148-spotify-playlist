@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: DEAN)",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Junggigo(\uc815\uae30\uace0))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 204240,
       "name": "and you (Feat. ZICO)",
       "url": "https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 213750,
       "name": "Being",
       "url": "https://open.spotify.com/track/7ulCWv7e24VBTQ7lzGWrFP"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 186019,
       "name": "Candy (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 165986,
       "name": "Do",
       "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
@@ -5201,6 +5201,24 @@
     },
     {
       "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
+    },
+    {
+      "album": {
         "name": "SOULBYSEL Compilation 04",
         "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
       },
@@ -5730,7 +5748,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 210106,
       "name": "I Want to Be Closer to You",
       "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
@@ -6778,6 +6796,32 @@
       "duration_ms": 116643,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4XlrF7VTXVtHSBhHo5NWQe"
+    },
+    {
+      "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/3VhweYBjsf9InPl29h78qf"
+      },
+      "artists": [
+        {
+          "name": "hyeminsong",
+          "url": "https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82"
+        },
+        {
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197693,
+      "name": "Lost (ft. Rad Museum, The Quiett)",
+      "url": "https://open.spotify.com/track/381IEahv0ci5vzOYPWo976"
     },
     {
       "album": {
@@ -9658,7 +9702,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 267080,
       "name": "Restless",
       "url": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe"
@@ -11535,6 +11579,24 @@
     },
     {
       "album": {
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170386,
+      "name": "To. X",
+      "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
+    },
+    {
+      "album": {
         "name": "TODAY (Feat. Kim Mi Jeong)",
         "url": "https://open.spotify.com/album/7pAEDIrWroPSNk8RyH5CvN"
       },
@@ -12674,7 +12736,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 168870,
       "name": "Winter blossom (feat. Ashley Alisha & nobody likes you pat)",
       "url": "https://open.spotify.com/track/5fTjaxacUujHQzT8qPHKoq"

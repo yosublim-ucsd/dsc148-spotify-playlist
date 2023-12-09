@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Giolì & Assia
 
-565 songs - 1 day 14 hr 52 min
+566 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,7 +521,8 @@
 | [Twennies \- The Knocks Remix](https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Twennies \(The Knocks Remix\)](https://open.spotify.com/album/7kspnaid8DF0EbhsIVyv86) | 4:08 | 2022-12-15 | 2023-03-10 |
 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2023-11-02 |  |
 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-13 | 2023-11-05 |
-| [Under The Light \- Cut Copy Remix](https://open.spotify.com/track/1PzLdi4IlVgmtVYwmS3NXs) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0), [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Under The Light \(Cut Copy Remix\)](https://open.spotify.com/album/6ahvgtYtPtSjSRR9bmmLPC) | 4:28 | 2023-12-08 |  |
+| [Under The Light \- Cut Copy Remix](https://open.spotify.com/track/1PzLdi4IlVgmtVYwmS3NXs) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0), [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Under The Light \(Cut Copy Remix\)](https://open.spotify.com/album/6ahvgtYtPtSjSRR9bmmLPC) | 4:28 | 2023-12-08 | 2023-12-09 |
+| [Under The Light \- Remix](https://open.spotify.com/track/7DFYfdzWJAQK59YrQ4CftD) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0), [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Under The Light \(Remix\)](https://open.spotify.com/album/7djxJDYoeQfrH6haKtws8c) | 4:28 | 2023-12-08 |  |
 | [Under the Moon](https://open.spotify.com/track/7JyZjlTWvCMJcbimNOAOkC) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Under the Moon](https://open.spotify.com/album/7fn5WEWdDR10ccAxgsrMKp) | 2:52 | 2023-08-24 | 2023-10-13 |
 | [Under the Stars \- Ray Mang Remix](https://open.spotify.com/track/3P9IInpHAewgv4C4JQaQxK) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Out of Town \(The Remixes\)](https://open.spotify.com/album/5ZxRzo6FnmbsR4Y5EiDjdU) | 9:35 | 2022-12-30 | 2023-01-02 |
 | [Unity \- Agar Agar Remix](https://open.spotify.com/track/6VTSDSzkuyFYs8DxIKd8gB) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj), [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Unity \(Agar Agar Remix\)](https://open.spotify.com/album/2vJKrrqbLh6c8kqvYTXM7K) | 4:29 | 2023-01-05 | 2023-01-27 |

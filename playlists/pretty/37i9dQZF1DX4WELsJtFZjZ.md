@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,075 likes - 150 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,674 likes - 150 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [Just Like Jesse James](https://open.spotify.com/track/5JGdpqo9wrRtOZtui5GShI) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 4:05 |
 | 150 | [Tom's Diner](https://open.spotify.com/track/0LpF3BJplNYWei6BmgZJwq) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tom's Diner](https://open.spotify.com/album/3iaUAs1zHrPBaYIpLmskEV) | 2:13 |
 
-Snapshot ID: `MCw1NGNkNzJmZGViNDVhNjUzMTFjMTNlYmUwOTczZTA2YTg0N2M2ZGE1`
+Snapshot ID: `MCxhODgxMGNkMzVhZjg5MWJjZWUyYWQ2MzFmYzQ4MmM4ZmNlMzk0YmI5`

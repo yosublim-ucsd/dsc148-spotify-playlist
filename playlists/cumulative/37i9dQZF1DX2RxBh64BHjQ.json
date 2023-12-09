@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 110184,
       "name": "$1M",
       "url": "https://open.spotify.com/track/6EZevl0aJzkUmW0MUQKC1p"
@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "6.2 Music (with Rob49)",
+        "url": "https://open.spotify.com/album/1UydpDxXkMRoB24N3iNQ5m"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168278,
+      "name": "6.2 Music (with Rob49)",
+      "url": "https://open.spotify.com/track/6ToibuSa6fjrrzh1aLZwqf"
+    },
+    {
+      "album": {
         "name": "60 Miles",
         "url": "https://open.spotify.com/album/0ZERBpDfUs0o3ZULTzb3cj"
       },
@@ -1052,6 +1074,24 @@
       "duration_ms": 128524,
       "name": "Aint No Fun",
       "url": "https://open.spotify.com/track/5LWAGw2GEbTHDWcV5coWyJ"
+    },
+    {
+      "album": {
+        "name": "NOT HARD 2 UNDERSTAND",
+        "url": "https://open.spotify.com/album/1YE3OeReW3UQjBvW3L2eYw"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202886,
+      "name": "AIN\u2019T NOTHIN",
+      "url": "https://open.spotify.com/track/3yW269q7pnxzzDBVprmnFm"
     },
     {
       "album": {
@@ -2444,10 +2484,40 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 217600,
       "name": "Bent (Remix) (with Kyle Richh, Jenn Carter, TaTa & Sexyy Red)",
       "url": "https://open.spotify.com/track/3dbk5pvQlJagP6VJP9vHzq"
+    },
+    {
+      "album": {
+        "name": "41 World: Not The Album",
+        "url": "https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171198,
+      "name": "Bent (with Kyle Richh, Jenn Carter & TaTa)",
+      "url": "https://open.spotify.com/track/1haa8GXT0cl9wzRnpZG0YH"
     },
     {
       "album": {
@@ -4674,7 +4744,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 168000,
       "name": "Chanel Pit",
       "url": "https://open.spotify.com/track/6oXy5J7kYGFqMUn89Vhnkh"
@@ -5118,7 +5188,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 134117,
       "name": "Come Outside (feat. YTB Fatt)",
       "url": "https://open.spotify.com/track/1fxlHuMfJPa0de1WJHOwBf"
@@ -5460,6 +5530,24 @@
       "duration_ms": 129755,
       "name": "Crocs & Wock'",
       "url": "https://open.spotify.com/track/2BSyX4weGuITcvl5r2lLCC"
+    },
+    {
+      "album": {
+        "name": "Crown Me",
+        "url": "https://open.spotify.com/album/1bHk4Pi1CM2ISeUSDyVVZC"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "Crown Me",
+      "url": "https://open.spotify.com/track/5Z7PKPhCTAmLg8xhqPomZO"
     },
     {
       "album": {
@@ -6416,7 +6504,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 162461,
       "name": "DO NOT DISTURB",
       "url": "https://open.spotify.com/track/06pDFA1R4GHG9DbzshvbA3"
@@ -8429,6 +8517,24 @@
     },
     {
       "album": {
+        "name": "FOMV",
+        "url": "https://open.spotify.com/album/3tPbnB3oONoslFV9uxSX3s"
+      },
+      "artists": [
+        {
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132723,
+      "name": "FOMV",
+      "url": "https://open.spotify.com/track/4G5wmfVLt31zCJwLFSVKOp"
+    },
+    {
+      "album": {
         "name": "Trick City",
         "url": "https://open.spotify.com/album/1E68gyKlNk48uMqfBPs3Nv"
       },
@@ -10208,7 +10314,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 160969,
       "name": "Gumbo Mix (with YTB Fatt)",
       "url": "https://open.spotify.com/track/6Ir8jlNR8bBTg9tKIaSDhW"
@@ -10812,6 +10918,24 @@
       "duration_ms": 165863,
       "name": "Hellcats SRTs 2 (with Lil Durk)",
       "url": "https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc"
+    },
+    {
+      "album": {
+        "name": "Sorry 4 The Leaks Vol. 1",
+        "url": "https://open.spotify.com/album/7xOEuVCjgF3HfglgX8jMyv"
+      },
+      "artists": [
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144773,
+      "name": "Henny Lake",
+      "url": "https://open.spotify.com/track/1fkC5Apo7eVAjaT18nMDqN"
     },
     {
       "album": {
@@ -12493,6 +12617,24 @@
     },
     {
       "album": {
+        "name": "Johnny Dang",
+        "url": "https://open.spotify.com/album/4tmlQCXPJaBaFeNfG2H3TS"
+      },
+      "artists": [
+        {
+          "name": "Anti Da Menace",
+          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160958,
+      "name": "Johnny Dang",
+      "url": "https://open.spotify.com/track/3iYqjsyj64F7heqew0xDYk"
+    },
+    {
+      "album": {
         "name": "Johnny Dang (with Paul Wall & DRODi)",
         "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
       },
@@ -12642,7 +12784,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 125100,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/4lcrZiMuwz0VWiwrrqGgOW"
@@ -14187,6 +14329,24 @@
     },
     {
       "album": {
+        "name": "Linktree",
+        "url": "https://open.spotify.com/album/2IMlDgXvyeOKU2L11a9VY3"
+      },
+      "artists": [
+        {
+          "name": "Cico P",
+          "url": "https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112200,
+      "name": "Linktree",
+      "url": "https://open.spotify.com/track/3l3X3oX0OOBAODEwlGD8Gh"
+    },
+    {
+      "album": {
         "name": "Lit",
         "url": "https://open.spotify.com/album/6wsxDHolwGyIRMl1BRMifm"
       },
@@ -14812,6 +14972,24 @@
       "duration_ms": 177463,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/2XR0Ou0pDaQ2bmVMsG90qe"
+    },
+    {
+      "album": {
+        "name": "It's Me, I'm The Problem",
+        "url": "https://open.spotify.com/album/1ZcqPAtwRqeJZ2XGVPTkW4"
+      },
+      "artists": [
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156288,
+      "name": "Man In The Mirror",
+      "url": "https://open.spotify.com/track/6NjApMNzj1QvOxVw9XV1eA"
     },
     {
       "album": {
@@ -16375,6 +16553,24 @@
     },
     {
       "album": {
+        "name": "Neat Freak",
+        "url": "https://open.spotify.com/album/4R9zGWbr0ENpBBjKWJYzn8"
+      },
+      "artists": [
+        {
+          "name": "Strick",
+          "url": "https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86951,
+      "name": "Neat Freak",
+      "url": "https://open.spotify.com/track/6EVncoMtPUu7ENzNzpVsK2"
+    },
+    {
+      "album": {
         "name": "Neck of the Woods",
         "url": "https://open.spotify.com/album/3VioKoXwbiYOICFLrGitKI"
       },
@@ -16678,7 +16874,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
@@ -18572,6 +18768,24 @@
       "duration_ms": 193002,
       "name": "Out the Gutter (feat. Cash Kidd)",
       "url": "https://open.spotify.com/track/2dwHXffVR1okPxatga6WTF"
+    },
+    {
+      "album": {
+        "name": "OUT THE MARGIN",
+        "url": "https://open.spotify.com/album/2pdF1ymr3HuDNvpigw7ri9"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127823,
+      "name": "OUT THE MARGIN",
+      "url": "https://open.spotify.com/track/3e8CTssZt38eKrydWwvRdF"
     },
     {
       "album": {
@@ -20894,7 +21108,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 176027,
       "name": "Remember",
       "url": "https://open.spotify.com/track/47AnQOnGJsW36cWmYtKB5u"
@@ -22070,7 +22284,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 193426,
       "name": "Say Too Much",
       "url": "https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF"
@@ -24700,6 +24914,24 @@
       "duration_ms": 186563,
       "name": "Tada (feat. Blxst)",
       "url": "https://open.spotify.com/track/6OG1hV6boTYr0GGU16NNnz"
+    },
+    {
+      "album": {
+        "name": "Tag Me In",
+        "url": "https://open.spotify.com/album/6Xxmm6M26fdlewgIBxRWVd"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173749,
+      "name": "Tag Me In",
+      "url": "https://open.spotify.com/track/5QQ1zEhxJ4k2zdkcHV2hoT"
     },
     {
       "album": {
@@ -27694,7 +27926,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 193714,
       "name": "What It Is?!",
       "url": "https://open.spotify.com/track/4NgMDPV2mIh6MUkqkyNmP3"
@@ -28458,7 +28690,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 124425,
       "name": "With My Boo",
       "url": "https://open.spotify.com/track/5jv854w0ZHUCesbjFHIxSs"
@@ -28926,7 +29158,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 194285,
       "name": "Yes",
       "url": "https://open.spotify.com/track/5wJzWIpTjufasyBhPmfPwm"
@@ -29090,6 +29322,28 @@
       "duration_ms": 139919,
       "name": "Your Friends",
       "url": "https://open.spotify.com/track/6ZOCnU7MLtcZeRKAxgsqTT"
+    },
+    {
+      "album": {
+        "name": "YSL Woody (feat. Babyface Ray)",
+        "url": "https://open.spotify.com/album/64SqckNdoLqrrx2bSIcB0U"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153116,
+      "name": "YSL Woody (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/5N7bSjfIHe7ZaqYcAuHvTc"
     },
     {
       "album": {

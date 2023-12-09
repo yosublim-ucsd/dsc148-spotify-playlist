@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-894 songs - 1 day 12 hr 43 min
+896 songs - 1 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Don't Run](https://open.spotify.com/track/7oaDmhGFSRcGxiYDVhJsk1) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Don't Run](https://open.spotify.com/album/0g5eB1GST9apmmd1Mc1NWu) | 2:28 | 2023-07-14 | 2023-11-04 |
 | [Doubt Me \(with aldn\)](https://open.spotify.com/track/4ittbqP6lNt3n8mCsLRhBm) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Doubt Me \(with aldn\)](https://open.spotify.com/album/1x0XyLVKG1IekcXSY0yCrt) | 1:51 | 2023-01-13 | 2023-02-15 |
 | [Doubted](https://open.spotify.com/track/0jgZkk2hFQqTalsAygn1UK) | [Sojabrat](https://open.spotify.com/artist/6qPOPRRZCrcNQtq4Ce44L5) | [Clone](https://open.spotify.com/album/6Oz96H6a1rpttJdrNp9hKU) | 1:51 | 2022-03-24 | 2022-04-20 |
+| [douji feva](https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [douji feva](https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5) | 1:45 | 2023-12-08 |  |
 | [down](https://open.spotify.com/track/783PsmPNi2KHNk8PwR2rk2) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl) | [down](https://open.spotify.com/album/3OrjP0MaPUu1I54iBxe5O8) | 2:09 | 2022-05-13 | 2022-10-15 |
 | [Dreamgirl](https://open.spotify.com/track/5e7lMp1FzQc1u5ixPZ91Dv) | [Texako](https://open.spotify.com/artist/6DIuo1PPKJpLXygAHLKkuZ) | [Dreamgirl](https://open.spotify.com/album/7huMRpQeQ1oUZZsIEtJgVi) | 1:51 | 2023-04-21 | 2023-05-27 |
 | [DROP TOP](https://open.spotify.com/track/5LF0f602GWSAxZfmwRvUUI) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [EXTRA](https://open.spotify.com/album/4LGQZ0SlcfHMzr9jZ1USp2) | 2:13 | 2023-11-03 | 2023-12-02 |
@@ -659,7 +660,7 @@
 | [Rando](https://open.spotify.com/track/6Wo5QX4i3imhftyKOYUZjI) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Rando](https://open.spotify.com/album/0P3dUxAJt3pqhkKgaToEmD) | 1:36 | 2023-09-01 |  |
 | [Rare Steppa](https://open.spotify.com/track/4IRcHxTAF48RyFA4rMzV2y) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Steppa](https://open.spotify.com/album/0wLWXXmgSUHwIBvgCokK8K) | 1:58 | 2023-03-31 | 2023-05-27 |
 | [Rare Story Pt\. 2](https://open.spotify.com/track/5pA5DmqA3tNd9F8KMNrd1C) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Story Pt\. 2](https://open.spotify.com/album/6C9kMdHKxcnmMua6nRkMCU) | 2:28 | 2023-08-25 |  |
-| [RATHER BE](https://open.spotify.com/track/0ZeI050Xzsr5v6FodFzaLV) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [RATHER BE](https://open.spotify.com/album/2HwUleY40tW6VGwIiq5vmG) | 1:47 | 2023-12-01 |  |
+| [RATHER BE](https://open.spotify.com/track/0ZeI050Xzsr5v6FodFzaLV) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [RATHER BE](https://open.spotify.com/album/2HwUleY40tW6VGwIiq5vmG) | 1:47 | 2023-12-01 | 2023-12-09 |
 | [Raver Explanation \- Blaketheman1000 Remix](https://open.spotify.com/track/2G3v3gvkwOOBopXERNe4vd) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Raver Explanation \(Blaketheman1000 Remix\)](https://open.spotify.com/album/2rMkAtcNYNLaCEBMSiOZfF) | 2:08 | 2022-12-02 | 2022-12-14 |
 | [Reactive](https://open.spotify.com/track/2Dj7TxdeKh70Fux4Yxpnpo) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Reactive](https://open.spotify.com/album/0ZhCxhtjZCPpgJEe1mhOEf) | 2:23 | 2023-05-26 | 2023-06-10 |
 | [Ready \(feat\. Gunna\)](https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:33 | 2021-09-30 | 2022-04-03 |
@@ -825,6 +826,7 @@
 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-01-27 | 2023-06-22 |
 | [Ugly](https://open.spotify.com/track/3qDbBtbRv6eBls6q51pAL7) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:35 | 2022-09-09 | 2023-03-23 |
 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 | 2023-09-08 |  |
+| [UP](https://open.spotify.com/track/7Mkc0cgOKfT6FsdNG5D9A9) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [LAMBDIDDY 2 EP](https://open.spotify.com/album/3gCjy6KiSUHOGszFDrsPJ3) | 1:47 | 2023-12-01 |  |
 | [VEGAPUNK](https://open.spotify.com/track/2Jh4Ik2VD5Et1J593Vtotp) | [ITSOKTOCRY](https://open.spotify.com/artist/2BUUAEl4BwFRA9NBDgMWSf) | [VEGAPUNK](https://open.spotify.com/album/2vv7kcy8ZfvNHBKtC8btFy) | 2:02 | 2023-02-03 | 2023-04-15 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-08-31 | 2023-03-08 |
 | [Vet](https://open.spotify.com/track/3iGicWZjOWrXXgRE4UcYJL) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Da World Is Ours 3](https://open.spotify.com/album/4R1Qf4Q0daY8Gn58KYRzKX) | 1:40 | 2022-03-17 | 2022-05-07 |

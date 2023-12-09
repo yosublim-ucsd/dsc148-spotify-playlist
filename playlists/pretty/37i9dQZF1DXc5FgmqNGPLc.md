@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,603 likes - 100 songs - 15 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,177 likes - 100 songs - 15 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Could Write a Book \- Live](https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [I Could Write a Book \(Live\)](https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN) | 7:38 |
+| 1 | [I Could Write a Book \- Live](https://open.spotify.com/track/0vJ58MsgTfLfn2eT0eEGQR) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Con Alma: The Oscar Peterson Trio – Live in Lugano, 1964](https://open.spotify.com/album/4mS8SOqsZclqx0UN3QcBVE) | 7:38 |
 | 2 | [Beneath The Mask \- Live](https://open.spotify.com/track/0PfI6iHSTiGfrOTLaH6mhs) | [Chick Corea Elektric Band](https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Beneath The Mask \(Live\)](https://open.spotify.com/album/20OaI5j8oaEr7AGQeJIC3u) | 6:15 |
 | 3 | [Green Chimneys \- Live](https://open.spotify.com/track/26PAdrw4DI9rmUpvSRPeo2) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Live at the House of Tribes](https://open.spotify.com/album/6pYEOR7pGqy3mXUERIA8kY) | 15:48 |
 | 4 | [Watermelon Man](https://open.spotify.com/track/6Hq4YLH2m7vfyPqpdE1Fan) | [The Headhunters](https://open.spotify.com/artist/5JzA5RES9AMM9bK3oDyulT) | [Live From Brooklyn Bowl](https://open.spotify.com/album/6zTO2dBLInxVTEy2TLsKiF) | 9:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 99 | [The Drum Battle](https://open.spotify.com/track/6zZeaMoFeFBq6WU3l1lLex) | [Gene Krupa](https://open.spotify.com/artist/2YODXXiVE8ABc0TfihLOFj), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Drum Battle](https://open.spotify.com/album/50xJcwBsAXiQ7qTJNyAebk) | 3:36 |
 | 100 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 |
 
-Snapshot ID: `MCxjYWExNWU3OGIxZmVjNDdjNmRkNjRmMWMyYjk4M2FjODNiYjU5NjFm`
+Snapshot ID: `MCxkYThmMDExNGMyNTc5YWI0MDMyZjZmNmMzMmJjMmU3ZWFjOWY5NWM2`

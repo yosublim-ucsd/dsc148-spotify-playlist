@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,358 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,380 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 45 | [CLOUD](https://open.spotify.com/track/7yeWt7sq2oRlEZWv880u9E) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Tradition](https://open.spotify.com/album/4zETbpGKT1FHsEZq3QFQUR) | 3:00 |
 | 46 | [My Love](https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [My Love](https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE) | 3:59 |
 | 47 | [Lavender](https://open.spotify.com/track/6a6JDEQbXdxkWFRIA0pRqL) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Forest Green \(Deluxe\)](https://open.spotify.com/album/0Jb9gNSi9ZuWoWB8gbsQQ7) | 2:18 |
-| 48 | [Blue Skies](https://open.spotify.com/track/5418UMEZW10tHZ6qrIVlKW) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Ponyboy EP](https://open.spotify.com/album/0oKIN8Ld0MA3hL8edgz6cq) | 5:04 |
+| 48 | [Blue Skies](https://open.spotify.com/track/05UusNYR6VupjBMHZyv6I1) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Ponyboy EP](https://open.spotify.com/album/3nLCHfeURD87rYUaKCv8Br) | 5:04 |
 | 49 | [Untitled](https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb) | 2:59 |
 | 50 | [Run Tings \(feat\. Dounia\)](https://open.spotify.com/track/0wYYZ1ag9YbdVKFxoWo6yO) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU), [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Press L To Continue](https://open.spotify.com/album/0kYqF9RnizQlTrVpIrRmac) | 2:49 |
 | 51 | [Cool To You](https://open.spotify.com/track/09rD9G2Dsbn7NjH6H6LTmL) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool To You](https://open.spotify.com/album/33QEbobiBLeUmtw2nsXmE2) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/2JpU0BvQsFRJ6tukhc3ENx) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Then We Fall](https://open.spotify.com/album/741BgLLV8HHyGWkDkKMC1h) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MCwwZmVlZDc3YmIzYTBlYjc5NTdjNGNiOTkzYmE1NDg4OGFjZWIzZjIz`
+Snapshot ID: `MCw5ZTQyNmUxYWUwOTkyNWY5Yjg2ODRkMjA5NmQzNjNhM2UxODE5ZDhh`

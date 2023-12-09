@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-92 songs - 5 hr 32 min
+93 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Recess \(with Kill The Noise, Fatman Scoop, and Michael Angelakos\)](https://open.spotify.com/track/1RJZLVGpBG9nNZiHRQSWTp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Michael Angelakos](https://open.spotify.com/artist/6uEyZsccteU7nvDk8oiXnV) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 3:57 | 2022-06-30 |  |
 | [Red Lips \(feat\. Sam Bruno\) \- Skrillex Remix](https://open.spotify.com/track/6mNMp0g3zkg1K7uBpn07zl) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Red Lips \(feat\. Sam Bruno\) \[Skrillex Remix\]](https://open.spotify.com/album/4do8v7rn5kSlH98AnV12P1) | 3:43 | 2022-06-30 |  |
 | [Runaway \(U & I\)](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:47 | 2022-06-30 |  |
-| [Sax to Me](https://open.spotify.com/track/7oSPHLta1VJPFcUvEE9Gvj) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Joseph Qas](https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI) | [Sax to Me](https://open.spotify.com/album/63GVsnGmXuYtn9zs56ck6Q) | 6:04 | 2022-06-30 |  |
+| [Sax To Me](https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Joseph Qas](https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI) | [Sax To Me](https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq) | 6:04 | 2023-01-09 |  |
+| [Sax to Me](https://open.spotify.com/track/7oSPHLta1VJPFcUvEE9Gvj) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Joseph Qas](https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI) | [Sax to Me](https://open.spotify.com/album/63GVsnGmXuYtn9zs56ck6Q) | 6:04 | 2022-06-30 | 2023-12-09 |
 | [Secrets](https://open.spotify.com/track/0NIC4unbe5KZOp1d9T7OaF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:10 | 2022-06-30 |  |
 | [Seguiré Vivo](https://open.spotify.com/track/2Pcl0rkwrHDR72EEDNAvif) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI) | [Seguiré Vivo](https://open.spotify.com/album/5MZKFK86eeePrGps5ljMPp) | 3:59 | 2022-06-30 |  |
 | [Siento](https://open.spotify.com/track/3YKPuIxSWF3wwBXpyezDW7) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Siento](https://open.spotify.com/album/2buLINyvSP9CBHWvkpHusG) | 3:18 | 2022-06-30 |  |

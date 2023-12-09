@@ -700,10 +700,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 178658,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0hGO3Ws99t05Iboxcve9DC"
+    },
+    {
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178658,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/2DDKpgjub5JCPkM41bH3Tp"
     },
     {
       "album": {
@@ -2247,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "Violence in a Quiet Mind",
+        "url": "https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/26eylodAJLTp1GkG4Q7wNy"
+    },
+    {
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV"
       },
@@ -2258,7 +2294,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 181200,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
@@ -3766,6 +3802,24 @@
     {
       "album": {
         "name": "Reds",
+        "url": "https://open.spotify.com/album/5lVHUBJ98A0YBQa1HPkamR"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178684,
+      "name": "Reds",
+      "url": "https://open.spotify.com/track/2hBqCLEJc1OiRjMjHW2BnM"
+    },
+    {
+      "album": {
+        "name": "Reds",
         "url": "https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm"
       },
       "artists": [
@@ -3776,7 +3830,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 178684,
       "name": "Reds",
       "url": "https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ"
@@ -4436,10 +4490,32 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 228866,
       "name": "Still Life (feat. Joseph)",
       "url": "https://open.spotify.com/track/1Lp6ewfK7ABZWemResfRyK"
+    },
+    {
+      "album": {
+        "name": "Still Life (feat. Joseph)",
+        "url": "https://open.spotify.com/album/6UxKGcyntU9E3f8Zx4PZ4b"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "Still Life (feat. Joseph)",
+      "url": "https://open.spotify.com/track/6wurCbhueS1T61C2BgRHnL"
     },
     {
       "album": {

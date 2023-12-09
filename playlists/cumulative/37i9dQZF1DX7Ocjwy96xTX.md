@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-261 songs - 15 hr 45 min
+262 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [5AM Empanada with You](https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [There's Nothing But Pleasure](https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc) | 5:41 | 2022-09-30 | 2023-08-19 |
 | [A Language Dissapears \- Single Edit](https://open.spotify.com/track/7LrAeGqcAy9o7m5OjQVwU4) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [A Language Disappears](https://open.spotify.com/album/6RuHa5z7lsZnAFuHrCdweD) | 3:07 | 2023-01-26 | 2023-05-25 |
 | [abandoned evil](https://open.spotify.com/track/3nWLzDOSxeiZ7dtb44VZZj) | [richmnkey](https://open.spotify.com/artist/1712GqWB0yvGPksAfyDy2h), [jxzzytrip](https://open.spotify.com/artist/6YhzCM1kRLxOnfzdUPs2PC) | [abandoned evil](https://open.spotify.com/album/4fiPJw5fKk3uabQJpDvkA3) | 3:24 | 2023-10-13 |  |
-| [aching](https://open.spotify.com/track/1ioVkY9rh0szKZys1JmSgy) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [aching](https://open.spotify.com/album/3yovro8TSyXGwJQppYWf8O) | 3:27 | 2023-08-25 |  |
+| [aching](https://open.spotify.com/track/1ioVkY9rh0szKZys1JmSgy) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [aching](https://open.spotify.com/album/3yovro8TSyXGwJQppYWf8O) | 3:27 | 2023-08-25 | 2023-12-09 |
+| [aching](https://open.spotify.com/track/79xtBv3FQxdwVNA6BdI2pk) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [aching](https://open.spotify.com/album/1QYXkJgz7wPcCoZcO19TJL) | 3:27 | 2023-12-05 |  |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2022-10-14 |  |
 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 | 2022-09-02 | 2023-05-25 |
 | [Alley Cat](https://open.spotify.com/track/6jEqBrapfygeEbxdVqMlvl) | [all under heaven](https://open.spotify.com/artist/0RzwdSzh3shHCYdE36Fizn) | [Don't Suffer Alone / Alley Cat](https://open.spotify.com/album/6CxdRzGrmziYutDSt2EwR1) | 2:22 | 2023-03-22 | 2023-05-25 |

@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "The Cadence Years, Vol. 1",
+        "url": "https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141560,
+      "name": "All I Have To Do Is Dream",
+      "url": "https://open.spotify.com/track/2yTzXsYOrevaVIzQQgB3YL"
+    },
+    {
+      "album": {
         "name": "100 Greatest Feel Good",
         "url": "https://open.spotify.com/album/5PHIHxs0Xiu66Ah511IRFw"
       },
@@ -212,7 +230,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 140373,
       "name": "All I Have to Do Is Dream (Single Version)",
       "url": "https://open.spotify.com/track/0Q1tq0hFra4W9k6kx1MSjG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,072 likes - 80 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,127 likes - 80 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 79 | [Chipek](https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0), [Juan Carlos Montiel Rangel](https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 4:00 |
 | 80 | [Anoche](https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy) | [Stc Beats VB](https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 1:48 |
 
-Snapshot ID: `MCxmOGYzZmY1ODQ5NGNjMTVjMGQ0YmFkNmNjMjc1ODIzZGJlNDc5YmMy`
+Snapshot ID: `MCw0YmM3Zjg1MzBhNDI5ZmM5NDAyNzU3MDVmOGQ2OWJjYjY2MTBmMDZl`

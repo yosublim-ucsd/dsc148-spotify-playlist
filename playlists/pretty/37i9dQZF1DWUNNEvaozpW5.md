@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Sidecars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,062 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,207 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 99 | [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Madrid Nuclear \- En Directo](https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9) | 4:43 |
 | 100 | [Mar antiguo \- Versión 2023](https://open.spotify.com/track/4azPip5EUOk4jJxJxb6wbm) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Mar antiguo \(Versión 2023\)](https://open.spotify.com/album/2fBr1iK75oIoYsEedtRE3a) | 4:00 |
 
-Snapshot ID: `MCwwYjZlNDZhYzM4MGY4NmEyMmU3OGRmYTQ1NGE2MDZkNDY0NjU3Yjc2`
+Snapshot ID: `MCw2MTRlM2ExMmRkM2Y5ZWNmMmU5ZDQxMmQ3OGY4YWI1MDliNzljNTdk`

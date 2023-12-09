@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,658 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,712 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [U&Me](https://open.spotify.com/track/6jueM7b7fc7eWQcgnTu9Rr) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [U&Me](https://open.spotify.com/album/1puWVzOemxlp8c2QQGaar9) | 3:13 |
 | 55 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 
-Snapshot ID: `MCxhMzVmMjhmYjY2ZWVkNTNiNWUwYWQ4NWJmZGUxZGUxNTNkM2ViMDg2`
+Snapshot ID: `MCwyMjg5YTUxMmEzMTUwNDZiZGQyMmVkZWRkNjA3YWM5ZGEzOWI5MDE0`

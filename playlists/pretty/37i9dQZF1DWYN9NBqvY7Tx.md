@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,997 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,311 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [U Ok?](https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [U Ok?](https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7) | 2:34 |
 | 100 | [Skull n Bones](https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK) | [Stileto](https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i) | [Skull n Bones](https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK) | 2:25 |
 
-Snapshot ID: `MCxjMTk2ZDllYWI0ZTYwYmM4ZTg5NGUzODVkNjZmOTgwZjdmMTU4Njhl`
+Snapshot ID: `MCw5OTJhM2M4NDU4NTZiYTIyYTJmMThkM2FmY2NmMzRhNjcyMTA5NDdi`

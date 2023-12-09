@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,755 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,844 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [I'm Sorry](https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY) | [I'm Sorry](https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc) | 3:24 |
 | 70 | [Miracle](https://open.spotify.com/track/0cdR2RfFyCknWBh7ghM8RU) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Miracle](https://open.spotify.com/album/4YK343jFNgtXS9jISVqImF) | 3:25 |
 
-Snapshot ID: `MCwxYjExZGY3MDBjZGU2M2JjZGY5NDQwYjg1NGIzY2JkYmYyMDhkNGNk`
+Snapshot ID: `MCw5Yzc4MTdiMTI4OTMyOTU5ZWE1MjZmOGM1OGRkNWIyYmFkMDE3ZTgy`

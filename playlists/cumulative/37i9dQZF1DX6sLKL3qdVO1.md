@@ -4,7 +4,7 @@
 
 > Shawty lo que necesitas es darle flow\. Feid en portada.
 
-507 songs - 1 day 3 hr 45 min
+508 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Tavo Rayo](https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp) | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/album/2sFm2ViF2986w7ljTNKBoR) | 3:07 | 2021-12-17 | 2022-01-07 |
 | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/album/4vXH6cXYjOKlVr46RjclrF) | 4:20 | 2022-04-01 | 2022-04-13 |
 | [La Pared 720 \(feat\. Justin Quiles, Brray\)](https://open.spotify.com/track/1Pf1qN0amPFq5CrZlB60bl) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Pared 720 \(feat\. Justin Quiles, Brray\)](https://open.spotify.com/album/48sEphlTqkEdGgqwQfJu2B) | 4:36 | 2022-01-11 | 2022-08-16 |
+| [LA PRIMERA](https://open.spotify.com/track/2tEC8ZAo3zVwflDjOGVMJZ) | [Deimi](https://open.spotify.com/artist/0NrygGrqdoAjfoUieqPFmD) | [LA PRIMERA](https://open.spotify.com/album/102J1ctTdvklm64wfmgGby) | 2:24 | 2023-12-08 |  |
 | [La Página](https://open.spotify.com/track/5zWbPhNqBwhTXKo21OIMce) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [La Página](https://open.spotify.com/album/6UFlCcAwI2kV6ICxm48lYT) | 3:06 | 2023-02-10 | 2023-02-18 |
 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-03-10 | 2023-10-21 |
 | [La Segura](https://open.spotify.com/track/5DLK0uvYApI5xiRQTAZwJz) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Oversize](https://open.spotify.com/album/2EyTkM97uYQBLMht5Fw7tu) | 3:29 | 2023-07-28 |  |

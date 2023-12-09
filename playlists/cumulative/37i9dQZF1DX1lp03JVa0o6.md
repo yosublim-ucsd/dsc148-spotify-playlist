@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: Kaytranada
 
-435 songs - 22 hr 31 min
+436 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,8 @@
 | [You Got My Love](https://open.spotify.com/track/1E5nONpd1Az4UcKEQe2FXC) | [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [You Got My Love](https://open.spotify.com/album/1wDcCg4HOWQWjqYWEVFsAf) | 2:38 | 2023-10-12 |  |
 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2022-12-08 | 2023-02-10 |
 | [You're The Voice](https://open.spotify.com/track/6zQLRsQnoJHL96LzUuR6gQ) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [You're The Voice](https://open.spotify.com/album/5p0gzjEtN8H2wNxjrSZnHA) | 2:42 | 2023-03-03 | 2023-08-25 |
-| [Young & Foolish](https://open.spotify.com/track/0l366R35BCqNxDygjm3Yee) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Young & Foolish](https://open.spotify.com/album/1T2e9UQ5yD2nclnyXoAoNm) | 2:36 | 2023-12-07 |  |
+| [Young & Foolish](https://open.spotify.com/track/0l366R35BCqNxDygjm3Yee) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Young & Foolish](https://open.spotify.com/album/1T2e9UQ5yD2nclnyXoAoNm) | 2:36 | 2023-12-07 | 2023-12-09 |
+| [Young & Foolish](https://open.spotify.com/track/3KtqBwqDbjxjXmJQ2gmtzW) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Young & Foolish](https://open.spotify.com/album/3t7ewN9SVxMCeXTZBvJoNR) | 2:36 | 2023-12-07 |  |
 | [Your Love \(feat\. House Gospel Choir\) \(Edit\)](https://open.spotify.com/track/60JeXqcZ2yBJiedeM1Xv4i) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Your Love \(feat\. House Gospel Choir\)](https://open.spotify.com/album/4fo8hmUbqDIW5UbzfkhTs2) | 4:18 | 2023-07-13 | 2023-09-01 |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

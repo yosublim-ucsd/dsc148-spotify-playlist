@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,165,646 likes - 750 songs - 1 day 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,166,335 likes - 750 songs - 1 day 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [Fire Barrel](https://open.spotify.com/track/2mxp3XhXa2sowJs1NOJcLk) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt) | [Symbiosis](https://open.spotify.com/album/6vYWvxo5rtRKxazHn5QAS6) | 1:56 |
 | 750 | [Sweet Lines](https://open.spotify.com/track/4etBa0f5edCpEtNPK0nMiE) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Sweet Lines](https://open.spotify.com/album/79KRu14GH5DStdyVZDS3te) | 2:03 |
 
-Snapshot ID: `MCxkNmRkYWU4OTg4NjVhZDE3Njg2MGYzOTM1YjMzYWMwMWFmMWVhY2M1`
+Snapshot ID: `MCxhMTU3ZjRmODFhOTNmNjVkYWQwNzdiZTljNmQwOWE2YzViNmYyZGU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Ensi e Nerone in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,788 likes - 120 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,801 likes - 120 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 119 | [Parole](https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q) | [Parole](https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37) | 3:49 |
 | 120 | [Black Rain, pt\. 2](https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw) | [Storie d'amore con pioggia e altri racconti di rovesci e temporali](https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky) | 4:21 |
 
-Snapshot ID: `MCw1YzBlN2RjNmY0MGRhM2M0OTkyZjUwOWYzOGViYTkyZmE3MWFhY2Ex`
+Snapshot ID: `MCxmYzQ4NDYyMzkyOTdkMGFkNjM5ZGUwYjJhM2Q1ZjMyZDUwNzkxNjE2`

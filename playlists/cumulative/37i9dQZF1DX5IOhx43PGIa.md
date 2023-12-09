@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: thuy.
 
-670 songs - 1 day 10 hr 45 min
+671 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 | 2023-05-22 |  |
 | [APESHIT](https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [APESHIT](https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y) | 2:31 | 2023-10-30 |  |
 | [Ascension](https://open.spotify.com/track/4WCEBiPW3xoC0T4wYMXW9U) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 2:56 | 2023-09-01 | 2023-09-23 |
+| [Astronaut](https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Astronaut](https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9) | 3:35 | 2023-12-08 |  |
 | [At Least I Had You](https://open.spotify.com/track/3hpR0IWUJMvtlq3aAyKPqz) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [At Least I Had You](https://open.spotify.com/album/3A68xuHs3jOElQqx87Ae1O) | 3:23 | 2022-05-27 | 2023-05-06 |
 | [Atmosphere](https://open.spotify.com/track/7vxvK8mCE55uVSCRSHFvwB) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Atmosphere](https://open.spotify.com/album/0nN8ZEm4l9LU8dKLMDponC) | 2:11 | 2023-05-12 | 2023-09-02 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-10-27 |  |
@@ -301,7 +302,7 @@
 | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX), [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359), [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh) | 3:28 | 2023-05-05 |  |
 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 | 2023-08-31 |
 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 | 2023-09-22 |  |
-| [If It's Time](https://open.spotify.com/track/6tl3V3Br8AFYE6q9khDdR6) | [Simu Liu](https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP) | [If It's Time](https://open.spotify.com/album/2PgVfs8f6XAgI5AAdvirWW) | 2:47 | 2023-10-27 |  |
+| [If It's Time](https://open.spotify.com/track/6tl3V3Br8AFYE6q9khDdR6) | [Simu Liu](https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP) | [If It's Time](https://open.spotify.com/album/2PgVfs8f6XAgI5AAdvirWW) | 2:47 | 2023-10-27 | 2023-12-09 |
 | [If You Leave Me Alone](https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Bones & The Boy](https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT) | 2:31 | 2022-06-24 | 2023-02-18 |
 | [Illuminous](https://open.spotify.com/track/099SC5HFifJ4cOr9xTCEuc) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Illuminous](https://open.spotify.com/album/5tJE3R6o5gD1w1WSvvVrXt) | 2:46 | 2022-09-23 | 2022-10-08 |
 | [imysm](https://open.spotify.com/track/7dr94wicpFwDjPyPDV0UIB) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [the other side](https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N) | 2:27 | 2022-09-09 | 2023-08-12 |

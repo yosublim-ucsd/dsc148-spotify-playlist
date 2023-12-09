@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: Eslabon Armado, Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,296 likes - 529 songs - 1 day 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,861 likes - 529 songs - 1 day 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -538,4 +538,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 528 | [We Found Love](https://open.spotify.com/track/3t4HeVfURZ5DuqMWz0Cmqg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk \(Deluxe\)](https://open.spotify.com/album/3sW7wD2qdMjs7KncaOoIJ5) | 3:35 |
 | 529 | [Style](https://open.spotify.com/track/1fo2ctLqj3zBhRQKOXprol) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe Edition\)](https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR) | 3:51 |
 
-Snapshot ID: `MCwwMTFkYTU5ZGZiZTAxMDI4Y2NlNjc3ZDUzNzJkNTM5YTU2ZWQ4Y2Rm`
+Snapshot ID: `MCxmOWY2NGYzMGRhZmQ3MDY0NWEyOWI0ZWRlZTdhNzdjYTA0N2RkZDU5`

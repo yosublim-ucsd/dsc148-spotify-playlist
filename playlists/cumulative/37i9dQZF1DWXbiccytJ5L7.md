@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-118 songs - 6 hr 31 min
+119 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Blood Red](https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blood Red](https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk) | 2:37 | 2023-03-17 |  |
 | [Bored In The USA](https://open.spotify.com/track/7BRtyna9liXwcmTIAmeeX0) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/1zFmSMDc0RqGhY8jbKlUOO) | 2:22 | 2023-10-06 |  |
 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 | 2023-03-17 |  |
+| [Broken Man](https://open.spotify.com/track/2jUDn3jZB1WVY2NlM6Ei6W) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Broken Man](https://open.spotify.com/album/4ak7jsBetqx6PmFdC7pvzU) | 2:45 | 2023-12-08 |  |
 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 | 2023-07-21 |  |
 | [Bury Me With Bourbon](https://open.spotify.com/track/0wBLVgwVRCRUr4YKf126Ou) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Bury Me With Bourbon](https://open.spotify.com/album/0C3r7rvvipfjt7wS29BTvk) | 2:48 | 2023-08-18 |  |
 | [Campfire Cologne](https://open.spotify.com/track/1fslCOmxtyPvE55p3KVTWY) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Ryan Upchurch](https://open.spotify.com/artist/2TQ2YAxUktGmAJkUyQJMBa) | [Jones In Ya Speaker](https://open.spotify.com/album/0CehH8vI5ZodVx7U88ArOk) | 3:16 | 2023-03-17 |  |

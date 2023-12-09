@@ -1553,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337000,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
+    },
+    {
+      "album": {
         "name": "My Face",
         "url": "https://open.spotify.com/album/5NTd9H9gkWkpR58oTmlWHL"
       },
@@ -2230,7 +2252,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 177142,
       "name": "Siento Siento",
       "url": "https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3"
@@ -2718,6 +2740,24 @@
       "duration_ms": 211653,
       "name": "Tugudu",
       "url": "https://open.spotify.com/track/7pobnc2nZR6B1BWXksLPz9"
+    },
+    {
+      "album": {
+        "name": "Under the Glow",
+        "url": "https://open.spotify.com/album/0lVIqGTK1L22cdO1PcwGft"
+      },
+      "artists": [
+        {
+          "name": "Bolth",
+          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191370,
+      "name": "Under the Glow",
+      "url": "https://open.spotify.com/track/2dRRH5xLawGk6qAbuvcuhq"
     },
     {
       "album": {

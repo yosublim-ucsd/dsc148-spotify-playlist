@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-692 songs - 1 day 6 hr 58 min
+693 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,7 +606,8 @@
 | [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 | 2021-12-23 | 2023-08-20 |
 | [SXL](https://open.spotify.com/track/18sl3aS5bDBG0yBOD1G9pD) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [THE MOTEL](https://open.spotify.com/album/3Mm4nwyzBqUUXGJrIqzDFF) | 2:49 | 2022-01-06 | 2022-07-27 |
 | [Synchronizing](https://open.spotify.com/track/5dUD00EY39bUkoW0MeH2Co) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Synchronizing](https://open.spotify.com/album/5XguhI1DdLE0q48X8e24uU) | 2:47 | 2022-01-13 | 2022-05-04 |
-| [Talking to myself](https://open.spotify.com/track/1XgT7W3POsztEoqVtaCbvV) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Talking to myself](https://open.spotify.com/album/6sRCDTfsRwOsQpb6Aj1HOu) | 2:14 | 2023-12-07 |  |
+| [Talking to myself](https://open.spotify.com/track/1XgT7W3POsztEoqVtaCbvV) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Talking to myself](https://open.spotify.com/album/6sRCDTfsRwOsQpb6Aj1HOu) | 2:14 | 2023-12-07 | 2023-12-09 |
+| [Talking to myself](https://open.spotify.com/track/2acpp6BCVP0UPbnzT4UCWi) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Talking to myself](https://open.spotify.com/album/0qLqN0c0XOXrBVZaf1nLv8) | 2:14 | 2023-12-07 |  |
 | [tanabata](https://open.spotify.com/track/3nIPbiUtBeBmITLF8MYRvp) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [tanabata](https://open.spotify.com/album/3m7r5IUvOmvyn9yZ6cCQl2) | 2:21 | 2023-07-06 | 2023-08-18 |
 | [tasty greens](https://open.spotify.com/track/7cME0mO0KsRZsJ4IyoKRQG) | [Froowty Lupes](https://open.spotify.com/artist/2Q9neDyx9dRoMnH7yZkCe2), [Yoshi Tanaka](https://open.spotify.com/artist/1iZ1b2L5WewpMQvrB5acFr), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [tasty greens](https://open.spotify.com/album/4JzSspBnbceWs3F6qexRSR) | 1:36 | 2022-01-13 |  |
 | [tattered trees in the rain](https://open.spotify.com/track/0cdqCuXYoMbrNKoMtsNse6) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tattered trees in rain](https://open.spotify.com/album/1JFvsD6gyVDwb2Nu4CU3hU) | 2:14 | 2022-03-24 | 2022-06-10 |

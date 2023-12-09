@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف :ياسر عبدالوهاب
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,746 likes - 48 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,801 likes - 48 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Al Meezan](https://open.spotify.com/track/4uE2JnxPKpZhNsygER68ra) | [Ammar Al Koofe](https://open.spotify.com/artist/2TqftmUCwKW2DSrmWJ3vwC) | [Al Meezan](https://open.spotify.com/album/7nBA7aPsL94jDDGY04JU8v) | 3:47 |
-| 2 | [Helwah W Samra](https://open.spotify.com/track/4w7ckJ5kLxaGUo7UUFVXtj) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Helwah W Samra](https://open.spotify.com/album/5dpyo1HGF6vl99NDdGjdXH) | 3:21 |
+| 1 | [Helwah W Samra](https://open.spotify.com/track/4w7ckJ5kLxaGUo7UUFVXtj) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Helwah W Samra](https://open.spotify.com/album/5dpyo1HGF6vl99NDdGjdXH) | 3:21 |
+| 2 | [Al Meezan](https://open.spotify.com/track/4uE2JnxPKpZhNsygER68ra) | [Ammar Al Koofe](https://open.spotify.com/artist/2TqftmUCwKW2DSrmWJ3vwC) | [Al Meezan](https://open.spotify.com/album/7nBA7aPsL94jDDGY04JU8v) | 3:47 |
 | 3 | [Shofo](https://open.spotify.com/track/6KGky7SteDG0Vn5zavK1gq) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Shofo](https://open.spotify.com/album/1hwYHaGfdaXmauro2Dv7XY) | 3:05 |
 | 4 | [Awel Chams](https://open.spotify.com/track/3DqaHwwxJ92RRjKrCyAA4q) | [Mahmood AlGhiath](https://open.spotify.com/artist/7L7OKjCuLFVhDc0tA0RmVi) | [Awel Chams](https://open.spotify.com/album/4v7PpdXPSkCyGnUA76Ofgu) | 3:05 |
 | 5 | [Khema](https://open.spotify.com/track/6ZzPdpkD792JLNdZWepaqp) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Khema](https://open.spotify.com/album/3ypLvgt1jBwMIVcUTdTjmU) | 4:08 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 47 | [Tejbrni](https://open.spotify.com/track/6GtORpXVbiyLiUBFkRkH4P) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q) | [Tejbrni](https://open.spotify.com/album/3QU4bV2dxK3F4lyIINpWDy) | 3:55 |
 | 48 | [Halak Wain](https://open.spotify.com/track/2m4A4sEjBLpo4CFx8MisWJ) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Halak Wain](https://open.spotify.com/album/0EwUPfMmH97t5bteqLpIQf) | 2:16 |
 
-Snapshot ID: `MCwzMmZkMzA1Yjc5ZWVhZmY4OWEzNTIxMDg1OWY4YzlkN2IwMWJjZGU5`
+Snapshot ID: `MCxjZDk4MWM1MTU4NDZjNDkzZTk5YjA2MTkzMDQ4YjNmOWU5ZGU1MTA3`

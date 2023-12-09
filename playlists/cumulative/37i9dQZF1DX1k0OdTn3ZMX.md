@@ -2,7 +2,7 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with P.O.D and Tatiana from Jinjer.
+> nü\-metal revival is happening here and now with Sevendust.
 
 82 songs - 4 hr 48 min
 

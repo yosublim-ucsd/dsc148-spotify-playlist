@@ -2,7 +2,7 @@
 
 ### [Clásicas de Banda](https://open.spotify.com/playlist/37i9dQZF1DX5O5m2ypWiqa)
 
-> ¡Y qué retumbe la bandona, pariente! Banda MS en portada
+> ¡Y qué retumbe la bandona, pariente! Joan Sebastian en portada
 
 229 songs - 12 hr 37 min
 

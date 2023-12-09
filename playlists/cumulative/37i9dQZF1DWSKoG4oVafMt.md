@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-797 songs - 1 day 19 hr 20 min
+798 songs - 1 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/track/2WzzdfuJuo5SayCuDn7Qoz) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/album/3kXYgc782J3ItogKA3db6n) | 2:51 | 2022-04-12 | 2022-04-29 |
 | [Perfect](https://open.spotify.com/track/31XW6duAPURc4PBLFD3hUu) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Perfect](https://open.spotify.com/album/3azqNOHGjcHr3ONccmxHDO) | 2:46 | 2021-12-02 | 2022-04-06 |
 | [Perfect](https://open.spotify.com/track/0z9pKdemlN3xkxA2eIpIFy) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Love Thunder](https://open.spotify.com/album/2hQRREeWIvPqNtJCOuFCy1) | 2:52 | 2022-09-20 | 2022-12-16 |
+| [Perfect Jodi](https://open.spotify.com/track/0BZplgD7cIEyJae5bTYB1s) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Gurp Sandhu](https://open.spotify.com/artist/7x0GUjwAlc9uHb4hSKIqci), [Inder Dhammu](https://open.spotify.com/artist/62lU8tdLrII0IPky1vaMsu) | [Perfect Jodi](https://open.spotify.com/album/4SRTTZXnl8llE0HSTHS8iY) | 2:42 | 2023-12-08 |  |
 | [Phone](https://open.spotify.com/track/5uJwszrqcBrS9q1oUv5rdk) | [Kapil Sahdev](https://open.spotify.com/artist/2Biq9oFdCwH1OitFH5UUrC), [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Phone](https://open.spotify.com/album/4O1D3WKo52DUEDap6dtQ6e) | 3:34 | 2022-01-10 | 2022-02-01 |
 | [Photo](https://open.spotify.com/track/4GtCxfvTwCK9NxnjmbZvio) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Photo](https://open.spotify.com/album/3mL10Hdr4isTCdtpAJ1rB0) | 3:16 | 2022-08-05 | 2023-02-04 |
 | [Photo Kar Zoom](https://open.spotify.com/track/6OHA7Niyq6lbhne5s2B5lK) | [Kay Vee Singh](https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Photo Kar Zoom](https://open.spotify.com/album/4LJS4VAdTGZTXlrUFvnOHG) | 3:12 | 2022-01-08 | 2022-02-01 |
@@ -802,7 +803,7 @@
 | [Zaruri Nai](https://open.spotify.com/track/0LYi767EQ0pN0Kps9PRa8l) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Zaruri Nai](https://open.spotify.com/album/2ohc2qpaaUPHlLLhxj1q7V) | 2:30 | 2022-06-24 | 2022-06-29 |
 | [Zindagi](https://open.spotify.com/track/1IsbvmZLFPfe0P8XCNBtOX) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Zindagi](https://open.spotify.com/album/6FTS94l96Gerr6Yfk9Yqpz) | 2:35 | 2022-03-18 | 2022-04-06 |
 | [Zindagi](https://open.spotify.com/track/1JXVletUD9V2oXmsTty7uU) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [Zindagi](https://open.spotify.com/album/2I1WtJkNisBQFcWWNrGRLN) | 2:35 | 2022-05-31 | 2023-02-04 |
-| [Zor Na Koi \- From "Yaar Chale Bahar 2"](https://open.spotify.com/track/3kwalHIm5Wo2RKFp9mEcet) | [Arsh Randhawa](https://open.spotify.com/artist/28tDK1f7CGg1pjshmxZp96), [Kritika Sharma](https://open.spotify.com/artist/5LuCLhIFVokARCsKgrbI58), [Blaze](https://open.spotify.com/artist/4CBUXK6IUn3TqFUFgQw859) | [Zor Na Koi \(From "Yaar Chale Bahar 2"\)](https://open.spotify.com/album/21G3HAjw75ikEQRC2olHzB) | 3:03 | 2023-04-19 |  |
+| [Zor Na Koi \- From "Yaar Chale Bahar 2"](https://open.spotify.com/track/3kwalHIm5Wo2RKFp9mEcet) | [Arsh Randhawa](https://open.spotify.com/artist/28tDK1f7CGg1pjshmxZp96), [Kritika Sharma](https://open.spotify.com/artist/5LuCLhIFVokARCsKgrbI58), [Blaze](https://open.spotify.com/artist/4CBUXK6IUn3TqFUFgQw859) | [Zor Na Koi \(From "Yaar Chale Bahar 2"\)](https://open.spotify.com/album/21G3HAjw75ikEQRC2olHzB) | 3:03 | 2023-04-19 | 2023-12-09 |
 | [Zulf](https://open.spotify.com/track/6wZPqrmbzTuoRijqeo56Xf) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [CLICK](https://open.spotify.com/album/2SzjjrJmR20Muo3sN6uxkg) | 2:56 | 2022-08-01 | 2023-02-04 |
 | [Zulfaan](https://open.spotify.com/track/2nUs7DZ4tV0NOtTTRxyfFj) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Zulfaan](https://open.spotify.com/album/0yDumgrNgxMzjFE9cUJEzf) | 3:09 | 2022-11-22 | 2023-02-02 |
 

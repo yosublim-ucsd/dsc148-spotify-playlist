@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,715 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,768 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 99 | [La Respuesta Está En El Viento](https://open.spotify.com/track/50NUNjnzD6sXh54NpMLujS) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:16 |
 | 100 | [Al ritmo de la lluvia](https://open.spotify.com/track/5rxbQfJ5n8tWxL8rZiSkXQ) | [Los Sleepers](https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN) | [México querido](https://open.spotify.com/album/5ljh5BY1KS9a2b2DN093mR) | 2:20 |
 
-Snapshot ID: `MCwwYWNkNDRlOWM2ODQwMjQ1MjE3ZjczNGIxYWM3Njc5OTAwOGE1ZTdm`
+Snapshot ID: `MCw2OTAyNWIwODBlZjdhYWQwYWQyMmE2NTE2N2Q1ZmQxYmI0ZjcyOWMy`

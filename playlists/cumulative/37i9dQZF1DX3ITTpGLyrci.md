@@ -4,7 +4,7 @@
 
 > Get the drinks on ice, this one is on us
 
-182 songs - 9 hr 8 min
+183 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Unfoolish \(You Must Be Used To Me Crying\)](https://open.spotify.com/track/3n8hN6Q8tQR8JHvRQSGFuU) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU) | [Unfoolish \(You Must Be Used To Me Crying\)](https://open.spotify.com/album/4Fxgfr9pg3csJp73m5SZ53) | 2:13 | 2023-04-18 |  |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-04-18 |  |
 | [WANT NEED LOVE](https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [WANT NEED LOVE](https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq) | 4:01 | 2023-04-18 |  |
-| [Want You To Want Me](https://open.spotify.com/track/5cBHDVijSYGOpgnSx7rBuw) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Want You To Want Me](https://open.spotify.com/album/4NHmZ3UJiiK9ppIZeqoQE5) | 3:07 | 2023-04-18 |  |
+| [Want You To Want Me](https://open.spotify.com/track/3k1L3RdcNeZaL82al94JpC) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Want You To Want Me](https://open.spotify.com/album/1hX3AjSsrrWoxJQgMXPVpu) | 3:07 | 2023-09-08 |  |
+| [Want You To Want Me](https://open.spotify.com/track/5cBHDVijSYGOpgnSx7rBuw) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Want You To Want Me](https://open.spotify.com/album/4NHmZ3UJiiK9ppIZeqoQE5) | 3:07 | 2023-04-18 | 2023-12-09 |
 | [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 | 2023-04-18 | 2023-05-17 |
 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 | 2023-04-18 |  |
 | [What You Do To Me](https://open.spotify.com/track/6fwosYHgw98fyKpNTV96vk) | [SUB\-X](https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG) | [What You Do To Me](https://open.spotify.com/album/54HlnxJS63kUPHH144QsDk) | 2:51 | 2023-04-18 | 2023-07-26 |

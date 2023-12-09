@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: The Jesus and Mary Chain
 
-506 songs - 1 day 8 hr 59 min
+511 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-07-18 | 2023-07-22 |
 | [Daylighter](https://open.spotify.com/track/2Nfv9rms6Q7uloTk2KYU8k) | [Relay Tapes](https://open.spotify.com/artist/7xIrG2TmYRzrigiWJXznFp) | [Debris](https://open.spotify.com/album/5m9bsX1WJMuAtN2d4ssMHS) | 4:26 | 2023-03-31 | 2023-11-16 |
 | [daze](https://open.spotify.com/track/66TIegJdKMYXuYSxaPIR4A) | [cherry pick](https://open.spotify.com/artist/5yCDU2cbUX69GwblH65Et5) | [daze](https://open.spotify.com/album/0knbxdlY8bc21f6U1E9Zdk) | 3:01 | 2023-07-26 |  |
+| [Dead Lands](https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Dead Lands](https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8) | 4:34 | 2023-12-08 |  |
 | [dead pixels](https://open.spotify.com/track/0YxJXh7N2N5gJdmsRlEFX4) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [phantasea pharm](https://open.spotify.com/album/4N11sevcaIze3Q6xG6wIfL) | 4:00 | 2023-08-18 | 2023-09-02 |
 | [DEAR FUTURE '18](https://open.spotify.com/track/2dwIC1Ls0pAWxIrDbpsMhD) | [Coaltar Of The Deepers](https://open.spotify.com/artist/2S5Vk5knCxjALFqlMnULmZ) | [RABBIT EP](https://open.spotify.com/album/6bNKwYjohWbpVaFOU8z5um) | 5:09 | 2022-12-15 | 2023-01-14 |
 | [death wish](https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:44 | 2023-02-17 | 2023-07-18 |
@@ -215,6 +216,7 @@
 | [Handsome Man](https://open.spotify.com/track/69AmXsTIzhpL1PzKzq4FRP) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Handsome Man](https://open.spotify.com/album/6NKe1FLpu6vd6XlccHhRYw) | 2:28 | 2021-10-19 | 2022-07-29 |
 | [Handsome Man](https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 2:28 | 2021-10-19 | 2023-06-08 |
 | [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2021-10-19 | 2023-06-08 |
+| [Happy Medium](https://open.spotify.com/track/6kNN5kQNZ2IzF6G6tSMQVR) | [tenbin O](https://open.spotify.com/artist/66pusDfU9XmtLaRHi52tK3) | [Lack Of Heroism](https://open.spotify.com/album/1XX6tEANGokhlXGrOvEZXk) | 4:47 | 2023-12-08 |  |
 | [Hare Tarot Lies](https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure](https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4) | 3:26 | 2021-10-19 | 2023-01-06 |
 | [Hare Tarot Lies](https://open.spotify.com/track/25qfsWGlqPa0o0xNQsZDJR) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure](https://open.spotify.com/album/20MccL4zJLdiQWg2TGqSB0) | 3:26 | 2023-01-04 | 2023-06-24 |
 | [Hare Tarot Lies](https://open.spotify.com/track/2dnmvOsCQXArIeuvBkgkS7) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait To Pleasure](https://open.spotify.com/album/1o7AiIS7ljS1jn1AuiWe8x) | 3:26 | 2021-10-19 | 2022-07-29 |
@@ -224,6 +226,7 @@
 | [Heaven](https://open.spotify.com/track/79Mglh55SLtVZhS7cdZlJl) | [Dog Ears](https://open.spotify.com/artist/3JIof4HxulwCqTMAUdJQO1) | [Heaven](https://open.spotify.com/album/5DFGfWt9zj6jp7amY1nVwW) | 3:21 | 2022-08-15 | 2022-08-26 |
 | [Heaven Hanging Low](https://open.spotify.com/track/0XyBzQ0hOpfmXSjG2CwIqk) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Heaven Hanging Low](https://open.spotify.com/album/0C15Fq2phrRsuF38ny28Hk) | 3:40 | 2023-06-01 | 2023-11-28 |
 | [Heaven in Your Head](https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Nuclear Daisies](https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF) | 3:14 | 2023-02-09 | 2023-10-21 |
+| [her blood filled my lungs](https://open.spotify.com/track/5AthAxFm5eN0pLtpiCRbYr) | [anvii](https://open.spotify.com/artist/1YgLJNdUly3ovPX5AV1REZ) | [\(y\)our ephemeral nature](https://open.spotify.com/album/607js0mkeZV2yuYgfOoDuk) | 3:13 | 2023-12-08 |  |
 | [her distortion](https://open.spotify.com/track/3ZspmUmIrhadEBXCK2kM9Q) | [xójira](https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2) | [her distortion](https://open.spotify.com/album/6wB6nhvNeSWUUjv0gWszLE) | 3:15 | 2023-06-23 |  |
 | [Hide](https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd) | [Deserta](https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG) | [Black Aura My Sun](https://open.spotify.com/album/0Bf9ofwafClZWZE3wDKVWX) | 6:47 | 2021-10-19 | 2023-01-14 |
 | [Hide](https://open.spotify.com/track/7K0W4JZRyK0i5A7JUKeaL6) | [Deserta](https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG) | [Black Aura My Sun](https://open.spotify.com/album/5xLPp9GcMMHF6U8AoVLgWU) | 6:47 | 2021-10-19 | 2022-07-29 |
@@ -292,6 +295,7 @@
 | [Like Stars In The Firmament](https://open.spotify.com/track/0QpBFwWXoSfrdPtEYjiYyr) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Like Stars In The Firmament](https://open.spotify.com/album/5AmHK2cvlnbjo6PaXCqqpU) | 5:24 | 2023-12-01 |  |
 | [Lime \- Elliott Frazier remix](https://open.spotify.com/track/28CohxX0xYGKWdKsHKvDaV) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf), [Elliott Frazier](https://open.spotify.com/artist/2h5Ha3Cr7HoTCp82TQdUDO) | [Lime](https://open.spotify.com/album/6jRYJfOVHjixKyxZC7ZRSC) | 3:39 | 2022-08-31 | 2022-09-29 |
 | [Lips](https://open.spotify.com/track/05SEi2EuY93D6UHHUSNZGc) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Lips](https://open.spotify.com/album/7Kvgk3FSRAKFKVZrvhNjmy) | 5:10 | 2023-08-23 | 2023-10-21 |
+| [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 | 2023-12-08 |  |
 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 | 2022-12-15 | 2023-06-24 |
 | [Look Around](https://open.spotify.com/track/5cTWjmahOp7R6KGy7cAhmM) | [Blankenberge](https://open.spotify.com/artist/0N9CUdcRxZfnPGAmbkuUrm) | [More](https://open.spotify.com/album/2SywxWP4IsaFO8zo9G3Ogx) | 4:17 | 2021-10-19 | 2022-12-16 |
 | [Look Inward](https://open.spotify.com/track/2AFDrLOL9Q20iJoFXGNdJA) | [Frij](https://open.spotify.com/artist/75OS5bfsxEKbLnU5R8CBup) | [Look Inward](https://open.spotify.com/album/4MNaCFxyLX27nlT6rZmyq5) | 2:54 | 2023-12-01 |  |
@@ -464,6 +468,7 @@
 | [Tropics](https://open.spotify.com/track/3CY0tWgMxRFG3nqfEeip9e) | [Memory Leak](https://open.spotify.com/artist/0i9cI6V5ZvmADyZcqLk8PJ) | [Tropics](https://open.spotify.com/album/24kVxQ6OijMWrEutVDusaI) | 4:18 | 2022-12-12 | 2023-02-22 |
 | [Try Harder Still](https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Life Is Not A Lesson](https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut) | 2:23 | 2021-10-19 | 2023-06-08 |
 | [Two Girls](https://open.spotify.com/track/4MlTLBpeNYRTkjx35eQfMe) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/5K5UsJA8QsC33ozOZkVf8s) | 2:58 | 2021-10-19 | 2022-07-29 |
+| [two\-headed calf](https://open.spotify.com/track/7gQAAeh0cLx0dC6BOBzRIi) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Leave](https://open.spotify.com/album/7L2GG5xoTC62iBNhZyAai7) | 2:53 | 2023-12-08 |  |
 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 | 2021-10-19 | 2023-06-08 |
 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 | 2021-10-19 | 2022-07-29 |
 | [Understand](https://open.spotify.com/track/3XVNM0ZqsEvJbyYmP2FnZi) | [Noirak](https://open.spotify.com/artist/6kGQ40RTUDTtuqeRVeyCMJ), [Tre Flip](https://open.spotify.com/artist/4b6yY9OX4LJMkAKYTGuYna) | [Understand](https://open.spotify.com/album/5NadEnSA0Rgn0TRXMLJeEd) | 3:09 | 2023-12-01 |  |

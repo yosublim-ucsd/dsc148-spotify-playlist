@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Picture Parlour
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,953 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,963 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 99 | [Accidental Doom](https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [Accidental Doom](https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr) | 4:13 |
 | 100 | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/album/53R61BIJ4taXnBztmuLVNH) | 2:18 |
 
-Snapshot ID: `MCw4NjZlZTkyMTBkNjRjY2YwYTYwMzUwOTkxMDYwNGZjNGEzOWUyNTZl`
+Snapshot ID: `MCwwY2I1YTczYmU5MDZlMjMzY2VkY2ZiYmU3ZTE2Nzg4ODAyOTdmOTA0`

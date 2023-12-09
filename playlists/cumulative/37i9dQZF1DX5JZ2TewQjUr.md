@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: erdocia
 
-792 songs - 1 day 20 hr 44 min
+793 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [It's Starting to Rain](https://open.spotify.com/track/34zi4KYkM2Xh4utbUSk0qE) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/5lYKLyu7mfLm2sPRVqRUzP) | 3:33 | 2023-04-13 | 2023-06-01 |
 | [Josh Groove](https://open.spotify.com/track/6a1YjzaPhDWqdAp4KUPkXt) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt), [Bella World](https://open.spotify.com/artist/3XUDJGDts81L0k83qK4Zft) | [Josh Groove](https://open.spotify.com/album/5kCtNE3X8U3OFFHgujnmK9) | 3:46 | 2023-01-19 | 2023-05-26 |
 | [june \(february’s not long ahead\)](https://open.spotify.com/track/1MKkSOM3kebfkMT6lKLwZc) | [loegunn](https://open.spotify.com/artist/4RjEsC8wfSLI9V86HJsLQn) | [june \(february’s not long ahead\)](https://open.spotify.com/album/0xB5mmnFwgW0J5irnKzFqT) | 1:39 | 2022-11-24 | 2023-02-03 |
+| [Just Be A Rock](https://open.spotify.com/track/7G2ftw98tKO5wFf4fdH1Bj) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [Just Be A Rock](https://open.spotify.com/album/4GKatOmxAIFkri4pyAIA24) | 4:39 | 2023-12-07 |  |
 | [kix \- freestyle](https://open.spotify.com/track/6FyYc5GDvi9xFkRigFJ6Wd) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [kix \(freestyle\)](https://open.spotify.com/album/7eBDrjZkiRcbVvpDSVjTpP) | 1:30 | 2023-07-20 | 2023-08-16 |
 | [kix freestyle](https://open.spotify.com/track/2rP3qGaeSmZ4UEio41Oz2l) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [kix freestyle](https://open.spotify.com/album/7BbkF2Ipp4z3XUb5HRRQTf) | 1:30 | 2023-08-10 | 2023-11-03 |
 | [KODC](https://open.spotify.com/track/7Ku0BAVQTzzqqh1i81DbPz) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [Y5](https://open.spotify.com/artist/2wjdv6QcrpyNzdeHoYgcgb) | [KODC](https://open.spotify.com/album/4j9diWkR9TkbpuErvDL82H) | 2:52 | 2023-09-21 |  |

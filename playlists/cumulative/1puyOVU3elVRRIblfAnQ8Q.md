@@ -4,7 +4,7 @@
 
 > Updated Weekly! DC and Hooks selected jams from Deadbeats record label and beyond\. DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-94 songs - 5 hr 30 min
+95 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [The Return](https://open.spotify.com/track/11ExZj9cHne0MDThjBYr4T) | [Bukez Finezt](https://open.spotify.com/artist/7lpT19TLWJN0pPEmUF9FTH), [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [The Return](https://open.spotify.com/album/2TzphoE0G5gnjZIpOSntsv) | 5:29 | 2023-06-21 | 2023-11-09 |
 | [THERMAL](https://open.spotify.com/track/00UfzIW2saDaMq9oJTxt4t) | [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [WRAITH \| THERMAL](https://open.spotify.com/album/6vvGQsvYRr5yk6rbNIzyHN) | 3:28 | 2023-08-11 | 2023-11-09 |
 | [Too Hot To Touch](https://open.spotify.com/track/1ToRXp4PipYcrtHZEsBpU7) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Too Hot To Touch](https://open.spotify.com/album/6ncPlSvBt0Kv9gUoJ44dZn) | 3:47 | 2023-02-12 | 2023-11-09 |
+| [Touch](https://open.spotify.com/track/1l90jvHTkNh9VmOh2LbbeC) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [L8NCY](https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD) | [Touch](https://open.spotify.com/album/6UUxfgFRnORokuQCqEXA1g) | 3:40 | 2023-12-08 |  |
 | [Turn The Tide](https://open.spotify.com/track/7r5s7HP6dJvcQjYrb0ZsoK) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Turn The Tide](https://open.spotify.com/album/1dKucMNWwvFT9BCl5Mts2g) | 3:06 | 2023-09-20 |  |
 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 | 2023-01-11 | 2023-11-09 |
 | [WRAITH](https://open.spotify.com/track/7zxIAyGp8Cq7qY5YLqjIZJ) | [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [WRAITH \| THERMAL](https://open.spotify.com/album/6vvGQsvYRr5yk6rbNIzyHN) | 3:39 | 2023-08-11 |  |

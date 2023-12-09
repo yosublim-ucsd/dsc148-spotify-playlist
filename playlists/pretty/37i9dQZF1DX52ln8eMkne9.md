@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,465 likes - 180 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,610 likes - 180 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 179 | [Sweet Kentucky Ham](https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Listen Here](https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD) | 5:41 |
 | 180 | [Some Other Time](https://open.spotify.com/track/6OCapkDSgkM1Nv2gOz9E29) | [Johanna Linnea Jakobsson](https://open.spotify.com/artist/69am8UyQyXz2KgO2bnxkfP) | [Some Other Time](https://open.spotify.com/album/2ZUrlorLVAPZVxEv06G3fD) | 5:23 |
 
-Snapshot ID: `MCwxOGMwN2RjN2IxZmYzOTFhNWFmN2RhNDliMDcwNDY1ZTEzMDlmNGU1`
+Snapshot ID: `MCw1YTA2Yjg4MTI4MDU3M2RiOWJlNzI5Mzc4MzFlNjYyYzQzNjQwZjA4`

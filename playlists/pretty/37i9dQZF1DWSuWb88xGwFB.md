@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,749 likes - 75 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,768 likes - 75 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Everybody Dance \(M.A.S\. Club Vocal\)](https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Everybody Dance](https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS) | 7:59 |
 | 75 | [In Da Clouds \(Da Dub\)](https://open.spotify.com/track/7iKcjAQmWCTSEOKiL2krbm) | [Sneak Essentials](https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K) | [In Da Clouds](https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun) | 8:38 |
 
-Snapshot ID: `MCw3NDRjYWFiNmMxNGM2ZGYxYzczMzMyMzJjNmY1ODY4NzJhYjEzZTk1`
+Snapshot ID: `MCxlMGEwZjEyMThhZWRjZDRmZmNlNTdlMWI4NjNlZWFjMmVhMzAwYjgx`

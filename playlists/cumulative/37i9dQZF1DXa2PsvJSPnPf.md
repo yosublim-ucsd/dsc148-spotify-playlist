@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-211 songs - 13 hr 9 min
+212 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Poor Lost Souls](https://open.spotify.com/track/4E7j3KHM7hCLrgEa1UF6MW) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Poor Lost Souls](https://open.spotify.com/album/3ZFe34ht2OPadmjKbAVT1v) | 4:16 | 2022-05-16 | 2022-11-13 |
 | [Poor Lost Souls](https://open.spotify.com/track/5saHD81HEsU6vCO07JJyVB) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [These 13](https://open.spotify.com/album/5e7me68eSPsVkbQoGdpEkh) | 4:16 | 2022-05-16 |  |
 | [Red Bird Morning](https://open.spotify.com/track/6dZueQyPiXXlvhSZuOQ0IY) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 3:13 | 2021-11-19 |  |
+| [Rhododendron \- Alt Version](https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron \(Alt Version\)](https://open.spotify.com/album/59EGA2TGxXHE6lVXFnybKp) | 5:22 | 2023-12-08 |  |
 | [Road to Avalon](https://open.spotify.com/track/0iQMKwNdYXGWRW9bS7yoKf) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Click Click Domino](https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq) | 4:36 | 2021-11-19 |  |
 | [Rocking Chair Blues](https://open.spotify.com/track/1yMfoWCHtOEH2b5LzzPyJF) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:15 | 2022-05-16 |  |
 | [Rocking Chair Blues](https://open.spotify.com/track/5FvVQ8Z1BMEr9ddaFdvd8I) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/6jYi08JB6JIvQu1Rhuf1HO) | 4:18 | 2021-11-19 | 2022-07-29 |

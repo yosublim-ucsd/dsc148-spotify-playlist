@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Arlo Parks
 
-306 songs - 16 hr 37 min
+308 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Into You](https://open.spotify.com/track/6qbkhCaiIvU2fCEbUeZ4KW) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Cherri V](https://open.spotify.com/artist/1I8ac7F9m1rf0KT3l1iAiP) | [Into You](https://open.spotify.com/album/4ph7aQr7TBj4CHxSUf5sXj) | 4:15 | 2023-10-19 |  |
 | [Into You](https://open.spotify.com/track/497AWVm2pmy8yfB6kdLXkL) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Cherri V](https://open.spotify.com/artist/1I8ac7F9m1rf0KT3l1iAiP), [Mo Hausler](https://open.spotify.com/artist/3guLjrFJ3vivD0E6L2bbHV) | [Into You](https://open.spotify.com/album/3oY8hVG88vEFLywJyLDnSO) | 4:15 | 2023-10-19 | 2023-10-21 |
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-13 | 2023-11-17 |
-| [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6VWxLcnrLGJDE6Cr4nm0lW) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/album/4HORf4RtMyCUu5FIQ6pEsS) | 3:23 | 2023-11-09 |  |
+| [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/track/3RlcyNhoM8zAEL32RF6axe) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [ROCK PAPER SCISSORS: RECUT](https://open.spotify.com/album/62ZENIIyJs5LzzG2nOdHR1) | 3:23 | 2023-12-07 |  |
+| [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6VWxLcnrLGJDE6Cr4nm0lW) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/album/4HORf4RtMyCUu5FIQ6pEsS) | 3:23 | 2023-11-09 | 2023-12-09 |
 | [Jaded](https://open.spotify.com/track/2tOKvbh5xgVrTRb3bky67e) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW) | [Jaded](https://open.spotify.com/album/7xVpDUKwlY1VGo4DaUTOiS) | 3:09 | 2023-11-23 | 2023-12-08 |
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-15 | 2023-08-18 |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-17 |  |
@@ -309,6 +310,7 @@
 | [Wrong Hands](https://open.spotify.com/track/7lP071DicbJJgF3VU8vCkw) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Wrong Hands](https://open.spotify.com/album/4v5bS7FUVnI04SH8JIZOh5) | 3:09 | 2023-06-08 | 2023-11-03 |
 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 | 2023-03-16 | 2023-05-05 |
 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 | 2023-09-21 |  |
+| [You 2 Thank](https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/770NPIetbye6vd31ZDuG09) | 2:44 | 2023-12-07 |  |
 | [You and I](https://open.spotify.com/track/1aVgW7yEcfzVL3Y82mbwsu) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Smithsoneon](https://open.spotify.com/artist/2jQda3HMB8jz71liefcP9g) | [銀平町シネマブルース オリジナルサウンドトラック](https://open.spotify.com/album/7n4rZizWt86V6jDkDdVXUD) | 3:26 | 2023-03-16 | 2023-08-18 |
 | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/track/3V5WQGwq4PuaNHetIhTDbp) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [北里彰久](https://open.spotify.com/artist/6XwlOVm6zIIx9ZdSHnLOHu), [Alfred Beach Sandal](https://open.spotify.com/artist/1H2KvPR75UUpoQpRcnvn1I) | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/album/5DX3feFVO0hzjPE0Bzj3Wh) | 4:24 | 2023-11-23 |  |
 | [恋をして \- Acoustic Version](https://open.spotify.com/track/0fS8cXptl4Y2uWtkMEGBee) | [Ai Ninomiya](https://open.spotify.com/artist/0OOnu30xEhyLoBZ3pPPVu8) | [恋をして \(Acoustic Version\)](https://open.spotify.com/album/0HP0RkqQbEKWvQO1rjbet8) | 2:52 | 2023-11-30 |  |

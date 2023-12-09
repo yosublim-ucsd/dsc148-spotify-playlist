@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: <a href=\"spotify:artist:60qPt9fHjiHFrA0fgpPwac\">Omar Rodriguez</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Nacho x Gilberto Daza x Alex Zurdo Foto: <a href=\"spotify:artist:6pdXxGaaEGf7huw3C6fz6a\">Gilberto Daza,</a> <a href=\"spotify:artist:2ayNSoKPCRAfjp6hQ76hRu\">Nacho,</a> <a href=\"spotify:artist:0WI8OfWCRvK4nGHmKfFQmd\">Alex Zurdo</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -799,6 +799,32 @@
     },
     {
       "album": {
+        "name": "Am\u00e9n",
+        "url": "https://open.spotify.com/album/4hq3lJ31SDyRv77CyIhkQL"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208738,
+      "name": "Am\u00e9n",
+      "url": "https://open.spotify.com/track/2lgIUOpqLN1UkuL0FPtx8b"
+    },
+    {
+      "album": {
         "name": "Am\u00e9n (with Kirk Franklin)",
         "url": "https://open.spotify.com/album/5AXZRreDc5jDfq1OFldEZL"
       },
@@ -1282,7 +1308,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 281945,
       "name": "Bello Jes\u00fas",
       "url": "https://open.spotify.com/track/6dj56LrLWhITcqkffJxI9s"
@@ -1568,7 +1594,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 217541,
       "name": "Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/21fZyhHx1Xtc0uWn6g29CX"
@@ -2626,7 +2652,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 222595,
       "name": "Darme",
       "url": "https://open.spotify.com/track/2KWikIPxp0z7wD6NIOlNvD"
@@ -3320,7 +3346,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 233200,
       "name": "El Cielo A\u00fan Espera",
       "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
@@ -4070,6 +4096,24 @@
       "duration_ms": 203960,
       "name": "Escalera al Cielo",
       "url": "https://open.spotify.com/track/3JVBxiYfwoeOpEaYJfQDSO"
+    },
+    {
+      "album": {
+        "name": "Cuatro De Mil Canciones (En Vivo)",
+        "url": "https://open.spotify.com/album/575hskopo7G2nAaIGjRlQz"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267200,
+      "name": "Escribir\u00e9 Mil Canciones - En Vivo",
+      "url": "https://open.spotify.com/track/55TUouCJcLtMv48ICfl2Z2"
     },
     {
       "album": {
@@ -8628,6 +8672,24 @@
       "duration_ms": 185361,
       "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
       "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
+    },
+    {
+      "album": {
+        "name": "Siempre que me mires",
+        "url": "https://open.spotify.com/album/3knmq4NaWuetopY1eSsLH3"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560624,
+      "name": "Siempre que me mires",
+      "url": "https://open.spotify.com/track/11Pt5mS9HuvdDBTjWNg9k9"
     },
     {
       "album": {

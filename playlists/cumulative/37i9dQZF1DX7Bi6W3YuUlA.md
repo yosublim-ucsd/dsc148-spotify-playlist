@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-368 songs - 18 hr 25 min
+369 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [CECE](https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [CECE](https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH) | 2:22 | 2022-05-28 |  |
 | [Change The Channel](https://open.spotify.com/track/5CSmjkOlfKgu2TfTkAKm0D) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Change the Channel](https://open.spotify.com/album/7BsU7piQMlUAv8MZ6IvaiW) | 4:30 | 2021-12-11 | 2022-07-29 |
 | [Chasing\_\(Demo\)](https://open.spotify.com/track/4f80SteKqaB6M2JytEUrwT) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Mikayla Sippel](https://open.spotify.com/artist/4XRSNOy4w4E4euNeu3aIfr) | [Chasing\_\(Demo\)](https://open.spotify.com/album/1wo8JeDRslm23n6rqpb3jk) | 3:01 | 2021-12-11 | 2022-04-16 |
-| [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-03-25 |  |
+| [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-03-25 | 2023-12-09 |
+| [Child of God](https://open.spotify.com/track/4N7NekylBrZjnGQmitWo6k) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/4Zuof4EsJMgxsi7iGAQ1wJ) | 4:15 | 2023-02-18 |  |
 | [Child of the King](https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Child of the King](https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi) | 1:41 | 2022-11-18 |  |
 | [Chokehold](https://open.spotify.com/track/4zSSSXwurah8BSvbKlH5vc) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC) | [Chokehold](https://open.spotify.com/album/7FUSpmEDLyQlhvtDT2v5sE) | 2:14 | 2022-11-18 | 2023-01-20 |
 | [Church House Trap House](https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2) | [Church House Trap House](https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx) | 2:18 | 2022-11-18 | 2023-08-27 |

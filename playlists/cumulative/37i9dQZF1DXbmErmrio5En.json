@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-06",
-  "description": "saturation, distortion, feedBack. ft. Riovaz",
+  "description": "saturation, distortion, feedBack. ft. bixby",
   "name": "feedBack",
   "tracks": [
     {
@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "bounty",
+        "url": "https://open.spotify.com/album/0VHaKFRIkracVMCyzw8y7E"
+      },
+      "artists": [
+        {
+          "name": "Jay Kim",
+          "url": "https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "bounty",
+      "url": "https://open.spotify.com/track/76nPwPy3z57UlFiLTWUKS7"
+    },
+    {
+      "album": {
         "name": "boythots",
         "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
       },
@@ -996,6 +1014,24 @@
       "duration_ms": 192951,
       "name": "CAROLINE",
       "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
+    },
+    {
+      "album": {
+        "name": "castle in the woods song",
+        "url": "https://open.spotify.com/album/6FCltUoh0A8nBBSlEibOkl"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121318,
+      "name": "castle in the woods song",
+      "url": "https://open.spotify.com/track/1EBHLTCDBFwuHVhrtq6H1z"
     },
     {
       "album": {
@@ -1675,6 +1711,60 @@
     },
     {
       "album": {
+        "name": "disavow",
+        "url": "https://open.spotify.com/album/2PpZamHCU2LmUHo2Sv1JPb"
+      },
+      "artists": [
+        {
+          "name": "ghostsocial",
+          "url": "https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136226,
+      "name": "disavow",
+      "url": "https://open.spotify.com/track/0xXw3fZmE7EJ5tBlkYwL6a"
+    },
+    {
+      "album": {
+        "name": "digilogue",
+        "url": "https://open.spotify.com/album/6W0ve31JhA8wFuLoKbYZTe"
+      },
+      "artists": [
+        {
+          "name": "Braden Ross",
+          "url": "https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "discarded",
+      "url": "https://open.spotify.com/track/1g7guvTTxW9tHwc5Qu74rJ"
+    },
+    {
+      "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/7qJKkYuJJ5xcLxq9rqNDlJ"
+      },
+      "artists": [
+        {
+          "name": "Zayuh",
+          "url": "https://open.spotify.com/artist/1AOUCMkVCOAcW0tbUXwDQB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84480,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/7KbzSmMnizGMv73yXiqZyz"
+    },
+    {
+      "album": {
         "name": "EVEN IF",
         "url": "https://open.spotify.com/album/1rFxsnEzfqRYzm9LNcgouz"
       },
@@ -1752,6 +1842,24 @@
       "duration_ms": 159198,
       "name": "Dont Let Me Go",
       "url": "https://open.spotify.com/track/5QphdQKKWbU78UmvW4GlTH"
+    },
+    {
+      "album": {
+        "name": "don\u2019t make me",
+        "url": "https://open.spotify.com/album/1iUfn8Ks1M2ii1jezwFB2D"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125124,
+      "name": "don\u2019t make me",
+      "url": "https://open.spotify.com/track/0wBfb0s2HNxLN6qSJYuT8p"
     },
     {
       "album": {
@@ -2250,6 +2358,24 @@
       "duration_ms": 166266,
       "name": "fuzz",
       "url": "https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG"
+    },
+    {
+      "album": {
+        "name": "get it together !",
+        "url": "https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "get it together !",
+      "url": "https://open.spotify.com/track/55M402rjWXPIBjtZ48X5xm"
     },
     {
       "album": {
@@ -3527,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "for the hell of it",
+        "url": "https://open.spotify.com/album/5tuRJA0jYlArO69f7lhCCK"
+      },
+      "artists": [
+        {
+          "name": "Zac Greer",
+          "url": "https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117299,
+      "name": "loser",
+      "url": "https://open.spotify.com/track/07FL8cDV9O80vETGlPbTrn"
+    },
+    {
+      "album": {
         "name": "Bloom To Death",
         "url": "https://open.spotify.com/album/6ct86pPO357pAhxA3SrA3x"
       },
@@ -3542,6 +3686,46 @@
       "duration_ms": 204521,
       "name": "losin' it",
       "url": "https://open.spotify.com/track/3izUvtPn0LV3ncLaALAjjh"
+    },
+    {
+      "album": {
+        "name": "Losin' It",
+        "url": "https://open.spotify.com/album/6lG8rMM0hzrMdJK1NMq2a0"
+      },
+      "artists": [
+        {
+          "name": "Frozzy",
+          "url": "https://open.spotify.com/artist/4XYJlpSr1IeffnUoLBKYXh"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201116,
+      "name": "Losin' It",
+      "url": "https://open.spotify.com/track/2e8oOYeyZnYDZOOsNOR8mj"
+    },
+    {
+      "album": {
+        "name": "love actually",
+        "url": "https://open.spotify.com/album/1fUur5inyyEv2409GWO4SF"
+      },
+      "artists": [
+        {
+          "name": "4cf",
+          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
+        },
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "love actually",
+      "url": "https://open.spotify.com/track/3gAKZ4Oc2u5wXsQVor2ytS"
     },
     {
       "album": {
@@ -4570,10 +4754,28 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 93719,
       "name": "recluse",
       "url": "https://open.spotify.com/track/2Vgp8Ah9NuTTKDfQykl0f8"
+    },
+    {
+      "album": {
+        "name": "Recluse",
+        "url": "https://open.spotify.com/album/59kHbqqRiCkkw1x5dul1LG"
+      },
+      "artists": [
+        {
+          "name": "kaido",
+          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93719,
+      "name": "Recluse",
+      "url": "https://open.spotify.com/track/3cJh7SldK4a4AGCtxonwLa"
     },
     {
       "album": {
@@ -4845,6 +5047,32 @@
     },
     {
       "album": {
+        "name": "sheep",
+        "url": "https://open.spotify.com/album/16yEDTVbS0kNMxqhmjSL6S"
+      },
+      "artists": [
+        {
+          "name": "I'm Geist",
+          "url": "https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy"
+        },
+        {
+          "name": "oc",
+          "url": "https://open.spotify.com/artist/6e0A38lng3gwUehNIeSm3G"
+        },
+        {
+          "name": "heylog",
+          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214389,
+      "name": "sheep",
+      "url": "https://open.spotify.com/track/47LQYTkU1i3Xr5NYEVlTRd"
+    },
+    {
+      "album": {
         "name": "ShoulderBlades",
         "url": "https://open.spotify.com/album/3BTJdS4xG8Pah4MkBJEukW"
       },
@@ -4910,7 +5138,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 132187,
       "name": "Sierra Echo X-Ray",
       "url": "https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG"
@@ -4950,6 +5178,24 @@
       "duration_ms": 200431,
       "name": "skin",
       "url": "https://open.spotify.com/track/4D15H9FTw5zG1dMMBfQD1e"
+    },
+    {
+      "album": {
+        "name": "bozo",
+        "url": "https://open.spotify.com/album/6QPWhFVMnKUSJRpC1HVT9E"
+      },
+      "artists": [
+        {
+          "name": "Perto",
+          "url": "https://open.spotify.com/artist/2mJFvqmuu604a4BwGllJQV"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123120,
+      "name": "sleep it off",
+      "url": "https://open.spotify.com/track/3Iy6vtfOtkezdCK58nbFBe"
     },
     {
       "album": {
@@ -6082,7 +6328,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 203600,
       "name": "used to it",
       "url": "https://open.spotify.com/track/6898221Y4h68YsprveSQyE"

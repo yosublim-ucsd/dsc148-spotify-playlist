@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-362 songs - 20 hr 54 min
+363 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Do Re Mi](https://open.spotify.com/track/2EvyQsmsVGfDh2sEG8Myhy) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Do Re Mi](https://open.spotify.com/album/6H8u5r6t7U24FN1qFnPTfq) | 2:41 | 2022-01-28 |  |
 | [Do That for You](https://open.spotify.com/track/6nxRxeYjAKJfwtWGO1CtjO) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Life In Colour](https://open.spotify.com/album/36zNWjjmLyBcqEGGmKuO5O) | 3:23 | 2021-12-03 | 2022-11-13 |
 | [Does Anybody Know](https://open.spotify.com/track/5VFStg36hHvBLBs1Bk52Sb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Does Anybody Know](https://open.spotify.com/album/6RUMsYj6QVzmiQ2LPa5LLk) | 3:28 | 2021-12-03 | 2022-07-29 |
-| [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 | 2023-09-22 |  |
+| [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 | 2023-09-22 | 2023-12-09 |
 | [Domino](https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:03 | 2021-12-03 | 2023-01-21 |
 | [Don't Ask Why](https://open.spotify.com/track/6uBng5HDOCh0Y9fufxmVyN) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Don't Ask Why](https://open.spotify.com/album/2dV6Cph8TmEvU7qApCq5Ze) | 3:15 | 2022-03-04 | 2023-04-01 |
 | [Don't I Make It Look Easy](https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Don't I Make It Look Easy](https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1) | 2:34 | 2022-09-09 | 2023-02-16 |
@@ -138,6 +138,7 @@
 | [Hello Love \- Edit](https://open.spotify.com/track/1tpcELwRo7bxRfCr0xspqy) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Hello Love \(Edit\)](https://open.spotify.com/album/0OAyBoFCVvjg4s4UPLZOip) | 3:07 | 2023-10-27 |  |
 | [Hero](https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 3:19 | 2021-12-03 | 2023-01-28 |
 | [Hey Dreamer](https://open.spotify.com/track/69CMvfnwh6nfmxJDWHWCTN) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Let Yourself Be Loved \(Deluxe Edition\)](https://open.spotify.com/album/7ByoyhgJv2ZtItu6gvLRjM) | 3:39 | 2021-12-03 | 2022-07-29 |
+| [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-12-01 |  |
 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 | 2022-09-23 |  |
 | [Hold Tight](https://open.spotify.com/track/5ufN0FRT3UQXRSq0Ibhbv6) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Brand New](https://open.spotify.com/album/5ZrQWNbnlihJmSmarwa6Nk) | 3:51 | 2021-12-03 | 2022-07-29 |
 | [Holding Pattern](https://open.spotify.com/track/2GkP3qhi30r83OjSzvfIlb) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Boy](https://open.spotify.com/album/5R4MKy2TupcljTY07AcAWv) | 3:56 | 2022-04-29 |  |

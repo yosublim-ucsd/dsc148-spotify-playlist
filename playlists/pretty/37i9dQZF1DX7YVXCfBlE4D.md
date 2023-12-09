@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,096 likes - 164 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,213 likes - 164 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 163 | [Dame Mi Corazón \- Bolero](https://open.spotify.com/track/1wv0V9bXlxGOcu32HuIdTM) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Sonora Santanera \- Luces De New York](https://open.spotify.com/album/1LylU3ubmE1EE5giv9NTqm) | 3:01 |
 | 164 | [Pena Negra](https://open.spotify.com/track/2RxY7nzk3Enn39Ahf2vjbW) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:58 |
 
-Snapshot ID: `MCwwZjVkMTI0N2MxY2FjZWQ1OGZlMDRiM2VmYThkOTcxNWU4Yzk5ZjUy`
+Snapshot ID: `MCwzOTY3MDRhNTcwYWZmYjgwMjA0Nzk3NTQwZTdmMDFjYmViMzA1MDQ4`

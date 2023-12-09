@@ -1510,7 +1510,7 @@
     {
       "album": {
         "name": "A New Decade",
-        "url": "https://open.spotify.com/album/74OTp7REGaYuxV3On4hHLm"
+        "url": "https://open.spotify.com/album/4VOgerUKF1flW6PupyI1Y6"
       },
       "artists": [
         {
@@ -1525,6 +1525,28 @@
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bring The Fire",
+      "url": "https://open.spotify.com/track/3ltWDlBkU2UNdS7rbQVTRP"
+    },
+    {
+      "album": {
+        "name": "A New Decade",
+        "url": "https://open.spotify.com/album/74OTp7REGaYuxV3On4hHLm"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
       "duration_ms": 192000,
       "name": "Bring The Fire",
       "url": "https://open.spotify.com/track/77s5PJsYbv9wkTBNSbI5EI"

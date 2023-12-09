@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Broken Man",
+        "url": "https://open.spotify.com/album/4ak7jsBetqx6PmFdC7pvzU"
+      },
+      "artists": [
+        {
+          "name": "Seth Anthony",
+          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
+        },
+        {
+          "name": "Hard Target",
+          "url": "https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165122,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/2jUDn3jZB1WVY2NlM6Ei6W"
+    },
+    {
+      "album": {
         "name": "BUCKLE BUNNY",
         "url": "https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS"
       },

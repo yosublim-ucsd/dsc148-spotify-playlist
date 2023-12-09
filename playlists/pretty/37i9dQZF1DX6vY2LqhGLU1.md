@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,313 likes - 150 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,569 likes - 150 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 149 | [Silent Night](https://open.spotify.com/track/4vgPZaZf6mZib4FO0KBsqY) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cassia & Myrrh](https://open.spotify.com/artist/5gQZwYs3GNecx5mXkWEoV9) | [Silent Night](https://open.spotify.com/album/2Y8WECLIhD8EvAexL4STpB) | 3:17 |
 | 150 | [Christmas Is Love](https://open.spotify.com/track/7rkwhWKsDxbW3k1p2rMHaS) | [Jonathan Cain](https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i) | [Christmas Is Love](https://open.spotify.com/album/2LDOgikaliBkpRgRxg3Gu4) | 4:35 |
 
-Snapshot ID: `MCwxYTkxZjIyOWMyOWYwYTRkYTQ3NWJjNWQ3NmFjYTk4NzdlMzdjNDU1`
+Snapshot ID: `MCxhNzZhMmU3YWRiZjc3NjUwNzZiY2EyZDJlMThjNjNmMGE5ODllNDMx`

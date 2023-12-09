@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The top 50 tracks from Fresh Finds GSA in 2023\. Cover: Carla Ahad, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,323 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,356 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 11 | [Gauner](https://open.spotify.com/track/6pfE8i093hLxYENf3PIYyA) | [nobis](https://open.spotify.com/artist/5V07yXXoS30EGWsRSbY7vC) | [Gauner](https://open.spotify.com/album/73VjifTBTVOrpLJsOsjycL) | 3:41 |
 | 12 | [Backseat Dreams](https://open.spotify.com/track/7ymGUcvRGJKJzQnw7tJBtI) | [Margo](https://open.spotify.com/artist/5qGyCigKI60uP8GxQXyIer) | [Backseat Dreams](https://open.spotify.com/album/6sFkRtqFK5wjr3xFemAeLu) | 3:15 |
 | 13 | [spiel](https://open.spotify.com/track/15eanqdJlpD7rz5o1aTN6O) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv) | [spiel](https://open.spotify.com/album/6OyeNw5pm3Immt9nZ9PKvO) | 2:56 |
-| 14 | [Love the game](https://open.spotify.com/track/71xizzTz1gW1vyvAaFuSqm) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Burnout \(Bonustrack Version\)](https://open.spotify.com/album/1wv9wqL30lctVOaZq3pKEb) | 2:41 |
+| 14 | [Love the game](https://open.spotify.com/track/71xizzTz1gW1vyvAaFuSqm) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Burnout](https://open.spotify.com/album/1wv9wqL30lctVOaZq3pKEb) | 2:41 |
 | 15 | [Death of Me](https://open.spotify.com/track/3RMan0n6vZvlj5rzZNtJIa) | [Zouj](https://open.spotify.com/artist/2YsUJXkWJgXeuma5IB9lmo), [Sahareya](https://open.spotify.com/artist/64CTTiZ9WyuvbCtXdkuhou) | [Death of Me](https://open.spotify.com/album/3UdOuMDtIMUXcLbXPEdre3) | 2:36 |
 | 16 | [Conversations Pt\. 1](https://open.spotify.com/track/65ze2N5uaFTZ0nEjPOlHvm) | [Tiger Tiger](https://open.spotify.com/artist/7KzFtKKM85VthpSH8QCvjH), [MADANII](https://open.spotify.com/artist/1RzGXB2manO8IeUxrPSG4f) | [Conversations Pt\. 1](https://open.spotify.com/album/6uqTYt7gVa0okOWbe4gEoq) | 2:14 |
 | 17 | [Was Ich mag](https://open.spotify.com/track/53kVoU7QjCAkQIt8oVdzbb) | [OSAYA](https://open.spotify.com/artist/0yVE7U8fmzPPnmHdb8TMxn) | [Was Ich mag](https://open.spotify.com/album/4nEPzFyrJXFlSse67SgNSK) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Glanz und Schimmer](https://open.spotify.com/track/3jyay81l2lnGWBPUsaNr9C) | [Absteige](https://open.spotify.com/artist/4rHMr7f5ejRK5PMhkH9n4L) | [Glanz und Schimmer](https://open.spotify.com/album/73SEy6GWwOtB6ffg4cY09Z) | 3:21 |
 | 50 | [Leeres Haus](https://open.spotify.com/track/4nsodT0Ifmgjwq2MRidCJv) | [Kind](https://open.spotify.com/artist/17xOXfjwwBku3bnlraoLDI) | [Leeres Haus](https://open.spotify.com/album/5YJYw9FLIixneYORcZPuje) | 4:56 |
 
-Snapshot ID: `MCwwMGRhZmYyNTJkN2ZmNDNkMTFkYWM2ODdmNDRjZmRlMjdlYzZjYjMx`
+Snapshot ID: `MCxjMDQ4MGRlODE0ZTU3YjdhMmMwOGQzOGVjYWI3NDE0NDhiODAwZWY4`

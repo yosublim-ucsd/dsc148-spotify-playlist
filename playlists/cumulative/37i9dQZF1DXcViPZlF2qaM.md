@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-238 songs - 14 hr 57 min
+239 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Aprende](https://open.spotify.com/track/2GV9PDa2ffhzQlU6mCPb0W) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Aprende](https://open.spotify.com/album/0GElB4fiPYXZqCHQIJ2UH3) | 3:53 | 2023-03-22 | 2023-05-13 |
 | [Arriba](https://open.spotify.com/track/33aGNyx04gkQseZ4hsTGxt) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Perlas & Conchas](https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo) | 2:57 | 2023-04-01 |  |
 | [Ay!, Contigo Amor](https://open.spotify.com/track/4o6iM3GLqN8xAil8BSCu2V) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [Con Ritmo en la Sangre \(En Vivo\)](https://open.spotify.com/album/2U1NoLh0Vi3iuMgcJSYno5) | 4:50 | 2021-10-16 | 2022-07-24 |
-| [Bachata Rosa](https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:06 | 2023-08-02 |  |
+| [Bachata Rosa](https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:06 | 2023-08-02 | 2023-12-09 |
 | [Baja a la Tierra \(feat\. Lila Downs\)](https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Bi](https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483) | 3:22 | 2022-04-23 |  |
 | [Be True to Me \- Sabor a Mi \- Versión Bilingüe](https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Be True to Me \- Sabor a Mi \(Versión Bilingüe\)](https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx) | 3:09 | 2022-03-30 |  |
 | [Bocadito](https://open.spotify.com/track/65RtPQhhs5tHO41skjySmV) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Bocadito](https://open.spotify.com/album/0SqDdPzU0ZW9RBLUSNiXZi) | 2:59 | 2023-01-02 | 2023-05-13 |
@@ -204,6 +204,7 @@
 | [Si Me Matan](https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 4:10 | 2022-09-26 | 2022-10-29 |
 | [Si Supieras](https://open.spotify.com/track/7n3UQcMAUm8wFdAWz1RrHo) | [Chalanes del Amor](https://open.spotify.com/artist/1bRwLJQkhtCpWz5YHxPCJK) | [Ritmos de Acercamiento](https://open.spotify.com/album/5uUkISvym9YcOcYl3cQ0IS) | 4:06 | 2021-10-16 | 2022-07-24 |
 | [Silbad el Calipso](https://open.spotify.com/track/2DGQV7LsGjDOvIY3FV7Ff1) | [Axel Krygier](https://open.spotify.com/artist/5wwTGwXSRQJ1te7xnwFtEF) | [Echale Semilla](https://open.spotify.com/album/1nar2io4BaeUwWxyfJb1Zl) | 3:28 | 2021-10-16 | 2022-07-28 |
+| [Silencio](https://open.spotify.com/track/7fEJ3BTR7OsNVeTylr3NsL) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI) | 4:38 | 2021-10-16 |  |
 | [Silencio](https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:38 | 2021-10-16 | 2023-11-11 |
 | [Socorro Auxilio](https://open.spotify.com/track/4I3clfnZyxLFWfod4WhyWR) | [Germán Fernando](https://open.spotify.com/artist/2gtUgpWvB8pMUuLj9vGcds) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1ADKGt7i1rGDNPjiZscJV4) | 3:27 | 2021-10-16 | 2022-07-24 |
 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 | 2021-10-16 |  |

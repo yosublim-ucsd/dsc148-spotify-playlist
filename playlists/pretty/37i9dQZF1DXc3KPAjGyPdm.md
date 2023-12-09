@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,118,855 likes - 198 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,115,651 likes - 198 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 34 | [Sentinels](https://open.spotify.com/track/3E4XQO8bKIToXTejc8LFGb) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [Sentinels](https://open.spotify.com/album/32ywMGWzAyULcYnvYkfmkC) | 5:21 |
 | 35 | [Got Your Number](https://open.spotify.com/track/5PD49jBpJNs9lGk9Bn9zll) | [The Lloyd Langton Group](https://open.spotify.com/artist/1TmoiS0yjPl2CLrQjzSYj2) | [Night Air](https://open.spotify.com/album/4WSzQR3Z2ulVnaEsCEG6YU) | 3:34 |
 | 36 | [Fever](https://open.spotify.com/track/7w8MExakpbdxhVLos6ccRu) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 4:19 |
-| 37 | [Diamonds and Emeralds](https://open.spotify.com/track/6bCfV7wKPLwm5tUyPaqw3M) | [The Interior Castle](https://open.spotify.com/artist/2m66QeGFylLKqDKSFFqqWA) | [Diamonds and Emeralds](https://open.spotify.com/album/49D3DbM8VSb3XX9jjnbBrS) | 2:53 |
+| 37 | [Diamonds and Emeralds](https://open.spotify.com/track/6bCfV7wKPLwm5tUyPaqw3M) | [The Interior Castle](https://open.spotify.com/artist/6LT5GjsH2RxSnLNPW1Bq1N) | [Diamonds and Emeralds](https://open.spotify.com/album/49D3DbM8VSb3XX9jjnbBrS) | 2:53 |
 | 38 | [Burning Up](https://open.spotify.com/track/0kbzNl8QIYZ6aoZ7zcpNCY) | [Donnell Pitman](https://open.spotify.com/artist/4i5Og2hJZsM7zDX4Msj8Zk) | ["Burning Up" b/w "A Taste of Honey"](https://open.spotify.com/album/0ajbhthTqbrjGkV7mvY6JN) | 4:21 |
 | 39 | [Legless](https://open.spotify.com/track/2sD2NNgnmxfKeyjNsgavMu) | [Hipbone Slim](https://open.spotify.com/artist/0kkbkFZL2gP8zgX3LNIzyS) | [Hipbone Slim vs Sir Bald](https://open.spotify.com/album/5PwsJwBt8rfDKA8qEbAlYp) | 2:02 |
 | 40 | [Nina, o sia la Pazza per Amore: Il mio ben quando verrà](https://open.spotify.com/track/7dOMjJNfEyfgCoFDILc6ar) | [Giovanni Paisiello](https://open.spotify.com/artist/11RfnL7BO42Nm3MzSB5QDa), [Cecilia Bartoli](https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na), [György Fischer](https://open.spotify.com/artist/7dWuGG0jn90EWtzJDoGIzB) | [Cecilia Bartoli \- Arie Antiche: Se tu m'ami](https://open.spotify.com/album/6K4I2VmJYqTjMbiC0fxqGZ) | 6:37 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 197 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 198 | [Eight Fifteen](https://open.spotify.com/track/7bocrcIvqXs0tBFM5VI6Rf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:25 |
 
-Snapshot ID: `MCw1Nzc4MTIzYWQ4NjgzM2UyNGU5ZTNhNWQ0NGNjZDA2NjBmMzkxNWI0`
+Snapshot ID: `MCxlNGY4N2Q4YjVkNTc4ZWUwMjExNDk3ZmFhY2I2MWM4MThlZjBiY2Ri`

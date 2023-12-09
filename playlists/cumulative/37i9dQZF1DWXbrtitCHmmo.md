@@ -2,7 +2,7 @@
 
 ### [Fiesta 2000era](https://open.spotify.com/playlist/37i9dQZF1DWXbrtitCHmmo)
 
-> ¡De vuelta a los 2000s con los mejores éxitos! Belanova en portada.
+> ¡De vuelta a los 2000s con los mejores éxitos! Shakira en portada.
 
 62 songs - 3 hr 45 min
 

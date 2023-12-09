@@ -2,7 +2,7 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Tom Odell
+> The best in folk & acoustic today featuring music from Paris Paloma
 
 480 songs - 1 day 5 hr 49 min
 

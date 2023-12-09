@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 233777,
       "name": "Monte Fuji",
       "url": "https://open.spotify.com/track/2rUOSo8ttuETxWH1CqulhS"
@@ -1858,6 +1858,28 @@
       "duration_ms": 248615,
       "name": "Supremac\u00eda - Niguiri Sessions",
       "url": "https://open.spotify.com/track/0bbjRIKri8tDonziX4GIsw"
+    },
+    {
+      "album": {
+        "name": "S\u00fabete",
+        "url": "https://open.spotify.com/album/165o9uGgipzLXM0QFz2bzE"
+      },
+      "artists": [
+        {
+          "name": "C-Funk",
+          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "S\u00fabete",
+      "url": "https://open.spotify.com/track/7DhJiiZcX2DYMpq1f5vZBa"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Fadhilah Intan",
+  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Nadhif Basamalah",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -254,6 +254,28 @@
       "duration_ms": 220800,
       "name": "Ampun",
       "url": "https://open.spotify.com/track/2ZDXgMWQCKiQbti8GkH6rd"
+    },
+    {
+      "album": {
+        "name": "Anak Helang",
+        "url": "https://open.spotify.com/album/1omCdeVzKlTxQuxLCsNhxo"
+      },
+      "artists": [
+        {
+          "name": "Ezra Kairo",
+          "url": "https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH"
+        },
+        {
+          "name": "Saixse",
+          "url": "https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141849,
+      "name": "Anak Helang",
+      "url": "https://open.spotify.com/track/4bGng9M5rKzoVdPed0b9Rb"
     },
     {
       "album": {
@@ -1899,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Hanya Kamu",
+        "url": "https://open.spotify.com/album/1qNZJhr764qUgH3S665Z6R"
+      },
+      "artists": [
+        {
+          "name": "Nabila Razali",
+          "url": "https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "Hanya Kamu",
+      "url": "https://open.spotify.com/track/4vFBtdQpUOCmNDsBw695lA"
+    },
+    {
+      "album": {
         "name": "Hanya Kita Dua",
         "url": "https://open.spotify.com/album/5dTUIVSmrN4hMr8BqCC4IT"
       },
@@ -2232,7 +2272,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 199594,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/5a3Uhr9I6M95TBinpxaZBp"
@@ -3207,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU"
+      },
+      "artists": [
+        {
+          "name": "The Lantis",
+          "url": "https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Lampu Merah",
+      "url": "https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr"
+    },
+    {
+      "album": {
         "name": "Langit Yang Sama",
         "url": "https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ"
       },
@@ -3648,7 +3706,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 213103,
       "name": "Mencuba",
       "url": "https://open.spotify.com/track/5GIvD5a2MXrMsmFplhvEEM"
@@ -6202,7 +6260,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 197195,
       "name": "Terlanjur Cinta",
       "url": "https://open.spotify.com/track/423AHVkxvCkVB03V3sPTIz"

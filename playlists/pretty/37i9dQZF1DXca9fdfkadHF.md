@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,908 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,651 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 13 | [Triciclo Perú](https://open.spotify.com/track/5LD3MwyqMqQ2nV1ZWhvFQ7) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Los Mojarras: Rock Urbano](https://open.spotify.com/album/2yLZIIwUXTeGGAbNT22eXM) | 3:38 |
 | 14 | [Decir Adiós](https://open.spotify.com/track/1snT64YtuTvZYVzuornRjw) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:52 |
 | 15 | [Me Resfrié en Brasil](https://open.spotify.com/track/6owthHOJo06koXPXe7xBG9) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 3:47 |
-| 16 | [Nuestro Viejo Hotel](https://open.spotify.com/track/12ybnfIatnLWEC2S6BYmas) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Nuestro Viejo Hotel](https://open.spotify.com/album/5jSoD1MdnqYhfjU5tUyDIJ) | 3:32 |
+| 16 | [Nuestro Viejo Hotel](https://open.spotify.com/track/2G0IITQMlsMoMdGURgXqJq) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Desvío Alcázar](https://open.spotify.com/album/0J4dS3di5qV2QPtSf1Yiw8) | 3:32 |
 | 17 | [La Chata](https://open.spotify.com/track/3jzpdDnLaQcsuGCw4JwVYS) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 3:26 |
 | 18 | [Quédate](https://open.spotify.com/track/5WbgDeqVRo5C6mzJYIxlHn) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Aquí y Ahora](https://open.spotify.com/album/0xvLmAbqSOxIbRLJmWaIiQ) | 3:37 |
 | 19 | [Un Día Sin Sexo](https://open.spotify.com/track/2Mvg1fyuwuZtWshE9v0M3g) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 6:37 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 52 | [Otra Mejor Que Tú](https://open.spotify.com/track/5gUp2GYPSZulV3q5ilvY7a) | [Los Datsuns](https://open.spotify.com/artist/7mLWJvI7Qjetu2WJZbz96L) | [Ritmo y Movimiento Con los Datsun´s](https://open.spotify.com/album/3OzwNkPFtLV2Mytl1f5Oc4) | 2:41 |
 | 53 | [Soledad](https://open.spotify.com/track/0bYlL7XNEvLC34f53mmqEO) | [Indigo](https://open.spotify.com/artist/4Hy7H79rnIljAwnwDtislK) | [Indigo](https://open.spotify.com/album/10PdZeHhCFhOekUFsuNHlM) | 3:43 |
 | 54 | [Gris](https://open.spotify.com/track/1xDTqhyb1FhvhCGjcaW6j5) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 3:18 |
-| 55 | [El Umbral](https://open.spotify.com/track/4A8FFbP2EEW5blEINK0PF8) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Desvío Alcázar](https://open.spotify.com/album/4QuDEdQx24FbtN6YtfmfwT) | 3:44 |
+| 55 | [El Umbral](https://open.spotify.com/track/42jtZRwVIUrYUCsgT2tZCu) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Desvío Alcázar](https://open.spotify.com/album/0J4dS3di5qV2QPtSf1Yiw8) | 3:44 |
 | 56 | [Fugitivos](https://open.spotify.com/track/1AfCj3oLpV8sX8tv65s5zg) | [Los Rancheros](https://open.spotify.com/artist/5zAgd4w0pUkadSSRAz9Z7Q) | [Fugitivos](https://open.spotify.com/album/3ukqeYP9wEZQ7E4RcwuhCd) | 3:51 |
 | 57 | [Tú y Yo](https://open.spotify.com/track/76LGvZPmgiiOx5NUbhUZtH) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 2:18 |
 | 58 | [Pasajeros](https://open.spotify.com/track/0gFDB5hdEFf3VMdvvgX68B) | [Cementerio Club](https://open.spotify.com/artist/3LEwFZc846sAmu2QRFaRGY) | [Pasajeros](https://open.spotify.com/album/3Iwp3SvVegjZ1Ek9o96SAk) | 3:37 |
 | 59 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 |
 | 60 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 |
 
-Snapshot ID: `MCwwZTY3MzBiZjI2NDhjMjExOGExMzhiOWEwYjY1ZTMyYzY0NWUzNzE3`
+Snapshot ID: `MCxkNzgxMmY4ZTNiMjYwNWI2ODIzZjkyYzZmM2IwMDZkYTBmNjRlNTdj`

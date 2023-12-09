@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,375 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,648 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 59 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 |
 | 60 | [Dollar For Love \(Baby\)](https://open.spotify.com/track/46906mYFRf4gRPqvdrhWhX) | [Thuto The Human](https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj) | [Dollar For Love \(Baby\)](https://open.spotify.com/album/4IABFEmSzX66zvR16cPt1H) | 6:53 |
 
-Snapshot ID: `MCxmYTE5Y2E5ZTgxYjJlYThkMzViODM3YjVjMmQyNjIxNzNkNGU0OTBj`
+Snapshot ID: `MCwwODNlOTI2NzVjMzBiOGU5NWJkNzM2MmUyNmQzMDkzYmQ1NzU2ZjQ2`

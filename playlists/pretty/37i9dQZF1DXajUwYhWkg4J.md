@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 
 > Top Sufi tracks of Coke Studio Pakistan\. Cover: Abida Parveen
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,410 likes - 46 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,506 likes - 46 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 | 25 | [Sadaa \(Coke Studio Season 9\)](https://open.spotify.com/track/0oUnOn5CpCXi08LPK4UpkW) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Sadaa \(Coke Studio Season 9\)](https://open.spotify.com/album/6fOcQ6APpoYvwKwrZ08Tob) | 7:02 |
 | 26 | [Rang](https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:57 |
 | 27 | [Tu Kuja Man Kuja](https://open.spotify.com/track/10FMebRh92qPZdO7wLtcJL) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy), [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 8:42 |
-| 28 | [Rabba Ho](https://open.spotify.com/track/7zwHjxAcuPiBmov76BqglM) | [Mulazim Hussain](https://open.spotify.com/artist/2suttLotEY0zAuXYPswTEq) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 6:27 |
+| 28 | [Rabba Ho](https://open.spotify.com/track/1T0V2AH8kaAlg2VqGL5OUN) | [Mulazim Hussain](https://open.spotify.com/artist/2suttLotEY0zAuXYPswTEq) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 6:27 |
 | 29 | [Sab Aakho Ali Ali](https://open.spotify.com/track/68KDUiU15BzPLbZwpqVCw5) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:57 |
 | 30 | [Mein Sufi Hoon](https://open.spotify.com/track/0dhamF0vASy4g1gEpC1OKI) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 10:19 |
 | 31 | [Jhoolay Laal](https://open.spotify.com/track/1D88Y8y9AjpEKFfss5nBPp) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:44 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 | 45 | [Husn\-e\-Haqiqi](https://open.spotify.com/track/2Qry5LiUPVW4KBumqJo4Df) | [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:21 |
 | 46 | [Alif Allah \- Live](https://open.spotify.com/track/5LBsnmhdWSvHtmqybXJEOm) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Saeen Tufail](https://open.spotify.com/artist/7mrsIV55fNrtgoPDB5aNL1), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio: Season 1](https://open.spotify.com/album/61RMEU4YQreHmbWY43cJIm) | 7:43 |
 
-Snapshot ID: `MCw5ZGU3ZmQzZDg1Y2ExNWU5ZWUyNTkzNWMwN2M1OWQ2YmQ4MGEyOTUy`
+Snapshot ID: `MCw1MDIwMjgzMTY1YzE3OTM5NGNmOGZmYTYxMGJmZjdiOWJkNzIyMGMy`

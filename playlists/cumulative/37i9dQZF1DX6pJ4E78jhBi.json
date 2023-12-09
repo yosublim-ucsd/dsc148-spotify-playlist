@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/26AHxf0rHw2qAhUN3EGSF9"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143881,
+      "name": "Gloria In Exelcis Deo",
+      "url": "https://open.spotify.com/track/2E61pXyRJv1tApFvqEb7jM"
+    },
+    {
+      "album": {
         "name": "God Rest Ye Merry Gentlemen",
         "url": "https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,678 likes - 150 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,690 likes - 150 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 149 | [I'll Do It for You](https://open.spotify.com/track/7nrhg2euCaBJ7bw3rcki0Y) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ) | [I'll Do It for You](https://open.spotify.com/album/3DXggTbZAVLrzqddCu7l6b) | 3:39 |
 | 150 | [Am I Still Mine](https://open.spotify.com/track/7kiIMHdCluymsCJ6DmxuyU) | [Murphy](https://open.spotify.com/artist/3GeAbNoHc67eZKfxO6KtdN) | [Am I Still Mine](https://open.spotify.com/album/1wziCgGwodAnDKC8gIT3Qr) | 2:35 |
 
-Snapshot ID: `MCxjMDZlNDc4MDY3MTcyZWEwMDE4MjExNmMzMzBlMTEwZjRlNzdlYmU1`
+Snapshot ID: `MCw0ODBmMjQ1MTU2MDE1OGUzNDdiZTBjMDNiOTg4ZjNlYTEyYWM4Mjhj`

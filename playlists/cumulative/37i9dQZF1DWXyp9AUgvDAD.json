@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\u00c0 deux, c'est mieux ! Photo : Amel Bent & Hatik",
+  "description": "\u00c0 deux, c'est mieux ! Photo : Amir & Indila",
   "name": "Entre deux",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 217625,
       "name": "APR\u00c8S-VOUS MADAME",
       "url": "https://open.spotify.com/track/5MX4XOzuOC36iSPF6glUgp"
@@ -152,7 +152,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 145066,
       "name": "Baila",
       "url": "https://open.spotify.com/track/1VZGKGALkvpTxmPPBi8a9H"
@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "DEMAIN",
+        "url": "https://open.spotify.com/album/3BvYRp6X5IiHbzDtdOUg7m"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "DEMAIN",
+      "url": "https://open.spotify.com/track/3PLI39VQCqmce71B0en2SK"
+    },
+    {
+      "album": {
         "name": "Mi Vida (Edition de No\u00ebl)",
         "url": "https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk"
       },
@@ -372,7 +394,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 223013,
       "name": "Dernier m\u00e9tro",
       "url": "https://open.spotify.com/track/7J8XJt5KveebN0DzWXrbgQ"
@@ -445,6 +467,50 @@
     },
     {
       "album": {
+        "name": "L'\u00e9cole de la vie",
+        "url": "https://open.spotify.com/album/6XC68VDmRFxnFcybq2D0UP"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        },
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250973,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/11UDrpTFwBClfSQNHHk4QF"
+    },
+    {
+      "album": {
+        "name": "Grandir",
+        "url": "https://open.spotify.com/album/61Kjs8CGtVFQAP1qt5sSuf"
+      },
+      "artists": [
+        {
+          "name": "Black M",
+          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
+        },
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202303,
+      "name": "Grandir",
+      "url": "https://open.spotify.com/track/0ruriS7oaQE0j1NE0AAW3o"
+    },
+    {
+      "album": {
         "name": "Un air de famille",
         "url": "https://open.spotify.com/album/0X9nkyYygMLerjyEF6BzJq"
       },
@@ -489,6 +555,28 @@
     },
     {
       "album": {
+        "name": "Keep it Simple (feat. Mika)",
+        "url": "https://open.spotify.com/album/1YlQ7XZ6tLxjQ8LVVcVp46"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175672,
+      "name": "Keep it Simple (feat. Mika)",
+      "url": "https://open.spotify.com/track/1D5609drY3JVyf48LhBDoh"
+    },
+    {
+      "album": {
         "name": "Ceinture noire",
         "url": "https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl"
       },
@@ -504,7 +592,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 200040,
       "name": "La m\u00eame",
       "url": "https://open.spotify.com/track/1Y4FUedllg2jNVA5BRIwEc"
@@ -819,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Pays des merveilles",
+        "url": "https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        },
+        {
+          "name": "CEUZANY",
+          "url": "https://open.spotify.com/artist/5AYXYNFAvk8uUmCa5FDe7L"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206619,
+      "name": "Pays des merveilles",
+      "url": "https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB"
+    },
+    {
+      "album": {
         "name": "Mitsouko",
         "url": "https://open.spotify.com/album/0t7wzTgJrobMB7rXPubrMT"
       },
@@ -856,7 +966,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 202626,
       "name": "Pleurs de fumoir",
       "url": "https://open.spotify.com/track/6SvPdi1AbnQvfEIKzlq6mv"

@@ -2,9 +2,9 @@
 
 ### [Alternative Avenue](https://open.spotify.com/playlist/37i9dQZF1DXcZue9qdu9pH)
 
-> Come, lets take a soulful journey through rhythmic grooves
+> Come, lets take a soulful journey through rhythmic grooves\. Cover Matt Ngesa
 
-61 songs - 3 hr 34 min
+63 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,10 @@
 | [Alone](https://open.spotify.com/track/37AdCBQAIQAYc37U3xXjO4) | [Don Ngatia](https://open.spotify.com/artist/1tV9xvbUpzKbOGcI1zG6ZP) | [Alone](https://open.spotify.com/album/15hUe2rUYK9WwO86pQ1J0h) | 5:55 | 2023-06-30 | 2023-09-02 |
 | [BANGUK](https://open.spotify.com/track/1GWaIEbioQsRV6Yaq8VwmO) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [BANGUK](https://open.spotify.com/album/4XCuAOqmIZOkmVd6izgCAu) | 3:06 | 2023-10-20 |  |
 | [Bantu Baby, Bantu Maybe \- Remix](https://open.spotify.com/track/1bM4MsGlanDmDn7DtkUS5P) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Elza Tsaiger](https://open.spotify.com/artist/6peIB4PwYFH1cLNVOTUrE7), [African Vic](https://open.spotify.com/artist/1yLy1xaquU2qxuFpQBZm2B) | [See Me\. Si Me\. Reimagined](https://open.spotify.com/album/1YOIMfZ2tKd0p18XUnSIR1) | 3:24 | 2023-09-01 | 2023-11-11 |
-| [Caught Out](https://open.spotify.com/track/3RwL3Dm5AbICvYXSAGFuu0) | [Athieno](https://open.spotify.com/artist/2Mkt9y1gnzybZCa5R8CNBr) | [Caught Out](https://open.spotify.com/album/51AuQNCfV9SKNR3ivka3wE) | 3:52 | 2023-06-30 |  |
+| [Caught Out](https://open.spotify.com/track/3RwL3Dm5AbICvYXSAGFuu0) | [Athieno](https://open.spotify.com/artist/2Mkt9y1gnzybZCa5R8CNBr) | [Caught Out](https://open.spotify.com/album/51AuQNCfV9SKNR3ivka3wE) | 3:52 | 2023-06-30 | 2023-12-09 |
 | [Chasing Love](https://open.spotify.com/track/0UvDsFVi25ulx7UsoboyLZ) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Chasing Love](https://open.spotify.com/album/4kCSRS7Tr6RMq67l3icaTd) | 3:20 | 2023-06-30 |  |
 | [Cut Me Down](https://open.spotify.com/track/6g33SNfqUoIcxnNpGfzWak) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 4:57 | 2023-06-30 | 2023-11-23 |
-| [Cut Me Down](https://open.spotify.com/track/7xoO1pGXQrZ0huDZdsh59F) | [Njerae](https://open.spotify.com/artist/3ZYEtzcOgxeYX1DdaAYjuO) | [Unintentional](https://open.spotify.com/album/02Gdfad4w6K6LVJQKU8mwO) | 4:57 | 2023-11-10 |  |
+| [Cut Me Down](https://open.spotify.com/track/7xoO1pGXQrZ0huDZdsh59F) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/02Gdfad4w6K6LVJQKU8mwO) | 4:57 | 2023-11-10 |  |
 | [Dream Awake](https://open.spotify.com/track/7M5R2ZlSmpqDsCJfulhN6Z) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Sun & Moon](https://open.spotify.com/album/6f22BsAjuWxAKdEbJCuQ6X) | 4:28 | 2023-06-30 |  |
 | [Enemy](https://open.spotify.com/track/6F5eJTix3ms5lvH71omyS3) | [TornPockets](https://open.spotify.com/artist/6pUEc7BVEFA6b6hUw4RMxA), [ach13ng'](https://open.spotify.com/artist/7nXNiHraAkhLlIMCFaBGc0) | [Enemy](https://open.spotify.com/album/2RgIw1IxjLtEn4U9YGoSNF) | 3:31 | 2023-06-30 |  |
 | [Faith](https://open.spotify.com/track/7412Sp0DWo9Sc70hidP1jw) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/0Jiq0Tpj8SN3rsMhe52RKp) | 3:33 | 2023-11-10 |  |
@@ -33,6 +33,7 @@
 | [Lonely Mile](https://open.spotify.com/track/0gaMaXqfAA3Zg4CPhfneRG) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz), [Jason Sibi \- Okumu](https://open.spotify.com/artist/5vr0gV08SuOSmr2H6ZUcDA) | [Lonely Mile](https://open.spotify.com/album/2mxnBlqx9oDTmUuI3dQZ5n) | 3:30 | 2023-06-30 | 2023-09-02 |
 | [Lost in Green](https://open.spotify.com/track/78rmpYUKEJBdqTGjuk5fOI) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Lost in Green](https://open.spotify.com/album/1sj5kA9fThHG41VuacQDEX) | 2:59 | 2023-06-30 |  |
 | [Money Emotions](https://open.spotify.com/track/79KjJ83HOF9hKl7eUC9yfq) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Money & Other Things](https://open.spotify.com/album/1lSq8AREi188gD0KDrHdQ9) | 2:46 | 2023-10-20 |  |
+| [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 |  |
 | [Mwanga We Wajua](https://open.spotify.com/track/7K6kgMnTPLqR8p04M6dG8H) | [Hope Hajir](https://open.spotify.com/artist/1pK84UqJKAOW6uOWmpR5cN) | [Mwanga We Wajua](https://open.spotify.com/album/34iOJa2njy5Ym74bpxLeVl) | 1:23 | 2023-06-30 |  |
 | [My Light](https://open.spotify.com/track/0ODhQkKwD6Sg3nIFK7GD7R) | [Webi](https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH) | [Let The Light In EP](https://open.spotify.com/album/3KcggRmGrhbU47A71dJ4HH) | 6:01 | 2023-06-30 | 2023-10-24 |
 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2023-06-30 |  |
@@ -50,7 +51,7 @@
 | [s\_t\_l](https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [s\_t\_l](https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK) | 3:26 | 2023-06-30 |  |
 | [Saa Kalo](https://open.spotify.com/track/4pf3QeVj6UGc0V3X6mxqYe) | [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Ere Yo](https://open.spotify.com/album/7DNAJQGsUTeV858UCsREoi) | 4:41 | 2023-06-30 |  |
 | [Same Page](https://open.spotify.com/track/0J9l0Y5MEvO8e6ksy8Hv82) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:06 | 2023-06-30 |  |
-| [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2023-06-30 |  |
+| [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2023-06-30 | 2023-12-09 |
 | [She](https://open.spotify.com/track/6aNR1tbrRtamWleMigQs4J) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [She](https://open.spotify.com/album/2s3pBPqxmcbmy1Zct8Ezu5) | 3:38 | 2023-06-30 |  |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2023-06-30 |  |
 | [Something Is You](https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Something Is You](https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0) | 1:50 | 2023-06-30 |  |
@@ -61,6 +62,7 @@
 | [The Sun, The Grass & The River](https://open.spotify.com/track/7EX3rOwPd71wXnreVGey32) | [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3), [Timothy Arinaitwe](https://open.spotify.com/artist/1zO62Bttg6arwugcOIZuCH) | [Empty Spaces](https://open.spotify.com/album/5XBV1o2MmWAoKgZ8GBugaq) | 4:08 | 2023-06-30 |  |
 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 | 2023-09-01 |  |
 | [Three Little Birds](https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06), [Lullaby Club](https://open.spotify.com/artist/4NRmTiCjbKDTSJmwhOjDnq) | [Three Little Birds](https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh) | 2:48 | 2023-06-30 |  |
+| [Time Allows](https://open.spotify.com/track/2pksmPxpgVX3ocBYtQwqFV) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:51 | 2023-12-08 |  |
 | [Too Strong](https://open.spotify.com/track/6If2nmEyWpNEDeqtT1zKUj) | [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [Chevy Kev](https://open.spotify.com/artist/2YUXCCjGjC1ggnAlmzxp0p) | [Too Strong](https://open.spotify.com/album/1eqxzx3k5jnttq3AhOvUQ9) | 2:56 | 2023-06-30 |  |
 | [Trust Nobody](https://open.spotify.com/track/1f0mXGCUH4Iw0wA6J7kEI3) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4) | [Trust Nobody](https://open.spotify.com/album/63ADqzRK71YK8BXuV8kGME) | 1:52 | 2023-06-30 | 2023-11-11 |
 | [Tugi Track](https://open.spotify.com/track/3oTCklg2zTuc2DuKaVsORp) | [Kelele Kollektiv](https://open.spotify.com/artist/09FoPL4eU26Morxu4yPkzl) | [Kelele, Vol\. 1](https://open.spotify.com/album/0fawT8nfXczFQ8b3DcOgNk) | 4:53 | 2023-06-30 | 2023-11-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,957 likes - 120 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,143 likes - 120 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 119 | [Lullaby for Nick](https://open.spotify.com/track/3sSGalPwfFt0XiNnYx7fBB) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Tamara Anna Cislowska](https://open.spotify.com/artist/6qq0PaNoOuhPsYtUtsxRQs) | [Butterflying: Piano Music of Elena Kats\-Chernin](https://open.spotify.com/album/1r7qNZsIrYhszVnFp92pv9) | 3:23 |
 | 120 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3aflqY3isjShFUHoiS1QbR) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 5:30 |
 
-Snapshot ID: `MCxjMzQ4ZTYyZmI2NzRlYjUwYTEzZjhmNDM3MTc2YTA2YzI5NjUyN2Q2`
+Snapshot ID: `MCw1ZDNkMGNlOWI4NjU0YjNiY2IwMjEwN2IxNTA0MWNiNzI1MjE4Njc0`

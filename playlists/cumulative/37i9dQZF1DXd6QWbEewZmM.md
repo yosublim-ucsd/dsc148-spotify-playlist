@@ -4,7 +4,7 @@
 
 > \#SadCuhHour gems 🥀🥹
 
-377 songs - 21 hr 32 min
+378 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Cinderella de Mis Noches](https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Exotic Corridos](https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY) | 2:53 | 2022-01-01 | 2022-07-22 |
 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 | 2022-02-25 | 2022-04-21 |
 | [Colores](https://open.spotify.com/track/0DUvqe29524aFdOVLUD8nd) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:37 | 2023-04-14 | 2023-05-02 |
-| [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 | 2022-02-04 |  |
+| [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 | 2022-02-04 | 2023-12-09 |
 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 | 2022-01-01 | 2022-07-27 |
 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 | 2022-10-14 | 2023-01-12 |
 | [Coqueta](https://open.spotify.com/track/76JywGpGQQPfzTG3eNFO6r) | [Angel Yerena](https://open.spotify.com/artist/4maqFMlGcJ3IkEGhcD4tMb), [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [Coqueta](https://open.spotify.com/album/61yRp7eSSCpyuVNCReDKhG) | 3:53 | 2023-01-05 | 2023-01-26 |
@@ -222,6 +222,7 @@
 | [Nomás Este Rey \- Bonus Track](https://open.spotify.com/track/2hUWaQPqogx8GeD9G0P2NA) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [De Corazon Bohemio](https://open.spotify.com/album/05jXRbAmwH2b3XTRfKC0j5) | 3:36 | 2022-07-22 | 2022-09-24 |
 | [Nomás Este Rey \(Bonus Track\)](https://open.spotify.com/track/5roCNZmSZyDweazZPFQ8eq) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [De Corazón Bohemio](https://open.spotify.com/album/3rzzhVO4UdMniUo5rl9swK) | 3:36 | 2022-03-26 | 2022-04-20 |
 | [Nos Pertenecemos](https://open.spotify.com/track/6dLVCEQalxLPo6RlfoQVmg) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Nos Pertenecemos](https://open.spotify.com/album/5PTgOHWRNRrgxZSiuXMSKt) | 3:05 | 2022-01-01 | 2022-07-29 |
+| [Nos Pertenecemos](https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Nos Pertenecemos](https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c) | 3:05 | 2023-10-06 |  |
 | [Nuestra Canción](https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Nuestra Canción](https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4) | 3:21 | 2023-01-27 | 2023-02-11 |
 | [Nuestro Amor](https://open.spotify.com/track/6GRFIpU9Yyae32zFFMoklW) | [Xavier Moreno](https://open.spotify.com/artist/2OmItRyzW8FUoxUECXMzWM) | [Nuestro Amor](https://open.spotify.com/album/56uGdoYiaHVm1TLqy6LMuo) | 2:57 | 2023-04-14 | 2023-05-02 |
 | [Obsesion](https://open.spotify.com/track/61NIeyT1nNZgbXB0OHzXjp) | [Aaron G.J](https://open.spotify.com/artist/1VMqFuW8oVOMgfK89wgfBy) | [M E D T](https://open.spotify.com/album/3vZwYX7AYq5NIpbEpWXU5g) | 3:15 | 2023-01-20 | 2023-01-26 |

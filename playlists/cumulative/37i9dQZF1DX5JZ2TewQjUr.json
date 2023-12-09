@@ -4169,6 +4169,24 @@
     },
     {
       "album": {
+        "name": "Just Be A Rock",
+        "url": "https://open.spotify.com/album/4GKatOmxAIFkri4pyAIA24"
+      },
+      "artists": [
+        {
+          "name": "Walter Kwan",
+          "url": "https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279989,
+      "name": "Just Be A Rock",
+      "url": "https://open.spotify.com/track/7G2ftw98tKO5wFf4fdH1Bj"
+    },
+    {
+      "album": {
         "name": "kix (freestyle)",
         "url": "https://open.spotify.com/album/7eBDrjZkiRcbVvpDSVjTpP"
       },

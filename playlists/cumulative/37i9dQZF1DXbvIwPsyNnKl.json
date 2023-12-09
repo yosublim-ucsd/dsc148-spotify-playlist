@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Gloc-9, Hero, Ramdiss",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Hev Abi",
   "name": "Kalye Hip-Hop",
   "tracks": [
+    {
+      "album": {
+        "name": "'97 Jay-Z",
+        "url": "https://open.spotify.com/album/31fonibdBz5jRaUpxe31kp"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160851,
+      "name": "'97 Jay-Z",
+      "url": "https://open.spotify.com/track/6KdGHRlQ7PUuVplvNySZHH"
+    },
     {
       "album": {
         "name": "3 AM",
@@ -222,6 +240,24 @@
       "duration_ms": 197180,
       "name": "Atin-Atin Lang",
       "url": "https://open.spotify.com/track/77vQ9j2ZdxiAd8sFArDAEX"
+    },
+    {
+      "album": {
+        "name": "Guns and Roses",
+        "url": "https://open.spotify.com/album/5P3G3lpZQ5ZJvLEC4Gyodh"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "Bad Type",
+      "url": "https://open.spotify.com/track/1Nf8lo7CKSJLGHi4uT8EvL"
     },
     {
       "album": {
@@ -576,6 +612,28 @@
     {
       "album": {
         "name": "Flyshit",
+        "url": "https://open.spotify.com/album/4O1ELZTOr8Ofh4TyVN4MT0"
+      },
+      "artists": [
+        {
+          "name": "LON Daniel",
+          "url": "https://open.spotify.com/artist/2oBLRRTHdxf7AeYRlaogfx"
+        },
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141259,
+      "name": "Flyshit",
+      "url": "https://open.spotify.com/track/25zFVqeiwRuHK9M8bPsZm1"
+    },
+    {
+      "album": {
+        "name": "Flyshit",
         "url": "https://open.spotify.com/album/3NLlRiJZVzSS1read9nb7w"
       },
       "artists": [
@@ -590,7 +648,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 141259,
       "name": "Flyshit",
       "url": "https://open.spotify.com/track/3NQpu0tBPbIcmN3MlY2Dlx"
@@ -630,7 +688,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 230160,
       "name": "FREESTYLE",
       "url": "https://open.spotify.com/track/6a9c4NKoIdrugAs9fmWuSg"
@@ -917,6 +975,24 @@
     },
     {
       "album": {
+        "name": "LUMAYO KANA",
+        "url": "https://open.spotify.com/album/39xaV4n6qZgC2FCdANA6Zk"
+      },
+      "artists": [
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191219,
+      "name": "LUMAYO KANA",
+      "url": "https://open.spotify.com/track/6RMuVO3C62Y8qkUxtpgdLr"
+    },
+    {
+      "album": {
         "name": "LUV DRUG",
         "url": "https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE"
       },
@@ -1175,6 +1251,28 @@
     },
     {
       "album": {
+        "name": "Pikit",
+        "url": "https://open.spotify.com/album/3HceIQ1nJ7DkSOBn0OQmrN"
+      },
+      "artists": [
+        {
+          "name": "Loonie",
+          "url": "https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Pikit",
+      "url": "https://open.spotify.com/track/1O0xVXmC9JtMeHJFnsrEP6"
+    },
+    {
+      "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/4MqzfMoVBWnM2ZyAJipzPZ"
       },
@@ -1208,7 +1306,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 200571,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/1prSjfNpULtRUDFImzHJHO"
@@ -1350,7 +1448,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 174040,
       "name": "SMD",
       "url": "https://open.spotify.com/track/2QOBpiFGgWbmMUyqMGRf4P"
@@ -1500,7 +1598,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 235080,
       "name": "THAT'S MY BABY",
       "url": "https://open.spotify.com/track/4RNvgyQgvmZYPJxnNEHfS3"

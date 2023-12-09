@@ -427,6 +427,28 @@
     },
     {
       "album": {
+        "name": "Algaravia",
+        "url": "https://open.spotify.com/album/546EYepiaiSjIsGtL0WToy"
+      },
+      "artists": [
+        {
+          "name": "Walfredo em Busca da Simbiose",
+          "url": "https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl"
+        },
+        {
+          "name": "C\u00e9sar Lacerda",
+          "url": "https://open.spotify.com/artist/5l962QqiKtDWXYqjbpJ3qZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211547,
+      "name": "Algaravia",
+      "url": "https://open.spotify.com/track/5PTDpsgOqEoG5P5BllvfHZ"
+    },
+    {
+      "album": {
         "name": "Algum Lugar",
         "url": "https://open.spotify.com/album/3gZhHRrxUCADMINe8AXkQ9"
       },
@@ -700,6 +722,32 @@
       "duration_ms": 170319,
       "name": "Anel de Borboleta",
       "url": "https://open.spotify.com/track/1W22RTyIrDeJhxhhcJKLYH"
+    },
+    {
+      "album": {
+        "name": "Garatujas",
+        "url": "https://open.spotify.com/album/4UheE8tmMXmfTdusFy3orQ"
+      },
+      "artists": [
+        {
+          "name": "Tangolo Mangos",
+          "url": "https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o"
+        },
+        {
+          "name": "Andr\u00e9 Becker",
+          "url": "https://open.spotify.com/artist/6E6QjOaoo9EpybXI1T95FS"
+        },
+        {
+          "name": "Cidade Dormit\u00f3rio",
+          "url": "https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181568,
+      "name": "Animais Noturnos",
+      "url": "https://open.spotify.com/track/7iQ9dQMQuMulnmzg82FD46"
     },
     {
       "album": {
@@ -2512,7 +2560,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 185062,
       "name": "Desabriga",
       "url": "https://open.spotify.com/track/4lZACQsjOZo5XxwUBK3KW2"
@@ -5524,7 +5572,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 247783,
       "name": "M\u00e1s Lejos",
       "url": "https://open.spotify.com/track/6ExWP1rf04My30HsJLI8QL"
@@ -7773,6 +7821,24 @@
     },
     {
       "album": {
+        "name": "Samba Hostil",
+        "url": "https://open.spotify.com/album/5eUpKGI5N7croGz6WDDmK3"
+      },
+      "artists": [
+        {
+          "name": "Sergiop\u00ed",
+          "url": "https://open.spotify.com/artist/1AJbMS0MpfiNzTu0Kf4fOF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218769,
+      "name": "Samba Hostil",
+      "url": "https://open.spotify.com/track/4zZb325aqGdFoj4F9rkhKT"
+    },
+    {
+      "album": {
         "name": "Samba Triste",
         "url": "https://open.spotify.com/album/6ydu9H8X0smvPrQ5l2Vh49"
       },
@@ -8238,7 +8304,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 163200,
       "name": "Sobreviver",
       "url": "https://open.spotify.com/track/7mdIt0bTjrfzuK3mpkSIzw"
@@ -8968,7 +9034,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 185437,
       "name": "Todo Dia \u00c9 De Mudanca",
       "url": "https://open.spotify.com/track/5rYNNP09GB18zTmcNMHVya"
@@ -9438,6 +9504,32 @@
       "duration_ms": 187187,
       "name": "Um Milh\u00e3o de Coisas",
       "url": "https://open.spotify.com/track/0nRiU5YRgqDMqueJIKc3PS"
+    },
+    {
+      "album": {
+        "name": "Um Novo Dia",
+        "url": "https://open.spotify.com/album/0aNsPO4Uons10wG029Xr8n"
+      },
+      "artists": [
+        {
+          "name": "Vitor Brauer",
+          "url": "https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8"
+        },
+        {
+          "name": "gorduratrans",
+          "url": "https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX"
+        },
+        {
+          "name": "deb",
+          "url": "https://open.spotify.com/artist/6oGsmB1VtaXtDfBlMxMZq0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190790,
+      "name": "Um Novo Dia",
+      "url": "https://open.spotify.com/track/6GzCZcnOADP6g4Su0bRYzb"
     },
     {
       "album": {

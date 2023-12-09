@@ -4,7 +4,7 @@
 
 > Vintage soul gems from the archives.
 
-184 songs - 10 hr 16 min
+185 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Somebody Done Took My Baby and Gone](https://open.spotify.com/track/0L2tboG1vnqtumFv6tT3oq) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/4wuivK7CmmM39477VRbkF4) | 3:32 | 2021-04-23 | 2022-03-22 |
 | [Somebody Done Took My Baby and Gone](https://open.spotify.com/track/3K7yV1QR1KdbMfJZNplbZG) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 3:32 | 2022-01-10 |  |
 | [Something Old Something New](https://open.spotify.com/track/24Tt6S8rbu8m21pcz17Lbo) | [Lonnie Russ](https://open.spotify.com/artist/2aM7izVFCeKxS9MvpOGUt1) | [Eccentric Soul: The 4\-J Label](https://open.spotify.com/album/2p8iQSzXnKc8QtZJ2iG8d7) | 2:27 | 2021-04-23 | 2022-07-29 |
-| [Something Old Something New](https://open.spotify.com/track/3Ke2bU4Oi3TOMUUvi6MVV0) | [Lonnie Russ](https://open.spotify.com/artist/2aM7izVFCeKxS9MvpOGUt1) | [Eccentric Soul: The 4\-J Label](https://open.spotify.com/album/40pYdiaTR1aQQ5zaFELEiH) | 2:27 | 2022-05-11 |  |
+| [Something Old Something New](https://open.spotify.com/track/3J1ANxU5sLJM2CGg9A6U6S) | [Lonnie Russ](https://open.spotify.com/artist/2aM7izVFCeKxS9MvpOGUt1) | [My Wife Can't Cook b/w Something Old Something New](https://open.spotify.com/album/0FUtfjgpMYHElf6Y8nYkj9) | 2:27 | 2022-05-11 |  |
+| [Something Old Something New](https://open.spotify.com/track/3Ke2bU4Oi3TOMUUvi6MVV0) | [Lonnie Russ](https://open.spotify.com/artist/2aM7izVFCeKxS9MvpOGUt1) | [Eccentric Soul: The 4\-J Label](https://open.spotify.com/album/40pYdiaTR1aQQ5zaFELEiH) | 2:27 | 2022-05-11 | 2023-12-09 |
 | [Start All Over](https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK) | [Soul Survivors](https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx) | [Soul Survivors](https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl) | 4:34 | 2021-07-20 |  |
 | [Sticking With You \(Nobody But You\)](https://open.spotify.com/track/5eQtVjSUx1vNIEXraWFZhX) | [Hattie Littles](https://open.spotify.com/artist/6l0RXtokGJSdv4rHfesSyv) | [Motown Unreleased 1962: Girls](https://open.spotify.com/album/2zad0ktqIMsJLY2OhyzXhR) | 2:52 | 2021-04-23 |  |
 | [Still a Part of Me](https://open.spotify.com/track/3nNLy4pf06yCXoJUITMJDS) | [The Minits](https://open.spotify.com/artist/6MmUaGU1jSkqByu0WfAmeC) | [Can't Be Satisfied \- The XL and Sounds of Memphis Story Vol\. 1](https://open.spotify.com/album/7DiuqEndvhXnLcJYMoMIU8) | 2:34 | 2021-04-23 |  |

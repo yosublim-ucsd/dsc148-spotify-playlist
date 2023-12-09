@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Green Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,671 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,691 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 55 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 | 56 | [Superstitious](https://open.spotify.com/track/7xm98U2hfmMcI3tgrQ5XJq) | [Enuff Z'Nuff](https://open.spotify.com/artist/2Y36dqR145FjTKUjibEcjO) | [Animals with Human Intelligence](https://open.spotify.com/album/2ickktixrgx5DGAOqmhtgQ) | 4:10 |
 | 57 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 |
-| 58 | [198X \(Heaven Hill\)](https://open.spotify.com/track/72O0FUZgcBFa6e9iEK3oCe) | [Moon Safari](https://open.spotify.com/artist/0Wr0oT0aCD6w7O25TPwnoX) | [Himlabacken \(Vol.2\)](https://open.spotify.com/album/2mfyTUrJLUuGE9056jPxgH) | 3:55 |
+| 58 | [198X \(Heaven Hill\)](https://open.spotify.com/track/4wXRVUEbiCVmAcGtLoxp1J) | [Moon Safari](https://open.spotify.com/artist/0Wr0oT0aCD6w7O25TPwnoX) | [Himlabacken Vol\. 2](https://open.spotify.com/album/6d2gRQNPW6CWrBjXpffvGQ) | 3:55 |
 | 59 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 |
 | 60 | [say it](https://open.spotify.com/track/4xFOkjzx24JL0FrplTyMAS) | [The KYLE](https://open.spotify.com/artist/0IQ0dKIOfKs1h7nIDcKBuW) | [say it](https://open.spotify.com/album/1wR2zPQSlFq0o8fqHibOQe) | 3:05 |
 | 61 | [Let It Burn](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 99 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 |
 | 100 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 |
 
-Snapshot ID: `MCw4YmYwMGQxYmJiNTcxY2ZiZTgxMWY4NDAwYTVlMTJjODZjNDhkMzA2`
+Snapshot ID: `MCxjNzViYjA1MTNhMjM1MmM2MGQ5MjhmNTZjYTEwYzc4Y2JjYmFlMzI5`

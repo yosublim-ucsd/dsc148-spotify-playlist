@@ -391,6 +391,32 @@
     },
     {
       "album": {
+        "name": "50 SHADES, Pt. 5",
+        "url": "https://open.spotify.com/album/5KdaOAGYB1z48I6Q6zZWCS"
+      },
+      "artists": [
+        {
+          "name": "Tonee C",
+          "url": "https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8"
+        },
+        {
+          "name": "Bry Bandz",
+          "url": "https://open.spotify.com/artist/5ExT2UsOcCNFbNugKG48dO"
+        },
+        {
+          "name": "Arlene FL",
+          "url": "https://open.spotify.com/artist/5d4IRbTht70XwurTJ1TjR7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178187,
+      "name": "BONNIE & CLYDE",
+      "url": "https://open.spotify.com/track/4pDLXiEr8ZMq7sVQm4RIqQ"
+    },
+    {
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/6bVAm6VNpL3EsTjagnHNdR"
       },
@@ -424,6 +450,28 @@
       "duration_ms": 115017,
       "name": "Champion",
       "url": "https://open.spotify.com/track/1CoGvdlhU6yoX27qt1572K"
+    },
+    {
+      "album": {
+        "name": "TMA Swahili Rap",
+        "url": "https://open.spotify.com/album/5QkjVw5itvxoEyeQ5uK4fR"
+      },
+      "artists": [
+        {
+          "name": "Msodoki Young Killer",
+          "url": "https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn"
+        },
+        {
+          "name": "Col\u00e9 Miss London",
+          "url": "https://open.spotify.com/artist/4CDHcm60iAPewOpTNKlrml"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236325,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/5K9DKSXdqEQRFv9EYsJli4"
     },
     {
       "album": {
@@ -836,7 +884,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 197406,
       "name": "Hatuna Kesi",
       "url": "https://open.spotify.com/track/7hhMqQaGTmiQgS5a8HIPvw"
@@ -1245,6 +1293,28 @@
     },
     {
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/5izjFJOMioHMQJQPDU6QWM"
+      },
+      "artists": [
+        {
+          "name": "Dully Sykes",
+          "url": "https://open.spotify.com/artist/0gy6YVLQnEbSdWzxap1ue6"
+        },
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182455,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0vS8dzwAEV5ushczxoc1J1"
+    },
+    {
+      "album": {
         "name": "Masihara (Remix)",
         "url": "https://open.spotify.com/album/78B68CTt9neYQq7Hc7T2vI"
       },
@@ -1374,6 +1444,24 @@
       "duration_ms": 167741,
       "name": "MOTHERLAND",
       "url": "https://open.spotify.com/track/7eV8MXnMxQUM2ekPOWTtBR"
+    },
+    {
+      "album": {
+        "name": "The Nyaturu Legend",
+        "url": "https://open.spotify.com/album/0CZqKgoAg2MBzBDP0lpVqo"
+      },
+      "artists": [
+        {
+          "name": "Ramsoh Latinho",
+          "url": "https://open.spotify.com/artist/2B4JNL5FcalKZHt2FBSAlb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217051,
+      "name": "Mtaalamu Wa Rap",
+      "url": "https://open.spotify.com/track/5xs0u2Ia3VqDDHGceQ4wVT"
     },
     {
       "album": {
@@ -1706,7 +1794,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 192735,
       "name": "PRAISE GOD",
       "url": "https://open.spotify.com/track/2PFhoFM8hDwXyMXVxtTZm1"
@@ -1768,7 +1856,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 190511,
       "name": "Respect",
       "url": "https://open.spotify.com/track/5CUGnryFUGZlgamALD3Byz"
@@ -1970,7 +2058,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 178777,
       "name": "Sheria",
       "url": "https://open.spotify.com/track/7L5iuyfHK4MWODhjCQEmby"

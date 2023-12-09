@@ -4,15 +4,16 @@
 
 > New Orleans kind of funk\. Cover: Cha Wa
 
-54 songs - 3 hr 48 min
+55 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Arleen](https://open.spotify.com/track/3124OFc2BeP3GqvHp3rrDF) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf), [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Another Joyous Occasion](https://open.spotify.com/album/4lB4M2gk7neYz2ETDYZ1kP) | 4:46 | 2020-04-29 |  |
 | [Arleen](https://open.spotify.com/track/3DeUYpweIXiJUnxCOB044F) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf), [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Another Joyous Occasion](https://open.spotify.com/album/3Gc7yVu81y4QdTESIAkvA9) | 4:46 | 2020-04-29 | 2023-04-30 |
+| [Back Street Lover](https://open.spotify.com/track/1f8RPgmv5f2FGOf59O3pmL) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly), [Tipitina’s Record Club](https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ) | [Ernie K\. Doe](https://open.spotify.com/album/5TCIBlHmzihdWye05L6YQf) | 2:29 | 2020-04-29 |  |
 | [Back Street Lover \- Remastered](https://open.spotify.com/track/30HZp745HgvVFIIW1PDi89) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Emperor Of New Orleans \(Remastered\)](https://open.spotify.com/album/5KcmoI0xNnzHv2EWxMlzAe) | 2:28 | 2020-04-29 | 2023-10-24 |
 | [Back Street Lover \- Remastered](https://open.spotify.com/track/6z4GZz4cXtW2bddSoFSHfQ) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Emperor Of New Orleans \(Remastered\)](https://open.spotify.com/album/6Kzdp5ojEJ28KCebR4Kb6z) | 2:28 | 2020-04-29 | 2023-04-30 |
-| [Backstreet Lover](https://open.spotify.com/track/5BDrEmLb5inDyHn7ZSGSsF) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Soul Jazz Records Presents New Orleans Soul: The Original Sound of New Orleans Soul 1960\-76](https://open.spotify.com/album/3tnRmKxUYvCPWLILT5PZL4) | 2:27 | 2020-04-29 |  |
+| [Backstreet Lover](https://open.spotify.com/track/5BDrEmLb5inDyHn7ZSGSsF) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Soul Jazz Records Presents New Orleans Soul: The Original Sound of New Orleans Soul 1960\-76](https://open.spotify.com/album/3tnRmKxUYvCPWLILT5PZL4) | 2:27 | 2020-04-29 | 2023-12-09 |
 | [Bow Down](https://open.spotify.com/track/75zPkWTK4UY6thDZEiFp3x) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [My People](https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c) | 3:24 | 2021-03-12 |  |
 | [Can I Be Your Squeeze](https://open.spotify.com/track/5yJYA6dvIH4zmw7Ku2dn5f) | [Chuck Carbo](https://open.spotify.com/artist/4pbFsZJ317vxLwtAvmilGJ) | [Can I Be Your Squeeze / Take Care of Your Homework, Friend \(Digital 45\)](https://open.spotify.com/album/0HjvXbHZY3jjs0XyzX8gZo) | 2:29 | 2020-04-29 |  |
 | [Cha Wa](https://open.spotify.com/track/4N1XezxVYISff0Bxvelbpp) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [Spyboy](https://open.spotify.com/album/5kjYBEXnL4PkBRAkgIGT9t) | 3:23 | 2020-04-29 |  |

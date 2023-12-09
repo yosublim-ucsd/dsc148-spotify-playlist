@@ -2,14 +2,14 @@
 
 ### [Indie Colombia](https://open.spotify.com/playlist/37i9dQZF1DWVCk2se27jFX)
 
-> ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Armenia
+> ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Pio Perilla
 
-110 songs - 6 hr 44 min
+111 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [98](https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [98](https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50) | 3:26 | 2023-09-25 |  |
-| [A Veces Llueve](https://open.spotify.com/track/5psSJW6SH7sgcspg1ejO63) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Grita \- II](https://open.spotify.com/album/4z8CUoe6p3VIQewnjGJB10) | 3:12 | 2023-10-07 |  |
+| [A Veces Llueve](https://open.spotify.com/track/5psSJW6SH7sgcspg1ejO63) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Grita \- II](https://open.spotify.com/album/4z8CUoe6p3VIQewnjGJB10) | 3:12 | 2023-10-07 | 2023-12-09 |
 | [A Veces Llueve](https://open.spotify.com/track/51B2bgAzdvUTAJDj7hqu9x) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [A Veces Llueve](https://open.spotify.com/album/5rurzOzhocMrsNFBcM8Hma) | 3:13 | 2023-09-25 | 2023-10-19 |
 | [Algún Contexto](https://open.spotify.com/track/3CYJKHDRMB1gk3AZPluwe6) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/1YNwE2V9vCmI66drR0swHr) | 2:54 | 2023-10-07 |  |
 | [Algún Contexto](https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm) | 2:54 | 2023-09-25 | 2023-10-19 |
@@ -106,6 +106,7 @@
 | [Sonámbulos](https://open.spotify.com/track/5WcdnmiTRE4PHzmSBwZuoA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Sonámbulos](https://open.spotify.com/album/0yGnWZZyz9iKsCzXQzhpYf) | 3:13 | 2023-09-25 |  |
 | [Tarantinero](https://open.spotify.com/track/1KxUzY6eWEKsXmZ6fjv1GC) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [777: A Quemarropa](https://open.spotify.com/album/231YzqIbLQ9ddB3fsVSRDg) | 4:37 | 2023-09-25 |  |
 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 | 2023-10-07 |  |
+| [Tengo Que Decirte Que No](https://open.spotify.com/track/7EMCWX0sQnNP1LAJ2rwkvQ) | [Pio Perilla](https://open.spotify.com/artist/3mto9pTx9i31Xqr68CzgX8) | [Tengo Que Decirte Que No](https://open.spotify.com/album/2R3Kd5NLYZu1NXgWc9n8ak) | 2:50 | 2023-12-08 |  |
 | [Tiempo Calavera](https://open.spotify.com/track/5TUuSeFNmnMh7GzoIXgqsH) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Tiempo Calavera](https://open.spotify.com/album/77OKhLQx0zi7TJ9ets4IUw) | 2:56 | 2023-09-25 |  |
 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 | 2023-09-25 |  |
 | [Turn Blue](https://open.spotify.com/track/2jOZHTpq7g4H6IrcJLEukR) | [Chamo](https://open.spotify.com/artist/5WpP6hj7KfBJVId206LBwH) | [Turn Blue](https://open.spotify.com/album/6858YL398K8QZgy6FFSw1q) | 2:48 | 2023-09-25 |  |

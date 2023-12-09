@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 247173,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 260799,
       "name": "Perfect Peace",
       "url": "https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ"
@@ -1386,8 +1386,8 @@
           "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
         },
         {
-          "name": "Daniel Jaguar",
-          "url": "https://open.spotify.com/artist/1BB1RTgquZcIV9ZmbVYqhu"
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
         }
       ],
       "date_added": "2021-10-31",
@@ -1504,6 +1504,10 @@
         {
           "name": "Un Coraz\u00f3n",
           "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
         }
       ],
       "date_added": "2021-10-31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,335 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,333 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 49 | [Nereye Böyle](https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A) | 4:37 |
 | 50 | [Aşk Yeniden](https://open.spotify.com/track/67p5AJSUQLh6mYtBJy6W1N) | [Yeni Türkü](https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3) | [Her Dem Yeni](https://open.spotify.com/album/2JONYT3F8nx5DMXhSa1QVS) | 2:49 |
 
-Snapshot ID: `MCw0OTFmMWJhYTA0MTIyNDNhZWU0NjM4MzA4NjY2OGQ0OWYwMWI2YTEz`
+Snapshot ID: `MCxjNWUwYWEzNTRlY2M0NjVkMzk4Zjc5NTk1ZjdiZWQwYWU0MGQxNzNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,391 likes - 200 songs - 14 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,452 likes - 200 songs - 14 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [Far From Over](https://open.spotify.com/track/0mbImplrU76kIvd52GlNbt) | [Frank Stallone](https://open.spotify.com/artist/3BucZwouCkpiGi2UxqfWn9) | [Frank Stallone](https://open.spotify.com/album/4khMOHn89Aq1yHqWgkVzxm) | 3:15 |
 | 200 | [Invincible](https://open.spotify.com/track/2kFCYlFRuC7YqM5stlM9fH) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Seven The Hard Way](https://open.spotify.com/album/72PfmPsimUrFAxfIaM70Xb) | 4:28 |
 
-Snapshot ID: `MCxlMzJmZDNhMzFkZWI3YmUwYWJmNDdkYjY2YzY0NDM0MWQzZmU5ZDg0`
+Snapshot ID: `MCwxNDAyYjhhMjk0ZTRmMTI2MWQ5MzhiOTZhMjE5MzUyMmVjNjZiMTBj`

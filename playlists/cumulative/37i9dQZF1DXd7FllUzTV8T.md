@@ -4,7 +4,7 @@
 
 > Instrumental relaxing jazz with the cozy sound of soft vinyl crackle.
 
-26 songs - 1 hr 13 min
+26 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Did you dream too](https://open.spotify.com/track/0F9nEWUXKZc4fJugGPqVX7) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/6T2PyJ2bjFRCtX5w5P8Ko6) | 3:17 | 2023-05-12 |  |
 | [Don't Know Why](https://open.spotify.com/track/6uPE44mlFld6sOFlgbgj72) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Don't Know Why](https://open.spotify.com/album/3nwZXqBNuBerpH4F5tMswC) | 3:10 | 2023-05-12 |  |
 | [Estrellita](https://open.spotify.com/track/5kgefxPXrQeJ2oPENUQhGi) | [Julia Quincy](https://open.spotify.com/artist/4wmfIOZiwqduNeeo9lv3AS) | [Estrellita](https://open.spotify.com/album/5QJ5jmZQ9nRnZNDAwlstUL) | 3:10 | 2023-05-12 |  |
-| [Have You Seen Me Lately](https://open.spotify.com/track/02VNGyJUX1Wptq1FnytNLz) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/1QUUDCMMNssid4YCLPNGtU) | 2:50 | 2023-05-12 |  |
+| [Have You Seen Me Lately](https://open.spotify.com/track/02VNGyJUX1Wptq1FnytNLz) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/1QUUDCMMNssid4YCLPNGtU) | 2:24 | 2023-05-12 |  |
 | [How High Is the Moon](https://open.spotify.com/track/2Gy8akJ4dmH5yVyaVVWh8W) | [Maude De Geyndt](https://open.spotify.com/artist/6W7IM4n11sIO9QqcCVQcNX) | [How High Is the Moon](https://open.spotify.com/album/4QHQ99exCjhNpTcYA5hkWX) | 3:37 | 2023-05-12 |  |
 | [Hush](https://open.spotify.com/track/5GRrBWwmmCwYqXxDNUJxg7) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Hush](https://open.spotify.com/album/6kwcGFHlU9rvA8Bepf8YZn) | 2:36 | 2023-05-12 |  |
 | [I fall in love too easily](https://open.spotify.com/track/0CpQmQGlTmL9uR3oCc4Hhu) | [Daniel Patarava](https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi) | [I fall in love too easily](https://open.spotify.com/album/5xBUXURTU9aTX4VWBoOghb) | 3:26 | 2023-05-12 |  |

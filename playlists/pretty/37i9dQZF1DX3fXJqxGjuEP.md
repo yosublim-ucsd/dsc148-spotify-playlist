@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,266 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,315 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 99 | [Me Pierdo Contigo](https://open.spotify.com/track/4KRIHFy34UpHs8RauCwjWg) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [El Afán](https://open.spotify.com/album/3KNX1cziZujwIVFNU6YsyG) | 4:19 |
 | 100 | [Mi Querer](https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb) | [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s) | [Pescador de Sueños](https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP) | 3:58 |
 
-Snapshot ID: `MCxmMzM4ZGZkYzM0Y2ZjNTQ3YTljYThiNzhmMzRhODFjNGNhOTVjMWJl`
+Snapshot ID: `MCwxYzUxMGRkNTA2NjNjYzU4Y2U3MmFkODAzYmU1N2RjZGMzNThhZDYy`

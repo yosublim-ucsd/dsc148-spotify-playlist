@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Relaja tu mente con m\u00fasica instrumental suave.",
+  "description": "Soothe your mind with gentle instrumentals.",
   "name": "Musical Therapy",
   "tracks": [
     {
@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Jasper",
+        "url": "https://open.spotify.com/album/0rklMojfiPjGxBSRVOGLrw"
+      },
+      "artists": [
+        {
+          "name": "Crystal Fragments",
+          "url": "https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190964,
+      "name": "Jasper",
+      "url": "https://open.spotify.com/track/2AG8ZJpqCZBAGYJKuWEXUr"
+    },
+    {
+      "album": {
         "name": "Jokk",
         "url": "https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA"
       },
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 178875,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/0dBvGHBWNzInAt4uyutg5i"

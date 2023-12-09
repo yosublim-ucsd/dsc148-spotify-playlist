@@ -1,12 +1,12 @@
 {
   "description": "Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now. Cover: She & Him\n",
-  "num_followers": 103156,
+  "num_followers": 103572,
   "original_name": "Folksy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGNjMDgyMTY5MGViNDZjMTQ0MzEwNzlhMmRkM2RkYzc5OWM0YTUw",
+  "snapshot_id": "MCw0MWNjOWJkYjNhOWYyMWUwYTJhODEyYzc4OWFjYjcwYzRhYjRmMThj",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2352,17 +2352,25 @@
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Strict Joy (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0PzQfgLNIgyNYcHvIjvmVs"
+        "url": "https://open.spotify.com/album/6VuvqpeSGgdtJrrmPJFxld"
       },
       "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        },
         {
           "name": "The Swell Season",
           "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
         }
       ],
       "duration_ms": 589653,
-      "name": "Star Star - Live",
-      "url": "https://open.spotify.com/track/3F3SaGhhAlXVUDD1Y3jIQ3"
+      "name": "Star Star (Live)",
+      "url": "https://open.spotify.com/track/05gfBG9GcyEbLTrUS8TPc1"
     },
     {
       "added_at": "2023-12-01 05:00:00",

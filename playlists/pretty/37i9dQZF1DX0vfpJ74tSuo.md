@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,350 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,375 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 149 | [Don´t Wait Too Long](https://open.spotify.com/track/22X6cjoUiFosUb9wcKvC7h) | [Ticket West](https://open.spotify.com/artist/4Uy2DEdyOMSontqmm1l29g), [Greg Izor](https://open.spotify.com/artist/4XfVGZm8nyn3aCLCkfKUkV) | [Chucufu](https://open.spotify.com/album/6wMrn8WuxDa68MSslYo2xl) | 2:10 |
 | 150 | [Monday Morning Blues](https://open.spotify.com/track/0UWg0V4IqANW1o7NNiZwxA) | [Sunjay](https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu) | [Black & Blues Revisited](https://open.spotify.com/album/28xKFUcoOpKPu4HbanKjzg) | 4:51 |
 
-Snapshot ID: `MCwyOGVkZmYwOTdhMjk1ZjdlODEzNGRlOTI5OWViMDc2NTE2NjMyZmYw`
+Snapshot ID: `MCw5MWYxZDAxYmUyZWM3MzBiODQ2M2M2MWYzZGNjMGMwOGJhOGQyYzBl`

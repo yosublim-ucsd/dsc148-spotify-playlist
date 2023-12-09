@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,044 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,072 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 99 | [ICE COLD](https://open.spotify.com/track/6ckW3AsQAhpVynQaYw3h2q) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [HYDROPONICS](https://open.spotify.com/album/1EvPq6LiKfCGFB1i0cytOf) | 2:53 |
 | 100 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
 
-Snapshot ID: `MCxmNjY5ZWRkYjI2NzQ0OWNjNTIwYWMwN2Q2ODZhYzZiNWY2NjQ5NzM3`
+Snapshot ID: `MCw1YzllNDg4MmE3NjQ5MTU2NGUxZDU5NDNkYWYwZjlmYjdlYWFhMzhm`

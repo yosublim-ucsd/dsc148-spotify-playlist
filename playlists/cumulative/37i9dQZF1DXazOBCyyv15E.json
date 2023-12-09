@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Genesis Owusu",
+  "description": "The home of the best new alternative music. Cover: Arlo Parks",
   "name": "The Other List",
   "tracks": [
     {
@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Life Is Infinite",
+        "url": "https://open.spotify.com/album/3bu72kr0HlzSAAEIXX8kmq"
+      },
+      "artists": [
+        {
+          "name": "Wings of Desire",
+          "url": "https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183885,
+      "name": "A Million Other Suns",
+      "url": "https://open.spotify.com/track/2FGRq0TtEfe5KpzxiBSXZu"
+    },
+    {
+      "album": {
         "name": "Yesteryear",
         "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
       },
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 238003,
       "name": "Actress",
       "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
@@ -2537,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "August 19",
+        "url": "https://open.spotify.com/album/1h4VJe5AfMPD7jAr2fLZYP"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155177,
+      "name": "August 19",
+      "url": "https://open.spotify.com/track/4c8x6c7l31Hvd4iZNztEuK"
+    },
+    {
+      "album": {
         "name": "For Seasons",
         "url": "https://open.spotify.com/album/4vE6jYwljcClktaIj0mBAV"
       },
@@ -3898,6 +3934,24 @@
       "duration_ms": 248680,
       "name": "Black Wagon",
       "url": "https://open.spotify.com/track/6r3BQE8GQmCKcK75KSsAlF"
+    },
+    {
+      "album": {
+        "name": "Blackhole Trajectory",
+        "url": "https://open.spotify.com/album/1nvd1zd8SPqHmL3FYICwU9"
+      },
+      "artists": [
+        {
+          "name": "Berry Galazka",
+          "url": "https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177973,
+      "name": "Blackhole Trajectory",
+      "url": "https://open.spotify.com/track/60uRNYsVEpiAQ1TXRiwQFl"
     },
     {
       "album": {
@@ -9672,7 +9726,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 154314,
       "name": "Everyday Life",
       "url": "https://open.spotify.com/track/33nIBZLkbps2iecMwXKCFs"
@@ -12510,7 +12564,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 172461,
       "name": "God Talks Back",
       "url": "https://open.spotify.com/track/6upguv1cl65uzFbKxvruFI"
@@ -12926,6 +12980,24 @@
       "duration_ms": 197228,
       "name": "Gotta Switch It On",
       "url": "https://open.spotify.com/track/1E2j3VmNCwxB2tzCkMHMYY"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
       "album": {
@@ -15464,7 +15536,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 226389,
       "name": "I'll Do What I Can",
       "url": "https://open.spotify.com/track/5XZn0Df8oGreE21uUKOtj2"
@@ -15610,6 +15682,28 @@
       "duration_ms": 143530,
       "name": "I'm Ready To Rock That",
       "url": "https://open.spotify.com/track/6d14XxfeCOfcNm5Er5SF9w"
+    },
+    {
+      "album": {
+        "name": "I'm Sorry (ft. Lous and The Yakuza)",
+        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     },
     {
       "album": {
@@ -17548,6 +17642,28 @@
       "duration_ms": 248133,
       "name": "Laura",
       "url": "https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba"
+    },
+    {
+      "album": {
+        "name": "LAUREN",
+        "url": "https://open.spotify.com/album/7tYzmylSBKXvZUQlh7cZHB"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        },
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173956,
+      "name": "LAUREN",
+      "url": "https://open.spotify.com/track/5sQSiJhUQcJDCW9S81bKIU"
     },
     {
       "album": {
@@ -22570,7 +22686,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 221410,
       "name": "On Me",
       "url": "https://open.spotify.com/track/0KyFZgZt3XJbCG1tlHNYTV"
@@ -23232,7 +23348,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 166151,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/4O6DdPUG5XiOvJAJNA0538"
@@ -25600,6 +25716,24 @@
       "duration_ms": 233237,
       "name": "Rooftops",
       "url": "https://open.spotify.com/track/3Z7mt5WbpqXI3JGGP2CKf8"
+    },
+    {
+      "album": {
+        "name": "why aren't you laughing?",
+        "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253745,
+      "name": "rot in love",
+      "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
     },
     {
       "album": {
@@ -29818,7 +29952,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 185371,
       "name": "Suspended",
       "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
@@ -32845,6 +32979,24 @@
     },
     {
       "album": {
+        "name": "TREES",
+        "url": "https://open.spotify.com/album/6vZAJX21PTGk70FR4IZ7De"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173056,
+      "name": "TREES",
+      "url": "https://open.spotify.com/track/1ncnbhT16pKyQV73MK9wHY"
+    },
+    {
+      "album": {
         "name": "Wavey",
         "url": "https://open.spotify.com/album/4WTwNXwgE9EKO8EsBmmbQk"
       },
@@ -33210,6 +33362,24 @@
       "duration_ms": 231202,
       "name": "Typical Love",
       "url": "https://open.spotify.com/track/34WHYUktlNEQjcySYBpiJJ"
+    },
+    {
+      "album": {
+        "name": "u come near",
+        "url": "https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192390,
+      "name": "u come near",
+      "url": "https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN"
     },
     {
       "album": {

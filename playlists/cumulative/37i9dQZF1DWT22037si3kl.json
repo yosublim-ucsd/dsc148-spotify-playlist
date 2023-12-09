@@ -910,7 +910,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 225974,
       "name": "Broncud\u00e3o",
       "url": "https://open.spotify.com/track/3vMLoG513lbA3ATxIJi0z9"
@@ -1018,6 +1018,32 @@
       "duration_ms": 107055,
       "name": "CALA-BOCA VADIA",
       "url": "https://open.spotify.com/track/1dzzdWpDKbZzZWVfNM8Zk5"
+    },
+    {
+      "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "Rare Kidd",
+          "url": "https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178728,
+      "name": "Camuflado De BAPE - Feat. Rare Kidd",
+      "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
     },
     {
       "album": {
@@ -2569,6 +2595,28 @@
     },
     {
       "album": {
+        "name": "Fashion Cria",
+        "url": "https://open.spotify.com/album/7GZqAxKQOkiv5OKrJ25WUB"
+      },
+      "artists": [
+        {
+          "name": "Thai Flow",
+          "url": "https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Fashion Cria",
+      "url": "https://open.spotify.com/track/459ztj37W4Afh6JsdCU5Pe"
+    },
+    {
+      "album": {
         "name": "Feir\u00e3o dos 23",
         "url": "https://open.spotify.com/album/0ZYNF7WWXHIzVj7iVri3st"
       },
@@ -2718,6 +2766,14 @@
         {
           "name": "Caio Luccas",
           "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "prodbyiniesta",
+          "url": "https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB"
         }
       ],
       "date_added": "2023-11-17",
@@ -3854,7 +3910,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 144657,
       "name": "LEGO",
       "url": "https://open.spotify.com/track/0irSVZzJLj4hYIDj9kyxTq"
@@ -5286,12 +5342,12 @@
       },
       "artists": [
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
           "name": "Major RD",
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
           "name": "Derek",
@@ -5360,6 +5416,24 @@
       "duration_ms": 155771,
       "name": "N\u00c9 SEGREDO",
       "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
+    },
+    {
+      "album": {
+        "name": "Fontalis / N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
+        "url": "https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91890,
+      "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
+      "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
     },
     {
       "album": {
@@ -5512,6 +5586,24 @@
       "duration_ms": 218552,
       "name": "Orix\u00e1s",
       "url": "https://open.spotify.com/track/6OOXUAJqwZ8LhwgpXdZFKV"
+    },
+    {
+      "album": {
+        "name": "UNIK",
+        "url": "https://open.spotify.com/album/77JE2iIITjvdSYcE7lB19z"
+      },
+      "artists": [
+        {
+          "name": "DESSIIIK",
+          "url": "https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152516,
+      "name": "Os Mlk Eh Ruim",
+      "url": "https://open.spotify.com/track/1ISKkbmjqAEkaAfO3jIQvv"
     },
     {
       "album": {
@@ -6118,6 +6210,28 @@
       "duration_ms": 125405,
       "name": "Polo",
       "url": "https://open.spotify.com/track/0qZCXSCeZZB238Vmk28XMC"
+    },
+    {
+      "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154789,
+      "name": "Porsche \"Ye Yo\"",
+      "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
     },
     {
       "album": {
@@ -6928,7 +7042,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 206869,
       "name": "Show Lotado",
       "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
@@ -7244,7 +7358,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 152452,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR"
@@ -8038,7 +8152,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 132413,
       "name": "X6",
       "url": "https://open.spotify.com/track/7mBvm8Btuuki2jsh6y1d6L"

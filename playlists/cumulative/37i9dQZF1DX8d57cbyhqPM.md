@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Pierre Kwenders
+> Du Congo, au monde\. 🌍 Photo: Koffi Olomide
 
-319 songs - 19 hr 57 min
+321 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Honey bee](https://open.spotify.com/track/5MnOolAxJbVqRvFYruVIfS) | [Bader](https://open.spotify.com/artist/1bcBNTeAi5f7rlUHpqYrZ4), [Ouzbek](https://open.spotify.com/artist/35agMu466xyff2jEokqhes) | [Honey bee](https://open.spotify.com/album/48Widtr5Le1phLHCCLu8bd) | 2:43 | 2023-12-01 |  |
 | [Hypnosia](https://open.spotify.com/track/3y37dGMIG4msr8n8jEcqh2) | [Scor Novy](https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS) | [Hypnosia](https://open.spotify.com/album/3US94NljdsVB2HON8Y5YlM) | 3:32 | 2022-09-23 | 2023-03-18 |
 | [I Love You](https://open.spotify.com/track/71N5pPfGIAwXvlQAfwr4PU) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I Love You](https://open.spotify.com/album/3ZRL0ytPa6BNp5IGjMDhvo) | 3:18 | 2023-11-10 | 2023-11-18 |
+| [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:58 | 2023-12-08 |  |
 | [Indess](https://open.spotify.com/track/6niNPp6rdlIQS61n95OQwo) | [Mobeti beat](https://open.spotify.com/artist/4SWuugJ2IJ1RppX6XOwfqt), [Bazzarba](https://open.spotify.com/artist/3yW1RJsMZEla8T9KvnPSJL) | [Indess](https://open.spotify.com/album/4A4yPkRSHMDr0DMvehKUgR) | 3:25 | 2023-09-01 | 2023-10-21 |
 | [J'ai trop de doute](https://open.spotify.com/track/6Y7id1J4IhIgAMUkNJDAjM) | [Unice Impacha](https://open.spotify.com/artist/6LRDzElFJeeRgHwV50rfeE), [Muz](https://open.spotify.com/artist/431RfrruAfhLUmeQz6GzXI) | [J'ai trop de doute](https://open.spotify.com/album/7A1sGtnEjm2j2GAZiNeODh) | 2:48 | 2022-07-08 | 2022-08-27 |
 | [Jalousie](https://open.spotify.com/track/0rpHNyZcbc2CGPbQoTdUpm) | [AFARA TSENA FUKUSHIMA](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Coupé Décalé Congolais](https://open.spotify.com/album/6zcYVb2j21Mr2wHr7AlYOj) | 5:15 | 2022-07-15 | 2022-11-19 |
@@ -154,6 +155,7 @@
 | [Layla](https://open.spotify.com/track/0klmQDAOLoljdcwE1rkDB5) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/4g20c8SqGL2SSpKO7gZl1t) | 2:43 | 2023-06-23 | 2023-06-30 |
 | [Layla \(Take Me On Your Way\)](https://open.spotify.com/track/75qhfaxUqXvOT5iVrS8G8H) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla \(Take Me On Your Way\)](https://open.spotify.com/album/61i6XhRYoDc4TgxZ120QXC) | 2:43 | 2023-06-23 | 2023-07-15 |
 | [Legendary](https://open.spotify.com/track/128oY6xP0F8PDiPVFVUfka) | [IDPizzle](https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC) | [LEGENDARY](https://open.spotify.com/album/1guIFqEjlYrQSh1mXTt8w8) | 2:50 | 2023-06-09 | 2023-09-16 |
+| [Legende](https://open.spotify.com/track/7xhmtGvVqulcdUcsaauS15) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Legende](https://open.spotify.com/album/5Fxc5sWsRgEJ66jIkRBYYg) | 3:12 | 2023-12-08 |  |
 | [Lekela Muadi](https://open.spotify.com/track/6PLr81r85eFZMivn5aHrOh) | [Tshala Muana](https://open.spotify.com/artist/7Eg9NJC0jFmuEtqT1N5Bdv) | [Mutuashi](https://open.spotify.com/album/19mFwYhkUjh2t4D93W8os3) | 5:22 | 2023-01-27 | 2023-02-25 |
 | [Libanda](https://open.spotify.com/track/7lxzDgpOgHd8CETw86oXIg) | [Agressivo Nyandoro](https://open.spotify.com/artist/1E09SS6iKT5r8lDG0VdJOn) | [Libanda](https://open.spotify.com/album/5pZQrDVvODszoYNI2jtoZ2) | 2:14 | 2022-09-09 | 2023-01-28 |
 | [Liberté](https://open.spotify.com/track/5sLWCgrKYYNuWfMgu8krCu) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Liberté](https://open.spotify.com/album/3C7SlGR3xxHxftI4UxPmC2) | 6:00 | 2022-09-02 | 2023-01-28 |
@@ -198,7 +200,7 @@
 | [Motivation](https://open.spotify.com/track/4i4VJqautuPs4c8WlgdQzz) | [Mc\-cool Anguzo](https://open.spotify.com/artist/70mPeHdPgAIeOYhjL8xtBr) | [Motivation](https://open.spotify.com/album/48fSfulmRvtuVOKZXn6a8F) | 4:02 | 2022-10-07 | 2023-01-28 |
 | [MOTO YA 2 FOIS TE](https://open.spotify.com/track/0ItpulUvbfHp5BUhWRWHku) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [MOTO YA 2 FOIS TE](https://open.spotify.com/album/0X1gWuPzMfMrAJQQctSGjW) | 3:43 | 2022-12-08 | 2023-03-18 |
 | [Mukila](https://open.spotify.com/track/76Z253AF0PcCEOFbBy3TeS) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Mukila](https://open.spotify.com/album/77JAOcjSdDRaB5PW1j0zDM) | 3:02 | 2022-06-30 | 2022-07-09 |
-| [Mukongo](https://open.spotify.com/track/6WVDlfwQiquzD8daC0vCgI) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te), [Bill Clinton Kalonji](https://open.spotify.com/artist/7LuYI195pq8XPB6FutPLdD) | [Mukongo](https://open.spotify.com/album/5gfuY6txGvt4B32LE5F92L) | 2:50 | 2023-11-24 |  |
+| [Mukongo](https://open.spotify.com/track/6WVDlfwQiquzD8daC0vCgI) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te), [Bill Clinton Kalonji](https://open.spotify.com/artist/7LuYI195pq8XPB6FutPLdD) | [Mukongo](https://open.spotify.com/album/5gfuY6txGvt4B32LE5F92L) | 2:50 | 2023-11-24 | 2023-12-09 |
 | [Muselu](https://open.spotify.com/track/3OkLPaGFAjbpCVC31V6pNL) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Dj Izzo](https://open.spotify.com/artist/11blWfNKSduuXQUmpMIve5) | [Muselu](https://open.spotify.com/album/3c6N0JVOcFLrMMhFQOPoj3) | 3:28 | 2022-09-16 | 2023-07-08 |
 | [Mutu Ebeba](https://open.spotify.com/track/2GAA7jWcNgb0mMIZ4Zb3r1) | [SHARABIA](https://open.spotify.com/artist/5TcxIt337AdejHrxFa5KTN) | [Mutu EBEBA](https://open.spotify.com/album/6ePKPQSOmiFxZYb9qyFemo) | 4:31 | 2022-08-19 | 2023-03-18 |
 | [Muziko \(Remix\)](https://open.spotify.com/track/0myEyvPyNgmMwVTHkWlXwX) | [DJ P2N](https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mambo](https://open.spotify.com/album/0TyIDqKomocrUepDK60JsZ) | 4:34 | 2023-11-24 |  |
@@ -304,7 +306,7 @@
 | [Vanessa \- Remix](https://open.spotify.com/track/40xHXnukuqlE1yfc75Q1dZ) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Vanessa \(Remix\)](https://open.spotify.com/album/7juck8RxJLoKTITfAZKt0X) | 3:12 | 2023-04-07 | 2023-09-09 |
 | [Vas Laba \(Afroflip\)](https://open.spotify.com/track/2BqEQaryZII0qbbN7eo7Jj) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Vas Laba \(Afroflip\)](https://open.spotify.com/album/0ErTOqCZ1f6zEIRlkSzxED) | 2:39 | 2023-03-31 | 2023-08-19 |
 | [Vita Nzoto](https://open.spotify.com/track/4mNLvByLESJ18RRSkxuSii) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Love Lokombe](https://open.spotify.com/artist/1oiTM6RUjVUAmDXDpbv6ob) | [SMS for Location, Vol\. 5](https://open.spotify.com/album/09qNuueWvc74UyyrqLDTIO) | 4:02 | 2022-12-02 | 2023-03-18 |
-| [Waah! \(feat\. Koffi Olomide\)](https://open.spotify.com/track/0ceJAvjokFWwhh0nsOM9QD) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Waah! \(feat\. Koffi Olomide\)](https://open.spotify.com/album/4Jk9lFqW5Jubq6RblSowLj) | 4:29 | 2023-03-17 |  |
+| [Waah! \(feat\. Koffi Olomide\)](https://open.spotify.com/track/0ceJAvjokFWwhh0nsOM9QD) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Waah! \(feat\. Koffi Olomide\)](https://open.spotify.com/album/4Jk9lFqW5Jubq6RblSowLj) | 4:29 | 2023-03-17 | 2023-12-09 |
 | [WAKA WAKA](https://open.spotify.com/track/3IriOnjl5WTuREfvzDPjJ4) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [WAKA WAKA](https://open.spotify.com/album/7f2AMUr6ZW0OIfRzg7fsk3) | 3:32 | 2022-08-26 | 2022-08-29 |
 | [Wake up](https://open.spotify.com/track/4qRgqWuM5PNKiuD7x3UPP9) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Wake Up](https://open.spotify.com/album/0isIGnIWJ4lVVmG2rvXF7I) | 6:49 | 2022-06-30 | 2022-12-17 |
 | [What It Do Baby](https://open.spotify.com/track/2cSlM8aBaXFNoj7QBSXLmZ) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe) | [What It Do Baby](https://open.spotify.com/album/2BNJwGkYA8mmSLAnVQQ2Cu) | 2:56 | 2023-10-27 |  |

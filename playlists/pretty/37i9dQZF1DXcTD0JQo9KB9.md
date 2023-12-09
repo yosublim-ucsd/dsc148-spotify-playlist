@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,716 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,874 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 5 | [我也難過的](https://open.spotify.com/track/2PkErrvrjQry3l1IhhJsor) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [我也難過的](https://open.spotify.com/album/2hFVXHct1VP9me00DzxDCj) | 4:38 |
 | 6 | [好好掛住](https://open.spotify.com/track/0QA3wOHY0d8IYsevIrBrce) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [好好掛住](https://open.spotify.com/album/4x8GGMwSp8CfwW5EG0RjBs) | 4:51 |
 | 7 | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/track/1lY6aCnPSoLbwpukEk9l57) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/album/6AMjxEmzxMtlDomTbD13dg) | 4:02 |
-| 8 | [尋找隱世巨聲 \(feat\. Young Hysan\)](https://open.spotify.com/track/5EsbPLjrFIOHRndKFxbVnx) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL), [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [尋找隱世巨聲 \(feat\. Young Hysan\)](https://open.spotify.com/album/0FH9XolUtz2VSuYCkuy3pc) | 3:28 |
+| 8 | [尋找隱世巨聲 \(feat\. Young Hysan\)](https://open.spotify.com/track/5EsbPLjrFIOHRndKFxbVnx) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL), [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [尋找隱世巨聲 \(feat\. Young Hysan\)](https://open.spotify.com/album/0FH9XolUtz2VSuYCkuy3pc) | 3:29 |
 | 9 | [沒有翅膀的天使](https://open.spotify.com/track/1VU4roZEde9uI25e4rUOuU) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [沒有翅膀的天使](https://open.spotify.com/album/65wTjD7QDdhpMedeTA2XDe) | 3:18 |
 | 10 | [給缺席的人唱首歌](https://open.spotify.com/track/1jPDZpQoMwgmP3CzmIiTxB) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Love & Loss](https://open.spotify.com/album/2irTqW2Js2rvHWJPxW39XO) | 3:57 |
 | 11 | [萬一你是個好人](https://open.spotify.com/track/6lwMbAQ6RLzlXrX5Zh1rG6) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [萬一你是個好人](https://open.spotify.com/album/7l4sUDR6RnR3DVrsfrmo3g) | 3:05 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 105 | [水花四濺](https://open.spotify.com/track/42DleX9v5bbIzWJDvkiYRo) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [廣東勵志歌集](https://open.spotify.com/album/0E59wmj03ppImPuzwE2onD) | 4:17 |
 | 106 | [哲學家](https://open.spotify.com/track/1wdPW3bn0ysQVdRhWET6XL) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [哲學家](https://open.spotify.com/album/3bI27pOCKevhTpBHTDPTdW) | 4:34 |
 
-Snapshot ID: `MCw0YzMzOTFkZjFlNDI5OTFlOTYyZmFiMzBhZWY0NDUxZTQ5NTBmNTAz`
+Snapshot ID: `MCw4MjI2N2IwNTE0ZmUyOGM3OTY2NjRmOTAzNjY2YTJhNmZjMmU4Yjhi`

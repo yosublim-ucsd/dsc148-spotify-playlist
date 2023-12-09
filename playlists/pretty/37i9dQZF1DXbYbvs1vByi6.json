@@ -1,12 +1,12 @@
 {
   "description": "Non-stop energy, riffs and belters.. it never gets old, no guest list required.",
-  "num_followers": 82226,
+  "num_followers": 83611,
   "original_name": "Sticky Floors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGEzYjVhOGI3MzUzZjVhYjcyMzcyZDMzZWYxMTM0YmI1OGRmOGMz",
+  "snapshot_id": "MCwzMjg1MjAwMWIzNGY5MjQ2ZGU4NDZiMTNhMTEyMmIxNmZiMGM1MjIx",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -187,18 +171,18 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
       },
       "artists": [
         {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 181493,
-      "name": "Bleed American",
-      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
+      "duration_ms": 227440,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -215,6 +199,22 @@
       "duration_ms": 195666,
       "name": "Jerk It Out",
       "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Bleed American",
+      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Pacifier",
+      "url": "https://open.spotify.com/track/1rcu88dzWE5GyqtpuWvd0C"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "Sam's Town",
         "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 196613,
       "name": "Banquet",
       "url": "https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Pacifier",
-      "url": "https://open.spotify.com/track/1rcu88dzWE5GyqtpuWvd0C"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Veni Vidi Vicious",
-        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 199759,
-      "name": "Hate To Say I Told You So",
-      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Joy as an Act of Resistance.",
         "url": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 228831,
       "name": "Never Fight A Man With A Perm",
       "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Veni Vidi Vicious",
+        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 199759,
+      "name": "Hate To Say I Told You So",
+      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "British Bombs",
-        "url": "https://open.spotify.com/album/18nvSHmOdaQNgpz7vsJKPr"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 297714,
-      "name": "British Bombs",
-      "url": "https://open.spotify.com/track/4ZdmTNaBTErD8n9AQE0YaX"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Twin Fantasy",
         "url": "https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 240832,
       "name": "Sticks 'N' Stones",
       "url": "https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "British Bombs",
+        "url": "https://open.spotify.com/album/18nvSHmOdaQNgpz7vsJKPr"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 297714,
+      "name": "British Bombs",
+      "url": "https://open.spotify.com/track/4ZdmTNaBTErD8n9AQE0YaX"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Kiss With A Fist",
-      "url": "https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Idealism",
         "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 226466,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Kiss With A Fist",
+      "url": "https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Your Life Your Time",
-        "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 160257,
-      "name": "Your Life Your Time",
-      "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Brutalism",
         "url": "https://open.spotify.com/album/5qag6esZLv5ySuCpzh7CE6"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 207145,
       "name": "Mother",
       "url": "https://open.spotify.com/track/7klLTLP8zff6I83OK0AMgO"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Your Life Your Time",
+        "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 160257,
+      "name": "Your Life Your Time",
+      "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Box of Secrets",
+        "url": "https://open.spotify.com/album/0uOyWZz1ZnQczjvuF9SWWf"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "It's Getting Boring By The Sea",
+      "url": "https://open.spotify.com/track/0Y1FLqg7c4YFCKP2F6HXsG"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "Autoportrait",
         "url": "https://open.spotify.com/album/4m1P0dk7zsTTsE2BrkbhnU"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 271560,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/243b3t0P416vtdmxRllHEV"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Box of Secrets",
-        "url": "https://open.spotify.com/album/0uOyWZz1ZnQczjvuF9SWWf"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "It's Getting Boring By The Sea",
-      "url": "https://open.spotify.com/track/0Y1FLqg7c4YFCKP2F6HXsG"
     },
     {
       "added_at": "2023-05-25 23:00:00",

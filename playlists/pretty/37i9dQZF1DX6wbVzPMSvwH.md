@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,096 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,130 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 20 | [Badai Telah Berlalu](https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Badai Telah Berlalu](https://open.spotify.com/album/1p2jwOWf4I5rYGswXLKJR9) | 4:55 |
 | 21 | [BESTFRiEND](https://open.spotify.com/track/0yyAfb33Q5FlvZoN3HS43R) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BESTFRiEND](https://open.spotify.com/album/6Swoif6uZsn9YIj59mzJN2) | 3:25 |
 | 22 | [Kehilangan](https://open.spotify.com/track/7IgGkjE5Ceph27pn47pAmr) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Kehilangan](https://open.spotify.com/album/5eW6letl2iRvCaFXkSgZVF) | 4:13 |
-| 23 | [O.\. Ya](https://open.spotify.com/track/4nGfDDgOFVIqMajwVaWNgb) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O..Ya ?](https://open.spotify.com/album/3VM7RnhgmmCfmcVBzuRwWc) | 3:07 |
+| 23 | [O..\. Ya...](https://open.spotify.com/track/4nGfDDgOFVIqMajwVaWNgb) | [Kelompok 3 Suara](https://open.spotify.com/artist/6G5TFh2HwPlrpmtMZUl5KW) | [O..Ya ?](https://open.spotify.com/album/3VM7RnhgmmCfmcVBzuRwWc) | 3:07 |
 | 24 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 |
 | 25 | [switch](https://open.spotify.com/track/6A4XsPmI6glgApuoxfPwth) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [switch](https://open.spotify.com/album/2Zb4aAsyr1zjhladO2rQfW) | 3:25 |
 | 26 | [Parasite](https://open.spotify.com/track/4zEXOewY4f3ITJd43MZ76u) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Eva Celia](https://open.spotify.com/album/5ytIY5JSaLVxOwYWaY7xYx) | 3:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 69 | [Cintaku](https://open.spotify.com/track/41S84NxXxO4IkYRp4WHr1d) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Badai Pasti Berlalu](https://open.spotify.com/album/5xBOU4ZYI4GZ1QnRj3bUMp) | 4:38 |
 | 70 | [All Good](https://open.spotify.com/track/3s8ik4CUIZXXGDBgD0EAZ5) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [All Good](https://open.spotify.com/album/5b5nv0yq43oHzu1HcuY3ZI) | 3:13 |
 
-Snapshot ID: `MCw0Yjg2MTYwZmFjMzBmNjlkMGI3ZDk1YmQyMWQ5NzliYjI2NzUxOThl`
+Snapshot ID: `MCw3NzEzN2M2NGQzMDE3NTU5NWZmNWUxNWU4MGFkMmQyYWE0MmE3Njcw`

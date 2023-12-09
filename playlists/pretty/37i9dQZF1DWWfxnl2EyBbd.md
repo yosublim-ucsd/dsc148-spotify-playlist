@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,341 likes - 400 songs - 1 day 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,396 likes - 400 songs - 1 day 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Denmark](https://open.spotify.com/track/4An9UP6jPeBqQQVxSQqU0z) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Denmark](https://open.spotify.com/album/0RBjVKwdTopRmzaSUWE1la) | 3:47 |
 | 400 | [Red Milk](https://open.spotify.com/track/2S7VcpELtk2PK61IjHq0zO) | [Alessandro Galati](https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Traction Avant Vol.2](https://open.spotify.com/album/4SFScQIEdCjOpeg5PcqrMk) | 7:42 |
 
-Snapshot ID: `MCxkZjJmYjk4MWJhMjliZTcyNGUyMWM2ODMwMTE3ZjcwNDVkMWM4ZjFi`
+Snapshot ID: `MCw0Yjk1N2M2Y2M2YTgyMGY4MTUyYjRhYTMyOWEyYzhiM2E0Y2NjZjU4`

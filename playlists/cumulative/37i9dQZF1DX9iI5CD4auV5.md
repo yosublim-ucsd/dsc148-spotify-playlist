@@ -4,7 +4,7 @@
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-183 songs - 17 hr 7 min
+184 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Inner Vision](https://open.spotify.com/track/68DQbuR3ulifO7R7GzqtWK) | [Blanco K](https://open.spotify.com/artist/3R8CoLaVPHCE55AkYktjdj) | [Inner Vision](https://open.spotify.com/album/1PHAeuLr57TZOeKZoPdVyl) | 5:42 | 2023-11-22 |  |
 | [Invert Drift](https://open.spotify.com/track/68nhhAKNAt09d5NOglXD0K) | [Jonathan Kaspar](https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0) | [Invert Drift](https://open.spotify.com/album/1AKYPOmxoOQEhUDEuCOHfB) | 7:28 | 2022-08-12 | 2023-11-23 |
 | [Jax](https://open.spotify.com/track/6AvmOcewNFMHRCFXP8NmDU) | [Mr Joe](https://open.spotify.com/artist/79FhvDnJD146q8X3kYtXmG) | [Jax](https://open.spotify.com/album/3rrklYrGNr3uhyw321oB8t) | 7:16 | 2022-11-07 | 2023-03-18 |
-| [Jolean](https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi) | [Get Real](https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql), [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Jolean](https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj) | 3:13 | 2022-08-12 |  |
+| [Jolean](https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi) | [Get Real](https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql), [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Jolean](https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj) | 3:13 | 2022-08-12 | 2023-12-09 |
+| [Jolean](https://open.spotify.com/track/5nUJfA9CcphMdkS14cAPoo) | [Get Real](https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql), [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Jolean](https://open.spotify.com/album/31tFwWld1FcTuvwqTCdFai) | 3:13 | 2023-11-22 |  |
 | [Jungle Rumble](https://open.spotify.com/track/5Zps2YxHKIefCSGoTPnoQO) | [Mr Joe](https://open.spotify.com/artist/79FhvDnJD146q8X3kYtXmG) | [Jungle Rumble, Seasons, Tank \(Original Mixes\)](https://open.spotify.com/album/7IrLPYtl5A7vqB9CHFjA0p) | 5:13 | 2022-08-12 | 2022-11-08 |
 | [Keep Yo'Self](https://open.spotify.com/track/2VPrcsxunHdIOztCnj7D5y) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [Keep Yo'Self](https://open.spotify.com/album/5h09CUCivm1mlqNQOvPLAX) | 7:46 | 2023-10-18 |  |
 | [KissShower](https://open.spotify.com/track/5Rif3fzd4QRwZzFVppnyyt) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Blazing Kiss EP](https://open.spotify.com/album/0RxG3wv7Vgq6Eo5M6ZHMfD) | 7:56 | 2023-06-20 | 2023-10-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,798 likes - 200 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,879 likes - 200 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [It Never Entered My Mind](https://open.spotify.com/track/3Di0QuYbltNHaIU85cpxvi) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ) | 4:28 |
 | 200 | [The Game](https://open.spotify.com/track/1g7bWSgup8GCqIGjdM2XfO) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [The Game](https://open.spotify.com/album/4D18ZUei6YL7N0S2yOsKU3) | 2:06 |
 
-Snapshot ID: `MCw4YmE1M2FlNGE5MDYyNDYwMmQ3ODI3NDQ1MTRiNzIyNGYyNTcwMWNh`
+Snapshot ID: `MCxlYWJhMjkyMGIzOTgyZTdhZjQ1MDQ0YWE4OTdkNTllNTA5NmJjNzg3`

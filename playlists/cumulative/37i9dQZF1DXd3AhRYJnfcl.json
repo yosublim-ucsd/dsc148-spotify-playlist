@@ -312,10 +312,28 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 178885,
       "name": "Alo Aleky",
       "url": "https://open.spotify.com/track/0St4yTM6hCeEmguD3Orcrt"
+    },
+    {
+      "album": {
+        "name": "Alo Aleky",
+        "url": "https://open.spotify.com/album/5vK51kHNYyuHEz3Ikftc7I"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178885,
+      "name": "Alo Aleky",
+      "url": "https://open.spotify.com/track/0qC4KxOmWoSaMqwj9rHp49"
     },
     {
       "album": {
@@ -3002,10 +3020,28 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 179284,
       "name": "W El 7al Eh",
       "url": "https://open.spotify.com/track/5uz5RuH7joyHiwk17HXlOj"
+    },
+    {
+      "album": {
+        "name": "W El 7al Eh",
+        "url": "https://open.spotify.com/album/620iOLdLBpcOwoNxGIoe4f"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179284,
+      "name": "W El 7al Eh",
+      "url": "https://open.spotify.com/track/6HeKAyGEX0EW0AvGTw1xgn"
     },
     {
       "album": {
@@ -3456,7 +3492,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 152440,
       "name": "\u0627\u0644\u0639\u062f\u0644 \u0641\u0648\u0642 \u0627\u0644\u062c\u0645\u064a\u0639",
       "url": "https://open.spotify.com/track/72MAyfGDYRcbDYV7MCXbHM"
@@ -3728,6 +3764,24 @@
       "duration_ms": 250540,
       "name": "\u062c\u0648\u0628",
       "url": "https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ"
+    },
+    {
+      "album": {
+        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198571,
+      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
     },
     {
       "album": {
@@ -4340,6 +4394,24 @@
     {
       "album": {
         "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
+        "url": "https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU"
+      },
+      "artists": [
+        {
+          "name": "Nawal",
+          "url": "https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194769,
+      "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
+      "url": "https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD"
+    },
+    {
+      "album": {
+        "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
         "url": "https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf"
       },
       "artists": [
@@ -4350,7 +4422,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 198019,
       "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
       "url": "https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS"

@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 146553,
       "name": "AKRI TU ERE UN XULO",
       "url": "https://open.spotify.com/track/6eAB8tVW7rhRgggH472v9U"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 177073,
       "name": "Asueto",
       "url": "https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 241495,
       "name": "Desahogo",
       "url": "https://open.spotify.com/track/4eMRhv8upvXUYIEytqTFCT"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 171489,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/0rYe2Q8YgxMYJU0K0P5ZCY"
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 359500,
       "name": "LA MANTECA - REMIX",
       "url": "https://open.spotify.com/track/5x1wKXnbhBMDRlzpZ5chUh"
@@ -2597,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "MONEY",
+        "url": "https://open.spotify.com/album/5o1UerVaeoTNUpz7ryr8Yj"
+      },
+      "artists": [
+        {
+          "name": "GUNTTER",
+          "url": "https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199613,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/1R3ctOVgBcWG8Z06dXzkrO"
+    },
+    {
+      "album": {
         "name": "MOOD",
         "url": "https://open.spotify.com/album/40CmCZdJ1bgAv2BcM8nOGm"
       },
@@ -2704,6 +2722,36 @@
       "duration_ms": 233691,
       "name": "NANANA",
       "url": "https://open.spotify.com/track/46v7xjMRboET7RmhbJvK5g"
+    },
+    {
+      "album": {
+        "name": "Casi Angeles",
+        "url": "https://open.spotify.com/album/6q1HM0kjnKUsyvEzSfrDsw"
+      },
+      "artists": [
+        {
+          "name": "ORO600",
+          "url": "https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "0-600",
+          "url": "https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd"
+        },
+        {
+          "name": "Orodembow",
+          "url": "https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205217,
+      "name": "Nena Sad",
+      "url": "https://open.spotify.com/track/1tMG67mMQCsculYUqJR5RC"
     },
     {
       "album": {
@@ -2850,6 +2898,32 @@
       "duration_ms": 136842,
       "name": "OG's",
       "url": "https://open.spotify.com/track/2LSn8p8LjO6TB7NwtXcDx8"
+    },
+    {
+      "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/1vociHnTa4dFb6K5qYwrIp"
+      },
+      "artists": [
+        {
+          "name": "C. Flee",
+          "url": "https://open.spotify.com/artist/2ai7pfLQa1AFe6Pl8USsim"
+        },
+        {
+          "name": "Keed Baby",
+          "url": "https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/5LuePRU2YArXpkCoU0cXaX"
     },
     {
       "album": {
@@ -3278,10 +3352,32 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 149000,
       "name": "Ring",
       "url": "https://open.spotify.com/track/5mHEyc9rS7Oi4o07yUlOVh"
+    },
+    {
+      "album": {
+        "name": "Sabio",
+        "url": "https://open.spotify.com/album/4U081d9PgMAMylCphc5v6p"
+      },
+      "artists": [
+        {
+          "name": "El Doctor",
+          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240956,
+      "name": "Sabio",
+      "url": "https://open.spotify.com/track/0Rul56oJRTpYSUFodXo3Ge"
     },
     {
       "album": {
@@ -4068,7 +4164,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 161383,
       "name": "Tu No Saben",
       "url": "https://open.spotify.com/track/4P2RAk00C46M6qXvZtlSBX"
@@ -4290,7 +4386,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 149064,
       "name": "Vision",
       "url": "https://open.spotify.com/track/4ls9U6ee7CRONWg4mfWgpN"
@@ -4378,7 +4474,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 219560,
       "name": "VLONE",
       "url": "https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5"
@@ -4478,7 +4574,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 161652,
       "name": "XERATON",
       "url": "https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42"

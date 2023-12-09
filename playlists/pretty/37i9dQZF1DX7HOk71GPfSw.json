@@ -1,13 +1,361 @@
 {
   "description": "he was a boy, i was a horse. could that make it any more difficult. ",
-  "num_followers": 425380,
+  "num_followers": 425543,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjliNTc5MDE2N2ZhYWU2ZDg3MmI4NDI1NjVmZWZlNTNlYTA3MWVh",
+  "snapshot_id": "MCxhZWFiYzBlMjRmOWE3Yzc1MGVmNjM5NTBiMTZjM2E3NjU4MjEzYTEw",
   "tracks": [
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "Soft Rock",
+        "url": "https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1"
+      },
+      "artists": [
+        {
+          "name": "Thy Slaughter",
+          "url": "https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        },
+        {
+          "name": "EASYFUN",
+          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
+        }
+      ],
+      "duration_ms": 143704,
+      "name": "Sentence",
+      "url": "https://open.spotify.com/track/4tGtEGg2A20DKXGMZFpf0F"
+    },
+    {
+      "added_at": "2023-12-08 15:49:00",
+      "album": {
+        "name": "roll it down",
+        "url": "https://open.spotify.com/album/1GvPMBHnPFLOFPldATe7wQ"
+      },
+      "artists": [
+        {
+          "name": "dear cupid.",
+          "url": "https://open.spotify.com/artist/31nUrCOQRMlh4cg7aUpD43"
+        }
+      ],
+      "duration_ms": 177998,
+      "name": "roll it down",
+      "url": "https://open.spotify.com/track/60YXipkRAfg54PRGVPyBmp"
+    },
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "IT IS WHAT IT IS",
+        "url": "https://open.spotify.com/album/0VhIZyBKoUgJKNrICNsCFf"
+      },
+      "artists": [
+        {
+          "name": "BRONZE AVERY",
+          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
+        }
+      ],
+      "duration_ms": 114626,
+      "name": "IT IS WHAT IT IS",
+      "url": "https://open.spotify.com/track/54rkDSLIa8TbUi7yZOoD33"
+    },
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "Q.O.S.D",
+        "url": "https://open.spotify.com/album/1zV9Coy8MhabcGX7d16bkP"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        }
+      ],
+      "duration_ms": 131188,
+      "name": "Q.O.S.D",
+      "url": "https://open.spotify.com/track/5XbJqPCN3wwU4PBqPaNJGm"
+    },
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "God Invented The Radio",
+        "url": "https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 137827,
+      "name": "God Invented The Radio",
+      "url": "https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY"
+    },
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "wish \u272e\u22c6\u02d9",
+        "url": "https://open.spotify.com/album/0OI5jimIAjOVUfFiNcE5QM"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "duration_ms": 131666,
+      "name": "wish \u272e\u22c6\u02d9",
+      "url": "https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB"
+    },
+    {
+      "added_at": "2023-12-01 12:15:00",
+      "album": {
+        "name": "STARFUCKER (Deluxe)",
+        "url": "https://open.spotify.com/album/28AykhX6LH9IJeE8U1zMNn"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Starfucker",
+      "url": "https://open.spotify.com/track/1HBOsPD7SbbShkxh1qfTRn"
+    },
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "Perfumed and Glossy",
+        "url": "https://open.spotify.com/album/6HBZrBAM5Gg2tVDPxpj0Q1"
+      },
+      "artists": [
+        {
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+        }
+      ],
+      "duration_ms": 160667,
+      "name": "Perfumed and Glossy",
+      "url": "https://open.spotify.com/track/38gu8ZYmqaTP2fJrae4Nax"
+    },
+    {
+      "added_at": "2023-11-27 14:46:08",
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Just A Hint",
+      "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
+    },
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "Something bad",
+        "url": "https://open.spotify.com/album/7uaXo6DwzXzhrNFwrMU2XR"
+      },
+      "artists": [
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "duration_ms": 194084,
+      "name": "Something bad",
+      "url": "https://open.spotify.com/track/6n5lG9tQssEHV5Z5zmaWhR"
+    },
+    {
+      "added_at": "2023-12-08 00:32:00",
+      "album": {
+        "name": "New Beginning (Water From Your Eyes Remix)",
+        "url": "https://open.spotify.com/album/7ibRuWSlOgG0pA7c6cs1qN"
+      },
+      "artists": [
+        {
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        },
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "duration_ms": 191239,
+      "name": "New Beginning (Water From Your Eyes Remix)",
+      "url": "https://open.spotify.com/track/25NKkvS9TA1Ftvm6YgcyJu"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "where\u2019s my head at _",
+        "url": "https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 152822,
+      "name": "where\u2019s my head at _",
+      "url": "https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw"
+    },
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "amends",
+        "url": "https://open.spotify.com/album/4eVKslgPopgYARIH7TiSPX"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "amends",
+      "url": "https://open.spotify.com/track/2zeyfLYqiAp0dkvaKY93HI"
+    },
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "Kota on the plane (MGNA Crrrta Remix)",
+        "url": "https://open.spotify.com/album/3GM9knfczDc5qvrFAwL70Y"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
+        },
+        {
+          "name": "MGNA Crrrtr",
+          "url": "https://open.spotify.com/artist/5KCMTtoQ1ouhC4GGHZQb8m"
+        }
+      ],
+      "duration_ms": 173046,
+      "name": "Kota on the plane - MGNA Crrrta Remix",
+      "url": "https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe"
+    },
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/2r9KUGokNx9AtexlIK3E5n"
+      },
+      "artists": [
+        {
+          "name": "omniboi",
+          "url": "https://open.spotify.com/artist/3I4kM4D2rNnlG8JwEH5bHx"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/0zDRnQ4QrSrZ5miTxAQvvP"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "FCKNSTR",
+        "url": "https://open.spotify.com/album/6T5QtDBPJ24NqXvI7d4u5o"
+      },
+      "artists": [
+        {
+          "name": "Britney Manson",
+          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "FCKNSTR",
+      "url": "https://open.spotify.com/track/7GQlDWxQJ0J7JdXnqPAwkC"
+    },
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "Myspace",
+        "url": "https://open.spotify.com/album/4e7FjD0RXSRgRsPYdcc0Sl"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Myspace",
+      "url": "https://open.spotify.com/track/51iKD7bo0AT1o8kF5qFEuT"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "thicc",
+        "url": "https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Cosha",
+          "url": "https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg"
+        }
+      ],
+      "duration_ms": 222682,
+      "name": "thicc",
+      "url": "https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo"
+    },
+    {
+      "added_at": "2023-12-08 13:59:45",
+      "album": {
+        "name": "d hielo",
+        "url": "https://open.spotify.com/album/48enb8VUU4OTCGd39GJz5I"
+      },
+      "artists": [
+        {
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        },
+        {
+          "name": "LoLo",
+          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
+        },
+        {
+          "name": "Bullz",
+          "url": "https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1"
+        }
+      ],
+      "duration_ms": 203172,
+      "name": "d hielo",
+      "url": "https://open.spotify.com/track/092Vvrq3s7ajxb3MsLUD1Y"
+    },
     {
       "added_at": "2023-12-01 12:15:00",
       "album": {
@@ -31,118 +379,6 @@
       "duration_ms": 187386,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/5fXOTnYg6sn0UPyksZnXRP"
-    },
-    {
-      "added_at": "2023-12-01 12:15:00",
-      "album": {
-        "name": "STARFUCKER (Deluxe)",
-        "url": "https://open.spotify.com/album/28AykhX6LH9IJeE8U1zMNn"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Starfucker",
-      "url": "https://open.spotify.com/track/1HBOsPD7SbbShkxh1qfTRn"
-    },
-    {
-      "added_at": "2023-12-08 00:32:00",
-      "album": {
-        "name": "New Beginning (Water From Your Eyes Remix)",
-        "url": "https://open.spotify.com/album/7ibRuWSlOgG0pA7c6cs1qN"
-      },
-      "artists": [
-        {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
-        },
-        {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
-        }
-      ],
-      "duration_ms": 191239,
-      "name": "New Beginning (Water From Your Eyes Remix)",
-      "url": "https://open.spotify.com/track/25NKkvS9TA1Ftvm6YgcyJu"
-    },
-    {
-      "added_at": "2023-11-27 14:46:08",
-      "album": {
-        "name": "Night Killaz Vol. 1",
-        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Just A Hint",
-      "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "where\u2019s my head at _",
-        "url": "https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        },
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 152822,
-      "name": "where\u2019s my head at _",
-      "url": "https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "thicc",
-        "url": "https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Cosha",
-          "url": "https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg"
-        }
-      ],
-      "duration_ms": 222682,
-      "name": "thicc",
-      "url": "https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "FCKNSTR",
-        "url": "https://open.spotify.com/album/6T5QtDBPJ24NqXvI7d4u5o"
-      },
-      "artists": [
-        {
-          "name": "Britney Manson",
-          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "FCKNSTR",
-      "url": "https://open.spotify.com/track/7GQlDWxQJ0J7JdXnqPAwkC"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -253,6 +489,22 @@
       "url": "https://open.spotify.com/track/67k9cC6UadKPmToT2OZm1D"
     },
     {
+      "added_at": "2023-09-22 14:14:20",
+      "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Hollywood Baby",
+      "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
+    },
+    {
       "added_at": "2023-11-10 05:01:00",
       "album": {
         "name": "PRETTY GIRL",
@@ -283,6 +535,22 @@
       "duration_ms": 146526,
       "name": "suave",
       "url": "https://open.spotify.com/track/4cwcXuBuI2K9b3xtv3Reis"
+    },
+    {
+      "added_at": "2023-12-08 23:34:19",
+      "album": {
+        "name": "Icedancer",
+        "url": "https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 127791,
+      "name": "Be Nice 2 Me",
+      "url": "https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf"
     },
     {
       "added_at": "2023-12-01 12:15:00",
@@ -437,6 +705,30 @@
       "url": "https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h"
     },
     {
+      "added_at": "2023-12-08 23:34:19",
+      "album": {
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 114460,
+      "name": "money machine",
+      "url": "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
+    },
+    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Speed Drive",
@@ -507,6 +799,34 @@
       "duration_ms": 246654,
       "name": "Spalarkle (Alys)",
       "url": "https://open.spotify.com/track/4N19YTJ4RcOve6wzSWYINm"
+    },
+    {
+      "added_at": "2023-12-08 23:34:19",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        }
+      ],
+      "duration_ms": 182375,
+      "name": "SummerTime Blood",
+      "url": "https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO"
     },
     {
       "added_at": "2023-07-28 14:33:00",
@@ -583,6 +903,22 @@
       "duration_ms": 171568,
       "name": "HYDRO",
       "url": "https://open.spotify.com/track/4hobk2AHTUbIno7ij44X1p"
+    },
+    {
+      "added_at": "2023-12-08 23:34:19",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 236937,
+      "name": "Faceshopping",
+      "url": "https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -837,22 +1173,6 @@
       "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
     },
     {
-      "added_at": "2023-09-22 14:14:20",
-      "album": {
-        "name": "10,000 gecs",
-        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Hollywood Baby",
-      "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
-    },
-    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "welcome to the plant cell bath",
@@ -909,6 +1229,22 @@
       "url": "https://open.spotify.com/track/0uMuqJ8C94se50maCXGS1q"
     },
     {
+      "added_at": "2023-12-08 23:34:19",
+      "album": {
+        "name": "Vroom Vroom EP",
+        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 193270,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
+    },
+    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "GFOTYBUCKS",
@@ -939,6 +1275,22 @@
       "duration_ms": 118333,
       "name": "No.1 Crush",
       "url": "https://open.spotify.com/track/4GFfewzz3DGvsPowTn7no1"
+    },
+    {
+      "added_at": "2023-12-08 23:34:19",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
     },
     {
       "added_at": "2023-09-22 14:14:20",

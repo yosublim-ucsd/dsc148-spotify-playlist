@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[アリス爱丽丝](https://open.spotify.com/user/megustager) - 495 likes - 475 songs - 1 day 9 hr 13 min
+[アリス爱丽丝](https://open.spotify.com/user/megustager) - 496 likes - 476 songs - 1 day 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -483,5 +483,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 473 | [Trust](https://open.spotify.com/track/7aZgI3GxFaG30wPGULyOQp) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN), [Takenobu Mitsuyoshi](https://open.spotify.com/artist/1sLhIu05mcFgoEb6XGpj8e) | [Trust](https://open.spotify.com/album/1iJc8xDAIhKtKTkh5CQDSx) | 3:56 |
 | 474 | [Invader](https://open.spotify.com/track/3fqZFAPnIpjaj6jUyYQqfe) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Invader](https://open.spotify.com/album/7ewDr1TUJkAz4XUxYK9wvM) | 3:05 |
 | 475 | [Megaton Keeper](https://open.spotify.com/track/1CtgRicif5nWA8PtHYpong) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Keeper](https://open.spotify.com/album/69EtcHr0ZoozvpmLhsRD4c) | 3:04 |
+| 476 | [Movin'](https://open.spotify.com/track/3bfvb1tJO1RnfuvErCSjE4) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Movin'](https://open.spotify.com/album/4g5awkletRkNllUUG1Sl2L) | 3:23 |
 
-Snapshot ID: `NTY5LDRlNTY4ZmQyZjRiNjg1ZWE4YjE3ZWJlZWVlODFjNDkxZjc3MzMzYWM=`
+Snapshot ID: `NTcwLDFhZTA1YmQyNGQ2OTg0MjczOTdhZmU4MmEwNTQ1NTlkMjk3MWJkZDY=`

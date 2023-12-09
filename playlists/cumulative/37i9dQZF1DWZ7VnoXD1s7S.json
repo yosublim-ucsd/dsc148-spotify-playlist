@@ -265,6 +265,28 @@
     },
     {
       "album": {
+        "name": "apathy sine",
+        "url": "https://open.spotify.com/album/3i1qjvLf3Ga9tUg0UC0G56"
+      },
+      "artists": [
+        {
+          "name": "Piedkies",
+          "url": "https://open.spotify.com/artist/1dT2lRJatpaerhp5FEKEGo"
+        },
+        {
+          "name": "Jay Karin",
+          "url": "https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143484,
+      "name": "apathy sine",
+      "url": "https://open.spotify.com/track/4lVi2FvVQUAHfbi6PrjI8V"
+    },
+    {
+      "album": {
         "name": "backroom labyrinth",
         "url": "https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk"
       },
@@ -586,6 +608,24 @@
       "duration_ms": 256188,
       "name": "Deep Swim",
       "url": "https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ"
+    },
+    {
+      "album": {
+        "name": "distant echoes",
+        "url": "https://open.spotify.com/album/4OyCXhpxF1yTnuI0xVkQMQ"
+      },
+      "artists": [
+        {
+          "name": "sevenlies",
+          "url": "https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "distant echoes",
+      "url": "https://open.spotify.com/track/05DTaFBU0GVPrsf75YRvqF"
     },
     {
       "album": {
@@ -1665,6 +1705,28 @@
     },
     {
       "album": {
+        "name": "left earth.",
+        "url": "https://open.spotify.com/album/15VxOdztWG4FVNwOmS8S7m"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Owl",
+          "url": "https://open.spotify.com/artist/42KY2KLec7FP5djQS8tgNi"
+        },
+        {
+          "name": "ambt.",
+          "url": "https://open.spotify.com/artist/4J7wMlXwVi9YQFCWCBMlUU"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115764,
+      "name": "left earth.",
+      "url": "https://open.spotify.com/track/0WK0MCAsf4xfHcSCtJld8y"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/2jyHYK0byP7L61nlSJf4Wn"
       },
@@ -1738,7 +1800,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 88615,
       "name": "life, on hold",
       "url": "https://open.spotify.com/track/0uAxQHG8LGdZGKLpDR47nE"
@@ -2702,6 +2764,28 @@
       "duration_ms": 67500,
       "name": "The Lobotomy",
       "url": "https://open.spotify.com/track/6U15XUlSWG6RGx4OhAHKHf"
+    },
+    {
+      "album": {
+        "name": "the past, the present",
+        "url": "https://open.spotify.com/album/1mpc6cT1VJofiGcUgsd44T"
+      },
+      "artists": [
+        {
+          "name": "helix fracture",
+          "url": "https://open.spotify.com/artist/33FFHowZPPYyzmNhnhCMIM"
+        },
+        {
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113096,
+      "name": "the past, the present",
+      "url": "https://open.spotify.com/track/5cuXTY79l2LkWuQdcEXlMk"
     },
     {
       "album": {

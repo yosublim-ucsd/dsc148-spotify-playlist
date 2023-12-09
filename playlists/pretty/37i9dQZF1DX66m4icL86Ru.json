@@ -1,13 +1,33 @@
 {
-  "description": "Bad b**** energy. Be blessed, be spicy. Cover: Doja Cat ",
-  "num_followers": 865463,
+  "description": "Bad b**** energy. Be blessed, be spicy. Cover: Tokischa & Sexyy Red",
+  "num_followers": 865811,
   "original_name": "BBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDNjMTA1MTM3ODI4NzI1NDVjMDcxNjExMGRiN2JiNmY5NmUwM2Y0",
+  "snapshot_id": "MCxkNDMwYjI3OWNkMTViOTMxY2FjMDA1NTkyZTFlY2I1Nzc5NGUwMjZj",
   "tracks": [
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Daddy (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 193041,
+      "name": "Daddy (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
+    },
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {

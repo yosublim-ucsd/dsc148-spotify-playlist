@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-71 songs - 6 hr 10 min
+72 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Bloom](https://open.spotify.com/track/5DpUcOaS5yCkQ424XumkwX) | [James Harcourt](https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O) | [Siamese Anthology V \(Part 4/4\)](https://open.spotify.com/album/4GIdTRKiMGRATYQ2uJ9Imy) | 7:43 | 2023-08-25 |  |
 | [Candolila](https://open.spotify.com/track/3690dtXCq5z6HYJd5rhWMa) | [Niv Ast](https://open.spotify.com/artist/29QojCXl3PxYDky0cH60fK) | [Bag of Hopes](https://open.spotify.com/album/4LfYyA6a25fn3KhXBpjvoT) | 6:34 | 2023-08-25 |  |
 | [Clap Gently](https://open.spotify.com/track/46lj4ymw5WmQkuTw9XJuHZ) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Resort Island](https://open.spotify.com/album/5Wo4dlvUMAsTVLL86Ud3iA) | 2:28 | 2023-08-25 |  |
-| [Crystal Volcano \(Chloé \(Thévenin\) Remix\)](https://open.spotify.com/track/1fXqBLgaaCpbsjujwKgdXr) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Crystal Volcano \[Chloé \(Thévenin\) Remix\]](https://open.spotify.com/album/7dUodSX3SnRIwDTHPuQJvL) | 7:06 | 2023-08-25 |  |
+| [Crystal Volcano \(Chloé \(Thévenin\) Remix\)](https://open.spotify.com/track/63Kh4DPQTI3Ffb4GvLbMvA) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Garden Gaia Remixes](https://open.spotify.com/album/7BfEieD8wRanTgqgRy3rGg) | 7:03 | 2023-08-25 |  |
+| [Crystal Volcano \(Chloé \(Thévenin\) Remix\)](https://open.spotify.com/track/1fXqBLgaaCpbsjujwKgdXr) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Crystal Volcano \[Chloé \(Thévenin\) Remix\]](https://open.spotify.com/album/7dUodSX3SnRIwDTHPuQJvL) | 7:06 | 2023-08-25 | 2023-12-09 |
 | [Crystal Volcano \- Chloé \(Thévenin\) Remix](https://open.spotify.com/track/7kCnJw5UvQwV886Z9djjna) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Crystal Volcano \[Chloé \(Thévenin\) Remix\]](https://open.spotify.com/album/1xLHetlSx6AT9GBLzuqp6r) | 7:06 | 2023-08-25 | 2023-11-11 |
 | [Dark Room](https://open.spotify.com/track/6dJriiNZ0MylEAjt7qMxUQ) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Rex Club Techno](https://open.spotify.com/album/1cK5kHw70rYrp96wXlDjb4) | 8:33 | 2023-08-25 |  |
 | [Devil Gurning](https://open.spotify.com/track/0b7VIdx1tis302jljNTU0G) | [Orbury Common](https://open.spotify.com/artist/5mObFLIzPS4XGDTkNVaQrg), [Mermaid Chunky](https://open.spotify.com/artist/5IVLihKRLMZ5RHzSPa7cAI) | [The Traditional Dance of Orbury Common](https://open.spotify.com/album/6e9OBPFdTVsGvwTLHAp2J9) | 4:14 | 2023-08-25 |  |

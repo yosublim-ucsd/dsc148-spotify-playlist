@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-71 songs - 3 hr 54 min
+72 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 | 2022-10-14 |  |
 | [Gabriel's Message](https://open.spotify.com/track/0QWDOBSNiPaM73Y2AxXQ4L) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Gabriel's Message](https://open.spotify.com/album/0YC5jOsmjX2LebjVZq0VMa) | 2:34 | 2022-11-04 |  |
 | [Give me no Splendour, Gold or Pomp](https://open.spotify.com/track/48HpzCZRKhMWKvOI3Ic0rl) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz) | [Give me no Splendour, Gold or Pomp](https://open.spotify.com/album/2oy471jjrzeyB6AAWle1sL) | 2:29 | 2021-12-16 |  |
+| [Gloria In Exelcis Deo](https://open.spotify.com/track/2E61pXyRJv1tApFvqEb7jM) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Merry Christmas](https://open.spotify.com/album/26AHxf0rHw2qAhUN3EGSF9) | 2:23 | 2023-12-08 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB) | 2:51 | 2021-12-16 |  |
 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs of Joy & Peace](https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10) | 4:45 | 2021-12-16 |  |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/1qXc4y3UMJeAaSjBnXdPos) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Leonardo Lucero](https://open.spotify.com/artist/0RmoXT2viR9SdWDQznufRE) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/73NbCZ1FCzXKpozFfpcOSd) | 1:53 | 2022-11-04 |  |

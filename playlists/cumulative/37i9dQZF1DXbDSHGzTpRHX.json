@@ -100,7 +100,7 @@
     {
       "album": {
         "name": "Ponyboy EP",
-        "url": "https://open.spotify.com/album/0oKIN8Ld0MA3hL8edgz6cq"
+        "url": "https://open.spotify.com/album/3nLCHfeURD87rYUaKCv8Br"
       },
       "artists": [
         {
@@ -111,6 +111,24 @@
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 304881,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/05UusNYR6VupjBMHZyv6I1"
+    },
+    {
+      "album": {
+        "name": "Ponyboy EP",
+        "url": "https://open.spotify.com/album/0oKIN8Ld0MA3hL8edgz6cq"
+      },
+      "artists": [
+        {
+          "name": "Jimi Somewhere",
+          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
       "duration_ms": 304881,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/5418UMEZW10tHZ6qrIVlKW"

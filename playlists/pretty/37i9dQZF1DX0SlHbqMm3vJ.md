@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Ric Hassani
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,450 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,543 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [Saati Ramoni](https://open.spotify.com/track/6zLC5tfSmJmotGcOKF37Gc) | [MUIS](https://open.spotify.com/artist/5UhxuCNM1djBJLm5VhvuRy) | [Saati Ramoni](https://open.spotify.com/album/0VmgXMeTpKOknX6Vy6dBbV) | 3:09 |
 | 80 | [Falling](https://open.spotify.com/track/4nZrMIPiY3Ti2OdsQkOb8I) | [Basiil](https://open.spotify.com/artist/1KOeTyRjoGl0MPu4NRklMV), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [I Know I Am](https://open.spotify.com/album/0n8t233j9SxfeORXpC9msV) | 2:36 |
 
-Snapshot ID: `MCw2Y2U4MDAwNjRjZDU0ZmZjNTUyMzEyNjQzYzQwMmYyMWU5MjRjNTRi`
+Snapshot ID: `MCxkM2NmODIxZGM3MGNkODQzZTE3ZDRkNjkzY2U4ODY5MWJlYzBhZjY5`

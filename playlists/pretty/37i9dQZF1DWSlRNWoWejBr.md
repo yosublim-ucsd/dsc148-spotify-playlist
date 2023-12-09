@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > OU VC DANÇA OU O GRAVE T BALANÇA
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,317 likes - 70 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,115 likes - 70 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 9 | [Agudo Mágico 4](https://open.spotify.com/track/4wjDiZGsZYQqKkXyPcQGF6) | [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [LeoZera](https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu) | [Agudo Mágico 4](https://open.spotify.com/album/5A6i6FT6QjGhTUQaXk2TAb) | 3:10 |
 | 10 | [Noite Dos Perdidos](https://open.spotify.com/track/0llpifaw5Kle6wQxrdUy5p) | [DJ JV DO SG](https://open.spotify.com/artist/1vb3NH4REyIWVAKShUYQUh), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ WV Oficial](https://open.spotify.com/artist/01tECeLpHN4yRu1gBqZ6WZ), [Mc Dudu Sk](https://open.spotify.com/artist/1CKLOLezvcRuPRzOiGvxS1) | [Noite Dos Perdidos](https://open.spotify.com/album/5Daso30Ue6dC3bFySoOCta) | 2:36 |
 | 11 | [É sempre assim](https://open.spotify.com/track/2dwkCNgPmMqTjofwDCUZHu) | [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Gui Andrade](https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI) | [É sempre assim](https://open.spotify.com/album/0rhRbPFgLhjibgPhUHYQU3) | 2:38 |
-| 12 | [MONTAGEM ANOS 2000](https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mc Luan](https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF), [Mc Tigão](https://open.spotify.com/artist/7GH9MFF3c1nPkH2bQ7JG2X) | [A.Mago \- Playlist do Mago](https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So) | 2:58 |
+| 12 | [MONTAGEM ANOS 2000](https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [MC Tigrão](https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW), [Mc Luan](https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [A.Mago \- Playlist do Mago](https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So) | 2:58 |
 | 13 | [Subindo e Descendo](https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Alcateia](https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok) | 3:12 |
 | 14 | [Calma Amor, Calma Bb](https://open.spotify.com/track/4nHN8qxD9UJCSqqvFmRBzq) | [Dj Bruninho Pzs](https://open.spotify.com/artist/5bSWLXu8tYxI5ISra9j6IF), [Dj Mano Lost](https://open.spotify.com/artist/32u1p6WuDcC7EUh7iWQPAg), [MC MENOR KAUAN](https://open.spotify.com/artist/0zi2XpPvQum7s1oIBFmufL) | [Calma Amor, Calma Bb](https://open.spotify.com/album/0KnF9KhEoQSLvtUOXdZixU) | 2:46 |
 | 15 | [Um Sabadão Desse Uma Lua Dessa](https://open.spotify.com/track/2CyChYO3yjIgxBwiyenaWb) | [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG) | [Um Sabadão Desse Uma Lua Dessa](https://open.spotify.com/album/2dgmspnexDhTTvrhXqBbi5) | 2:52 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [É Só Um Lance Lero Lero](https://open.spotify.com/track/5DoYLtsVnNMcrgpMdEPOsI) | [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [MC Luiggi](https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP), [Meno Saaint](https://open.spotify.com/artist/6JX06TYY9weAIjfnzFWqZL) | [É Só Um Lance Lero Lero](https://open.spotify.com/album/4On1CDfCz6TG3oW3BTVySP) | 1:56 |
 | 70 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCxiNmZiODQyNjE2NjQxMGM3NWIzYjViMjllYzAwNDQ1MWY3ZDUwMzhm`
+Snapshot ID: `MCwzMjk4YmI1ZWJiZjgwNGE1NjgwNzcxNjE2NzEyODJhYTE0ZmZkMGU1`

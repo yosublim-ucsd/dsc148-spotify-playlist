@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-137 songs - 7 hr 38 min
+138 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 | 2022-08-31 |  |
 | [Homemade Disaster](https://open.spotify.com/track/1Vg6Y0vdiBFp1EgF4z397j) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/4QNZhx7sTpEWI8Bj5ZtPkH) | 3:14 | 2021-02-12 | 2022-07-29 |
 | [Homemade Disaster](https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1) | 3:14 | 2021-02-12 |  |
-| [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 | 2021-02-12 |  |
+| [Howlin'](https://open.spotify.com/track/0VauXNyCPoRumexBquycYR) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Bury Me](https://open.spotify.com/album/5bH0uvRjdLCrxG73wayab9) | 2:56 | 2022-08-31 |  |
+| [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 | 2021-02-12 | 2023-12-09 |
 | [I See Myself](https://open.spotify.com/track/4TPEq6x5AKefHfLyyyfEu5) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [I See Myself](https://open.spotify.com/album/5ojArqyhIj2WI9z4TBuCgL) | 3:00 | 2023-06-23 |  |
 | [I Wish I Was An Angel](https://open.spotify.com/track/0pVOOew4ywu5YFAbPh7Jfy) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [I Wish I Was An Angel](https://open.spotify.com/album/5j0UDDZFEfwb3hxAOSdYX6) | 2:22 | 2023-09-22 |  |
 | [I'm so Happy I Cry \(feat\. Tank\)](https://open.spotify.com/track/2ZagwBX7kXRGC767ZVBt0H) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [I'm so Happy I Cry \(feat\. Tank\)](https://open.spotify.com/album/3QxSxnvXPvwjXM5jAYw4hC) | 3:24 | 2021-02-12 |  |

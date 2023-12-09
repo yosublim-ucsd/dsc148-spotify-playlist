@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Happier (Piano Version)",
+        "url": "https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192823,
+      "name": "Happier - Piano Version",
+      "url": "https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY"
+    },
+    {
+      "album": {
         "name": "Heat Waves (Acoustic)",
         "url": "https://open.spotify.com/album/4UFCNxjO9gA2SvQ6YV2mro"
       },
@@ -600,7 +618,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 183644,
       "name": "Heaven - Acoustic",
       "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
@@ -1053,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Therapy (Acoustic Versions)",
+        "url": "https://open.spotify.com/album/2nrnsrqfLugfpWe1trssSu"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "Love Should Be Easy - Acoustic",
+      "url": "https://open.spotify.com/track/1Uf2Jb951trOKmxJZS7HOl"
+    },
+    {
+      "album": {
         "name": "miss me (when you're gone) [remixes]",
         "url": "https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t"
       },
@@ -1198,7 +1234,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 190909,
       "name": "Peaches - Acoustic",
       "url": "https://open.spotify.com/track/1ChZ4mrSLP8HImCY6IyImf"

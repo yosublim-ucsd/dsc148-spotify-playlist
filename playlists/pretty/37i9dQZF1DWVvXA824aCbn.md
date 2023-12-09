@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,497 likes - 300 songs - 18 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,509 likes - 300 songs - 18 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 299 | [Slow Walk](https://open.spotify.com/track/6Dt4OkMHGhugPLCnaTh6Ji) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Slow Walk](https://open.spotify.com/album/31dAe3s3z2hkGQ32buTf8r) | 4:26 |
 | 300 | [Lunar Eclipse](https://open.spotify.com/track/0Q9gFXZfjSQKXgjnqhgmnm) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:32 |
 
-Snapshot ID: `MCwxNGM2NGU1MmVjYTMxZDNmZjk1NDhkNjA1ZTM2YTM4MGIzYzg3OWNl`
+Snapshot ID: `MCxhNWJhNTEzMWRjZTVhYWM1NjAwMzU1NzJkY2QzNDdjMTY2NzU4OGUy`

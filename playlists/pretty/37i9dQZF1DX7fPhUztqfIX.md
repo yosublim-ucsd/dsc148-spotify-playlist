@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,704 likes - 130 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,766 likes - 130 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [Lord You Have My Heart \(feat\. Martin Smith\)](https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Martin Smith](https://open.spotify.com/artist/4bY9UB7BwlfZCAnKJPzGIz) | [Lord You Have My Heart \(feat\. Martin Smith\)](https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS) | 4:27 |
 | 130 | [Freedom Found Me](https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 3:42 |
 
-Snapshot ID: `MCwxNDM1OTE1MTgyYzA4MTQ5YTVjZTRiMmZhZWVlMGEzMmUwNzI0YTE4`
+Snapshot ID: `MCxmZTUwZTZmMjA2OGE1NjI3MDhlOTgxZTY0MDRmOTdlZDJiYThmYmFi`

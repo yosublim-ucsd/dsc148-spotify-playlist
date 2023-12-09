@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: نادر الشراري
 
-204 songs - 13 hr 22 min
+205 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [الزمن دوار](https://open.spotify.com/track/4XSZa8zr5ya13NcLkSTHM1) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الزمن دوار](https://open.spotify.com/album/7tHMNHXeNILzhr7Hcd2nEk) | 3:52 | 2022-06-13 | 2022-11-03 |
 | [الزين القوي](https://open.spotify.com/track/2DL9axGXUKv7oP9xcKSljz) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm), [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [الزين القوي](https://open.spotify.com/album/7EO8MwFRrTD66x1NJQFNxJ) | 3:12 | 2023-07-27 | 2023-09-02 |
 | [الشوق نار](https://open.spotify.com/track/5pes4S9GNVJpFurFUJJrmy) | [ماجد خضير](https://open.spotify.com/artist/3y1gBdIcu9SoeBqdePgppN) | [الشوق نار](https://open.spotify.com/album/0pWmGDdYkwOtq8kVgNRt5d) | 3:21 | 2023-11-30 |  |
+| [العزله احسن](https://open.spotify.com/track/5aD10saKZMJqh7NrtK9BUT) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [العزله احسن](https://open.spotify.com/album/7osyeXcZDSclHumvwAEQLj) | 4:15 | 2023-12-08 |  |
 | [العشق الجميل](https://open.spotify.com/track/1E6NxvgjVll87cMrMZPZhq) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [العشق الجميل](https://open.spotify.com/album/6hRg311Va2xhZ5PUOiHajd) | 2:40 | 2022-08-31 | 2023-09-02 |
 | [العشق الجميل](https://open.spotify.com/track/5QhBa6hHquzB2ZgQeId5N4) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [العشق الجميل](https://open.spotify.com/album/2UlZgHAN2Jl0F17XFTR4hi) | 2:40 | 2022-03-30 | 2022-11-02 |
 | [العشق يجمعنا](https://open.spotify.com/track/6muHAEoB1eZZeY3KDCbRyW) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [العشق يجمعنا](https://open.spotify.com/album/75AS6XMqcgEsqan0pKtZch) | 4:07 | 2023-09-18 | 2023-11-18 |

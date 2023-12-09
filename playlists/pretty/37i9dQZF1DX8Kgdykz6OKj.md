@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,847 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,355 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [Black Superhero \[Feat\. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.\]](https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Black Superhero \[Feat\. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.\]](https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv) | 5:55 |
 | 100 | [Give Thanks](https://open.spotify.com/track/5LTX3uM6PySQIMPZALHZaI) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds), [Miles Bonny](https://open.spotify.com/artist/3SAMS1olAlq6wJ8Y7CApjs) | [Nostalgia](https://open.spotify.com/album/11WVMvo2CIfz3kkqLjNkoJ) | 3:12 |
 
-Snapshot ID: `MCw3OTAwMzYwYzU2OTM0MTY3Mzg4ODZjYTU0MGZmYzExMTBiMmZiM2Mw`
+Snapshot ID: `MCw2NDEyZWIyMzA2NTMxODRhNWI0Y2E1NDUyNWIyYjY0ZjZkM2E1NDNk`

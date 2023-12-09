@@ -2,9 +2,9 @@
 
 ### [NEÓN](https://open.spotify.com/playlist/37i9dQZF1DX2vWnOprRIq7)
 
-> El lado fluorescente del indie latino featuring Peces Raros.
+> El lado fluorescente del indie latino featuring BB ASUL.
 
-220 songs - 13 hr 13 min
+221 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Días](https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm) | [Ino Guridi](https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7) | [Pasará](https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC) | 3:34 | 2023-04-07 |  |
 | [Eco](https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [Eco](https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU) | 4:37 | 2023-07-07 | 2023-09-17 |
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2023-03-17 |  |
-| [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 | 2023-06-09 |  |
+| [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 | 2023-06-09 | 2023-12-09 |
 | [ELLA \(CAE LA NOCHE\)](https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Sergio Escribano](https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W), [Escaparate de Poesía](https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I) | [DIAMANTE](https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD) | 3:41 | 2023-06-02 | 2023-10-07 |
 | [En efecto](https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [En efecto](https://open.spotify.com/album/5sSjbUxp9k8a8KiS8Tdbww) | 3:58 | 2023-05-19 | 2023-10-07 |
 | [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 | 2023-04-07 | 2023-10-07 |
@@ -174,6 +174,7 @@
 | [PSICURA](https://open.spotify.com/track/08rHr2Hh3hVHfvQll5bFLk) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [PSICURA](https://open.spotify.com/album/0Tk9AUF3GEQP9wyjAndHlY) | 3:22 | 2023-03-17 | 2023-04-22 |
 | [Puedo Buscar](https://open.spotify.com/track/7lM2IOzav0PLGiCnfvN4hQ) | [Ringo Galperin](https://open.spotify.com/artist/7zaSn96HaddSuMkSIun9Q3) | [RINGO](https://open.spotify.com/album/0VeTiYO5g15QjPvJksVBJi) | 2:38 | 2023-06-16 | 2023-11-11 |
 | [pulso](https://open.spotify.com/track/4NBN5CsKePjr1fY8e5gC5U) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [pulso/yotuoro](https://open.spotify.com/album/2aerjq3cnY5w3SxVSptbme) | 2:45 | 2023-03-17 | 2023-04-22 |
+| [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 | 2023-12-08 |  |
 | [Que Nunca Pare](https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Que Nunca Pare](https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v) | 3:24 | 2023-11-10 |  |
 | [Quemándome al Sol](https://open.spotify.com/track/7rZabW2xqPIm7kEfBC9n8y) | [Axel Krygier](https://open.spotify.com/artist/5wwTGwXSRQJ1te7xnwFtEF) | [Quemándome al Sol](https://open.spotify.com/album/5IstXnlnWjKScmuMQVnzmh) | 3:21 | 2023-03-17 | 2023-05-06 |
 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 | 2023-03-17 | 2023-11-25 |

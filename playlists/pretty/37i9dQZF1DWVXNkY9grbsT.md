@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,137 likes - 100 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,179 likes - 100 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 99 | [Night Journeys III](https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys III](https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU) | 6:28 |
 | 100 | [Apparences](https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1) | [Eskadet](https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG) | [L'attente](https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi) | 5:26 |
 
-Snapshot ID: `MCw3ZjZjM2I1YTMyOWZhYWQxZDdmMTJlNWIzMzlkOTM5MWYwMDA1ODQ1`
+Snapshot ID: `MCwyMDBjMTc4ZWEyMmEzYzJjY2VhYzdlNTE0Zjg0MGU5OTQ4MTdjNDU5`

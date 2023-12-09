@@ -4,11 +4,12 @@
 
 > Time to headbang around the Christmas tree! Cover: August Burns Red
 
-126 songs - 7 hr 57 min
+129 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Christmas Story](https://open.spotify.com/track/0mxNIGjdC0S3yTQzruTJ43) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [A Christmas Carol \(Extended Version\)](https://open.spotify.com/album/7EP0PL7eSomccxe37OIjoS) | 5:02 | 2021-11-26 |  |
+| [A Monster Only You Can't See](https://open.spotify.com/track/6hJLh8rxEM2BfJmkYd4MtR) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [A Monster Only You Can't See](https://open.spotify.com/album/3gObgFliVNVCROweTRHIZE) | 5:56 | 2023-12-08 |  |
 | [All I Want For Christmas](https://open.spotify.com/track/697xGHI0FIIJakRqdKJI6x) | [ChuggaBoom](https://open.spotify.com/artist/5DBs1IDEsrY2W92Rfl5qI3) | [All I Want For Christmas](https://open.spotify.com/album/7j5k5YhL06JlpW5kWNdZdt) | 4:00 | 2021-11-26 | 2022-07-29 |
 | [All I Want for Christmas](https://open.spotify.com/track/4xHV6Hb7maNSTk52rI48rU) | [Theocracy](https://open.spotify.com/artist/627g4H0WzOhvuRRsbdBR6T) | [All I Want for Christmas](https://open.spotify.com/album/2YHHyj12JSWQG2y8lUl4lT) | 4:55 | 2021-11-26 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/0yKDHisurtvtoxMDHiWhzS) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [All I Want For Christmas Is You](https://open.spotify.com/album/31UM9gHcUA64o1SX92K497) | 4:23 | 2021-11-26 | 2023-10-28 |
@@ -26,6 +27,7 @@
 | [Christmas](https://open.spotify.com/track/3F2fqpDsmudTrp2DQYFFtF) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [The Puppet Master](https://open.spotify.com/album/0iaARK9rk18ew3kYPRAbJC) | 5:18 | 2021-11-26 | 2022-07-29 |
 | [Christmas Eve \(Sarajevo 12/24\)](https://open.spotify.com/track/31xV0odyHt9ObQts3hcpY1) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Dead Winter Dead \(2011 Edition\)](https://open.spotify.com/album/3XUTdOoeZBUVclvV30NU57) | 3:24 | 2021-11-26 | 2022-07-29 |
 | [Christmas Eve \(Sarajevo 12/24\)](https://open.spotify.com/track/1aOIW5GzlVx0B8lX2foIFg) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Dead Winter Dead](https://open.spotify.com/album/3kqF5ukXazAtsYIFoIMDkB) | 3:24 | 2021-11-26 |  |
+| [Christmas Eve / Sarajevo 12/24 \- Instrumental](https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [Christmas Eve and Other Stories](https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT) | 3:25 | 2023-12-08 |  |
 | [Christmas For Everyone](https://open.spotify.com/track/60PfGc7iaiodPYYepgAGCm) | [Halford](https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ) | [Halford III \- Winter Songs](https://open.spotify.com/album/4qZcP2fz0FT01T1dUTWL98) | 3:05 | 2021-11-26 | 2022-07-29 |
 | [Christmas for Everyone](https://open.spotify.com/track/1oGcrOPzQrKFKZnNCjWfGu) | [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy), [Halford](https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ) | [Halford III: Winter Songs](https://open.spotify.com/album/23gl11F7n7YNPGdI9L8XSd) | 3:05 | 2021-11-26 |  |
 | [Christmas in New York City](https://open.spotify.com/track/3sW8TtpsP2DWeCnRh0MtFT) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Christmas in New York City](https://open.spotify.com/album/6fXR6MMItpBIShRRSHrYg3) | 3:14 | 2021-11-26 |  |
@@ -33,6 +35,7 @@
 | [Christmas in New York City](https://open.spotify.com/track/6vre6JEBozfNweDl4gQu1l) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [X\#RMS](https://open.spotify.com/album/2wETe1o4YHKElW1qCqYl7W) | 3:14 | 2021-11-26 | 2022-11-14 |
 | [Christmas Spirits \- Radio Edit](https://open.spotify.com/track/10okkm0mTSVNV2vYMhqCQj) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Christmas Spirits](https://open.spotify.com/album/4kWu3woRm1J83QuEfBk2GF) | 4:37 | 2021-11-26 | 2022-07-29 |
 | [Christmas Spirits \- Radio Edit](https://open.spotify.com/track/7eN6fj9rE8jZLlIxH6DWCE) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Christmas Spirits](https://open.spotify.com/album/4NPY2fu35U240KjopE7u0X) | 4:37 | 2021-11-26 |  |
+| [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/track/6CFaXCTcip2BhzKetDKR6b) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission To Land..\. Again \(20th Anniversary Edition\)](https://open.spotify.com/album/1C2yA2sLXxjbytmYxvbDN0) | 3:31 | 2023-12-08 |  |
 | [Christmas Truce](https://open.spotify.com/track/5FaSqONiGaXC0LwQRSYgJq) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Christmas Truce](https://open.spotify.com/album/7AiY9akdD7xsmk9skmMIyL) | 5:18 | 2021-11-26 |  |
 | [Christmas With The Devil](https://open.spotify.com/track/68fsWpTzTSABkQT87c68PN) | [Spinal Tap](https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn) | [Alternative Christmas 2022](https://open.spotify.com/album/3R11jqVNSusHsqYltCIJeV) | 4:24 | 2021-11-26 | 2022-11-13 |
 | [Christmas With The Devil](https://open.spotify.com/track/7tuO9p4tvMLKPOirkJa6S8) | [Spinal Tap](https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn) | [This Is Spinal Tap](https://open.spotify.com/album/76KLnwAF285xUWRn8bT1Q2) | 4:24 | 2021-11-26 |  |

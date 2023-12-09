@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Armenia",
+  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Pio Perilla",
   "name": "Indie Colombia",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 192278,
       "name": "A Veces Llueve",
       "url": "https://open.spotify.com/track/5psSJW6SH7sgcspg1ejO63"
@@ -1854,6 +1854,24 @@
       "duration_ms": 187200,
       "name": "Tenerlo Todo",
       "url": "https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5"
+    },
+    {
+      "album": {
+        "name": "Tengo Que Decirte Que No",
+        "url": "https://open.spotify.com/album/2R3Kd5NLYZu1NXgWc9n8ak"
+      },
+      "artists": [
+        {
+          "name": "Pio Perilla",
+          "url": "https://open.spotify.com/artist/3mto9pTx9i31Xqr68CzgX8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170578,
+      "name": "Tengo Que Decirte Que No",
+      "url": "https://open.spotify.com/track/7EMCWX0sQnNP1LAJ2rwkvQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-26",
-  "description": "Pa' las posadas y las fiestas, canciones navide\u00f1as con saz\u00f3n mexa. Panter B\u00e9lico en portada. ",
+  "description": "Pa' las posadas y las fiestas, canciones navide\u00f1as con saz\u00f3n mexa. Banda MS en portada. ",
   "name": "Navidad M\u00fasica Mexicana",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 207653,
       "name": "Cumbi\u00f3n Navide\u00f1o",
       "url": "https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD"
@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Navidad con la MS",
+        "url": "https://open.spotify.com/album/4YiKzUhjLgWEMEyPeR5u7k"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139864,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3cQUWlbETsIA6UtJkwuflO"
+    },
+    {
+      "album": {
         "name": "Navidad Con La Regida",
         "url": "https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT"
       },
@@ -760,6 +778,28 @@
       "duration_ms": 155626,
       "name": "Jingle Bells (Vamos All The Way)",
       "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
+    },
+    {
+      "album": {
+        "name": "JOJOJO",
+        "url": "https://open.spotify.com/album/3w8FEcSsFiXCO08UOY2Ji5"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "''El Obama'' Carlos Anderson",
+          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145800,
+      "name": "JOJOJO",
+      "url": "https://open.spotify.com/track/1tQ8yvYIwc8tWqDxesGn0O"
     },
     {
       "album": {
@@ -1022,7 +1062,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 210857,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/5rphM2LOMiIbKMBQ5oaVEt"
@@ -1112,7 +1152,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 203062,
       "name": "Navidad Sin t\u00ed",
       "url": "https://open.spotify.com/track/1UHmIm6jj1EncEXcNfPSv1"
@@ -1172,6 +1212,24 @@
       "duration_ms": 133525,
       "name": "Navidad, Navidad",
       "url": "https://open.spotify.com/track/3Pe6VYWJNGGsyRCNqoTjCb"
+    },
+    {
+      "album": {
+        "name": "Noche De Paz",
+        "url": "https://open.spotify.com/album/0SjRqr9XBd5GdkK5einqj4"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "Noche De Paz",
+      "url": "https://open.spotify.com/track/4VrxcNo6K6MbBvpmYIbxjr"
     },
     {
       "album": {
@@ -1409,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Santa Claus lleg\u00f3 a la Ciudad",
+        "url": "https://open.spotify.com/album/1PujNrSVIfwOcl0mIBpDFZ"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143186,
+      "name": "Santa Claus llego\u0301 a la ciudad",
+      "url": "https://open.spotify.com/track/7jDYqKfQQezQS6O5qsqATM"
+    },
+    {
+      "album": {
         "name": "Sonidos de la Navidad",
         "url": "https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps"
       },
@@ -1468,7 +1544,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 194960,
       "name": "Santa Claus Lleg\u00f3 A La Ciudad",
       "url": "https://open.spotify.com/track/5kEHTKyHAq67kLHA7K8Ueh"

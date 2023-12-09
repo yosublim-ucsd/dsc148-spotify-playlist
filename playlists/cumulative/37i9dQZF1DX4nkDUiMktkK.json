@@ -477,6 +477,28 @@
     },
     {
       "album": {
+        "name": "Coexistence",
+        "url": "https://open.spotify.com/album/67kLWA4NECjGwFQKm6J4ML"
+      },
+      "artists": [
+        {
+          "name": "munro",
+          "url": "https://open.spotify.com/artist/2g9CpiC5J4Rwl38OsLholH"
+        },
+        {
+          "name": "MarMar",
+          "url": "https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166137,
+      "name": "Coexistence",
+      "url": "https://open.spotify.com/track/5tD5TkJ6LxyIqqI9TGUvCc"
+    },
+    {
+      "album": {
         "name": "Happiness Therapy 20: The Power",
         "url": "https://open.spotify.com/album/42I6I0sQtx5N9mbpGB08lo"
       },
@@ -1531,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "Kandy (I. JORDAN Remix)",
+        "url": "https://open.spotify.com/album/2KaExc01x9QkbjJ36eb3YX"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312676,
+      "name": "Kandy - I. JORDAN Remix",
+      "url": "https://open.spotify.com/track/4wvJv9tKk9Ylt6LpdaBNz3"
+    },
+    {
+      "album": {
         "name": "Keep It Burning",
         "url": "https://open.spotify.com/album/5W6A8Fmm0dz02oKVCO1d4l"
       },
@@ -1564,6 +1608,32 @@
       "duration_ms": 174720,
       "name": "Keep Things Random",
       "url": "https://open.spotify.com/track/7ElqztGIlLw0QQXiUR6Tk4"
+    },
+    {
+      "album": {
+        "name": "Kota on the plane (MGNA Crrrta Remix)",
+        "url": "https://open.spotify.com/album/3GM9knfczDc5qvrFAwL70Y"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
+        },
+        {
+          "name": "MGNA Crrrtr",
+          "url": "https://open.spotify.com/artist/5KCMTtoQ1ouhC4GGHZQb8m"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173046,
+      "name": "Kota on the plane - MGNA Crrrta Remix",
+      "url": "https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe"
     },
     {
       "album": {
@@ -2878,6 +2948,24 @@
       "duration_ms": 206158,
       "name": "Talk On The Phone",
       "url": "https://open.spotify.com/track/2nohMn7cW43qSt69glqwXj"
+    },
+    {
+      "album": {
+        "name": "That's My Shit",
+        "url": "https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V"
+      },
+      "artists": [
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115963,
+      "name": "That's My Shit",
+      "url": "https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C"
     },
     {
       "album": {

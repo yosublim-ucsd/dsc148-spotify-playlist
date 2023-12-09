@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Scalene",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Dead Fish",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -144,6 +144,36 @@
     {
       "album": {
         "name": "A Mosca (Garage)",
+        "url": "https://open.spotify.com/album/29aP7T6Qdmo7ttRbRLFKeX"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        },
+        {
+          "name": "Dog Murras",
+          "url": "https://open.spotify.com/artist/5yLebnsC6CZ5jkxkP08py5"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://open.spotify.com/artist/4HnqLhzPvFcIac2mf5YPo8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222208,
+      "name": "A Mosca - Garage",
+      "url": "https://open.spotify.com/track/2yQNNjtrix1rEodkJrCLqa"
+    },
+    {
+      "album": {
+        "name": "A Mosca (Garage)",
         "url": "https://open.spotify.com/album/4a02ncIuPg9khGNE9NwQfy"
       },
       "artists": [
@@ -166,7 +196,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 222208,
       "name": "A Mosca - Garage",
       "url": "https://open.spotify.com/track/6k6QV8ZM7XeQaQdRiNxrlU"
@@ -1781,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Depois das Seis",
+        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180488,
+      "name": "Depois Das Seis",
+      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
+    },
+    {
+      "album": {
         "name": "BONUS LIVE (Ao Vivo)",
         "url": "https://open.spotify.com/album/3OMNvKQ04zUJXEksCqmE71"
       },
@@ -2257,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131192,
+      "name": "Espelho",
+      "url": "https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv"
+    },
+    {
+      "album": {
         "name": "G\u00eameos Live Session",
         "url": "https://open.spotify.com/album/4w6gMS7cV6Khbz3r4ckyV0"
       },
@@ -2370,6 +2436,24 @@
       "duration_ms": 235849,
       "name": "Estandarte",
       "url": "https://open.spotify.com/track/2M4rpqM5daq5Kg5uuvvBMx"
+    },
+    {
+      "album": {
+        "name": "Estaremos L\u00e1",
+        "url": "https://open.spotify.com/album/701LjWJkxof72pjCJh0q2C"
+      },
+      "artists": [
+        {
+          "name": "Dead Fish",
+          "url": "https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161555,
+      "name": "Estaremos L\u00e1",
+      "url": "https://open.spotify.com/track/7dconKFCaOUIKJhiQ5dsqL"
     },
     {
       "album": {
@@ -3432,7 +3516,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 286637,
       "name": "Lado Escuro da Rua",
       "url": "https://open.spotify.com/track/66BN5VkgpNRpqWRjGgE2qn"
@@ -4210,7 +4294,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 203802,
       "name": "M\u00edriam (Pra voc\u00ea que virou anjo)",
       "url": "https://open.spotify.com/track/5dyQxt1zLby3puYbTNFXAu"
@@ -4268,7 +4352,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 196250,
       "name": "Nada Se Compara",
       "url": "https://open.spotify.com/track/6a7Gp9ZZxJPS5fbt5AOnX3"

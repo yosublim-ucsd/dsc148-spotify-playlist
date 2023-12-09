@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,466 likes - 300 songs - 19 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,465 likes - 300 songs - 19 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 | 299 | [Sugar](https://open.spotify.com/track/366BzkiO6uiLgTYCLPddkJ) | [Ora the Molecule](https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m) | [Human Safari](https://open.spotify.com/album/1XvJINGjwPys8xSK1ThiDJ) | 3:59 |
 | 300 | [Dive](https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7) | [The Soft Cavalry](https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ) | [The Soft Cavalry](https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ) | 4:15 |
 
-Snapshot ID: `MCwzMGYwMTcwODNmZmQzMWY4YjdkZDc2YzA3NmFlODM0YjE1MDI1MDlh`
+Snapshot ID: `MCxiN2VjYWE4MjZiZWE2MzE3OWQ0ZGMzNTFiNjZkY2Q5ZTk1OTZlNmMz`

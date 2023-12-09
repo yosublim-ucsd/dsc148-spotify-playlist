@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-280 songs - 16 hr 16 min
+281 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,8 +220,9 @@
 | [Snowglobe Blizzard](https://open.spotify.com/track/524Hkqd49nCSXSGKiHEYBN) | [Smoke Fairies](https://open.spotify.com/artist/7wbZFLV3wwTqyrKNCJ8Y8D) | [Wild Winter](https://open.spotify.com/album/7IKc2ybIK4Il7t8NeeLDjR) | 3:14 | 2021-12-24 |  |
 | [Song for the Angels](https://open.spotify.com/track/4MIDnbVdmaa5sIbdR5BBTN) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Bodies and Minds](https://open.spotify.com/album/2Psey6KZhbYxogDvrqFlo6) | 5:19 | 2021-12-24 |  |
 | [Songs for the Angels](https://open.spotify.com/track/6mNrNhAqFSzQxDldRilzMh) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Folk & Proud](https://open.spotify.com/album/5hR6eNfAo8Y0tHf8xpIrHU) | 5:18 | 2021-12-24 | 2022-07-29 |
+| [Star Star \(Live\)](https://open.spotify.com/track/05gfBG9GcyEbLTrUS8TPc1) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx), [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074) | [Strict Joy \(Deluxe Edition\)](https://open.spotify.com/album/6VuvqpeSGgdtJrrmPJFxld) | 9:49 | 2023-12-01 |  |
 | [Star Star \(Live\)](https://open.spotify.com/track/18YH3E7x91v6AC3lhGiolf) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074) | [Strict Joy \[Deluxe Edition\]](https://open.spotify.com/album/5dA8EHydNLWo29675jA2cj) | 9:49 | 2021-12-24 | 2022-07-29 |
-| [Star Star \- Live](https://open.spotify.com/track/3F3SaGhhAlXVUDD1Y3jIQ3) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074) | [Strict Joy \(Deluxe Edition\)](https://open.spotify.com/album/0PzQfgLNIgyNYcHvIjvmVs) | 9:49 | 2021-12-24 |  |
+| [Star Star \- Live](https://open.spotify.com/track/3F3SaGhhAlXVUDD1Y3jIQ3) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074) | [Strict Joy \(Deluxe Edition\)](https://open.spotify.com/album/0PzQfgLNIgyNYcHvIjvmVs) | 9:49 | 2021-12-24 | 2023-12-09 |
 | [Take Me Back to Toyland](https://open.spotify.com/track/35VxpFYw78qOvQbwgENTyX) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Winterglow / Take Me Back to Toyland](https://open.spotify.com/album/0ghqHw3YtbooB3IoXDdTXN) | 2:05 | 2022-11-15 |  |
 | [Take Me Back to Toyland](https://open.spotify.com/track/5wfE9rKR5wzf0YawGIQIom) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Yuletide](https://open.spotify.com/album/2iL1q6nfD9mCuxNB0ovhaA) | 2:05 | 2021-12-24 | 2022-07-29 |
 | [Take Me Back to Toyland](https://open.spotify.com/track/7a9o50udnCEeGVfUdI084k) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Winterglow / Take Me Back to Toyland](https://open.spotify.com/album/4N1C0GAOeKcqMUrJSGPV3t) | 2:06 | 2021-12-24 | 2023-04-30 |

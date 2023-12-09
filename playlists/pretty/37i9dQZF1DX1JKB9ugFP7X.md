@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Escucha lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,824 likes - 95 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,828 likes - 95 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 94 | [Una Hora para Verte](https://open.spotify.com/track/0mXS6S5ZxUCiUZLZgz6qTO) | [Max Tejera](https://open.spotify.com/artist/58kI4cP6MQccdJq0tU4gXa) | [Una Hora para Verte](https://open.spotify.com/album/38Aye9SVpQxuZXTktavk7q) | 3:07 |
 | 95 | [Compañerx](https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Compañera](https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4) | 4:33 |
 
-Snapshot ID: `MCxlNTVkOTE1ODUzZGMxMWMxNWI3Y2M4MzQ0Y2M4NmI2M2M1NmE1NDc3`
+Snapshot ID: `MCwzY2I2MWE2MjA1MWRkN2Q5MDU1ZGU2ODg2NjgzMmFiODFlYzgwMmUx`

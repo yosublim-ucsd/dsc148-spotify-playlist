@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ LA SAD e i Bnkr44 in cover🩸
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,487 likes - 73 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,488 likes - 73 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 72 | [VELENO](https://open.spotify.com/track/5P7L3SQJM0ZKzP029SV1Gk) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo) | [VELENO](https://open.spotify.com/album/0QHZmMimUXG4SLIf7rbNrp) | 3:21 |
 | 73 | [Puoi fare meglio](https://open.spotify.com/track/6m1y1HHAlYjB2pmi9I8gRV) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Puoi fare meglio](https://open.spotify.com/album/1j2XwuZzOBU5fXZjsnxcW3) | 2:57 |
 
-Snapshot ID: `MCw3ZGE4MjM1NTk4MGM1NTkxYzkzNGZjNDk5ZjIwN2UxNTlhOGIyMGMy`
+Snapshot ID: `MCxkMmI3NzRlZTY0YmVhZjc0MmE1Zjc4NzI1ZTFkZGUxYmFmOTlkY2Q1`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTg1MzMyNjU3OTJmNDkxZDlmNjU1NDNhYTliODMwNGQ0OGM4M2Y2",
+  "snapshot_id": "MCxmODljMWYwNDViODVmNDk1MGI4NmFkMjE3ODhmY2MzYWVkMDNjODE5",
   "tracks": [
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/1Jl4xXoDOnHqWpdAS1RFNV"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/3yFFIGLByW4gG7U7ogIHPd"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Se Fue",
         "url": "https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 209214,
       "name": "No Se Olvida",
       "url": "https://open.spotify.com/track/34EoylFJnVhpmWi0fADagg"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/0unybQKJCBw7h7nxhuh5GA"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/5uHfjw0Ht5xuFBmQLLhOu5"
     },
     {
       "added_at": "2021-12-14 16:04:58",

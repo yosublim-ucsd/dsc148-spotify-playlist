@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Briella",
+  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Irepelusa",
   "name": "Flow Venezuela",
   "tracks": [
     {
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 199093,
       "name": "Raro",
       "url": "https://open.spotify.com/track/4DEldV3wQKjbMRhVw64bg6"
@@ -3016,6 +3016,24 @@
       "duration_ms": 236129,
       "name": "Xocolate",
       "url": "https://open.spotify.com/track/10asRCljWZ51jZ22RnbiKV"
+    },
+    {
+      "album": {
+        "name": "XQ TAN DIFERENTE (\u2260)",
+        "url": "https://open.spotify.com/album/4cotdPZq0krUEWJmljpnGN"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180028,
+      "name": "XQ TAN DIFERENTE (\u2260)",
+      "url": "https://open.spotify.com/track/1N1YQPsLuEP2k6bZEmNWew"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,187,243 likes - 300 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,187,419 likes - 300 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Volo](https://open.spotify.com/track/6g98u9ojFOThAtwwkvfTjo) | [Joe Bae](https://open.spotify.com/artist/7BpL4nhNnrTDvC5Qb0p2h6), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Volo](https://open.spotify.com/album/1uT9pZ4hp6tHZwSJkwnc7l) | 2:17 |
 | 300 | [Urban Oasis](https://open.spotify.com/track/68q3yCwDpiaoSQzp2ZWeG2) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Urban Oasis](https://open.spotify.com/album/3q6FnpTsnNq0J1JYFh83fa) | 2:30 |
 
-Snapshot ID: `MCw2MjRjMjk3ZWYxNjhlMGEwMWY1NmM0MGM0YWNlNTMzMzNkMGI3NTRl`
+Snapshot ID: `MCxiYmY2MzY3MzlkZmViNzYyMGE3MjliMGM1NzcyYmUwZjJlYTI4ZjI3`

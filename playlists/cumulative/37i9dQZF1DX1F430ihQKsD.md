@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Valence
+> La scène musicale montréalaise au premier plan\. Photo: Cédrik St\-Onge
 
-408 songs - 23 hr 37 min
+409 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All These Things](https://open.spotify.com/track/5DWlF5fxVsZarYWbcJfiNt) | [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3), [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ) | [All These Things](https://open.spotify.com/album/6sCG9dfqKRyMNXlX71iPQX) | 4:28 | 2022-03-25 | 2022-04-29 |
 | [Alma](https://open.spotify.com/track/1mj11fRF0uL9ZBL496wgb6) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Karelle Tremblay](https://open.spotify.com/artist/5DPtq2vA56WITNtLe8dCp6) | [BLUE](https://open.spotify.com/album/5khcjrGY49VUT9mcCblhJx) | 3:44 | 2022-08-26 | 2022-10-15 |
 | [Alma](https://open.spotify.com/track/5wf1TXbl9KVasQjIbdDB39) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Karelle Tremblay](https://open.spotify.com/artist/5DPtq2vA56WITNtLe8dCp6) | [BLUE](https://open.spotify.com/album/56CovnRrY1xrrMSWLkk0L6) | 3:44 | 2022-10-14 | 2023-10-07 |
-| [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 | 2022-12-09 |  |
+| [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 | 2022-12-09 | 2023-12-09 |
 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 | 2022-03-25 | 2022-06-18 |
 | [Ami](https://open.spotify.com/track/0N0Ymk2UB6yzGBL2Xqo82L) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère II](https://open.spotify.com/album/27AJRwbqjpYYkXdN5d9e9z) | 2:48 | 2023-03-31 |  |
 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 | 2022-03-25 | 2022-06-04 |
@@ -54,6 +54,7 @@
 | [Block Of Wood](https://open.spotify.com/track/38sbz9ql94TLWkNa7YHA16) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Block Of Wood](https://open.spotify.com/album/5mpeLiDcSNmDZo7GPARi8c) | 3:19 | 2023-05-19 |  |
 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 | 2023-03-10 | 2023-08-26 |
 | [Blue World](https://open.spotify.com/track/2EQqbpuyUD4jwQHwoE6eQq) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Blue World](https://open.spotify.com/album/4px3NENks6BfQoYDXBI4lM) | 4:41 | 2022-03-25 | 2022-04-23 |
+| [blueprints of us](https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [blueprints of us](https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF) | 3:18 | 2023-12-08 |  |
 | [Boca Chica \- Bon Voyage Version](https://open.spotify.com/track/3VMYiD1rXYi6UScWqCBWND) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Bon Voyage](https://open.spotify.com/album/24pk86x4quyve0rILcnBPt) | 3:18 | 2022-05-06 | 2023-05-20 |
 | [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 | 2022-06-10 | 2023-02-08 |
 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2022-12-09 | 2023-03-04 |

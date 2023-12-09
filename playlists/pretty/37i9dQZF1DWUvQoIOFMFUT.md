@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,579 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,577 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 13 | [Your Soul](https://open.spotify.com/track/6n1HCApXCafWSThDAdBaTf) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Morning \- EP](https://open.spotify.com/album/4RKu9jqb5074p9VGobJqac) | 3:51 |
 | 14 | [Gravity](https://open.spotify.com/track/5ozy2aMf0l8YIyOwc0B91p) | [Tiggs](https://open.spotify.com/artist/7vqraVZiWn0GQT2lYkJCgz) | [Gravity](https://open.spotify.com/album/02Airjrme24zvE7ksjTI8d) | 3:26 |
 | 15 | [Angel's Song](https://open.spotify.com/track/5hXTMmVXz1Ablgu34BkTz1) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Angel's Song](https://open.spotify.com/album/0Ym8AaoLrK5HHQ0lCYgASd) | 3:17 |
-| 16 | [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 |
+| 16 | [Heavy](https://open.spotify.com/track/26eylodAJLTp1GkG4Q7wNy) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 3:01 |
 | 17 | [Ambulance](https://open.spotify.com/track/4pqsxHGrNokZEVlOSiH2MG) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Monument](https://open.spotify.com/album/3MDQ2fNnt78CZrdBh6Nq3B) | 4:32 |
 | 18 | [Unhold Me](https://open.spotify.com/track/6dVIFfl55kxGl3bAifMiMr) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Unhold Me](https://open.spotify.com/album/132EEc3csmIyKpp4nShpV6) | 3:18 |
 | 19 | [Golden Ratio](https://open.spotify.com/track/3MHBYSloK2tHDGAZ3ucA5I) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Golden Ratio](https://open.spotify.com/album/3gBKFggMKS5mbwWWg6TdZp) | 4:27 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 90 | [Somewhere Not Real](https://open.spotify.com/track/5kj38BAjlr6rXhD6GYglz0) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [Hometime](https://open.spotify.com/album/6niZSnemfDke5ITcAYPK1c) | 2:45 |
 | 91 | [Sirens](https://open.spotify.com/track/1EVus1vgkvjSZ7AGXTjMbX) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Sirens](https://open.spotify.com/album/2Hl1GmsR6cRLFmQUqpdPZ5) | 3:09 |
 | 92 | [To Adore](https://open.spotify.com/track/2pkAP51vRGsfMPEK8JijHD) | [A House In The Trees](https://open.spotify.com/artist/7ybXCaa1Cc7rMNDoMZoWzS) | [To Adore](https://open.spotify.com/album/6KLNsaVxNlldwQRgpljZzb) | 4:31 |
-| 93 | [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 |
+| 93 | [Eight](https://open.spotify.com/track/1Vs6MuP5FfZ28mRj4vINq8) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 2:49 |
 | 94 | [Kilkee](https://open.spotify.com/track/23ib6CJ9JzEJUsItSsPDXm) | [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Music for Picture: Vol\. II \(Metamorphosis\)](https://open.spotify.com/album/6ZFEU4um5fjx39GpnByQ53) | 4:00 |
 | 95 | [In the Belly of a Whale](https://open.spotify.com/track/2hU9NAYFdxDAMFhqgsCzQ4) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ), [Amy Acre](https://open.spotify.com/artist/4t6FYLW8R53UEGbdqLbj6B) | [In the Belly of a Whale](https://open.spotify.com/album/42JPvWoQRhGO7qkXJAw8Yx) | 2:13 |
 | 96 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 99 | [On The Way There](https://open.spotify.com/track/1cwV9KDoWoL2espNeeibvb) | [RolledBack](https://open.spotify.com/artist/1XZkIY1rC0QNcjpSIdMCoU), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [On The Way There](https://open.spotify.com/album/47SYiqJbww6E7jwvXscLSR) | 2:25 |
 | 100 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 
-Snapshot ID: `MCw3N2JiNmViNThmZjdjOTkxMjQ2ZTNkMTQwZWM2ODdiZjhkNTMyOWI5`
+Snapshot ID: `MCwxZmEyODZjYTU1NmJlNThhNDY3MjA2MmM0N2NlNjU0MWM0YTRjNTk4`

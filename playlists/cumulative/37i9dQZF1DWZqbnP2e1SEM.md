@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-271 songs - 14 hr 55 min
+272 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2022-05-10 | 2023-11-05 |
 | [Vibranium](https://open.spotify.com/track/3i3zj8jTAHkr3b1dSR6SOU) | [Chunkz](https://open.spotify.com/artist/3Lpx3ZSrsLeaVD9zKtGPiG), [Neji](https://open.spotify.com/artist/4Zpw485tk1ubdqIBe6GX9O) | [Vibranium](https://open.spotify.com/album/6GncPsrhSGA66FhgRaXr6d) | 3:28 | 2021-07-09 | 2022-05-11 |
 | [WANT NEED LOVE](https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [WANT NEED LOVE](https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq) | 4:01 | 2021-07-09 |  |
-| [Want You To Want Me](https://open.spotify.com/track/5cBHDVijSYGOpgnSx7rBuw) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Want You To Want Me](https://open.spotify.com/album/4NHmZ3UJiiK9ppIZeqoQE5) | 3:07 | 2021-07-09 |  |
+| [Want You To Want Me](https://open.spotify.com/track/3k1L3RdcNeZaL82al94JpC) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Want You To Want Me](https://open.spotify.com/album/1hX3AjSsrrWoxJQgMXPVpu) | 3:07 | 2023-11-22 |  |
+| [Want You To Want Me](https://open.spotify.com/track/5cBHDVijSYGOpgnSx7rBuw) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Want You To Want Me](https://open.spotify.com/album/4NHmZ3UJiiK9ppIZeqoQE5) | 3:07 | 2021-07-09 | 2023-12-09 |
 | [Way Too Long](https://open.spotify.com/track/4YMApzzqCO31TPxPvgdHhh) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Way Too Long](https://open.spotify.com/album/4PeGJQ4bZiathdzJ0bpj0X) | 2:30 | 2021-07-09 | 2023-09-12 |
 | [Wearing My Rolex \- Radio Edit](https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [See Clear Now](https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR) | 2:50 | 2021-07-09 | 2022-05-08 |
 | [West Indies](https://open.spotify.com/track/5O8uBUqc6rzlrS9YYCGeiX) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi) | 3:57 | 2022-05-10 | 2023-09-12 |

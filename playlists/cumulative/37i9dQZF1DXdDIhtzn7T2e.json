@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Old Familiar Drunken Feeling",
+        "url": "https://open.spotify.com/album/1WA2SE1Wl91iWGLCSBTjLW"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308491,
+      "name": "Old Familiar Drunken Feeling",
+      "url": "https://open.spotify.com/track/2slmd60iUQz0tGUObmVX0d"
+    },
+    {
+      "album": {
         "name": "Tarkio Road",
         "url": "https://open.spotify.com/album/5lHnXRX9sgB9aGo6r3lcdG"
       },

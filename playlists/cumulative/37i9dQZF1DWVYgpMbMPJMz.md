@@ -2,7 +2,7 @@
 
 ### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
-> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:6piIAIurGAryW5h1rqQC16">Passion</a>
+> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:7iETGaxJ4crz3qaljDPCKC">Brooke Ligertwood</a>
 
 461 songs - 1 day 20 hr 30 min
 

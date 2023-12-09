@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Hashiyasume",
+        "url": "https://open.spotify.com/album/6fbgUWFEUPht1KuOYlfdmF"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157346,
+      "name": "Heppokoman - rearrange ver.",
+      "url": "https://open.spotify.com/track/5jXLtOpxAnkmdwcLBzEeMj"
+    },
+    {
+      "album": {
         "name": "Here for You",
         "url": "https://open.spotify.com/album/3UzbiJ7QAN36hdoSY9Ks8g"
       },
@@ -3210,7 +3228,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 157346,
       "name": "\u3078\u3063\u307d\u3053\u307e\u3093 - rearrange ver.",
       "url": "https://open.spotify.com/track/7GbLlaxs7jumurnaQgyE2u"

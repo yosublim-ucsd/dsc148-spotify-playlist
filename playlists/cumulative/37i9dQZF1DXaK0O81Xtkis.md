@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: Knox
+> make it pop! cover: Felly
 
-817 songs - 1 day 16 hr 42 min
+824 songs - 1 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Blame The Brakes](https://open.spotify.com/track/4ZoPMviImcYNDNz6NEuDHm) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blame The Brakes](https://open.spotify.com/album/0jGU8t3SZvyiNgu02pInoo) | 3:26 | 2022-09-30 | 2023-03-04 |
 | [Blank Me](https://open.spotify.com/track/4GykOaWBJPS647ewLtyrCh) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blank Me](https://open.spotify.com/album/7na6EPTI7sIHutOQfJNXev) | 3:58 | 2021-11-19 | 2022-03-18 |
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-02-18 | 2022-06-04 |
+| [BLEACH](https://open.spotify.com/track/0Yb631ktGsxwsDFFlKZm6A) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [BLEACH](https://open.spotify.com/album/3uQYcHFnDBBo9K2BK5Ixj8) | 2:29 | 2023-12-08 |  |
 | [blue](https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [blue](https://open.spotify.com/album/29FYm9EmlZJ77BNOOq43pi) | 2:06 | 2022-05-20 | 2022-07-30 |
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-24 | 2022-09-17 |
 | [body goes](https://open.spotify.com/track/5UiYm9CRlk2h4IHX1112nF) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [body goes](https://open.spotify.com/album/3BfU5W65mj2eQAR2JjHrVU) | 2:20 | 2022-02-11 | 2022-02-26 |
@@ -170,12 +171,13 @@
 | [Dead Man Walking](https://open.spotify.com/track/2ol8FEyh73HwRoirGIbNh8) | [Lost Stars](https://open.spotify.com/artist/22LWBhZGE9ycuFtLV6jJYG) | [Dead Man Walking](https://open.spotify.com/album/5d4OHlY3hciR9R7QKBK2vF) | 3:07 | 2022-01-28 | 2022-04-16 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-09-24 |
 | [Deja Vu](https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p) | [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Deja Vu](https://open.spotify.com/album/4kfE30WhdmfdBrrRly5WPY) | 2:31 | 2022-06-10 | 2022-08-13 |
-| [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 | 2023-04-28 |  |
+| [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 | 2023-04-28 | 2023-12-09 |
 | [Destination](https://open.spotify.com/track/49JXBEa33UUqVb0sdiGIQS) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/5WFKsYhq4eXgAx0mbEYkw6) | 2:43 | 2022-09-23 | 2022-12-15 |
 | [Destination](https://open.spotify.com/track/6UdTm1JRcm4c5iKTWANe9Q) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/0rp4hHB8wUkhM5z3bVZWc5) | 2:43 | 2022-09-23 | 2023-01-14 |
 | [Destination](https://open.spotify.com/track/7C7bJ7Y8ifewQHwWJn0cHj) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/3HNG2SeXfTjlK6uB714dns) | 2:43 | 2022-09-23 | 2022-11-06 |
 | [Devil On My Shoulder](https://open.spotify.com/track/7soY9QzpSB9vI1LKwVxDuY) | [Lost Stars](https://open.spotify.com/artist/22LWBhZGE9ycuFtLV6jJYG) | [Devil On My Shoulder](https://open.spotify.com/album/5o8U32TnQPx5AczJqpVYhW) | 3:00 | 2023-04-24 | 2023-07-08 |
 | [Die Right Here](https://open.spotify.com/track/7fXYFuCTmNrYRGwEUUf5iz) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Die Right Here](https://open.spotify.com/album/5AYf4H1ZSeVznqc6nuPm89) | 2:07 | 2021-12-17 | 2022-02-26 |
+| [Different Lives](https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Different Lives](https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS) | 3:17 | 2023-12-08 |  |
 | [DIGGIN U](https://open.spotify.com/track/0Ni50H8KZDx9WVaKHId38j) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DIGGIN U](https://open.spotify.com/album/5YjrtoRuM55a22wfsY7UVn) | 2:27 | 2023-04-07 | 2023-07-29 |
 | [dirty white chucks](https://open.spotify.com/track/1OPfgyxxTSpIBuIUORr6x9) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [dirty white chucks](https://open.spotify.com/album/6CUvOeg6Sn0Lnhh6yiYwHN) | 2:38 | 2022-10-14 | 2023-02-11 |
 | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 | 2022-03-25 | 2022-05-28 |
@@ -358,7 +360,9 @@
 | [I Was a Fool](https://open.spotify.com/track/5TCSMWZow9lzc7jr8WscVD) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:24 | 2022-04-01 | 2022-04-09 |
 | [i wish you loved me](https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [i wish you loved me](https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi) | 3:20 | 2022-11-18 | 2023-03-25 |
 | [I Won't](https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [I Won't](https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ) | 2:48 | 2022-07-29 | 2022-10-08 |
+| [I WRITE SONGS ABOUT YOU](https://open.spotify.com/track/0qYeqpxqxQB7VSegLNRBRc) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CATALYST\- EP](https://open.spotify.com/album/6gyeFXC2dYLrU3O0tovWqC) | 2:14 | 2023-12-08 |  |
 | [I'll Call You Mine](https://open.spotify.com/track/0RQoxryvRJZD9CShaRLASb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:21 | 2022-02-18 | 2022-04-29 |
+| [I'm Done Calling](https://open.spotify.com/track/5iCxTOIG6tyDwfGj0hYKH2) | [Cesar Santalo](https://open.spotify.com/artist/0GOf63Qs5qGm2K0SJ8EgL2), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [I'm Done Calling](https://open.spotify.com/album/0jDVFlpv3l0U9u5Ct08KQp) | 2:39 | 2023-12-08 |  |
 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 | 2023-07-21 |  |
 | [I've Loved You For So Long](https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/1d4SG4S7oEKwHcPCyQsC2J) | 2:56 | 2023-04-28 | 2023-10-07 |
 | [Iced Coffee](https://open.spotify.com/track/0zH2HR19fqhvxCBzBPi6H2) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Iced Coffee](https://open.spotify.com/album/4eWF5c0nAas9soMtcpP3sj) | 2:35 | 2022-10-21 | 2023-02-18 |
@@ -441,6 +445,7 @@
 | [London Is Lonely \- Edit](https://open.spotify.com/track/06Tr79i53ihD4KUKYIyyjq) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:27 | 2022-02-04 | 2022-03-12 |
 | [lonely](https://open.spotify.com/track/2Lm0zTyVto9JsTwcjIuZcw) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [lonely](https://open.spotify.com/album/4WtLTJCmLuJ1XQHHt4jOcy) | 2:08 | 2023-03-24 | 2023-07-01 |
 | [loner](https://open.spotify.com/track/3MtZ7NDO0eVP2mltk9PdGA) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [loner](https://open.spotify.com/album/3QRGojp6gEqZf9QgxH6lMK) | 2:46 | 2023-03-10 | 2023-06-24 |
+| [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 | 2023-12-08 |  |
 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2021-10-29 | 2022-01-22 |
 | [Lose My Mind](https://open.spotify.com/track/4f7Snac8ZzHh59KmTOszil) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Lose My Mind](https://open.spotify.com/album/5GlO7wj3p6cmmgT8qnFqEg) | 2:26 | 2023-03-10 | 2023-04-15 |
 | [Lose My Number](https://open.spotify.com/track/6YG2PNDqV4qfKcKRhyMPKU) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Lose My Number](https://open.spotify.com/album/4DHc6jdGV40ZcJeDzPpAGF) | 2:23 | 2021-10-29 | 2022-02-26 |
@@ -470,6 +475,7 @@
 | [maybe money](https://open.spotify.com/track/7LslekRtdFPRxkRlyC8vkC) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [maybe money](https://open.spotify.com/album/0lWMNJDiYO0EcjYO7O2cAC) | 2:23 | 2022-04-22 | 2022-06-11 |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-05-13 | 2022-08-20 |
 | [Medical Attention](https://open.spotify.com/track/331XiSC8eOEhnG0zINJfyl) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Medical Attention](https://open.spotify.com/album/1wgjwMZKGL71NU5quWHqQe) | 2:56 | 2023-04-14 | 2023-07-01 |
+| [MERRY GO ROUND](https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AND ALL I LOVED, I LOVED ALONE](https://open.spotify.com/album/5HlkWTlZidWmEkSAJkm2Aq) | 2:10 | 2023-12-08 |  |
 | [MIA](https://open.spotify.com/track/31qUvtwOcX1OW4rTblwOcy) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [MIA](https://open.spotify.com/album/5OaiKNTvYpTMJIAj4mgATt) | 2:44 | 2021-10-29 | 2022-01-08 |
 | [Middle Of A Breakup](https://open.spotify.com/track/1i6CPLccaipwpW7vqyU6q8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Middle Of A Breakup](https://open.spotify.com/album/47bNR5XCEgz2RlE2Rx28Si) | 3:20 | 2022-07-22 | 2022-08-27 |
 | [Migraine](https://open.spotify.com/track/6T7DCQh0h7yPvoKtCMDKVb) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Migraine](https://open.spotify.com/album/2ciW2sBC9n41YdliEdBxbl) | 3:26 | 2023-09-22 | 2023-11-25 |
@@ -788,6 +794,7 @@
 | [What Am I Missing?](https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [What Am I Missing?](https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg) | 2:52 | 2023-04-21 | 2023-07-01 |
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 | 2022-12-03 |
 | [What's Been On Your Mind?](https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [What's Been On Your Mind?](https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs) | 2:52 | 2022-06-10 | 2022-08-13 |
+| [Whatever Comes My Way](https://open.spotify.com/track/5VjVqlPfslXPqORPGk5HlH) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [I had a beautiful time, now I have to leave](https://open.spotify.com/album/6uQgWP0yooJzPcr2bYYmrN) | 2:29 | 2023-12-08 |  |
 | [When The World Was Mine](https://open.spotify.com/track/5J7sG7gQgUWnY3SpIIW8an) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [When The World Was Mine](https://open.spotify.com/album/4iUGtfrvaY2d42BloFOE9M) | 3:30 | 2021-10-29 | 2021-12-25 |
 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-08-19 | 2022-09-03 |
 | [WHERE I WANNA BE FOUND](https://open.spotify.com/track/4AFBCemec0cYa2JLXqvH9M) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [WHERE I WANNA BE FOUND](https://open.spotify.com/album/1E8LLpuaE6VXqq9Ca59ASc) | 2:59 | 2022-07-19 | 2022-08-09 |

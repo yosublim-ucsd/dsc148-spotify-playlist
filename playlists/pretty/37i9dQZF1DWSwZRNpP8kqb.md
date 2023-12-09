@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,965 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,991 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 99 | [Chacarera del Santiagueño](https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn) | [Hilda Herrera](https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI) | [La Diablera](https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS) | 2:11 |
 | 100 | [Caminante](https://open.spotify.com/track/0Tvd59KWbv8rPMMtmZmRI2) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO) | [Caminante](https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0) | 3:28 |
 
-Snapshot ID: `MCwwZGY4M2MzYzZiMDFjZTcwMjc2MmQwYjlmM2M0ZjE3YzY2MmM3N2Zm`
+Snapshot ID: `MCw1ZTFmYzg3NWFiNGE1ZWZjNWFjNjNiNTRkZGVkMjQxNTY4ZTViZTdm`

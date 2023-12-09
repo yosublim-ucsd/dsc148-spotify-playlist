@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,395 likes - 150 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,603 likes - 150 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [I Have Finished The Race](https://open.spotify.com/track/4iOycRDZBb0mkKy6EGqiEr) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s), [Francesca LaRosa](https://open.spotify.com/artist/2XaFV5Bz4k3oEFBfZSGVoQ) | [Wrapped In Peace](https://open.spotify.com/album/6b7u6tlbjgaS5AqG0jPCkN) | 4:08 |
 | 150 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA) | 4:03 |
 
-Snapshot ID: `MCw5ZmMxNGYwZTJiYWFmOWZkMTViZDhiOGRkMmVhZjM4YjAyMzJmYzU2`
+Snapshot ID: `MCxlYzQ0ZjdlY2RmYzJiNGMxMGQ3NThiZmRjMzVhZTllNWIwYTk4ODRl`

@@ -1,13 +1,29 @@
 {
   "description": "The freshest tech house &amp; techno music \ud83d\udd25\ud83d\udd0a | tech house - house - techno - rave - party - bangers - tiktok techno - dance | Submit via Instagram: @subshiftmusic",
-  "num_followers": 7001,
+  "num_followers": 7009,
   "original_name": "Tech House Shifters",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "ODA2OCwyNjFiZGIzOWNjZjFhOWVmZDdhODk5ZTRkNzBkMmM5MmU2N2E3ZDY2",
+  "snapshot_id": "ODEwNCwxMmU1M2JjNjhjNjU1N2ZhMTgyODRiNmZmZDQ1ODk1YjkxNjc1YTQw",
   "tracks": [
+    {
+      "added_at": "2023-12-08 13:20:58",
+      "album": {
+        "name": "Make U Sweat",
+        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 148730,
+      "name": "Make U Sweat",
+      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
+    },
     {
       "added_at": "2023-12-01 00:04:12",
       "album": {
@@ -25,20 +41,24 @@
       "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
     },
     {
-      "added_at": "2023-11-27 20:07:39",
+      "added_at": "2023-12-08 13:21:11",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/4Uu6sM4mJHwy1pua81o6hT"
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
       },
       "artists": [
         {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 185538,
-      "name": "High",
-      "url": "https://open.spotify.com/track/3JvDVTzvFtboA4gxCDmURc"
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2023-12-01 09:07:23",
@@ -61,6 +81,22 @@
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
+      "added_at": "2023-12-08 13:20:35",
+      "album": {
+        "name": "I Can't Take No More",
+        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 157784,
+      "name": "I Can't Take No More",
+      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
+    },
+    {
       "added_at": "2023-12-01 00:42:30",
       "album": {
         "name": "Power / Down Low",
@@ -75,6 +111,22 @@
       "duration_ms": 180046,
       "name": "Power - Radio Edit",
       "url": "https://open.spotify.com/track/0HzVYobrBkcwQV1bFT78ii"
+    },
+    {
+      "added_at": "2023-11-27 20:07:39",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/4Uu6sM4mJHwy1pua81o6hT"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3JvDVTzvFtboA4gxCDmURc"
     },
     {
       "added_at": "2023-12-01 00:44:45",
@@ -95,6 +147,22 @@
       "duration_ms": 137343,
       "name": "Pupils Pop",
       "url": "https://open.spotify.com/track/42W0qVtb1Aop43fmTqLmkR"
+    },
+    {
+      "added_at": "2023-12-08 13:20:28",
+      "album": {
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
     },
     {
       "added_at": "2023-11-17 10:05:27",
@@ -169,6 +237,26 @@
       "url": "https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B"
     },
     {
+      "added_at": "2023-12-08 13:20:40",
+      "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/3NhS5BLf7QelzmwC4WUBKA"
+      },
+      "artists": [
+        {
+          "name": "Fredy Lane",
+          "url": "https://open.spotify.com/artist/4eqF8svFUIhgdkR7bSlQ6M"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "duration_ms": 210937,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/6iLHu0bW9RwYOjcTIDRdIT"
+    },
+    {
       "added_at": "2023-12-01 13:35:05",
       "album": {
         "name": "Musica",
@@ -199,6 +287,22 @@
       "duration_ms": 196615,
       "name": "Calling",
       "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
+    },
+    {
+      "added_at": "2023-12-08 13:21:02",
+      "album": {
+        "name": "Maneater",
+        "url": "https://open.spotify.com/album/7DLmcjIy0Q1jp0aUmrI48W"
+      },
+      "artists": [
+        {
+          "name": "Lodgerz",
+          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+        }
+      ],
+      "duration_ms": 151922,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/5XCHPYVswkxa0dvwznvBj5"
     },
     {
       "added_at": "2023-12-01 00:42:32",
@@ -277,6 +381,22 @@
       "url": "https://open.spotify.com/track/4xTFiSi0CmH8hrkMeMGca4"
     },
     {
+      "added_at": "2023-12-08 13:20:15",
+      "album": {
+        "name": "Black Rovah",
+        "url": "https://open.spotify.com/album/0jOg9XDPz3xNFx6o6Zv83X"
+      },
+      "artists": [
+        {
+          "name": "BURNR",
+          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
+        }
+      ],
+      "duration_ms": 180451,
+      "name": "Black Rovah",
+      "url": "https://open.spotify.com/track/624oyMYYWykkRgxTAcdefG"
+    },
+    {
       "added_at": "2023-12-01 00:44:00",
       "album": {
         "name": "Lotta Care EP",
@@ -291,6 +411,26 @@
       "duration_ms": 172734,
       "name": "Lotta Dough",
       "url": "https://open.spotify.com/track/4ylibekKTNdu4VeIChYUfL"
+    },
+    {
+      "added_at": "2023-12-08 13:20:32",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/1jIshdCAl5H8RcM0qswf60"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "duration_ms": 190147,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/0ysBN9XI9EDyFgUFIQC4PN"
     },
     {
       "added_at": "2023-11-27 20:07:25",
@@ -323,38 +463,6 @@
       "duration_ms": 177195,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs"
-    },
-    {
-      "added_at": "2023-11-17 10:08:32",
-      "album": {
-        "name": "Wrop",
-        "url": "https://open.spotify.com/album/7uLfUrSKlyq6Jii0C05JaH"
-      },
-      "artists": [
-        {
-          "name": "Havoc & Lawn",
-          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
-        }
-      ],
-      "duration_ms": 343673,
-      "name": "Wrop",
-      "url": "https://open.spotify.com/track/5Fqu16jHDbR0fNrYkAp9LX"
-    },
-    {
-      "added_at": "2023-11-20 00:41:39",
-      "album": {
-        "name": "Get Hard (You In The Lobby)",
-        "url": "https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn"
-      },
-      "artists": [
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 156948,
-      "name": "Get Hard (You In The Lobby)",
-      "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
     },
     {
       "added_at": "2023-11-17 17:23:50",
@@ -413,20 +521,40 @@
       "url": "https://open.spotify.com/track/4m9uVd1ujJAuYfLNKbQHei"
     },
     {
-      "added_at": "2023-11-27 20:12:34",
+      "added_at": "2023-12-08 13:21:07",
       "album": {
-        "name": "Do It Like Me",
-        "url": "https://open.spotify.com/album/2nrliuY92znfzFnihbY20f"
+        "name": "Special Vibe",
+        "url": "https://open.spotify.com/album/63EYQ1c50syuZrZeUzCJfe"
       },
       "artists": [
         {
-          "name": "Logan Camin",
-          "url": "https://open.spotify.com/artist/1ZYrw1flEe0vZfDwE94G7o"
+          "name": "Bryan Softwell",
+          "url": "https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Do It Like Me",
-      "url": "https://open.spotify.com/track/3xgNqQJ6GCMb6kRZyLvnyz"
+      "duration_ms": 233333,
+      "name": "Special Vibe",
+      "url": "https://open.spotify.com/track/6frPgK7dsMviK2Ogyh8VKT"
+    },
+    {
+      "added_at": "2023-12-08 13:20:25",
+      "album": {
+        "name": "Drop It Down",
+        "url": "https://open.spotify.com/album/7u26VusojvClzoCafHyzcV"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Drop It Down",
+      "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
     },
     {
       "added_at": "2023-12-01 13:35:15",
@@ -481,22 +609,6 @@
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
-      "added_at": "2023-11-27 20:12:28",
-      "album": {
-        "name": "Give It To Me",
-        "url": "https://open.spotify.com/album/5ol8zJUZtmGGdEkLBxobeN"
-      },
-      "artists": [
-        {
-          "name": "Luigi Sestan",
-          "url": "https://open.spotify.com/artist/2sbn0bsxZWFmn0oLGyvQmq"
-        }
-      ],
-      "duration_ms": 184776,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/7F9MOGnOYLnc1oVKtTwUDZ"
-    },
-    {
       "added_at": "2023-11-17 23:32:20",
       "album": {
         "name": "GUCCI PRADA",
@@ -511,38 +623,6 @@
       "duration_ms": 229687,
       "name": "GUCCI PRADA",
       "url": "https://open.spotify.com/track/7vB5A63FDiCZiRgCatnoib"
-    },
-    {
-      "added_at": "2023-11-17 10:05:49",
-      "album": {
-        "name": "I Want Your Soul (AVH Rework)",
-        "url": "https://open.spotify.com/album/3V0gTcJZRbokUfN7kSRIIn"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "I Want Your Soul - AVH Rework",
-      "url": "https://open.spotify.com/track/7rmSMSQwRNQtOU2mcz8ubs"
-    },
-    {
-      "added_at": "2023-11-17 10:05:53",
-      "album": {
-        "name": "You Feel",
-        "url": "https://open.spotify.com/album/00le7WzuiUjS7C6zl5lzdu"
-      },
-      "artists": [
-        {
-          "name": "FREAK ON",
-          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "You Feel",
-      "url": "https://open.spotify.com/track/5rsxpe0Jqg804aRryqw7Hs"
     },
     {
       "added_at": "2023-10-27 08:47:50",
@@ -657,42 +737,6 @@
       "url": "https://open.spotify.com/track/6jb6JbRfw2USnHQ0cWVHg8"
     },
     {
-      "added_at": "2023-11-27 20:12:30",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/7qwlGvvA5lbP0OKm4JrGi4"
-      },
-      "artists": [
-        {
-          "name": "GRIT.",
-          "url": "https://open.spotify.com/artist/5M41KGHlIjUq3TjEjiESWU"
-        }
-      ],
-      "duration_ms": 399375,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/3wGShU8vholQrEuDgpzM20"
-    },
-    {
-      "added_at": "2023-11-17 10:06:41",
-      "album": {
-        "name": "All U Freaks",
-        "url": "https://open.spotify.com/album/0LeCvnxo4ZoNsDJtTIxfNc"
-      },
-      "artists": [
-        {
-          "name": "Local Singles",
-          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
-        },
-        {
-          "name": "N2N",
-          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
-        }
-      ],
-      "duration_ms": 164409,
-      "name": "All U Freaks",
-      "url": "https://open.spotify.com/track/4ppE7egqVbSkW7r58jQ81g"
-    },
-    {
       "added_at": "2023-06-30 08:07:27",
       "album": {
         "name": "Is It Me",
@@ -717,22 +761,6 @@
       "url": "https://open.spotify.com/track/4X4N9Oqw4BMOzZubKscOF1"
     },
     {
-      "added_at": "2023-11-27 20:12:36",
-      "album": {
-        "name": "STPH ADE Sampler 2023",
-        "url": "https://open.spotify.com/album/1ZspmtdtYhUI39CJg1bnM0"
-      },
-      "artists": [
-        {
-          "name": "AUSMAX",
-          "url": "https://open.spotify.com/artist/3AflwtZig4N638X8CoAztJ"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/2ZEU7Lc3Y8NuVbl8Jh58uQ"
-    },
-    {
       "added_at": "2023-04-07 08:57:21",
       "album": {
         "name": "Breakout",
@@ -747,26 +775,6 @@
       "duration_ms": 215284,
       "name": "Breakout",
       "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
-    },
-    {
-      "added_at": "2023-12-01 19:30:50",
-      "album": {
-        "name": "Keep It Real",
-        "url": "https://open.spotify.com/album/59GuxkwP6AhIf6J3ekEKUI"
-      },
-      "artists": [
-        {
-          "name": "Stanley Kubrix",
-          "url": "https://open.spotify.com/artist/6qLmdqL3RpGudeFzz41Ksk"
-        },
-        {
-          "name": "Benny Bace",
-          "url": "https://open.spotify.com/artist/4SaW6aTgnylif79kH4Mw5r"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Keep It Real",
-      "url": "https://open.spotify.com/track/01DIK7akKFvzGkqvoVR05o"
     },
     {
       "added_at": "2023-12-01 19:31:00",
@@ -825,30 +833,6 @@
       "url": "https://open.spotify.com/track/0Hfss4Bbjukqm44GRxsJvF"
     },
     {
-      "added_at": "2023-12-01 19:43:24",
-      "album": {
-        "name": "Work (Gdr238)",
-        "url": "https://open.spotify.com/album/3uK1uUkOWL7DSAH8qX83tx"
-      },
-      "artists": [
-        {
-          "name": "Chuck Shadow",
-          "url": "https://open.spotify.com/artist/0plb6fI8MnpTQAM0UDamB3"
-        },
-        {
-          "name": "Fantom Freq",
-          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
-        },
-        {
-          "name": "Fubu Q",
-          "url": "https://open.spotify.com/artist/0HxOqDLES9gCHrSR5NvH8Q"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/5sGMsggU3ux3CClm4LbTSy"
-    },
-    {
       "added_at": "2023-11-27 20:07:34",
       "album": {
         "name": "Midnight In Manilla",
@@ -879,42 +863,6 @@
       "duration_ms": 215708,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
-    },
-    {
-      "added_at": "2023-11-30 23:28:27",
-      "album": {
-        "name": "Collab",
-        "url": "https://open.spotify.com/album/3WhRJ0zccDoJqseYv1b9HU"
-      },
-      "artists": [
-        {
-          "name": "Cele",
-          "url": "https://open.spotify.com/artist/2bpkThEPVrkcoAJpTFAVLR"
-        },
-        {
-          "name": "MYMA",
-          "url": "https://open.spotify.com/artist/4ulrSQwgXFXA7JcEKG1TkK"
-        }
-      ],
-      "duration_ms": 365538,
-      "name": "Collab",
-      "url": "https://open.spotify.com/track/2xNzcfNDu70BBMWUqG0vD8"
-    },
-    {
-      "added_at": "2023-12-02 08:24:02",
-      "album": {
-        "name": "Watts",
-        "url": "https://open.spotify.com/album/3IhzIcjFBD3VQHee0DB2Eg"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bastida",
-          "url": "https://open.spotify.com/artist/5wHxSZdr7rIyqlFJxH1gCM"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Watts",
-      "url": "https://open.spotify.com/track/5gsJJzemZZTCTSUxIFQm6u"
     },
     {
       "added_at": "2023-12-04 20:27:50",
@@ -1079,6 +1027,62 @@
       "duration_ms": 196386,
       "name": "Do For\u00e7a",
       "url": "https://open.spotify.com/track/6vvHVzlCx5Rc5Z1G6bBFbT"
+    },
+    {
+      "added_at": "2023-12-08 13:35:12",
+      "album": {
+        "name": "Woodford Tempo",
+        "url": "https://open.spotify.com/album/1Z44paQvT4WicwCuTPQ1xr"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Lacaille",
+          "url": "https://open.spotify.com/artist/6NkOSPVA2uRT8CjOADs1Us"
+        },
+        {
+          "name": "Fein Cerra",
+          "url": "https://open.spotify.com/artist/1OkT3YMHuOuDTIKsCJUWSm"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Woodford Tempo",
+      "url": "https://open.spotify.com/track/5lZKAY32yTYd6hUAuiapye"
+    },
+    {
+      "added_at": "2023-12-08 13:35:22",
+      "album": {
+        "name": "From South EP",
+        "url": "https://open.spotify.com/album/2wx0KAJs8bpJgWdlyL2RR6"
+      },
+      "artists": [
+        {
+          "name": "Raffa Castillo",
+          "url": "https://open.spotify.com/artist/0NakbcldLR7JE7Zbwae5Fy"
+        },
+        {
+          "name": "Pato D'Auria",
+          "url": "https://open.spotify.com/artist/2yJc7sy3LUQM3fg39vWeDH"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Lisa Sin La Vi-sa",
+      "url": "https://open.spotify.com/track/4x18ftK8TlJpDvkTaxiwJv"
+    },
+    {
+      "added_at": "2023-12-08 13:36:15",
+      "album": {
+        "name": "Shake And Move",
+        "url": "https://open.spotify.com/album/0dulJelG3F9rKdgmItvWnY"
+      },
+      "artists": [
+        {
+          "name": "Logan Camin",
+          "url": "https://open.spotify.com/artist/1ZYrw1flEe0vZfDwE94G7o"
+        }
+      ],
+      "duration_ms": 224876,
+      "name": "What Am I",
+      "url": "https://open.spotify.com/track/69t14OOHdfQsNLxL7peGyZ"
     }
   ],
   "unique_name": "Tech House Shifters",

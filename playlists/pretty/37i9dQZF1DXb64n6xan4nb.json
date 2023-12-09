@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 27832,
+  "num_followers": 27861,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjFjMmNiNzI1ZGY1NWNiNDExOWNhZTM3MzI0YWQ2YzIyYjEwNjE5",
+  "snapshot_id": "MCw5ZDkwNjMzZWQxZmI3MDBkMWZjMmJjMDM5ZWIzMjQ3ZTU1NGMzNmEz",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Band Of Dynamic Brothers",
-        "url": "https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Davichi In Wonderland",
         "url": "https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 219160,
       "name": "8282",
       "url": "https://open.spotify.com/track/7y4oE4ATKrE9XIM9XSeyQN"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Band Of Dynamic Brothers",
+        "url": "https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/4p1vHQdWMimu548x89KtNN"
+        "name": "TRI-ANGLE - 1st Album",
+        "url": "https://open.spotify.com/album/1013imXHa490acqEZkQpeX"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/7cce47QG2IibkXS6YdTtR3"
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
         }
       ],
-      "duration_ms": 257760,
-      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
-      "url": "https://open.spotify.com/track/6VmSp1SUpIYVWwDnTWpgYT"
+      "duration_ms": 229560,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/2NMhPQgZ0rd3kq98KJViID"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "TRI-ANGLE - 1st Album",
-        "url": "https://open.spotify.com/album/1013imXHa490acqEZkQpeX"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/4p1vHQdWMimu548x89KtNN"
       },
       "artists": [
         {
-          "name": "TVXQ!",
-          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/7cce47QG2IibkXS6YdTtR3"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Hug",
-      "url": "https://open.spotify.com/track/2NMhPQgZ0rd3kq98KJViID"
+      "duration_ms": 257760,
+      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
+      "url": "https://open.spotify.com/track/6VmSp1SUpIYVWwDnTWpgYT"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 258062,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 246613,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 255844,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 258062,
-      "name": "Must Have Love",
-      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
+      "duration_ms": 255844,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Sung Si kyung Remake Album",
-        "url": "https://open.spotify.com/album/5Ul0btt4Y5eWe1Rff1rmNQ"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 236002,
-      "name": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
-      "url": "https://open.spotify.com/track/7dxyNzfhhXpqIHttzNFxn5"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Chapter 5 Letter",
-        "url": "https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy"
+        "name": "Sung Si kyung Remake Album",
+        "url": "https://open.spotify.com/album/5Ul0btt4Y5eWe1Rff1rmNQ"
       },
       "artists": [
         {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
         }
       ],
-      "duration_ms": 228866,
-      "name": "0%",
-      "url": "https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP"
+      "duration_ms": 236002,
+      "name": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
+      "url": "https://open.spotify.com/track/7dxyNzfhhXpqIHttzNFxn5"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1319,6 +1303,22 @@
       "duration_ms": 251194,
       "name": "Love Me Once Again",
       "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Chapter 5 Letter",
+        "url": "https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "0%",
+      "url": "https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
+      },
+      "artists": [
+        {
+          "name": "Kim Yun A",
+          "url": "https://open.spotify.com/artist/1NgrW9iSVfCPihlIMku9oG"
+        }
+      ],
+      "duration_ms": 273773,
+      "name": "Spring day goes",
+      "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "CYWORLD BGM 2021",
         "url": "https://open.spotify.com/album/09HrMDDITGf5f8uFYeu81V"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 218906,
       "name": "Fly",
       "url": "https://open.spotify.com/track/44Xj0VvzmzbEEwwuhlf3P0"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
-      },
-      "artists": [
-        {
-          "name": "Kim Yun A",
-          "url": "https://open.spotify.com/artist/1NgrW9iSVfCPihlIMku9oG"
-        }
-      ],
-      "duration_ms": 273773,
-      "name": "Spring day goes",
-      "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1619,26 +1619,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Y",
-        "url": "https://open.spotify.com/album/6Txn5hnrNuZ9FFGRGAQ5ot"
+        "name": "Challenge 4Da Change",
+        "url": "https://open.spotify.com/album/6oNrmkWeMZZeRuMxjK4PMT"
       },
       "artists": [
         {
-          "name": "Kei",
-          "url": "https://open.spotify.com/artist/2NQKyWnBw5BRknaO7r8fBk"
+          "name": "Kinetic Flow",
+          "url": "https://open.spotify.com/artist/3tZO2DzJzKXhH9gx7GDCWv"
         },
         {
-          "name": "Myundo",
-          "url": "https://open.spotify.com/artist/0SjHcY2YHQyCUCiYSZsPZg"
-        },
-        {
-          "name": "BUMZU",
-          "url": "https://open.spotify.com/artist/4FCneqQd4xiPXKOa6poPIf"
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
         }
       ],
-      "duration_ms": 244386,
-      "name": "Y (feat.BUMZU)",
-      "url": "https://open.spotify.com/track/2LOglplo2xqm1IvyaKhzGm"
+      "duration_ms": 244746,
+      "name": "\ubabd\ud658\uc758 \uc232 (feat. Yiruma)",
+      "url": "https://open.spotify.com/track/3rQRx89A7kGuyXMbE72WCa"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1659,22 +1655,26 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Challenge 4Da Change",
-        "url": "https://open.spotify.com/album/6oNrmkWeMZZeRuMxjK4PMT"
+        "name": "Y",
+        "url": "https://open.spotify.com/album/6Txn5hnrNuZ9FFGRGAQ5ot"
       },
       "artists": [
         {
-          "name": "Kinetic Flow",
-          "url": "https://open.spotify.com/artist/3tZO2DzJzKXhH9gx7GDCWv"
+          "name": "Kei",
+          "url": "https://open.spotify.com/artist/2NQKyWnBw5BRknaO7r8fBk"
         },
         {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+          "name": "Myundo",
+          "url": "https://open.spotify.com/artist/0SjHcY2YHQyCUCiYSZsPZg"
+        },
+        {
+          "name": "BUMZU",
+          "url": "https://open.spotify.com/artist/4FCneqQd4xiPXKOa6poPIf"
         }
       ],
-      "duration_ms": 244746,
-      "name": "\ubabd\ud658\uc758 \uc232 (feat. Yiruma)",
-      "url": "https://open.spotify.com/track/3rQRx89A7kGuyXMbE72WCa"
+      "duration_ms": 244386,
+      "name": "Y (feat.BUMZU)",
+      "url": "https://open.spotify.com/track/2LOglplo2xqm1IvyaKhzGm"
     }
   ],
   "unique_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",

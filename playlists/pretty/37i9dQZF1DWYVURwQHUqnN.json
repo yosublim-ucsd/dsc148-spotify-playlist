@@ -1,12 +1,12 @@
 {
   "description": "Photo: KeBlack\n",
-  "num_followers": 1071513,
+  "num_followers": 1071640,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDlkYTE5MmM1MDRlYTMyODBjNzVhZjhjNjcxYTc1OTZmZmIxNzli",
+  "snapshot_id": "MCwyM2I1ZDY5ZWI3MmQ5OGU0Njc4ZTkxZjZiZDAwODQwMGU3MzYyNmU3",
   "tracks": [
     {
       "added_at": "2023-12-08 00:10:00",
@@ -292,12 +292,12 @@
           "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
         },
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
           "name": "Ninho",
           "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
       "duration_ms": 201533,

@@ -1,13 +1,129 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 24907,
+  "num_followers": 24909,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "OTM4OCw3NDdkMjJhMDZiZTQ2YmEwOGY3NjllZGZiNTQyNzJhZWYxMjA2ZDdh",
+  "snapshot_id": "OTM5OCw1ZWRiYzJjNDljYjlkYTQ5NWVkZjE4MzM0OWQwOTUyMTEyNDMzMjZl",
   "tracks": [
+    {
+      "added_at": "2023-12-08 22:13:47",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/2cBWEbN85uv6gT3Wjnnj94"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "duration_ms": 150746,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4L7PA4GJ8opDpOhlK25wGx"
+    },
+    {
+      "added_at": "2023-12-08 22:12:55",
+      "album": {
+        "name": "DOTTED LINE (feat. Veeze)",
+        "url": "https://open.spotify.com/album/7CHqJ2bXlU3RAEKOcRLVk4"
+      },
+      "artists": [
+        {
+          "name": "Samuel Shabazz",
+          "url": "https://open.spotify.com/artist/20V5Q17099P2NNExkMStg7"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 169368,
+      "name": "DOTTED LINE (feat. Veeze)",
+      "url": "https://open.spotify.com/track/5KMEGEPGor1F57Aohyrbnz"
+    },
+    {
+      "added_at": "2023-12-08 22:13:13",
+      "album": {
+        "name": "Trophies",
+        "url": "https://open.spotify.com/album/4QcAsaILcr6N6VcLmDiZkp"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Bank Truck",
+      "url": "https://open.spotify.com/track/4ZsXWjCRhEkKPlDVtNvap6"
+    },
+    {
+      "added_at": "2023-12-08 22:13:23",
+      "album": {
+        "name": "You 2 Thank",
+        "url": "https://open.spotify.com/album/1AHynywfnZGfxVt2iLfzL7"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "You 2 Thank",
+      "url": "https://open.spotify.com/track/5n0mrZ3vD772kuwt9trMZ0"
+    },
+    {
+      "added_at": "2023-12-08 22:13:34",
+      "album": {
+        "name": "Fish Bowl",
+        "url": "https://open.spotify.com/album/50LOxYYUJns97tycJc4kDg"
+      },
+      "artists": [
+        {
+          "name": "FMB DZ",
+          "url": "https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa"
+        }
+      ],
+      "duration_ms": 106736,
+      "name": "Fish Bowl",
+      "url": "https://open.spotify.com/track/56sxhRbTBj6ekLi0sPW28B"
+    },
+    {
+      "added_at": "2023-12-08 22:14:44",
+      "album": {
+        "name": "Benzes & Trackhawks",
+        "url": "https://open.spotify.com/album/1W5HkkXy3T2QBmMkQMuuJU"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        },
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        },
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "Humble & Heartless (feat. Lil Yee)",
+      "url": "https://open.spotify.com/track/6tD5baN25aR6VLGXV3SjSL"
+    },
     {
       "added_at": "2023-12-01 18:21:17",
       "album": {
@@ -67,30 +183,6 @@
       "duration_ms": 123775,
       "name": "One",
       "url": "https://open.spotify.com/track/1BipJ8VH6LtnJAIioJRinc"
-    },
-    {
-      "added_at": "2023-12-01 18:21:57",
-      "album": {
-        "name": "DOTTED LINE (feat. Veeze)",
-        "url": "https://open.spotify.com/album/7CHqJ2bXlU3RAEKOcRLVk4"
-      },
-      "artists": [
-        {
-          "name": "Samuel Shabazz",
-          "url": "https://open.spotify.com/artist/20V5Q17099P2NNExkMStg7"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 169368,
-      "name": "DOTTED LINE (feat. Veeze)",
-      "url": "https://open.spotify.com/track/5KMEGEPGor1F57Aohyrbnz"
     },
     {
       "added_at": "2023-12-01 18:22:08",

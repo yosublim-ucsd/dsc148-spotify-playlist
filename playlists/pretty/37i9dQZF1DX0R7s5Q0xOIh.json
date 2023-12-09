@@ -1,13 +1,373 @@
 {
   "description": "A playlist oficial do Carona Podpah, Original Spotify com o <a href=\"spotify:show:1GLSDdk9CDEwziGNIlnb8a\">Podpah</a>",
-  "num_followers": 8243,
+  "num_followers": 8278,
   "original_name": "Carona Podpah com m\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmMxZGIyYzZhZWJiMDExZDgwZWZlZGEyOTZkOGQwNDVmOWVkOTVk",
+  "snapshot_id": "MCxiNGZmODg5NDNlMDdlOGY5NjJlZDQxMmJhZmZhNDZmMjdlYmU5Yzgy",
   "tracks": [
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Baile do Bruxo",
+        "url": "https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "SMU",
+          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
+        },
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Baile do Bruxo",
+      "url": "https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Para de Mentir",
+        "url": "https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "Para de Mentir",
+      "url": "https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Se Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/7McFtJZ23IFeIlKFLLJJGx"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "Se Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/7h9BkPljkGtZ7I0zD5PEcY"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "A M\u00fasica da M\u00e3e",
+        "url": "https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "A M\u00fasica da M\u00e3e",
+      "url": "https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Dj Alle da coro",
+          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 129440,
+      "name": "01 do R",
+      "url": "https://open.spotify.com/track/77cFhEWBd4cdszQkRJ54kK"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Rodeo (Remix)",
+        "url": "https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 245959,
+      "name": "Rodeo (Remix)",
+      "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "S\u00f3 Tem Moleque Bom",
+        "url": "https://open.spotify.com/album/7q8Gno3GQ0RkzeK28LA7T5"
+      },
+      "artists": [
+        {
+          "name": "Bonde do Vinho",
+          "url": "https://open.spotify.com/artist/2K2G4HNVB71Iw86m90aJWS"
+        }
+      ],
+      "duration_ms": 171306,
+      "name": "I Feel Vinho",
+      "url": "https://open.spotify.com/track/76fuj0ast41YzXxc6uW2dN"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/6IqdfOX19OBSSxNTTRA5kg"
+      },
+      "artists": [
+        {
+          "name": "Restart",
+          "url": "https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T"
+        }
+      ],
+      "duration_ms": 206597,
+      "name": "Levo Comigo",
+      "url": "https://open.spotify.com/track/6BcqNZ7D3gI0ALivZMAvux"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Vim pra Dominar o Mundo",
+        "url": "https://open.spotify.com/album/6Rw191EPH8xdpJM4tuQsj1"
+      },
+      "artists": [
+        {
+          "name": "POLLO",
+          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
+        }
+      ],
+      "duration_ms": 170766,
+      "name": "Vagalumes",
+      "url": "https://open.spotify.com/track/18zXw7VA97aovBwbxSpPqH"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Gera\u00e7\u00e3o Z",
+        "url": "https://open.spotify.com/album/3WAVVYlTp0WKydbIsnhQdo"
+      },
+      "artists": [
+        {
+          "name": "Restart",
+          "url": "https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Menina Estranha",
+      "url": "https://open.spotify.com/track/5ltKcubb4XyraT99idcCZX"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 192194,
+      "name": "ESS\u00caNCIA DE CRIA",
+      "url": "https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Roda Gigante",
+        "url": "https://open.spotify.com/album/0gCe1k87JzaYPPGkU7X5QS"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        }
+      ],
+      "duration_ms": 291050,
+      "name": "Roda Gigante",
+      "url": "https://open.spotify.com/track/2BXUyqfXTyGNGJYfOeW61K"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Dan\u00e7a do Cr\u00e9u",
+        "url": "https://open.spotify.com/album/0VNoAKdYvTrjgB0xysOyaE"
+      },
+      "artists": [
+        {
+          "name": "Mc Creu",
+          "url": "https://open.spotify.com/artist/7gXLT7X0z4mE87tvo4V4l9"
+        }
+      ],
+      "duration_ms": 259299,
+      "name": "Dan\u00e7a do Cr\u00e9u",
+      "url": "https://open.spotify.com/track/3rSE4kfxP3Z0W3jDCK9Uy1"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 274482,
+      "name": "Muleque De Vila",
+      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "Ooorra...(A Que Deu Nome a Mixtape)",
+      "url": "https://open.spotify.com/track/1ZN5EnxScmBM9stqKkXxPM"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "AmarElo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vZpxsAyqUDsRgeCvH4bbW"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 188421,
+      "name": "Levanta e Anda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3xCvn8jYAetVrxKvH8BLMq"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "EU TE AVISEI",
+      "url": "https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx"
+    },
+    {
+      "added_at": "2023-12-08 14:20:58",
+      "album": {
+        "name": "Renasci das Cinzas",
+        "url": "https://open.spotify.com/album/5MfPb0WpztYgdlRLoBixrC"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        }
+      ],
+      "duration_ms": 296640,
+      "name": "Renasci das Cinzas",
+      "url": "https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9"
+    },
     {
       "added_at": "2023-12-01 18:06:19",
       "album": {

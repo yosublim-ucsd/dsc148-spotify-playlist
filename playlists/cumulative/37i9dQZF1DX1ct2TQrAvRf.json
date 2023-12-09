@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7AeLzb0S0TzNqTCN5YPkoZ"
+      },
+      "artists": [
+        {
+          "name": "Dino James",
+          "url": "https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW"
+        },
+        {
+          "name": "GD 47",
+          "url": "https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/0jaX10A3R9z6iMdVrq6Xiz"
+    },
+    {
+      "album": {
         "name": "170CM from Think Indie",
         "url": "https://open.spotify.com/album/0qi3yuIvmsXAQr2V5GBr7H"
       },
@@ -348,7 +370,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 159272,
       "name": "Bread And Butter",
       "url": "https://open.spotify.com/track/3DobnqNHraZV31RycNkFBF"
@@ -1504,6 +1526,24 @@
     {
       "album": {
         "name": "NEW LIFE",
+        "url": "https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Legends (B Side)",
+      "url": "https://open.spotify.com/track/2nmbs8yIgR9AV3x5Kj0Wzh"
+    },
+    {
+      "album": {
+        "name": "NEW LIFE",
         "url": "https://open.spotify.com/album/7zvmmYySo3FPuwEiKv7xSF"
       },
       "artists": [
@@ -1514,7 +1554,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 170625,
       "name": "Legends (B Side)",
       "url": "https://open.spotify.com/track/6aj5MGcyqkkz1hopeKxrMR"
@@ -2394,10 +2434,32 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 167500,
       "name": "We Are The Ones (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/0VBdCcaY6ERYKF7fZXQ8YX"
+    },
+    {
+      "album": {
+        "name": "NEW LIFE",
+        "url": "https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "We Are The Ones (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/47AEUwR1rppGeruasDVgBC"
     },
     {
       "album": {

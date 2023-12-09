@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Dare You to Move",
+        "url": "https://open.spotify.com/album/59Q0IT2MMPbO0psMj3oINn"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224736,
+      "name": "Dare You to Move",
+      "url": "https://open.spotify.com/track/4uyCECRGpW2NFsSaPvkkVm"
+    },
+    {
+      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/1lC4GfcSMniIqTx9BckSFb"
       },
@@ -4418,7 +4436,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"

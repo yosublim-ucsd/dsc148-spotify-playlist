@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,455 likes - 300 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,530 likes - 300 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 299 | [Summer Night Drive](https://open.spotify.com/track/7ljrhaBBoEzqfmx6N1aHa2) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Summer Night Drive](https://open.spotify.com/album/2k14E9FYFBchF4iYTx7TCp) | 2:20 |
 | 300 | [Still](https://open.spotify.com/track/36hJoEUrjNZy4NuA60FZrZ) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Cosmic Cove](https://open.spotify.com/album/623Qjo8XXT0kOKSPtHbxw1) | 2:41 |
 
-Snapshot ID: `MCwxYTI1MWQ4N2RmNTAxOGU2YzkwM2Y4YWZiODQ1ZTAwYWE5Y2I5Y2Fk`
+Snapshot ID: `MCw3MTk4OWZiNzRjNjg1MmZkZDQzZmRmYjU1YWY4ODU1NmFiMzBkNmI0`

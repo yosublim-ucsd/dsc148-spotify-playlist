@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > brime é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,006 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,235,954 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 32 | [Nômade VIII](https://open.spotify.com/track/1AgMtiDqjuwt9xEUsvjpgh) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Nômade VIII](https://open.spotify.com/album/3jKgm379J5fpAYmsE2JnrM) | 3:03 |
 | 33 | [Amanhecer](https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:31 |
 | 34 | [Já É Tarde](https://open.spotify.com/track/2Et0DMAf1syfTEazKYcA7d) | [Supperbiro](https://open.spotify.com/artist/2LY4vuWOg5mNDMGjN2Byjt), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [ALLANA](https://open.spotify.com/artist/6HDbz8r8C8Rr5XQO1uHslV) | [Fitas Perdidas](https://open.spotify.com/album/0Q7DsXc72gYQHUgxGuU7JF) | 4:03 |
-| 35 | [Ascensão do Cisne Negro](https://open.spotify.com/track/7IcoaHpCLutnfMmZQuqzbx) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 2:48 |
+| 35 | [Ascensão do Cisne Negro](https://open.spotify.com/track/7IcoaHpCLutnfMmZQuqzbx) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 2:48 |
 | 36 | [Menorzão](https://open.spotify.com/track/54cMvqyAt0IbPaPHoIW1dc) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [MIXTAPE EU MERMO](https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW) | 2:58 |
 | 37 | [fumaça](https://open.spotify.com/track/2hfkQwt8mqmd2GxBRYOPG0) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:31 |
 | 38 | [De Lala \- Spotify Singles](https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Binho](https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk), [Dj Geh](https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh) | [De Lala \- Spotify Singles](https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
 | 50 | [Favela Vive 5](https://open.spotify.com/track/5svioJ5BlJIYfQFPT1eq7v) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc Marechal](https://open.spotify.com/artist/5YZEcrC3yHeiZ1bBvwKRUF), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Favela Vive 5](https://open.spotify.com/album/0HIqiDgY7xzP0vzbg8aGT8) | 8:13 |
 
-Snapshot ID: `MCw3NDcyOWY1MTI4Zjc4MmNmNGUwM2NiOWIzYWM3OTA0Yjk5ZTM3NDg4`
+Snapshot ID: `MCw0ZGZkMzkzZWY0ZjdiOTE4NWZhZTRjYTFlYzU0MWE3Njc4ZTM4ZDQ1`

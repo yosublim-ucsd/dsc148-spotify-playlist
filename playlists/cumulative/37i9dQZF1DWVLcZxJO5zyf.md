@@ -2,7 +2,7 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todos as novidades e hits do pop br aqui e agora! Foto: DUDA BEAT
+> Ouça todos as novidades e hits do pop br aqui e agora! Foto: Marina Sena
 
 255 songs - 11 hr 47 min
 

@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 238384,
+  "num_followers": 238381,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzVkMzI2ZDgwMzE0ZTYwOWNhYWY0M2NhYWUxYjExNjA3YTNlM2Vm",
+  "snapshot_id": "MCwxNjNkZTE5NDNmZDA3MmRhNTM5YmE4MTJjNmNmMGIwMDNhZTM5ZDcy",
   "tracks": [
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "GLOOMTOWN BRATS",
+        "url": "https://open.spotify.com/album/3bNUksAi616JZtViQ7ivwh"
+      },
+      "artists": [
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 193524,
+      "name": "GLOOMTOWN BRATS",
+      "url": "https://open.spotify.com/track/5vBAjwTwk34cyQ4KgqgoP6"
+    },
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
@@ -1679,22 +1695,6 @@
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Don't Trip",
-        "url": "https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et"
-      },
-      "artists": [
-        {
-          "name": "Aquakultre",
-          "url": "https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "Don't Trip",
-      "url": "https://open.spotify.com/track/5mJpenSgvHOjfnK1Z4fc1p"
     },
     {
       "added_at": "2022-05-20 04:01:00",

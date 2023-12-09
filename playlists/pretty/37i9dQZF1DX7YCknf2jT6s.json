@@ -1,28 +1,28 @@
 {
-  "description": "New jazz for open minds. Cover: H ZETTRIO",
-  "num_followers": 911121,
+  "description": "New jazz for open minds. Cover: Joel Ross",
+  "num_followers": 911240,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmYxYjQ5YWNlYjMxYjQxNjliMWI0ZmU3MmQ1NTE1NDU4YjA1M2Ew",
+  "snapshot_id": "MCw4ZDViY2I2ZjcyNzUxNjdmYzg5YmZkNjhlMTIyNzlkM2UwMTVjN2Nk",
   "tracks": [
     {
-      "added_at": "2023-12-01 05:01:00",
+      "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Dynamics",
-        "url": "https://open.spotify.com/album/2j45BDfC3FVhEbiExfU1oS"
+        "name": "nublues (fade)",
+        "url": "https://open.spotify.com/album/13LGo7WE21yw89QwuYiWqt"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Dynamics",
-      "url": "https://open.spotify.com/track/7wi3S0J8v5uA12cXZI4xug"
+      "duration_ms": 490325,
+      "name": "nublues - fade",
+      "url": "https://open.spotify.com/track/0OhiQIsXhYTZ6uVb8SBSVI"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -39,6 +39,42 @@
       "duration_ms": 260226,
       "name": "So Mi Stay",
       "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "Soul Bossa Nova (feat. Sean Jones)",
+        "url": "https://open.spotify.com/album/7guf1smuSK28a1Qt8507UT"
+      },
+      "artists": [
+        {
+          "name": "Grace Kelly",
+          "url": "https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn"
+        },
+        {
+          "name": "Sean Jones",
+          "url": "https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6"
+        }
+      ],
+      "duration_ms": 288293,
+      "name": "Soul Bossa Nova (feat. Sean Jones)",
+      "url": "https://open.spotify.com/track/32u3Jjd93Hkv8WBCHZlGUe"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "Answer to Remember Theme",
+        "url": "https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP"
+      },
+      "artists": [
+        {
+          "name": "Answer to Remember",
+          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
+        }
+      ],
+      "duration_ms": 130563,
+      "name": "Answer to Remember Theme",
+      "url": "https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7"
     },
     {
       "added_at": "2023-11-10 05:01:00",
@@ -59,6 +95,38 @@
       "duration_ms": 252503,
       "name": "Marking My Time - BADBADNOTGOOD Edit",
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "ESCALECTRIC",
+        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 344034,
+      "name": "Terrestre",
+      "url": "https://open.spotify.com/track/0kXyRmTQDrs2oK6uFFWagR"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Dynamics",
+        "url": "https://open.spotify.com/album/2j45BDfC3FVhEbiExfU1oS"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Dynamics",
+      "url": "https://open.spotify.com/track/7wi3S0J8v5uA12cXZI4xug"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -813,30 +881,6 @@
       "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Meditations",
-        "url": "https://open.spotify.com/album/3I63JmX1Yud9Yuj6Zy3Vkm"
-      },
-      "artists": [
-        {
-          "name": "Myele Manzanza",
-          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
-        },
-        {
-          "name": "Matthew Sheens",
-          "url": "https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E"
-        },
-        {
-          "name": "Matt Penman",
-          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
-        }
-      ],
-      "duration_ms": 474560,
-      "name": "Meditations",
-      "url": "https://open.spotify.com/track/28w36tSx14PJdKiruyLInl"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "side sidemi",
@@ -1025,26 +1069,6 @@
       "url": "https://open.spotify.com/track/0XPQ1MkUGm4pGQj3kx4exC"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "A Lovesome Thing",
-        "url": "https://open.spotify.com/album/47b74rWLSpPJjFfmw3gLUh"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        },
-        {
-          "name": "Geri Allen",
-          "url": "https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg"
-        }
-      ],
-      "duration_ms": 472142,
-      "name": "Simple #2",
-      "url": "https://open.spotify.com/track/7FEFlvPxocLxR86GOlEhlj"
-    },
-    {
       "added_at": "2023-07-07 04:01:00",
       "album": {
         "name": "Sal Al Malec\u00f3n",
@@ -1179,22 +1203,6 @@
       "duration_ms": 378422,
       "name": "Final Voyage",
       "url": "https://open.spotify.com/track/6pBaX9CnZJ4KBkojIQ325L"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "Les Jardins Mystiques Vol.1",
-        "url": "https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e"
-      },
-      "artists": [
-        {
-          "name": "Miguel Atwood-Ferguson",
-          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
-        }
-      ],
-      "duration_ms": 372173,
-      "name": "Eunoia",
-      "url": "https://open.spotify.com/track/33XEbnHrZ2PpIpViOBvNz9"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1595,22 +1603,6 @@
       "duration_ms": 386293,
       "name": "Zero/Donny Barley",
       "url": "https://open.spotify.com/track/2aJUhKkkOdpJ1seK0CBQHv"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "9 P.M.",
-        "url": "https://open.spotify.com/album/44wIm9dGMuTJ7Tt1osYmLe"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "9 P.M.",
-      "url": "https://open.spotify.com/track/2Gqmm2IOcDwUZCsETTdCd7"
     },
     {
       "added_at": "2023-09-29 04:01:00",

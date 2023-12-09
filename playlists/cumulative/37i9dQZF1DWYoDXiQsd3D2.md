@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-226 songs - 14 hr 40 min
+227 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [The Wave](https://open.spotify.com/track/4rlY6t4sZyguT9HAQ2BLzS) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [The Wave](https://open.spotify.com/album/54WoGKFUUOlELx0Acc7XYE) | 3:32 | 2022-07-28 | 2022-11-15 |
 | [Unmoored](https://open.spotify.com/track/1SAs5oYs3N6U2S0Y2JJ3iV) | [Fog Chaser](https://open.spotify.com/artist/660gTWIyoCKgut2Yt9aDaC) | [Unmoored](https://open.spotify.com/album/1iKvwFy2Lmt7yzP1WOGItD) | 2:30 | 2022-04-13 |  |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-05-11 |  |
-| [Video Tape \- From "Surface"](https://open.spotify.com/track/7zTaLLMF9A170FfPtBaL3m) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Video Tape \(From "Surface"\)](https://open.spotify.com/album/3qFNuf0WssUVPXTPdrxGho) | 2:17 | 2022-07-29 |  |
+| [Video Tape \- From "Surface"](https://open.spotify.com/track/5z3KcciOg8G1IsIaRN5ZOv) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Surface \(Music from the Original TV Series\)](https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst) | 2:17 | 2023-04-27 |  |
+| [Video Tape \- From "Surface"](https://open.spotify.com/track/7zTaLLMF9A170FfPtBaL3m) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Video Tape \(From "Surface"\)](https://open.spotify.com/album/3qFNuf0WssUVPXTPdrxGho) | 2:17 | 2022-07-29 | 2023-12-09 |
 | [VIM](https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [VIM](https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl) | 3:27 | 2023-01-30 |  |
 | [Vårsøg \(Arr\. for Violin and Orchestra by Ben Palmer\)](https://open.spotify.com/track/4R2IJdhyEPflHnWQreYQjh) | [Henning Sommerro](https://open.spotify.com/artist/6jW6nKyPEmPdBrKOEICcuu), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Arctic Philharmonic](https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f) | [Vårsøg \(Arr\. for Violin and Orchestra by Ben Palmer\)](https://open.spotify.com/album/5qWnxfBgvzLD75l02jzFeh) | 3:40 | 2022-09-14 |  |
 | [Waldgeist](https://open.spotify.com/track/2tQKDTxmrwz1HjKCvehNer) | [Autumn Glow](https://open.spotify.com/artist/4VlqUkFSCfcGj6CpDMPd0b) | [Waldgeist](https://open.spotify.com/album/1QGgKDW28GLKJCrEQLuxKL) | 4:40 | 2022-12-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,777 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,315 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 69 | [Bailando \- Video Edit](https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Bailando](https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y) | 3:49 |
 | 70 | [Let the Beat Go On \(Short Version\)](https://open.spotify.com/track/0r2joAcaJghNmtRIBBIzu1) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [Look Who's Talking](https://open.spotify.com/album/5DqnXBdlgQl0RqhuwHQSzd) | 4:03 |
 
-Snapshot ID: `MCw1ZTRlODUzNWYwZDljNTkyZDY0YTRhZDcxMDlkYzg3NGNkN2Q4OTQ4`
+Snapshot ID: `MCw1OTI2ZDQzMmFmMjhlYzQ4YmQ2ZWZlYWU3NzYzYjVmYTkzODVhMjg5`

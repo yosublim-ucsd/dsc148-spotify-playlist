@@ -3191,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Sensations",
+        "url": "https://open.spotify.com/album/444Smw0uIl5I4mJ6CdkRQn"
+      },
+      "artists": [
+        {
+          "name": "Amara Issawi",
+          "url": "https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165450,
+      "name": "Peaceful Sensations",
+      "url": "https://open.spotify.com/track/1Lzv93xUuJMP28dDMVPOjm"
+    },
+    {
+      "album": {
         "name": "Dreams Within Dreams",
         "url": "https://open.spotify.com/album/4z7X3l4pXbdV4PdVwuyIIW"
       },
@@ -3965,6 +3983,24 @@
     },
     {
       "album": {
+        "name": "Slow Ripples",
+        "url": "https://open.spotify.com/album/4SpMs8Q51STgwypy6dEqh0"
+      },
+      "artists": [
+        {
+          "name": "Kobi Whitaker",
+          "url": "https://open.spotify.com/artist/0hWLqsMKD6QA78z57n7onf"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Slow Ripples",
+      "url": "https://open.spotify.com/track/2kIGoBgxrTuqtp8QIS1k8t"
+    },
+    {
+      "album": {
         "name": "Slowly Drifting Away",
         "url": "https://open.spotify.com/album/3mTYgLak5gS3ZQqheAFLMj"
       },
@@ -4186,6 +4222,24 @@
       "duration_ms": 212730,
       "name": "Stories Untold",
       "url": "https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM"
+    },
+    {
+      "album": {
+        "name": "Stundtals",
+        "url": "https://open.spotify.com/album/0s0XQEm1Sqa4PJc06Hv0pR"
+      },
+      "artists": [
+        {
+          "name": "Maja Vang",
+          "url": "https://open.spotify.com/artist/3bbpr6K017bEFjyDUCNMkQ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Stundtals",
+      "url": "https://open.spotify.com/track/1PqHlGhw8e7fcLN3Q6bPVp"
     },
     {
       "album": {
@@ -4560,7 +4614,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 180000,
       "name": "This Moment",
       "url": "https://open.spotify.com/track/435xpWs0hfZnFv9BrDvx6a"

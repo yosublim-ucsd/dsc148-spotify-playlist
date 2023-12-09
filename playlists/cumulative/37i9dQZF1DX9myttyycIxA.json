@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: carpetgarden",
+  "description": "Underground indie rock gems. Cover: ratbag",
   "name": "undercurrents",
   "tracks": [
     {
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 201640,
       "name": "Boy In Blue",
       "url": "https://open.spotify.com/track/0VPUjs1EFo32DmV81Bu3Rq"
@@ -4613,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "Dead Lands",
+        "url": "https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8"
+      },
+      "artists": [
+        {
+          "name": "Punchlove",
+          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274714,
+      "name": "Dead Lands",
+      "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
+    },
+    {
+      "album": {
         "name": "Death Drive",
         "url": "https://open.spotify.com/album/3QYzKAOZ6XwSPiOPjiWv2T"
       },
@@ -5009,6 +5027,24 @@
     },
     {
       "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/0PM03cPbWRSe0rTTY9sqXm"
+      },
+      "artists": [
+        {
+          "name": "miicah",
+          "url": "https://open.spotify.com/artist/2aB4Le4Kw8PHghlMJ2T2oi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/5gBzMkmAtyn1WhZcCz7mk3"
+    },
+    {
+      "album": {
         "name": "DIVER",
         "url": "https://open.spotify.com/album/4djBKbRIxnLHPApowO8tbL"
       },
@@ -5330,6 +5366,24 @@
       "duration_ms": 251133,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4HwEnH5PQUALrkaiOYatd7"
+    },
+    {
+      "album": {
+        "name": "Drive All Night",
+        "url": "https://open.spotify.com/album/2eKgVsjsHyuKupvTRHTrfT"
+      },
+      "artists": [
+        {
+          "name": "Joyer",
+          "url": "https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179487,
+      "name": "Drive All Night",
+      "url": "https://open.spotify.com/track/7wRbH2GlXe9dZQBdhWzkco"
     },
     {
       "album": {
@@ -6758,10 +6812,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 199879,
       "name": "fool for you",
       "url": "https://open.spotify.com/track/2WN6K7GSUcYh90kSq6bVAz"
+    },
+    {
+      "album": {
+        "name": "fool for you",
+        "url": "https://open.spotify.com/album/2RrAue7Ur84t4Qe6MAJwsP"
+      },
+      "artists": [
+        {
+          "name": "yuronono",
+          "url": "https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199879,
+      "name": "fool for you",
+      "url": "https://open.spotify.com/track/4uhx82pIQtY9S3xmHKbztZ"
     },
     {
       "album": {
@@ -8254,7 +8326,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 189000,
       "name": "Heaven Is Your Company",
       "url": "https://open.spotify.com/track/7kZs1XgzlyQhMNHLzPA9cj"
@@ -9826,7 +9898,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 210373,
       "name": "In That Sound",
       "url": "https://open.spotify.com/track/4RUaE3CtYytmgduj79rlX3"
@@ -10651,6 +10723,42 @@
     },
     {
       "album": {
+        "name": "Knowing You",
+        "url": "https://open.spotify.com/album/664Cc2ZdpJQZCoYdOnhtl8"
+      },
+      "artists": [
+        {
+          "name": "frown line",
+          "url": "https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230375,
+      "name": "Knowing You",
+      "url": "https://open.spotify.com/track/6KO3ebcMoEN3vjltHo9FWI"
+    },
+    {
+      "album": {
+        "name": "Laced",
+        "url": "https://open.spotify.com/album/3Ai0s9Mub52lhvfhPW0wfr"
+      },
+      "artists": [
+        {
+          "name": "Yumi Nu",
+          "url": "https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201102,
+      "name": "Laced",
+      "url": "https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2"
+    },
+    {
+      "album": {
         "name": "Ladybird",
         "url": "https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs"
       },
@@ -10900,6 +11008,24 @@
       "duration_ms": 268909,
       "name": "Let It Pass",
       "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
+    },
+    {
+      "album": {
+        "name": "let me breathe",
+        "url": "https://open.spotify.com/album/73E1kLBB1rxy9V1JuJtb8q"
+      },
+      "artists": [
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114500,
+      "name": "let me breathe",
+      "url": "https://open.spotify.com/track/3POQJgxSFmXwPWdOgLvDyt"
     },
     {
       "album": {
@@ -11328,7 +11454,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 212080,
       "name": "Loops",
       "url": "https://open.spotify.com/track/5GgeEPCGwqoWxd6gzptHeB"
@@ -14613,6 +14739,24 @@
     },
     {
       "album": {
+        "name": "why aren't you laughing?",
+        "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253745,
+      "name": "rot in love",
+      "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
+    },
+    {
+      "album": {
         "name": "Waterslide, Diving Board, Ladder To The Sky",
         "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
       },
@@ -16287,6 +16431,24 @@
     },
     {
       "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/7wtxFKEjWcmtgUAtRmVLfv"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/6DaplCk0rD4SVDH6sHOxGJ"
+    },
+    {
+      "album": {
         "name": "Spinning Wheel",
         "url": "https://open.spotify.com/album/2sMt2rmTEt87ZdJFwBlfho"
       },
@@ -16334,7 +16496,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 253336,
       "name": "Splendor",
       "url": "https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x"
@@ -19298,7 +19460,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 174345,
       "name": "Westside",
       "url": "https://open.spotify.com/track/3j6i691X3jzg70sQ3nIZC5"
@@ -19590,7 +19752,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 289933,
       "name": "Where You'll Find Me Now - Alternate Version",
       "url": "https://open.spotify.com/track/5iB3Sl8ba4jkSKQKWt0zIu"

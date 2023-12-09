@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 ### [Musical Therapy](https://open.spotify.com/playlist/37i9dQZF1DXcCnTAt8CfNe)
 
-> Relaja tu mente con música instrumental suave.
+> Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,266 likes - 190 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,105 likes - 190 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,18 +18,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 8 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 |
 | 9 | [Stillness](https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Stillness](https://open.spotify.com/album/5cAyA5mlUDMuQ89JHasPkg) | 3:03 |
 | 10 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
-| 11 | [Skyscapes](https://open.spotify.com/track/6eyZpxeoEcLDPBCyCEJfRA) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Skyscapes](https://open.spotify.com/album/0wJc1muAZ0cAWqTzwMaNDm) | 2:14 |
-| 12 | [Blomma](https://open.spotify.com/track/3p8KyONFH0lT1dpmclxtWW) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Blomma](https://open.spotify.com/album/0jxhXC3LDUnkKKpac93TAk) | 2:57 |
-| 13 | [Quirky Mood](https://open.spotify.com/track/30pP0rmYhIjch0vOe1ozDO) | [Charmayanne Heart](https://open.spotify.com/artist/13nuvqJex4tgWPY8Rb8H9H) | [Hypnotic Energy](https://open.spotify.com/album/7tB3dez6h6ijKqKlSm1RWH) | 3:40 |
-| 14 | [Yael](https://open.spotify.com/track/0IUMxL5vvNXnOONt4XOQZE) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Occo](https://open.spotify.com/album/04kUJ5taRxFums5i4QWO8h) | 3:03 |
-| 15 | [I Fjärran](https://open.spotify.com/track/0B9oeRRIfX98Sovrvayil0) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [I Fjärran](https://open.spotify.com/album/0ua6rEVPIxjyqo3itZEYaq) | 3:02 |
-| 16 | [Vista](https://open.spotify.com/track/0M2JKYETZm0oLy5Mg0d138) | [Segarus](https://open.spotify.com/artist/5L3uMci2iyD3APnlwYfTkO) | [Vista](https://open.spotify.com/album/17VevRpQczCsbFV6gmqDDD) | 2:56 |
-| 17 | [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 2:22 |
-| 18 | [Serene Sanctuary](https://open.spotify.com/track/69HNELzycnP7UucHMyfPv6) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Serene Sanctuary](https://open.spotify.com/album/06KfQjiKksP8mmCSdayolJ) | 2:31 |
-| 19 | [Juste un peu de temps](https://open.spotify.com/track/46kX9joHbnA0xNSlQbGjIN) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Juste un peu de temps](https://open.spotify.com/album/5ayE5YMhM1ptPPL5iuirTi) | 3:05 |
-| 20 | [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 |
-| 21 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
-| 22 | [Love Letter](https://open.spotify.com/track/0dBvGHBWNzInAt4uyutg5i) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Love Letter](https://open.spotify.com/album/0vsVIaPDvHh4mDWIusQek6) | 2:58 |
+| 11 | [Jasper](https://open.spotify.com/track/2AG8ZJpqCZBAGYJKuWEXUr) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Jasper](https://open.spotify.com/album/0rklMojfiPjGxBSRVOGLrw) | 3:10 |
+| 12 | [Skyscapes](https://open.spotify.com/track/6eyZpxeoEcLDPBCyCEJfRA) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Skyscapes](https://open.spotify.com/album/0wJc1muAZ0cAWqTzwMaNDm) | 2:14 |
+| 13 | [Blomma](https://open.spotify.com/track/3p8KyONFH0lT1dpmclxtWW) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Blomma](https://open.spotify.com/album/0jxhXC3LDUnkKKpac93TAk) | 2:57 |
+| 14 | [Quirky Mood](https://open.spotify.com/track/30pP0rmYhIjch0vOe1ozDO) | [Charmayanne Heart](https://open.spotify.com/artist/13nuvqJex4tgWPY8Rb8H9H) | [Hypnotic Energy](https://open.spotify.com/album/7tB3dez6h6ijKqKlSm1RWH) | 3:40 |
+| 15 | [Yael](https://open.spotify.com/track/0IUMxL5vvNXnOONt4XOQZE) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Occo](https://open.spotify.com/album/04kUJ5taRxFums5i4QWO8h) | 3:03 |
+| 16 | [I Fjärran](https://open.spotify.com/track/0B9oeRRIfX98Sovrvayil0) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [I Fjärran](https://open.spotify.com/album/0ua6rEVPIxjyqo3itZEYaq) | 3:02 |
+| 17 | [Vista](https://open.spotify.com/track/0M2JKYETZm0oLy5Mg0d138) | [Segarus](https://open.spotify.com/artist/5L3uMci2iyD3APnlwYfTkO) | [Vista](https://open.spotify.com/album/17VevRpQczCsbFV6gmqDDD) | 2:56 |
+| 18 | [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 2:22 |
+| 19 | [Serene Sanctuary](https://open.spotify.com/track/69HNELzycnP7UucHMyfPv6) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Serene Sanctuary](https://open.spotify.com/album/06KfQjiKksP8mmCSdayolJ) | 2:31 |
+| 20 | [Juste un peu de temps](https://open.spotify.com/track/46kX9joHbnA0xNSlQbGjIN) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Juste un peu de temps](https://open.spotify.com/album/5ayE5YMhM1ptPPL5iuirTi) | 3:05 |
+| 21 | [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 |
+| 22 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
 | 23 | [Inside The Wave](https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [The Deep](https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR) | 2:26 |
 | 24 | [Entering Light](https://open.spotify.com/track/66sprH72V1xH9LhBW5Pvar) | [Niebla Valley](https://open.spotify.com/artist/5eGdL4dsdzRs93HIWxtn5I) | [Silhouettes](https://open.spotify.com/album/2Im4LTWyWpEmEky5hpn1jz) | 2:43 |
 | 25 | [Alunissage](https://open.spotify.com/track/3I9DGW4nS3BJJeyoPNuOHS) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Alunissage](https://open.spotify.com/album/0JwgAGmFOckRMnqShQVbGG) | 2:56 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 189 | [Harmonious](https://open.spotify.com/track/0w1kQy9x8W7yA299gFLhLn) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Harmonious](https://open.spotify.com/album/5ag8H1bxJUJbGBHb1IXu8T) | 3:56 |
 | 190 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 |
 
-Snapshot ID: `MCw3ZGQ4M2RkNWI0ZTJiMjAwYjg0MDRhOTljY2Q1MzdlNTY2ODg3Yjcx`
+Snapshot ID: `MCxlZDI3YmU3YTU0YTFjNjA3OTlmNGI1ZmVlZGUzODQyY2M2M2M4NDEx`

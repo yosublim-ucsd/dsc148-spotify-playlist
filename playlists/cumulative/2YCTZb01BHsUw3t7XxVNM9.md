@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-475 songs - 1 day 9 hr 13 min
+476 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Mnemosyne](https://open.spotify.com/track/38IMxbtsmTHzvVLaC4n23Q) | [深海イオ](https://open.spotify.com/artist/0opH2xuLJRAFqbfyeSTpl6), [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Daydream Monologue](https://open.spotify.com/album/3rqV4UU7uMGUoOYyrINUM2) | 4:36 | 2021-01-03 |  |
 | [Mnemosyne \- Remain Silent Remix](https://open.spotify.com/track/66JGhcTBiFyHXX62IXb8f7) | [深海イオ](https://open.spotify.com/artist/0opH2xuLJRAFqbfyeSTpl6), [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [Remain Silent](https://open.spotify.com/artist/5pmwcvJqiHZ9ZaaFkK5YEo) | [Ce1ebrati0n SideC](https://open.spotify.com/album/7n8AAkBcYZg5RPxRd9YgPD) | 5:01 | 2022-10-25 |  |
 | [Mood Breaker](https://open.spotify.com/track/3hI81FTA1epzsBLEw4YtkC) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [NGHTSHFT](https://open.spotify.com/album/2AWM8A29Q78Fo251XKB83u) | 2:47 | 2020-09-04 |  |
+| [Movin'](https://open.spotify.com/track/3bfvb1tJO1RnfuvErCSjE4) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Movin'](https://open.spotify.com/album/4g5awkletRkNllUUG1Sl2L) | 3:23 | 2023-12-08 |  |
 | [Muscari](https://open.spotify.com/track/13ODXswoVw5BGcEPYhA5ub) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Japanese Hardcore BEST \- Mixed by RoughSketch](https://open.spotify.com/album/4TxS8TVxHcvKe7asjpurh8) | 3:11 | 2019-02-04 |  |
 | [Muscari \(6th Remix\)](https://open.spotify.com/track/1ZI0KNKLFSwu9F2PhsL4fo) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Notebook Records 2018 Year Selection](https://open.spotify.com/album/0bl5sctu6cKdbOESKAMfqQ) | 5:00 | 2019-06-01 |  |
 | [Muscari \(sige Remix\)](https://open.spotify.com/track/5d7E1RSRRJfq3ewiRfF7Va) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [YATSUZAKI HARDCORE VOLUME 9 \- REMIXES](https://open.spotify.com/album/0uTygYYXPvqZItufl8LWJQ) | 6:36 | 2019-09-13 |  |

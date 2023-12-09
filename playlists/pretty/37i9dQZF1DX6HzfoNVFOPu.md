@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,466 likes - 200 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,508 likes - 200 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 | 199 | [Old Yellow Bricks](https://open.spotify.com/track/3BcQFPRZuuUClWStz29WjN) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:07 |
 | 200 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
 
-Snapshot ID: `MCxjMDZiYzA0ZDUyYTc0NmU2YTU3MDcyODI4ODRjNDMzODVmYzc2NzZi`
+Snapshot ID: `MCxmZDIyNjYzNjY2NzQyMzQyMWVkM2UwMDgyNDFkNWI2ZDVmOGYxZjA1`

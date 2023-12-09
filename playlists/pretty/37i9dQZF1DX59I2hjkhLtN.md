@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: SleepyThePrince.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,057 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,065 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Taking Over](https://open.spotify.com/track/3IFifbl19XiTDfnjAqv95l) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9) | [Taking Over](https://open.spotify.com/album/5tXWIsfUyFfnVN1x5hXb9d) | 2:51 |
 | 2 | [Different Way](https://open.spotify.com/track/75IaLJ5Y564PgI1yUOSGjI) | [RBoy](https://open.spotify.com/artist/0yfYb8zcJhOTaZFFiIsCjD), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Different Way](https://open.spotify.com/album/4q2yBCJnH6rzehzCUyeEIa) | 3:48 |
-| 3 | [Karma \(feat\. Coca FSM\) \(feat\. Coca FSM\)](https://open.spotify.com/track/1Fz1vSPH9JxwmJRtCQPiS6) | [Tekilla](https://open.spotify.com/artist/4JpVZA90RocmWArCvMSWqM), [Coca FSM](https://open.spotify.com/artist/7nBujSP0pSaB93RkhIWIiG) | [Karma \(feat\. Coca FSM\) \(feat\. Coca FSM\)](https://open.spotify.com/album/3zmKF4shlzNRvy3OMbkDiR) | 3:34 |
+| 3 | [Karma \(feat\. Coca FSM\)](https://open.spotify.com/track/1Fz1vSPH9JxwmJRtCQPiS6) | [Tekilla](https://open.spotify.com/artist/4JpVZA90RocmWArCvMSWqM), [Coca FSM](https://open.spotify.com/artist/7nBujSP0pSaB93RkhIWIiG) | [Karma \(feat\. Coca FSM\)](https://open.spotify.com/album/3zmKF4shlzNRvy3OMbkDiR) | 3:34 |
 | 4 | [Fotossíntese](https://open.spotify.com/track/6kCAwwPzYFk2HmH5YPzVSd) | [NOIATT](https://open.spotify.com/artist/0KZUlXo9Xt5pxkSRZhNJo3) | [Oblíquo](https://open.spotify.com/album/54Df7jJFSVaesioPnZi30T) | 3:02 |
 | 5 | [TÃO CEDO + SINNER](https://open.spotify.com/track/4K8VHskpM8cc082qEA67WI) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [TÃO CEDO + SINNER](https://open.spotify.com/album/7r15UlR8wBxUsuiEP7PRAK) | 3:33 |
 | 6 | [Enquanto Eu Viver](https://open.spotify.com/track/0416e2MiccAlvEtwmNfSwe) | [E2SON](https://open.spotify.com/artist/2LUpzCPtbdSZg8viFA9Szs) | [Enquanto Eu Viver](https://open.spotify.com/album/6nTlaec7wOXaUC24a9QpN2) | 4:03 |
-| 7 | [PICK UP](https://open.spotify.com/track/0ZPhPW9J2ky662a67e3bql) | [HeyRicoo](https://open.spotify.com/artist/7gv9htyT9jMdsEPLcan5SI) | [PICK UP](https://open.spotify.com/album/61up6FNPlL9ae5AQuyZsZs) | 1:08 |
+| 7 | [PICK UP](https://open.spotify.com/track/0ZPhPW9J2ky662a67e3bql) | [Ricoo](https://open.spotify.com/artist/0F084gqcHRhZsxhxQjnHos) | [PICK UP](https://open.spotify.com/album/61up6FNPlL9ae5AQuyZsZs) | 1:08 |
 | 8 | [Mikado](https://open.spotify.com/track/5IQWTfwLGphW2cFeHuAyCe) | [Capão](https://open.spotify.com/artist/1V86kXTwC0BxS5InOpVsVY) | [Dupla Personalidade](https://open.spotify.com/album/20yCSHs6XyhNVsHFT0yJDP) | 2:27 |
 | 9 | [BAGDA 2.0](https://open.spotify.com/track/6rqd40V67yLe97oPux4R6G) | [GBZ](https://open.spotify.com/artist/5JuOAzaCG0kaLfXN3SuZTH), [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [BAGDA 2.0](https://open.spotify.com/album/4yUPbzk5oJrEOswGp5YC2r) | 3:19 |
 | 10 | [VICIOS](https://open.spotify.com/track/3gqsXybrGBj8DcInbzMPBp) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [VICIOS](https://open.spotify.com/album/7gxBZLxvR7eInArMFhRELK) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [ilha](https://open.spotify.com/track/1DzPbtEQOJD0l4hl94T6hO) | [ifloow10k](https://open.spotify.com/artist/7jsTdkR1StdUR03rWY8gpa) | [ilha](https://open.spotify.com/album/25zvWPWpyna9Gqw709QR6F) | 2:30 |
 | 100 | [Amor](https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Amor](https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG) | 3:01 |
 
-Snapshot ID: `MCw4OGYwZGY2ZGY0MzA2ODUxZWEyNjk5MzMyMmRlZWE1YjBjYjI5NjJh`
+Snapshot ID: `MCwzOTQ4ZTVjYTg3OTY0Zjk0YWU3NTIxMDUyMWQ1MzViMjY2ODA0Mjlk`

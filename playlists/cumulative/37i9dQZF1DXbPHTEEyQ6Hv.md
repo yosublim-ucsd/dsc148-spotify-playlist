@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-170 songs - 6 hr 28 min
+173 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Do You Hear What I Hear](https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 3:20 | 2021-12-14 |  |
 | [Do You Want to Build A Snowman?](https://open.spotify.com/track/6s8M6j0NmquCYZy6NKjDGx) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Do You Want to Build A Snowman?](https://open.spotify.com/album/6vaGiLu1MD3JcsZmkQXp6Q) | 3:06 | 2022-10-14 |  |
 | [Donkey Carol](https://open.spotify.com/track/59AHzvoqVmzDZ832T7gkkL) | [Sophie Wendel](https://open.spotify.com/artist/0H6L0sikl86jo2Rpq6kVMZ) | [Donkey Carol](https://open.spotify.com/album/5I0RyOInIuhD3loWBDnlY7) | 2:06 | 2023-09-26 |  |
+| [Es Ist Ein Ros' Entsprungen](https://open.spotify.com/track/3LQQz7ztdslQvLtB7ElZId) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Mr\. Kensington](https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ) | [Es ist ein Ros' entsprungen](https://open.spotify.com/album/6cqWE8se5KQRxyF7GZ432C) | 2:11 | 2023-12-08 |  |
 | [Fairytale of New York](https://open.spotify.com/track/3KOJjkgH7r5nHamhCAmmb5) | [Kevin Duncan](https://open.spotify.com/artist/2Kg6QagAYT2ttYNxWnlADj) | [Christmas at the Piano](https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE) | 3:33 | 2021-12-14 | 2023-09-27 |
 | [Feels Like Christmas](https://open.spotify.com/track/2TUxiQHM6JocQHuwBaLzKc) | [Ido Mann](https://open.spotify.com/artist/6e05PHr5LS2M4fm6P7ClAz) | [Ido Mann](https://open.spotify.com/album/4qlZCXAc5E4hcpi2y7tkB5) | 3:17 | 2021-12-14 |  |
 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 | 2022-11-09 |  |
@@ -88,7 +89,8 @@
 | [Happy Xmas](https://open.spotify.com/track/6gGD7PRnQmj1BcoOs4rqiJ) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [Happy Xmas](https://open.spotify.com/album/5yfYF0xEnU9cUBxFbzgchY) | 2:16 | 2023-10-03 |  |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/6vD4DVOnhf5N2NKkozKQlR) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Hark The Herald Angels Sing](https://open.spotify.com/album/4Dnkr99I1KiZluOWg9z5Ai) | 2:35 | 2023-10-11 |  |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/7Ezy3sFFAS3kJntqZTWpXz) | [Manuel Valera](https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8), [kamanote](https://open.spotify.com/artist/0HljO0dF8nwi684rrDyhHa) | [Hark! The Herald Angel Sing](https://open.spotify.com/album/0TIx5snVQO9bqxfYh9eB2v) | 3:45 | 2021-12-14 | 2023-10-12 |
-| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3MzmTBYxot2d3Oox8hkIZS) | [Emma Welsch](https://open.spotify.com/artist/0pcgoReBn9OiUsZIN0B1Kl) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7cyQdSJaRXNSb6GnUUwMet) | 2:49 | 2022-10-14 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3MzmTBYxot2d3Oox8hkIZS) | [Emma Welsch](https://open.spotify.com/artist/0pcgoReBn9OiUsZIN0B1Kl) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7cyQdSJaRXNSb6GnUUwMet) | 2:49 | 2022-10-14 | 2023-12-09 |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5taqXHS1T93h8aY0Qy8lhZ) | [Timothy North](https://open.spotify.com/artist/69zHQUFleLsUpHOV8pW99i) | [The Magic Of Christmas](https://open.spotify.com/album/6NTyCBRaQy3JgoClHXX6pi) | 2:50 | 2023-12-08 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/5BhgEYBl21jrcMHFH9v2ZT) | [Judy Baker](https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4) | [Here Comes Santa Claus](https://open.spotify.com/album/3NuTH4aDWNH2RbxOmuHJ9H) | 2:40 | 2023-10-24 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 | 2021-12-14 | 2023-10-27 |
 | [Home for the Holidays](https://open.spotify.com/track/5K5igtw94jv30oLWwv3bMg) | [Amelie Voss](https://open.spotify.com/artist/2Ccygrq1MNC7OTTjQneXBK) | [Home for the Holidays](https://open.spotify.com/album/77HidFPOvYVZwCpkEQ72YH) | 2:39 | 2021-12-14 |  |
@@ -119,7 +121,7 @@
 | [Let It Snow](https://open.spotify.com/track/6mZZoKItl25gYsrrDhXvlV) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Let It Snow](https://open.spotify.com/album/4i8qY2SqCTNbhUajsHpZMT) | 2:58 | 2021-12-14 | 2022-11-10 |
 | [Let It Snow](https://open.spotify.com/track/47Pda49R3eC3gIgJGOVO8k) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [Let It Snow](https://open.spotify.com/album/3dQPMWudKdrelDhmw3nf2y) | 2:56 | 2022-11-09 |  |
 | [Light of the World](https://open.spotify.com/track/5HmHdOfFEGyrFihRHtx8jv) | [Faye Mosley](https://open.spotify.com/artist/50JVQBWkJTwvTOAvhgcBhv) | [Light of the World](https://open.spotify.com/album/2yNYgL3DzPYgnChLSAS5h7) | 1:45 | 2021-12-14 | 2023-09-27 |
-| [Lo, How A Rose E'er Blooming](https://open.spotify.com/track/0FeaaPUwvzyrJPsj15hcsG) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 3:46 | 2021-12-14 |  |
+| [Lo, How A Rose E'er Blooming](https://open.spotify.com/track/0FeaaPUwvzyrJPsj15hcsG) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 3:46 | 2021-12-14 | 2023-12-09 |
 | [Love Came Down At Christmas](https://open.spotify.com/track/6pQolUrOpzZS2eLkeZAS0M) | [Lillith Love](https://open.spotify.com/artist/5HzezX7WHyXZ7pDUCgb3ZU) | [Where Are You, Christmas?](https://open.spotify.com/album/4es25LjvggwFaLP3ZDvb60) | 1:53 | 2021-12-14 | 2023-09-27 |
 | [Mary, Did You Know?](https://open.spotify.com/track/36oJLgj5hsn1aFhm9zNwJV) | [Joseph McGrahl](https://open.spotify.com/artist/6PlWx5ZUw2UWUIltBfrNrH) | [Mary, Did You Know?](https://open.spotify.com/album/7rgdBOf7jFMiqGXDjxoa7T) | 3:30 | 2022-10-14 |  |
 | [Maybe This Christmas](https://open.spotify.com/track/4i5ZpTxLoHCqeotiLOWv7K) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [A Peaceful Christmas](https://open.spotify.com/album/2mLz7vHJjwBedvfErCH30A) | 2:07 | 2021-12-14 |  |
@@ -135,6 +137,7 @@
 | [Oh Holy Night](https://open.spotify.com/track/5aKLsTh2eSp1cZxWidGU8K) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [Oh Holy Night](https://open.spotify.com/album/6MxlnQlKdMrLDZwPnzbGXZ) | 4:04 | 2021-12-14 | 2022-11-10 |
 | [Peaceful Midnight Vignette](https://open.spotify.com/track/5lu9eIMZWM5jhwezjP9VAt) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Holiday Improvisations](https://open.spotify.com/album/308ccuyDr8CgJ9NNFhDcZo) | 1:19 | 2022-12-16 | 2023-09-27 |
 | [Please Come Home for Christmas](https://open.spotify.com/track/53ke8sTyEWjVjiBoE8kbkS) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 3:34 | 2021-12-14 |  |
+| [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/6KP3J7KWWt26RYsvBD0jQ7) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/album/06or9Rrq5yA0Zab5Abz0o4) | 3:05 | 2023-12-08 |  |
 | [Sans Day Carol](https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:41 | 2021-12-14 |  |
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/1Xjj1DDj2s0KlcLvixqgBd) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Santa Claus Is Comin' to Town](https://open.spotify.com/album/0D0juNN2akEwy4vz3too8S) | 1:39 | 2023-11-08 |  |
 | [Santa Tell Me](https://open.spotify.com/track/1AToYrtSByKZq8a6uIEsmg) | [Pam Hill](https://open.spotify.com/artist/2G0kAA5t60WuLGOa1FSFRB) | [Santa Tell Me](https://open.spotify.com/album/7CM27GU1KQV7vTiNSkxf1P) | 2:14 | 2022-10-14 |  |

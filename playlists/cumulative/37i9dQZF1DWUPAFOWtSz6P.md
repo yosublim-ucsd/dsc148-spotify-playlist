@@ -4,7 +4,7 @@
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-82 songs - 5 hr 28 min
+83 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Twist](https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL) | 3:06 | 2022-12-29 |  |
 | [Twist](https://open.spotify.com/track/7rbVQAeKbC37aU45N5GOVC) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL) | 3:06 | 2020-05-12 | 2023-01-22 |
 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 | 2020-05-12 |  |
-| [when i look at you.](https://open.spotify.com/track/3rQnmsnyKJ2ytIv4LxkDmT) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i dreamed i was the night EP](https://open.spotify.com/album/2NGho5cUvQNMxyFEcz0j8r) | 3:52 | 2020-05-12 |  |
+| [when i look at you.](https://open.spotify.com/track/1ep42D3ViFpYMikJjpAvcc) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1boPBt90eznct4s1f4nYEZ) | 3:52 | 2022-12-29 |  |
+| [when i look at you.](https://open.spotify.com/track/3rQnmsnyKJ2ytIv4LxkDmT) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i dreamed i was the night EP](https://open.spotify.com/album/2NGho5cUvQNMxyFEcz0j8r) | 3:52 | 2020-05-12 | 2023-12-09 |
 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 | 2020-05-12 |  |
 | [You Would Have to Lose Your Mind](https://open.spotify.com/track/6mV07lqIpvpBh3xBXn1M71) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Queens of the Breakers](https://open.spotify.com/album/7bErJxIgfTzYRhRrl2RZYH) | 6:21 | 2020-05-12 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "New Orleans kind of funk. Cover: Cha Wa",
-  "num_followers": 12488,
+  "num_followers": 12518,
   "original_name": "New Orleans Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2U3ZGJkYzk4YjNkOWQzYWY1YmMwNjgxNGQ4YzdiMzFhZTQ5MTA2",
+  "snapshot_id": "MCxhOTE3OWMzY2IzNWU4NDQxNzIwMzkwOGQwZWNiZGJiOTAzNTNkNDFm",
   "tracks": [
     {
       "added_at": "2022-04-29 04:02:00",
@@ -423,18 +423,22 @@
     {
       "added_at": "2020-04-29 18:17:09",
       "album": {
-        "name": "Soul Jazz Records Presents New Orleans Soul: The Original Sound of New Orleans Soul 1960-76",
-        "url": "https://open.spotify.com/album/3tnRmKxUYvCPWLILT5PZL4"
+        "name": "Ernie K. Doe",
+        "url": "https://open.spotify.com/album/5TCIBlHmzihdWye05L6YQf"
       },
       "artists": [
         {
           "name": "Ernie K-Doe",
           "url": "https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly"
+        },
+        {
+          "name": "Tipitina\u2019s Record Club",
+          "url": "https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ"
         }
       ],
-      "duration_ms": 147026,
-      "name": "Backstreet Lover",
-      "url": "https://open.spotify.com/track/5BDrEmLb5inDyHn7ZSGSsF"
+      "duration_ms": 149809,
+      "name": "Back Street Lover",
+      "url": "https://open.spotify.com/track/1f8RPgmv5f2FGOf59O3pmL"
     },
     {
       "added_at": "2020-04-29 18:17:09",

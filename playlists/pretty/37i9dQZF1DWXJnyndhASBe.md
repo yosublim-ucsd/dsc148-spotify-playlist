@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Solar, Białas
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,000 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,069 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Siekiera \(Push Up\) \- Remix](https://open.spotify.com/track/0YyjrAD1ELu01JG2T5yQa9) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Siekiera \(Push Up\) \[Remix\]](https://open.spotify.com/album/5X791Fi6v1kUWcjFt3lhIa) | 2:11 |
 | 50 | [Sextape](https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Sextape / MTW](https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2) | 3:13 |
 
-Snapshot ID: `MCw0MDNlMDNjZmU1Y2JkMmJkZTI5YTVjOTlhMmY5MDVhNDgxZWQ0NjAy`
+Snapshot ID: `MCxjNTRiNjZhODkzYWEwMWU4ZjFhNzI2N2M3NmVhMDlmOTdjYzk4NmE5`

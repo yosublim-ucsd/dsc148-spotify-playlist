@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,100 likes - 120 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,276 likes - 120 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Quero Mais \- Acústico](https://open.spotify.com/track/7gC2JG5pQNF2YJg0cFWlPC) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Histórias Vol\. 1 \(Acústico\)](https://open.spotify.com/album/2zSnQpQr9HxRWCz4OaUPSx) | 4:08 |
 | 120 | [Quando o Céu Invade a Terra \- Ao Vivo](https://open.spotify.com/track/1l7obBlq9HK2PjzvTo7GRT) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Quando o Céu Invade a Terra \(Ao Vivo\)](https://open.spotify.com/album/6QOtQcdneALMp3VOgFsmqE) | 6:02 |
 
-Snapshot ID: `MCxkYjVjNGIwNGRjMTU0OGMyYThlYzA0MTkyYjE2ZTk2MDllYzhjNDY4`
+Snapshot ID: `MCw1Nzc0MjFiZTgzN2FiZDZmZGNmMTgxMjRkYmZhMDdiMTJkMGRhYWI0`

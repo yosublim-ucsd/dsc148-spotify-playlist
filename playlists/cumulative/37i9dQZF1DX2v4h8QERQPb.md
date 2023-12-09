@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-233 songs - 11 hr 56 min
+234 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Al Carajo](https://open.spotify.com/track/3NniEaLPE4FxP7F8edtqaT) | [Z\-K](https://open.spotify.com/artist/3jiJNFG8hFkUJIdT7lmZkt), [Sank](https://open.spotify.com/artist/32LjNiBb4gbeytSXy4hBGB) | [Al Carajo](https://open.spotify.com/album/5J5jJxBDFmrCefFTXRb7Lc) | 3:30 | 2023-08-25 |  |
 | [Al Carajo](https://open.spotify.com/track/0aknicrrnbPQdPVZu5Gqcl) | [Z\-K](https://open.spotify.com/artist/3jiJNFG8hFkUJIdT7lmZkt), [Sank](https://open.spotify.com/artist/32LjNiBb4gbeytSXy4hBGB) | [Al Carajo](https://open.spotify.com/album/2j71a8nlO5czcb23AYaP9d) | 3:31 | 2021-11-26 | 2023-08-26 |
 | [Alas Rotas](https://open.spotify.com/track/4BjBOHYl0ySaVyfGMrAnWc) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Alas Rotas](https://open.spotify.com/album/6Zii4FrSvlwpqI984JXuHI) | 2:16 | 2022-11-07 |  |
+| [Alas Rotas \- Remix](https://open.spotify.com/track/40VT5ABesmmT9I3DzGjUun) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Alas Rotas \(Remix\)](https://open.spotify.com/album/0XLeloevIGCLyaqG5C4ITj) | 4:27 | 2023-12-08 |  |
 | [Alcoholicos Anonimos](https://open.spotify.com/track/0IjzvAj0CKu4oqsi8NCGhr) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Inmortal Vol\. 2](https://open.spotify.com/album/19EpErKzX0ngeTXDH7hPbx) | 4:03 | 2021-11-26 | 2022-03-12 |
 | [All Black](https://open.spotify.com/track/1A6CTLJKEHv92ECpwD81mS) | [Lego Skillz](https://open.spotify.com/artist/7jk87weJfexobhc1bJJt9M), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [All Black](https://open.spotify.com/album/5dIe8uCD707rNp7eVzkC55) | 2:41 | 2023-03-03 |  |
 | [Alzypher Vol\. 12](https://open.spotify.com/track/0hJ1WnpQNJwaLioiG8kc4N) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 12](https://open.spotify.com/album/1WjW44rJhg4ZShTGwqT8oH) | 2:20 | 2023-05-26 | 2023-08-19 |
@@ -128,7 +129,7 @@
 | [Kamikaze](https://open.spotify.com/track/6gcsSl6J89cJhkuHWJV9T8) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Kamikaze](https://open.spotify.com/album/2AabrO6ZYxTTOamm1mwPoQ) | 2:36 | 2023-08-25 |  |
 | [Keep It Burning](https://open.spotify.com/track/5xQQaQGcZ1TaYDfBcpzgGA) | [Sank](https://open.spotify.com/artist/32LjNiBb4gbeytSXy4hBGB) | [Keep It Burning](https://open.spotify.com/album/2IHLOsVlRRkFT1DlgOMjao) | 2:49 | 2021-11-26 | 2022-05-06 |
 | [Kiddo Toto: Bzrp Music Sessions, Vol\. 11](https://open.spotify.com/track/7jJV6hcqjD76gbu7TG67k8) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Kiddo Toto](https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6) | [Kiddo Toto: Bzrp Music Sessions, Vol\. 11](https://open.spotify.com/album/3bk28Uv0aSRqgOWl8fpSFt) | 2:23 | 2021-11-26 | 2022-04-12 |
-| [KIEN?](https://open.spotify.com/track/5N3M8SHDVp7UHArixHePYG) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [KIEN?](https://open.spotify.com/album/0L3ol5Eb22yOnObpbAmGrF) | 2:33 | 2021-11-26 |  |
+| [KIEN?](https://open.spotify.com/track/5N3M8SHDVp7UHArixHePYG) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [KIEN?](https://open.spotify.com/album/0L3ol5Eb22yOnObpbAmGrF) | 2:33 | 2021-11-26 | 2023-12-09 |
 | [La Cara Del Barrio](https://open.spotify.com/track/5CRqtYLTHXpNwztvaEW29C) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [La Cara Del Barrio](https://open.spotify.com/album/615IhDA8nIoq89V0qLzsvV) | 2:40 | 2023-05-12 | 2023-08-26 |
 | [La Vibe](https://open.spotify.com/track/3YCMLVzfHHZIcuQTjoeVGg) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [La Vibe](https://open.spotify.com/album/1x2JTHTEXqF5XvadfXOujT) | 3:15 | 2023-04-24 |  |
 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 | 2021-11-26 |  |
@@ -183,7 +184,7 @@
 | [Plastico](https://open.spotify.com/track/7H6kcoS2H45pK7KMPnNVwK) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG) | [Plastico](https://open.spotify.com/album/6JVDVYZNQuJNBP54P9RWiP) | 4:05 | 2023-02-03 | 2023-06-17 |
 | [POETA](https://open.spotify.com/track/4ozYm33zhT9DDrGR3y59SU) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [POETA](https://open.spotify.com/album/13HPwvBIlvGaBW86b1ZgPZ) | 2:51 | 2021-11-26 | 2022-07-29 |
 | [POETA](https://open.spotify.com/track/6T1ZiqhOYwePlT1YGPOm6j) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [POETA](https://open.spotify.com/album/3ffWWsRb6uUZqmH7VTARsm) | 2:51 | 2022-06-10 | 2023-03-31 |
-| [Por clave El Cabezón 2](https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Por clave El Cabezón](https://open.spotify.com/album/5L7s5VhbCUFH3N9j88JBVD) | 3:09 | 2023-04-07 |  |
+| [Por clave El Cabezón 2](https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Por clave El Cabezón](https://open.spotify.com/album/5L7s5VhbCUFH3N9j88JBVD) | 3:09 | 2023-04-07 | 2023-12-09 |
 | [PUAJ \(sesión\)](https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PUAJ \(sesión\)](https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww) | 2:36 | 2022-09-22 |  |
 | [Que Diran los Neighbors](https://open.spotify.com/track/0YqLx0Cs3d7gZe0bf5GCZp) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg), [Knno](https://open.spotify.com/artist/4aLLA7KPs9GYejRA9gbGZO) | [Que Diran los Neighbors](https://open.spotify.com/album/2r5WdrVkvFzch8JcDz3jkO) | 2:41 | 2021-11-26 | 2023-02-04 |
 | [R.A.P](https://open.spotify.com/track/33oWGa3IoFRsfrhfTC4Npe) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/0ay6u6EQbReMMEpHdyvR1M) | 2:27 | 2022-04-11 | 2022-11-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,380 likes - 134 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,385 likes - 134 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 | 5 | [Vindheks](https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE) | [Rumpistol](https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv) | [Isola](https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA) | 5:15 |
 | 6 | [Aqua \- from Playing Piano for the Isolated](https://open.spotify.com/track/0uKesbazYSd9u2veX0BZ6o) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 4:32 |
 | 7 | [Something Waits For You \(Nedda\)](https://open.spotify.com/track/7F7f3gbdlvwhXsIhKVVOm5) | [Juan Pablo Garcia](https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd) | [Something Waits For You \(Nedda\)](https://open.spotify.com/album/2dJgjngBVCKi73IvFOrn7u) | 3:37 |
-| 8 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 |
+| 8 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1eDy2A3euqy3axIdoKgQd5) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 4:24 |
 | 9 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
 | 10 | [A Host for All Kinds of Life](https://open.spotify.com/track/557lM1DeqevRyI3PQm1rI2) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [A Host for All Kinds of Life](https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl) | 3:59 |
 | 11 | [sunrise mtn](https://open.spotify.com/track/39fB9kG8siVbe6cOOtVliL) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [sunrise mtn](https://open.spotify.com/album/0I0Wpet0SNMfo0hgcwzsQB) | 2:31 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 | 133 | [River Flows In You](https://open.spotify.com/track/2agBDIr9MYDUducQPC1sFU) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [First Love \(The Original & the Very First Recording\)](https://open.spotify.com/album/1N6p8qmf8PJgYQdktQQYYh) | 3:08 |
 | 134 | [India Song \(piano\)](https://open.spotify.com/track/1oqrEcuxbzibmFx8Ebn4Z6) | [Carlos D'Alessio](https://open.spotify.com/artist/5tj60o8qX6VLwdc9zaVvqF) | [India Song et autres musiques de films](https://open.spotify.com/album/1ZVLjN4opMPA2pFyHs63Fs) | 2:46 |
 
-Snapshot ID: `MCw5NTllMDQ4YzlmNWI5Y2I5MzFjZmFhMTE2NWVkNWVlNzBhMjk3YmFk`
+Snapshot ID: `MCxlZDJmODY1OWQ3YzE2M2NjYTkzMGY4Mzc5YTVjNjQzNWRmMjNiZTA0`

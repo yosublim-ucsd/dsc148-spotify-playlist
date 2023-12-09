@@ -1,12 +1,12 @@
 {
   "description": "Chefin e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
-  "num_followers": 8059328,
+  "num_followers": 8062188,
   "original_name": "Top Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDg1NzU2YTZmZDBiZGYwOWVmNWRmZTVkNTM3MTk3YzhhOTAyZjlh",
+  "snapshot_id": "MCxlMzQxZjZmZmQ4YWEzMmIyNTExNjYwMjQ0MDA1NjFiMmM3MDM0ZWJi",
   "tracks": [
     {
       "added_at": "2023-12-07 17:15:36",
@@ -536,20 +536,20 @@
       },
       "artists": [
         {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        },
-        {
           "name": "MC Maneirinho",
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "MC Tigr\u00e3o",
+          "url": "https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW"
         },
         {
           "name": "Mc Luan",
           "url": "https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF"
         },
         {
-          "name": "Mc Tig\u00e3o",
-          "url": "https://open.spotify.com/artist/7GH9MFF3c1nPkH2bQ7JG2X"
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
         }
       ],
       "duration_ms": 178080,

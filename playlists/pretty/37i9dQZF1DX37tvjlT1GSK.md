@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Julian Mercado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,357 likes - 125 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,460 likes - 125 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Pingüinos En La Cama](https://open.spotify.com/track/1VtTXzI7Do7rzM8umR1bnq) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Pingüinos En La Cama](https://open.spotify.com/album/64dPZjhrbfcXHBHLOavAIt) | 3:31 |
 | 125 | [Jalé El Gatillo](https://open.spotify.com/track/4fkJJtagSrMW7XOY1uA874) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Jalé El Gatillo](https://open.spotify.com/album/5AMpx8jws7kO7Wn1JUBQnp) | 3:37 |
 
-Snapshot ID: `MCw0ZTYyMjkyZDI4ODkwMjhjNTc3NTU2Y2MzZThjY2ZiNzdhOTE1MTIx`
+Snapshot ID: `MCxlMWU1OWRkNWEzZDlkNmQ2NjY2Yzk1OGI1ZjFhOGJlYjYxM2FlZWQ1`

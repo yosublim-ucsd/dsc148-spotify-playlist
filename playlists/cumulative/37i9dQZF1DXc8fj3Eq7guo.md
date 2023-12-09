@@ -4,15 +4,16 @@
 
 > Where you at? We outside!
 
-58 songs - 4 hr 8 min
+60 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abule](https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:19 | 2023-09-08 |  |
-| [Africa](https://open.spotify.com/track/5rf4dV9ZV8K9b33f8wt0tU) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Afrikan Sauce](https://open.spotify.com/album/5XF4bvaQTx8VMACNbwWmt1) | 3:56 | 2023-10-20 |  |
-| [Africa](https://open.spotify.com/track/1RRoBxDDWuIhIrZ7T3JZCG) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Mama Africa \(The Diary of an African Woman\)](https://open.spotify.com/album/6rDmHNtB73R2i7jEf0BAY8) | 3:56 | 2023-09-08 | 2023-11-11 |
+| [Africa](https://open.spotify.com/track/5rf4dV9ZV8K9b33f8wt0tU) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Afrikan Sauce](https://open.spotify.com/album/5XF4bvaQTx8VMACNbwWmt1) | 3:56 | 2023-10-20 | 2023-12-09 |
+| [Africa](https://open.spotify.com/track/1RRoBxDDWuIhIrZ7T3JZCG) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Mama Africa \(The Diary of an African Woman\)](https://open.spotify.com/album/6rDmHNtB73R2i7jEf0BAY8) | 3:56 | 2023-09-08 |  |
 | [Angola](https://open.spotify.com/track/4ie2Gi47TfHrlan7gcL5Fd) | [Bheki Mseleku](https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj) | [Celebration](https://open.spotify.com/album/5uIcFalqC6QjvKesBf4erF) | 7:26 | 2023-10-20 |  |
 | [Angola](https://open.spotify.com/track/52s4ni6wnfdVhVPFZBpvQW) | [Bheki Mseleku](https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj) | [Celebration](https://open.spotify.com/album/2OFQgGsXO2ZpcUkGyaQ37y) | 7:26 | 2023-10-09 | 2023-11-11 |
+| [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-24 |  |
 | [Botswana](https://open.spotify.com/track/1CzcV8k8LoILPQMCGb7Zis) | [Carto](https://open.spotify.com/artist/5PJi5oUz6E3iA2t9IHtXVE), [Midday](https://open.spotify.com/artist/7eKm0PKhNlA36ybLq3fGs0) | [Cartostrophe](https://open.spotify.com/album/2fh9U70k4ZphuTnL5iufgw) | 2:58 | 2023-09-08 |  |
 | [Cairo](https://open.spotify.com/track/7dPGqNBb89NlmYyc1zkQ8a) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Cairo](https://open.spotify.com/album/0eZghBruhOmhbF5Uy9nqJR) | 3:16 | 2023-09-08 |  |
 | [Congo](https://open.spotify.com/track/5hdc76uABRjaZ7rZrE8mTb) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c) | 3:44 | 2023-09-08 |  |
@@ -47,7 +48,7 @@
 | [MBALE CITY](https://open.spotify.com/track/1ePyC63y34VSzFByfabdfu) | [Byg Ben Sukuya](https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH) | [MBALE CITY](https://open.spotify.com/album/1EH3Wi6xkujGtZus3VEcHq) | 4:39 | 2023-09-08 | 2023-10-10 |
 | [Megalo](https://open.spotify.com/track/0tvJEr9OT2FzOYsyI8tdmh) | [Reece Madlisa](https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2), [Zuma](https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K), [Spura](https://open.spotify.com/artist/1QmaPvApssw6VkdOq7AP50), [Classic Deep](https://open.spotify.com/artist/1rbnrcQsBvYBgtDub77NGe) | [Megalo](https://open.spotify.com/album/58yUEDGNFmuI0ezfpiAO8D) | 5:43 | 2023-09-08 |  |
 | [Mombasa](https://open.spotify.com/track/3CtfRT0hfvNGhEivMI4CCY) | [Safari Sound Band](https://open.spotify.com/artist/2mCLJWF0Fy3eEHPvgRCEFM) | [The Best Of African Songs](https://open.spotify.com/album/1i6Xt02mq2p85ywAei5f58) | 4:09 | 2023-09-08 |  |
-| [Mombasa After Midnight](https://open.spotify.com/track/7rIqwiH9uCLuBYyr2cu7vH) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Exotic Moods Of Les Baxter](https://open.spotify.com/album/2ht6iWCY9PPVS4CuBYVcD1) | 2:10 | 2023-09-08 |  |
+| [Mombasa After Midnight](https://open.spotify.com/track/7rIqwiH9uCLuBYyr2cu7vH) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Exotic Moods Of Les Baxter](https://open.spotify.com/album/2ht6iWCY9PPVS4CuBYVcD1) | 2:10 | 2023-09-08 | 2023-12-09 |
 | [Morocco](https://open.spotify.com/track/2ljF7c0hX2YU2K5BOzC5LU) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:06 | 2023-09-08 |  |
 | [Morogoro](https://open.spotify.com/track/653sdYtuZPYKZHr6GRplOX) | [Tankie DJ](https://open.spotify.com/artist/5QhPNPVnSivVz4R0PXZN3L) | [Morogoro](https://open.spotify.com/album/1SwmQQRqFY1OsPBpXjGE4k) | 6:58 | 2023-09-08 | 2023-10-23 |
 | [Mzansi](https://open.spotify.com/track/6h6lRoxhGgkfLw6pVMvPHN) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Eindo](https://open.spotify.com/artist/6kHkTLWCtE88wnK3XKXFFr), [Turaz](https://open.spotify.com/artist/6G0KGHioY6sCFMNozFUQRC) | [Necessary Evil](https://open.spotify.com/album/5DAnRaWABIjjFFNdMFOPrc) | 3:49 | 2023-09-08 |  |
@@ -65,6 +66,7 @@
 | [Ugandan Girl](https://open.spotify.com/track/1F2GvDPgcGDSY2vpMU2aHt) | [Peter Rhymer](https://open.spotify.com/artist/45RRDt2C7hWV0c4MqemmBq), [Laxzy Mover](https://open.spotify.com/artist/1LQDdqSrOOVblPnopOL8zI) | [Ugandan Girl](https://open.spotify.com/album/3MemuIRsWm2NnO7LSDSmGh) | 3:45 | 2023-09-08 |  |
 | [Ukunda](https://open.spotify.com/track/40OIs7h6ycp9tVl9YJ6CgI) | [Bakhita](https://open.spotify.com/artist/1YC7oOze3tqAKiPk5aNWIy) | [Purge](https://open.spotify.com/album/6aHCku9sNDp37hKfHxdHRW) | 4:21 | 2023-09-08 | 2023-10-10 |
 | [Zaire](https://open.spotify.com/track/0yXya1lxf4ATYUAfr7arf1) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [J\-Tek](https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj) | [Dark Moon Flower](https://open.spotify.com/album/2wbHOXGXPVKp9vezeglRD4) | 3:28 | 2023-09-08 |  |
-| [Zimbabwe](https://open.spotify.com/track/3evs5tv8NLr8VXi9LeA0Dv) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Grand Masters](https://open.spotify.com/album/1rfHIUUofjhGVV67I5cSZg) | 2:56 | 2023-09-08 |  |
+| [Zimbabwe](https://open.spotify.com/track/3evs5tv8NLr8VXi9LeA0Dv) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Grand Masters](https://open.spotify.com/album/1rfHIUUofjhGVV67I5cSZg) | 2:56 | 2023-09-08 | 2023-12-09 |
+| [Zimbabwe](https://open.spotify.com/track/3oerlR534UFui3TItBwvlo) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Oliver's Greatest Hits](https://open.spotify.com/album/6JoLBg1dHCeHXhmRd3qeKe) | 2:56 | 2023-11-24 |  |
 
 \*This playlist was first scraped on 2023-09-14. Prior content cannot be recovered.

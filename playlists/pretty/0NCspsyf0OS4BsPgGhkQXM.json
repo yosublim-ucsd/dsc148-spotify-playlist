@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2049891,
+  "num_followers": 2049999,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQzMDMsOGY5ZmY2MjVmOGM1NDkyODgxZmQzYWY1YmFiOWM5ZTQ3ZTM0MmZkYQ==",
+  "snapshot_id": "MTQzMTcsYzk5NGE4YTA2MzJjM2RiYmYxOWFmODczOWY5ZjY3MTRmZjkzZDYxNA==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -273,6 +273,30 @@
       "url": "https://open.spotify.com/track/03nVbs87Wv4nvL3YZrdy3n"
     },
     {
+      "added_at": "2023-12-08 18:58:44",
+      "album": {
+        "name": "Shift",
+        "url": "https://open.spotify.com/album/6mT3Y11cQk2dSQBdjhrgCP"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Shift",
+      "url": "https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO"
+    },
+    {
       "added_at": "2023-11-29 01:11:09",
       "album": {
         "name": "Medicine",
@@ -345,28 +369,24 @@
       "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"
     },
     {
-      "added_at": "2023-12-01 20:30:51",
+      "added_at": "2023-12-08 18:59:19",
       "album": {
-        "name": "7-DS (Vanic Remix)",
-        "url": "https://open.spotify.com/album/1UUYJVhANYAwuy5IKZfUIv"
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/4FVnSnXWuUsL8dD3avOL0h"
       },
       "artists": [
         {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        },
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        },
-        {
           "name": "Vanic",
           "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
         }
       ],
-      "duration_ms": 197052,
-      "name": "7-DS - Vanic Remix",
-      "url": "https://open.spotify.com/track/2dS7SiN4vrHTtdEfGlTLtS"
+      "duration_ms": 210967,
+      "name": "Jinx",
+      "url": "https://open.spotify.com/track/3NreeKDKXqET25p7w1UxXZ"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -741,6 +761,30 @@
       "url": "https://open.spotify.com/track/4ToogKQq58R9TvO40qRuxi"
     },
     {
+      "added_at": "2023-12-01 20:30:51",
+      "album": {
+        "name": "7-DS (Vanic Remix)",
+        "url": "https://open.spotify.com/album/1UUYJVhANYAwuy5IKZfUIv"
+      },
+      "artists": [
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        },
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "7-DS - Vanic Remix",
+      "url": "https://open.spotify.com/track/2dS7SiN4vrHTtdEfGlTLtS"
+    },
+    {
       "added_at": "2023-11-03 18:07:24",
       "album": {
         "name": "The Nature of Hope",
@@ -953,6 +997,22 @@
       "url": "https://open.spotify.com/track/28ZRFtSjxgKZ9bKcQW0idF"
     },
     {
+      "added_at": "2023-12-08 19:07:50",
+      "album": {
+        "name": "Brain Tickler",
+        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+      },
+      "artists": [
+        {
+          "name": "Ahee",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "duration_ms": 144134,
+      "name": "Brain Tickler",
+      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
+    },
+    {
       "added_at": "2023-11-03 18:07:12",
       "album": {
         "name": "The Nature of Hope",
@@ -1047,6 +1107,30 @@
       "duration_ms": 185520,
       "name": "I Feel Like I'm Drowning",
       "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
+    },
+    {
+      "added_at": "2023-12-08 20:55:57",
+      "album": {
+        "name": "For The Most Part",
+        "url": "https://open.spotify.com/album/0M2ZFWs4sdIc9SOGuJSjfq"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        },
+        {
+          "name": "SadBois",
+          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+        },
+        {
+          "name": "VNDETTA",
+          "url": "https://open.spotify.com/artist/0QCqlmP7IpItw2dkQekiM5"
+        }
+      ],
+      "duration_ms": 218028,
+      "name": "For The Most Part",
+      "url": "https://open.spotify.com/track/67VgKO83J9P12AiLW5IjN4"
     },
     {
       "added_at": "2023-11-29 01:10:56",
@@ -1587,6 +1671,22 @@
       "duration_ms": 121535,
       "name": "Black & Yellow",
       "url": "https://open.spotify.com/track/3HPdRX1UJIYoaoDkE5uDxn"
+    },
+    {
+      "added_at": "2023-11-27 18:07:07",
+      "album": {
+        "name": "There For You",
+        "url": "https://open.spotify.com/album/3mXBLNQTcdbrv6Pv69kgRc"
+      },
+      "artists": [
+        {
+          "name": "Orlost",
+          "url": "https://open.spotify.com/artist/5yN3pUpcQ7tlvYX8fr8bhy"
+        }
+      ],
+      "duration_ms": 173162,
+      "name": "There For You",
+      "url": "https://open.spotify.com/track/0jullR0ynF6zvPvAHbQ94E"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -2521,26 +2621,6 @@
       "url": "https://open.spotify.com/track/0kD586ste6xyDRqUYhVlCh"
     },
     {
-      "added_at": "2023-09-12 16:41:18",
-      "album": {
-        "name": "Nu Bluem",
-        "url": "https://open.spotify.com/album/0LWeDtleDhWJy9sBf6jELK"
-      },
-      "artists": [
-        {
-          "name": "Sheesh",
-          "url": "https://open.spotify.com/artist/5zXD5qxsLXEUFlsFHr2yyd"
-        },
-        {
-          "name": "Alan Watts",
-          "url": "https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b"
-        }
-      ],
-      "duration_ms": 220267,
-      "name": "Nu Bluem",
-      "url": "https://open.spotify.com/track/3D0gUUumDPAiy0BAK1RxbO"
-    },
-    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "Fear (The Remixes)",
@@ -2959,26 +3039,6 @@
     {
       "added_at": "2023-09-06 04:03:55",
       "album": {
-        "name": "Found You",
-        "url": "https://open.spotify.com/album/2EV0Y92S2OUlgxeAZjgSjB"
-      },
-      "artists": [
-        {
-          "name": "ODEA",
-          "url": "https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd"
-        },
-        {
-          "name": "VAUX",
-          "url": "https://open.spotify.com/artist/30kxCU0wOt3JS75tZsYrZp"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Found You",
-      "url": "https://open.spotify.com/track/22UhyRzrygZzLFJHkchvlk"
-    },
-    {
-      "added_at": "2023-09-06 04:03:55",
-      "album": {
         "name": "Past Lives",
         "url": "https://open.spotify.com/album/4jNIqI2lx1BbXDoBzqjqqI"
       },
@@ -3165,146 +3225,6 @@
       "url": "https://open.spotify.com/track/0SZenVPubqt5p0Q1z7rAr7"
     },
     {
-      "added_at": "2023-10-27 17:05:21",
-      "album": {
-        "name": "BETTER OFF ALONE",
-        "url": "https://open.spotify.com/album/3yRr0L3utmRicx3Yc9kCj7"
-      },
-      "artists": [
-        {
-          "name": "ANGELPLAYA",
-          "url": "https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo"
-        }
-      ],
-      "duration_ms": 160003,
-      "name": "BETTER OFF ALONE",
-      "url": "https://open.spotify.com/track/1xuA0Xfi6BVrTZDQnX8X4i"
-    },
-    {
-      "added_at": "2023-10-27 19:43:26",
-      "album": {
-        "name": "WRAITHS",
-        "url": "https://open.spotify.com/album/3fqOT4Wm7yECHTzPEvKtN3"
-      },
-      "artists": [
-        {
-          "name": "sapphyre",
-          "url": "https://open.spotify.com/artist/5nqa17OYrgbn9JX5ra4EgS"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "WRAITHS",
-      "url": "https://open.spotify.com/track/1UE4tesz9vNWaX5Y0NsmZY"
-    },
-    {
-      "added_at": "2023-10-27 19:44:54",
-      "album": {
-        "name": "The Homelander",
-        "url": "https://open.spotify.com/album/6jYaEUUEI536ftnfo8pEcV"
-      },
-      "artists": [
-        {
-          "name": "Vinsmoker",
-          "url": "https://open.spotify.com/artist/2huUeOXso2qC3L0JdJJz7u"
-        }
-      ],
-      "duration_ms": 145161,
-      "name": "The Homelander",
-      "url": "https://open.spotify.com/track/6cvax9x0G13nHJTyMQ7tGf"
-    },
-    {
-      "added_at": "2023-10-27 19:47:16",
-      "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/6lDnoctiwGB2nnqEcazkUS"
-      },
-      "artists": [
-        {
-          "name": "CLOUD ZERO",
-          "url": "https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ"
-        }
-      ],
-      "duration_ms": 162519,
-      "name": "REBOOT",
-      "url": "https://open.spotify.com/track/69zXY2jsafABeD9q5Qh7ky"
-    },
-    {
-      "added_at": "2023-10-27 19:51:24",
-      "album": {
-        "name": "Rain Man",
-        "url": "https://open.spotify.com/album/2Ddl18JrOOICucgB9nkwfU"
-      },
-      "artists": [
-        {
-          "name": "AMU6iX",
-          "url": "https://open.spotify.com/artist/779TfAi7FhboH2cZqGfJno"
-        },
-        {
-          "name": "B. Chaps",
-          "url": "https://open.spotify.com/artist/685uiQVwgWB7gVtbTEqWdh"
-        }
-      ],
-      "duration_ms": 195104,
-      "name": "Rain Man",
-      "url": "https://open.spotify.com/track/5dghyxlFupCpY6SOpRC7id"
-    },
-    {
-      "added_at": "2023-10-27 19:52:17",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/5da5BraGjXLGLWXeBQE54N"
-      },
-      "artists": [
-        {
-          "name": "priyash",
-          "url": "https://open.spotify.com/artist/6Nvt3rCRlByBU4M7m5MYWw"
-        },
-        {
-          "name": "Nyezo",
-          "url": "https://open.spotify.com/artist/3W4FfRNHlyucDO2XyMnbvp"
-        },
-        {
-          "name": "U$ELE$S",
-          "url": "https://open.spotify.com/artist/1CKeWb6jWQfwD6TJiKv3lV"
-        }
-      ],
-      "duration_ms": 123340,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/6shgJJaxMRRgVzFcC1EDLb"
-    },
-    {
-      "added_at": "2023-10-27 19:53:40",
-      "album": {
-        "name": "RAGING",
-        "url": "https://open.spotify.com/album/7wnLX2raB5dwOvz2dXv8Wi"
-      },
-      "artists": [
-        {
-          "name": "HORRIFYING",
-          "url": "https://open.spotify.com/artist/2WZCJEuzU768HLp06FgDzu"
-        }
-      ],
-      "duration_ms": 124850,
-      "name": "RAGING",
-      "url": "https://open.spotify.com/track/0twDEBl6ZZ5vDPmHV6icmH"
-    },
-    {
-      "added_at": "2023-10-13 13:14:52",
-      "album": {
-        "name": "Vem DJ",
-        "url": "https://open.spotify.com/album/39hjtTpq8n1o4Th2Z0OHrv"
-      },
-      "artists": [
-        {
-          "name": "Bgnzinho",
-          "url": "https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL"
-        }
-      ],
-      "duration_ms": 137204,
-      "name": "Vem DJ",
-      "url": "https://open.spotify.com/track/0H86ggZBO7GtQ0Kf560ijY"
-    },
-    {
       "added_at": "2023-11-10 18:52:49",
       "album": {
         "name": "MONTAGEM IMPAR\u00c1VEL",
@@ -3353,94 +3273,6 @@
       "url": "https://open.spotify.com/track/6SaXGy6CqDqEgvOuhWAXoP"
     },
     {
-      "added_at": "2023-11-10 18:54:00",
-      "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/6c50fXzqoppxQZmnbN2aPF"
-      },
-      "artists": [
-        {
-          "name": "SKYLER",
-          "url": "https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/0oHPlZZ15WEmQ2AsSHxuXr"
-    },
-    {
-      "added_at": "2023-11-10 18:54:48",
-      "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/1SAVioFmjdvQpZqxFeILc4"
-      },
-      "artists": [
-        {
-          "name": "Cozmoe",
-          "url": "https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy"
-        }
-      ],
-      "duration_ms": 240216,
-      "name": "Resonate",
-      "url": "https://open.spotify.com/track/1GQnUNe0cPPHEKQc5LjsOL"
-    },
-    {
-      "added_at": "2023-11-10 18:58:16",
-      "album": {
-        "name": "THE KING",
-        "url": "https://open.spotify.com/album/7MOs8sMQxHbDJ8dVvnLSGn"
-      },
-      "artists": [
-        {
-          "name": "Alban Chela",
-          "url": "https://open.spotify.com/artist/53gpGyHpJpOOe0UIl0YigG"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "THE KING",
-      "url": "https://open.spotify.com/track/2EZGFxBSf3gKTERcHdRgUG"
-    },
-    {
-      "added_at": "2023-11-10 18:59:31",
-      "album": {
-        "name": "Combination",
-        "url": "https://open.spotify.com/album/6C1X41PGFMSUBgdTy1FypG"
-      },
-      "artists": [
-        {
-          "name": "Eternal Raijin",
-          "url": "https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe"
-        },
-        {
-          "name": "Marty Menning",
-          "url": "https://open.spotify.com/artist/6nnv7IFsLJzx7Bubllq9vT"
-        }
-      ],
-      "duration_ms": 180507,
-      "name": "Combination",
-      "url": "https://open.spotify.com/track/6r4MCnRfYxdP9G4QglaV1h"
-    },
-    {
-      "added_at": "2023-11-10 19:03:36",
-      "album": {
-        "name": "OVERCAST (JWUU Remix)",
-        "url": "https://open.spotify.com/album/1UJjzY5OKUIPxWGcxgmX7l"
-      },
-      "artists": [
-        {
-          "name": "sapphyre",
-          "url": "https://open.spotify.com/artist/5nqa17OYrgbn9JX5ra4EgS"
-        },
-        {
-          "name": "JWUU",
-          "url": "https://open.spotify.com/artist/4XPVZlYYgnqwRxV1pIwRde"
-        }
-      ],
-      "duration_ms": 182437,
-      "name": "OVERCAST - JWUU Remix",
-      "url": "https://open.spotify.com/track/6Gjh8iQzH7g6TYFHm4lRSM"
-    },
-    {
       "added_at": "2023-11-15 00:17:46",
       "album": {
         "name": "All my life",
@@ -3455,22 +3287,6 @@
       "duration_ms": 124000,
       "name": "All my life",
       "url": "https://open.spotify.com/track/5xhWUIzCeFhwnGXsr6JT60"
-    },
-    {
-      "added_at": "2023-11-27 18:07:07",
-      "album": {
-        "name": "There For You",
-        "url": "https://open.spotify.com/album/3mXBLNQTcdbrv6Pv69kgRc"
-      },
-      "artists": [
-        {
-          "name": "Orlost",
-          "url": "https://open.spotify.com/artist/5yN3pUpcQ7tlvYX8fr8bhy"
-        }
-      ],
-      "duration_ms": 173162,
-      "name": "There For You",
-      "url": "https://open.spotify.com/track/0jullR0ynF6zvPvAHbQ94E"
     }
   ],
   "unique_name": "Trap Nation",

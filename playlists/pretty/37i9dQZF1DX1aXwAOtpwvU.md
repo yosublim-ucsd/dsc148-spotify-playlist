@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:4ccurDUZ48cXNrcrLsA9ub">IGNACY</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,295 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,298 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 41 | [Cień](https://open.spotify.com/track/3pGMwn9bZhaFNFOp8efhZ7) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Piotr Rogucki](https://open.spotify.com/artist/6gG1FOW5CoylM7858JYboD) | [Polska Floryda](https://open.spotify.com/album/76Tg6vW5sCt2x6vLawvHsc) | 3:45 |
 | 42 | [Ogień](https://open.spotify.com/track/1bZG6SFJ3OLbyhFVcFe5xJ) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Ogień](https://open.spotify.com/album/62TmwYrQb4pZp6HVLSe6f8) | 3:11 |
 | 43 | [Puszczaj](https://open.spotify.com/track/3pGuVG2rKFSKWuqtKahAS1) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Puszczaj](https://open.spotify.com/album/4Mixg1QO20t9cPuoDip5Hq) | 3:12 |
-| 44 | [Mamacita](https://open.spotify.com/track/7pEwr3iyJdZis2Fh0ILG7l) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs) | [Mamacita](https://open.spotify.com/album/6zmv8HnUVGnYcEEPdkDGOK) | 2:08 |
+| 44 | [Mamacita](https://open.spotify.com/track/7pEwr3iyJdZis2Fh0ILG7l) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Mamacita](https://open.spotify.com/album/6zmv8HnUVGnYcEEPdkDGOK) | 2:08 |
 | 45 | [Słoneczniki](https://open.spotify.com/track/2ila27UsX8EzLvTy6CcOAE) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Słoneczniki](https://open.spotify.com/album/0udfrdwqGWI0kWUJ7YtxOk) | 3:31 |
 | 46 | [California Boy \(jjjerk\)](https://open.spotify.com/track/1c7pvFD8j9li7nmJwbAfr2) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [California Boy \(jjjerk\)](https://open.spotify.com/album/5V1dFAKY2wxhJajPfBItjz) | 2:21 |
 | 47 | [Paranoje](https://open.spotify.com/track/6GTPiI6jzm8rrITO1bq0bj) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Paranoje](https://open.spotify.com/album/2CxrNr8fIO0axRTxVdQqxz) | 3:39 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 56 | [Dinozaury](https://open.spotify.com/track/5XAFPMqtAlO4uKKAwgdw7z) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm) | [Polska Floryda](https://open.spotify.com/album/76Tg6vW5sCt2x6vLawvHsc) | 3:44 |
 | 57 | [Maria, Maria \(Agora Muzyka Live Sessions\)](https://open.spotify.com/track/6OtpTU9SgpVZbiYBEqkzLD) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Maria, Maria \(Agora Muzyka Live Sessions\)](https://open.spotify.com/album/1sC0Ds8LKQaQFlCJLS9dIs) | 2:57 |
 | 58 | [Egoistka](https://open.spotify.com/track/5qVME9yp5IFWYfK2n3irxL) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/0Liumm2scg9ecS9Gqnva96) | 2:48 |
-| 59 | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/track/76jCSzHssCZuaQ1rEyi8Df) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs) | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/album/6baYZ2q3O6NqAjB6FZ0lhX) | 2:13 |
+| 59 | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/track/76jCSzHssCZuaQ1rEyi8Df) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/album/6baYZ2q3O6NqAjB6FZ0lhX) | 2:13 |
 | 60 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `MCw2MDFiNWU0NDlmY2UxYmVmOWRlMDAzZjU3NWM5NmVhNWM1YzZlNTZh`
+Snapshot ID: `MCw5YmY3NzdiMWM5OGM5ZjkzMWE1OTBiNGY4NTg2NjJhMTEzMmU5YzRi`

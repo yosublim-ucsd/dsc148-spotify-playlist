@@ -155,6 +155,28 @@
     },
     {
       "album": {
+        "name": "Alchemist EP",
+        "url": "https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv"
+      },
+      "artists": [
+        {
+          "name": "Makebo",
+          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515120,
+      "name": "Alchemist",
+      "url": "https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee"
+    },
+    {
+      "album": {
         "name": "All I Know",
         "url": "https://open.spotify.com/album/0eFzQD38n2GQyjlJ77YSxt"
       },
@@ -882,7 +904,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 506666,
       "name": "Che Danestam - Seventh Soul Remix",
       "url": "https://open.spotify.com/track/419OlXTD73Hyy7mOT5UoUJ"
@@ -2942,7 +2964,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 219202,
       "name": "Lost",
       "url": "https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2"
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 149433,
       "name": "Neyin U\u011fruna",
       "url": "https://open.spotify.com/track/19EqyJzpbD8QAGxEbZClUt"
@@ -3654,7 +3676,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 206339,
       "name": "Nomadic",
       "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
@@ -3724,10 +3746,32 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 193149,
       "name": "Nu Vreau",
       "url": "https://open.spotify.com/track/2R5TjEso8PJ9TcSoGjVfwH"
+    },
+    {
+      "album": {
+        "name": "Nu Vreau",
+        "url": "https://open.spotify.com/album/0nmhIBBZMBjID1LmtGEue6"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193149,
+      "name": "Nu Vreau",
+      "url": "https://open.spotify.com/track/3myOh68CL0fMGEj3d6rs06"
     },
     {
       "album": {
@@ -3808,7 +3852,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 180983,
       "name": "Oh Lor My Love",
       "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
@@ -4542,10 +4586,32 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 185689,
       "name": "Schhh",
       "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
+    },
+    {
+      "album": {
+        "name": "Schhh (feat. Irina Rimes)",
+        "url": "https://open.spotify.com/album/7pkAN4GdpvAqbowYk3lelp"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185689,
+      "name": "Schhh (feat. Irina Rimes)",
+      "url": "https://open.spotify.com/track/5OUdPlYOMsAxozx02nsnj0"
     },
     {
       "album": {
@@ -4590,7 +4656,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 399500,
       "name": "Seville",
       "url": "https://open.spotify.com/track/4OBoOQTrlGAdBmGVHEP6TE"
@@ -4612,7 +4678,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 276299,
       "name": "Shibren - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/0EyVOeAJ3kjfcVkFv2AxxB"

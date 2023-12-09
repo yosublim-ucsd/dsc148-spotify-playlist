@@ -1,12 +1,12 @@
 {
   "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Arlo Parks",
-  "num_followers": 87525,
+  "num_followers": 87550,
   "original_name": "Groovin' R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjE1MjkwNDM0YmI2ZDY2YWE5YjNjYjA0OTA0OTlhNDZlMjZkODEw",
+  "snapshot_id": "MCwyMTU3OGQ5YzA5MTZkYjhjMzIyMTIxNGZiOTU2MzMzMjI3MGE3MmE5",
   "tracks": [
     {
       "added_at": "2023-12-07 15:01:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-12-07 15:01:00",
       "album": {
+        "name": "You 2 Thank",
+        "url": "https://open.spotify.com/album/770NPIetbye6vd31ZDuG09"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "You 2 Thank",
+      "url": "https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC"
+    },
+    {
+      "added_at": "2023-12-07 15:01:00",
+      "album": {
         "name": "Summer Too Hot",
         "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
       },
@@ -1307,8 +1323,8 @@
     {
       "added_at": "2023-12-07 15:01:00",
       "album": {
-        "name": "Is It Real? (feat. Roddy Ricch)",
-        "url": "https://open.spotify.com/album/4HORf4RtMyCUu5FIQ6pEsS"
+        "name": "ROCK PAPER SCISSORS: RECUT",
+        "url": "https://open.spotify.com/album/62ZENIIyJs5LzzG2nOdHR1"
       },
       "artists": [
         {
@@ -1322,7 +1338,7 @@
       ],
       "duration_ms": 203294,
       "name": "Is It Real? (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/6VWxLcnrLGJDE6Cr4nm0lW"
+      "url": "https://open.spotify.com/track/3RlcyNhoM8zAEL32RF6axe"
     },
     {
       "added_at": "2023-12-07 15:01:00",

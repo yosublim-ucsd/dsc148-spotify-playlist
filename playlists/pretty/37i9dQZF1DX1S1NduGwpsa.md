@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gregory Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,618 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,691 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 |
 | 50 | [Baila Mulata](https://open.spotify.com/track/7Ax9Ex9DhMnczPd0pjlPQr) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [La Gran Diversión](https://open.spotify.com/album/4UO0arXcVIKzndEZIAp6Co) | 3:23 |
 
-Snapshot ID: `MCwyNmJmYmM0YWIwMzIxYzE1Mzc0NzFiN2IwYWY5NzM0NDM2NzdlYjZl`
+Snapshot ID: `MCxmOWM0Njg3MzA4ODZjZjFmM2Y4YjQzNzVhNmE1YTMwNmEwY2M0YjBk`

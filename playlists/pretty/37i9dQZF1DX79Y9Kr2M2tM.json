@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 846345,
+  "num_followers": 846379,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODNhY2I3MWFlODI3MWEzODQyZjgyYTEwNjM1NTliMDExMzlhNzVm",
+  "snapshot_id": "MCxlNjY3MDcyZDkyYzU4ZTA2OWY1ODgxY2Q4MmEzZmIyMTU3Y2NmZjA4",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
       "artists": [
         {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+      "duration_ms": 240560,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -651,22 +651,6 @@
       "duration_ms": 322040,
       "name": "The Wolves (Act I and II)",
       "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1307,22 +1291,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Uranium Heart",
         "url": "https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6"
       },
@@ -1567,6 +1535,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Violence in a Quiet Mind",
+        "url": "https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/26eylodAJLTp1GkG4Q7wNy"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Saving Us a Riot",
         "url": "https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 133601,
       "name": "hallow's eve",
       "url": "https://open.spotify.com/track/257WCspICXPffkvdEvVaIP"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Mountain Whisper",
+        "url": "https://open.spotify.com/album/6ZaqWexNzUOpf4Dn1CXNq0"
+      },
+      "artists": [
+        {
+          "name": "Xavia",
+          "url": "https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i"
+        }
+      ],
+      "duration_ms": 274568,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/6q2VGul8D4SqtqoXePuq6j"
     }
   ],
   "unique_name": "Chill + Atmospheric",

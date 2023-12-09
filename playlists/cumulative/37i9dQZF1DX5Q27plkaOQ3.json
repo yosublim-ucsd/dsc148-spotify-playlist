@@ -3422,7 +3422,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 218666,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/0oeSHt8QrW3olWPkFO4WbG"
@@ -3896,7 +3896,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 193718,
       "name": "Hammer Time",
       "url": "https://open.spotify.com/track/1N94c7T72slyq4tl2DjDqE"
@@ -4116,7 +4116,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 196004,
       "name": "Hexed Opera",
       "url": "https://open.spotify.com/track/2nLIjKSv9zudWVd2EKAd01"
@@ -4398,7 +4398,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 278117,
       "name": "I Had Everything",
       "url": "https://open.spotify.com/track/0HZDIyQizC8C2hX3jE8Git"
@@ -4530,6 +4530,24 @@
       "duration_ms": 180000,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/6NLZEoGMoml2czKixvO1Ze"
+    },
+    {
+      "album": {
+        "name": "IN THE PLACE",
+        "url": "https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "IN THE PLACE",
+      "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
     },
     {
       "album": {
@@ -4890,6 +4908,24 @@
       "duration_ms": 355364,
       "name": "Kill to Feel",
       "url": "https://open.spotify.com/track/4hSCaNNtzVlek62PCmsti5"
+    },
+    {
+      "album": {
+        "name": "A Sleeping Scene",
+        "url": "https://open.spotify.com/album/7amPkoYXOMxqERJlikDT2K"
+      },
+      "artists": [
+        {
+          "name": "DMVU",
+          "url": "https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274153,
+      "name": "Killa Sound",
+      "url": "https://open.spotify.com/track/3w5zppchpoYcxkipSI9PJs"
     },
     {
       "album": {
@@ -5590,6 +5626,28 @@
       "duration_ms": 270857,
       "name": "Mind Pluck",
       "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
+    },
+    {
+      "album": {
+        "name": "MV//MNT VOL. 02",
+        "url": "https://open.spotify.com/album/0rcbtltuPNcfIfgmgTIpUf"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Shyloom",
+          "url": "https://open.spotify.com/artist/25MZxyt3nsEKGyDJQvb6HG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "MIND THE DROP",
+      "url": "https://open.spotify.com/track/6gGkBZziur9cF7AmHWw7JD"
     },
     {
       "album": {
@@ -6421,6 +6479,32 @@
     },
     {
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/6uQ74sZvl0pPpO1VVDHh1K"
+      },
+      "artists": [
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        },
+        {
+          "name": "Free Fall",
+          "url": "https://open.spotify.com/artist/5Y0oHsIgmZzj38UIN48CCS"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/6fuqMcgCHL1IJpUWMdo8eX"
+    },
+    {
+      "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/5g9FEdY7SHc21AD2duTgac"
       },
@@ -7138,7 +7222,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 217600,
       "name": "Red Bouquet",
       "url": "https://open.spotify.com/track/0ZuOjzPOK1J0Rc4FpDaCPY"
@@ -7803,6 +7887,24 @@
     },
     {
       "album": {
+        "name": "SCARLET",
+        "url": "https://open.spotify.com/album/1VRnZdDB3kdYZikoMo0lLj"
+      },
+      "artists": [
+        {
+          "name": "INHUMAN",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "SCARLET",
+      "url": "https://open.spotify.com/track/6E5RVFOh6StqqrDQx4k9ag"
+    },
+    {
+      "album": {
         "name": "Scouts Honor",
         "url": "https://open.spotify.com/album/0Hpndb5MNHqbS09ATOLpHI"
       },
@@ -8220,6 +8322,24 @@
       "duration_ms": 213517,
       "name": "SIREN SONG",
       "url": "https://open.spotify.com/track/2m6Ye7bxGCXyuGvU8MLzZf"
+    },
+    {
+      "album": {
+        "name": "Skelebus",
+        "url": "https://open.spotify.com/album/1PokrXCYGr2FSwsOor2aVB"
+      },
+      "artists": [
+        {
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Skelebus",
+      "url": "https://open.spotify.com/track/1YeWbMRfVYLBzAQBR9xUIz"
     },
     {
       "album": {
@@ -9078,7 +9198,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 265500,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/7ztFTiaEtc1TF5AV9909Bb"
@@ -9096,7 +9216,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 174400,
       "name": "Technicolour Psychic Vision",
       "url": "https://open.spotify.com/track/0L7sgiVeptb1JBYdlGowEE"
@@ -9617,6 +9737,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow (Day)",
+        "url": "https://open.spotify.com/album/4MCpWaOfE2OkAV27cDdJ51"
+      },
+      "artists": [
+        {
+          "name": "Franky Nuts",
+          "url": "https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Tomorrow (Day)",
+      "url": "https://open.spotify.com/track/4DK5wEYZP7qPZpGNzX5BL9"
+    },
+    {
+      "album": {
         "name": "TOO TURNT",
         "url": "https://open.spotify.com/album/67KI2a4zwHPxYxuvbIyOgn"
       },
@@ -9704,6 +9842,28 @@
       "duration_ms": 193292,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"
+    },
+    {
+      "album": {
+        "name": "Turn It Up (Slushii & Afinity VIP)",
+        "url": "https://open.spotify.com/album/76T0t1HbJ8nNieSaJ8nKLb"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238344,
+      "name": "Turn It Up - Slushii & Afinity VIP",
+      "url": "https://open.spotify.com/track/1Z0sPQusIl7lmuIcee9HYa"
     },
     {
       "album": {
@@ -9930,7 +10090,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 252800,
       "name": "WAIT4U",
       "url": "https://open.spotify.com/track/7igtWMNT2mPCYARw9g0cLn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,578 likes - 190 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,035 likes - 190 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 74 | [Gentle Hands](https://open.spotify.com/track/0dbPmpqPAG8KhKTIS7Ivm2) | [Anne Straub](https://open.spotify.com/artist/2Uqeqg9rCtk2ad9BPWpent) | [Gentle Hands](https://open.spotify.com/album/24jiEe7XC6mslR8ez8HJXH) | 2:15 |
 | 75 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 |
 | 76 | [Fare la limonata](https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj) | [Anastasio Confortola](https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X) | [Fare la limonata](https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W) | 2:48 |
-| 77 | [Shimmer](https://open.spotify.com/track/0lIBOAqpBfPllYA6YDIVJM) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Shimmer](https://open.spotify.com/album/4KKxlhnLzgG6rh7KjAzBcv) | 2:13 |
+| 77 | [Shimmer](https://open.spotify.com/track/2Jm1L8W3IpkC7tXP845FlR) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Shimmer](https://open.spotify.com/album/46hJCDlRtMXCLcwmL1IYne) | 2:13 |
 | 78 | [Blomstre](https://open.spotify.com/track/6QWh1UBcCSxSQikQgVYp1Z) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Blomstre](https://open.spotify.com/album/2JvuwhBuL2ZCUURkQqx0ns) | 2:34 |
 | 79 | [River Running Free](https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [River Running Free](https://open.spotify.com/album/0BQOiGn059PbJJtbi6VwGU) | 2:16 |
 | 80 | [Jeunesse du printemps](https://open.spotify.com/track/7aHWyb1G3SiRMXCMPkPo26) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [Jeunesse du printemps](https://open.spotify.com/album/2NWDEBEAK8JnESZDfykIy7) | 2:24 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 189 | [Pour tous les cœurs du monde](https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa) | [Olivier Mournier](https://open.spotify.com/artist/7wnpAk4GIaM7dyBnl1bRB7) | [Pour tous les cœurs du monde](https://open.spotify.com/album/4taqzXzFoQJJYhy93v8q2h) | 2:09 |
 | 190 | [Without You](https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Without You](https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR) | 2:37 |
 
-Snapshot ID: `MCw4YWY3ZWY5ZDAyZjA2MjBhOTdmMjFiYTQzNTMwNTUwNmM0NDZlZDc1`
+Snapshot ID: `MCwwMzA1OTI1ZjJlZDBkN2VmMzAzNmE0NWQ2OGE4ZjNkOGRiMTlmOWRh`

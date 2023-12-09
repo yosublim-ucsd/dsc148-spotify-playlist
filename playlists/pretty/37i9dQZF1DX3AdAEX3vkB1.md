@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,631 likes - 145 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,778 likes - 145 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,16 +142,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 132 | [Can't Take My Eyes Off You](https://open.spotify.com/track/13jJu9zoXOQnqiLaJsg41K) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Oldies 60's](https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH) | 3:23 |
 | 133 | [No Milk Today](https://open.spotify.com/track/1bas9EMFNPwEolxIMMRWWH) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Herman's Hermits Retrospective](https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW) | 2:56 |
 | 134 | [Surf City \- Remastered 1990/Stereo Remix](https://open.spotify.com/track/4ZzXPeOfMXk0iKNQGdlzDq) | [Jan & Dean](https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y) | [Surf City: The Best Of Jan & Dean](https://open.spotify.com/album/1q3jhhU1DSw1zNAoeyhCsE) | 2:43 |
-| 135 | [Jambalaya \- On the Bayou](https://open.spotify.com/track/5UzBH9eW6D8rP0TC69vL7p) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Collector](https://open.spotify.com/album/4PrsQQJpd1JzboMg7tFlf5) | 2:26 |
-| 136 | [A Rockin' Good Way \(To Mess Around And Fall In Love\)](https://open.spotify.com/track/4ydSzWwxqtNdP4VPfQe8bf) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Two Of Us](https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe) | 2:28 |
-| 137 | [In the Midnight Hour](https://open.spotify.com/track/4Px3eyuChcQdX1GXytgxF2) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:37 |
-| 138 | [Foot Tapper \- 2003 Remaster](https://open.spotify.com/track/26FHHkqUgQG9AChc0oq1Ol) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Summer Holiday](https://open.spotify.com/album/5NN3vEbytzA6UwaCszu13C) | 2:26 |
-| 139 | [Get Down with It](https://open.spotify.com/track/2Dnsu9fl9UurKA3uHvgEjy) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Get Down With It!: The OKeh Sessions](https://open.spotify.com/album/1p2ne3n9Le5KYBYqlpHTMF) | 3:14 |
-| 140 | [If I Had a Hammer](https://open.spotify.com/track/2U1t5kdqbSRuiecDAf3yTz) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Hammering it!](https://open.spotify.com/album/1nlXqpZxlfU3zXyH80IP81) | 2:59 |
+| 135 | [A Rockin' Good Way \(To Mess Around And Fall In Love\)](https://open.spotify.com/track/4ydSzWwxqtNdP4VPfQe8bf) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Two Of Us](https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe) | 2:28 |
+| 136 | [In the Midnight Hour](https://open.spotify.com/track/4Px3eyuChcQdX1GXytgxF2) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:37 |
+| 137 | [Foot Tapper \- 2003 Remaster](https://open.spotify.com/track/26FHHkqUgQG9AChc0oq1Ol) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Summer Holiday](https://open.spotify.com/album/5NN3vEbytzA6UwaCszu13C) | 2:26 |
+| 138 | [Get Down with It](https://open.spotify.com/track/2Dnsu9fl9UurKA3uHvgEjy) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Get Down With It!: The OKeh Sessions](https://open.spotify.com/album/1p2ne3n9Le5KYBYqlpHTMF) | 3:14 |
+| 139 | [If I Had a Hammer](https://open.spotify.com/track/2U1t5kdqbSRuiecDAf3yTz) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Hammering it!](https://open.spotify.com/album/1nlXqpZxlfU3zXyH80IP81) | 2:59 |
+| 140 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/0Zkuewgtp8XbeJ5xInG4p8) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Complete Imperial Singles](https://open.spotify.com/album/6iaRjczTCIO23qM07qxMXs) | 2:22 |
 | 141 | [I Saw Her Standing There \- Remastered 2009](https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:53 |
 | 142 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 |
 | 143 | [I Want To Hold Your Hand \- Remastered 2009](https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:26 |
 | 144 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
 | 145 | [She Loves You \- Mono Version / Remastered 2009](https://open.spotify.com/track/0qsS2A3hwicJCLtcaR6JRQ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:22 |
 
-Snapshot ID: `MCw1NmZkOWU1YjcwZjMzMDhlMDRlNjM0ZmRkZDEzMjA2MzJjZWQ1NWFl`
+Snapshot ID: `MCwyYjYzMTgyZDI2OGEwN2Y2MmY3NTliNjlkMjI0ODZlN2FhMDMyY2Q3`

@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Tate McRae (pictured), Libianca, Fred again.. and more!",
-  "num_followers": 844202,
+  "num_followers": 844628,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODM5MTczNjRkYjY1Y2EwODMyOGE2NGIxY2YwMGNkYmQ1ZjcwNjAw",
+  "snapshot_id": "MCw5ZGIyY2I2MjU4ZjVjNjhmNDI1MDgwZDkzMjQwYWNiN2JkNjJkMGMy",
   "tracks": [
     {
       "added_at": "2023-12-08 00:00:48",
@@ -47,6 +47,26 @@
       "duration_ms": 242453,
       "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
+    },
+    {
+      "added_at": "2023-12-08 07:40:03",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
     },
     {
       "added_at": "2023-12-08 00:00:48",
@@ -400,7 +420,7 @@
       "added_at": "2023-12-08 00:00:48",
       "album": {
         "name": "Shot In The Dark",
-        "url": "https://open.spotify.com/album/6135PnIeL550uimL82RNUj"
+        "url": "https://open.spotify.com/album/67tb6jF9KTKzLlhc0HDk32"
       },
       "artists": [
         {
@@ -410,7 +430,7 @@
       ],
       "duration_ms": 179000,
       "name": "Shot In The Dark",
-      "url": "https://open.spotify.com/track/24Zp6bUZmx1BMNEybnFgog"
+      "url": "https://open.spotify.com/track/0pK7Np2Rx6dYaNioN1i6np"
     },
     {
       "added_at": "2023-12-08 00:00:48",
@@ -479,6 +499,26 @@
       "duration_ms": 192390,
       "name": "u come near",
       "url": "https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN"
+    },
+    {
+      "added_at": "2023-12-08 10:09:25",
+      "album": {
+        "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 201347,
+      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
     },
     {
       "added_at": "2023-12-08 00:00:48",
@@ -594,10 +634,6 @@
         {
           "name": "Marten H\u00f8rger",
           "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        },
-        {
-          "name": "Insomniac Records",
-          "url": "https://open.spotify.com/artist/51xR0dvqUomzb5eY6dvT4M"
         }
       ],
       "duration_ms": 165000,
@@ -618,6 +654,10 @@
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
         }
       ],
       "duration_ms": 192195,
@@ -1688,7 +1728,7 @@
       "added_at": "2023-12-08 00:00:48",
       "album": {
         "name": "Golden Arrow",
-        "url": "https://open.spotify.com/album/5kuHm4FETSZrmqB5arweHs"
+        "url": "https://open.spotify.com/album/2xUizus5qmaPLOqAc9f23b"
       },
       "artists": [
         {
@@ -1698,7 +1738,7 @@
       ],
       "duration_ms": 173005,
       "name": "Golden Arrow",
-      "url": "https://open.spotify.com/track/0DnSmJoC2FkE7iRRe9ERop"
+      "url": "https://open.spotify.com/track/1Z0RnrdxROaynHxJJznIEZ"
     },
     {
       "added_at": "2023-12-08 00:00:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:4rwolwLHj97rPwbhyNSeU9">Marizu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,566 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,768 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 99 | [Never Leave Me \- Amapiano Remix](https://open.spotify.com/track/0eh2R4p0kOY1UEvBSZYPsE) | [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT) | [Never Leave Me \(Amapiano Remix\)](https://open.spotify.com/album/77S0G5BQrMjwa9tUi7KosI) | 3:31 |
 | 100 | [Burdens](https://open.spotify.com/track/5L7VyqfdKSId3nk4hSxLCX) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Burdens](https://open.spotify.com/album/1GSJCgl4b2b45s26Q8gvGi) | 2:45 |
 
-Snapshot ID: `MCwwMTM4MWFhMjE5ZmEzYzExYzAzMGIxNDNjYjUzMDQ5ZGE0YWNhYzg1`
+Snapshot ID: `MCwwNjhlMGIxNDczZDU2MzNjODdjYWUxYjYzMDMzMTk1NzNlOGFjYTI1`

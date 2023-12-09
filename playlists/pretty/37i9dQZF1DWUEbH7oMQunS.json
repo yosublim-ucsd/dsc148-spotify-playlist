@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 58472,
+  "num_followers": 58485,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWI5OTY4MWM0MDgyZDhiZGYzMmFiNjhmNDY0Y2YzY2U5MjY0YzYz",
+  "snapshot_id": "MCxhYzlmMmI1YzAzMzhkZmRhYmNkNGM5MmJkYzU4YWU5ZjQ5ZjgxMTYy",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Breathe My Name",
-        "url": "https://open.spotify.com/album/6OkoWwEPpRocbPoK7uNiJx"
-      },
-      "artists": [
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        },
-        {
-          "name": "Rachel Robinson",
-          "url": "https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Breathe My Name",
-      "url": "https://open.spotify.com/track/0sbisO5Ld7OvsRsMCaEDoB"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "How Much You Mean To Me",
         "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
       },
@@ -1671,22 +1647,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "There is a King (Live Rehearsal Demo)",
-        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 222421,
-      "name": "There is a King - Live Rehearsal Demo",
-      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Even Here Love Comes",
         "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
       },
@@ -1703,6 +1663,38 @@
       "duration_ms": 267933,
       "name": "Even Here Love Comes - Acoustic",
       "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hawkyard",
+          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
+        }
+      ],
+      "duration_ms": 219782,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "SEVEN",
+        "url": "https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n"
+      },
+      "artists": [
+        {
+          "name": "Gamie",
+          "url": "https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "God Keep Us",
+      "url": "https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr"
     }
   ],
   "unique_name": "The Good Cup",

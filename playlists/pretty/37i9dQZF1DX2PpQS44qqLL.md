@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,629 likes - 200 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,751 likes - 200 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [De Mujer A Mujer](https://open.spotify.com/track/64pb8EzpdjhOOTaiJ6Bwlx) | [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [Mujer](https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l) | 4:51 |
 | 200 | [El Día Que Puedas](https://open.spotify.com/track/5771xKcFZR5MT4HDzbSulB) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 4:00 |
 
-Snapshot ID: `MCxkMTVkMGI0YzQ4MTU4OWUwZGYyZGVhMjMzYzc1YzQ1YzFhMmU4N2Iy`
+Snapshot ID: `MCw3MGQ5N2NlNzI4ZTMyODkzZDIxYzBmNzU5NWM0MTYyZTEwYjAwZTI4`

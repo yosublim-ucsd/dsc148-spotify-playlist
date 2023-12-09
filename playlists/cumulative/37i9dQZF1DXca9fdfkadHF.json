@@ -418,7 +418,7 @@
     {
       "album": {
         "name": "Desv\u00edo Alc\u00e1zar",
-        "url": "https://open.spotify.com/album/4QuDEdQx24FbtN6YtfmfwT"
+        "url": "https://open.spotify.com/album/0J4dS3di5qV2QPtSf1Yiw8"
       },
       "artists": [
         {
@@ -429,6 +429,24 @@
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224620,
+      "name": "El Umbral",
+      "url": "https://open.spotify.com/track/42jtZRwVIUrYUCsgT2tZCu"
+    },
+    {
+      "album": {
+        "name": "Desv\u00edo Alc\u00e1zar",
+        "url": "https://open.spotify.com/album/4QuDEdQx24FbtN6YtfmfwT"
+      },
+      "artists": [
+        {
+          "name": "Plutonio de Alto Grado",
+          "url": "https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
       "duration_ms": 224620,
       "name": "El Umbral",
       "url": "https://open.spotify.com/track/4A8FFbP2EEW5blEINK0PF8"
@@ -950,10 +968,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 212079,
       "name": "Nuestro Viejo Hotel",
       "url": "https://open.spotify.com/track/12ybnfIatnLWEC2S6BYmas"
+    },
+    {
+      "album": {
+        "name": "Desv\u00edo Alc\u00e1zar",
+        "url": "https://open.spotify.com/album/0J4dS3di5qV2QPtSf1Yiw8"
+      },
+      "artists": [
+        {
+          "name": "Plutonio de Alto Grado",
+          "url": "https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212079,
+      "name": "Nuestro Viejo Hotel",
+      "url": "https://open.spotify.com/track/2G0IITQMlsMoMdGURgXqJq"
     },
     {
       "album": {

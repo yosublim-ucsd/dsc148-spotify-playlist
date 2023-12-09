@@ -4,13 +4,14 @@
 
 > A mixtape for the perfect anime fight scene.
 
-296 songs - 12 hr 34 min
+297 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2077](https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i) | 2:15 | 2023-04-25 | 2023-12-08 |
 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 | 2022-05-25 |  |
 | [3 Stars](https://open.spotify.com/track/3z2TthJcrKYXF9EwVgGTmo) | [Jair Archive](https://open.spotify.com/artist/0ZrZh19MF2a8US5n8mfXKY) | [3 Stars](https://open.spotify.com/album/6FNO4AGIDjRu7gMLNpm3x1) | 2:38 | 2023-09-29 |  |
+| [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 | 2023-12-08 |  |
 | [5unna](https://open.spotify.com/track/2M1LHRfp0vsJKjKfKxOUx3) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [R5 Homixide](https://open.spotify.com/artist/0dhgemnyYGddxaOFhqJ2Kw) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:40 | 2023-09-15 | 2023-09-27 |
 | [7AM](https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [7AM](https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1) | 2:25 | 2023-09-29 |  |
 | [90mh](https://open.spotify.com/track/2wzPI8E6xhswusjuFAP7rW) | [love shayla](https://open.spotify.com/artist/0SLChsZNfgO7zbH3gevHvE) | [90mh](https://open.spotify.com/album/2fVFQwzs6D0PSfUiXWkfZA) | 2:23 | 2022-09-15 | 2022-09-24 |
@@ -259,7 +260,7 @@
 | [Thot K](https://open.spotify.com/track/5VPbUZPVASN9scsXak9kDB) | [iluvern!](https://open.spotify.com/artist/5B1esX3IbuEZQqcx95bMzS) | [Thot K](https://open.spotify.com/album/1uXiSa6UrQXZdbxMVnrYm5) | 3:05 | 2023-09-15 | 2023-09-27 |
 | [timing](https://open.spotify.com/track/5Gir5PXcry16bOpnLxnsPE) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 1:55 | 2023-09-15 | 2023-09-27 |
 | [TITAN TALK!](https://open.spotify.com/track/7sSdcK2yahRPVsIn2oUoLs) | [PE$O PETE](https://open.spotify.com/artist/5B6civtd7qkaJGy3W5Q4M9), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm), [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [TITAN TALK!](https://open.spotify.com/album/53pU9XbUFPlcMp10DSgk50) | 2:18 | 2022-07-08 | 2022-07-25 |
-| [Trap Anthem](https://open.spotify.com/track/427vwwlrlHy0JZPVt8rzYS) | [MC Virgins](https://open.spotify.com/artist/3iNL7rw7fpmysjZvhB8vi7), [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Trap Anthem](https://open.spotify.com/album/0RYvZMaunWeYkHDYMLPwhe) | 2:12 | 2023-03-22 |  |
+| [Trap Anthem](https://open.spotify.com/track/427vwwlrlHy0JZPVt8rzYS) | [MC Virgins](https://open.spotify.com/artist/3iNL7rw7fpmysjZvhB8vi7), [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Trap Anthem](https://open.spotify.com/album/0RYvZMaunWeYkHDYMLPwhe) | 2:12 | 2023-03-22 | 2023-12-09 |
 | [Troops](https://open.spotify.com/track/5ZOdgNcUja1P0wJHwIUafW) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg) | 2:19 | 2023-09-15 | 2023-09-27 |
 | [TURN IT UP](https://open.spotify.com/track/7hrN9HumCLEY1SwqWxrRfg) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [THE INSPECTION](https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B) | 3:22 | 2023-09-15 | 2023-09-27 |
 | [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 | 2023-09-15 | 2023-09-27 |

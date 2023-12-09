@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,200 likes - 200 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,251 likes - 200 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [Jeg gik mig ud en Sommerdag](https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Painting Music](https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ) | 4:18 |
 | 200 | [Good Morning Heartache](https://open.spotify.com/track/3Lye44P9cPy94QWjvFRLq4) | [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Morning Heartache](https://open.spotify.com/album/5hViZsJbP1o4f4xAkv2Z5M) | 5:25 |
 
-Snapshot ID: `MCwwMWExNjIwYmY4ZDU2MTVhNTU0MzA4N2UyMzExODcyZmIwYTdjM2E3`
+Snapshot ID: `MCxjMDkwMWY4MDJkOTczOTEwMzA2MDMyMjYyNThmNWIwZWI4ZWZkOGEy`

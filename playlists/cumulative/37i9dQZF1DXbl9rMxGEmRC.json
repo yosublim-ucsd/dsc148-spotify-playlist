@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 233276,
       "name": "Bloodlust",
       "url": "https://open.spotify.com/track/4aRTCthZKuSbZB5C5oDKtT"
@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Therizo",
+        "url": "https://open.spotify.com/album/0n1euTWxvPt5Vzp9L81EVW"
+      },
+      "artists": [
+        {
+          "name": "Taubra",
+          "url": "https://open.spotify.com/artist/6WxirqOAGQ6RcriEuDRnOq"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383740,
+      "name": "Congregation of the Unholy",
+      "url": "https://open.spotify.com/track/5bGpyUwrvei8Uyp9Yae8zf"
+    },
+    {
+      "album": {
         "name": "Demigod",
         "url": "https://open.spotify.com/album/7cNc742gxDcixwJcg3Jtm2"
       },
@@ -2102,6 +2120,24 @@
       "duration_ms": 212355,
       "name": "Death from Above",
       "url": "https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0"
+    },
+    {
+      "album": {
+        "name": "Death Is But A Door",
+        "url": "https://open.spotify.com/album/3QiSF99jB2PtK4dcSNF6ti"
+      },
+      "artists": [
+        {
+          "name": "Alluvial",
+          "url": "https://open.spotify.com/artist/7z2P2nNjtnAVnUavHIXZWQ"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292601,
+      "name": "Death Is But A Door",
+      "url": "https://open.spotify.com/track/6wl1XfdSd1VMlI3sBm0UAZ"
     },
     {
       "album": {
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 400689,
       "name": "El\u00e4v\u00e4lt\u00e4 Haudattu",
       "url": "https://open.spotify.com/track/6zUgqWeAA89rqzVnmTxt6f"
@@ -4825,6 +4861,24 @@
     },
     {
       "album": {
+        "name": "Abaddon",
+        "url": "https://open.spotify.com/album/0Gho87N0nqxqU5aUwUoWhF"
+      },
+      "artists": [
+        {
+          "name": "Crimson Moonlight",
+          "url": "https://open.spotify.com/artist/3BK5u7xOPJU8ERq8w27hnk"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298692,
+      "name": "Jackals",
+      "url": "https://open.spotify.com/track/4612PWEVn40UivH5g285sA"
+    },
+    {
+      "album": {
         "name": "Jailbreak",
         "url": "https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY"
       },
@@ -6224,7 +6278,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 164500,
       "name": "Oppressing Compassion",
       "url": "https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L"
@@ -8052,7 +8106,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 229803,
       "name": "The Art Of War",
       "url": "https://open.spotify.com/track/5pcrD02qpNhjfGJpi0cWKn"
@@ -8430,7 +8484,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 352000,
       "name": "The Hell I Create",
       "url": "https://open.spotify.com/track/6eytvHhAxFnCgz5ihOLrWI"
@@ -9006,7 +9060,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 325546,
       "name": "Treriksr\u00f6set",
       "url": "https://open.spotify.com/track/19fwxEx0vrmf8ULl37K6MY"
@@ -9410,6 +9464,24 @@
       "duration_ms": 278181,
       "name": "Vultures of North",
       "url": "https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9"
+    },
+    {
+      "album": {
+        "name": "Wake Up Dead",
+        "url": "https://open.spotify.com/album/3BA95B0H7oMeygWF7S66mv"
+      },
+      "artists": [
+        {
+          "name": "Nightrage",
+          "url": "https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184363,
+      "name": "Wake Up Dead",
+      "url": "https://open.spotify.com/track/3QlNgS3CTKcvz8m56JHXiJ"
     },
     {
       "album": {

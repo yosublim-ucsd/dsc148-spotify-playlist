@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Jess\u00e9 Alcantara, Silas Magalh\u00e3es",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, Kawe, Thiag\u00e3o, Lookas, Noventa",
   "name": "Gospel Flow",
   "tracks": [
     {
@@ -112,6 +112,28 @@
       "duration_ms": 426923,
       "name": "A Luz Se Apaga",
       "url": "https://open.spotify.com/track/17NTdbGeEofDmmiJxLQ2mU"
+    },
+    {
+      "album": {
+        "name": "A Palavra",
+        "url": "https://open.spotify.com/album/5f5kvsfFfaF1W14Hl6SFza"
+      },
+      "artists": [
+        {
+          "name": "KJ",
+          "url": "https://open.spotify.com/artist/2C8xiQfIDWO4nKxfMZoL2c"
+        },
+        {
+          "name": "DJ Alle Mark",
+          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "A Palavra",
+      "url": "https://open.spotify.com/track/4Yuy6qGzCpabpwEAFDz1oM"
     },
     {
       "album": {
@@ -780,7 +802,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 179154,
       "name": "BNGS 01",
       "url": "https://open.spotify.com/track/5gbpgCkz5cKWDnW8Qq2hex"
@@ -894,6 +916,32 @@
       "duration_ms": 231647,
       "name": "Caminhos da Vida",
       "url": "https://open.spotify.com/track/5f8wNnCFZfx0Lh8fhNgt7I"
+    },
+    {
+      "album": {
+        "name": "Caneta e Papel",
+        "url": "https://open.spotify.com/album/5rFLIptU3S95esJLrHuNB0"
+      },
+      "artists": [
+        {
+          "name": "Bep\u00ea",
+          "url": "https://open.spotify.com/artist/7pzwAbIUsONhvIMtwz9o66"
+        },
+        {
+          "name": "Todah Urban",
+          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147124,
+      "name": "Caneta e Papel",
+      "url": "https://open.spotify.com/track/364egBI3cjDsWSGvhKIrFY"
     },
     {
       "album": {
@@ -1274,7 +1322,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 181090,
       "name": "CQC",
       "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
@@ -2340,7 +2388,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 195428,
       "name": "Filho do Homem",
       "url": "https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi"
@@ -2410,6 +2458,40 @@
       "duration_ms": 384869,
       "name": "Filho Pr\u00f3digo",
       "url": "https://open.spotify.com/track/4gj571tkCRMRWulAh3Vbcl"
+    },
+    {
+      "album": {
+        "name": "Filhos de Crente #1 - Jesus Invadiu o Ac\u00fastico (feat. Lookas & Noventa)",
+        "url": "https://open.spotify.com/album/3s5vcKGvTawT9YXMojqO9d"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Noventa",
+          "url": "https://open.spotify.com/artist/3yECzJfU6iMdOknE2zPCFK"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436577,
+      "name": "Filhos de Crente #1 - Jesus Invadiu o Ac\u00fastico (feat. Lookas & Noventa)",
+      "url": "https://open.spotify.com/track/6nb4anyJTi60sdQ0cZWbup"
     },
     {
       "album": {
@@ -5132,7 +5214,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 196000,
       "name": "Problem\u00e3o",
       "url": "https://open.spotify.com/track/5imfWcXwnRpbaWTZJJGgjG"
@@ -5458,10 +5540,40 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 153325,
       "name": "RESPOSTAS",
       "url": "https://open.spotify.com/track/4RP61atk3EOYXQcWJIf1Fh"
+    },
+    {
+      "album": {
+        "name": "Mais Perto do C\u00e9u",
+        "url": "https://open.spotify.com/album/0E8SH7T4JSUJ0anUb20KMP"
+      },
+      "artists": [
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Ressurreto",
+      "url": "https://open.spotify.com/track/1O50kKRlEch73z6hR1BHzt"
     },
     {
       "album": {
@@ -5784,6 +5896,24 @@
       "duration_ms": 144424,
       "name": "SEM MENTIRAS",
       "url": "https://open.spotify.com/track/1bsCdxcSHy1hqThOUJoEwr"
+    },
+    {
+      "album": {
+        "name": "Sem Rumo",
+        "url": "https://open.spotify.com/album/57HV1hl7My39XTcElfDxGH"
+      },
+      "artists": [
+        {
+          "name": "Daniel Salez",
+          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195580,
+      "name": "Sem Rumo",
+      "url": "https://open.spotify.com/track/4ST6J0h5CNwHNHWQbq6VyT"
     },
     {
       "album": {

@@ -1,13 +1,53 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 75909,
+  "num_followers": 75916,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzgyOSw3NGRhNDRlOWFkYTQzYzQyOTQ4YWI3MWVlZjZkMWE2ODdlNTY1M2Uw",
+  "snapshot_id": "MzgzMCwyMTNmYjY3ZDhhMDU4MGEyNmYwOWZiMDFiMmY1OGUwODhhNzUyZmM4",
   "tracks": [
+    {
+      "added_at": "2023-12-08 12:49:28",
+      "album": {
+        "name": "Swan Song",
+        "url": "https://open.spotify.com/album/1MqdekNvsg1MCVV6QSKUhw"
+      },
+      "artists": [
+        {
+          "name": "Austra",
+          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
+        },
+        {
+          "name": "Katie Austra Stelmanis",
+          "url": "https://open.spotify.com/artist/1YGbmqX8wyAWaFHe2c4rLi"
+        }
+      ],
+      "duration_ms": 170674,
+      "name": "Jurgita\u2019s Theme",
+      "url": "https://open.spotify.com/track/7n8IOvKlfpcd7yakNTnSPN"
+    },
+    {
+      "added_at": "2023-12-08 12:49:28",
+      "album": {
+        "name": "All These Things (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1m4JpY8QSuyeLk5L0ypRD1"
+      },
+      "artists": [
+        {
+          "name": "DC Gore",
+          "url": "https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6"
+        },
+        {
+          "name": "Raf Rundell",
+          "url": "https://open.spotify.com/artist/3ndq9cOqNc3DEQOBsO10DG"
+        }
+      ],
+      "duration_ms": 352709,
+      "name": "Nietzsche on the Beach - Raf Rundell Remix",
+      "url": "https://open.spotify.com/track/1yMkWzGdFnyyL4We4Vqbvu"
+    },
     {
       "added_at": "2023-12-06 15:47:06",
       "album": {

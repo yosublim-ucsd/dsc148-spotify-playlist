@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,784 likes - 90 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,927 likes - 90 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 21 | [Javeda Zindag](https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 8:22 |
 | 22 | [Bhar Do Jholi Meri](https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 8:19 |
 | 23 | [Chaap Tilak](https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 8:52 |
-| 24 | [Man Aamadeh Am](https://open.spotify.com/track/7pehqY4MpNJ2Zvs8ocavr3) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 8:58 |
+| 24 | [Man Aamadeh Am](https://open.spotify.com/track/3PMThMLdTuwWLvlFTeSsrO) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 8:58 |
 | 25 | [Aas Paas Khuda \(Unplugged\)](https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 3:24 |
 | 26 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 |
 | 27 | [Rang De](https://open.spotify.com/track/1mp9c72fxtSnNUCfDTWzTc) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Azaan](https://open.spotify.com/album/2VuBd6z3euJKhJuBNHpTNN) | 5:23 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 68 | [Nit Khair Manga](https://open.spotify.com/track/6Lks1JEnWDejwxwGIUGzRI) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 4:33 |
 | 69 | [Haq Ali](https://open.spotify.com/track/4VCOs89feJNdL22cDoeFoc) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Blue Productions](https://open.spotify.com/artist/15jUoEypsDlzTmh1eVJP6X), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Bhoomi 2020](https://open.spotify.com/album/73G9NzlCUCFr88RHxJuQPQ) | 6:47 |
 | 70 | [Ainay](https://open.spotify.com/track/6f9D7nVZVcMJvCuqVvD5LE) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Tehzeeb Hafi](https://open.spotify.com/artist/2XZWheJXPLb99FDdImPP2o) | [Ainay](https://open.spotify.com/album/72zheRsnYxLWNuHv6dHXiL) | 5:28 |
-| 71 | [Sakal Ban](https://open.spotify.com/track/7lIj8hmniizy1UGUAHimXV) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam](https://open.spotify.com/artist/2HRUxGGvyo4L9mJwMSQpd3) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 6:46 |
+| 71 | [Sakal Ban](https://open.spotify.com/track/1TicbQ2crhIeZ1EzHlu1CU) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 6:46 |
 | 72 | [Tasbih](https://open.spotify.com/track/01X1vwWYDvUzIW78ZmBO7q) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Tasbih](https://open.spotify.com/album/40i5w2FOxwHsnO6ubxn5kF) | 4:13 |
 | 73 | [Rasta Bhool Gaye](https://open.spotify.com/track/0mARMftPGcPABcF5YRF6tj) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [VASL](https://open.spotify.com/album/6OAH2QoJXw1yE4N7sH7v3W) | 4:08 |
 | 74 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/5Fu9Axrk4D9tJ72VDqtAOi) | [Ustad Piyare Lal Wadali](https://open.spotify.com/artist/4vChFUCHDKK5t1n77dSv22), [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9) | [The Best of Wadali Brothers](https://open.spotify.com/album/6t70d2Plw6ILCHLZ6mCBQe) | 7:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 89 | [Alif Allah](https://open.spotify.com/track/48nNYfMib6yRaZ4SF8EL8D) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [Alif Allah](https://open.spotify.com/album/4ujPZXrHcBjRIGbsUXa2PH) | 3:21 |
 | 90 | [Madni Di Gal Kariye](https://open.spotify.com/track/0XgLsusKUTmib2HZQMA02r) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Madni Di Gal Kariye](https://open.spotify.com/album/5H33FAIYkmTqVLoyllN73B) | 5:54 |
 
-Snapshot ID: `MCxlYmYwZmFlYThjMzNiMmE1MjI0NWM5YWJmMzQ2NWViOTRlMmIxZmRi`
+Snapshot ID: `MCwwNDIxNThjYTFhZGIzNTAzNWUwYjJhZGI4OGJmMjI1MzE4ZDM5NDRk`

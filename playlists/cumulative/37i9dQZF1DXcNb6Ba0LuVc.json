@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Autumn Briefs",
+        "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
+      },
+      "artists": [
+        {
+          "name": "Dasunny",
+          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145242,
+      "name": "Autumn Briefs",
+      "url": "https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL"
+    },
+    {
+      "album": {
         "name": "I'll Leave the Light on for You",
         "url": "https://open.spotify.com/album/1uEqiWIlQBYypx6pZFZ6xL"
       },
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 111627,
       "name": "Kickers & Curbs",
       "url": "https://open.spotify.com/track/5wtHOgqZrDGthuxu22Ezxx"
@@ -4156,6 +4174,24 @@
       "duration_ms": 141676,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/6H1OU7JVRSNaZXrVU6JQnt"
+    },
+    {
+      "album": {
+        "name": "limelight",
+        "url": "https://open.spotify.com/album/5yMQnvnMglKwQ7V9pVALVX"
+      },
+      "artists": [
+        {
+          "name": "Louis Loux",
+          "url": "https://open.spotify.com/artist/4TSSTLGRVNcu07DrrYni5V"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "limelight",
+      "url": "https://open.spotify.com/track/2D6U1ScmjRJ5QLrYhMCQDe"
     },
     {
       "album": {

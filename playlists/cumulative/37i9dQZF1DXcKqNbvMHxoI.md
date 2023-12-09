@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-170 songs - 11 hr 44 min
+172 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Radiate](https://open.spotify.com/track/1kxsqPsBOhxBC5REK0wL8K) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/18BQpkuEyej1YgBOw2V1uy) | 4:17 | 2022-07-26 | 2023-10-24 |
 | [Radiate](https://open.spotify.com/track/40iYRKFmxhuDToTWjfXT7M) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/1Xt1e08HamHZvElKK0UoW9) | 4:17 | 2023-10-17 |  |
 | [Radiate](https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/15wCdrCX8iVt1KwM9uta2J) | 4:17 | 2022-02-04 | 2023-09-08 |
-| [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/album/2AaQrVHf965fI2uPLXdGF4) | 4:28 | 2022-02-04 |  |
+| [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/album/2AaQrVHf965fI2uPLXdGF4) | 4:28 | 2022-02-04 | 2023-12-09 |
+| [Ready For You \(feat\. Celeste\) \(feat\. Celeste\)](https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/38HQUXPU9vnrA8TbkUtTIQ) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 4:28 | 2023-10-17 |  |
 | [Remember Their Names \(feat\. Josh Barry\)](https://open.spotify.com/track/1NN2rXbJDP2qp9zTBn6xRH) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Ground Control](https://open.spotify.com/album/201chlVCJuhQvGZXB0wRn0) | 5:12 | 2022-02-04 |  |
 | [Ritual](https://open.spotify.com/track/2FVS8lTY6pZRvzSwhf2PRA) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Ritual](https://open.spotify.com/album/4HGqBpRnPRD7Udy0HJ4zg8) | 4:16 | 2022-02-04 | 2022-07-29 |
 | [Ritual](https://open.spotify.com/track/2LwYxvZHiYuiDREh29K5lG) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Breaking My Mind / Ritual](https://open.spotify.com/album/0mYepiqOEbEaDTaBmNZj9Z) | 4:16 | 2022-07-26 |  |
@@ -175,7 +176,8 @@
 | [Wonderin'](https://open.spotify.com/track/3HenGKQ9HhXxhb8bH03DbD) | [Channell](https://open.spotify.com/artist/0USu267KXIgx4OKwhU9n5D), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS), [Lyds](https://open.spotify.com/artist/1ct2JemDGZm6FdyArw8YcI) | [Wonderin' EP](https://open.spotify.com/album/0nx1BXto7ljFknTEKnBbOR) | 4:39 | 2022-02-04 |  |
 | [Work](https://open.spotify.com/track/5T1xKMA4xA7MDX4EiB8Cup) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Work](https://open.spotify.com/album/1OzNHYZsbugdZIvC4cv1IT) | 3:44 | 2022-07-19 | 2022-07-27 |
 | [Yawny at the Apocalypse](https://open.spotify.com/track/4jTxPlm9ifc4xAgGkA70FF) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Armchair Apocrypha](https://open.spotify.com/album/5GgfTAukD5GudG9CzqWNmC) | 3:38 | 2022-07-19 | 2022-07-27 |
-| [You and Me](https://open.spotify.com/track/2RuOeqFMhuYLVGbgGPQx2l) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:54 | 2022-07-26 |  |
+| [You and Me](https://open.spotify.com/track/2RuOeqFMhuYLVGbgGPQx2l) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:54 | 2022-07-26 | 2023-12-09 |
+| [You and Me](https://open.spotify.com/track/58K9hOJ2NmtcNywdFIy1AL) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Souls](https://open.spotify.com/album/6h8evmiksmB6ZAXzg2ebQR) | 3:54 | 2023-10-17 |  |
 | [You and Me](https://open.spotify.com/track/1Z6u99PTG9w2t4mcIGoqqS) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Souls](https://open.spotify.com/album/4byzvWM79mkf6sd4vwXXJ9) | 3:54 | 2022-02-04 | 2023-03-25 |
 | [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 | 2022-07-19 | 2022-07-27 |
 

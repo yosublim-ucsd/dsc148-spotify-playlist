@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,721 likes - 49 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,631 likes - 49 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 13 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3qdAy59rXgtUvZTWvm6v8d) | [The Cheerlots](https://open.spotify.com/artist/3kfyIzUTGqonAHgFFbAarY) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4MlaAjpoPEOdigaO6rXYrg) | 2:42 |
 | 14 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/666PAGBm6Qc5nXrIiYCyYH) | [Seasonal Smoothers](https://open.spotify.com/artist/02IYD7NORepp82HZMGvo0z) | [I'll Be Home For Christmas](https://open.spotify.com/album/5ml3IWHPa2eim1Gy6AxyG3) | 2:20 |
 | 15 | [I'll Be Home For Christmas](https://open.spotify.com/track/4V5oho3T26HQ6VPAuh94gL) | [Seasonal Smoothers](https://open.spotify.com/artist/02IYD7NORepp82HZMGvo0z) | [I'll Be Home For Christmas](https://open.spotify.com/album/5ml3IWHPa2eim1Gy6AxyG3) | 2:02 |
-| 16 | [Jingle Bells](https://open.spotify.com/track/1t75I28JVFBPJ8Zzc15kbY) | [The Doorstep Carolers](https://open.spotify.com/artist/4Y2CAf3w4WZ81gIXWJbxrF) | [Ding Dong Merrily On High](https://open.spotify.com/album/6lGpdC69lL8JtJXaQUxOBk) | 1:48 |
-| 17 | [Joy To The World](https://open.spotify.com/track/6B02IyJebCQknVIIT9K3eL) | [The Seasonal Singers](https://open.spotify.com/artist/5WHHG2CE0jbiLXiQZPm2fO) | [Holiday Songs](https://open.spotify.com/album/0WsyaxYre2udKrLLppHVm8) | 2:04 |
-| 18 | [Amazing Grace](https://open.spotify.com/track/1L1GHbYBHbKLOVAzBhGMTX) | [Ensemble Magnolia](https://open.spotify.com/artist/0ZdxZ04WHp2xnjhGdvDPrQ) | [Amazing Grace](https://open.spotify.com/album/6bSmzuJBqGCfBrq6nxFfTB) | 2:35 |
-| 19 | [We Wish You A Merry Christmas](https://open.spotify.com/track/64LKCeijm5ydFSO62qJnUp) | [The Cheerlots](https://open.spotify.com/artist/3kfyIzUTGqonAHgFFbAarY) | [We Wish You A Merry Christmas](https://open.spotify.com/album/6KjjXdtTCIZAy28qykBqyj) | 1:49 |
+| 16 | [Joy To The World](https://open.spotify.com/track/6B02IyJebCQknVIIT9K3eL) | [The Seasonal Singers](https://open.spotify.com/artist/5WHHG2CE0jbiLXiQZPm2fO) | [Holiday Songs](https://open.spotify.com/album/0WsyaxYre2udKrLLppHVm8) | 2:04 |
+| 17 | [Amazing Grace](https://open.spotify.com/track/1L1GHbYBHbKLOVAzBhGMTX) | [Ensemble Magnolia](https://open.spotify.com/artist/0ZdxZ04WHp2xnjhGdvDPrQ) | [Amazing Grace](https://open.spotify.com/album/6bSmzuJBqGCfBrq6nxFfTB) | 2:35 |
+| 18 | [We Wish You A Merry Christmas](https://open.spotify.com/track/64LKCeijm5ydFSO62qJnUp) | [The Cheerlots](https://open.spotify.com/artist/3kfyIzUTGqonAHgFFbAarY) | [We Wish You A Merry Christmas](https://open.spotify.com/album/6KjjXdtTCIZAy28qykBqyj) | 1:49 |
+| 19 | [Jingle Bells](https://open.spotify.com/track/1t75I28JVFBPJ8Zzc15kbY) | [The Doorstep Carolers](https://open.spotify.com/artist/4Y2CAf3w4WZ81gIXWJbxrF) | [Ding Dong Merrily On High](https://open.spotify.com/album/6lGpdC69lL8JtJXaQUxOBk) | 1:48 |
 | 20 | [Good King Wenceslas](https://open.spotify.com/track/7bVCSdxKp3KXF2JKYvyxyu) | [The Oxford Trinity Choir](https://open.spotify.com/artist/3r3EF4IUivV9v7HYln1YzB) | [Christmas Hymns \- The Very Best \- A Collection of Traditional Christmas Songs \(Deluxe Hymns Version\)](https://open.spotify.com/album/0AHs8EwSL5VTHEEeMIgRAk) | 2:33 |
 | 21 | [Caroling, Caroling](https://open.spotify.com/track/4nw3U7GXcJrkK090vniuTp) | [The Singers Unlimited](https://open.spotify.com/artist/3RsROIs1zuuC3lwIdhJ0if) | [Christmas](https://open.spotify.com/album/6oRVPUG1H8dm915S12d5PP) | 1:14 |
 | 22 | [Sleigh Ride](https://open.spotify.com/track/37BPychMbzTDxPrXJvYNZy) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [A Capella Christmas Favourites](https://open.spotify.com/album/4PUNlc0snMF3Bqa8NeWLRk) | 2:33 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 48 | [O Tannenbaum](https://open.spotify.com/track/1cU1C2UyM7Os13XKI8SQPz) | [The Barbershop Singers](https://open.spotify.com/artist/2ihbqMC5FLIURCSTBvsQed) | [A Barbershop Christmas](https://open.spotify.com/album/0sra8b07OvY3gfezNtToSf) | 0:59 |
 | 49 | [The Three Kings](https://open.spotify.com/track/6bhFHkgnEmOIVGFFOdvzqF) | [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Sir David Willcocks](https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC) | [Carols From Cambridge: The Very Best Sacred Christmas Carols](https://open.spotify.com/album/0J5mxoyU8lNsqPmepDLvmu) | 2:41 |
 
-Snapshot ID: `MCwwNWE0MDc4ZTIzMDNjMzAyYTg4MTZjNWM4YzY3Y2QyOGM4ZDJiZmM2`
+Snapshot ID: `MCwxNWUxY2UyODU3MTI2ZGVjZDA3ZDEyNGQ4NTQ5MTY4M2VkODZjZWU3`

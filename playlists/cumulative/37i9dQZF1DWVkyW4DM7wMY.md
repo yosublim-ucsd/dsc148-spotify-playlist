@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-177 songs - 9 hr 14 min
+178 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Miss Me](https://open.spotify.com/track/0Nnq0gfsq7Inx7b4zQSJob) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Miss Me](https://open.spotify.com/album/5JRQtqu5HrSXebzylfn5xJ) | 4:27 | 2023-09-22 |  |
 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 | 2022-08-05 |  |
 | [Move \- Acoustic](https://open.spotify.com/track/39Y8tJOuclCLZaCDD8M4kk) | [Shwento](https://open.spotify.com/artist/1kujXfGrKwSU4xOaUtZBdZ) | [Shwento 2020](https://open.spotify.com/album/3Yzp0vJY1qmQZwoUfwdCik) | 2:47 | 2021-10-15 | 2022-01-28 |
+| [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 |  |
 | [My Darling](https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [My Darling](https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD) | 3:06 | 2023-03-24 |  |
 | [My Heart Is Yours](https://open.spotify.com/track/5FKRgg3w4e4uKOiLxttCSY) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:05 | 2021-10-15 | 2022-02-05 |
 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 | 2022-05-05 |  |
@@ -115,7 +116,7 @@
 | [New Level // SUPERWATER](https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC) | [BEMATA](https://open.spotify.com/artist/795rusHeDFKZwVrgmzx87x) | [New Level // SUPERWATER](https://open.spotify.com/album/2N0k8TVpxu2uZuR3C0tQHH) | 3:20 | 2021-10-15 | 2022-10-28 |
 | [Oh Shoot](https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Oh Shoot](https://open.spotify.com/album/5Hq2dnXCD2b5HVhy8wwP9U) | 2:49 | 2023-03-30 |  |
 | [Oh! My Dear...](https://open.spotify.com/track/28HrRHjy9GDMcHjOzLMOVE) | [Wamugunda](https://open.spotify.com/artist/2Mj0SBavSxKCv3MMUfvBEP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Oh! My Dear...](https://open.spotify.com/album/6Is4wsIEwh0xT5FZ9aRnaI) | 6:39 | 2021-12-16 | 2023-10-21 |
-| [Old Ghosts](https://open.spotify.com/track/7mdxLKcj9fgsMPy3pJhadc) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06) | [Old Ghosts](https://open.spotify.com/album/0L2hcwVhhMdCrT2WDxNJor) | 2:51 | 2021-10-29 |  |
+| [Old Ghosts](https://open.spotify.com/track/7mdxLKcj9fgsMPy3pJhadc) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06) | [Old Ghosts](https://open.spotify.com/album/0L2hcwVhhMdCrT2WDxNJor) | 2:51 | 2021-10-29 | 2023-12-09 |
 | [olivine](https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [AA side](https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr) | 3:38 | 2022-03-17 |  |
 | [Oluvannyuma](https://open.spotify.com/track/5A8vuFKIH9Co6lm7P36KEP) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Oluvannyuma](https://open.spotify.com/album/4oDTOueYllwIAfl0zkJRoY) | 3:02 | 2021-11-04 | 2022-02-25 |
 | [Omu](https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Omu](https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1) | 2:54 | 2022-05-19 |  |

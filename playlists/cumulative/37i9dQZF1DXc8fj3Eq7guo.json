@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 236904,
       "name": "Africa",
       "url": "https://open.spotify.com/track/5rf4dV9ZV8K9b33f8wt0tU"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 236826,
       "name": "Africa",
       "url": "https://open.spotify.com/track/1RRoBxDDWuIhIrZ7T3JZCG"
@@ -96,6 +96,28 @@
       "duration_ms": 446266,
       "name": "Angola",
       "url": "https://open.spotify.com/track/52s4ni6wnfdVhVPFZBpvQW"
+    },
+    {
+      "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139706,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c"
     },
     {
       "album": {
@@ -814,7 +836,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 130666,
       "name": "Mombasa After Midnight",
       "url": "https://open.spotify.com/track/7rIqwiH9uCLuBYyr2cu7vH"
@@ -1218,10 +1240,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 176280,
       "name": "Zimbabwe",
       "url": "https://open.spotify.com/track/3evs5tv8NLr8VXi9LeA0Dv"
+    },
+    {
+      "album": {
+        "name": "Oliver's Greatest Hits",
+        "url": "https://open.spotify.com/album/6JoLBg1dHCeHXhmRd3qeKe"
+      },
+      "artists": [
+        {
+          "name": "Oliver Mtukudzi",
+          "url": "https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176280,
+      "name": "Zimbabwe",
+      "url": "https://open.spotify.com/track/3oerlR534UFui3TItBwvlo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc8fj3Eq7guo"

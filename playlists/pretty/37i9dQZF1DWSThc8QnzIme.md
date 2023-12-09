@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,278 likes - 140 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,266 likes - 140 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 | 139 | [Without Me](https://open.spotify.com/track/5Oows4h53UGeAvJFyCMseY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:21 |
 | 140 | [Dandelions](https://open.spotify.com/track/2h5cjNTM2gKzWc0d6WXhSr) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Dandelions](https://open.spotify.com/album/2oWeZcGc1X0yRLt8UvEpLU) | 3:53 |
 
-Snapshot ID: `MCxjM2YwZTNkNDJjYjEyZjYzMDAwOTFjYzNmMWM0ZmRjZGU1MGJmOTE5`
+Snapshot ID: `MCwyM2ZmNzhiYjM4MzVmYjc1MTc3MTI3MzE0MzFmMzRlYWViZjQ0MTBi`

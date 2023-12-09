@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,073 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,082 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 4 | [Sathi](https://open.spotify.com/track/3QCL4FJOSqLrFDJmcdNSbA) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:36 |
 | 5 | [Bin Bataye](https://open.spotify.com/track/3FG79ZhBtwQoy4sVkXVIhE) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Ragasuram](https://open.spotify.com/artist/5TOAOQvO0N5gjNZMse9P60), [Saurabh Tripathi](https://open.spotify.com/artist/2kOWriOsQOgsIeuRshJf36) | [Bin Bataye](https://open.spotify.com/album/0SEa6MorRu0A4XC9jJlt1G) | 2:41 |
 | 6 | [All Night](https://open.spotify.com/track/096pe7et5ylo1upVC9D6CQ) | [Shahee](https://open.spotify.com/artist/0ghVk0BN5DJo2zcxV5IkQS) | [All Night](https://open.spotify.com/album/4YAKNotRPQJ1OLRXwBSE5X) | 2:50 |
-| 7 | [Room](https://open.spotify.com/track/4U2SX7G1ROWGlzZAClKrXu) | [MÜNE](https://open.spotify.com/artist/0d7ucg4dn8r65y7UccChlb) | [Room](https://open.spotify.com/album/7lrnyUlmZPuZSVD4WRAxKC) | 3:24 |
+| 7 | [Room](https://open.spotify.com/track/3D0jsZ1OTPQIijtYHVrGWz) | [MÜNE](https://open.spotify.com/artist/0d7ucg4dn8r65y7UccChlb) | [Room](https://open.spotify.com/album/472V2dlfjtAZk7re11FXC9) | 3:24 |
 | 8 | [Love Forever](https://open.spotify.com/track/4VCdLSfRMx5nX2TsarZxUs) | [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW), [Chaitxnya](https://open.spotify.com/artist/1gcR7Ufcrolsr7zRn1bv1A) | [Love Forever](https://open.spotify.com/album/7bzpFypf96SjUDRKMok6gR) | 3:23 |
 | 9 | [Lost Without You](https://open.spotify.com/track/57cRnwOnlIVsBKHOzrF7oZ) | [Mridul Kala](https://open.spotify.com/artist/1jhHH5kwbkL3Cr8GxWNTdY) | [Lost Without You](https://open.spotify.com/album/44y80LKSLF3D9F3UDlKoVY) | 2:20 |
 | 10 | [Khwahish Ke Boonden](https://open.spotify.com/track/7lWd9Sph8vMrqVdkvVC5xc) | [Five YearsFromNow](https://open.spotify.com/artist/2O0JXlpMv39NnRZXjFDFbU), [Kai Gurung](https://open.spotify.com/artist/3G2rbJJhuy2uMagGeqIIk7) | [Khwahish Ke Boonden](https://open.spotify.com/album/4W2dLmOGEPtkGLXU3vhcBR) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 59 | [Uncomplicated](https://open.spotify.com/track/1xn3ESNRR5wbpZwEU3xlBv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Matthew Steeper](https://open.spotify.com/artist/5BCqO5LyLTOvo7etwfgQ7b) | [Uncomplicated](https://open.spotify.com/album/0vZhZVruxqC8HEGc1Wdwtr) | 3:25 |
 | 60 | [Roshni](https://open.spotify.com/track/0MZ6NFEV7oQSDMzuXBVS5E) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Roshni](https://open.spotify.com/album/27KyEgaluOMGNdtKud8Axt) | 2:54 |
 
-Snapshot ID: `MCw1NzI0MmM3Y2JiOGQ1YTViNzE1YjdlNGU5MTkxNGZmZjY1YzY2NzRj`
+Snapshot ID: `MCxhYWY3MmY1MTY4MjhhMjFhYjk4MWUwZjg2NTdkMTk2NTQxZWU4NGVi`

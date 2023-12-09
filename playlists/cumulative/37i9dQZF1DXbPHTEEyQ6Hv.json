@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Es ist ein Ros' entsprungen",
+        "url": "https://open.spotify.com/album/6cqWE8se5KQRxyF7GZ432C"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Mr. Kensington",
+          "url": "https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131071,
+      "name": "Es Ist Ein Ros' Entsprungen",
+      "url": "https://open.spotify.com/track/3LQQz7ztdslQvLtB7ElZId"
+    },
+    {
+      "album": {
         "name": "Christmas at the Piano",
         "url": "https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE"
       },
@@ -1460,10 +1482,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 169452,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/3MzmTBYxot2d3Oox8hkIZS"
+    },
+    {
+      "album": {
+        "name": "The Magic Of Christmas",
+        "url": "https://open.spotify.com/album/6NTyCBRaQy3JgoClHXX6pi"
+      },
+      "artists": [
+        {
+          "name": "Timothy North",
+          "url": "https://open.spotify.com/artist/69zHQUFleLsUpHOV8pW99i"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170032,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5taqXHS1T93h8aY0Qy8lhZ"
     },
     {
       "album": {
@@ -2018,7 +2058,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 226609,
       "name": "Lo, How A Rose E'er Blooming",
       "url": "https://open.spotify.com/track/0FeaaPUwvzyrJPsj15hcsG"
@@ -2292,6 +2332,24 @@
       "duration_ms": 214193,
       "name": "Please Come Home for Christmas",
       "url": "https://open.spotify.com/track/53ke8sTyEWjVjiBoE8kbkS"
+    },
+    {
+      "album": {
+        "name": "Rudolph the Red-Nosed Reindeer",
+        "url": "https://open.spotify.com/album/06or9Rrq5yA0Zab5Abz0o4"
+      },
+      "artists": [
+        {
+          "name": "Sam Sapphire",
+          "url": "https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185651,
+      "name": "Rudolph the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/6KP3J7KWWt26RYsvBD0jQ7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-278 songs - 11 hr 21 min
+279 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,8 +202,9 @@
 | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 | 2023-05-03 |  |
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2021-12-14 |  |
 | [Sehnsucht](https://open.spotify.com/track/0RHryrCt4Ocibra3gYkF7v) | [Emma Hoffman](https://open.spotify.com/artist/0Ebn8VPkWUu1WsBPP1WwLl) | [Sehnsucht](https://open.spotify.com/album/5L6OxmJ5Ji42HSZSqoKUhl) | 2:11 | 2021-12-14 | 2022-10-27 |
-| [Shimmer](https://open.spotify.com/track/0lIBOAqpBfPllYA6YDIVJM) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Shimmer](https://open.spotify.com/album/4KKxlhnLzgG6rh7KjAzBcv) | 2:13 | 2023-11-08 |  |
+| [Shimmer](https://open.spotify.com/track/0lIBOAqpBfPllYA6YDIVJM) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Shimmer](https://open.spotify.com/album/4KKxlhnLzgG6rh7KjAzBcv) | 2:13 | 2023-11-08 | 2023-12-09 |
 | [Shimmer](https://open.spotify.com/track/0n9z4lk3UOqimQ4HFlKO72) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Shimmer](https://open.spotify.com/album/0pAIe0jBV1WDL63LKGtInX) | 2:13 | 2023-01-09 | 2023-11-11 |
+| [Shimmer](https://open.spotify.com/track/2Jm1L8W3IpkC7tXP845FlR) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Shimmer](https://open.spotify.com/album/46hJCDlRtMXCLcwmL1IYne) | 2:13 | 2023-11-08 |  |
 | [Shu's Sonata](https://open.spotify.com/track/2KOxgVJN5IGm8Of4IARigO) | [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [Shu's Sonata](https://open.spotify.com/album/16yTf06rnFkS8y0uM6nWPh) | 2:31 | 2022-04-28 |  |
 | [Si proche](https://open.spotify.com/track/6e1phFv1GIKRhmrYddDPWT) | [Zdenek Lemelin](https://open.spotify.com/artist/7z8fwNUZFxgizWrG2GDQt3) | [Si proche](https://open.spotify.com/album/0KamlZdDERdY1kIwltXYwd) | 2:15 | 2023-07-12 |  |
 | [Sichm](https://open.spotify.com/track/6pMJj2gSGimd2tWbBEs28V) | [Aenor](https://open.spotify.com/artist/23P5JvLFlmlLNsi9ntziQD) | [Sichm](https://open.spotify.com/album/6RswTsIjkwCAJogdZRRJrK) | 2:03 | 2021-12-14 | 2022-04-29 |

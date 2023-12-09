@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3?si=vZTYiE8JQ\-qPyy0ERszIyg"> Marwan Pablo </a> : اسمعوا الميلوديز على ملوك السين\. غلاف
 
-254 songs - 12 hr 56 min
+255 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Sanam](https://open.spotify.com/track/4P2ekaZHDehwk4KzFTkkD4) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [Sanam](https://open.spotify.com/album/3uRsl2WhhppeCZEOaLAT59) | 1:42 | 2022-10-20 | 2022-12-31 |
 | [Santos](https://open.spotify.com/track/0JOKHiIoVwxgYLE3Xi9azJ) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santos](https://open.spotify.com/album/0kEbWvFpD1zQDvm4b6aEwb) | 3:04 | 2022-05-10 | 2022-11-08 |
 | [Saye2 Souq](https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:14 | 2023-05-25 | 2023-08-18 |
-| [Serag Mohema](https://open.spotify.com/track/50KBo4IWpjTkFqT24SAGNN) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [Serag Mohema](https://open.spotify.com/album/0331FU8uJjsUGhgMfFyK0g) | 2:44 | 2023-09-29 |  |
+| [Serag Mohema](https://open.spotify.com/track/50KBo4IWpjTkFqT24SAGNN) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [Serag Mohema](https://open.spotify.com/album/0331FU8uJjsUGhgMfFyK0g) | 2:44 | 2023-09-29 | 2023-12-09 |
 | [Share3 El 100](https://open.spotify.com/track/7auDtMn8PF8wvM5JIu0ndx) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Share3 El 100](https://open.spotify.com/album/0Me0fSxdj5G3vFSDtlgAZC) | 2:13 | 2023-02-23 | 2023-06-16 |
 | [Shhh](https://open.spotify.com/track/2urY8lQMD0G3XOMSZHhLE5) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [5 X El Wesh](https://open.spotify.com/album/00cFCDHS48GY9LlaEThN9T) | 2:59 | 2022-05-10 | 2022-06-15 |
 | [SKIN](https://open.spotify.com/track/4EwSe0EnXry3Zh3cyFfHWn) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:34 | 2023-01-25 | 2023-06-19 |
@@ -216,6 +216,7 @@
 | [Ya Wa3dy](https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/4I8Wyq7R75sBcFSIoqytZ7) | 3:01 | 2022-05-10 | 2023-01-18 |
 | [YA7](https://open.spotify.com/track/4GbLYgXHLMzwHaxDLhAQVu) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [YA7](https://open.spotify.com/album/0ipc4EPZuO7zSMIMRmM6YE) | 2:27 | 2022-09-13 | 2022-11-09 |
 | [Yaba](https://open.spotify.com/track/4CzLzmQVOC0jjTacKi5hEU) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Yaba](https://open.spotify.com/album/0EPLFiYGRSbu7WdWLYbhig) | 3:01 | 2023-08-17 | 2023-09-03 |
+| [YAL BENT YAL AMWAL](https://open.spotify.com/track/4FhiS0mcyUsUlmErYI3Wus) | [Khaled Rossia](https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9) | [YAL BENT YAL AMWAL](https://open.spotify.com/album/79vYPems7ABKByaaJ0yAz4) | 3:06 | 2023-12-08 |  |
 | [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 | 2023-09-05 |  |
 | [Yom Gdeed](https://open.spotify.com/track/3datZzuNBdUMzfdNfQPb1E) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:12 | 2023-02-22 | 2023-02-24 |
 | [احنا كده](https://open.spotify.com/track/3cpL15cLhwR2EPjj3MNCRa) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 3:23 | 2022-10-10 | 2022-11-17 |

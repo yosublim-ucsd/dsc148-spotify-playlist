@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-192 songs - 8 hr 35 min
+194 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [ENDLESS VOID](https://open.spotify.com/track/1ZzxutGot8uQzdvtwZnqhz) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [ENDLESS VOID](https://open.spotify.com/album/5PsqDyjDE9FPUkQgWNwv56) | 2:22 | 2022-10-10 |  |
 | [ERROR](https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [ERROR](https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi) | 2:42 | 2023-05-05 |  |
 | [EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI) | [DVRKLXGHT](https://open.spotify.com/artist/4tfNkqJHj0rmRuERAZJDxf) | [EUPHORIA](https://open.spotify.com/album/1t32gKI0EhGB4z5hnwKjSs) | 3:03 | 2022-10-10 |  |
-| [EUPHORIA SECRET](https://open.spotify.com/track/29aUIAviBlcr0yuIAjuzNn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [EUPHORIA SECRET](https://open.spotify.com/album/7zmGPpqRqLeH5MFUdGb7n4) | 2:19 | 2022-10-10 |  |
+| [EUPHORIA SECRET](https://open.spotify.com/track/29aUIAviBlcr0yuIAjuzNn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [EUPHORIA SECRET](https://open.spotify.com/album/7zmGPpqRqLeH5MFUdGb7n4) | 2:19 | 2022-10-10 | 2023-12-09 |
 | [EXIST](https://open.spotify.com/track/6SqUoYtpsmaFhSU3TnUVtT) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [vvpskvd.](https://open.spotify.com/artist/4HrUqrQRBMyLml2vQmggKA) | [EXIST](https://open.spotify.com/album/5iDNw2t9CGE9rTlRe3VpL9) | 3:03 | 2022-10-10 | 2023-05-06 |
 | [Eyes Don't Lie](https://open.spotify.com/track/1DCPoSVMgOr457qKTSp8c8) | [Lastfragment](https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A) | [Eyes Don't Lie](https://open.spotify.com/album/3RYY1oBqLh96SzqxoFzSzp) | 2:16 | 2023-10-13 |  |
 | [Eyez On The Prize](https://open.spotify.com/track/4ewahlsQrOeZwSNZToFvRD) | [Tele.phonk](https://open.spotify.com/artist/7Fi1jHSJRaQfZpHArLW36Q) | [Eyez On The Prize](https://open.spotify.com/album/7eekajxZPv3c0lHDItaAUd) | 1:51 | 2023-05-05 |  |
@@ -115,6 +115,7 @@
 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-10-10 |  |
 | [Middle Of The Night](https://open.spotify.com/track/6N6pd2btaV6F5J2ZFrAHR6) | [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [Middle Of The Night](https://open.spotify.com/album/3Nn6KAqzl0DtSSfOeDcESk) | 1:59 | 2023-01-20 | 2023-06-10 |
 | [MINDSET](https://open.spotify.com/track/7AopDNQE6cqEydT5zv96MN) | [KEDELA](https://open.spotify.com/artist/0ytXblHAJwc57GVGp6wjvB) | [MINDSET](https://open.spotify.com/album/4DdiZ6bzOzDgNRUzygqWQI) | 3:05 | 2022-10-10 | 2022-11-26 |
+| [Miracle](https://open.spotify.com/track/5Oom5k3WHqAhJRe0lgueTI) | [HXPETRAIN](https://open.spotify.com/artist/58Kb5i2Bxw4XM6Cj8a5hbi) | [Miracle](https://open.spotify.com/album/0p5240k3qJdmTjdMCR5lEO) | 2:12 | 2023-12-08 |  |
 | [Moments](https://open.spotify.com/track/5jpmgLngjOgpBcCePMQraa) | [danjerr](https://open.spotify.com/artist/4viVD4UGbYimCV8cWpmRoQ) | [Moments](https://open.spotify.com/album/5ZcRhb7zelopjMDIAXn5Xn) | 4:12 | 2023-08-18 |  |
 | [Moog City 2](https://open.spotify.com/track/5ZRKfEdvg8sRBi6F8LCXmc) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW) | [New World 2](https://open.spotify.com/album/6qQuNWgENDmCA19f01Zy0w) | 3:05 | 2023-06-09 | 2023-09-09 |
 | [MUSEUM OF THE VOID](https://open.spotify.com/track/6rDjt5uh8wte2GzZHQxVzT) | [ETERNVL SVDNESS](https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg) | [CULTURE OF FUTURITY](https://open.spotify.com/album/38f0sIVlHZbIhEBlKeb0OF) | 2:49 | 2022-10-10 | 2022-12-17 |
@@ -129,7 +130,7 @@
 | [Night Drive](https://open.spotify.com/track/4TixrVMeVgwh6VuIc7WjMr) | [DVXRK](https://open.spotify.com/artist/76ajlfoI4iJ83Ngcqod5Xv), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Night Drive](https://open.spotify.com/album/1WAQ6fdYFjJuSjs0rKDx31) | 2:51 | 2022-10-10 | 2023-05-10 |
 | [Night Drive](https://open.spotify.com/track/3dEiXRHTDuBsG1C3An4aP2) | [DVXRK](https://open.spotify.com/artist/76ajlfoI4iJ83Ngcqod5Xv), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Night Drive](https://open.spotify.com/album/3CCeB3HbTc1UjhOEFBN2J2) | 2:51 | 2023-03-10 | 2023-06-24 |
 | [Night Drive \(Slowed + Reverb\)](https://open.spotify.com/track/331H6137RMXrWPqdoinXfA) | [Wilee](https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r) | [Night Drive \(Slowed + Reverb\)](https://open.spotify.com/album/6im4iD0gt2vezgk3xhyrhh) | 2:17 | 2022-10-10 |  |
-| [Night Finding](https://open.spotify.com/track/6e8aObTgP8Jb4eZt5mAAk1) | [yellow pixie](https://open.spotify.com/artist/0OeJ57WX4JoCw1FdTM8Uwe) | [Night Finding](https://open.spotify.com/album/29JbcmWxHt4KNqMCM4TRME) | 1:54 | 2022-10-10 |  |
+| [Night Finding](https://open.spotify.com/track/6e8aObTgP8Jb4eZt5mAAk1) | [yellow pixie](https://open.spotify.com/artist/0OeJ57WX4JoCw1FdTM8Uwe) | [Night Finding](https://open.spotify.com/album/29JbcmWxHt4KNqMCM4TRME) | 1:54 | 2022-10-10 | 2023-12-09 |
 | [NIGHT PHONK](https://open.spotify.com/track/0ze8n8jr6UP7n09NKxWCWn) | [COWBELL DYNASTY](https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p) | [NIGHT PHONK](https://open.spotify.com/album/0AcaL7E1MdTZsMCwRK4MQz) | 1:22 | 2023-07-28 |  |
 | [NIGHT PHONK](https://open.spotify.com/track/6JI7mIk8CtD4R8BbhK3u1v) | [COWBELL DYNASTY](https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p) | [NIGHT PHONK](https://open.spotify.com/album/25acPZp9Yma25jbnJhmyIx) | 1:22 | 2023-07-28 | 2023-08-05 |
 | [NIGHT RIDE](https://open.spotify.com/track/5l5b7TnBr5naVGNZq7SPca) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [NIGHT RIDE](https://open.spotify.com/album/0NaK3ZZFCdGpydTOBgfhDQ) | 3:12 | 2022-10-10 | 2023-06-10 |
@@ -151,6 +152,7 @@
 | [ODIUM](https://open.spotify.com/track/4yyX0nJqMpqaubcGdGsxx9) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [UNIVERSE OF THE PAST](https://open.spotify.com/album/4HlAmB7VZFZW5iPYapiqiz) | 2:46 | 2022-10-10 |  |
 | [Omega](https://open.spotify.com/track/6yzDgOc9gruRxmaaiVsBy1) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Omega](https://open.spotify.com/album/4B9PcrMKaJupfqKvko3pYv) | 2:53 | 2022-10-10 |  |
 | [Pleasure](https://open.spotify.com/track/4tyb212aoIT5gYJQIg40MM) | [DVRKHOLD](https://open.spotify.com/artist/4ZVUy0u4JnNGj6jNNWv6Qx) | [Pleasure](https://open.spotify.com/album/1c4UPNlzYXvy6T1VRD1g2m) | 3:34 | 2022-12-09 | 2023-01-21 |
+| [Rain](https://open.spotify.com/track/48Kws1UrNWaIpoo6w8u2IX) | [LXRY PXNK](https://open.spotify.com/artist/25ZRM52hYigccz8com4s8t), [CHMCL SØUP](https://open.spotify.com/artist/3o6lxZ9ULOHMk438t24bIH) | [Rain](https://open.spotify.com/album/6aXWH9B3mn8qewDzzuIzkm) | 2:19 | 2023-12-08 |  |
 | [Rain](https://open.spotify.com/track/6mOAG0zui8izScIIgvWFDH) | [ROMANE](https://open.spotify.com/artist/05ZFcoNvwrfxD1sIRmGqfp) | [Rain](https://open.spotify.com/album/3YdkmgnxDrKj2MK7dXgQD7) | 3:06 | 2022-10-10 | 2023-06-24 |
 | [Rainy Night Drive](https://open.spotify.com/track/5gbzQN044AiB69UiVuc6qZ) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw), [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6) | [Rainy Night Drive](https://open.spotify.com/album/2VTQ3wglK5i3Lm6TK0ns6J) | 2:39 | 2022-10-10 |  |
 | [RATHER BE ALONE](https://open.spotify.com/track/2R7s9KxoZqYb4AzXh7M0bn) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [RATHER BE ALONE / GODSPEED](https://open.spotify.com/album/1UxzvQ0y8C28eeImfcaDzF) | 2:58 | 2023-10-13 |  |

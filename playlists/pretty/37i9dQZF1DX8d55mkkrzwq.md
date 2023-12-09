@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 
 > Get moving with these family\-friendly dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,067 likes - 43 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,066 likes - 43 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 42 | [Bounce! Bounce!](https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:06 |
 | 43 | [Stomp & Clap Dance](https://open.spotify.com/track/2MqNNuzgYmoTBMbylhF2Wm) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Stomp & Clap Dance](https://open.spotify.com/album/0jeMm22JOSNZl6l2UYHuFd) | 2:30 |
 
-Snapshot ID: `MCwyNzY1MThjMmEyZGJkNTIyZTk0OGI1YzE3YjI4NDhhY2M3ZWNjMGM0`
+Snapshot ID: `MCw0N2FhYmY1NzJkNmRlYTE0ZDAzNDRhZjNjZDRlNzU2ZDhiZDZhNzcy`

@@ -4,7 +4,7 @@
 
 > Soft acoustic sounds for your massage session.
 
-172 songs - 9 hr 38 min
+173 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Someone You Loved](https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:25 | 2022-08-29 | 2023-02-16 |
 | [Speak Your Heart](https://open.spotify.com/track/3d4k38C0dO6BWOkPn62eey) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s), [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Speak Your Heart](https://open.spotify.com/album/6XWyL2HcchIDLcTQCcE4Hy) | 3:47 | 2022-08-29 | 2023-01-06 |
 | [Stay with Me](https://open.spotify.com/track/3JQ71NtViPEp9utyY349ut) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Stay with Me](https://open.spotify.com/album/4tpkRxlOxQaNMPlxczThF1) | 3:10 | 2022-08-29 | 2023-09-09 |
-| [Superpowers](https://open.spotify.com/track/57P7zcyPmc0yKvwjo2ns4F) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Superheroes](https://open.spotify.com/album/0KtWvkv5MHPbHfxbcUK43V) | 3:04 | 2023-08-24 |  |
+| [Superpowers](https://open.spotify.com/track/4EdmUhD7PYhqZZckBIpma0) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Superheroes](https://open.spotify.com/album/7c1kMF6MrUHzpP68EeJ98L) | 3:04 | 2023-11-23 |  |
+| [Superpowers](https://open.spotify.com/track/57P7zcyPmc0yKvwjo2ns4F) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Superheroes](https://open.spotify.com/album/0KtWvkv5MHPbHfxbcUK43V) | 3:04 | 2023-08-24 | 2023-12-09 |
 | [Sweet Jane](https://open.spotify.com/track/3AsmFcxnAv5FtTsV9g45bj) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Sweet Jane](https://open.spotify.com/album/1KuTjN7XA6kuziupnXOyTG) | 3:33 | 2022-08-29 |  |
 | [Take A Picture](https://open.spotify.com/track/2lSGH56F0FIgPRGsMFy676) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Take A Picture](https://open.spotify.com/album/6AB3Pfl1BXmLpTp3Z3ADk1) | 3:12 | 2022-08-29 |  |
 | [Take It With Me](https://open.spotify.com/track/4kGll5YxCq5p5ns1cO55Rc) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Come On Up To The House: Women Sing Waits](https://open.spotify.com/album/4xyavB5BZ4HZeAFwmothzx) | 4:06 | 2022-08-29 | 2023-10-27 |

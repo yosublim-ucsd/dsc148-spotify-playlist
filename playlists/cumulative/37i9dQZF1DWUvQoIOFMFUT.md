@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-160 songs - 10 hr 7 min
+162 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Dry Fantasy](https://open.spotify.com/track/2edpNYAydzfp4Avg4x2Zyh) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Dry Fantasy](https://open.spotify.com/album/7gCgNBZb7InATNH8fE84V4) | 5:10 | 2021-10-14 | 2022-07-29 |
 | [Dry Fantasy](https://open.spotify.com/track/2oUXRX74mg3tByEamEIPIW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ritchie Sacramento](https://open.spotify.com/album/7l4srAaJNA9IIQNBJj7eqA) | 5:10 | 2021-10-14 | 2022-11-13 |
 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 | 2021-10-14 |  |
-| [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2021-10-14 |  |
+| [Eight](https://open.spotify.com/track/1Vs6MuP5FfZ28mRj4vINq8) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 2:49 | 2023-03-27 |  |
+| [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2021-10-14 | 2023-12-09 |
 | [Ember](https://open.spotify.com/track/1xUsZV6sIKDfOBJIxSrAcU) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3kHGKSPT55zIpALNPpI6TM) | 2:40 | 2021-10-14 | 2023-09-15 |
 | [Ember](https://open.spotify.com/track/6dYcB7modGAixjXyjkk8Hn) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3pH3ulLQ0XIYNTEyrjV63f) | 2:40 | 2021-10-14 | 2023-01-27 |
 | [Ember](https://open.spotify.com/track/6KLZxWLnzXC8QLMF0iKTqm) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 2:40 | 2023-03-27 |  |
@@ -70,7 +71,8 @@
 | [Gravity](https://open.spotify.com/track/5ozy2aMf0l8YIyOwc0B91p) | [Tiggs](https://open.spotify.com/artist/7vqraVZiWn0GQT2lYkJCgz) | [Gravity](https://open.spotify.com/album/02Airjrme24zvE7ksjTI8d) | 3:26 | 2021-10-14 |  |
 | [H.I.T.H](https://open.spotify.com/track/4Xpm7HOmxhh9HqiDFYsgYX) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [H.I.T.H](https://open.spotify.com/album/4O6s6vAzfOXQBtRjgYE5wz) | 3:25 | 2021-10-14 |  |
 | [Hard to Hide \- Niklas Paschburg Rework](https://open.spotify.com/track/6cZKMJir0kkZMvbtkoBx34) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO), [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Hard to Hide \(Niklas Paschburg Rework\)](https://open.spotify.com/album/3jPreY7L6IH2yw4qGYxqaV) | 3:35 | 2021-10-14 |  |
-| [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 | 2021-10-14 |  |
+| [Heavy](https://open.spotify.com/track/26eylodAJLTp1GkG4Q7wNy) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 3:01 | 2023-03-27 |  |
+| [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 | 2021-10-14 | 2023-12-09 |
 | [i don't know where i'm going but that's okay](https://open.spotify.com/track/5EXoQjNAotUspxZhPHiGE7) | [sarya](https://open.spotify.com/artist/1jIluixQm1CH6lBpeq46f5) | [take care of yourself](https://open.spotify.com/album/5PnmGxnNA1sR9MZVrFpvlA) | 4:42 | 2021-10-14 |  |
 | [I Found](https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:33 | 2021-10-14 |  |
 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 | 2021-10-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: MEDUZA x Clementine Douglas x Ferreck Dawn
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,432 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,443 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 13 | [Without You](https://open.spotify.com/track/0M0qTOapBQ2UIU9wCujFpr) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE), [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [Without You](https://open.spotify.com/album/4lhnHmYDfZ8c8mJlxVHpUL) | 3:45 |
 | 14 | [Uler Engkol](https://open.spotify.com/track/24cQGI2xCIRDr9yoF3wxuB) | [Arsz](https://open.spotify.com/artist/2tRJMOTiLofJH5XlLm6ciD) | [Uler Engkol](https://open.spotify.com/album/56X0HnugeWY8SYJFc0f7bn) | 3:35 |
 | 15 | [Nothing Is Impossible](https://open.spotify.com/track/7wpCDAi18aDMATzqove63i) | [Fancy Floss](https://open.spotify.com/artist/36Qux635tnV9mSMJNOGUGo), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Nothing Is Impossible](https://open.spotify.com/album/6NhPyMx8lrwWsumV3WBFRL) | 3:19 |
-| 16 | [Levitate](https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Insomniac Records](https://open.spotify.com/artist/51xR0dvqUomzb5eY6dvT4M) | [Levitate](https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr) | 2:45 |
+| 16 | [Levitate](https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Levitate](https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr) | 2:45 |
 | 17 | [Shining Like the Sun in the Sky](https://open.spotify.com/track/5GxFVAV7gPzOGzQZz73i1C) | [Cafrii](https://open.spotify.com/artist/2cNg9QqJy1QJEGn8pZOUWe) | [Shining Like the Sun in the Sky](https://open.spotify.com/album/1ivI5AZxoM5Ou9wApLUYAo) | 3:15 |
 | 18 | [Work It Out](https://open.spotify.com/track/0Sob0R4odawmsQBGoKAZWX) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Love For The Beat](https://open.spotify.com/album/6vh9YM0ltddTcbhb73yb0c) | 3:04 |
 | 19 | [I Believe In Love Again \- Jex Opolis Remix Edit](https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [I Believe In Love Again \(Jex Opolis Remix\)](https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g) | 3:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 89 | [A&S](https://open.spotify.com/track/4joJLer0vBve2ME4A0YU2i) | [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [A&S](https://open.spotify.com/album/7HmhPt7zhLiokEArwbMSJL) | 3:20 |
 | 90 | [Love Like A Bomb \(feat\. ひかり\) \- Desired Remix](https://open.spotify.com/track/0DYzitVv6vogVzbf3Vkz2j) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Love Like A Bomb \(feat\. ひかり\) \[Desired Remix\]](https://open.spotify.com/album/1U18QgOoGhPvc36GYpVTeF) | 3:33 |
 
-Snapshot ID: `MCxmZjBmMjdmNmU1ZTdmZDI4NWUwNGQ5M2MxYjYwOTNiMDkwM2RlNDVm`
+Snapshot ID: `MCw3Mjc1NGQwYjZkZjc4NTAwYTlhYzcyNTk0Yjk3NjUzYTBhYjRlMDYz`

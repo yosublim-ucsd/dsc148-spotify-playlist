@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,991 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,007 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 7 | [Valente](https://open.spotify.com/track/6aYjAIKYxP86Jd7OxjlM9t) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Kick Up The Dust EP](https://open.spotify.com/album/41Vibdx0FTBi12fK4nMsFl) | 5:19 |
 | 8 | [Gravity](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Gravity](https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9) | 2:24 |
 | 9 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
-| 10 | [Eyesight](https://open.spotify.com/track/3cMrgJny9vGJV4IJXV9yF5) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA), [Damaui](https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ) | [Eyesight](https://open.spotify.com/album/2UmCQEJcx57QCwhGoju6bZ) | 3:13 |
+| 10 | [Eyesight](https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA), [Damaui](https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ) | [Eyesight](https://open.spotify.com/album/3EohqBC5Dp0Hj2cXZjuTK7) | 3:13 |
 | 11 | [Careless Whisper](https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [ALUR](https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Careless Whisper](https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI) | 2:52 |
 | 12 | [Rebirth](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 4:44 |
 | 13 | [Sunday Monday](https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Sunday Monday](https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq) | 2:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 79 | [One Last Call](https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Lola Melita](https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI) | [One Last Call](https://open.spotify.com/album/6QSHLUdOOiWVjjt3KI30ei) | 2:38 |
 | 80 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 |
 
-Snapshot ID: `MCxlNTMwOTEyODU4OTA5ZjQ1ZTg2MjEzOTQyNDliNjQxMDg0NGZjZWJm`
+Snapshot ID: `MCw4NGJlNjkzMDY4YmM0ZGVlZmY5MmNhNjgzYWFlZTE0YjMzZDE0ZmRi`

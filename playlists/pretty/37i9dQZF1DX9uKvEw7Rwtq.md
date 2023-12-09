@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,106 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,182 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 99 | [The Biting Air, the Howling Wind](https://open.spotify.com/track/3uVEwa1M8LSuDd6kR845SW) | [Cursebitten](https://open.spotify.com/artist/77advwCNdJgfdi3QR8BF38) | [Northwarder](https://open.spotify.com/album/43p0klhjyFgB5XOWqwsmku) | 3:31 |
 | 100 | [I Wonder As I Wander](https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [I Wonder As I Wander](https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg) | 2:16 |
 
-Snapshot ID: `MCxlMWFjYmU2NzU2MGJmMTFiM2IzOWE1MDg3ZWExMjU4ZjU1MDMyZTRh`
+Snapshot ID: `MCw2MTExNDJkODg5MzRlNmRmYWJjMTIxNTMwMzlhZTJiMmZiYTE2MDBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:5cgtn5YWC3Fr06wTps1dBq">Goapele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,007 likes - 71 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,026 likes - 71 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 70 | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj) | 2:55 |
 | 71 | [Warmer with You](https://open.spotify.com/track/3FIU12rRLkfrHdA0vBIsHN) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Warmer with You](https://open.spotify.com/album/5SwM2wVqEX9FmRHgTOfuL5) | 2:17 |
 
-Snapshot ID: `MCxlNjM0NTZlYTA0NzU5ODdjY2MwYWMwZDg5NjM0OGNjODVmOGY0NDli`
+Snapshot ID: `MCw3NmM4MmZhZDM0YzFmMGE2OGE5ZDY5ZDFjNjg4Zjk4MDdlNGU4OWQw`

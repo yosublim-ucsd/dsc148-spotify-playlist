@@ -1,15 +1,15 @@
 {
   "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: Oruam",
-  "num_followers": 570505,
+  "num_followers": 570720,
   "original_name": "Rap Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDljZjM2MDdmZmEwNDUzMjI3YTRkMzIyZDBkOGVhZTk2NWU3MDQz",
+  "snapshot_id": "MCw4NGMwMWU3OGY1NzgwMGI2OTYxNDg3MTA1YWMxYmFhYzhjZmE4NzNk",
   "tracks": [
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Para de Mentir",
         "url": "https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ"
@@ -33,47 +33,7 @@
       "url": "https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico na Cachu",
-        "url": "https://open.spotify.com/album/6XToWDpOgXAusmrtqUW9Mi"
-      },
-      "artists": [
-        {
-          "name": "Tribo da Periferia",
-          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
-        }
-      ],
-      "duration_ms": 254442,
-      "name": "Imprev\u00edsivel - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4NLrGSLYrSw2o0Bh6T0asj"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
@@ -101,7 +61,67 @@
       "url": "https://open.spotify.com/track/457V49BhoC82JATzMaX7HJ"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
+      "album": {
+        "name": "Ac\u00fastico na Cachu",
+        "url": "https://open.spotify.com/album/6XToWDpOgXAusmrtqUW9Mi"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        }
+      ],
+      "duration_ms": 254442,
+      "name": "Imprev\u00edsivel - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4NLrGSLYrSw2o0Bh6T0asj"
+    },
+    {
+      "added_at": "2023-12-08 13:28:14",
+      "album": {
+        "name": "T\u00e1 Cada Vez Mais Dif\u00edcil Fazer Love Song",
+        "url": "https://open.spotify.com/album/5vVAnLOyy5dcXzaTlQWjQu"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "T\u00e1 Cada Vez Mais Dif\u00edcil Fazer Love Song",
+      "url": "https://open.spotify.com/track/7drLOwfrTHGbbOSzgm4m7M"
+    },
+    {
+      "added_at": "2023-12-08 13:28:14",
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
+    },
+    {
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "X Sem Peita (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1JRsmSpxvmTiLD0tRdN9nz"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/74ebx5eBbmllhq0Ppge772"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Minha Arte",
         "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
@@ -149,7 +169,31 @@
       "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
+      "album": {
+        "name": "Agradecer",
+        "url": "https://open.spotify.com/album/6nbaW10oxiFgYuquDE1oxM"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Deb Ribeiro",
+          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
+        },
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        }
+      ],
+      "duration_ms": 162470,
+      "name": "Agradecer",
+      "url": "https://open.spotify.com/track/0w7Rk3Czu5KSfLakYzPkrw"
+    },
+    {
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "734",
         "url": "https://open.spotify.com/album/2P6mi8tsokPdCozUzsGMUF"
@@ -165,7 +209,7 @@
       "url": "https://open.spotify.com/track/0JbnM6rnFObzTrwKl7BPMb"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Atmosfera",
         "url": "https://open.spotify.com/album/4ipUwZ9TqwBHeCVBGhiRnu"
@@ -181,7 +225,23 @@
       "url": "https://open.spotify.com/track/1gULlZqzaB2GdqIeMstxD3"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
+      "album": {
+        "name": "Oh M\u00e3e",
+        "url": "https://open.spotify.com/album/38JNMNp75izn2Y6frSDgof"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 274050,
+      "name": "Oh M\u00e3e",
+      "url": "https://open.spotify.com/track/2HC6nXEh4poyQVIlwq9NXt"
+    },
+    {
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "X Sem Peita (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1JRsmSpxvmTiLD0tRdN9nz"
@@ -205,7 +265,7 @@
       "url": "https://open.spotify.com/track/2F2xRCvqBX064cb3sRzcjV"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Sempre Que Me V\u00ea",
         "url": "https://open.spotify.com/album/0gjyJm3JIFWXueTBg318dI"
@@ -245,7 +305,7 @@
       "url": "https://open.spotify.com/track/486dXyOiD0WKfEtSzUEWuj"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Se Entregar",
         "url": "https://open.spotify.com/album/4DRIFmIBfjosyLu13imyct"
@@ -265,7 +325,7 @@
       "url": "https://open.spotify.com/track/6OWii78tJEZkLSjtSQcmve"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
@@ -281,7 +341,7 @@
       "url": "https://open.spotify.com/track/1zV8QFCfpK50GpqrNZ1O0N"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Pel\u00e9 Milflows no Est\u00fadio Showlivre, Vol 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/32Odr1M4EmJjc6I64DuNOK"
@@ -301,7 +361,7 @@
       "url": "https://open.spotify.com/track/1ujkoBjVjQrg00EShTjvXt"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Poesia Ac\u00fastica #9: Melhor Forma",
         "url": "https://open.spotify.com/album/6drqaBLJWKqoNlKvOQeBTm"
@@ -349,7 +409,7 @@
       "url": "https://open.spotify.com/track/2fmeSswdyVq4wcqhY41UHk"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Carta Branca",
         "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
@@ -373,7 +433,7 @@
       "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Atmosfera",
         "url": "https://open.spotify.com/album/5o0csE58lgjhza8ry0lNXA"
@@ -389,7 +449,7 @@
       "url": "https://open.spotify.com/track/5Otfi0cla77BKiOp2BvtMx"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Ac\u00fastico 10 Anos Cacife",
         "url": "https://open.spotify.com/album/3xb7Esv7HNcnZkG8OKVGKs"
@@ -413,7 +473,7 @@
       "url": "https://open.spotify.com/track/1e6aaXjCWyJXGfEJVD5WEv"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Poesia Ac\u00fastica 14",
         "url": "https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN"
@@ -469,7 +529,7 @@
       "url": "https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "O Mais Novo Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"
@@ -497,7 +557,7 @@
       "url": "https://open.spotify.com/track/2UK3EhCjisvoPu0mAoGLP8"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Algum Lugar Pra Gente Viajar",
         "url": "https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI"
@@ -533,7 +593,7 @@
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Voc\u00ea N\u00e3o Ama Ningu\u00e9m 3",
         "url": "https://open.spotify.com/album/3lcotBig7d3eKn3cQo5BwE"
@@ -569,7 +629,7 @@
       "url": "https://open.spotify.com/track/6hfek8BveIwDtAtZuIVFij"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
@@ -593,7 +653,7 @@
       "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Te Pe\u00e7o Pra Ficar",
         "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
@@ -621,7 +681,7 @@
       "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Poesia Ac\u00fastica #6: Era uma Vez",
         "url": "https://open.spotify.com/album/61wvaVHo5eUxZv44ztftMX"
@@ -673,7 +733,7 @@
       "url": "https://open.spotify.com/track/13Rf6RaZT13TW4xLQR3MQr"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Poesia Ac\u00fastica 13",
         "url": "https://open.spotify.com/album/1tJQLPkG5qc9BXqklDInry"
@@ -729,7 +789,7 @@
       "url": "https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Qu\u00edmica",
         "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
@@ -745,7 +805,7 @@
       "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Virus Love",
         "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
@@ -773,23 +833,7 @@
       "url": "https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "FRASES E FASES",
-        "url": "https://open.spotify.com/album/03PvqDcf6tUWXhx6JKEX5l"
-      },
-      "artists": [
-        {
-          "name": "Ikki",
-          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "FRASES E FASES",
-      "url": "https://open.spotify.com/track/5Ys2IHGK5S07i1MXpizbYn"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
         "url": "https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0"
@@ -817,7 +861,7 @@
       "url": "https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Penelope",
         "url": "https://open.spotify.com/album/71htdEQmQqPoSQwdTR0auD"
@@ -841,7 +885,7 @@
       "url": "https://open.spotify.com/track/66qOxO7krWQpQWZPi1IzQo"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Me Espera",
         "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
@@ -861,7 +905,7 @@
       "url": "https://open.spotify.com/track/4k3ttE8Xpuxq0v0krwgU7x"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7"
@@ -889,7 +933,7 @@
       "url": "https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Vida Toda - Spotify Singles",
         "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
@@ -905,7 +949,7 @@
       "url": "https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Purpura Divers\u00e3o",
         "url": "https://open.spotify.com/album/3KiR8tmPnFe7eqmc2q2Wgi"
@@ -933,7 +977,7 @@
       "url": "https://open.spotify.com/track/72OXWsYBTBkbtqjqLF89nP"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Fora do Padr\u00e3o",
         "url": "https://open.spotify.com/album/6kcP4lKHAxfSXWVDDRodKs"
@@ -949,7 +993,7 @@
       "url": "https://open.spotify.com/track/0rsw5Z8eaJ8jDVdGHy3yAc"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Cigana",
         "url": "https://open.spotify.com/album/5zujMhc1kwFLiZYBRlwz6m"
@@ -981,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2GBwxkBpmhs9UoDxsBeP4a"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Problem\u00e1tico",
         "url": "https://open.spotify.com/album/6AvS0b0wY54EFDpdh6mVYm"
@@ -997,7 +1041,7 @@
       "url": "https://open.spotify.com/track/75WrYPysR6c7VcLjE9yrlM"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
         "url": "https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m"
@@ -1037,23 +1081,7 @@
       "url": "https://open.spotify.com/track/1dPYH7lKhUZHoaZMMeQHN3"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Expectativas",
-        "url": "https://open.spotify.com/album/13xuKcNArawB92zGJibUKh"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 201459,
-      "name": "Expectativas",
-      "url": "https://open.spotify.com/track/0EvH4HVrhZnvAfyctBSGrk"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Flores Que Eu Nunca Dei",
         "url": "https://open.spotify.com/album/1mM2in7kTBpSLurd8HIjvD"
@@ -1073,7 +1101,7 @@
       "url": "https://open.spotify.com/track/1tSRitSlttJ9PGtUz40ZSQ"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Poesia Ac\u00fastica 12 - Pra Sempre",
         "url": "https://open.spotify.com/album/34N8rLUMtF7t2uDA4sHtKr"
@@ -1125,7 +1153,7 @@
       "url": "https://open.spotify.com/track/4can6ssapSsRCEbZZfYL8K"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Arcano 19",
         "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
@@ -1141,7 +1169,7 @@
       "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "A Culpa \u00c9 Minha",
         "url": "https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO"
@@ -1161,7 +1189,7 @@
       "url": "https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "J\u00e1 Vou",
         "url": "https://open.spotify.com/album/0wvlDy1UI32sSZ8xullKwo"
@@ -1185,7 +1213,7 @@
       "url": "https://open.spotify.com/track/6k64bJBuP0ae5jFcHn8DD7"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Melhor Lugar",
         "url": "https://open.spotify.com/album/3dQpyO7nTetpK38phGBa0B"
@@ -1209,7 +1237,7 @@
       "url": "https://open.spotify.com/track/3NvJOofNuM9TmYgxCfavsN"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Buzz Lightyear",
         "url": "https://open.spotify.com/album/5dUK91bxsgiaYoXDktf6IO"
@@ -1233,47 +1261,7 @@
       "url": "https://open.spotify.com/track/4svcCNuxugwP6wrSnoMIfB"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico Altamira #1 - Ubatuba",
-        "url": "https://open.spotify.com/album/0fKHlemrD4yji5vNtz8Ve5"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Konai",
-          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        },
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Lukkas",
-          "url": "https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL"
-        },
-        {
-          "name": "Lucas Muto",
-          "url": "https://open.spotify.com/artist/56T4EzWjDqignFu9eBdKT4"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Ac\u00fastico Altamira #1 - Ubatuba",
-      "url": "https://open.spotify.com/track/0GloNDPAQ9fumcktClASip"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Peda\u00e7o de Mim",
         "url": "https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B"
@@ -1297,7 +1285,7 @@
       "url": "https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Poesia Ac\u00fastica 11: Nada Mudou",
         "url": "https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB"
@@ -1349,7 +1337,7 @@
       "url": "https://open.spotify.com/track/6giaOyDFbE4J8iclhCdW7E"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "At\u00e9 o Final",
         "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
@@ -1377,7 +1365,7 @@
       "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Perdi\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6JJrn3h0bgZ886jTetGLfk"
@@ -1393,7 +1381,7 @@
       "url": "https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Ap\u00ea 1001",
         "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
@@ -1421,7 +1409,7 @@
       "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Pura Ilus\u00e3o",
         "url": "https://open.spotify.com/album/3X9sTASPhchWD2ThIvdyph"
@@ -1445,7 +1433,7 @@
       "url": "https://open.spotify.com/track/79BnBZ90gDoxrORXGU1zOY"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Probleminha Di\u00e1rio (Papasessions #7)",
         "url": "https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8"
@@ -1469,7 +1457,7 @@
       "url": "https://open.spotify.com/track/3fT7cJoa7RqsvNZnEC45EC"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Poesia Ac\u00fastica 10: Recome\u00e7ar",
         "url": "https://open.spotify.com/album/1ct5PtiSQ4UnFMmMqFytUD"
@@ -1521,7 +1509,7 @@
       "url": "https://open.spotify.com/track/4pwFy4YPNGMxK2P2FfQfvt"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Poesia Ac\u00fastica - Paris",
         "url": "https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS"
@@ -1561,7 +1549,7 @@
       "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Mar\u00edlia Mendon\u00e7a",
         "url": "https://open.spotify.com/album/46SOz1ZyHOohm8ADANNKGs"
@@ -1585,7 +1573,7 @@
       "url": "https://open.spotify.com/track/1CBjYXLotHrkiykMbI7EaU"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Imaterial",
         "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
@@ -1605,7 +1593,7 @@
       "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Saturno",
         "url": "https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7"
@@ -1629,7 +1617,7 @@
       "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Berenice (Papasessions #6) [feat. CALIFFA]",
         "url": "https://open.spotify.com/album/1titgMf8Q4XDYVsG705KMU"
@@ -1657,7 +1645,7 @@
       "url": "https://open.spotify.com/track/58TLpLev8A4GFCUizxpF7T"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Gerib\u00e1 (Papasessions #8) [feat. OIK]",
         "url": "https://open.spotify.com/album/7AqekLGMeEV8MnMmpeq7h1"
@@ -1685,7 +1673,7 @@
       "url": "https://open.spotify.com/track/5b8A3MH3e2gD8RFEcNggAs"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/5WDimSewWqftfbYKtKcWiU"
@@ -1709,7 +1697,7 @@
       "url": "https://open.spotify.com/track/4ZREaPhlA5mqZMFTSQBfzw"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "T\u00e3o Real",
         "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
@@ -1733,7 +1721,7 @@
       "url": "https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Pede pra Ficar",
         "url": "https://open.spotify.com/album/2SproejOjeYG5lnBTlU6p8"
@@ -1749,7 +1737,7 @@
       "url": "https://open.spotify.com/track/1wkeJrOp8NiCrze5KrwgXM"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Em Busca do Ouro",
         "url": "https://open.spotify.com/album/4BNePRWNOEe06WESd81Q7T"
@@ -1777,7 +1765,7 @@
       "url": "https://open.spotify.com/track/1nbJ0Nmyx773BiTUSWHVNx"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Maquiny Ac\u00fastico",
         "url": "https://open.spotify.com/album/4IDwf0uZakCgJBzysxAElj"
@@ -1797,7 +1785,7 @@
       "url": "https://open.spotify.com/track/0EyHV5Vv9WiwqgtPJLq4al"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Abre a porta",
         "url": "https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd"
@@ -1813,7 +1801,7 @@
       "url": "https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Pra Praia",
         "url": "https://open.spotify.com/album/08PeUm4CsNrJpVd7hlWFQa"
@@ -1829,7 +1817,7 @@
       "url": "https://open.spotify.com/track/1rYmLgeOQNtSCnCHb9IPnz"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Equa\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
@@ -1849,7 +1837,7 @@
       "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Ac\u00fastico Altamira #8 - Leonina",
         "url": "https://open.spotify.com/album/6hIMQijH2Wz9T5sPDE2gy0"
@@ -1885,7 +1873,7 @@
       "url": "https://open.spotify.com/track/6YMi3tJujGfeXWmA9KRDhC"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Ac\u00fastico Altamira #2 - Aquariana",
         "url": "https://open.spotify.com/album/4v9LPrqx4tKJjmIp6b7DlJ"
@@ -1917,7 +1905,7 @@
       "url": "https://open.spotify.com/track/5kFXehhyjElbMfaOLuHOlH"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Contratei o Tempo",
         "url": "https://open.spotify.com/album/5KTiTNaCP6cZjwxlgMf4v0"
@@ -1941,7 +1929,7 @@
       "url": "https://open.spotify.com/track/1NHafgaylnQjnnEhyJbqdz"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Voc\u00ea N\u00e3o Ama Ningu\u00e9m 2",
         "url": "https://open.spotify.com/album/3kyX8jVxbADyuFAZ6eU26T"
@@ -1973,7 +1961,7 @@
       "url": "https://open.spotify.com/track/1luax01sYxCLiM5uVk0oBj"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "O Final",
         "url": "https://open.spotify.com/album/0biDGaHDnehMqUmZQebN9G"
@@ -1989,7 +1977,7 @@
       "url": "https://open.spotify.com/track/1tqo1Adl9oUzgs4lvalJkU"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2023-12-08 13:28:14",
       "album": {
         "name": "Poesia Ac\u00fastica #8: Amor e Samba",
         "url": "https://open.spotify.com/album/4RywQdWtmYauBzjeUqLTZX"

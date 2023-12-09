@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,629 likes - 350 songs - 1 day 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,641 likes - 350 songs - 1 day 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 | 349 | [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 |
 | 350 | [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 |
 
-Snapshot ID: `MCw0ZWM4MjliZTA2OTIyZDQ3ODVjMTU4YTJiYWU2MGVhZDc4MTIwMTZl`
+Snapshot ID: `MCw2MzgzOTYzMDYyZmJhYWNhNzNkZWZjMDU5OTEwMzZhZjY1ZDRhOTUy`

@@ -2,9 +2,9 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Noah Kahan & Gracie Abrams
+> Discover your favorite new chill pop songs\. Cover: Alexander Stewart
 
-1,541 songs - 3 day 8 hr 56 min
+1,542 songs - 3 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [If The World Ended Tonight \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/0L8uKyQFShC68d3W23Rgyu) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [If The World Ended Tonight \(From The Netflix Film "To All The Boys: Always and Forever"\)](https://open.spotify.com/album/0K8WFKwMeLWl7Je98idoOF) | 3:56 | 2021-02-06 | 2021-03-19 |
 | [If You Lie Down With Me](https://open.spotify.com/track/1RPsOAaHaRu8JlVdeaciuL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:25 | 2021-10-28 | 2022-01-22 |
 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 | 2021-03-14 | 2022-04-02 |
+| [if you only knew](https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:42 | 2023-12-08 |  |
 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 | 2022-10-29 |
 | [ill \(feat\. Kenny Beats\)](https://open.spotify.com/track/1VWY0mwYmKxNaf5EhAGSBA) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [ill \(feat\. Kenny Beats\)](https://open.spotify.com/album/6sCqAWl3ssVzB1mtWXBZAg) | 3:21 | 2022-10-17 | 2022-12-10 |
 | [ilym \(feat\. ROSIE\)](https://open.spotify.com/track/6iT0ZdQcHwzQDNcAC2oDKX) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [ilym \(feat\. ROSIE\)](https://open.spotify.com/album/4GuRdYgybjIWKTD5uPsiqU) | 3:56 | 2021-03-19 | 2022-04-02 |

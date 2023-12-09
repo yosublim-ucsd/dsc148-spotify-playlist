@@ -2,7 +2,7 @@
 
 ### [Génération Rock Français](https://open.spotify.com/playlist/37i9dQZF1DX2xKCIjknUoQ)
 
-> Le meilleur du rock français moderne\. Photo : Matmatah
+> Le meilleur du rock français moderne\. Photo : Skip The Use
 
 52 songs - 3 hr 5 min
 

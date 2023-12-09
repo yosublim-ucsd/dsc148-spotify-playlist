@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,506 likes - 63 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,666 likes - 63 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 62 | [Birthday](https://open.spotify.com/track/4BbZirfjFACHy5GSVjKBM9) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 4:13 |
 | 63 | [Symphonic Suite "Castle in the Sky": The Eternal Tree of Life](https://open.spotify.com/track/4YWsyVPhOMjPIt6qlL06A3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [Symphonic Suite Castle in the Sky](https://open.spotify.com/album/48BlyQmPIQOZZbJq9UkFGJ) | 3:37 |
 
-Snapshot ID: `MCw2YzhlZmRkNzEzMTk2NjczYzNmMjM4ZjU5M2M3Zjg5MTE3ODMyMzRk`
+Snapshot ID: `MCxmZGY5YjQzOGExNjlhOTExZTNhMzM3Y2Y4ODAyNWM5NjQ3NWNhYmMw`

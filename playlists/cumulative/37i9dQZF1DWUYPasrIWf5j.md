@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-141 songs - 8 hr 6 min
+145 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/7vsapg8FI5tIqjS7jRDaAe) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Anti\-Hero](https://open.spotify.com/album/0iE79PyYkLzqXyA3l6AR76) | 3:02 | 2023-10-06 |  |
 | [As It Was](https://open.spotify.com/track/52bisgAFJviSmF2xMgLEzM) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [As It Was](https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI) | 3:01 | 2022-12-01 |  |
 | [Bad Habit](https://open.spotify.com/track/7gRHfXvxtOg6xlEcht8GDI) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Bad Habit](https://open.spotify.com/album/7zYdKWwlhwpzJpmXyTMV7S) | 1:39 | 2023-02-17 | 2023-04-28 |
+| [Best Day Of My Life](https://open.spotify.com/track/0CJpug8mvbYdx4zXinX6OU) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Best Day Of My Life](https://open.spotify.com/album/0M55SP3WdIwld5arjRCM65) | 2:26 | 2023-12-08 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/4CPQ4IMccumGxOA5naSzN8) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Modern Uke Hits](https://open.spotify.com/album/4ZDNJ6Oh8BxYj96RyqgekC) | 3:22 | 2022-05-20 | 2023-04-28 |
 | [Better Together](https://open.spotify.com/track/0dcBlvzx2OmV8MX3EszR8T) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Wake Me Up](https://open.spotify.com/album/5ikYrwEoNOVbEOthJ5WUlo) | 3:33 | 2023-04-27 |  |
 | [Better Together \- Ukulele](https://open.spotify.com/track/4sXHZLU3C4FOr2Pn09jB6r) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/0toLJ6zVJ6nWxbJ0tGB1Hc) | 3:22 | 2023-03-16 | 2023-04-28 |
@@ -58,6 +59,7 @@
 | [Hey, Soul Sister](https://open.spotify.com/track/3gt6ASrvqi8Rsv0Or4adcb) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM) | 4:03 | 2023-03-16 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/3kPyNj8KefD3VbaJtmqWVS) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:03 | 2022-05-20 | 2023-04-13 |
 | [I Ain't Worried](https://open.spotify.com/track/3mdgqNgANH7bLqaFDa1rKG) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Señorita](https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK) | 2:32 | 2022-12-01 |  |
+| [I Got You Babe](https://open.spotify.com/track/6mofZ4UGWUNvccgBTQ9Zgc) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [I Got You Babe](https://open.spotify.com/album/02oFSVAq9OkC8ugRm8i8xI) | 3:07 | 2023-12-08 |  |
 | [I Want It That Way](https://open.spotify.com/track/0QkiEOuLDZguBZDorRna6t) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [True Colors](https://open.spotify.com/album/5C2bi9rLxNWpOI2Tv22GKt) | 3:39 | 2023-03-16 | 2023-04-28 |
 | [I'm Like A Bird](https://open.spotify.com/track/6xWOpaygdUpc556o1GQNM1) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Hey There Delilah](https://open.spotify.com/album/3rMN8ZoPC2D8N2F4CjcHVb) | 3:52 | 2022-05-20 | 2023-04-28 |
 | [I'm Yours](https://open.spotify.com/track/6R5e0W5LUy23G7wEAaCcyJ) | [Dennis Lookman](https://open.spotify.com/artist/6PuM7Jj4nf4b20oyrbBg2h) | [Ukelele Moments](https://open.spotify.com/album/2imt754FShtqbVcAyALgbq) | 4:23 | 2022-05-20 |  |
@@ -65,6 +67,7 @@
 | [In My Life](https://open.spotify.com/track/1LBi1Zjam0zpKVCCbZtPqu) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Tiny Uke Orchestra](https://open.spotify.com/album/5bCq8lFqofxI9qbBhQqUam) | 2:26 | 2022-07-26 | 2023-04-28 |
 | [In My Life](https://open.spotify.com/track/7wv9b0S0n3Y6Jk2iguxhdM) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Tiny Uke Orchestra plays The Beatles](https://open.spotify.com/album/1wyGOzD94QfrjDS6E5c4JU) | 2:26 | 2022-05-20 | 2022-07-29 |
 | [Island In The Sun](https://open.spotify.com/track/0uRq3UbO7llLNzcPkLdIqt) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pumped Up Kicks](https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu) | 3:20 | 2022-08-03 | 2023-04-28 |
+| [Jolene](https://open.spotify.com/track/04pU2FFhRKcNVTAA6mZiSR) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Jolene](https://open.spotify.com/album/7JN5r9ErFDdIWP0Z89B8C3) | 2:51 | 2023-12-08 |  |
 | [Just the Way You Are \(Instrumental Version\)](https://open.spotify.com/track/7I4WwDEIeROWytTUZ5RMGc) | [Instrumental Pop Songs](https://open.spotify.com/artist/7GqJy10VkyFR1oacMiXkZn), [Soft Background Music](https://open.spotify.com/artist/2voHaTmDMF2QFv95m9SLtq) | [Ukulele \- Instrumental Pop Covers](https://open.spotify.com/album/4cBqvfoQMiDqCRED4fG73j) | 3:20 | 2022-05-20 | 2023-06-15 |
 | [Kiss From A Rose](https://open.spotify.com/track/0Md5bAtczAcMF2Wly7OIXU) | [Kalei Gamiao](https://open.spotify.com/artist/4h2zUDNlxj3GOWCg4RdPjs) | [Kalei Gamiao Contemporary Ukulele](https://open.spotify.com/album/6FNnLVDRrXFYn0Z7IghzdQ) | 3:14 | 2022-05-20 | 2023-04-28 |
 | [Knowing Me, Knowing You](https://open.spotify.com/track/0i540Oa6722htaipZglBZm) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Knowing Me, Knowing You](https://open.spotify.com/album/2hG3WDbIHtUvXPWYyKRftN) | 3:51 | 2022-07-26 |  |
@@ -147,6 +150,7 @@
 | [Wonderwall](https://open.spotify.com/track/3xPnYmzD1hTbkOu9omY1mk) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Wonderwall](https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG) | 3:28 | 2022-07-01 | 2023-04-28 |
 | [Wouldn't It Be Nice \- Ukulele Style](https://open.spotify.com/track/3gc4FHv3yl9EJS5QfwS416) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits Vol.2](https://open.spotify.com/album/1GSNJSMlFGGsymzFbppwsB) | 2:14 | 2022-05-20 | 2022-12-02 |
 | [Yellow](https://open.spotify.com/track/5kaYZfHdgfMLAcy7lu8Myi) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Yellow](https://open.spotify.com/album/0Ig64Va8dh4Nt1mIJTAvse) | 4:24 | 2022-07-01 | 2023-04-28 |
+| [You Are My Sunshine](https://open.spotify.com/track/04gUsUY4i2Ub6UISNOOB5h) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [You Are My Sunshine](https://open.spotify.com/album/5V0h41DsGHXiwNiMKSU3d1) | 2:40 | 2023-12-08 |  |
 | [You Proof](https://open.spotify.com/track/275wR3R7C99obZy129fe8B) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [New Light](https://open.spotify.com/album/577vGnTGg3Jd2AN3WAbfBu) | 2:36 | 2022-12-22 |  |
 | [Your Body Is a Wonderland](https://open.spotify.com/track/4sdU8epdytunCp5CcofJ9z) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Ukelele Love Songs](https://open.spotify.com/album/701SRvVz5WHzkBRqjnVGgW) | 4:13 | 2022-05-20 |  |
 

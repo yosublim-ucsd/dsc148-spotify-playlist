@@ -1164,7 +1164,7 @@
     {
       "album": {
         "name": "Eyesight",
-        "url": "https://open.spotify.com/album/2UmCQEJcx57QCwhGoju6bZ"
+        "url": "https://open.spotify.com/album/3EohqBC5Dp0Hj2cXZjuTK7"
       },
       "artists": [
         {
@@ -1179,6 +1179,28 @@
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193790,
+      "name": "Eyesight",
+      "url": "https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA"
+    },
+    {
+      "album": {
+        "name": "Eyesight",
+        "url": "https://open.spotify.com/album/2UmCQEJcx57QCwhGoju6bZ"
+      },
+      "artists": [
+        {
+          "name": "Mats Westbroek",
+          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
+        },
+        {
+          "name": "Damaui",
+          "url": "https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
       "duration_ms": 193790,
       "name": "Eyesight",
       "url": "https://open.spotify.com/track/3cMrgJny9vGJV4IJXV9yF5"

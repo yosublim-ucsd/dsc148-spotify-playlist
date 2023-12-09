@@ -4,7 +4,7 @@
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-156 songs - 11 hr 55 min
+157 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Helsinki Scorchin' \- Edit](https://open.spotify.com/track/1kkjK0Oli5hFEtoGnWeEcP) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC) | [Super8 & Tab Presents: 20 Years Of Anjunabeats](https://open.spotify.com/album/6rdKFS3wdC1qNusoEwju6j) | 3:38 | 2022-12-28 | 2023-03-11 |
 | [Hypnotic \(Binary Finary 2000 Remix\)](https://open.spotify.com/track/1KHNbJJBG6fUV9vCFP9BcR) | [U.K.W.](https://open.spotify.com/artist/5It8yuAnbd32rG1gA46nhs) | [Electric Love](https://open.spotify.com/album/7ug3lXDnZVKFVlJfUiTIPr) | 7:04 | 2022-04-13 | 2022-07-28 |
 | [Insomnia \- Monster Mix](https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Rollo Armstrong](https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4), [Sister Bliss](https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5), [Goetz](https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv) | [Faithless 2.0](https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O) | 8:38 | 2022-04-13 |  |
-| [Insomnia \- Radio Edit](https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:33 | 2023-08-11 |  |
+| [Insomnia \- Radio Edit](https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:33 | 2023-08-11 | 2023-12-09 |
+| [Insomnia \- Radio Edit](https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Headliners](https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N) | 3:35 | 2023-08-11 |  |
 | [Komodo \(Radio Edit\)](https://open.spotify.com/track/3NjmHXAKcpg5e0BseNJtUJ) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Greatest Hits & Remixes](https://open.spotify.com/album/3kzFmML169KngWKdeutrhc) | 3:23 | 2023-08-11 |  |
 | [Linking People](https://open.spotify.com/track/7GDHnh0uFnONkHDDnGkFN7) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Linking People](https://open.spotify.com/album/5YuQtNZ5nWZYykCxXFjiM4) | 8:34 | 2022-04-13 | 2022-07-20 |
 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 | 2023-08-11 |  |

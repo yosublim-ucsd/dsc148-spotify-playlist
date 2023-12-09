@@ -4,7 +4,7 @@
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-118 songs - 6 hr 12 min
+121 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Both Sides Now](https://open.spotify.com/track/1wYZ8W9n7JJEz6alRFDZvz) | [Nilo Almeida](https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF) | [Both Sides Now](https://open.spotify.com/album/3zuVNU7l84bO9LtocuRdHA) | 2:16 | 2023-10-20 |  |
 | [Californication](https://open.spotify.com/track/6KF0ASfUw7mzIIWOmRFI7z) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Viva La Vida](https://open.spotify.com/album/5tU4IeqW5okLOFooZqzAFF) | 3:17 | 2023-09-29 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/5b8ysaeSV1Hs0jo3zoKkr9) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Can't Help Falling In Love](https://open.spotify.com/album/05Fg2jM0E5fmpR2XBY9mwl) | 2:39 | 2023-09-29 |  |
+| [Ceilings](https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Ceilings](https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU) | 3:00 | 2023-12-08 |  |
 | [Changes](https://open.spotify.com/track/1sPIqn1zSzBH6XSRN33L4e) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Changes](https://open.spotify.com/album/3EPmgFC6pA8SYeIRMJWwMJ) | 3:09 | 2023-10-06 |  |
 | [Clocks](https://open.spotify.com/track/2bVMZxVFHsK2DvYNQQzosE) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Clocks](https://open.spotify.com/album/6Z5qampvku5E0MKX3cuGAC) | 2:44 | 2023-09-29 |  |
 | [Dance The Night](https://open.spotify.com/track/7GXvUIgrh8eGCdCbT9jt6O) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Dance The Night](https://open.spotify.com/album/5OaPOolZ6M9k8tWI9XO66K) | 2:50 | 2023-11-17 |  |
@@ -43,6 +44,7 @@
 | [Everytime](https://open.spotify.com/track/6JiJFGJOTJkQRoedadMhN8) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Memories](https://open.spotify.com/album/6mHaTfEd8SfwreuI0Lh9AJ) | 4:05 | 2023-09-29 |  |
 | [Eye to Eye](https://open.spotify.com/track/5tIM8Dt62vUmgtRWdPIojK) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Eye to Eye](https://open.spotify.com/album/6NgcOqej4Qo0xzw9cjNEVU) | 2:26 | 2023-09-29 |  |
 | [Eyes Closed](https://open.spotify.com/track/6EoPNWD4JE1BQZ8VxbYiM8) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Eyes Closed](https://open.spotify.com/album/2r7wVDEXwJbMgTnwtpuIbf) | 3:40 | 2023-11-17 |  |
+| [Fix You](https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Fix You](https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv) | 3:54 | 2023-12-08 |  |
 | [Forever Young \- Piano Version](https://open.spotify.com/track/6X2gdN9y4Y6PmX5hypLpJu) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:46 | 2023-09-29 |  |
 | [Ghost](https://open.spotify.com/track/7DCs0VpiINdXfpz8VgC4sD) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Ghost](https://open.spotify.com/album/7Fq1BHzu1qsdmUsIGMrJU2) | 2:34 | 2023-11-17 |  |
 | [Ghost Again](https://open.spotify.com/track/0dTy1UqD6BblPJtTFXVheS) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Ghosts Again](https://open.spotify.com/album/6xTKawI8bmXF7IN23OQ1ym) | 4:10 | 2023-09-29 |  |
@@ -65,6 +67,7 @@
 | [Just The Way You Are \- Piano Version](https://open.spotify.com/track/6uB5Gj9U1DBGtOTKIUVMT6) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:34 | 2023-09-29 |  |
 | [Lately](https://open.spotify.com/track/2BYCZ7JOAclQkFakFPcNZE) | [Joshua Garland](https://open.spotify.com/artist/4uDakG3Fmg1CdRB1xvby7X) | [Lately](https://open.spotify.com/album/43VYBvlSn0rFHtyN0k7sgt) | 3:13 | 2023-09-29 |  |
 | [Let Her Go](https://open.spotify.com/track/4B3pEmqb4yCdmYnG7IW410) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Let Her Go](https://open.spotify.com/album/41DUvdHFyfNuZU33SS795Z) | 3:17 | 2023-09-29 |  |
+| [Let It Be](https://open.spotify.com/track/7L8zYETEb2WqxOTGO0kgjS) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Let It Be](https://open.spotify.com/album/0vYgrYSmyXIW4Mc3qL1ZGb) | 2:34 | 2023-12-08 |  |
 | [Let me love you](https://open.spotify.com/track/2I7NvGmHkgxrXp3FziqJGj) | [Tindra Rosenlind](https://open.spotify.com/artist/4JpM15j7tnB2O5mBqGo6E4) | [Let me love you](https://open.spotify.com/album/5rHBl1BPlHZsc9BB7DWO0o) | 4:12 | 2023-09-29 |  |
 | [Lift Me Up \- Piano Version](https://open.spotify.com/track/3x8MGNhdm5VUVQD7ynpf8F) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Lift Me Up \(Piano Version\)](https://open.spotify.com/album/3ZbvHn0IRGGEJiH3CJoggk) | 2:28 | 2023-09-29 |  |
 | [Little Talks](https://open.spotify.com/track/64jOt18VnBBYJ9YNTjU28c) | [Tinnie Ramone](https://open.spotify.com/artist/69VAc4NZE3mNUtPVw3GHCA) | [Little Talks](https://open.spotify.com/album/5Cz4oaW0RZpO8ubFfNsG2k) | 2:08 | 2023-09-29 |  |
@@ -80,7 +83,7 @@
 | [Morning Has Broken](https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Morning Has Broken](https://open.spotify.com/album/4VfjuDo8r7kVuyqQPN9fdG) | 2:55 | 2023-09-29 |  |
 | [My Love](https://open.spotify.com/track/6Gxmi0xjKRJ1bMH64a8Z3S) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [My Love](https://open.spotify.com/album/6ogaIuwMfmufA8QopOSD8X) | 3:56 | 2023-09-29 |  |
 | [Nothing Compares to You](https://open.spotify.com/track/1Y1EQY6SvWIelDrbGPoGTO) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Nothing Compares to You](https://open.spotify.com/album/3MKo4eOVqTJeokHlNJ6UMh) | 2:58 | 2023-10-20 |  |
-| [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2023-09-29 |  |
+| [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2023-09-29 | 2023-12-09 |
 | [One Call Away](https://open.spotify.com/track/3stzNtSMb9XSwbeEQVG3Ck) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [One Call Away](https://open.spotify.com/album/51sNNeB6Nq65506cNGEE0m) | 3:28 | 2023-11-17 |  |
 | [Out of Reach](https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Out of Reach](https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD) | 2:37 | 2023-10-06 |  |
 | [Payphone](https://open.spotify.com/track/2UwA54hqWikeB4cnSD9Pje) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Payphone](https://open.spotify.com/album/1UOZ6SGMGW1NWkq9vM3JTt) | 3:24 | 2023-09-29 |  |
@@ -121,7 +124,7 @@
 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 | 2023-09-29 |  |
 | [Wonder Woman](https://open.spotify.com/track/6KO3K2Iu0EHOIbSRibo7M8) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Wonder Woman](https://open.spotify.com/album/17q5zFGbh3XNEtEhOjyIpw) | 3:18 | 2023-09-29 |  |
 | [Yesterday](https://open.spotify.com/track/6xn1NNoi7RcrFK1zzX3YRg) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Yesterday](https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT) | 3:03 | 2023-09-29 |  |
-| [YMCA](https://open.spotify.com/track/5WLMPMlxqaLtfxkPfZXcAI) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [YMCA](https://open.spotify.com/album/6RImlcwKtHJmr3eiBmUQOE) | 2:12 | 2023-10-20 |  |
+| [YMCA](https://open.spotify.com/track/5WLMPMlxqaLtfxkPfZXcAI) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [YMCA](https://open.spotify.com/album/6RImlcwKtHJmr3eiBmUQOE) | 2:12 | 2023-10-20 | 2023-12-09 |
 | [You And I](https://open.spotify.com/track/7suanns4dc723GDVQ1V3MH) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [You And I](https://open.spotify.com/album/1Ayycq9VDkdqrhj4UbQP3D) | 2:52 | 2023-09-29 |  |
 | [You're Gonna Live Forever In Me](https://open.spotify.com/track/6dNzoKTuLLYJ6rrE3gAEam) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [You're Gonna Live Forever In Me](https://open.spotify.com/album/2o7o94d9DTw7e9ZdQeK4Pu) | 2:54 | 2023-09-29 |  |
 | [Your Power](https://open.spotify.com/track/3BYzUvWqRbMqgAFJ0RKOit) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Your Power](https://open.spotify.com/album/43jo9EfovSbhORuO73djg6) | 3:04 | 2023-09-29 |  |

@@ -5302,6 +5302,24 @@
     {
       "album": {
         "name": "Want You To Want Me",
+        "url": "https://open.spotify.com/album/1hX3AjSsrrWoxJQgMXPVpu"
+      },
+      "artists": [
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187814,
+      "name": "Want You To Want Me",
+      "url": "https://open.spotify.com/track/3k1L3RdcNeZaL82al94JpC"
+    },
+    {
+      "album": {
+        "name": "Want You To Want Me",
         "url": "https://open.spotify.com/album/4NHmZ3UJiiK9ppIZeqoQE5"
       },
       "artists": [
@@ -5312,7 +5330,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 187814,
       "name": "Want You To Want Me",
       "url": "https://open.spotify.com/track/5cBHDVijSYGOpgnSx7rBuw"

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-392 songs - 1 day 9 hr 16 min
+393 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Azurblau](https://open.spotify.com/track/5x6sZ6mz23tTf7lCCa7F7A) | [GIGEE](https://open.spotify.com/artist/7mqebOCOql0RKtn1bGUdOd) | [Berlin](https://open.spotify.com/album/58Mt8Tv2EEMupogXTFC9pB) | 6:51 | 2022-12-28 | 2023-01-06 |
 | [Back Up](https://open.spotify.com/track/28tiVC1tvvPwG4jajq63pJ) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Back Up](https://open.spotify.com/album/10yJevvqETfkqxVtKIL2Pd) | 6:11 | 2023-02-27 | 2023-03-04 |
 | [Beograd](https://open.spotify.com/track/2ykSdsea5j5O4w6NescYdK) | [Tonco](https://open.spotify.com/artist/6Mj3FYNYZNcnSZI1yHq3l8) | [Beograd](https://open.spotify.com/album/2XNfXji0VdhNDR6KpLF1Pg) | 3:34 | 2023-09-21 | 2023-11-10 |
+| [Betrayal](https://open.spotify.com/track/6a25inJpWjDP9WwKgO8gFI) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Betrayal](https://open.spotify.com/album/4QTWadvF8SLwDbnwMJ7DSR) | 6:06 | 2023-12-08 |  |
 | [Better Together](https://open.spotify.com/track/0NJRskEVmAdgBXq9LVuHPs) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Watergate 20 Years \(Pt\. 2/8\)](https://open.spotify.com/album/5wnaw4TaaogpSllYqt2Mix) | 3:21 | 2022-11-23 | 2023-03-22 |
 | [Beyond Us \- Hatshepsut Version](https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Beyond Us \(Hatshepsut Version\)](https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9) | 3:54 | 2023-03-10 |  |
 | [Billinghurst \- Original Mix](https://open.spotify.com/track/1kZVDA9y4vL1pVDmmNGKji) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Damon EP](https://open.spotify.com/album/1fHq7k3X3rMsRx0xdRfL9F) | 7:36 | 2022-11-23 | 2023-05-18 |
@@ -386,7 +387,7 @@
 | [Vision](https://open.spotify.com/track/19lFvHpkfrYqRPmMikJkCc) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo) | [Interstellar VA](https://open.spotify.com/album/0zLp1X5Lu6SA5r9Ui9EWuS) | 5:36 | 2023-09-07 | 2023-11-10 |
 | [Visions](https://open.spotify.com/track/5VIq3oZVMJHTweE1UWwnH7) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Visions](https://open.spotify.com/album/1D7pNSIEWuXR9hI0kKHWaZ) | 6:04 | 2023-02-04 | 2023-02-13 |
 | [Voices](https://open.spotify.com/track/6o2SK2MyeOBoqvSA6iAY2a) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS) | [Voices](https://open.spotify.com/album/52gQRKXJIoJbQoA49NzSiL) | 3:03 | 2022-12-09 | 2023-02-08 |
-| [Waiting For Too Long](https://open.spotify.com/track/0VsCw4IqlcJ2GeYnQbV5zx) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Soul On Fire](https://open.spotify.com/album/0hhh9oROZpv3RBWY5FI6W4) | 4:30 | 2022-12-06 |  |
+| [Waiting For Too Long](https://open.spotify.com/track/0VsCw4IqlcJ2GeYnQbV5zx) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Soul On Fire](https://open.spotify.com/album/0hhh9oROZpv3RBWY5FI6W4) | 4:30 | 2022-12-06 | 2023-12-09 |
 | [We Are Built \- Jos & Eli Remix](https://open.spotify.com/track/5WGDvD7AaHa8bBC6FjYR5I) | [AÏA](https://open.spotify.com/artist/7hhj3fsLhjXBlv5fQpR78H), [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [We Are Built \(Jos & Eli Remix\)](https://open.spotify.com/album/5KfqQ27072aHnMVYm5klWC) | 6:39 | 2022-12-28 | 2023-01-06 |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-11-23 | 2022-12-29 |
 | [We've Lost Our Light](https://open.spotify.com/track/1CCGkitAlETDZ1hJMFDAZL) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [We've Lost Our Light](https://open.spotify.com/album/57IQqomUmLnKBx0Dxi10ny) | 6:54 | 2023-11-17 | 2023-12-06 |

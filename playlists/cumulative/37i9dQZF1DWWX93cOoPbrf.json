@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2023. Enigma Norte\u00f1o en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2023. Grupo Clasificado en portada.",
   "name": "Corridos 2023",
   "tracks": [
     {
@@ -96,6 +96,32 @@
       "duration_ms": 211018,
       "name": "2 vidas",
       "url": "https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk"
+    },
+    {
+      "album": {
+        "name": "25 De Diciembre",
+        "url": "https://open.spotify.com/album/3yxcIcJLYb5m6yBdYQVbPk"
+      },
+      "artists": [
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Patria Chica",
+          "url": "https://open.spotify.com/artist/50Zgf95i1BEuFsbdVhoC8p"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157962,
+      "name": "25 De Diciembre",
+      "url": "https://open.spotify.com/track/6E2pxdNAp9Z3x8vJYqkUMb"
     },
     {
       "album": {
@@ -1134,7 +1160,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 174634,
       "name": "ATM",
       "url": "https://open.spotify.com/track/1FQcgLy3FNrlXsMG0b3fmo"
@@ -1196,6 +1222,32 @@
       "duration_ms": 205973,
       "name": "Aventador",
       "url": "https://open.spotify.com/track/2SRCfCdP87iGCMaujggKMY"
+    },
+    {
+      "album": {
+        "name": "Ay mam\u00e1 por dios",
+        "url": "https://open.spotify.com/album/1Vdp87oXiKBfEG6Q8CyVRS"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191103,
+      "name": "Ay mam\u00e1 por dios",
+      "url": "https://open.spotify.com/track/1GYBUOYZaFzrOJTj7vsysI"
     },
     {
       "album": {
@@ -2160,7 +2212,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 217033,
       "name": "Chalineras",
       "url": "https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06"
@@ -2240,7 +2292,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 173205,
       "name": "Chica La Bola",
       "url": "https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ"
@@ -3779,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "El 19 (El Nini)",
+        "url": "https://open.spotify.com/album/4yVA6VsN8AXe35ilDdEFAw"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194402,
+      "name": "El 19 (El Nini)",
+      "url": "https://open.spotify.com/track/7r7GnfHvZ4WW95nuLwT6FD"
+    },
+    {
+      "album": {
         "name": "MS 20 A\u00f1os",
         "url": "https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj"
       },
@@ -3816,6 +3886,24 @@
       "duration_ms": 164615,
       "name": "El 27 o el Perris (En vivo)",
       "url": "https://open.spotify.com/track/0udgZnph5ZoN80iZjAUz39"
+    },
+    {
+      "album": {
+        "name": "El 3 De Durango",
+        "url": "https://open.spotify.com/album/6QZDgOi0yoVUZYW2fu2OQm"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184931,
+      "name": "El 3 De Durango",
+      "url": "https://open.spotify.com/track/1wd2iJgI7wrEibCo9cl83f"
     },
     {
       "album": {
@@ -4288,6 +4376,28 @@
       "duration_ms": 176296,
       "name": "El Cabe (En Vivo)",
       "url": "https://open.spotify.com/track/1A6CTHoF8kNPPmT5uRZqTJ"
+    },
+    {
+      "album": {
+        "name": "El Cabez\u00f3n (El Papas Fritas)",
+        "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149986,
+      "name": "El Cabez\u00f3n (El Papas Fritas)",
+      "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
     },
     {
       "album": {
@@ -6644,10 +6754,32 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 167333,
       "name": "El Morrillo",
       "url": "https://open.spotify.com/track/11ca4YK18NT1OZZKkjgvzV"
+    },
+    {
+      "album": {
+        "name": "El MP",
+        "url": "https://open.spotify.com/album/7BW3imaigDJCcQXicPsKOo"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        },
+        {
+          "name": "Los Juniors de California",
+          "url": "https://open.spotify.com/artist/2LzpZgJG6QEj4DWRo5poNT"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176334,
+      "name": "El MP",
+      "url": "https://open.spotify.com/track/13r5IOgD9osfI6xlzwClPq"
     },
     {
       "album": {
@@ -8147,6 +8279,24 @@
     },
     {
       "album": {
+        "name": "En la Meza una Flor",
+        "url": "https://open.spotify.com/album/0zXKdGgyDm6gSdZiUPgagr"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224277,
+      "name": "En la Meza una Flor",
+      "url": "https://open.spotify.com/track/6HNWy3KVc067j2aLqt3wp3"
+    },
+    {
+      "album": {
         "name": "En La Nube",
         "url": "https://open.spotify.com/album/3Yp5rJMjwdlHTb2AFjgIyZ"
       },
@@ -8836,6 +8986,24 @@
       "duration_ms": 206506,
       "name": "Fuera de Servicio - En Vivo",
       "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
+    },
+    {
+      "album": {
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163359,
+      "name": "Fuga Del Jefe",
+      "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
     },
     {
       "album": {
@@ -9916,7 +10084,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 176163,
       "name": "IZG",
       "url": "https://open.spotify.com/track/0ZffOsrq55iTSBjHfNzsf2"
@@ -10446,7 +10614,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 180368,
       "name": "La Cheyenne con Camper",
       "url": "https://open.spotify.com/track/3ivXbe3k31PtZtjumCDeH9"
@@ -11206,7 +11374,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
@@ -12727,6 +12895,24 @@
     },
     {
       "album": {
+        "name": "Broche De Oro, Vol. 2",
+        "url": "https://open.spotify.com/album/2VNRQcvWyaZY20xKwGEOz0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182298,
+      "name": "Me Di Cuenta",
+      "url": "https://open.spotify.com/track/0xfdBhImqnPN4yh2bT1rr0"
+    },
+    {
+      "album": {
         "name": "Me Dicen El Chavo",
         "url": "https://open.spotify.com/album/2GAQ8DhWnILWXcnbLTny2W"
       },
@@ -13512,7 +13698,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 123013,
       "name": "Nene Zambada",
       "url": "https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg"
@@ -14572,7 +14758,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 187408,
       "name": "Porfirio Diaz",
       "url": "https://open.spotify.com/track/4e69Brl1rtVza6VLv11HEf"
@@ -16525,6 +16711,28 @@
     },
     {
       "album": {
+        "name": "TENDIDO",
+        "url": "https://open.spotify.com/album/46i4abJlERWTOoySWensFT"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164687,
+      "name": "TENDIDO",
+      "url": "https://open.spotify.com/track/6coFuGT9MX2iptViTbMiU1"
+    },
+    {
+      "album": {
         "name": "Tepito Buffa",
         "url": "https://open.spotify.com/album/2DYcln2e3YMNVDpu9OPNlj"
       },
@@ -17010,7 +17218,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-09",
       "duration_ms": 166291,
       "name": "Un Pase",
       "url": "https://open.spotify.com/track/53um7euBFtbt5LC2OfxaXs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLWaBFTNqEL.md) - [plain]
 
 > All the best songs inspired by Street Fighter all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,154 likes - 24 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,200 likes - 24 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLWaBFTNqEL.md) - [plain]
 | 23 | [Street Soldier](https://open.spotify.com/track/23U80fxrD6uiOVfpbNl6kU) | [Paris](https://open.spotify.com/artist/6UPRFx3Gnn5N67opROnwA5) | [Guerrilla Funk \(The Deluxe Edition\)](https://open.spotify.com/album/7LyFlbYjrAVkFHnQRUcCuB) | 4:26 |
 | 24 | [Life As...](https://open.spotify.com/track/04TS4QD1sbFRyh4dUAGrk5) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mr\. Smith](https://open.spotify.com/album/0EtG0ataZEORGDhkNtSWQo) | 2:44 |
 
-Snapshot ID: `MCw5ZTVkZTMxNTdjMjYyMTYzNjI0ZGE4YjE1ZjJiMDI3ZDNiYTUxYjcx`
+Snapshot ID: `MCw4NWJlZjBmOGU1Zjg4NjQ3MDZkNjc1ZWVlYWZlM2MzM2FiMGY0ZGNh`
