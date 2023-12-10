@@ -1439,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "Daddy (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193041,
+      "name": "Daddy (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
+    },
+    {
+      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -1490,7 +1512,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 177569,
       "name": "Dancing With Your Shadows",
       "url": "https://open.spotify.com/track/1gOXJCXmQ7lVDdjxyHqfF4"
@@ -1508,7 +1530,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 233720,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/2h5cjNTM2gKzWc0d6WXhSr"
@@ -1932,7 +1954,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 180000,
       "name": "Driving",
       "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
@@ -3115,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122416,
+      "name": "hurt my feelings",
+      "url": "https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd"
+    },
+    {
+      "album": {
         "name": "Top Gun: Maverick (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz"
       },
@@ -3344,6 +3384,24 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "album": {
+        "name": "I Sent My Therapist To Therapy",
+        "url": "https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "I Sent My Therapist To Therapy",
+      "url": "https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB"
     },
     {
       "album": {
@@ -5539,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143940,
+      "name": "run for the hills",
+      "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
+    },
+    {
+      "album": {
         "name": "RUNAWAY",
         "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
       },
@@ -7442,7 +7518,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/5Oows4h53UGeAvJFyCMseY"

@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
-  "num_followers": 83999,
+  "num_followers": 84068,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmU5ZWY3Mjc1YWI0ZmQzYTlkNjU1NzNkNzI2NTQwZmY4ZDQ0N2Zl",
+  "snapshot_id": "MCxlM2U2ZjNmODEwMTA1OTRiNTBlZTMyNGI5YTM3MzAzZTY2ZGNjYTRk",
   "tracks": [
     {
       "added_at": "2023-12-07 04:12:32",
@@ -671,6 +671,30 @@
     {
       "added_at": "2023-12-07 04:12:32",
       "album": {
+        "name": "TOKYO Cypher",
+        "url": "https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL"
+      },
+      "artists": [
+        {
+          "name": "Lil Wuyn",
+          "url": "https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz"
+        },
+        {
+          "name": "16 BrT",
+          "url": "https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR"
+        },
+        {
+          "name": "16 Typh",
+          "url": "https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "TOKYO Cypher",
+      "url": "https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda"
+    },
+    {
+      "added_at": "2023-12-07 04:12:32",
+      "album": {
         "name": "\u00e1i",
         "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
       },
@@ -735,30 +759,6 @@
     {
       "added_at": "2023-12-07 04:12:32",
       "album": {
-        "name": "TOKYO Cypher",
-        "url": "https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL"
-      },
-      "artists": [
-        {
-          "name": "Lil Wuyn",
-          "url": "https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz"
-        },
-        {
-          "name": "16 BrT",
-          "url": "https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR"
-        },
-        {
-          "name": "16 Typh",
-          "url": "https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "TOKYO Cypher",
-      "url": "https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda"
-    },
-    {
-      "added_at": "2023-12-07 04:12:32",
-      "album": {
         "name": "Okeokeoke",
         "url": "https://open.spotify.com/album/6jz6E152RTO3RfyjmdpAri"
       },
@@ -811,26 +811,18 @@
     {
       "added_at": "2023-12-07 04:12:32",
       "album": {
-        "name": "Rapitalove",
-        "url": "https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E"
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
       },
       "artists": [
         {
-          "name": "Rapital",
-          "url": "https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df"
-        },
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "RPT PhongKhin",
-          "url": "https://open.spotify.com/artist/2TmAAcsAhUVnRNtf3Jm0uc"
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Tay To",
-      "url": "https://open.spotify.com/track/41aMYNen9G7uUbqLfV65cF"
+      "duration_ms": 147475,
+      "name": "ng\u01b0\u1eddi \u0111i\u00ean",
+      "url": "https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk"
     },
     {
       "added_at": "2023-12-07 04:12:32",
@@ -859,22 +851,26 @@
     {
       "added_at": "2023-12-07 04:12:32",
       "album": {
-        "name": "N\u1ea5u \u0103n cho em",
-        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
+        "name": "Rapitalove",
+        "url": "https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E"
       },
       "artists": [
         {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+          "name": "Rapital",
+          "url": "https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df"
         },
         {
-          "name": "PiaLinh",
-          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "RPT PhongKhin",
+          "url": "https://open.spotify.com/artist/2TmAAcsAhUVnRNtf3Jm0uc"
         }
       ],
-      "duration_ms": 241340,
-      "name": "N\u1ea5u \u0103n cho em",
-      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
+      "duration_ms": 165000,
+      "name": "Tay To",
+      "url": "https://open.spotify.com/track/41aMYNen9G7uUbqLfV65cF"
     },
     {
       "added_at": "2023-12-07 04:12:32",
@@ -895,38 +891,6 @@
     {
       "added_at": "2023-12-07 04:12:32",
       "album": {
-        "name": "\u00e1i",
-        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
-      },
-      "artists": [
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 147475,
-      "name": "ng\u01b0\u1eddi \u0111i\u00ean",
-      "url": "https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk"
-    },
-    {
-      "added_at": "2023-12-07 04:12:32",
-      "album": {
-        "name": "Blue Tequila",
-        "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
-      },
-      "artists": [
-        {
-          "name": "T\u00e1o",
-          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "Blue Tequila",
-      "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
-    },
-    {
-      "added_at": "2023-12-07 04:12:32",
-      "album": {
         "name": "Cho T\u00f4i Lang Thang",
         "url": "https://open.spotify.com/album/4CpoMF5isZ7CFM6o3iyb3V"
       },
@@ -943,6 +907,42 @@
       "duration_ms": 258784,
       "name": "Cho T\u00f4i Lang Thang",
       "url": "https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh"
+    },
+    {
+      "added_at": "2023-12-07 04:12:32",
+      "album": {
+        "name": "B\u00e0i N\u00e0y Chill Ph\u1ebft",
+        "url": "https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn"
+      },
+      "artists": [
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "MIN",
+          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "B\u00e0i N\u00e0y Chill Ph\u1ebft",
+      "url": "https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9"
+    },
+    {
+      "added_at": "2023-12-07 04:12:32",
+      "album": {
+        "name": "Blue Tequila",
+        "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1o",
+          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "Blue Tequila",
+      "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
     },
     {
       "added_at": "2023-12-07 04:12:32",

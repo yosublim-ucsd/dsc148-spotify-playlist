@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 170895,
+  "num_followers": 170994,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmQ3MGViOThhMmRjNWYyZjY1YTNhODUyNjZlNDlmNDFmZDU3YTc2",
+  "snapshot_id": "MCxiYmExZTEyZmYxNWE2NGU5M2Q5OTE4NWU4NzA4YWY0NTQ2MzljMmNm",
   "tracks": [
     {
       "added_at": "2023-11-10 01:13:32",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
-      "added_at": "2023-01-04 00:57:30",
-      "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 362428,
-      "name": "American Coffee",
-      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Universe Is Always Right",
@@ -699,6 +683,22 @@
       "duration_ms": 301153,
       "name": "The Revolution of Super Visions",
       "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
+    },
+    {
+      "added_at": "2023-01-04 00:57:30",
+      "album": {
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 362428,
+      "name": "American Coffee",
+      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
       "added_at": "2023-08-15 18:36:31",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
-      "added_at": "2023-08-08 03:45:10",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
-    },
-    {
       "added_at": "2023-03-23 20:08:51",
       "album": {
         "name": "Ready To Ball",
@@ -825,20 +809,20 @@
       "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
     },
     {
-      "added_at": "2022-10-05 14:12:30",
+      "added_at": "2023-08-08 03:45:10",
       "album": {
-        "name": "All Through The Day",
-        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
       },
       "artists": [
         {
-          "name": "Las Los",
-          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 182926,
-      "name": "All Through The Day",
-      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
+      "duration_ms": 197500,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
       "added_at": "2023-06-07 04:10:00",
@@ -855,6 +839,22 @@
       "duration_ms": 300866,
       "name": "Dividual Individual",
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+    },
+    {
+      "added_at": "2022-10-05 14:12:30",
+      "album": {
+        "name": "All Through The Day",
+        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
+      },
+      "artists": [
+        {
+          "name": "Las Los",
+          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "All Through The Day",
+      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "Inner Song",
@@ -959,6 +943,22 @@
       "duration_ms": 447453,
       "name": "Corner Of My Sky",
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2022-08-31 05:00:32",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
     },
     {
-      "added_at": "2023-06-02 00:24:20",
-      "album": {
-        "name": "Open the Gates",
-        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
-      },
-      "artists": [
-        {
-          "name": "Irreversible Entanglements",
-          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Open the Gates",
-      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
-    },
-    {
       "added_at": "2023-03-31 19:12:14",
       "album": {
         "name": "Follow the Cyborg",
@@ -1179,6 +1163,22 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
+    },
+    {
+      "added_at": "2023-06-02 00:24:20",
+      "album": {
+        "name": "Open the Gates",
+        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
+      },
+      "artists": [
+        {
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Open the Gates",
+      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
       "added_at": "2022-11-17 22:51:20",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Jacqueline",
-        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
-      },
-      "artists": [
-        {
-          "name": "Jackie Lynn",
-          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
-        }
-      ],
-      "duration_ms": 324022,
-      "name": "Dream St.",
-      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "High January",
         "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 235093,
       "name": "Rivers That You Cannot See",
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Jacqueline",
+        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
+      },
+      "artists": [
+        {
+          "name": "Jackie Lynn",
+          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
+        }
+      ],
+      "duration_ms": 324022,
+      "name": "Dream St.",
+      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
       "added_at": "2022-01-21 20:15:30",
@@ -1457,26 +1457,6 @@
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
-        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
-      },
-      "artists": [
-        {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
-      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
-    },
-    {
       "added_at": "2022-08-19 01:53:48",
       "album": {
         "name": "artclubdiscotheque",
@@ -1495,6 +1475,26 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
+        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
+      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
     },
     {
-      "added_at": "2022-04-20 13:58:09",
-      "album": {
-        "name": "Las Olas Contra Todos",
-        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
-      },
-      "artists": [
-        {
-          "name": "La Villana",
-          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
-        }
-      ],
-      "duration_ms": 165113,
-      "name": "Las Olas Contra Todos",
-      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
-    },
-    {
       "added_at": "2023-03-24 15:38:14",
       "album": {
         "name": "A Time To Blossom",
@@ -1575,6 +1559,22 @@
       "duration_ms": 438106,
       "name": "A Time To Blossom",
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
+    },
+    {
+      "added_at": "2022-04-20 13:58:09",
+      "album": {
+        "name": "Las Olas Contra Todos",
+        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
+      },
+      "artists": [
+        {
+          "name": "La Villana",
+          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
+        }
+      ],
+      "duration_ms": 165113,
+      "name": "Las Olas Contra Todos",
+      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
       "added_at": "2021-10-15 03:46:13",

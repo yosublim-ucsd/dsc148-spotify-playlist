@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 294579,
+  "num_followers": 294664,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmE3Y2VlOWMwMWFmNDgwYzZmMTMyMDY1ZGFlYTkxMGY0Mjk4YWE2",
+  "snapshot_id": "MCw3NmMxOWFkMDg0ZGI0NWE1YTQwNmEzN2U3NDNjMzMyM2EzYTA3MjAx",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -232,22 +232,6 @@
       "added_at": "2023-10-20 03:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 183052,
-      "name": "Stand by Me - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
       "artists": [
@@ -259,6 +243,22 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 183052,
+      "name": "Stand by Me - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Dookie (30th Anniversary 4-Track Demos)",
-        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
         }
       ],
-      "duration_ms": 187970,
-      "name": "Basket Case - 4-track demo",
-      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+        "name": "Dookie (30th Anniversary 4-Track Demos)",
+        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
       },
       "artists": [
         {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+      "duration_ms": 187970,
+      "name": "Basket Case - 4-track demo",
+      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 261977,
-      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "CPM 22 - Ac\u00fastico",
         "url": "https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 176973,
       "name": "Regina Let's Go - Live",
       "url": "https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
     },
     {
       "added_at": "2023-10-20 03:01:00",

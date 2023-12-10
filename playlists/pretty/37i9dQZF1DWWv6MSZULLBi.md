@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Loving
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,726 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,757 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Human](https://open.spotify.com/track/1OlYy9FWeaXAQHwU6CBKpk) | [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Human](https://open.spotify.com/album/6hwvM9utzQaeFWzj3Mpu6d) | 3:49 |
 | 100 | [Beauty](https://open.spotify.com/track/3sDBhZNDrb9ngsOJRRDlkN) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Beauty](https://open.spotify.com/album/4RrkquiwoaXbAm4YXXzHSG) | 3:25 |
 
-Snapshot ID: `MCw4OGRlYWI1ZWI1MjhjNzA3MWU1NjNmYzllNGNmNDY5NWYxNThmZmJi`
+Snapshot ID: `MCw2Yzc3MDQzNjgyOTU3MGEzYjM5MmE4M2MxYWRkNjhjMWI1ZGZhZDky`

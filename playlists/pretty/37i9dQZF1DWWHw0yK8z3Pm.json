@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Zach Bryan",
-  "num_followers": 58637,
+  "num_followers": 58695,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTRhNTExNWMyNjAwYjJjMzFlYTMyYzM0OGMxNWMwYzM2OWNkMDNl",
+  "snapshot_id": "MCwwNTBmNWQ1YjUwNmJhNGYwYjFhYTI0NTM5Y2FhOGVmNmU0MjI1MjE2",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 170915,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Down Rounder",
         "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "A Heart of Gold Is Hard to Find",
-        "url": "https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM"
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj"
       },
       "artists": [
         {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 140808,
-      "name": "A Heart of Gold Is Hard to Find",
-      "url": "https://open.spotify.com/track/5E6pYKegSu23icZLcIRCok"
+      "duration_ms": 170915,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "A Heart of Gold Is Hard to Find",
+        "url": "https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 140808,
+      "name": "A Heart of Gold Is Hard to Find",
+      "url": "https://open.spotify.com/track/5E6pYKegSu23icZLcIRCok"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Weathervanes",
         "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
       },
@@ -1107,38 +1107,6 @@
       "duration_ms": 374834,
       "name": "This Ain't It",
       "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "BOOTCUT",
-        "url": "https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 168645,
-      "name": "Into The Unknown",
-      "url": "https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Among Other Things",
-        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 288402,
-      "name": "Rhododendron",
-      "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1159,6 +1127,38 @@
       "duration_ms": 203480,
       "name": "South Dakota Wild One",
       "url": "https://open.spotify.com/track/0YMrA32lkcYj5g89bfyMLb"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Among Other Things",
+        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 288402,
+      "name": "Rhododendron",
+      "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "BOOTCUT",
+        "url": "https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 168645,
+      "name": "Into The Unknown",
+      "url": "https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Hey Moon (A Campfire Song)",
-        "url": "https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj"
-      },
-      "artists": [
-        {
-          "name": "Joel Plaskett",
-          "url": "https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC"
-        }
-      ],
-      "duration_ms": 290733,
-      "name": "Hey Moon (A Campfire Song)",
-      "url": "https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Strays",
         "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 243586,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Hey Moon (A Campfire Song)",
+        "url": "https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj"
+      },
+      "artists": [
+        {
+          "name": "Joel Plaskett",
+          "url": "https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC"
+        }
+      ],
+      "duration_ms": 290733,
+      "name": "Hey Moon (A Campfire Song)",
+      "url": "https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd"
     },
     {
       "added_at": "2023-12-08 05:00:00",

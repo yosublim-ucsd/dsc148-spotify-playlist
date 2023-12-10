@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 130666,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 152054,
       "name": "Black Owned Business",
       "url": "https://open.spotify.com/track/4iTIRjE9FhxIQMWIe1U946"
@@ -8504,7 +8504,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 164307,
       "name": "Falling soldier",
       "url": "https://open.spotify.com/track/2nGa91KtEBNmP8TiL7tdl9"
@@ -8576,7 +8576,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 158507,
       "name": "Farv\u00e4l",
       "url": "https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc"
@@ -9186,6 +9186,24 @@
       "duration_ms": 159375,
       "name": "Flyg Fula Fluga Flyg",
       "url": "https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP"
+    },
+    {
+      "album": {
+        "name": "Flyga som en ripa - Fr\u00e5n \"Ett sista race\"",
+        "url": "https://open.spotify.com/album/4ovIqEvwkUfmrPOccMvv3h"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Flyga som en ripa - Fr\u00e5n \"Ett sista race\"",
+      "url": "https://open.spotify.com/track/6D4PtjpCPd7cvNz5uXoD34"
     },
     {
       "album": {
@@ -10594,7 +10612,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 154043,
       "name": "Go",
       "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
@@ -14868,7 +14886,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 168280,
       "name": "Juligen",
       "url": "https://open.spotify.com/track/1MMeScdLmniNyO4WMuoIxb"
@@ -15068,7 +15086,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"

@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10247,
+  "num_followers": 10252,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2Q3NGEwYWI4NzFmMTJkZTFlMTBlNzE0MWFmZmUzMDY3YzNhMzE4",
+  "snapshot_id": "MCwzYzQ5Njc4ZGE3OGZhMzJhMjU5ODdhZjMxMmJmODY5MGQ4NzM1ZDdk",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Progress Riddim",
+        "url": "https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "duration_ms": 210806,
+      "name": "Up Top Boss",
+      "url": "https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "The Art of Flex",
         "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 183875,
       "name": "Issa Snack",
       "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Progress Riddim",
-        "url": "https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        }
-      ],
-      "duration_ms": 210806,
-      "name": "Up Top Boss",
-      "url": "https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Drue",
-          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Baby Bells Riddim",
         "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 227356,
       "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
       "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Stink Behavior",
-        "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
-      },
-      "artists": [
-        {
-          "name": "Teddy Rhymez",
-          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Stink Behavior",
-      "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bus a Wine",
         "url": "https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 183050,
       "name": "Bus a Wine",
       "url": "https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Stink Behavior",
+        "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
+      },
+      "artists": [
+        {
+          "name": "Teddy Rhymez",
+          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Stink Behavior",
+      "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
     },
     {
       "added_at": "2022-02-24 18:00:00",

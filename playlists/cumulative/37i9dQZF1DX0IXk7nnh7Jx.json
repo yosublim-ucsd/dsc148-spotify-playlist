@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 181583,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/1D6A1gOwZaf5rZmV3XtmUL"
@@ -6492,6 +6492,24 @@
       "duration_ms": 199384,
       "name": "Safe",
       "url": "https://open.spotify.com/track/5ODnTtYMnow1nV6WIdS87j"
+    },
+    {
+      "album": {
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190295,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/1mkANYnNwWgdBhC81QQdZz"
     },
     {
       "album": {

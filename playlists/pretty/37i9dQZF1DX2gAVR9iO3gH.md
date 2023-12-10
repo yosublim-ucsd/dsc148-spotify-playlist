@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó, featuring Elana Rose, Danny Ocean & Jerry Di.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,127 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,136 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 30 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 |
 | 31 | [MERCEDES CAROTA](https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:22 |
 | 32 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
-| 33 | [LA BABY](https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LA BABY](https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW) | 3:02 |
-| 34 | [Pa los Haters](https://open.spotify.com/track/1FXlw0JZi26dwrNbarVlv1) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Pa los Haters](https://open.spotify.com/album/4sI1VJtoGuDcNNEVp2t0Gg) | 3:10 |
+| 33 | [Pa los Haters](https://open.spotify.com/track/1FXlw0JZi26dwrNbarVlv1) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Pa los Haters](https://open.spotify.com/album/4sI1VJtoGuDcNNEVp2t0Gg) | 3:10 |
+| 34 | [LA BABY](https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LA BABY](https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW) | 3:02 |
 | 35 | [FERXXO 151](https://open.spotify.com/track/2Cl4HCBmPddQNZEncdoXp0) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:15 |
 | 36 | [La Manzana](https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Manzana](https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s) | 3:16 |
 | 37 | [Feliz](https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Feliz](https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 49 | [Suave](https://open.spotify.com/track/6EqOfeXVyKmLB8X0Nrw9QM) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suave](https://open.spotify.com/album/50NeQMTAGlQdr4phGNhFRJ) | 2:15 |
 | 50 | [ACHO PR](https://open.spotify.com/track/1C7lXfx4Y5maVl4AgUVlHA) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 5:59 |
 
-Snapshot ID: `MCxmZGI0ZDRhZGVkOTc3YTVjMGE5OTM1ODkyMWUwMWFhNDliOTIyZmU4`
+Snapshot ID: `MCxjMjI5MmQwYWFjODgzMDM5NDYxZjQ3YzRkMGNjMTA1Njc0MmMzODA5`

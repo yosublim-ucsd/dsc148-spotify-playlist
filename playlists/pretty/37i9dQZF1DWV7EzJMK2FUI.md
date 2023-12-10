@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332,940 likes - 743 songs - 1 day 19 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,644 likes - 743 songs - 1 day 19 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 32 | [Walking talking fields](https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Walking talking fields](https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr) | 3:54 |
 | 33 | [Hidden Harmonies](https://open.spotify.com/track/2MYuzF9LpfzpQPIIt28unv) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Hidden Harmonies](https://open.spotify.com/album/2jIBxZzaQt8mlP9QVZQosN) | 3:19 |
 | 34 | [Would You Be So Kind](https://open.spotify.com/track/5rdkWQtSU6UT2Fg6MuwsNa) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [Would You Be So Kind](https://open.spotify.com/album/7KkBDxCXqxEOkpFi4WaXtX) | 4:05 |
-| 35 | [When You're Not Around Med](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 |
+| 35 | [When You're Not Around Me](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 |
 | 36 | [Traveling Day](https://open.spotify.com/track/527VRJrXGblLbAHcHSdAr6) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Traveling Day](https://open.spotify.com/album/51eqBfg9k9GAh40Rq12vHH) | 5:41 |
 | 37 | [Cloudy Days](https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Cloudy Days](https://open.spotify.com/album/542dNOx7fG1JsFFiEZaW2j) | 4:36 |
 | 38 | [Later And Later](https://open.spotify.com/track/2odZfZZd36vPy5nfuaLCmw) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Later And Later](https://open.spotify.com/album/1jfvvjvxU4HCh2UCTAt7i8) | 6:48 |
@@ -752,4 +752,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 742 | [My Mistake](https://open.spotify.com/track/4CZOjvslnn4eNkcQC0Ubvw) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:57 |
 | 743 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 |
 
-Snapshot ID: `MCxkNmRhNjE0YzljY2VkNGVjYzU0MzU2NzhhYjVlMTlkMDY0MTViMTZh`
+Snapshot ID: `MCxkZWY1OTJhMjYwZGVjYTRlMjA5YzcxMzAzNzExYzQzMTcwYWU2ZWE4`

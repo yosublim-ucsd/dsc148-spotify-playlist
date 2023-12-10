@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2R0a3scWaq6.md) - [plain]
 
 > Los grandes hits y los sonidos emergentes de la música electrónica latina están aquí\. Foto: Dezko
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,106 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,090 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2R0a3scWaq6.md) - [plain]
 | 60 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 |
 | 61 | [Bailame](https://open.spotify.com/track/7omD0weGgQdnJ56hgvBacG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [BESKO DEEJAYS](https://open.spotify.com/artist/4agBzHY8Dx7XsUeZxtSpzP), [Yexenia](https://open.spotify.com/artist/2Vi39DnBYR2mhriXctjGkK) | [Bailame](https://open.spotify.com/album/7reELDsMhzX80cJants71P) | 2:50 |
 | 62 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 |
-| 63 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 |
+| 63 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 |
 | 64 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 |
 | 65 | [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 |
 | 66 | [I FEEL LIKE DANCING](https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [I FEEL LIKE DANCING](https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi) | 3:45 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2R0a3scWaq6.md) - [plain]
 | 84 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 |
 | 85 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 |
 
-Snapshot ID: `MCxjMjU5NmQzMzdjN2IwYTliMTg0M2IxMGJmNTZlZmE5ZjRjNmViZmEx`
+Snapshot ID: `MCw4ODQ3MmViOWQyN2IzNGI4ZTM0NWE2YzE5ZDUyMjk1OTI0ZTUxMjIz`

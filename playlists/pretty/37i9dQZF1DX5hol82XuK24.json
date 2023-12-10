@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 421030,
+  "num_followers": 421133,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YThmMzk4NzhiMmM3MGFjN2Y1NzUyNmJhNzYwYWRlMTkyOTczOTY0",
+  "snapshot_id": "MCxhNDQ4NzNiNTc0NGY3MzliNDkzOTBmODVkNTY4NDVjNzA5YTNjZDA0",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Tusk (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 283013,
-      "name": "Sisters of the Moon - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 200000,
       "name": "I'm Always Here",
       "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Tusk (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 283013,
+      "name": "Sisters of the Moon - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 174173,
-      "name": "Anyone's Ghost",
-      "url": "https://open.spotify.com/track/6NrjC9PUZo2do7aLhkf373"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Eye On The Bat",
         "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 144404,
       "name": "My Evil",
       "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "Anyone's Ghost",
+      "url": "https://open.spotify.com/track/6NrjC9PUZo2do7aLhkf373"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/2E708oixNbIE32J644UTEj"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Dancing with Ghosts",
         "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 299400,
       "name": "Dancing with Ghosts",
       "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/2E708oixNbIE32J644UTEj"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "A Different Arrangement",
-        "url": "https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG"
-      },
-      "artists": [
-        {
-          "name": "Black Marble",
-          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
-        }
-      ],
-      "duration_ms": 224180,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/4wo2FC3qqvi1gDKJZg4Boc"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 264746,
       "name": "L'Inconnue",
       "url": "https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "A Different Arrangement",
+        "url": "https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG"
+      },
+      "artists": [
+        {
+          "name": "Black Marble",
+          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
+        }
+      ],
+      "duration_ms": 224180,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/4wo2FC3qqvi1gDKJZg4Boc"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Take Me Down (Nourished by Time Version)",
-        "url": "https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr"
+        "name": "The Waves Pt. 1",
+        "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
       },
       "artists": [
         {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+          "name": "Kele",
+          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
         }
       ],
-      "duration_ms": 243387,
-      "name": "Take Me Down - Nourished by Time Version",
-      "url": "https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m"
+      "duration_ms": 262040,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "The Waves Pt. 1",
-        "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
+        "name": "Take Me Down (Nourished by Time Version)",
+        "url": "https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr"
       },
       "artists": [
         {
-          "name": "Kele",
-          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 262040,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
+      "duration_ms": 243387,
+      "name": "Take Me Down - Nourished by Time Version",
+      "url": "https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Double Negative",
-        "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 382674,
-      "name": "Dancing and Blood",
-      "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Flying Wig",
         "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 268659,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Double Negative",
+        "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 382674,
+      "name": "Dancing and Blood",
+      "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Miracle of Life",
+        "url": "https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 216584,
+      "name": "Miracle of Life",
+      "url": "https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Fire Leap",
         "url": "https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 171098,
       "name": "Fire Leap",
       "url": "https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Miracle of Life",
-        "url": "https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 216584,
-      "name": "Miracle of Life",
-      "url": "https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Brkn",
-        "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
-      },
-      "artists": [
-        {
-          "name": "VOID",
-          "url": "https://open.spotify.com/artist/5m7jKBcJl9VAPoejUW48gc"
-        }
-      ],
-      "duration_ms": 179805,
-      "name": "Brkn",
-      "url": "https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "I Stood Bleeding",
         "url": "https://open.spotify.com/album/02ysyopK7YANMs08B9KRrQ"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 250125,
       "name": "I Stood Bleeding",
       "url": "https://open.spotify.com/track/7iwRXTRE81MwsiORhGYVlH"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Brkn",
+        "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
+      },
+      "artists": [
+        {
+          "name": "VOID",
+          "url": "https://open.spotify.com/artist/5m7jKBcJl9VAPoejUW48gc"
+        }
+      ],
+      "duration_ms": 179805,
+      "name": "Brkn",
+      "url": "https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Used To It",
-        "url": "https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR"
-      },
-      "artists": [
-        {
-          "name": "Ethan P. Flynn",
-          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
-        }
-      ],
-      "duration_ms": 182002,
-      "name": "Used To It",
-      "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "They Moved In Shadow All Together",
         "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 279000,
       "name": "Nightmares on Repeat",
       "url": "https://open.spotify.com/track/5j86pOXbQwoJUmTJj3xiUc"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Used To It",
+        "url": "https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR"
+      },
+      "artists": [
+        {
+          "name": "Ethan P. Flynn",
+          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
+        }
+      ],
+      "duration_ms": 182002,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
     },
     {
       "added_at": "2023-11-03 23:08:22",

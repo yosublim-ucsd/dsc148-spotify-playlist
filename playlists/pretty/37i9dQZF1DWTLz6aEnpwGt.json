@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 46025,
+  "num_followers": 46070,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDZkODRhOWM5MTcyYjM0NDNkNDE3OGRhODRiYTlkNWNkMmMyNmVl",
+  "snapshot_id": "MCxkZDg5ZTk0MzVhYzE5ZTg0M2ViYjM4Mjc4ZmIyMjdmNmMyODdlODA3",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -175,8 +175,8 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
+        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
       },
       "artists": [
         {
@@ -184,13 +184,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
         }
       ],
-      "duration_ms": 110773,
-      "name": "Goldberg Variations, BWV 988: Var. 1",
-      "url": "https://open.spotify.com/track/78sZ6qdT6HFK2NZPSoClLa"
+      "duration_ms": 108626,
+      "name": "3-Part Inventions (Sinfonias), BWV 787\u2013801: Sinfonia No. 6 in E Major, BWV 792",
+      "url": "https://open.spotify.com/track/43lPvNKR0TTffhawRDZMpS"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -223,8 +223,8 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
-        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
       },
       "artists": [
         {
@@ -232,13 +232,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
         }
       ],
-      "duration_ms": 108626,
-      "name": "3-Part Inventions (Sinfonias), BWV 787\u2013801: Sinfonia No. 6 in E Major, BWV 792",
-      "url": "https://open.spotify.com/track/43lPvNKR0TTffhawRDZMpS"
+      "duration_ms": 110773,
+      "name": "Goldberg Variations, BWV 988: Var. 1",
+      "url": "https://open.spotify.com/track/78sZ6qdT6HFK2NZPSoClLa"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -303,26 +303,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
-        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 77093,
-      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
-      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach",
         "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 453880,
       "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 1. [No Tempo Indication]",
       "url": "https://open.spotify.com/track/6XRjvKXktFulH9foC7teqH"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
+        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 77093,
+      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
+      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -503,26 +503,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
-        "url": "https://open.spotify.com/album/2eCYStBziLfnCLBXu79MWw"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Janos Sebestyen",
-          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
-        }
-      ],
-      "duration_ms": 50306,
-      "name": "Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Minuet in D Minor, BWV Anh. II 132",
-      "url": "https://open.spotify.com/track/483bj6UuRHHGPhhhVVtrOE"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: Keyboard Partitas Nos. 1-6",
         "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 679453,
       "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
       "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
+        "url": "https://open.spotify.com/album/2eCYStBziLfnCLBXu79MWw"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        }
+      ],
+      "duration_ms": 50306,
+      "name": "Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Minuet in D Minor, BWV Anh. II 132",
+      "url": "https://open.spotify.com/track/483bj6UuRHHGPhhhVVtrOE"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
-        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 102760,
-      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach, J.S.: French Suites Nos. 1-2 / Italian Concerto / Chromatic Fantasia and Fugue",
         "url": "https://open.spotify.com/album/3WHDztwanWiA1DvORNNBx6"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 67573,
       "name": "Preambulum In C Major, BWV 924",
       "url": "https://open.spotify.com/track/0BELP51MLTMyd3ip7Nbo6K"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
+        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 102760,
+      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
     },
     {
       "added_at": "2022-08-19 10:45:11",

@@ -2089,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "Late December",
+        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
+      },
+      "artists": [
+        {
+          "name": "Mathias Gundhus",
+          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179545,
+      "name": "Late December",
+      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
+    },
+    {
+      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 218571,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/1lc210kcOJxk4zuxNxkfrh"

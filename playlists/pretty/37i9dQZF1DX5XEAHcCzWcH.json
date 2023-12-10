@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 31044,
+  "num_followers": 31083,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTVmN2Q1NzhhNGJiOTQyNjFjMDI2YmNhNjY5YzZkN2Y2NjVjZjVk",
+  "snapshot_id": "MCwyODg3YzBkMTVlMTIxOWYzZDIwYjUzNWJhMTI3OGM0YzRhODY1MGJm",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Presumed Innocent",
-        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
-      },
-      "artists": [
-        {
-          "name": "Marcia Ball",
-          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "Louella",
-      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Johnnie B. Bad",
         "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 294133,
       "name": "Tanqueray",
       "url": "https://open.spotify.com/track/7eGAVjUPCA6sQ0vR3xenwf"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Presumed Innocent",
+        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
+      },
+      "artists": [
+        {
+          "name": "Marcia Ball",
+          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "Louella",
+      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Sweet Giant of the Blues",
+        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 266253,
+      "name": "Moon Blues",
+      "url": "https://open.spotify.com/track/5WZhJc7JFZFxflEjxitzwy"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 288240,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Sweet Giant of the Blues",
-        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 266253,
-      "name": "Moon Blues",
-      "url": "https://open.spotify.com/track/5WZhJc7JFZFxflEjxitzwy"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "If I Hadn't Been High",
+      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 236733,
       "name": "Lovesick Soul",
       "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "X-Temporaneous Boogie",
-        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
-      },
-      "artists": [
-        {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
-        }
-      ],
-      "duration_ms": 139133,
-      "name": "Fluff Boogie",
-      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+        "name": "X-Temporaneous Boogie",
+        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
       },
       "artists": [
         {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
         }
       ],
-      "duration_ms": 246266,
-      "name": "If I Hadn't Been High",
-      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
+      "duration_ms": 139133,
+      "name": "Fluff Boogie",
+      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Down In Mississippi",
-        "url": "https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH"
-      },
-      "artists": [
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Biggest Thing Since Colossus",
         "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Down In Mississippi",
+        "url": "https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH"
+      },
+      "artists": [
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "I Didn't Give a Damn If Whites Bought It, Vol. 4",
         "url": "https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 255506,
       "name": "Everytime I Get to Drinking",
       "url": "https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The King of Chicago Blues Piano",
-        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
-      },
-      "artists": [
-        {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Things Have Changed",
-      "url": "https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "I've Got News For You",
         "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "New Orleans Piano Professor",
-        "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
+        "name": "The King of Chicago Blues Piano",
+        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
       },
       "artists": [
         {
-          "name": "Tuts Washington",
-          "url": "https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI"
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Honky Tonk",
-      "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
+      "duration_ms": 180026,
+      "name": "Things Have Changed",
+      "url": "https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -735,6 +719,22 @@
       "duration_ms": 231632,
       "name": "Tipitina",
       "url": "https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "New Orleans Piano Professor",
+        "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
+      },
+      "artists": [
+        {
+          "name": "Tuts Washington",
+          "url": "https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Honky Tonk",
+      "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "The Honeydripper",
+        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Pocketful Of Money",
+      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "From North Dallas to the East Side",
         "url": "https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 185933,
       "name": "Some Nerve",
       "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "The Honeydripper",
-        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Pocketful Of Money",
-      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
     },
     {
       "added_at": "2023-09-15 11:43:10",

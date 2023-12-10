@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 188404,
+  "num_followers": 188536,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2I4NTQ4MTk3YjAwMzg0ODI3ODliMTc4ZmRjZDkzNmUwMmIzYTg2",
+  "snapshot_id": "MCxiYjBjMjdjNTk5NTAzYzRjNzJhNTE5NjU4NGFkZjNjNGYwZDRhYjI2",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 302576,
+      "name": "Mal Ejemplo",
+      "url": "https://open.spotify.com/track/5ACoDyUWazcetrFnCL4aXZ"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Modo Insano",
         "url": "https://open.spotify.com/album/7lBfRdPNlcHz3aXk9FhY5I"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 196551,
       "name": "Modo Insano",
       "url": "https://open.spotify.com/track/45vfToGB9uCeIJ0nceD8Xi"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 302576,
-      "name": "Mal Ejemplo",
-      "url": "https://open.spotify.com/track/5ACoDyUWazcetrFnCL4aXZ"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "141",
-        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 175102,
-      "name": "141",
-      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Traigo El Mando",
         "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "141",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 175102,
+      "name": "141",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Vaya Vaya",
         "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
       },
@@ -795,26 +795,6 @@
       "duration_ms": 185236,
       "name": "Vaya Vaya",
       "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Andamos Francos",
-        "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 125402,
-      "name": "Andamos Francos",
-      "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -839,6 +819,26 @@
       "duration_ms": 213812,
       "name": "De Mexico Song",
       "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Andamos Francos",
+        "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 125402,
+      "name": "Andamos Francos",
+      "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Malo Es No Hacer Billete",
-        "url": "https://open.spotify.com/album/1cyMKWjSIl6fL1hQg67QIJ"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 169805,
-      "name": "Malo Es No Hacer Billete",
-      "url": "https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Fantas\u00eda Espacial",
         "url": "https://open.spotify.com/album/1LABMIShNILlvmaGh8SwJh"
       },
@@ -1427,22 +1411,6 @@
       "duration_ms": 195840,
       "name": "Fantas\u00eda Espacial",
       "url": "https://open.spotify.com/track/7sw0eBhRmEDTvU22MYEjoG"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 207749,
-      "name": "Gran Vida",
-      "url": "https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1463,6 +1431,38 @@
       "duration_ms": 217033,
       "name": "Chalineras",
       "url": "https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 207749,
+      "name": "Gran Vida",
+      "url": "https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Malo Es No Hacer Billete",
+        "url": "https://open.spotify.com/album/1cyMKWjSIl6fL1hQg67QIJ"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 169805,
+      "name": "Malo Es No Hacer Billete",
+      "url": "https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "99'S",
+        "url": "https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "duration_ms": 233941,
+      "name": "99'S",
+      "url": "https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Robot Montana",
         "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 175730,
       "name": "Mariguana & Tequila",
       "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "99'S",
-        "url": "https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH"
-      },
-      "artists": [
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 233941,
-      "name": "99'S",
-      "url": "https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p"
     },
     {
       "added_at": "2023-11-24 06:00:00",

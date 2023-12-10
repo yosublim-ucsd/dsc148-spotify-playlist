@@ -1,29 +1,13 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5537936,
+  "num_followers": 5550412,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzE4MDcwOWM2MTdmZThkMjRjNmMzMjQwNDNlYjk2YWEzZDEwNjE5",
+  "snapshot_id": "MCw1OWMzZGIyYzE5Y2M4MzgyOWI0NGRmYzE4NDUyZjM4NDA3MWE0YzRi",
   "tracks": [
-    {
-      "added_at": "2023-12-08 05:35:50",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2023-12-08 05:35:50",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
       "added_at": "2023-12-08 05:35:50",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
+        "name": "Christmas Without You",
+        "url": "https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm"
+    },
+    {
+      "added_at": "2023-12-08 05:35:50",
+      "album": {
         "name": "Christmas Kisses",
         "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
-        "name": "Christmas Without You",
-        "url": "https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7"
+        "name": "Mono Singles",
+        "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 169245,
-      "name": "Christmas Without You",
-      "url": "https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm"
+      "duration_ms": 148146,
+      "name": "What Christmas Means To Me",
+      "url": "https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR"
     },
     {
       "added_at": "2023-12-08 05:35:50",
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
-        "name": "Mono Singles",
-        "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "What Christmas Means To Me",
-      "url": "https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR"
-    },
-    {
-      "added_at": "2023-12-08 05:35:50",
-      "album": {
         "name": "You Make It Feel Like Christmas",
         "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 131733,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
-    },
-    {
-      "added_at": "2023-12-08 05:35:50",
-      "album": {
         "name": "Caribou (Remastered 1995)",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 165666,
-      "name": "Do You Hear What I Hear? - Remastered 2006",
-      "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
+      "duration_ms": 131733,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
     },
     {
       "added_at": "2023-12-08 05:35:50",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Do You Hear What I Hear? - Remastered 2006",
+      "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
+    },
+    {
+      "added_at": "2023-12-08 05:35:50",
+      "album": {
         "name": "The Works",
         "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
-        "name": "A Pentatonix Christmas Deluxe",
-        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 268960,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
-    },
-    {
-      "added_at": "2023-12-08 05:35:50",
-      "album": {
         "name": "Christmas Album",
         "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 181266,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas"
+    },
+    {
+      "added_at": "2023-12-08 05:35:50",
+      "album": {
+        "name": "A Pentatonix Christmas Deluxe",
+        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 268960,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
     },
     {
       "added_at": "2023-12-08 05:35:50",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 144253,
-      "name": "Winter Wonderland - Remastered 2006",
-      "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
-    },
-    {
-      "added_at": "2023-12-08 05:35:50",
-      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 232213,
       "name": "Shake Up Christmas",
       "url": "https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL"
+    },
+    {
+      "added_at": "2023-12-08 05:35:50",
+      "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 144253,
+      "name": "Winter Wonderland - Remastered 2006",
+      "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
     },
     {
       "added_at": "2023-12-08 05:35:50",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Santa Claus Is Coming to Town",
-      "url": "https://open.spotify.com/track/1RMDXedcRno6rDBCbNHDJf"
-    },
-    {
-      "added_at": "2023-12-08 05:35:50",
-      "album": {
         "name": "I Wish It Could Be Christmas Everyday",
         "url": "https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 278946,
       "name": "I Wish It Could Be Christmas Everyday",
       "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
+    },
+    {
+      "added_at": "2023-12-08 05:35:50",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Santa Claus Is Coming to Town",
+      "url": "https://open.spotify.com/track/1RMDXedcRno6rDBCbNHDJf"
     },
     {
       "added_at": "2023-12-08 05:35:50",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
-        "name": "Christmas Eve and Other Stories",
-        "url": "https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT"
-      },
-      "artists": [
-        {
-          "name": "Trans-Siberian Orchestra",
-          "url": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Christmas Eve / Sarajevo 12/24 - Instrumental",
-      "url": "https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup"
-    },
-    {
-      "added_at": "2023-12-08 05:35:50",
-      "album": {
         "name": "Fairytale of New York (feat. Kirsty MacColl) [Edit]",
         "url": "https://open.spotify.com/album/5Rxp9oBKNjn0m24SjWIkUW"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 275896,
       "name": "Fairytale of New York (feat. Kirsty MacColl) - Edit",
       "url": "https://open.spotify.com/track/4soJpnUFA0SPs7XTi6QIVp"
+    },
+    {
+      "added_at": "2023-12-08 05:35:50",
+      "album": {
+        "name": "Christmas Eve and Other Stories",
+        "url": "https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT"
+      },
+      "artists": [
+        {
+          "name": "Trans-Siberian Orchestra",
+          "url": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Christmas Eve / Sarajevo 12/24 - Instrumental",
+      "url": "https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup"
     },
     {
       "added_at": "2023-12-08 05:35:50",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-12-08 05:35:50",
       "album": {
+        "name": "8 Days Of Christmas",
+        "url": "https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "8 Days of Christmas",
+      "url": "https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS"
+    },
+    {
+      "added_at": "2023-12-08 05:35:50",
+      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 143026,
       "name": "Baby, It's Cold Outside - Remastered 2004",
       "url": "https://open.spotify.com/track/4uQqahi1iUP35xE2qGdKdo"
-    },
-    {
-      "added_at": "2023-12-08 05:35:50",
-      "album": {
-        "name": "8 Days Of Christmas",
-        "url": "https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "8 Days of Christmas",
-      "url": "https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS"
     },
     {
       "added_at": "2023-12-08 05:35:50",

@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 77299,
+  "num_followers": 77350,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGE5MDUyMDk0ZjQ0NGM1Mjg0ZjNmOWNlYjcwYzRhMTkzNTZiMjdk",
+  "snapshot_id": "MCw4ZDQzNGM5NzdjMmQ3NmU5YTgyMzYyZThhOGY4MmQ1NTRjYWM4Mzhh",
   "tracks": [
     {
       "added_at": "2023-12-07 15:53:22",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-12-07 15:53:22",
       "album": {
-        "name": "Swings Rodgers And Hart",
-        "url": "https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 129266,
-      "name": "I Could Write A Book",
-      "url": "https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7"
-    },
-    {
-      "added_at": "2023-12-07 15:53:22",
-      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 133213,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
+    },
+    {
+      "added_at": "2023-12-07 15:53:22",
+      "album": {
+        "name": "Swings Rodgers And Hart",
+        "url": "https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 129266,
+      "name": "I Could Write A Book",
+      "url": "https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7"
     },
     {
       "added_at": "2023-12-07 15:53:22",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-12-07 15:53:22",
       "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
+    },
+    {
+      "added_at": "2023-12-07 15:53:22",
+      "album": {
         "name": "Guitars A La Lee",
         "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 202226,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0qZo9OzKPzg58Ts9ad4Bcy"
-    },
-    {
-      "added_at": "2023-12-07 15:53:22",
-      "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
     },
     {
       "added_at": "2023-12-07 15:53:22",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-12-07 15:53:22",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 145160,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
-    },
-    {
-      "added_at": "2023-12-07 15:53:22",
-      "album": {
         "name": "It Might as Well Be Spring",
         "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 182493,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
+    },
+    {
+      "added_at": "2023-12-07 15:53:22",
+      "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 145160,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
     },
     {
       "added_at": "2023-12-07 15:53:22",
@@ -787,38 +787,6 @@
     {
       "added_at": "2023-12-07 15:53:22",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 381373,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
-    },
-    {
-      "added_at": "2023-12-07 15:53:22",
-      "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "This Time The Dream's On Me - Remastered",
-      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
-    },
-    {
-      "added_at": "2023-12-07 15:53:22",
-      "album": {
         "name": "Golden Girl (The Columbia Recordings 1944-1966)",
         "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
@@ -839,6 +807,38 @@
     {
       "added_at": "2023-12-07 15:53:22",
       "album": {
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "This Time The Dream's On Me - Remastered",
+      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
+    },
+    {
+      "added_at": "2023-12-07 15:53:22",
+      "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 381373,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
+    },
+    {
+      "added_at": "2023-12-07 15:53:22",
+      "album": {
         "name": "April In Paris (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 315000,
       "name": "Corner Pocket",
       "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
+    },
+    {
+      "added_at": "2023-12-07 15:53:22",
+      "album": {
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+      },
+      "artists": [
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 103400,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF"
     },
     {
       "added_at": "2023-12-07 15:53:22",
@@ -883,22 +899,6 @@
       "duration_ms": 178626,
       "name": "Scotch & Soda",
       "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
-    },
-    {
-      "added_at": "2023-12-07 15:53:22",
-      "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 103400,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF"
     },
     {
       "added_at": "2023-12-07 15:53:22",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-12-07 15:53:22",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG"
-    },
-    {
-      "added_at": "2023-12-07 15:53:22",
-      "album": {
         "name": "Swing Along With Me",
         "url": "https://open.spotify.com/album/0n1GnE4WG4suFnOZeBouVT"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 151920,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ"
+    },
+    {
+      "added_at": "2023-12-07 15:53:22",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG"
     },
     {
       "added_at": "2023-12-07 15:53:22",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-12-07 15:53:22",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 108826,
-      "name": "From This Moment On",
-      "url": "https://open.spotify.com/track/3ueTT5Puo99bD1gRzuhf6H"
-    },
-    {
-      "added_at": "2023-12-07 15:53:22",
-      "album": {
         "name": "Stardust: The Music Of Hoagy Carmichael",
         "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 300453,
       "name": "I Walk With Music",
       "url": "https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR"
+    },
+    {
+      "added_at": "2023-12-07 15:53:22",
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 108826,
+      "name": "From This Moment On",
+      "url": "https://open.spotify.com/track/3ueTT5Puo99bD1gRzuhf6H"
     },
     {
       "added_at": "2023-12-07 15:53:22",

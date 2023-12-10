@@ -1,12 +1,12 @@
 {
   "description": "Horns up for this metal soundtrack for headbangers of all ages!",
-  "num_followers": 92380,
+  "num_followers": 92482,
   "original_name": "Raised on Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjMwMjQxNWM0ZWRlZjYwMDM4MjAwOWU5NTAxNzdhMDFmN2RmYjNl",
+  "snapshot_id": "MCw1NTUwODYxM2RjMjRkM2RiMzI4MjYyY2I0ZjcwNGM0YTZkNTc4NWU3",
   "tracks": [
     {
       "added_at": "2021-04-20 17:47:58",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 299533,
       "name": "Change (In the House of Flies)",
       "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2021-04-20 17:47:58",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
-      "added_at": "2022-01-10 20:57:20",
+      "added_at": "2021-04-20 17:47:58",
       "album": {
-        "name": "Sehnsucht (Anniversary Edition - Remastered)",
-        "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 235600,
-      "name": "Du hast",
-      "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z"
+      "duration_ms": 214760,
+      "name": "My Own Summer (Shove It)",
+      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
     },
     {
       "added_at": "2021-04-20 17:47:58",
@@ -201,20 +201,20 @@
       "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"
     },
     {
-      "added_at": "2021-04-20 17:47:58",
+      "added_at": "2022-01-10 20:57:20",
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+        "name": "Sehnsucht (Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 214760,
-      "name": "My Own Summer (Shove It)",
-      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
+      "duration_ms": 235600,
+      "name": "Du hast",
+      "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z"
     },
     {
       "added_at": "2021-04-20 17:47:58",

@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 196379,
+  "num_followers": 196378,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGRmOWExZTIwMDJiNmIyNDQ5YjZiMDYxNzIzNGIyMGI0MjZlNzE2",
+  "snapshot_id": "MCw2NGRhNzMxNmFlYzU0ZGM2YWU2MWM4ZWVhNTJlYzA0NDc1ZTQ0YzYw",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 218719,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "FEMININE ENERGY",
         "url": "https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 171265,
       "name": "FEMININE ENERGY",
       "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 218719,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 231253,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/557jdZsn0FAltJXgenminf"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Youth And Why It Ends",
         "url": "https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn"
       },
@@ -447,6 +463,22 @@
       "duration_ms": 160058,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Deep Down (From the Film \u2018Avgrunden\u2019)",
+        "url": "https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 167843,
+      "name": "Deep Down - From the Film \u2018Avgrunden\u2019",
+      "url": "https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -471,38 +503,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Pretty Boy",
-        "url": "https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 231253,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/557jdZsn0FAltJXgenminf"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Deep Down (From the Film \u2018Avgrunden\u2019)",
-        "url": "https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 167843,
-      "name": "Deep Down - From the Film \u2018Avgrunden\u2019",
-      "url": "https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Bare mellom oss",
         "url": "https://open.spotify.com/album/2xPRKtDRAhuuY8aMlm0HjR"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 151893,
       "name": "Bare mellom oss",
       "url": "https://open.spotify.com/track/2V6y6xFWj6B0tgfQ3woscF"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Pistol - Spotify Singles",
-        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
-      },
-      "artists": [
-        {
-          "name": "Parham",
-          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Pistol - Spotify Singles",
-      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Pistol - Spotify Singles",
+        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
+      },
+      "artists": [
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Pistol - Spotify Singles",
+      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Kan n\u00e5tt fint f\u00e5 h\u00e4nda sen",
         "url": "https://open.spotify.com/album/44SEVloUXwb3w9NWJPXrAN"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Fan va dyrt",
-        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 186663,
-      "name": "Fan va dyrt",
-      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Happy Again",
         "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Fan va dyrt",
+        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 186663,
+      "name": "Fan va dyrt",
+      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
       },
@@ -655,6 +655,26 @@
       "duration_ms": 195346,
       "name": "Sunny Philadelphia",
       "url": "https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Slipping Into Color",
+        "url": "https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "name": "April + VISTA",
+          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
+        }
+      ],
+      "duration_ms": 225764,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -691,26 +711,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Slipping Into Color",
-        "url": "https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        },
-        {
-          "name": "April + VISTA",
-          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
-        }
-      ],
-      "duration_ms": 225764,
-      "name": "Slumber",
-      "url": "https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Tagit \u00f6ver himlen",
         "url": "https://open.spotify.com/album/1RlI6eLWlON8W9EOUJS1qT"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 147596,
       "name": "Tagit \u00f6ver himlen",
       "url": "https://open.spotify.com/track/2faoTKw5aY77tacZthwcCd"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Nitty Gritty",
-        "url": "https://open.spotify.com/album/5DsezeVQVXH142aHUnA7r0"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Nitty Gritty",
-      "url": "https://open.spotify.com/track/6YMzc4iQPZnfZmsKdHOFqG"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -775,6 +759,22 @@
       "duration_ms": 185392,
       "name": "Solsken",
       "url": "https://open.spotify.com/track/4lf0FPLbugnTdRJCUSNlIg"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Nitty Gritty",
+        "url": "https://open.spotify.com/album/5DsezeVQVXH142aHUnA7r0"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Nitty Gritty",
+      "url": "https://open.spotify.com/track/6YMzc4iQPZnfZmsKdHOFqG"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -851,6 +851,38 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Heartstrings",
+        "url": "https://open.spotify.com/album/328NMDlL1I9SemrTEUTQOw"
+      },
+      "artists": [
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/2pohuzN9EF18O5cFEi0qaW"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Hey mom, don\u2019t worry I\u2019m fine",
+        "url": "https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 153176,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/6k49rwllp13RrGFHYw6Eik"
       },
@@ -899,38 +931,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Hey mom, don\u2019t worry I\u2019m fine",
-        "url": "https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 153176,
-      "name": "Awkward",
-      "url": "https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Heartstrings",
-        "url": "https://open.spotify.com/album/328NMDlL1I9SemrTEUTQOw"
-      },
-      "artists": [
-        {
-          "name": "maybealice",
-          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Heartstrings",
-      "url": "https://open.spotify.com/track/2pohuzN9EF18O5cFEi0qaW"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Halvfullt sprucket glas",
         "url": "https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "i'm tired",
-        "url": "https://open.spotify.com/album/1ZkucnleyUxjL4kSkTzcps"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 166265,
-      "name": "i'm tired",
-      "url": "https://open.spotify.com/track/60JzQWgLHTNO68YTpS9YzJ"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Heartbreakmiljon\u00e4r",
         "url": "https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 193703,
       "name": "Heartbreakmiljon\u00e4r",
       "url": "https://open.spotify.com/track/49I4fTavMoX9SL0KDmd6Tw"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "i'm tired",
+        "url": "https://open.spotify.com/album/1ZkucnleyUxjL4kSkTzcps"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 166265,
+      "name": "i'm tired",
+      "url": "https://open.spotify.com/track/60JzQWgLHTNO68YTpS9YzJ"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Stockholm l\u00e4mnar s\u00e5r (REMAZE Remix)",
+        "url": "https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf"
+      },
+      "artists": [
+        {
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        },
+        {
+          "name": "REMAZE",
+          "url": "https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB"
+        }
+      ],
+      "duration_ms": 210937,
+      "name": "Stockholm l\u00e4mnar s\u00e5r - REMAZE Remix",
+      "url": "https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "A Bowl of Unripe Fruit",
         "url": "https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05"
       },
@@ -1027,22 +1047,6 @@
       "duration_ms": 139429,
       "name": "Tennis",
       "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Losing a Friend",
-        "url": "https://open.spotify.com/album/3UXK8j03CixeaM1LBXJcfs"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 194900,
-      "name": "Losing a Friend",
-      "url": "https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Stockholm l\u00e4mnar s\u00e5r (REMAZE Remix)",
-        "url": "https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf"
+        "name": "Losing a Friend",
+        "url": "https://open.spotify.com/album/3UXK8j03CixeaM1LBXJcfs"
       },
       "artists": [
         {
-          "name": "Dom F\u00f6rsta",
-          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
-        },
-        {
-          "name": "REMAZE",
-          "url": "https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB"
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
         }
       ],
-      "duration_ms": 210937,
-      "name": "Stockholm l\u00e4mnar s\u00e5r - REMAZE Remix",
-      "url": "https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK"
+      "duration_ms": 194900,
+      "name": "Losing a Friend",
+      "url": "https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Faller l\u00e5gt",
-        "url": "https://open.spotify.com/album/6CicQWy2IYtoeEG3rgnjiH"
+        "name": "Heartbreakmiljon\u00e4r",
+        "url": "https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n"
       },
       "artists": [
         {
-          "name": "Ellen Bergelin",
-          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
         }
       ],
-      "duration_ms": 135652,
-      "name": "Faller l\u00e5gt",
-      "url": "https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM"
+      "duration_ms": 166858,
+      "name": "NU",
+      "url": "https://open.spotify.com/track/1AcUJgg8BIGkVOP1D0vXvG"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Heartbreakmiljon\u00e4r",
-        "url": "https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n"
+        "name": "Faller l\u00e5gt",
+        "url": "https://open.spotify.com/album/6CicQWy2IYtoeEG3rgnjiH"
       },
       "artists": [
         {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+          "name": "Ellen Bergelin",
+          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
         }
       ],
-      "duration_ms": 166858,
-      "name": "NU",
-      "url": "https://open.spotify.com/track/1AcUJgg8BIGkVOP1D0vXvG"
+      "duration_ms": 135652,
+      "name": "Faller l\u00e5gt",
+      "url": "https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1263,34 +1263,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "When You're Not Mine",
-        "url": "https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf"
+        "name": "I Wish I Was Someone Else",
+        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
       },
       "artists": [
         {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
         }
       ],
-      "duration_ms": 190459,
-      "name": "When You're Not Mine",
-      "url": "https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Konsten att fly",
-        "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "M\u00f6rkret \u00e4r min b\u00e4sta v\u00e4n",
-      "url": "https://open.spotify.com/track/2AWSgJKK0gthr6PtDltE9M"
+      "duration_ms": 173434,
+      "name": "I Wish I Was Someone Else",
+      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "I Wish I Was Someone Else",
-        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
+        "name": "When You're Not Mine",
+        "url": "https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf"
       },
       "artists": [
         {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
         }
       ],
-      "duration_ms": 173434,
-      "name": "I Wish I Was Someone Else",
-      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
+      "duration_ms": 190459,
+      "name": "When You're Not Mine",
+      "url": "https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Konsten att fly",
+        "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "M\u00f6rkret \u00e4r min b\u00e4sta v\u00e4n",
+      "url": "https://open.spotify.com/track/2AWSgJKK0gthr6PtDltE9M"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Still Got the Blues fr\u00e5n Sverige",
         "url": "https://open.spotify.com/album/4jHhoDYHM7wTN5EZHr4oRX"
       },
@@ -1359,6 +1359,26 @@
       "duration_ms": 248893,
       "name": "Still Got the Blues fr\u00e5n Sverige",
       "url": "https://open.spotify.com/track/5zCtffa9eit69GFSBkCkys"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c"
+      },
+      "artists": [
+        {
+          "name": "MASAKA",
+          "url": "https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY"
+        },
+        {
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
+        }
+      ],
+      "duration_ms": 187181,
+      "name": "LIGHTS",
+      "url": "https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1395,42 +1415,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "LIGHTS",
-        "url": "https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c"
-      },
-      "artists": [
-        {
-          "name": "MASAKA",
-          "url": "https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY"
-        },
-        {
-          "name": "Stella Explorer",
-          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
-        }
-      ],
-      "duration_ms": 187181,
-      "name": "LIGHTS",
-      "url": "https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "don't look at the moon...",
-        "url": "https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6"
-      },
-      "artists": [
-        {
-          "name": "Zikai",
-          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "Come Get Me Out",
-      "url": "https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "I Wish I Was Someone Else",
         "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "2004",
-        "url": "https://open.spotify.com/album/3JWFv8NvxaigTuSaQDFI9t"
+        "name": "don't look at the moon...",
+        "url": "https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6"
       },
       "artists": [
         {
-          "name": "Charlie South",
-          "url": "https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e"
+          "name": "Zikai",
+          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
         }
       ],
-      "duration_ms": 193996,
-      "name": "2004",
-      "url": "https://open.spotify.com/track/0O1lum01nn74MSINutTz9Q"
+      "duration_ms": 202293,
+      "name": "Come Get Me Out",
+      "url": "https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1495,18 +1479,34 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Fooled by September",
-        "url": "https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK"
+        "name": "2004",
+        "url": "https://open.spotify.com/album/3JWFv8NvxaigTuSaQDFI9t"
       },
       "artists": [
         {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+          "name": "Charlie South",
+          "url": "https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e"
         }
       ],
-      "duration_ms": 173720,
-      "name": "Fooled by September",
-      "url": "https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2"
+      "duration_ms": 193996,
+      "name": "2004",
+      "url": "https://open.spotify.com/track/0O1lum01nn74MSINutTz9Q"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "b\u00e4stis",
+        "url": "https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp"
+      },
+      "artists": [
+        {
+          "name": "IMAN",
+          "url": "https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e"
+        }
+      ],
+      "duration_ms": 208832,
+      "name": "b\u00e4stis",
+      "url": "https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Fooled by September",
+        "url": "https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "Fooled by September",
+      "url": "https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Headed North",
         "url": "https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 176044,
       "name": "Headed North",
       "url": "https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "b\u00e4stis",
-        "url": "https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp"
-      },
-      "artists": [
-        {
-          "name": "IMAN",
-          "url": "https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e"
-        }
-      ],
-      "duration_ms": 208832,
-      "name": "b\u00e4stis",
-      "url": "https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "H\u00e5ll k\u00e4ften & kyss mig",
+        "url": "https://open.spotify.com/album/73LAHo5UidIZAG3rzX8AIs"
+      },
+      "artists": [
+        {
+          "name": "TOM",
+          "url": "https://open.spotify.com/artist/0gPruf4W31bIYymey2AwCH"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "H\u00e5ll k\u00e4ften & kyss mig",
+      "url": "https://open.spotify.com/track/35Hsn6Nw8odFT7ujdsr3sA"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "H\u00e4lften \u00e4r rakt fr\u00e5n hj\u00e4rtat",
         "url": "https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "H\u00e5ll k\u00e4ften & kyss mig",
-        "url": "https://open.spotify.com/album/73LAHo5UidIZAG3rzX8AIs"
-      },
-      "artists": [
-        {
-          "name": "TOM",
-          "url": "https://open.spotify.com/artist/0gPruf4W31bIYymey2AwCH"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "H\u00e5ll k\u00e4ften & kyss mig",
-      "url": "https://open.spotify.com/track/35Hsn6Nw8odFT7ujdsr3sA"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Du har fel",
         "url": "https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH"
       },
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "THERAPY",
-        "url": "https://open.spotify.com/album/3CBtXeUWfk0aRCx6Ri5YQU"
+        "name": "Misemotional",
+        "url": "https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK"
       },
       "artists": [
         {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
         }
       ],
-      "duration_ms": 197333,
-      "name": "THERAPY",
-      "url": "https://open.spotify.com/track/3ijEcYXQWIKn2Ndx0jubx2"
+      "duration_ms": 214800,
+      "name": "Misemotional",
+      "url": "https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ"
     }
   ],
   "unique_name": "Made in Sweden",

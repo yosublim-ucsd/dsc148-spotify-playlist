@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,093 songs - 2 day 9 hr 44 min
+1,094 songs - 2 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,7 +495,7 @@
 | [If I Die I Love You](https://open.spotify.com/track/09rIgg2ZkE3MkEoWkciuuK) | [Jason Lancaster](https://open.spotify.com/artist/2qelzpB6RrJtn77f5yWmES) | [If I Die I Love You](https://open.spotify.com/album/3KyTip0BZalva0l1a9KGp0) | 3:56 | 2021-12-10 | 2022-07-28 |
 | [If You Say So](https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [If You Say So](https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego) | 2:31 | 2021-12-10 | 2022-06-22 |
 | [If You Were a Robot You'd Tell Me, Right?](https://open.spotify.com/track/2AWnzpien4nUUrxch08Pmw) | [The Seafloor Cinema](https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru) | [If You Were a Robot You'd Tell Me, Right?](https://open.spotify.com/album/42Av3KvAXas7PQMDe8Fbr5) | 3:30 | 2021-12-10 | 2022-06-07 |
-| [Imposter Syndrome](https://open.spotify.com/track/78hoPZfqF2jN857pGjKzDO) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Imposter Syndrome](https://open.spotify.com/album/0332xuUCQS7pzkMoeky6wY) | 1:37 | 2023-04-10 |  |
+| [Imposter Syndrome](https://open.spotify.com/track/78hoPZfqF2jN857pGjKzDO) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Imposter Syndrome](https://open.spotify.com/album/0332xuUCQS7pzkMoeky6wY) | 1:37 | 2023-04-10 | 2023-12-10 |
 | [Imprint](https://open.spotify.com/track/1qlUw3ZejypRGcpdQcX3ix) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [Imprint](https://open.spotify.com/album/3VFtRcwhLRnRKYaRAq3DQc) | 3:10 | 2021-12-10 | 2022-07-22 |
 | [In Between](https://open.spotify.com/track/16fn9av6Y86Lmt1JJveNpO) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [In Between](https://open.spotify.com/album/0QkM3ThpYjGJ38O8MoxE4S) | 3:25 | 2021-12-10 | 2022-07-20 |
 | [In Loving Memory](https://open.spotify.com/track/69xq52Yl3XgWRPIAOwfaYY) | [First and Forever](https://open.spotify.com/artist/4yoepOpyKCDc3xDj0fX21r) | [In Loving Memory](https://open.spotify.com/album/4ZU7tF78ZlRzoomq9HNsTQ) | 2:52 | 2021-12-10 | 2023-04-11 |
@@ -818,6 +818,7 @@
 | [She Likes My Tattoos](https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:44 | 2023-11-10 |  |
 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 | 2022-08-02 | 2023-11-04 |
 | [She Likes My Tattoos](https://open.spotify.com/track/70VBBZjawKfX6Jkrb0ru4d) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/album/0D0K1XSh7i6MkbWBZTPmeH) | 2:44 | 2023-10-27 | 2023-11-11 |
+| [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr) | 3:02 | 2023-12-08 |  |
 | [she's a vampire](https://open.spotify.com/track/0TijcPb77nixLGQQzVECLJ) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [she's a vampire](https://open.spotify.com/album/5DKISuJT879vrCsbUcKAt4) | 3:09 | 2023-10-27 |  |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Shhhh! Golf is On](https://open.spotify.com/album/5IDAHjsSQvZr1bzQHb7QrD) | 2:44 | 2023-04-10 | 2023-05-13 |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 | 2023-05-12 |  |

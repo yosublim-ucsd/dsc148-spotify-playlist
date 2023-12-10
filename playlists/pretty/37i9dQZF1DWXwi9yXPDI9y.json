@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 72549,
+  "num_followers": 72715,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzg0MjFkOGY3OTdmZDdiMmI2N2Q0MmZlZTE1MDY0Nzk2ZDkwYThm",
+  "snapshot_id": "MCxmOWZkMGI1OWU4NDJhZjJiZjE2ZTY4NWZlOGNhOGZkM2Q1YTIyNzIy",
   "tracks": [
     {
       "added_at": "2023-12-06 14:25:14",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-12-06 14:25:14",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
-    },
-    {
-      "added_at": "2023-12-06 14:25:14",
-      "album": {
         "name": "Oscar Peterson Plays The George Gershwin Song Book",
         "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 168866,
       "name": "It Ain't Necessarily So",
       "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
+    },
+    {
+      "added_at": "2023-12-06 14:25:14",
+      "album": {
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2023-12-06 14:25:14",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-06 14:25:14",
       "album": {
-        "name": "Complete Roost Recordings",
-        "url": "https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Autumn Leaves - Instrumental Version",
-      "url": "https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v"
-    },
-    {
-      "added_at": "2023-12-06 14:25:14",
-      "album": {
         "name": "Anita Sings The Most",
         "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 223893,
       "name": "You Turned The Tables On Me",
       "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
+    },
+    {
+      "added_at": "2023-12-06 14:25:14",
+      "album": {
+        "name": "Complete Roost Recordings",
+        "url": "https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Autumn Leaves - Instrumental Version",
+      "url": "https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v"
     },
     {
       "added_at": "2023-12-06 14:25:14",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-12-06 14:25:14",
       "album": {
-        "name": "The Imperious Dinah Washington",
-        "url": "https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 154933,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir"
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2023-12-06 14:25:14",
@@ -791,6 +791,22 @@
       "duration_ms": 310973,
       "name": "D & E",
       "url": "https://open.spotify.com/track/6IXPs28Up5f65Wg3sHzBsS"
+    },
+    {
+      "added_at": "2023-12-06 14:25:14",
+      "album": {
+        "name": "The Imperious Dinah Washington",
+        "url": "https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir"
     },
     {
       "added_at": "2023-12-06 14:25:14",
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-12-06 14:25:14",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
-    },
-    {
-      "added_at": "2023-12-06 14:25:14",
-      "album": {
         "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 217960,
       "name": "I Wished On The Moon - Stereo Version",
       "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
-    },
-    {
-      "added_at": "2023-12-06 14:25:14",
-      "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 413080,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
     },
     {
       "added_at": "2023-12-06 14:25:14",
@@ -903,18 +887,18 @@
     {
       "added_at": "2023-12-06 14:25:14",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
         }
       ],
-      "duration_ms": 335533,
-      "name": "Make The Man Love Me",
-      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
+      "duration_ms": 413080,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
     },
     {
       "added_at": "2023-12-06 14:25:14",
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-12-06 14:25:14",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
       "artists": [
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 371960,
-      "name": "Where Or When",
-      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
+      "duration_ms": 335533,
+      "name": "Make The Man Love Me",
+      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
     },
     {
       "added_at": "2023-12-06 14:25:14",
@@ -1003,6 +987,22 @@
       "duration_ms": 192506,
       "name": "Oh Look At Me Now - Studio",
       "url": "https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56"
+    },
+    {
+      "added_at": "2023-12-06 14:25:14",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 371960,
+      "name": "Where Or When",
+      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
     },
     {
       "added_at": "2023-12-06 14:25:14",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-12-06 14:25:14",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 285693,
-      "name": "If I Had You - Bonus Track",
-      "url": "https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6"
-    },
-    {
-      "added_at": "2023-12-06 14:25:14",
-      "album": {
         "name": "The Hawk Relaxes",
         "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 436573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
+    },
+    {
+      "added_at": "2023-12-06 14:25:14",
+      "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 285693,
+      "name": "If I Had You - Bonus Track",
+      "url": "https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6"
     },
     {
       "added_at": "2023-12-06 14:25:14",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-12-06 14:25:14",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine & The Three Sounds",
-          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
-        }
-      ],
-      "duration_ms": 323333,
-      "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
-      "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
-    },
-    {
-      "added_at": "2023-12-06 14:25:14",
-      "album": {
         "name": "Angel Eyes",
         "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 356973,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
+    },
+    {
+      "added_at": "2023-12-06 14:25:14",
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine & The Three Sounds",
+          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
+        }
+      ],
+      "duration_ms": 323333,
+      "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
+      "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
     },
     {
       "added_at": "2023-12-06 14:25:14",

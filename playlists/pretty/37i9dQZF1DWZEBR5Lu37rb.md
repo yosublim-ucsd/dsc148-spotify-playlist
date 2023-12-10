@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,538 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,682 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 37 | [Hamba](https://open.spotify.com/track/5M0J5ZOt7LPeZrHs9G7c7R) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Soul In Mind](https://open.spotify.com/album/5ceGC90YEocJP4lXy5ifzV) | 5:36 |
 | 38 | [Mapenzi](https://open.spotify.com/track/2e2dNpszZC0sCEuvfKVyQu) | [Kidum Kibido](https://open.spotify.com/artist/78NwwxOZkV9sNsdIYDWN9D) | [The Best Of Kidum Kibido](https://open.spotify.com/album/0W8soVwIq910Q2NYsDSZd7) | 5:53 |
 | 39 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 |
-| 40 | [Still The One](https://open.spotify.com/track/5WngjpIkyy6CPZMy9je2ob) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die In Afrika](https://open.spotify.com/album/4H5UZrxvT1OdPMDynLjFNL) | 4:25 |
+| 40 | [Still the one](https://open.spotify.com/track/15ChgJwMrGNN2ZSrLJGXqY) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 4:25 |
 | 41 | [Tigi Tigi.](https://open.spotify.com/track/7kIApWELVj8I4eOKJs04JW) | [Sands](https://open.spotify.com/artist/3uYNluWtBu0ksu049wbLVW) | [Azgo Festival Compilation 2019](https://open.spotify.com/album/0QvN86SujsP2OjxEyXBtAw) | 5:22 |
 | 42 | [Nomakanjani](https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:40 |
 | 43 | [Thojana Ya Thesele](https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg) | [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Black](https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 100 | [Fanti Love Song](https://open.spotify.com/track/3JjDrDXNBaBK3uheLzc10d) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [No\. 1 Mango Street](https://open.spotify.com/album/6UxffPZr6Ca4nBtz3GObFM) | 3:41 |
 
-Snapshot ID: `MCw4NGJkODAxMDdkNWVlZDVlMGYxZTg3ZWRkZThlNGYxYmVlMzk5MDhi`
+Snapshot ID: `MCwyMzUyMWQ2ZmNmOTk4OTYxZTBiZTQxODAwN2I3MGEwYjFhODc1MjM5`

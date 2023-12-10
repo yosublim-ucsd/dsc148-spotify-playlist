@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-262 songs - 18 hr 17 min
+263 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 | 2021-12-17 |  |
 | [Curse of Darkness](https://open.spotify.com/track/3LUFvlVXNOm2CAmVF11Xbl) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Reaching into Infinity](https://open.spotify.com/album/5lW7oJLGH5ggUyqJEBXu59) | 5:35 | 2021-12-17 | 2022-07-21 |
 | [Cycle Of Hurting](https://open.spotify.com/track/4xLGcvIrAtVaN8FYhd6poT) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Cycle Of Hurting](https://open.spotify.com/album/2VpUANQDj0xi2A57MejBzy) | 3:49 | 2023-09-12 | 2023-09-29 |
-| [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 | 2023-06-22 |  |
+| [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 | 2023-06-22 | 2023-12-10 |
 | [Dead But Rising](https://open.spotify.com/track/0Xu8n8K2SEuhraFVD5jUtI) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/0MNiO7qCmDHphcsefaAjEy) | 3:34 | 2021-12-17 | 2022-07-14 |
 | [Dead But Rising](https://open.spotify.com/track/3siZ8Gr2G9zelmm1NZOmP3) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 3:34 | 2022-01-06 | 2023-05-27 |
 | [Deep in the Willow](https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Upon Loss Singles](https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ) | 3:31 | 2023-06-22 |  |
@@ -264,6 +264,7 @@
 | [Wash It All Away](https://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:44 | 2021-12-17 | 2022-07-29 |
 | [Wash It All Away](https://open.spotify.com/track/05QquCUFrpkKTHz5Sy09nc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:45 | 2022-01-06 | 2023-08-20 |
 | [Wash It All Away](https://open.spotify.com/track/5k0KjsgX1ETIAQWVBRHzq3) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0) | 3:45 | 2023-06-22 |  |
+| [Wasted Years \(2015 Remaster\)](https://open.spotify.com/track/2Ghp7Ko67utW6Xk07MkVKj) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 Remaster\)](https://open.spotify.com/album/2EgrwJxwvimdATl24NrvLC) | 5:09 | 2023-11-27 |  |
 | [Wasted Years \- 2015 Remaster](https://open.spotify.com/track/1HM7Vp84E4SMzdrZONg6bH) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 Remaster\)](https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L) | 5:09 | 2021-12-17 | 2022-07-29 |
 | [Wasted Years \- 2015 Remaster](https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 \- Remaster\)](https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr) | 5:09 | 2022-01-06 | 2023-11-04 |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-03-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Don Pero
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,439 likes - 55 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,461 likes - 55 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 13 | [FASHION](https://open.spotify.com/track/2GrgmzXmNHOfqIcrDSQmQa) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [FASHION](https://open.spotify.com/album/6F9abOtP5f8U6AVCHFN8Tl) | 2:29 |
 | 14 | [Vita Nuova](https://open.spotify.com/track/7L5AMtUojyMd0bpVyWePE1) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Vita Nuova](https://open.spotify.com/album/3u3wHdWqQt4Xlkb9suOeq6) | 2:33 |
 | 15 | [MAR7ABA \(feat\. Nabi\)](https://open.spotify.com/track/3WFlIMxM6GteBtgtt5nNFg) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [MAR7ABA \(feat\. Nabi\)](https://open.spotify.com/album/0EzPLBiSfAiOYD1q68c6ch) | 3:00 |
-| 16 | [Tech Pack](https://open.spotify.com/track/3GNdB5bw9Nal39eCqCLJAm) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [MEZZA PAROLA](https://open.spotify.com/album/6GosI4zndYwzR1ht3SOi8H) | 2:28 |
+| 16 | [Tech Pack \(feat\. Kid Yugi\)](https://open.spotify.com/track/3GNdB5bw9Nal39eCqCLJAm) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [MEZZA PAROLA](https://open.spotify.com/album/6GosI4zndYwzR1ht3SOi8H) | 2:28 |
 | 17 | [Valentino Rossi](https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Valentino Rossi](https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ) | 1:59 |
 | 18 | [Million Dollar](https://open.spotify.com/track/1rTwPO0jWUcjB6Qpwk4vKo) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Million Dollar](https://open.spotify.com/album/4wdR5BTgIKCnADDGb9eqIP) | 2:39 |
 | 19 | [LE BAMBINE FANNO OH \(feat\. Nerissima Serpe, ANNA, Papa V, Artie 5ive\)](https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 3:16 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Rolly Mami](https://open.spotify.com/track/1tJ4indh8Qe1g8S3DvX7DZ) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU) | [Rolly Mami](https://open.spotify.com/album/13oHJvGsqa5I6RFxqX4sSb) | 2:19 |
 | 55 | [Non sai di me](https://open.spotify.com/track/3A9N1BNNayyIwV4TndhNbs) | [Flaza](https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH) | [Non sai di me](https://open.spotify.com/album/4Rg5xUoxzHyY4734IBTcrk) | 3:12 |
 
-Snapshot ID: `MCwwZWM3OWM0YTNkMmQ3ZWJkNzNiZGM5OWExYTFjNmE2Mjk2ZjMwMjQx`
+Snapshot ID: `MCwyM2IyMDBhMjcyY2UyMmM2NjhhMjJjMjA1MjFhMDk2MGMxYjQ1Zjlk`

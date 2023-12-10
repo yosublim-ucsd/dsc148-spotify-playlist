@@ -1,12 +1,12 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 69033,
+  "num_followers": 69092,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDUyYmYwNzVkZGY4NjE5NzZmMGQ2NWNhMzEwZjI2NDJjNjBjOTRk",
+  "snapshot_id": "MCxhNmM4NDk1ODQwM2FhYTdjNTQ5NTExYmRkY2NjY2M5ZTM4MDMzNGZh",
   "tracks": [
     {
       "added_at": "2023-03-29 13:55:12",
@@ -171,18 +171,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Matangi",
-        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
+        "name": "More Than Just a Dream",
+        "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
       "artists": [
         {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
         }
       ],
-      "duration_ms": 227520,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -203,18 +203,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "More Than Just a Dream",
-        "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
       },
       "artists": [
         {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Out of My League",
-      "url": "https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t"
+      "duration_ms": 227520,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 198907,
-      "name": "Tennis Court",
-      "url": "https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Seven + Mary",
         "url": "https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 188280,
       "name": "Devil Like Me",
       "url": "https://open.spotify.com/track/6pSliMukEwAdpMPgCKTKDH"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 198907,
+      "name": "Tennis Court",
+      "url": "https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 221894,
       "name": "Drop The Game",
       "url": "https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "The 1975",
-        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Spreading Rumours",
-        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Heza",
         "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 224933,
       "name": "Put a Light On",
       "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Spreading Rumours",
+        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 194053,
-      "name": "Modern Jesus",
-      "url": "https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Language & Perspective",
         "url": "https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "When It Was Now",
-        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
       "artists": [
         {
-          "name": "Atlas Genius",
-          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 217386,
-      "name": "Trojans",
-      "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
+      "duration_ms": 194053,
+      "name": "Modern Jesus",
+      "url": "https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -915,18 +899,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "The 1975 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+        "name": "When It Was Now",
+        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Atlas Genius",
+          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
         }
       ],
-      "duration_ms": 254620,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c"
+      "duration_ms": 217386,
+      "name": "Trojans",
+      "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -963,6 +947,22 @@
       "duration_ms": 242293,
       "name": "One Way Trigger",
       "url": "https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 254620,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1011,22 +1011,6 @@
       "duration_ms": 207718,
       "name": "Waiting Game",
       "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "The 1975",
-        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 206986,
-      "name": "Sex",
-      "url": "https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 206986,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "We Are Only What We Feel",
         "url": "https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 209485,
       "name": "Pumpin Blood",
       "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 248043,
-      "name": "I Should Live in Salt",
-      "url": "https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1187,6 +1171,22 @@
       "duration_ms": 450983,
       "name": "Reflektor",
       "url": "https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 248043,
+      "name": "I Should Live in Salt",
+      "url": "https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Lockjaw",
-        "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 254037,
-      "name": "This Song Is Not About A Girl",
-      "url": "https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
@@ -1287,6 +1267,22 @@
       "duration_ms": 233133,
       "name": "The Walker",
       "url": "https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 431746,
+      "name": "An Ocean In Between The Waves",
+      "url": "https://open.spotify.com/track/78uf7QYfexQ1sggf2fsKzg"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1323,18 +1319,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+        "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 431746,
-      "name": "An Ocean In Between The Waves",
-      "url": "https://open.spotify.com/track/78uf7QYfexQ1sggf2fsKzg"
+      "duration_ms": 254037,
+      "name": "This Song Is Not About A Girl",
+      "url": "https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "II (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Swim and Sleep (Like a Shark)",
+      "url": "https://open.spotify.com/track/265ehI4I7NfR8PmAXdpspn"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Bankrupt!",
         "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 222880,
       "name": "Changing of the Seasons",
       "url": "https://open.spotify.com/track/3mrlQc1K6sPmoBY1Pv46Ab"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "II (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 165226,
-      "name": "Swim and Sleep (Like a Shark)",
-      "url": "https://open.spotify.com/track/265ehI4I7NfR8PmAXdpspn"
     },
     {
       "added_at": "2021-09-02 08:24:19",

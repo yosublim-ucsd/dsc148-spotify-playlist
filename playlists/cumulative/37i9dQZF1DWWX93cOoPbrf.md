@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2023\. Grupo Clasificado en portada.
 
-891 songs - 1 day 21 hr 47 min
+892 songs - 1 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,7 +647,8 @@
 | [Mauricio MG](https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Mauricio MG](https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw) | 2:35 | 2023-11-17 |  |
 | [Mayo Para El Mundo \(En Vivo\)](https://open.spotify.com/track/4IjVu3RGh8aPGHSnpupsoS) | [Gerardo Mercado](https://open.spotify.com/artist/3uQSc2G13vlxsMDBb92llt), [Banda Del Charko](https://open.spotify.com/artist/5cHzKvp7N3XiJmKZUBAR5s) | [Mayo Para El Mundo \(En Vivo\)](https://open.spotify.com/album/6GOIhFjy7Uv0I7OUpXSULR) | 2:46 | 2022-10-07 | 2022-11-12 |
 | [Me Belikeo](https://open.spotify.com/track/4hI9OdYFVdAO8BF8Tuxvld) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Me Belikeo](https://open.spotify.com/album/4e0WXXX4WzjNMaLxohEu2B) | 2:50 | 2023-10-13 | 2023-11-11 |
-| [Me Di Cuenta](https://open.spotify.com/track/0xfdBhImqnPN4yh2bT1rr0) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/2VNRQcvWyaZY20xKwGEOz0) | 3:02 | 2023-12-08 |  |
+| [Me Di Cuenta](https://open.spotify.com/track/0xfdBhImqnPN4yh2bT1rr0) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/2VNRQcvWyaZY20xKwGEOz0) | 3:02 | 2023-12-08 | 2023-12-10 |
+| [Me Di Cuenta](https://open.spotify.com/track/2ucU5OkIVrM0CcaUksB6vf) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/3wxMFWQmft2AiryqyyH7Rx) | 3:02 | 2023-12-08 |  |
 | [Me Dicen El Chavo](https://open.spotify.com/track/2Qtbqu3XEudTeqB31PKGu4) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Me Dicen El Chavo](https://open.spotify.com/album/2GAQ8DhWnILWXcnbLTny2W) | 3:07 | 2022-07-15 | 2022-08-30 |
 | [Me Fui](https://open.spotify.com/track/2jqAQpvwcRmKcLNJYpUVgF) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Me Fui](https://open.spotify.com/album/3YoPqy7swMlaUv4iAWYvZy) | 2:38 | 2023-04-21 | 2023-06-10 |
 | [Me La Seguiran Pelando \- En Vivo](https://open.spotify.com/track/02R48GzQFMADKsAQjpfrQL) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51), [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Me La Seguiran Pelando \(En Vivo\)](https://open.spotify.com/album/2qF8R8IWrc0LxE2CFkHdaL) | 3:40 | 2023-06-09 | 2023-06-24 |

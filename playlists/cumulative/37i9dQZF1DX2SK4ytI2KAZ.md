@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-525 songs - 1 day 5 hr 2 min
+526 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Look at the Sky](https://open.spotify.com/track/4l5nn3zlcrKSB1eyfuWHhu) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Look at the Sky](https://open.spotify.com/album/1BEsCHUcX6slXc4N957W2y) | 5:09 | 2021-03-10 | 2023-03-29 |
 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-31 | 2023-08-21 |
 | [Lose Money](https://open.spotify.com/track/5k6nFk3OyHxrZu6bHGYNan) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [teche](https://open.spotify.com/album/64tfW7uOt51l5TU7LyLgcf) | 3:06 | 2021-09-09 | 2022-05-04 |
+| [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 | 2023-11-27 |  |
 | [Loser](https://open.spotify.com/track/4LPvSKqEmFidSIgdLbHDcn) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/11HM6Bh33f02veTCxKm42q) | 3:05 | 2022-10-07 | 2023-06-08 |
 | [Loser](https://open.spotify.com/track/6WkRlNw5zd50xqm4Kd1mp5) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Loser](https://open.spotify.com/album/7r1ccYfMGvbkcAB0T2yDCq) | 3:05 | 2022-07-29 | 2022-08-18 |
 | [Loser](https://open.spotify.com/track/7uC88PADBOV6yYDsF5ib5t) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:05 | 2022-08-12 | 2022-11-22 |
@@ -365,7 +366,7 @@
 | [Pretty Way to Fight](https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B) | [Knox Hamilton](https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9) | [The Heights](https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV) | 3:23 | 2022-06-27 | 2023-06-02 |
 | [Problematic](https://open.spotify.com/track/19Thkk14i1aKLVYyosk0lx) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1) | [Problematic](https://open.spotify.com/album/1VnsCdPvjuIlEdPmUTLPCR) | 2:44 | 2021-03-10 | 2022-11-15 |
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-27 | 2023-06-08 |
-| [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 | 2023-09-15 |  |
+| [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 | 2023-09-15 | 2023-12-10 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-24 | 2023-09-15 |
 | [Quiet Little Voices](https://open.spotify.com/track/3zniSx8DVtUSuJ0WAToZUy) | [We Were Promised Jetpacks](https://open.spotify.com/artist/3gnrmLahFhVXRI9DA1MImH) | [These Four Walls](https://open.spotify.com/album/5RzT4Ypfjk6i1xLQpXXZFI) | 4:21 | 2022-03-11 | 2022-04-17 |
 | [Ready For More](https://open.spotify.com/track/0DSHQkFL8ppNiYJgFaOq6r) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Ready For More](https://open.spotify.com/album/1cd2rHNaFkLMVXcYyuqo5D) | 3:26 | 2021-03-10 | 2022-04-19 |

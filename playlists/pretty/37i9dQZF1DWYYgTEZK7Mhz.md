@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,144 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,163 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 4 | [Figli Delle Stelle](https://open.spotify.com/track/0C9rBeWAsPhmBeaYKZLN5m) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Figli Delle Stelle \(2005 \- Remaster\)](https://open.spotify.com/album/517MxHAODAKO4wAr4pHVAB) | 4:35 |
 | 5 | [Sapore di sale](https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 3:34 |
 | 6 | [Voglio Vederti Danzare \- Remastered](https://open.spotify.com/track/0Yncd2CxjjlWLrIukzsk2M) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Arca Di Noè \(2008 Remastered Edition\)](https://open.spotify.com/album/2OulSxrNGCvCvz5rX7lUH5) | 3:44 |
-| 7 | [Nessuno Mi Può Giudicare](https://open.spotify.com/track/7zrkOMlUmpdS6COxQykfVU) | [Caterina Caselli](https://open.spotify.com/artist/19tdzR0mBQe9NrCyXvzw3p) | [Casco D'oro](https://open.spotify.com/album/2I9R3yTQGD7Qi3vftn7Q6b) | 2:41 |
-| 8 | [Self Control](https://open.spotify.com/track/42FUNUTTu4dhDhca834rd6) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Self Control](https://open.spotify.com/album/21b81zT8l4tMrhlpA52Nev) | 3:58 |
+| 7 | [Self Control](https://open.spotify.com/track/42FUNUTTu4dhDhca834rd6) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Self Control](https://open.spotify.com/album/21b81zT8l4tMrhlpA52Nev) | 3:58 |
+| 8 | [Nessuno Mi Può Giudicare](https://open.spotify.com/track/7zrkOMlUmpdS6COxQykfVU) | [Caterina Caselli](https://open.spotify.com/artist/19tdzR0mBQe9NrCyXvzw3p) | [Casco D'oro](https://open.spotify.com/album/2I9R3yTQGD7Qi3vftn7Q6b) | 2:41 |
 | 9 | [Bamboleo](https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS) | 3:23 |
 | 10 | [Quando, Quando, Quando \- 2004 Remaster](https://open.spotify.com/track/5NVKrGAZjusEqZJ7onT9gO) | [Tony Renis](https://open.spotify.com/artist/55WUEyUburuMbmTBiIUzpm) | [Made In Italy](https://open.spotify.com/album/5Gvvs4hFQKLZO1pzDbEfYo) | 2:48 |
 | 11 | [Kobra](https://open.spotify.com/track/4z1vPS8NFHrNBpriHxeu45) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Magnifico delirio \(Gli Indimenticabili\)](https://open.spotify.com/album/1JtohZbJ5rSHvLlyhiyvqs) | 3:27 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 16 | [Luglio](https://open.spotify.com/track/083VTM4yXnNrspPRcVadTm) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:11 |
 | 17 | [Tu Vuo Fa 'L'Americano \- From "The American" Soundtrack](https://open.spotify.com/track/79LnSU3iFdQTVnmK8BX50Y) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [Made In Italy](https://open.spotify.com/album/4ZH6HND1xhUn9IMbIb8tIu) | 3:28 |
 | 18 | [Saint\-Tropez Twist](https://open.spotify.com/track/4xtYHxx1Gzb5vxlY3sVICD) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4) | [L'Incredibile Peppino Di Capri](https://open.spotify.com/album/4NL19dugdmwp27q1oBaFiv) | 2:15 |
-| 19 | [Acapulco](https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Gwiazdy xx Wieku \- Ricchi E Poveri](https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G) | 3:43 |
-| 20 | [Una rotonda sul mare](https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [Italian Classics: Fred Bongusto, Vol\. 1](https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ) | 2:48 |
+| 19 | [Una rotonda sul mare](https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [Italian Classics: Fred Bongusto, Vol\. 1](https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ) | 2:48 |
+| 20 | [Acapulco](https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Gwiazdy xx Wieku \- Ricchi E Poveri](https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G) | 3:43 |
 | 21 | [Nell'aria](https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Nell'aria](https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA) | 4:02 |
 | 22 | [Marina](https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB) | [Rocco Granata](https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI) | [Rocco: Zijn Story In 21 Liedjes](https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g) | 2:44 |
 | 23 | [Donna Felicita'](https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF) | [I Nuovi Angeli](https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX) | [Donna Felicita'](https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5) | 2:07 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 35 | [L'esercito del surf](https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W) | [Catherine Spaak](https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2) | [Catherine Spaak](https://open.spotify.com/album/43kTmexEORoUruj66w0F4o) | 2:09 |
 | 36 | [Un'estate al mare](https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3) | [Un'estate al mare / Bing bang being \[Digital 45\]](https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh) | 3:18 |
 | 37 | [Il Mare Quest'Estate](https://open.spotify.com/track/6CsNqqHnoXTPnv04TvFVXQ) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [I Miei Successi](https://open.spotify.com/album/3lxbAr2QIDT27hJA4OJYsw) | 3:02 |
-| 38 | [Sei come una lucertola](https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2) | [Jo Fedeli](https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:17 |
-| 39 | [Maracaibo](https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121) | [Lu Colombo](https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk) | [Addio al Nubilato](https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h) | 3:53 |
+| 38 | [24.000 Baci](https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Anni '60](https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU) | 2:17 |
+| 39 | [Sei come una lucertola](https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2) | [Jo Fedeli](https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:17 |
 | 40 | [Guarda come dondolo](https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:31 |
-| 41 | [24.000 Baci](https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Anni '60](https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU) | 2:17 |
+| 41 | [Maracaibo](https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121) | [Lu Colombo](https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk) | [Addio al Nubilato](https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h) | 3:53 |
 | 42 | [Balla](https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4) | [Umberto Rosario Balsamo](https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm) | [Le Sue Piu' Belle Canzoni](https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E) | 3:17 |
 | 43 | [Legata a un granello di sabbia \- Remastered](https://open.spotify.com/track/4rMOHVZSrOXyJUIcfBwZXB) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [Legata a un granello di sabbia \(Remastered\)](https://open.spotify.com/album/18n1cji3OvtCKepHxLgV1c) | 4:05 |
 | 44 | [Pezzettini di bikini](https://open.spotify.com/track/5UoFz0CjuclVc5kzpUdlfy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [MITO '60 la meravigliosa estate italiana Vol.1](https://open.spotify.com/album/57o2sEB0CkBP3IKOnNDY11) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Il mare nel cassetto](https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Le più belle canzoni di Milva](https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1) | 3:00 |
 | 50 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [RCA 100 Años De Musica \- Segunda Parte \- Lo Mejor De Italia](https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH) | 2:36 |
 
-Snapshot ID: `MCw3NTZmNTFmYmNjMmZlNWE3YjVjYzk4MjhjNjcxYmUzOTM3ZjE3OTNk`
+Snapshot ID: `MCw4NTA5MTBhMzhkMzBkYzVjYjA2MWM1ZGNiN2MwN2UwMjRjYTkyZTg0`

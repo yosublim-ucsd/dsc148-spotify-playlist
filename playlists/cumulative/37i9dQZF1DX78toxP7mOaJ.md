@@ -4,7 +4,7 @@
 
 > The top 100 tracks from Fresh Finds Rock in 2023\. Cover: Teen Jesus and the Jean Teasers
 
-1,244 songs - 2 day 20 hr 0 min
+1,245 songs - 2 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,8 @@
 | [Feel It Now](https://open.spotify.com/track/0pwAnKBvP6xol5K4MlTc3w) | [Jacky Boy](https://open.spotify.com/artist/0RS9XoenYruXTronG5nC97) | [Mush](https://open.spotify.com/album/4pVgqQJpIxnibQ3RJJBHQ6) | 2:49 | 2022-05-11 | 2022-07-21 |
 | [Feelin' Good Ain't Cheap](https://open.spotify.com/track/5fa9E3UhHHFfHpfaw0UDzY) | [The Bullseyes](https://open.spotify.com/artist/4VrvRbGxs71Cs797ThTy6f) | [Feelin' Good Ain't Cheap](https://open.spotify.com/album/5IbDdxWzPsxssYbh2cg8R2) | 2:48 | 2023-10-18 | 2023-11-30 |
 | [Felt](https://open.spotify.com/track/2eCtOHnjLydSU56f4peoO2) | [Blessed](https://open.spotify.com/artist/0IE68xHQxczOqBXTnB1cGD) | [Felt](https://open.spotify.com/album/43lh4EdeuXAGx42pBnM3iY) | 3:03 | 2023-03-29 | 2023-05-11 |
-| [Fender](https://open.spotify.com/track/0AT37Z1kNhJPUyeuwJqEHi) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Fender](https://open.spotify.com/album/0NIl6PMP9VgfbMW0w61f0s) | 3:42 | 2023-08-16 |  |
+| [Fender](https://open.spotify.com/track/0AT37Z1kNhJPUyeuwJqEHi) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Fender](https://open.spotify.com/album/0NIl6PMP9VgfbMW0w61f0s) | 3:42 | 2023-08-16 | 2023-12-10 |
+| [Fender](https://open.spotify.com/track/1NVlVEjpKjxXcYfr2Q0jAh) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Fender](https://open.spotify.com/album/5lq765diULw2jxMRIC5wCj) | 3:42 | 2023-11-29 |  |
 | [Fever](https://open.spotify.com/track/2OyBO7x26a0J92gicUgie5) | [TOVA](https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC) | [Fever](https://open.spotify.com/album/7AIA9j3BcSt4uI3n7uZuQa) | 3:53 | 2022-11-09 | 2022-12-01 |
 | [Fight Back Time](https://open.spotify.com/track/1e0jxzKnJEKnjse5gfPBwZ) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh), [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Fight Back Time](https://open.spotify.com/album/7vrjR8CtwCxt6WDON4Ph4C) | 3:17 | 2023-10-25 | 2023-11-30 |
 | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/track/2PzygCxvCYzsIyc50VStxD) | [Benjamin Carter](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/album/6E0GwKl75NuFkeh6WoFI03) | 3:07 | 2023-02-01 | 2023-03-02 |

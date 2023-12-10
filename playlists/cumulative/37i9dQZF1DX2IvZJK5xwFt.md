@@ -2,7 +2,7 @@
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: The Rolling Stones
+> Only the best rock in the world\. Cover: Linkin Park
 
 528 songs - 1 day 8 hr 46 min
 

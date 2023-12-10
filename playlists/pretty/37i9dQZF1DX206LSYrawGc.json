@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 265536,
+  "num_followers": 265816,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGZjMzUwNzcxMzE2ZmQ2MjcwMWMzNzgyZWE5ZWIwOWYzNzYwZjZl",
+  "snapshot_id": "MCw3ZWJiNmU5Zjk4NTc1ZGYxNGM2YmVjMTBlMjlkZjcyZTIzZTQ3ZmVh",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -201,20 +201,20 @@
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
-      "added_at": "2022-07-05 15:28:41",
+      "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+        "name": "Metal Health",
+        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
         }
       ],
-      "duration_ms": 323706,
-      "name": "Separate Ways (Worlds Apart)",
-      "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
+      "duration_ms": 290960,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Metal Health",
-        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
       },
       "artists": [
         {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
         }
       ],
-      "duration_ms": 290960,
-      "name": "Cum on Feel the Noize",
-      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
+      "duration_ms": 293653,
+      "name": "Epic",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -279,22 +279,6 @@
       "duration_ms": 179760,
       "name": "I Wanna Rock",
       "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 293653,
-      "name": "Epic",
-      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -361,22 +345,6 @@
       "url": "https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn"
     },
     {
-      "added_at": "2022-06-29 17:56:03",
-      "album": {
-        "name": "New Jersey (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 316706,
-      "name": "Bad Medicine",
-      "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Vivid (Expanded Edition)",
@@ -391,6 +359,22 @@
       "duration_ms": 294826,
       "name": "Cult of Personality",
       "url": "https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH"
+    },
+    {
+      "added_at": "2022-06-29 17:56:03",
+      "album": {
+        "name": "New Jersey (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 316706,
+      "name": "Bad Medicine",
+      "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -473,6 +457,22 @@
       "url": "https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC"
     },
     {
+      "added_at": "2022-07-05 15:28:41",
+      "album": {
+        "name": "Frontiers (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 323453,
+      "name": "Separate Ways (Worlds Apart) [2023 Remaster]",
+      "url": "https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2"
+    },
+    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Hysteria",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
+        "name": "Night Songs",
+        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 282746,
       "name": "Hot for Teacher - 2015 Remaster",
       "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
-        "url": "https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 289971,
-      "name": "Dr. Feelgood (2021- Remaster)",
-      "url": "https://open.spotify.com/track/35Aj3CGTmWkjGr4bjYmkk5"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -571,6 +571,22 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
+        "name": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
+        "url": "https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 289971,
+      "name": "Dr. Feelgood (2021- Remaster)",
+      "url": "https://open.spotify.com/track/35Aj3CGTmWkjGr4bjYmkk5"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
         "name": "Flesh & Blood",
         "url": "https://open.spotify.com/album/7alngtync76VqYWSKxcBhB"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 228066,
       "name": "Unskinny Bop",
       "url": "https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Night Songs",
-        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Nobody's Fool",
-      "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -649,20 +649,20 @@
       "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k"
     },
     {
-      "added_at": "2021-03-16 22:32:51",
+      "added_at": "2022-06-29 17:56:03",
       "album": {
-        "name": "W.A.S.P.",
-        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+        "name": "Girls, Girls, Girls (40th Anniversary; 2021 - Remaster)",
+        "url": "https://open.spotify.com/album/2nB8qIQjQyde3TIjCW2Hvx"
       },
       "artists": [
         {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 223533,
-      "name": "I Wanna Be Somebody",
-      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
+      "duration_ms": 281666,
+      "name": "Wild Side (2021- Remaster)",
+      "url": "https://open.spotify.com/track/3C7tm62iWcPuIbZRUp5AZU"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -683,6 +683,22 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Gypsy Road",
+      "url": "https://open.spotify.com/track/2F8Glc7r4mHHSCEegD4Ju1"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
         "name": "Best of Volume 1",
         "url": "https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St"
       },
@@ -697,36 +713,20 @@
       "url": "https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP"
     },
     {
-      "added_at": "2022-06-29 17:56:03",
-      "album": {
-        "name": "Girls, Girls, Girls (40th Anniversary; 2021 - Remaster)",
-        "url": "https://open.spotify.com/album/2nB8qIQjQyde3TIjCW2Hvx"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "Wild Side (2021- Remaster)",
-      "url": "https://open.spotify.com/track/3C7tm62iWcPuIbZRUp5AZU"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
       "artists": [
         {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
         }
       ],
-      "duration_ms": 235733,
-      "name": "Gypsy Road",
-      "url": "https://open.spotify.com/track/2F8Glc7r4mHHSCEegD4Ju1"
+      "duration_ms": 223533,
+      "name": "I Wanna Be Somebody",
+      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
     },
     {
       "added_at": "2022-06-29 17:56:03",

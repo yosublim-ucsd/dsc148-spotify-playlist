@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNjY4NjAsMDAwMDAwMDA1YWM1YzhkM2I0ZjAzYjdlZjQzMGU2ZjE3NjI1YTEwZQ==",
+  "snapshot_id": "MjgzNjY4NjAsMDAwMDAwMDBjMWEwN2I2YmUyMjRiZThhNmI0M2UzODAxMDVhZTgwNA==",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -179,6 +179,26 @@
       "duration_ms": 210857,
       "name": "Madness",
       "url": "https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -631,30 +651,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Won\u2019t Give Up",
-        "url": "https://open.spotify.com/album/1mbW7KLqK1KYVVhUHerePT"
-      },
-      "artists": [
-        {
-          "name": "Pattie Gonia",
-          "url": "https://open.spotify.com/artist/05KFXGAWQkQv7f5lUGgtVD"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Quinn Christopherson",
-          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
-        }
-      ],
-      "duration_ms": 251913,
-      "name": "Won\u2019t Give Up",
-      "url": "https://open.spotify.com/track/7iTqDHIAOL0n9wvwGdcTvZ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/69wYSuJ089rfvYPkVYgd12"
       },
@@ -743,86 +739,6 @@
       "duration_ms": 235640,
       "name": "Bittersweet - Live In Helsinki St. John's Church",
       "url": "https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "ME LABEL",
-        "url": "https://open.spotify.com/album/1q66YzIHG7CK8lsZtPQT7T"
-      },
-      "artists": [
-        {
-          "name": "IAM",
-          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Loups et panth\u00e8res, Part. 1",
-      "url": "https://open.spotify.com/track/1fDDyryqprRpZoHMritwR6"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
-        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 114133,
-      "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
-      "url": "https://open.spotify.com/track/0CuiomH8qVyMjFAyC2pWfN"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "20 Min (Lil Uzi Vert Sped Up Version)",
-        "url": "https://open.spotify.com/album/78ZZaxdTTTmYK6Gy2cR91R"
-      },
-      "artists": [
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 168404,
-      "name": "20 Min - Lil Uzi Vert Sped Up Version",
-      "url": "https://open.spotify.com/track/4HuCangqyM61nXoyfZzaHg"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Fashionable",
-        "url": "https://open.spotify.com/album/7J4BRqEUVFOnGyWXa0m2nL"
-      },
-      "artists": [
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        },
-        {
-          "name": "Bobby Digital",
-          "url": "https://open.spotify.com/artist/6oq7ZXO61e4gOV1gZt0ttd"
-        },
-        {
-          "name": "The Reverend Willy Burke",
-          "url": "https://open.spotify.com/artist/3ovmhpKxLuRxanqgVTRc5a"
-        },
-        {
-          "name": "Earth",
-          "url": "https://open.spotify.com/artist/2cpOtm9Q9W08Srbpv6IHp4"
-        }
-      ],
-      "duration_ms": 200405,
-      "name": "Fashionable",
-      "url": "https://open.spotify.com/track/5iulUIqV8XFy1UPvQk0ndo"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

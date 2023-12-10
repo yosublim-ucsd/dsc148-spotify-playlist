@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 75,916 likes - 52 songs - 3 hr 30 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 75,919 likes - 52 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jurgita’s Theme](https://open.spotify.com/track/7n8IOvKlfpcd7yakNTnSPN) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g), [Katie Austra Stelmanis](https://open.spotify.com/artist/1YGbmqX8wyAWaFHe2c4rLi) | [Swan Song](https://open.spotify.com/album/1MqdekNvsg1MCVV6QSKUhw) | 2:50 |
+| 1 | [Jurgita’s Theme](https://open.spotify.com/track/7n8IOvKlfpcd7yakNTnSPN) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g), [Katie Austra Stelmanis](https://open.spotify.com/artist/1YGbmqX8wyAWaFHe2c4rLi) | [Swan Song \(Original Score\)](https://open.spotify.com/album/1MqdekNvsg1MCVV6QSKUhw) | 2:50 |
 | 2 | [Nietzsche on the Beach \- Raf Rundell Remix](https://open.spotify.com/track/1yMkWzGdFnyyL4We4Vqbvu) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6), [Raf Rundell](https://open.spotify.com/artist/3ndq9cOqNc3DEQOBsO10DG) | [All These Things \(Deluxe Edition\)](https://open.spotify.com/album/1m4JpY8QSuyeLk5L0ypRD1) | 5:52 |
 | 3 | [It's You \- CAPYAC Remix](https://open.spotify.com/track/4Ck1cHb2gXGgzYbcH76nKp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [It's You \(CAPYAC Remix\)](https://open.spotify.com/album/0Cn5qiWz8IFJOJLW1flXUW) | 3:53 |
 | 4 | [If Tomorrow Starts Without Me](https://open.spotify.com/track/5PH9ltMSmTtgnfTNCfuDao) | [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [If Tomorrow Starts Without Me](https://open.spotify.com/album/5r46cTa9GikApU5wqudbgi) | 3:06 |

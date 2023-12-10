@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Alec Benjamin
 
-532 songs - 1 day 3 hr 35 min
+533 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [Good Mood](https://open.spotify.com/track/2KGrjW9a45QpuBpjIiyPhT) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Good Mood](https://open.spotify.com/album/3rTINDQ7FOcyfFx6LQs8bA) | 2:59 | 2023-10-19 | 2023-12-08 |
 | [Good Things](https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Good Things](https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R) | 3:20 | 2023-11-09 |  |
 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 | 2023-06-15 | 2023-07-21 |
-| [Good to Know](https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii) | 2:42 | 2023-11-30 |  |
+| [Good to Know](https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii) | 2:42 | 2023-11-30 | 2023-12-10 |
+| [Good to Know](https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 2:42 | 2023-12-07 |  |
 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2023-08-10 | 2023-09-08 |
 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-21 | 2023-10-17 |
 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-10-12 | 2023-11-24 |
@@ -261,11 +262,11 @@
 | [I Sent My Therapist To Therapy](https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy](https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob) | 3:00 | 2023-12-07 |  |
 | [I Think She Wants Me](https://open.spotify.com/track/2IkYXrDWbwcYvQH02S8U1C) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/2UlxAQMoQOarg3nnSkGUzF) | 2:08 | 2023-06-15 | 2023-07-14 |
 | [I Want It \(Danny DeVito\)](https://open.spotify.com/track/3aXT30VvzkodMqmCicZ4SK) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [I Want It \(Danny DeVito\)](https://open.spotify.com/album/3WjI8Rip86vK7b1XwvrZ4D) | 2:14 | 2023-07-06 | 2023-09-01 |
-| [I Want More](https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH) | [I Want More](https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD) | 2:57 | 2023-11-30 |  |
+| [I Want More](https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH) | [I Want More](https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD) | 2:57 | 2023-11-30 |  |
 | [I Want That](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | 2:51 | 2023-10-05 | 2023-10-27 |
 | [I'll Be There](https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [I'll Be There](https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ) | 2:46 | 2023-10-12 | 2023-12-01 |
 | [I'm Done](https://open.spotify.com/track/2OfPiMCN1oV3lFgh6mO0vQ) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [I'm Done](https://open.spotify.com/album/3c9nI13kCbfkFJqaPJRGcs) | 2:29 | 2023-09-07 | 2023-10-13 |
-| [I'm that Girl](https://open.spotify.com/track/5AQ7gPE2eFq3gU3LbNbqd0) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [I'm That Girl](https://open.spotify.com/album/60yn2ERryxVKIMscxJEzdV) | 2:30 | 2023-12-07 |  |
+| [I'm That Girl](https://open.spotify.com/track/5AQ7gPE2eFq3gU3LbNbqd0) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [I'm That Girl](https://open.spotify.com/album/60yn2ERryxVKIMscxJEzdV) | 2:30 | 2023-12-07 |  |
 | [If You Died Today](https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X) | 2:42 | 2023-11-16 |  |
 | [If You Had Any Friends](https://open.spotify.com/track/6bsKxLQgVmEUeeHMmDIljz) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Like An Orchid](https://open.spotify.com/album/74TUZ5KkscrkUVq4DkndJk) | 2:54 | 2023-11-23 |  |
 | [if you only knew](https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:42 | 2023-12-07 |  |

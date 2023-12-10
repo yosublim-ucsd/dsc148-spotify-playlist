@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Water From Your Eyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,580 likes - 110 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,551 likes - 110 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 109 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 |
 | 110 | [Pull Me Back](https://open.spotify.com/track/74KoMmEZUjg01KyqNlrr5E) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Pull Me Back](https://open.spotify.com/album/3xs74lOmX9CWx2ZC7nbEYC) | 2:51 |
 
-Snapshot ID: `MCw2NDBlYWIzMzQ2ZTA0NDE0MDMzMmMwOWE5NmNkNjQ4MDAyMzc2N2Iz`
+Snapshot ID: `MCxhNWY5NDQwMThjYTk1ZGU1YWM0M2NmYzE1NTI5MzJmMTBlNGIzN2Yx`

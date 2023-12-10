@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-265 songs - 11 hr 39 min
+266 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,10 +52,11 @@
 | [Bye Bye Love](https://open.spotify.com/track/0xK34uEDBKa9ZzJ6kelLJE) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Definitive Pop: The Everly Brothers](https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d) | 2:22 | 2020-07-08 | 2022-07-29 |
 | [Bye Bye Love](https://open.spotify.com/track/6OPMgzdjWaxR0P8mCql03S) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:22 | 2020-07-08 | 2023-12-04 |
 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 | 2020-07-08 | 2023-09-15 |
+| [Bye Bye Love](https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Cadence Years, Vol\. 1](https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx) | 2:24 | 2023-10-17 |  |
 | [Catch a Falling Star \(with Mitchell Ayres and His Orchestra & The Ray Charles Singers\)](https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 2:28 | 2020-07-08 |  |
 | [Changing Partners \- Remastered](https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR) | 2:50 | 2020-07-08 | 2022-07-29 |
 | [Chicka Boom](https://open.spotify.com/track/3cJgmYBjL9BHjqBe331L07) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [Rock\-A\-Billy \- The Triad Sessions & More](https://open.spotify.com/album/6eMhNgB0h1J1gGMJTfLEwt) | 2:44 | 2020-07-08 | 2022-03-22 |
-| [Cindy Oh Cindy](https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 3:00 | 2020-07-08 |  |
+| [Cindy Oh Cindy](https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 3:00 | 2020-07-08 | 2023-12-10 |
 | [Cindy Oh Cindy](https://open.spotify.com/track/1mbXUmzG184YuT72QSGDBW) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Backline Volume 62](https://open.spotify.com/album/51W0rYKefZgAhZmPEMmoxR) | 3:03 | 2020-07-08 | 2022-07-29 |
 | [Come prima](https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:41 | 2020-07-08 | 2023-10-05 |
 | [Dark Moon](https://open.spotify.com/track/4wP00KOVlbp6UZRtfY4aoY) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [Must Have](https://open.spotify.com/album/5tS3mnciRSD6nPw2HPqLny) | 2:35 | 2020-07-08 | 2022-07-28 |

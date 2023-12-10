@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 105992,
+  "num_followers": 106034,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDkxODNlZDgzZDY5Zjg0ODRmOTAyYmE5MWY3NmExZGRkZDQ4YjBi",
+  "snapshot_id": "MCxhNjAxYTFlZjk0ODM5MjFiZTRlN2E4NjhhYzRiODlmZmI4NjgxMDdk",
   "tracks": [
     {
       "added_at": "2023-12-07 21:09:36",
@@ -711,22 +711,18 @@
     {
       "added_at": "2023-12-07 21:09:36",
       "album": {
-        "name": "Crimen (En Vivo en el Estadio \u00danico de La Plata)",
-        "url": "https://open.spotify.com/album/59CT9qCgsWkaHoFCSsCpYS"
+        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 246224,
-      "name": "Crimen (En Vivo en el Estadio \u00danico de La Plata)",
-      "url": "https://open.spotify.com/track/32VmKR8CWARcm5EistPADK"
+      "duration_ms": 283946,
+      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
     },
     {
       "added_at": "2023-12-07 21:09:36",
@@ -743,42 +739,6 @@
       "duration_ms": 291139,
       "name": "Banda de Garage",
       "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
-    },
-    {
-      "added_at": "2023-12-07 21:09:36",
-      "album": {
-        "name": "Nada Salvaje (En Vivo Estadio Obras)",
-        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 278984,
-      "name": "Nada Salvaje (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
-    },
-    {
-      "added_at": "2023-12-07 21:09:36",
-      "album": {
-        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 283946,
-      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
     },
     {
       "added_at": "2023-12-07 21:09:36",
@@ -811,6 +771,46 @@
       "duration_ms": 311605,
       "name": "De la Guitarra - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
+    },
+    {
+      "added_at": "2023-12-07 21:09:36",
+      "album": {
+        "name": "Nada Salvaje (En Vivo Estadio Obras)",
+        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 278984,
+      "name": "Nada Salvaje (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
+    },
+    {
+      "added_at": "2023-12-07 21:09:36",
+      "album": {
+        "name": "Crimen (En Vivo en el Estadio \u00danico de La Plata)",
+        "url": "https://open.spotify.com/album/59CT9qCgsWkaHoFCSsCpYS"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "duration_ms": 246224,
+      "name": "Crimen (En Vivo en el Estadio \u00danico de La Plata)",
+      "url": "https://open.spotify.com/track/32VmKR8CWARcm5EistPADK"
     },
     {
       "added_at": "2023-12-07 21:09:36",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-12-07 21:09:36",
       "album": {
-        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
-        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
+        "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
+        "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
       },
       "artists": [
         {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 339026,
-      "name": "La Leyenda del Hada y el Mago - En Vivo",
-      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
+      "duration_ms": 253968,
+      "name": "En el Bald\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
     },
     {
       "added_at": "2023-12-07 21:09:36",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-12-07 21:09:36",
       "album": {
-        "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
-        "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
+        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
+        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
         }
       ],
-      "duration_ms": 253968,
-      "name": "En el Bald\u00edo - En Vivo",
-      "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
+      "duration_ms": 339026,
+      "name": "La Leyenda del Hada y el Mago - En Vivo",
+      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
     },
     {
       "added_at": "2023-12-07 21:09:36",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-12-07 21:09:36",
       "album": {
-        "name": "Carretera Perdida (En Vivo)",
-        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
-      },
-      "artists": [
-        {
-          "name": "Buitres",
-          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
-        }
-      ],
-      "duration_ms": 290496,
-      "name": "Carretera Perdida - En Vivo",
-      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
-    },
-    {
-      "added_at": "2023-12-07 21:09:36",
-      "album": {
         "name": "Demonio Paraguayo (En Vivo)",
         "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
       },
@@ -1623,22 +1607,18 @@
     {
       "added_at": "2023-12-07 21:09:36",
       "album": {
-        "name": "Hasta Estallar (En Vivo)",
-        "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
+        "name": "Aut\u00f3dromo de Buenos Aires, 19 de Junio de 2021 (En Vivo)",
+        "url": "https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 280810,
-      "name": "Hasta Estallar (En Vivo)",
-      "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
+      "duration_ms": 225408,
+      "name": "Oportunidad Oportuna - En Vivo",
+      "url": "https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD"
     },
     {
       "added_at": "2023-12-07 21:09:36",
@@ -1663,18 +1643,38 @@
     {
       "added_at": "2023-12-07 21:09:36",
       "album": {
-        "name": "Aut\u00f3dromo de Buenos Aires, 19 de Junio de 2021 (En Vivo)",
-        "url": "https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8"
+        "name": "Carretera Perdida (En Vivo)",
+        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
         }
       ],
-      "duration_ms": 225408,
-      "name": "Oportunidad Oportuna - En Vivo",
-      "url": "https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD"
+      "duration_ms": 290496,
+      "name": "Carretera Perdida - En Vivo",
+      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
+    },
+    {
+      "added_at": "2023-12-07 21:09:36",
+      "album": {
+        "name": "Hasta Estallar (En Vivo)",
+        "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 280810,
+      "name": "Hasta Estallar (En Vivo)",
+      "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
     },
     {
       "added_at": "2023-12-07 21:09:36",

@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1204355,
+  "num_followers": 1204811,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDEyZWIyMzA2NTMxODRhNWI0Y2E1NDUyNWIyYjY0ZjZkM2E1NDNk",
+  "snapshot_id": "MCw3OTAwMzYwYzU2OTM0MTY3Mzg4ODZjYTU0MGZmYzExMTBiMmZiM2Mw",
   "tracks": [
     {
       "added_at": "2023-12-01 10:52:12",
@@ -41,7 +41,7 @@
         }
       ],
       "duration_ms": 261881,
-      "name": "It Runs Through Me",
+      "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "ARE WE STILL DREAMING?",
-        "url": "https://open.spotify.com/album/4DqJ4gzYejnGEGd8mIvySJ"
-      },
-      "artists": [
-        {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "Konteks",
-          "url": "https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R"
-        }
-      ],
-      "duration_ms": 199373,
-      "name": "Bittersweet Baby",
-      "url": "https://open.spotify.com/track/7KPZwV0b7aFQXhIPahLJdZ"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "GISEKE",
         "url": "https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/344MYybqGBtYOEI97tb0f5"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "ARE WE STILL DREAMING?",
+        "url": "https://open.spotify.com/album/4DqJ4gzYejnGEGd8mIvySJ"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "Konteks",
+          "url": "https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R"
+        }
+      ],
+      "duration_ms": 199373,
+      "name": "Bittersweet Baby",
+      "url": "https://open.spotify.com/track/7KPZwV0b7aFQXhIPahLJdZ"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
-      },
-      "artists": [
-        {
-          "name": "Grand Puba",
-          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "A Little Of This",
-      "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "Dear Annie",
         "url": "https://open.spotify.com/album/4EY6NvQTvyRt6n5iwTmgmP"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 256613,
       "name": "Egyptian Luvr",
       "url": "https://open.spotify.com/track/48Co4cbgmgcAGch0mZoJuJ"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
+      },
+      "artists": [
+        {
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "A Little Of This",
+      "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
+        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        }
+      ],
+      "duration_ms": 253068,
+      "name": "2000 Seasons",
+      "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "Baw Baw Black Sheep",
         "url": "https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 259906,
       "name": "Cookie Chips",
       "url": "https://open.spotify.com/track/75yIue8dwthQA0QKd9ktyI"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
-        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
-      },
-      "artists": [
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        }
-      ],
-      "duration_ms": 253068,
-      "name": "2000 Seasons",
-      "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "LONERWRLD, vol 1",
+        "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 130742,
+      "name": "Fly god manners",
+      "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 226933,
       "name": "Standing There",
       "url": "https://open.spotify.com/track/11qPxILRaVPoLVgVajD82l"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "LONERWRLD, vol 1",
-        "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 130742,
-      "name": "Fly god manners",
-      "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1023,30 +1023,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "The Return (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3qA0tPLgVE2F7GjnaqGLDP"
-      },
-      "artists": [
-        {
-          "name": "Glad2Mecha",
-          "url": "https://open.spotify.com/artist/6pokAyXBznXdV5T3gO6cNQ"
-        },
-        {
-          "name": "Ill Treats",
-          "url": "https://open.spotify.com/artist/2XbREPVhH8KH3T1jUiSEgk"
-        },
-        {
-          "name": "Grand Puba",
-          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
-        }
-      ],
-      "duration_ms": 147617,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "Jagged Tooth Crook",
         "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 224374,
       "name": "Feeling High",
       "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "The Return (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3qA0tPLgVE2F7GjnaqGLDP"
+      },
+      "artists": [
+        {
+          "name": "Glad2Mecha",
+          "url": "https://open.spotify.com/artist/6pokAyXBznXdV5T3gO6cNQ"
+        },
+        {
+          "name": "Ill Treats",
+          "url": "https://open.spotify.com/artist/2XbREPVhH8KH3T1jUiSEgk"
+        },
+        {
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
+        }
+      ],
+      "duration_ms": 147617,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "You Don\u2019t Know",
         "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 250450,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "Drive Slow",
-        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Drive Slow",
-      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "IMMORTAL",
         "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 185298,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+      },
+      "artists": [
+        {
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Memories Live",
+      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "079 (FloFilz Remix)",
         "url": "https://open.spotify.com/album/05TPfdtXGqzfv9BCkoqBXI"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 117546,
       "name": "079 (FloFilz Remix)",
       "url": "https://open.spotify.com/track/3BmufJ1d3jKAO27o1MNcib"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
-      },
-      "artists": [
-        {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Memories Live",
-      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 144140,
-      "name": "Guapanese",
-      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 276252,
-      "name": "Organic Rust",
-      "url": "https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
       },
       "artists": [
         {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+      "duration_ms": 276252,
+      "name": "Organic Rust",
+      "url": "https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1651,6 +1635,22 @@
       "duration_ms": 165565,
       "name": "Chicken Wings - Remix",
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
+      },
+      "artists": [
+        {
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "Oh Word",
+        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "Oh Word",
+      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "Back At The House",
         "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 258461,
       "name": "Down",
       "url": "https://open.spotify.com/track/0XnhTgMuX3ncdnf5mZnce8"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "Oh Word",
-        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "Oh Word",
-      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "See You Soon",
         "url": "https://open.spotify.com/album/1SNP0P2cVcqaptGedMs2Qd"
       },
@@ -1887,6 +1871,42 @@
       "duration_ms": 153750,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/5Niwu1Unu9JZEkkFmvWfyZ"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+      },
+      "artists": [
+        {
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "Fonografie",
+        "url": "https://open.spotify.com/album/2yKN9OrDfm7XgOTzQwE9Cu"
+      },
+      "artists": [
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "Isatta Sheriff",
+          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Laid Back",
+      "url": "https://open.spotify.com/track/6Dc2JmMqBvSFsPaU6kWrya"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1923,26 +1943,6 @@
       "duration_ms": 168000,
       "name": "Heart Shaped Kisses",
       "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "Fonografie",
-        "url": "https://open.spotify.com/album/2yKN9OrDfm7XgOTzQwE9Cu"
-      },
-      "artists": [
-        {
-          "name": "Koralle",
-          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
-        },
-        {
-          "name": "Isatta Sheriff",
-          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Laid Back",
-      "url": "https://open.spotify.com/track/6Dc2JmMqBvSFsPaU6kWrya"
     },
     {
       "added_at": "2023-12-01 10:52:12",

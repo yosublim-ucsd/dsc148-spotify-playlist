@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > La nueva generación del pop que definió el 2023 con RENEE en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,716 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,747 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 21 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
 | 22 | [hoy no me encuentro para nadie](https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [hoy no me encuentro para nadie](https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw) | 2:44 |
 | 23 | [Agua Caliente](https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Agua Caliente](https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL) | 3:20 |
-| 24 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 |
-| 25 | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t) | 2:30 |
-| 26 | [Como las Aves](https://open.spotify.com/track/7CKkmL3rfnchJtVvGuRoyH) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC) | 2:18 |
-| 27 | [TQM](https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Recuerdos de un amor](https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP) | 3:30 |
-| 28 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |
+| 24 | [Como las Aves](https://open.spotify.com/track/7CKkmL3rfnchJtVvGuRoyH) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC) | 2:18 |
+| 25 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 |
+| 26 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |
+| 27 | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t) | 2:30 |
+| 28 | [TQM](https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Recuerdos de un amor](https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP) | 3:30 |
 | 29 | [Terapia](https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Terapia](https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN) | 2:42 |
 | 30 | [Bonita](https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Bonita](https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT) | 2:54 |
 | 31 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 33 | [hot wheels](https://open.spotify.com/track/3Luh6sz1FHuGEv1HFhIR0m) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [hot wheels](https://open.spotify.com/album/3bRecRHl4ngDmRJZ1SQVN2) | 2:49 |
 | 34 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 |
 | 35 | [Alta Joya](https://open.spotify.com/track/3eULD3gV9SBdt3yYsycDUd) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [A Sus Órdenes](https://open.spotify.com/album/23cpCT5WYsJq7lr1C5JTOO) | 3:21 |
-| 36 | [Desamor Feliz Pt\. 2](https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz Pt\. 2](https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj) | 2:36 |
-| 37 | [Despejao](https://open.spotify.com/track/0FgZOpqfzeuaogejdUrcfR) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Retrofuturismo](https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK) | 2:46 |
+| 36 | [Despejao](https://open.spotify.com/track/0FgZOpqfzeuaogejdUrcfR) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Retrofuturismo](https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK) | 2:46 |
+| 37 | [Desamor Feliz Pt\. 2](https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz Pt\. 2](https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj) | 2:36 |
 | 38 | [Mi Fantasma](https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Mi Fantasma](https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1) | 2:42 |
 | 39 | [no soy yo](https://open.spotify.com/track/0tAacdFeAEMvufvMJWPDWY) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [no soy yo](https://open.spotify.com/album/3gS6OyLqYMKvBJelzhUCHP) | 2:33 |
 | 40 | [cansada de verte en todas partes](https://open.spotify.com/track/3DXxe99pe0kM1UBgUR8fGm) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 2:50 |
-| 41 | [El Cuarto](https://open.spotify.com/track/7aS0Pnk0APU2ohbp65JWtD) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [El Cuarto](https://open.spotify.com/album/47Uo4JY8vjARJ3MulZuKe6) | 2:56 |
-| 42 | [Noches](https://open.spotify.com/track/2UjsowCzfBcEGLbtmy4amt) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Noches](https://open.spotify.com/album/1osB0AMsvdhhUi9To2mYOV) | 2:49 |
+| 41 | [Noches](https://open.spotify.com/track/2UjsowCzfBcEGLbtmy4amt) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Noches](https://open.spotify.com/album/1osB0AMsvdhhUi9To2mYOV) | 2:49 |
+| 42 | [El Cuarto](https://open.spotify.com/track/7aS0Pnk0APU2ohbp65JWtD) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [El Cuarto](https://open.spotify.com/album/47Uo4JY8vjARJ3MulZuKe6) | 2:56 |
 | 43 | [La Lista](https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Boleros que me dictó el gallo](https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX) | 4:15 |
 | 44 | [Hospital Sentimental](https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hospital Sentimental](https://open.spotify.com/album/2TI5EI92Ji5MrzH9GcglFO) | 3:19 |
-| 45 | [Ultraviolento](https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [Ultraviolento](https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ) | 2:40 |
-| 46 | [Levitando en la Ciudad](https://open.spotify.com/track/1tENiVcTTaM6xmhDO2HR9Z) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Levitando en la Ciudad](https://open.spotify.com/album/156lO3PeIUpcTVwZocak40) | 3:34 |
+| 45 | [Levitando en la Ciudad](https://open.spotify.com/track/1tENiVcTTaM6xmhDO2HR9Z) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Levitando en la Ciudad](https://open.spotify.com/album/156lO3PeIUpcTVwZocak40) | 3:34 |
+| 46 | [Ultraviolento](https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [Ultraviolento](https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ) | 2:40 |
 | 47 | [Ya nada es igual](https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [lo haría todo de nuevo](https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3) | 3:33 |
 | 48 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 |
 | 49 | [Victoria](https://open.spotify.com/track/5pFhpiXdm55l9tbjo1cIP9) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Victoria](https://open.spotify.com/album/7mf8M3rvY415MLnakBrboi) | 3:05 |
 | 50 | [Viral](https://open.spotify.com/track/2mvJIj7K8000broZTq6eks) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Me gusto de noche](https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC) | 2:32 |
 
-Snapshot ID: `MCwwMGFjMTM1YWVkZTQzZWU2MGE0ZjFiMDYzNjUxNWUyMWM2YzIwYTRi`
+Snapshot ID: `MCwxNmU5NDU3NmRiNWQwZDUwY2Q5M2JhNGNkYWQyMmE5Y2IwNDI2Y2Vm`

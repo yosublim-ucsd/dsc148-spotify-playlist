@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Our editor’s picks for best Pakistani songs of the year\. Cover: Adnan Dhool
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,938 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,999 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 49 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 |
 | 50 | [Dont Mind](https://open.spotify.com/track/4Tol72m7hzEseRnsDc3SWw) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok) | [Dont Mind](https://open.spotify.com/album/2RYxxTiEz84BdXyFT5LrSp) | 3:14 |
 
-Snapshot ID: `MCxhMTE3NzUyMGMzOTEzY2RmNjc5Mjg1YTdmODAwOTFjYzUyZGZiMmQ2`
+Snapshot ID: `MCwwY2YyZjIzOTgwY2I2ODlkZjE3ZWM4OTNmZTdhMTY0MTQ2Zjg3ZjMw`

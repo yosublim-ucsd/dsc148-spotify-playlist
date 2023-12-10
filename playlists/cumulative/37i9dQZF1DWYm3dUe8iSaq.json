@@ -2628,6 +2628,24 @@
     {
       "album": {
         "name": "Party Dress",
+        "url": "https://open.spotify.com/album/0SO1c2tJd1cdbNlxM2W4sY"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194942,
+      "name": "Party Dress",
+      "url": "https://open.spotify.com/track/0N2cfvsgB5FiMwHBmheXu9"
+    },
+    {
+      "album": {
+        "name": "Party Dress",
         "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
       },
       "artists": [
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 194942,
       "name": "Party Dress",
       "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"

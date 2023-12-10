@@ -12233,24 +12233,6 @@
     },
     {
       "album": {
-        "name": "Racy",
-        "url": "https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo"
-      },
-      "artists": [
-        {
-          "name": "ako",
-          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
-        }
-      ],
-      "date_added": "2023-11-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 269306,
-      "name": "Racy",
-      "url": "https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb"
-    },
-    {
-      "album": {
         "name": "racy",
         "url": "https://open.spotify.com/album/1WHbuGwCu7BumeZtxl4k38"
       },
@@ -12266,6 +12248,24 @@
       "duration_ms": 269306,
       "name": "racy",
       "url": "https://open.spotify.com/track/56d4QRwypo3gFJCOai7XFS"
+    },
+    {
+      "album": {
+        "name": "Racy",
+        "url": "https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269306,
+      "name": "Racy",
+      "url": "https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb"
     },
     {
       "album": {
@@ -13298,8 +13298,8 @@
       },
       "artists": [
         {
-          "name": "ako",
-          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
         }
       ],
       "date_added": "2023-12-05",

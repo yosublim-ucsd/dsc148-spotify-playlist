@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-1,577 songs - 3 day 4 hr 3 min
+1,578 songs - 3 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [FACEDOWN](https://open.spotify.com/track/7BBSPfuSgfIC4QNxGwv3To) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [FREERADICAL](https://open.spotify.com/album/16BKHt7X9RLsMWVzQdUheU) | 3:56 | 2020-10-13\* | 2021-01-23 |
 | [FADE](https://open.spotify.com/track/2queNX3zTuto5XSXuUZlEe) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH), [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF) | [FADE](https://open.spotify.com/album/1Qok0qVzGIHGooRA7zWZGM) | 2:24 | 2021-06-12 | 2021-10-14 |
 | [FAF](https://open.spotify.com/track/70ig0TCWBDkxBBpx1C6cj5) | [Juto](https://open.spotify.com/artist/2txTOM1PXeT6aMDnEtSbn1) | [Wool](https://open.spotify.com/album/1WTHhcrE1GoGl28FM5FjT5) | 1:48 | 2020-10-13\* | 2021-01-23 |
+| [Failed at Math\(s\) \- Billy Lemos Remix](https://open.spotify.com/track/7e38DGW5pLhY3rzmChje9m) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Failed at Math\(s\) \(Billy Lemos Remix\)](https://open.spotify.com/album/0xf3dWUvu8vDrKjPxqRvag) | 2:08 | 2023-12-08 |  |
 | [Fairweather Friends](https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 1:34 | 2023-09-22 | 2023-10-14 |
 | [Fairweather Friends](https://open.spotify.com/track/3VMK6tAjOT4INvBdZOtB9J) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Fairweather Friends](https://open.spotify.com/album/0Lgte4FZ2oPj12uHFYWCQn) | 1:34 | 2023-09-15 | 2023-10-12 |
 | [Fairy Dust](https://open.spotify.com/track/5hV4znzZrmszoZw2v41aMD) | [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Fairy Dust](https://open.spotify.com/album/6vPj3iykyriaTaYRUQiG9c) | 2:54 | 2021-02-20 | 2021-10-16 |
@@ -1177,7 +1178,7 @@
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2022-11-30 | 2023-03-02 |
 | [seaside\_demo](https://open.spotify.com/track/73M0rMVx5CWE8M4uATSsto) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/4FzvipXCsh9Ho8aujaOkLs) | 2:12 | 2021-05-19 | 2021-10-13 |
 | [Secrecy](https://open.spotify.com/track/5TbEyzfYutTYuRohpLm03w) | [Hazy Shea](https://open.spotify.com/artist/5SxHh5TntW7TN01Igtc4B4), [Jae Lynx](https://open.spotify.com/artist/03lamRtaO7ZuCSn2qFfmMN) | [Secrecy](https://open.spotify.com/album/7Av2fxNnC5OpUBNgvQcYSf) | 3:06 | 2022-06-17 | 2022-08-06 |
-| [secret road](https://open.spotify.com/track/3Ert93xdqjdLfN1ZOEvwUX) | [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV), [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP), [My Favorite Color](https://open.spotify.com/artist/1xN2qWPRezQuTyI3SMSPuD) | [secret road](https://open.spotify.com/album/0UM7rBDD63oIcCZWP1P0g7) | 2:37 | 2023-07-21 |  |
+| [secret road](https://open.spotify.com/track/3Ert93xdqjdLfN1ZOEvwUX) | [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV), [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP), [My Favorite Color](https://open.spotify.com/artist/1xN2qWPRezQuTyI3SMSPuD) | [secret road](https://open.spotify.com/album/0UM7rBDD63oIcCZWP1P0g7) | 2:37 | 2023-07-21 | 2023-12-10 |
 | [Self!](https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Self!](https://open.spotify.com/album/0R4NeOHuEtXXpjG0xkIKcX) | 3:50 | 2021-03-19 | 2021-10-14 |
 | [Send Me Off](https://open.spotify.com/track/0uCIbG0Dx6ACLTwtoTB6k1) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs), [SALPA](https://open.spotify.com/artist/5PzAy8BYEOWW9Vu6feYpvO) | [Send Me Off](https://open.spotify.com/album/1onw601iAxmF39SPyJyQ9G) | 3:47 | 2023-06-16 | 2023-09-09 |
 | [Sensitive](https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte) | 2:54 | 2022-07-18 | 2022-10-04 |

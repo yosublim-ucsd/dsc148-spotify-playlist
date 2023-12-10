@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 240981,
+  "num_followers": 241007,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODZiZmNmZjYyNTYzY2E1NTUyMWU0ZWQ5N2ZmMmIwZmIyZjFiNDgx",
+  "snapshot_id": "MCw0Zjg3OGJkYzIwOWJhN2FmZjJmZWE4MDU3YzQwNWU2ZjYwMjZmNzhj",
   "tracks": [
     {
       "added_at": "2023-12-07 23:37:57",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
         "name": "That's You",
         "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 251038,
       "name": "That's You",
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
+        "name": "Heartbreak & Other Stories",
+        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 164706,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
         "name": "Don't Give It Away",
         "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 206143,
       "name": "Don't Give It Away (with Chris Brown)",
       "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
-        "name": "Heartbreak & Other Stories",
-        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 164706,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "duration_ms": 150799,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
         "name": "Life Is Better Now",
         "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
+        "name": "Look My Way",
+        "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
       },
       "artists": [
         {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
         }
       ],
-      "duration_ms": 150799,
-      "name": "Tasty",
-      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
+      "duration_ms": 174000,
+      "name": "Look My Way",
+      "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -867,22 +883,6 @@
       "duration_ms": 214455,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
-        "name": "Look My Way",
-        "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Look My Way",
-      "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 157800,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU"
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
       },
       "artists": [
         {
-          "name": "Luna Mae",
-          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        },
+        {
+          "name": "Majo",
+          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
         }
       ],
-      "duration_ms": 170129,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
+      "duration_ms": 186666,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU"
       },
       "artists": [
         {
-          "name": "Alice Aera",
-          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
-        },
-        {
-          "name": "Majo",
-          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
+          "name": "Luna Mae",
+          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
         }
       ],
-      "duration_ms": 186666,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
+      "duration_ms": 170129,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "On Mine",
-        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
-      },
-      "artists": [
-        {
-          "name": "Imani Williams",
-          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 143986,
-      "name": "On Mine",
-      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
         "name": "Out of Touch",
         "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 212574,
       "name": "Out of Touch",
       "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
+        "name": "On Mine",
+        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
+      },
+      "artists": [
+        {
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 143986,
+      "name": "On Mine",
+      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        },
+        {
+          "name": "Amelia Rose",
+          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
+        }
+      ],
+      "duration_ms": 258530,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
         "name": "I Love You And Its Getting Worse",
         "url": "https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu"
       },
@@ -1367,22 +1387,6 @@
       "duration_ms": 156213,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
-        "name": "hoe bedoel je?",
-        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Dubb",
-          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
-        }
-      ],
-      "duration_ms": 137846,
-      "name": "hoe bedoel je?",
-      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1423,6 +1427,22 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
+        "name": "hoe bedoel je?",
+        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Dubb",
+          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
+        }
+      ],
+      "duration_ms": 137846,
+      "name": "hoe bedoel je?",
+      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 169727,
       "name": "Peace",
       "url": "https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
-      },
-      "artists": [
-        {
-          "name": "Carlos Abril",
-          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
-        },
-        {
-          "name": "Amelia Rose",
-          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
-        }
-      ],
-      "duration_ms": 258530,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
-      },
-      "artists": [
-        {
-          "name": "Miss Lafamilia",
-          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
-        }
-      ],
-      "duration_ms": 173909,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/6OskzKNJss2nReEKRchfiy"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 164286,
       "name": "Linger On",
       "url": "https://open.spotify.com/track/6sAhTL86FQa2RhdbozNECI"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
+      },
+      "artists": [
+        {
+          "name": "Miss Lafamilia",
+          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
     },
     {
       "added_at": "2023-12-07 23:37:57",

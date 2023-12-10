@@ -1,12 +1,12 @@
 {
   "description": "Relax and fall asleep to ASMR trigger sounds (no talking).",
-  "num_followers": 246302,
+  "num_followers": 246294,
   "original_name": "ASMR Sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDY4YzdkNDdkNjY3YzJlNTIzYTUzYmNhNDdhMTlhZmI1ZDQwNWM1",
+  "snapshot_id": "MCw0OTYwMjVkNDY4MzVmZDYxMGMyOGY4NGMzOGE3OGU4YTE5MThiNWFi",
   "tracks": [
     {
       "added_at": "2023-09-08 11:50:59",
@@ -139,6 +139,26 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
+        "name": "ASMR Looped Sounds for Relax, Sleep, Mind Cleansing and Calming",
+        "url": "https://open.spotify.com/album/1o2iMD9Lt4dLWOlVWlupoJ"
+      },
+      "artists": [
+        {
+          "name": "ASMR Insomnia Aid & Sounds for Sleep",
+          "url": "https://open.spotify.com/artist/0yN0qOhddGt45V7av1mNVO"
+        },
+        {
+          "name": "ASMR Sounds",
+          "url": "https://open.spotify.com/artist/3k8lnyyV1B08YBjFNIFfIG"
+        }
+      ],
+      "duration_ms": 130462,
+      "name": "Brushing the Microphone ASMR",
+      "url": "https://open.spotify.com/track/3CYq5eDRNgrq2nm5FG5I7x"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
         "name": "ASMR Office",
         "url": "https://open.spotify.com/album/2ohEemVvo6bmu8mnRPuKYf"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 218023,
       "name": "ASMR Cork Blocks",
       "url": "https://open.spotify.com/track/5bhRvoADimK3qiOESO2ocU"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "ASMR Looped Sounds for Relax, Sleep, Mind Cleansing and Calming",
-        "url": "https://open.spotify.com/album/1o2iMD9Lt4dLWOlVWlupoJ"
-      },
-      "artists": [
-        {
-          "name": "ASMR Insomnia Aid & Sounds for Sleep",
-          "url": "https://open.spotify.com/artist/0yN0qOhddGt45V7av1mNVO"
-        },
-        {
-          "name": "ASMR Sounds",
-          "url": "https://open.spotify.com/artist/3k8lnyyV1B08YBjFNIFfIG"
-        }
-      ],
-      "duration_ms": 130462,
-      "name": "Brushing the Microphone ASMR",
-      "url": "https://open.spotify.com/track/3CYq5eDRNgrq2nm5FG5I7x"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "100 Tech Triggers in 6 Minutes ASMR (No Talking)",
-        "url": "https://open.spotify.com/album/11JMxc4ZDaa0M7ntlOmXbN"
-      },
-      "artists": [
-        {
-          "name": "ASMR Art of Sound",
-          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "100 Tech Triggers, Pt. 1",
-      "url": "https://open.spotify.com/track/0jEl4jILzvxfBsnovhVgfl"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
         "name": "ASMR Calm",
         "url": "https://open.spotify.com/album/3P8FCAFIMtxeYPv9Wk4INP"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 211408,
       "name": "Brushing Hair",
       "url": "https://open.spotify.com/track/6sYYyEh9z14wOYwsnrqOAK"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "100 Tech Triggers in 6 Minutes ASMR (No Talking)",
+        "url": "https://open.spotify.com/album/11JMxc4ZDaa0M7ntlOmXbN"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "100 Tech Triggers, Pt. 1",
+      "url": "https://open.spotify.com/track/0jEl4jILzvxfBsnovhVgfl"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "ASMR Flipping Through Old Book by Candlelight",
-        "url": "https://open.spotify.com/album/16F8iZfEhED7MOC5ckmCfO"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Cottage ASMR",
-          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Flipping Through an Old Book, Pt. 2",
-      "url": "https://open.spotify.com/track/0LYLKz0eVF7M5vYp7KK1ZX"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
         "name": "Soothing ASMR Triggers",
         "url": "https://open.spotify.com/album/4Jyv1kYzSiyUk1IozTT1Zj"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 151863,
       "name": "Tiny Box Of Matches ASMR",
       "url": "https://open.spotify.com/track/1GLZwKLcdX45FRKRgv042x"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "ASMR Flipping Through Old Book by Candlelight",
+        "url": "https://open.spotify.com/album/16F8iZfEhED7MOC5ckmCfO"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Cottage ASMR",
+          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Flipping Through an Old Book, Pt. 2",
+      "url": "https://open.spotify.com/track/0LYLKz0eVF7M5vYp7KK1ZX"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "ASMR Trigger 3",
-        "url": "https://open.spotify.com/album/1i4UcukSMDjYdDkWz0HXL7"
-      },
-      "artists": [
-        {
-          "name": "Davina Rosa ASMR",
-          "url": "https://open.spotify.com/artist/6AmNSVceuMYWCT8KWaKJvY"
-        }
-      ],
-      "duration_ms": 129345,
-      "name": "Scratching a Card",
-      "url": "https://open.spotify.com/track/0MgP3681rNbxL7neLDGt2c"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
         "name": "My ASMR",
         "url": "https://open.spotify.com/album/40CtxGFKuTFyPVtEBVYZrp"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 275176,
       "name": "Foam Adventures",
       "url": "https://open.spotify.com/track/1ayXJx6qI4NNuWJYhr8m8d"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "ASMR Trigger 3",
+        "url": "https://open.spotify.com/album/1i4UcukSMDjYdDkWz0HXL7"
+      },
+      "artists": [
+        {
+          "name": "Davina Rosa ASMR",
+          "url": "https://open.spotify.com/artist/6AmNSVceuMYWCT8KWaKJvY"
+        }
+      ],
+      "duration_ms": 129345,
+      "name": "Scratching a Card",
+      "url": "https://open.spotify.com/track/0MgP3681rNbxL7neLDGt2c"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
+        "name": "ASMR Triggers",
+        "url": "https://open.spotify.com/album/5K8Ffdpr6gavOMgcJqBAnt"
+      },
+      "artists": [
+        {
+          "name": "Ximena ASMR",
+          "url": "https://open.spotify.com/artist/767AHUMRiN6uuhJu9xNw8C"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Scotch Tape",
+      "url": "https://open.spotify.com/track/7agAvFih8WVi3rroAqN8s5"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
         "name": "3D Cranial Nerve Exam",
         "url": "https://open.spotify.com/album/6IFiQLjTZ6E96Aaqiw67CW"
       },
@@ -699,6 +715,22 @@
       "duration_ms": 185266,
       "name": "Creme",
       "url": "https://open.spotify.com/track/1xLBxcthYtvOsybcSLxHKv"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Cozy Hair Brushing | ASMR",
+        "url": "https://open.spotify.com/album/1etbX0P2iBS6Wf5Ey6igcf"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Cottage ASMR",
+          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
+        }
+      ],
+      "duration_ms": 379000,
+      "name": "Wooden Brush 1",
+      "url": "https://open.spotify.com/track/4yDH6sGPzeQBnGNSQUpcHZ"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -719,34 +751,18 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "ASMR Triggers",
-        "url": "https://open.spotify.com/album/5K8Ffdpr6gavOMgcJqBAnt"
+        "name": "Slime and Shake Triggers",
+        "url": "https://open.spotify.com/album/4PK3YilJl5yGEgtDraRoqj"
       },
       "artists": [
         {
-          "name": "Ximena ASMR",
-          "url": "https://open.spotify.com/artist/767AHUMRiN6uuhJu9xNw8C"
+          "name": "ASMR Gemma",
+          "url": "https://open.spotify.com/artist/6w9qZHndDCsJ8ctlPAVinf"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Scotch Tape",
-      "url": "https://open.spotify.com/track/7agAvFih8WVi3rroAqN8s5"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "Cozy Hair Brushing | ASMR",
-        "url": "https://open.spotify.com/album/1etbX0P2iBS6Wf5Ey6igcf"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Cottage ASMR",
-          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
-        }
-      ],
-      "duration_ms": 379000,
-      "name": "Wooden Brush 1",
-      "url": "https://open.spotify.com/track/4yDH6sGPzeQBnGNSQUpcHZ"
+      "duration_ms": 124102,
+      "name": "Tapping Cardboard",
+      "url": "https://open.spotify.com/track/77qUz5rMqvGpou3SMSMl92"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -783,34 +799,18 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "Slime and Shake Triggers",
-        "url": "https://open.spotify.com/album/4PK3YilJl5yGEgtDraRoqj"
+        "name": "Sorting Fantasy & Medieval Coins | ASMR Cozy Basics",
+        "url": "https://open.spotify.com/album/7Amaypzgbs3yueIMb6AeYF"
       },
       "artists": [
         {
-          "name": "ASMR Gemma",
-          "url": "https://open.spotify.com/artist/6w9qZHndDCsJ8ctlPAVinf"
+          "name": "Moonlight Cottage ASMR",
+          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
         }
       ],
-      "duration_ms": 124102,
-      "name": "Tapping Cardboard",
-      "url": "https://open.spotify.com/track/77qUz5rMqvGpou3SMSMl92"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "Little Triggers",
-        "url": "https://open.spotify.com/album/0Kzk3egGX2gCDuVDnM021y"
-      },
-      "artists": [
-        {
-          "name": "ASMR Universe",
-          "url": "https://open.spotify.com/artist/2b6aLbBGomJ14xcyzSLz89"
-        }
-      ],
-      "duration_ms": 234725,
-      "name": "Playing with Rubber Cat Toy",
-      "url": "https://open.spotify.com/track/1nf0NCBNF5OoxVMuhwsqxo"
+      "duration_ms": 350350,
+      "name": "Putting the Coins Into Purses",
+      "url": "https://open.spotify.com/track/7yvcrUSEg3bgPw0UxoU3xc"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "Sorting Fantasy & Medieval Coins | ASMR Cozy Basics",
-        "url": "https://open.spotify.com/album/7Amaypzgbs3yueIMb6AeYF"
+        "name": "Little Triggers",
+        "url": "https://open.spotify.com/album/0Kzk3egGX2gCDuVDnM021y"
       },
       "artists": [
         {
-          "name": "Moonlight Cottage ASMR",
-          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
+          "name": "ASMR Universe",
+          "url": "https://open.spotify.com/artist/2b6aLbBGomJ14xcyzSLz89"
         }
       ],
-      "duration_ms": 350350,
-      "name": "Putting the Coins Into Purses",
-      "url": "https://open.spotify.com/track/7yvcrUSEg3bgPw0UxoU3xc"
+      "duration_ms": 234725,
+      "name": "Playing with Rubber Cat Toy",
+      "url": "https://open.spotify.com/track/1nf0NCBNF5OoxVMuhwsqxo"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "Dreams in ASMR",
-        "url": "https://open.spotify.com/album/1mNdthvtI5W5sOlNc6WlV7"
+        "name": "Fabric Scratching Leather Pants and Couch",
+        "url": "https://open.spotify.com/album/5Yp6n182gQ3ovwigyjfydX"
       },
       "artists": [
         {
-          "name": "My ASMR Moments",
-          "url": "https://open.spotify.com/artist/4fDLOWMUohFG9nRjxY7aHL"
+          "name": "Lisa ASMR",
+          "url": "https://open.spotify.com/artist/1wCkck4gRunTrFmKZURDmZ"
         }
       ],
-      "duration_ms": 297441,
-      "name": "Playing with Small Phone",
-      "url": "https://open.spotify.com/track/1hoOVYXHpeJyEJdXXuGruO"
+      "duration_ms": 194500,
+      "name": "Fabric Scratching Leather Pants, Pt. 1",
+      "url": "https://open.spotify.com/track/27C2gYLh3vg7BwbFKM6Fis"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -895,18 +895,34 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "Fabric Scratching Leather Pants and Couch",
-        "url": "https://open.spotify.com/album/5Yp6n182gQ3ovwigyjfydX"
+        "name": "Dreams in ASMR",
+        "url": "https://open.spotify.com/album/1mNdthvtI5W5sOlNc6WlV7"
       },
       "artists": [
         {
-          "name": "Lisa ASMR",
-          "url": "https://open.spotify.com/artist/1wCkck4gRunTrFmKZURDmZ"
+          "name": "My ASMR Moments",
+          "url": "https://open.spotify.com/artist/4fDLOWMUohFG9nRjxY7aHL"
         }
       ],
-      "duration_ms": 194500,
-      "name": "Fabric Scratching Leather Pants, Pt. 1",
-      "url": "https://open.spotify.com/track/27C2gYLh3vg7BwbFKM6Fis"
+      "duration_ms": 297441,
+      "name": "Playing with Small Phone",
+      "url": "https://open.spotify.com/track/1hoOVYXHpeJyEJdXXuGruO"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Crunchy Tings ASMR",
+        "url": "https://open.spotify.com/album/1NA0R6V2R0BS0oDMKl0L2d"
+      },
+      "artists": [
+        {
+          "name": "ASMR Gemma",
+          "url": "https://open.spotify.com/artist/6w9qZHndDCsJ8ctlPAVinf"
+        }
+      ],
+      "duration_ms": 308427,
+      "name": "Mint and Chamomile",
+      "url": "https://open.spotify.com/track/3WxgCIP1ZV9X59HlYN3qzw"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "Crunchy Tings ASMR",
-        "url": "https://open.spotify.com/album/1NA0R6V2R0BS0oDMKl0L2d"
-      },
-      "artists": [
-        {
-          "name": "ASMR Gemma",
-          "url": "https://open.spotify.com/artist/6w9qZHndDCsJ8ctlPAVinf"
-        }
-      ],
-      "duration_ms": 308427,
-      "name": "Mint and Chamomile",
-      "url": "https://open.spotify.com/track/3WxgCIP1ZV9X59HlYN3qzw"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
         "name": "F1",
         "url": "https://open.spotify.com/album/47kDfjVp3w2PwiGw7NhkXg"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 635239,
       "name": "Burning Your Ears - ASMR Random Triggers",
       "url": "https://open.spotify.com/track/4nEmGLZQrJLwmqEwKrTFX7"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "ASMR Wood Triggers, Pt. 1",
-        "url": "https://open.spotify.com/album/60bPq8Gmz0b5j5ZxWzLTvq"
-      },
-      "artists": [
-        {
-          "name": "SonicWaves ASMR",
-          "url": "https://open.spotify.com/artist/4B5t25ZcTOTduHl8cfoafJ"
-        }
-      ],
-      "duration_ms": 254187,
-      "name": "Embossed Wooden Box Scratching",
-      "url": "https://open.spotify.com/track/3bhY1y7yS16xuN6GyjzBwh"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -1007,130 +991,18 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "Gentle Triggers 3",
-        "url": "https://open.spotify.com/album/59LSQBasIZKk8CZ41NtlE6"
+        "name": "ASMR Wood Triggers, Pt. 1",
+        "url": "https://open.spotify.com/album/60bPq8Gmz0b5j5ZxWzLTvq"
       },
       "artists": [
         {
-          "name": "Soothing ASMR",
-          "url": "https://open.spotify.com/artist/2oPDJNuOJSvgNOYZmD0C4D"
+          "name": "SonicWaves ASMR",
+          "url": "https://open.spotify.com/artist/4B5t25ZcTOTduHl8cfoafJ"
         }
       ],
-      "duration_ms": 152051,
-      "name": "Shaking Pills",
-      "url": "https://open.spotify.com/track/5JsfzqTAteFYkEwAdzxnD2"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "Everyday Triggers",
-        "url": "https://open.spotify.com/album/6M9RTs20lT9kfyCvPrmUBn"
-      },
-      "artists": [
-        {
-          "name": "CharlotteK AMSR",
-          "url": "https://open.spotify.com/artist/30cXaPAKlzmEAOzH6kCmia"
-        }
-      ],
-      "duration_ms": 132434,
-      "name": "Fumbling Plastic Cups",
-      "url": "https://open.spotify.com/track/3UoF01lMspWfOes9DNHBlh"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "Soothing ASMR Sounds",
-        "url": "https://open.spotify.com/album/3jt9Hx5CJtWy1Pik8ItyeO"
-      },
-      "artists": [
-        {
-          "name": "Marla M AMSR",
-          "url": "https://open.spotify.com/artist/0rhB1HAF4xVkeTKNK4xcqP"
-        }
-      ],
-      "duration_ms": 220508,
-      "name": "Playing with Mannequin Head and Ears",
-      "url": "https://open.spotify.com/track/6dGwsOOQN27KZdaRhdHKbp"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "Jean Scratching ASMR",
-        "url": "https://open.spotify.com/album/1j7fhjMu2Qc2RwDoRk2H8R"
-      },
-      "artists": [
-        {
-          "name": "Lisa ASMR",
-          "url": "https://open.spotify.com/artist/1wCkck4gRunTrFmKZURDmZ"
-        }
-      ],
-      "duration_ms": 336057,
-      "name": "Jean Scratching ASMR, Pt. 3",
-      "url": "https://open.spotify.com/track/6ACzyFzAbDfcHTVFLzb0Cm"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "Down Jacket Zipper",
-        "url": "https://open.spotify.com/album/6LzpQ7Ymf33SLkGoXqSKRj"
-      },
-      "artists": [
-        {
-          "name": "Autonomic Sensations",
-          "url": "https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ"
-        }
-      ],
-      "duration_ms": 174424,
-      "name": "Down Jacket Zipper",
-      "url": "https://open.spotify.com/track/7MBJ3WEq5FzjVqKZnqTifR"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "Plastic Triggers",
-        "url": "https://open.spotify.com/album/0EBo2gGUwi5YuXAf8v8wQj"
-      },
-      "artists": [
-        {
-          "name": "Ximena ASMR",
-          "url": "https://open.spotify.com/artist/767AHUMRiN6uuhJu9xNw8C"
-        }
-      ],
-      "duration_ms": 248990,
-      "name": "Playing with Plastic",
-      "url": "https://open.spotify.com/track/0dHMX9II1dwAzBinJEeRhX"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "Soothing ASMR Triggers",
-        "url": "https://open.spotify.com/album/4Jyv1kYzSiyUk1IozTT1Zj"
-      },
-      "artists": [
-        {
-          "name": "Oxford Deluxe ASMR",
-          "url": "https://open.spotify.com/artist/3tQuxvtO69sbAZgkbrWMmv"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Playing With Coffee Filter ASMR",
-      "url": "https://open.spotify.com/track/13L0PnKoGfQfaQMVGuoevy"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "Crunchy Tings ASMR",
-        "url": "https://open.spotify.com/album/1NA0R6V2R0BS0oDMKl0L2d"
-      },
-      "artists": [
-        {
-          "name": "ASMR Gemma",
-          "url": "https://open.spotify.com/artist/6w9qZHndDCsJ8ctlPAVinf"
-        }
-      ],
-      "duration_ms": 239017,
-      "name": "Duct Tape",
-      "url": "https://open.spotify.com/track/1oksoz8Zv50M42I76vAISY"
+      "duration_ms": 254187,
+      "name": "Embossed Wooden Box Scratching",
+      "url": "https://open.spotify.com/track/3bhY1y7yS16xuN6GyjzBwh"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -1151,6 +1023,86 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
+        "name": "Gentle Triggers 3",
+        "url": "https://open.spotify.com/album/59LSQBasIZKk8CZ41NtlE6"
+      },
+      "artists": [
+        {
+          "name": "Soothing ASMR",
+          "url": "https://open.spotify.com/artist/2oPDJNuOJSvgNOYZmD0C4D"
+        }
+      ],
+      "duration_ms": 152051,
+      "name": "Shaking Pills",
+      "url": "https://open.spotify.com/track/5JsfzqTAteFYkEwAdzxnD2"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Jean Scratching ASMR",
+        "url": "https://open.spotify.com/album/1j7fhjMu2Qc2RwDoRk2H8R"
+      },
+      "artists": [
+        {
+          "name": "Lisa ASMR",
+          "url": "https://open.spotify.com/artist/1wCkck4gRunTrFmKZURDmZ"
+        }
+      ],
+      "duration_ms": 336057,
+      "name": "Jean Scratching ASMR, Pt. 3",
+      "url": "https://open.spotify.com/track/6ACzyFzAbDfcHTVFLzb0Cm"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Everyday Triggers",
+        "url": "https://open.spotify.com/album/6M9RTs20lT9kfyCvPrmUBn"
+      },
+      "artists": [
+        {
+          "name": "CharlotteK AMSR",
+          "url": "https://open.spotify.com/artist/30cXaPAKlzmEAOzH6kCmia"
+        }
+      ],
+      "duration_ms": 132434,
+      "name": "Fumbling Plastic Cups",
+      "url": "https://open.spotify.com/track/3UoF01lMspWfOes9DNHBlh"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Crunchy Tings ASMR",
+        "url": "https://open.spotify.com/album/1NA0R6V2R0BS0oDMKl0L2d"
+      },
+      "artists": [
+        {
+          "name": "ASMR Gemma",
+          "url": "https://open.spotify.com/artist/6w9qZHndDCsJ8ctlPAVinf"
+        }
+      ],
+      "duration_ms": 239017,
+      "name": "Duct Tape",
+      "url": "https://open.spotify.com/track/1oksoz8Zv50M42I76vAISY"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Down Jacket Zipper",
+        "url": "https://open.spotify.com/album/6LzpQ7Ymf33SLkGoXqSKRj"
+      },
+      "artists": [
+        {
+          "name": "Autonomic Sensations",
+          "url": "https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ"
+        }
+      ],
+      "duration_ms": 174424,
+      "name": "Down Jacket Zipper",
+      "url": "https://open.spotify.com/track/7MBJ3WEq5FzjVqKZnqTifR"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
         "name": "Gentle Triggers 2",
         "url": "https://open.spotify.com/album/5F1SdOGfkjDGjvhMCDwQ8i"
       },
@@ -1167,18 +1119,50 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "Little Triggers",
-        "url": "https://open.spotify.com/album/0Kzk3egGX2gCDuVDnM021y"
+        "name": "Soothing ASMR Sounds",
+        "url": "https://open.spotify.com/album/3jt9Hx5CJtWy1Pik8ItyeO"
       },
       "artists": [
         {
-          "name": "ASMR Universe",
-          "url": "https://open.spotify.com/artist/2b6aLbBGomJ14xcyzSLz89"
+          "name": "Marla M AMSR",
+          "url": "https://open.spotify.com/artist/0rhB1HAF4xVkeTKNK4xcqP"
         }
       ],
-      "duration_ms": 221269,
-      "name": "Shuffling Beans on a Plate",
-      "url": "https://open.spotify.com/track/5FnaUWc5lWOWgIaqEsjpDz"
+      "duration_ms": 220508,
+      "name": "Playing with Mannequin Head and Ears",
+      "url": "https://open.spotify.com/track/6dGwsOOQN27KZdaRhdHKbp"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Soothing ASMR Triggers",
+        "url": "https://open.spotify.com/album/4Jyv1kYzSiyUk1IozTT1Zj"
+      },
+      "artists": [
+        {
+          "name": "Oxford Deluxe ASMR",
+          "url": "https://open.spotify.com/artist/3tQuxvtO69sbAZgkbrWMmv"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Playing With Coffee Filter ASMR",
+      "url": "https://open.spotify.com/track/13L0PnKoGfQfaQMVGuoevy"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Plastic Triggers",
+        "url": "https://open.spotify.com/album/0EBo2gGUwi5YuXAf8v8wQj"
+      },
+      "artists": [
+        {
+          "name": "Ximena ASMR",
+          "url": "https://open.spotify.com/artist/767AHUMRiN6uuhJu9xNw8C"
+        }
+      ],
+      "duration_ms": 248990,
+      "name": "Playing with Plastic",
+      "url": "https://open.spotify.com/track/0dHMX9II1dwAzBinJEeRhX"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -1199,22 +1183,6 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "Hello ASMR",
-        "url": "https://open.spotify.com/album/5wlg4JtCYhfonAzbE41gYS"
-      },
-      "artists": [
-        {
-          "name": "Tabitha Rabiot",
-          "url": "https://open.spotify.com/artist/3ViD1ngwr2KyMQNDVhEPrg"
-        }
-      ],
-      "duration_ms": 249616,
-      "name": "Hair Roller on a Microphone",
-      "url": "https://open.spotify.com/track/2ckqKYZfT9g1S57ZCctlIt"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
         "name": "We Taped Microphones on Her Face",
         "url": "https://open.spotify.com/album/2zCtxRQSE9FHJ5V3zUGuJJ"
       },
@@ -1227,6 +1195,38 @@
       "duration_ms": 170000,
       "name": "We Taped Microphones on Her Face, Pt. 2",
       "url": "https://open.spotify.com/track/4qR0STUalYv1gCROAsVBbc"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Little Triggers",
+        "url": "https://open.spotify.com/album/0Kzk3egGX2gCDuVDnM021y"
+      },
+      "artists": [
+        {
+          "name": "ASMR Universe",
+          "url": "https://open.spotify.com/artist/2b6aLbBGomJ14xcyzSLz89"
+        }
+      ],
+      "duration_ms": 221269,
+      "name": "Shuffling Beans on a Plate",
+      "url": "https://open.spotify.com/track/5FnaUWc5lWOWgIaqEsjpDz"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Hello ASMR",
+        "url": "https://open.spotify.com/album/5wlg4JtCYhfonAzbE41gYS"
+      },
+      "artists": [
+        {
+          "name": "Tabitha Rabiot",
+          "url": "https://open.spotify.com/artist/3ViD1ngwr2KyMQNDVhEPrg"
+        }
+      ],
+      "duration_ms": 249616,
+      "name": "Hair Roller on a Microphone",
+      "url": "https://open.spotify.com/track/2ckqKYZfT9g1S57ZCctlIt"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "Crease It",
-        "url": "https://open.spotify.com/album/0c5feArn8yG3Q729h0hLY7"
-      },
-      "artists": [
-        {
-          "name": "Arnie Svensson",
-          "url": "https://open.spotify.com/artist/2c4t7MVOhTKEfz9tqIOrQa"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Tearing Paper",
-      "url": "https://open.spotify.com/track/12Xux8G6bXk2CyQX8lXeqT"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
         "name": "Noises to Calm",
         "url": "https://open.spotify.com/album/16vhiGmePAVqYUp0eguhAx"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 203977,
       "name": "Noises on Paper",
       "url": "https://open.spotify.com/track/2XW5HApQhPm2Pf7TAAIup8"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Crease It",
+        "url": "https://open.spotify.com/album/0c5feArn8yG3Q729h0hLY7"
+      },
+      "artists": [
+        {
+          "name": "Arnie Svensson",
+          "url": "https://open.spotify.com/artist/2c4t7MVOhTKEfz9tqIOrQa"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Tearing Paper",
+      "url": "https://open.spotify.com/track/12Xux8G6bXk2CyQX8lXeqT"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "Tapping ASMR",
-        "url": "https://open.spotify.com/album/6NFYxi0HDPL3PmdkZ5cEFm"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Calvo",
-          "url": "https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K"
-        }
-      ],
-      "duration_ms": 144434,
-      "name": "Tapping ASMR aerosol",
-      "url": "https://open.spotify.com/track/0ybRKHesiU6m6Ut5cBowrC"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
         "name": "Sleep in the Woods ASMR, Relaxing Head, Neck and Shoulders Massage and Tapping",
         "url": "https://open.spotify.com/album/6dqDp97NmLSLYU5uVUeF2s"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 216000,
       "name": "Sleep in the Woods ASMR, Pt. 1",
       "url": "https://open.spotify.com/track/2uLIymBOrA0axJmhZqT70a"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Tapping ASMR",
+        "url": "https://open.spotify.com/album/6NFYxi0HDPL3PmdkZ5cEFm"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Calvo",
+          "url": "https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K"
+        }
+      ],
+      "duration_ms": 144434,
+      "name": "Tapping ASMR aerosol",
+      "url": "https://open.spotify.com/track/0ybRKHesiU6m6Ut5cBowrC"
     }
   ],
   "unique_name": "ASMR Sleep",

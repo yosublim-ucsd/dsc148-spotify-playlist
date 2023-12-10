@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain]
 
 > 마침내 파인애플 섬에서 열리는 '섬머소다 락페스타'! 그 생생한 현장과 함께 뮤지션 쿠키들의 추천곡을 만나보세요! \(Finally, 'Summer Soda Rock Festa' held on Pineapple Island! Meet the recommended songs of musician Cookies along with the vivid scene!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,664 likes - 36 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,685 likes - 36 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain]
 | 28 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
 | 29 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
 | 30 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 |
-| 31 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
+| 31 | [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 |
 | 32 | [Curated by Parfait Cookie](https://open.spotify.com/track/5H1OLOCQ7W7mEIHwS5FEiJ) | [Parfait Cookie](https://open.spotify.com/artist/6ATi28P4pkZjfDKqlJWDtR) | [Parfait Cookie audio liners](https://open.spotify.com/album/3xad9at6OrKV7luk9u3Ki6) | 0:14 |
 | 33 | [Even If the World Ends Tomorrow](https://open.spotify.com/track/3V3ORDW5cCr8LuGnWyUCMj) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Momentary Sixth Sense](https://open.spotify.com/album/2JzVi6d4gLdVFemJKJSPJf) | 4:22 |
 | 34 | [Gorilla](https://open.spotify.com/track/3HJJBIkgywcEeJLWJcOEuN) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Message dedicated to you alone](https://open.spotify.com/album/7iEFSE5ZWUcNplkokbJMXJ) | 3:22 |
 | 35 | [드라이브 Drive \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/track/7lLDs1B9CBJeRVdDu2ZhsI) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202](https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf) | 4:00 |
 | 36 | [Half Clear](https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 4:25 |
 
-Snapshot ID: `MCxiNTczODEyYzM0ZGQ0NDE0M2IzNTU3OWZhNzBkNGZlYWZjMWY3ZTIy`
+Snapshot ID: `MCxkM2U1MjEyY2UwYTViYzkzZTRkODE3NTA3OGM4YmM2OThiZDM0ZGY3`

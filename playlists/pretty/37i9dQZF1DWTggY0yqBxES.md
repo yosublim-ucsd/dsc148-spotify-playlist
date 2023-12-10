@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,485 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,572 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 79 | [R.I.P.](https://open.spotify.com/track/3CoHgbwTCOhigOIJP60uja) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [R.I.P.](https://open.spotify.com/album/1RUt29Os0Cu7xwz9HeZBE2) | 2:41 |
 | 80 | [Y.B.P\. \(feat\. Bruiser Wolf\)](https://open.spotify.com/track/5BQHxZ7dOoyS2Vh9X02ows) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67) | [Quaranta](https://open.spotify.com/album/2aswMmRN4vXGalI39pDsMb) | 2:56 |
 | 81 | [Whiskey In My Coffee \(feat\. King Louie\)](https://open.spotify.com/track/5WnhBk2bFlmIPxLHQgPgbK) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [King Louie](https://open.spotify.com/artist/7yd1ITel4z3jXwEFinWmGN) | [CLUSTERFUNK](https://open.spotify.com/album/4iLyenp5vruRWu6tgV03WT) | 3:01 |
-| 82 | [Beat It](https://open.spotify.com/track/048f0MCTAJd5I0X7Xc4DSb) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Beat It](https://open.spotify.com/album/0BzqFoK5ppXpfZmGT6D5WR) | 2:04 |
+| 82 | [Beat It](https://open.spotify.com/track/30cwmNAQximovZ8Uu1JI1j) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Beat It](https://open.spotify.com/album/0HcLr07FuylFKSvK9eq0aE) | 2:04 |
 | 83 | [Grove](https://open.spotify.com/track/7ChGbr5eO2BKBz3cw3Kqsr) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH) | [Grove](https://open.spotify.com/album/6tG0BshFlg8Hm9eZqiWmRC) | 2:29 |
 | 84 | [Master P](https://open.spotify.com/track/6tEpOijHrGLidCtHeoMhlC) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 3:32 |
 | 85 | [KARATE](https://open.spotify.com/track/71ol5hgvJlXsuPjsnoY2Gg) | [Cam the Artisan](https://open.spotify.com/artist/6fpSyotvM2E3050Slv2u3B) | [Art Samples Vol\. 2](https://open.spotify.com/album/40mqsTBAltd1NSTzJkxXfn) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [TURNIN' HEADS](https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [TURNIN' HEADS](https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50) | 2:56 |
 | 100 | [Westside Story \(with Duckwrth\)](https://open.spotify.com/track/11tIIx1IhWCa4CzMtKhvai) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ESCAPISM](https://open.spotify.com/album/5UnNsDfzwec5DDlSYKD03p) | 3:41 |
 
-Snapshot ID: `MCwzMjQ4YjhmMTBiZTMxMWE2OTYxNTM0ZThmMTM1YTk1MWY4NmE5ZGU4`
+Snapshot ID: `MCw4Yzc0NzljZDNmZDU3ZTM0YTc4N2Y1YmVmYzRjNDE3YjAzMDNjNzk0`

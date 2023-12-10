@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 114594,
+  "num_followers": 114719,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjYxNzYyYTBhOTljOTcyZjc0NjdjYzlhNmJmMTQ4ODBmMjk1N2Q3",
+  "snapshot_id": "MCw2OTViOTg4NmNkMzNhNjNhZjYyY2QyMzY3NjBkMjAwMzlhZjI2OGU4",
   "tracks": [
     {
       "added_at": "2023-12-07 08:55:53",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-12-07 08:55:53",
       "album": {
-        "name": "The Boss Is Back!",
-        "url": "https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 367693,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l"
-    },
-    {
-      "added_at": "2023-12-07 08:55:53",
-      "album": {
         "name": "Song For My Father",
         "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 422933,
       "name": "Lonely Woman - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6"
+    },
+    {
+      "added_at": "2023-12-07 08:55:53",
+      "album": {
+        "name": "The Boss Is Back!",
+        "url": "https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 367693,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l"
     },
     {
       "added_at": "2023-12-07 08:55:53",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-12-07 08:55:53",
       "album": {
-        "name": "Jazz Masters",
-        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
-    },
-    {
-      "added_at": "2023-12-07 08:55:53",
-      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 237640,
       "name": "The Midnight Sun Will Never Set",
       "url": "https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw"
+    },
+    {
+      "added_at": "2023-12-07 08:55:53",
+      "album": {
+        "name": "Jazz Masters",
+        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
     },
     {
       "added_at": "2023-12-07 08:55:53",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-12-07 08:55:53",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
-    },
-    {
-      "added_at": "2023-12-07 08:55:53",
-      "album": {
         "name": "Eastern Sounds",
         "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 293653,
       "name": "Don't Blame Me - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo"
+    },
+    {
+      "added_at": "2023-12-07 08:55:53",
+      "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
     },
     {
       "added_at": "2023-12-07 08:55:53",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-12-07 08:55:53",
       "album": {
-        "name": "Paul Bley",
-        "url": "https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP"
-      },
-      "artists": [
-        {
-          "name": "Paul Bley",
-          "url": "https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM"
-        }
-      ],
-      "duration_ms": 189813,
-      "name": "Autumn Breeze",
-      "url": "https://open.spotify.com/track/7rfQSR01yyCxP55RNl7Zyu"
-    },
-    {
-      "added_at": "2023-12-07 08:55:53",
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2023-12-07 08:55:53",
       "album": {
+        "name": "Paul Bley",
+        "url": "https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP"
+      },
+      "artists": [
+        {
+          "name": "Paul Bley",
+          "url": "https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/7rfQSR01yyCxP55RNl7Zyu"
+    },
+    {
+      "added_at": "2023-12-07 08:55:53",
+      "album": {
         "name": "Makes It Happen",
         "url": "https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr"
       },
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-12-07 08:55:53",
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 297880,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
+    },
+    {
+      "added_at": "2023-12-07 08:55:53",
+      "album": {
         "name": "Blue And Sentimental (Remastered)",
         "url": "https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 371986,
       "name": "Something I Dreamed Last Night",
       "url": "https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V"
-    },
-    {
-      "added_at": "2023-12-07 08:55:53",
-      "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 297880,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
     },
     {
       "added_at": "2023-12-07 08:55:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-07 08:55:53",
       "album": {
-        "name": "Cannonball Takes Charge",
-        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley Quartet",
-          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
-    },
-    {
-      "added_at": "2023-12-07 08:55:53",
-      "album": {
         "name": "Art",
         "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-12-07 08:55:53",
       "album": {
-        "name": "Gettin' Around",
-        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
         }
       ],
-      "duration_ms": 316400,
-      "name": "Who Can I Turn To (When Nobody Needs Me)",
-      "url": "https://open.spotify.com/track/57ZrEEk6UCFiMx2nrgE1kf"
+      "duration_ms": 334626,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
     },
     {
       "added_at": "2023-12-07 08:55:53",
@@ -903,6 +887,22 @@
       "duration_ms": 218466,
       "name": "Why Are We Afraid?",
       "url": "https://open.spotify.com/track/3yRb1s9m2BcKr0m5ktUDTQ"
+    },
+    {
+      "added_at": "2023-12-07 08:55:53",
+      "album": {
+        "name": "Gettin' Around",
+        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 316400,
+      "name": "Who Can I Turn To (When Nobody Needs Me)",
+      "url": "https://open.spotify.com/track/57ZrEEk6UCFiMx2nrgE1kf"
     },
     {
       "added_at": "2023-12-07 08:55:53",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-12-07 08:55:53",
       "album": {
-        "name": "Candy (Remastered)",
-        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 447173,
-      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
-      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
-    },
-    {
-      "added_at": "2023-12-07 08:55:53",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 256706,
       "name": "Ernie's Tune",
       "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
+    },
+    {
+      "added_at": "2023-12-07 08:55:53",
+      "album": {
+        "name": "Candy (Remastered)",
+        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 447173,
+      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
+      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
     },
     {
       "added_at": "2023-12-07 08:55:53",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-12-07 08:55:53",
       "album": {
-        "name": "Wrapped Tight",
-        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 301653,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc"
-    },
-    {
-      "added_at": "2023-12-07 08:55:53",
-      "album": {
         "name": "JuJu",
         "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 311533,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/3b85Jv4nFjRZNsorLlXA0p"
+    },
+    {
+      "added_at": "2023-12-07 08:55:53",
+      "album": {
+        "name": "Wrapped Tight",
+        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 301653,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc"
     },
     {
       "added_at": "2023-12-07 08:55:53",

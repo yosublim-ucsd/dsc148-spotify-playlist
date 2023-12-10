@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,893 likes - 85 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,069 likes - 85 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 84 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 |
 | 85 | [Kiss Me](https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Kiss Me](https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN) | 2:28 |
 
-Snapshot ID: `MCxiMDg2YjQyYjc5MDVhZTc2OWJkMTIzYWE5ODhjYTdmZWI4ZTgxMzQ3`
+Snapshot ID: `MCw3MTAxZjY3NjJhNDYxZTZhMDRhOTY1OGQ1NTQ3ZjM1ZmE2OGEyMTk5`

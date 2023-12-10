@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 553914,
+  "num_followers": 553973,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzE3ZjBjOGM2MDM0YTEzNzc0YzAxNDdhNGJiZWRjMGJlNTg1M2U0",
+  "snapshot_id": "MCwwYmZhNTY3MWY5ZDg4ODE4N2Y2ODdmNjg3ZTZmZWI0MTExOWRhZDIy",
   "tracks": [
     {
       "added_at": "2023-06-16 18:37:43",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Genie In a Bottle",
-      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Genie In a Bottle",
+      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 200400,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Something Like That",
-      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
+        "name": "All-4-One",
+        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
+      },
+      "artists": [
+        {
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "All-4-One",
-        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
-      },
-      "artists": [
-        {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Picture This (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Mr. Vain",
-        "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
-      },
-      "artists": [
-        {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "Mr. Vain - Original Radio Edit",
-      "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Blazzin' Fire",
-        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
+        "name": "Mr. Vain",
+        "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
       },
       "artists": [
         {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
         }
       ],
-      "duration_ms": 227067,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
+      "duration_ms": 257466,
+      "name": "Mr. Vain - Original Radio Edit",
+      "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1095,22 +1079,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Hand in My Pocket - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
       },
@@ -1123,6 +1091,22 @@
       "duration_ms": 214400,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Hand in My Pocket - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1287,22 +1271,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
-      },
-      "artists": [
-        {
-          "name": "Edwyn Collins",
-          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "The Madman's Return",
         "url": "https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY"
       },
@@ -1315,6 +1283,22 @@
       "duration_ms": 225882,
       "name": "Rhythm Is a Dancer (7\" Edit)",
       "url": "https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1687,6 +1671,22 @@
       "duration_ms": 171679,
       "name": "I'm Too Sexy",
       "url": "https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "My Boo (Hitman's Club Mix)",
+        "url": "https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi"
+      },
+      "artists": [
+        {
+          "name": "Ghost Town DJs",
+          "url": "https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT"
+        }
+      ],
+      "duration_ms": 346840,
+      "name": "My Boo - Hitman's Club Mix",
+      "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
     }
   ],
   "unique_name": "Summer Hits of the 90s",

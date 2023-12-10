@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Watson
 
-317 songs - 16 hr 30 min
+318 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-09-21 |  |
 | [Psychedelic](https://open.spotify.com/track/4WcpmNZaCVS3OWNoRehz7b) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [莉子](https://open.spotify.com/album/2P2gIq8l9Rk4EYPErK9KRb) | 3:21 | 2023-10-10 |  |
 | [Puxxy](https://open.spotify.com/track/3Gz1yrLVr3hSHAxH9qoWHK) | [AUDIO RADICAL](https://open.spotify.com/artist/7nBpQt0rbbHHTfQY9bd9d7), [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL), [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [CROSS OVA](https://open.spotify.com/album/6TYODp2J2aSbnHnEnvTcuN) | 2:10 | 2023-11-23 |  |
-| [RANDO](https://open.spotify.com/track/5fJZDfgIiQgjzTlRxR6Q5G) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [RANDO](https://open.spotify.com/album/4NQ2zVZ53ndO3XCMTuhOj5) | 2:26 | 2023-09-21 |  |
+| [RANDO](https://open.spotify.com/track/7zzkmw6rUNfccb8GypmTzY) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Soul Quake](https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09) | 2:26 | 2023-12-07 |  |
+| [RANDO](https://open.spotify.com/track/5fJZDfgIiQgjzTlRxR6Q5G) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [RANDO](https://open.spotify.com/album/4NQ2zVZ53ndO3XCMTuhOj5) | 2:26 | 2023-09-21 | 2023-12-10 |
 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 | 2023-10-19 | 2023-11-01 |
 | [RASEN in OKINAWA](https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y) | 4:49 | 2023-09-21 | 2023-10-28 |
 | [Raving In The Simulation](https://open.spotify.com/track/3C8fxlVxOtyofU9mS3j61X) | [Genick](https://open.spotify.com/artist/59JrOdJYiD9hbd5QjX0XKO), [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T), [PeanutsKun](https://open.spotify.com/artist/5GITFRQqu23xgb82VKRWUc), [HAKU](https://open.spotify.com/artist/5e7WY3osdEKUSJy2LozHqC) | [Raving In The Simulation](https://open.spotify.com/album/2pUYtzjWnzP4s6MEnBY1LN) | 3:54 | 2023-12-01 |  |

@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-213 songs - 12 hr 10 min
+214 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [oMo \(Man\)](https://open.spotify.com/track/373XAEtCUiQCCHQZxOjihL) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [oMo \(Man\)](https://open.spotify.com/album/4HbYYzLD9gLtWOvUVjuBhI) | 3:08 | 2023-10-06 |  |
 | [Our Time](https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Our Time](https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH) | 3:24 | 2023-01-13 |  |
 | [Paradise](https://open.spotify.com/track/4CTJbiUAJvHji7dEGU1Hv8) | [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [Paradise](https://open.spotify.com/album/615Q0iOnYPozrqfza5ueCX) | 2:55 | 2022-04-08 | 2022-05-21 |
-| [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 | 2022-04-08 |  |
+| [Party Dress](https://open.spotify.com/track/0N2cfvsgB5FiMwHBmheXu9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/0SO1c2tJd1cdbNlxM2W4sY) | 3:14 | 2023-11-17 |  |
+| [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 | 2022-04-08 | 2023-12-10 |
 | [Petals](https://open.spotify.com/track/2cp6SJzNJZUuWWy5T2chH7) | [Gary O'Neill](https://open.spotify.com/artist/4xYcXa6VNU7ZmsPj3N7a9r) | [Petals](https://open.spotify.com/album/6MFWv27QjN5lg5d2OD8kAM) | 4:31 | 2022-04-08 |  |
 | [Puddles](https://open.spotify.com/track/3KFpR2l3h9vwv1Zw5EBqKM) | [Amie Huckstep](https://open.spotify.com/artist/1TT1manwItsb5Z1MHKHdHw) | [Puddles](https://open.spotify.com/album/3Xjnbbd3dTrX8kXFALr7Vc) | 3:25 | 2022-04-08 | 2022-05-21 |
 | [racing raindrops](https://open.spotify.com/track/4A2Y5ElDIuDT4e4KGLVtcy) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [racing raindrops](https://open.spotify.com/album/0w51CRLGBRdOnDOr0oBlqV) | 3:36 | 2022-04-08 | 2022-07-29 |

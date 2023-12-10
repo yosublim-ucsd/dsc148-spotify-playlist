@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 31768,
+  "num_followers": 31785,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGEwZjEyMThhZWRjZDRmZmNlNTdlMWI4NjNlZWFjMmVhMzAwYjgx",
+  "snapshot_id": "MCw3NDRjYWFiNmMxNGM2ZGYxYzczMzMyMzJjNmY1ODY4NzJhYjEzZTk1",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -431,18 +431,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
-        "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
+        "name": "Witch Doktor (Eddie Thoneick Remix)",
+        "url": "https://open.spotify.com/album/4twj4eYghihhYHeVhM0TkM"
       },
       "artists": [
         {
           "name": "Armand Van Helden",
           "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Eddie Thoneick",
+          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
         }
       ],
-      "duration_ms": 595093,
-      "name": "Witch Doktor (The Dark Ages Mix)",
-      "url": "https://open.spotify.com/track/5HOWxh7rS6kCumiu3xMIeN"
+      "duration_ms": 442739,
+      "name": "Witch Doktor (Eddie Thoneick Remix)",
+      "url": "https://open.spotify.com/track/7xHUqMQfeiPUpQOlCxTYkY"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -543,22 +547,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Witch Doktor (Eddie Thoneick Remix)",
-        "url": "https://open.spotify.com/album/4twj4eYghihhYHeVhM0TkM"
+        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
+        "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
       },
       "artists": [
         {
           "name": "Armand Van Helden",
           "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Eddie Thoneick",
-          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
         }
       ],
-      "duration_ms": 442739,
-      "name": "Witch Doktor (Eddie Thoneick Remix)",
-      "url": "https://open.spotify.com/track/7xHUqMQfeiPUpQOlCxTYkY"
+      "duration_ms": 595093,
+      "name": "Witch Doktor (The Dark Ages Mix)",
+      "url": "https://open.spotify.com/track/5HOWxh7rS6kCumiu3xMIeN"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -763,50 +763,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Tribal - EP (Remixes)",
-        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
+        "name": "Hey! / The Size (Mixes)",
+        "url": "https://open.spotify.com/album/0XkBAnu83dKmmUNgPSBoqi"
       },
       "artists": [
         {
-          "name": "River Ocean",
-          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
         }
       ],
-      "duration_ms": 243920,
-      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
-      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Swing Doctor",
-        "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
-      },
-      "artists": [
-        {
-          "name": "The Untouchables",
-          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
-        }
-      ],
-      "duration_ms": 343720,
-      "name": "Dance to the Rhythm",
-      "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Carnival 93",
-        "url": "https://open.spotify.com/album/1s9imuysktLMjrbGEPAjCL"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 374946,
-      "name": "Carnival 93 (The Mardi Gras Mix)",
-      "url": "https://open.spotify.com/track/1Ztq9a8Nk4XlbEJSPseygX"
+      "duration_ms": 427132,
+      "name": "Hey! (The Rhythm Hype Mix)",
+      "url": "https://open.spotify.com/track/4sQ9FNrJOY0R8wwOnX8fUF"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -831,18 +799,50 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Hey! / The Size (Mixes)",
-        "url": "https://open.spotify.com/album/0XkBAnu83dKmmUNgPSBoqi"
+        "name": "Carnival 93",
+        "url": "https://open.spotify.com/album/1s9imuysktLMjrbGEPAjCL"
       },
       "artists": [
         {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
         }
       ],
-      "duration_ms": 427132,
-      "name": "Hey! (The Rhythm Hype Mix)",
-      "url": "https://open.spotify.com/track/4sQ9FNrJOY0R8wwOnX8fUF"
+      "duration_ms": 374946,
+      "name": "Carnival 93 (The Mardi Gras Mix)",
+      "url": "https://open.spotify.com/track/1Ztq9a8Nk4XlbEJSPseygX"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Swing Doctor",
+        "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
+      },
+      "artists": [
+        {
+          "name": "The Untouchables",
+          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
+        }
+      ],
+      "duration_ms": 343720,
+      "name": "Dance to the Rhythm",
+      "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Tribal - EP (Remixes)",
+        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
+      },
+      "artists": [
+        {
+          "name": "River Ocean",
+          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
+      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -879,38 +879,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Justify",
-        "url": "https://open.spotify.com/album/6PhheNrljrGFJyhGe6RQSH"
-      },
-      "artists": [
-        {
-          "name": "M&S",
-          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
-        }
-      ],
-      "duration_ms": 545040,
-      "name": "Justify (Vocal Mix)",
-      "url": "https://open.spotify.com/track/4Eo3NoZQN7K4q8DJd3a2v9"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Love Trax",
-        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
-      },
-      "artists": [
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 406131,
-      "name": "Love Trax (Love Izz)",
-      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Boom / I Need Your Love",
         "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
       },
@@ -927,18 +895,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+        "name": "Justify",
+        "url": "https://open.spotify.com/album/6PhheNrljrGFJyhGe6RQSH"
       },
       "artists": [
         {
-          "name": "Androgeny",
-          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+          "name": "M&S",
+          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
         }
       ],
-      "duration_ms": 494374,
-      "name": "I Could Be This... (The Remix) (Morel's That Mix)",
-      "url": "https://open.spotify.com/track/5wEJrQ6vGxYfA8vkFwp9tZ"
+      "duration_ms": 545040,
+      "name": "Justify (Vocal Mix)",
+      "url": "https://open.spotify.com/track/4Eo3NoZQN7K4q8DJd3a2v9"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -971,6 +939,70 @@
       "duration_ms": 342621,
       "name": "My People (My People Mix)",
       "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Love Trax",
+        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
+      },
+      "artists": [
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 406131,
+      "name": "Love Trax (Love Izz)",
+      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Androgeny",
+          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+        }
+      ],
+      "duration_ms": 494374,
+      "name": "I Could Be This... (The Remix) (Morel's That Mix)",
+      "url": "https://open.spotify.com/track/5wEJrQ6vGxYfA8vkFwp9tZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Just An Organ / Getting Bigger (Mixes)",
+        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
+      },
+      "artists": [
+        {
+          "name": "D-Tune",
+          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
+        }
+      ],
+      "duration_ms": 337901,
+      "name": "Just an Organ (Just An Organ Mix)",
+      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410967,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1011,38 +1043,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410967,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Just An Organ / Getting Bigger (Mixes)",
-        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
-      },
-      "artists": [
-        {
-          "name": "D-Tune",
-          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
-        }
-      ],
-      "duration_ms": 337901,
-      "name": "Just an Organ (Just An Organ Mix)",
-      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Jump & Sing / Work Me",
         "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 341200,
       "name": "Jump & Sing (Hard Metro Mix)",
       "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Barbara Douglas",
-          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
-        }
-      ],
-      "duration_ms": 260065,
-      "name": "Shine (Sundown Dub)",
-      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1095,22 +1079,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "This Way / Boy",
-        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
-      },
-      "artists": [
-        {
-          "name": "K.E.L.S.E.Y.",
-          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
-        }
-      ],
-      "duration_ms": 428757,
-      "name": "Boy (MK Deep Dub)",
-      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Alright (feat. Earl Bennett)",
         "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
       },
@@ -1131,6 +1099,38 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Barbara Douglas",
+          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
+        }
+      ],
+      "duration_ms": 260065,
+      "name": "Shine (Sundown Dub)",
+      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "This Way / Boy",
+        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
+      },
+      "artists": [
+        {
+          "name": "K.E.L.S.E.Y.",
+          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+        }
+      ],
+      "duration_ms": 428757,
+      "name": "Boy (MK Deep Dub)",
+      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Beat That Makes U Move",
         "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
@@ -1147,26 +1147,6 @@
       "duration_ms": 458306,
       "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
       "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
-      },
-      "artists": [
-        {
-          "name": "Code 718",
-          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
-        }
-      ],
-      "duration_ms": 368466,
-      "name": "Equinox (Henrik Schwarz Remix)",
-      "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1199,6 +1179,26 @@
       "duration_ms": 364347,
       "name": "Carnival '95 (Pride Vocal Mix)",
       "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
+      },
+      "artists": [
+        {
+          "name": "Code 718",
+          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "duration_ms": 368466,
+      "name": "Equinox (Henrik Schwarz Remix)",
+      "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
     },
     {
       "added_at": "2022-03-03 13:59:16",

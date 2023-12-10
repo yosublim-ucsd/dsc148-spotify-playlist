@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-468 songs - 1 day 0 hr 38 min
+469 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Collide \(Solo Version\)](https://open.spotify.com/track/6FscsacxYI5HCHPOv2KtBG) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Dark Side](https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H) | 4:22 | 2023-02-03 | 2023-02-24 |
 | [Coming Back For You](https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:56 | 2022-11-04 | 2023-02-11 |
 | [Coming Back For You](https://open.spotify.com/track/6VVvzNsWQd62FIQyc4zBSR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:56 | 2022-11-04 | 2022-11-21 |
-| [Confess](https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 2:40 | 2023-11-24 |  |
+| [Confess](https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 2:40 | 2023-11-24 | 2023-12-10 |
 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2022-08-18 | 2023-02-17 |
 | [Cracks of You](https://open.spotify.com/track/2ERqWwFLCzEGV1YPtKfxB6) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Cracks of You](https://open.spotify.com/album/6yEXMFSLXCMnATdGEG95Hm) | 2:56 | 2022-12-02 | 2022-12-09 |
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2023-03-19 |
@@ -339,6 +339,7 @@
 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 | 2023-06-03 |
 | [Right My Wrongs](https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Right My Wrongs](https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2) | 2:20 | 2023-04-14 | 2023-08-11 |
 | [Right Now](https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Right Now](https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk) | 3:12 | 2022-06-24 | 2022-08-12 |
+| [Risk It All \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Risk It All \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd) | 3:21 | 2023-12-08 |  |
 | [Rolling Stone](https://open.spotify.com/track/5JHMXUWq4FxSuZndpq3wKI) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Rolling Stone](https://open.spotify.com/album/0qQC6ZOVFaCNphabIMRWVJ) | 3:20 | 2022-09-09 | 2022-11-19 |
 | [Room \(with Adekunle Gold & 2 Chainz\)](https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Room](https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD) | 3:39 | 2023-07-20 | 2023-11-10 |
 | [Room 69](https://open.spotify.com/track/3dl81ypaK6k0y0RCszBKS4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:09 | 2023-02-16 | 2023-02-24 |

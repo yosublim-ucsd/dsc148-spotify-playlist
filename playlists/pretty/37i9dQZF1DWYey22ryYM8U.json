@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Juan Luis Guerra",
-  "num_followers": 605059,
+  "num_followers": 605053,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDFiOWYyN2UwYjEwZjkxNmQ0Y2I2ZjlmNWI1MmVkNzJkYTNmZGY5",
+  "snapshot_id": "MCw2YzFhZmUwYjlhOTcwNjk5YTcxZDNhOGFiNWFlMzYxM2U2ZmZmZGJh",
   "tracks": [
     {
       "added_at": "2023-12-07 19:51:53",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "LA CAPI",
+      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "LA CAPI",
-      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
+        "name": "Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
         "name": "Si Tu Te Atreves",
         "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 226821,
       "name": "Si Tu Te Atreves",
       "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
-        "name": "Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        }
-      ],
-      "duration_ms": 206412,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
     },
     {
       "added_at": "2023-12-07 19:51:53",

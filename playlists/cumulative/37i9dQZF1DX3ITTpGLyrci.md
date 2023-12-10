@@ -4,7 +4,7 @@
 
 > Get the drinks on ice, this one is on us
 
-183 songs - 9 hr 11 min
+184 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Sunlight \(feat\. Years & Years\) \- Radio Edit](https://open.spotify.com/track/5r3aYGutXgsxSqB6W3RrzJ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years & Years\) \[Radio Edit\]](https://open.spotify.com/album/7yDiBp7t2j6OT7KopH2ulG) | 3:13 | 2023-04-18 | 2023-07-01 |
 | [Sunshine \(feat\. Dan Harkna\) \- Radio Edit](https://open.spotify.com/track/3jbsz68DZXoqTlCz0n05xn) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Dan Harkna](https://open.spotify.com/artist/5xeGJm9dgg2x5luZLEYtMx) | [Sunshine \(feat\. Dan Harkna\) \[Radio Edit\]](https://open.spotify.com/album/7qAljACjJJN2jhgB4aA9sZ) | 3:00 | 2023-04-18 | 2023-07-19 |
 | [Sweat](https://open.spotify.com/track/37Ik0Rvl2cptEffURjIls9) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Sweat](https://open.spotify.com/album/5MEqr6fRpxyFlgzijl10Uf) | 2:45 | 2023-04-18 | 2023-06-14 |
-| [Sweet Vibrations](https://open.spotify.com/track/5S1gAbJcWZy6ICn68Lsx2e) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Sweet Vibrations EP](https://open.spotify.com/album/62IsJzKQrSVzO2k2DIIcOw) | 2:40 | 2023-04-18 |  |
+| [Sweet Vibrations](https://open.spotify.com/track/0zfHDEuHNc8NbaJnjTFtSe) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 2:40 | 2023-09-08 |  |
+| [Sweet Vibrations](https://open.spotify.com/track/5S1gAbJcWZy6ICn68Lsx2e) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Sweet Vibrations EP](https://open.spotify.com/album/62IsJzKQrSVzO2k2DIIcOw) | 2:40 | 2023-04-18 | 2023-12-10 |
 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-08-22 | 2023-09-06 |
 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-08-22 | 2023-09-06 |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2023-04-18 |  |

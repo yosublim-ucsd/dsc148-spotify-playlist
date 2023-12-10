@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 16322,
+  "num_followers": 16343,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTNmYmUwMzk5ZDVhMTdjYTAzOWNjYjY1NzY5ZmJjM2YzMzg5NmY5",
+  "snapshot_id": "MCw5YzY2ZmIxOTZkMjZjMTRiYzIxZjc1MGRhY2JjY2ZjN2I3MDNhNTFh",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 451826,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
       "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "Shen Yeng Anthem",
+        "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 141226,
+      "name": "Shen Yeng Anthem",
+      "url": "https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 116213,
       "name": "Just for Me",
       "url": "https://open.spotify.com/track/1Vrj9Vcbb0lOG94pQbYvzv"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "Shen Yeng Anthem",
-        "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 141226,
-      "name": "Shen Yeng Anthem",
-      "url": "https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G"
     },
     {
       "added_at": "2022-10-01 20:09:45",

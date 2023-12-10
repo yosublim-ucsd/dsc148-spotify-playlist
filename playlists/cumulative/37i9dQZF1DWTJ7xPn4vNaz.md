@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1970s.
 
-541 songs - 1 day 12 hr 30 min
+542 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 | 2019-05-26\* | 2022-07-29 |
 | [It's a Heartache](https://open.spotify.com/track/2pag2vElkdroT8hIO4Gozi) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [It's a Heartache](https://open.spotify.com/album/5D43457Yz0FUwufF4ogvfA) | 3:29 | 2019-06-21 | 2021-10-14 |
 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 | 2019-06-22 | 2021-10-11 |
+| [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 | 2023-10-09 |  |
 | [It's Too Late](https://open.spotify.com/track/4etJ8NpS7YJ6vViV2UEJit) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Essential Carole King](https://open.spotify.com/album/0rGwxrM6v7wQaNm9aC5DSh) | 3:53 | 2019-05-26\* | 2022-07-29 |
 | [Jamming](https://open.spotify.com/track/4N8UFEJSemqrX1JqFSXln1) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/4vAGot2Vcc9LRXf673ocwh) | 3:31 | 2019-06-21 | 2019-08-09 |
 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 | 2020-12-23 | 2021-07-27 |
@@ -316,7 +317,7 @@
 | [Me and Mrs\. Jones](https://open.spotify.com/track/4sj8qFcEDnRPNv3tBbUVUf) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees Of Billy Paul](https://open.spotify.com/album/3x36ONTtlbPuXrAjI3aNI6) | 4:45 | 2019-07-18 | 2021-10-14 |
 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/5LDTnh9Bnzpghb1si4b2BI) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 3:16 | 2021-01-04 | 2021-10-13 |
 | [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:50 | 2020-12-23 |  |
-| [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 | 2020-03-08 |  |
+| [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 | 2020-03-08 | 2023-12-10 |
 | [Midnight Train to Georgia \- Short Version](https://open.spotify.com/track/2y9lqa7QhwJ7KhHUUdkTUF) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 3:18 | 2019-05-29 | 2019-10-15 |
 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 | 2019-05-26\* |  |
 | [Money](https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:22 | 2019-06-21 | 2019-08-27 |

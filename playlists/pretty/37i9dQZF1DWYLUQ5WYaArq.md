@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Summer is officially here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,876 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,887 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [The Summer](https://open.spotify.com/track/48ZgAhsb7Vx2u9IMXwKqsb) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Chimney's Afire](https://open.spotify.com/album/5WlVJfHv6EQus0oU1d0WFE) | 3:23 |
 | 50 | [Summer Holiday](https://open.spotify.com/track/1K9yTBoGrKUEt8j5LCI37T) | [Cliff Richard & The Shadows](https://open.spotify.com/artist/4IdvJZeciaa37wYr2qBpjm) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 2:07 |
 
-Snapshot ID: `MCxiOGJmNDUxNzAwNzZiMGZiOWY4ZmMwMGZmZGU1N2FkNjRkMDRiODEy`
+Snapshot ID: `MCw2ZWJmZWRlZWZmODg3ZjhmODMyZmNhNzM2NmY3ODU4ZDQ3OWFkMDIw`

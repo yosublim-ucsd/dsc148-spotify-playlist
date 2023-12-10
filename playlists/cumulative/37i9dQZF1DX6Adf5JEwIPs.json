@@ -45856,10 +45856,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 182298,
       "name": "Me Di Cuenta",
       "url": "https://open.spotify.com/track/0xfdBhImqnPN4yh2bT1rr0"
+    },
+    {
+      "album": {
+        "name": "Broche De Oro, Vol. 2",
+        "url": "https://open.spotify.com/album/3wxMFWQmft2AiryqyyH7Rx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182298,
+      "name": "Me Di Cuenta",
+      "url": "https://open.spotify.com/track/2ucU5OkIVrM0CcaUksB6vf"
     },
     {
       "album": {
@@ -57771,7 +57789,7 @@
     },
     {
       "album": {
-        "name": "Popurr\u00ed Ranchero: Barrio Ranchero, Sea por Dios, Amor Fingido, la Huella de Mis Besos",
+        "name": "Popurr\u00ed Ranchero: Barrio Pobre, Sea por Dios, Amor Fingido, La Huella de Mis Besos",
         "url": "https://open.spotify.com/album/7spnHNkRzevKVQ6E9uBHYd"
       },
       "artists": [
@@ -57784,7 +57802,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 351755,
-      "name": "Popurr\u00ed Ranchero: Barrio Ranchero, Sea por Dios, Amor Fingido, la Huella de Mis Besos",
+      "name": "Popurr\u00ed Ranchero: Barrio Pobre, Sea por Dios, Amor Fingido, La Huella de Mis Besos",
       "url": "https://open.spotify.com/track/2s2dgUjGJ8MwrzLMBavwfv"
     },
     {

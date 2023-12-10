@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 70084,
+  "num_followers": 70152,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzQ3ZGY3MDI0ZWI3OWZmMjc2OTNhMTk5NDA5ZjQ1MWM4NzM3NmE0",
+  "snapshot_id": "MCxhZTk0ZTBmMzU2ODAzY2ZkOTY4YjA2OTY1NjZhZjVjZWU0MjA3YjY2",
   "tracks": [
     {
       "added_at": "2023-12-07 15:49:51",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-12-07 15:49:51",
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "I Got It Bad (And That Ain't Good)",
-      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
-    },
-    {
-      "added_at": "2023-12-07 15:49:51",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 199423,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z"
+    },
+    {
+      "added_at": "2023-12-07 15:49:51",
+      "album": {
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "I Got It Bad (And That Ain't Good)",
+      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
     },
     {
       "added_at": "2023-12-07 15:49:51",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-07 15:49:51",
       "album": {
-        "name": "If You Go Away / Ne me quitte pas",
-        "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 295148,
-      "name": "If You Go Away",
-      "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
-    },
-    {
-      "added_at": "2023-12-07 15:49:51",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 260240,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
+    },
+    {
+      "added_at": "2023-12-07 15:49:51",
+      "album": {
+        "name": "If You Go Away / Ne me quitte pas",
+        "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 295148,
+      "name": "If You Go Away",
+      "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
     },
     {
       "added_at": "2023-12-07 15:49:51",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-12-07 15:49:51",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY"
-    },
-    {
-      "added_at": "2023-12-07 15:49:51",
-      "album": {
         "name": "Good Morning Heartache",
         "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 193177,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
+    },
+    {
+      "added_at": "2023-12-07 15:49:51",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY"
     },
     {
       "added_at": "2023-12-07 15:49:51",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-07 15:49:51",
       "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
-    },
-    {
-      "added_at": "2023-12-07 15:49:51",
-      "album": {
         "name": "When Sunny Gets Blue",
         "url": "https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR"
       },
@@ -739,22 +723,18 @@
     {
       "added_at": "2023-12-07 15:49:51",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
         }
       ],
-      "duration_ms": 191386,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/2rjsU7OPalE0FuS0UULII9"
+      "duration_ms": 325493,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
     },
     {
       "added_at": "2023-12-07 15:49:51",
@@ -775,6 +755,26 @@
       "duration_ms": 188026,
       "name": "A Certain Sadness",
       "url": "https://open.spotify.com/track/3vHcprrLUS7hJ7sGljPVgf"
+    },
+    {
+      "added_at": "2023-12-07 15:49:51",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/2rjsU7OPalE0FuS0UULII9"
     },
     {
       "added_at": "2023-12-07 15:49:51",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-07 15:49:51",
       "album": {
-        "name": "Standard Time Vol. 2: Intimacy Calling",
-        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "The End Of A Love Affair",
-      "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
-    },
-    {
-      "added_at": "2023-12-07 15:49:51",
-      "album": {
         "name": "Duets An American Classic",
         "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
       },
@@ -863,6 +847,38 @@
       "duration_ms": 201586,
       "name": "The Boulevard of Broken Dreams (with Sting)",
       "url": "https://open.spotify.com/track/5bG5GUKVJztKR5nff1CwUp"
+    },
+    {
+      "added_at": "2023-12-07 15:49:51",
+      "album": {
+        "name": "Standard Time Vol. 2: Intimacy Calling",
+        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "The End Of A Love Affair",
+      "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
+    },
+    {
+      "added_at": "2023-12-07 15:49:51",
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Everything Happens To Me - Complete Take 2",
+      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
     },
     {
       "added_at": "2023-12-07 15:49:51",
@@ -887,18 +903,18 @@
     {
       "added_at": "2023-12-07 15:49:51",
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+        "name": "Pointless Nostalgic (Remastered)",
+        "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Everything Happens To Me - Complete Take 2",
-      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
+      "duration_ms": 315702,
+      "name": "I Can't Get Started - Remastered",
+      "url": "https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P"
     },
     {
       "added_at": "2023-12-07 15:49:51",
@@ -915,22 +931,6 @@
       "duration_ms": 287973,
       "name": "There's No You",
       "url": "https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk"
-    },
-    {
-      "added_at": "2023-12-07 15:49:51",
-      "album": {
-        "name": "Pointless Nostalgic (Remastered)",
-        "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 315702,
-      "name": "I Can't Get Started - Remastered",
-      "url": "https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P"
     },
     {
       "added_at": "2023-12-07 15:49:51",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2023-12-07 15:49:51",
       "album": {
-        "name": "Gentle Is My Love",
-        "url": "https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "Who Can I Turn To (When Nobody Needs Me)",
-      "url": "https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP"
-    },
-    {
-      "added_at": "2023-12-07 15:49:51",
-      "album": {
-        "name": "All For You (A Dedication To The Nat King Cole Trio)",
-        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
-    },
-    {
-      "added_at": "2023-12-07 15:49:51",
-      "album": {
         "name": "Time To Swing",
         "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
@@ -1067,6 +1035,22 @@
     {
       "added_at": "2023-12-07 15:49:51",
       "album": {
+        "name": "Gentle Is My Love",
+        "url": "https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "Who Can I Turn To (When Nobody Needs Me)",
+      "url": "https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP"
+    },
+    {
+      "added_at": "2023-12-07 15:49:51",
+      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 293700,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I"
+    },
+    {
+      "added_at": "2023-12-07 15:49:51",
+      "album": {
+        "name": "All For You (A Dedication To The Nat King Cole Trio)",
+        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
     },
     {
       "added_at": "2023-12-07 15:49:51",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-12-07 15:49:51",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/2VGYeHdyZcnLfcA0Ix6d4Y"
-    },
-    {
-      "added_at": "2023-12-07 15:49:51",
-      "album": {
         "name": "She's Got It",
         "url": "https://open.spotify.com/album/5UKPWnmzf6F2UlBhp1dIRi"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 197253,
       "name": "Wasting My Love on You",
       "url": "https://open.spotify.com/track/5Dp0YfR5ygkhdoB0rmLlFZ"
+    },
+    {
+      "added_at": "2023-12-07 15:49:51",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/2VGYeHdyZcnLfcA0Ix6d4Y"
     },
     {
       "added_at": "2023-12-07 15:49:51",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-12-07 15:49:51",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "Whatever Happened To You?",
-      "url": "https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35"
-    },
-    {
-      "added_at": "2023-12-07 15:49:51",
-      "album": {
         "name": "The Rockin' Chair Lady",
         "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 189533,
       "name": "Blues In My Heart",
       "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
+    },
+    {
+      "added_at": "2023-12-07 15:49:51",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "Whatever Happened To You?",
+      "url": "https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35"
     },
     {
       "added_at": "2023-12-07 15:49:51",

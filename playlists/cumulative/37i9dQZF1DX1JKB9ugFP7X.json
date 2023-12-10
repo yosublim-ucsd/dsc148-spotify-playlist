@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "PURA",
+        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134425,
+      "name": "PURA",
+      "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n Me Escucha",
         "url": "https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V"
       },
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 187250,
       "name": "Una Hora para Verte",
       "url": "https://open.spotify.com/track/0mXS6S5ZxUCiUZLZgz6qTO"

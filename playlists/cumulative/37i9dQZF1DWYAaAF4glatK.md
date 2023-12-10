@@ -4,7 +4,7 @@
 
 > La playlist de ton été 2023 ! 🌞
 
-181 songs - 9 hr 12 min
+182 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-03-06 | 2023-07-25 |
 | [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2023-09-05 |  |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-09-07 | 2023-03-07 |
-| [C'est carré le S](https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [En temps réel](https://open.spotify.com/album/3Axd0NV5EcNnWzkvHqijzQ) | 3:21 | 2023-05-19 |  |
+| [C'est carré le S](https://open.spotify.com/track/2UHSXPY5jSCpp3nzWHtaQv) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En temps réel](https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI) | 3:21 | 2023-09-05 |  |
+| [C'est carré le S](https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [En temps réel](https://open.spotify.com/album/3Axd0NV5EcNnWzkvHqijzQ) | 3:21 | 2023-05-19 | 2023-12-10 |
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2023-02-10 | 2023-03-07 |
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-09-07 | 2023-05-20 |
 | [Can’t Forget You \(feat\. James Blunt\)](https://open.spotify.com/track/7amfTemBf8YlQr96FsOzgj) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Can’t Forget You \(feat\. James Blunt\)](https://open.spotify.com/album/4rSNyCFSf1b7EQjTD9kLiA) | 2:29 | 2023-04-13 | 2023-06-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,568 likes - 71 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,571 likes - 71 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 9 | [Fuck it I love you](https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:38 |
 | 10 | [Picture](https://open.spotify.com/track/2TSrPTmItdlM4IljhNe7SM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Picture](https://open.spotify.com/album/72KtIRmlY0xwsWViKQGEv0) | 2:30 |
 | 11 | [ifyoulovesomeone](https://open.spotify.com/track/4eECknCDvsXWYyacuycw4J) | [Su San](https://open.spotify.com/artist/141YMyiz2ugK1AxTXDkUdx) | [ifyoulovesomeone](https://open.spotify.com/album/2Kva6Kzzr5m8k70U4dQA0r) | 3:26 |
-| 12 | [Sardine Song](https://open.spotify.com/track/6cIKtihxWYkzkJHPQOiun1) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Sardine Song / Spirit Ditch](https://open.spotify.com/album/6GnrVEBefmxllZVtKVswLy) | 3:29 |
+| 12 | [Sardine Song](https://open.spotify.com/track/4T8OTGiAX20o9cninpcXF7) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Sardine Song / Spirit Ditch](https://open.spotify.com/album/1pEmMnnJr4cQHNsAByIb45) | 3:29 |
 | 13 | [love u](https://open.spotify.com/track/4pxBGvdDoLLYtzs2Z8AC6e) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [days to morning glory](https://open.spotify.com/album/6sYWO4IATLL7LZtgkwm2eU) | 3:30 |
 | 14 | [Sunscreen](https://open.spotify.com/track/0EjoG8ZT8TCd51ymUAe160) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/0kTbbvO1d1OFGtjnxt0nT7) | 2:49 |
 | 15 | [Impressions](https://open.spotify.com/track/039KCeBrprEJiYqqt33diP) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Impressions](https://open.spotify.com/album/2Ney0TSRz1uChEDF2nROh2) | 4:40 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 70 | [Friends](https://open.spotify.com/track/71bAQugadZL7hSKS9DUCbC) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:24 |
 | 71 | [Turn Me Down](https://open.spotify.com/track/7KbFoYmInyz7SGcRFKcx4M) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN), [LUSTBASS](https://open.spotify.com/artist/6KVYyAtFWiPTpBcNKRM5ER) | [Turn Me Down](https://open.spotify.com/album/5Nzx72g90YvVDhI7BE3Hqf) | 4:27 |
 
-Snapshot ID: `MCwwMjZlOWNkYjQ5NDIzNTcxYjZkODZlMDA0NTZlMjVhNjAyN2IwNTQ0`
+Snapshot ID: `MCwwZTUwYWRlNGU0Y2M4ZGUxM2E0Y2M5ZGRlMzc5NDMwOTUzYjk3NWMy`

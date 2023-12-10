@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,857 likes - 105 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,862 likes - 105 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [白夜](https://open.spotify.com/track/77ypIknTAFZbRDVWCggH0l) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [白夜](https://open.spotify.com/album/3p5oW50p6I2bYsfuOhTFVF) | 4:26 |
-| 2 | [假設 \(feat\. 孫盛希\)](https://open.spotify.com/track/5H6O5Ba04pJH8iHiqT7Hcs) | [郑润泽](https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [假設](https://open.spotify.com/album/7KmRA1JE6SbZ62XbWnxt3c) | 3:34 |
+| 2 | [假设](https://open.spotify.com/track/5eIvG3WhIn1Xt2i11fOExb) | [郑润泽](https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4), [孙盛希](https://open.spotify.com/artist/48KbdQ2h1Qq2G0mr3hVsls) | [绚烂 枯萎 以后](https://open.spotify.com/album/29GUxcViDudgrKO0IJpL72) | 3:34 |
 | 3 | [走向我是为了离开我](https://open.spotify.com/track/7j82DkxlllY9vO4xp20ybJ) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [走向我是为了离开我](https://open.spotify.com/album/6cKB4fSEKWod4ziShKFsWY) | 3:55 |
 | 4 | [大哉问 \(THE BIG WHY\)](https://open.spotify.com/track/2Ek9TFAvyZx73HNtpC00qE) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [大哉问 \(THE BIG WHY\)](https://open.spotify.com/album/3n4wN27B5nwqV0QAKmbzLj) | 3:42 |
 | 5 | [like a bird](https://open.spotify.com/track/4s9FPuVXTYR6Eqc4oxO3sA) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [like a bird](https://open.spotify.com/album/3OyRQfZRnHE3wzsCX18rbF) | 4:16 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [Woody](https://open.spotify.com/track/6S1JhalUapj0WoE8fKsaZ2) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 3:18 |
 | 105 | [一首未完的歌](https://open.spotify.com/track/1RnGnadcVIfwOzk5OR8Hg2) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [一首未完的歌](https://open.spotify.com/album/63JEeEKzaiX3qF87bcPbPE) | 2:36 |
 
-Snapshot ID: `MCw0MjdhMWRmZmQ5ZmViNTU1N2FlMTU1NDY2MDA1OGZhY2M0MWU1MWUw`
+Snapshot ID: `MCwzOTlhNTA3MzM4MDk3MzBlZDM0NWUzZjFiZmY5NmVmYWI1MjI3MWVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Oscar Ortiz, Edgardo Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,661 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,836 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 10 | [En el Refuego](https://open.spotify.com/track/1y5JYsmRffBzuR2lf9ZRpQ) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [En el Refuego](https://open.spotify.com/album/3hZ4b4fS1lgQCR3U1PTvQJ) | 3:10 |
 | 11 | [El Viejo Joven](https://open.spotify.com/track/1sf4ZX186z4T7NsBXXkD7e) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Viejo Joven](https://open.spotify.com/album/25a7zGKPGfRoq2qxFpTGaq) | 2:37 |
 | 12 | [Ay mamá por dios](https://open.spotify.com/track/1GYBUOYZaFzrOJTj7vsysI) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ay mamá por dios](https://open.spotify.com/album/1Vdp87oXiKBfEG6Q8CyVRS) | 3:11 |
-| 13 | [Popurrí Ranchero: Barrio Ranchero, Sea por Dios, Amor Fingido, la Huella de Mis Besos](https://open.spotify.com/track/2s2dgUjGJ8MwrzLMBavwfv) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Popurrí Ranchero: Barrio Ranchero, Sea por Dios, Amor Fingido, la Huella de Mis Besos](https://open.spotify.com/album/7spnHNkRzevKVQ6E9uBHYd) | 5:51 |
+| 13 | [Popurrí Ranchero: Barrio Pobre, Sea por Dios, Amor Fingido, La Huella de Mis Besos](https://open.spotify.com/track/2s2dgUjGJ8MwrzLMBavwfv) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Popurrí Ranchero: Barrio Pobre, Sea por Dios, Amor Fingido, La Huella de Mis Besos](https://open.spotify.com/album/7spnHNkRzevKVQ6E9uBHYd) | 5:51 |
 | 14 | [25 De Diciembre](https://open.spotify.com/track/6E2pxdNAp9Z3x8vJYqkUMb) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Patria Chica](https://open.spotify.com/artist/50Zgf95i1BEuFsbdVhoC8p) | [25 De Diciembre](https://open.spotify.com/album/3yxcIcJLYb5m6yBdYQVbPk) | 2:37 |
 | 15 | [Por Si Me Les Adelanto](https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Por Si Me Les Adelanto](https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p) | 2:37 |
-| 16 | [Me Di Cuenta](https://open.spotify.com/track/0xfdBhImqnPN4yh2bT1rr0) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/2VNRQcvWyaZY20xKwGEOz0) | 3:02 |
+| 16 | [Me Di Cuenta](https://open.spotify.com/track/2ucU5OkIVrM0CcaUksB6vf) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/3wxMFWQmft2AiryqyyH7Rx) | 3:02 |
 | 17 | [Le Sufrio](https://open.spotify.com/track/0llwX5E7rPHbEw2b2oKSsQ) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [Banda Peñasco De Zacatecas](https://open.spotify.com/artist/2RlM0O6BxNXM35gxZsxuPP) | [Le Sufrio](https://open.spotify.com/album/7lceWWeywhLWtPRAUorODD) | 3:53 |
 | 18 | [Fuga Del Jefe](https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Contrato A La Vida](https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD) | 2:43 |
 | 19 | [Sé Que Les Arde](https://open.spotify.com/track/16ijKw15qfsnxfbeRBRhB0) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Sé Que Les Arde](https://open.spotify.com/album/4wJVSkmWUp1a7wDQ6Nuner) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Quien Te Dio Permiso](https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Quien Te Dio Permiso](https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3) | 2:53 |
 | 50 | [La Chapiza](https://open.spotify.com/track/6M9iYgZmNla94UTWEjHaVK) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 2:18 |
 
-Snapshot ID: `MCxhYjljN2VmZjAxM2UwNTYxOTc3ZjZkMGU1ZmJkY2QwY2YwMThmZTI4`
+Snapshot ID: `MCwzMjVlNDFmYTg4MDJhOTJjMDQ3MmFjOTk1MDJlMzhhYzY1OGJkMjM0`

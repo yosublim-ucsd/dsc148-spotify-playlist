@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Pol Granch
 
-520 songs - 1 day 2 hr 11 min
+521 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Kokeo](https://open.spotify.com/track/3ae5wSGD2kCCnUdPb0TmoS) | [Erubey](https://open.spotify.com/artist/2TXfinCMGjuBZuWsJI8YAd), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Kokeo](https://open.spotify.com/album/5Zsf7H9Z5QMKV8GcXjQ3wC) | 3:26 | 2022-05-09 | 2022-07-29 |
 | [La Carta](https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Carta](https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv) | 2:37 | 2022-05-06 | 2022-06-18 |
 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 | 2022-09-23 | 2023-03-11 |
+| [La Dosis](https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [La Dosis](https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq) | 2:55 | 2023-12-08 |  |
 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 | 2022-10-28 | 2023-02-18 |
 | [La Equivocada](https://open.spotify.com/track/2VeyK1f5HRgNGNhn8MUvdf) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [XOXO](https://open.spotify.com/album/3UxgQmk5mb2G4zCFM4ScHH) | 3:18 | 2022-09-09 | 2022-12-17 |
 | [La Equivocada](https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Equivocada](https://open.spotify.com/album/4SFf9s5HXSycEG0zLgK11l) | 3:18 | 2022-04-14 | 2022-06-18 |
@@ -485,7 +486,7 @@
 | [Trepado](https://open.spotify.com/track/711ngcynIQHVRmTn5R7QVs) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Trepado](https://open.spotify.com/album/49YhDMBAxaoaQl1I2kvuCz) | 2:50 | 2022-09-09 | 2022-10-29 |
 | [Tu Apodo](https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Tu Apodo](https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q) | 2:35 | 2023-02-10 | 2023-03-11 |
 | [Tu Boca](https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh) | [HALÉ](https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii) | [Tu Boca](https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2) | 3:02 | 2022-05-09 | 2022-07-29 |
-| [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 | 2023-10-27 |  |
+| [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 | 2023-10-27 | 2023-12-10 |
 | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/track/1XzihhvRzOHYmVImIZ9g8Q) | [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/album/1qrlFEQBcFkWfH0dxjkMDQ) | 2:41 | 2022-03-21 | 2022-06-13 |
 | [Tu Foto](https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ) | 3:00 | 2022-03-21 | 2022-06-13 |
 | [Tu Mal](https://open.spotify.com/track/5MM7qBRE7av0neCcsPrll0) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Tu Mal](https://open.spotify.com/album/39uy6LRqVbLbh5pFNCFtgT) | 2:56 | 2023-03-31 | 2023-04-15 |

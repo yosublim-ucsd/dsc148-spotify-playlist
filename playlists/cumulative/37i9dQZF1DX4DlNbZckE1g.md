@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-148 songs - 8 hr 15 min
+149 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [DANCE WITH ME TODAY](https://open.spotify.com/track/1rgjeaK2kgI4y2BmZ1Daul) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [DANCE WITH ME TODAY](https://open.spotify.com/album/0ITiZ4HwA76j0IfnjhWklL) | 3:18 | 2022-02-10 |  |
 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 | 2022-02-10 |  |
 | [Do I Fit In Your Shoes?](https://open.spotify.com/track/5MmZvtfEIRxWWVM2hcKvS8) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Do I Fit In Your Shoes?](https://open.spotify.com/album/4Ecyhujcm0JiKKum50HyfY) | 2:45 | 2022-02-10 |  |
-| [Don't Be Alarmed](https://open.spotify.com/track/1zrqLcivY5ebUECrD36OLb) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Don't Be Alarmed \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/6mJWTph8fq99E3wNnvBUXO) | 3:06 | 2022-02-10 |  |
+| [Don't Be Alarmed](https://open.spotify.com/track/1zrqLcivY5ebUECrD36OLb) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Don't Be Alarmed \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/6mJWTph8fq99E3wNnvBUXO) | 3:06 | 2022-02-10 | 2023-12-10 |
+| [Don't Be Alarmed \(with Bipolar Sunshine\)](https://open.spotify.com/track/5oDOsRwFxEVd5sJlBpa2YG) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Don't Be Alarmed \(with Bipolar Sunshine\)](https://open.spotify.com/album/64vcCD8R34tDPs7SzZdzHg) | 3:06 | 2022-02-10 |  |
 | [Esther](https://open.spotify.com/track/74K9eR3fwxau1Lt5ocy3tP) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Esther / Touch Me \(Hold My Hand\)](https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ) | 3:12 | 2022-02-10 |  |
 | [Feel Good](https://open.spotify.com/track/3j81JGhjUAXrfuAbvTpE3b) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Feel Good](https://open.spotify.com/album/5v6TiY5DBUelWDVoJ7DYMw) | 2:54 | 2022-02-10 |  |
 | [FLARE](https://open.spotify.com/track/16hxnA8hrQ7hT5cKzuRfUI) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [FLARE](https://open.spotify.com/album/3xTwXIBYS3w4LjFtIi7hIO) | 3:18 | 2022-02-10 |  |

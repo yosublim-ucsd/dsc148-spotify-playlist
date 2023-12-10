@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 177249,
+  "num_followers": 177463,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODUzMDdkZWM1OGIwODMzMTJmZDQyNzFjY2IzY2UwZWRmYTQwOTU3",
+  "snapshot_id": "MCw5YzY5NTk5NmZjMzVmYzQ4NzQyOGQ3ZmMzYzQ5ZGYyNmExZmMxZmNl",
   "tracks": [
     {
       "added_at": "2023-12-01 10:57:43",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-12-01 10:57:43",
       "album": {
+        "name": "Io Fuori",
+        "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "duration_ms": 349462,
+      "name": "Ti voglio",
+      "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
+    },
+    {
+      "added_at": "2023-12-01 10:57:43",
+      "album": {
         "name": "Tutto va bene quando facciamo l'amore (Remixes)",
         "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 205592,
       "name": "Tutto va bene quando facciamo l'amore",
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
-    },
-    {
-      "added_at": "2023-12-01 10:57:43",
-      "album": {
-        "name": "Io Fuori",
-        "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        }
-      ],
-      "duration_ms": 349462,
-      "name": "Ti voglio",
-      "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
     },
     {
       "added_at": "2023-12-01 10:57:43",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-12-01 10:57:43",
       "album": {
-        "name": "Ma quale idea (Myd Remix)",
-        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
+        "name": "I Need You Tonight / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
       "artists": [
         {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Suzy Q",
+          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
         }
       ],
-      "duration_ms": 219140,
-      "name": "Ma quale idea - Myd Remix (Radio Edit)",
-      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+      "duration_ms": 390127,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
     },
     {
       "added_at": "2023-12-01 10:57:43",
@@ -691,18 +687,22 @@
     {
       "added_at": "2023-12-01 10:57:43",
       "album": {
-        "name": "I Need You Tonight / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+        "name": "Ma quale idea (Myd Remix)",
+        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
       },
       "artists": [
         {
-          "name": "Suzy Q",
-          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         }
       ],
-      "duration_ms": 390127,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+      "duration_ms": 219140,
+      "name": "Ma quale idea - Myd Remix (Radio Edit)",
+      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
     },
     {
       "added_at": "2023-12-01 10:57:43",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-01 10:57:43",
       "album": {
-        "name": "Viewpoint",
-        "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
-      },
-      "artists": [
-        {
-          "name": "Gazebo",
-          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
-    },
-    {
-      "added_at": "2023-12-01 10:57:43",
-      "album": {
         "name": "Gary Low: The Best of",
         "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 509240,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
+    },
+    {
+      "added_at": "2023-12-01 10:57:43",
+      "album": {
+        "name": "Viewpoint",
+        "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
+      },
+      "artists": [
+        {
+          "name": "Gazebo",
+          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
     },
     {
       "added_at": "2023-12-01 10:57:43",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-12-01 10:57:43",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Happy Song(Clap Your Hands) (Remix)",
-      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
-    },
-    {
-      "added_at": "2023-12-01 10:57:43",
-      "album": {
         "name": "Tac..!",
         "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 236333,
       "name": "Balla Ba",
       "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
+    },
+    {
+      "added_at": "2023-12-01 10:57:43",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Happy Song(Clap Your Hands) (Remix)",
+      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
     },
     {
       "added_at": "2023-12-01 10:57:43",
@@ -1183,42 +1183,6 @@
     {
       "added_at": "2023-12-01 10:57:43",
       "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
-    },
-    {
-      "added_at": "2023-12-01 10:57:43",
-      "album": {
-        "name": "Danza Organica (Musumeci Remix Hot Version)",
-        "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
-      },
-      "artists": [
-        {
-          "name": "Sam Ruffillo",
-          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
-        },
-        {
-          "name": "Musumeci",
-          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
-        }
-      ],
-      "duration_ms": 196957,
-      "name": "Danza Organica - Musumeci Remix Hot Version",
-      "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
-    },
-    {
-      "added_at": "2023-12-01 10:57:43",
-      "album": {
         "name": "\u00c7a va? Je t'aime! (feat. EMMANUELLE)",
         "url": "https://open.spotify.com/album/6IEdKxjlDHpJWwekOIyoSz"
       },
@@ -1243,6 +1207,22 @@
     {
       "added_at": "2023-12-01 10:57:43",
       "album": {
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
+    },
+    {
+      "added_at": "2023-12-01 10:57:43",
+      "album": {
         "name": "Baby I Love You (Original) - Single",
         "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 503920,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
+    },
+    {
+      "added_at": "2023-12-01 10:57:43",
+      "album": {
+        "name": "Danza Organica (Musumeci Remix Hot Version)",
+        "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
+      },
+      "artists": [
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        },
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+        }
+      ],
+      "duration_ms": 196957,
+      "name": "Danza Organica - Musumeci Remix Hot Version",
+      "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
     },
     {
       "added_at": "2023-12-01 10:57:43",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2023-12-01 10:57:43",
       "album": {
-        "name": "Under the Ice - Single",
-        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
+        "name": "Bambina c/o Bye Bye Mi Amor",
+        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
       },
       "artists": [
         {
-          "name": "Topo",
-          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
-        },
-        {
-          "name": "Roby",
-          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
+          "name": "David Lyme",
+          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
         }
       ],
-      "duration_ms": 432404,
-      "name": "Under the Ice - Original 12 Inch Version",
-      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
+      "duration_ms": 331200,
+      "name": "Bambina (Original 12-Inch Version)",
+      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
     }
   ],
   "unique_name": "Italo Disco",

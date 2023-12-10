@@ -1,12 +1,12 @@
 {
   "description": "Compare, prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 343439,
+  "num_followers": 343709,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTUzOTA0ODRkMmE5YjU3MzA3YmFmOGYzYzNhZjc2ZmQyOTFiNjJh",
+  "snapshot_id": "MCwxODg1NWI1ODEzYWU2MjI2MDQ4ZGNiMjUxMWQzNjllY2RmOWZjMzc2",
   "tracks": [
     {
       "added_at": "2023-11-08 23:01:07",
@@ -459,22 +459,18 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
+        "name": "Libre Por Naturaleza",
+        "url": "https://open.spotify.com/album/2XsiX1tRabcnYmJatmnsSK"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 142064,
-      "name": "Cabr\u00f3n y Vago - En Vivo",
-      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+      "duration_ms": 192760,
+      "name": "Pu\u00f1o De Diamantes",
+      "url": "https://open.spotify.com/track/1IzGf1RLpHuImi5lsCD3T9"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -495,22 +491,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Libre Por Naturaleza",
-        "url": "https://open.spotify.com/album/2XsiX1tRabcnYmJatmnsSK"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "Pu\u00f1o De Diamantes",
-      "url": "https://open.spotify.com/track/1IzGf1RLpHuImi5lsCD3T9"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Ya Sup\u00e9rame (En Vivo)",
         "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 189050,
       "name": "Ya Sup\u00e9rame (En Vivo)",
       "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 142064,
+      "name": "Cabr\u00f3n y Vago - En Vivo",
+      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "Me Gusta Vivir De Noche",
+        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "El Amor So\u00f1ado",
+      "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
       },
@@ -623,26 +639,6 @@
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -663,18 +659,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Me Gusta Vivir De Noche",
-        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 164466,
-      "name": "El Amor So\u00f1ado",
-      "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "Di Que Si",
         "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+        "name": "AYAYAY! (Deluxe)",
+        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+      "duration_ms": 143933,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -879,38 +895,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Corleone",
-        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 203829,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
-        "name": "AYAYAY! (Deluxe)",
-        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -931,22 +915,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Todo tuyo",
         "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
@@ -959,6 +927,38 @@
       "duration_ms": 235906,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 203829,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
-      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 193621,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
+      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Bodas De Enga\u00f1o",
-        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
-      },
-      "artists": [
-        {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Viernes Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 133261,
       "name": "GPI",
       "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Bodas De Enga\u00f1o",
+        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Viernes Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
       },
       "artists": [
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
         }
       ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+      "duration_ms": 155513,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Culpable T\u00fa",
-        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
       },
       "artists": [
         {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
-      "duration_ms": 155513,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "900 Cigarros",
-        "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 123906,
-      "name": "900 Cigarros",
-      "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Tan Bella y Tan Presumida (En Vivo)",
         "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 161226,
       "name": "La Noche Que Murio Chicago",
       "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "900 Cigarros",
+        "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 123906,
+      "name": "900 Cigarros",
+      "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "A Chillar a otra parte",
         "url": "https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 167370,
       "name": "Pideme la Luna",
       "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Tres Veces Te Enga\u00f1\u00e9 (En Vivo)",
-        "url": "https://open.spotify.com/album/67cz8x4lTBKle18uAhzeRa"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Tres Veces Te Enga\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/4hH7njS67Xgt6TRcBwK8A8"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 195000,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/1k9D0uyT8BvBCNJQoPBZLK"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Tres Veces Te Enga\u00f1\u00e9 (En Vivo)",
+        "url": "https://open.spotify.com/album/67cz8x4lTBKle18uAhzeRa"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "Tres Veces Te Enga\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1991,18 +1991,18 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm"
+        "name": "Lives, Vol.1",
+        "url": "https://open.spotify.com/album/4cWhUcmMJdjiYA4FyKpCFQ"
       },
       "artists": [
         {
-          "name": "Costumbre",
-          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 155746,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu"
+      "duration_ms": 240416,
+      "name": "Le Hace Falta Un Beso",
+      "url": "https://open.spotify.com/track/0b601Fnoi2vTzGeSMippyu"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm"
+      },
+      "artists": [
+        {
+          "name": "Costumbre",
+          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
+        }
+      ],
+      "duration_ms": 155746,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "Amor, Familia Y Respeto",
         "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 194466,
       "name": "Te Quiero A T\u00ed",
       "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
-        "name": "Lives, Vol.1",
-        "url": "https://open.spotify.com/album/4cWhUcmMJdjiYA4FyKpCFQ"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 240416,
-      "name": "Le Hace Falta Un Beso",
-      "url": "https://open.spotify.com/track/0b601Fnoi2vTzGeSMippyu"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Boleros 20\u00b0 Aniversario",
-        "url": "https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Respeta Mi Dolor",
-      "url": "https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Y Es el Contacto \u00a1Raza!",
         "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 168045,
       "name": "El Agua Clara",
       "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Boleros 20\u00b0 Aniversario",
+        "url": "https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Respeta Mi Dolor",
+      "url": "https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -2151,26 +2151,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "En Cambio No",
-        "url": "https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "LP Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5"
-        }
-      ],
-      "duration_ms": 244583,
-      "name": "En Cambio No",
-      "url": "https://open.spotify.com/track/6pQAlLDQpmq7vcdbFW7ESj"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Locamente Enamorado",
         "url": "https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P"
       },
@@ -2187,18 +2167,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Aqu\u00ed Est\u00e1n!..",
-        "url": "https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF"
+        "name": "En Cambio No",
+        "url": "https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l"
       },
       "artists": [
         {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "LP Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5"
         }
       ],
-      "duration_ms": 209293,
-      "name": "Acepto Mi Derrota",
-      "url": "https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5"
+      "duration_ms": 244583,
+      "name": "En Cambio No",
+      "url": "https://open.spotify.com/track/6pQAlLDQpmq7vcdbFW7ESj"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -2231,6 +2215,22 @@
       "duration_ms": 205738,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Aqu\u00ed Est\u00e1n!..",
+        "url": "https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Acepto Mi Derrota",
+      "url": "https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5"
     },
     {
       "added_at": "2023-11-08 23:01:07",

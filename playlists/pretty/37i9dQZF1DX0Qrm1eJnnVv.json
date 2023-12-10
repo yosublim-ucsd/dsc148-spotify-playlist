@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 4554,
+  "num_followers": 4562,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjkyMTgwOTllNDY4NTQ0NGU4ZjliYjQ5MjRkYjczMDE1NjJjYjc1",
+  "snapshot_id": "MCw1NTNkYjY2NzRlNTJmYmU2MmMwMTk4NGZjN2NkNmVjNTkxZWY4YjU1",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -211,6 +211,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "Ragtime Revival",
+        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+      },
+      "artists": [
+        {
+          "name": "Scott Cotton",
+          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bohemia Rag",
+      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "World's Greatest Piano Rags",
         "url": "https://open.spotify.com/album/0wVhPHbbIBmNKVbQdvI9tQ"
       },
@@ -247,22 +263,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Whippin' the Keys",
-        "url": "https://open.spotify.com/album/4QoewAeBhDUQSaplJwPHix"
-      },
-      "artists": [
-        {
-          "name": "Wally Rose",
-          "url": "https://open.spotify.com/artist/29ja2bTYI7u1VtxBTFkhyB"
-        }
-      ],
-      "duration_ms": 167626,
-      "name": "New Era Rag",
-      "url": "https://open.spotify.com/track/6mBC9LUBJmWkJjiFUk82Se"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Joplin: Piano Rags, Vol. 1",
         "url": "https://open.spotify.com/album/0lNT0wgggNxAUsquXDQX7X"
       },
@@ -283,18 +283,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Revival",
-        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+        "name": "Whippin' the Keys",
+        "url": "https://open.spotify.com/album/4QoewAeBhDUQSaplJwPHix"
       },
       "artists": [
         {
-          "name": "Scott Cotton",
-          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+          "name": "Wally Rose",
+          "url": "https://open.spotify.com/artist/29ja2bTYI7u1VtxBTFkhyB"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Bohemia Rag",
-      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
+      "duration_ms": 167626,
+      "name": "New Era Rag",
+      "url": "https://open.spotify.com/track/6mBC9LUBJmWkJjiFUk82Se"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -367,6 +367,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "Ragtime Revival",
+        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+      },
+      "artists": [
+        {
+          "name": "Scott Cotton",
+          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Ragtime Oriole",
+      "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "Scott Joplin Greatest Hits",
         "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 181026,
       "name": "Sugar Cane",
       "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "Syncopated Musings: Classic Piano Rags And Ragtime Waltzes",
-        "url": "https://open.spotify.com/album/7b8BlvfYIPvB31z8XxfXx3"
-      },
-      "artists": [
-        {
-          "name": "Bryan Wright",
-          "url": "https://open.spotify.com/artist/03KJxEQYBqhmSqdqI1tEgf"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Weeping Willow (Scott Joplin)",
-      "url": "https://open.spotify.com/track/5STf3aWfQmVQmv5VPzxS1N"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -415,18 +415,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Revival",
-        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+        "name": "Syncopated Musings: Classic Piano Rags And Ragtime Waltzes",
+        "url": "https://open.spotify.com/album/7b8BlvfYIPvB31z8XxfXx3"
       },
       "artists": [
         {
-          "name": "Scott Cotton",
-          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+          "name": "Bryan Wright",
+          "url": "https://open.spotify.com/artist/03KJxEQYBqhmSqdqI1tEgf"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Ragtime Oriole",
-      "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
+      "duration_ms": 255826,
+      "name": "Weeping Willow (Scott Joplin)",
+      "url": "https://open.spotify.com/track/5STf3aWfQmVQmv5VPzxS1N"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -463,18 +463,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Christmas Eve 1915",
-        "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
+        "name": "Classic Rags Piano Solos, Vol. 4",
+        "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
       },
       "artists": [
         {
-          "name": "Bill Edwards",
-          "url": "https://open.spotify.com/artist/4nwMcAEEwpBDueIkUK65SN"
+          "name": "Leslie Bridges",
+          "url": "https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw"
         }
       ],
-      "duration_ms": 198173,
-      "name": "Reindeer Rag",
-      "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
+      "duration_ms": 165382,
+      "name": "Paramount Rag",
+      "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -531,18 +531,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Classic Rags Piano Solos, Vol. 4",
-        "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
+        "name": "Christmas Eve 1915",
+        "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
       },
       "artists": [
         {
-          "name": "Leslie Bridges",
-          "url": "https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw"
+          "name": "Bill Edwards",
+          "url": "https://open.spotify.com/artist/4nwMcAEEwpBDueIkUK65SN"
         }
       ],
-      "duration_ms": 165382,
-      "name": "Paramount Rag",
-      "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
+      "duration_ms": 198173,
+      "name": "Reindeer Rag",
+      "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
     },
     {
       "added_at": "2020-08-19 17:18:36",

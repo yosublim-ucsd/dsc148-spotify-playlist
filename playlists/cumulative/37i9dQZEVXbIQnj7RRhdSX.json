@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 171903,
       "name": "Alta marea",
       "url": "https://open.spotify.com/track/1ytp1BZurhOk14vErLhivu"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 189015,
       "name": "ANELLI E COLLANE (feat. ANNA)",
       "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
@@ -5078,7 +5078,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
@@ -6704,7 +6704,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 193043,
       "name": "Complicato",
       "url": "https://open.spotify.com/track/6d7BZ0WMfu6OlgA3hIh58P"
@@ -10078,7 +10078,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 133266,
       "name": "Fantasmi (feat. Geolier)",
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
@@ -10346,6 +10346,24 @@
       "duration_ms": 200213,
       "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
       "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
       "album": {
@@ -10908,7 +10926,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 146165,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/3WsO4fOOc2Yr6oTP7CYa4j"
@@ -10960,7 +10978,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 177576,
       "name": "Freaky (feat. Shiva & Niky Savage)",
       "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
@@ -11506,7 +11524,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 181611,
       "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
       "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
@@ -12249,6 +12267,28 @@
     },
     {
       "album": {
+        "name": "MOTIVATION 4 THE STREETZ",
+        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133480,
+      "name": "GURU DEL BUSINESS",
+      "url": "https://open.spotify.com/track/6S4fXKcUSbiGEIHOXSeSaD"
+    },
+    {
+      "album": {
         "name": "INNOCENTE",
         "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
       },
@@ -12334,7 +12374,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -12592,7 +12632,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -12666,6 +12706,28 @@
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "album": {
+        "name": "MOTIVATION 4 THE STREETZ",
+        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156447,
+      "name": "HOODRICH",
+      "url": "https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f"
     },
     {
       "album": {
@@ -13978,7 +14040,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -14022,7 +14084,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -16210,7 +16272,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -16232,7 +16294,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -17200,7 +17262,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 135652,
       "name": "Machiavelli (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl"
@@ -18810,7 +18872,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 194675,
       "name": "MILANO",
       "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
@@ -18828,7 +18890,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 162061,
       "name": "Milano Bene",
       "url": "https://open.spotify.com/track/2O8WUIrr2N2DYC6OqwWCdq"
@@ -19402,6 +19464,32 @@
       "duration_ms": 148038,
       "name": "MONEY BAGZ (feat. Speranza)",
       "url": "https://open.spotify.com/track/7G38Rg6rU3NVhpdQteyQOA"
+    },
+    {
+      "album": {
+        "name": "MOTIVATION 4 THE STREETZ",
+        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151515,
+      "name": "MONEY SEX BEEF (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/0333juJLFJkKr8c6XzqXCL"
     },
     {
       "album": {
@@ -21179,6 +21267,32 @@
     },
     {
       "album": {
+        "name": "MOTIVATION 4 THE STREETZ",
+        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174406,
+      "name": "NULLA ACCADE (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/7aE74PfRukjvuBqte3f0hs"
+    },
+    {
+      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -21442,7 +21556,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 204544,
       "name": "OCCHI LUCIDI",
       "url": "https://open.spotify.com/track/3brte0lhdNMuHcCk0QW5Rz"
@@ -22854,7 +22968,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 184724,
       "name": "Paura E Delirio A Milano (feat. Tony Effe, Dylan, Side Baby)",
       "url": "https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ"
@@ -24600,7 +24714,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 167880,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
@@ -25558,7 +25672,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -26634,7 +26748,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -26740,7 +26854,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -28452,7 +28566,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 143500,
       "name": "TAXI SULLA LUNA",
       "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
@@ -30242,6 +30356,24 @@
       "duration_ms": 153750,
       "name": "Una Noche en Medell\u00edn",
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
     },
     {
       "album": {

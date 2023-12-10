@@ -1692,6 +1692,24 @@
     {
       "album": {
         "name": "Sardine Song / Spirit Ditch",
+        "url": "https://open.spotify.com/album/1pEmMnnJr4cQHNsAByIb45"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209387,
+      "name": "Sardine Song",
+      "url": "https://open.spotify.com/track/4T8OTGiAX20o9cninpcXF7"
+    },
+    {
+      "album": {
+        "name": "Sardine Song / Spirit Ditch",
         "url": "https://open.spotify.com/album/6GnrVEBefmxllZVtKVswLy"
       },
       "artists": [
@@ -1702,7 +1720,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 209387,
       "name": "Sardine Song",
       "url": "https://open.spotify.com/track/6cIKtihxWYkzkJHPQOiun1"

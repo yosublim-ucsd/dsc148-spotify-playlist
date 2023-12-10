@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 397288,
+  "num_followers": 397402,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGQ2NzAyZDNhMzFjNDkzYmU1YzU3ZjdiOTkxODNjZjQ0YmE5N2Y2",
+  "snapshot_id": "MCxiYzBiMWE5OWY3YmE2Y2UzMDExYWY0OTFiMGM5ZDFjMmZhODYzYzM5",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -471,18 +471,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
+        "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
+        "url": "https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 294800,
-      "name": "Give Me Faith",
-      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
+      "duration_ms": 321003,
+      "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
+      "url": "https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -503,18 +503,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
-        "url": "https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t"
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
       },
       "artists": [
         {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 321003,
-      "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
-      "url": "https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA"
+      "duration_ms": 294800,
+      "name": "Give Me Faith",
+      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -583,22 +583,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
-        "url": "https://open.spotify.com/album/6zc2WKK1KdSM1E35DXPOit"
+        "name": "Ganas De Vivir",
+        "url": "https://open.spotify.com/album/5Rx91EycElkbKGnZFHPOM6"
       },
       "artists": [
         {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Living",
-          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
         }
       ],
-      "duration_ms": 438519,
-      "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
-      "url": "https://open.spotify.com/track/22H9y1qkAXg4jhrXM3xo3U"
+      "duration_ms": 237146,
+      "name": "Ganas De Vivir",
+      "url": "https://open.spotify.com/track/66bT5UMc1dVPmUt5apyQZ0"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -619,18 +615,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Ganas De Vivir",
-        "url": "https://open.spotify.com/album/5Rx91EycElkbKGnZFHPOM6"
+        "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
+        "url": "https://open.spotify.com/album/6zc2WKK1KdSM1E35DXPOit"
       },
       "artists": [
         {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
         }
       ],
-      "duration_ms": 237146,
-      "name": "Ganas De Vivir",
-      "url": "https://open.spotify.com/track/66bT5UMc1dVPmUt5apyQZ0"
+      "duration_ms": 438519,
+      "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
+      "url": "https://open.spotify.com/track/22H9y1qkAXg4jhrXM3xo3U"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Operaci\u00f3n Mundial",
         "url": "https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 245413,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/3xOekfcHl1gKWgn8V6rxVy"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -935,6 +935,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Cerca Est\u00e1s",
+        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 189035,
+      "name": "No Hay Distancia",
+      "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Construir\u00e9 Mi Vida",
         "url": "https://open.spotify.com/album/3GQO2bUHJC7Gv29h4GNQm8"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 343616,
       "name": "Construir\u00e9 Mi Vida",
       "url": "https://open.spotify.com/track/6GfDI3t6u8x0ELrbV315fT"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Cerca Est\u00e1s",
-        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
-      },
-      "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 189035,
-      "name": "No Hay Distancia",
-      "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
     },
     {
       "added_at": "2021-05-21 19:19:27",

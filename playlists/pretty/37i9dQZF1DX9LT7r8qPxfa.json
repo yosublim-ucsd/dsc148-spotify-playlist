@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 261942,
+  "num_followers": 261975,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2FjNTM0MjA5NTNlMWYxOWFhZDllNmJiZWY3ODQ5Y2FhMDU3YTA5",
+  "snapshot_id": "MCw2OGZhODEyMzRkMDYzNTNmNjA0ZDI1OTg4MGY0YWNkY2E4NDQxMjM4",
   "tracks": [
     {
       "added_at": "2023-10-13 19:48:40",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Bullseye",
-        "url": "https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1"
-      },
-      "artists": [
-        {
-          "name": "Charli Adams",
-          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
-        },
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Seventeen Again (feat. Novo Amor)",
-      "url": "https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -983,22 +963,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
-      },
-      "artists": [
-        {
-          "name": "Patricia Lalor",
-          "url": "https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd"
-        }
-      ],
-      "duration_ms": 208242,
-      "name": "Vessel",
-      "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Henry St.",
         "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
       },
@@ -1015,50 +979,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Coming Of Age pt. 1",
-        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
       },
       "artists": [
         {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+          "name": "Patricia Lalor",
+          "url": "https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd"
         }
       ],
-      "duration_ms": 261475,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Wild Turkey",
-        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Party Dress",
-        "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 194942,
-      "name": "Party Dress",
-      "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
+      "duration_ms": 208242,
+      "name": "Vessel",
+      "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1079,6 +1011,38 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Wild Turkey",
+        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Coming Of Age pt. 1",
+        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Shower Song",
         "url": "https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke"
       },
@@ -1095,22 +1059,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Would You Mind Please Pulling Me Close?",
-        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 243925,
-      "name": "Would You Mind Please Pulling Me Close?",
-      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
@@ -1123,6 +1071,22 @@
       "duration_ms": 188615,
       "name": "Mortals",
       "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Would You Mind Please Pulling Me Close?",
+        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 243925,
+      "name": "Would You Mind Please Pulling Me Close?",
+      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1239,22 +1203,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "We Slept at Last",
-        "url": "https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 231670,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -1267,6 +1215,22 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "We Slept at Last",
+        "url": "https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 231670,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1307,6 +1271,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "duration_ms": 284951,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/0Z68g80dKNa2Nrpa4Ir5yw"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -1323,18 +1303,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js"
+        "name": "Lincoln, Nebraska",
+        "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
       },
       "artists": [
         {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
         }
       ],
-      "duration_ms": 284951,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/0Z68g80dKNa2Nrpa4Ir5yw"
+      "duration_ms": 143674,
+      "name": "Lincoln, Nebraska",
+      "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1371,22 +1351,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Lincoln, Nebraska",
-        "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 143674,
-      "name": "Lincoln, Nebraska",
-      "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
       },
@@ -1399,6 +1363,22 @@
       "duration_ms": 220060,
       "name": "More Than You Know - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1451,6 +1431,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Teeth",
         "url": "https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0"
       },
@@ -1483,38 +1479,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Planet (i)",
-        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 236610,
-      "name": "I\u2019ll Go Running",
-      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Pictures of Flowers",
         "url": "https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf"
       },
@@ -1531,6 +1495,22 @@
       "duration_ms": 260458,
       "name": "Pictures of Flowers",
       "url": "https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Planet (i)",
+        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 236610,
+      "name": "I\u2019ll Go Running",
+      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1679,6 +1659,22 @@
       "duration_ms": 256451,
       "name": "Unmoved (A Black Woman Truth)",
       "url": "https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Love of Her Life",
+        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Reid",
+          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
+        }
+      ],
+      "duration_ms": 241503,
+      "name": "Love of Her Life",
+      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
     }
   ],
   "unique_name": "noir",

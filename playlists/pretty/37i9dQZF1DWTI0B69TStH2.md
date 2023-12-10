@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów w 2023 roku\. Cover:  <a href="spotify:artist:7ruGjTmqO10lSqHWRIchnU">Daniel Godson</a> \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,466 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,689 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Trauma](https://open.spotify.com/track/6jl8DV7cegEqY6pWYFRbHw) | [LIT](https://open.spotify.com/artist/0axhGJWYkI9LuFVKorPwT8) | [Trauma](https://open.spotify.com/album/0NGvqd9ltrz1HBp9B1OQyu) | 3:46 |
 | 100 | [Prosecco](https://open.spotify.com/track/2r0YYsBrX73AEtFUYjxfZh) | [12 kamieni](https://open.spotify.com/artist/4X5vA3EzcDxZQxAcECzGqH), [Szymon Szczot](https://open.spotify.com/artist/3SYXkGixE2adr3Cm8ctN2E) | [Prosecco](https://open.spotify.com/album/0ErGxuvwWHteWwbJSTJlLB) | 2:45 |
 
-Snapshot ID: `MCxkNGQyYjVkOTJiNTczNmE2YTYyMjY0NzYwNmMzODYxNWQ4MDIyZjZm`
+Snapshot ID: `MCwwYjRjNjNiYjY2ODIyYTA2OTY4OTFlMTM0Zjg3MGEwNDIzNDA2NzJh`

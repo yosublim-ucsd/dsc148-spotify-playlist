@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 
 > 80s workout jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,385 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,430 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 | 6 | [Hearts On Fire \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/5vI0C3TDTxySR6Oq8NWjE0) | [John Cafferty](https://open.spotify.com/artist/0fPK3TAseRcy6sAS8U8pEw) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:12 |
 | 7 | [No Easy Way Out \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/5bnMKUXkMfYVXW8FjvFTuV) | [Robert Tepper](https://open.spotify.com/artist/5T1bhiyED6hokaKTechcKI) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:22 |
 | 8 | [Turn Up The Radio](https://open.spotify.com/track/0kHQcbHlfUhpDh00G2460e) | [Autograph](https://open.spotify.com/artist/2koMWjvRRF0cOpJnjhdKx0) | [Turn Up The Radio](https://open.spotify.com/album/6bOsxiN76LA4AYNr0vRjH6) | 4:22 |
-| 9 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 |
+| 9 | [Separate Ways \(Worlds Apart\) \[2023 Remaster\]](https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers \(2023 Remaster\)](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 5:23 |
 | 10 | [Who Made Who](https://open.spotify.com/track/6rvldt6EoZwzogApECUCwd) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Who Made Who](https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A) | 3:27 |
 | 11 | [Mighty Wings \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/4rETMmjiQ7NL0KFCIZa5oV) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [The Epic Archive, Vol\. 3 \(1984\-1992\)](https://open.spotify.com/album/34d2gDwIXT3LjVZpGxWLM6) | 3:51 |
 | 12 | [Head Games](https://open.spotify.com/track/5nk6wxUSFUBxUKxjz0fKD6) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Head Games](https://open.spotify.com/album/05Z3MG7G3Vl5ThsFQkWjiJ) | 3:37 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 | 37 | [Fire to Burn](https://open.spotify.com/track/4Ar7Eby1joalj1sFyXg6Jb) | [Saraya](https://open.spotify.com/artist/3ruACf0oMHNYWImFGj10c6) | [Saraya](https://open.spotify.com/album/1KogbTSOYl4u0jZrAoXnko) | 4:38 |
 | 38 | [Down Boys](https://open.spotify.com/track/0dw3dXWx6dgp7Ri3HeDBUq) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:03 |
 | 39 | [Slow an' Easy](https://open.spotify.com/track/1NH0Zs7WkQg8h8mm3jS5yn) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Slide It In](https://open.spotify.com/album/4jFSgsgOGtd96FZtNWF0cp) | 6:09 |
-| 40 | [Escape](https://open.spotify.com/track/0uohDwZcv1qjIKVsLsx0HD) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 5:16 |
+| 40 | [Escape \(2022 Remaster\)](https://open.spotify.com/track/20ai3uWFuWgutSWA8MRG50) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 5:16 |
 | 41 | [Girls, Girls, Girls](https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8) | 4:30 |
 | 42 | [Say What You Will](https://open.spotify.com/track/08nVwMJvWeJwwc9pSd74wO) | [Fastway](https://open.spotify.com/artist/7eD005d7pGOEYD3eWVRecb) | [FASTWAY](https://open.spotify.com/album/6sCVVfHN80AH6tzqTvCRDg) | 3:19 |
 | 43 | [Lightning Strikes](https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rock In A Hard Place](https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 | 49 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
 | 50 | [No Shelter](https://open.spotify.com/track/04rLT4KBoCtGpJSTp1sPjR) | [Broken Edge](https://open.spotify.com/artist/51w118T3tZyeQwAye9iHrq) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:58 |
 
-Snapshot ID: `MCxjM2Y4MGI0ZmE2Mjc0OTk5YmNiZmQ0YzViZGIxZGJlYzY1YTAzNTgy`
+Snapshot ID: `MCwyY2FjYjM0YzA2OTg2YjFjNzc1NTlkZTg0NGJhM2ZkZDI0ZWFiZmY3`

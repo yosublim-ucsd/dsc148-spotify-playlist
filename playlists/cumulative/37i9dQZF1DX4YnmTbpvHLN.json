@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 292290,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/230SRIeY6sOIr0jhks11Xz"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 277582,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/1c5xi6V22AXSmXJfcpWwII"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 216347,
       "name": "If I Were You",
       "url": "https://open.spotify.com/track/2VypcGKVwuSqdDiTJ45vZh"
@@ -3978,6 +3978,42 @@
       "duration_ms": 179661,
       "name": "Midnight Moods",
       "url": "https://open.spotify.com/track/4nTbbttvaqWAuqs78RjFnd"
+    },
+    {
+      "album": {
+        "name": "Midnight Passion",
+        "url": "https://open.spotify.com/album/0vt5ejd6J0VlbhW41zN84q"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149302,
+      "name": "Midnight Passion",
+      "url": "https://open.spotify.com/track/3P62YgTZIrJR5RMKXFNMMr"
+    },
+    {
+      "album": {
+        "name": "Milano",
+        "url": "https://open.spotify.com/album/0rcCAGcrW8YSqgqiUBguYm"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238292,
+      "name": "Milano",
+      "url": "https://open.spotify.com/track/3HqAqSU3Boz7wCwfiaXdfR"
     },
     {
       "album": {
@@ -5540,7 +5576,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 384904,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/41qzCwPm0Myt0uJIarjl4p"
@@ -5706,6 +5742,24 @@
       "duration_ms": 204751,
       "name": "Take me to Liverpool",
       "url": "https://open.spotify.com/track/5Df2sfwDdTC266NFO3qfa0"
+    },
+    {
+      "album": {
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/5qve7y23g4aLXc7ePaJPAN"
+      },
+      "artists": [
+        {
+          "name": "Thames Quartet",
+          "url": "https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278285,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/0hCcbt1WPlwjS5giGx8UaK"
     },
     {
       "album": {
@@ -6314,7 +6368,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 217157,
       "name": "Tomorrow Is Here",
       "url": "https://open.spotify.com/track/1hTMVhmk468pih4N45bGAd"
@@ -6498,6 +6552,24 @@
       "duration_ms": 197395,
       "name": "Walking into Love",
       "url": "https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5"
+    },
+    {
+      "album": {
+        "name": "Was It Me?",
+        "url": "https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv"
+      },
+      "artists": [
+        {
+          "name": "Al Fowler Trio",
+          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261777,
+      "name": "Was It Me?",
+      "url": "https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q"
     },
     {
       "album": {
@@ -7046,6 +7118,24 @@
       "duration_ms": 258872,
       "name": "You Never Say You're Sorry",
       "url": "https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3"
+    },
+    {
+      "album": {
+        "name": "You were saying...",
+        "url": "https://open.spotify.com/album/4kHDcMXLPqwmagwgaSiMsT"
+      },
+      "artists": [
+        {
+          "name": "Marc Henley Trio",
+          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248547,
+      "name": "You were saying...",
+      "url": "https://open.spotify.com/track/02FUBmBjf1IXl5ROpwSfbO"
     },
     {
       "album": {

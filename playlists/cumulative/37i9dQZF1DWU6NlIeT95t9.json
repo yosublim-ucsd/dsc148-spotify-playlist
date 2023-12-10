@@ -1018,6 +1018,24 @@
     {
       "album": {
         "name": "Saazish",
+        "url": "https://open.spotify.com/album/7k07DkXFCBMGlWfbeB7iwf"
+      },
+      "artists": [
+        {
+          "name": "Ali Alvi",
+          "url": "https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Saazish",
+      "url": "https://open.spotify.com/track/0rIFaLZnR5zy1AAxQOV4kA"
+    },
+    {
+      "album": {
+        "name": "Saazish",
         "url": "https://open.spotify.com/album/1xZxe1HTPiMJlKZ5NJATpc"
       },
       "artists": [
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 214736,
       "name": "Saazish",
       "url": "https://open.spotify.com/track/17251D1EDAoyd0pQFMG7y5"

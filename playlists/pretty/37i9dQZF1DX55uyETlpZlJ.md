@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,124 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,125 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 99 | [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 |
 | 100 | [Solo King](https://open.spotify.com/track/2caf1VcfyH0Op9ozofaJrN) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Solo King](https://open.spotify.com/album/76ChkZ5OwDEguUC8VZVdJG) | 3:07 |
 
-Snapshot ID: `MCwyMzhhYTg2MjRmNDRmZDViYmQxZGU1ODBlMzJkNDJhZjcxM2U0ZTRh`
+Snapshot ID: `MCw0ZTUzOGVhZmRkNzUwZWZkMTcxYzg5ZTkwZDQ0ZjlmNTBmYWRkZjYx`

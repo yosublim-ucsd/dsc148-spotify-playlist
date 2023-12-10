@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Arsy Widianto, Ziva Magnolya
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,171 likes - 101 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,229 likes - 101 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 100 | [Sad Tomorrow](https://open.spotify.com/track/42ne6UiPfTi2Vek8KdWAcX) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH), [Rian Cult](https://open.spotify.com/artist/2idZntzccbSKeEzNWqzamb) | [Sad Tomorrow](https://open.spotify.com/album/0D8uRtVYFcfnXJXfVRH4GW) | 3:02 |
 | 101 | [LET ME BE!](https://open.spotify.com/track/236IyEKTINi297J8eZDfYM) | [gencry](https://open.spotify.com/artist/5TTgTTAxOez6W6bnKpphrc) | [LET ME BE!](https://open.spotify.com/album/3T7YEnmKdcD2xk5GMPb66E) | 3:15 |
 
-Snapshot ID: `MCxiNDJhNjY0YjU4MWIxMTY4MzZiYmU0Y2ZiNzFlYjg4YjczYTEwNDAx`
+Snapshot ID: `MCwzZDFhZjgzOTdiN2E4MTFiMGZmZTQ4Y2NmNjZlOWVhYTFkZjNmMWJk`

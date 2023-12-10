@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-970 songs - 2 day 3 hr 10 min
+971 songs - 2 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [Medusa \(The FifthGuys Remix\)](https://open.spotify.com/track/15OF5yNlvyWPZotjKoBRbh) | [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [2Scratch](https://open.spotify.com/artist/02qHcQfJCm2XlAnaJ5a6Rh) | [Medusa \(The FifthGuys Remix\)](https://open.spotify.com/album/6h8S4uBXthTVotNwX30HM3) | 2:47 | 2022-01-17 | 2022-02-17 |
 | [Meet Me](https://open.spotify.com/track/1DBra8wN9Gh9emkHot3FXk) | [Mickey Valen](https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt), [Noé](https://open.spotify.com/artist/6ATGuATiaPOyjNIc5AjP3R) | [Meet Me](https://open.spotify.com/album/4iQgnWSI3MKHBphIefqqL2) | 3:13 | 2023-02-21 |  |
 | [Meet Me](https://open.spotify.com/track/7l7Wtqi4ybiGVnFZ8vOYaf) | [Mickey Valen](https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt), [Noé](https://open.spotify.com/artist/6ATGuATiaPOyjNIc5AjP3R) | [Meet Me](https://open.spotify.com/album/6xWLz90CWI0ccidB5sD1UL) | 3:13 | 2022-01-14 | 2022-09-15 |
+| [Memories](https://open.spotify.com/track/4T49o23TlFgm1AEEz4uIhM) | [Highup](https://open.spotify.com/artist/5vGy6auivb3qywR2zZQvU8), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Memories](https://open.spotify.com/album/0BQIqS7CzTfYAQY5H9DU5S) | 2:15 | 2023-12-09 |  |
 | [Message In A Bottle](https://open.spotify.com/track/02X44NG3qFEH1c4kSeiuDp) | [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [Jeffrey James](https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D) | [Message In A Bottle](https://open.spotify.com/album/3u10lkaZTSLqWbr1HCA1Al) | 3:31 | 2022-01-14 | 2022-03-05 |
 | [Metamorphine](https://open.spotify.com/track/1ivCfac6tFCz2mEUW3YLb3) | [KXLLYXU](https://open.spotify.com/artist/4bWVepUQXFOTTC9TkbhNVt) | [Metamorphine](https://open.spotify.com/album/0RzLsasMcJdSyG3tzjL32b) | 2:08 | 2023-10-13 | 2023-11-10 |
 | [METANÖIA \(feat\. ero808\)](https://open.spotify.com/track/5NGBpnkXvvC1iOLByxVsRG) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [METANÖIA \(feat\. ero808\)](https://open.spotify.com/album/4lnm8kMnIpEC7XI8BI6oKq) | 2:43 | 2022-01-14 | 2022-02-17 |

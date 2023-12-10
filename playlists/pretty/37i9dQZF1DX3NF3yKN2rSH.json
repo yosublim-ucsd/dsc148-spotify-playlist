@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53561,
+  "num_followers": 53559,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTFmODQ5M2E1ZDE3NzUwMGI5NDk0NGNkNmNlZjlhNmYzY2NhZjVj",
+  "snapshot_id": "MCw3MzA5YWRjOGUwYmQ3NmFlNzIyMjg0Yjk5MDFkM2RhMGYzNTA3NjNj",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Hold Up The Light",
-        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
-      },
-      "artists": [
-        {
-          "name": "New Jersey Mass Choir",
-          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
-        }
-      ],
-      "duration_ms": 286040,
-      "name": "O the Blood",
-      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 211880,
       "name": "Already Won - Live",
       "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Hold Up The Light",
+        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
+      },
+      "artists": [
+        {
+          "name": "New Jersey Mass Choir",
+          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "O the Blood",
+      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -891,54 +891,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
+        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
+        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
       },
       "artists": [
         {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
-        }
-      ],
-      "duration_ms": 237280,
-      "name": "Always Jesus",
-      "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Classics Vol. 1",
-        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "Jesus Is the Answer",
-      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Live... This Is Your House",
-        "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
-      },
-      "artists": [
-        {
-          "name": "The Brooklyn Tabernacle Choir",
-          "url": "https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs"
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
         },
         {
-          "name": "Robin Giles",
-          "url": "https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5"
+          "name": "The Love Fellowship Crusade Choir",
+          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
         }
       ],
-      "duration_ms": 380866,
-      "name": "Jesus I Love You (Live)",
-      "url": "https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw"
+      "duration_ms": 290026,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -963,6 +931,58 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Classics Vol. 1",
+        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "Jesus Is the Answer",
+      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
+      },
+      "artists": [
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        }
+      ],
+      "duration_ms": 237280,
+      "name": "Always Jesus",
+      "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Live... This Is Your House",
+        "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
+      },
+      "artists": [
+        {
+          "name": "The Brooklyn Tabernacle Choir",
+          "url": "https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs"
+        },
+        {
+          "name": "Robin Giles",
+          "url": "https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5"
+        }
+      ],
+      "duration_ms": 380866,
+      "name": "Jesus I Love You (Live)",
+      "url": "https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Choirmaster",
         "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
       },
@@ -983,26 +1003,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "The Love Fellowship Crusade Choir",
-          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "One Church",
         "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 399400,
       "name": "They Didn't Know",
       "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
-      },
-      "artists": [
-        {
-          "name": "Karima",
-          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
-        }
-      ],
-      "duration_ms": 317607,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1051,22 +1035,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Revival Is In The Air (RIITA)",
-        "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
       },
       "artists": [
         {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Jo Deep",
-          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
+          "name": "Karima",
+          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+      "duration_ms": 317607,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1083,6 +1063,26 @@
       "duration_ms": 467186,
       "name": "Finished Work - Live From Chattanooga, TN",
       "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Revival Is In The Air (RIITA)",
+        "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Jo Deep",
+          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Trip Down Memory Lane",
-        "url": "https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h"
-      },
-      "artists": [
-        {
-          "name": "James Hall Worship & Praise",
-          "url": "https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB"
-        }
-      ],
-      "duration_ms": 443466,
-      "name": "The Blood",
-      "url": "https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/0f4FkJpd9A2b6rGpK1CMnZ"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 207706,
       "name": "Grace",
       "url": "https://open.spotify.com/track/6toqkWDFYdqZo5pTFeCa1E"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Trip Down Memory Lane",
+        "url": "https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h"
+      },
+      "artists": [
+        {
+          "name": "James Hall Worship & Praise",
+          "url": "https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB"
+        }
+      ],
+      "duration_ms": 443466,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1559,18 +1559,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Conqueror",
-        "url": "https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2"
+        "name": "Oh Happy Day",
+        "url": "https://open.spotify.com/album/3v3LltsNgPWSou5ja6Ofjk"
       },
       "artists": [
         {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+          "name": "Edwin Hawkins",
+          "url": "https://open.spotify.com/artist/3IuP2fe32xEYp0GqLxWgmj"
+        },
+        {
+          "name": "Shirley Miller",
+          "url": "https://open.spotify.com/artist/2ADbsiNz0Jv8tMN22OCOyb"
         }
       ],
-      "duration_ms": 123426,
-      "name": "For the Love of the People",
-      "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
+      "duration_ms": 130306,
+      "name": "Oh Happy Day (feat. Shirley Miller)",
+      "url": "https://open.spotify.com/track/6PH0etRGVIaYBpKmXYCHYo"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1591,22 +1595,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Oh Happy Day",
-        "url": "https://open.spotify.com/album/3v3LltsNgPWSou5ja6Ofjk"
+        "name": "Conqueror",
+        "url": "https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2"
       },
       "artists": [
         {
-          "name": "Edwin Hawkins",
-          "url": "https://open.spotify.com/artist/3IuP2fe32xEYp0GqLxWgmj"
-        },
-        {
-          "name": "Shirley Miller",
-          "url": "https://open.spotify.com/artist/2ADbsiNz0Jv8tMN22OCOyb"
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
         }
       ],
-      "duration_ms": 130306,
-      "name": "Oh Happy Day (feat. Shirley Miller)",
-      "url": "https://open.spotify.com/track/6PH0etRGVIaYBpKmXYCHYo"
+      "duration_ms": 123426,
+      "name": "For the Love of the People",
+      "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
     },
     {
       "added_at": "2023-04-09 08:49:39",

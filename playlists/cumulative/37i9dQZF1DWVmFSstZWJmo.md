@@ -2,7 +2,7 @@
 
 ### [Indie Sleaze](https://open.spotify.com/playlist/37i9dQZF1DWVmFSstZWJmo)
 
-> Is "indie sleaze" in the room with us now? ft\. Sky Ferreira
+> Is "indie sleaze" in the room with us? ft\. The Strokes
 
 195 songs - 12 hr 16 min
 
@@ -86,7 +86,7 @@
 | [Holy Shit, We're Gonna Put Matt And Kim Out Of Business](https://open.spotify.com/track/57zRfh6R8r2e3tvPFMsr1X) | [The Dallas Cowboys](https://open.spotify.com/artist/6WgBEhg2Pn2pY9SmSmKypa) | [Holy Shit, We're Gonna Put Matt And Kim Out Of Business](https://open.spotify.com/album/693mdxzSLQfJGmQvcP8f6w) | 1:23 | 2023-04-14 | 2023-04-27 |
 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 | 2022-11-10 | 2023-08-18 |
 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 | 2023-08-02 |  |
-| [I Can Change](https://open.spotify.com/track/4yhslVvynysGhexambPGcy) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [I Can Change](https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT) | 5:31 | 2023-09-05 | 2023-12-07 |
+| [I Can Change](https://open.spotify.com/track/4yhslVvynysGhexambPGcy) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [I Can Change](https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT) | 5:31 | 2023-09-05 |  |
 | [I Do Coke](https://open.spotify.com/track/3PvhJcV5xv7E1ImIfbRYeM) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby) | [OCCULT CLASSIC](https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw) | 3:46 | 2023-04-14 | 2023-04-27 |
 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:40 | 2022-11-10 |  |
 | [I Found Out](https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Wait for Me](https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3) | 2:07 | 2022-11-10 |  |
@@ -154,7 +154,7 @@
 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 | 2022-11-10 |  |
 | [Renaissance Affair](https://open.spotify.com/track/6QHSwAv5JaEC0k6rwAtgPl) | [Shallowhalo](https://open.spotify.com/artist/302pglvxOK8fDRZTsNoAgq) | [Renaissance Affair](https://open.spotify.com/album/6pnc47rGy91mRg9zDNW1Ht) | 2:49 | 2023-04-14 | 2023-04-27 |
 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 | 2022-11-10 |  |
-| [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 | 2023-05-17 |  |
+| [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 | 2023-05-17 | 2023-12-10 |
 | [Rill Rill](https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 3:49 | 2023-01-10 |  |
 | [Romantic Rights \- Erol Alkan's Love from Below Re\-Edit](https://open.spotify.com/track/5a0tGlatEgcfoOmDFg0moo) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Romance Bloody Romance](https://open.spotify.com/album/42hKf3qzo84IsuSAjT6xJq) | 6:20 | 2023-04-14 | 2023-04-27 |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2023-12-04 |  |

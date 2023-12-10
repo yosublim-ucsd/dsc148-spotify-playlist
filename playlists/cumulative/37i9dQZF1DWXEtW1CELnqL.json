@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Light Grenades",
+        "url": "https://open.spotify.com/album/5WwXMygJ3dQXk3S6mDDfCH"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "Anna Molly",
+      "url": "https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl"
+    },
+    {
+      "album": {
         "name": "Another Celebration at the End of the World",
         "url": "https://open.spotify.com/album/3LOcvq0COUOnftohINoJAD"
       },
@@ -276,6 +294,24 @@
       "duration_ms": 210240,
       "name": "Chop Suey!",
       "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
     },
     {
       "album": {
@@ -946,7 +982,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 247320,
       "name": "Love From The Other Side - Edit",
       "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
@@ -1202,7 +1238,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 278106,
       "name": "Romantic Dreams",
       "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ"

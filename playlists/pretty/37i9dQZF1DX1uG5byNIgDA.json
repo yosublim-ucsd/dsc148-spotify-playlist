@@ -1,12 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 222086,
+  "num_followers": 222077,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Njk5NDkwODhhYTQxYzg1MTg2ZDRjZGMxMjg2ZThjN2RiM2UxODJm",
+  "snapshot_id": "MCw2MzM4MzEwZjM0MWIyZDBhYjJlZjIwNjljNjVmNTliODg4YjAzNjVj",
   "tracks": [
     {
       "added_at": "2023-08-24 02:20:42",
@@ -107,18 +107,22 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
       },
       "artists": [
         {
           "name": "BTS",
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 228615,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
+      "duration_ms": 229773,
+      "name": "Boy With Luv (feat. Halsey)",
+      "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -203,22 +207,18 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "MAP OF THE SOUL : PERSONA",
-        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
       "artists": [
         {
           "name": "BTS",
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 229773,
-      "name": "Boy With Luv (feat. Halsey)",
-      "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
+      "duration_ms": 228615,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "5-STAR",
-        "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Mixtape : Time Out",
-      "url": "https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw"
-    },
-    {
-      "added_at": "2023-08-24 02:20:42",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 207650,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
+    },
+    {
+      "added_at": "2023-08-24 02:20:42",
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Mixtape : Time Out",
+      "url": "https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw"
     },
     {
       "added_at": "2023-08-24 02:20:42",

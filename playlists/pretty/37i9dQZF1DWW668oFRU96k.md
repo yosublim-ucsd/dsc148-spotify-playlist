@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: MEDUZA x Clementine Douglas x Ferreck Dawn
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,443 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,458 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 89 | [A&S](https://open.spotify.com/track/4joJLer0vBve2ME4A0YU2i) | [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [A&S](https://open.spotify.com/album/7HmhPt7zhLiokEArwbMSJL) | 3:20 |
 | 90 | [Love Like A Bomb \(feat\. ひかり\) \- Desired Remix](https://open.spotify.com/track/0DYzitVv6vogVzbf3Vkz2j) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Love Like A Bomb \(feat\. ひかり\) \[Desired Remix\]](https://open.spotify.com/album/1U18QgOoGhPvc36GYpVTeF) | 3:33 |
 
-Snapshot ID: `MCw3Mjc1NGQwYjZkZjc4NTAwYTlhYzcyNTk0Yjk3NjUzYTBhYjRlMDYz`
+Snapshot ID: `MCxmZjBmMjdmNmU1ZTdmZDI4NWUwNGQ5M2MxYjYwOTNiMDkwM2RlNDVm`

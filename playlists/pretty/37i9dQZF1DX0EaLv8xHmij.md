@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Fúria
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,192 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,213 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Bota a Cara no Beco](https://open.spotify.com/track/51ulUko156sTMuh2upjbMA) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt) | [ERREJOTACULTDRILL, Vol\. 1 \- Mal Vindas Amizades](https://open.spotify.com/album/4n1BCaULwTJKmB4kFVpWdw) | 3:26 |
 | 75 | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl) | 3:27 |
 
-Snapshot ID: `MCxjYWI3N2M4YzczZTA4MDMzNjFmNjlhZGVkNmQ5NDA3OTVlYTJjMmY0`
+Snapshot ID: `MCw3NjFhZDBmZTQ5N2I1YjUxNDNjZjFhN2RkZDBlNGMyODU3Y2I2MWUx`

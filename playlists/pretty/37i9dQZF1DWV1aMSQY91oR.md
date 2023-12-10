@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Night Lovell
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,145 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,147 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [REMEDIES](https://open.spotify.com/track/3YMPzE7yuh6Yph8v7Deofz) | [Sick Ppl](https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0), [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh) | [REMEDIES](https://open.spotify.com/album/4dbEUtDoY4HdOF1MwNBryr) | 1:58 |
 | 50 | [WHAT’S THE CATCH](https://open.spotify.com/track/5P3N2MHWMvP9mjaLY7Iwka) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [WHAT’S THE CATCH](https://open.spotify.com/album/4IvCOyZlolGdWDLwuOSiut) | 1:42 |
 
-Snapshot ID: `MCxmZTk5ZmQwMTU3MjIwYjFiOGNiMzdiNzViNTcxYTJjMzI5MzRkZDhj`
+Snapshot ID: `MCxjNjNiNGM2MmFmZDE0NTZiNTU0MTNiMDEyYThhZGJiNWYyOTRmNmM3`

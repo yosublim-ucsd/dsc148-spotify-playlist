@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 709703,
+  "num_followers": 709800,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTA5Mjc1MzUxYWQ4MjFhZjdmOGNiZWE5NzQ0MDdkZjYzNDk4NDVj",
+  "snapshot_id": "MCwyNjNhYWI4ZjRjOTc4ZTkxZWRiYzBjMmJjZmM5OWQ0ODg0ZTdhMDYz",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "Decide A\u00ed - Na Praia / Ao Vivo",
-      "url": "https://open.spotify.com/track/2CKg2u26mtyRYodwbxmA8l"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "O Som das Multid\u00f5es (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/4d329KQXDPuJgo2828KdKA"
       },
@@ -347,34 +331,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "O Cara Certo",
-        "url": "https://open.spotify.com/album/46AcQjehXf14WEIzG7X780"
+        "name": "Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
       },
       "artists": [
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Ao Vivo No Ibirapuera",
-        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 186379,
-      "name": "Liberdade Provis\u00f3ria - Live - Ibirapuera / 2019",
-      "url": "https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv"
+      "duration_ms": 162960,
+      "name": "Decide A\u00ed - Na Praia / Ao Vivo",
+      "url": "https://open.spotify.com/track/2CKg2u26mtyRYodwbxmA8l"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -395,6 +363,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Ao Vivo No Ibirapuera",
+        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 186379,
+      "name": "Liberdade Provis\u00f3ria - Live - Ibirapuera / 2019",
+      "url": "https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Querosene e o Viol\u00e3o",
         "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 161403,
       "name": "Infarto",
       "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "O Cara Certo",
+        "url": "https://open.spotify.com/album/46AcQjehXf14WEIzG7X780"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -756,25 +756,29 @@
           "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 153934,
-      "name": "Status Que Eu N\u00e3o Queria - Ao Vivo",
-      "url": "https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN"
+      "duration_ms": 199363,
+      "name": "Bebida Na Ferida - Ao Vivo",
+      "url": "https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8"
     },
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Amor Da Sua Cama",
-        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
+        "name": "Amando, Bebendo e Sofrendo (Ao Vivo) - EP 3",
+        "url": "https://open.spotify.com/album/5tR4iEANCfJjjUOgxyYhtD"
       },
       "artists": [
         {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
         }
       ],
-      "duration_ms": 188309,
-      "name": "Amor Da Sua Cama",
-      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
+      "duration_ms": 161396,
+      "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
+      "url": "https://open.spotify.com/track/48CAeajgzcGJaVUSsXd7h0"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -811,6 +815,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Amor Da Sua Cama",
+        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "duration_ms": 188309,
+      "name": "Amor Da Sua Cama",
+      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Na Praia 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 208930,
       "name": "Nessas Horas - Ao Vivo",
       "url": "https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Amando, Bebendo e Sofrendo (Ao Vivo) - EP 3",
-        "url": "https://open.spotify.com/album/5tR4iEANCfJjjUOgxyYhtD"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        },
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        }
-      ],
-      "duration_ms": 161396,
-      "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
-      "url": "https://open.spotify.com/track/48CAeajgzcGJaVUSsXd7h0"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Nos Arcos da Lapa",
-        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Final De Tarde",
-      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Buteco do Gusttavo Lima, Vol. 2",
         "url": "https://open.spotify.com/album/1quJKGITMBDF2S4x0Zl2Vn"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 199701,
       "name": "Apelido Carinhoso",
       "url": "https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Nos Arcos da Lapa",
+        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Final De Tarde",
+      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Com ou Sem Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Com ou Sem Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Saudade N\u00edvel Hard",
         "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 181846,
       "name": "Saudade N\u00edvel Hard",
       "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Com ou Sem Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Com ou Sem Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Ao Vivo Em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "10% - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Errejota (ao Vivo)",
         "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 231680,
       "name": "Algo Mais (Amante) - Ao Vivo",
       "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "10% - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
     },
     {
       "added_at": "2023-11-17 03:01:00",

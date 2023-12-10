@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2643928,
+  "num_followers": 2644181,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjcyNjU1MzI5NmU5NWMyNWZlYzZmYzNkY2E5NDg4Mjk4NmEzZTY1",
+  "snapshot_id": "MCxhZjY2NjZiNDI4NTk0NTI1MzM4MDk1MWNmYTdmMjg2NzNkNzgwZWQ4",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
-      "added_at": "2023-02-02 23:22:15",
-      "album": {
-        "name": "COOL RELAX",
-        "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
-      },
-      "artists": [
-        {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "112",
@@ -107,6 +91,22 @@
       "duration_ms": 252266,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
+    },
+    {
+      "added_at": "2023-02-02 23:22:15",
+      "album": {
+        "name": "COOL RELAX",
+        "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 428200,
+      "name": "Any Time, Any Place",
+      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+    },
+    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Rufus Featuring Chaka Khan",
@@ -431,22 +447,6 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 428200,
-      "name": "Any Time, Any Place",
-      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 323826,
-      "name": "Let's Chill",
-      "url": "https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Attitude",
         "url": "https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 229053,
       "name": "All I Do Is Think of You",
       "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 323826,
+      "name": "Let's Chill",
+      "url": "https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL"
     },
     {
       "added_at": "2021-03-05 00:03:16",

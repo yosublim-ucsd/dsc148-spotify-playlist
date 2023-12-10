@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: a子
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,815 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,845 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Racy](https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Racy](https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo) | 4:29 |
+| 1 | [Racy](https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Racy](https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo) | 4:29 |
 | 2 | [Ai need your love](https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai need your love](https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw) | 3:46 |
 | 3 | [ポルトロン](https://open.spotify.com/track/33uGqJENJe8VcXoVIMHQ2q) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ポルトロン](https://open.spotify.com/album/6ynx5p9eto6w5pRdiXoKzR) | 3:14 |
 | 4 | [恋は不純](https://open.spotify.com/track/1gpu9EuNOwV03meLTTnQ3u) | [毎晩揺れてスカート](https://open.spotify.com/artist/6IvxcMAeLdqm8vGjSiTxwv) | [恋は不純](https://open.spotify.com/album/5EJEvM14rNJI3W3youZHZ6) | 4:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [cube](https://open.spotify.com/track/3GyhYiiUZDvIOzLOpGNBNV) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [cube](https://open.spotify.com/album/6cLami6XQ2XVm3Kp0lK5m1) | 4:20 |
 | 80 | [You & I](https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [You & I](https://open.spotify.com/album/45N5Sz0eCAuU90MYKF61Xl) | 4:30 |
 
-Snapshot ID: `MCwwOTI5NTFlOTI3Y2Q0ODU5ZWJkYmIwMjI0NjBlZGZhZDIzMjA4ZTk3`
+Snapshot ID: `MCxjYzk3Nzk1M2U1MDhiNGI0ZWVlOWVlYmJjYmU4NGJkMTc5MDkxNTNj`

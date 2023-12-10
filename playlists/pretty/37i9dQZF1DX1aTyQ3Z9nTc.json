@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 131072,
+  "num_followers": 131097,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzllNDg4MmE3NjQ5MTU2NGUxZDU5NDNkYWYwZjlmYjdlYWFhMzhm",
+  "snapshot_id": "MCw4OTBmOTI0NWY1ZWJhMWRhZjk1NTk4Yzg1N2NiMjZjNjhkM2U3OTcy",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -787,18 +787,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
       "artists": [
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
+      "duration_ms": 233974,
+      "name": "Nothing More To Say (with 6LACK & Donae\u2019o)",
+      "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -823,26 +831,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Funk Wav Bounces Vol. 2",
-        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 233974,
-      "name": "Nothing More To Say (with 6LACK & Donae\u2019o)",
-      "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
+      "duration_ms": 171428,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "FACETS",
-        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
       },
       "artists": [
         {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 192278,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -955,6 +955,22 @@
       "duration_ms": 153076,
       "name": "1080p",
       "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "FACETS",
+        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 192278,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1043,6 +1059,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Breathwork",
+        "url": "https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "On + On (with Justine Skye)",
+      "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Bunda",
         "url": "https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ"
       },
@@ -1063,26 +1099,6 @@
       "duration_ms": 214285,
       "name": "Bunda",
       "url": "https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Breathwork",
-        "url": "https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "On + On (with Justine Skye)",
-      "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1115,26 +1131,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Contact (Karen Nyame KG Remix)",
-        "url": "https://open.spotify.com/album/3zMv67VTQVoh9lmEax4giy"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        }
-      ],
-      "duration_ms": 269500,
-      "name": "Contact - Karen Nyame KG Remix",
-      "url": "https://open.spotify.com/track/6iJnmbCDoNWdnDeEFudk1f"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Room",
         "url": "https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD"
       },
@@ -1155,6 +1151,26 @@
       "duration_ms": 219181,
       "name": "Room (with Adekunle Gold & 2 Chainz)",
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Contact (Karen Nyame KG Remix)",
+        "url": "https://open.spotify.com/album/3zMv67VTQVoh9lmEax4giy"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        }
+      ],
+      "duration_ms": 269500,
+      "name": "Contact - Karen Nyame KG Remix",
+      "url": "https://open.spotify.com/track/6iJnmbCDoNWdnDeEFudk1f"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1459,18 +1475,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "BACK 2 U",
-        "url": "https://open.spotify.com/album/7bjYLQ5geSdsztH5roji9w"
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 160855,
-      "name": "BACK 2 U",
-      "url": "https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb"
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1495,26 +1515,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Lock Up",
-        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 223005,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Chrome Bull DLX",
         "url": "https://open.spotify.com/album/5u8lkrEjY9W9yUevdcueWm"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "ON THE LOW",
-        "url": "https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 157251,
-      "name": "ON THE LOW",
-      "url": "https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 178200,
       "name": "Xtasy",
       "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "BACK 2 U",
+        "url": "https://open.spotify.com/album/7bjYLQ5geSdsztH5roji9w"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 160855,
+      "name": "BACK 2 U",
+      "url": "https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "ON THE LOW",
+        "url": "https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 157251,
+      "name": "ON THE LOW",
+      "url": "https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Say Yes",
         "url": "https://open.spotify.com/album/2FYcP3Q4x7xwW10spuxkZk"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Running In Waves",
-        "url": "https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN"
-      },
-      "artists": [
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        }
-      ],
-      "duration_ms": 108645,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Worlds Away",
         "url": "https://open.spotify.com/album/3PvGhm40m4E00G6hQiY4Q9"
       },
@@ -1675,6 +1675,22 @@
       "duration_ms": 174077,
       "name": "Worlds Away",
       "url": "https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Running In Waves",
+        "url": "https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 108645,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1735,6 +1751,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "duration_ms": 142624,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Treat U Good",
         "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
       },
@@ -1763,42 +1795,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "So Badly",
-        "url": "https://open.spotify.com/album/3v3waqFybLYp6P4iKAmzg9"
-      },
-      "artists": [
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 230002,
-      "name": "So Badly",
-      "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl"
-      },
-      "artists": [
-        {
-          "name": "Raquel",
-          "url": "https://open.spotify.com/artist/2WKGwl7U3upSvwbJrBJSla"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        }
-      ],
-      "duration_ms": 179006,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "All Along (Kaytranada Remix)",
         "url": "https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi"
       },
@@ -1815,6 +1811,22 @@
       "duration_ms": 284606,
       "name": "All Along (Kaytranada Remix)",
       "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "So Badly",
+        "url": "https://open.spotify.com/album/3v3waqFybLYp6P4iKAmzg9"
+      },
+      "artists": [
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 230002,
+      "name": "So Badly",
+      "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1839,6 +1851,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl"
+      },
+      "artists": [
+        {
+          "name": "Raquel",
+          "url": "https://open.spotify.com/artist/2WKGwl7U3upSvwbJrBJSla"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 179006,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "crave you",
         "url": "https://open.spotify.com/album/64N5QCbyXjO34S0IFPoGSq"
       },
@@ -1855,46 +1887,6 @@
       "duration_ms": 160863,
       "name": "crave you",
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        }
-      ],
-      "duration_ms": 142624,
-      "name": "PLAY",
-      "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "HYDROPONICS",
-        "url": "https://open.spotify.com/album/1EvPq6LiKfCGFB1i0cytOf"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "ICE COLD",
-      "url": "https://open.spotify.com/track/6ckW3AsQAhpVynQaYw3h2q"
     },
     {
       "added_at": "2023-12-08 05:00:00",

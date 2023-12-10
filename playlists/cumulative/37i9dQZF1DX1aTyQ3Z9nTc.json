@@ -3554,7 +3554,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 173333,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/6ckW3AsQAhpVynQaYw3h2q"
@@ -7774,6 +7774,24 @@
       "duration_ms": 175508,
       "name": "Walk The Beat",
       "url": "https://open.spotify.com/track/1MMO7ytenCjfcWSIFhWvql"
+    },
+    {
+      "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "album": {

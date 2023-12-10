@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 77146,
+  "num_followers": 77202,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmM3NGVlYzFmYWRkNDgzNWEzZjVlNmY3Mjg0NWIzYjdmN2FjODI4",
+  "snapshot_id": "MCxiYzMxZDU4YmRjNmU5NWZmMjJmY2M1OGRiM2E2ZTE3NzAzMjBlZDhl",
   "tracks": [
     {
       "added_at": "2023-11-24 19:23:20",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Tell Me Baby",
-      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "The King of Chicago Blues Piano",
         "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 195226,
       "name": "Perpetual Blues Machine",
       "url": "https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Is You Is Or Is You Ain't My Baby",
+        "url": "https://open.spotify.com/album/5Yh1kXHrJHNud6Vmp5HB9A"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 276386,
+      "name": "Is You Is Or Is You Ain't My Baby",
+      "url": "https://open.spotify.com/track/2KIICpEd4rTapEYDzfECii"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 139146,
       "name": "When The Levee Breaks (Part One)",
       "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Is You Is Or Is You Ain't My Baby",
-        "url": "https://open.spotify.com/album/5Yh1kXHrJHNud6Vmp5HB9A"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 276386,
-      "name": "Is You Is Or Is You Ain't My Baby",
-      "url": "https://open.spotify.com/track/2KIICpEd4rTapEYDzfECii"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "That's It! / Duke Recordings Vol. III",
-        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
       "artists": [
         {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Driftin' Blues - Single Version",
-      "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
+      "duration_ms": 202266,
+      "name": "Yonder Wall",
+      "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
         }
       ],
-      "duration_ms": 202266,
-      "name": "Yonder Wall",
-      "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
+      "duration_ms": 208000,
+      "name": "Driftin' Blues - Single Version",
+      "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR"
+      },
+      "artists": [
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        }
+      ],
+      "duration_ms": 194321,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "That's All Right (Mama) - the Fire Sessions",
         "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 163000,
       "name": "Death Valley Blues",
       "url": "https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "The Midnight Broadcast",
-        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
-      },
-      "artists": [
-        {
-          "name": "Peter Case",
-          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Bumble Bee",
-      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR"
+        "name": "The Midnight Broadcast",
+        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
       "artists": [
         {
-          "name": "AJ Fullerton",
-          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+          "name": "Peter Case",
+          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
         }
       ],
-      "duration_ms": 194321,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi"
+      "duration_ms": 214933,
+      "name": "Bumble Bee",
+      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 360480,
-      "name": "Blue River Rising",
-      "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Call Me King",
         "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
       "artists": [
         {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
         }
       ],
-      "duration_ms": 184466,
-      "name": "Black Angel Blues",
-      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
+      "duration_ms": 360480,
+      "name": "Blue River Rising",
+      "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1007,6 +991,22 @@
       "duration_ms": 218864,
       "name": "Low Down Dog",
       "url": "https://open.spotify.com/track/2EonQEVNpFj4DjrBqBghxe"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Black Angel Blues",
+      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Too Wet to Plow",
+        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Shines",
+          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Travelling Back Home",
+      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "The Ballad of Lampshade Ed",
         "url": "https://open.spotify.com/album/4KU9nwpcEZ7a9dLCK54h4t"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 206471,
       "name": "The Ballad of Lampshade Ed",
       "url": "https://open.spotify.com/track/7ixLX2F07QhrX4JEOJuFeX"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Too Wet to Plow",
-        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
-      },
-      "artists": [
-        {
-          "name": "Johnny Shines",
-          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Travelling Back Home",
-      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "The \"Killer\" Rocks On",
-        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "C.C. Rider",
-      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "The 1928 Sessions",
-        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
+        "name": "The \"Killer\" Rocks On",
+        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
       },
       "artists": [
         {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 263319,
-      "name": "Avalon Blues",
-      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
+      "duration_ms": 172800,
+      "name": "C.C. Rider",
+      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1243,6 +1227,22 @@
       "duration_ms": 351960,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "The 1928 Sessions",
+        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 263319,
+      "name": "Avalon Blues",
+      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Great God Almighty (Demo, Summer 2018)",
-        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
-      },
-      "artists": [
-        {
-          "name": "Mike Trask",
-          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "Great God Almighty - Demo, Summer 2018",
-      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "How Many Miles",
         "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 238533,
       "name": "Wounded Dog",
       "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Great God Almighty (Demo, Summer 2018)",
+        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
+      },
+      "artists": [
+        {
+          "name": "Mike Trask",
+          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
+        }
+      ],
+      "duration_ms": 178276,
+      "name": "Great God Almighty - Demo, Summer 2018",
+      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 267512,
-      "name": "Only Porter at the Station",
-      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "The Road to Liberty, Pt. 1",
         "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
       },
@@ -1539,6 +1523,38 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 267512,
+      "name": "Only Porter at the Station",
+      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Otis Spann Is The Blues (Remastered)",
+        "url": "https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Take A Little Walk With Me - Remastered",
+      "url": "https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
       },
@@ -1551,42 +1567,6 @@
       "duration_ms": 209400,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Keep on Lovin You (feat. Billy Branch)",
-        "url": "https://open.spotify.com/album/0ZxrwdpdMoPhIrlYfsXMJu"
-      },
-      "artists": [
-        {
-          "name": "Lil' Red & the Rooster",
-          "url": "https://open.spotify.com/artist/2pm8z0Ff2sSRehZetUntu6"
-        },
-        {
-          "name": "Billy Branch",
-          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
-        }
-      ],
-      "duration_ms": 315842,
-      "name": "Keep on Lovin You (feat. Billy Branch)",
-      "url": "https://open.spotify.com/track/0bFC7aJVSuRY26OVco4hdJ"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Midnight Call",
-        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
-      },
-      "artists": [
-        {
-          "name": "Fran McGillivray Band",
-          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
-        }
-      ],
-      "duration_ms": 288240,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1611,18 +1591,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Otis Spann Is The Blues (Remastered)",
-        "url": "https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2"
+        "name": "Midnight Call",
+        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
       },
       "artists": [
         {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+          "name": "Fran McGillivray Band",
+          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
         }
       ],
-      "duration_ms": 207240,
-      "name": "Take A Little Walk With Me - Remastered",
-      "url": "https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay"
+      "duration_ms": 288240,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1639,6 +1619,26 @@
       "duration_ms": 231133,
       "name": "First McDonell's on the Moon",
       "url": "https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Keep on Lovin You (feat. Billy Branch)",
+        "url": "https://open.spotify.com/album/0ZxrwdpdMoPhIrlYfsXMJu"
+      },
+      "artists": [
+        {
+          "name": "Lil' Red & the Rooster",
+          "url": "https://open.spotify.com/artist/2pm8z0Ff2sSRehZetUntu6"
+        },
+        {
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
+        }
+      ],
+      "duration_ms": 315842,
+      "name": "Keep on Lovin You (feat. Billy Branch)",
+      "url": "https://open.spotify.com/track/0bFC7aJVSuRY26OVco4hdJ"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
+      },
+      "artists": [
+        {
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
+        }
+      ],
+      "duration_ms": 138040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Candy Man Blues: Essential Recordings",
         "url": "https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 179293,
       "name": "Tough Times",
       "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Wasted Time",
-        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
-      },
-      "artists": [
-        {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
-        }
-      ],
-      "duration_ms": 138040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Top Jazz Blues Festival 1964",
-        "url": "https://open.spotify.com/album/68AAzzir4EMjSEZYDvbDM0"
-      },
-      "artists": [
-        {
-          "name": "Mongarfield",
-          "url": "https://open.spotify.com/artist/0RiXHV3CODQwPjdM79ntEX"
-        }
-      ],
-      "duration_ms": 202337,
-      "name": "Baby Back to Me",
-      "url": "https://open.spotify.com/track/4JNwX5jryAvLWcB38Kriyh"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Dirtiest Little Darling / Railroad Bill",
         "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
       },
@@ -1947,18 +1931,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Guitar Blues 101",
-        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
+        "name": "Empire State Express",
+        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
       },
       "artists": [
         {
-          "name": "Buddy Guy & Junior Wells",
-          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
         }
       ],
-      "duration_ms": 273573,
-      "name": "Rollin' and Tumblin'",
-      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
+      "duration_ms": 270706,
+      "name": "Empire State Express",
+      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1979,18 +1963,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Empire State Express",
-        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
+        "name": "Guitar Blues 101",
+        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "Buddy Guy & Junior Wells",
+          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
         }
       ],
-      "duration_ms": 270706,
-      "name": "Empire State Express",
-      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
+      "duration_ms": 273573,
+      "name": "Rollin' and Tumblin'",
+      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -2007,6 +1991,22 @@
       "duration_ms": 291295,
       "name": "T.B. Blues",
       "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Top Jazz Blues Festival 1964",
+        "url": "https://open.spotify.com/album/68AAzzir4EMjSEZYDvbDM0"
+      },
+      "artists": [
+        {
+          "name": "Mongarfield",
+          "url": "https://open.spotify.com/artist/0RiXHV3CODQwPjdM79ntEX"
+        }
+      ],
+      "duration_ms": 202337,
+      "name": "Baby Back to Me",
+      "url": "https://open.spotify.com/track/4JNwX5jryAvLWcB38Kriyh"
     },
     {
       "added_at": "2023-11-24 19:23:20",

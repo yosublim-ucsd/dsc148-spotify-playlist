@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-649 songs - 1 day 4 hr 4 min
+650 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Never Ending Cycle](https://open.spotify.com/track/135YvfJTQSpHZFPJSL5Iyc) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [A Never Ending Cycle](https://open.spotify.com/album/434VuhOw5djN69pXxMFyvI) | 3:10 | 2021-12-07 | 2022-03-02 |
 | [A New Day](https://open.spotify.com/track/3f3o11I6fICW22aTW3ZK2k) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A New Day](https://open.spotify.com/album/1OUJJk70WJeyliPi5Hu3q9) | 2:18 | 2021-12-07 | 2022-09-24 |
 | [a new love](https://open.spotify.com/track/4DOUtqXfuYKR6RqZ3O6TIi) | [Albrecht Valiery](https://open.spotify.com/artist/3GyopzakL0G5uqjcv56M9h) | [a new love](https://open.spotify.com/album/1OCzduP701HjAIhRhGaBts) | 3:02 | 2021-12-07 |  |
-| [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 | 2022-05-05 |  |
+| [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 | 2022-05-05 | 2023-12-10 |
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2021-12-07 |  |
 | [A Smile](https://open.spotify.com/track/6GuSaslGEKLW4vaJ1VINEH) | [Myles Mackay](https://open.spotify.com/artist/3eQGI9kcs53CVhYJMzOZJE) | [A Smile](https://open.spotify.com/album/3x5FNp8Kfk5bPuFotBdL5b) | 2:13 | 2021-12-07 | 2022-09-24 |
 | [A Song for Clara](https://open.spotify.com/track/3QyXiYnPcszAptSYP2ZICS) | [Shoshana Michel](https://open.spotify.com/artist/65YH4PPgJlL7o1gqVGncZ1) | [A Song for Clara](https://open.spotify.com/album/4NJ9DFtxsmOCQgdJKWDa71) | 2:50 | 2022-04-21 | 2022-05-05 |
@@ -293,7 +293,7 @@
 | [Lasciare Andare](https://open.spotify.com/track/7k6BmWDRLOip7YGUg48SVp) | [Gino Delafiori](https://open.spotify.com/artist/2mLwZnRXgqPqosokl8VjwF) | [Umbria](https://open.spotify.com/album/3lhm2pyVEJihYdBmxgjgDL) | 3:27 | 2021-12-07 | 2023-02-02 |
 | [Last Things First](https://open.spotify.com/track/7HCl80rnRUZoeVWpuXLSli) | [Baltasar Thorgrimson](https://open.spotify.com/artist/0wyQQ5R0rWiaT1g8GUEDBC) | [Last Things First](https://open.spotify.com/album/30WZaV9jXKl6JYqjSUEZZq) | 2:32 | 2021-12-07 | 2023-05-26 |
 | [Late Spring](https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI) | [Anthony Bertoli](https://open.spotify.com/artist/0v0hz2stDsZwptsPymBJWz) | [Late Spring](https://open.spotify.com/album/5qFZFWDP9CrFDOxVHWkqoy) | 3:00 | 2021-12-07 | 2023-09-28 |
-| [Laurel Tree \(Whispers\)](https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr) | [Rowen Ellis](https://open.spotify.com/artist/185C3FAs4S58KqV8e8LP3H) | [Laurel Tree \(Whispers\)](https://open.spotify.com/album/2yqjaFL6QWjYqH7vBpbUK0) | 2:47 | 2021-12-07 |  |
+| [Laurel Tree \(Whispers\)](https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr) | [Rowen Ellis](https://open.spotify.com/artist/185C3FAs4S58KqV8e8LP3H) | [Laurel Tree \(Whispers\)](https://open.spotify.com/album/2yqjaFL6QWjYqH7vBpbUK0) | 2:47 | 2021-12-07 | 2023-12-10 |
 | [Lavendel](https://open.spotify.com/track/3cWSAOchf5q8dQ7ohaGV2n) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Lavendel](https://open.spotify.com/album/7rdBgstRz5NnrVzpneea7F) | 3:07 | 2021-12-07 | 2022-09-24 |
 | [Le Ballet de L\`Oubli](https://open.spotify.com/track/1ZvZqIoLskfHuZ3A0akrsV) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Le Ballet de L\`Oubli](https://open.spotify.com/album/1BYFGajwHEIseik0EvBU6m) | 3:23 | 2022-04-21 | 2022-06-08 |
 | [Le Bonheur](https://open.spotify.com/track/3J8dqKlO2trb3uRGhcx3ok) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Le Bonheur](https://open.spotify.com/album/16jsGf5M8TZ2NeqSa09c8P) | 2:59 | 2021-12-07 | 2022-05-21 |
@@ -488,6 +488,7 @@
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-01-18 |  |
 | [Santos \- Lisbon](https://open.spotify.com/track/0G8O0bm8jxkIoz3WPzTElm) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Santos \- Lisbon](https://open.spotify.com/album/3mG8uvXqD0UMJz5wxeLX9P) | 2:41 | 2022-05-20 | 2023-08-09 |
 | [Sapiens](https://open.spotify.com/track/5w32YiZfjZ0vC3Y1bYs62i) | [Frantz Langdon](https://open.spotify.com/artist/5IvJzgDwTyF6fEcZUEkVxR) | [Us](https://open.spotify.com/album/2mTUsrGasTKmm7qKYy09kT) | 3:05 | 2021-12-07 | 2022-06-08 |
+| [Saragossa](https://open.spotify.com/track/2DAgJPb2am07TT3LKcM7u1) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Saragossa](https://open.spotify.com/album/7ItSD4vuq9bpWGhEce3yFO) | 2:34 | 2023-11-28 |  |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2021-12-07 |  |
 | [Say Goodbye](https://open.spotify.com/track/1j13HkUceNuucwQjJNIWxe) | [Sigmund Thorne](https://open.spotify.com/artist/5XZMvbqpb45vxwBRHQQ2sR) | [Say Goodbye](https://open.spotify.com/album/5aKjif3nihiPDJ119Bjlzs) | 2:51 | 2021-12-07 | 2022-09-16 |
 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 | 2023-08-07 |  |
@@ -619,7 +620,7 @@
 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 | 2021-12-07 |  |
 | [Verträumt](https://open.spotify.com/track/6yfuxuWZNEnwOykWXStzxY) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Verträumt](https://open.spotify.com/album/1QLGJWEAeddXVFaAwI6gZ4) | 2:14 | 2021-12-07 |  |
 | [Veszprém](https://open.spotify.com/track/2ZC0zLg4UMtC4AFWTd34Ly) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Veszprém](https://open.spotify.com/album/51QJQwxCAO6ol5ZVG7vL1U) | 3:01 | 2021-12-07 | 2022-04-21 |
-| [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 | 2021-12-07 | 2023-12-02 |
+| [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 | 2021-12-07 |  |
 | [Vigilance](https://open.spotify.com/track/5ezssE7jFdCzJOJAedPhEN) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Vigilance](https://open.spotify.com/album/7eyB39siSce7Rld9UZqL0O) | 2:06 | 2021-12-07 | 2022-01-05 |
 | [Viklau](https://open.spotify.com/track/4CFzH8jRqwNIYIRBv8Bkwk) | [Raukar](https://open.spotify.com/artist/3gsSGPxBGQvwSMtMkMoTbE) | [Viklau](https://open.spotify.com/album/03g3D3FtbDm3NEiskGfoSM) | 2:30 | 2021-12-07 | 2022-05-21 |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-01-18 |  |

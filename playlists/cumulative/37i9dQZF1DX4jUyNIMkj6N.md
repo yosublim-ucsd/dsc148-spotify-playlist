@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-237 songs - 14 hr 41 min
+238 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Kaleidoscope Dream](https://open.spotify.com/track/7AA7OKI46YdQ64gXSDBQv6) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS) | [Kaleidoscope Dream](https://open.spotify.com/album/09UeNYXrcwTA0CFIx2P6c3) | 3:39 | 2021-12-02 | 2022-07-29 |
 | [Kings and Aces](https://open.spotify.com/track/00FjPtTqy9JtPsjwVJMRxw) | [The White Album](https://open.spotify.com/artist/5JhaDdCfVwK1YJciYM7s6i) | [The Quiet Strum](https://open.spotify.com/album/4VHQklPYm6aSSbeRalAi62) | 2:49 | 2021-12-02 | 2022-07-19 |
 | [Kom heim](https://open.spotify.com/track/4GVZR9TdLp9D0ToG68ZxNh) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kom heim](https://open.spotify.com/album/445fT2wa4stnwaF4SNlJuF) | 3:22 | 2022-03-03 | 2022-07-29 |
+| [Late December](https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [Late December](https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8) | 2:59 | 2023-12-08 |  |
 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 | 2022-07-14 |  |
 | [Line of Fire](https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm) | 3:08 | 2021-12-02 | 2022-07-29 |
 | [Little Twirl](https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Carvings](https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln) | 2:22 | 2023-01-19 | 2023-02-08 |
@@ -142,7 +143,7 @@
 | [Most of the Time](https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Most of the Time](https://open.spotify.com/album/3PLL8twrREWBIpP1aBLF5D) | 4:23 | 2022-04-29 | 2022-12-24 |
 | [Mycelium](https://open.spotify.com/track/34wOxhxMDdAVxyA1bBS4z6) | [Fia](https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH) | [Mycelium/Let Her Teach You](https://open.spotify.com/album/6od8EDcM1mUiLrCV6ji0tQ) | 3:17 | 2023-08-24 |  |
 | [Mørke Skoga \- \(Frøkedal cover\)](https://open.spotify.com/track/27SdYzKPXScjqaxYjjYfKI) | [Tønes](https://open.spotify.com/artist/5A4ovj9I91UgF79mLirtz6) | [Mørke Skoga \(Frøkedal cover\)](https://open.spotify.com/album/7I8jc3ElVRhgVfKFP8LuyE) | 4:11 | 2022-03-24 | 2022-07-29 |
-| [New Beginnings](https://open.spotify.com/track/1lc210kcOJxk4zuxNxkfrh) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Holy Hills](https://open.spotify.com/album/6GHoAg9I0Dbl3VWXYk36qm) | 3:38 | 2023-09-14 |  |
+| [New Beginnings](https://open.spotify.com/track/1lc210kcOJxk4zuxNxkfrh) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Holy Hills](https://open.spotify.com/album/6GHoAg9I0Dbl3VWXYk36qm) | 3:38 | 2023-09-14 | 2023-12-10 |
 | [Norwegian Black Metal](https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A), [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Norwegian Black Metal](https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb) | 3:05 | 2023-09-28 |  |
 | [Oak Tree](https://open.spotify.com/track/2RlEWLRTsXedPq1fzc6cO1) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/0dnVXgimdtGncdlHWU5mvS) | 3:00 | 2021-12-02 | 2022-07-27 |
 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 | 2022-07-14 |  |

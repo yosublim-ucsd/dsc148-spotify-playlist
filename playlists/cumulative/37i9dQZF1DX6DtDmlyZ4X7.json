@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 170629,
       "name": "A Quiet Grace",
       "url": "https://open.spotify.com/track/4917GPMOmDwQErO8676NZl"
@@ -5162,7 +5162,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 167030,
       "name": "Laurel Tree (Whispers)",
       "url": "https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr"
@@ -8661,6 +8661,24 @@
     },
     {
       "album": {
+        "name": "Saragossa",
+        "url": "https://open.spotify.com/album/7ItSD4vuq9bpWGhEce3yFO"
+      },
+      "artists": [
+        {
+          "name": "Pablo Jean Baptiste",
+          "url": "https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Saragossa",
+      "url": "https://open.spotify.com/track/2DAgJPb2am07TT3LKcM7u1"
+    },
+    {
+      "album": {
         "name": "Light Textures",
         "url": "https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx"
       },
@@ -11038,7 +11056,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 164009,
       "name": "Vibrio",
       "url": "https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW"

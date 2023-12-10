@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,618 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,753 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Welcome To Jamrock](https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:33 |
 | 2 | [Rebel Time](https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Rebel Time](https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7) | 4:01 |
 | 3 | [Here Comes Trouble](https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible](https://open.spotify.com/album/4zYr71y5wIjnoizuJ4o6ZK) | 3:54 |
-| 4 | [Sky Way](https://open.spotify.com/track/0VpJsmh0WGBthUjVinfS3k) | [Ras\-I](https://open.spotify.com/artist/1AiPTeSRCKWwP2o7OXtoY9), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Koastal Kings](https://open.spotify.com/artist/7LupR1EmUqcWYvc5X7o4Ws) | [Sky Way](https://open.spotify.com/album/6BMPftU5MJAu7mM2Z5DCrh) | 3:43 |
+| 4 | [Sky Way](https://open.spotify.com/track/3jOydeGVAsjdYoYVeqVS5U) | [Ras\-I](https://open.spotify.com/artist/1AiPTeSRCKWwP2o7OXtoY9), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Koastal Kings](https://open.spotify.com/artist/7LupR1EmUqcWYvc5X7o4Ws) | [Sky Way](https://open.spotify.com/album/4H8nwaQmH3l0W21jrn83F6) | 3:43 |
 | 5 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 |
 | 6 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
 | 7 | [Living It Up](https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:00 |
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 14 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
 | 15 | [Helping Hand \(with Iya Terra\)](https://open.spotify.com/track/1S6wOu6dSfEC6CAhFqLkhz) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw), [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D) | [Helping Hand \(with Iya Terra\)](https://open.spotify.com/album/2qKU4M3birDmWDbKHGrR5U) | 4:13 |
 | 16 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
-| 17 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
-| 18 | [Scorpio's Letter](https://open.spotify.com/track/15P0W8dmVqtx6kw2vVd6Pn) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio's Letter](https://open.spotify.com/album/21IhZJZ2C8Mo0dDjjOqS7E) | 2:56 |
-| 19 | [Don't Give Up](https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ) | 3:18 |
+| 17 | [Don't Give Up](https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ) | 3:18 |
+| 18 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
+| 19 | [Scorpio's Letter](https://open.spotify.com/track/15P0W8dmVqtx6kw2vVd6Pn) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio's Letter](https://open.spotify.com/album/21IhZJZ2C8Mo0dDjjOqS7E) | 2:56 |
 | 20 | [Hope \- LOCK\-IN](https://open.spotify.com/track/6MoQ4uo9Ss5OuON9vYliXQ) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [LOCK\-IN](https://open.spotify.com/album/6D8fIhNTVPMe7DeOcJ4gfg) | 9:02 |
 | 21 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
 | 22 | [Brown Skin](https://open.spotify.com/track/1m2c9ZjrXRGRvvPhVOUXrV) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 49 | [To See](https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
 | 50 | [Wanted](https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Wanted](https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu) | 3:37 |
 
-Snapshot ID: `MCxmYTFkYWMyOWQ4OWUxOTVhMGUyMzIxODhkMGI1MzQ0ZmI2MjU5NDI0`
+Snapshot ID: `MCw0ZTQ4NzYwMzlhMmU0N2E0MGI5MjFhZDk0NGI0NTBjN2IwYTUyZDE5`

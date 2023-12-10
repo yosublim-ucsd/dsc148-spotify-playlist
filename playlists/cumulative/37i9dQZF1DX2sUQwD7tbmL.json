@@ -9275,6 +9275,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187228,
+      "name": "Strawberry Daydream",
+      "url": "https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv"
+    },
+    {
+      "album": {
         "name": "Am I sinking or Am I swimming?",
         "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
       },
@@ -10116,7 +10134,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 188101,
       "name": "They Don't Know Your Name",
       "url": "https://open.spotify.com/track/482uoS6QmO8B3ZOb7bUDDh"

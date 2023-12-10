@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: H.E.R. & Asake",
-  "num_followers": 627593,
+  "num_followers": 627744,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmNmMDllODk1MGJhNWVhZjBkZWQ0MjE4NzRjZjJjYmExODk5MWZj",
+  "snapshot_id": "MCxmMTlhZGQ2MTBhZTk0NmFjNGRjMjZkMjg3NTdlYjcxY2E4YzM2ZGFk",
   "tracks": [
     {
       "added_at": "2023-11-28 12:09:03",
@@ -51,22 +51,6 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2023-11-28 12:09:03",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2023-11-28 12:09:03",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2023-11-28 12:09:03",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
-        "name": "Pretty Girl (with Rema)",
-        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 137907,
-      "name": "Pretty Girl (with Rema)",
-      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
-    },
-    {
-      "added_at": "2023-11-28 12:09:03",
-      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -659,6 +639,26 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
+        "name": "Pretty Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 137907,
+      "name": "Pretty Girl (with Rema)",
+      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
+    },
+    {
+      "added_at": "2023-11-28 12:09:03",
+      "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
       },
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12"
+    },
+    {
+      "added_at": "2023-11-28 12:09:03",
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 203383,
       "name": "MOVE (feat. Grace Jones & Tems)",
       "url": "https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g"
-    },
-    {
-      "added_at": "2023-11-28 12:09:03",
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12"
     },
     {
       "added_at": "2023-11-28 12:09:03",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
+    },
+    {
+      "added_at": "2023-11-28 12:09:03",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 196146,
       "name": "Ginger (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
-    },
-    {
-      "added_at": "2023-11-28 12:09:03",
-      "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
     },
     {
       "added_at": "2023-11-28 12:09:03",
@@ -983,22 +983,18 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
-        "name": "Papi Chulo",
-        "url": "https://open.spotify.com/album/7KsMCyObKQhX37pocZEUcQ"
+        "name": "Joro",
+        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
       },
       "artists": [
         {
-          "name": "Octavian",
-          "url": "https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 161667,
-      "name": "Papi Chulo",
-      "url": "https://open.spotify.com/track/1S1bZVv8sqYY39S6KWchuk"
+      "duration_ms": 262736,
+      "name": "Joro",
+      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
     },
     {
       "added_at": "2023-11-28 12:09:03",
@@ -1023,18 +1019,22 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
-        "name": "Joro",
-        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
+        "name": "Papi Chulo",
+        "url": "https://open.spotify.com/album/7KsMCyObKQhX37pocZEUcQ"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Octavian",
+          "url": "https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 262736,
-      "name": "Joro",
-      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
+      "duration_ms": 161667,
+      "name": "Papi Chulo",
+      "url": "https://open.spotify.com/track/1S1bZVv8sqYY39S6KWchuk"
     },
     {
       "added_at": "2023-11-28 12:09:03",
@@ -1367,22 +1367,34 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
-        "name": "Mumu",
-        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
+        "name": "L.I.T.A",
+        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
       },
       "artists": [
         {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
         },
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gregory Bortey Newman",
+          "url": "https://open.spotify.com/artist/6uNKMzEUQhiTskricpo2yw"
         }
       ],
-      "duration_ms": 173571,
-      "name": "Mumu",
-      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
+      "duration_ms": 251147,
+      "name": "Sugarcane - Remix",
+      "url": "https://open.spotify.com/track/6NuG2JgERZZXvvjmtjOFix"
     },
     {
       "added_at": "2023-11-28 12:09:03",
@@ -1423,6 +1435,26 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
+        "name": "Mumu",
+        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Mumu",
+      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
+    },
+    {
+      "added_at": "2023-11-28 12:09:03",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
       },
@@ -1439,54 +1471,6 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
-    },
-    {
-      "added_at": "2023-11-28 12:09:03",
-      "album": {
-        "name": "L.I.T.A",
-        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Gregory Bortey Newman",
-          "url": "https://open.spotify.com/artist/6uNKMzEUQhiTskricpo2yw"
-        }
-      ],
-      "duration_ms": 251147,
-      "name": "Sugarcane - Remix",
-      "url": "https://open.spotify.com/track/6NuG2JgERZZXvvjmtjOFix"
-    },
-    {
-      "added_at": "2023-11-28 12:09:03",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 146367,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
     },
     {
       "added_at": "2023-11-28 12:09:03",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 146367,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
+    },
+    {
+      "added_at": "2023-11-28 12:09:03",
+      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga"
       },
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2023-11-28 12:09:03",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 262973,
       "name": "Blessed (feat. Damian Marley)",
       "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
-    },
-    {
-      "added_at": "2023-11-28 12:09:03",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
     },
     {
       "added_at": "2023-11-28 12:09:03",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 187782,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ"
-    },
-    {
-      "added_at": "2023-11-28 12:09:03",
-      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/6vzPgfVVWTRHPCDfBWekGY"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ"
+    },
+    {
+      "added_at": "2023-11-28 12:09:03",
+      "album": {
         "name": "Dimension (feat. Skepta & Rema)",
         "url": "https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF"
       },
@@ -1663,6 +1663,26 @@
       "duration_ms": 234026,
       "name": "Dimension (feat. Skepta & Rema)",
       "url": "https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A"
+    },
+    {
+      "added_at": "2023-11-28 12:09:03",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 180563,
+      "name": "attention (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
     },
     {
       "added_at": "2023-11-28 12:09:03",
@@ -1703,26 +1723,6 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 180563,
-      "name": "attention (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
-    },
-    {
-      "added_at": "2023-11-28 12:09:03",
-      "album": {
         "name": "[BUMP] Pick Me Up",
         "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
       },
@@ -1743,26 +1743,6 @@
       "duration_ms": 204434,
       "name": "[The Jackie] (with J. Cole & Lil Tjay)",
       "url": "https://open.spotify.com/track/2cny5OSTr2976U3o018GoV"
-    },
-    {
-      "added_at": "2023-11-28 12:09:03",
-      "album": {
-        "name": "Lotto",
-        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
     },
     {
       "added_at": "2023-11-28 12:09:03",
@@ -1883,6 +1863,26 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
+        "name": "Lotto",
+        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
+    },
+    {
+      "added_at": "2023-11-28 12:09:03",
+      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
+        "name": "Get Layd",
+        "url": "https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 171730,
+      "name": "Lo Lo",
+      "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
+    },
+    {
+      "added_at": "2023-11-28 12:09:03",
+      "album": {
         "name": "Pioneers",
         "url": "https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv"
       },
@@ -1979,38 +1995,18 @@
     {
       "added_at": "2023-11-28 12:09:03",
       "album": {
-        "name": "Get Layd",
-        "url": "https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL"
+        "name": "AYA",
+        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 171730,
-      "name": "Lo Lo",
-      "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
-    },
-    {
-      "added_at": "2023-11-28 12:09:03",
-      "album": {
-        "name": "Lenu (Remix)",
-        "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "Lenu - Remix",
-      "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
+      "duration_ms": 168719,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/3V6NCwBywAwpAlAyGL7h0p"
     }
   ],
   "unique_name": "We Everywhere",

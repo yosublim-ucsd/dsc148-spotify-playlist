@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest indie love songs of all time. ",
-  "num_followers": 605881,
+  "num_followers": 606039,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzdjYTNkYWVmMmQ1ODNmYTAzM2UzZGI0MzlmYjNkMjI3YmFiYmRk",
+  "snapshot_id": "MCw0NTJlNjVhNjUxM2Y1Y2I5NGE4NDE0ODIyNDljN2MzNmI1ZmRiMDM3",
   "tracks": [
     {
       "added_at": "2023-07-21 10:32:21",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "Up From Below - 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "girls",
-        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 198400,
-      "name": "girls",
-      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -519,6 +503,22 @@
       "duration_ms": 279000,
       "name": "Stubborn Love",
       "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "girls",
+        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "girls",
+      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "So My Darling (Acoustic)",
-        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "So My Darling - Acoustic",
-      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "flounder",
         "url": "https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 179120,
       "name": "touch tank",
       "url": "https://open.spotify.com/track/1TgCchWmdmmhGrtsa8NHwY"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "The Covers Record",
-        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "Sea of Love",
-      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "The Boatman's Call (2011 - Remaster)",
         "url": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 256120,
       "name": "Into My Arms",
       "url": "https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "The Covers Record",
+        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "1st Time",
-        "url": "https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "1st Time",
-      "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "going...going...GONE!",
         "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 133200,
       "name": "girlfriend",
       "url": "https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "1st Time",
+        "url": "https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "1st Time",
+      "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+      "duration_ms": 127600,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/2tBxJ43XiwEzhf7Xalc5UG"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Heathen Chemistry",
-        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 127600,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/2tBxJ43XiwEzhf7Xalc5UG"
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
     },
     {
       "added_at": "2023-07-21 10:32:21",

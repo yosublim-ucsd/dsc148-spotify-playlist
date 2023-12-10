@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,149 likes - 83 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,161 likes - 83 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 51 | [Tiga Titik Hitam](https://open.spotify.com/track/7Fi3EyFExj8iIumylN29ne) | [Burgerkill](https://open.spotify.com/artist/77X41f0zoHXGhC3a3UvdJk) | [Berkarat](https://open.spotify.com/album/20Lby8PRGQSqfo7kJCz81W) | 5:32 |
 | 52 | [Mereguk Anti Depresan Lagi](https://open.spotify.com/track/4nWqe6ojnCrOZWsGHqdpWE) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [Mereguk Anti Depresan Lagi](https://open.spotify.com/album/7DxaK1trwu4UD76ldZ4JvI) | 3:51 |
 | 53 | [Berita Harian](https://open.spotify.com/track/69MOVP8IuQ2qOGhTO5H4UO) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Karet](https://open.spotify.com/album/51K8wlMSll4FQYNKWgk934) | 3:39 |
-| 54 | [Terlalu Bodoh Untuk Bandung](https://open.spotify.com/track/128R9AyKcPSkVn5oxt5L0M) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Upaya Memaki](https://open.spotify.com/album/48pEKNlOxW5oHF6bpk5EbT) | 1:29 |
+| 54 | [Terlalu Bodoh Untuk Bandung](https://open.spotify.com/track/5g6PU8X2fHhfvo0LPsfAhD) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Upaya Memaki](https://open.spotify.com/album/62I2WcvJ92kjMQXnKfQQ99) | 1:29 |
 | 55 | [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 |
 | 56 | [Musafir Anthem](https://open.spotify.com/track/1nPEAW7GDnfAmtWK8Eh4yb) | [Syarikat Idola Remaja](https://open.spotify.com/artist/0WG2IKGKYaawuJ1kjHucBO) | [Musafir Anthem](https://open.spotify.com/album/7rcFEv0Bgv2mlLHkH0aCn6) | 3:36 |
 | 57 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 82 | [Bebende](https://open.spotify.com/track/6QM1lU1VMJlSROw6ZJ40u5) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Ferdinan Sule](https://open.spotify.com/artist/1CrwRIUK36rqXADc2O6YdP) | [Bebende](https://open.spotify.com/album/2l8HYZ1xJsX7GbKxvjsE3U) | 5:12 |
 | 83 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 |
 
-Snapshot ID: `MCxmMjM4Mzg0NzBmNjdkMTVkMWVhOTY5OTY5ZDgyMDA5NjVkZWU0YjIy`
+Snapshot ID: `MCw1MTU4NmUwZTNhN2RkZTUzZTU4YjFiMTE0M2YzMDRmOTQ5NTgxOTcy`

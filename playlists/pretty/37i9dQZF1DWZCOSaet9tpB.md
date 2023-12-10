@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=Ew2RvZc5SIiTG4cY\_d67Ow">Fireboy DML</a> and <a href="https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=rx2DEBJLQtyqRZ9SBAgWFg">Blaqbonez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,271 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,422 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 49 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 |
 | 50 | [Elon musk](https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Elon musk](https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I) | 3:15 |
 
-Snapshot ID: `MCxjNzI0MmZjYzgyNWQyMGZmYmUyYTg1OGI3YjBlMmI3YzllZmU5MzAy`
+Snapshot ID: `MCw0MzYyNzY3MGRlYjY4YzM3MTg3MWE5YjNhMjRjOGRmNjMyMjljNjE0`

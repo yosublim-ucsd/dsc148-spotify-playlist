@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 140651,
+  "num_followers": 140656,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWFmOTg3YmJkMTdjMTRkMmFlZmNhOWE2MDljNmVhMzRkZGQ0NDA5",
+  "snapshot_id": "MCwyNWMyMjUxMTNmYWM5YjBhNTg5YWI1ODNkZTdmODRjN2Q0MTI1OWI0",
   "tracks": [
     {
       "added_at": "2023-09-13 20:37:36",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Santa Borrachera",
-        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
-      },
-      "artists": [
-        {
-          "name": "SuenaTron",
-          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Santa Borrachera",
-      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Cuando Me D\u00e9 la Gana",
         "url": "https://open.spotify.com/album/3r3a9WllDkWBl8Idoes2go"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 224256,
       "name": "Mi Necesidad",
       "url": "https://open.spotify.com/track/38Whv9YVvOOKmz59rRVATi"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Santa Borrachera",
+        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
+      },
+      "artists": [
+        {
+          "name": "SuenaTron",
+          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Santa Borrachera",
+      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Anda Vuela Y Vete",
-        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
-      },
-      "artists": [
-        {
-          "name": "Kamryn Ramirez",
-          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
-        }
-      ],
-      "duration_ms": 165866,
-      "name": "Anda Vuela Y Vete",
-      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Amigo Fiel",
         "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Si Manana No Me Ves",
-        "url": "https://open.spotify.com/album/3NqmmCyTpThcgwBSalVtH6"
+        "name": "Anda Vuela Y Vete",
+        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
       },
       "artists": [
         {
-          "name": "Anikka",
-          "url": "https://open.spotify.com/artist/3hkqKQ2qlIE4STNnjFLDnh"
+          "name": "Kamryn Ramirez",
+          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
         }
       ],
-      "duration_ms": 201045,
-      "name": "Si Manana No Me Ves",
-      "url": "https://open.spotify.com/track/4hkokOj67Cb9gzt6QV2nUd"
+      "duration_ms": 165866,
+      "name": "Anda Vuela Y Vete",
+      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -683,18 +667,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Increible",
-        "url": "https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK"
+        "name": "Si Manana No Me Ves",
+        "url": "https://open.spotify.com/album/3NqmmCyTpThcgwBSalVtH6"
       },
       "artists": [
         {
-          "name": "MARISELA HERNANDEZ",
-          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
+          "name": "Anikka",
+          "url": "https://open.spotify.com/artist/3hkqKQ2qlIE4STNnjFLDnh"
         }
       ],
-      "duration_ms": 221640,
-      "name": "Increible",
-      "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
+      "duration_ms": 201045,
+      "name": "Si Manana No Me Ves",
+      "url": "https://open.spotify.com/track/4hkokOj67Cb9gzt6QV2nUd"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "No Olvides Nuestro Amor",
-        "url": "https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg"
+        "name": "Increible",
+        "url": "https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK"
       },
       "artists": [
         {
-          "name": "Savannah V.",
-          "url": "https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo"
+          "name": "MARISELA HERNANDEZ",
+          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
         }
       ],
-      "duration_ms": 185728,
-      "name": "No Olvides Nuestro Amor",
-      "url": "https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi"
+      "duration_ms": 221640,
+      "name": "Increible",
+      "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -743,6 +727,22 @@
       "duration_ms": 200493,
       "name": "Mas Tequila Por Favor",
       "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "No Olvides Nuestro Amor",
+        "url": "https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg"
+      },
+      "artists": [
+        {
+          "name": "Savannah V.",
+          "url": "https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "No Olvides Nuestro Amor",
+      "url": "https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Porque Te Amo",
-        "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
+        "name": "No Te Voy A Perder",
+        "url": "https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA"
       },
       "artists": [
         {
-          "name": "Boyz of Kumbia",
-          "url": "https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA"
+          "name": "Rebecca Valadez",
+          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
         }
       ],
-      "duration_ms": 187623,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB"
+      "duration_ms": 242906,
+      "name": "No Te Voy A Perder",
+      "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -883,18 +883,34 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "No Te Voy A Perder",
-        "url": "https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA"
+        "name": "Porque Te Amo",
+        "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
       },
       "artists": [
         {
-          "name": "Rebecca Valadez",
-          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
+          "name": "Boyz of Kumbia",
+          "url": "https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA"
         }
       ],
-      "duration_ms": 242906,
-      "name": "No Te Voy A Perder",
-      "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
+      "duration_ms": 187623,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Necesito Borrarte",
+        "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
+      },
+      "artists": [
+        {
+          "name": "G5",
+          "url": "https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA"
+        }
+      ],
+      "duration_ms": 254586,
+      "name": "Necesito Borrarte",
+      "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -919,18 +935,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Necesito Borrarte",
-        "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/5eIDua0uFxreLZCNTJPuP4"
       },
       "artists": [
         {
-          "name": "G5",
-          "url": "https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA"
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
         }
       ],
-      "duration_ms": 254586,
-      "name": "Necesito Borrarte",
-      "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
+      "duration_ms": 210651,
+      "name": "Tengo Ganas De Ti",
+      "url": "https://open.spotify.com/track/1FQi3kvUFUx6dQk3PBAa6L"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -947,22 +963,6 @@
       "duration_ms": 185179,
       "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
       "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/5eIDua0uFxreLZCNTJPuP4"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 210651,
-      "name": "Tengo Ganas De Ti",
-      "url": "https://open.spotify.com/track/1FQi3kvUFUx6dQk3PBAa6L"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Contigo Corazon",
-        "url": "https://open.spotify.com/album/7ymlEj6NfzuNw2CYa2ZrJj"
-      },
-      "artists": [
-        {
-          "name": "Jr Aldaco and the Midwest Allstars",
-          "url": "https://open.spotify.com/artist/7rAM8fU5taC56FR29Itqdy"
-        }
-      ],
-      "duration_ms": 195291,
-      "name": "Contigo Corazon",
-      "url": "https://open.spotify.com/track/4WGMtadfZnohsK7WDJpryN"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "No Me Busques",
         "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 228812,
       "name": "No Me Busques",
       "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Contigo Corazon",
+        "url": "https://open.spotify.com/album/7ymlEj6NfzuNw2CYa2ZrJj"
+      },
+      "artists": [
+        {
+          "name": "Jr Aldaco and the Midwest Allstars",
+          "url": "https://open.spotify.com/artist/7rAM8fU5taC56FR29Itqdy"
+        }
+      ],
+      "duration_ms": 195291,
+      "name": "Contigo Corazon",
+      "url": "https://open.spotify.com/track/4WGMtadfZnohsK7WDJpryN"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Si Esto No Es Amor",
+        "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
+      },
+      "artists": [
+        {
+          "name": "Liz Garcia",
+          "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Si Esto No Es Amor",
+      "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Simplemente Por Quererte a Ti",
         "url": "https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Como Te Voy a Olvidar",
-        "url": "https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl"
+        "name": "NADIE",
+        "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
       },
       "artists": [
         {
-          "name": "Genyva",
-          "url": "https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke"
+          "name": "Esmeralda G",
+          "url": "https://open.spotify.com/artist/6icgyIXLRejVRb3MiJpyrJ"
         }
       ],
-      "duration_ms": 188265,
-      "name": "Como Te Voy a Olvidar",
-      "url": "https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND"
+      "duration_ms": 161623,
+      "name": "NADIE",
+      "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1211,34 +1227,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Si Esto No Es Amor",
-        "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
+        "name": "Como Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl"
       },
       "artists": [
         {
-          "name": "Liz Garcia",
-          "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
+          "name": "Genyva",
+          "url": "https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Si Esto No Es Amor",
-      "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "NADIE",
-        "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda G",
-          "url": "https://open.spotify.com/artist/6icgyIXLRejVRb3MiJpyrJ"
-        }
-      ],
-      "duration_ms": 161623,
-      "name": "NADIE",
-      "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
+      "duration_ms": 188265,
+      "name": "Como Te Voy a Olvidar",
+      "url": "https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND"
     },
     {
       "added_at": "2023-09-13 20:37:36",

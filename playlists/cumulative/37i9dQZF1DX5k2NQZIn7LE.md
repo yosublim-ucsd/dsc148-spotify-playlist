@@ -4,7 +4,7 @@
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-105 songs - 11 hr 38 min
+106 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Sasu Mangay](https://open.spotify.com/track/6sIVxBoS93sjVyxpofOBQo) | [Naseebo Laal](https://open.spotify.com/artist/0hNvLR8hkMDt1YGdV3EzDM), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 6:44 | 2022-03-15 | 2022-07-29 |
 | [Sasu Mangay \(Coke Studio Season 9\)](https://open.spotify.com/track/4yaPqGCFobhA8swEwsi0l8) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u) | [Sasu Mangay \(Coke Studio Season 9\)](https://open.spotify.com/album/3UDM9uEEFxrvwsCZo3YIlp) | 6:44 | 2022-03-15 |  |
 | [Sayon](https://open.spotify.com/track/0RaHjIluOnJYJIL1lzPS5S) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 4:50 | 2022-03-15 | 2023-10-08 |
-| [Sayon](https://open.spotify.com/track/6tHVrEBTao0mt95VY9aXkk) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 4:50 | 2022-10-12 |  |
+| [Sayon](https://open.spotify.com/track/5rHKDnFKUryaztHYAmLgpa) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 4:50 | 2022-10-12 |  |
+| [Sayon](https://open.spotify.com/track/6tHVrEBTao0mt95VY9aXkk) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 4:50 | 2022-10-12 | 2023-12-10 |
 | [Shakar Wandaan Re](https://open.spotify.com/track/6nodKUGJaIO0fBtKZOuc93) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:53 | 2022-03-15 |  |
 | [Shuru Karein](https://open.spotify.com/track/19DH8oyJuWXX8RAWS8QK0z) | [Romail Ali Khan](https://open.spotify.com/artist/1RhkYKt3R7Jv9wyunsdBQl) | [Shuru Karein](https://open.spotify.com/album/44q7Lygf65CE45WtnkaAnV) | 2:26 | 2022-03-15 | 2022-07-29 |
 | [Shuru Karein](https://open.spotify.com/track/3yqoD9SYDfwvNEdU2NEpFx) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Shuru Karein](https://open.spotify.com/album/1MxsE2k1buYRltVVXfcivf) | 2:26 | 2022-03-15 |  |

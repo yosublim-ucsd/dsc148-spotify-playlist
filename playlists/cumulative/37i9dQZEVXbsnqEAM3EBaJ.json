@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "1 AND 1",
+        "url": "https://open.spotify.com/album/5m9orqXdQIB7zBrFK4EBu7"
+      },
+      "artists": [
+        {
+          "name": "GRLwood",
+          "url": "https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211005,
+      "name": "1 AND 1",
+      "url": "https://open.spotify.com/track/7HwVsGcBua5RD0XcIvmYKM"
+    },
+    {
+      "album": {
         "name": "1971",
         "url": "https://open.spotify.com/album/5NQlz34r4WxXuJ8gIDxTDn"
       },
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 477133,
       "name": "Ayahuasca",
       "url": "https://open.spotify.com/track/19Kgdm3IMoslUlpBNcYmeU"
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 217847,
       "name": "Burn MF (feat Rob Zombie)",
       "url": "https://open.spotify.com/track/1kX3ylcsV6CICzRfwLOnq0"
@@ -3088,7 +3106,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 493400,
       "name": "Catfish Blues - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
       "url": "https://open.spotify.com/track/267hVJUi029ovd5X6rqTo1"
@@ -6195,6 +6213,24 @@
     },
     {
       "album": {
+        "name": "Follow The Reaper (Final Show in Helsinki Ice Hall 2019)",
+        "url": "https://open.spotify.com/album/4EIfIMDA0HZONcUIu2hGqg"
+      },
+      "artists": [
+        {
+          "name": "Children Of Bodom",
+          "url": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227426,
+      "name": "Follow The Reaper - Final Show in Helsinki Ice Hall 2019",
+      "url": "https://open.spotify.com/track/3zC4RUrTFhIEjXkMnuiiV1"
+    },
+    {
+      "album": {
         "name": "Shadow Kingdom",
         "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
       },
@@ -7084,6 +7120,24 @@
       "duration_ms": 218154,
       "name": "GUERRERO INTELECTUAL",
       "url": "https://open.spotify.com/track/3SBFITfLQuTKNlJ7igGRuM"
+    },
+    {
+      "album": {
+        "name": "Catch The Sun (Live Tokyo '80)",
+        "url": "https://open.spotify.com/album/1WPM8sZgB28yaJHqg34FbP"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144072,
+      "name": "Guitar Solo (Neal Schon) - Live",
+      "url": "https://open.spotify.com/track/2NWbOuarPwAo7G3erN0xjI"
     },
     {
       "album": {
@@ -9492,7 +9546,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 299960,
       "name": "Its The End Of The World As We Know It (And I Feel Fine) - Live At The Palace / 1999",
       "url": "https://open.spotify.com/track/4xhpAHwF6dDuZxItA6dL0G"
@@ -12941,6 +12995,24 @@
     },
     {
       "album": {
+        "name": "Inspiratio Profanus",
+        "url": "https://open.spotify.com/album/6PMOZfuG2E4wDMZLGmpkkx"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203515,
+      "name": "Nocturnal Fear",
+      "url": "https://open.spotify.com/track/3kAR8IZNpye5CWWFqCfh16"
+    },
+    {
+      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/6mcf4AWNm0DG0vR0RAWkNN"
       },
@@ -14784,7 +14856,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 178905,
       "name": "Real Love - 33 Below Remix",
       "url": "https://open.spotify.com/track/1kmWZGrZwy8yOalxNJ0DUs"
@@ -21546,7 +21618,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 208813,
       "name": "Witching Metal",
       "url": "https://open.spotify.com/track/6FFhcYF1E0tZNE7qiUfBTr"

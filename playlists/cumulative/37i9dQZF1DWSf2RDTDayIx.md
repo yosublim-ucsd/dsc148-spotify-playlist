@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-385 songs - 20 hr 30 min
+386 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-07-29 |  |
 | [Take Me Back](https://open.spotify.com/track/6tBQwbubOllLrJgkh3utw2) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Take Me Back](https://open.spotify.com/album/5SsKV34TZECeZsU0tAEZb3) | 3:09 | 2021-12-03 | 2022-01-08 |
 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 | 2022-02-04 |  |
+| [Take My Chance](https://open.spotify.com/track/3uD3HzG6tO8lWUIKtJKcxA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/3xaAySZDsBeu2k12tDaLsZ) | 3:18 | 2023-12-01 |  |
 | [Take My Chance](https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9) | 3:18 | 2023-10-27 | 2023-11-20 |
 | [Take Your Time](https://open.spotify.com/track/3AygCrAj6TZZ6mGkcvD9To) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Take Your Time](https://open.spotify.com/album/6HBagEXptqThTlMQnxSchh) | 3:06 | 2021-12-03 | 2022-01-08 |
 | [Tears For Later](https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Tears For Later](https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO) | 2:46 | 2021-12-03 | 2023-01-17 |
@@ -392,6 +393,6 @@
 | [Young Summer](https://open.spotify.com/track/1OfHes9WQdGQSIgNwrqIAw) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Young Summer](https://open.spotify.com/album/6yXyTpttvpLCCLq7zZQASo) | 2:36 | 2021-12-03 | 2022-11-19 |
 | [Your Light](https://open.spotify.com/track/1QuoMcTglBzFIsPwiXHNQQ) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Your Light](https://open.spotify.com/album/62nlkAM6lQIqQ2v7g75jdI) | 3:57 | 2022-09-09 | 2022-10-26 |
 | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/track/7hLqii5dbwnwn3IiHt7k4D) | [Revival](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/album/2b19uYnO6jSwzTrT221lyA) | 2:57 | 2023-05-12 |  |
-| [‎Sing Hallelujah](https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [‎Sing Hallelujah](https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee) | 4:37 | 2023-07-14 |  |
+| [‎Sing Hallelujah](https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [‎Sing Hallelujah](https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee) | 4:37 | 2023-07-14 | 2023-12-10 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

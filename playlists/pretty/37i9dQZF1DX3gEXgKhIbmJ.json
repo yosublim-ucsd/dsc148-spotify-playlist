@@ -1,12 +1,12 @@
 {
   "description": "pra entrar e ficar na onda",
-  "num_followers": 8495,
+  "num_followers": 8535,
   "original_name": "Jersey BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjY3ODdjMGZhODAzNjE3MTMzMWE4NDE2N2ExZjQ4NWJkN2FlMjBk",
+  "snapshot_id": "MCwzMjVkMWU0OGI2ZTkxM2Y0N2M2MDlkMzI2ZmRlOWFiZTlmN2Y1Zjhm",
   "tracks": [
     {
       "added_at": "2023-12-08 03:31:40",
@@ -558,6 +558,10 @@
         {
           "name": "Pedro Lotto",
           "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "iceton",
+          "url": "https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj"
         }
       ],
       "duration_ms": 166706,

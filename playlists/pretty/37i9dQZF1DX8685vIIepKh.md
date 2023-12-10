@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,591 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,728 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 49 | [Il y a](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 |
 | 50 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
 
-Snapshot ID: `MCw5NmVmMjY2NjI2ODM0ZmI5MzJiNDQwMDA2YjU0NGU5NGM4MzNkYzQ3`
+Snapshot ID: `MCw1NWJhMWFhNGMxYjI2OWNiNTE2YWM5NmRmZGNmOTMwZDQ5YmM4ZGE4`

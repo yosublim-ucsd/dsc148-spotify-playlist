@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 113820,
       "name": "A Perceptual Process",
       "url": "https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet"
@@ -1026,6 +1026,24 @@
       "duration_ms": 141374,
       "name": "L\u2019herbe verte",
       "url": "https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb"
+    },
+    {
+      "album": {
+        "name": "Magari",
+        "url": "https://open.spotify.com/album/7jIDxPIv8IFMdVIsiZ2Sg5"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Lettiere",
+          "url": "https://open.spotify.com/artist/5umUIBjnV8j12Qu5Zeni2x"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Magari",
+      "url": "https://open.spotify.com/track/3cbYtmntj3mAHLoM1CEfzZ"
     },
     {
       "album": {

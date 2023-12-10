@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Cata Raybaud y Benjamin Walker",
-  "num_followers": 179220,
+  "num_followers": 179243,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDc3ZjlkODY0OWI1N2VhNjMwYjExZmVkYTQ4NzgyOTJkMmFjZDI4",
+  "snapshot_id": "MCxlOGZiNjFmMmJhNGIyZDM0YTMwYjcyMmI4NDM1YTY3MTZmOGQzOWQx",
   "tracks": [
     {
       "added_at": "2023-12-08 00:19:58",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-12-08 00:19:58",
       "album": {
+        "name": "Mundo Debajo del Mundo",
+        "url": "https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 176270,
+      "name": "Desaprender",
+      "url": "https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ"
+    },
+    {
+      "added_at": "2023-12-08 00:19:58",
+      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
-    },
-    {
-      "added_at": "2023-12-08 00:19:58",
-      "album": {
-        "name": "Mundo Debajo del Mundo",
-        "url": "https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 176270,
-      "name": "Desaprender",
-      "url": "https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ"
     },
     {
       "added_at": "2023-12-08 00:19:58",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-12-08 00:19:58",
       "album": {
-        "name": "Guandanara",
-        "url": "https://open.spotify.com/album/48mgLSOZ2CI3E6FdHg1vWQ"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        },
-        {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
-        }
-      ],
-      "duration_ms": 262978,
-      "name": "La Pibita",
-      "url": "https://open.spotify.com/track/5y1fGA0357uOjtoN3iPsnF"
-    },
-    {
-      "added_at": "2023-12-08 00:19:58",
-      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 195036,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu"
+    },
+    {
+      "added_at": "2023-12-08 00:19:58",
+      "album": {
+        "name": "Guandanara",
+        "url": "https://open.spotify.com/album/48mgLSOZ2CI3E6FdHg1vWQ"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        },
+        {
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
+        }
+      ],
+      "duration_ms": 262978,
+      "name": "La Pibita",
+      "url": "https://open.spotify.com/track/5y1fGA0357uOjtoN3iPsnF"
     },
     {
       "added_at": "2023-12-08 00:19:58",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-08 00:19:58",
       "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
-    },
-    {
-      "added_at": "2023-12-08 00:19:58",
-      "album": {
         "name": "Tanta Magia (En Vivo En El Gran Rex / 2015)",
         "url": "https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2023-12-08 00:19:58",
       "album": {
-        "name": "Sof\u00e1",
-        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
       },
       "artists": [
         {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 264053,
-      "name": "Cu\u00eddame",
-      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2023-12-08 00:19:58",
@@ -931,6 +915,22 @@
       "duration_ms": 160533,
       "name": "La Flor Azul",
       "url": "https://open.spotify.com/track/0BRtjY6BHMic4e901yeGil"
+    },
+    {
+      "added_at": "2023-12-08 00:19:58",
+      "album": {
+        "name": "Sof\u00e1",
+        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 264053,
+      "name": "Cu\u00eddame",
+      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
     },
     {
       "added_at": "2023-12-08 00:19:58",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-12-08 00:19:58",
       "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
-    },
-    {
-      "added_at": "2023-12-08 00:19:58",
-      "album": {
         "name": "Ojos de R\u00edo",
         "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
       },
@@ -1315,22 +1299,6 @@
       "duration_ms": 136512,
       "name": "Ojos de R\u00edo",
       "url": "https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs"
-    },
-    {
-      "added_at": "2023-12-08 00:19:58",
-      "album": {
-        "name": "BIG BANG",
-        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 183131,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
     },
     {
       "added_at": "2023-12-08 00:19:58",
@@ -1351,18 +1319,50 @@
     {
       "added_at": "2023-12-08 00:19:58",
       "album": {
-        "name": "Desapego",
-        "url": "https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi"
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
       },
       "artists": [
         {
-          "name": "Purahei Soul",
-          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
         }
       ],
-      "duration_ms": 218827,
-      "name": "Desapego",
-      "url": "https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN"
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2023-12-08 00:19:58",
+      "album": {
+        "name": "BIG BANG",
+        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 183131,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2023-12-08 00:19:58",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 196044,
+      "name": "Nunca Quise",
+      "url": "https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx"
     },
     {
       "added_at": "2023-12-08 00:19:58",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-12-08 00:19:58",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg"
+        "name": "Desapego",
+        "url": "https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Purahei Soul",
+          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
         }
       ],
-      "duration_ms": 196044,
-      "name": "Nunca Quise",
-      "url": "https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx"
+      "duration_ms": 218827,
+      "name": "Desapego",
+      "url": "https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN"
     },
     {
       "added_at": "2023-12-08 00:19:58",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-12-08 00:19:58",
       "album": {
-        "name": "Tren Al Sur",
-        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
       },
       "artists": [
         {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 235982,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

@@ -1,28 +1,28 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 72337,
+  "num_followers": 72351,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTRkY2UxMDgzMDA5ZThlM2M5NjFmYzI0NTA4NmZhYWVhZWFiMDkz",
+  "snapshot_id": "MCwxZTUxMzJhZGQ3MjIyYTUzZTBiMGNkMDU5MzY5ZjM3NjE0NDI2MWEw",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+        "name": "Mosaikk (16 Biter)",
+        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
       },
       "artists": [
         {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
         }
       ],
-      "duration_ms": 266328,
-      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+      "duration_ms": 233291,
+      "name": "N\u00e5r himmelen faller ned",
+      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -43,18 +43,18 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Mosaikk (16 Biter)",
-        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
       },
       "artists": [
         {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 233291,
-      "name": "N\u00e5r himmelen faller ned",
-      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Svarte Skyer",
+        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
+      },
+      "artists": [
+        {
+          "name": "Hanne S\u00f8rvaag",
+          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
+        }
+      ],
+      "duration_ms": 180328,
+      "name": "Svarte Skyer",
+      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "P\u00e5 vei",
-        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "P\u00e5 vei",
-      "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Alle Snakker Sant",
         "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 168373,
       "name": "Alle Snakker Sant",
       "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "P\u00e5 vei",
+        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "P\u00e5 vei",
+      "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -575,22 +591,6 @@
       "duration_ms": 219088,
       "name": "Kj\u00e6rlighetsvisa",
       "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Svarte Skyer",
-        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
-      },
-      "artists": [
-        {
-          "name": "Hanne S\u00f8rvaag",
-          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
-        }
-      ],
-      "duration_ms": 180328,
-      "name": "Svarte Skyer",
-      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Jeg er en by",
+        "url": "https://open.spotify.com/album/196A7L4UDQrAI08K9qTCE2"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "Jeg er en by",
+      "url": "https://open.spotify.com/track/6j97FYSITizHL50hD5Q5n5"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Evig kvile",
         "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 254680,
       "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
       "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Jeg er en by",
-        "url": "https://open.spotify.com/album/196A7L4UDQrAI08K9qTCE2"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "Jeg er en by",
-      "url": "https://open.spotify.com/track/6j97FYSITizHL50hD5Q5n5"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Flyge Fra",
-        "url": "https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9"
-      },
-      "artists": [
-        {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "Ved Sida Av Deg",
-      "url": "https://open.spotify.com/track/5kebMyBE7ZTMnHZh6RaoSm"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "De Beste",
         "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
       },
@@ -827,6 +811,26 @@
       "duration_ms": 239586,
       "name": "Mysteriet deg",
       "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Han er ikkje deg",
+        "url": "https://open.spotify.com/album/5AAbIbS9ob9hXok5nOZ1Qw"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 154444,
+      "name": "Han er ikkje deg",
+      "url": "https://open.spotify.com/track/7cRsdtV7gS336CqQwgRM4M"
     },
     {
       "added_at": "2023-11-30 23:00:00",

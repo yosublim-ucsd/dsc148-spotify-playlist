@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-436 songs - 1 day 7 hr 21 min
+437 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Psyche](https://open.spotify.com/track/3yk6KVpcmIlIYgam4WBPoN) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Psyche](https://open.spotify.com/album/46PO9WQMuvpGbqNP2E6Mx2) | 5:09 | 2021-05-07 | 2022-04-21 |
 | [Radiant](https://open.spotify.com/track/1iyxxUxyptXWtEdRXRBeda) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Radiant](https://open.spotify.com/album/3t5CejWFtZFsh5P6TfnM41) | 3:05 | 2021-11-05 | 2022-07-23 |
 | [Radiation](https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Metaphysical](https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM) | 3:30 | 2022-10-28 | 2023-07-06 |
+| [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 | 2023-12-08 |  |
 | [Rave](https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Rave](https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG) | 4:48 | 2023-07-28 |  |
 | [Ray](https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [This Time / Ray](https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO) | 6:54 | 2022-07-01 | 2023-02-18 |
 | [Ray](https://open.spotify.com/track/3rDUDqgWlSYBrI86la2C8f) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [This Time / Ray](https://open.spotify.com/album/0Vr1hA0OG4hvKjd9ssWCgL) | 6:54 | 2021-05-07 | 2022-07-26 |
@@ -399,7 +400,7 @@
 | [Trechter](https://open.spotify.com/track/6fJuBz3USd1yPzmMLtouE2) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Ondertitel](https://open.spotify.com/album/3tapqXnaQbQkFNEXQ3PFfC) | 6:48 | 2022-01-28 | 2022-07-29 |
 | [Turning Away](https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Turning Away](https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c) | 4:04 | 2022-07-22 |  |
 | [Twin Souls](https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Twin Souls](https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm) | 4:29 | 2021-05-07 | 2023-05-13 |
-| [Twisted Reality \- Edit](https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Twisted Reality \(Edit\)](https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg) | 3:27 | 2021-09-17 |  |
+| [Twisted Reality \- Edit](https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Twisted Reality \(Edit\)](https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg) | 3:27 | 2021-09-17 | 2023-12-10 |
 | [U CANT STOP ME NOW](https://open.spotify.com/track/7frTfDcziY9MJKaxh9o2cB) | [Mandaworld](https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3) | [U CANT STOP ME NOW](https://open.spotify.com/album/7usNqMOvyt0qBKCoJvGaJu) | 3:02 | 2023-03-31 | 2023-05-23 |
 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 | 2023-08-18 |  |
 | [Ultraviolet \(2022\)](https://open.spotify.com/track/46iNTZ0LIKZEBOqzXHA9sE) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [Ultraviolet \(2022\)](https://open.spotify.com/album/4346HSVfG9ZOESnoWDYWfH) | 3:42 | 2022-02-04 | 2022-07-27 |

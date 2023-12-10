@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 12712,
+  "num_followers": 12726,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzljZDk0MWJjZGJjMDIyNGI1MjYxZjZhM2UxOTVjNzg2YjZiZjM2",
+  "snapshot_id": "MCw3MzM3NTA4ODVmNmZkZTYyMmFjMGNjMDI4ZDM2YTc5YmM1MGE0Zjg4",
   "tracks": [
     {
       "added_at": "2023-11-04 06:04:29",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
+        "name": "DRAMATIC",
+        "url": "https://open.spotify.com/album/121hzDPacQ66zpqcLw3ZSX"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Summer Night You and I",
+      "url": "https://open.spotify.com/track/7m1PHy5AiA2Y2VEkCvVGzY"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
         "name": "Sweet Kiss Like Coffee",
         "url": "https://open.spotify.com/album/2UShff7ibk9SW5BuaMsXE5"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 234705,
       "name": "Sweet Kiss Like Coffee",
       "url": "https://open.spotify.com/track/2M0c6RddlHFOHPKwxfqMlW"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "DRAMATIC",
-        "url": "https://open.spotify.com/album/121hzDPacQ66zpqcLw3ZSX"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Summer Night You and I",
-      "url": "https://open.spotify.com/track/7m1PHy5AiA2Y2VEkCvVGzY"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Summer Festa",
-        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "Summer Festa",
-      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
+        "name": "Summer Festa",
+        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Summer Festa",
+      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 254000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -495,38 +511,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "i and i",
-        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "i and i",
-      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
-      },
-      "artists": [
-        {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "What Should I do",
         "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
@@ -539,22 +523,6 @@
       "duration_ms": 267893,
       "name": "What Should I do",
       "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
-        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
-      },
-      "artists": [
-        {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
-        }
-      ],
-      "duration_ms": 219939,
-      "name": "beautiful inside",
-      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -579,6 +547,38 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
+        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 219939,
+      "name": "beautiful inside",
+      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "i and i",
+        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "i and i",
+      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
         "name": "PLAYLIST (Original Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
       },
@@ -591,6 +591,42 @@
       "duration_ms": 281000,
       "name": "Like a Bird",
       "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "You don't have to say anything (I already know)",
+        "url": "https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Kang Seungwon",
+          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
+        }
+      ],
+      "duration_ms": 265459,
+      "name": "You don't have to say anything (I already know)",
+      "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "To My Friend",
+      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -623,42 +659,6 @@
       "duration_ms": 171500,
       "name": "a story to tell (Original Ver.)",
       "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "To My Friend",
-      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "You don't have to say anything (I already know)",
-        "url": "https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Kang Seungwon",
-          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
-        }
-      ],
-      "duration_ms": 265459,
-      "name": "You don't have to say anything (I already know)",
-      "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -763,8 +763,8 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Mm Mm",
-        "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
+        "name": "Seoul Check-in OST Part 8",
+        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
       },
       "artists": [
         {
@@ -772,9 +772,25 @@
           "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 174946,
-      "name": "Mm Mm - Acoustic Version",
-      "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
+      "duration_ms": 178758,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
+      },
+      "artists": [
+        {
+          "name": "Jo eunsae",
+          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+        }
+      ],
+      "duration_ms": 207998,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -795,22 +811,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 245870,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "My Little Thought",
         "url": "https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
       },
       "artists": [
         {
-          "name": "Jo eunsae",
-          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 207998,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
+      "duration_ms": 245870,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

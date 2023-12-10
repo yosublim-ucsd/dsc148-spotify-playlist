@@ -1464,10 +1464,32 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 206760,
       "name": "Warm Jamaican Christmas",
       "url": "https://open.spotify.com/track/60aWxtMGD2eHPNJPxJ9nae"
+    },
+    {
+      "album": {
+        "name": "Warm Jamaican Christmas",
+        "url": "https://open.spotify.com/album/0Q7ATQbWchMJ6q2v1O77gt"
+      },
+      "artists": [
+        {
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+        },
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "Warm Jamaican Christmas",
+      "url": "https://open.spotify.com/track/6UNafF4pyLMcbU8PEoH1DN"
     },
     {
       "album": {

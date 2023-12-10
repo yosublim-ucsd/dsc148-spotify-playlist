@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,808 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,902 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 50 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
 | 51 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
 | 52 | [I Don't Know Why](https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/4uQKSajaSAXIcf9RzvbHa9) | 3:24 |
-| 53 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
+| 53 | [Party Dress](https://open.spotify.com/track/0N2cfvsgB5FiMwHBmheXu9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/0SO1c2tJd1cdbNlxM2W4sY) | 3:14 |
 | 54 | [Absence](https://open.spotify.com/track/1oXNjzF8RrQdo8hxqdKMhK) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Absence](https://open.spotify.com/album/2oFNbvHPWWaEIAzYJliGfW) | 2:56 |
 | 55 | [Glued](https://open.spotify.com/track/78qClqEjmVk8pn6hdiy32z) | [Josie Oliver](https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan) | [Glued](https://open.spotify.com/album/1oxco2A76wN3FMT98QBbUS) | 3:16 |
 | 56 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Breathe](https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp) | 3:02 |
 | 80 | [Lava Lamps](https://open.spotify.com/track/5uxGfABpJl3ZlrpwKL45Bh) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Lava Lamps](https://open.spotify.com/album/45zGYTaMmmAXbYhfVFQcMk) | 2:53 |
 
-Snapshot ID: `MCwxMzg2N2U4NDM4NDAyOGZlNThmN2E0ZWFmMzNjNjdmMGMxY2YxZGMx`
+Snapshot ID: `MCwxZTUxMDlkZDQwM2IwMmVlZGUwNGE5MzY3N2VhMDg5MDU2NTU1OWE1`

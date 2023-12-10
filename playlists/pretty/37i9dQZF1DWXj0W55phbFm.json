@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 43177,
+  "num_followers": 43255,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDFjODA4MmM4MmMzM2FhYjZjNjk2ZDc2ZTJiYjRhZjgxY2ZjNGFh",
+  "snapshot_id": "MCxhOTliNTYxYjNlOWIzMGFjNzg3ZGU1ZDkwYjk3NjI5NjAwMGY0ZmI5",
   "tracks": [
     {
       "added_at": "2023-12-07 15:43:53",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
-        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong & His Hot Five",
-          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/1yvkKwvTiQmq0Saw1quM9l"
-    },
-    {
-      "added_at": "2023-12-07 15:43:53",
-      "album": {
         "name": "The Touch Of Your Lips",
         "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
       },
@@ -539,22 +523,18 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
-        "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
-        "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
+        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Louis Armstrong & His Hot Five",
+          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Mood Indigo - 1990 Remaster",
-      "url": "https://open.spotify.com/track/1Fo98RNzO78WnMtkZKZXMW"
+      "duration_ms": 198733,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/1yvkKwvTiQmq0Saw1quM9l"
     },
     {
       "added_at": "2023-12-07 15:43:53",
@@ -575,6 +555,26 @@
       "duration_ms": 734764,
       "name": "Solea",
       "url": "https://open.spotify.com/track/07EI4s3foxxuMdQTkk6MZA"
+    },
+    {
+      "added_at": "2023-12-07 15:43:53",
+      "album": {
+        "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
+        "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Mood Indigo - 1990 Remaster",
+      "url": "https://open.spotify.com/track/1Fo98RNzO78WnMtkZKZXMW"
     },
     {
       "added_at": "2023-12-07 15:43:53",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
-        "name": "Number Five",
-        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 394506,
-      "name": "Journey to the Stars",
-      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
-    },
-    {
-      "added_at": "2023-12-07 15:43:53",
-      "album": {
         "name": "Diane",
         "url": "https://open.spotify.com/album/0FNrlhmr94IAOIFCNCvoDp"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 436426,
       "name": "If I should lose you",
       "url": "https://open.spotify.com/track/37YN6evH0mNQjgyvKPXJcy"
+    },
+    {
+      "added_at": "2023-12-07 15:43:53",
+      "album": {
+        "name": "Number Five",
+        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "duration_ms": 394506,
+      "name": "Journey to the Stars",
+      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
     },
     {
       "added_at": "2023-12-07 15:43:53",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
+        "name": "Towards Language",
+        "url": "https://open.spotify.com/album/7KasSjd80yub7wdciH7G52"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        }
+      ],
+      "duration_ms": 336138,
+      "name": "Groundswell",
+      "url": "https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D"
+    },
+    {
+      "added_at": "2023-12-07 15:43:53",
+      "album": {
         "name": "Dona Nostra",
         "url": "https://open.spotify.com/album/5ld8MkClrbCUoPIud5B80N"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
-        "name": "Towards Language",
-        "url": "https://open.spotify.com/album/7KasSjd80yub7wdciH7G52"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        }
-      ],
-      "duration_ms": 336138,
-      "name": "Groundswell",
-      "url": "https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D"
-    },
-    {
-      "added_at": "2023-12-07 15:43:53",
-      "album": {
         "name": "The Complete Verve Studio Sessions",
         "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
       },
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 336266,
+      "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
+    },
+    {
+      "added_at": "2023-12-07 15:43:53",
+      "album": {
         "name": "Daylight Express",
         "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
         }
       ],
-      "duration_ms": 336266,
-      "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
+      "duration_ms": 357213,
+      "name": "I'll Close My Eyes",
+      "url": "https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq"
     },
     {
       "added_at": "2023-12-07 15:43:53",
@@ -1135,22 +1151,6 @@
       "duration_ms": 363360,
       "name": "Russian Melody",
       "url": "https://open.spotify.com/track/0tBaZxoxjql6D3LF0sOJ0r"
-    },
-    {
-      "added_at": "2023-12-07 15:43:53",
-      "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
-        }
-      ],
-      "duration_ms": 357213,
-      "name": "I'll Close My Eyes",
-      "url": "https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq"
     },
     {
       "added_at": "2023-12-07 15:43:53",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
-      },
-      "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        }
-      ],
-      "duration_ms": 479266,
-      "name": "Jacob's Ladder",
-      "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
-    },
-    {
-      "added_at": "2023-12-07 15:43:53",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 285800,
       "name": "Instigator",
       "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
+    },
+    {
+      "added_at": "2023-12-07 15:43:53",
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "duration_ms": 479266,
+      "name": "Jacob's Ladder",
+      "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
     },
     {
       "added_at": "2023-12-07 15:43:53",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
-        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
-        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
+        "name": "A Rift In Decorum: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
       },
       "artists": [
         {
-          "name": "Howard McGhee",
-          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
         }
       ],
-      "duration_ms": 250173,
-      "name": "Tranquillity - Remastered 1998",
-      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
+      "duration_ms": 337893,
+      "name": "Response - Live",
+      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
     },
     {
       "added_at": "2023-12-07 15:43:53",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
-        "name": "A Rift In Decorum: Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
+        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
+        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
       },
       "artists": [
         {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+          "name": "Howard McGhee",
+          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
         }
       ],
-      "duration_ms": 337893,
-      "name": "Response - Live",
-      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
+      "duration_ms": 250173,
+      "name": "Tranquillity - Remastered 1998",
+      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
     },
     {
       "added_at": "2023-12-07 15:43:53",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
+        "name": "Gemini II",
+        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
+      },
+      "artists": [
+        {
+          "name": "Marcus Belgrave",
+          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
+        }
+      ],
+      "duration_ms": 337040,
+      "name": "Gemini II",
+      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
+    },
+    {
+      "added_at": "2023-12-07 15:43:53",
+      "album": {
         "name": "Simply Stated",
         "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
       },
@@ -1523,26 +1539,6 @@
       "duration_ms": 600493,
       "name": "Dear Old Stockholm",
       "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
-    },
-    {
-      "added_at": "2023-12-07 15:43:53",
-      "album": {
-        "name": "Brecker Plays Rovatti - Sacred Bond",
-        "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
-      },
-      "artists": [
-        {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
-        },
-        {
-          "name": "Ada Rovatti",
-          "url": "https://open.spotify.com/artist/6s4lAYJTKRSqrFer1WBRTW"
-        }
-      ],
-      "duration_ms": 632253,
-      "name": "The Baggae",
-      "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
     },
     {
       "added_at": "2023-12-07 15:43:53",
@@ -1571,38 +1567,6 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
-        "name": "Big Brass",
-        "url": "https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM"
-      },
-      "artists": [
-        {
-          "name": "Benny Bailey",
-          "url": "https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb"
-        }
-      ],
-      "duration_ms": 422480,
-      "name": "Tipsy",
-      "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
-    },
-    {
-      "added_at": "2023-12-07 15:43:53",
-      "album": {
-        "name": "Gemini II",
-        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
-      },
-      "artists": [
-        {
-          "name": "Marcus Belgrave",
-          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
-        }
-      ],
-      "duration_ms": 337040,
-      "name": "Gemini II",
-      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
-    },
-    {
-      "added_at": "2023-12-07 15:43:53",
-      "album": {
         "name": "The Reason Why Vol. 3",
         "url": "https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4"
       },
@@ -1619,6 +1583,42 @@
       "duration_ms": 533573,
       "name": "Trance Dance",
       "url": "https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO"
+    },
+    {
+      "added_at": "2023-12-07 15:43:53",
+      "album": {
+        "name": "Brecker Plays Rovatti - Sacred Bond",
+        "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
+      },
+      "artists": [
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        },
+        {
+          "name": "Ada Rovatti",
+          "url": "https://open.spotify.com/artist/6s4lAYJTKRSqrFer1WBRTW"
+        }
+      ],
+      "duration_ms": 632253,
+      "name": "The Baggae",
+      "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
+    },
+    {
+      "added_at": "2023-12-07 15:43:53",
+      "album": {
+        "name": "Big Brass",
+        "url": "https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM"
+      },
+      "artists": [
+        {
+          "name": "Benny Bailey",
+          "url": "https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb"
+        }
+      ],
+      "duration_ms": 422480,
+      "name": "Tipsy",
+      "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
     },
     {
       "added_at": "2023-12-07 15:43:53",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
-        "name": "Byrd's Eye View",
-        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 603293,
-      "name": "El Sino",
-      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
-    },
-    {
-      "added_at": "2023-12-07 15:43:53",
-      "album": {
         "name": "Payton's Place",
         "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 429666,
       "name": "Concentric Circles",
       "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
+    },
+    {
+      "added_at": "2023-12-07 15:43:53",
+      "album": {
+        "name": "Byrd's Eye View",
+        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 603293,
+      "name": "El Sino",
+      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
     },
     {
       "added_at": "2023-12-07 15:43:53",
@@ -1771,6 +1771,30 @@
     {
       "added_at": "2023-12-07 15:43:53",
       "album": {
+        "name": "One Of Many",
+        "url": "https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wheeler",
+          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
+        },
+        {
+          "name": "John Taylor",
+          "url": "https://open.spotify.com/artist/0o9WWL7JAXnjjvUNyPwWTF"
+        },
+        {
+          "name": "Steve Swallow",
+          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
+        }
+      ],
+      "duration_ms": 359746,
+      "name": "Aneba",
+      "url": "https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL"
+    },
+    {
+      "added_at": "2023-12-07 15:43:53",
+      "album": {
         "name": "Beiderbecke, Bix: Bix Lives! (1926-1930)",
         "url": "https://open.spotify.com/album/01az1OLEIgEIRt7bi5Hfnj"
       },
@@ -1807,30 +1831,6 @@
       "duration_ms": 426480,
       "name": "Paul's Pal - Rudy Van Gelder Edition/Digital Remaster/2006",
       "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
-    },
-    {
-      "added_at": "2023-12-07 15:43:53",
-      "album": {
-        "name": "One Of Many",
-        "url": "https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wheeler",
-          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
-        },
-        {
-          "name": "John Taylor",
-          "url": "https://open.spotify.com/artist/0o9WWL7JAXnjjvUNyPwWTF"
-        },
-        {
-          "name": "Steve Swallow",
-          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
-        }
-      ],
-      "duration_ms": 359746,
-      "name": "Aneba",
-      "url": "https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL"
     },
     {
       "added_at": "2023-12-07 15:43:53",

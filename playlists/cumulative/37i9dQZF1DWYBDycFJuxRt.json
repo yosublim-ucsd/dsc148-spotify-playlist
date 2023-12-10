@@ -9751,6 +9751,24 @@
     },
     {
       "album": {
+        "name": "CHRISTMAS SPIRIT &SWEET HARMONY",
+        "url": "https://open.spotify.com/album/5pT2fiPF2gwfge0CSmS3xn"
+      },
+      "artists": [
+        {
+          "name": "Miho Fukuhara",
+          "url": "https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307324,
+      "name": "CHRISTMAS SPIRIT",
+      "url": "https://open.spotify.com/track/2JXTOSVdTmQYI3I3BaNAte"
+    },
+    {
+      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/4mx7Oh2UAGhqSZB8s3gbHp"
       },
@@ -41850,8 +41868,8 @@
       },
       "artists": [
         {
-          "name": "ako",
-          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
         }
       ],
       "date_added": "2023-12-06",

@@ -4,7 +4,7 @@
 
 > Escucha lo mejor del pop electrónico en español.
 
-107 songs - 6 hr 36 min
+108 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [PARQUE DE LA COSTA](https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [MAÑANA ES PEOR :\(](https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd) | 3:45 | 2023-09-08 |  |
 | [Pervertida](https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [Pervertida](https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK) | 2:29 | 2023-10-26 |  |
 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 | 2023-09-08 |  |
+| [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 | 2023-12-07 |  |
 | [Quién Me Escucha](https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Quién Me Escucha](https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V) | 3:18 | 2023-09-08 |  |
 | [Rayo Eléctrico](https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Rayo Eléctrico](https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs) | 4:18 | 2023-09-08 |  |
 | [RESPIRAR](https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [RESPIRAR](https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai) | 2:25 | 2023-09-08 |  |
@@ -103,7 +104,7 @@
 | [Trampa](https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM) | [Nan Que](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc), [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Trampa](https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL) | 3:03 | 2023-09-08 |  |
 | [TRIP](https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [TRIP](https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh) | 2:55 | 2023-09-08 |  |
 | [TU SI K TA LOKO](https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TU SI K TA LOKO](https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0) | 2:50 | 2023-09-08 |  |
-| [Una Hora para Verte](https://open.spotify.com/track/0mXS6S5ZxUCiUZLZgz6qTO) | [Max Tejera](https://open.spotify.com/artist/58kI4cP6MQccdJq0tU4gXa) | [Una Hora para Verte](https://open.spotify.com/album/38Aye9SVpQxuZXTktavk7q) | 3:07 | 2023-11-17 |  |
+| [Una Hora para Verte](https://open.spotify.com/track/0mXS6S5ZxUCiUZLZgz6qTO) | [Max Tejera](https://open.spotify.com/artist/58kI4cP6MQccdJq0tU4gXa) | [Una Hora para Verte](https://open.spotify.com/album/38Aye9SVpQxuZXTktavk7q) | 3:07 | 2023-11-17 | 2023-12-10 |
 | [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 | 2023-11-17 |  |
 | [Vamo a Darle](https://open.spotify.com/track/4rW2KfMNxdyNsLlaOYWXh3) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Vamo a Darle](https://open.spotify.com/album/6c4s8phsGiEogUFEntAZiT) | 4:18 | 2023-09-08 |  |
 | [Viuda Negra](https://open.spotify.com/track/1iT5jMsGoXWKm1CNwna2kf) | [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [SAETA](https://open.spotify.com/album/2xqdV2npgZXiowXCAYwd2Y) | 3:18 | 2023-09-08 |  |

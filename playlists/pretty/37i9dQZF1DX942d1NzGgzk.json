@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Essosa ",
-  "num_followers": 136235,
+  "num_followers": 136271,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTI1MTAzOGEyZWMzMzc2YTMyZGRkYjVkYTE2NjQ0OTkwNDIyYzhk",
+  "snapshot_id": "MCw1ZDAyMWNjMzM1MDIyYzQxMDk4YmUyYTdkMmQxMWM5ODNhOTcxNTE4",
   "tracks": [
     {
       "added_at": "2023-11-24 03:09:54",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/5hf83mN1IFFHq3JYTJZLeE"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
         }
       ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+      "duration_ms": 180731,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/5hf83mN1IFFHq3JYTJZLeE"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
       "artists": [
         {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 180731,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9"
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 236236,
-      "name": "Go Baby",
-      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "Is It A Crime? EP",
         "url": "https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 142041,
       "name": "Is It A Crime?",
       "url": "https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 236236,
+      "name": "Go Baby",
+      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
         "name": "THERAPY",
         "url": "https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 298720,
       "name": "Paper Thin",
       "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
+        "name": "sore loser (Acoustic)",
+        "url": "https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "sore loser - Acoustic",
+      "url": "https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
         "name": "Immature",
         "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "sore loser (Acoustic)",
-        "url": "https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam"
+        "name": "It Only Cost Everything",
+        "url": "https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl"
       },
       "artists": [
         {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 131253,
-      "name": "sore loser - Acoustic",
-      "url": "https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx"
+      "duration_ms": 148146,
+      "name": "It Only Cost Everything",
+      "url": "https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
       },
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "It Only Cost Everything",
-        "url": "https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf"
       },
       "artists": [
         {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 148146,
-      "name": "It Only Cost Everything",
-      "url": "https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T"
+      "duration_ms": 171133,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 252053,
-      "name": "Sun, Moon & Herbs",
-      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0"
       },
@@ -807,18 +787,22 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
         }
       ],
-      "duration_ms": 162767,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b"
+      "duration_ms": 252053,
+      "name": "Sun, Moon & Herbs",
+      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -887,6 +871,22 @@
       "duration_ms": 174588,
       "name": "Not My Job",
       "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "BARE SUGAR",
-        "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        },
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 155728,
-      "name": "long stay (feat. Bakar)",
-      "url": "https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "As You Are - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc"
       },
@@ -1011,26 +991,6 @@
       "duration_ms": 221493,
       "name": "As You Are - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Shaybo",
-          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
-        }
-      ],
-      "duration_ms": 201942,
-      "name": "Bussdown (feat. Shaybo)",
-      "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -1055,6 +1015,26 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Shaybo",
+          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
+        }
+      ],
+      "duration_ms": 201942,
+      "name": "Bussdown (feat. Shaybo)",
+      "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
         "name": "EL-MEAN",
         "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 251501,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "BARE SUGAR",
+        "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        },
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 155728,
+      "name": "long stay (feat. Bakar)",
+      "url": "https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W"
     }
   ],
   "unique_name": "R&B UK",

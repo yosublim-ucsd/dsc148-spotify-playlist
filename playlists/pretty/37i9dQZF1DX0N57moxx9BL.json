@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 141499,
+  "num_followers": 141554,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDlhNDRhOTFhY2M0NGEzOWU0ZjQ3OGQ4YjM1MWE5ZDNiMWQzMTZh",
+  "snapshot_id": "MCw2NDM5NjBhZDkzODQ3YzIxZmE5MjZjMTczZGZmODU2NGM1ZGNiZWI4",
   "tracks": [
     {
       "added_at": "2023-11-17 22:08:15",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Three Nails",
-        "url": "https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc"
-      },
-      "artists": [
-        {
-          "name": "Set for the Fall",
-          "url": "https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr"
-        }
-      ],
-      "duration_ms": 210511,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
         "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 194721,
       "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
       "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Three Nails",
+        "url": "https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc"
+      },
+      "artists": [
+        {
+          "name": "Set for the Fall",
+          "url": "https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr"
+        }
+      ],
+      "duration_ms": 210511,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -515,18 +515,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Stronger Than Death",
-        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
+        "name": "Love Letter Kill Shot",
+        "url": "https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM"
       },
       "artists": [
         {
-          "name": "Zahna",
-          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        },
+        {
+          "name": "Andrew Schwab",
+          "url": "https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc"
         }
       ],
-      "duration_ms": 222967,
-      "name": "Promise You're Coming Home",
-      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
+      "duration_ms": 269733,
+      "name": "Panic Room (featuring Andrew Schwab)",
+      "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -547,22 +551,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Love Letter Kill Shot",
-        "url": "https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM"
+        "name": "Stronger Than Death",
+        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
       },
       "artists": [
         {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        },
-        {
-          "name": "Andrew Schwab",
-          "url": "https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc"
+          "name": "Zahna",
+          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
         }
       ],
-      "duration_ms": 269733,
-      "name": "Panic Room (featuring Andrew Schwab)",
-      "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
+      "duration_ms": 222967,
+      "name": "Promise You're Coming Home",
+      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "I'm Living Righteous",
-        "url": "https://open.spotify.com/album/0ciyefHKuOKaPFTmMStdea"
+        "name": "The Executioner",
+        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
       },
       "artists": [
         {
-          "name": "Alex Jean",
-          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
         }
       ],
-      "duration_ms": 160000,
-      "name": "I'm Living Righteous",
-      "url": "https://open.spotify.com/track/1nxEUqqYeq2UCObsrZ30y4"
+      "duration_ms": 247124,
+      "name": "The Executioner",
+      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "The Executioner",
-        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
+        "name": "Dark Cold Night",
+        "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
       },
       "artists": [
         {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
         }
       ],
-      "duration_ms": 247124,
-      "name": "The Executioner",
-      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
+      "duration_ms": 281117,
+      "name": "Dark Cold Night",
+      "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -843,6 +843,38 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "I'm Living Righteous",
+        "url": "https://open.spotify.com/album/0ciyefHKuOKaPFTmMStdea"
+      },
+      "artists": [
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "I'm Living Righteous",
+      "url": "https://open.spotify.com/track/1nxEUqqYeq2UCObsrZ30y4"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Promise to Live",
+        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 293538,
+      "name": "Promise to Live",
+      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "All That Matters",
         "url": "https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5"
       },
@@ -859,18 +891,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Dark Cold Night",
-        "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
+        "name": "Surviving The Wasteland",
+        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
       },
       "artists": [
         {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
         }
       ],
-      "duration_ms": 281117,
-      "name": "Dark Cold Night",
-      "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
+      "duration_ms": 198500,
+      "name": "Surviving The Wasteland",
+      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -895,22 +927,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Surviving The Wasteland",
-        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Surviving The Wasteland",
-      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Barbarians (Live)",
         "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 382125,
       "name": "Chariots - Live",
       "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "The Covering",
-        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
-      },
-      "artists": [
-        {
-          "name": "Random Hero",
-          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
-        }
-      ],
-      "duration_ms": 206288,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Promise to Live",
-        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
       "artists": [
         {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+          "name": "Random Hero",
+          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
         }
       ],
-      "duration_ms": 293538,
-      "name": "Promise to Live",
-      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
+      "duration_ms": 206288,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 186849,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Colorblind",
         "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Future Golden Age",
-        "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
       "artists": [
         {
-          "name": "Fallstar",
-          "url": "https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST"
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Radio (NW Hesh)",
-      "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
+      "duration_ms": 186849,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1067,6 +1051,22 @@
       "duration_ms": 201851,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Future Golden Age",
+        "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
+      },
+      "artists": [
+        {
+          "name": "Fallstar",
+          "url": "https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Radio (NW Hesh)",
+      "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Acoustic - EP",
-        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
       },
       "artists": [
         {
-          "name": "Decyfer Down",
-          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
         }
       ],
-      "duration_ms": 239552,
-      "name": "Burn Back the Sun",
-      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
+        "name": "Acoustic - EP",
+        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
       },
       "artists": [
         {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+          "name": "Decyfer Down",
+          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
         }
       ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
+      "duration_ms": 239552,
+      "name": "Burn Back the Sun",
+      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "What Are You Waiting For",
-        "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
-      },
-      "artists": [
-        {
-          "name": "Futur",
-          "url": "https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9"
-        }
-      ],
-      "duration_ms": 199252,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Honor & Glory",
         "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
       },
@@ -1347,22 +1331,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "No Fear In Love",
-        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
+        "name": "What Are You Waiting For",
+        "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
       },
       "artists": [
         {
-          "name": "WorshipMob",
-          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
-        },
-        {
-          "name": "White Flag",
-          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
+          "name": "Futur",
+          "url": "https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9"
         }
       ],
-      "duration_ms": 515318,
-      "name": "No Fear In Love",
-      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+      "duration_ms": 199252,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1383,6 +1363,26 @@
       "duration_ms": 237522,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "No Fear In Love",
+        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
+      },
+      "artists": [
+        {
+          "name": "WorshipMob",
+          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
+        },
+        {
+          "name": "White Flag",
+          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
+        }
+      ],
+      "duration_ms": 515318,
+      "name": "No Fear In Love",
+      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Blood of the Son",
-        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
       },
       "artists": [
         {
-          "name": "Brother Hamm",
-          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+          "name": "Audacious Worship",
+          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
         }
       ],
-      "duration_ms": 340000,
-      "name": "Blood of the Son",
-      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
+      "duration_ms": 211906,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
     }
   ],
   "unique_name": "Top Christian Rock",

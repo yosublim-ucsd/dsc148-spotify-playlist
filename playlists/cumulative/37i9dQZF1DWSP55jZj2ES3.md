@@ -4,7 +4,7 @@
 
 > Indie jams that sound like lounging under the sun with friends.
 
-283 songs - 16 hr 16 min
+284 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Carmelyzed Crusade](https://open.spotify.com/track/3tImDQPxlfiyxl26gvgUeY) | [Apricot Ink](https://open.spotify.com/artist/1G1wiJFW17GKtPfxUNLPhJ) | [Lucky Rainbow](https://open.spotify.com/album/7xuc387nlJfCm4sxjiMi0Y) | 2:09 | 2021-10-26 | 2022-07-29 |
 | [Caroline](https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:29 | 2022-07-28 |  |
 | [Ce Soir](https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Ce Soir](https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl) | 2:42 | 2022-09-09 | 2023-04-06 |
+| [Cleaner Air](https://open.spotify.com/track/3Sgn4aKqN08OvNlE421SqP) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Cleaner Air](https://open.spotify.com/album/2JAbq9m4RsGqPFRIB7s7q5) | 2:08 | 2023-09-16 |  |
 | [Cleaner Air](https://open.spotify.com/track/7vQn8AxjCnao6q9oe7YTG9) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Cleaner Air](https://open.spotify.com/album/4Xo5ZlQcMcw3k0WOCbEKmZ) | 2:08 | 2023-09-16 | 2023-11-24 |
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-01-19 | 2023-03-20 |
 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 | 2023-01-19 | 2023-09-16 |
@@ -152,7 +153,7 @@
 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 | 2022-07-28 | 2023-09-16 |
 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 | 2022-03-29 | 2022-10-13 |
 | [Luvaroq](https://open.spotify.com/track/3oRwReVMtEUrQTFlwm0v09) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/4XIQJ95bBKkckzNdWjGMnq) | 3:40 | 2022-07-18 | 2022-10-13 |
-| [Luvaroq](https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 3:40 | 2022-07-28 |  |
+| [Luvaroq](https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 3:40 | 2022-07-28 | 2023-12-10 |
 | [Maple Syrup Tears](https://open.spotify.com/track/1yfkJLkJuhVxZf7d4OqARc) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/24n0t3wZV2NWGp0gZhdygu) | 3:13 | 2021-10-26 | 2022-07-29 |
 | [Maple Syrup Tears](https://open.spotify.com/track/5t7VNXoXW1CYjSZNO1jziH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/2enxw36RLbDfhKytuzHbOJ) | 3:13 | 2022-07-28 | 2023-05-11 |
 | [Marcel](https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 3:07 | 2021-10-26 |  |

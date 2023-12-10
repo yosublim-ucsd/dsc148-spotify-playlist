@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 
 > Get moving with these family\-friendly dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066 likes - 43 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067 likes - 43 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 4 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 3:13 |
 | 5 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 6 | [The Git Up](https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12) | 3:20 |
-| 7 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |
-| 8 | [Y.M.C.A.](https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Cruisin'](https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG) | 4:46 |
+| 7 | [Y.M.C.A.](https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Cruisin'](https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG) | 4:46 |
+| 8 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |
 | 9 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 |
 | 10 | [The Twist](https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Dancin' Party: The Chubby Checker Collection \(1960\-1966\)](https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY) | 2:35 |
 | 11 | [The Hokey Pokey](https://open.spotify.com/track/4aiELSmheCgsRIxvuOckBU) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 6: Fun Baby Songs](https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP) | 2:24 |
-| 12 | [Party Freeze Dance Song](https://open.spotify.com/track/5n5IxMcG2oV8IOzklsW6Vd) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Freeze Dance Songs for Learning](https://open.spotify.com/album/3d2Swul1tNBo1PSXdwfOGU) | 2:08 |
-| 13 | [The Loco\-Motion](https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:13 |
+| 12 | [The Loco\-Motion](https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:13 |
+| 13 | [Party Freeze Dance Song](https://open.spotify.com/track/5n5IxMcG2oV8IOzklsW6Vd) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Freeze Dance Songs for Learning](https://open.spotify.com/album/3d2Swul1tNBo1PSXdwfOGU) | 2:08 |
 | 14 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
 | 15 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 1:30 |
 | 16 | [Casper Cha\-Cha Slide \(Live Platinum Band\)](https://open.spotify.com/track/0AaEbPXWdeiW6MbW80Eibj) | [Casper & Col'ta](https://open.spotify.com/artist/3mWhHh5X42WmVx7Hku1zc3) | [The Slide Album](https://open.spotify.com/album/3KoYKWvKJrI6T0n5D5PTCS) | 6:27 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 21 | [The BeeeeeOOP Walk](https://open.spotify.com/track/0FEeadvRW7DD4s7RvfPuFs) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [The BeeeeeOOP Walk](https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie) | 2:18 |
 | 22 | [Dance Silly](https://open.spotify.com/track/7jY4Uj5MaWxxhswF96X65F) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/4Kd1PKvFJR37T0PL7fTn84) | 3:04 |
 | 23 | [MOVE YOUR BODY](https://open.spotify.com/track/2vp7HOVvYo7Z5ZqCAuRCli) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [MOVE YOUR BODY](https://open.spotify.com/album/0mPdAgH86rN9Yt48HrpnOG) | 2:06 |
-| 24 | [Conga!](https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:32 |
-| 25 | [Watch Me \(Whip / Nae Nae\)](https://open.spotify.com/track/2bQJ43ZimZo5FkVMhxXcv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:35 |
+| 24 | [Watch Me \(Whip / Nae Nae\)](https://open.spotify.com/track/2bQJ43ZimZo5FkVMhxXcv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:35 |
+| 25 | [Conga!](https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:32 |
 | 26 | [Dance Mode](https://open.spotify.com/track/6jy21QZaTpS9UgXnWW0ADd) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [The BeeeeeOOP Walk](https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie) | 1:58 |
 | 27 | [Electric Slide](https://open.spotify.com/track/0VhsAybZAPC1O1oEpmOTvU) | [Electric Slide Music Makers](https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe) | [Electric Slide: with friends...](https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8) | 3:57 |
 | 28 | [Macarena \(Bayside Boys Remix\) \- Remasterizado](https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Macarena Christmas \(Remasterizado\)](https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx) | 3:47 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 42 | [Bounce! Bounce!](https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:06 |
 | 43 | [Stomp & Clap Dance](https://open.spotify.com/track/2MqNNuzgYmoTBMbylhF2Wm) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Stomp & Clap Dance](https://open.spotify.com/album/0jeMm22JOSNZl6l2UYHuFd) | 2:30 |
 
-Snapshot ID: `MCw0N2FhYmY1NzJkNmRlYTE0ZDAzNDRhZjNjZDRlNzU2ZDhiZDZhNzcy`
+Snapshot ID: `MCwyNzY1MThjMmEyZGJkNTIyZTk0OGI1YzE3YjI4NDhhY2M3ZWNjMGM0`

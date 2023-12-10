@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296407,
+  "num_followers": 296399,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDdjOTk3MjMzNzFmNzI5YWY2NGI2YTc0MDJmNThjOWRlNTQyMjY0",
+  "snapshot_id": "MCxjYWMzMGNmYjc1YmVhNmJmMmEwZTE0MmY3Y2I3ZTc4ZWY0NDJhNDBm",
   "tracks": [
     {
       "added_at": "2023-10-25 14:30:59",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Take Off Your Pants And Jacket",
-        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Anthem Part Two",
-      "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+        "name": "Take Off Your Pants And Jacket",
+        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
+      "duration_ms": 227200,
+      "name": "Anthem Part Two",
+      "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -463,6 +447,22 @@
       "duration_ms": 215601,
       "name": "Hold Me Like a Grudge",
       "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Bad Vibrations (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 200676,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Hats Off to the Bull",
         "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 218560,
       "name": "Face to the Floor",
       "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Bad Vibrations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Sci-Fi Crimes",
-        "url": "https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Jars",
-      "url": "https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Mechanical Bull (Expanded Edition)",
         "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "The Heroin Diaries Soundtrack",
-        "url": "https://open.spotify.com/album/2sHrTFehGvpj3sLoZn9ZBy"
+        "name": "Sci-Fi Crimes",
+        "url": "https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH"
       },
       "artists": [
         {
-          "name": "Sixx:A.M.",
-          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Life is Beautiful",
-      "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS"
+      "duration_ms": 199800,
+      "name": "Jars",
+      "url": "https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -783,6 +767,22 @@
       "duration_ms": 219360,
       "name": "Bitch Came Back",
       "url": "https://open.spotify.com/track/6kp8F9FpHXzjga2MeRDSG8"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "The Heroin Diaries Soundtrack",
+        "url": "https://open.spotify.com/album/2sHrTFehGvpj3sLoZn9ZBy"
+      },
+      "artists": [
+        {
+          "name": "Sixx:A.M.",
+          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Life is Beautiful",
+      "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 234848,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
         "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
         "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 189133,
       "name": "Blame It on the Boom Boom",
       "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
-        "name": "Only Revolutions",
-        "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 301080,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 301080,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/42wOkbQaZa1jnpBpUmk5Zv"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 209542,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 234848,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Head Up",
-        "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
+        "name": "Boom Boom Room (Side B)",
+        "url": "https://open.spotify.com/album/66DI08aLccnN1mHY3EUgZ8"
       },
       "artists": [
         {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
         }
       ],
-      "duration_ms": 169977,
-      "name": "Head Up",
-      "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
+      "duration_ms": 213394,
+      "name": "You'll Be Fine",
+      "url": "https://open.spotify.com/track/2oqEr1DHeyWIYTKBJej7WP"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Boom Boom Room (Side B)",
-        "url": "https://open.spotify.com/album/66DI08aLccnN1mHY3EUgZ8"
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
       },
       "artists": [
         {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 213394,
-      "name": "You'll Be Fine",
-      "url": "https://open.spotify.com/track/2oqEr1DHeyWIYTKBJej7WP"
+      "duration_ms": 169977,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
     },
     {
       "added_at": "2023-10-25 14:30:59",

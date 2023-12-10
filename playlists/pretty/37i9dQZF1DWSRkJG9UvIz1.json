@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 132249,
+  "num_followers": 132263,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzJmMzI5OTdhYmQ1MDBhOWY1Y2Q4MzdlNTQ3ODY0ZTM1ZDg4YTU4",
+  "snapshot_id": "MCxiMjE4YmQ5ZGI4M2FmMzY3YTRiODlhNzMzYWE5NTc4OTdkZWU4NjE5",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -79,6 +79,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "O Tempo \u00c9 Agora",
+        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Ai, Amor",
+      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 201263,
       "name": "Bossa No S\u00e9 (feat. Jean Carter)",
       "url": "https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "O Tempo \u00c9 Agora",
-        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 220566,
-      "name": "Ai, Amor",
-      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
-        }
-      ],
-      "duration_ms": 262281,
-      "name": "Caf\u00e9 Com Leite",
-      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 161357,
       "name": "O Velho e a Flor",
       "url": "https://open.spotify.com/track/2pmHap2uo6xNxxHTbu0R0A"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 208279,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/1SYDXvP1rahganh8t5plez"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Condom Black",
         "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+        "name": "Painted",
+        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 208279,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/1SYDXvP1rahganh8t5plez"
+      "duration_ms": 211945,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -683,22 +699,6 @@
       "duration_ms": 302333,
       "name": "For No One",
       "url": "https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Painted",
-        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 211945,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Bossanova",
-        "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
-      },
-      "artists": [
-        {
-          "name": "Zenon Pereyra",
-          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 201878,
-      "name": "Bossanova",
-      "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/22ltKhPdKZ4IuFrna73xPG"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 249000,
       "name": "Quem Tem Um Amigo (Tem Tudo)",
       "url": "https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Bossanova",
+        "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
+      },
+      "artists": [
+        {
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 201878,
+      "name": "Bossanova",
+      "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
     },
     {
       "added_at": "2023-06-23 03:00:00",

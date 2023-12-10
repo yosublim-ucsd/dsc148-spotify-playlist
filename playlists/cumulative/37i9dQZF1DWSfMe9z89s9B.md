@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Frex & Jordan Ward
 
-1,041 songs - 2 day 7 hr 35 min
+1,043 songs - 2 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2021-06-04 | 2022-07-27 |
 | [Good Mornin'](https://open.spotify.com/track/1pDOIIp3aHcabzH6lzEaef) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Good Mornin'](https://open.spotify.com/album/6cNLcpoIxjswd3ijVeiTRa) | 2:22 | 2022-07-15 | 2022-10-15 |
 | [Good Mornin'](https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Good Mornin'](https://open.spotify.com/album/64NvU8C9yzuAce13fu751Z) | 2:22 | 2022-07-15 | 2023-09-23 |
-| [Good News](https://open.spotify.com/track/2oXhUifLIC0brl2xFfjONm) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Good News](https://open.spotify.com/album/4c0gGmxV7oCRLp79PrebTe) | 3:03 | 2023-09-15 |  |
+| [Good News](https://open.spotify.com/track/2oXhUifLIC0brl2xFfjONm) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Good News](https://open.spotify.com/album/4c0gGmxV7oCRLp79PrebTe) | 3:03 | 2023-09-15 | 2023-12-10 |
 | [Good News](https://open.spotify.com/track/3p9zEhikB0h8QF3YbfNUcM) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Good News](https://open.spotify.com/album/1vCKYpbMa1kg52IoOiCtaM) | 2:41 | 2021-06-11 | 2021-12-31 |
 | [Good Things \(Remix\)](https://open.spotify.com/track/3linBtGF8ouzEncml6s2ux) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q), [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Good Things \(Remix\)](https://open.spotify.com/album/4rMkdfw5lunESFETaf4TsH) | 3:37 | 2022-11-25 | 2023-02-04 |
 | [Goodbye Paris](https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Goodbye Paris](https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ) | 3:45 | 2022-09-23 | 2023-02-04 |
@@ -457,6 +457,7 @@
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-20 | 2023-03-25 |
 | [I'll make it better](https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [I'll make it better](https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK) | 1:15 | 2022-11-11 | 2023-03-09 |
 | [i'm fine](https://open.spotify.com/track/3FiUsaCzKWi943pk0G9F0o) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [i'm fine](https://open.spotify.com/album/0gnssKPBCFAvjVhjAU74ca) | 1:40 | 2022-07-15 | 2022-08-20 |
+| [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 | 2023-12-08 |  |
 | [Icarus](https://open.spotify.com/track/58UVZ68VQiQ4EHeIIcX0gb) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Icarus](https://open.spotify.com/album/2pfKIrc0KoZvJ6DK7bLXbY) | 2:29 | 2021-03-19 | 2022-01-23 |
 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2023-08-25 | 2023-09-30 |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-21 | 2022-07-23 |
@@ -599,6 +600,7 @@
 | [moonlit room](https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [moonlit room](https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi) | 4:10 | 2022-05-13 | 2023-02-04 |
 | [MORAL](https://open.spotify.com/track/6wCDE1tpYcU7aPWkdxlJzt) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/3ThoYoeN8LuYrErKTM3qOg) | 2:45 | 2023-03-03 | 2023-03-25 |
 | [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2023-11-03 |  |
+| [Most High](https://open.spotify.com/track/3txGeotloGcxftsfILid6V) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Most High](https://open.spotify.com/album/5x0EMr3Ue2bH83CbLCm9n4) | 2:23 | 2023-12-08 |  |
 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 | 2022-01-14 | 2023-05-06 |
 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 | 2022-06-10 | 2022-07-30 |
 | [Motorbike](https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Motorbike](https://open.spotify.com/album/1E4NH1W98mv4PaD3tvf5B9) | 3:08 | 2021-05-14 | 2022-07-29 |
@@ -919,7 +921,7 @@
 | [Thot Thoughts](https://open.spotify.com/track/4Ry3HNrIC1C4TwYeeOkFD8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Thot Thoughts](https://open.spotify.com/album/2ark7dhcGnOGPNL8ukR5dM) | 3:34 | 2022-04-01 | 2022-04-13 |
 | [Thrive](https://open.spotify.com/track/0fuKweowW67sGmmuOp8GZW) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/0WWOl1EPBFsZq6HjQZmovl) | 2:10 | 2021-10-08 | 2022-01-27 |
 | [Through The Dark](https://open.spotify.com/track/4GlMuZ2gHZfAPxEji04pdA) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [YSRA](https://open.spotify.com/album/17Cq84vHnwuiTdVUc5DBGg) | 2:33 | 2022-07-15 |  |
-| [Tidal Wave](https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [songs people together \(extended\)](https://open.spotify.com/album/5fOtDWDnJqB2fZ4xJwdUMG) | 1:51 | 2023-06-09 |  |
+| [Tidal Wave](https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [songs people together \(extended\)](https://open.spotify.com/album/5fOtDWDnJqB2fZ4xJwdUMG) | 1:51 | 2023-06-09 | 2023-12-10 |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-04-01 | 2022-10-08 |
 | [Tightrope](https://open.spotify.com/track/4L9F956l8R1bKr2QLH9q1N) | [Olu Bliss](https://open.spotify.com/artist/678OPmqIs9qhpULpdD8T2h) | [Tightrope](https://open.spotify.com/album/4ZMibYwiTjtdstL2MjLb74) | 3:39 | 2021-06-04 | 2022-01-26 |
 | [Time](https://open.spotify.com/track/4DD7pNR3Q3wGCck3N58LbN) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Time](https://open.spotify.com/album/4JIqSYtTrU9W0p92QrjHrd) | 3:20 | 2023-05-05 |  |

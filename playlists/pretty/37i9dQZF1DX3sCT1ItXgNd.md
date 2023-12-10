@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: iñigo quintero
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,625 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,666 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 19 | [Sobreviviste](https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobreviviste](https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u) | 3:06 |
 | 20 | [No te enamores de él](https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [No te enamores de él](https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z) | 3:17 |
 | 21 | [Sobredosis](https://open.spotify.com/track/6TTkgmwbCnz8Y4oiUdzmtD) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Sobredosis](https://open.spotify.com/album/2CnZQxtqXpbo7qgbLuU0sd) | 2:36 |
-| 22 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
-| 23 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
+| 22 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
+| 23 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
 | 24 | [Dararí](https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:50 |
 | 25 | [Algo Sencillito](https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Algo Sencillito](https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm) | 2:57 |
 | 26 | [XQ Sigues Pasando :\(](https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [XQ Sigues Pasando :\(](https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz) | 3:34 |
-| 27 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 |
-| 28 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 |
-| 29 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 |
+| 27 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 |
+| 28 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 |
+| 29 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 |
 | 30 | [SUPERHÉROES](https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [SUPERHÉROES](https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt) | 3:20 |
 | 31 | [Sé lo Que Hicisteis](https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Sé lo Que Hicisteis](https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL) | 3:29 |
 | 32 | [Olvidé Olvidarte](https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Olvidé Olvidarte](https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P) | 3:01 |
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 37 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 |
 | 38 | [El Olor De Tu Pelo](https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [El Olor De Tu Pelo](https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1) | 2:43 |
 | 39 | [Puerta del Sol](https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Puerta del Sol](https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU) | 3:13 |
-| 40 | [Me Enamoro](https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 2:44 |
+| 40 | [Toxic Christmas](https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Toxic Christmas](https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD) | 3:19 |
 | 41 | [Hablando En Plata](https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Hablando En Plata](https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW) | 3:08 |
-| 42 | [cuando salto me duele](https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [cuando salto me duele](https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR) | 3:09 |
-| 43 | [PORTARSE MAL](https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [PORTARSE MAL](https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe) | 3:12 |
+| 42 | [Me Enamoro](https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 2:44 |
+| 43 | [cuando salto me duele](https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [cuando salto me duele](https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR) | 3:09 |
 | 44 | [Derecho a No Declarar](https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Derecho a No Declarar](https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B) | 2:26 |
-| 45 | [Toxic Christmas](https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Toxic Christmas](https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD) | 3:19 |
+| 45 | [PORTARSE MAL](https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [PORTARSE MAL](https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe) | 3:12 |
 | 46 | [PALANTE](https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj) | 2:26 |
 | 47 | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk) | 2:44 |
 | 48 | [Como Ayer](https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Como Ayer](https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe) | 2:37 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 57 | [MI BANDERA](https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:21 |
 | 58 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 |
 
-Snapshot ID: `MCxjN2Y3OTIxYWY2Y2EzMmU2MjZjOWI5MDlmZGNjODMzNDg0NmMyZDkz`
+Snapshot ID: `MCw3ZGUzMTU3ZmNhMzQ2MzFmODIxYmUwM2MxYmRiNjMwOGU2MmJiOGJj`

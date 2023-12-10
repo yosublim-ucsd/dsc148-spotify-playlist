@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,060 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,278 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 39 | [The Christmas Song](https://open.spotify.com/track/2gvlqDMOpGLjD6i5nfO89z) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Skyy](https://open.spotify.com/artist/3wWU0L0tv6eE813fHEYYMg), [Marcus](https://open.spotify.com/artist/6EBrS8EW4hv6N4kn0ufYUS) | [MTA2\-Baptized In Dirty Water](https://open.spotify.com/album/4Od0xWG7XWQxvNPdrIzf2A) | 4:09 |
 | 40 | [Nappy Holidays \(Stay a While\)](https://open.spotify.com/track/7L9g3VWFau7z2RFNJsIhwi) | [Nappy Roots](https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I) | [Nappy Holidays \(Stay a While\) \- Single](https://open.spotify.com/album/7MayuSvaAb2iB3DfHMCXwr) | 4:16 |
 | 41 | [Let It Snow](https://open.spotify.com/track/3CRgiQS75D6o8beYyzPPFf) | [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a) | [Let It Snow](https://open.spotify.com/album/43XazkhujlhFZk3WvD6WAq) | 2:30 |
-| 42 | [Warm Jamaican Christmas](https://open.spotify.com/track/60aWxtMGD2eHPNJPxJ9nae) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO), [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Warm Jamaican Christmas](https://open.spotify.com/album/3SwlJpUtODj1sV4TbjBWOM) | 3:26 |
+| 42 | [Warm Jamaican Christmas](https://open.spotify.com/track/6UNafF4pyLMcbU8PEoH1DN) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO), [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Warm Jamaican Christmas](https://open.spotify.com/album/0Q7ATQbWchMJ6q2v1O77gt) | 3:26 |
 | 43 | [Hustlaz Holiday](https://open.spotify.com/track/0GWLNSnKmzKcmTL2AGqeCb) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Church In These Streets](https://open.spotify.com/album/5RHakS5UXhhnyT96maP8ic) | 3:27 |
 | 44 | [Christmas Never Comes To The Hood](https://open.spotify.com/track/6KCIsZJM1ER6GAIG5EaKpB) | [OG Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Christmas Never Comes To The Hood](https://open.spotify.com/album/5T1Z4Gn4nWHoY4D6hqQr6A) | 3:14 |
 | 45 | [Nightshifts at Christmas](https://open.spotify.com/track/0ZufGxzMJcPHgQgxsWmIBb) | [Golden Rules](https://open.spotify.com/artist/0LvSG8k9YJF0fSevrndsR9) | [Nightshifts at Christmas](https://open.spotify.com/album/4qsa33pjwt2qTAWd34e8rB) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 49 | [Christmas At Swae’s](https://open.spotify.com/track/2uIJmDr8yFuq27JgZGAw7l) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Ear Drummers](https://open.spotify.com/artist/16b0RUDQWdrU5HYFKuFW98) | [Christmas At Swae’s](https://open.spotify.com/album/6Qx4jA6F8xTrAypkeaVUSk) | 3:46 |
 | 50 | [Bungecord Christmas](https://open.spotify.com/track/1aeQUlT3fNViIUNtimzgeK) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Bungecord Christmas](https://open.spotify.com/album/1TJY1i9QiyYIABj0cPN9po) | 2:09 |
 
-Snapshot ID: `MCxlYTVjZjBmMzI3ZjA4ZGFlZGFiYzE2Njc5OTIxMWRlYzFjOWIzNmFj`
+Snapshot ID: `MCwyOGUwZjRlZTU1ZDdhZWY0Yjg1ODA1ODJlOTBhNmQ4MWE5YTk0NjY4`

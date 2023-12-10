@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: HEALTH
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,427 likes - 67 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,515 likes - 67 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 66 | [Junod's Way](https://open.spotify.com/track/6Ku6jB02BMS8CXobauBlLl) | [Unlocked](https://open.spotify.com/artist/7qUiIkl6gCVuFmQlbTkV3n) | [Junod's Way](https://open.spotify.com/album/0goZV9SCSoENt4FksFgcMh) | 4:38 |
 | 67 | [Killing Floor](https://open.spotify.com/track/4aD1F7EEthPlwOB2kcq66t) | [Glower](https://open.spotify.com/artist/073IQy30gdvdbAzjn2VjMb) | [Gaunt Sun](https://open.spotify.com/album/3lIUsaPKaxelSAsPJF4BHg) | 1:59 |
 
-Snapshot ID: `MCwwYjcyYmY2NjI4Y2IwYjk4MGNiYzlmMTM2ZDgwYjY3MTY2MmZiNjcy`
+Snapshot ID: `MCw2MjBjMTMwYjRlZWZhZmJmOWFmZWRjYmQ4MDIwYTYxNGI5MDdmOTcy`

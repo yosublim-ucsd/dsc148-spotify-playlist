@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-227 songs - 13 hr 7 min
+228 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [FFVII REMAKE: エアバスター \(The Airbuster\)](https://open.spotify.com/track/639uuHc8GEMMW1UtcHqTmj) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 7:34 | 2021-05-21 | 2023-06-09 |
 | [FFVII REMAKE: エアリスのテーマ \-ただいま\- \(Aerith's Theme \- Home Again\)](https://open.spotify.com/track/4I4FvUjIimxJOUS7mJHQ4b) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 4:15 | 2021-05-21 | 2023-06-09 |
 | [FFVII REMAKE: ガードスコーピオン \(Scorpion Sentinel\)](https://open.spotify.com/track/5BddF0DpRH8civu6HEXWyv) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [島 翔太朗](https://open.spotify.com/artist/4edH5rHkxAdEiV56PcNQUq) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 7:10 | 2021-05-21 | 2023-06-09 |
+| [FFVII REMAKE: クラッシュボックス \(Whack\-a\-Box\)](https://open.spotify.com/track/7IIla7luNVBvMyb7vNLDri) | [石川 大樹](https://open.spotify.com/artist/3VWDLXwsN4H5YF755MmhnB), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:52 | 2023-07-06 |  |
 | [FFVII REMAKE: クレイジーモーターサイクル \-行くぜ野郎ども\- \(Lay Down Some Rubber \- Let's Ride\)](https://open.spotify.com/track/6RPvYRSqPIxamuBFN8iJ8s) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 5:09 | 2023-06-09 | 2023-07-28 |
 | [FFVII REMAKE: グロウガイスト \(Ghoul\)](https://open.spotify.com/track/5cV4tTVdcgnqfQc19m612K) | [西木康智](https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 7:22 | 2023-06-08 | 2023-10-22 |
 | [FFVII REMAKE: コルネオ・コロッセオ \(Corneo Colosseum\)](https://open.spotify.com/track/7egCvXyzA13lgoXgGS5F0t) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:59 | 2023-07-06 | 2023-11-21 |
@@ -179,7 +180,7 @@
 | [Welcome Home \- Journey's End](https://open.spotify.com/track/3ZVxYtrVRxQ4Om1BTprcAV) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/5QbqDDyMFltIvMZaMnUyH9) | 3:19 | 2021-05-21 | 2022-07-29 |
 | [Welcome Home \- Journey's End](https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau) | 3:19 | 2021-05-21 | 2023-06-09 |
 | [Why \(CCFFVII Mix\)](https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 2:15 | 2023-06-08 |  |
-| [World Map](https://open.spotify.com/track/63oTkgAeAr2FxrKBtIzkL0) | [Masaharu Iwata](https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 0:53 | 2023-07-06 |  |
+| [World Map](https://open.spotify.com/track/63oTkgAeAr2FxrKBtIzkL0) | [Masaharu Iwata](https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 0:53 | 2023-07-06 | 2023-12-10 |
 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 | 2023-06-08 | 2023-09-27 |
 | [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 | 2023-06-08 |  |
 | [Zanarkand](https://open.spotify.com/track/5NP9bhvIp2XGY3Xl0ICAub) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:04 | 2021-05-21 |  |

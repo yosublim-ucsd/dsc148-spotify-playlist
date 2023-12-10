@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: LANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,137 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,168 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 5 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 |
 | 6 | [SHOZEN](https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [SHOZEN](https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9) | 3:43 |
 | 7 | [Getting Ready](https://open.spotify.com/track/5fCc8BqZJpPkVNZFXsMxDl) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Getting Ready](https://open.spotify.com/album/1jIMDnp4hR7eYZa1KzftSv) | 3:11 |
-| 8 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 |
+| 8 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 |
 | 9 | [Kind of](https://open.spotify.com/track/40HlZlt8wxkIhd9sMFJ68I) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Kind of](https://open.spotify.com/album/27tShaiDUhC6KeszVy0PSZ) | 3:04 |
 | 10 | [utatane](https://open.spotify.com/track/2gIyLzwAB0kagC7WwQaGWy) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/7i4NY6tlCB2YvAJnmIyuod) | 3:01 |
 | 11 | [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 |
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 26 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 |
 | 27 | [Ai need your love](https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai need your love](https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw) | 3:46 |
 | 28 | [Calm](https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 3:55 |
-| 29 | [Bleed My Heart](https://open.spotify.com/track/3SmAzJCueHFkBw5ufINDkQ) | [Alisa](https://open.spotify.com/artist/27iFGBD5aaJB4GSsfYAoLW) | [Bleed My Heart](https://open.spotify.com/album/4pB3CoMAmxwYAPdRhlF4vi) | 3:10 |
-| 30 | [vanilla](https://open.spotify.com/track/54ogyAllu07li203RXAS1E) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [vanilla](https://open.spotify.com/album/7bKtCF6j2F2aQi9Tvsy99Q) | 2:41 |
-| 31 | [未成人](https://open.spotify.com/track/1QOHvuqSmCEPqRsEGvLgXD) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [未成人](https://open.spotify.com/album/3iLUblYEUlFp5A5RV6bTLe) | 4:01 |
-| 32 | [しょうがない](https://open.spotify.com/track/6knXRV59KfhPg7o1FkbDfQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [しょうがない](https://open.spotify.com/album/30fwOEXpsdBOnLQz5D5jbB) | 3:19 |
-| 33 | [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 |
-| 34 | [doll](https://open.spotify.com/track/4LbegEhpVETr2aAOoo6kP5) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/6DSelDneeVFEluC97trMur) | 3:33 |
-| 35 | [koi](https://open.spotify.com/track/6aR2Dy2Ur9TZ6PifgvJYFJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [koi](https://open.spotify.com/album/3kmSRwmaYAPQDBPkG3WZJL) | 3:16 |
+| 29 | [koi](https://open.spotify.com/track/6aR2Dy2Ur9TZ6PifgvJYFJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [koi](https://open.spotify.com/album/3kmSRwmaYAPQDBPkG3WZJL) | 3:16 |
+| 30 | [Bleed My Heart](https://open.spotify.com/track/3SmAzJCueHFkBw5ufINDkQ) | [Alisa](https://open.spotify.com/artist/27iFGBD5aaJB4GSsfYAoLW) | [Bleed My Heart](https://open.spotify.com/album/4pB3CoMAmxwYAPdRhlF4vi) | 3:10 |
+| 31 | [vanilla](https://open.spotify.com/track/54ogyAllu07li203RXAS1E) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [vanilla](https://open.spotify.com/album/7bKtCF6j2F2aQi9Tvsy99Q) | 2:41 |
+| 32 | [未成人](https://open.spotify.com/track/1QOHvuqSmCEPqRsEGvLgXD) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [未成人](https://open.spotify.com/album/3iLUblYEUlFp5A5RV6bTLe) | 4:01 |
+| 33 | [しょうがない](https://open.spotify.com/track/6knXRV59KfhPg7o1FkbDfQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [しょうがない](https://open.spotify.com/album/30fwOEXpsdBOnLQz5D5jbB) | 3:19 |
+| 34 | [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 |
+| 35 | [doll](https://open.spotify.com/track/4LbegEhpVETr2aAOoo6kP5) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/6DSelDneeVFEluC97trMur) | 3:33 |
 | 36 | [Eclipse](https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA) | 3:37 |
 | 37 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 |
 | 38 | [ユートピア](https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 2:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 79 | [Helter Skelter](https://open.spotify.com/track/75gtSkZ8ko4aiNysNRaWLc) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [Helter Skelter](https://open.spotify.com/album/03jk8TVKp0zhwochd99y6t) | 3:05 |
 | 80 | [Ride on a Dawn Train](https://open.spotify.com/track/38beTpJ8H27fvJTYO4SVHr) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [Ride on a Dawn Train](https://open.spotify.com/album/5epXRUHUcADonSmQZBRewU) | 4:40 |
 
-Snapshot ID: `MCw5ZjU2OGQ4Yjk4MjRiNGZjZjFmY2Y4YmFjZGQzYWY1ZTZkY2M4Y2Qw`
+Snapshot ID: `MCxmMjMwMThmMDE2MDM0MjU4NTA2ZGQ3M2IxMGQ0MzRiMWEwNGRmNDky`

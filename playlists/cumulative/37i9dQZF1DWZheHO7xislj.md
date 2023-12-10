@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-362 songs - 23 hr 26 min
+363 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,10 +149,11 @@
 | [I Want You](https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 4:34 | 2023-01-09 | 2023-06-28 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 | 2023-06-27 |  |
 | [I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:08 | 2023-06-27 |  |
-| [I'll Come Running Back \(Mr Scruff Edit\)](https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj) | [Sandra Wright](https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER) | [I'll Come Running Back \(Mr Scruff Edit\) \- Single](https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl) | 2:05 | 2023-01-09 |  |
+| [I'll Come Running Back \(Mr Scruff Edit\)](https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj) | [Sandra Wright](https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER) | [I'll Come Running Back \(Mr Scruff Edit\) \- Single](https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl) | 2:05 | 2023-01-09 | 2023-12-10 |
 | [I'll Never Fall in Love Again](https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [I'll Never Fall in Love Again](https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW) | 2:54 | 2023-01-09 | 2023-06-28 |
 | [I'll Never Love](https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 2:45 | 2023-05-23 | 2023-06-28 |
 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 | 2023-01-09 |  |
+| [I'm a Good Woman](https://open.spotify.com/track/4uPhgJrU9MlUy9LLK1Ls5E) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Movin' on a Groove \(The Crazy Cajun Recordings\)](https://open.spotify.com/album/5AxFLygDQa0lQyQM2O4jIZ) | 2:26 | 2023-08-15 |  |
 | [I'm About Loving You](https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4) | [Al Hudson](https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS), [Soul Partners](https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY) | [Playlist: The ATCO Singles](https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG) | 2:54 | 2023-01-09 |  |
 | [I'm Back for More](https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs) | [Al Johnson](https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA), [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Back for More](https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb) | 5:09 | 2023-01-09 |  |
 | [I'm Getting Ready](https://open.spotify.com/track/54QckpslekyZCIEanFk787) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 2:24 | 2023-06-27 |  |

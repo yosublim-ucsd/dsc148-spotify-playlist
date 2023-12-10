@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 88703,
+  "num_followers": 88728,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTU3MjkyZTU0M2FmZGE0ZGRiZmE5NDMzZWQzMjA0ZTI3YWVjZjVj",
+  "snapshot_id": "MCwwNTg0MDAyOGRkMWQwYmRiNTYyMzE3YjYzN2MwNjBjNzgwZGE1MzVm",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 263372,
-      "name": "Take The World",
-      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Chrysaline",
         "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 309354,
       "name": "Closer Than a Brother",
       "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 263372,
+      "name": "Take The World",
+      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Dragons",
         "url": "https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 241066,
       "name": "Jacob",
       "url": "https://open.spotify.com/track/1UecChUYn2gXqlA8dDVRqO"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Under Fire",
-        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
-      },
-      "artists": [
-        {
-          "name": "Green River Ordinance",
-          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "City of Black & White Revisited",
         "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 225837,
       "name": "City of Black & White",
       "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Under Fire",
+        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
+      },
+      "artists": [
+        {
+          "name": "Green River Ordinance",
+          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Souls",
+        "url": "https://open.spotify.com/album/6h8evmiksmB6ZAXzg2ebQR"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Riah",
+          "url": "https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/6Nqzq8LbkpcnykQ7i59Yqq"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
       },
@@ -863,22 +883,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Wildwood Kin",
-        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
-      },
-      "artists": [
-        {
-          "name": "Wildwood Kin",
-          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
-        }
-      ],
-      "duration_ms": 246686,
-      "name": "Wake Up Sleeper",
-      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Oh Dreamer",
         "url": "https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei"
       },
@@ -891,6 +895,22 @@
       "duration_ms": 204440,
       "name": "Oh Dreamer",
       "url": "https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Wildwood Kin",
+        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
+      },
+      "artists": [
+        {
+          "name": "Wildwood Kin",
+          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
+        }
+      ],
+      "duration_ms": 246686,
+      "name": "Wake Up Sleeper",
+      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -959,22 +979,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "One Wild Life",
-        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
-      },
-      "artists": [
-        {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Good As Gone",
         "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
       },
@@ -987,6 +991,22 @@
       "duration_ms": 239400,
       "name": "Good As Gone",
       "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "One Wild Life",
+        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1087,22 +1107,6 @@
       "duration_ms": 172088,
       "name": "Power Over Me",
       "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
-      },
-      "artists": [
-        {
-          "name": "Daniella Mason",
-          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N"
     }
   ],
   "unique_name": "Good People Good Music",

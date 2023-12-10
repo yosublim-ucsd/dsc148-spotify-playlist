@@ -2698,7 +2698,7 @@
           "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
         },
         {
-          "name": "House Of Shem",
+          "name": "House of Shem",
           "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
         }
       ],
@@ -3076,6 +3076,28 @@
       "duration_ms": 201388,
       "name": "Old Soul",
       "url": "https://open.spotify.com/track/3O62JLR1ab2K0RYZXanQfd"
+    },
+    {
+      "album": {
+        "name": "One Day Soon (feat. Josey Wales)",
+        "url": "https://open.spotify.com/album/1MUV7xH6xhqAFuVzOuuBNG"
+      },
+      "artists": [
+        {
+          "name": "F.Y.A.H.",
+          "url": "https://open.spotify.com/artist/4mRKEfgXtRtIWeidQ1JSWV"
+        },
+        {
+          "name": "Josey Wales",
+          "url": "https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258172,
+      "name": "One Day Soon (feat. Josey Wales)",
+      "url": "https://open.spotify.com/track/2QMRbLnOeCfuGXRZcdJ9if"
     },
     {
       "album": {
@@ -3970,7 +3992,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 223000,
       "name": "Sky Way",
       "url": "https://open.spotify.com/track/0VpJsmh0WGBthUjVinfS3k"

@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: 羊文学 \*👉 <a href="https://spice.eplus.jp/articles/324394?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-4,257 songs - 10 day 18 hr 29 min
+4,258 songs - 10 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Choice](https://open.spotify.com/track/14vLQiD5BPqGUo72cJ3ONE) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Choice](https://open.spotify.com/album/1EuDLCs4gaDRUugmdzfRb4) | 3:51 | 2023-06-06 | 2023-06-08 |
 | [Choice](https://open.spotify.com/track/16av5XEj9HsVrdfbuicXF5) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Choice](https://open.spotify.com/album/47L62WQ7xaNkV45eLqB1Yr) | 3:51 | 2023-06-07 | 2023-06-14 |
 | [Choose for yourself](https://open.spotify.com/track/0gBL7umwsbrOXZPkbdQJeP) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [MY ARMS.](https://open.spotify.com/album/15kewSjPOqpMY3FUEYAQVq) | 4:07 | 2023-04-25 | 2023-05-03 |
+| [CHRISTMAS SPIRIT](https://open.spotify.com/track/2JXTOSVdTmQYI3I3BaNAte) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [CHRISTMAS SPIRIT &SWEET HARMONY](https://open.spotify.com/album/5pT2fiPF2gwfge0CSmS3xn) | 5:07 | 2023-12-09 |  |
 | [CINEMA](https://open.spotify.com/track/06oegyTaD09yOOy3kR0PFn) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [CINEMA](https://open.spotify.com/album/4mx7Oh2UAGhqSZB8s3gbHp) | 2:48 | 2023-07-11 | 2023-07-19 |
 | [Circle](https://open.spotify.com/track/54cKGQsQZN5SYdK3C4Npxw) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Circle](https://open.spotify.com/album/6uaQc25boGfgpNK38CEZwN) | 4:32 | 2023-02-07 | 2023-02-15 |
 | [Clair de Lune](https://open.spotify.com/track/5DuRmIUdmxCckOUScfD2aw) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Clair de Lune](https://open.spotify.com/album/76COmJUn5hbDl9a33aQCzL) | 3:35 | 2023-12-06 |  |
@@ -2148,7 +2149,7 @@
 | [Sakura super love \- Cover](https://open.spotify.com/track/7i4GnN5sHOylBh08r1FjZ1) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [Sakura super love \(Cover\)](https://open.spotify.com/album/03gR3zCL3SjNYkDtyLhpiT) | 4:50 | 2023-03-22 | 2023-03-29 |
 | [SAKURABA](https://open.spotify.com/track/4TXureskCAnZPU0s7O0jJP) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [SAKURABA](https://open.spotify.com/album/6QME5yM0epEYLeFnRNAFL7) | 2:54 | 2023-06-27 | 2023-07-05 |
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-08-29 | 2023-09-06 |
-| [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 | 2023-12-06 |  |
+| [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 | 2023-12-06 |  |
 | [samurai](https://open.spotify.com/track/7I8cqnhGcAvgGrZpQ9m0yC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal your heart](https://open.spotify.com/album/7DMwYGYZLwTPLhgPibhEkq) | 3:25 | 2023-12-05 | 2023-12-07 |
 | [sanagi \- Organic](https://open.spotify.com/track/0YXudnnclq6LulcCn24dVN) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [sanagi \(Organic\)](https://open.spotify.com/album/7CaR17aaqTKRaSrVzHOK7m) | 3:41 | 2023-10-31 | 2023-11-02 |
 | [sanagi \- Organic](https://open.spotify.com/track/4N9SLJHTrsjDlbJIGaooWP) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [sanagi \(Organic\)](https://open.spotify.com/album/5Qiqp6gxGwe7euvsi8JHsF) | 3:41 | 2023-11-01 | 2023-11-08 |

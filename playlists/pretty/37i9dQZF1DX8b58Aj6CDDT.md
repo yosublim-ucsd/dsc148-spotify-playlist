@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 
 > Las canciones alternativas que definieron el 2022 en Hispanoamérica\. Marilina Bertoldi y Javiera Mena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,492 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,495 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 18 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 |
 | 19 | [RAMONA FLOWERS](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAMONA FLOWERS](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 |
 | 20 | [Vamos A Olvidar](https://open.spotify.com/track/1M163jU3eaTObjYl1F3ANs) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu), [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd), [Las Negris](https://open.spotify.com/artist/3xDZdwGvLABCyWw3E17iUY) | [Vamos A Olvidar](https://open.spotify.com/album/5hcpTvIylEamZXDKeDkRNG) | 3:54 |
-| 21 | [Los niños del parque](https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Los Niños del Parque](https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf) | 3:17 |
-| 22 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 |
+| 21 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 |
+| 22 | [Los niños del parque](https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Los Niños del Parque](https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf) | 3:17 |
 | 23 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
-| 24 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
-| 25 | [No Me Querías Tanto](https://open.spotify.com/track/78O28x289DJcoRzZFWZN8l) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Tiene Que Ser Para Mí](https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK) | 3:07 |
+| 24 | [No Me Querías Tanto](https://open.spotify.com/track/78O28x289DJcoRzZFWZN8l) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Tiene Que Ser Para Mí](https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK) | 3:07 |
+| 25 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
 | 26 | [Un Cabrón Con Suerte](https://open.spotify.com/track/5I5bMqyGxlbiPljq6QwxPe) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Sobredosis De Amor](https://open.spotify.com/album/09VrjlJzEaaGrWNbeMHkvF) | 3:05 |
 | 27 | [Me Porto Bonito \- \(Post\-Punk\)](https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Me Porto Bonito \(Post\-Punk\)](https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy) | 3:00 |
 | 28 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 |
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 31 | [Charly García](https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Charly García](https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF) | 2:37 |
 | 32 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
 | 33 | [Bolero Triste](https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Triste](https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0) | 4:00 |
-| 34 | [Aquí](https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 2:52 |
-| 35 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
+| 34 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
+| 35 | [Aquí](https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 2:52 |
 | 36 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
 | 37 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
 | 38 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
-| 39 | [La Diferencia](https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [La Puerta Dorada](https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy) | 3:43 |
-| 40 | [MANTRA](https://open.spotify.com/track/5Y5Er1vwNsNIBaZikfprvg) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [MANTRA](https://open.spotify.com/album/2JV9QM9AuhNEA4kqqlZj6V) | 3:19 |
+| 39 | [MANTRA](https://open.spotify.com/track/5Y5Er1vwNsNIBaZikfprvg) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [MANTRA](https://open.spotify.com/album/2JV9QM9AuhNEA4kqqlZj6V) | 3:19 |
+| 40 | [La Diferencia](https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [La Puerta Dorada](https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy) | 3:43 |
 | 41 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
 | 42 | [Matizando](https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0GLE4CLio2Kj4fLoBrHOU4) | 3:34 |
 | 43 | [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 49 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
 | 50 | [Anhedonia](https://open.spotify.com/track/30fEEnt4lEo6oPQsi1vlNW) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3wTBXeIlfG8qeV1RQav0C2) | 3:44 |
 
-Snapshot ID: `MCw0YzM3YTEzNzI2YWQ5ZGQ2OTU5OGIyMmE3MDlhNWU4ZmM4YjNiNTBm`
+Snapshot ID: `MCxlNTE1MDYwNmQ2YjNkZDIyZThhNTJlYjVjMmZkZjg3YjJkN2M0Mjlj`

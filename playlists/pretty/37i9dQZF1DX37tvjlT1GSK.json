@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Julian Mercado en portada. ",
-  "num_followers": 742460,
+  "num_followers": 742552,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWU1OWRkNWEzZDlkNmQ2NjY2Yzk1OGI1ZjFhOGJlYjYxM2FlZWQ1",
+  "snapshot_id": "MCw0ZTYyMjkyZDI4ODkwMjhjNTc3NTU2Y2MzZThjY2ZiNzdhOTE1MTIx",
   "tracks": [
     {
       "added_at": "2023-12-04 23:47:36",
@@ -67,22 +67,18 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "El Azul",
-        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 187225,
-      "name": "El Azul",
-      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -107,18 +103,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "La V\u00edctima",
-        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
+        "name": "El Azul",
+        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 156345,
-      "name": "La V\u00edctima",
-      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
+      "duration_ms": 187225,
+      "name": "El Azul",
+      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "Modo DND",
         "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 220298,
       "name": "Modo DND",
       "url": "https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
-        "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 140983,
-      "name": "Me Acostumbre A Lo Bueno",
-      "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "Dijeron Que No La Iba Lograr",
         "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 162648,
       "name": "TRES BOTELLAS",
       "url": "https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -607,6 +607,38 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "Como Pancho Villa",
+        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Como Pancho Villa",
+      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
+        "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 140983,
+      "name": "Me Acostumbre A Lo Bueno",
+      "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "Dame Amor",
         "url": "https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs"
       },
@@ -663,18 +695,18 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "La Diabla",
-        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 172264,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+      "duration_ms": 212861,
+      "name": "LA CHERRY",
+      "url": "https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -695,38 +727,6 @@
       "duration_ms": 167988,
       "name": "EL HECHIZO",
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "Como Pancho Villa",
-        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Como Pancho Villa",
-      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 212861,
-      "name": "LA CHERRY",
-      "url": "https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "Corridos Tumbados",
+        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 259402,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 152186,
       "name": "Es Que Me Gustas - En Vivo",
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Corridos Tumbados",
-        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 259402,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Las Pacas",
-        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
-      },
-      "artists": [
-        {
-          "name": "Alame\u00f1os de la Sierra",
-          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
-        }
-      ],
-      "duration_ms": 281518,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "Tu Veneno Mortal, Vol. 2",
         "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 155125,
       "name": "Cuando T\u00fa Me Miras",
       "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Las Pacas",
+        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
+      },
+      "artists": [
+        {
+          "name": "Alame\u00f1os de la Sierra",
+          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
+        }
+      ],
+      "duration_ms": 281518,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "Una 45",
         "url": "https://open.spotify.com/album/0wc26q3gjwL5zJ3NFosd6I"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 113130,
       "name": "Una 45",
       "url": "https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 182073,
-      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "Seguimos Dejando Marca (En Vivo)",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 147781,
+      "name": "Gente Corriente - En Vivo",
+      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "Pal Amor Soy Malo",
         "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 202573,
       "name": "Qui\u00e9n Te Entiende",
       "url": "https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "Seguimos Dejando Marca (En Vivo)",
-        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 147781,
-      "name": "Gente Corriente - En Vivo",
-      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
-        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Hoy la Vi Con \u00c9l - En Vivo",
-      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "Unas M\u00edas y Otras Prestadas",
         "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 218709,
       "name": "Vete",
       "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Hoy la Vi Con \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Aunque No Te Pueda Ver",
-        "url": "https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Aunque No Te Pueda Ver",
-      "url": "https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "EL KARMA",
         "url": "https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 171749,
       "name": "EL KARMA",
       "url": "https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Aunque No Te Pueda Ver",
+        "url": "https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Aunque No Te Pueda Ver",
+      "url": "https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Los Envidiosos",
-        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181553,
-      "name": "Los Envidiosos",
-      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "Amor y Dolor (En Vivo)",
         "url": "https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 194626,
       "name": "Te Encontr\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Los Envidiosos",
+        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 181553,
+      "name": "Los Envidiosos",
+      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1915,6 +1915,22 @@
       "duration_ms": 173132,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "La Ni\u00f1a Del Instagram",
+        "url": "https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr"
+      },
+      "artists": [
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        }
+      ],
+      "duration_ms": 228893,
+      "name": "La Ni\u00f1a Del Instagram",
+      "url": "https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1987,22 +2003,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "La Ni\u00f1a Del Instagram",
-        "url": "https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr"
-      },
-      "artists": [
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "La Ni\u00f1a Del Instagram",
-      "url": "https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "Mi Todo",
         "url": "https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9"
       },
@@ -2015,6 +2015,22 @@
       "duration_ms": 241704,
       "name": "Mi Todo",
       "url": "https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "\u00bfqui\u00e9n dice?",
+        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 213647,
+      "name": "\u00bfqui\u00e9n dice?",
+      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -2035,22 +2051,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "La Original",
-        "url": "https://open.spotify.com/album/2ANuDURJDHtHMgiaJOaBGO"
-      },
-      "artists": [
-        {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
-        }
-      ],
-      "duration_ms": 137941,
-      "name": "La Original",
-      "url": "https://open.spotify.com/track/3py6gppNmac3Lt6dq81hbp"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "D\u00edganle A Mi Ex",
         "url": "https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi"
       },
@@ -2063,22 +2063,6 @@
       "duration_ms": 180659,
       "name": "D\u00edganle A Mi Ex",
       "url": "https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "\u00bfqui\u00e9n dice?",
-        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 213647,
-      "name": "\u00bfqui\u00e9n dice?",
-      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -2103,6 +2087,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "La Original",
+        "url": "https://open.spotify.com/album/2ANuDURJDHtHMgiaJOaBGO"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "duration_ms": 137941,
+      "name": "La Original",
+      "url": "https://open.spotify.com/track/3py6gppNmac3Lt6dq81hbp"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
       },
@@ -2115,6 +2115,22 @@
       "duration_ms": 183600,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Seguimos Dejando Marca (En Vivo)",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "Sal\u00ed Perdiendo - En Vivo",
+      "url": "https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -2155,38 +2171,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Seguimos Dejando Marca (En Vivo)",
-        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "Sal\u00ed Perdiendo - En Vivo",
-      "url": "https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "Ping\u00fcinos En La Cama",
-        "url": "https://open.spotify.com/album/64dPZjhrbfcXHBHLOavAIt"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 211033,
-      "name": "Ping\u00fcinos En La Cama",
-      "url": "https://open.spotify.com/track/1VtTXzI7Do7rzM8umR1bnq"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "Jal\u00e9 El Gatillo",
         "url": "https://open.spotify.com/album/5AMpx8jws7kO7Wn1JUBQnp"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 217953,
       "name": "Jal\u00e9 El Gatillo",
       "url": "https://open.spotify.com/track/4fkJJtagSrMW7XOY1uA874"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "\u00bfQu\u00e9 Pas\u00f3?",
+        "url": "https://open.spotify.com/album/6NFi8fT74C6x2sebQkcHG1"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Ar\u00e1mbula",
+          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
+        }
+      ],
+      "duration_ms": 199594,
+      "name": "\u00bfQu\u00e9 Pas\u00f3?",
+      "url": "https://open.spotify.com/track/4Cy74DGQEGNJFtjimJ6oSz"
     }
   ],
   "unique_name": "Sierre\u00f1o 2023",

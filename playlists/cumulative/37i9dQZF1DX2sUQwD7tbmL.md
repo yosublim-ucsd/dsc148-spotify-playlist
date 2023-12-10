@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-624 songs - 1 day 11 hr 17 min
+625 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Stories](https://open.spotify.com/track/2RZZTpMYCpb86ZMmrnAbe9) | [Refs](https://open.spotify.com/artist/7yxpGyw5CZPsrTPpkERpc4) | [Stories](https://open.spotify.com/album/4OuC5XWbbEuuo1Q7RetSLV) | 3:39 | 2021-05-01 | 2022-04-13 |
 | [strawberry chainsaw](https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:35 | 2023-08-25 |  |
 | [Strawberry Daydream](https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS) | 3:07 | 2023-05-05 | 2023-11-05 |
+| [Strawberry Daydream](https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4) | 3:07 | 2023-12-01 |  |
 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 | 2023-01-15 | 2023-04-15 |
 | [Stressed](https://open.spotify.com/track/6hvs3DIe8eG6IdhehKz31I) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Stressed](https://open.spotify.com/album/6ZxGRxOayLqvUjhQycTW5R) | 1:37 | 2021-05-01 | 2022-04-14 |
 | [Struttin'](https://open.spotify.com/track/2H9E0PO33ptbmhzzjuuUMk) | [Thumpasaurus](https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ) | [Thumpaverse](https://open.spotify.com/album/6TiyKWIDdKKdmxiZ9NttCG) | 3:48 | 2023-05-26 | 2023-09-30 |
@@ -560,7 +561,7 @@
 | [The Wall & I](https://open.spotify.com/track/3YopR9iqzcQei6l8DJ5Ylo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/6ogsolFc2FCmP8ru8fBfgQ) | 5:04 | 2021-05-01 | 2022-04-19 |
 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2023-01-03 |  |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-17 |  |
-| [They Don't Know Your Name](https://open.spotify.com/track/482uoS6QmO8B3ZOb7bUDDh) | [Andrey Azizov](https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq), [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [They Don't Know Your Name](https://open.spotify.com/album/1MOblqJ3ylSDJEAxP2kiGW) | 3:08 | 2023-09-29 |  |
+| [They Don't Know Your Name](https://open.spotify.com/track/482uoS6QmO8B3ZOb7bUDDh) | [Andrey Azizov](https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq), [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [They Don't Know Your Name](https://open.spotify.com/album/1MOblqJ3ylSDJEAxP2kiGW) | 3:08 | 2023-09-29 | 2023-12-10 |
 | [Things I Thought Were Mine](https://open.spotify.com/track/0Y8OIyvMvyTpEUhfLupDoh) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:13 | 2022-11-07 | 2023-09-30 |
 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 | 2021-05-01 | 2022-10-14 |
 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 | 2023-07-11 |  |

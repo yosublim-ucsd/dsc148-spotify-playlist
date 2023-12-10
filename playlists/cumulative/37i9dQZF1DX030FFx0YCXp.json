@@ -3542,10 +3542,28 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 265560,
       "name": "Stone in Love",
       "url": "https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI"
+    },
+    {
+      "album": {
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Stone in Love (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5LyFTf7KMD3CsRA7B5gzEm"
     },
     {
       "album": {

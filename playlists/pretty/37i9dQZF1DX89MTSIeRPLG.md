@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,455 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,501 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 3 | [Richer \(feat\. Polo G\)](https://open.spotify.com/track/0mehSdTadpXbHAWTrnrIXO) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 3:10 |
 | 4 | [One Of Dem Nights \(with Jhené Aiko\)](https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:23 |
 | 5 | [Top \(Remix\) feat\. Lil Durk](https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [In The Name Of Gee \(Still Most Hated\)](https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T) | 2:38 |
-| 6 | [Ok Cool](https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Ok Cool](https://open.spotify.com/album/3zifa4JgjBDFXzhq2e7Gom) | 2:57 |
-| 7 | [Handsome](https://open.spotify.com/track/6ioJIbTdQEpbvkTdPuwhF5) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Karma 3](https://open.spotify.com/album/5Z9H6gen4nUySpLZzKy2y0) | 2:53 |
+| 6 | [Handsome](https://open.spotify.com/track/6ioJIbTdQEpbvkTdPuwhF5) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Karma 3](https://open.spotify.com/album/5Z9H6gen4nUySpLZzKy2y0) | 2:53 |
+| 7 | [Ok Cool](https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Ok Cool](https://open.spotify.com/album/3zifa4JgjBDFXzhq2e7Gom) | 2:57 |
 | 8 | [No Love Lost](https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 1:46 |
 | 9 | [I Ain't Perfect \(feat\. Blxst\)](https://open.spotify.com/track/5Ak6oUUC0r1KfU2sPXkSa5) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 3:32 |
 | 10 | [No More Parties \- Remix](https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [No More Parties \(Remix\)](https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [Sunset](https://open.spotify.com/track/7mdIUcGgAWjX8jTnrTVhJ1) | [18veno](https://open.spotify.com/artist/36uT4b5dk9vfJ7GBLjtqBh) | [Pablo](https://open.spotify.com/album/7FkML5E2VcIEiGIP3zqYqs) | 2:04 |
 | 50 | [Bounty](https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Bounty](https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS) | 3:46 |
 
-Snapshot ID: `MCxmZTM5ZWZlODdjY2I3YjBhZmIxMzVjOWM0NTRjZjUwY2Y4NzdiOGVk`
+Snapshot ID: `MCwwYTk3NDJhMzlkNzQ0ZTdlODFlYzNmN2ZhYWY0MjU2YTMzNWU2YzY5`

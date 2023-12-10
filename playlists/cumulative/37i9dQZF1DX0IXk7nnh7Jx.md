@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:5Q8asiEUYLobc6DvKIsqOP">Claudia Isaki</a>
 
-471 songs - 1 day 4 hr 2 min
+472 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Blessed](https://open.spotify.com/track/7LcJx95sWXpqCMLxQJfhMM) | [Cade Kellam](https://open.spotify.com/artist/1GWnsRvGpSmKxHOjMQah4k), [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Blessed](https://open.spotify.com/album/5uB8oBoq451f7qp5e2bUei) | 4:02 | 2023-12-01 |  |
 | [Blessed Be](https://open.spotify.com/track/6UAirscqMkcpqlf63qE0V6) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [It Was Dark Until It Wasn't](https://open.spotify.com/album/1C2Qeps8nNNwlp8IakIpMe) | 4:25 | 2023-12-01 |  |
 | [Blood Stains](https://open.spotify.com/track/1PnHu4XNVWYhpHnFH2WOzW) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Blood Stains](https://open.spotify.com/album/6GXp3Vocn31MDHpQhg3d24) | 3:50 | 2023-11-03 |  |
-| [Boomerang](https://open.spotify.com/track/1D6A1gOwZaf5rZmV3XtmUL) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Boomerang](https://open.spotify.com/album/2dvR8zKSsYhmlzIFEIavqp) | 3:01 | 2023-12-01 |  |
+| [Boomerang](https://open.spotify.com/track/1D6A1gOwZaf5rZmV3XtmUL) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Boomerang](https://open.spotify.com/album/2dvR8zKSsYhmlzIFEIavqp) | 3:01 | 2023-12-01 | 2023-12-10 |
 | [Born Again](https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Home](https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1) | 4:31 | 2020-12-18 | 2023-02-19 |
 | [Bound](https://open.spotify.com/track/0rvhiH38OoFU2tHbImKjnz) | [K\. Gautier](https://open.spotify.com/artist/2kupt6LAQcK40T8wiVZl66) | [Bound](https://open.spotify.com/album/3UoTVPgtgTohKhOChgJga9) | 4:24 | 2020-12-18 | 2022-07-24 |
 | [Breathe](https://open.spotify.com/track/6o0LrwkjkSwN2LFxKknOmY) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Breathe](https://open.spotify.com/album/2Xdjo93noCuAF0Ev1yukt3) | 4:52 | 2020-12-18 | 2023-02-19 |
@@ -341,6 +341,7 @@
 | [Rushing](https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Rushing](https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS) | 3:17 | 2023-04-21 | 2023-06-13 |
 | [Sabbath](https://open.spotify.com/track/2ly8Ew4ToTagJhwprIenZp) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Watobi](https://open.spotify.com/artist/4STK5DXKwQn86PfOUZYAQj) | [Sabbath](https://open.spotify.com/album/5r6SrB9T6WNULWdkc1U516) | 3:32 | 2023-02-19 | 2023-12-02 |
 | [Safe](https://open.spotify.com/track/5ODnTtYMnow1nV6WIdS87j) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Welcome to Alive City](https://open.spotify.com/album/77MfLEjnam9cGd5mCRFqqt) | 3:19 | 2023-02-24 | 2023-12-02 |
+| [Safe](https://open.spotify.com/track/1mkANYnNwWgdBhC81QQdZz) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 3:10 | 2023-12-01 |  |
 | [Safe Place](https://open.spotify.com/track/1lfrvjChy9hYb0Jk3KF74m) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Safe Place](https://open.spotify.com/album/7z9GP8j5L4Yxzwub11vwpH) | 2:45 | 2023-08-04 |  |
 | [Safe Place](https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD) | [Pauline Zoe Park](https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T) | [Safe Place](https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx) | 3:31 | 2023-02-19 | 2023-08-05 |
 | [Salome & Saint Procula](https://open.spotify.com/track/2zmLBzrcJt2es39J8n98SE) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/3UIUny1GT2hwrj7mn0MdHi) | 4:21 | 2020-12-18 | 2022-07-24 |

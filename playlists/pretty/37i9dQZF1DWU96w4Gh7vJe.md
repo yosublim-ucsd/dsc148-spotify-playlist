@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,741 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,795 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 34 | [Oks Lang](https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Oks Lang](https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf) | 5:36 |
 | 35 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
 | 36 | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc) | 2:47 |
-| 37 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 |
-| 38 | [Bulong](https://open.spotify.com/track/5nMKJJ5Rl6X1yn58aVeICO) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Bulong](https://open.spotify.com/album/6anqXAk4NZxdkUwvpfUqsB) | 4:30 |
-| 39 | [Tulog Na](https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Dramachine](https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk) | 4:00 |
-| 40 | [Tagpuan](https://open.spotify.com/track/6pA9QdHAzg1cyG6I7xI7Ez) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp) | 4:20 |
-| 41 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 |
+| 37 | [Bulong](https://open.spotify.com/track/5nMKJJ5Rl6X1yn58aVeICO) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Bulong](https://open.spotify.com/album/6anqXAk4NZxdkUwvpfUqsB) | 4:30 |
+| 38 | [Tagpuan](https://open.spotify.com/track/6pA9QdHAzg1cyG6I7xI7Ez) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp) | 4:20 |
+| 39 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 |
+| 40 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 |
+| 41 | [Tulog Na](https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Dramachine](https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk) | 4:00 |
 | 42 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 |
 | 43 | [Ngiti](https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Ang Aking Awitin](https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ) | 3:32 |
 | 44 | [Balang Araw \- Single Version](https://open.spotify.com/track/2f0Z6I0fDfgDI3htl2RoTd) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Balang Araw](https://open.spotify.com/album/1WTaHQ1ulKruduEtwyRLDD) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 49 | [Till My Heartaches End \- From "The Significant Other"](https://open.spotify.com/track/5nWswD8icrEB76JAckDoxY) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Till My Heartaches End \(From "The Significant Other"\)](https://open.spotify.com/album/7KcUkMbUny7VAOzGjIkFhJ) | 4:16 |
 | 50 | [Kahit Di Mo Alam](https://open.spotify.com/track/6GIzDc4xBUeYHwubWwTrhC) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Kahit Di Mo Alam](https://open.spotify.com/album/1aUdCxhin4mQevKWVLrtNN) | 4:42 |
 
-Snapshot ID: `MCxmOTBmNjU4NDg4NDFmMDBiYjExYmU2ZjMxZmZiOGNlNzRhZDRmN2Qz`
+Snapshot ID: `MCxmZjBhNGFjYTM5ZmFhY2QwNzliNTAyMmNhYmI2MTdiNjI4ZTM4Njhj`

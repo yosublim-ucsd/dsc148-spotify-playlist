@@ -1,12 +1,12 @@
 {
   "description": "Spain without the S ",
-  "num_followers": 460329,
+  "num_followers": 460448,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTVhZDYyOGYxNzNjNGU3MzA5NGYyNDI2MGMxYWU2N2ViZTU3NjYw",
+  "snapshot_id": "MCw0MjkwMDk3ODgxODM2OTJiNzBiMDUxNGY0Mzg5YWQ5N2IxODk2MWYx",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
-        "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "I'm Just a Kid",
-      "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 169026,
       "name": "My Own Worst Enemy",
       "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
+        "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "I'm Just a Kid",
+      "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "A Lesson In Romantics",
-        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Jamie All Over",
-      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "The Silence In Black And White (Re-Issue)",
         "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "A Lesson In Romantics",
+        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+      "duration_ms": 216000,
+      "name": "Jamie All Over",
+      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 189373,
       "name": "crushcrushcrush",
       "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2023-12-06 16:35:19",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Drunk Enough To Dance",
-        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Girl All the Bad Guys Want",
-      "url": "https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 187696,
       "name": "The News",
       "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Drunk Enough To Dance",
+        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Girl All the Bad Guys Want",
+      "url": "https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Talon Of The Hawk",
+        "url": "https://open.spotify.com/album/0PDvD9PL4X7KSczUKmdV8x"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "duration_ms": 264676,
+      "name": "Twin Size Mattress",
+      "url": "https://open.spotify.com/track/4LKp7Whi6HvHCsBlftJr9m"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
         "url": "https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 168030,
       "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
       "url": "https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Talon Of The Hawk",
-        "url": "https://open.spotify.com/album/0PDvD9PL4X7KSczUKmdV8x"
-      },
-      "artists": [
-        {
-          "name": "The Front Bottoms",
-          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
-        }
-      ],
-      "duration_ms": 264676,
-      "name": "Twin Size Mattress",
-      "url": "https://open.spotify.com/track/4LKp7Whi6HvHCsBlftJr9m"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Bimbocore",
-        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
       "artists": [
         {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 142018,
-      "name": "Pink Panther",
-      "url": "https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6"
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     }
   ],
   "unique_name": "teen angst",

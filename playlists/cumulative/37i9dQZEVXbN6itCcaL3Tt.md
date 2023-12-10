@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,467 songs - 3 day 3 hr 17 min
+1,468 songs - 3 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,7 +613,7 @@
 | [KARATE KID](https://open.spotify.com/track/1H574tTk1yBXnDfdfW8woR) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [BIG BIG GIRL / KARATE KID](https://open.spotify.com/album/0wMT5TwEqLwYdOWVo1YNnv) | 1:57 | 2023-10-28 | 2023-10-30 |
 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Kontrast](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 | 2021-04-23 | 2021-06-18 |
 | [Każdy blok](https://open.spotify.com/track/7t6gTBdcXvmkaNX2uqvBxq) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Każdy blok](https://open.spotify.com/album/3SV9k4HTLyU3dSi70bD0Qc) | 3:26 | 2021-06-04 | 2021-07-18 |
-| [Każdy tylko nie ja](https://open.spotify.com/track/422qQPiaDdgzKSb7ZBKwwr) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8) | 3:29 | 2023-12-02 |  |
+| [Każdy tylko nie ja](https://open.spotify.com/track/422qQPiaDdgzKSb7ZBKwwr) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8) | 3:29 | 2023-12-02 | 2023-12-10 |
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-22 | 2022-05-28 |
 | [Ken i Barbie](https://open.spotify.com/track/7hWe6W45SjPUVd9voHlinL) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [<33](https://open.spotify.com/album/3nX8yqFelqnx29MHZ5Cdpi) | 2:10 | 2023-09-09 | 2023-09-11 |
 | [KETCHUP](https://open.spotify.com/track/1yiGGRGdHEc1F3jF5jEVmH) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf) | [RODZINNY BIZNES](https://open.spotify.com/album/1GabBOxzyUPjkELZE0b3HS) | 3:05 | 2022-12-18 | 2023-04-16 |
@@ -879,6 +879,7 @@
 | [NIE OTWIERAJ DRZWI](https://open.spotify.com/track/3xMn54eE8d34T9lcsuWLey) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [SecretiveSuicide](https://open.spotify.com/artist/16VLZykOWwmhqR60Y5n2z9) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 2:22 | 2023-11-18 | 2023-11-20 |
 | [Nie Teraz](https://open.spotify.com/track/4obnT7iTKdBDaG07Y7r6nq) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pułapka Na Motyle](https://open.spotify.com/album/5ccwNrkxoiG2WdO5oJ0kbQ) | 2:39 | 2021-04-18 | 2021-07-18 |
 | [Nie Wszystek Umrę](https://open.spotify.com/track/0SRumejv1N8h0qkQVwDl0S) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [amfisbena](https://open.spotify.com/album/3upcINUHzi2GNw8zXYMKz4) | 2:57 | 2022-01-15 | 2022-01-17 |
+| [Nie wypada](https://open.spotify.com/track/1G9GZAE3giQBPfAmeXXOYk) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC) | [Wersow Store](https://open.spotify.com/album/26HwXKDfV84xhaVLwQc9vo) | 2:12 | 2023-12-09 |  |
 | [Nie Z Tego Świata](https://open.spotify.com/track/21kOVKmv0AQXAzZpqZr3Ql) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [Nie Z Tego Świata](https://open.spotify.com/album/7F88VSdKUmDByWngDi6P6c) | 3:15 | 2022-08-13 | 2022-08-21 |
 | [Niech mówią](https://open.spotify.com/track/40qD9qMnp7tmYJeNfncjiv) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Niech mówią](https://open.spotify.com/album/0tYj94tcXmYtVwTE2IL0gY) | 2:40 | 2023-08-13 | 2023-09-12 |
 | [Niedziela](https://open.spotify.com/track/4mFhy52M8GY8N2h5tlqdhW) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh), [Borucci](https://open.spotify.com/artist/6g2jl1lzwac64Q6pAI2PEt), [Zeppy Zep](https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:25 | 2023-09-23 | 2023-10-07 |

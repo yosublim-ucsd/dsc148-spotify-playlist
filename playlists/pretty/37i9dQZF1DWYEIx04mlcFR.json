@@ -1,12 +1,12 @@
 {
   "description": "La nueva generaci\u00f3n del pop que defini\u00f3 el 2023 con RENEE en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 66716,
+  "num_followers": 66747,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGFjMTM1YWVkZTQzZWU2MGE0ZjFiMDYzNjUxNWUyMWM2YzIwYTRi",
+  "snapshot_id": "MCwxNmU5NDU3NmRiNWQwZDUwY2Q5M2JhNGNkYWQyMmE5Y2IwNDI2Y2Vm",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Como las Aves",
+        "url": "https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "Como las Aves",
+      "url": "https://open.spotify.com/track/7CKkmL3rfnchJtVvGuRoyH"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "te odio",
         "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
       },
@@ -423,6 +439,22 @@
       "duration_ms": 170126,
       "name": "te odio",
       "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Algo De Verdad",
+        "url": "https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "Algo De Verdad",
+      "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -443,22 +475,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Como las Aves",
-        "url": "https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "Como las Aves",
-      "url": "https://open.spotify.com/track/7CKkmL3rfnchJtVvGuRoyH"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Recuerdos de un amor",
         "url": "https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 210357,
       "name": "TQM",
       "url": "https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Algo De Verdad",
-        "url": "https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "Algo De Verdad",
-      "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Desamor Feliz Pt. 2",
-        "url": "https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 156168,
-      "name": "Desamor Feliz Pt. 2",
-      "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Retrofuturismo",
         "url": "https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 166813,
       "name": "Despejao",
       "url": "https://open.spotify.com/track/0FgZOpqfzeuaogejdUrcfR"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Desamor Feliz Pt. 2",
+        "url": "https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 156168,
+      "name": "Desamor Feliz Pt. 2",
+      "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "El Cuarto",
-        "url": "https://open.spotify.com/album/47Uo4JY8vjARJ3MulZuKe6"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "El Cuarto",
-      "url": "https://open.spotify.com/track/7aS0Pnk0APU2ohbp65JWtD"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Noches",
         "url": "https://open.spotify.com/album/1osB0AMsvdhhUi9To2mYOV"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 169012,
       "name": "Noches",
       "url": "https://open.spotify.com/track/2UjsowCzfBcEGLbtmy4amt"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "El Cuarto",
+        "url": "https://open.spotify.com/album/47Uo4JY8vjARJ3MulZuKe6"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "El Cuarto",
+      "url": "https://open.spotify.com/track/7aS0Pnk0APU2ohbp65JWtD"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Ultraviolento",
-        "url": "https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ"
-      },
-      "artists": [
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ultraviolento",
-      "url": "https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Levitando en la Ciudad",
         "url": "https://open.spotify.com/album/156lO3PeIUpcTVwZocak40"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 214000,
       "name": "Levitando en la Ciudad",
       "url": "https://open.spotify.com/track/1tENiVcTTaM6xmhDO2HR9Z"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Ultraviolento",
+        "url": "https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ultraviolento",
+      "url": "https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi"
     },
     {
       "added_at": "2023-11-29 12:16:00",

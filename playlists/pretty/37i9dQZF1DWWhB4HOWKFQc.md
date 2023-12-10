@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: The Lantis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170,271 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,420 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 59 | [Walking Back Home](https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Walking Back Home](https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3) | 2:12 |
 | 60 | [Aku Sayang Kamu](https://open.spotify.com/track/1lu1JZPI7s2cWIeIFYgjL3) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Aku Sayang Kamu](https://open.spotify.com/album/0eq61IIDrq945HH7oThPQW) | 4:15 |
 
-Snapshot ID: `MCwyMjQ4ZTBkMzFhY2FmOTE0Y2Q1ZTEzMWIzYTA3MWJhM2Q2MzJkYjlm`
+Snapshot ID: `MCwzYzc5MTlhOThkNmQ2MDA5M2M5N2NhMjc2ZWQ2YmM0MDhlYjhjMThj`

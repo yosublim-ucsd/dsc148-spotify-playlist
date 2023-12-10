@@ -4,7 +4,7 @@
 
 > Top 50 tracks from RADAR Pakistan in 2023\.   Cover: Hassan & Roshaan
 
-68 songs - 3 hr 42 min
+69 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Rangeen](https://open.spotify.com/track/5oR58bDC1H53YMEARuTQV6) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:41 | 2023-10-05 | 2023-11-30 |
 | [Ranjheya Ve](https://open.spotify.com/track/4uxuqSSwxaN1HDKWm3Qx7P) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ranjheya Ve](https://open.spotify.com/album/54NHimWyJ1NFHKQUxyFalk) | 4:38 | 2023-07-31 |  |
 | [Rent Free](https://open.spotify.com/track/33ceEkDXui08r2MswdCBcX) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Rent Free](https://open.spotify.com/album/1pPIHSuDOCRs8mJkYqv6xK) | 2:42 | 2023-07-31 |  |
-| [Saazish](https://open.spotify.com/track/17251D1EDAoyd0pQFMG7y5) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/1xZxe1HTPiMJlKZ5NJATpc) | 3:34 | 2023-07-31 |  |
+| [Saazish](https://open.spotify.com/track/0rIFaLZnR5zy1AAxQOV4kA) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/7k07DkXFCBMGlWfbeB7iwf) | 3:34 | 2023-11-29 |  |
+| [Saazish](https://open.spotify.com/track/17251D1EDAoyd0pQFMG7y5) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/1xZxe1HTPiMJlKZ5NJATpc) | 3:34 | 2023-07-31 | 2023-12-10 |
 | [Saddiyan](https://open.spotify.com/track/0qoORzqrSxpIvREz58ugkW) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Saddiyan](https://open.spotify.com/album/6g27JelkjIlYYVfGY3Jbaq) | 2:49 | 2023-07-31 |  |
 | [SAHI HO](https://open.spotify.com/track/1Y5WFyPuEzuBXx8qC76iNW) | [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc) | [SAHI HO](https://open.spotify.com/album/2xFigGgtJ8yE66lC6hPs8H) | 2:41 | 2023-07-31 |  |
 | [Sajna](https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Sajna](https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p) | 2:37 | 2023-07-31 |  |

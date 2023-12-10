@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 496159,
+  "num_followers": 496150,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODlmYjg2MzNiZmVkMzkzNzgyZjNhOTk1MzcxNmMxN2YwNzIwMDU4",
+  "snapshot_id": "MCxlODQyMTNlZTI1NzI2OWZlNjhiMjZiYTYyNzg5YjFkMzVkZTMzNjgy",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -175,38 +175,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
-        "name": "Slowdown (girl what's up)",
-        "url": "https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW"
-      },
-      "artists": [
-        {
-          "name": "YellowStraps",
-          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Slowdown (girl what's up)",
-      "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -227,6 +195,38 @@
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Slowdown (girl what's up)",
+        "url": "https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW"
+      },
+      "artists": [
+        {
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Slowdown (girl what's up)",
+      "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Heavy Metal Love",
-        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Heavy Metal Love",
-      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
       },
@@ -591,6 +575,30 @@
       "duration_ms": 191733,
       "name": "Water",
       "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Cynical (MistaJam Remix)",
+        "url": "https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -683,30 +691,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Cynical (MistaJam Remix)",
-        "url": "https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
+        "name": "Heavy Metal Love",
+        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Heavy Metal Love",
+      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 197640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
-      },
-      "artists": [
-        {
-          "name": "Mikolas Josef",
-          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
-        },
-        {
-          "name": "Mark Neve",
-          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
-        }
-      ],
-      "duration_ms": 141027,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -851,6 +831,26 @@
       "duration_ms": 175150,
       "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
       "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
+      },
+      "artists": [
+        {
+          "name": "Mikolas Josef",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+        }
+      ],
+      "duration_ms": 141027,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
-      },
-      "artists": [
-        {
-          "name": "Drenchill",
-          "url": "https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH"
-        },
-        {
-          "name": "Jorik Burema",
-          "url": "https://open.spotify.com/artist/5m9bQKYt5uwDbtBGB6x78P"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "HOV (Remix)",
         "url": "https://open.spotify.com/album/0Jum44gDjXoH6BHixA5azg"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 166442,
       "name": "HOV - Remix",
       "url": "https://open.spotify.com/track/35kDv86L9VuUoj29YTHmE6"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
+      },
+      "artists": [
+        {
+          "name": "Drenchill",
+          "url": "https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH"
+        },
+        {
+          "name": "Jorik Burema",
+          "url": "https://open.spotify.com/artist/5m9bQKYt5uwDbtBGB6x78P"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Sun Will Shine",
-        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Sun Will Shine",
-      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -1323,22 +1303,22 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Now or Never",
-        "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
+        "name": "Sun Will Shine",
+        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
       },
       "artists": [
         {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Dominic Neill",
-          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
         }
       ],
-      "duration_ms": 182750,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
+      "duration_ms": 201700,
+      "name": "Sun Will Shine",
+      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -1359,6 +1339,26 @@
       "duration_ms": 160842,
       "name": "Dirty Dancing",
       "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -1395,38 +1395,38 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv"
+        "name": "Through the Fire",
+        "url": "https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB"
       },
       "artists": [
         {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
         },
         {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
         }
       ],
-      "duration_ms": 169866,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA"
+      "duration_ms": 149374,
+      "name": "Through the Fire",
+      "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"
     },
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Sweet Goodbye",
-        "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
+        "name": "Diamonds & Dancefloors",
+        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 157619,
-      "name": "Sweet Goodbye",
-      "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
+      "duration_ms": 181763,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff"
     }
   ],
   "unique_name": "Wochenende",

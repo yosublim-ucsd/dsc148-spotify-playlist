@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="http://tbhits.com/">Tommy Brown</a>
 
-52 songs - 3 hr 22 min
+54 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [All Mine](https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 2:25 | 2022-10-01 |  |
 | [Back To Life](https://open.spotify.com/track/7fis60AUmZQI3maiU08Whd) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 3:39 | 2022-10-01 |  |
 | [Bam Bam](https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Total Reggae: Summer Hits](https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4) | 3:10 | 2022-10-01 |  |
-| [Bashment Time Featuring Mr\. Easy](https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP) | [Frisco Kid](https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7) | [Finally](https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw) | 3:11 | 2022-10-01 |  |
+| [Bashment Time \(feat\. Mr\. Easy\)](https://open.spotify.com/track/0D9VHACaA1aaW6mf03qqD8) | [Frisco Kid](https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7), [Mr\. Easy](https://open.spotify.com/artist/58e5hDoKHUV6rI8rDtr9a2) | [Finally](https://open.spotify.com/album/6HJ0FiBSHswlkAQkFGj6rD) | 3:11 | 2022-10-01 |  |
+| [Bashment Time Featuring Mr\. Easy](https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP) | [Frisco Kid](https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7) | [Finally](https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw) | 3:11 | 2022-10-01 | 2023-12-10 |
 | [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:51 | 2022-10-01 |  |
 | [Blood On The Leaves](https://open.spotify.com/track/42GcjriRK6srwHkfbkBqVl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 5:59 | 2022-10-01 |  |
 | [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:49 | 2022-10-01 |  |
@@ -21,7 +22,8 @@
 | [Childs Play](https://open.spotify.com/track/3NxAG2ni1lLa8RKL6a0INc) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:01 | 2022-10-01 |  |
 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 | 2022-10-01 |  |
 | [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:51 | 2022-10-01 |  |
-| [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2022-10-01 |  |
+| [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2022-10-01 | 2023-12-10 |
+| [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 | 2022-10-01 |  |
 | [Fade](https://open.spotify.com/track/3cCxoOgfi6hgt8MNteuiiD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:13 | 2022-10-01 |  |
 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 | 2022-10-01 |  |
 | [Hey Ma](https://open.spotify.com/track/2fE1hcjUxlLxXrZusTEJlq) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Freekey Zeekey](https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3), [Toya](https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:40 | 2022-10-01 |  |

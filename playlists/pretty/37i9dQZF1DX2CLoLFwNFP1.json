@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 32206,
+  "num_followers": 32253,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGE5ZDQ0OTI3ZWQ0NDZlYmVhNjA5ZmU4YTNhM2FjOThjNTIxOWM1",
+  "snapshot_id": "MCw5YTg1NTk4NTYxODViZTAwMWUxYWYzODk2MDY0MGRmYzFmYzJmZTkx",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
-        "url": "https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb"
-      },
-      "artists": [
-        {
-          "name": "SGBOYZ",
-          "url": "https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU"
-        }
-      ],
-      "duration_ms": 256437,
-      "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
-      "url": "https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "Think (feat. Jay Park)",
         "url": "https://open.spotify.com/album/26kUYOFHxASZTDjvse7xmz"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 231222,
       "name": "Think (feat. Jay Park)",
       "url": "https://open.spotify.com/track/79NQUQKBKrCUlBGdpGszhq"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
+        "url": "https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb"
+      },
+      "artists": [
+        {
+          "name": "SGBOYZ",
+          "url": "https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU"
+        }
+      ],
+      "duration_ms": 256437,
+      "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
+      "url": "https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "Stay Down",
+        "url": "https://open.spotify.com/album/3bhiDPhFZQWkuH5YXMsN22"
+      },
+      "artists": [
+        {
+          "name": "Lewie",
+          "url": "https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/1avJ6Pip6R7XPYbgbx6VA5"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 235720,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/4w7P5OaLfcinkb0RTMNxqh"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "Stay Down",
-        "url": "https://open.spotify.com/album/3bhiDPhFZQWkuH5YXMsN22"
-      },
-      "artists": [
-        {
-          "name": "Lewie",
-          "url": "https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Stay Down",
-      "url": "https://open.spotify.com/track/1avJ6Pip6R7XPYbgbx6VA5"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "Sunday Night Drive",
+        "url": "https://open.spotify.com/album/31J8jhJwqaeOS3ZJUOkg6t"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 129240,
+      "name": "Sunday Night Drive",
+      "url": "https://open.spotify.com/track/4L4Kbg3jAEPJZbEovRyKeH"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 243492,
       "name": "Turn Off Your Phone (Feat. ELO) - Remix",
       "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "Sunday Night Drive",
-        "url": "https://open.spotify.com/album/31J8jhJwqaeOS3ZJUOkg6t"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "Sunday Night Drive",
-      "url": "https://open.spotify.com/track/4L4Kbg3jAEPJZbEovRyKeH"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1871,6 +1871,26 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "K-TOWN",
+        "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 123280,
+      "name": "K-TOWN",
+      "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 258109,
       "name": "MOMMAE - Remix",
       "url": "https://open.spotify.com/track/4D7itKLDptW3QjL32Uaa6F"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "K-TOWN",
-        "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 123280,
-      "name": "K-TOWN",
-      "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
     },
     {
       "added_at": "2023-11-27 14:05:19",

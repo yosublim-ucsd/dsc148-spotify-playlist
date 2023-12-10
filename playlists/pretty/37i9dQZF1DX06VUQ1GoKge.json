@@ -1,12 +1,12 @@
 {
   "description": "Attribute to the strength built through the years, as Robb would say.",
-  "num_followers": 561006,
+  "num_followers": 560968,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTgyZDUzODg3NjQ2MDVmZmNlMzg3OTRmODVkOTJlMzUyOTE1NDRm",
+  "snapshot_id": "MCw0ZjNkNzhkZWY5MmY4MTJjNDExYTMxNjk2YTE3MWVhODc3NWI2YTE4",
   "tracks": [
     {
       "added_at": "2023-11-30 20:35:14",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Untouchables",
         "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 270960,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 188600,
       "name": "Feuer frei!",
       "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "XIII",
-        "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
-      },
-      "artists": [
-        {
-          "name": "Mushroomhead",
-          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Sun Doesn't Rise",
-      "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
@@ -939,34 +923,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "The Sacrament of Sin",
-        "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
+        "name": "XIII",
+        "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
       },
       "artists": [
         {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
         }
       ],
-      "duration_ms": 218080,
-      "name": "Demons Are a Girl's Best Friend",
-      "url": "https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+      "duration_ms": 193813,
+      "name": "Sun Doesn't Rise",
+      "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -987,6 +955,38 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "The Sacrament of Sin",
+        "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "Demons Are a Girl's Best Friend",
+      "url": "https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1019,18 +1035,34 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
+        "name": "Cellar Door",
+        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
       },
       "artists": [
         {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 227440,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
+      "duration_ms": 283957,
+      "name": "Cellar Door",
+      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "American Sun",
+        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1083,22 +1115,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "American Sun",
-        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 155286,
       "name": "Genocidal Humanoidz",
       "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Cellar Door",
-        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 283957,
-      "name": "Cellar Door",
-      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
+        "name": "Fatalism",
+        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 239291,
+      "name": "Inhumane",
+      "url": "https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
         "name": "The Nexus",
         "url": "https://open.spotify.com/album/6HURHOREgzRB1e00Uu99ki"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 232640,
       "name": "No More",
       "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Fatalism",
-        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 239291,
-      "name": "Inhumane",
-      "url": "https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX"
-      },
-      "artists": [
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 210406,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "St. Anger",
         "url": "https://open.spotify.com/album/4ljK2LVKvEPd5xPgUJn0Bs"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Gravity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX"
       },
       "artists": [
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
         }
       ],
-      "duration_ms": 227866,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/7qFlhASAQGN8AQUH5CXB8O"
+      "duration_ms": 210406,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1451,6 +1435,22 @@
       "duration_ms": 298825,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Gravity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/7qFlhASAQGN8AQUH5CXB8O"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1483,22 +1483,6 @@
       "duration_ms": 293466,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1547,6 +1531,22 @@
       "duration_ms": 249050,
       "name": "As Above, So Below",
       "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
     },
     {
       "added_at": "2023-11-30 20:35:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 
 > Lose yourself in the summer daze...
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,961 likes - 107 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,959 likes - 107 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 102 | [Rather Be With You \(feat\. Crooked Colours\)](https://open.spotify.com/track/4Kc1nMxyLCWtx3BganIsQs) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Rather Be With You \(feat\. Crooked Colours\)](https://open.spotify.com/album/5rSdbJ0urwMgblnOxW460H) | 3:08 |
 | 103 | [forever&more](https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:56 |
 | 104 | [Scotty \(Beam Me Up\)](https://open.spotify.com/track/132OLZW2HRIlUonFBLPS2v) | [CLOE TERARE](https://open.spotify.com/artist/7FndscX6qPcyhuUgWlBHXf) | [Scotty \(Beam Me Up\)](https://open.spotify.com/album/1t9SMFjalETfsLq4zQGFtP) | 3:42 |
-| 105 | [Don't Be Alarmed](https://open.spotify.com/track/1zrqLcivY5ebUECrD36OLb) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Don't Be Alarmed \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/6mJWTph8fq99E3wNnvBUXO) | 3:06 |
+| 105 | [Don't Be Alarmed \(with Bipolar Sunshine\)](https://open.spotify.com/track/5oDOsRwFxEVd5sJlBpa2YG) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Don't Be Alarmed \(with Bipolar Sunshine\)](https://open.spotify.com/album/64vcCD8R34tDPs7SzZdzHg) | 3:06 |
 | 106 | [World Is Fucked](https://open.spotify.com/track/0BNfXrlaLhVynRYbMHV1N9) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/3uOuX5ziHrQkD7ULfT87Gs) | 2:52 |
 | 107 | [All That \(feat\. Channel Tres\)](https://open.spotify.com/track/5rzndDb4DgVkOsIsfbRv0q) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:05 |
 
-Snapshot ID: `MCxhMDY5YTNjMmQ3NGQ0M2Q4Y2ZlMzhlNDA3MmYwZjIwMDY2NzU0NWZi`
+Snapshot ID: `MCw4YWI0YTRmZGIwY2MzMDkwYzI4NTJhNGYwY2JhMDdiOTllZjEyNzRj`

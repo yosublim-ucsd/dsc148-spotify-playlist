@@ -4,7 +4,7 @@
 
 > Work or rest with these gems from the 80s.
 
-207 songs - 14 hr 52 min
+208 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Saturday Night](https://open.spotify.com/track/6X8zrGoGa1zKgIO2PMq3Bk) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 6:27 | 2018-12-12 | 2023-03-21 |
 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 | 2018-12-12 |  |
 | [Scarlet \- Remastered 2008](https://open.spotify.com/track/1uqYdaC3nAiaN7Qusqas2V) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/1trfVC3MNBkTPna08Zwu6F) | 2:53 | 2018-12-12 | 2022-07-18 |
-| [Send Her My Love](https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 3:54 | 2018-12-12 |  |
+| [Send Her My Love](https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 3:54 | 2018-12-12 | 2023-12-10 |
+| [Send Her My Love \(2023 Remaster\)](https://open.spotify.com/track/476PoCTZZIKdOxHOYYCFzz) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers \(2023 Remaster\)](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 3:54 | 2018-12-12 |  |
 | [Shipbuilding](https://open.spotify.com/track/7DV1fLakiEgpJ1OuMQH4yb) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Punch The Clock](https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs) | 4:52 | 2018-12-12 |  |
 | [Shipbuilding](https://open.spotify.com/track/2oSXcrxd63zXNcmBivTRaR) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/7runu9rj3FdiuPBFKRzASm) | 4:53 | 2018-12-12 | 2022-07-29 |
 | [Silent Running](https://open.spotify.com/track/7CGIkCEeqKJygLmxE345tr) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Dazzle Ships](https://open.spotify.com/album/0cfgErKiWFnCFuJ51UMfJJ) | 3:34 | 2018-12-12 | 2022-11-13 |

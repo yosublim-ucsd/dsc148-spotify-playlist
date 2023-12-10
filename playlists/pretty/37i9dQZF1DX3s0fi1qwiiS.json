@@ -1,12 +1,12 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 603,
+  "num_followers": 616,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWEyNzE3NWZiNzlkMGVlNGZhYzc0MTRjZjMxOWM2M2Y4ZTdkMTRi",
+  "snapshot_id": "MCw5NWExZWZjOWZjMWZiNzg5YTA3OTc1YTRhNGYzZDVjMzRkZDMyMWVl",
   "tracks": [
     {
       "added_at": "2023-12-08 08:55:17",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/0Yo8cuJopqwNIt7XiLjK5o"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/47FMwCBUIaYUbVNRHCBNPr"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Iskaba",
         "url": "https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 224640,
       "name": "Iskaba",
       "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/0Yo8cuJopqwNIt7XiLjK5o"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/47FMwCBUIaYUbVNRHCBNPr"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Afrowave 2",
+        "url": "https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Drogba (Joanna)",
+      "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
         "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Afrowave 2",
-        "url": "https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Drogba (Joanna)",
-      "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Odo",
-        "url": "https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Odo",
-      "url": "https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "Ahomka Womu",
         "url": "https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 327720,
       "name": "Ahomka Wo Mu",
       "url": "https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Odo",
+        "url": "https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf"
     },
     {
       "added_at": "2023-12-08 08:55:17",

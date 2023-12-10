@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 108145,
+  "num_followers": 108226,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzNkYjcxOGQzZDk5NTg3NTIzZjk1YmYzM2Y4YzhlMWQ0YTBhYWU5",
+  "snapshot_id": "MCw0NTRlNDg1ZTVlYTVjNTIzYjhjZjg0M2YwNTJlZDkzMTEzNjA2YmJk",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -547,6 +547,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Miserablism - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "What Time Is Love",
         "url": "https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 590030,
       "name": "Auto Machine",
       "url": "https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Miserablism - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "The Big Cover-Up",
-        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje & The Olsens",
-          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
-        }
-      ],
-      "duration_ms": 391222,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "I Have a Question",
         "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 361402,
       "name": "Sound 6",
       "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "The Big Cover-Up",
+        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje & The Olsens",
+          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
+        }
+      ],
+      "duration_ms": 391222,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
     },
     {
       "added_at": "2021-10-22 11:07:27",

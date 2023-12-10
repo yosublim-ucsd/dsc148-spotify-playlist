@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-316 songs - 17 hr 24 min
+317 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [Sacrificial](https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Sacrificial](https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS) | 3:02 | 2021-11-19 |  |
 | [Sad B\*tch](https://open.spotify.com/track/12HbZSQSoTtdbPNokldUCG) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Sad B\*tch](https://open.spotify.com/album/3ziOlBjjA4W4RKpEjMKwOk) | 2:58 | 2021-11-19 | 2022-01-08 |
 | [Salvation](https://open.spotify.com/track/5T4iqvsqEdJS4WFMmo0CZX) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [Salvation](https://open.spotify.com/album/0n8SbBczPb02Qn18iNCgvt) | 4:09 | 2021-11-19 | 2022-01-08 |
-| [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 | 2021-11-19 |  |
+| [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 | 2021-11-19 | 2023-12-10 |
+| [Save Me](https://open.spotify.com/track/7LkkWXUkyh3tk6C8SQbKef) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:07 | 2023-12-01 |  |
 | [SAVE U NOW](https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [WRATH OF THE WICKED](https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb) | 3:39 | 2023-09-22 |  |
 | [Save You \(feat\. Megan Stokes\) \- Kompany Remix](https://open.spotify.com/track/2ll5WUzszERWz9M11Mc6ij) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Megan Stokes](https://open.spotify.com/artist/5ZjllHNxBDJvMsJCzbPFEX), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Save You \(feat\. Megan Stokes\) \[Remixes\]](https://open.spotify.com/album/3eiIeSHsUUURB7ihCn7gJt) | 3:36 | 2021-11-19 | 2022-01-08 |
 | [SCUMBAG](https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/4zzDlOcgTKHR7QiA1I6VHv) | 3:06 | 2022-06-17 | 2022-06-28 |

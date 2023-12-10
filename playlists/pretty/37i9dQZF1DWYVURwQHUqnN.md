@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: KeBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,640 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,776 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 12 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 |
 | 13 | [KB9](https://open.spotify.com/track/4PbUJQL1l8FNeskGcW1syj) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Ma Vie](https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E) | 2:54 |
 | 14 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 |
-| 15 | [C'est carré le S](https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [En temps réel](https://open.spotify.com/album/3Axd0NV5EcNnWzkvHqijzQ) | 3:21 |
+| 15 | [C'est carré le S](https://open.spotify.com/track/2UHSXPY5jSCpp3nzWHtaQv) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En temps réel](https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI) | 3:21 |
 | 16 | [Pas les mots](https://open.spotify.com/track/5EvhoSHeimcPmYB9f4DhND) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Pas les mots](https://open.spotify.com/album/5dufV0lmFg19yoQaFIwXxa) | 3:30 |
 | 17 | [RS5](https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Drapeau Blanc](https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu) | 2:56 |
 | 18 | [Sensations](https://open.spotify.com/track/5Y8Zbqlmx97hTM8y5kqo0x) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Sensations](https://open.spotify.com/album/4mJQmamNVYsJ9FF5tKq71C) | 4:21 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 |
 | 40 | [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 |
 
-Snapshot ID: `MCwyM2I1ZDY5ZWI3MmQ5OGU0Njc4ZTkxZjZiZDAwODQwMGU3MzYyNmU3`
+Snapshot ID: `MCxmZDlkYTE5MmM1MDRlYTMyODBjNzVhZjhjNjcxYTc1OTZmZmIxNzli`

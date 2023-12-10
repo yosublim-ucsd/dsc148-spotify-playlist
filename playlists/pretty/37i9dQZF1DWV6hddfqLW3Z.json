@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 789219,
+  "num_followers": 789288,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGRmZjM4ZDQ5YjI4NjAzNDgyM2QxZDEwMjQ1M2Y3Yzc5OTkyY2M3",
+  "snapshot_id": "MCwwOTljODViOWJkYmYzMWNiMTQyMWUxODFlNmZkYzViMzUyYjQ3Njdi",
   "tracks": [
     {
       "added_at": "2023-11-24 15:08:43",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
         "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+        "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
+        "url": "https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 160238,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
+      "duration_ms": 208470,
+      "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
+      "url": "https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -675,22 +691,6 @@
       "duration_ms": 233990,
       "name": "Preciso Dizer Que Te Amo",
       "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
-        "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
-        "url": "https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 208470,
-      "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
-      "url": "https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
+        "name": "Enciclop\u00e9dia Musical Brasileira",
+        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235080,
+      "name": "Brasil pandeiro",
+      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Enciclop\u00e9dia Musical Brasileira",
-        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
+        "name": "Reconstru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 235080,
-      "name": "Brasil pandeiro",
-      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
+      "duration_ms": 204895,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Reconstru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 204895,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Mariana Nolasco",
         "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 184554,
       "name": "Sons de Amor",
       "url": "https://open.spotify.com/track/1m8qkyl5sHDEvZQslKOwJC"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "Quase Sem Querer",
+        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 216842,
+      "name": "Quase Sem Querer",
+      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -1051,22 +1067,6 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
-        "name": "Quase Sem Querer",
-        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 216842,
-      "name": "Quase Sem Querer",
-      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Ofert\u00f3rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
         }
       ],
-      "duration_ms": 200045,
-      "name": "Reconvexo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -1151,18 +1151,34 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+        "name": "Ofert\u00f3rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
       },
       "artists": [
         {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+      "duration_ms": 200045,
+      "name": "Reconvexo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+        "name": "Vidas Pra Contar",
+        "url": "https://open.spotify.com/album/1oUVz3XYuycGaodvUPce2M"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 176920,
-      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+      "duration_ms": 261642,
+      "name": "N\u00e3o \u00c9 um Bolero",
+      "url": "https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -1219,22 +1235,6 @@
       "duration_ms": 233273,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
-        "name": "Vidas Pra Contar",
-        "url": "https://open.spotify.com/album/1oUVz3XYuycGaodvUPce2M"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 261642,
-      "name": "N\u00e3o \u00c9 um Bolero",
-      "url": "https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ"
     }
   ],
   "unique_name": "Cafezinho",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,471 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,822 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 59 | [Totalmente Demais](https://open.spotify.com/track/6exOFodN8hAuPrD8NdXYN9) | [Hanoi Hanoi](https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh) | [Hanoi\-Hanoi](https://open.spotify.com/album/16oTnKtddDj0aXdkDWkcSi) | 3:01 |
 | 60 | [Eu Não Matei Joana d'Arc](https://open.spotify.com/track/5I8DslpztOwOpwERbGGDTC) | [Camisa de Vênus](https://open.spotify.com/artist/6kJHpEjr5eNnVJeyfTbs3G) | [Batalhões de Estranhos](https://open.spotify.com/album/5Le2qjifHoAvAO0Yzl8E7T) | 3:45 |
 
-Snapshot ID: `MCwzZmRmYzZlNzVlZDgxOWVjZTk4Zjk3YTNkODU1YzA4Yzc5OTc3MzNi`
+Snapshot ID: `MCwyNWRmYjgwNTIyNWU2ODliYmUxMzlmZjlhZDk0ODRjMDg2NTg3MDEz`

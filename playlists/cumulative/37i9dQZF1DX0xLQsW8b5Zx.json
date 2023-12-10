@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 165293,
       "name": "My Little Sister Gotta Motorbike",
       "url": "https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY"
@@ -2986,6 +2986,24 @@
       "duration_ms": 165586,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0Y1BHJjQjDhTnKCAsUEmGJ"
+    },
+    {
+      "album": {
+        "name": "More Mayhem",
+        "url": "https://open.spotify.com/album/7vL49AGpkONykl6dCDShAu"
+      },
+      "artists": [
+        {
+          "name": "Imelda May",
+          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/390RYJSKZVN9IHa9E9zB34"
     },
     {
       "album": {

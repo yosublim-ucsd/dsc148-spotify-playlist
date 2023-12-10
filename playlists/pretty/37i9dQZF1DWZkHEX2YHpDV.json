@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: Four Year Strong",
-  "num_followers": 456577,
+  "num_followers": 456626,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjI4YzQ2M2U4NzBmYTZmMzMwZTZjMmEwMjYzNGNkN2MzNDQyNzM5",
+  "snapshot_id": "MCxlMjQxNjQzM2MwNTMxNWRiMjczMDNkMWFkYTg2ZGU2YzE0MDYwZjVi",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Punching Bag",
+        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 179482,
+      "name": "Punching Bag",
+      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Punching Bag",
-        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 179482,
-      "name": "Punching Bag",
-      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Jackpot Juicer",
+        "url": "https://open.spotify.com/album/07sIEDGzhGsfM8QZQll0FO"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 221282,
+      "name": "Die Another Day",
+      "url": "https://open.spotify.com/track/08NlZMpzLHxrk3kfSA4ebB"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Jackpot Juicer",
-        "url": "https://open.spotify.com/album/07sIEDGzhGsfM8QZQll0FO"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 221282,
-      "name": "Die Another Day",
-      "url": "https://open.spotify.com/track/08NlZMpzLHxrk3kfSA4ebB"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1159,6 +1159,30 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Don't Tempt Me Baby...",
+        "url": "https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N"
+      },
+      "artists": [
+        {
+          "name": "First and Forever",
+          "url": "https://open.spotify.com/artist/4yoepOpyKCDc3xDj0fX21r"
+        },
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Joshua Roberts",
+          "url": "https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR"
+        }
+      ],
+      "duration_ms": 156395,
+      "name": "Don't Tempt Me Baby...",
+      "url": "https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Constant Headache",
         "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
       },
@@ -1175,6 +1199,22 @@
       "duration_ms": 181430,
       "name": "Constant Headache",
       "url": "https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 187679,
+      "name": "Are You Impressed?",
+      "url": "https://open.spotify.com/track/0maaBh5icICjXYfY0urTnU"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1215,22 +1255,6 @@
       "duration_ms": 138086,
       "name": "Shooting Star (feat. Sum 41)",
       "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Retrovision",
-        "url": "https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 187679,
-      "name": "Are You Impressed?",
-      "url": "https://open.spotify.com/track/0maaBh5icICjXYfY0urTnU"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1351,26 +1375,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Don't Tempt Me Baby...",
-        "url": "https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N"
+        "name": "Hotel Bleu",
+        "url": "https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI"
       },
       "artists": [
         {
-          "name": "First and Forever",
-          "url": "https://open.spotify.com/artist/4yoepOpyKCDc3xDj0fX21r"
-        },
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Joshua Roberts",
-          "url": "https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR"
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
         }
       ],
-      "duration_ms": 156395,
-      "name": "Don't Tempt Me Baby...",
-      "url": "https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq"
+      "duration_ms": 182117,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1411,38 +1427,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "HORROR SHOW",
-        "url": "https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 195646,
-      "name": "HORROR SHOW",
-      "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Hotel Bleu",
-        "url": "https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 182117,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "I Left You In Minnesota",
         "url": "https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 144272,
       "name": "Alone (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/7cPUCY8PwRVhamOe7p2j3u"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "HORROR SHOW",
+        "url": "https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 195646,
+      "name": "HORROR SHOW",
+      "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "SSX Trickmont",
-        "url": "https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 198566,
-      "name": "SSX Trickmont",
-      "url": "https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "SELF-SABOTAGE (MC4D Remix)",
         "url": "https://open.spotify.com/album/6yefd6WEMrUmBuvAMl8Dd8"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/3cjPUCNlR7Sk7126DV77ms"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "SSX Trickmont",
+        "url": "https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 198566,
+      "name": "SSX Trickmont",
+      "url": "https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "blame / how to exit a room",
-        "url": "https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "blame",
-      "url": "https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Six Feet Under",
         "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 191976,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "People That I Love Leave",
+        "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
+      },
+      "artists": [
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "duration_ms": 149248,
+      "name": "People That I Love Leave",
+      "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1663,18 +1663,34 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "People That I Love Leave",
-        "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
+        "name": "blame / how to exit a room",
+        "url": "https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ"
       },
       "artists": [
         {
-          "name": "Cassadee Pope",
-          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 149248,
-      "name": "People That I Love Leave",
-      "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
+      "duration_ms": 190392,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 178804,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 178804,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Thanks but No Thanks",
         "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
       },
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "The Hum Goes on Forever",
-        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 225838,
-      "name": "Wyatt\u2019s Song (Your Name)",
-      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "More Like A Crash",
         "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 193814,
       "name": "Got Me All Wrong",
       "url": "https://open.spotify.com/track/7cuViZlN2fB8gKPFqYD7I0"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "The Hum Goes on Forever",
+        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 225838,
+      "name": "Wyatt\u2019s Song (Your Name)",
+      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1935,50 +1935,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "VALKYRIE ONE",
-        "url": "https://open.spotify.com/album/0JkLw9jfpz5QhnnySYSZJ4"
+        "name": "Smash The Mirror",
+        "url": "https://open.spotify.com/album/5vqbCpq3mJmSXk6vk7lmKO"
       },
       "artists": [
         {
-          "name": "Set to Stun",
-          "url": "https://open.spotify.com/artist/240W24sOn3h0vXU4wEwNeH"
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
         }
       ],
-      "duration_ms": 349432,
-      "name": "Walk Tall II",
-      "url": "https://open.spotify.com/track/4YYlCBwxmaFOBsMrhrb8MB"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "she's a vampire",
-        "url": "https://open.spotify.com/album/5DKISuJT879vrCsbUcKAt4"
-      },
-      "artists": [
-        {
-          "name": "LiL Lotus",
-          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
-        }
-      ],
-      "duration_ms": 189176,
-      "name": "she's a vampire",
-      "url": "https://open.spotify.com/track/0TijcPb77nixLGQQzVECLJ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Losing What We Love",
-        "url": "https://open.spotify.com/album/6uROVKhZs2MvHAHUdwAwb3"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 221239,
-      "name": "Losing What We Love",
-      "url": "https://open.spotify.com/track/6CrWJF0SI2XfWGMzyXdIZe"
+      "duration_ms": 184717,
+      "name": "Smash The Mirror",
+      "url": "https://open.spotify.com/track/5VoegAxobTd8f8vS7tnPQN"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1995,6 +1963,22 @@
       "duration_ms": 243329,
       "name": "to me",
       "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "VALKYRIE ONE",
+        "url": "https://open.spotify.com/album/0JkLw9jfpz5QhnnySYSZJ4"
+      },
+      "artists": [
+        {
+          "name": "Set to Stun",
+          "url": "https://open.spotify.com/artist/240W24sOn3h0vXU4wEwNeH"
+        }
+      ],
+      "duration_ms": 349432,
+      "name": "Walk Tall II",
+      "url": "https://open.spotify.com/track/4YYlCBwxmaFOBsMrhrb8MB"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2035,22 +2019,34 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "CYAN1DE (feat. Pete Wentz)",
-        "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
+        "name": "Losing What We Love",
+        "url": "https://open.spotify.com/album/6uROVKhZs2MvHAHUdwAwb3"
       },
       "artists": [
         {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        },
-        {
-          "name": "Pete Wentz",
-          "url": "https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD"
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
         }
       ],
-      "duration_ms": 231882,
-      "name": "CYAN1DE (feat. PETE WENTZ)",
-      "url": "https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY"
+      "duration_ms": 221239,
+      "name": "Losing What We Love",
+      "url": "https://open.spotify.com/track/6CrWJF0SI2XfWGMzyXdIZe"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "she's a vampire",
+        "url": "https://open.spotify.com/album/5DKISuJT879vrCsbUcKAt4"
+      },
+      "artists": [
+        {
+          "name": "LiL Lotus",
+          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "she's a vampire",
+      "url": "https://open.spotify.com/track/0TijcPb77nixLGQQzVECLJ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2071,6 +2067,26 @@
       "duration_ms": 154680,
       "name": "GOOD MOOD (feat. grandson)",
       "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "CYAN1DE (feat. Pete Wentz)",
+        "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        },
+        {
+          "name": "Pete Wentz",
+          "url": "https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD"
+        }
+      ],
+      "duration_ms": 231882,
+      "name": "CYAN1DE (feat. PETE WENTZ)",
+      "url": "https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2111,18 +2127,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI"
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
       },
       "artists": [
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "John Harvie",
+          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
         }
       ],
-      "duration_ms": 174350,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
+      "duration_ms": 212727,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2147,18 +2163,34 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
+        "name": "SHE LOVES ME, SHE LOVES ME NOT",
+        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
       },
       "artists": [
         {
-          "name": "John Harvie",
-          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
         }
       ],
-      "duration_ms": 212727,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
+      "duration_ms": 182014,
+      "name": "SHE LOVES ME, SHE LOVES ME NOT",
+      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 174350,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2255,6 +2287,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Psyche!",
+        "url": "https://open.spotify.com/album/3E1OO7KbqraYZYD8NuK4xr"
+      },
+      "artists": [
+        {
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
+        }
+      ],
+      "duration_ms": 334927,
+      "name": "Psyche!",
+      "url": "https://open.spotify.com/track/5X46KFIG4wAwMTjaA0ZX2p"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/06zDKs4zyoeMS8SBC9r9Tm"
       },
@@ -2267,22 +2315,6 @@
       "duration_ms": 196086,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/61Ty6v8l6KMOqHv9js55Xp"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Cherryland",
-        "url": "https://open.spotify.com/album/5RdopBmBV7XPu36hcHbrTX"
-      },
-      "artists": [
-        {
-          "name": "The Ready Set",
-          "url": "https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Cherryland",
-      "url": "https://open.spotify.com/track/2CP5TuxVJD1IggS5rw0goV"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2319,6 +2351,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Cherryland",
+        "url": "https://open.spotify.com/album/5RdopBmBV7XPu36hcHbrTX"
+      },
+      "artists": [
+        {
+          "name": "The Ready Set",
+          "url": "https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Cherryland",
+      "url": "https://open.spotify.com/track/2CP5TuxVJD1IggS5rw0goV"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Lacerate",
         "url": "https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX"
       },
@@ -2331,22 +2379,6 @@
       "duration_ms": 210022,
       "name": "Lacerate",
       "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Psyche!",
-        "url": "https://open.spotify.com/album/3E1OO7KbqraYZYD8NuK4xr"
-      },
-      "artists": [
-        {
-          "name": "Say Anything",
-          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
-        }
-      ],
-      "duration_ms": 334927,
-      "name": "Psyche!",
-      "url": "https://open.spotify.com/track/5X46KFIG4wAwMTjaA0ZX2p"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2479,22 +2511,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Hell Is A Teenage Girl",
-        "url": "https://open.spotify.com/album/7Dggd87vkUC1VsMmrUw4bZ"
-      },
-      "artists": [
-        {
-          "name": "Hannah Grae",
-          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Well I Hope Ur Happy",
-      "url": "https://open.spotify.com/track/0BAwN4aylbMlgX10Gaaw8o"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "told ya.",
         "url": "https://open.spotify.com/album/3ANkgNrOZQLbZjvVr2mf9P"
       },
@@ -2507,6 +2523,22 @@
       "duration_ms": 135879,
       "name": "Paint My Lips",
       "url": "https://open.spotify.com/track/3p0h0odkJaUS230iSRJQgS"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Hell Is A Teenage Girl",
+        "url": "https://open.spotify.com/album/7Dggd87vkUC1VsMmrUw4bZ"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Well I Hope Ur Happy",
+      "url": "https://open.spotify.com/track/0BAwN4aylbMlgX10Gaaw8o"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2555,38 +2587,6 @@
       "duration_ms": 203625,
       "name": "One Foot Wide",
       "url": "https://open.spotify.com/track/7Iq7JKB3J1di7eozPYtWPW"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Smash The Mirror",
-        "url": "https://open.spotify.com/album/5vqbCpq3mJmSXk6vk7lmKO"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 184717,
-      "name": "Smash The Mirror",
-      "url": "https://open.spotify.com/track/5VoegAxobTd8f8vS7tnPQN"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Imposter Syndrome",
-        "url": "https://open.spotify.com/album/0332xuUCQS7pzkMoeky6wY"
-      },
-      "artists": [
-        {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
-        }
-      ],
-      "duration_ms": 97407,
-      "name": "Imposter Syndrome",
-      "url": "https://open.spotify.com/track/78hoPZfqF2jN857pGjKzDO"
     }
   ],
   "unique_name": "The Scene",

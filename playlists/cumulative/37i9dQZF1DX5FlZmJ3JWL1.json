@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/17PiY34CSqVPtrgUNaKhet"
+      },
+      "artists": [
+        {
+          "name": "Agent Zed",
+          "url": "https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc"
+        },
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135015,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/5qncWTWI5o2a4iKfDnzXDO"
+    },
+    {
+      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV"
       },
@@ -196,7 +218,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 133884,
       "name": "Body Rock",
       "url": "https://open.spotify.com/track/0qtjn6dbQ8VDNJwJQ9w7Cy"

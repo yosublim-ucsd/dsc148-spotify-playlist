@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 157244,
+  "num_followers": 157263,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmI5NjMwOGNiNDJkNDJiZTc1MjU4NmY2NzZiZmY3NmFmYzlkMWI0",
+  "snapshot_id": "MCwyYzhiN2IzZmMzYTk3YzVmZDAwYTY2ZDI5MDg2NmE4ZWFhYmQwZTAz",
   "tracks": [
     {
       "added_at": "2023-12-04 01:34:46",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-12-04 01:34:46",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247150,
-      "name": "Mariners Apartment Complex",
-      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
-    },
-    {
-      "added_at": "2023-12-04 01:34:46",
-      "album": {
         "name": "IT'S YOU (feat. keshi)",
         "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 173427,
       "name": "IT'S YOU (feat. keshi)",
       "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
+    },
+    {
+      "added_at": "2023-12-04 01:34:46",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247150,
+      "name": "Mariners Apartment Complex",
+      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
     },
     {
       "added_at": "2023-12-04 01:34:46",
@@ -995,22 +995,18 @@
     {
       "added_at": "2023-12-04 01:34:46",
       "album": {
-        "name": "Breakup Season",
-        "url": "https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY"
+        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
+        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
       },
       "artists": [
         {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        },
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         }
       ],
-      "duration_ms": 192750,
-      "name": "Breakup Season",
-      "url": "https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW"
+      "duration_ms": 241661,
+      "name": "A day in the water",
+      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
       "added_at": "2023-12-04 01:34:46",
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2023-12-04 01:34:46",
       "album": {
-        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
-        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
+        "name": "Breakup Season",
+        "url": "https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 241661,
-      "name": "A day in the water",
-      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
+      "duration_ms": 192750,
+      "name": "Breakup Season",
+      "url": "https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW"
     },
     {
       "added_at": "2023-12-04 01:34:46",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-12-04 01:34:46",
       "album": {
-        "name": "Want U Bad",
-        "url": "https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT"
-      },
-      "artists": [
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Want U Bad",
-      "url": "https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3"
-    },
-    {
-      "added_at": "2023-12-04 01:34:46",
-      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
+    },
+    {
+      "added_at": "2023-12-04 01:34:46",
+      "album": {
+        "name": "Want U Bad",
+        "url": "https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Want U Bad",
+      "url": "https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3"
     },
     {
       "added_at": "2023-12-04 01:34:46",
@@ -1239,26 +1239,6 @@
       "duration_ms": 175500,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/7mV7MXnHBHMhKC3aRQX6z4"
-    },
-    {
-      "added_at": "2023-12-04 01:34:46",
-      "album": {
-        "name": "Live on Ice",
-        "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
-      },
-      "artists": [
-        {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
-        },
-        {
-          "name": "Glassface",
-          "url": "https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Cheap Vacations (feat. Glassface)",
-      "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
     },
     {
       "added_at": "2023-12-04 01:34:46",
@@ -1299,6 +1279,26 @@
       "duration_ms": 132931,
       "name": "roundabout",
       "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
+    },
+    {
+      "added_at": "2023-12-04 01:34:46",
+      "album": {
+        "name": "Live on Ice",
+        "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "Glassface",
+          "url": "https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP"
+        }
+      ],
+      "duration_ms": 215999,
+      "name": "Cheap Vacations (feat. Glassface)",
+      "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
     },
     {
       "added_at": "2023-12-04 01:34:46",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-12-04 01:34:46",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
-    },
-    {
-      "added_at": "2023-12-04 01:34:46",
-      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2023-12-04 01:34:46",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
+    },
+    {
+      "added_at": "2023-12-04 01:34:46",
+      "album": {
         "name": "Wave002",
         "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
       },
@@ -1415,6 +1415,30 @@
       "duration_ms": 167766,
       "name": "Free Form",
       "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2023-12-04 01:34:46",
+      "album": {
+        "name": "It's Not This",
+        "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
+      },
+      "artists": [
+        {
+          "name": "Bearson",
+          "url": "https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg"
+        },
+        {
+          "name": "Lemaitre",
+          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        },
+        {
+          "name": "josh pan",
+          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "It's Not This",
+      "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
     },
     {
       "added_at": "2023-12-04 01:34:46",
@@ -1455,26 +1479,18 @@
     {
       "added_at": "2023-12-04 01:34:46",
       "album": {
-        "name": "It's Not This",
-        "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
       },
       "artists": [
         {
-          "name": "Bearson",
-          "url": "https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg"
-        },
-        {
-          "name": "Lemaitre",
-          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
-        },
-        {
-          "name": "josh pan",
-          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 190769,
-      "name": "It's Not This",
-      "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
+      "duration_ms": 278346,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
     },
     {
       "added_at": "2023-12-04 01:34:46",
@@ -1491,22 +1507,6 @@
       "duration_ms": 155624,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
-    },
-    {
-      "added_at": "2023-12-04 01:34:46",
-      "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 278346,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
     },
     {
       "added_at": "2023-12-04 01:34:46",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-12-04 01:34:46",
       "album": {
-        "name": "Some Place Else",
-        "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
-      },
-      "artists": [
-        {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
-        }
-      ],
-      "duration_ms": 214885,
-      "name": "Some Place Else",
-      "url": "https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft"
-    },
-    {
-      "added_at": "2023-12-04 01:34:46",
-      "album": {
         "name": "breathe.",
         "url": "https://open.spotify.com/album/29l6kAoHxTK5vYF5fsbiRs"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 190075,
       "name": "Heat",
       "url": "https://open.spotify.com/track/1WMgD7XURLt8bb5p8uM2Pj"
+    },
+    {
+      "added_at": "2023-12-04 01:34:46",
+      "album": {
+        "name": "Some Place Else",
+        "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "duration_ms": 214885,
+      "name": "Some Place Else",
+      "url": "https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft"
     },
     {
       "added_at": "2023-12-04 01:34:46",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-12-04 01:34:46",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2023-12-04 01:34:46",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 196989,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G"
-    },
-    {
-      "added_at": "2023-12-04 01:34:46",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2023-12-04 01:34:46",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2023-12-04 01:34:46",
       "album": {
-        "name": "Something to Feel",
-        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
+        "name": "Real",
+        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
       },
       "artists": [
         {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
         }
       ],
-      "duration_ms": 213535,
-      "name": "Something to Feel",
-      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
+      "duration_ms": 163146,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

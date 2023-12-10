@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: Lady London",
-  "num_followers": 497600,
+  "num_followers": 497593,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTU2NDhlNDFmY2E2MWE4NzJkOWUzMTA2NzA3YzdjMTAzNmNmMmU3",
+  "snapshot_id": "MCw5MDNhYzFmMDM3MmYyMTdiYzMxN2ViZjUxYzE2NDczMmNkNmRlNDY1",
   "tracks": [
     {
       "added_at": "2023-12-01 18:59:23",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-12-01 18:59:23",
       "album": {
+        "name": "Blick",
+        "url": "https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "duration_ms": 134344,
+      "name": "Blick",
+      "url": "https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6"
+    },
+    {
+      "added_at": "2023-12-01 18:59:23",
+      "album": {
         "name": "Ouuhh!!",
         "url": "https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 197066,
       "name": "Ouuhh!!",
       "url": "https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl"
-    },
-    {
-      "added_at": "2023-12-01 18:59:23",
-      "album": {
-        "name": "Blick",
-        "url": "https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq"
-      },
-      "artists": [
-        {
-          "name": "ScarLip",
-          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
-        }
-      ],
-      "duration_ms": 134344,
-      "name": "Blick",
-      "url": "https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6"
     },
     {
       "added_at": "2023-12-01 18:59:23",
@@ -743,30 +743,6 @@
     {
       "added_at": "2023-12-01 18:59:23",
       "album": {
-        "name": "Gangsta Art 2",
-        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Pop It (GloRilla, Mike WiLL Made-It)",
-      "url": "https://open.spotify.com/track/0j1rvfvR1StaYrOaBLtj0a"
-    },
-    {
-      "added_at": "2023-12-01 18:59:23",
-      "album": {
         "name": "Leave Her Alone",
         "url": "https://open.spotify.com/album/5z1zNcgq8vRZXDQYAhRxDL"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 147300,
       "name": "Leave Her Alone",
       "url": "https://open.spotify.com/track/6Ckxadd19A2tjI2sjwWo1v"
+    },
+    {
+      "added_at": "2023-12-01 18:59:23",
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Pop It (GloRilla, Mike WiLL Made-It)",
+      "url": "https://open.spotify.com/track/0j1rvfvR1StaYrOaBLtj0a"
     },
     {
       "added_at": "2023-12-01 18:59:23",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-12-01 18:59:23",
       "album": {
+        "name": "Courtesy Of A Rich Nigga",
+        "url": "https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Courtesy Of A Rich Nigga",
+      "url": "https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C"
+    },
+    {
+      "added_at": "2023-12-01 18:59:23",
+      "album": {
         "name": "BEACH BALL (feat. BIA)",
         "url": "https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 144000,
       "name": "BEACH BALL (feat. BIA)",
       "url": "https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE"
-    },
-    {
-      "added_at": "2023-12-01 18:59:23",
-      "album": {
-        "name": "Courtesy Of A Rich Nigga",
-        "url": "https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB"
-      },
-      "artists": [
-        {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Courtesy Of A Rich Nigga",
-      "url": "https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C"
     },
     {
       "added_at": "2023-12-01 18:59:23",

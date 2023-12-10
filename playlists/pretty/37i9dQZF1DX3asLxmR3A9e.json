@@ -1,12 +1,12 @@
 {
   "description": "2014 highlights from the home of indie music.",
-  "num_followers": 51839,
+  "num_followers": 51876,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmJmYjI4YTkwN2I0MTdhMDY4YmQ0ZWQ4MTZkM2ZlMTg4MjIyMDg1",
+  "snapshot_id": "MCwwMTI3ZjU1NzEzNDliNjQ0MmViNTJjNTQwYTgwMDI5ODM1M2RkYzM4",
   "tracks": [
     {
       "added_at": "2021-09-03 05:42:37",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Stay Gold",
-        "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "My Silver Lining",
-      "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Strange Desire",
         "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 188866,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "My Silver Lining",
+      "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 148092,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/7lnXzMcgaK7CnzaQ7wj6k0"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 246306,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 148092,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/7lnXzMcgaK7CnzaQ7wj6k0"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 183002,
-      "name": "Happy Idiot",
-      "url": "https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 221413,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 183002,
+      "name": "Happy Idiot",
+      "url": "https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Little Giant",
-        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Tiger Striped Sky",
-      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "ZABA",
         "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 248920,
       "name": "Black Mambo",
       "url": "https://open.spotify.com/track/63OC8cNa4ZnFB3bbvbWCOc"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Little Giant",
+        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Tiger Striped Sky",
+      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Toes",
-      "url": "https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Chapter Of The Forest",
         "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Toes",
+      "url": "https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Andrew McMahon In The Wilderness",
         "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "I Forget Where We Were",
-      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Lost In The Dream",
         "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 532306,
       "name": "Under The Pressure",
       "url": "https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "I Forget Where We Were",
+      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "She Treats Me Well",
-      "url": "https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "So Long, See You Tomorrow",
         "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "She Treats Me Well",
+      "url": "https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "After the Disco",
         "url": "https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 281017,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Supermodel",
         "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 280040,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 281017,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/20vMfB4zgelkULugladUD3"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Girls Chase Boys",
-      "url": "https://open.spotify.com/track/3tInTDUq8wdIMw5ftohmqJ"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Supermodel",
         "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/20vMfB4zgelkULugladUD3"
       },
       "artists": [
         {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
         }
       ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+      "duration_ms": 221413,
+      "name": "Girls Chase Boys",
+      "url": "https://open.spotify.com/track/3tInTDUq8wdIMw5ftohmqJ"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1407,6 +1391,22 @@
       "duration_ms": 187733,
       "name": "Talking Backwards",
       "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB"
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6"
       },
       "artists": [
         {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         }
       ],
-      "duration_ms": 191807,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS"
+      "duration_ms": 247547,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "LP1",
-        "url": "https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
         }
       ],
-      "duration_ms": 247547,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha"
+      "duration_ms": 191807,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS"
     },
     {
       "added_at": "2021-09-03 05:42:37",

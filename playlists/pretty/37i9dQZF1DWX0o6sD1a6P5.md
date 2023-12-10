@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,360 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,765 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
 | 50 | [Tout couper](https://open.spotify.com/track/5qeK6PMxjJAqgx3wPuVlJ2) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Tout couper](https://open.spotify.com/album/0kb26UaIxaF0gG38bP6Cbw) | 2:55 |
 
-Snapshot ID: `MCw5MDAxZGY0NGIzYTlkZDNmN2YyYWJjMDdhZGEzZjE0NzIxMWRlOTc2`
+Snapshot ID: `MCxiN2NjZDE0ODA4YjVhZTBhZWFlNzI5ZjY1MzhjMzJkODk4MTU3MDM5`

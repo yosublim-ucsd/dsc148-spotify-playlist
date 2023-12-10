@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-301 songs - 18 hr 45 min
+302 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Es el Amor](https://open.spotify.com/track/4OaUwXCBL5V452WC81Kw8b) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:34 | 2022-07-05 | 2022-07-23 |
 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 | 2022-07-05 | 2022-07-29 |
 | [Esa Parte De Mí](https://open.spotify.com/track/2KGPEwZmxkTb3ibPeIq0Pv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Esa Parte De Mí](https://open.spotify.com/album/3StKKTOhmUMbmrqZbH0tDi) | 3:35 | 2022-07-05 | 2022-07-29 |
-| [Escándalo](https://open.spotify.com/track/6dj1GTWMKxL3JToEGzTcwl) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:38 | 2022-12-23 |  |
+| [Escándalo](https://open.spotify.com/track/6dj1GTWMKxL3JToEGzTcwl) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:38 | 2022-12-23 | 2023-12-10 |
 | [Escándalo](https://open.spotify.com/track/6jT4JBxErmiJNDYnPpKgIn) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Cumbias Sonideras](https://open.spotify.com/album/1SGHSl1ZCOqIdliVE4S61M) | 4:38 | 2022-07-05 | 2022-07-29 |
 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 | 2022-07-05 |  |
 | [Estupido](https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq) | [Tonto Cariño](https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS) | 4:59 | 2022-07-05 | 2023-07-08 |
@@ -248,6 +248,7 @@
 | [Si Te Marchas, No Hay Manera](https://open.spotify.com/track/7lk2SWsLObPlO98pOvz6V0) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [En el Ojo del Huracán](https://open.spotify.com/album/3cVoxcpHC36i7ZYn9o8aSh) | 3:40 | 2022-07-05 | 2022-07-29 |
 | [Si Tu Supieras](https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si Tu Supieras](https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv) | 3:02 | 2023-02-10 | 2023-10-23 |
 | [Si Tu Te Vas](https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Si hay alguien en tu vida](https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs) | 3:51 | 2022-07-05 | 2022-07-24 |
+| [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 | 2023-12-07 |  |
 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 | 2022-07-05 |  |
 | [Soy Feo Pero Rico](https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [De Amor y Vacilón](https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV) | 3:07 | 2022-09-09 | 2023-10-04 |
 | [Soy Feo Pero Rico](https://open.spotify.com/track/7wKrYpEkIa4NNSwkd1YqRQ) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [De Amor y Vacilon](https://open.spotify.com/album/50J2KHOceXgEP1dRdoObzd) | 3:07 | 2022-07-05 | 2022-07-21 |

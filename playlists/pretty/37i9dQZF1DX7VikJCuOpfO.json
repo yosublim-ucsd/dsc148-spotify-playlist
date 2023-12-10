@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alicia Villareal",
-  "num_followers": 71624,
+  "num_followers": 71626,
   "original_name": "Mariachi 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTJlYjA0ZTJlYmZmY2I5ZDc1YzA0NmQ5MmQzMzRmNTA4M2RlZDg3",
+  "snapshot_id": "MCxmMDZhMzM0YmFhM2FiMDlkMWZhYzIwZDJhMjQwNDJiZDdhMmY5MmY4",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 213863,
+      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
+      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Pa' Olvidarme De Ella",
         "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 227233,
       "name": "Pa' Olvidarme De Ella",
       "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 213863,
-      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
-      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Las Locuras M\u00edas",
         "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Deb\u00ed Suponerlo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 160367,
-      "name": "Deb\u00ed Suponerlo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Te Llor\u00e9 Un R\u00edo",
         "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 209673,
       "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
       "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Deb\u00ed Suponerlo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 160367,
+      "name": "Deb\u00ed Suponerlo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -675,22 +675,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Cosas Del Diablo",
-        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
+        "name": "\u00bfSer\u00e1 Prudente?",
+        "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
         },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 176146,
-      "name": "Con Un Botecito A Pecho",
-      "url": "https://open.spotify.com/track/7mVBmaeIkZo0Vm2zddlszz"
+      "duration_ms": 226906,
+      "name": "\u00bfSer\u00e1 Prudente?",
+      "url": "https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -711,22 +711,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "\u00bfSer\u00e1 Prudente?",
-        "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
+        "name": "Cosas Del Diablo",
+        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         },
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 226906,
-      "name": "\u00bfSer\u00e1 Prudente?",
-      "url": "https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M"
+      "duration_ms": 176146,
+      "name": "Con Un Botecito A Pecho",
+      "url": "https://open.spotify.com/track/7mVBmaeIkZo0Vm2zddlszz"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Eran De Azucar Sus Labios",
+        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 187848,
+      "name": "Eran De Azucar Sus Labios",
+      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Todo Me Recuerda A Ti",
         "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 208106,
       "name": "Todo Me Recuerda A Ti",
       "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Eran De Azucar Sus Labios",
-        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 187848,
-      "name": "Eran De Azucar Sus Labios",
-      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
-        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 186640,
-      "name": "Renunciaci\u00f3n",
-      "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Prohibido",
         "url": "https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 188826,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 186640,
+      "name": "Renunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Dime Qu\u00e9 Se Siente",
-        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Dime Qu\u00e9 Se Siente",
-      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "X Personas Como T\u00fa",
         "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Dime Qu\u00e9 Se Siente",
+        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Dime Qu\u00e9 Se Siente",
+      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Se Disfraz\u00f3",
         "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
       },
@@ -1431,6 +1431,26 @@
       "duration_ms": 206383,
       "name": "Se Disfraz\u00f3",
       "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Fumo Y Bebo",
+        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Pablo Ocampo",
+          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
+        }
+      ],
+      "duration_ms": 148911,
+      "name": "Fumo Y Bebo",
+      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1463,26 +1483,6 @@
       "duration_ms": 185853,
       "name": "No Creo Merecerte",
       "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Fumo Y Bebo",
-        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Pablo Ocampo",
-          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
-        }
-      ],
-      "duration_ms": 148911,
-      "name": "Fumo Y Bebo",
-      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Paloma Blanca",
+        "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "PALOMA BLANCA",
+      "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Fue Tan Poco Tu Cari\u00f1o",
         "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
       },
@@ -1583,26 +1603,6 @@
       "duration_ms": 201802,
       "name": "Cuando Caiga la Noche",
       "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Paloma Blanca",
-        "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Mariachi Divas de Cindy Shea",
-          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
-        }
-      ],
-      "duration_ms": 233373,
-      "name": "PALOMA BLANCA",
-      "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 233879,
-      "name": "Uno Y Uno",
-      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 151555,
       "name": "Valiente",
       "url": "https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 233879,
+      "name": "Uno Y Uno",
+      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
     },
     {
       "added_at": "2023-11-10 05:00:00",

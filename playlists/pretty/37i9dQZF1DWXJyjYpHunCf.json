@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Darren Kiely",
-  "num_followers": 881936,
+  "num_followers": 882098,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmY3ZDc4MzlkZTRlYTAwZDU4MmRhNjhkNjQ1OWQzNDBjYzgyOGY2",
+  "snapshot_id": "MCxjZTE5NGIzNmFjOTAxYzBlNzRmNGNlZWYwZWI0YjI5OGExMDIxZGMz",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Rearview",
-        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 167865,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
         }
       ],
-      "duration_ms": 266999,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 266999,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1335,38 +1335,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Yours to Break",
-        "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
-      },
-      "artists": [
-        {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Wintergreen",
-      "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Backstage in Glasgow",
-        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 136107,
-      "name": "Backstage in Glasgow",
-      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "fifth avenue",
         "url": "https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 173376,
       "name": "fifth avenue",
       "url": "https://open.spotify.com/track/1IE79nIDouMaDGHEapWTUj"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Yours to Break",
+        "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
+      },
+      "artists": [
+        {
+          "name": "The East Pointers",
+          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Wintergreen",
+      "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Backstage in Glasgow",
+        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 136107,
+      "name": "Backstage in Glasgow",
+      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Pretty Picture, Dirty Brush",
         "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 156360,
       "name": "I Keep Ticking On",
       "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Summer Wind / All Summer (Where You Gonna Be?)",
-        "url": "https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 160581,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1483,22 +1467,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Worry No More",
-        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "We Still Move on Dance Floors",
         "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
       },
@@ -1511,6 +1479,22 @@
       "duration_ms": 163893,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Worry No More",
+        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1563,38 +1547,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 176321,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Yellow Paper Daisy",
-        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 199772,
-      "name": "Yellow Paper Daisy",
-      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Heart In The Water",
         "url": "https://open.spotify.com/album/5Uie78uNFG2u2VTVBA8ckG"
       },
@@ -1607,6 +1559,22 @@
       "duration_ms": 203178,
       "name": "Heart In The Water",
       "url": "https://open.spotify.com/track/7dDCYIuw6YUvcO1nzl8hP5"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Summer Wind / All Summer (Where You Gonna Be?)",
+        "url": "https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 160581,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1627,18 +1595,34 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h"
+        "name": "Yellow Paper Daisy",
+        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
       },
       "artists": [
         {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
         }
       ],
-      "duration_ms": 202110,
-      "name": "The Hunt",
-      "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
+      "duration_ms": 199772,
+      "name": "Yellow Paper Daisy",
+      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 176321,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1655,6 +1639,22 @@
       "duration_ms": 190843,
       "name": "same old eyes",
       "url": "https://open.spotify.com/track/6nrtAP312bEU352crkOQtu"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 202110,
+      "name": "The Hunt",
+      "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
     },
     {
       "added_at": "2023-12-01 05:00:00",

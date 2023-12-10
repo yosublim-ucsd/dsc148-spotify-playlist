@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68588,
+  "num_followers": 68598,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzhhYjFmNzQxMTBiYzM3NzIxYTgwOTMzZWY0YTFkZDJhNTU4YjRl",
+  "snapshot_id": "MCxkYWE3NGRhYjQ4MDFkNjcxYzE5ODc1NTRhNmYyZGVkYjc2Njk2MTYz",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Som Salomos S\u00e5ng",
         "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 188516,
       "name": "Kontakt",
       "url": "https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
     },
     {
       "added_at": "2023-10-12 22:00:00",

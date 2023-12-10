@@ -4,7 +4,7 @@
 
 > Classic rock favorites\. Cover: Bruce Springsteen
 
-164 songs - 11 hr 30 min
+166 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [And She Was](https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz) | 3:39 | 2022-03-04 |  |
 | [Angel from Montgomery](https://open.spotify.com/track/7fgho0AZlDBk6dmo9LUNC0) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Rhino Hi\-Five: John Prine](https://open.spotify.com/album/6tbaputaLMSI298F04OuOP) | 3:41 | 2014-01-07 | 2022-04-21 |
 | [Angel from Montgomery](https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 3:44 | 2022-03-04 |  |
-| [Ask the Lonely](https://open.spotify.com/track/7elZqrBZysXba7cTLkrw05) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 3:53 | 2022-03-04 |  |
+| [Ask the Lonely](https://open.spotify.com/track/7elZqrBZysXba7cTLkrw05) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 3:53 | 2022-03-04 | 2023-12-10 |
+| [Ask the Lonely](https://open.spotify.com/track/5KUfM9sjoGogDnrBulbVcW) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Only the Young \(Steve Perry & Bryce Miller Remix\)](https://open.spotify.com/album/1xG7RX2NZgW7jQWkJ7VfH0) | 3:53 | 2022-03-04 |  |
 | [Back It Up](https://open.spotify.com/track/3zhnCqD5ZcYNkhjFMjBaCC) | [Nils Lofgren](https://open.spotify.com/artist/2TpAfGX0XNikAg5QjrbbvE) | [Classics Volume 13](https://open.spotify.com/album/6DcPa9EXTJtsUrlYy58PiU) | 2:21 | 2014-01-07 | 2022-03-06 |
 | [Bad Company \- 2015 Remaster](https://open.spotify.com/track/36vTL8WP4ZoD1bbUaW0V3E) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Deluxe\)](https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p) | 4:48 | 2023-10-25 |  |
 | [Bad Moon Rising](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:21 | 2022-06-15 |  |
@@ -143,7 +144,8 @@
 | [Statesboro Blues](https://open.spotify.com/track/3NMUSNds2Xuiim7lXiu8s7) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Fillmore Concerts](https://open.spotify.com/album/6yFLnehFuHxBUcjPuYfgDm) | 4:17 | 2014-01-07 | 2022-04-21 |
 | [Statesboro Blues \- Live At Fillmore East, March 13, 1971](https://open.spotify.com/track/1BnfAYVesByA18sA9EAGiI) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 4:19 | 2022-03-04 |  |
 | [Stay with Me](https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:39 | 2022-03-31 |  |
-| [Stone in Love](https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:25 | 2022-03-04 |  |
+| [Stone in Love](https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:25 | 2022-03-04 | 2023-12-10 |
+| [Stone in Love \(2022 Remaster\)](https://open.spotify.com/track/5LyFTf7KMD3CsRA7B5gzEm) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:25 | 2022-03-04 |  |
 | [Strutter](https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:10 | 2022-03-04 |  |
 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/3vhJw6V39Gh1PpEMHjiMFO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 3:31 | 2014-01-07 |  |
 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 | 2022-03-04 |  |

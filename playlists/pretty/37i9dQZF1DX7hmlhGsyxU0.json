@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 149414,
+  "num_followers": 149512,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTE3NzdmOWI0M2FhMjhlMmQ1Njg1YmYzMTI4ZmYxOGY5ZjExMmZk",
+  "snapshot_id": "MCw1MTI1YjkxYWJiNTFkMzMzZjRmNDU5NTc3Y2NhYmE0ZGI1Mjk1MWIw",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Sad Cello & Piano XXII",
-        "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
-      },
-      "artists": [
-        {
-          "name": "Martin Czerny",
-          "url": "https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Tired Mind",
-      "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 153000,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Sad Cello & Piano XXII",
+        "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
+      },
+      "artists": [
+        {
+          "name": "Martin Czerny",
+          "url": "https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Tired Mind",
+      "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Heavy Moon",
-        "url": "https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kim-Sheng",
-          "url": "https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd"
-        }
-      ],
-      "duration_ms": 277138,
-      "name": "In a Field of Silence",
-      "url": "https://open.spotify.com/track/0LNvUKT6sskN56036poQCY"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 153387,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Heavy Moon",
+        "url": "https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kim-Sheng",
+          "url": "https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd"
+        }
+      ],
+      "duration_ms": 277138,
+      "name": "In a Field of Silence",
+      "url": "https://open.spotify.com/track/0LNvUKT6sskN56036poQCY"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
+      },
+      "artists": [
+        {
+          "name": "Cysur",
+          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
+        }
+      ],
+      "duration_ms": 132755,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "No Time But Eternity",
         "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
       },
@@ -387,6 +403,22 @@
       "duration_ms": 399544,
       "name": "No Time But Eternity",
       "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -407,22 +439,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
-      },
-      "artists": [
-        {
-          "name": "Cysur",
-          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
-        }
-      ],
-      "duration_ms": 132755,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Everything Is Everything Else",
         "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
       },
@@ -435,6 +451,22 @@
       "duration_ms": 281841,
       "name": "Everything Is Everything Else",
       "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Altair",
+        "url": "https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -459,22 +491,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Altair",
-        "url": "https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Zawadzki",
-          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Procyon",
-      "url": "https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Sea Notes",
         "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+        "name": "Calm Water",
+        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
       },
       "artists": [
         {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+          "name": "Elise Bordeaux",
+          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+      "duration_ms": 260729,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -539,18 +555,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Calm Water",
-        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
+        "name": "You Will Never Walk Alone (Glowworm Rework)",
+        "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
       },
       "artists": [
         {
-          "name": "Elise Bordeaux",
-          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
+          "name": "Maciej Sadowski",
+          "url": "https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J"
+        },
+        {
+          "name": "Glowworm",
+          "url": "https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw"
         }
       ],
-      "duration_ms": 260729,
-      "name": "Calm Water",
-      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
+      "duration_ms": 233120,
+      "name": "You Will Never Walk Alone - Glowworm Rework",
+      "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -571,26 +591,6 @@
       "duration_ms": 141610,
       "name": "Islands",
       "url": "https://open.spotify.com/track/6nEE1lj51T4efni3T2NxET"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "You Will Never Walk Alone (Glowworm Rework)",
-        "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
-      },
-      "artists": [
-        {
-          "name": "Maciej Sadowski",
-          "url": "https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J"
-        },
-        {
-          "name": "Glowworm",
-          "url": "https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "You Will Never Walk Alone - Glowworm Rework",
-      "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9mie Fauquet",
+          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
+        }
+      ],
+      "duration_ms": 108690,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Low Sun",
         "url": "https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 196537,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "S\u00e9r\u00e9nit\u00e9",
-        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9mie Fauquet",
-          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
-        }
-      ],
-      "duration_ms": 108690,
-      "name": "S\u00e9r\u00e9nit\u00e9",
-      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "How Time Works",
-        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
+        "name": "K\u00e4rlek",
+        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
       },
       "artists": [
         {
-          "name": "Eric Carlson",
-          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
+          "name": "Ruben Fjellner",
+          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
         }
       ],
-      "duration_ms": 225053,
-      "name": "How Time Works",
-      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
+      "duration_ms": 148672,
+      "name": "K\u00e4rlek",
+      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "K\u00e4rlek",
-        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
+        "name": "How Time Works",
+        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
       },
       "artists": [
         {
-          "name": "Ruben Fjellner",
-          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
+          "name": "Eric Carlson",
+          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
         }
       ],
-      "duration_ms": 148672,
-      "name": "K\u00e4rlek",
-      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
+      "duration_ms": 225053,
+      "name": "How Time Works",
+      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Adventure",
-        "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud Valanejad",
-          "url": "https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor"
-        }
-      ],
-      "duration_ms": 222909,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "S\u00f3liton",
         "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 122347,
       "name": "S\u00f3liton",
       "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Words Left Unspoken",
+        "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
+      },
+      "artists": [
+        {
+          "name": "Malin Eriksson",
+          "url": "https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU"
+        }
+      ],
+      "duration_ms": 165741,
+      "name": "A Winter's Tale",
+      "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Words Left Unspoken",
-        "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
       },
       "artists": [
         {
-          "name": "Malin Eriksson",
-          "url": "https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU"
+          "name": "Mahmoud Valanejad",
+          "url": "https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor"
         }
       ],
-      "duration_ms": 165741,
-      "name": "A Winter's Tale",
-      "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
+      "duration_ms": 222909,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Spirituality",
-        "url": "https://open.spotify.com/album/5BcPRt3YRZyq9vKkjMXuvF"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Zawadzki",
-          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
-        }
-      ],
-      "duration_ms": 173311,
-      "name": "Perceptions",
-      "url": "https://open.spotify.com/track/2AmTV3F2vLsWjDyALrga6T"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 163124,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/5IUQOzC9u2IMs6FcGEe5pX"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Spirituality",
+        "url": "https://open.spotify.com/album/5BcPRt3YRZyq9vKkjMXuvF"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "Perceptions",
+      "url": "https://open.spotify.com/track/2AmTV3F2vLsWjDyALrga6T"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Zerachiel",
-        "url": "https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 191870,
-      "name": "Zerachiel",
-      "url": "https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "EGUZKIA GALDU",
         "url": "https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 161981,
       "name": "EGUZKIA GALDU",
       "url": "https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Zerachiel",
+        "url": "https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 191870,
+      "name": "Zerachiel",
+      "url": "https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp"
     }
   ],
   "unique_name": "Instrumental Reading",

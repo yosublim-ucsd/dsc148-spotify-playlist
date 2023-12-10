@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 13748,
+  "num_followers": 13784,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGY1MjkwNDY4ZDcwMzJiNWE0NDM5MmYxMjZjNmE5MjhmMmI3Njgz",
+  "snapshot_id": "MCwzYWMyZjE3OWYyMTkzYzZmNTI2YTkyYmQ5MTA3ODdiNjU4NjFmZWZk",
   "tracks": [
     {
       "added_at": "2023-12-08 13:51:38",
@@ -91,6 +91,54 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
+        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "S\u00f3 Olha - Ao Vivo",
+      "url": "https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
+        "name": "ORDEM & PROGRESSO",
+        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "duration_ms": 200681,
+      "name": "Mo\u00e7ambique (feat. Chefin)",
+      "url": "https://open.spotify.com/track/6hwu64dRXsTdzXrS8Z2Pl8"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
         "name": "Proveito",
         "url": "https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6"
       },
@@ -107,6 +155,30 @@
       "duration_ms": 216000,
       "name": "Proveito",
       "url": "https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
+        "name": "Amor que vem e vai",
+        "url": "https://open.spotify.com/album/1npfnNdXSspeEQpYhIe8RO"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Mc Maha",
+          "url": "https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Amor que vem e vai",
+      "url": "https://open.spotify.com/track/2kloAyMQNjdswvFFMKNYAR"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -155,30 +227,6 @@
       "duration_ms": 158109,
       "name": "Do Mesmo Lado",
       "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
-        "name": "Amor que vem e vai",
-        "url": "https://open.spotify.com/album/1npfnNdXSspeEQpYhIe8RO"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "Mc Maha",
-          "url": "https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Amor que vem e vai",
-      "url": "https://open.spotify.com/track/2kloAyMQNjdswvFFMKNYAR"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -279,6 +327,26 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
+        "name": "Hipnose",
+        "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 209471,
+      "name": "Hipnose",
+      "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
         "name": "Abelha",
         "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
       },
@@ -299,26 +367,6 @@
       "duration_ms": 138666,
       "name": "Abelha",
       "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
-        "name": "Hipnose",
-        "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 209471,
-      "name": "Hipnose",
-      "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -347,6 +395,26 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
+        "name": "Quando C\u00ea Volta?",
+        "url": "https://open.spotify.com/album/18AkwFaynQyWDnHXRy9IWu"
+      },
+      "artists": [
+        {
+          "name": "Rare G",
+          "url": "https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Quando C\u00ea Volta?",
+      "url": "https://open.spotify.com/track/0GUdb0yoQbiTA2aAMHQo4z"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
         "name": "COLADINHO",
         "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
@@ -367,26 +435,6 @@
       "duration_ms": 152079,
       "name": "COLADINHO",
       "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
-        "name": "Quando C\u00ea Volta?",
-        "url": "https://open.spotify.com/album/18AkwFaynQyWDnHXRy9IWu"
-      },
-      "artists": [
-        {
-          "name": "Rare G",
-          "url": "https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH"
-        },
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "Quando C\u00ea Volta?",
-      "url": "https://open.spotify.com/track/0GUdb0yoQbiTA2aAMHQo4z"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -575,22 +623,22 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
-        "name": "Quando c\u00ea vem",
-        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
+        "name": "Que Cal\u00f4",
+        "url": "https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD"
       },
       "artists": [
         {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         }
       ],
-      "duration_ms": 216666,
-      "name": "Quando c\u00ea vem",
-      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
+      "duration_ms": 180512,
+      "name": "Que Cal\u00f4",
+      "url": "https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -623,6 +671,42 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
+        "name": "Quando c\u00ea vem",
+        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Quando c\u00ea vem",
+      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
+        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Oh N\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4OjfLZXliygHX2OeXKmc9i"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
         "name": "Desacelera",
         "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
       },
@@ -643,8 +727,8 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
-        "name": "Que Cal\u00f4",
-        "url": "https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD"
+        "name": "Afasta",
+        "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
       },
       "artists": [
         {
@@ -652,13 +736,13 @@
           "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         }
       ],
-      "duration_ms": 180512,
-      "name": "Que Cal\u00f4",
-      "url": "https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz"
+      "duration_ms": 175578,
+      "name": "Afasta",
+      "url": "https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -703,6 +787,22 @@
       "duration_ms": 205531,
       "name": "Do Nada",
       "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
+        "name": "TRI \u00c2NGULOS",
+        "url": "https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z"
+      },
+      "artists": [
+        {
+          "name": "Lell\u00ea",
+          "url": "https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY"
+        }
+      ],
+      "duration_ms": 119874,
+      "name": "PEGADA DE CRIA",
+      "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -787,30 +887,6 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
-        "name": "Te Vejo Mais Tarde",
-        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "\u00c9ffe",
-          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
-        }
-      ],
-      "duration_ms": 114117,
-      "name": "Te Vejo Mais Tarde",
-      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
@@ -843,18 +919,26 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
-        "name": "TRI \u00c2NGULOS",
-        "url": "https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z"
+        "name": "Te Vejo Mais Tarde",
+        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
       },
       "artists": [
         {
-          "name": "Lell\u00ea",
-          "url": "https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "\u00c9ffe",
+          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
         }
       ],
-      "duration_ms": 119874,
-      "name": "PEGADA DE CRIA",
-      "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
+      "duration_ms": 114117,
+      "name": "Te Vejo Mais Tarde",
+      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -903,26 +987,6 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "GR\u20acG MC",
-          "url": "https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
         "name": "N\u00e3o Prometeu Nada",
         "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
       },
@@ -947,26 +1011,22 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
-        "name": "O Que Ela Tem?",
-        "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
       },
       "artists": [
         {
-          "name": "Volpato",
-          "url": "https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl"
+          "name": "GR\u20acG MC",
+          "url": "https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u"
         },
         {
-          "name": "BETINHO",
-          "url": "https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa"
-        },
-        {
-          "name": "Dalua",
-          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
         }
       ],
-      "duration_ms": 133333,
-      "name": "O Que Ela Tem?",
-      "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -991,90 +1051,26 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
-        "name": "Afasta",
-        "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
+        "name": "O Que Ela Tem?",
+        "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
       },
       "artists": [
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "Volpato",
+          "url": "https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "BETINHO",
+          "url": "https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
         }
       ],
-      "duration_ms": 175578,
-      "name": "Afasta",
-      "url": "https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
-        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "S\u00f3 Olha - Ao Vivo",
-      "url": "https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
-        "name": "ORDEM & PROGRESSO",
-        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        }
-      ],
-      "duration_ms": 200681,
-      "name": "Mo\u00e7ambique (feat. Chefin)",
-      "url": "https://open.spotify.com/track/6hwu64dRXsTdzXrS8Z2Pl8"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
-        "name": "Enquanto o tempo passa",
-        "url": "https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "Enquanto o tempo passa",
-      "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
+      "duration_ms": 133333,
+      "name": "O Que Ela Tem?",
+      "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
     }
   ],
   "unique_name": "pique afrobeats",

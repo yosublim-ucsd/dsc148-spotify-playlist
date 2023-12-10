@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-254 songs - 15 hr 41 min
+255 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Body's In Trouble \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/40OXv3JCTBrMlh9DjDVXqy) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spotify Singles](https://open.spotify.com/album/4WQLkeOJulFut0ZPTFQQdi) | 3:44 | 2022-03-30 | 2023-01-12 |
 | [Born Again \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Spotify Singles](https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ) | 3:51 | 2021-10-27 | 2023-01-12 |
 | [Brass in Pocket](https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M) | 4:01 | 2023-01-11 | 2023-11-18 |
+| [Brass In Pocket](https://open.spotify.com/track/2esVltp50GeZiNSaUgQ6eD) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/72M2jrnfa3nubQ8W0TYt1v) | 4:01 | 2023-01-11 |  |
 | [Breathe \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:54 | 2023-01-11 |  |
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2023-01-11 |  |
 | [Can’t Let Go, Juno \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0JCAkoJtmFbZFhtBoFj5SL) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Spotify Singles](https://open.spotify.com/album/6dapn7qrubEtLbB8ZnU6Xw) | 4:21 | 2021-10-27 | 2022-07-29 |
@@ -240,7 +241,7 @@
 | [Uh Huh \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0BgN8OKw1OfbpKSSNI9C2L) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/0NiTGXkQbHfTIoS0Uc7OQn) | 2:09 | 2021-10-27 | 2022-07-29 |
 | [Unfucktheworld \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3hAA4dEyownaDxeKjMQv6R) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o) | 2:15 | 2022-03-30 |  |
 | [Unfucktheworld \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4r1JvA4aBEtx6uu4kSKBJ5) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/0iFbPnngmZnbKKeOR9r18P) | 2:15 | 2021-10-27 | 2022-07-29 |
-| [Until It Stops \- Spotify Singles](https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Until It Stops \(Spotify Singles\)](https://open.spotify.com/album/6EmA1GZ0KIb5cpXBOrIB5y) | 2:36 | 2023-01-11 |  |
+| [Until It Stops \- Spotify Singles](https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Until It Stops \(Spotify Singles\)](https://open.spotify.com/album/6EmA1GZ0KIb5cpXBOrIB5y) | 2:36 | 2023-01-11 | 2023-12-10 |
 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 | 2021-10-27 |  |
 | [Walking On A Dream \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5VxhB7hzV7rAR8YSjYPL8c) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Spotify Singles](https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur) | 3:57 | 2021-10-27 |  |
 | [Walking on Broken Glass \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Spotify Singles](https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm) | 4:28 | 2023-01-11 |  |

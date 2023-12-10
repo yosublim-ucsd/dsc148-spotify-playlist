@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Mateo Falgas",
-  "num_followers": 19092,
+  "num_followers": 19110,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGUzNGE3NzkzNTE3MTA5ZjYzMzZhMGZlMGI2ZDYwMmQ3Y2IxOWEy",
+  "snapshot_id": "MCwxNDRjODIzZjQzMmRmZjFkYjJmOGM5MWNiNGYwNTY4NmNlZTk5ZjUw",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Pajarito colibr\u00ed",
-      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 183880,
       "name": "Asilo (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Pajarito colibr\u00ed",
+      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/5Z6YX9a3A3quKgM0naXEaL"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/378lux3KIGNYTyFnB1cEXy"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Love Song (Helado Negro Remix)",
         "url": "https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 259226,
       "name": "Love Song - Helado Negro Remix",
       "url": "https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/5Z6YX9a3A3quKgM0naXEaL"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/378lux3KIGNYTyFnB1cEXy"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "\u00bfY Si Te Invito?",
+        "url": "https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR"
+      },
+      "artists": [
+        {
+          "name": "Axel M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u00bfY Si Te Invito?",
+      "url": "https://open.spotify.com/track/0foW7sax16CI8UizVAek32"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Violet",
         "url": "https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 224160,
       "name": "La Casa de la Esquina",
       "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "\u00bfY Si Te Invito?",
-        "url": "https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR"
-      },
-      "artists": [
-        {
-          "name": "Axel M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u00bfY Si Te Invito?",
-      "url": "https://open.spotify.com/track/0foW7sax16CI8UizVAek32"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 200613,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 187649,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 200613,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
       },
       "artists": [
         {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
         }
       ],
-      "duration_ms": 231604,
-      "name": "Un ratito m\u00e1s",
-      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
+      "duration_ms": 196034,
+      "name": "Hace rato",
+      "url": "https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
         }
       ],
-      "duration_ms": 196034,
-      "name": "Hace rato",
-      "url": "https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR"
+      "duration_ms": 231604,
+      "name": "Un ratito m\u00e1s",
+      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
     },
     {
       "added_at": "2023-12-01 05:01:00",

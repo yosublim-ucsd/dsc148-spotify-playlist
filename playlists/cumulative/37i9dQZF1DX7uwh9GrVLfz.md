@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Northern19
 
-672 songs - 1 day 11 hr 59 min
+674 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Before The Lights Go Out](https://open.spotify.com/track/3AsMIqAS33h6r2QW8WH9Fz) | [SIGHTS](https://open.spotify.com/artist/05pWxZtEoTKgwNOseyR8kB) | [EP2](https://open.spotify.com/album/6UVkUV4888FP5l2lmZEVXU) | 3:44 | 2022-05-24 | 2022-07-10 |
 | [BEK](https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:06 | 2022-05-24 | 2022-07-25 |
 | [Believe](https://open.spotify.com/track/4C13xDSsYbqoFyYJUu0ZQh) | [ALIVES](https://open.spotify.com/artist/18JTlzpST0PKdG2IpJZ8QK) | [Code of Alives](https://open.spotify.com/album/1MpsMC6rUebOZXt0ZNdzve) | 2:35 | 2022-05-19 | 2022-07-14 |
+| [Believer](https://open.spotify.com/track/0p5AeHVOl8nmEdyCbYkkH5) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2rd6vOxRnBTXJP1qizJs7C) | 2:49 | 2023-12-07 |  |
 | [Believer](https://open.spotify.com/track/4TJeTiTmNhzBBZeI4bSVTV) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2NK3TmaOmduXVBSm0LZ28N) | 2:49 | 2022-05-12 | 2022-07-27 |
 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 | 2022-07-21 | 2023-11-18 |
 | [BET ON ME](https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [Tell Your Story](https://open.spotify.com/album/6rlqdeK0VEjg5RbVWGrdR1) | 2:08 | 2023-08-22 | 2023-10-04 |
@@ -218,6 +219,7 @@
 | [Lazy](https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/6kVvpVvLHWXcAWth37cDv1) | 3:43 | 2023-05-16 | 2023-06-10 |
 | [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 | 2023-06-09 | 2023-06-14 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-20 | 2023-12-06 |
+| [Let It Go As If You Wander](https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW) | 2:42 | 2023-12-07 |  |
 | [Let The Beat Carry On](https://open.spotify.com/track/5aIxRbYvjSr5fYco54GbgA) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Four](https://open.spotify.com/album/1A2qh9qzsHSiN4jbRMSL7C) | 3:09 | 2022-05-12 | 2022-07-25 |
 | [Life is](https://open.spotify.com/track/1TWyvuvElJ57xCpsFD9ngs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 3:23 | 2023-07-11 | 2023-07-13 |
 | [Life is](https://open.spotify.com/track/7fwrQ99Av65pJVvpvqaW41) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 3:23 | 2023-07-11 | 2023-09-20 |
@@ -396,7 +398,7 @@
 | [STAR HIGH](https://open.spotify.com/track/6FX5Lz5hv454VbJCUZBqsy) | [WESTERN STAGE](https://open.spotify.com/artist/6TDe4nZC9oHCeANm5iAeFW) | [STAR HIGH](https://open.spotify.com/album/6TXnScqi7HwxgPPnoGbxLr) | 3:21 | 2023-08-22 | 2023-10-04 |
 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 | 2023-09-08 |
 | [STAY GLOW](https://open.spotify.com/track/3JdLuVZzVu8NAb6n2Ml49h) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [TAKUMA](https://open.spotify.com/artist/4nOzNf1MhztxPec9rMTQ1i) | [S.A.L](https://open.spotify.com/album/7sWgmxbx6fOYBxiQbyMG2L) | 5:10 | 2022-05-19 | 2022-07-27 |
-| [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 | 2022-08-02 |  |
+| [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 | 2022-08-02 | 2023-12-10 |
 | [STAY GOLD](https://open.spotify.com/track/4fyZ8EqPZzxPyrpMmr1CYQ) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/5ZLz1cMuiUoRDHx9qLmqqg) | 2:00 | 2022-05-12 | 2022-07-27 |
 | [STAY GOLD \- PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/track/1bFjI57VlMreMqR4Vtp2TJ) | [Akihiro Namba](https://open.spotify.com/artist/7F1stPkk7RZf19mw2mwtJH) | [PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/album/02tJBtvZr9frKBKY2cIJaW) | 2:29 | 2022-05-19 | 2022-07-27 |
 | [Stay Punk Forever](https://open.spotify.com/track/4kO0rBpUaPKV0d2r9w3Fip) | [THE STARBEMS](https://open.spotify.com/artist/6SXxBrj5sKrSXiAV2tpWWq) | [STAY PUNK FOREVER](https://open.spotify.com/album/0bIO2OKQ3k4fnE8tqUw03U) | 2:41 | 2022-05-19 | 2022-07-28 |
@@ -546,7 +548,7 @@
 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2022-05-12 |  |
 | [スターフィッシュ](https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Pepperoni Quattro](https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq) | 3:40 | 2022-05-12 |  |
 | [ストラトキャスター シーサイド](https://open.spotify.com/track/3NpIKdECp09WdI6X8Fc9qH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/5vZOWuL688iIuNSiZdlJqa) | 3:12 | 2022-05-17 | 2022-07-29 |
-| [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 | 2022-07-21 |  |
+| [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 | 2022-07-21 | 2023-12-10 |
 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 | 2022-05-17 |  |
 | [ストーム](https://open.spotify.com/track/560s6SSuAxlh5PJFPi7COb) | [SABOTEN](https://open.spotify.com/artist/7sXuNhQNs04fBoANVpwUq0) | [ストーム](https://open.spotify.com/album/7H6F4LE4umZnFTo6WC6XHC) | 2:30 | 2022-05-19 | 2022-07-25 |
 | [スピード](https://open.spotify.com/track/2TbBvejxOk5c9NIqrNVS4M) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [スピード](https://open.spotify.com/album/14ApXQjoFkwRnlR50UExDt) | 2:53 | 2022-05-12 | 2022-07-23 |

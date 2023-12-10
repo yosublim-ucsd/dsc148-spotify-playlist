@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Sipo, Inkonnu
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Onzy, Draganov
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,852 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,780 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,23 +17,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 7 | [BGHAWNI](https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:17 |
 | 8 | [Skhoon](https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Skhoon](https://open.spotify.com/album/6jrdwfwfKKQbs7kbhnN3Z2) | 2:59 |
 | 9 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 |
-| 10 | [TP](https://open.spotify.com/track/0TqIRFzVdgqZrAhQaeED8j) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:13 |
-| 11 | [ماما](https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [ماما](https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o) | 3:46 |
-| 12 | [JOUJ MIZAN](https://open.spotify.com/track/0J4y5Eq182zXfVERO8fqTD) | [HKZ Production](https://open.spotify.com/artist/6JDjrFsoGyhwiTI36dFra6), [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [JOUJ MIZAN](https://open.spotify.com/album/4GYRFzg6eT9WcyAkegwmdp) | 3:15 |
-| 13 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 |
-| 14 | [SULTAN](https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:24 |
-| 15 | [Akhennouch](https://open.spotify.com/track/4ue8qeZznm4DJJFs7DXYCk) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie](https://open.spotify.com/album/2f1y0eNkIK9RQdwhWdNJ8a) | 2:43 |
-| 16 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 |
-| 17 | [Omri](https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Omri](https://open.spotify.com/album/0SugmLl21ELoSvkZN3v3rp) | 3:45 |
-| 18 | [AJI TCHOUF](https://open.spotify.com/track/75DWIaOCmyEP7licOYs9pl) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [AJI TCHOUF](https://open.spotify.com/album/3QcLNHlCktUOE2d2QknP8K) | 3:56 |
-| 19 | [Wsalni MSG](https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Wsalni MSG](https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU) | 2:36 |
-| 20 | [Free Mami](https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [NAB FAKE](https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L) | [Free Mami](https://open.spotify.com/album/41ObiBc5qr2G0WGgxSIo2k) | 4:00 |
-| 21 | [ZOK](https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZOK](https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb) | 3:03 |
-| 22 | [Stephen Curry](https://open.spotify.com/track/07ywsLQdDF0lhOc6jjkccp) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Stephen Curry](https://open.spotify.com/album/4ieY1qa75WDQfK1wib55Ww) | 3:07 |
-| 23 | [R.I.P](https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 3:19 |
-| 24 | [Before Iceberg](https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Before Iceberg](https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW) | 2:35 |
-| 25 | [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 |
-| 26 | [Lmossiba \(المصيبة\)](https://open.spotify.com/track/0epZr5EAVHCi1VLSb227ky) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lmossiba \(المصيبة\)](https://open.spotify.com/album/0KIu6uf8aHHY4yebS9Zj0t) | 3:48 |
+| 10 | [M.I.M](https://open.spotify.com/track/1r2Fl6ZdRIAZpQDGR9X9ov) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [M.I.M](https://open.spotify.com/album/2gfPi1iEcCqRKuBxPprAxK) | 3:02 |
+| 11 | [TP](https://open.spotify.com/track/0TqIRFzVdgqZrAhQaeED8j) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:13 |
+| 12 | [ماما](https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [ماما](https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o) | 3:46 |
+| 13 | [JOUJ MIZAN](https://open.spotify.com/track/0J4y5Eq182zXfVERO8fqTD) | [HKZ Production](https://open.spotify.com/artist/6JDjrFsoGyhwiTI36dFra6), [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [JOUJ MIZAN](https://open.spotify.com/album/4GYRFzg6eT9WcyAkegwmdp) | 3:15 |
+| 14 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 |
+| 15 | [SULTAN](https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:24 |
+| 16 | [Akhennouch](https://open.spotify.com/track/4ue8qeZznm4DJJFs7DXYCk) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie](https://open.spotify.com/album/2f1y0eNkIK9RQdwhWdNJ8a) | 2:43 |
+| 17 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 |
+| 18 | [Omri](https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Omri](https://open.spotify.com/album/0SugmLl21ELoSvkZN3v3rp) | 3:45 |
+| 19 | [AJI TCHOUF](https://open.spotify.com/track/75DWIaOCmyEP7licOYs9pl) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [AJI TCHOUF](https://open.spotify.com/album/3QcLNHlCktUOE2d2QknP8K) | 3:56 |
+| 20 | [Wsalni MSG](https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Wsalni MSG](https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU) | 2:36 |
+| 21 | [Free Mami](https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [NAB FAKE](https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L) | [Free Mami](https://open.spotify.com/album/41ObiBc5qr2G0WGgxSIo2k) | 4:00 |
+| 22 | [ZOK](https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZOK](https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb) | 3:03 |
+| 23 | [Stephen Curry](https://open.spotify.com/track/07ywsLQdDF0lhOc6jjkccp) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Stephen Curry](https://open.spotify.com/album/4ieY1qa75WDQfK1wib55Ww) | 3:07 |
+| 24 | [R.I.P](https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 3:19 |
+| 25 | [Before Iceberg](https://open.spotify.com/track/1FY6b78b0u4GRhY1a3RAuL) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Before Iceberg](https://open.spotify.com/album/0fY9vEMGhf3326m70o0jzj) | 2:35 |
+| 26 | [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 |
 | 27 | [HASSIT](https://open.spotify.com/track/6tYP1jWtifDbPqbag1XFjF) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [HASSIT](https://open.spotify.com/album/16qfby0d8gOvjDJEESVVTb) | 3:31 |
 | 28 | [Work \(feat\. Madd\)](https://open.spotify.com/track/6VUtXun31L5rzAI8Ri9lKC) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:16 |
 | 29 | [Everlasting](https://open.spotify.com/track/2Be8nEJt4Hb7FSc2XvvGvU) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Everlasting](https://open.spotify.com/album/3uaYjrZkX6GWwH4kT3I0Cj) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 |
 | 50 | [FTA](https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [FTA](https://open.spotify.com/album/1u5Bd87EVRAabhPh4IkhnO) | 3:16 |
 
-Snapshot ID: `MCwzNmY3MDU2NTcxMzUxYWRiYTE2NTk3NDk1NjFlYWRlYjc2NWEzYTQx`
+Snapshot ID: `MCwwYjQ0OWYzMDNlNjY1MmYxMGM1N2U5YTI4NGQyYTVhYzg5MThmNWM3`

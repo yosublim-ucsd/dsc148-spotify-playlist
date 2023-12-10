@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aquene
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,723 likes - 76 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,729 likes - 76 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 14 | [Arah Rumah](https://open.spotify.com/track/3M3Dd5TzhhKOasuT3XyKPW) | [Aline Rose](https://open.spotify.com/artist/6UfH1HGCn133WLMSLGgN5p) | [Arah Rumah](https://open.spotify.com/album/0iVQIheNdb1Q7Ve3NHLgY5) | 3:36 |
 | 15 | [Forever](https://open.spotify.com/track/6INwdwLTaMIfcRGrZ8Fvx6) | [Rifaldy Bintara](https://open.spotify.com/artist/7FcxbQ4haTnNEMx74nBMjb) | [Freyanation Forever](https://open.spotify.com/album/7EQTgCWGluy3fczQUhyQVn) | 1:54 |
 | 16 | [Merajut Rasa](https://open.spotify.com/track/4pxnnZQCB6ZkzG3A5PYRT2) | [Odelia Sabrina](https://open.spotify.com/artist/6B5OOUXDbJT2heXdZuGOKs) | [Merajut Rasa](https://open.spotify.com/album/45FIJnswLHUM1UcQZKlCPY) | 3:57 |
-| 17 | [Jenuh](https://open.spotify.com/track/3FvoJPcdKyCTq0MQYvYLUg) | [Dara Arsa](https://open.spotify.com/artist/0aFUOKbOuFXkfIwEWcWRW4), [Eldi Rinaldi Oekon](https://open.spotify.com/artist/0hghyxYgXzKJkfM3J5TioD) | [Jenuh](https://open.spotify.com/album/0xpmr40GZWekbvxIB4sHTF) | 2:54 |
-| 18 | [Holding On](https://open.spotify.com/track/4KC1ghcmrOqUzpVMtDPWwE) | [Fazri](https://open.spotify.com/artist/54pqsLX0Snp0sVZTK9Pl0D), [Eldi Rinaldi Oekon](https://open.spotify.com/artist/0hghyxYgXzKJkfM3J5TioD) | [Holding On](https://open.spotify.com/album/0GFbrE7WiEo61OLqvIO9jc) | 4:08 |
+| 17 | [Jenuh](https://open.spotify.com/track/3FvoJPcdKyCTq0MQYvYLUg) | [Dara Arsa](https://open.spotify.com/artist/0aFUOKbOuFXkfIwEWcWRW4) | [Jenuh](https://open.spotify.com/album/0xpmr40GZWekbvxIB4sHTF) | 2:54 |
+| 18 | [Holding On](https://open.spotify.com/track/4KC1ghcmrOqUzpVMtDPWwE) | [Fazri](https://open.spotify.com/artist/0lezBpnudIKCjycrh8oLeW) | [Holding On](https://open.spotify.com/album/0GFbrE7WiEo61OLqvIO9jc) | 4:08 |
 | 19 | [All My Worries](https://open.spotify.com/track/7hfmAYVUmPkzJOHYZ9V4cJ) | [Athron](https://open.spotify.com/artist/1Pp0ZR4kYRlJ0BYK8Oyvjn), [Andreas Arianto](https://open.spotify.com/artist/1DQGUYEr9OxSlu11lxWizY) | [All My Worries](https://open.spotify.com/album/6dv2iltWNdSSBDiVhRyufx) | 3:21 |
 | 20 | [Rindu Enggan Pergi](https://open.spotify.com/track/22CdkAt39E78G2o1ffFdRU) | [Haikal Equino](https://open.spotify.com/artist/5pEEbhMFqK0x1uw3twr6jS) | [Rindu Enggan Pergi](https://open.spotify.com/album/6dPqRKQRxNQm4TqTzm6kqT) | 4:10 |
 | 21 | [Butterflies](https://open.spotify.com/track/0Cd1m9urXAgl2dADwSEvio) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Butterflies](https://open.spotify.com/album/0riwHA4hqJEaYi8GEXwzxp) | 3:25 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 75 | [Sejuta Miliar Dunia](https://open.spotify.com/track/2WqJ37P5GBXLXRkI2wLwZo) | [Sheemar](https://open.spotify.com/artist/39ALTxB78V8iEZbk5Q7D7h), [Melanie Putria](https://open.spotify.com/artist/6pFL2wbw65ZTXhtrvYIpem) | [Sejuta Miliar Dunia](https://open.spotify.com/album/7cGMUJGQj1x256p0rLo1la) | 3:48 |
 | 76 | [Hai Untukmu](https://open.spotify.com/track/59ztqQ3cU7tAZs8PtaWajM) | [Twnts](https://open.spotify.com/artist/25k3BnaRLcfQLY8ok2iAnb) | [Arah Waktu](https://open.spotify.com/album/73XdZzJsyKCQZyhIS4hdKv) | 3:45 |
 
-Snapshot ID: `MCw1ODI2N2MyOGUzMmQ2MjZlYzQyNzVlMzJkMjRjYTgxNTg2MDBiZTZi`
+Snapshot ID: `MCxmNTg3OGZhOTQxYjUwOTdlYWU3ZThiMjQ0ZmQzOWNlZDE1ZGI3NjQx`

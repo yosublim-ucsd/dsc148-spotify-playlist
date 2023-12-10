@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/7oKcUwsV1XB4ex51tTAhZk"
+      },
+      "artists": [
+        {
+          "name": "Joey Calveiro",
+          "url": "https://open.spotify.com/artist/0gBGs4D4ABcc4TiW8O2z1e"
+        },
+        {
+          "name": "Miriammar",
+          "url": "https://open.spotify.com/artist/15Su2hvJfqZsUU73oPdgth"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/5pX8Gz2174qB7OmKJTBvKF"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -2650,7 +2672,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 246760,
       "name": "Ciclista",
       "url": "https://open.spotify.com/track/6WbvCfyHZQQ7DLGyhEX4Gh"
@@ -5310,7 +5332,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 165142,
       "name": "Fui lo Mejor",
       "url": "https://open.spotify.com/track/3VYaovk7gH7mFeDfu8ULAr"
@@ -5680,7 +5702,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 171333,
       "name": "Hace Mucho Tiempo",
       "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
@@ -8218,6 +8240,28 @@
       "duration_ms": 163786,
       "name": "LUCES DE TECNO",
       "url": "https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe"
+    },
+    {
+      "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
       "album": {
@@ -13104,7 +13148,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"

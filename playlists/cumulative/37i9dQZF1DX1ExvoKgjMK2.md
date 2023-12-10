@@ -4,7 +4,7 @@
 
 > 마침내 파인애플 섬에서 열리는 '섬머소다 락페스타'! 그 생생한 현장과 함께 뮤지션 쿠키들의 추천곡을 만나보세요! \(Finally, 'Summer Soda Rock Festa' held on Pineapple Island! Meet the recommended songs of musician Cookies along with the vivid scene!\)
 
-38 songs - 1 hr 58 min
+39 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Curated by Parfait Cookie](https://open.spotify.com/track/5H1OLOCQ7W7mEIHwS5FEiJ) | [Parfait Cookie](https://open.spotify.com/artist/6ATi28P4pkZjfDKqlJWDtR) | [Parfait Cookie audio liners](https://open.spotify.com/album/3xad9at6OrKV7luk9u3Ki6) | 0:14 | 2023-07-11 |  |
 | [Curated by Rockstar Cookie](https://open.spotify.com/track/0cVmZSW9OvZj2Xydl5A0Qg) | [Rockstar Cookie](https://open.spotify.com/artist/5dKAbu1nRg7VPCMYfkmxJc) | [Rockstar Cookie audio liners](https://open.spotify.com/album/7ja0j7TQ5JT9N6ZZrQ86Uc) | 0:15 | 2023-07-11 |  |
 | [Curated by Shining Glitter Cookie](https://open.spotify.com/track/1pOhFArU9McNeoDZj4ADLR) | [Shining Glitter Cookie](https://open.spotify.com/artist/2Z1pjMZED8XfUqF5qmlIii) | [Shining Glitter Cookie audio liners](https://open.spotify.com/album/5Xlrdk16qXsq3vIjaMAYX8) | 0:12 | 2023-07-11 |  |
-| [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2023-07-11 |  |
+| [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2023-07-11 | 2023-12-10 |
+| [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 | 2023-07-20 |  |
 | [Drive](https://open.spotify.com/track/62RxVBrMVey7CjROBLsMIL) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Drive](https://open.spotify.com/album/0FvWAtuJrMGOd2UQ3sAvdI) | 4:00 | 2023-07-11 | 2023-09-03 |
 | [Ending Ment from Rockstar Cookie](https://open.spotify.com/track/6LpbWSrYiCrK9VWcSXTUoC) | [Rockstar Cookie](https://open.spotify.com/artist/5dKAbu1nRg7VPCMYfkmxJc) | [Rockstar Cookie audio liners](https://open.spotify.com/album/7ja0j7TQ5JT9N6ZZrQ86Uc) | 0:30 | 2023-07-11 |  |
 | [Even If the World Ends Tomorrow](https://open.spotify.com/track/3V3ORDW5cCr8LuGnWyUCMj) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Momentary Sixth Sense](https://open.spotify.com/album/2JzVi6d4gLdVFemJKJSPJf) | 4:22 | 2023-07-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 732380,
+  "num_followers": 732523,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODE1ZmU2ZDNlNWZiZWMwYTVkZTJmMDNlNmZhOGI4ZTE3YTIyZWFk",
+  "snapshot_id": "MCwzNjY3ODY4N2JmMWNkYjllZDM5ODMwNWExMGIxMmVlMmUzNzE3Nzlk",
   "tracks": [
     {
       "added_at": "2023-12-07 23:40:26",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-12-07 23:40:26",
       "album": {
-        "name": "MORFEO",
-        "url": "https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 233046,
-      "name": "MORFEO",
-      "url": "https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa"
-    },
-    {
-      "added_at": "2023-12-07 23:40:26",
-      "album": {
         "name": "Obsesionario",
         "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 266840,
       "name": "Obsesionario en La Mayor",
       "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
+    },
+    {
+      "added_at": "2023-12-07 23:40:26",
+      "album": {
+        "name": "MORFEO",
+        "url": "https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 233046,
+      "name": "MORFEO",
+      "url": "https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa"
     },
     {
       "added_at": "2023-12-07 23:40:26",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-07 23:40:26",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Te quiero igual",
-      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
-    },
-    {
-      "added_at": "2023-12-07 23:40:26",
-      "album": {
         "name": "Lobo Suelto",
         "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 231533,
       "name": "Un \u00c1ngel para Tu Soledad",
       "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
+    },
+    {
+      "added_at": "2023-12-07 23:40:26",
+      "album": {
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
     },
     {
       "added_at": "2023-12-07 23:40:26",
@@ -643,6 +643,22 @@
       "duration_ms": 207880,
       "name": "Nada Fue Un Error",
       "url": "https://open.spotify.com/track/1Ev18ptTlc3CBQMmKsIfjY"
+    },
+    {
+      "added_at": "2023-12-07 23:40:26",
+      "album": {
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "D\u00edganle",
+      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
     },
     {
       "added_at": "2023-12-07 23:40:26",
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-12-07 23:40:26",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 202440,
-      "name": "D\u00edganle",
-      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
+      "duration_ms": 234760,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
     },
     {
       "added_at": "2023-12-07 23:40:26",
@@ -711,22 +727,6 @@
       "duration_ms": 256190,
       "name": "M\u00edrenla",
       "url": "https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc"
-    },
-    {
-      "added_at": "2023-12-07 23:40:26",
-      "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
     },
     {
       "added_at": "2023-12-07 23:40:26",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-12-07 23:40:26",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 271400,
-      "name": "El Tesoro",
-      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
-    },
-    {
-      "added_at": "2023-12-07 23:40:26",
-      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 284531,
       "name": "Ella Dijo",
       "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
+    },
+    {
+      "added_at": "2023-12-07 23:40:26",
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 271400,
+      "name": "El Tesoro",
+      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
     },
     {
       "added_at": "2023-12-07 23:40:26",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-12-07 23:40:26",
       "album": {
-        "name": "Chac Tu Chac",
-        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Tan Solo",
-      "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
-    },
-    {
-      "added_at": "2023-12-07 23:40:26",
-      "album": {
         "name": "GUAU!",
         "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 237800,
       "name": "El Fantasma",
       "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
+    },
+    {
+      "added_at": "2023-12-07 23:40:26",
+      "album": {
+        "name": "Chac Tu Chac",
+        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Tan Solo",
+      "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
     },
     {
       "added_at": "2023-12-07 23:40:26",
@@ -1099,30 +1099,6 @@
     {
       "added_at": "2023-12-07 23:40:26",
       "album": {
-        "name": "Perfecta (Versi\u00f3n 2023)",
-        "url": "https://open.spotify.com/album/66H0ONEidLsiliImzsMkeM"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Perfecta (Versi\u00f3n 2023)",
-      "url": "https://open.spotify.com/track/6ABLjztDyv49ZSZYDexYtc"
-    },
-    {
-      "added_at": "2023-12-07 23:40:26",
-      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -1175,6 +1151,30 @@
     {
       "added_at": "2023-12-07 23:40:26",
       "album": {
+        "name": "Perfecta (Versi\u00f3n 2023)",
+        "url": "https://open.spotify.com/album/66H0ONEidLsiliImzsMkeM"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Perfecta (Versi\u00f3n 2023)",
+      "url": "https://open.spotify.com/track/6ABLjztDyv49ZSZYDexYtc"
+    },
+    {
+      "added_at": "2023-12-07 23:40:26",
+      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-12-07 23:40:26",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
-    },
-    {
-      "added_at": "2023-12-07 23:40:26",
-      "album": {
         "name": "Canciones Elegidas 93-04",
         "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 149880,
       "name": "Tu Locura",
       "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
+    },
+    {
+      "added_at": "2023-12-07 23:40:26",
+      "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2023-12-07 23:40:26",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-12-07 23:40:26",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
-    },
-    {
-      "added_at": "2023-12-07 23:40:26",
-      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 250173,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+    },
+    {
+      "added_at": "2023-12-07 23:40:26",
+      "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2023-12-07 23:40:26",

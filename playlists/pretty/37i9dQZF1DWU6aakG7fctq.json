@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Nsqk & legallyrxx",
-  "num_followers": 508448,
+  "num_followers": 508454,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWYxOTA1M2VmYmU1YmVhMjc0NDk0MGFjYjA5ZDAyMTgyZjFiZmRj",
+  "snapshot_id": "MCwzMzBjOWZmNzkxNjZhN2I4MDU5NDQ3NjFhOWZjY2MzYjMwOTZhYTk4",
   "tracks": [
     {
       "added_at": "2023-12-08 16:19:33",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
+        "name": "road 2 neverland",
+        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "falco",
+      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
         "name": "Hasta Que Llegue El Verano",
         "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
-        "name": "road 2 neverland",
-        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "falco",
-      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "oggy",
-        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 128618,
-      "name": "oggy",
-      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
         "name": "El diablo en el cuerpo",
         "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 266875,
       "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
+        "name": "oggy",
+        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 128618,
+      "name": "oggy",
+      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
+        "name": "Primer Recreo",
+        "url": "https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 235682,
+      "name": "Primer Recreo",
+      "url": "https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
         "name": "En Tus Aguas",
         "url": "https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP"
       },
@@ -855,70 +875,6 @@
       "duration_ms": 228250,
       "name": "Volando",
       "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
-        "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
-        "url": "https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL"
-      },
-      "artists": [
-        {
-          "name": "L\u00daA",
-          "url": "https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
-      "url": "https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
-        "name": "El Sol De Las 3",
-        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 152869,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 182782,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
-        "name": "Salvaje oeste",
-        "url": "https://open.spotify.com/album/5p9ly1x9t3JPuzQlvMXJmT"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 168571,
-      "name": "Salvaje oeste",
-      "url": "https://open.spotify.com/track/3Svnj02fGFGjIDACeUFuiI"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -943,18 +899,50 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+        "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
+        "url": "https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "L\u00daA",
+          "url": "https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM"
         }
       ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+      "duration_ms": 197760,
+      "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
+      "url": "https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
+        "name": "Salvaje oeste",
+        "url": "https://open.spotify.com/album/5p9ly1x9t3JPuzQlvMXJmT"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 168571,
+      "name": "Salvaje oeste",
+      "url": "https://open.spotify.com/track/3Svnj02fGFGjIDACeUFuiI"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 182782,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -971,6 +959,38 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
+        "name": "El Sol De Las 3",
+        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 152869,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1039,38 +1059,6 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "Saico",
-        "url": "https://open.spotify.com/album/112KC0njtpo0OmNXsqnpUu"
-      },
-      "artists": [
-        {
-          "name": "A.CHAL",
-          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
-        }
-      ],
-      "duration_ms": 220285,
-      "name": "Saico",
-      "url": "https://open.spotify.com/track/1O6C6BFlZQ9QLzn8yY8uHG"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
-        "name": "me da miedo que escuches esto",
-        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "te acuerdas de mi?",
-      "url": "https://open.spotify.com/track/1eYAhTrgoJVF8hi1j4n1lq"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
         "name": "555",
         "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
       },
@@ -1083,22 +1071,6 @@
       "duration_ms": 176335,
       "name": "LALALAND",
       "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1123,6 +1095,38 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
+        "name": "me da miedo que escuches esto",
+        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "te acuerdas de mi?",
+      "url": "https://open.spotify.com/track/1eYAhTrgoJVF8hi1j4n1lq"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
         "name": "Esperando",
         "url": "https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO"
       },
@@ -1135,6 +1139,54 @@
       "duration_ms": 141200,
       "name": "Esperando",
       "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
+        "name": "Saico",
+        "url": "https://open.spotify.com/album/112KC0njtpo0OmNXsqnpUu"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "duration_ms": 220285,
+      "name": "Saico",
+      "url": "https://open.spotify.com/track/1O6C6BFlZQ9QLzn8yY8uHG"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
+        "name": "Otros Ritmos",
+        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222115,
+      "name": "Otros Ritmos",
+      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1171,18 +1223,18 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "aqu\u00ed andamos",
-        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+        "name": "Midnight Freak-Out",
+        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
         }
       ],
-      "duration_ms": 135133,
-      "name": "aqu\u00ed andamos",
-      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+      "duration_ms": 200869,
+      "name": "Midnight Freak-Out",
+      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1203,18 +1255,18 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "Midnight Freak-Out",
-        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
+        "name": "MIEL",
+        "url": "https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "MIEL",
+          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Midnight Freak-Out",
-      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
+      "duration_ms": 135573,
+      "name": "LAS FURIAS // NOS MIRAN",
+      "url": "https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1239,18 +1291,18 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "MIEL",
-        "url": "https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP"
+        "name": "Gran Turismo",
+        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
       "artists": [
         {
-          "name": "MIEL",
-          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         }
       ],
-      "duration_ms": 135573,
-      "name": "LAS FURIAS // NOS MIRAN",
-      "url": "https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh"
+      "duration_ms": 133693,
+      "name": "Insurgentes",
+      "url": "https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1267,26 +1319,6 @@
       "duration_ms": 218752,
       "name": "Otra Vida",
       "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
-        "name": "Mi Droga Favorita",
-        "url": "https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Mi Droga Favorita",
-      "url": "https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1347,18 +1379,18 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "Otros Ritmos",
-        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/53vZo5q0F7jYsa7C2KDzku"
       },
       "artists": [
         {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
         }
       ],
-      "duration_ms": 222115,
-      "name": "Otros Ritmos",
-      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
+      "duration_ms": 176623,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/2K2nInEDfZrfxMO7AhswCE"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1399,34 +1431,38 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/53vZo5q0F7jYsa7C2KDzku"
+        "name": "MAKIA",
+        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
       },
       "artists": [
         {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 176623,
-      "name": "Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/2K2nInEDfZrfxMO7AhswCE"
+      "duration_ms": 195411,
+      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
+      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
     },
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "Gran Turismo",
-        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
+        "name": "Mi Droga Favorita",
+        "url": "https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL"
       },
       "artists": [
         {
           "name": "Isla de Caras",
           "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 133693,
-      "name": "Insurgentes",
-      "url": "https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH"
+      "duration_ms": 175813,
+      "name": "Mi Droga Favorita",
+      "url": "https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1451,18 +1487,18 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
         }
       ],
-      "duration_ms": 219666,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1487,38 +1523,18 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "MAKIA",
-        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 195411,
-      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
-      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
-        "name": "Primer Recreo",
-        "url": "https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 235682,
-      "name": "Primer Recreo",
-      "url": "https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS"
+      "duration_ms": 219666,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "no es culpa m\u00eda",
-        "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 185667,
-      "name": "no es culpa m\u00eda",
-      "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
         "name": "vidas",
         "url": "https://open.spotify.com/album/0tqR3K0g8GtOFE1rCkIg8U"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 253934,
       "name": "vidas",
       "url": "https://open.spotify.com/track/1feOGbkJwLkkv6Y2FUO7CK"
+    },
+    {
+      "added_at": "2023-12-08 16:19:33",
+      "album": {
+        "name": "no es culpa m\u00eda",
+        "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 185667,
+      "name": "no es culpa m\u00eda",
+      "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1587,22 +1603,6 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
-    },
-    {
-      "added_at": "2023-12-08 16:19:33",
-      "album": {
-        "name": "poco a poquito",
-        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "poco a poquito",
-      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
     },
     {
       "added_at": "2023-12-08 16:19:33",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-12-08 16:19:33",
       "album": {
-        "name": "Ac\u00e1",
-        "url": "https://open.spotify.com/album/3qUG8qKETKEmmZqhcRbGcX"
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/6m3XECdFtdnTqy1mplUb5R"
       },
       "artists": [
         {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Ac\u00e1",
-      "url": "https://open.spotify.com/track/1Y1ZjDVV24xDdnK2WiVsjc"
+      "duration_ms": 268000,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/696c9iYCZloDcTmB3lStdC"
     }
   ],
   "unique_name": "el nuevo indie",

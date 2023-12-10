@@ -4,7 +4,7 @@
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-88 songs - 5 hr 34 min
+89 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Tarik Ulur](https://open.spotify.com/track/7HBnW7E26egSo7p7DWs9XH) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Tarik Ulur](https://open.spotify.com/album/3nOtvP5lymtIrN6UT4M3kC) | 3:41 | 2023-03-16 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/1JSdMw0R2EIFpxMWX2ImNA) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Tennessee Whiskey](https://open.spotify.com/album/0WNnkenw79b5b9KWSuwXj7) | 4:08 | 2023-08-25 |  |
 | [Terdekap](https://open.spotify.com/track/5S6cVtlp3coBjEpjPnoi1A) | [Vhal Rasyid](https://open.spotify.com/artist/5eob7yaLtq4uMma1mJWVjk) | [Terdekap](https://open.spotify.com/album/10iZrxVkJJYwQ21NCumMGG) | 4:54 | 2023-03-16 |  |
-| [Terlalu Bodoh Untuk Bandung](https://open.spotify.com/track/128R9AyKcPSkVn5oxt5L0M) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Upaya Memaki](https://open.spotify.com/album/48pEKNlOxW5oHF6bpk5EbT) | 1:29 | 2023-03-16 |  |
+| [Terlalu Bodoh Untuk Bandung](https://open.spotify.com/track/128R9AyKcPSkVn5oxt5L0M) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Upaya Memaki](https://open.spotify.com/album/48pEKNlOxW5oHF6bpk5EbT) | 1:29 | 2023-03-16 | 2023-12-10 |
+| [Terlalu Bodoh Untuk Bandung](https://open.spotify.com/track/5g6PU8X2fHhfvo0LPsfAhD) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Upaya Memaki](https://open.spotify.com/album/62I2WcvJ92kjMQXnKfQQ99) | 1:29 | 2023-09-20 |  |
 | [The Enemy of Earth is You](https://open.spotify.com/track/18KnqQPHFwv4tBwtMEE9st) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [RETAS](https://open.spotify.com/album/1U3RzGU6OczSkzD0zB9Jrp) | 3:35 | 2023-07-13 |  |
 | [The Enemy of Earth is You](https://open.spotify.com/track/2ORSWXNr3qHE1U8i5sj3VL) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [What's The Holy \(Nobel\) Today?](https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK) | 3:35 | 2023-06-22 | 2023-07-17 |
 | [The Enemy of Earth is You](https://open.spotify.com/track/74eQ6hDcu2HB07q57aYvnm) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [The Enemy of Earth is You](https://open.spotify.com/album/54hOsIViJLffkjUq8llfVB) | 3:35 | 2023-05-19 | 2023-06-28 |

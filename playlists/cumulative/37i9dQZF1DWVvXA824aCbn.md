@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-508 songs - 1 day 8 hr 34 min
+510 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [In the Rain](https://open.spotify.com/track/3cT3PwSMVB7wKkeiLvfYez) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [In the Rain](https://open.spotify.com/album/5Oa3uJhlz8F0wjNe41IvPX) | 3:58 | 2023-08-10 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/6GqdOl9kasXJdzfcUboF1a) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/7cxKG7mTCE6hmI3t1SsJvk) | 4:30 | 2020-10-20\* | 2023-10-22 |
 | [In Thoughtful](https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 4:02 | 2020-10-20\* | 2023-11-26 |
+| [In Your Arms](https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [In Your Arms](https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49) | 3:33 | 2023-12-08 |  |
 | [Infant Eyes](https://open.spotify.com/track/4PEO2xAMctCKn1D7ocUR8S) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 4:33 | 2020-10-20\* | 2023-10-29 |
 | [Isfahan](https://open.spotify.com/track/3qHkojTMHvL6CduADwqsLk) | [Francis Frost Duo](https://open.spotify.com/artist/5fDbSIxXEyyfVMYMq3fIur) | [Isfahan](https://open.spotify.com/album/6c2oXnuik7GmOD1TIRwyS2) | 4:08 | 2021-01-07 | 2022-09-03 |
 | [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2020-10-20\* | 2021-01-21 |
@@ -275,7 +276,7 @@
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2020-10-20\* |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-10-16 |  |
 | [Love Walked In](https://open.spotify.com/track/1H460eor4CG8p8OAz7TGYM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Love Walked In](https://open.spotify.com/album/47lb71I4VeNVfdXZma2o3M) | 3:40 | 2022-05-17 | 2022-11-18 |
-| [Lunar Eclipse](https://open.spotify.com/track/0Q9gFXZfjSQKXgjnqhgmnm) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:32 | 2023-09-22 |  |
+| [Lunar Eclipse](https://open.spotify.com/track/0Q9gFXZfjSQKXgjnqhgmnm) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:32 | 2023-09-22 | 2023-12-10 |
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-14 |  |
 | [Make bad worse](https://open.spotify.com/track/0YSEDfbMKIihgvPsqmERWu) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Make bad worse](https://open.spotify.com/album/7ty0Qser224kx5eqTevfPq) | 2:40 | 2023-10-06 |  |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 |  |
@@ -371,7 +372,7 @@
 | [Skylark](https://open.spotify.com/track/45uUsc9TX693ldNPmqoa8d) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Skylark](https://open.spotify.com/album/2GgNwCoPK747pxmDfB6FhL) | 3:09 | 2021-11-25 |  |
 | [Sleep Deprivation](https://open.spotify.com/track/1xNbrJNkuEmItjwCt2dvnM) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:30 | 2023-09-22 | 2023-10-08 |
 | [Slide](https://open.spotify.com/track/3ZAS8KpfVyIbd5QU53gypW) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Catcher](https://open.spotify.com/album/2kUpjLxnQsEQ2wvzCw4Nsg) | 3:10 | 2020-10-20\* |  |
-| [Slow Walk](https://open.spotify.com/track/6Dt4OkMHGhugPLCnaTh6Ji) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Slow Walk](https://open.spotify.com/album/31dAe3s3z2hkGQ32buTf8r) | 4:26 | 2021-03-10 |  |
+| [Slow Walk](https://open.spotify.com/track/6Dt4OkMHGhugPLCnaTh6Ji) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Slow Walk](https://open.spotify.com/album/31dAe3s3z2hkGQ32buTf8r) | 4:26 | 2021-03-10 | 2023-12-10 |
 | [smoke gets in your eyes](https://open.spotify.com/track/0WXuLZxRXOAYdS5xJrJiQD) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 4:03 | 2020-10-20\* | 2021-01-21 |
 | [Snow Keeps Falling](https://open.spotify.com/track/2bNYgVK6yXzAuFD6uMWKsv) | [Ronald & the Fairies](https://open.spotify.com/artist/7EyQn2KSLStE6tXcdpDOXm) | [Snow Keeps Falling](https://open.spotify.com/album/1rKjHI0aRqFSIP6mUDAW38) | 2:31 | 2020-10-20\* | 2021-01-21 |
 | [Solitaire](https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Solitaire](https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw) | 3:31 | 2023-03-02 |  |
@@ -477,6 +478,7 @@
 | [Walking talking fields](https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Walking talking fields](https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr) | 3:54 | 2023-09-29 |  |
 | [Wallflower](https://open.spotify.com/track/5UmbhPeNquH5OmwJ8oGuAP) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Wallflower](https://open.spotify.com/album/3tzw5TaV9l6hhMczQiTSPK) | 3:40 | 2023-09-29 |  |
 | [Waltz For Ola](https://open.spotify.com/track/01Lv5YnZl96AjZju2KWu63) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:14 | 2022-11-10 |  |
+| [Was It Me?](https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Was It Me?](https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv) | 4:21 | 2023-12-08 |  |
 | [Waterfall](https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Waterfall](https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc) | 2:32 | 2023-01-12 |  |
 | [We're Almost At The End](https://open.spotify.com/track/6WMZ32iT8I5T2UUSQTdWf9) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Just a Thought](https://open.spotify.com/album/7ngLJAYrufQRkz9GHjvhto) | 2:08 | 2023-01-19 |  |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2022-05-24 |  |

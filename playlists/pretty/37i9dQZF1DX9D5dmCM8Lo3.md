@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,987 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,099 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 18 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
 | 19 | [C3L3STIAL\_CITY](https://open.spotify.com/track/3A65Lka539xAGXoNNAN1Bs) | [bliss3three](https://open.spotify.com/artist/5tP9MksSHHb59vV4N6HMHI) | [C3L3STIAL天の](https://open.spotify.com/album/3fRYgemQ0936FpVBvUjEgk) | 1:08 |
 | 20 | [I Saw an Angel](https://open.spotify.com/track/4PqdOR9uAfyNp67P9k3bH2) | [Puzzle](https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V) | [Soaring](https://open.spotify.com/album/3piPM3MXYU1wmB9yz7UHcQ) | 2:43 |
-| 21 | [backroom labyrinth](https://open.spotify.com/track/0HRk2U8OCDkS2asQEt22wf) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [backroom labyrinth](https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk) | 2:48 |
-| 22 | [My Head Hurts](https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 3:06 |
-| 23 | [lain](https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2) | [C4FF31N3](https://open.spotify.com/artist/2nfx8RFGKqdv3gFCYrODVy) | [lain](https://open.spotify.com/album/46hmpGRHhtVWAlc5HmvfCC) | 3:46 |
+| 21 | [lain](https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2) | [C4FF31N3](https://open.spotify.com/artist/2nfx8RFGKqdv3gFCYrODVy) | [lain](https://open.spotify.com/album/46hmpGRHhtVWAlc5HmvfCC) | 3:46 |
+| 22 | [backroom labyrinth](https://open.spotify.com/track/0HRk2U8OCDkS2asQEt22wf) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [backroom labyrinth](https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk) | 2:48 |
+| 23 | [My Head Hurts](https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 3:06 |
 | 24 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
 | 25 | [Cyan Hardcore](https://open.spotify.com/track/3tHuc2GGxetquuJKCleNmK) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/5BPW34xVtNwez7rVSjWQB3) | 5:05 |
 | 26 | [Dreamscape](https://open.spotify.com/track/5fp6m6Zo4LetiWaMMrPjy5) | [009 Sound System](https://open.spotify.com/artist/0BjppA384A5QT9kRKCJOyb) | [009 Sound System](https://open.spotify.com/album/5W3etTwlyw2ykgwk5sW8K3) | 4:37 |
 | 27 | [Deep Swim](https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Enchanted Instrumentals and Whispers](https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N) | 4:16 |
 | 28 | [Implanted Memories](https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Computer Afterlife](https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq) | 1:26 |
-| 29 | [nastasia](https://open.spotify.com/track/5gXpckUFPU8cG04Nl7WzJ9) | [JVNLIII](https://open.spotify.com/artist/5FbRtOLjDzVlmKm1RnlOz2) | [nastasia](https://open.spotify.com/album/6J1jrUGceVNx72VzemcGe0) | 1:12 |
-| 30 | [Midnight](https://open.spotify.com/track/4vfs5DGaVSnMxbtnzkRL6y) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH) | [Umbrae](https://open.spotify.com/album/2HOlwyoPNjveiZH9PPhHtM) | 2:06 |
+| 29 | [Midnight](https://open.spotify.com/track/4vfs5DGaVSnMxbtnzkRL6y) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH) | [Umbrae](https://open.spotify.com/album/2HOlwyoPNjveiZH9PPhHtM) | 2:06 |
+| 30 | [nastasia](https://open.spotify.com/track/5gXpckUFPU8cG04Nl7WzJ9) | [JVNLIII](https://open.spotify.com/artist/5FbRtOLjDzVlmKm1RnlOz2) | [nastasia](https://open.spotify.com/album/6J1jrUGceVNx72VzemcGe0) | 1:12 |
 | 31 | [icosa](https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [THIRTY三十](https://open.spotify.com/album/03CdWrUe6zg8QM9yOosxq4) | 2:43 |
 | 32 | [804](https://open.spotify.com/track/6jLaIaYXWkneF8qp99t3z4) | [Mayo.](https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX) | [804](https://open.spotify.com/album/6ZzVFa0F3KuUHVqf8bse0h) | 1:29 |
 | 33 | [Blackbird](https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c) | [Zock](https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP) | [Blackbird](https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc) | 1:36 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 47 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
 | 48 | [VOCALOID UTOPIA](https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [VOCALOID DYSTOPIA](https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx) | 2:24 |
 | 49 | [Through The Hosiery](https://open.spotify.com/track/6pGxDQNsAzAXSTM36XEG4U) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 3:06 |
-| 50 | [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1) | [slaywitme](https://open.spotify.com/artist/6iuyjc5Y2UTDG9htNrLAcw) | [morrigan](https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3) | 2:22 |
+| 50 | [Avenues](https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Avenues](https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71) | 2:55 |
 
-Snapshot ID: `MCw0YWI3NzNlNjFmODI0MGNiZjBkMDQzZWU5YTYyODA4YmQ3NTFmMDc3`
+Snapshot ID: `MCxlNjEzMDQzNDgzNDdlYzJhMzkzYjFmMGRmMGVkOGFiN2IwNTc1YjYz`

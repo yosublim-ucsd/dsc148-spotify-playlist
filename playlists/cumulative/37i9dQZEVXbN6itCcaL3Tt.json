@@ -14102,7 +14102,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 209240,
       "name": "Ka\u017cdy tylko nie ja",
       "url": "https://open.spotify.com/track/422qQPiaDdgzKSb7ZBKwwr"
@@ -19952,6 +19952,24 @@
       "duration_ms": 177887,
       "name": "Nie Wszystek Umr\u0119",
       "url": "https://open.spotify.com/track/0SRumejv1N8h0qkQVwDl0S"
+    },
+    {
+      "album": {
+        "name": "Wersow Store",
+        "url": "https://open.spotify.com/album/26HwXKDfV84xhaVLwQc9vo"
+      },
+      "artists": [
+        {
+          "name": "WERSOW",
+          "url": "https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "Nie wypada",
+      "url": "https://open.spotify.com/track/1G9GZAE3giQBPfAmeXXOYk"
     },
     {
       "album": {

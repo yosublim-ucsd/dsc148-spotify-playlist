@@ -1,12 +1,12 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9",
-  "num_followers": 824007,
+  "num_followers": 824010,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGRjM2M4Yjc5NWFhNzJiZWYwMWQwNzkwZjllMzhmMzkwMjE4ZTEw",
+  "snapshot_id": "MCxkMTYwOGFjNWQ4MTI5MjE2MmRhNGFlMTkwZWM0ZGNmYjU1ZDM5MGQx",
   "tracks": [
     {
       "added_at": "2023-08-17 16:24:24",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Bubble Gum",
-      "url": "https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "Parked Car Convos",
         "url": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 148640,
       "name": "Love Songs - Bonus",
       "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Bubble Gum",
+      "url": "https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 260519,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -807,6 +791,22 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "wannabewithu",
-        "url": "https://open.spotify.com/album/1rQys03txxThcRZLofLlHY"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Lover Is a Day",
-      "url": "https://open.spotify.com/track/1ucnuV88gFTfR3BalmznDk"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "Flaming Hot Cheetos",
         "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 123884,
       "name": "Flaming Hot Cheetos",
       "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "wannabewithu",
+        "url": "https://open.spotify.com/album/1rQys03txxThcRZLofLlHY"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Lover Is a Day",
+      "url": "https://open.spotify.com/track/1ucnuV88gFTfR3BalmznDk"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M"
+      },
+      "artists": [
+        {
+          "name": "Home",
+          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
+        }
+      ],
+      "duration_ms": 212881,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
         "name": "Cherry Wine",
         "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
       },
@@ -987,6 +1003,22 @@
       "duration_ms": 173286,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 178352,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -1039,22 +1071,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Pretty Girl",
-        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 178352,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "Apollo XXI",
         "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 224444,
       "name": "N Side",
       "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M"
-      },
-      "artists": [
-        {
-          "name": "Home",
-          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
-        }
-      ],
-      "duration_ms": 212881,
-      "name": "Resonance",
-      "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "THE REAPER",
-        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 182678,
-      "name": "like i need u",
-      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "Typical of Me EP",
         "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 329049,
       "name": "Boys Will Be Bugs",
       "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "THE REAPER",
+        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 182678,
+      "name": "like i need u",
+      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
     },
     {
       "added_at": "2023-08-17 16:24:24",

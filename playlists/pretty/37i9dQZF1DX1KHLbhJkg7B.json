@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 101990,
+  "num_followers": 102026,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDliZTc3OTRhYTk1YzFkNzIwNjA1ZDQ1MGRhMmViM2FiZjE2MDQz",
+  "snapshot_id": "MCxhZmY5NDMzMDQyY2UxYmM4YzdkMjQ1MWMzOGEwNjEwYTIwZGI2YmM5",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Simply The Hits",
-        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Walking In Memphis",
-      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Maoli Music Overload",
         "url": "https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 175227,
       "name": "Make Me Want To",
       "url": "https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Simply The Hits",
+        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Walking In Memphis",
+      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1395,6 +1395,22 @@
       "duration_ms": 157025,
       "name": "Much Too Young To Feel This Damn Old (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/7DMm8vpHp1uC5jXRLXD1mz"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Clay Pigeons",
+        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Cowboy Take Me Away",
-        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1547,18 +1547,54 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Clay Pigeons",
-        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
+        "name": "Cowboy Take Me Away",
+        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
       },
       "artists": [
         {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 230666,
-      "name": "Clay Pigeons",
-      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
+      "duration_ms": 269306,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Love Is Alive",
+        "url": "https://open.spotify.com/album/5osk5V7uL3lQzejyvan1Bt"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 232056,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/623qVmC3LmsRQeFk3jlkLc"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Dammit",
+        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "duration_ms": 199445,
+      "name": "Dammit",
+      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1583,38 +1619,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Dammit",
-        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
       },
       "artists": [
         {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 199445,
-      "name": "Dammit",
-      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Love Is Alive",
-        "url": "https://open.spotify.com/album/5osk5V7uL3lQzejyvan1Bt"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 232056,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/623qVmC3LmsRQeFk3jlkLc"
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Bless the Broken Road",
         "url": "https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo"
       },
@@ -1679,6 +1679,26 @@
       "duration_ms": 186560,
       "name": "Bless the Broken Road",
       "url": "https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 269382,
+      "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1703,22 +1723,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm"
+        "name": "Feeling Whitney",
+        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
       },
       "artists": [
         {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+          "name": "Tyler Booth",
+          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
         }
       ],
-      "duration_ms": 269382,
-      "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
-      "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
+      "duration_ms": 217034,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1751,22 +1767,6 @@
       "duration_ms": 226293,
       "name": "Dreams - The Campfire Sessions",
       "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Feeling Whitney",
-        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
-      },
-      "artists": [
-        {
-          "name": "Tyler Booth",
-          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
-        }
-      ],
-      "duration_ms": 217034,
-      "name": "Feeling Whitney",
-      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
     }
   ],
   "unique_name": "Country Covers",

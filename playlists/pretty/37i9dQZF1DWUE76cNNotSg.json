@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 493632,
+  "num_followers": 493723,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzkwYjI0Y2M5MGQ1YjRkZTY2ZTMzMGY5Y2M5M2EwYWQ4NjFlZDUz",
+  "snapshot_id": "MCw1NDY3MDQ1Y2IxYjIzMGRjMmQ3ZDY1MmU4OTUyYzY4ZDQ2MTBmNTQ3",
   "tracks": [
     {
       "added_at": "2023-12-08 17:14:32",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "Thrill of the Arts",
-        "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        }
-      ],
-      "duration_ms": 181259,
-      "name": "Back Pocket",
-      "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
-    },
-    {
-      "added_at": "2023-12-08 17:14:32",
-      "album": {
         "name": "Pacific Standard Time",
         "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 368773,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "added_at": "2023-12-08 17:14:32",
+      "album": {
+        "name": "Thrill of the Arts",
+        "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        }
+      ],
+      "duration_ms": 181259,
+      "name": "Back Pocket",
+      "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
+    },
+    {
+      "added_at": "2023-12-08 17:14:32",
+      "album": {
         "name": "Heights",
         "url": "https://open.spotify.com/album/59IswWk54vUt2dT0tvSzPJ"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
-    },
-    {
-      "added_at": "2023-12-08 17:14:32",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
       },
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+        "name": "I Do (Vandelux Remix)",
+        "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
         }
       ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+      "duration_ms": 196558,
+      "name": "I Do - Vandelux Remix",
+      "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
-        "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        },
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 213733,
-      "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
-      "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+        "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
+        "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        },
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
         }
       ],
-      "duration_ms": 163758,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
+      "duration_ms": 213733,
+      "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
+      "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1167,22 +1171,34 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "I Do (Vandelux Remix)",
-        "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
       },
       "artists": [
         {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 196558,
-      "name": "I Do - Vandelux Remix",
-      "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
+      "duration_ms": 163758,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
+    },
+    {
+      "added_at": "2023-12-08 17:14:32",
+      "album": {
+        "name": "Chika (scared)",
+        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 168245,
+      "name": "Chika (scared)",
+      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1215,22 +1231,6 @@
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
-    },
-    {
-      "added_at": "2023-12-08 17:14:32",
-      "album": {
-        "name": "Chika (scared)",
-        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 168245,
-      "name": "Chika (scared)",
-      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "easy breezy",
-        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "easy breezy",
-      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
-    },
-    {
-      "added_at": "2023-12-08 17:14:32",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 349413,
       "name": "Pizza Guy",
       "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
+    },
+    {
+      "added_at": "2023-12-08 17:14:32",
+      "album": {
+        "name": "easy breezy",
+        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "easy breezy",
+      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1403,22 +1403,18 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "It's All a Bit Fuzzy",
-        "url": "https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL"
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
         }
       ],
-      "duration_ms": 194754,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh"
+      "duration_ms": 180533,
+      "name": "UH",
+      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1439,22 +1435,22 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "Fabrique Club",
-        "url": "https://open.spotify.com/album/6Hw68lfchRLr4nfRAnC45E"
+        "name": "It's All a Bit Fuzzy",
+        "url": "https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL"
       },
       "artists": [
         {
-          "name": "Moi Je",
-          "url": "https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         },
         {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 227697,
-      "name": "Fais rien (Petit Biscuit Remix)",
-      "url": "https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4"
+      "duration_ms": 194754,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1479,38 +1475,22 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+        "name": "Fabrique Club",
+        "url": "https://open.spotify.com/album/6Hw68lfchRLr4nfRAnC45E"
       },
       "artists": [
         {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "UH",
-      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
-    },
-    {
-      "added_at": "2023-12-08 17:14:32",
-      "album": {
-        "name": "Woodstock (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Moi Je",
+          "url": "https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW"
         },
         {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         }
       ],
-      "duration_ms": 194434,
-      "name": "Feel It Still - Medasin Remix",
-      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
+      "duration_ms": 227697,
+      "name": "Fais rien (Petit Biscuit Remix)",
+      "url": "https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1531,6 +1511,26 @@
       "duration_ms": 349962,
       "name": "Shine a Light - Flight Facilities Remix",
       "url": "https://open.spotify.com/track/2nNSYajMD4ScHbhthVPqrh"
+    },
+    {
+      "added_at": "2023-12-08 17:14:32",
+      "album": {
+        "name": "Woodstock (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "duration_ms": 194434,
+      "name": "Feel It Still - Medasin Remix",
+      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
+    },
+    {
+      "added_at": "2023-12-08 17:14:32",
+      "album": {
         "name": "Sunlight (feat. Years & Years) [Remixes]",
         "url": "https://open.spotify.com/album/08jeLY28AzZc8yEQ9jcUBO"
       },
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
-    },
-    {
-      "added_at": "2023-12-08 17:14:32",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "Home For Now",
-        "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
-      },
-      "artists": [
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
-    },
-    {
-      "added_at": "2023-12-08 17:14:32",
-      "album": {
         "name": "About A Feeling",
         "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 247572,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2023-12-08 17:14:32",
+      "album": {
+        "name": "Home For Now",
+        "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
+      },
+      "artists": [
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "What Falling in Love Is For",
-        "url": "https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68"
+        "name": "Slugs of Love",
+        "url": "https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 174791,
-      "name": "What Falling in Love Is For",
-      "url": "https://open.spotify.com/track/6TYT1WKmZXZOkZDqDoNuAX"
+      "duration_ms": 166125,
+      "name": "Disco Dangerous",
+      "url": "https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652"
     }
   ],
   "unique_name": "golden hour",

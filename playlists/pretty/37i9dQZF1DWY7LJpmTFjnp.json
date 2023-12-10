@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov en portada. ",
-  "num_followers": 1012415,
+  "num_followers": 1012509,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTgxMTdlMjIyYzIxNjgxNzA4MjZjNjkwMWMyMThkMjI5Mzg1MDBk",
+  "snapshot_id": "MCw0ZjU2MmQ3OGE5MDgxYjU0MDVkNTc4NWIwNzNkYjkyOWZlM2ZlMDEz",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 135133,
       "name": "Las flores",
       "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "El Segundo Es Felino",
         "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 236266,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
+        "name": "Hola Chicuelos",
+        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
         }
       ],
-      "duration_ms": 258573,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
+      "duration_ms": 216600,
+      "name": "Peligroso Pop",
+      "url": "https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -719,34 +719,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Hola Chicuelos",
-        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
       },
       "artists": [
         {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 216600,
-      "name": "Peligroso Pop",
-      "url": "https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Donde Jugaran Las Ni\u00f1as",
-        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
+      "duration_ms": 258573,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -767,34 +751,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "El sombrerero loco",
-        "url": "https://open.spotify.com/album/64KmxosC8CmHppBI2leRdl"
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
       },
       "artists": [
         {
-          "name": "M\u00e4go de Oz",
-          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
         }
       ],
-      "duration_ms": 270666,
-      "name": "El sombrerero loco",
-      "url": "https://open.spotify.com/track/5W6B8o2GIICi43uDMNIFHT"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 283013,
-      "name": "Tu Volver\u00e1s",
-      "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -815,6 +783,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 283013,
+      "name": "Tu Volver\u00e1s",
+      "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "A 30 A\u00f1os",
         "url": "https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 201293,
       "name": "Lo Pasado, Pasado",
       "url": "https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "El sombrerero loco",
+        "url": "https://open.spotify.com/album/64KmxosC8CmHppBI2leRdl"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "El sombrerero loco",
+      "url": "https://open.spotify.com/track/5W6B8o2GIICi43uDMNIFHT"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 262066,
-      "name": "Ojos Claros, Labios Rosas",
-      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Contra Todo Pron\u00f3stico",
         "url": "https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 252006,
       "name": "Contra Todo Pron\u00f3stico",
       "url": "https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 262066,
+      "name": "Ojos Claros, Labios Rosas",
+      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Un Segundo MTV Unplugged",
-        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
+        "name": "!!Puro Macanazo!!",
+        "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 326146,
-      "name": "Las Batallas/Rarotonga - MTV Unplugged",
-      "url": "https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF"
+      "duration_ms": 271733,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "!!Puro Macanazo!!",
-        "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
+        "name": "Un Segundo MTV Unplugged",
+        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
       },
       "artists": [
         {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 271733,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
+      "duration_ms": 326146,
+      "name": "Las Batallas/Rarotonga - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
+        "url": "https://open.spotify.com/album/2yTicDu0XFg8HUATcCQa3U"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 734790,
+      "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
+      "url": "https://open.spotify.com/track/1vw07M44PHHu3ziRY5Wn4t"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Elemento (Noches De Sal\u00f3n)",
         "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 202556,
       "name": "Estoy Perdiendo La Raz\u00f3n",
       "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
-        "url": "https://open.spotify.com/album/2yTicDu0XFg8HUATcCQa3U"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 734790,
-      "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
-      "url": "https://open.spotify.com/track/1vw07M44PHHu3ziRY5Wn4t"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Nezayork",
-        "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
+        "name": "Mienten",
+        "url": "https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR"
       },
       "artists": [
         {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
         }
       ],
-      "duration_ms": 154005,
-      "name": "Nezayork",
-      "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
+      "duration_ms": 277077,
+      "name": "Se\u00f1al",
+      "url": "https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Mienten",
-        "url": "https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR"
+        "name": "Nezayork",
+        "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 277077,
-      "name": "Se\u00f1al",
-      "url": "https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W"
+      "duration_ms": 154005,
+      "name": "Nezayork",
+      "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
     },
     {
       "added_at": "2023-11-17 06:00:00",

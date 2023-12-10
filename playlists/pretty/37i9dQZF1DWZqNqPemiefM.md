@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,701 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,715 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 23 | [家屋風雪月日の鼓動テラスで乾杯](https://open.spotify.com/track/49gf801a7Zyank37ARDWkn) | [MOOTY](https://open.spotify.com/artist/0ZEqcDapsv0OZbjt36sjrU) | [アンビエントジャンクション](https://open.spotify.com/album/0eRLfyOfKjloqSdQ9ACT3z) | 7:33 |
 | 24 | [solari](https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 3:52 |
 | 25 | [Dear \- Haruhisa Tanaka Remix](https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD), [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dear \(Haruhisa Tanaka Remix\)](https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3) | 2:10 |
-| 26 | [Lasting Memories](https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Lasting Memories](https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby) | 3:34 |
+| 26 | [Cinnamon \- Rework](https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH) | 2:58 |
 | 27 | [Bath＆Frog \(風呂と蛙\)](https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Undercurrent](https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ) | 3:07 |
-| 28 | [Cinnamon \- Rework](https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH) | 2:58 |
+| 28 | [Lasting Memories](https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Lasting Memories](https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby) | 3:34 |
 | 29 | [jellyfish](https://open.spotify.com/track/4rzhdIO9I6nhGWHwKDtRiZ) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [jellyfish](https://open.spotify.com/album/3VXWeLX3SNXLdAi2DEURpY) | 2:44 |
 | 30 | [View from My Window](https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:15 |
 | 31 | [Birds Behind the Piano](https://open.spotify.com/track/6AlQgRhDyo1LlwBWNxQpzN) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Birds Behind the Piano](https://open.spotify.com/album/6qVSLxvS3kikidRcU3bF9P) | 3:13 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 43 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 |
 | 44 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 |
 | 45 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 |
-| 46 | [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 |
-| 47 | [Sleepy Eye](https://open.spotify.com/track/0oRADajeX8yslHA6lpASTf) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Grinning Cat](https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH) | 2:44 |
+| 46 | [Sleepy Eye](https://open.spotify.com/track/0oRADajeX8yslHA6lpASTf) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Grinning Cat](https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH) | 2:44 |
+| 47 | [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 |
 | 48 | [memory lane](https://open.spotify.com/track/21Bs2xbk1KbbzqIGPnboV9) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [memory lane](https://open.spotify.com/album/5I2F71Myowlmr7AWMDDpzQ) | 3:50 |
-| 49 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 |
-| 50 | [Stratum](https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 7:11 |
+| 49 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
+| 50 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 |
 
-Snapshot ID: `MCw5MzM1OTU0ZmFmYjY3MzcxNWYyOTUxMDBiZTQzNDk1ZjAyMzdkZmE5`
+Snapshot ID: `MCwxOGNhMGZjMjQxYTRmYzgwMWUxMGZhNGJmNzIyMGE3MDM0OWEyNWY0`

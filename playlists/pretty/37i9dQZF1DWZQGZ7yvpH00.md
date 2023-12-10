@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Xavi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,770 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,884 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Tú Goza](https://open.spotify.com/track/2CQk0GyIQzfcvdrthOKmu0) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8), [Lily Baez](https://open.spotify.com/artist/2q7elVTQXIgbMh5vA6mlFs) | [RefleXión](https://open.spotify.com/album/1yYqbbaHWQZsUeji3C3YGS) | 3:42 |
 | 50 | [Mil Pedazos](https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:01 |
 
-Snapshot ID: `MCxmNjNmZWFhNTY0OGU0ZDFkMjE2NTAwYzAyZGVkYWFkNWY1MjZlMmFh`
+Snapshot ID: `MCwzZjE3MDcxN2ExNGJhYTYyZWFmN2Y2M2ZjZDZlODNjNzc5MDVmMTVh`

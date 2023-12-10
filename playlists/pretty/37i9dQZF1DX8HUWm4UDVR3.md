@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Pierre de Maere
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,304 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,328 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Heureux](https://open.spotify.com/track/6g5rAr2XNdeTHz7XtSCb8l) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/6qh5Kq92rJISNj2DpKpOpU) | 2:50 |
 | 50 | [Bébé](https://open.spotify.com/track/4lQvyWrV2vamH8sQRxwwRz) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Bébé](https://open.spotify.com/album/7adtShWeqe2YtwzB4bVKpg) | 3:00 |
 
-Snapshot ID: `MCwzZTJjZmU5YjQ0YWQ1NTRkZGM5YmUzOThmMzhhMTdlNzAyNzFhM2U2`
+Snapshot ID: `MCxjYzQ0MTU2ODlmZGU4MWMwZmJkNTM3Njc5OWUyOWUwYzkwOGRhMDM5`

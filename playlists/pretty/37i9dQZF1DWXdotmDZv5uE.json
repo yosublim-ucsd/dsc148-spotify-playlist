@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 131747,
+  "num_followers": 131756,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGJlZjczMWJlYjI3ODMyYzY1OTc3NTE1NjVlNjU1MWRkMzRhYjkw",
+  "snapshot_id": "MCwzZTg3NTA2NDYyNmU3NjU2NzVjNTdiZWZkZjUyODE0ZDcwN2U2NzY3",
   "tracks": [
     {
       "added_at": "2023-05-09 18:01:28",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 124893,
+      "name": "Las altenitas",
+      "url": "https://open.spotify.com/track/14xRTwrxqIsiwl5SgCnW3m"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "El Apasionado",
         "url": "https://open.spotify.com/album/2fADsQIgAk1ifIvDNLGBvn"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 237053,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/406FTp77mbKa4NGY0ebVJn"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
-        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Alma Jarocha",
-          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Canto A Veracruz",
-      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
+        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alma Jarocha",
+          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Canto A Veracruz",
+      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "Estampas De Mexico: Traditional Music From Mexico",
         "url": "https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 262933,
       "name": "El Jarabe Jalisciense",
       "url": "https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Los machetes",
-      "url": "https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -739,6 +739,22 @@
       "duration_ms": 98871,
       "name": "Huapango 2",
       "url": "https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Los machetes",
+      "url": "https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 124893,
-      "name": "Las altenitas",
-      "url": "https://open.spotify.com/track/14xRTwrxqIsiwl5SgCnW3m"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Sembrando Flores",
         "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
       },
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "El tilingo",
+      "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "Huapangos",
         "url": "https://open.spotify.com/album/5Z6tcNwry8ZIu1uDOdmRYZ"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 236360,
       "name": "La Iguana",
       "url": "https://open.spotify.com/track/1w1Ymv3ICnMEXWgmHMZafH"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "El tilingo",
-      "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Reza en Voz Alta",
-        "url": "https://open.spotify.com/album/3modoSnNXdsJx7c6rUqfg4"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        }
-      ],
-      "duration_ms": 240448,
-      "name": "Reza en Voz Alta",
-      "url": "https://open.spotify.com/track/3iXA6VYCudT4ZaKw7xBHKT"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Son De Madera",
         "url": "https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn"
       },
@@ -1039,22 +1023,6 @@
       "duration_ms": 360640,
       "name": "La Guanabana",
       "url": "https://open.spotify.com/track/6rQ5F4fejMdINw6erjQLpg"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 148240,
-      "name": "El colas",
-      "url": "https://open.spotify.com/track/2RbzXNmT3oryvvlMbgt8Ji"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1075,6 +1043,38 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "Reza en Voz Alta",
+        "url": "https://open.spotify.com/album/3modoSnNXdsJx7c6rUqfg4"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "duration_ms": 240448,
+      "name": "Reza en Voz Alta",
+      "url": "https://open.spotify.com/track/3iXA6VYCudT4ZaKw7xBHKT"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 148240,
+      "name": "El colas",
+      "url": "https://open.spotify.com/track/2RbzXNmT3oryvvlMbgt8Ji"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "La Tortuga, Sones Istme\u00f1os",
         "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 188720,
       "name": "Ra Bacheeza",
       "url": "https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "Agradecer",
-        "url": "https://open.spotify.com/album/5qVQLwmsMmBEKfQsPd3LXM"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        }
-      ],
-      "duration_ms": 205574,
-      "name": "Agradecer",
-      "url": "https://open.spotify.com/track/3xFVSTW8SdnST60rBsObdt"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1155,22 +1139,6 @@
       "duration_ms": 170493,
       "name": "El Borracho",
       "url": "https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "En Tonos Muy Diferentes",
-        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
-      },
-      "artists": [
-        {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
-        }
-      ],
-      "duration_ms": 345320,
-      "name": "El Siquisir\u00ed",
-      "url": "https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1239,6 +1207,38 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+      },
+      "artists": [
+        {
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+        }
+      ],
+      "duration_ms": 345320,
+      "name": "El Siquisir\u00ed",
+      "url": "https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Agradecer",
+        "url": "https://open.spotify.com/album/5qVQLwmsMmBEKfQsPd3LXM"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "duration_ms": 205574,
+      "name": "Agradecer",
+      "url": "https://open.spotify.com/track/3xFVSTW8SdnST60rBsObdt"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "De la mera mata",
         "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
-      },
-      "artists": [
-        {
-          "name": "De Norte A Sur",
-          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "La bikina (arr. R. Jonas)",
-      "url": "https://open.spotify.com/track/51asKtaV6doDVdR1WLeE6A"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "San Pedro Hermoso",
         "url": "https://open.spotify.com/album/5XbUpC6yNlA4W9e6K4Cv37"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "En Tonos Muy Diferentes",
-        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
       },
       "artists": [
         {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+          "name": "De Norte A Sur",
+          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
         }
       ],
-      "duration_ms": 342360,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
+      "duration_ms": 163400,
+      "name": "La bikina (arr. R. Jonas)",
+      "url": "https://open.spotify.com/track/51asKtaV6doDVdR1WLeE6A"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1383,6 +1367,22 @@
       "duration_ms": 185600,
       "name": "Rayando El Sol",
       "url": "https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+      },
+      "artists": [
+        {
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1635,30 +1635,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Mariachi Vol. 1",
-        "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Luis Alberto Ballesteros",
-          "url": "https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5"
-        },
-        {
-          "name": "Domingo Suarez",
-          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
-        }
-      ],
-      "duration_ms": 107571,
-      "name": "Un Tequila y Una Rubia",
-      "url": "https://open.spotify.com/track/3E6GSxnXLIXgsxxhnnFvKd"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Mariachi Vol. 2",
         "url": "https://open.spotify.com/album/12k9uBRmZFFLMajKtlNKDu"
       },
@@ -1683,6 +1659,30 @@
       "duration_ms": 159348,
       "name": "Que Bonito",
       "url": "https://open.spotify.com/track/5iWQnAQMgQMhnsO2d1FK4b"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Mariachi Vol. 1",
+        "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Luis Alberto Ballesteros",
+          "url": "https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5"
+        },
+        {
+          "name": "Domingo Suarez",
+          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
+        }
+      ],
+      "duration_ms": 107571,
+      "name": "Un Tequila y Una Rubia",
+      "url": "https://open.spotify.com/track/3E6GSxnXLIXgsxxhnnFvKd"
     },
     {
       "added_at": "2023-05-09 18:01:28",

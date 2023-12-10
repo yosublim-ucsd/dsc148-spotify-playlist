@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: KANE
 
-325 songs - 18 hr 55 min
+326 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [Wait For The Summer](https://open.spotify.com/track/6ZV4dfKmO4oJEi1uSkNFOD) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Wait For The Summer](https://open.spotify.com/album/6gIbXS0BOPX00WE5LLfQBs) | 3:00 | 2023-08-11 | 2023-09-09 |
 | [Wait For The Summer \(Bonus Track\)](https://open.spotify.com/track/6dZIvN4IlyzQX0UD9PLsqF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 3:00 | 2023-08-31 | 2023-12-01 |
 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2023-09-21 |  |
-| [War Ends Today](https://open.spotify.com/track/6PKD7kKGS2TmdCLqBaaxYO) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [War Ends Today](https://open.spotify.com/album/7wrdmw5ThJYT67TBsYOVxC) | 3:17 | 2023-12-06 |  |
+| [War Ends Today](https://open.spotify.com/track/4TDdbNg50GKvJXKka4uddq) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [War Ends Today](https://open.spotify.com/album/508yoawSJgvgXUAz7EFcgQ) | 3:17 | 2023-12-08 |  |
+| [War Ends Today](https://open.spotify.com/track/6PKD7kKGS2TmdCLqBaaxYO) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [War Ends Today](https://open.spotify.com/album/7wrdmw5ThJYT67TBsYOVxC) | 3:17 | 2023-12-06 | 2023-12-10 |
 | [Waste Me](https://open.spotify.com/track/5j7xAAC6wM40T7AI6aweHt) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Nowhere Near the Sky](https://open.spotify.com/album/3IUhNyQcjQvhcPGufNPgdG) | 3:25 | 2023-02-23 | 2023-03-11 |
 | [WDIA \(Would Do It Again\)](https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [WDIA \(Would Do It Again\)](https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB) | 3:11 | 2023-02-23 | 2023-03-25 |
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-23 | 2023-03-18 |

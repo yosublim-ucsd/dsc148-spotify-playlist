@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: The Jesus and Mary Chain
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,262 likes - 105 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,415 likes - 105 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 77 | [Distortion Spear](https://open.spotify.com/track/18jxW8sLv8VwBAZJWKOez7) | [Candy Claws](https://open.spotify.com/artist/34Xay0uKsALHCrn5LkrYeh) | [Distortion Spear](https://open.spotify.com/album/1ZRZmhgSWzXID20b8o5jcd) | 3:41 |
 | 78 | [I’d Like You To Leave](https://open.spotify.com/track/2ufyUEytXZQvltIJsxEDwO) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [I’d Like You To Leave](https://open.spotify.com/album/07fLys1nAwfqubZ5q927iW) | 2:46 |
 | 79 | [her distortion](https://open.spotify.com/track/3ZspmUmIrhadEBXCK2kM9Q) | [xójira](https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2) | [her distortion](https://open.spotify.com/album/6wB6nhvNeSWUUjv0gWszLE) | 3:15 |
-| 80 | [Avalon](https://open.spotify.com/track/3d9lGlazIwY8f2xBfIIGps) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Avalon](https://open.spotify.com/album/42KyfZdfBxSwA8dwRKvJDR) | 2:56 |
+| 80 | [Avalon \- demo](https://open.spotify.com/track/3d9lGlazIwY8f2xBfIIGps) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Avalon \(demo\)](https://open.spotify.com/album/42KyfZdfBxSwA8dwRKvJDR) | 2:56 |
 | 81 | [Crush](https://open.spotify.com/track/2fGrNRKLkWJqGuzEST3pYX) | [Blush](https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW) | [Crush](https://open.spotify.com/album/0QkcgSGcNz3p0DocnmvCUR) | 4:46 |
 | 82 | [In Your Wake](https://open.spotify.com/track/5yjzzcXAbxczlL1Ywb4M9w) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [In Your Wake](https://open.spotify.com/album/0a4jMRhtddxzyaUs0J1LKE) | 3:54 |
 | 83 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 104 | [iwantuall4me](https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [iwantuall4me](https://open.spotify.com/album/4KZ5IYrCfL2R2vNX3wga8F) | 3:58 |
 | 105 | [Bloom](https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Bloom](https://open.spotify.com/album/76LGx54WGptsGBHL497A3k) | 2:19 |
 
-Snapshot ID: `MCxiNDc4Y2Y1ZWU0MjdiODA4YWE1ZmM4YjU0NDgyNzYxNGNiMmI1MDFi`
+Snapshot ID: `MCwyNzMwMTc1NzU2MzVkNTI4MWQyMjhkNmI3ZWM1NzllZjA1M2M3OTEz`

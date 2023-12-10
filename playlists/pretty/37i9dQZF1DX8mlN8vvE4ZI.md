@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,160 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,170 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 10 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
 | 11 | [Raag Khamaaj](https://open.spotify.com/track/5WtMLrRmdaLC2hA2GZoy5D) | [Alex Heffes](https://open.spotify.com/artist/35eFG2HfFuoxcJYZwt80ZA), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/1TEK4k9Rsqk6C0p5uRFre2) | 3:30 |
 | 12 | [Sitar On Drumz](https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ) | [Bhagirath Bhatt](https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1), [Mann Bipin](https://open.spotify.com/artist/4qjGBi9WToBt8fsIYxuKtr) | [Sitar On Drumz](https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx) | 5:11 |
-| 13 | [Tablet vs Sitar \- Yaman \- Ek taal](https://open.spotify.com/track/42iTqTyNXmmXuavGKLVyBA) | [IndianRaga](https://open.spotify.com/artist/5DbZM6EMfteh7XubuLMtoC), [Shailesh Venkatraman](https://open.spotify.com/artist/3XSngyg0MX68i5gNeonLKf), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi), [Anirudh Sharma](https://open.spotify.com/artist/1yxElNCCvyGH3Ee0lqgZrn) | [Tablet vs Sitar \- Yaman](https://open.spotify.com/album/0Y67OpN6bblrqZfuNUGiwF) | 5:20 |
+| 13 | [Mishra Bhairavi](https://open.spotify.com/track/3CfJDWDtfw2IPeVxplplbK) | [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ), [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 5:53 |
 | 14 | [Roslyn](https://open.spotify.com/track/22cBDYBb3HYmp3aCxvJQEI) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Roslyn](https://open.spotify.com/album/3bsbAbviduNFYBPMzVoMGp) | 3:17 |
 | 15 | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R) | 7:31 |
-| 16 | [Mishra Bhairavi](https://open.spotify.com/track/3CfJDWDtfw2IPeVxplplbK) | [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ), [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 5:53 |
-| 17 | [Albela Sajan \- Instrumental](https://open.spotify.com/track/7fGCbE8uUx4XvxKrgl3m2L) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 3:13 |
-| 18 | [Yentha Prema \(Sitar Instrumental\)](https://open.spotify.com/track/6LxJvtF1DPZtCDj60DIWul) | [Raj Prakash Paul](https://open.spotify.com/artist/5pCZk4EhxyQ17HZS5Vom2e) | [Prakshalana](https://open.spotify.com/album/4V6pKFwkz1mtvVAmMCcoTD) | 1:35 |
+| 16 | [Tablet vs Sitar \- Yaman \- Ek taal](https://open.spotify.com/track/42iTqTyNXmmXuavGKLVyBA) | [IndianRaga](https://open.spotify.com/artist/5DbZM6EMfteh7XubuLMtoC), [Shailesh Venkatraman](https://open.spotify.com/artist/3XSngyg0MX68i5gNeonLKf), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi), [Anirudh Sharma](https://open.spotify.com/artist/1yxElNCCvyGH3Ee0lqgZrn) | [Tablet vs Sitar \- Yaman](https://open.spotify.com/album/0Y67OpN6bblrqZfuNUGiwF) | 5:20 |
+| 17 | [Yentha Prema \(Sitar Instrumental\)](https://open.spotify.com/track/6LxJvtF1DPZtCDj60DIWul) | [Raj Prakash Paul](https://open.spotify.com/artist/5pCZk4EhxyQ17HZS5Vom2e) | [Prakshalana](https://open.spotify.com/album/4V6pKFwkz1mtvVAmMCcoTD) | 1:35 |
+| 18 | [Albela Sajan \- Instrumental](https://open.spotify.com/track/7fGCbE8uUx4XvxKrgl3m2L) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 3:13 |
 | 19 | [Raga Maluha Kalyan \- Jod](https://open.spotify.com/track/2rCP1X7FudFJDpD5B4QckL) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [From The NCPA Archives](https://open.spotify.com/album/1KrPa1S1Trn8DUKIU6q98E) | 2:52 |
 | 20 | [Sagar Kinare](https://open.spotify.com/track/3BRECzmTXouMZfOBgVn6rE) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Sitarscape](https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ) | 4:06 |
 | 21 | [Chanakya](https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Chanakya](https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 49 | [Sanctuary \- Sitar Meditation](https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds \(Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation\)](https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu) | 3:49 |
 | 50 | [Sitar Theme](https://open.spotify.com/track/3d97zTIcKA0mDhx53c1uix) | [ROR](https://open.spotify.com/artist/0r6xzCyrNCABaaNTAgJiyK) | [Indian Spirit \- Best In Lounge & Fusion](https://open.spotify.com/album/4AmtN0w852r7Qzz0bPBz4j) | 5:41 |
 
-Snapshot ID: `MCw2YmFhZGFkZDBiZjcyOGM2NDQ0ODRjOWY2M2VkYmMwMjJiNWU1ZTg0`
+Snapshot ID: `MCwzODBkMDNhNDMwMTllOGQyNjIzNjU3YTk2MjJjYjU3MDI1MzUwN2Qw`

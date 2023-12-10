@@ -4,7 +4,7 @@
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-73 songs - 4 hr 8 min
+74 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [The Christmas Song](https://open.spotify.com/track/2gvlqDMOpGLjD6i5nfO89z) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Skyy](https://open.spotify.com/artist/3wWU0L0tv6eE813fHEYYMg), [Marcus](https://open.spotify.com/artist/6EBrS8EW4hv6N4kn0ufYUS) | [MTA2\-Baptized In Dirty Water](https://open.spotify.com/album/4Od0xWG7XWQxvNPdrIzf2A) | 4:09 | 2019-12-20 |  |
 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 | 2019-12-20 |  |
 | [Thug Holiday](https://open.spotify.com/track/5I3uXbWBJhkZ62znIU6XEq) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [LaTocha Scott](https://open.spotify.com/artist/0reX7t2M37jLqLy1Nj1FpT) | [Thug Holiday \(Edited Version\)](https://open.spotify.com/album/3Yf1EXnBKpfdd1LMycHWWL) | 4:54 | 2019-12-20 | 2022-12-24 |
-| [Warm Jamaican Christmas](https://open.spotify.com/track/60aWxtMGD2eHPNJPxJ9nae) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO), [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Warm Jamaican Christmas](https://open.spotify.com/album/3SwlJpUtODj1sV4TbjBWOM) | 3:26 | 2019-12-20 |  |
+| [Warm Jamaican Christmas](https://open.spotify.com/track/60aWxtMGD2eHPNJPxJ9nae) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO), [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Warm Jamaican Christmas](https://open.spotify.com/album/3SwlJpUtODj1sV4TbjBWOM) | 3:26 | 2019-12-20 | 2023-12-10 |
+| [Warm Jamaican Christmas](https://open.spotify.com/track/6UNafF4pyLMcbU8PEoH1DN) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO), [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Warm Jamaican Christmas](https://open.spotify.com/album/0Q7ATQbWchMJ6q2v1O77gt) | 3:26 | 2022-12-23 |  |
 | [What You Want for Christmas](https://open.spotify.com/track/6pyn5n6bOUX0iqZxA88H34) | [Quad City DJ's, The 69 Boyz and K\-Nock](https://open.spotify.com/artist/1bRPz3I9pDLcEd8t5sncKe) | [All Star Christmas](https://open.spotify.com/album/4MmG5FXpME1mmMtX0k69bH) | 4:35 | 2019-12-20 |  |
 | [Why'd You Leave Me On Christmas](https://open.spotify.com/track/0HAJpzhta0QljXSpzSQKmm) | [B2K](https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj) | [Santa Hooked Me Up](https://open.spotify.com/album/52djrCpCLCWE7LZOLVwR3v) | 3:53 | 2019-12-20 | 2022-12-03 |
 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/38sOMt0jPIWWqJMNk2u0DI) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [You're A Mean One, Mr\. Grinch \(From Dr\. Seuss' The Grinch\)](https://open.spotify.com/album/7w1TRNc1PTJak7qXPzr1Ih) | 1:48 | 2019-12-20 | 2022-07-29 |

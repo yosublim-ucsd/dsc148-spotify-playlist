@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,392 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,399 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 27 | [Sundress](https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Sundress](https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK) | 2:12 |
 | 28 | [Roll On Me](https://open.spotify.com/track/503wKpMyZNr1fvB5eSZ8LC) | [Lavaud](https://open.spotify.com/artist/5vN74Jan4kXV79cq9SLp7T), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Saint & Citizen](https://open.spotify.com/artist/3a1mtJHahvdHcYQEBQB5YY) | [Roll On Me](https://open.spotify.com/album/6ssSTfQhXX5lDGanUJkOvJ) | 3:10 |
 | 29 | [My Bambi](https://open.spotify.com/track/792cBkz32tHAPkdDhp7WCG) | [Deribb](https://open.spotify.com/artist/0jD0caYgYpVXcYcV6dbuj4) | [My Bambi](https://open.spotify.com/album/5nLwk9WsNLlNq8NfIkMF5Y) | 2:21 |
-| 30 | [NEW SEASON](https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [C3VN](https://open.spotify.com/artist/4XbarFQnYNsfcoCrydE0FX) | [NEW SEASON](https://open.spotify.com/album/0DhwBUGi5SnQ0Mldt9BYAk) | 1:41 |
+| 30 | [NEW SEASON](https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [C3VN](https://open.spotify.com/artist/5M78DPxvvpqMbkMZ3WAPhh) | [NEW SEASON](https://open.spotify.com/album/0DhwBUGi5SnQ0Mldt9BYAk) | 1:41 |
 | 31 | [Fujipiano](https://open.spotify.com/track/6NF4cMRW9alAr2K7TXB7yY) | [Dajon AF](https://open.spotify.com/artist/4yN3RB5NqyHi9cSyllXgeS), [Slimpee Beatz](https://open.spotify.com/artist/5d5gcjlWRQyhVXNqGw2JOF) | [Fujipiano](https://open.spotify.com/album/61WYeMLodYapBUO6DuOISL) | 3:43 |
 | 32 | [Osondi Owendi](https://open.spotify.com/track/0vG1ADDsKH633S42iVG6MW) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Osondi Owendi](https://open.spotify.com/album/72Ej57wkEwKeVt8oIBVW81) | 3:37 |
 | 33 | [Think O](https://open.spotify.com/track/2sJRbtfngu3ATkXmamiSXe) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Think O](https://open.spotify.com/album/20RPHmL5EbMAeBVOH5OdZz) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 |
 | 80 | [Miss Me](https://open.spotify.com/track/0Nnq0gfsq7Inx7b4zQSJob) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Miss Me](https://open.spotify.com/album/5JRQtqu5HrSXebzylfn5xJ) | 4:27 |
 
-Snapshot ID: `MCwwZGZmNWUxZTQyNDk5MmY1ODFjYmE5MDcwYzMzMTM0MjFmMmViMjhj`
+Snapshot ID: `MCw0MWNhN2FlNmQ3OTZiMjJlYTY0MzNlYmMxNWQ2NmQ3ZWI2Njc4Y2Uy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,627 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,671 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 29 | [River's Island](https://open.spotify.com/track/22p7tgi6cFVBaH7vAbgcUY) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC), [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [River's Island](https://open.spotify.com/album/6HM0SPu1eIv721SbsO8l3o) | 4:38 |
 | 30 | [DOWN TOWN](https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [DOWN TOWN](https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc) | 4:14 |
 | 31 | [It's so Creamy](https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 3:43 |
-| 32 | [MIDNIGHT DRIVER](https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo) | 7:44 |
+| 32 | [Bewitched \(Are You Leaving Soon\)](https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [The 20th Anniversary](https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd) | 4:44 |
 | 33 | [Dear Breeze](https://open.spotify.com/track/0DCzMvkONMvWDiOtVzyRUX) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx), [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Another Summer](https://open.spotify.com/album/1ZluSoV6IVEiQxEfrnIYBB) | 4:01 |
 | 34 | [September Rain \- 2018 Remaster](https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:29 |
-| 35 | [Bewitched \(Are You Leaving Soon\)](https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [The 20th Anniversary](https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd) | 4:44 |
-| 36 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
-| 37 | [Silly Crush](https://open.spotify.com/track/44MAe7e2MbOPLnP3XWC8ie) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [Painted Woman](https://open.spotify.com/album/0mZOYr5JOK30XDTzaYSQFw) | 4:11 |
+| 35 | [MIDNIGHT DRIVER](https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo) | 7:44 |
+| 36 | [Silly Crush](https://open.spotify.com/track/44MAe7e2MbOPLnP3XWC8ie) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [Painted Woman](https://open.spotify.com/album/0mZOYr5JOK30XDTzaYSQFw) | 4:11 |
+| 37 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
 | 38 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
 | 39 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 |
-| 40 | [Dream In The Street](https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s) | [池田典代](https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M) | [ドリームインザストリート](https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH) | 4:58 |
-| 41 | [雨](https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Yokohama Ragtime](https://open.spotify.com/album/7qjft00dDfIB21CxjCGjiJ) | 3:28 |
+| 40 | [雨](https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Yokohama Ragtime](https://open.spotify.com/album/7qjft00dDfIB21CxjCGjiJ) | 3:28 |
+| 41 | [Dream In The Street](https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s) | [池田典代](https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M) | [ドリームインザストリート](https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH) | 4:58 |
 | 42 | [LIGHT'N UP](https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [LIGHT'N UP](https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7) | 5:48 |
 | 43 | [色彩都市](https://open.spotify.com/track/1NPwuNYRugoQz8y5HTnIBL) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [cliche \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/4al3d0A9Ial2N26xVMa2EM) | 3:34 |
 | 44 | [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 46 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
 | 47 | [スノッブな夜へ](https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 4:51 |
 | 48 | [雨のウェンズデイ](https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:26 |
-| 49 | [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 |
-| 50 | [Junjou](https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78) | 3:31 |
+| 49 | [Junjou](https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78) | 3:31 |
+| 50 | [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 |
 
-Snapshot ID: `MCwxM2EzYTk5OWY3N2RiMWQwODFjMWM1ZDA4OGIxNjdiMjRjNjRhZWFj`
+Snapshot ID: `MCxkNDAwNjNmNTZiNjJlMDgzY2IxYjE5YzVjN2FjMDc5NGQwNzk2ZTM1`

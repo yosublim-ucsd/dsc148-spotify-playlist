@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 133977,
+  "num_followers": 134186,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTcyOTIxYjljNWU0YjBiYmFhOTJlNmQ1ZDZhNzhmOWRiNDAyYWEy",
+  "snapshot_id": "MCw1ZGNjOWM2NjcwNzJmYzM0ODMwNDI0ZDU1NWM3ODQ4MGU1MmI2YjU3",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -695,26 +695,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Mushin 2 Mo' Hits",
-        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "You Bad (feat. D'banj)",
-      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Oleku (feat. Brymo)",
         "url": "https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 291363,
       "name": "Oleku (feat. Brymo)",
       "url": "https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Mushin 2 Mo' Hits",
+        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "You Bad (feat. D'banj)",
+      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -863,22 +863,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Dance for Me",
-        "url": "https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME"
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
       "artists": [
         {
-          "name": "Eugy",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "EL",
+          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
         }
       ],
-      "duration_ms": 204173,
-      "name": "Dance for Me",
-      "url": "https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P"
+      "duration_ms": 225625,
+      "name": "U Go Kill Me (feat. El)",
+      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -899,6 +899,26 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Dance for Me",
+        "url": "https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME"
+      },
+      "artists": [
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Dance for Me",
+      "url": "https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Once Upon a Time",
         "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 222693,
       "name": "Kele Kele",
       "url": "https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "EL",
-          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
-        }
-      ],
-      "duration_ms": 225625,
-      "name": "U Go Kill Me (feat. El)",
-      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Progress",
+        "url": "https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT"
+      },
+      "artists": [
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Best of Nana Boroo",
         "url": "https://open.spotify.com/album/54tIGXCVvEV7V71w8XnxrB"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 300721,
       "name": "Ahayede",
       "url": "https://open.spotify.com/track/1zcxIb6URuZV1GAFpmc9OE"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Progress",
-        "url": "https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT"
-      },
-      "artists": [
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g"
     },
     {
       "added_at": "2020-11-06 13:21:21",

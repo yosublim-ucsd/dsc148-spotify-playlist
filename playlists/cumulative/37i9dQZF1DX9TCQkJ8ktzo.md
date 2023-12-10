@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-99 songs - 4 hr 35 min
+100 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Popotitos](https://open.spotify.com/track/3kwvhErFvlurnAsxJ5iIaK) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 3:03 | 2022-01-01 |  |
 | [Que Hiciste](https://open.spotify.com/track/17I3gCPyVokFnm6cOjQQm5) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boys](https://open.spotify.com/album/4RQujlGcEP0Mfa96ZVkkhD) | 2:44 | 2022-01-01 | 2022-07-29 |
 | [Que Hiciste](https://open.spotify.com/track/4AraDm5Gw0YqA90Z8IPWtn) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 2:44 | 2022-01-01 | 2023-11-21 |
-| [Renunciación](https://open.spotify.com/track/1XuxOXjBmJcctCZCI91Bpm) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:57 | 2022-01-01 |  |
+| [Renunciación](https://open.spotify.com/track/1XuxOXjBmJcctCZCI91Bpm) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:57 | 2022-01-01 | 2023-12-10 |
 | [Revolucionando](https://open.spotify.com/track/1U8ZiOh5FGOliIEUnQ0rjn) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Olvidate](https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW) | 3:04 | 2022-01-01 | 2023-02-18 |
 | [Sacudiendo y Barriendo](https://open.spotify.com/track/6pOrhRsRoK3WoXCvUMm4aa) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:16 | 2022-08-31 | 2022-11-13 |
 | [Sacudiendo Y Barriendo](https://open.spotify.com/track/5iNYQrQp1BHEsEDySyfkDw) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boys](https://open.spotify.com/album/4RQujlGcEP0Mfa96ZVkkhD) | 2:19 | 2022-01-01 | 2022-07-29 |
@@ -106,6 +106,7 @@
 | [Tengo Diecisiete Años \- Remastered](https://open.spotify.com/track/2b0dpNwJbqjf5BF8D5FHh3) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De \(Remastered\)](https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom) | 3:01 | 2022-01-01 |  |
 | [Vas a Llorar](https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 3:00 | 2022-01-01 |  |
 | [Ven Que Te Quiero](https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H) | [Los Impala](https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto) | [Ven Que Te Quiero](https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP) | 3:13 | 2022-01-01 |  |
+| [Ya No Llores](https://open.spotify.com/track/1liDNsueC6v18Ixk2dPrE8) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Superexitos \(Idolos Norteños y Texanos\)](https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi) | 2:05 | 2023-02-17 |  |
 | [Ya no llores](https://open.spotify.com/track/3KNxku9f4YfcWHbTHnH5rG) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Ya no llores](https://open.spotify.com/album/6jk9SNbUx7yiS6PjTNzeGX) | 2:05 | 2022-01-01 | 2023-11-03 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

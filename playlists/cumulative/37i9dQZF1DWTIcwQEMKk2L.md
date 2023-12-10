@@ -4,14 +4,14 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-106 songs - 4 hr 47 min
+107 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Game of Badminton \(feat\. Jack Liebeck\)](https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jack Liebeck](https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Jane Eyre \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX) | 0:58 | 2023-11-20 |  |
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2023-11-20 |  |
 | [A New Era](https://open.spotify.com/track/7JkKc9FMZnuv1ZgZiMfkKq) | [Zoe Chambers](https://open.spotify.com/artist/08QwhHz0qhZmyySexOOLZd) | [Healing Waves](https://open.spotify.com/album/1qV9uz5AkWRaTe7F5j42vm) | 1:58 | 2023-11-20 |  |
-| [A Perceptual Process](https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [A Perceptual Process](https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl) | 1:53 | 2023-12-04 |  |
+| [A Perceptual Process](https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [A Perceptual Process](https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl) | 1:53 | 2023-12-04 | 2023-12-10 |
 | [A Place Like This](https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [A Place Like This](https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy) | 2:01 | 2023-11-20 |  |
 | [Adagietto](https://open.spotify.com/track/6PBCzLB9IiyA6kM6Q3nO5x) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Sebastian Knauer](https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh) | [Adagietto \(Matthew Herbert Mediterranean Dub\)](https://open.spotify.com/album/4EzUGS9EkHAxmAKhhErNkE) | 2:22 | 2023-11-20 |  |
 | [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 | 2023-11-20 |  |
@@ -64,6 +64,7 @@
 | [Limitation \(Scaled Down Version\)](https://open.spotify.com/track/4ZTvGA5KudTVKbhmaH3CLb) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1) | 2:12 | 2023-11-20 | 2023-12-06 |
 | [Looking Forward, Looking Backward](https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Looking Forward, Looking Backward](https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x) | 2:57 | 2023-11-20 | 2023-11-29 |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2023-11-20 |  |
+| [Magari](https://open.spotify.com/track/3cbYtmntj3mAHLoM1CEfzZ) | [Riccardo Lettiere](https://open.spotify.com/artist/5umUIBjnV8j12Qu5Zeni2x) | [Magari](https://open.spotify.com/album/7jIDxPIv8IFMdVIsiZ2Sg5) | 1:48 | 2023-12-04 |  |
 | [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2023-11-20 |  |
 | [Magnolia](https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm) | [Snow in April](https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv) | [Magnolia](https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F) | 2:28 | 2023-11-20 |  |
 | [Mass](https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Mass](https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2) | 2:10 | 2023-11-20 |  |

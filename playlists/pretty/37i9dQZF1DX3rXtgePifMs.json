@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 71636,
+  "num_followers": 71834,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzVkZDk5ZDRkMDM3NjMzYTI4OGYzOTZkM2U5OThjOTZhODFkOTEw",
+  "snapshot_id": "MCw2YzkzYmQzZWYwOTUzMzQxYzM4ZjRmNzkxYTM5NTQ3YjRjMTlkYjBi",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
     },
     {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Black Dress",
-        "url": "https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 237361,
-      "name": "Black Dress",
-      "url": "https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY"
-    },
-    {
       "added_at": "2023-12-01 18:29:06",
       "album": {
         "name": "When Will We Land?",
@@ -331,6 +315,22 @@
       "duration_ms": 246840,
       "name": "Always Get Through To You",
       "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Black Dress",
+        "url": "https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 237361,
+      "name": "Black Dress",
+      "url": "https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "1,2 & Mer",
-        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
-      },
-      "artists": [
-        {
-          "name": "BABY MALA",
-          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "1,2 & Mer",
-      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 190626,
       "name": "Going Kokomo",
       "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "1,2 & Mer",
+        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
+      },
+      "artists": [
+        {
+          "name": "BABY MALA",
+          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "1,2 & Mer",
+      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "6am",
-        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "6am",
-      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "MICHAEL",
         "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 165653,
       "name": "DON'T LET THE DEVIL (feat. thankugoodsir)",
       "url": "https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "there she goes",
-        "url": "https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        }
-      ],
-      "duration_ms": 162649,
-      "name": "there she goes",
-      "url": "https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "For Granted",
         "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "there she goes",
+        "url": "https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "duration_ms": 162649,
+      "name": "there she goes",
+      "url": "https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -901,26 +901,6 @@
       "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
     },
     {
-      "added_at": "2023-12-01 18:29:06",
-      "album": {
-        "name": "Shut It Down",
-        "url": "https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6"
-    },
-    {
       "added_at": "2023-11-20 15:00:00",
       "album": {
         "name": "Panna Cotta",
@@ -939,6 +919,26 @@
       "duration_ms": 177467,
       "name": "Complicated (feat. Young Franco)",
       "url": "https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq"
+    },
+    {
+      "added_at": "2023-12-01 18:29:06",
+      "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "STRUGGLER",
-        "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "What Comes Will Come",
-      "url": "https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 204137,
       "name": "Dreaming Of You",
       "url": "https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "STRUGGLER",
+        "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "What Comes Will Come",
+      "url": "https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Who Let Him In",
-        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Who Let Him In",
-      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "no sleep in LA",
         "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 212282,
       "name": "cracked screen",
       "url": "https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Who Let Him In",
+        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Who Let Him In",
+      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 182270,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "O Que Se Leva (D\u00f3i)",
         "url": "https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
-      },
-      "artists": [
-        {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 182270,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Why You Waiting?",
         "url": "https://open.spotify.com/album/3czLQ2sjzql5WJQg7degVt"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 155071,
       "name": "Why You Waiting?",
       "url": "https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Isn\u2019t It Now?",
-        "url": "https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 368386,
-      "name": "Soul Capturer",
-      "url": "https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Streets, Love & Other Stuff",
         "url": "https://open.spotify.com/album/0IRmR8wXEPXWsqy84EbKIh"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 201733,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/4FC7fcZ5RexxLbWNrOq6aq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Isn\u2019t It Now?",
+        "url": "https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 368386,
+      "name": "Soul Capturer",
+      "url": "https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1507,6 +1507,30 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "WRECKED",
+        "url": "https://open.spotify.com/album/2e36y4LFJxSObcZOvWrMBF"
+      },
+      "artists": [
+        {
+          "name": "Dumb Buoys Fishing Club",
+          "url": "https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D"
+        },
+        {
+          "name": "Merlyn Wood",
+          "url": "https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y"
+        },
+        {
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+        }
+      ],
+      "duration_ms": 173535,
+      "name": "FORMULA",
+      "url": "https://open.spotify.com/track/6H8YEkzK8FziT1QWnu6fdl"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
         "url": "https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb"
       },
@@ -1555,30 +1579,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "WRECKED",
-        "url": "https://open.spotify.com/album/2e36y4LFJxSObcZOvWrMBF"
-      },
-      "artists": [
-        {
-          "name": "Dumb Buoys Fishing Club",
-          "url": "https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D"
-        },
-        {
-          "name": "Merlyn Wood",
-          "url": "https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y"
-        },
-        {
-          "name": "joe unknown",
-          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
-        }
-      ],
-      "duration_ms": 173535,
-      "name": "FORMULA",
-      "url": "https://open.spotify.com/track/6H8YEkzK8FziT1QWnu6fdl"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Powder",
         "url": "https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R"
       },
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Pinking Shears",
+        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Pinking Shears",
+      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/0bHBnCqz1qeDuwRc6qSAIp"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 178373,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/4BTvXr4GKPvuHAWGr14ghc"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Pinking Shears",
-        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 152420,
-      "name": "Pinking Shears",
-      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Absolutely Tidy",
         "url": "https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl"
       },
@@ -1903,26 +1919,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "I Go Get It",
-        "url": "https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL"
-      },
-      "artists": [
-        {
-          "name": "Souls Of Creation",
-          "url": "https://open.spotify.com/artist/2IdVY7sUy5Dvugq7YXpp9L"
-        },
-        {
-          "name": "Bobbie Johnson",
-          "url": "https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "I Go Get It",
-      "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Earache / Sekkle In",
         "url": "https://open.spotify.com/album/6U80BQXg2cyQrWJ6dm0soD"
       },
@@ -1943,6 +1939,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "I Go Get It",
+        "url": "https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Creation",
+          "url": "https://open.spotify.com/artist/2IdVY7sUy5Dvugq7YXpp9L"
+        },
+        {
+          "name": "Bobbie Johnson",
+          "url": "https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO"
+        }
+      ],
+      "duration_ms": 131320,
+      "name": "I Go Get It",
+      "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "EYELIDS",
         "url": "https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 126744,
       "name": "EYELIDS",
       "url": "https://open.spotify.com/track/3Sb8uNflVynSu16m0zdt2x"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
-      },
-      "artists": [
-        {
-          "name": "KABEAUSH\u00c9",
-          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
     },
     {
       "added_at": "2023-11-20 15:00:00",

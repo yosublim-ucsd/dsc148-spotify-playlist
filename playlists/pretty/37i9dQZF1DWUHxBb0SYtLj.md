@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Una selezione editoriale delle più interessanti artiste italiane del 2023! Cover: Annalisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,946 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,953 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [Quello che odio di te](https://open.spotify.com/track/3LO5jcS3BNgCoXhyBgC0Dk) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Quello che odio di te](https://open.spotify.com/album/2eFBgJyBHXVvSJHkrdGS8I) | 2:22 |
 | 50 | [Eclissi](https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Eclissi](https://open.spotify.com/album/2DZNZYc4ZanD5PrNlSsmuo) | 3:49 |
 
-Snapshot ID: `MCw1YzAzNDEwYjhmZjM3ZTNiNmUzYzE5ZjFiMzRiNmNiYTBmNzNiMDM3`
+Snapshot ID: `MCwwZTJiODRiYzQ1OGZmZTA0MWI2ZTZjNWNiMDBmM2RkMDYyMmZmMzk2`

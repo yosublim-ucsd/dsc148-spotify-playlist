@@ -28,6 +28,28 @@
     {
       "album": {
         "name": "Neon Future III",
+        "url": "https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0XuRRivDtBqiEdt5lj79zE"
+    },
+    {
+      "album": {
+        "name": "Neon Future III",
         "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
       },
       "artists": [
@@ -1048,7 +1070,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 172500,
       "name": "Napoleona",
       "url": "https://open.spotify.com/track/4hlK5ALDOCVvGE22II5Wbb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Harry Nach & Aqua VS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,313 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,474 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [Aburrido](https://open.spotify.com/track/1QX8IaUVnmdZo8jqyGyZfZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup), [Inti Illimani Histórico](https://open.spotify.com/artist/3ofeDjH3XD66EbnLIHWk8i) | [Aburrido](https://open.spotify.com/album/2MCIfa3wYX8ru8do68PxfJ) | 3:49 |
 | 100 | [MARILÚ](https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [MARILÚ](https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm) | 2:45 |
 
-Snapshot ID: `MCw0ZDRhNDUwNjAwNWNmYzc1MjJhMDg3NTI0YWE3NDg4ZDA0ZTI4NDM4`
+Snapshot ID: `MCxjNWFhMmVkMjc1ZmNhNWFlNDYxZDczYzg2MGNlMTIyMzJhNWVkNzlm`

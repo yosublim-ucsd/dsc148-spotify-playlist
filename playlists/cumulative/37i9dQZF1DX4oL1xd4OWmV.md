@@ -4,7 +4,7 @@
 
 > Nadie puede quedarse callado cuando estos clásicos suenan en la tribuna.
 
-104 songs - 7 hr 16 min
+105 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Rock 'n' Roll \(Part 2\)](https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d) | [Gary Glitter](https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S) | [Glitter](https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO) | 3:13 | 2022-04-19 |  |
 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 | 2022-04-19 |  |
 | [Sabotage](https://open.spotify.com/track/3EyyhPW2GcLYuwV1MajRd6) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/290eTJ15EAYJa3JomDWyhh) | 2:58 | 2022-04-19 |  |
-| [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 | 2022-07-05 |  |
+| [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 | 2022-07-05 | 2023-12-10 |
+| [Separate Ways \(Worlds Apart\) \[2023 Remaster\]](https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers \(2023 Remaster\)](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 5:23 | 2023-08-11 |  |
 | [Seven Nation Army](https://open.spotify.com/track/47wPvRG8FEwbZP22UBgTQr) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/4bud6XY9UtafCOiYzv2vOl) | 3:51 | 2022-04-19 | 2022-07-29 |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2022-07-05 |  |
 | [Seven Nation Army](https://open.spotify.com/track/03OGe1S2a7i35BmuKbWaHk) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 3:52 | 2022-10-28 | 2022-11-13 |

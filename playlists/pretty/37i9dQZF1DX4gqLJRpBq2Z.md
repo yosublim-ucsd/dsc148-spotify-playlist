@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain]
 
 > All the music from Barracuda Queens..\. now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,650 likes - 22 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,656 likes - 22 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain]
 | 13 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
 | 14 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 15 | [Check the Dan](https://open.spotify.com/track/1x33azoMw7Uo6BdgHDINbw) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Carousel](https://open.spotify.com/album/2Lb5mIrqMfoTYcxxUVthrA) | 5:25 |
-| 16 | [Electric \- Short Version](https://open.spotify.com/track/1qIhCupn4tcJWCQWoomnv7) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 3:37 |
+| 16 | [Electric](https://open.spotify.com/track/1qIhCupn4tcJWCQWoomnv7) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 3:36 |
 | 17 | [Se på mig](https://open.spotify.com/track/7nqogta9WJDwXkSNHu9wfJ) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Melodifestivalen \- Vinnare och favoriter](https://open.spotify.com/album/7FeC5fIidHKzKLKitJPtKC) | 3:07 |
 | 18 | [Sun Lover](https://open.spotify.com/track/1XhlKQadaisM9eFwXhmb58) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Open Air Volume 2](https://open.spotify.com/album/3MSmL04g7WHN4Czmkld8R2) | 3:11 |
 | 19 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain]
 | 21 | [Block Rockin' Beats](https://open.spotify.com/track/6nGUM3Z0FNJZW9wbNj97Ig) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood](https://open.spotify.com/album/7uqmBZKWSQY20q1EMrV8dt) | 4:54 |
 | 22 | [Panis Angelicus](https://open.spotify.com/track/4DCVBVcybvzYhSBI7Uyb8q) | [Adolf Fredrik Girls Choir](https://open.spotify.com/artist/2WLxI4rvr5ErulviUpsPp1) | [Lady Bird \- Soundtrack from the Motion Picture](https://open.spotify.com/album/6uFGiNNxdkOm03Nd3cEHxG) | 3:33 |
 
-Snapshot ID: `MCxmNzk1NDVjMmIxMjhjZWNjNmZjYjM1YzljODdmMGE2NGI0YWI0NWVj`
+Snapshot ID: `MCw2YjVmZDA2ZDg1YzNkZmI1ZGU3MjI3MDcyZmU5MDRkY2ZlYTJlMjNl`

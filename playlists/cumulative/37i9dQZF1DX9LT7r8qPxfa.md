@@ -4,7 +4,7 @@
 
 > deep & dark\. bold & bare\. cover: Samia
 
-221 songs - 14 hr 3 min
+222 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Henry St.](https://open.spotify.com/track/0Yl3Jh6DYFcAbT9HlnIAmh) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 4:29 | 2023-03-31 |  |
 | [Henry St.](https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN) | 4:29 | 2023-03-10 | 2023-04-26 |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-11-12 | 2023-12-09 |
+| [High And Dry](https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV) | 3:52 | 2023-10-13 |  |
 | [Hold Your Own Hand](https://open.spotify.com/track/1kTEvUAboeslZmTwiEmxvD) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 6:53 | 2022-09-16 | 2022-11-13 |
 | [Hollow](https://open.spotify.com/track/2RZKkkakd9ULBy58ffOAG4) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Ready Reckoner](https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl) | 4:18 | 2021-11-12 | 2023-03-15 |
 | [Hollow](https://open.spotify.com/track/6kEIzzsomuC1yknzS8TAwD) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Hollow](https://open.spotify.com/album/7wHbT4Baoyi3De2UAI8uOD) | 4:18 | 2021-11-12 | 2022-07-29 |
@@ -114,7 +115,7 @@
 | [Lincoln, Nebraska](https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH) | 2:23 | 2021-11-12 | 2023-04-02 |
 | [Lincoln, Nebraska](https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/7i0yanefGAo38sxISoem4B) | 2:23 | 2023-03-31 |  |
 | [Love More](https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Love More](https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4) | 4:32 | 2021-11-12 |  |
-| [Love of Her Life](https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Love of Her Life](https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ) | 4:01 | 2022-09-16 | 2023-10-09 |
+| [Love of Her Life](https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Love of Her Life](https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ) | 4:01 | 2022-09-16 |  |
 | [Luster](https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ) | [Twin Oaks](https://open.spotify.com/artist/2EhsRPMmPKBic0M4pFJkWk) | [Luster](https://open.spotify.com/album/6BgYFVZUvMm05vtCdnxh9d) | 3:20 | 2021-11-12 | 2023-05-20 |
 | [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 | 2021-11-12 | 2023-04-03 |
 | [May](https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq) | 3:58 | 2023-03-31 |  |
@@ -139,7 +140,7 @@
 | [Over Those Hills](https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [FLOWERS for VASES / descansos](https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129) | 3:11 | 2021-11-12 |  |
 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 | 2021-11-12 |  |
 | [Party Anthem](https://open.spotify.com/track/2MdwGmJXbMSL0KJHgYKm6z) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Jesus and Your Living Room Floor](https://open.spotify.com/album/3fn6jfVVNtogBRyYf38Oe9) | 3:21 | 2021-11-12 | 2022-07-29 |
-| [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 | 2021-11-12 |  |
+| [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 | 2021-11-12 | 2023-12-10 |
 | [Paula Collins](https://open.spotify.com/track/3haHJcTZKjxgnMT9XfCU3D) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r) | 3:15 | 2021-11-12 | 2022-07-29 |
 | [Paula Collins](https://open.spotify.com/track/6u6xrnKXzVVlInlfiHFZsP) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:15 | 2021-11-12 | 2022-11-13 |
 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 | 2021-11-18 |  |
@@ -157,7 +158,7 @@
 | [Robber](https://open.spotify.com/track/1ZKSWtwZDRT1SWZSE0wrqH) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/2SPVz3b57WsROQsPBeBQwq) | 5:20 | 2021-11-12 | 2022-07-29 |
 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 | 2021-11-12 |  |
 | [Same Mistakes](https://open.spotify.com/track/7l6ootXc12jVyxTybFGKt8) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Same Mistakes](https://open.spotify.com/album/2ktEfBjbTo93qoxwTXgluD) | 2:47 | 2021-11-12 | 2022-07-29 |
-| [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bullseye](https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1) | 3:24 | 2021-11-12 |  |
+| [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bullseye](https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1) | 3:24 | 2021-11-12 | 2023-12-10 |
 | [Shower Song](https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Shower Song](https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke) | 2:47 | 2023-05-19 |  |
 | [Silk](https://open.spotify.com/track/3vscDGTguHZgyZeVR67cJr) | [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Silk](https://open.spotify.com/album/281vLb9Y3WNKXljq2EbpQf) | 3:12 | 2021-11-12 | 2022-10-20 |
 | [Silk](https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m) | [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Silk](https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB) | 3:12 | 2022-09-16 |  |

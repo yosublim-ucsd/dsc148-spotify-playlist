@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-642 songs - 1 day 0 hr 28 min
+643 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,9 +39,10 @@
 | [ANTHEM](https://open.spotify.com/track/3HDtj6GdxPL6YsimJFT5DD) | [UMBASA](https://open.spotify.com/artist/6EETzM2Gz7RdpXoVF45yww) | [ANTHEM](https://open.spotify.com/album/2v4VXge6cTbMn32CqtekaV) | 2:59 | 2022-07-22 | 2022-08-07 |
 | [ANUBIS](https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [ANUBIS](https://open.spotify.com/album/32ZaJnILSwK9EKayZbZMmr) | 2:11 | 2022-08-26 |  |
 | [ARCHANGEL](https://open.spotify.com/track/2C38tr7Qwrum8WJLnFnGVf) | [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [ARCHANGEL](https://open.spotify.com/album/4iLY9g8XHuDqIv5DHneCBo) | 2:48 | 2023-02-24 | 2023-03-18 |
+| [AREAMATE MIZ](https://open.spotify.com/track/41ickhOwnmWX33HhsRNA6w) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/6OdcDL26C2YfsKp1kk22cx) | 1:16 | 2023-09-29 |  |
 | [AREAMATE MIZ](https://open.spotify.com/track/6A3uNmMItYREVU0mKY84DO) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/2cuN40DJHCdsfxqx7jM8w3) | 1:20 | 2023-09-29 | 2023-11-08 |
 | [AREAMATE MIZ](https://open.spotify.com/track/53UBdhRf5D42DSvw0WXM1a) | [Anar](https://open.spotify.com/artist/1p9AqKDvau2vOdRPj04dGp) | [AREAMATE MIZ](https://open.spotify.com/album/2rSCvCqIW9US2DOhd7U5QY) | 1:20 | 2023-09-29 | 2023-12-07 |
-| [AREAMATE MIZ](https://open.spotify.com/track/0PW8SEPqoQGQPbQQQCuWk8) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/3O8rLwUhaombLniabIsX5d) | 1:20 | 2023-09-29 |  |
+| [AREAMATE MIZ](https://open.spotify.com/track/0PW8SEPqoQGQPbQQQCuWk8) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/3O8rLwUhaombLniabIsX5d) | 1:20 | 2023-09-29 | 2023-12-10 |
 | [AREAMATE MIZ](https://open.spotify.com/track/0jFVh6ZKnTa7YeXhegoizc) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/5zjPzj6uBC7cKbBehDtsqc) | 1:20 | 2023-09-29 | 2023-11-12 |
 | [AREAMATE MIZ](https://open.spotify.com/track/5fidhv2cY1UFSmM0IfzXUc) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/3PUiEfbilwe50AC5AqaMLX) | 1:20 | 2023-09-29 | 2023-11-25 |
 | [AREAMATE MIZ](https://open.spotify.com/track/5tOuixKq2uczw2km4SOh3s) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/4xqoA91s0OEIo3r3DElsL5) | 1:20 | 2023-09-29 | 2023-12-03 |

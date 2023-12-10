@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 229381,
       "name": "Every Road I'm On",
       "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
@@ -4416,6 +4416,24 @@
       "duration_ms": 214480,
       "name": "Space and Time",
       "url": "https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf"
+    },
+    {
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/5PdXV8lvbR9xLOPYTdrDEG"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214480,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/6PMNeFrjxWip9trxYR4EXQ"
     },
     {
       "album": {

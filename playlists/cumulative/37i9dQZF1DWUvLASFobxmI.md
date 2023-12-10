@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Recluta en portada.
 
-430 songs - 23 hr 6 min
+431 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Centro de Atencion \(En Vivo\)](https://open.spotify.com/track/2vBjSW3RnQnEbY6uGkUoFP) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm) | [Centro de Atencion \(En Vivo\)](https://open.spotify.com/album/1hBevbeIe2rseuSIUVZJto) | 3:20 | 2023-12-08 |  |
 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 | 2022-03-11 | 2023-04-15 |
 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 | 2022-07-01 | 2023-07-15 |
-| [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 | 2022-12-02 |  |
+| [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 | 2022-12-02 | 2023-12-10 |
 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 | 2023-02-24 |  |
 | [Cinco Letras de Miel](https://open.spotify.com/track/0NnQVi8cI6GDY70gcY58JF) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Cinco Letras de Miel](https://open.spotify.com/album/2pAF6tby7WfPilxShPyPsr) | 3:42 | 2023-05-12 | 2023-06-18 |
 | [Coincidencia](https://open.spotify.com/track/6mG194I8D0FM4lHwVnfdWu) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Coincidencia](https://open.spotify.com/album/5kZpacNK5T75ydnsjHPI5A) | 3:10 | 2023-05-12 | 2023-05-27 |
@@ -171,7 +171,7 @@
 | [Especial](https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Especial](https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J) | 3:07 | 2022-07-01 | 2022-11-12 |
 | [Espejito, Espejito](https://open.spotify.com/track/2EwUNErhoTaJ2cKklOgok3) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Espejito, Espejito](https://open.spotify.com/album/6TAv5J6D66aqU1bUTImcpE) | 2:40 | 2023-06-16 | 2023-08-26 |
 | [Familia, Honor y Talento](https://open.spotify.com/track/3MxN1O9TsnOAEhUuMhpygw) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Familia, Honor y Talento](https://open.spotify.com/album/5LoCbJU63mYBbG15Dohpid) | 3:48 | 2023-03-10 | 2023-04-15 |
-| [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0) | 2:50 | 2023-04-21 | 2023-12-02 |
+| [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0) | 2:50 | 2023-04-21 |  |
 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 | 2023-01-13 |  |
 | [Flaco Salgueiro](https://open.spotify.com/track/26gjboIAI5bQevZS7aRg8C) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Flaco Salgueiro](https://open.spotify.com/album/4qM2J7FwcX2wCo1hxZEH10) | 3:02 | 2023-02-24 | 2023-03-09 |
 | [Flores](https://open.spotify.com/track/2n6qEM9e2a6yS50fWyaPQT) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Flores](https://open.spotify.com/album/35f4q9OIhEtZy9FErsdrqx) | 2:38 | 2022-06-24 | 2022-08-30 |
@@ -255,7 +255,8 @@
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-03-31 |  |
 | [Mas Que Amigos \- En vivo](https://open.spotify.com/track/2i6er0a1fHBsxibw8g3jNX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo Vol\. One \(En vivo\)](https://open.spotify.com/album/56p8CK0TWqMnwCHN8yqG0N) | 3:07 | 2022-09-02 | 2022-10-06 |
 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 | 2022-09-02 |  |
-| [Me Di Cuenta](https://open.spotify.com/track/0xfdBhImqnPN4yh2bT1rr0) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/2VNRQcvWyaZY20xKwGEOz0) | 3:02 | 2023-12-08 |  |
+| [Me Di Cuenta](https://open.spotify.com/track/0xfdBhImqnPN4yh2bT1rr0) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/2VNRQcvWyaZY20xKwGEOz0) | 3:02 | 2023-12-08 | 2023-12-10 |
+| [Me Di Cuenta](https://open.spotify.com/track/2ucU5OkIVrM0CcaUksB6vf) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/3wxMFWQmft2AiryqyyH7Rx) | 3:02 | 2023-12-08 |  |
 | [Me Dicen El Chavo](https://open.spotify.com/track/2Qtbqu3XEudTeqB31PKGu4) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Me Dicen El Chavo](https://open.spotify.com/album/2GAQ8DhWnILWXcnbLTny2W) | 3:07 | 2022-07-01 | 2022-11-05 |
 | [Me Dicen Nini](https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Dicen Nini](https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5) | 3:35 | 2022-07-01 |  |
 | [Me Estoy Cansando](https://open.spotify.com/track/30GgKoMi4yPjg3zKWCLS3U) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Me Estoy Cansando](https://open.spotify.com/album/2V3PGdorME4VoN7Mf5KviW) | 3:03 | 2023-07-14 | 2023-07-29 |

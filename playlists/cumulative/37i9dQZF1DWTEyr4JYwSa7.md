@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-327 songs - 17 hr 44 min
+328 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 | 2021-12-17 |  |
 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 | 2021-12-17 |  |
 | [C’est l’hiver](https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:11 | 2021-12-17 | 2022-07-29 |
+| [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 | 2023-12-08 |  |
 | [Dear Christmas \- V.F](https://open.spotify.com/track/4J2ZoKddzvOYvsFr3gZbia) | [Ryan Kennedy](https://open.spotify.com/artist/25jAO2QiZae4aSLA9LBXHS) | [Dear Christmas \- Single](https://open.spotify.com/album/6qmKVcB8zYGCSNQmXTXvSO) | 3:25 | 2021-12-17 | 2022-07-26 |
 | [Do They Know It's Christmas?](https://open.spotify.com/track/6Z7nSvnAhMasviVPmdEZKC) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Christmas Music 100 Hits](https://open.spotify.com/album/2whKuzNvFl6OnkiOvN1vA0) | 3:49 | 2021-12-17 | 2022-07-26 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/7IbB9ccl3nkSGof0K5tMd2) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Christmas Rock Music](https://open.spotify.com/album/7abCyFIJQ5R85d1O6pBrfe) | 3:41 | 2022-11-12 | 2022-11-13 |
@@ -242,7 +243,7 @@
 | [Noël sous les tropiques](https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:16 | 2021-12-17 | 2022-07-29 |
 | [Noël sur la 40](https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU) | [Funambule](https://open.spotify.com/artist/6XwCy7IIhLGlzxdjyNH4LE) | [Noël sur la 40](https://open.spotify.com/album/3AbtsGf9hJCS5ibXhqqduU) | 2:48 | 2022-11-18 | 2023-11-11 |
 | [Noël sur Terre](https://open.spotify.com/track/31sbrkkGndj2OvoP2KQXoK) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Noël sur Terre](https://open.spotify.com/album/223EBKe30FAE6NboeQpy3z) | 3:28 | 2021-12-17 | 2022-07-24 |
-| [Noël tout blanc \- Décembre : le Noël de Québec Issime](https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX) | [Québec Issime](https://open.spotify.com/artist/7gtD7XIKiUOORajXTt6bO7), [Marc\-André Fortin](https://open.spotify.com/artist/2DwEhYCcTcVbqoSFwaxuhI), [Alexandre Lapointe](https://open.spotify.com/artist/04mRH0TRHwKcPf5PxqJBfO), [Natalie Byrns](https://open.spotify.com/artist/3oztZVgQ27wNBMDttJskLO), [Les Enfants de Décembre](https://open.spotify.com/artist/4oPfByw3kxFBch8bD3cjAI) | [Noël tout blanc \(feat\. Marc\-André Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de Décembre\) \[Décembre : le Noël de Québec Issime\]](https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ) | 3:09 | 2021-12-17 |  |
+| [Noël tout blanc \- Décembre : le Noël de Québec Issime](https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX) | [Québec Issime](https://open.spotify.com/artist/7gtD7XIKiUOORajXTt6bO7), [Marc\-André Fortin](https://open.spotify.com/artist/2DwEhYCcTcVbqoSFwaxuhI), [Alexandre Lapointe](https://open.spotify.com/artist/04mRH0TRHwKcPf5PxqJBfO), [Natalie Byrns](https://open.spotify.com/artist/3oztZVgQ27wNBMDttJskLO), [Les Enfants de Décembre](https://open.spotify.com/artist/4oPfByw3kxFBch8bD3cjAI) | [Noël tout blanc \(feat\. Marc\-André Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de Décembre\) \[Décembre : le Noël de Québec Issime\]](https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ) | 3:09 | 2021-12-17 | 2023-12-10 |
 | [Noël à Jérusalem](https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Noël avec Jireh Gospel Choir](https://open.spotify.com/album/3nR7D8rkYHXIQG80R3EpFf) | 3:53 | 2021-12-17 |  |
 | [Noël à Jérusalem](https://open.spotify.com/track/5NOIYvClm7ZvgeNSKE5dLW) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Noël Gospel](https://open.spotify.com/album/23TY3rg5y73zy5EQqDPcRx) | 3:53 | 2021-12-17 | 2022-07-27 |
 | [Noël à Paris](https://open.spotify.com/track/1iX0aX4G4SCoSlG0CqKgqs) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Noël 2019](https://open.spotify.com/album/6ykFQwwI2HgSZsHAzprXeP) | 2:29 | 2021-12-17 |  |

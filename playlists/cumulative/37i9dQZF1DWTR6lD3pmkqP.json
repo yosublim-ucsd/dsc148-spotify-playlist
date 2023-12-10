@@ -966,7 +966,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 505000,
       "name": "Bells",
       "url": "https://open.spotify.com/track/7z6j3kX2t2auYlckhFLqAK"
@@ -2839,6 +2839,28 @@
     },
     {
       "album": {
+        "name": "Feeding the Machine",
+        "url": "https://open.spotify.com/album/5ea09DMYFAHgWj88zLYuNm"
+      },
+      "artists": [
+        {
+          "name": "Binker and Moses",
+          "url": "https://open.spotify.com/artist/7mKZJ0SITREZQovQF6Qeb4"
+        },
+        {
+          "name": "Max Luthert",
+          "url": "https://open.spotify.com/artist/0SY44UCwBAxIo3mrKixXRB"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529972,
+      "name": "Feed Infinite",
+      "url": "https://open.spotify.com/track/1cmTkUTh4wgVka5DVvUwOR"
+    },
+    {
+      "album": {
         "name": "Feed Infinite",
         "url": "https://open.spotify.com/album/17yMp67fx7IRXilG2RMgNH"
       },
@@ -3581,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "Fumitsuke",
+        "url": "https://open.spotify.com/album/2TyZVrjALM78v1DfNezKKv"
+      },
+      "artists": [
+        {
+          "name": "Joanna Duda Trio",
+          "url": "https://open.spotify.com/artist/7f9e3OHtFqSbSOF4BzX83i"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448720,
+      "name": "Grasshopper",
+      "url": "https://open.spotify.com/track/1yutSXKfA5VXkwH5Zq44y2"
+    },
+    {
+      "album": {
         "name": "Grasshopper",
         "url": "https://open.spotify.com/album/0pbl1UD7ra9ypd9TqzsR5O"
       },
@@ -3804,7 +3844,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 166760,
       "name": "Honey Caturra",
       "url": "https://open.spotify.com/track/4DSNN0ESNucsjPJDUu2Tyr"
@@ -8380,6 +8420,24 @@
     {
       "album": {
         "name": "Imajin",
+        "url": "https://open.spotify.com/album/7B4kZemfJVuSsn382slcgk"
+      },
+      "artists": [
+        {
+          "name": "Imajin",
+          "url": "https://open.spotify.com/artist/7aluGANSk8UZ7NIjHEdinC"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Soho Grandey",
+      "url": "https://open.spotify.com/track/2YmPxLYEXMK2uFEWVAyJPx"
+    },
+    {
+      "album": {
+        "name": "Imajin",
         "url": "https://open.spotify.com/album/6ReFBfacZmMQiegWWSP8bE"
       },
       "artists": [
@@ -8874,7 +8932,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 180280,
       "name": "Sua Beleza e Beleza",
       "url": "https://open.spotify.com/track/5QuPgQRKb6ojYzbvNTRjQv"

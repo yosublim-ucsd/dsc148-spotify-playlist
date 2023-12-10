@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-277 songs - 16 hr 41 min
+278 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Earthquake Weather](https://open.spotify.com/track/5E4fq3FNmrqj9pQlD4zbrt) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Earthquake Weather](https://open.spotify.com/album/4nzGzHJW8frtilga4igCH4) | 3:25 | 2021-12-10 | 2022-07-29 |
 | [Edge of the Ocean](https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Edge of the Ocean](https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1) | 4:55 | 2022-08-15 |  |
 | [Endless Summer](https://open.spotify.com/track/3pQpVawEKfVPBwj8RDdgfD) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Endless Summer](https://open.spotify.com/album/2FWsrjGA1kLgzNURoAGX5E) | 3:25 | 2023-07-28 |  |
-| [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 | 2021-12-10 |  |
+| [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 | 2021-12-10 | 2023-12-10 |
 | [Everyday People \(Remix with B\-Real & G.Love\)](https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Everyday People \(Remix with B\-Real & G\. Love\)](https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz) | 3:45 | 2021-12-10 |  |
 | [Everyone Need Love \(with Surfer Girl\)](https://open.spotify.com/track/3QO9GEmkPeqdRMh0Tdf95Q) | [Coyote Island](https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz), [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Everyone Need Love \(with Surfer Girl\)](https://open.spotify.com/album/3jNCx0r3O3vZpAggBtM4Ew) | 3:23 | 2023-04-17 | 2023-09-14 |
 | [Fade Away](https://open.spotify.com/track/6dawVZplfCunQlfVHYCgKa) | [Arise Roots](https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH) | [Fade Away](https://open.spotify.com/album/7jYy1Ueym5wdvKx6BLAjEx) | 4:59 | 2021-12-10 | 2022-07-29 |
@@ -231,6 +231,7 @@
 | [Sounds of Summer \(with Slightly Stoopid\)](https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Sounds Of Summer \(with Slightly Stoopid\)](https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm) | 3:41 | 2021-12-10 |  |
 | [Space and Time](https://open.spotify.com/track/2P0FH5jSRu8cctdYfTXtje) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Space and Time](https://open.spotify.com/album/527CKlIFgZY5S99cPLLuvG) | 3:34 | 2021-12-10 | 2022-05-14 |
 | [Space and Time](https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:34 | 2022-09-30 | 2023-11-05 |
+| [Space and Time](https://open.spotify.com/track/6PMNeFrjxWip9trxYR4EXQ) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/5PdXV8lvbR9xLOPYTdrDEG) | 3:34 | 2023-11-13 |  |
 | [Stayed](https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww) | [Artikal Sound System](https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr) | [Welcome to Florida](https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d) | 2:50 | 2022-03-10 | 2022-07-29 |
 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 | 2022-07-06 |  |
 | [Summer Nights](https://open.spotify.com/track/0QkWubamAKEvvcOTriSKX3) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Summer Nights](https://open.spotify.com/album/5KYbDlIP0eFNJv4KBaokTY) | 3:56 | 2021-12-10 |  |

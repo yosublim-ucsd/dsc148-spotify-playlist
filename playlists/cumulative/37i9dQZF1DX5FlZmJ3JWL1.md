@@ -4,7 +4,7 @@
 
 > Let's go! 💪
 
-69 songs - 3 hr 5 min
+70 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,12 @@
 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 | 2023-09-01 |  |
 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 | 2023-09-01 |  |
 | [Bad Day](https://open.spotify.com/track/1hLjDjDukRRGLdqfseaNsa) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Bad Day](https://open.spotify.com/album/4N3ODBFIfU3SrBUfRAVxpo) | 2:15 | 2023-09-01 | 2023-11-04 |
+| [Bad Day](https://open.spotify.com/track/5qncWTWI5o2a4iKfDnzXDO) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Bad Day](https://open.spotify.com/album/17PiY34CSqVPtrgUNaKhet) | 2:15 | 2023-11-28 |  |
 | [Bailando](https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV) | 2:16 | 2023-09-01 |  |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-11-10 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2023-09-01 | 2023-10-28 |
 | [Blow It Up](https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Blow It Up](https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9) | 3:01 | 2023-09-01 |  |
-| [Body Rock](https://open.spotify.com/track/0qtjn6dbQ8VDNJwJQ9w7Cy) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Body Rock](https://open.spotify.com/album/2N7fWqjHyi2OpIxPJPBdO2) | 2:13 | 2023-09-01 |  |
+| [Body Rock](https://open.spotify.com/track/0qtjn6dbQ8VDNJwJQ9w7Cy) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Body Rock](https://open.spotify.com/album/2N7fWqjHyi2OpIxPJPBdO2) | 2:13 | 2023-09-01 | 2023-12-10 |
 | [Bongo Remix](https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6) | [Max + Johann](https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow) | [Bongo Remix](https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk) | 2:40 | 2023-09-08 |  |
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2023-10-06 |  |
 | [Coconut](https://open.spotify.com/track/1aUr1M92RnRVNFWrAPq64Q) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [GRY](https://open.spotify.com/artist/6lLzPz5M6NWkN9FiN4Wcfe) | [Coconut](https://open.spotify.com/album/1bk3ObntSufsULFDAS3h3c) | 2:37 | 2023-09-01 | 2023-10-07 |

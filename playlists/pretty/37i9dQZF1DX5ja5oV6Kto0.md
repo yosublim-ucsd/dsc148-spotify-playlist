@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Rvdical the Kid & Maesu
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,475 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,517 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 18 | [Do Not Disturb](https://open.spotify.com/track/0yiBLJp8JFeJU8DcJeuwjU) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Do Not Disturb](https://open.spotify.com/album/4sSm5RNKqNxeJEO6f5M7M9) | 2:22 |
 | 19 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
 | 20 | [SHE WAAN](https://open.spotify.com/track/2r8fW6t21bMrrfQW20OKF8) | [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [SHE WAAN](https://open.spotify.com/album/3bA2DgGpky4EeSr6VnOPhh) | 3:50 |
-| 21 | [NEW SEASON](https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [C3VN](https://open.spotify.com/artist/4XbarFQnYNsfcoCrydE0FX) | [NEW SEASON](https://open.spotify.com/album/0DhwBUGi5SnQ0Mldt9BYAk) | 1:41 |
+| 21 | [NEW SEASON](https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [C3VN](https://open.spotify.com/artist/5M78DPxvvpqMbkMZ3WAPhh) | [NEW SEASON](https://open.spotify.com/album/0DhwBUGi5SnQ0Mldt9BYAk) | 1:41 |
 | 22 | [Rora](https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Rora](https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC) | 2:23 |
 | 23 | [Hear My Sound](https://open.spotify.com/track/71XAmXQ1HlKfzkMR52b4Hh) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 2:56 |
 | 24 | [Late Night On Lokko Street](https://open.spotify.com/track/4kHSBFk0AuUCVCYnyiYYOO) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Roadman and Folks](https://open.spotify.com/album/3gZJDhBIWDDAcJHmcbUomZ) | 4:00 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 89 | [In A Loop](https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:13 |
 | 90 | [Theysaid.](https://open.spotify.com/track/1jU9gOcHzL2FncEgneJQYD) | [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk), [Array.](https://open.spotify.com/artist/35Hb6TrgbjftU0vO14t7qF) | [Typewrit3R Vol\. 1](https://open.spotify.com/album/1s8TtslAPUXrruNLtH9Sv4) | 3:02 |
 
-Snapshot ID: `MCw5MmFkMmFiNTRmZDAzOGEyYTAwMzU1YmVhMDc1YWIyYTVjYzJmYTA4`
+Snapshot ID: `MCxkZDYwZGNjY2ExMGY1ODIwNjU2ZjQ4YTBmNzEzMjFlZmEyZjk2NTBi`

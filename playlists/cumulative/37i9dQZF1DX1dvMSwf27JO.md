@@ -4,7 +4,7 @@
 
 > music to get fly to ft Erykah Badu and Usher front row at Marni.
 
-505 songs - 1 day 3 hr 32 min
+506 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 | 2023-03-03 | 2023-07-13 |
 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 | 2021-08-05 | 2022-09-15 |
 | [Body Move](https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/20v7NPIDPBIRXIBEnJdoQg) | 2:56 | 2023-10-04 | 2023-11-05 |
+| [Body Move](https://open.spotify.com/track/7zA0VTyhfiIalyRgcQJzU7) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/3cCuqxwQ3zfQ9XBQjmg5Ed) | 2:56 | 2023-10-04 |  |
 | [Bola Rebola](https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Bola Rebola](https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD) | 3:13 | 2023-09-07 | 2023-10-05 |
 | [BOMB \(feat\. Latto\)](https://open.spotify.com/track/5chOWIOfUY9RwfmP4fYSOU) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BOMB \(feat\. Latto\)](https://open.spotify.com/album/31EIBv8iwr8SsOX9Z1r9LJ) | 3:26 | 2023-03-03 | 2023-07-29 |
 | [Boogie \(feat\. Tony Shhnow\)](https://open.spotify.com/track/6YtF0BZzddOW1P9seEJhrr) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 3:01 | 2023-05-19 | 2023-07-29 |
@@ -397,7 +398,7 @@
 | [Shut Up and Let Me Go](https://open.spotify.com/track/6tN0t7Y1bFI1ZU98Ou8Z3i) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1aWIPcWf3fDEZT6geXjCfU) | 2:51 | 2022-08-27 | 2022-12-17 |
 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 | 2021-08-05 | 2022-12-17 |
 | [Si c'était le dernier](https://open.spotify.com/track/5wYIOyOaWKLkx3Pde6qstp) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [S.O.S.](https://open.spotify.com/album/6xI2IX2cygCOEmqrLXIVVT) | 10:51 | 2023-09-07 | 2023-10-05 |
-| [silver lining](https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:34 | 2023-10-04 |  |
+| [silver lining](https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:34 | 2023-10-04 | 2023-12-10 |
 | [Sittin' In My Car](https://open.spotify.com/track/1nsbj6cQQmfp9x7Mlmtphl) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [Behind Bars](https://open.spotify.com/album/5NRnE7jLiB8MC1xZbDFwcg) | 3:46 | 2022-09-13 | 2022-10-08 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2022-06-17 |  |
 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 | 2022-08-30 | 2023-09-06 |

@@ -1,12 +1,12 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora n\u00e9 n\u00e3o?? ",
-  "num_followers": 537913,
+  "num_followers": 537957,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWE3ZWQ1ODYwNzZiOTU3YjgwY2EwMzNmNjdmZWEyZWVlNjM5ZGU0",
+  "snapshot_id": "MCw2N2FiNzQ3MTk5MDJkZWE0MWJhZjExNzhmMjZhMWViMjczNjJiYTRm",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Love Is A Losing Game",
+      "url": "https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 270333,
       "name": "Un-Break My Heart",
       "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Love Is A Losing Game",
-      "url": "https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "We Go Down Together (with Khalid)",
-        "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 184963,
-      "name": "We Go Down Together (with Khalid)",
-      "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Goodbye Lullaby (Expanded Edition)",
         "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "We Go Down Together (with Khalid)",
+        "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 184963,
+      "name": "We Go Down Together (with Khalid)",
+      "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
     },
     {
       "added_at": "2023-12-01 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Alexander Stewart
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,339 likes - 96 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,460 likes - 96 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 4 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 |
 | 5 | [28 \- with Dean Lewis](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 |
 | 6 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
-| 7 | [Good to Know](https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii) | 2:42 |
+| 7 | [Good to Know](https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 2:42 |
 | 8 | [I Hope It All Works Out](https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [I Hope It All Works Out](https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s) | 2:47 |
 | 9 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
 | 10 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 95 | [Run Through Fire](https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Run Through Fire](https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE) | 3:04 |
 | 96 | [Green](https://open.spotify.com/track/0LHB4Y0QoyirTM1TdcnWNM) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Green](https://open.spotify.com/album/1iNlLjCj7U27ImeLnzJQjj) | 3:05 |
 
-Snapshot ID: `MCxlODZkNWY4NWJkYjg1Yjc5NGE2YTBhNjQzYjAwZWM2MTE5NTUzNzcy`
+Snapshot ID: `MCxiYmU5Y2VhMDNlMzgyMGJjZGUxZDBmNjFiMDg2ZWU4ZGM1OWNjYWE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,550 likes - 79 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,561 likes - 79 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 78 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 |
 | 79 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 |
 
-Snapshot ID: `MCwyMTU3OGQ5YzA5MTZkYjhjMzIyMTIxNGZiOTU2MzMzMjI3MGE3MmE5`
+Snapshot ID: `MCwyMjE1MjkwNDM0YmI2ZDY2YWE5YjNjYjA0OTA0OTlhNDZlMjZkODEw`

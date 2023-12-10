@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,613 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,610 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 51 | [Mente do Vilão](https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais Mc's](https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4) | 4:30 |
 | 52 | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG) | 4:30 |
 | 53 | [Wallpaper](https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Wallpaper](https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V) | 3:11 |
-| 54 | [Bora Dançar](https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:44 |
-| 55 | [Fuga](https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Fuga](https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost) | 3:52 |
+| 54 | [Fuga](https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Fuga](https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost) | 3:52 |
+| 55 | [Bora Dançar](https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:44 |
 | 56 | [Vem Tranquilo](https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Santzu](https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Mixtape: O Homem Não para Nunca, Vol\. 1](https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF) | 4:54 |
 | 57 | [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 |
 | 58 | [The Cypher Deffect 2](https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [The Cypher Deffect 2](https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb) | 5:35 |
 | 59 | [Dior](https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD) | [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [Dior](https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y) | 3:06 |
-| 60 | [Filosofia de Boteco](https://open.spotify.com/track/3nXCaYDeKPeUiUyGThNSEs) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Perfil](https://open.spotify.com/album/5NXJgS9adRvK9mhnAF9XHe) | 4:10 |
+| 60 | [Cantando pro Santo](https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Chorão](https://open.spotify.com/artist/5u3nOqtEJfhFUuPR9EjnkC) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 6:06 |
 
-Snapshot ID: `MCw2Mzk0MGM5MzQ1NTM2MTcxZTVhNzUyNTc5NjcxYzMxMDJjMDUzMzk3`
+Snapshot ID: `MCwyYzdiOWY5OTExMTE1NmU3YWU2ODliNTA2ODkzYzY1YmExMzcxMTUy`

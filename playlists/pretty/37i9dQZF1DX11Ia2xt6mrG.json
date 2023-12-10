@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "num_followers": 55515,
+  "num_followers": 55530,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTFkOTgzYmY3OTEyYmZlOTk2NDZmYTQyYjA3ZmY5MDFkYmU0OTQw",
+  "snapshot_id": "MCwzZTQyYTNlNmY3ODlkMmFkOWY5MTY3ODA4MjNmYTk1ZDY2YjBhMDVl",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -239,26 +239,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/2dpoGIT0FH5ceESag6H3bi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Dancing On Dangerous",
         "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/2dpoGIT0FH5ceESag6H3bi"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "MASERATI",
-        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "MASERATI",
-      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/5mI4q6IaLxQiumiAQ69jmj"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "MASERATI",
+        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "MASERATI",
+      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Up & Down",
         "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
       },
@@ -775,6 +775,26 @@
       "duration_ms": 184000,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Move My Body",
+        "url": "https://open.spotify.com/album/4eN2F7PziOdoE8ORkEbuQT"
+      },
+      "artists": [
+        {
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Ghost Lat1No",
+          "url": "https://open.spotify.com/artist/4opLmSGPdgBa0ZAhcLXyV5"
+        }
+      ],
+      "duration_ms": 274239,
+      "name": "Move My Body",
+      "url": "https://open.spotify.com/track/4qaC9jEPMGG0b3dwNQrjqH"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -799,26 +819,6 @@
       "duration_ms": 147000,
       "name": "Ayanami",
       "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Move My Body",
-        "url": "https://open.spotify.com/album/4eN2F7PziOdoE8ORkEbuQT"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Ghost Lat1No",
-          "url": "https://open.spotify.com/artist/4opLmSGPdgBa0ZAhcLXyV5"
-        }
-      ],
-      "duration_ms": 274239,
-      "name": "Move My Body",
-      "url": "https://open.spotify.com/track/4qaC9jEPMGG0b3dwNQrjqH"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -851,6 +851,22 @@
       "duration_ms": 212280,
       "name": "Sexy Velocity",
       "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "CONTACTO CERO",
+        "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "CONTACTO CERO",
+      "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -915,22 +931,6 @@
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "CONTACTO CERO",
-        "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "CONTACTO CERO",
-      "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1135,30 +1135,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "\u00a1Bang Bang!",
-        "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
+        "name": "Density",
+        "url": "https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl"
       },
       "artists": [
         {
-          "name": "Garena Free Fire",
-          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+          "name": "Guztavo MX",
+          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
         },
         {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        },
-        {
-          "name": "Barovier",
-          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+          "name": "Delove",
+          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
         }
       ],
-      "duration_ms": 167666,
-      "name": "\u00a1Bang Bang!",
-      "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
+      "duration_ms": 161904,
+      "name": "Density",
+      "url": "https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1191,22 +1183,30 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Density",
-        "url": "https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl"
+        "name": "\u00a1Bang Bang!",
+        "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
       },
       "artists": [
         {
-          "name": "Guztavo MX",
-          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
         },
         {
-          "name": "Delove",
-          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "Barovier",
+          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
         }
       ],
-      "duration_ms": 161904,
-      "name": "Density",
-      "url": "https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp"
+      "duration_ms": 167666,
+      "name": "\u00a1Bang Bang!",
+      "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Give Me Your Heart (Somos Uno)",
-        "url": "https://open.spotify.com/album/3R79qs8T32OudQdPBZ0Ope"
+        "name": "Thousand Drums",
+        "url": "https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd"
       },
       "artists": [
         {
-          "name": "Sisster",
-          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        },
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
         }
       ],
-      "duration_ms": 209267,
-      "name": "Give Me Your Heart (Somos Uno)",
-      "url": "https://open.spotify.com/track/0cEkRIcJMo0KIxNsWiKyob"
+      "duration_ms": 201230,
+      "name": "Thousand Drums",
+      "url": "https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Thousand Drums",
-        "url": "https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd"
+        "name": "Give Me Your Heart (Somos Uno)",
+        "url": "https://open.spotify.com/album/3R79qs8T32OudQdPBZ0Ope"
       },
       "artists": [
         {
-          "name": "Orjan Nilsen",
-          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
-        },
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+          "name": "Sisster",
+          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
         }
       ],
-      "duration_ms": 201230,
-      "name": "Thousand Drums",
-      "url": "https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr"
+      "duration_ms": 209267,
+      "name": "Give Me Your Heart (Somos Uno)",
+      "url": "https://open.spotify.com/track/0cEkRIcJMo0KIxNsWiKyob"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/5y0WVHEW9q3N77kELEyvme"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
       },
@@ -1487,46 +1507,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/5y0WVHEW9q3N77kELEyvme"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Ra Ta Ta (LNY TNZ Remix)",
-        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 174420,
-      "name": "Ra Ta Ta - LNY TNZ Remix",
-      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Esto Aqui No Acaba",
         "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 228907,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Ra Ta Ta (LNY TNZ Remix)",
+        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 174420,
+      "name": "Ra Ta Ta - LNY TNZ Remix",
+      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Swap",
+        "url": "https://open.spotify.com/album/7vvgUkUWQe92TGMCRm1BQR"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Swap",
+      "url": "https://open.spotify.com/track/45AsRwZTsI9sHCvP9ovFJD"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 213133,
       "name": "Windows",
       "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Swap",
-        "url": "https://open.spotify.com/album/7vvgUkUWQe92TGMCRm1BQR"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Swap",
-      "url": "https://open.spotify.com/track/45AsRwZTsI9sHCvP9ovFJD"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Filosof\u00eda",
-        "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        },
-        {
-          "name": "Johan",
-          "url": "https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS"
-        }
-      ],
-      "duration_ms": 180918,
-      "name": "Filosof\u00eda",
-      "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "San Junipero Remixes Vol. 1",
         "url": "https://open.spotify.com/album/0z6ThqeKVlAuBkjXX0M70x"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 195692,
       "name": "San Junipero (Usb Gad Remix)",
       "url": "https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Filosof\u00eda",
+        "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Johan",
+          "url": "https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS"
+        }
+      ],
+      "duration_ms": 180918,
+      "name": "Filosof\u00eda",
+      "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Scare",
+        "url": "https://open.spotify.com/album/4pQR2kQ9oEYuLgu6MV9l4p"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Scare",
+      "url": "https://open.spotify.com/track/5wbgiwLQCkwloRj5fSDCyw"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr"
       },
@@ -1807,26 +1827,6 @@
       "duration_ms": 214416,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
-      },
-      "artists": [
-        {
-          "name": "N\u00d8RBY",
-          "url": "https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw"
-        },
-        {
-          "name": "Taylor Diaz",
-          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
     }
   ],
   "unique_name": "mint MX",

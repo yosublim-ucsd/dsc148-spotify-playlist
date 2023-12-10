@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Oruam
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,720 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,941 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Para de Mentir](https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Para de Mentir](https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ) | 4:14 |
+| 1 | [Para de Mentir](https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Para de Mentir](https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ) | 4:14 |
 | 2 | [Quando Você Chegou](https://open.spotify.com/track/457V49BhoC82JATzMaX7HJ) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Vida Cara \(Deluxe\)](https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT) | 2:31 |
 | 3 | [Imprevísivel \- Acústico](https://open.spotify.com/track/4NLrGSLYrSw2o0Bh6T0asj) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG) | [Acústico na Cachu](https://open.spotify.com/album/6XToWDpOgXAusmrtqUW9Mi) | 4:14 |
 | 4 | [Tá Cada Vez Mais Difícil Fazer Love Song](https://open.spotify.com/track/7drLOwfrTHGbbOSzgm4m7M) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9) | [Tá Cada Vez Mais Difícil Fazer Love Song](https://open.spotify.com/album/5vVAnLOyy5dcXzaTlQWjQu) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [O Final](https://open.spotify.com/track/1tqo1Adl9oUzgs4lvalJkU) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [O Final](https://open.spotify.com/album/0biDGaHDnehMqUmZQebN9G) | 3:12 |
 | 75 | [Poesia Acústica \#8: Amor e Samba](https://open.spotify.com/track/2RoWhAVtQrPU53BERYlmYZ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Bob do Contra](https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Poesia Acústica \#8: Amor e Samba](https://open.spotify.com/album/4RywQdWtmYauBzjeUqLTZX) | 10:14 |
 
-Snapshot ID: `MCw4NGMwMWU3OGY1NzgwMGI2OTYxNDg3MTA1YWMxYmFhYzhjZmE4NzNk`
+Snapshot ID: `MCxkYTVmOTNkZDA3NDA1NTk1MjBkZjY2ZGM1ZmE5MThmNGY4NGEwOTE4`

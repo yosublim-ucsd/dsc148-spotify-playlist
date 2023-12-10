@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Kaleena Zanders
 
-608 songs - 1 day 8 hr 3 min
+609 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,8 @@
 | [Here For You](https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Here For You](https://open.spotify.com/album/3JGqBNtMILRIPmLTbyqusL) | 3:41 | 2021-12-03 | 2023-03-14 |
 | [Here With You](https://open.spotify.com/track/3ofM6vMSZ9FWC0bUv6VzYg) | [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Here With You](https://open.spotify.com/album/2bckXiVdAAmStOvsZlfOzx) | 2:19 | 2023-09-01 | 2023-10-21 |
 | [Hey Hey \(Heard You Say\)](https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Hey Hey \(Heard You Say\)](https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy) | 3:53 | 2022-07-22 | 2023-11-18 |
-| [HIGH AGAIN](https://open.spotify.com/track/3EwmYpKAiJP0fNtUPBCdTQ) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/5ZKIzX3mYYmiqZk6Izi3ZT) | 3:05 | 2023-12-08 |  |
+| [HIGH AGAIN](https://open.spotify.com/track/3EwmYpKAiJP0fNtUPBCdTQ) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/5ZKIzX3mYYmiqZk6Izi3ZT) | 3:05 | 2023-12-08 | 2023-12-10 |
+| [HIGH AGAIN](https://open.spotify.com/track/5q0HCtQ07Vw2PoQtki30sW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46) | 3:05 | 2023-12-08 |  |
 | [High Like This](https://open.spotify.com/track/24rqaJuN7XX19NbmPHA6TT) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:01 | 2022-06-03 | 2023-04-09 |
 | [High Status](https://open.spotify.com/track/0bxftpLWSoYLPmx6ydcyWK) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [High Status](https://open.spotify.com/album/0aaZ9Zv1g3bz8kxPHpRY5G) | 3:04 | 2023-03-31 | 2023-04-23 |
 | [Hit Boys](https://open.spotify.com/track/79JqrjyOQeSKTQcrFW0K0Z) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [IMYOUNGWORLD](https://open.spotify.com/artist/08ngafsXwRT3J172UID0xq) | [Street Knowledge](https://open.spotify.com/album/3odYrusBGPbJ9OXMydGccU) | 2:43 | 2021-10-29 | 2022-05-28 |

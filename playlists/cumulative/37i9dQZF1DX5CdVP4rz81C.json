@@ -9852,10 +9852,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 162556,
       "name": "Good to Know",
       "url": "https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp"
+    },
+    {
+      "album": {
+        "name": "Simple Like 17",
+        "url": "https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162556,
+      "name": "Good to Know",
+      "url": "https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6"
     },
     {
       "album": {

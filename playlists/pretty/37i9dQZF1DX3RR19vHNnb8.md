@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,708 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,755 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [Vawulence](https://open.spotify.com/track/6L3uqX3OEBXMFB2HDfLlTx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [The Lost Boy](https://open.spotify.com/album/4vAkdqqJAaixyOUAMjMv61) | 3:05 |
 | 50 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 |
 
-Snapshot ID: `MCw0ODdjYmRiZmE0YjZhNmQ1ZmMxMTM3NWRlMjcwYmQ2MzdmY2VjYjMx`
+Snapshot ID: `MCw3YzcwMzg4NWEwYTVjMmQwYTIwMWIzZDZjOTBlOTVmMmM0Y2MwYzUw`

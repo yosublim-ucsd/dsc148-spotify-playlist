@@ -4,7 +4,7 @@
 
 > Feel good with this positively timeless playlist!
 
-268 songs - 14 hr 58 min
+269 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/5xcw2nLeZN6wfVADCJbNi2) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Just Dropped In \(To See What Condition My Rendition Was In\)](https://open.spotify.com/album/58SiteqzhNYvUIpDaSpxA0) | 3:00 | 2021-10-19 | 2023-04-30 |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-10-07 | 2023-04-30 |
 | [Just Like You Used To](https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg) | 3:08 | 2022-10-07 | 2023-09-12 |
+| [Just Like You Used To](https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:09 | 2022-10-07 |  |
 | [Keep On Loving You](https://open.spotify.com/track/1c9AT2KcZ3p7uuYZd61EL2) | [Four Mints](https://open.spotify.com/artist/5weBoY03qqqq9uFG136tti) | [Gently Down Your Stream](https://open.spotify.com/album/2mvQIgAjKjwYGmd4GIXVBI) | 3:26 | 2021-10-19 | 2022-04-19 |
 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 | 2021-10-19 |  |
 | [Ladies](https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:17 | 2021-10-19 |  |
@@ -156,7 +157,7 @@
 | [Land of 1000 Dances](https://open.spotify.com/track/61w1Ry5X8UUsbNoPG7zRP1) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Rhino Hi\-Five: Wilson Pickett](https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd) | 2:26 | 2021-10-19 | 2022-07-29 |
 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 | 2021-10-19 |  |
 | [Last One Standing](https://open.spotify.com/track/22n3sLGqLcaYKiVniC1ZOT) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing](https://open.spotify.com/album/6vvOAVWdKzPGnkNUs0RJRc) | 7:16 | 2021-10-19 | 2022-07-29 |
-| [Last One Standing](https://open.spotify.com/track/7DFA3k0QQtvAkItuNAwKh4) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us](https://open.spotify.com/album/2ORpnTwbgJ73BHva0aSeVX) | 7:16 | 2021-10-19 |  |
+| [Last One Standing](https://open.spotify.com/track/7DFA3k0QQtvAkItuNAwKh4) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us](https://open.spotify.com/album/2ORpnTwbgJ73BHva0aSeVX) | 7:16 | 2021-10-19 | 2023-12-10 |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2021-10-19 |  |
 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 | 2021-10-19 | 2022-07-29 |
 | [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 | 2021-10-19 | 2023-10-30 |

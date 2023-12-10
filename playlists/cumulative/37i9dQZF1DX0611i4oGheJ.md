@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-322 songs - 20 hr 30 min
+323 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [For Now](https://open.spotify.com/track/3xvF7KX1QTImJERKQhlpVB) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/6JNuIdnyOb5gHbMUi2pV6f) | 3:18 | 2023-05-19 |  |
 | [Forever and Then Some](https://open.spotify.com/track/16HWvmhWwk53FLOSvgiL1w) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/5wypLtHgbpupR5THbQeaTM) | 4:49 | 2021-10-22 | 2022-07-29 |
 | [Freedom](https://open.spotify.com/track/5wnhj7LmjbArwChkJKcPx7) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/21MyZpqv4kjKulBfxKnVq9) | 4:28 | 2021-10-22 | 2022-07-29 |
+| [Friction](https://open.spotify.com/track/2fzmOoog3BxuPtHDgDE9la) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk), [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [Friction](https://open.spotify.com/album/6AdVRKAiGXEFTpcWssnfED) | 3:48 | 2023-12-01 |  |
 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 | 2021-10-22 | 2022-07-29 |
 | [Front Porch](https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:51 | 2022-05-27 |  |
 | [Georgia](https://open.spotify.com/track/1xVXufz1LQINOvqxFoEWmS) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/4sRSCsGsXFMeOTmQ2G6sPV) | 3:35 | 2021-10-22 | 2022-05-18 |
@@ -159,7 +160,7 @@
 | [Masterpiece \- solo](https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD) | 4:00 | 2022-05-27 |  |
 | [Meet Me Halfway](https://open.spotify.com/track/7ar07c1y2oKOoKiUqyxSCW) | [Hayward Williams](https://open.spotify.com/artist/3CAIJurOYM3KYgrr5D6YSY) | [Pretenders](https://open.spotify.com/album/2hSPgiGYL0KIvJFToZCMX7) | 4:06 | 2021-10-22 | 2022-02-16 |
 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 | 2023-02-24 | 2023-10-17 |
-| [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 | 2021-10-22 |  |
+| [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 | 2021-10-22 | 2023-12-10 |
 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 | 2021-10-22 |  |
 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 | 2022-05-27 |  |
 | [Millennial](https://open.spotify.com/track/10JRIlS2NWwUlEePtwaUhX) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4ZjJMYZSIk0mbZ6iXkwgvM) | 2:53 | 2021-10-22 | 2022-07-29 |

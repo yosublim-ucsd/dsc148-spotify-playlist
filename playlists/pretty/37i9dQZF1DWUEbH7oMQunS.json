@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 58485,
+  "num_followers": 58509,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzlmMmI1YzAzMzhkZmRhYmNkNGM5MmJkYzU4YWU5ZjQ5ZjgxMTYy",
+  "snapshot_id": "MCxkNWI5OTY4MWM0MDgyZDhiZGYzMmFiNjhmNDY0Y2YzY2U5MjY0YzYz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "A Thousand Hallelujahs (Live)",
-        "url": "https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 309329,
-      "name": "A Thousand Hallelujahs - Live",
-      "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Nothing Else",
         "url": "https://open.spotify.com/album/4ZbxrL9T8SPMUYlgj0tZMm"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 264332,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "A Thousand Hallelujahs (Live)",
+        "url": "https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 309329,
+      "name": "A Thousand Hallelujahs - Live",
+      "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Hymns for Eventide (Eventide Mix)",
-        "url": "https://open.spotify.com/album/6rGvmBwpvhMxiZNPovW2oY"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 213370,
-      "name": "Nearer My God to Thee - Eventide Mix",
-      "url": "https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Hymns for Eventide (Eventide Mix)",
+        "url": "https://open.spotify.com/album/6rGvmBwpvhMxiZNPovW2oY"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 213370,
+      "name": "Nearer My God to Thee - Eventide Mix",
+      "url": "https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
+      },
+      "artists": [
+        {
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+        }
+      ],
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Echoes Of Wonder",
         "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 208000,
       "name": "The Invitation",
       "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "From the Valley",
-        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
-      },
-      "artists": [
-        {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
-        }
-      ],
-      "duration_ms": 279451,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "features",
-        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
-      },
-      "artists": [
-        {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        },
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "wearing thin (alt. version)",
-      "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Asaph",
         "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
       },
@@ -743,6 +723,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "features",
+        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        },
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "wearing thin (alt. version)",
+      "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Matins : Vespers",
         "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
       },
@@ -771,26 +771,6 @@
       "duration_ms": 273960,
       "name": "Great Is Our God",
       "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "features",
-        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
-      },
-      "artists": [
-        {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        },
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 216366,
-      "name": "hold on (alt. version)",
-      "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -875,6 +855,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "features",
+        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        },
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 216366,
+      "name": "hold on (alt. version)",
+      "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Nineveh (Live)",
-        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
       },
       "artists": [
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
         }
       ],
-      "duration_ms": 268347,
-      "name": "Nineveh - Live",
-      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
+      "duration_ms": 143453,
+      "name": "10,000 Reasons (Bless the Lord)",
+      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -955,6 +955,22 @@
       "duration_ms": 216000,
       "name": "make stuff up & sing things",
       "url": "https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Nineveh (Live)",
+        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 268347,
+      "name": "Nineveh - Live",
+      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1007,22 +1023,6 @@
       "duration_ms": 261500,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
-      },
-      "artists": [
-        {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
-        }
-      ],
-      "duration_ms": 143453,
-      "name": "10,000 Reasons (Bless the Lord)",
-      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Phone to Logos",
+        "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
+      },
+      "artists": [
+        {
+          "name": "Porya Hatami",
+          "url": "https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ"
+        }
+      ],
+      "duration_ms": 447355,
+      "name": "Pomegranates",
+      "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Freedom Fighter (Jimmy James Remix)",
         "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 210461,
       "name": "Freedom Fighter (Jimmy James Remix)",
       "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Phone to Logos",
-        "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
-      },
-      "artists": [
-        {
-          "name": "Porya Hatami",
-          "url": "https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ"
-        }
-      ],
-      "duration_ms": 447355,
-      "name": "Pomegranates",
-      "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fantasize",
-        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
       },
       "artists": [
         {
-          "name": "Kye Kye",
-          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
         }
       ],
-      "duration_ms": 224173,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1347,6 +1347,22 @@
       "duration_ms": 150612,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
+      },
+      "artists": [
+        {
+          "name": "Kye Kye",
+          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1383,22 +1399,6 @@
       "duration_ms": 411933,
       "name": "Every Mountain View",
       "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
     },
     {
       "added_at": "2023-07-28 04:02:00",

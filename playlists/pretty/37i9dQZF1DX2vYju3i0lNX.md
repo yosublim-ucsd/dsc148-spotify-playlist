@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,497 likes - 573 songs - 1 day 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,658 likes - 573 songs - 1 day 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 36 | [Emerald Dreamscape](https://open.spotify.com/track/6y3A2C5g4NtmSTGPA1dn6c) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Emerald Dreamscape](https://open.spotify.com/album/5QKH9vfQVg0WzHc9vZBd6k) | 2:58 |
 | 37 | [Wallflower](https://open.spotify.com/track/5UmbhPeNquH5OmwJ8oGuAP) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Wallflower](https://open.spotify.com/album/3tzw5TaV9l6hhMczQiTSPK) | 3:40 |
 | 38 | [Another Day Gone By](https://open.spotify.com/track/5ovqTZt3VA1vVsVDv0ecE7) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Another Day Gone By](https://open.spotify.com/album/46hpO6Ecbxhs5FTzJtySpo) | 3:05 |
-| 39 | [When You're Not Around Med](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 |
+| 39 | [When You're Not Around Me](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 |
 | 40 | [Need to walk away](https://open.spotify.com/track/1i0cUjwJ9D9Cw236RLs2dB) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Need to walk away](https://open.spotify.com/album/2t1a03eUM5YwLjc0m09yTD) | 3:24 |
 | 41 | [A Rainy Night](https://open.spotify.com/track/3Ny1CmI8hRfDpwi1tyJut3) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [A Rainy Night](https://open.spotify.com/album/4obwJxbE1hcOa94R8ydLTk) | 3:25 |
 | 42 | [Waiting](https://open.spotify.com/track/1EPcmwgKuXclBG0fiWmiH6) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [Waiting](https://open.spotify.com/album/7hNxS9E1smQnmOBfDQ7UBk) | 3:20 |
@@ -582,4 +582,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 572 | [Infinite Love](https://open.spotify.com/track/05TyTjyZ4mouBU8W4hSY5s) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Infinite Love](https://open.spotify.com/album/7hSXgTzVsJpbbYYAPLPi9f) | 4:11 |
 | 573 | [Peace](https://open.spotify.com/track/6qxR6arAISIf7Mm2ynH4u1) | [William Carter Band](https://open.spotify.com/artist/4hUzAt6msIzmNC8jQE0X28) | [Relaxin' at Camarillo](https://open.spotify.com/album/1N5BtVcBtLY8cSF2XdjwwE) | 3:13 |
 
-Snapshot ID: `MCxmY2M4MGU4YzgyMDViMWJhMjYwYTI2OGY0YzA5MGRhZjY3NGNmYTNj`
+Snapshot ID: `MCwwOGM3YmUwNDc2ZDI4ZDNjMDRlNTE3YzVjNDA0MDBiYWE3ZGFjZGMw`

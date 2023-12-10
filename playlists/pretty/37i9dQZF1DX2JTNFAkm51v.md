@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 【セットリスト公開】5/20\(土\)・21\(日\)、神戸メリケンパークにて開催される都市型音楽フェス<a href="https://kobe\-mellow\-cruise.com/">「KOBE MELLOW CRUISE」</a>の出演アーティストをピックアップ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,295 likes - 228 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,297 likes - 228 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 150 | [DEEP](https://open.spotify.com/track/0EVdzF6jNEL5fKH1FeONbb) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [DEEP](https://open.spotify.com/album/6plK6Io4aV3wSY53pZjSW9) | 3:36 |
 | 151 | [Mermaid](https://open.spotify.com/track/3QhNKq44UAxqYdwOzAsbfd) | [chameleon](https://open.spotify.com/artist/1fhGUOc9vrILhFKsz4JTBg), [Js Morgan](https://open.spotify.com/artist/4MTlnA1jISxTRJEFulI0hJ), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Mermaid](https://open.spotify.com/album/0UWGXQZ515sSUaKfDi7HpR) | 2:35 |
 | 152 | [Over Night \- Remix](https://open.spotify.com/track/2HXNRKLdajpitZwWHhmRIk) | [Kalassy Nikoff](https://open.spotify.com/artist/579taDZp4hQH1eYPIlZyCz), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Over Night \(Remix\)](https://open.spotify.com/album/0JuwKIsPhKu86yLXXuFr4Y) | 2:48 |
-| 153 | [Thinkin' bout you](https://open.spotify.com/track/1kBJI5gB7VzJ9zWg4vrkKY) | [ShowMinorSavage](https://open.spotify.com/artist/0x7bC0gbku4Mu85Pv6wYva), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [ShowMinorSavage](https://open.spotify.com/album/389GZboPayTQc6bpcp5dya) | 3:30 |
+| 153 | [Thinkin' bout you](https://open.spotify.com/track/1kBJI5gB7VzJ9zWg4vrkKY) | [ShowMinorSavage](https://open.spotify.com/artist/0x7bC0gbku4Mu85Pv6wYva), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [ShowMinorSavage](https://open.spotify.com/album/389GZboPayTQc6bpcp5dya) | 3:30 |
 | 154 | [常懐](https://open.spotify.com/track/5Q4OjiPcphw4NX8y6u659y) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [常懐](https://open.spotify.com/album/6DdTOxtS5NoLaixYs6z1wC) | 3:04 |
 | 155 | [me time \-remix\- \- feat\. Aile The Shota](https://open.spotify.com/track/357lB1pOUI8AYGAoojwEvy) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [hokuto](https://open.spotify.com/artist/76cI3VsDNJoORPA84esBZP) | [八面六臂](https://open.spotify.com/album/3SmkwSYKe73qS9FliiopNx) | 4:36 |
 | 156 | [gomenne](https://open.spotify.com/track/3wX018AxoXufxcCLGIicYx) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [LOVEGO](https://open.spotify.com/album/5gWhi6jxgnSL5GSB5pBugl) | 3:57 |
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 227 | [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 |
 | 228 | [Night Rider](https://open.spotify.com/track/0FnJ2EWTyl7QUQcDEbpN16) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Boyhood](https://open.spotify.com/album/6yhxG10zFkBXMIRfvveRE6) | 3:19 |
 
-Snapshot ID: `MCw4OTg3ZGExODI5OTdiNTk1MjdkNmZmZTBmZGVkNDkxZTVmZTNkMjQ3`
+Snapshot ID: `MCxmZGRjYTI4ODEwOTI2ZTgzODU3YjU2MDA1ZDExYWIzYjU5MjVmYzZk`

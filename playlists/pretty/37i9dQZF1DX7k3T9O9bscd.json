@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 396347,
+  "num_followers": 396497,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Zjg4NTRlNDdlOTc0ODFmYjQyNGEzNGM5NWU5OTRkODE3MjBmMTY0",
+  "snapshot_id": "MCw3MjUyNWI1M2UzMzZjMWJkZWJlYjVhYTgyNThmZDc1OWZkYzZjZjgx",
   "tracks": [
     {
       "added_at": "2023-11-24 01:15:27",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Desert Island",
-        "url": "https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB"
-      },
-      "artists": [
-        {
-          "name": "Mystic Braves",
-          "url": "https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js"
-        }
-      ],
-      "duration_ms": 252160,
-      "name": "Bright Blue Day Haze",
-      "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Good Bad Not Evil",
         "url": "https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 148306,
       "name": "Veni Vidi Vici",
       "url": "https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Desert Island",
+        "url": "https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB"
+      },
+      "artists": [
+        {
+          "name": "Mystic Braves",
+          "url": "https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "Bright Blue Day Haze",
+      "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Elwan",
-        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "N\u00e0nnufl\u00e0y",
-      "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "everything's worth it",
         "url": "https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Sleeping Through The War",
-        "url": "https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw"
+        "name": "Elwan",
+        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
       },
       "artists": [
         {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
         }
       ],
-      "duration_ms": 400853,
-      "name": "Bulls",
-      "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
+      "duration_ms": 303106,
+      "name": "N\u00e0nnufl\u00e0y",
+      "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -859,6 +843,22 @@
       "duration_ms": 285643,
       "name": "The Blue Marble",
       "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Sleeping Through The War",
+        "url": "https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 400853,
+      "name": "Bulls",
+      "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+        "name": "9",
+        "url": "https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS"
       },
       "artists": [
         {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
         }
       ],
-      "duration_ms": 221418,
-      "name": "Wading Out",
-      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
+      "duration_ms": 200382,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/4YlOq4SkgNgI3gbSsUTDRl"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1087,34 +1087,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS"
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
       "artists": [
         {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
         }
       ],
-      "duration_ms": 200382,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/4YlOq4SkgNgI3gbSsUTDRl"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Sancocho Stereo",
-        "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Todo Bien",
-      "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
+      "duration_ms": 221418,
+      "name": "Wading Out",
+      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1131,6 +1115,22 @@
       "duration_ms": 213211,
       "name": "Trash",
       "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Sancocho Stereo",
+        "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Todo Bien",
+      "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1183,18 +1183,34 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+        "name": "The Revolt Against Tired Noises",
+        "url": "https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa"
       },
       "artists": [
         {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+          "name": "Yawning Man",
+          "url": "https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe"
         }
       ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+      "duration_ms": 321906,
+      "name": "Black Kite",
+      "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Pink Dogs on the Green Grass",
+        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
+      },
+      "artists": [
+        {
+          "name": "Paul Jacobs",
+          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
+        }
+      ],
+      "duration_ms": 225249,
+      "name": "Christopher Robbins",
+      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "The Revolt Against Tired Noises",
-        "url": "https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa"
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
       "artists": [
         {
-          "name": "Yawning Man",
-          "url": "https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe"
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
         }
       ],
-      "duration_ms": 321906,
-      "name": "Black Kite",
-      "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Pink Dogs on the Green Grass",
-        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
-      },
-      "artists": [
-        {
-          "name": "Paul Jacobs",
-          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
-        }
-      ],
-      "duration_ms": 225249,
-      "name": "Christopher Robbins",
-      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Death Hawks",
         "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Sacred Drugs",
+        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
+      },
+      "artists": [
+        {
+          "name": "Al Lover",
+          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
+        }
+      ],
+      "duration_ms": 186858,
+      "name": "A Shaman's Hand is Infinite",
+      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Sacred Drugs",
-        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
+        "name": "Hyper Super Mega",
+        "url": "https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT"
       },
       "artists": [
         {
-          "name": "Al Lover",
-          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
         }
       ],
-      "duration_ms": 186858,
-      "name": "A Shaman's Hand is Infinite",
-      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
+      "duration_ms": 240468,
+      "name": "Forever End",
+      "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1387,22 +1403,6 @@
       "duration_ms": 195013,
       "name": "Hey Boy Hey Girl - Cover Version",
       "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Hyper Super Mega",
-        "url": "https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 240468,
-      "name": "Forever End",
-      "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "MU!",
+        "url": "https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY"
+      },
+      "artists": [
+        {
+          "name": "Gnoomes",
+          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
+        }
+      ],
+      "duration_ms": 208994,
+      "name": "Sword In the Stone",
+      "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "Ghost Tapes #10",
         "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
       },
@@ -1535,38 +1551,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
-        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 250214,
-      "name": "Meme City",
-      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "MU!",
-        "url": "https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY"
-      },
-      "artists": [
-        {
-          "name": "Gnoomes",
-          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
-        }
-      ],
-      "duration_ms": 208994,
-      "name": "Sword In the Stone",
-      "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "The Real Work",
         "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Fudge Sandwich",
-        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
+        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
+        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
       },
       "artists": [
         {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
         }
       ],
-      "duration_ms": 240320,
-      "name": "Hit It and Quit It",
-      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
+      "duration_ms": 250214,
+      "name": "Meme City",
+      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1615,18 +1599,38 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Pascuales",
-        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
+        "name": "Fudge Sandwich",
+        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
       },
       "artists": [
         {
-          "name": "Bobui",
-          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
         }
       ],
-      "duration_ms": 217103,
-      "name": "Pascuales",
-      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+      "duration_ms": 240320,
+      "name": "Hit It and Quit It",
+      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Gnod Drop Out With White Hills II",
+        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
+      },
+      "artists": [
+        {
+          "name": "White Hills",
+          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
+        },
+        {
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        }
+      ],
+      "duration_ms": 661120,
+      "name": "Drop Out",
+      "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

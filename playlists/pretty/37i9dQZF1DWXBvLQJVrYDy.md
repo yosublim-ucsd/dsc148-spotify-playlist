@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,732 likes - 164 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,815 likes - 164 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 36 | [It Used To Be Us](https://open.spotify.com/track/0iC0JiVXY8dmM3IIlqUk1p) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [It Used To Be Us](https://open.spotify.com/album/5o4zDDeN1kf2tsXUrV9bYI) | 3:38 |
 | 37 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 |
 | 38 | [It Never Entered My Mind](https://open.spotify.com/track/0ndlTAGPCJ2Xy12Ncoc5rq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [It Never Entered My Mind](https://open.spotify.com/album/5iHpp0Os02Ae2LiX4ZICxA) | 3:44 |
-| 39 | [When You're Not Around Med](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 |
+| 39 | [When You're Not Around Me](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 |
 | 40 | [Another autumn](https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:32 |
 | 41 | [The Water Maiden](https://open.spotify.com/track/4Gj6COJPLXtgCoWen9kTiq) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [The Water Maiden](https://open.spotify.com/album/2VQ3bxCuOPtuHCzhMr2Ukm) | 3:27 |
 | 42 | [Daydreams](https://open.spotify.com/track/3DZ0VT9Cnl9P2kj5rEGske) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Daydreams](https://open.spotify.com/album/4BtSurjJ5AKBGfNk1Tuav9) | 3:24 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 163 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 |
 | 164 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 |
 
-Snapshot ID: `MCw0YjJiYjIwOTRlYzM0ODNkOGMyNmMxZTM3MjRmNDkyNjhkZDk2YTQ0`
+Snapshot ID: `MCw4ZmJkYjg3YmNjMmFiNWViMWYyYzhiOTcwZWQzNmYwMDdlYjdjNDc2`

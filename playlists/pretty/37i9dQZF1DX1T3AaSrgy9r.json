@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 117056,
+  "num_followers": 117120,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTNjZTkzZTM5NDU1NmQzY2JmMGI3ZTdmY2JkMzRiODc4YmY2ODI2",
+  "snapshot_id": "MCxmMTY1ZjRkMjA0ODNjYzhiMzhlOGQyZmRiZWU4MDY2NDU3YTExYjU4",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Saturday Teenage Kick",
-        "url": "https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV"
-      },
-      "artists": [
-        {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
-        }
-      ],
-      "duration_ms": 327173,
-      "name": "Dealing with the Roster",
-      "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Saturday Teenage Kick",
+        "url": "https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV"
+      },
+      "artists": [
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "duration_ms": 327173,
+      "name": "Dealing with the Roster",
+      "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Preemptive Strike",
         "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "90 Discomania",
-        "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
-      },
-      "artists": [
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 453880,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "In Sides",
         "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 388200,
       "name": "The Box, Pt. 1",
       "url": "https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "90 Discomania",
+        "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
+      },
+      "artists": [
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 453880,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1379,8 +1379,8 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Atom Bomb",
-        "url": "https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS"
+        "name": "Puppy",
+        "url": "https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C"
       },
       "artists": [
         {
@@ -1388,9 +1388,9 @@
           "url": "https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ"
         }
       ],
-      "duration_ms": 342800,
-      "name": "Atom Bomb - Atomix 1",
-      "url": "https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1"
+      "duration_ms": 249000,
+      "name": "Snapshot",
+      "url": "https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1475,8 +1475,8 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Puppy",
-        "url": "https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C"
+        "name": "Atom Bomb",
+        "url": "https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS"
       },
       "artists": [
         {
@@ -1484,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Snapshot",
-      "url": "https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA"
+      "duration_ms": 342800,
+      "name": "Atom Bomb - Atomix 1",
+      "url": "https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1"
     }
   ],
   "unique_name": "Generation Electronica",

@@ -4,7 +4,7 @@
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Olga Tañón
 
-201 songs - 13 hr 49 min
+202 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Me Enamoro de Ella](https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq) | 4:17 | 2022-09-09 |  |
 | [Me Enamoro de Ella](https://open.spotify.com/track/2r9sa01fZW9NEVwdqFvfzZ) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo) | 4:17 | 2022-01-20 | 2022-10-15 |
 | [Me Miras Y Te Miro](https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Re\-Haciendo La Historia\-Los Exitos!](https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a) | 4:57 | 2022-01-20 | 2023-08-10 |
-| [Me Miras Y Te Miro \- New Version](https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [22 Ultimate Merengue Hits 2002](https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ) | 2:51 | 2022-01-20 | 2023-12-05 |
+| [Me Miras Y Te Miro \- New Version](https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [22 Ultimate Merengue Hits 2002](https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ) | 2:51 | 2022-01-20 |  |
 | [Me Tiene Amarrao](https://open.spotify.com/track/44IfzgehaqHAjDB4XzCNbv) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [La Bomba](https://open.spotify.com/album/1a3i5D0T0GuavcX3PqIsWL) | 4:25 | 2022-01-20 | 2022-11-13 |
 | [Merengue Electronico \(Rompe Consola\)](https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [El Dueño Del Flow \(Bonus Track Version\)](https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep) | 3:51 | 2022-01-20 |  |
 | [Merengón](https://open.spotify.com/track/2XmVB1FSy1elvi2O2d8tBj) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Merengón](https://open.spotify.com/album/23DfVLJCPAjFJNCXcFJAOk) | 3:58 | 2023-04-21 | 2023-07-22 |
@@ -143,7 +143,7 @@
 | [Mucho Flow](https://open.spotify.com/track/1y6irl8tnTXw8pvaIfRoTp) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Mucho Flow](https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV) | 2:56 | 2023-08-04 |  |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2023-03-10 |  |
 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 | 2022-01-20 |  |
-| [Ni Tu Ni Yo](https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:37 | 2022-01-20 |  |
+| [Ni Tu Ni Yo](https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:37 | 2022-01-20 | 2023-12-10 |
 | [Niña Bonita \- Remastered 2020](https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \(Remastered 2020 / 10 Anniversary\)](https://open.spotify.com/album/1jvT4Qd5XX0D3VEEX9IAam) | 3:35 | 2022-01-20 |  |
 | [No Es Normal](https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [No Es Normal](https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163) | 3:01 | 2023-09-01 |  |
 | [No hay nadie más](https://open.spotify.com/track/7dBAzD9u3759XcFKFQdVaD) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5), [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [No hay nadie más](https://open.spotify.com/album/4isjLmay1QZJFZ3Avh91W4) | 4:32 | 2023-07-14 | 2023-09-03 |
@@ -169,8 +169,9 @@
 | [Que Te Has Creido](https://open.spotify.com/track/4XwGVwmeO6lm73FFmH95Da) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tiempo De Amor](https://open.spotify.com/album/5Yz848lWMbB3KGHAV3Xm2S) | 4:27 | 2022-01-20 | 2023-07-22 |
 | [QUIERO](https://open.spotify.com/track/72hrD25ipI1I6TgJeG5Lui) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH), [El Completo Rd](https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb) | [QUIERO](https://open.spotify.com/album/6xIvpqSVmpAIWyXMHE5ceU) | 3:47 | 2023-07-21 | 2023-07-24 |
 | [Quiero Quemar La Pista](https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [LIMI\-T Para Siempre](https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM) | 2:33 | 2022-09-09 |  |
+| [Quédate Conmigo \- Remix](https://open.spotify.com/track/31m4BylSn9z9NoS5qfviJw) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Quédate Conmigo \(Remix\)](https://open.spotify.com/album/6QLtDVO02H24gW3yzO900Y) | 3:33 | 2023-12-08 |  |
 | [Sacala, Bailala y Pegala](https://open.spotify.com/track/64fiC7TQMy43uuyTROGjE2) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Hombres De Honor](https://open.spotify.com/album/5cJhc5kSYS9770vR7TE0fJ) | 3:53 | 2023-03-10 | 2023-06-10 |
-| [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 | 2022-01-20 |  |
+| [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 | 2022-01-20 | 2023-12-10 |
 | [Si Algún Día la Ves](https://open.spotify.com/track/1CdBBfADPyTsN5RiZo7dqT) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Éxitos](https://open.spotify.com/album/0qTw9aI747PymW3nbhYIVJ) | 4:42 | 2022-01-20 | 2022-07-29 |
 | [Si Tú Te Vas](https://open.spotify.com/track/2ermCIX1iu4KHddSFTcex1) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Mudanza y Acarreo](https://open.spotify.com/album/3ziq7zy6hcvNHwAmQkLbzG) | 3:48 | 2022-01-20 | 2022-07-29 |
 | [Sin Rumbo](https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Imparable](https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K) | 3:31 | 2023-05-05 |  |

@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 112540,
       "name": "Do What U Want",
       "url": "https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ"
@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 172000,
       "name": "Masesa",
       "url": "https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE"
@@ -4972,6 +4972,24 @@
       "duration_ms": 195604,
       "name": "Nowhere To Hide",
       "url": "https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu"
+    },
+    {
+      "album": {
+        "name": "Outside / Obaa Sima",
+        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Obaa Sima",
+      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
     },
     {
       "album": {
@@ -6390,7 +6408,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 170686,
       "name": "Slow",
       "url": "https://open.spotify.com/track/77jK5BkzUGqpTli5fJExWz"

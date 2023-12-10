@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 227456,
       "name": "6 Martini",
       "url": "https://open.spotify.com/track/1fpkSrNKilJVR4WfHPuo8Q"
@@ -5638,7 +5638,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
@@ -9302,7 +9302,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
@@ -11286,7 +11286,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 202635,
       "name": "MERCEDES CAROTA",
       "url": "https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU"
@@ -12136,7 +12136,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 187826,
       "name": "Nada Con Vos",
       "url": "https://open.spotify.com/track/6IO5vpyEUBsiGBuTlLhdMk"
@@ -12172,7 +12172,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 356044,
       "name": "Nadie Te Ama Como Yo",
       "url": "https://open.spotify.com/track/4KYz9MrUZ7poQtVOroS2UG"
@@ -13246,7 +13246,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 158372,
       "name": "Pa Encima",
       "url": "https://open.spotify.com/track/6PgAQL2A6Xa7bLRSSlbQi6"
@@ -14236,7 +14236,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 136100,
       "name": "Perreo 24/7",
       "url": "https://open.spotify.com/track/5GEc3GhJmxGcnv3vDwhoP4"
@@ -20292,7 +20292,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 231704,
       "name": "WHERE SHE GOES",
       "url": "https://open.spotify.com/track/2sTDlCxmuZCTDKKk9f1qus"
@@ -20796,6 +20796,28 @@
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/7KS5hpTv7iL5AA8M4vzBAb"
+      },
+      "artists": [
+        {
+          "name": "Joey Calveiro",
+          "url": "https://open.spotify.com/artist/0gBGs4D4ABcc4TiW8O2z1e"
+        },
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/6xTsBXcVzUsb5yajKPuc1K"
     },
     {
       "album": {

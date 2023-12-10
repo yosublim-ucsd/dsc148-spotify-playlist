@@ -4,7 +4,7 @@
 
 > indescribable tension\. lingering eyes\. that slow burn kind of love.
 
-43 songs - 2 hr 35 min
+44 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Magic Tree And I Let Myself Go](https://open.spotify.com/track/1lgHnK27L5zjEndfIoB1k3) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Orchestral Score From Baz Luhrmann's Film The Great Gatsby](https://open.spotify.com/album/6OuywehyzlNMYklKnPpr1W) | 5:17 | 2023-08-02 |  |
 | [Masquerade](https://open.spotify.com/track/7FdkeAygwEA3iZehtOwcOi) | [Aisha Edwards](https://open.spotify.com/artist/3YZeY8Jt05JPzWSY6VNnYZ) | [Masquerade](https://open.spotify.com/album/09SgGxrnDpV0FUvs2jtZ93) | 2:47 | 2023-08-02 |  |
 | [Me Before You Orchestral](https://open.spotify.com/track/28FvLA0GzWlwx8TSTqds9v) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Me Before You \(Original Motion Picture Score\)](https://open.spotify.com/album/6lIQ5tZM2fhJuAgeL5eQ7e) | 7:13 | 2023-08-02 |  |
-| [Moonlight Lullaby \- Piano and Orchestra](https://open.spotify.com/track/5g8k0hmfrG82OsZUsBDRBU) | [Duncan Moss](https://open.spotify.com/artist/4qiC84TMqs4hyC6Tlg0QyW) | [Mnemonics \- Part 2 \(Piano and Orchestra\)](https://open.spotify.com/album/1VFwRxhl9EHio59xcBqmSG) | 4:22 | 2023-08-02 |  |
+| [Moonlight Lullaby \(Piano and Orchestra\)](https://open.spotify.com/track/112neUVPQrN3TjtZCl0OyG) | [Duncan Moss](https://open.spotify.com/artist/4qiC84TMqs4hyC6Tlg0QyW) | [Mnemonics, Pt\. 2 \(Piano and Orchestra\)](https://open.spotify.com/album/3oYIn9GLn8wBO3EP5v0kw3) | 4:22 | 2023-10-12 |  |
+| [Moonlight Lullaby \- Piano and Orchestra](https://open.spotify.com/track/5g8k0hmfrG82OsZUsBDRBU) | [Duncan Moss](https://open.spotify.com/artist/4qiC84TMqs4hyC6Tlg0QyW) | [Mnemonics \- Part 2 \(Piano and Orchestra\)](https://open.spotify.com/album/1VFwRxhl9EHio59xcBqmSG) | 4:22 | 2023-08-02 | 2023-12-10 |
 | [Movement 5 \- Pt\. 2 \- Instrumental](https://open.spotify.com/track/4kQnuLKoCZDSHqkJeH9psM) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Scottish Ensemble](https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ) | [Folded Landscapes](https://open.spotify.com/album/38mhxC6TEoXfimNwed6MhD) | 4:12 | 2023-08-02 |  |
 | [My Edward and I \(feat\. Jack Liebeck\)](https://open.spotify.com/track/7Ly4vpc0e0JaqKIbCHtSHX) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jack Liebeck](https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Jane Eyre \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX) | 3:53 | 2023-08-02 |  |
 | [Oceans Apart](https://open.spotify.com/track/1yqM5O07lL7R6UAdK5jvrR) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [The Turn](https://open.spotify.com/album/1HBOLQ0QoDkGDGnjhfdzPy) | 1:18 | 2023-08-02 |  |

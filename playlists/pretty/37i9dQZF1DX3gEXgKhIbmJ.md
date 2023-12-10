@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,495 likes - 49 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,535 likes - 49 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 22 | [MECA](https://open.spotify.com/track/5UROAgl5wVdmqvVY7kW49B) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND) | [Zzz, Vol\. 2](https://open.spotify.com/album/5qg05BeqESDoMFCYZl3Od0) | 2:09 |
 | 23 | [um quebrada inteligente!](https://open.spotify.com/track/6uBfSJZQ27gCDVne6xhDmO) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [UM Quebrada Inteligente](https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y) | 1:56 |
 | 24 | [Ambições E Vícios](https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:01 |
-| 25 | [NEBLINA pt\. 2](https://open.spotify.com/track/4VWwJYGKZjC8IIZwVizuTv) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:46 |
+| 25 | [NEBLINA pt\. 2](https://open.spotify.com/track/4VWwJYGKZjC8IIZwVizuTv) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:46 |
 | 26 | [Só Quero Paz](https://open.spotify.com/track/6ha0SNOb0eUgdMdTiArK5D) | [Mingas The Teen](https://open.spotify.com/artist/6mcBDsPPbdnR64MTjkMRlm), [Ph](https://open.spotify.com/artist/6c0iWNjEIdiKn1lxdIAFwK), [SHYY BEATS](https://open.spotify.com/artist/0DPr6TVQvHfTEMnW5j1dtE) | [Só Quero Paz](https://open.spotify.com/album/62TCz9CO7BJILiQgJzqKo2) | 2:15 |
 | 27 | [Deixa Comigo](https://open.spotify.com/track/2ijJg8ehOdWTf4XpG8taLu) | [TuKo](https://open.spotify.com/artist/4BpFstoD6QMFQo2V5WuyQs) | [Deixa Comigo](https://open.spotify.com/album/0hlVYs0NKDjDgK3BI73lcz) | 3:19 |
 | 28 | [Gideon](https://open.spotify.com/track/6IdWc9IXfwk3ZkGgeSNIIC) | [Prod Pedrunk](https://open.spotify.com/artist/79me07P9RVGtTW5QS8tEb9) | [Gideon](https://open.spotify.com/album/2kgFSJojiz0SE1gk7ecpRS) | 3:32 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 48 | [Baile da Serra](https://open.spotify.com/track/68gG13CYNMzdGG8pRhZnU5) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:45 |
 | 49 | [Fura Moletom](https://open.spotify.com/track/1hIYUPdxYNswLJcjDgdoHp) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Fura Moletom](https://open.spotify.com/album/6J7Ow0edJOdzRA87Rg7LH5) | 2:12 |
 
-Snapshot ID: `MCw3ZjY3ODdjMGZhODAzNjE3MTMzMWE4NDE2N2ExZjQ4NWJkN2FlMjBk`
+Snapshot ID: `MCwzMjVkMWU0OGI2ZTkxM2Y0N2M2MDlkMzI2ZmRlOWFiZTlmN2Y1Zjhm`

@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: BE'O\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: BM\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-657 songs - 1 day 11 hr 44 min
+658 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [LOVE IN DA CAR](https://open.spotify.com/track/6cjnezYQ8eJAKSlHPCpp7O) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 3:33 | 2022-04-01 | 2022-07-29 |
 | [lovesick](https://open.spotify.com/track/1nP1TjjP1p0CPnXtWzNzal) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW), [Oz](https://open.spotify.com/artist/4qSDffaAMImvr2UHN5iqi5) | [collection 1](https://open.spotify.com/album/6qu0hjg5oGIlupNylGYEb2) | 3:39 | 2022-06-27 | 2022-06-30 |
 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 | 2022-05-11 |  |
+| [Lowkey](https://open.spotify.com/track/28sZmJreUGVfx5oMLN9BuM) | [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [BM 3rd Digital Single 'LOWKEY'](https://open.spotify.com/album/72WefbbOeBJl4rsDAh2ZAe) | 2:16 | 2023-12-09 |  |
 | [LOYAL \(Feat\. Ruf.d\)](https://open.spotify.com/track/76prvUJ9OkeoCyAObWjhB3) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR), [Ruf.d](https://open.spotify.com/artist/14YZN6ahjzUJWTqFYc3945) | [MOONLIGHT \(ALL ABOUT YOU\)](https://open.spotify.com/album/6ezx4OUNOWc9O90NAD219H) | 2:57 | 2022-05-31 | 2022-07-29 |
 | [Lo′ak \(Feat\. oceanfromtheblue\)](https://open.spotify.com/track/75F8QdnBxSIY0MET5X7Qrv) | [KOREANGROOVE](https://open.spotify.com/artist/51kKa2NlubrcVgPEoxUQv6), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [BLUE GROOVE](https://open.spotify.com/album/5gB5Rsh711qS5GVO6WKu5A) | 2:45 | 2023-05-02 | 2023-06-24 |
 | [Luv Intuition \(feat\. Kenichiro Nishihara\)](https://open.spotify.com/track/43yeUjMR8Rnbapjnw16OFO) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Cherry Blossom](https://open.spotify.com/album/2zee1zbiVi9SyM3nQZDyIL) | 3:28 | 2022-04-21 | 2022-07-28 |
@@ -450,7 +451,7 @@
 | [pick u up](https://open.spotify.com/track/5cr2go9gm2qggWqxHwm2y2) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [homeward \. \. \. .](https://open.spotify.com/album/2RNnfDmp1azwNUldgiIQtj) | 2:04 | 2022-04-01 | 2022-07-16 |
 | [Pick up the phone](https://open.spotify.com/track/6mrHRESWNiMu6UJviv8KpP) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:47 | 2022-04-21 | 2022-07-20 |
 | [Pick up your phone](https://open.spotify.com/track/4JDgsbLSsxlNa7pESK5Vqt) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [비밀:리에 Vol\. 5 "Pick up your phone"](https://open.spotify.com/album/3mKRbS65znpQtwRkFlSiLN) | 2:52 | 2022-04-21 | 2022-07-19 |
-| [Pick up your phone \(Feat\. MOON\)](https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:05 | 2022-04-01 |  |
+| [Pick up your phone \(Feat\. MOON\)](https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:05 | 2022-04-01 | 2023-12-10 |
 | [Play](https://open.spotify.com/track/12FGJeMWeTVRjK31NIUIMQ) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Play](https://open.spotify.com/album/6MgHVfBDsr2qBP3Og6hPTo) | 2:39 | 2022-04-01 | 2022-07-27 |
 | [Please \(Feat\. Kim Seungmin, Han Yo Han, NO:EL\) \(Prod\. dnss\)](https://open.spotify.com/track/3YLbzgcXcsYTDyEiu6Lgna) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV) | [Please](https://open.spotify.com/album/3lL75pZ7JWvghbPYMGZOjt) | 5:02 | 2023-10-16 | 2023-10-30 |
 | [Pollutants](https://open.spotify.com/track/1Wd9jE8jVCrx9KakClE0Z2) | [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud) | [Pollutants / The Pull](https://open.spotify.com/album/7nJB5v6QFIjW09vpnhfrT1) | 2:45 | 2022-04-21 | 2022-07-28 |

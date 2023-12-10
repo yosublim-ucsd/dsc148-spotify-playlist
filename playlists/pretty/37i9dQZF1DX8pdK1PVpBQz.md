@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Fresh Finds AU & NZ Class of 2023\. Cover: Maina Doe\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,741 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,761 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [I Don't Know How To Be Your Friend](https://open.spotify.com/track/7FhIkW3UQToZMY15N1otsW) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [I Don't Know How To Be Your Friend](https://open.spotify.com/album/2Xbehuzg8WHGIQgLIOXrXU) | 3:14 |
 | 100 | [A$$](https://open.spotify.com/track/3PWL49auMMwePyn6X3R4J4) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [O.Dkizzya](https://open.spotify.com/artist/4cHSZs664sR3WPBFAevIHN), [Lizi 栗子](https://open.spotify.com/artist/3pwSkdUT7DXmubn3DhIeke) | [A$$](https://open.spotify.com/album/7EtmXbUnJ1PZcLx70nK0a6) | 2:52 |
 
-Snapshot ID: `MCw0ZGY3ZjE3OGYzYjZjMDNjMzE3YzIzMTQ0NzllNDc0YjNmN2QzMmQx`
+Snapshot ID: `MCw0N2QwZGRjOWFjY2M1NzM0YmY4ZmQ5ZDFlNGE0NTYxMjk4ZjY1MGI4`

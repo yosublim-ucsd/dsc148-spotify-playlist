@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Yo Gotti",
-  "num_followers": 511854,
+  "num_followers": 511935,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQwNzAwMmRiY2FkZjI0YjFjZmVhN2IyZDkxODRkYTI0ZWYxMzM2",
+  "snapshot_id": "MCxiOTU5NWIzM2QxZTE0YzIwNGUwNzRjNTQ2NTg0YmY1ZmU3OTU5YmUy",
   "tracks": [
     {
       "added_at": "2023-12-01 19:22:27",
@@ -779,22 +779,18 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "Crime Mob",
-        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
+        "name": "THUGS ARE US",
+        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
       },
       "artists": [
         {
-          "name": "Crime Mob",
-          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
-        },
-        {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
         }
       ],
-      "duration_ms": 205120,
-      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
-      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
+      "duration_ms": 254400,
+      "name": "I'm a Thug",
+      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -819,18 +815,22 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "THUGS ARE US",
-        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
+        "name": "Crime Mob",
+        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
       },
       "artists": [
         {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+          "name": "Crime Mob",
+          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
+        },
+        {
+          "name": "Lil Scrappy",
+          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
         }
       ],
-      "duration_ms": 254400,
-      "name": "I'm a Thug",
-      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
+      "duration_ms": 205120,
+      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
+      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
     },
     {
       "added_at": "2023-12-01 19:22:27",

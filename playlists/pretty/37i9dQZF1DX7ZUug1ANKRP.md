@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Nicolas Julian
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,800,534 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,800,873 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Wake Me Up \- Radio Edit](https://open.spotify.com/track/6d0T2bz3qCRTtG126QFkp3) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Wake Me Up](https://open.spotify.com/album/4GfBtGzN9za6LxsOgWU7jT) | 2:48 |
 | 50 | [God Is In The Soundwaves](https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7) | [God Is In The Soundwaves](https://open.spotify.com/album/20ssXnN1FKqAfIE6zSM8gQ) | 2:43 |
 
-Snapshot ID: `MCw4OGY4MzcxMTZiYzQ2ZDJjYjY3M2EwNGJlMmNhYjMzODM1NmUwZjVl`
+Snapshot ID: `MCw0NWM4N2QxN2Q2NjQxYjk4NmM4OTJhZjdlNDMzZDEzNGE5NjY0NWYw`

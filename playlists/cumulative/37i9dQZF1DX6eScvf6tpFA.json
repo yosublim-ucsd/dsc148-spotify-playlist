@@ -970,10 +970,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 179435,
       "name": "Horny",
       "url": "https://open.spotify.com/track/4OhccbByaFhTNXAzuPzMvS"
+    },
+    {
+      "album": {
+        "name": "Horny",
+        "url": "https://open.spotify.com/album/24SBsiWsekcg4JqDvkobSX"
+      },
+      "artists": [
+        {
+          "name": "Supahbadd",
+          "url": "https://open.spotify.com/artist/1HaUkY7GweQxgdKQGJZS2O"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179435,
+      "name": "Horny",
+      "url": "https://open.spotify.com/track/4nBIBDd8G4qdugoUcxNPWq"
     },
     {
       "album": {

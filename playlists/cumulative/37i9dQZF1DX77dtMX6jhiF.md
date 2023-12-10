@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-58 songs - 4 hr 19 min
+59 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 | 2022-10-01 |  |
 | [One Life](https://open.spotify.com/track/4CUoTkHeYj5RYxWbH44EK0) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [J\. Stone](https://open.spotify.com/artist/2YTVLcgqXXQbfORLE91aa3), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Born 2 Rap](https://open.spotify.com/album/5MDmKDe9kmJBsf8yYn8dUM) | 5:14 | 2022-10-01 |  |
 | [Potato Salad](https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Potato Salad](https://open.spotify.com/album/02KFVEA5tnY0YnypmWY1tz) | 3:02 | 2022-10-01 |  |
-| [Quarantine Wifey \(feat\. JID\)](https://open.spotify.com/track/6U2FHhnZNxZcgE1fTIgv3d) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 3:54 | 2022-10-01 |  |
+| [Quarantine Wifey \(feat\. JID\)](https://open.spotify.com/track/6U2FHhnZNxZcgE1fTIgv3d) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 3:54 | 2022-10-01 | 2023-12-10 |
+| [Quarantine Wifey \[Feat\. JID\]](https://open.spotify.com/track/6LlHSVifWMOA0APfUu3mdm) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 3:54 | 2022-10-01 |  |
 | [Sky's the Limit \(feat\. 112\) \- 2014 Remaster](https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 5:29 | 2022-10-01 |  |
 | [Stay](https://open.spotify.com/track/3xY4TcsCUR8q0J1NgL8QK3) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Life Is Good \(Deluxe\)](https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI) | 3:45 | 2022-10-01 |  |
 | [STOP TRYING TO BE GOD](https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:38 | 2022-10-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 65604,
+  "num_followers": 65696,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzc3Mjk4ZWYzNTA5OWNmM2U5MmZiNDhiZDczZjcxMzQ1MjczMGNm",
+  "snapshot_id": "MCw0YWQ0OWQ5NzVkZGMwZmM1ZjViMTc5Y2ViNzI3ZDNlNmY1ZDkxMzUw",
   "tracks": [
     {
       "added_at": "2023-12-07 11:11:25",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-12-07 11:11:25",
       "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 351280,
-      "name": "All the Things You Are",
-      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
-    },
-    {
-      "added_at": "2023-12-07 11:11:25",
-      "album": {
         "name": "Picture Of Heath",
         "url": "https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 385666,
       "name": "For Miles And Miles",
       "url": "https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC"
+    },
+    {
+      "added_at": "2023-12-07 11:11:25",
+      "album": {
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 351280,
+      "name": "All the Things You Are",
+      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
     },
     {
       "added_at": "2023-12-07 11:11:25",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-07 11:11:25",
       "album": {
-        "name": "Stan Kenton",
-        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
-      },
-      "artists": [
-        {
-          "name": "Stan Kenton",
-          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
-        }
-      ],
-      "duration_ms": 553320,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
-    },
-    {
-      "added_at": "2023-12-07 11:11:25",
-      "album": {
         "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 191906,
       "name": "Ergo - Remastered 2004",
       "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
+    },
+    {
+      "added_at": "2023-12-07 11:11:25",
+      "album": {
+        "name": "Stan Kenton",
+        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
+      },
+      "artists": [
+        {
+          "name": "Stan Kenton",
+          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
+        }
+      ],
+      "duration_ms": 553320,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
     },
     {
       "added_at": "2023-12-07 11:11:25",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-12-07 11:11:25",
       "album": {
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 319240,
+      "name": "Thanks For The Memory",
+      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
+    },
+    {
+      "added_at": "2023-12-07 11:11:25",
+      "album": {
         "name": "The Ivory Hunters",
         "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 446066,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
-    },
-    {
-      "added_at": "2023-12-07 11:11:25",
-      "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 319240,
-      "name": "Thanks For The Memory",
-      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
     },
     {
       "added_at": "2023-12-07 11:11:25",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-12-07 11:11:25",
       "album": {
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 598026,
+      "name": "Afternoon in Paris",
+      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
+    },
+    {
+      "added_at": "2023-12-07 11:11:25",
+      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 422266,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/7MGGY6BzqplNCRrKfIBTKL"
-    },
-    {
-      "added_at": "2023-12-07 11:11:25",
-      "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
-      },
-      "artists": [
-        {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
-        }
-      ],
-      "duration_ms": 598026,
-      "name": "Afternoon in Paris",
-      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
     },
     {
       "added_at": "2023-12-07 11:11:25",

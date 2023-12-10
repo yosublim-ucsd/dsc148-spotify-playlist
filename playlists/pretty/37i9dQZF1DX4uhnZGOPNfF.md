@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2003\. Photo : Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,526 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,531 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 | 38 | [Mundian To Bach Ke](https://open.spotify.com/track/2LxAeJ9KUj1GRS9oeHgQ3i) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [The Album](https://open.spotify.com/album/4M7pIA0U45CEENfXwbGB0g) | 4:05 |
 | 39 | [Air Force Ones](https://open.spotify.com/track/7kAFSrTIOiVZ0gnHBuAH3l) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Murphy Lee](https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A), [Ali](https://open.spotify.com/artist/7k5N7JJKEPUPQfK8whGITe), [Kyjuan](https://open.spotify.com/artist/6kD993mKIytiN9sE6VyRfa) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 5:04 |
 | 40 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:04 |
-| 41 | [Come Undone](https://open.spotify.com/track/6mZCiuIXcA12syIS23Dyxa) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:38 |
-| 42 | [The Magic Key](https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM) | [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The One\-T ODC](https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn) | 3:48 |
+| 41 | [The Magic Key](https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM) | [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The One\-T ODC](https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn) | 3:48 |
+| 42 | [Come Undone](https://open.spotify.com/track/6mZCiuIXcA12syIS23Dyxa) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:38 |
 | 43 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 |
 | 44 | [Can't Hold Us Down \(feat\. Lil' Kim\)](https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:15 |
 | 45 | [I Can](https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [God's Son](https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY) | 4:13 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 | 47 | [Rise & Fall \(feat\. Sting\)](https://open.spotify.com/track/23ehR4jpFQFMfDADgFdXR7) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 4:47 |
 | 48 | [Scandalous \- U.S\. Radio Edit](https://open.spotify.com/track/3stnrhzN0lzZFskbaZ5sEw) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:58 |
 | 49 | [Sorry Seems To Be The Hardest Word](https://open.spotify.com/track/6F9jdzX7CfixvCsCkW7zw9) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Best Of Blue](https://open.spotify.com/album/7kPVKSy6zNK1PnvylEqTpL) | 3:30 |
-| 50 | [DJ](https://open.spotify.com/track/4D0dgZLZWkaWG25NBuxOfS) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Brut de femme](https://open.spotify.com/album/36WsF1tlYfQtOSiU3Tozb7) | 4:30 |
-| 51 | [Make Luv](https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH) | [Room 5](https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq), [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Music & You](https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH) | 3:32 |
+| 50 | [Make Luv](https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH) | [Room 5](https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq), [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Music & You](https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH) | 3:32 |
+| 51 | [DJ](https://open.spotify.com/track/4D0dgZLZWkaWG25NBuxOfS) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Brut de femme](https://open.spotify.com/album/36WsF1tlYfQtOSiU3Tozb7) | 4:30 |
 | 52 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
 | 53 | [Gravé dans la roche](https://open.spotify.com/track/0LZ90308GB1Tp05STjabeC) | [SNIPER](https://open.spotify.com/artist/1nTVNdaDAzXB1AbP30cGk6) | [Gravé dans la roche](https://open.spotify.com/album/6chD9SocKyshylTuhbKV2O) | 4:45 |
 | 54 | [White Flag](https://open.spotify.com/track/3adnLFXKO5rC1lhUNSeg3N) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/6PEApt1cBh2EtWeXMKZJzo) | 4:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 | 59 | [Hey Oh \- Radio Edit](https://open.spotify.com/track/15RB3lFt2Mhc16m5fTTYkh) | [Tragédie](https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm) | [Tragédie \(Édition Deluxe\)](https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH) | 3:31 |
 | 60 | [Put That Woman First](https://open.spotify.com/track/3OQu3z3okKVmWxSXTTHak5) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Still Ghetto](https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa) | 4:05 |
 
-Snapshot ID: `MCwwOWNmOGUyNDU5ZjMwYjczMTJhNGMxNmUwZjcxOGExMGQ5N2IzOTRh`
+Snapshot ID: `MCwxNTM2OTA2M2RlNDQ4YjdlNWJlOWYzYWIwYjAwYzUyYWQxYzgzYzI5`

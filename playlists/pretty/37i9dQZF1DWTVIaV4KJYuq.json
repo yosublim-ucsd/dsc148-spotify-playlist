@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 688938,
+  "num_followers": 689041,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjUwMGVkZWUxMTEwOTVlMzU4YWJmM2EwZWNmN2RlYzJiMmMwZTUz",
+  "snapshot_id": "MCw3MDBiMzU2MDM5OGFjOGFiYjUxNjcyODY2OGI0ODljYjYyMThlOTA2",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "I Melt with You",
-        "url": "https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS"
-      },
-      "artists": [
-        {
-          "name": "Daulton Hopkins",
-          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "I Melt with You",
-      "url": "https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "I Can Help",
         "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 218225,
       "name": "I Can Help",
       "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "I Melt with You",
+        "url": "https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS"
+      },
+      "artists": [
+        {
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "I Melt with You",
+      "url": "https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Sunday Night Sessions",
         "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 284971,
       "name": "Hotel California (Cover)",
       "url": "https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+        "name": "Gun Shy",
+        "url": "https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
         }
       ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+      "duration_ms": 251889,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Gun Shy",
-        "url": "https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6"
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
       "artists": [
         {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
         }
       ],
-      "duration_ms": 251889,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD"
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "You Are My Sunshine (with Chris Stapleton)",
         "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 167125,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 141653,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 167125,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 215843,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Drain The Blood",
         "url": "https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 180866,
       "name": "Eye Of The Tiger",
       "url": "https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "What a Wonderful World",
-        "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt"
       },
       "artists": [
         {
-          "name": "Sawyer Fredericks",
-          "url": "https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn"
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
         }
       ],
-      "duration_ms": 162907,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
+      "duration_ms": 185755,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/5V6Slm8bHgFA5wINHUZskE"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt"
+        "name": "What a Wonderful World",
+        "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
       },
       "artists": [
         {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+          "name": "Sawyer Fredericks",
+          "url": "https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn"
         }
       ],
-      "duration_ms": 185755,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/5V6Slm8bHgFA5wINHUZskE"
+      "duration_ms": 162907,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "A Whiter Shade of Pale",
-        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 285428,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Anthem +3",
         "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 345773,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "A Whiter Shade of Pale",
+        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 285428,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
     }
   ],
   "unique_name": "Classic Covers",

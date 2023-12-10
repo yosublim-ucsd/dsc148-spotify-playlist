@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Kyan",
-  "num_followers": 135707,
+  "num_followers": 135703,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGU4MmQyYTdlMjRlYTUzYTJiMGQxM2Y3MGU4ZmMxNTNjODllNDUx",
+  "snapshot_id": "MCxhN2YyM2IyNjkwMDg1ZTRhNThjZjFlNzY3MjhkMTFjOTY2MTQ4NjIx",
   "tracks": [
     {
       "added_at": "2023-12-08 03:33:34",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Sem Compaix\u00e3o",
-        "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
-      },
-      "artists": [
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 202451,
-      "name": "Sem Compaix\u00e3o",
-      "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
       },
@@ -483,6 +463,26 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
+        "name": "Sem Compaix\u00e3o",
+        "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 202451,
+      "name": "Sem Compaix\u00e3o",
+      "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
@@ -503,8 +503,8 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Clickbait",
-        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM"
       },
       "artists": [
         {
@@ -512,21 +512,29 @@
           "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
+          "name": "Nick Nash",
+          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
+        },
+        {
+          "name": "Wylo",
+          "url": "https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
           "name": "Supernova Ent",
           "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         },
         {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
         }
       ],
-      "duration_ms": 161344,
-      "name": "Clickbait",
-      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
+      "duration_ms": 210545,
+      "name": "Vida Chique",
+      "url": "https://open.spotify.com/track/6tGQ5RuoGC9jYuiVVLWBMo"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -615,8 +623,8 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM"
+        "name": "Clickbait",
+        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
       },
       "artists": [
         {
@@ -624,29 +632,21 @@
           "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "Nick Nash",
-          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
-        },
-        {
-          "name": "Wylo",
-          "url": "https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
           "name": "Supernova Ent",
           "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         },
         {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
         }
       ],
-      "duration_ms": 210545,
-      "name": "Vida Chique",
-      "url": "https://open.spotify.com/track/6tGQ5RuoGC9jYuiVVLWBMo"
+      "duration_ms": 161344,
+      "name": "Clickbait",
+      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -703,6 +703,26 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 138305,
       "name": "Famigerado",
       "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
-        "name": "Espero Que Entendam (Freestyle)",
-        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 211859,
-      "name": "Espero Que Entendam - Freestyle",
-      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -819,6 +819,26 @@
       "duration_ms": 136615,
       "name": "Gato Preto",
       "url": "https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        }
+      ],
+      "duration_ms": 154789,
+      "name": "Porsche \"Ye Yo\"",
+      "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -983,6 +1003,26 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 129923,
+      "name": "Toca Na Corrente",
+      "url": "https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
         "name": "FREDDIE MERCURY",
         "url": "https://open.spotify.com/album/030z6Qb2ol8uilw8a6npJx"
       },
@@ -1003,22 +1043,26 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Bem Vindo Natal Mixtape 2",
-        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
       "artists": [
         {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "Rare Kidd",
+          "url": "https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd"
         }
       ],
-      "duration_ms": 129923,
-      "name": "Toca Na Corrente",
-      "url": "https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq"
+      "duration_ms": 178728,
+      "name": "Camuflado De BAPE - Feat. Rare Kidd",
+      "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -1151,30 +1195,6 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9 Santiago",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        },
-        {
-          "name": "Rare Kidd",
-          "url": "https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd"
-        }
-      ],
-      "duration_ms": 178728,
-      "name": "Camuflado De BAPE - Feat. Rare Kidd",
-      "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
         "name": "Bem Vindo Natal Mixtape 2",
         "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 165333,
       "name": "F\u00e1brica de J\u00f3ia",
       "url": "https://open.spotify.com/track/0qUV0nO4WQuoIiwZp9BhXr"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9 Santiago",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        }
-      ],
-      "duration_ms": 154789,
-      "name": "Porsche \"Ye Yo\"",
-      "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
     }
   ],
   "unique_name": "O Drip",

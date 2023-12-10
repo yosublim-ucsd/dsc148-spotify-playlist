@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-842 songs - 1 day 8 hr 44 min
+843 songs - 1 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Dreamz](https://open.spotify.com/track/2mooZdBPN5CMd9sLLqn7rl) | [August Sky](https://open.spotify.com/artist/6hm8yEY43m6Q5aq1O8oLwI) | [Dreamz](https://open.spotify.com/album/0nsR1tVzZZ1uFOKgXqswau) | 3:49 | 2022-04-15 |  |
 | [Driftwood](https://open.spotify.com/track/5Df3pDneVxrgAvEbgSX3Yv) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Driftwood](https://open.spotify.com/album/5pwPeU5EW7xkYcXYixuvjP) | 1:47 | 2022-04-15 | 2023-10-13 |
 | [Drip](https://open.spotify.com/track/3IjWchZ6NabiqZNzJ1yhCa) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Drip](https://open.spotify.com/album/5ZL8AF9ifQ7roWRyq6npH3) | 2:21 | 2023-09-04 | 2023-10-13 |
-| [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 | 2022-11-25 | 2023-11-27 |
+| [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 | 2022-11-25 |  |
 | [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2022-10-14 | 2023-10-20 |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2022-05-20 |  |
@@ -602,7 +602,7 @@
 | [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 | 2022-04-15 | 2022-06-17 |
 | [Sand Dunes](https://open.spotify.com/track/0eRz1q2Wl8UpKDl45UiZZQ) | [The Precocious Birds](https://open.spotify.com/artist/5oLT0V8Xp31OtLkLvUH07U) | [Good Morning](https://open.spotify.com/album/0VnIOAwK9IyAsNc1HXqEHs) | 3:21 | 2022-04-15 | 2022-05-20 |
 | [sandcastles](https://open.spotify.com/track/2J0Rj3cOl6EfTGI5D0FA6p) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [sandcastles](https://open.spotify.com/album/1LN7ORFTpSy9ZpnsflxqPN) | 1:45 | 2022-08-12 | 2023-10-20 |
-| [Sandhamn](https://open.spotify.com/track/77ZSl1MSbASVgW5DOGCMN9) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Sandhamn](https://open.spotify.com/album/3rYpgmBjwPUtHKTntCFHvX) | 2:50 | 2022-09-09 |  |
+| [Sandhamn](https://open.spotify.com/track/77ZSl1MSbASVgW5DOGCMN9) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Sandhamn](https://open.spotify.com/album/3rYpgmBjwPUtHKTntCFHvX) | 2:50 | 2022-09-09 | 2023-12-10 |
 | [Saturation](https://open.spotify.com/track/1zyNkrQFVLwjl1Jg4MZHuK) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Saturation](https://open.spotify.com/album/5d0Imi2PYaZIhzFe6Sn4CN) | 1:52 | 2022-04-15 | 2022-10-29 |
 | [Saturday Afternoon](https://open.spotify.com/track/5GSoiFJwXZY3DfPDkVHwS6) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Back Alley Conversations](https://open.spotify.com/album/4JetmNvKwzrCbsIKyliwPp) | 2:01 | 2022-04-15 | 2022-06-10 |
 | [Say So](https://open.spotify.com/track/4cXMR7W8SZEL0Nw180Ue0Y) | [Lazarus best for us](https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH) | [Don't Start Now](https://open.spotify.com/album/4cZQzq6eQwg2xnh2oWuQEp) | 3:34 | 2022-11-11 | 2023-10-27 |
@@ -665,7 +665,7 @@
 | [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2022-11-11 | 2023-12-02 |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-04-15 | 2022-05-14 |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |
-| [Spoiler Alert](https://open.spotify.com/track/3Yabo5fHrlueQUfOtjxTU9) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Spoiler Alert](https://open.spotify.com/album/50Ymg0VYsiVGcU8TBpukRm) | 2:23 | 2023-07-19 |  |
+| [Spoiler Alert](https://open.spotify.com/track/3Yabo5fHrlueQUfOtjxTU9) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Spoiler Alert](https://open.spotify.com/album/50Ymg0VYsiVGcU8TBpukRm) | 2:23 | 2023-07-19 | 2023-12-10 |
 | [Spring Magic](https://open.spotify.com/track/3UNpc4XLwtOrJeb2GYrNkI) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Spring Magic](https://open.spotify.com/album/53eqZjWTXiRPVSPKWlkW15) | 2:42 | 2022-06-24 | 2022-09-24 |
 | [Square Pusher](https://open.spotify.com/track/5ky4WPvi6mxjRpoW0CNFxV) | [Elisey](https://open.spotify.com/artist/5NNybcZtlWcExyH7LuIofh) | [Square Pusher](https://open.spotify.com/album/2RgnsphCZkHmIpZCyytiaL) | 1:51 | 2022-04-15 | 2022-06-10 |
 | [Stagnant](https://open.spotify.com/track/1tr7DYuOJfmscDtKvCmaWa) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Glass Haus](https://open.spotify.com/album/6BAtqPkVlnt0kvwSDFBDpT) | 2:14 | 2022-04-15 | 2023-11-24 |
@@ -745,6 +745,7 @@
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |
 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 | 2022-04-15 | 2022-05-20 |
 | [this feels so right](https://open.spotify.com/track/4or5RFuku3G0P1ZOLGBTLt) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [this feels so right](https://open.spotify.com/album/2VyvMQUHPp3KIcIyiWbVjv) | 1:30 | 2022-04-15 | 2022-07-29 |
+| [Through The Garden](https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Through The Garden](https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC) | 2:06 | 2023-12-08 |  |
 | [Throwing Tomatoes](https://open.spotify.com/track/5YHwUWpLm8Ju2rYvSRV3Ir) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Not sure about this](https://open.spotify.com/album/1PsRH84FYg5KSvFupOsvCT) | 1:39 | 2022-11-11 |  |
 | [Tidelows](https://open.spotify.com/track/3gR2wcPvXK6nYMAFIwqWNV) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ) | [Tidelows](https://open.spotify.com/album/2qOdD3EsnVwFmvjrus5J7h) | 2:27 | 2022-04-22 | 2022-07-29 |
 | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/track/2Jtxx7JTFeEq7vGG5mxgMV) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/album/6FfMLwzNxswjsR5tlM0YGV) | 3:10 | 2023-09-22 |  |

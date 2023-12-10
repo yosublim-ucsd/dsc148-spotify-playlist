@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Marshmello & Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,050 likes - 65 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,143 likes - 65 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 64 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
 | 65 | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/track/1Ibb0sjzCNzhHGe3V1RakV) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/album/4EsvEffXkdatx6a7ZqUGZA) | 3:00 |
 
-Snapshot ID: `MCwwNGQ1ZGY1YmVhZjBmMzc2NmQ4NjdhMzQyYjJhNTgxNGQ1ZTljYmI4`
+Snapshot ID: `MCxkNGI2NjYxZTMwN2IxYmU1NmMzODc4YjMyODkyMzFjZGRjYTYyMjVi`

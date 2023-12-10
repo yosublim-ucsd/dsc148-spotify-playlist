@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas ic\u00f3nicas del 2023 a todo volumen! Vivir Quintana en portada. ",
-  "num_followers": 101619,
+  "num_followers": 101638,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2M1OTg1OTJkNDEyMWRkNDRjZWQ3NDY1YTIyZWExMGZkNTQ5Y2Mw",
+  "snapshot_id": "MCwzMzA4ZWFjNTA3MDQ1NWI0YWMxNWU1NDkxNjNiNGQ4NzAxNWY0MjFl",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/7AQYo4b92wZ6OKi3PbqT1b"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/4gBM7Z5sxC6iyRveSn65XL"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Algo De Verdad",
         "url": "https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV"
       },
@@ -547,18 +563,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Departamento",
-        "url": "https://open.spotify.com/album/7AQYo4b92wZ6OKi3PbqT1b"
+        "name": "Habita",
+        "url": "https://open.spotify.com/album/5il9keOHsr5SzWCkkw0OoE"
       },
       "artists": [
         {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 198253,
-      "name": "Departamento",
-      "url": "https://open.spotify.com/track/4gBM7Z5sxC6iyRveSn65XL"
+      "duration_ms": 181914,
+      "name": "Porque Yo",
+      "url": "https://open.spotify.com/track/0Dy7YlQcyZGQX1InuxLdES"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -591,26 +611,6 @@
       "duration_ms": 161739,
       "name": "Belize",
       "url": "https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Habita",
-        "url": "https://open.spotify.com/album/5il9keOHsr5SzWCkkw0OoE"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Porque Yo",
-      "url": "https://open.spotify.com/track/0Dy7YlQcyZGQX1InuxLdES"
     },
     {
       "added_at": "2023-11-29 12:16:00",

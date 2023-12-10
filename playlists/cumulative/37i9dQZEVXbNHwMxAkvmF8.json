@@ -5878,7 +5878,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 304893,
       "name": "Ganxsta Zolee Tehet Mindenr\u0151l",
       "url": "https://open.spotify.com/track/3slZDC1KYm6oV6KMr2BuXw"
@@ -6508,6 +6508,24 @@
       "duration_ms": 178500,
       "name": "Hajnali 2",
       "url": "https://open.spotify.com/track/1gwphQDBqnWXO37xTMdbCN"
+    },
+    {
+      "album": {
+        "name": "Hajnali 5 a Gell\u00e9rt t\u00e9ren / Ez most mit jelent?",
+        "url": "https://open.spotify.com/album/2dGELV5IGpTZ4dlAxMEA9l"
+      },
+      "artists": [
+        {
+          "name": "AKC Misi",
+          "url": "https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Hajnali 5 a Gell\u00e9rt t\u00e9ren / Ez most mit jelent?",
+      "url": "https://open.spotify.com/track/3i7qqJZ4H16ADGx9fZXCix"
     },
     {
       "album": {
@@ -10468,7 +10486,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -15016,7 +15034,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -15434,7 +15452,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -15806,7 +15824,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 206037,
       "name": "szosziazi",
       "url": "https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De vuelta a los 2000s con los mejores \u00e9xitos! Shakira en portada.",
-  "num_followers": 31859,
+  "num_followers": 31943,
   "original_name": "Fiesta 2000era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmFlYWI1ZDMxNmMyM2QxMzQzZmMwMjJhNzc1MTkwMDY4YWNjZDMx",
+  "snapshot_id": "MCwzMzUxYzkyZGE1MDY2MDA2NzZjMWI0NjY3MjJmZTZjNTIwZTEwNGYz",
   "tracks": [
     {
       "added_at": "2023-12-08 04:44:26",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-12-08 04:44:26",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
-    },
-    {
-      "added_at": "2023-12-08 04:44:26",
-      "album": {
         "name": "Calle 13 (Explicit Version)",
         "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2023-12-08 04:44:26",
+      "album": {
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
     },
     {
       "added_at": "2023-12-08 04:44:26",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-12-08 04:44:26",
       "album": {
-        "name": "Permitame",
-        "url": "https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "Permitame",
-      "url": "https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5"
-    },
-    {
-      "added_at": "2023-12-08 04:44:26",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 197333,
       "name": "Las Avispas",
       "url": "https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u"
+    },
+    {
+      "added_at": "2023-12-08 04:44:26",
+      "album": {
+        "name": "Permitame",
+        "url": "https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "Permitame",
+      "url": "https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5"
     },
     {
       "added_at": "2023-12-08 04:44:26",

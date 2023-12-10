@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Sonu Nigam
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,632 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,665 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 9 | [Jogan](https://open.spotify.com/track/0Szj0LBTvfXmxgIXFGqg4H) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Devashri Manohar](https://open.spotify.com/artist/3RZPXSfPo0Fqr18tVXeuW1) | [Jogan / Preet](https://open.spotify.com/album/7wLuY53xqzFDf52LvxW4qS) | 2:38 |
 | 10 | [Chupke Se Aana](https://open.spotify.com/track/4wTUkTmoOXVYh3biHZov5C) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Chupke Se Aana](https://open.spotify.com/album/0E7PKS5Cltvaw80ndCoPaw) | 3:45 |
 | 11 | [Hum Dono](https://open.spotify.com/track/4IALofMkaEpltIkhpvo0sz) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v) | 3:41 |
-| 12 | [Tum Kho Gaye Ho Kaha](https://open.spotify.com/track/7D0HvEj4Yrc1tzxhh3ESE5) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Tum Kho Gaye Ho Kaha](https://open.spotify.com/album/0Sdwj4Mx3OFlFV857oh1zV) | 3:36 |
+| 12 | [Tum Kho Gaye Ho Kaha](https://open.spotify.com/track/7D0HvEj4Yrc1tzxhh3ESE5) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Tum Kho Gaye Ho Kaha](https://open.spotify.com/album/0Sdwj4Mx3OFlFV857oh1zV) | 3:36 |
 | 13 | [Kajrare Naina](https://open.spotify.com/track/4ItvUdX2kzYCIHh7emNdWp) | [Gurashish Singh](https://open.spotify.com/artist/2HZX9rmB8FMz1C7Oq6q3Ir), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Vidur Anand](https://open.spotify.com/artist/3PzaEhia9yDWE1BMmadPEL) | [Kajrare Naina](https://open.spotify.com/album/13vRTEy73vtmEIMlNlbdhm) | 3:40 |
 | 14 | [Har Justajoo](https://open.spotify.com/track/7tboJ9InTvLG87SqE6SavU) | [Tabish Ali](https://open.spotify.com/artist/36uVpSR1V6J4hf53SXQEga), [Sneha Shankar](https://open.spotify.com/artist/2K89AHztkLmFRfoKC6ySoT), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Har Justajoo](https://open.spotify.com/album/4iGHM9fAnRyrM7xOwCgx7f) | 4:47 |
 | 15 | [Aisi Teri Yaadein](https://open.spotify.com/track/0zQT8LBspIhHQ1RUFzTe5D) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky Khanna](https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC) | [Aisi Teri Yaadein](https://open.spotify.com/album/7r6qLiVCn35vuJafG6JlNB) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Meri Ho Ja](https://open.spotify.com/track/7z3e5trtKbiILn2bcxqKpr) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Meri Ho Ja](https://open.spotify.com/album/4zy8E2oRVyGJseIcHk2hAQ) | 2:59 |
 | 50 | [Mere Khayaalon Mein](https://open.spotify.com/track/0rplzWEHSP90MNpERnF4zi) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [ONLY JUST BEGUN](https://open.spotify.com/album/1syTR5kykgDXunaGMzxc2o) | 2:12 |
 
-Snapshot ID: `MCxlOTE2NGU4ODRiZTRjZjE3OGQ3ZjJmYmQwNzM0YmRlNjQxNDhlY2Zi`
+Snapshot ID: `MCw3OWU5NTc0NjViZDhlZTVjODYxYmRlODc3MWJkMWFkOGU3MjU3NDgx`

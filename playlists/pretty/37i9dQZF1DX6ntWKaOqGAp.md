@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: BREIMEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,222 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,265 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [LOVE \(XL\)](https://open.spotify.com/track/5GAjhDdUw6vA33k2DvEbYJ) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [LOVE \(XL\)](https://open.spotify.com/album/4OpHb4ubmIAxWM945jNyfj) | 4:45 |
 | 100 | [BEST](https://open.spotify.com/track/2eFFcYMBcw39hziOMeKq5B) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 3:17 |
 
-Snapshot ID: `MCwxMDM2ZGRhMmQzNTUxMmZiZWQ0Y2M4ODEwNWIwOWU3NzU5YzhlNWJk`
+Snapshot ID: `MCxmNThlODdiZDVlZDRjMTQ1YTIwNjY1ZjY0YzYxZTMyZDQzMjQzM2Y2`

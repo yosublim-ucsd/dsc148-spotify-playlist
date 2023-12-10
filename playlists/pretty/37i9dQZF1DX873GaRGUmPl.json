@@ -1,12 +1,12 @@
 {
   "description": "The best alternative songs of the decade. Cover: Glass Animals",
-  "num_followers": 908031,
+  "num_followers": 908036,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTM3NTQ0M2M2Y2Y2NGY3YjVjNzlkZjI3NzkwYTRjMDdhODYwMzA0",
+  "snapshot_id": "MCxiZGU2ZjhiMmMwMzQxZTNlZGU3ZjRjYTNmMDBmNzFmNjM4ODJlMTVi",
   "tracks": [
     {
       "added_at": "2023-04-28 10:51:34",
@@ -187,18 +187,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+        "name": "Nothing Happens",
+        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+      "duration_ms": 178000,
+      "name": "Are You Bored Yet? (feat. Clairo)",
+      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -219,22 +223,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Nothing Happens",
-        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Are You Bored Yet? (feat. Clairo)",
-      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 188386,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 592920,
       "name": "Pyramids",
       "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "As the World Caves In",
-        "url": "https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 218754,
-      "name": "As the World Caves In",
-      "url": "https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Born To Die \u2013 Paradise Edition (Special Version)",
         "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 281946,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "As the World Caves In",
+        "url": "https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 218754,
+      "name": "As the World Caves In",
+      "url": "https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Young The Giant (Special Edition)",
-        "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Cough Syrup",
-      "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "chapter 2",
         "url": "https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 219638,
       "name": "bad idea!",
       "url": "https://open.spotify.com/track/1HRTFytvp1Bs50ckTlL5qs"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Young The Giant (Special Edition)",
+        "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Cough Syrup",
+      "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -947,22 +947,6 @@
       "duration_ms": 234909,
       "name": "Never Be Like You (feat. Kai)",
       "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 257573,
-      "name": "High By The Beach",
-      "url": "https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -995,6 +979,22 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 257573,
+      "name": "High By The Beach",
+      "url": "https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1077,7 +1077,7 @@
         }
       ],
       "duration_ms": 261881,
-      "name": "It Runs Through Me",
+      "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 342093,
-      "name": "Shades Of Cool",
-      "url": "https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 222044,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 342093,
+      "name": "Shades Of Cool",
+      "url": "https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Broken Bells",
-        "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
+        "name": "Erratic Cinematic",
+        "url": "https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "Gerry Cinnamon",
+          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
         }
       ],
-      "duration_ms": 232200,
-      "name": "The High Road",
-      "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
+      "duration_ms": 196600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1211,34 +1211,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Broken Bells",
+        "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 577199,
-      "name": "Venice Bitch",
-      "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Erratic Cinematic",
-        "url": "https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh"
-      },
-      "artists": [
-        {
-          "name": "Gerry Cinnamon",
-          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD"
+      "duration_ms": 232200,
+      "name": "The High Road",
+      "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 577199,
+      "name": "Venice Bitch",
+      "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Final Song",
         "url": "https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z"
       },
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+        "name": "Alvvays",
+        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
         }
       ],
-      "duration_ms": 223600,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
+      "duration_ms": 196560,
+      "name": "Archie, Marry Me",
+      "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
     }
   ],
   "unique_name": "Alternative 10s",

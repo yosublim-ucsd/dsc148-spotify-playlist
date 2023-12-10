@@ -8095,6 +8095,28 @@
     },
     {
       "album": {
+        "name": "Failed at Math(s) (Billy Lemos Remix)",
+        "url": "https://open.spotify.com/album/0xf3dWUvu8vDrKjPxqRvag"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128666,
+      "name": "Failed at Math(s) - Billy Lemos Remix",
+      "url": "https://open.spotify.com/track/7e38DGW5pLhY3rzmChje9m"
+    },
+    {
+      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -22442,7 +22464,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 157664,
       "name": "secret road",
       "url": "https://open.spotify.com/track/3Ert93xdqjdLfN1ZOEvwUX"

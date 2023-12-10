@@ -4,7 +4,7 @@
 
 > Tight Roll your jeans, break out the CK1, and set the mood...
 
-125 songs - 9 hr 15 min
+126 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [How Do I Live](https://open.spotify.com/track/5VJlvaPufnazmTvt2sHQqc) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/6mcwghwWeSp1Ol1IpsYDOM) | 4:26 | 2020-09-30 | 2022-01-25 |
 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 | 2020-09-30 |  |
 | [I Can Love You Like That](https://open.spotify.com/track/4OnZR9U5JRFGF1Yza9j579) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [Rhino Hi\-Five: All\-4\-One](https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ) | 4:17 | 2020-09-30 | 2022-01-26 |
-| [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 | 2020-09-30 |  |
+| [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 | 2020-09-30 | 2023-12-10 |
 | [I Do \(Cherish You\)](https://open.spotify.com/track/5it4Zopso9OdoirmTqGZA4) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [The Collection](https://open.spotify.com/album/5J0kPrSHVGdNhPNpNmi981) | 3:45 | 2020-09-30 | 2022-01-26 |
 | [I Do \(Cherish You\)](https://open.spotify.com/track/6BoueSxgJU2heOvYVDTBuk) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [98 Degrees And Rising](https://open.spotify.com/album/5QmzvShOSXdLds65q3jbxx) | 3:46 | 2020-09-30 | 2022-07-29 |
 | [I Do \(Cherish You\)](https://open.spotify.com/track/6XgwPf0cqjySCMsOmQq4t6) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [98 Degrees And Rising](https://open.spotify.com/album/16oW7he0sWe3dBxV2XaQx6) | 3:46 | 2022-01-25 |  |
@@ -105,6 +105,7 @@
 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 | 2022-01-25 |  |
 | [Sometimes](https://open.spotify.com/track/1UI0l2L66HJ9AtoEOlHzv4) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 4:05 | 2020-09-30 |  |
 | [Stay](https://open.spotify.com/track/0jlgrHvssAloyAidZ1aJzs) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [The Very Best Of](https://open.spotify.com/album/2ieqNp8mf5cc50jLi5w0FX) | 3:04 | 2020-09-30 | 2022-01-26 |
+| [Sweet Lady](https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:50 | 2023-04-08 |  |
 | [That's the Way It Is](https://open.spotify.com/track/38VJ6qYnuv3vzfjrvm389j) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All The Way..\. A Decade Of Song](https://open.spotify.com/album/05HEjdd9s8Egs5aa3r0YIF) | 4:01 | 2020-09-30 | 2022-01-26 |
 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 | 2022-01-25 |  |
 | [The Hardest Thing](https://open.spotify.com/track/7EEdDKopE2INq8y1sOZuhU) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [The Collection](https://open.spotify.com/album/5J0kPrSHVGdNhPNpNmi981) | 4:34 | 2020-09-30 | 2022-01-26 |

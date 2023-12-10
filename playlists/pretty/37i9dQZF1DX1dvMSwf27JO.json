@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ft Erykah Badu and Usher front row at Marni. ",
-  "num_followers": 527447,
+  "num_followers": 527438,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNThmODZhMWM5NTU4ODg1MDUzMzdhMDE2YTFiOTg4ODU1YjgwYWM3",
+  "snapshot_id": "MCw5OTc4MGZkNTI1MDEyYWFlZDA3NGJmMmFiZDQ0M2ZlMjFjMjVmOTdl",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Hitler Wears Hermes 7",
+        "url": "https://open.spotify.com/album/1aefUsOlozdtYI6ukHvrpp"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 61440,
+      "name": "Love U",
+      "url": "https://open.spotify.com/track/1crT4b1YmKckWpK23mSnnO"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 180560,
       "name": "intro",
       "url": "https://open.spotify.com/track/6HSTJbYzJCK5jKz7hrsvQh"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Hitler Wears Hermes 7",
-        "url": "https://open.spotify.com/album/1aefUsOlozdtYI6ukHvrpp"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 61440,
-      "name": "Love U",
-      "url": "https://open.spotify.com/track/1crT4b1YmKckWpK23mSnnO"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Love Me Like",
+        "url": "https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf"
+      },
+      "artists": [
+        {
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "If You Won't",
+      "url": "https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "girls like me don't cry (remix) ft. MIN",
         "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Love Me Like",
-        "url": "https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf"
-      },
-      "artists": [
-        {
-          "name": "Rayana Jay",
-          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "If You Won't",
-      "url": "https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Toronto Funhouse",
-        "url": "https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV"
-      },
-      "artists": [
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 120693,
-      "name": "Toronto Funhouse",
-      "url": "https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Leak 04-13 (Bait Ones)",
         "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 56880,
       "name": "chix - Unfinished",
       "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Toronto Funhouse",
+        "url": "https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 120693,
+      "name": "Toronto Funhouse",
+      "url": "https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "FLOOR",
-        "url": "https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc"
-      },
-      "artists": [
-        {
-          "name": "Flozigg",
-          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
-        },
-        {
-          "name": "Icee Red",
-          "url": "https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC"
-        }
-      ],
-      "duration_ms": 125688,
-      "name": "FLOOR",
-      "url": "https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -1331,18 +1311,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Mr Valentine",
-        "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
+        "name": "FLOOR",
+        "url": "https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc"
       },
       "artists": [
         {
-          "name": "YAZ",
-          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        },
+        {
+          "name": "Icee Red",
+          "url": "https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC"
         }
       ],
-      "duration_ms": 157875,
-      "name": "Mr Valentine",
-      "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
+      "duration_ms": 125688,
+      "name": "FLOOR",
+      "url": "https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 106046,
       "name": "BACKWARDS",
       "url": "https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Mr Valentine",
+        "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
+      },
+      "artists": [
+        {
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+        }
+      ],
+      "duration_ms": 157875,
+      "name": "Mr Valentine",
+      "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Cry Alone",
-        "url": "https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU"
-      },
-      "artists": [
-        {
-          "name": "Cydnee with a C",
-          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
-        }
-      ],
-      "duration_ms": 102492,
-      "name": "Cry Alone",
-      "url": "https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 172307,
       "name": "VIRGINIA CREEPER",
       "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Cry Alone",
+        "url": "https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU"
+      },
+      "artists": [
+        {
+          "name": "Cydnee with a C",
+          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
+        }
+      ],
+      "duration_ms": 102492,
+      "name": "Cry Alone",
+      "url": "https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 255760,
+      "name": "M79",
+      "url": "https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Be the One You Love",
         "url": "https://open.spotify.com/album/4vnVALee891bV599C0I6rI"
       },
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/3cCuqxwQ3zfQ9XBQjmg5Ed"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "Dizzy Fae",
+          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
         }
       ],
-      "duration_ms": 255760,
-      "name": "M79",
-      "url": "https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS"
+      "duration_ms": 176950,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/7zA0VTyhfiIalyRgcQJzU7"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1699,30 +1715,6 @@
       "duration_ms": 221613,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "froge.mp3",
-        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "silver lining",
-      "url": "https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy"
     }
   ],
   "unique_name": "'fit check",

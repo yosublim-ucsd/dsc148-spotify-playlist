@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Sof\u00eda Reyes & Be\u00e9le",
-  "num_followers": 1906394,
+  "num_followers": 1906502,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWJhZWFkMWEzNDBlZDQwYmIyNWVlYmJhMjA5MDQyZTE3ZTJmYTg2",
+  "snapshot_id": "MCw1MTlmYjRkOTNkZWM5ZTUyNjk2NmQzM2ZiOGE0MTQ0OTMxZDEwMGRk",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Uniquehits",
-        "url": "https://open.spotify.com/album/60cukXHcYZwS84tTa60i9y"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "No Es una Novela",
-      "url": "https://open.spotify.com/track/7I4WMiRLLl0lDn0XmHxkZf"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Estrellita",
         "url": "https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 157377,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Uniquehits",
+        "url": "https://open.spotify.com/album/60cukXHcYZwS84tTa60i9y"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "No Es una Novela",
+      "url": "https://open.spotify.com/track/7I4WMiRLLl0lDn0XmHxkZf"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "La Historia\u2026Mis \u00c9xitos",
         "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        }
-      ],
-      "duration_ms": 206412,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Sangre De Mis Venas",
         "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
       },
@@ -1323,22 +1323,6 @@
       "duration_ms": 249034,
       "name": "Sangre De Mis Venas",
       "url": "https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Mi Secreto",
-        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 179834,
-      "name": "Mi Secreto",
-      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1371,6 +1355,22 @@
       "duration_ms": 160163,
       "name": "Dime C\u00f3mo Se Siente",
       "url": "https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Mi Secreto",
+        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 179834,
+      "name": "Mi Secreto",
+      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Bachatica",
-        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
+        "name": "Hablame De Ti",
+        "url": "https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn"
       },
       "artists": [
         {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
         }
       ],
-      "duration_ms": 196461,
-      "name": "Bachatica",
-      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
+      "duration_ms": 267572,
+      "name": "Hablame De Ti",
+      "url": "https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Episodes",
-        "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
+        "name": "Bachatica",
+        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
       },
       "artists": [
         {
-          "name": "Kewin Cosmos",
-          "url": "https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT"
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
         }
       ],
-      "duration_ms": 217222,
-      "name": "Solo Quise Quererte",
-      "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
+      "duration_ms": 196461,
+      "name": "Bachatica",
+      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Hablame De Ti",
-        "url": "https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn"
+        "name": "Episodes",
+        "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
       },
       "artists": [
         {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+          "name": "Kewin Cosmos",
+          "url": "https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Hablame De Ti",
-      "url": "https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF"
+      "duration_ms": 217222,
+      "name": "Solo Quise Quererte",
+      "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Perdon",
-        "url": "https://open.spotify.com/album/3ExPJyqjXscTQvzo0UC96u"
-      },
-      "artists": [
-        {
-          "name": "Ronny Dae",
-          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Perdon",
-      "url": "https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Religi\u00f3n",
         "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 207200,
       "name": "HASTA QUE LA MUERTE NOS SEPARE",
       "url": "https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
+        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
-        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
+        "name": "Perdon",
+        "url": "https://open.spotify.com/album/3ExPJyqjXscTQvzo0UC96u"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Ronny Dae",
+          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
         }
       ],
-      "duration_ms": 257186,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH"
+      "duration_ms": 193333,
+      "name": "Perdon",
+      "url": "https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I"
     },
     {
       "added_at": "2023-12-08 05:00:00",

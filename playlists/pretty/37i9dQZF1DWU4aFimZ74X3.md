@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,283 likes - 33 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,386 likes - 33 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 32 | [SPACE BOY \- feat\. MOTSU](https://open.spotify.com/track/7mogXiwfyDlSp5pyO31zfR) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [SPACE BOY \(feat\. MOTSU\)](https://open.spotify.com/album/09DSKsiXa71yFjxKk5jfGs) | 4:23 |
 | 33 | [DEJA VU \- Yuta Imai Remix](https://open.spotify.com/track/7xGdck3GbTSk7b3uSFQ91w) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT), [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [DEJA VU \(Yuta Imai Remix\)](https://open.spotify.com/album/24aoHrgiGdSC6JSwxR55rM) | 3:02 |
 
-Snapshot ID: `MCwxODQwYjE5N2NlOTQ4MjgwNjRlMTZkN2QwMjU3OTViODQxOWYyZDJj`
+Snapshot ID: `MCwyYjlkZDlmYmQ0YzE5MGYzNDQzY2IyOWU1YmQwNjBlNmZlNDA4Zjgw`

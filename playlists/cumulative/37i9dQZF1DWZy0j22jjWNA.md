@@ -4,7 +4,7 @@
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-101 songs - 6 hr 41 min
+102 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Kin](https://open.spotify.com/track/3OS94uf2LuFdmf4pShTFpc) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/3UIUny1GT2hwrj7mn0MdHi) | 3:24 | 2020-09-04 | 2022-07-28 |
 | [Lie](https://open.spotify.com/track/6QcrReLyoun4xrPVsZ5OJE) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Lie](https://open.spotify.com/album/4v1f4kZMvCpwCSwkxC82ia) | 3:35 | 2020-09-04 | 2022-07-27 |
 | [Lie](https://open.spotify.com/track/3O1uhWkr42NesFnVloLq2a) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:35 | 2020-09-04 | 2023-12-06 |
+| [Lie](https://open.spotify.com/track/6Nqzq8LbkpcnykQ7i59Yqq) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Souls](https://open.spotify.com/album/6h8evmiksmB6ZAXzg2ebQR) | 3:35 | 2020-09-04 |  |
 | [Like Myself](https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Like Myself](https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv) | 2:28 | 2020-09-04 |  |
 | [Losing the Lonely](https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Versions](https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa) | 3:51 | 2020-09-04 |  |
 | [Memorized](https://open.spotify.com/track/38LC7jHjifqs5EnYUv4BgG) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [CRAZYTALK](https://open.spotify.com/album/1VYbFOGfg6BE3rn1LTMTny) | 3:26 | 2020-09-04 |  |
@@ -86,7 +87,7 @@
 | [Someday Soon](https://open.spotify.com/track/5xv9Shs68bVmUd9tiJSK8r) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 4:23 | 2020-09-04 |  |
 | [Spark My Heart](https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA) | [Aaron Strumpel](https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg) | [Mighty Refuge](https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt) | 5:23 | 2020-09-04 |  |
 | [Starts With You And Me](https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma) | [Nathan Sheridan](https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm) | [Broken With You](https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7) | 2:58 | 2020-09-04 |  |
-| [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 | 2020-09-04 |  |
+| [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 | 2020-09-04 | 2023-12-10 |
 | [Stella](https://open.spotify.com/track/0xMap5BgUlVMGJLa1d7x5P) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Happier Than Me](https://open.spotify.com/album/37Zn2PTvO7PWLyI9oAAghf) | 2:52 | 2020-09-04 |  |
 | [Stella](https://open.spotify.com/track/32yiDCLJUdqYoaDR46z9gD) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Happier Than Me](https://open.spotify.com/album/6dX3vTD2qIIFVDGB5i8TlI) | 2:52 | 2020-09-04 | 2022-07-29 |
 | [Suffering Servant](https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X) | [Deeper Well](https://open.spotify.com/artist/2PeVKtJXHIrrQmJXD7ju7l), [Wesley Randolph Eader](https://open.spotify.com/artist/5Qn7uUdL2vnUFvdngB2gxN) | [Volume II](https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH) | 5:08 | 2020-09-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0 \ud83d\ude44 ",
-  "num_followers": 2714884,
+  "num_followers": 2715263,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWIwYWY3ZDU0ZmQ3Y2M4ZTIwMTMyYjg0OWNlMjJlOGNhZDJjZjEx",
+  "snapshot_id": "MCxmYTBmMTA5MDVlNTQ2MDQ4ZGQwNzg5ZWYzMDYyNjNmMmI4YWZjZGMx",
   "tracks": [
     {
       "added_at": "2023-12-07 15:17:57",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-12-07 15:17:57",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
-    },
-    {
-      "added_at": "2023-12-07 15:17:57",
-      "album": {
         "name": "While We Wait",
         "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 201787,
       "name": "Nights Like This (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
+    },
+    {
+      "added_at": "2023-12-07 15:17:57",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
       "added_at": "2023-12-07 15:17:57",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-12-07 15:17:57",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 205275,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
+      "duration_ms": 199179,
+      "name": "Whoa",
+      "url": "https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI"
     },
     {
       "added_at": "2023-12-07 15:17:57",
@@ -1083,34 +1083,18 @@
     {
       "added_at": "2023-12-07 15:17:57",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 199179,
-      "name": "Whoa",
-      "url": "https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI"
-    },
-    {
-      "added_at": "2023-12-07 15:17:57",
-      "album": {
-        "name": "Drive Slow",
-        "url": "https://open.spotify.com/album/0qQKOuHPlCPKaNgeOh3ytH"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 314357,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/58dSdjfEYNSxte1aNVxuNf"
+      "duration_ms": 205275,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
     },
     {
       "added_at": "2023-12-07 15:17:57",
@@ -1127,6 +1111,22 @@
       "duration_ms": 172131,
       "name": "Make Me Stay",
       "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+    },
+    {
+      "added_at": "2023-12-07 15:17:57",
+      "album": {
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/0qQKOuHPlCPKaNgeOh3ytH"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 314357,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/58dSdjfEYNSxte1aNVxuNf"
     },
     {
       "added_at": "2023-12-07 15:17:57",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-12-07 15:17:57",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 222095,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/37S1u9dpiGeBO80Lk9msLy"
-    },
-    {
-      "added_at": "2023-12-07 15:17:57",
-      "album": {
         "name": "A Place Like This",
         "url": "https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 300728,
       "name": "Her",
       "url": "https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1"
+    },
+    {
+      "added_at": "2023-12-07 15:17:57",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 222095,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/37S1u9dpiGeBO80Lk9msLy"
     },
     {
       "added_at": "2023-12-07 15:17:57",
@@ -1475,22 +1475,22 @@
     {
       "added_at": "2023-12-07 15:17:57",
       "album": {
-        "name": "Want U Around (feat. Ruel)",
-        "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
+        "name": "This Way (From SUPERFLY - Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3bfmiUsXdErmCz71FjZqnW"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 247720,
-      "name": "Want U Around (feat. Ruel)",
-      "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
+      "duration_ms": 211204,
+      "name": "This Way - From SUPERFLY - Original Soundtrack",
+      "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
     },
     {
       "added_at": "2023-12-07 15:17:57",
@@ -1511,22 +1511,22 @@
     {
       "added_at": "2023-12-07 15:17:57",
       "album": {
-        "name": "This Way (From SUPERFLY - Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3bfmiUsXdErmCz71FjZqnW"
+        "name": "Want U Around (feat. Ruel)",
+        "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 211204,
-      "name": "This Way - From SUPERFLY - Original Soundtrack",
-      "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
+      "duration_ms": 247720,
+      "name": "Want U Around (feat. Ruel)",
+      "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
     },
     {
       "added_at": "2023-12-07 15:17:57",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2023-12-07 15:17:57",
       "album": {
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "emil",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        }
+      ],
+      "duration_ms": 181290,
+      "name": "Gave You My All",
+      "url": "https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX"
+    },
+    {
+      "added_at": "2023-12-07 15:17:57",
+      "album": {
         "name": "Chilombo (Deluxe)",
         "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
@@ -1731,26 +1751,6 @@
       "duration_ms": 196000,
       "name": "Summer 2020",
       "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
-    },
-    {
-      "added_at": "2023-12-07 15:17:57",
-      "album": {
-        "name": "Wake Up Love",
-        "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Iman.",
-          "url": "https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC"
-        }
-      ],
-      "duration_ms": 215329,
-      "name": "Wake Up Love",
-      "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
     }
   ],
   "unique_name": "All The Feels",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 21859,
+  "num_followers": 21877,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTY4MDRkNjZlYzcxNTRkYTdjMjY5YjUwYTUzYjAzNTM2NmE3ZTMx",
+  "snapshot_id": "MCw5NjViZDIyZjdhYWI4MWJmYjRkZjMxOTlhMmI4MmNjMzg3MGRhZjFl",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -219,22 +219,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 4",
-        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
-        }
-      ],
-      "duration_ms": 268226,
-      "name": "El Amor de una Rosa",
-      "url": "https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Puro \u00c9xitos: Las Chicas Rolands",
         "url": "https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 203160,
       "name": "Pai",
       "url": "https://open.spotify.com/track/4o4I53Z5NypMoz5MTsY3Ij"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 4",
+        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "duration_ms": 268226,
+      "name": "El Amor de una Rosa",
+      "url": "https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -367,18 +367,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Encarguitos Del Caribe",
-        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+        "name": "Batalla de las Puntas, Vol. 8",
+        "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
       },
       "artists": [
         {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
         }
       ],
-      "duration_ms": 223973,
-      "name": "El Encarguito",
-      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
+      "duration_ms": 325668,
+      "name": "Kazzabe Si Sabe",
+      "url": "https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -399,18 +399,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 8",
-        "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
       },
       "artists": [
         {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
         }
       ],
-      "duration_ms": 325668,
-      "name": "Kazzabe Si Sabe",
-      "url": "https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA"
+      "duration_ms": 223973,
+      "name": "El Encarguito",
+      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -531,18 +531,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Pobre Marinero",
-        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
+        "name": "Tik Tok Punta",
+        "url": "https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y"
       },
       "artists": [
         {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+          "name": "El Profeta Hn",
+          "url": "https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU"
         }
       ],
-      "duration_ms": 219173,
-      "name": "En Mi Pais",
-      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
+      "duration_ms": 243539,
+      "name": "Tik Tok Punta",
+      "url": "https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -583,18 +583,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Tik Tok Punta",
-        "url": "https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y"
+        "name": "Pobre Marinero",
+        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
       },
       "artists": [
         {
-          "name": "El Profeta Hn",
-          "url": "https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU"
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
         }
       ],
-      "duration_ms": 243539,
-      "name": "Tik Tok Punta",
-      "url": "https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg"
+      "duration_ms": 219173,
+      "name": "En Mi Pais",
+      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -647,18 +647,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Encarguitos Del Caribe",
-        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
       },
       "artists": [
         {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
         }
       ],
-      "duration_ms": 308920,
-      "name": "Pobre Marinero",
-      "url": "https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml"
+      "duration_ms": 256116,
+      "name": "Por la Playa",
+      "url": "https://open.spotify.com/track/56NlIztGmrboS6icu0s8us"
     }
   ],
   "unique_name": "Punta",

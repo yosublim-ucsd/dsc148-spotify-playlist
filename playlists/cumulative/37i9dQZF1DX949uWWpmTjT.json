@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "A Note's Journey",
+        "url": "https://open.spotify.com/album/7DsmLchOkUIMsesLaVWkWn"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Lewis",
+          "url": "https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228139,
+      "name": "A Note's Journey",
+      "url": "https://open.spotify.com/track/4I6QjfPQz1InbbIOIbw1jz"
+    },
+    {
+      "album": {
         "name": "A persuasive argument",
         "url": "https://open.spotify.com/album/3OAJII4iToETQ0SPLK8b9z"
       },
@@ -2823,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/0VB2e5tcXGwJDetWSbOS7D"
+      },
+      "artists": [
+        {
+          "name": "Archie Taylor",
+          "url": "https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220768,
+      "name": "Connections",
+      "url": "https://open.spotify.com/track/2ogKZchAqOWwZtTiRvWfNK"
+    },
+    {
+      "album": {
         "name": "Cool Breeze",
         "url": "https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa"
       },
@@ -2856,6 +2892,24 @@
       "duration_ms": 254676,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg"
+    },
+    {
+      "album": {
+        "name": "Country house",
+        "url": "https://open.spotify.com/album/2Ukym7x4DKIMAXCHVLqkfU"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Country house",
+      "url": "https://open.spotify.com/track/3UZL035zZvEx7DbZbwB1ti"
     },
     {
       "album": {
@@ -3040,7 +3094,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 231905,
       "name": "Dearly Beloved",
       "url": "https://open.spotify.com/track/5tJjgkORBtJ68L2ZSXHhcK"
@@ -3716,7 +3770,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 291249,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/4Z6xJXw4ngOM13jVeHEjpF"
@@ -5336,7 +5390,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 260426,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/7LjWZnunqDMzdQrWuc3nXJ"
@@ -6590,7 +6644,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 173081,
       "name": "In the Distance",
       "url": "https://open.spotify.com/track/68ycONiuTtYjbnc7fGoPWX"
@@ -6764,6 +6818,24 @@
       "duration_ms": 171396,
       "name": "In Unforgettable Ways",
       "url": "https://open.spotify.com/track/5tt5XCZlIpHyrdMNNRm721"
+    },
+    {
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49"
+      },
+      "artists": [
+        {
+          "name": "Emily Green Trio",
+          "url": "https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213837,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI"
     },
     {
       "album": {
@@ -7619,6 +7691,24 @@
     },
     {
       "album": {
+        "name": "Later And Later",
+        "url": "https://open.spotify.com/album/1jfvvjvxU4HCh2UCTAt7i8"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Mar\u00e9e",
+          "url": "https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408022,
+      "name": "Later And Later",
+      "url": "https://open.spotify.com/track/2odZfZZd36vPy5nfuaLCmw"
+    },
+    {
+      "album": {
         "name": "Le jardin de l'espoir",
         "url": "https://open.spotify.com/album/2zrDkiN2AW9emd4IBDRCkv"
       },
@@ -7728,6 +7818,24 @@
       "duration_ms": 232521,
       "name": "Lesters's Tears",
       "url": "https://open.spotify.com/track/4h4NyGcAmkInin8wNidCfS"
+    },
+    {
+      "album": {
+        "name": "Let's Fall In Love",
+        "url": "https://open.spotify.com/album/7G0rXg3K3k85sqOLOeBokT"
+      },
+      "artists": [
+        {
+          "name": "Grace Carey",
+          "url": "https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170952,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/23DcHmLNaFGDZgwvDGFZAr"
     },
     {
       "album": {
@@ -8426,7 +8534,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 216335,
       "name": "Mellow Land",
       "url": "https://open.spotify.com/track/4wNAfrYmUeY4ZDapjxYGiZ"
@@ -8498,7 +8606,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 327129,
       "name": "Memories of Yesterday",
       "url": "https://open.spotify.com/track/6Ccr8bF355Uab89QUH1OPY"
@@ -8592,6 +8700,42 @@
       "duration_ms": 179661,
       "name": "Midnight Moods",
       "url": "https://open.spotify.com/track/4nTbbttvaqWAuqs78RjFnd"
+    },
+    {
+      "album": {
+        "name": "Midnight Passion",
+        "url": "https://open.spotify.com/album/0vt5ejd6J0VlbhW41zN84q"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149302,
+      "name": "Midnight Passion",
+      "url": "https://open.spotify.com/track/3P62YgTZIrJR5RMKXFNMMr"
+    },
+    {
+      "album": {
+        "name": "Midnight Reverie",
+        "url": "https://open.spotify.com/album/1axg5vCMgiF7T7US2mv3Oc"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Fischer",
+          "url": "https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228837,
+      "name": "Midnight Reverie",
+      "url": "https://open.spotify.com/track/7tkPArhLCX4cDHkZMalG41"
     },
     {
       "album": {
@@ -9310,7 +9454,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 206338,
       "name": "My Perennial Companion",
       "url": "https://open.spotify.com/track/1dWOpasvS3pVvnpEqPYVSh"
@@ -10248,7 +10392,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 434482,
       "name": "Options",
       "url": "https://open.spotify.com/track/396vpTJUDMOf5za7ModOsD"
@@ -10507,6 +10651,24 @@
     },
     {
       "album": {
+        "name": "Peeping into past",
+        "url": "https://open.spotify.com/album/5XAw5jXoklGDVzJ9G9DiCH"
+      },
+      "artists": [
+        {
+          "name": "Manor Blue",
+          "url": "https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205349,
+      "name": "Peeping into past",
+      "url": "https://open.spotify.com/track/4hRxtDqEEfuj2gHVWNBx9k"
+    },
+    {
+      "album": {
         "name": "Platinum Goose",
         "url": "https://open.spotify.com/album/2yugNDUqoylzXH3T5FBggD"
       },
@@ -10736,7 +10898,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 212440,
       "name": "Purple Shades",
       "url": "https://open.spotify.com/track/4cvRXIv9hBLFPWwGDpyfTm"
@@ -10754,7 +10916,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 210543,
       "name": "Put on the Badge",
       "url": "https://open.spotify.com/track/2jYoYfXjP26mON92ffXYrH"
@@ -11662,7 +11824,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 218566,
       "name": "Snow in the Night",
       "url": "https://open.spotify.com/track/5pkV89tLr5KvFchu3jsEyS"
@@ -12034,7 +12196,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 445693,
       "name": "Sonny Side",
       "url": "https://open.spotify.com/track/3845TYxfJm5POl4ipU6mBO"
@@ -12568,7 +12730,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 199705,
       "name": "Strollin\u2019 the Strip",
       "url": "https://open.spotify.com/track/40OgFIg9mzoxa8xBuXJVq3"
@@ -12796,6 +12958,24 @@
       "duration_ms": 204751,
       "name": "Take me to Liverpool",
       "url": "https://open.spotify.com/track/5Df2sfwDdTC266NFO3qfa0"
+    },
+    {
+      "album": {
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/5qve7y23g4aLXc7ePaJPAN"
+      },
+      "artists": [
+        {
+          "name": "Thames Quartet",
+          "url": "https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278285,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/0hCcbt1WPlwjS5giGx8UaK"
     },
     {
       "album": {
@@ -13225,6 +13405,24 @@
     },
     {
       "album": {
+        "name": "The Foolish Heart",
+        "url": "https://open.spotify.com/album/7BuobZ0EqYrV7XKEMqFctt"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183488,
+      "name": "The Foolish Heart",
+      "url": "https://open.spotify.com/track/1tNLxWFOh4XBS2xnyVyaCQ"
+    },
+    {
+      "album": {
         "name": "The heat she gives",
         "url": "https://open.spotify.com/album/3WYVEv0vyp2eDYUgZr5bUz"
       },
@@ -13254,7 +13452,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 173042,
       "name": "The Itsy Bitsy Spider",
       "url": "https://open.spotify.com/track/7vUTrdcsrbu8SrA8NYorom"
@@ -13980,7 +14178,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 324280,
       "name": "Throughout",
       "url": "https://open.spotify.com/track/3CzfCEu7xH7dDDD1MreOz0"
@@ -14585,6 +14783,24 @@
     },
     {
       "album": {
+        "name": "Was It Me?",
+        "url": "https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv"
+      },
+      "artists": [
+        {
+          "name": "Al Fowler Trio",
+          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261777,
+      "name": "Was It Me?",
+      "url": "https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q"
+    },
+    {
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc"
       },
@@ -14866,7 +15082,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 196847,
       "name": "What's New?",
       "url": "https://open.spotify.com/track/7KmKUlRhyWzLX8bV1giS9T"
@@ -15040,6 +15256,24 @@
       "duration_ms": 321855,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/0oXrVmcJVCd7043iyHmmUI"
+    },
+    {
+      "album": {
+        "name": "When You're Not Around Me",
+        "url": "https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL"
+      },
+      "artists": [
+        {
+          "name": "Stewart Park Quartet",
+          "url": "https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225398,
+      "name": "When You're Not Around Me",
+      "url": "https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg"
     },
     {
       "album": {
@@ -15303,6 +15537,24 @@
     },
     {
       "album": {
+        "name": "Wind Dancer",
+        "url": "https://open.spotify.com/album/32FSarmIZSQXG34jvKX324"
+      },
+      "artists": [
+        {
+          "name": "Dreamland",
+          "url": "https://open.spotify.com/artist/5WXDXyGmpfLSUlaRXueUYj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Wind Dancer",
+      "url": "https://open.spotify.com/track/32wWxPaGYRbkHHLI3bqoYz"
+    },
+    {
+      "album": {
         "name": "Windless Waters",
         "url": "https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc"
       },
@@ -15502,6 +15754,24 @@
       "duration_ms": 198165,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/3rGH9xLvAP2R6445FaLVs8"
+    },
+    {
+      "album": {
+        "name": "You bet!",
+        "url": "https://open.spotify.com/album/3LtckKyDK6gOe3dTgVLpq6"
+      },
+      "artists": [
+        {
+          "name": "Kendrettes",
+          "url": "https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "You bet!",
+      "url": "https://open.spotify.com/track/79tPOqXrPFr2JDCunwgCt7"
     },
     {
       "album": {
@@ -15878,6 +16148,24 @@
       "duration_ms": 279557,
       "name": "Young At Heart",
       "url": "https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz"
+    },
+    {
+      "album": {
+        "name": "Your Goodbye",
+        "url": "https://open.spotify.com/album/6ua5uLyEVWOz4e23b7TduX"
+      },
+      "artists": [
+        {
+          "name": "Sand Quartet",
+          "url": "https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220754,
+      "name": "Your Goodbye",
+      "url": "https://open.spotify.com/track/23O9t0qs6YkUFIiRmxAXAV"
     },
     {
       "album": {

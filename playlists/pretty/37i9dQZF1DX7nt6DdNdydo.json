@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 46677,
+  "num_followers": 46689,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjE5MmQ3YjYxZWFjMWI2MjM0YjEyMTQ2NmVkYjhiMWU3M2M3Y2Qz",
+  "snapshot_id": "MCw5NzdlOGEzY2U5NDU1OGI5YWQxYmM3NGVjZjE5NDgwZjNiYWYzYWJm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The EP Collection",
-        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
-      },
-      "artists": [
-        {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
-        }
-      ],
-      "duration_ms": 114813,
-      "name": "Bradshaw Boogie",
-      "url": "https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Presenting Helen Humes",
         "url": "https://open.spotify.com/album/7dU3bNHJgHR1YHcUi5NgAl"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 136546,
       "name": "Real Fine Daddy",
       "url": "https://open.spotify.com/track/6ZFkzS4x0VBL4VwthOydrU"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The EP Collection",
+        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
+      },
+      "artists": [
+        {
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+        }
+      ],
+      "duration_ms": 114813,
+      "name": "Bradshaw Boogie",
+      "url": "https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "duration_ms": 112866,
+      "name": "Good Golly",
+      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Louis Jordan & His Tympany Five: Choo Choo Ch'Boogie",
         "url": "https://open.spotify.com/album/2hB3069gKT6EDEbPNAIjLl"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 185346,
       "name": "Ain't Nobody Here but Us Chickens",
       "url": "https://open.spotify.com/track/22xTN0k7TtBkAjUP3VAW2d"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
-      },
-      "artists": [
-        {
-          "name": "Johnny Otis",
-          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
-        }
-      ],
-      "duration_ms": 112866,
-      "name": "Good Golly",
-      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Travelin' Blues",
-        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
-      },
-      "artists": [
-        {
-          "name": "Roy Brown",
-          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
-        }
-      ],
-      "duration_ms": 117040,
-      "name": "Let the Four Winds Blow",
-      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Come on and Have Your Fun",
         "url": "https://open.spotify.com/album/56kya17Zle3APMlEAXgkYL"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 119386,
       "name": "The Flirt",
       "url": "https://open.spotify.com/track/57ReV13secms86t42AdOWq"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Travelin' Blues",
+        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
+      },
+      "artists": [
+        {
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
+        }
+      ],
+      "duration_ms": 117040,
+      "name": "Let the Four Winds Blow",
+      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
     },
     {
       "added_at": "2022-03-28 19:44:25",

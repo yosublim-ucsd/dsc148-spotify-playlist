@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > The top 100 tracks from Fresh Finds Rock in 2023\. Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,721 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,814 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 23 | [Give Me A Bite](https://open.spotify.com/track/0K6VAdBdFQa2wDOhGV4qj2) | [C.O.F.F.I.N](https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3) | [Give Me A Bite](https://open.spotify.com/album/6Lx2ZHOfqm0U2EdhaMseAM) | 4:16 |
 | 24 | [Vacant](https://open.spotify.com/track/2Rm5HFAH6wT1UoQCAGLwKU) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Limousine](https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh) | 2:41 |
 | 25 | [Rather B Dead](https://open.spotify.com/track/0BvwY3gLswQKxK3yvgWpw2) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Time Is Elastic](https://open.spotify.com/album/0ccmoGBiZzB3B81rUC7zpH) | 3:01 |
-| 26 | [Fender](https://open.spotify.com/track/0AT37Z1kNhJPUyeuwJqEHi) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Fender](https://open.spotify.com/album/0NIl6PMP9VgfbMW0w61f0s) | 3:42 |
+| 26 | [Fender](https://open.spotify.com/track/1NVlVEjpKjxXcYfr2Q0jAh) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Fender](https://open.spotify.com/album/5lq765diULw2jxMRIC5wCj) | 3:42 |
 | 27 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
 | 28 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 |
 | 29 | [Glimpse](https://open.spotify.com/track/6YEebDuJ0GlcM1RWw4WngF) | [Night Cap](https://open.spotify.com/artist/0d4OObbLXdSSO2suAeC4jk) | [Glimpse](https://open.spotify.com/album/0eHLhNSkvw729TQAfbd2lq) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Something In The Water](https://open.spotify.com/track/4pqpN4f0Xc3pohLirRpOmW) | [Cut Your Losses](https://open.spotify.com/artist/5W1LmT1urRaRm1Ogmnzfy5) | [Reflections of Ghosts](https://open.spotify.com/album/1IQzAFfPXDlfLRItASyrj0) | 4:01 |
 | 100 | [Lucky You](https://open.spotify.com/track/5dourGbYNsSbm3V3KTzHMK) | [Joiner](https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d) | [Lucky You](https://open.spotify.com/album/0fBqr043kzBtPLdorWFQNt) | 2:44 |
 
-Snapshot ID: `MCwyZWZhMGE4MDMzNmZhMjgzZDM4ZjBiY2VjOWIwMDU1ZjNjYzhjYWIy`
+Snapshot ID: `MCw5MTRiNGQyYWYzYzRkYWI5NDRiMDAzZDI5NzZmNzJiODAxOWQ2NzEw`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: The Rolling Stones
+> Only the best rock in the world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,884 likes - 66 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,966 likes - 66 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 65 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 |
 | 66 | [\):阿修羅:\(](https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:31 |
 
-Snapshot ID: `MCw4MDRlNGE3ZjdkMDM0MTdjZDIyY2YxZTc0YjAzZDUxNTk5YjQ5OTM1`
+Snapshot ID: `MCw5MTY2OWJiNGFjMzcwNGQ1NjJkYjk1YWY0NzZiMTc3ZGM1ZDZjN2E2`

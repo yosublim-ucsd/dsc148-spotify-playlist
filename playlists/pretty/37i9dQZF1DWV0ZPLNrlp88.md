@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,883 likes - 30 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,878 likes - 30 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 13 | [乱痴気](https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [乱痴気](https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3) | 3:41 |
 | 14 | [Question](https://open.spotify.com/track/4ueD865i4d25gzz3UoDSus) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Question](https://open.spotify.com/album/3ianuamQ5HkgsPLaFGB4H6) | 2:51 |
 | 15 | [SUPER IDOL](https://open.spotify.com/track/5Vm7eVa9fhWNAQGm5qEA6n) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [SUPER IDOL](https://open.spotify.com/album/0xlTjduEBwXJhN1roxto5H) | 3:15 |
-| 16 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 |
+| 16 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 |
 | 17 | [2](https://open.spotify.com/track/4a0ymV6qbBo45SYVtAg3Qo) | [kyompe](https://open.spotify.com/artist/6lEeiCSDFnUQVPtjPzM6Fz) | [2](https://open.spotify.com/album/34uO7w5Kl3zKaC7lRzTK6A) | 3:21 |
 | 18 | [Kind of](https://open.spotify.com/track/40HlZlt8wxkIhd9sMFJ68I) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Kind of](https://open.spotify.com/album/27tShaiDUhC6KeszVy0PSZ) | 3:04 |
 | 19 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 29 | [夢と悪魔とファンタジー](https://open.spotify.com/track/4e4FVy70OnvQZ9lXbwPhCB) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって](https://open.spotify.com/album/55lTYZYG9JnlBg9NSHEgma) | 4:29 |
 | 30 | [ヤマネ](https://open.spotify.com/track/1rOeAbMixBf1cALHZH6k6C) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [ヤマネ](https://open.spotify.com/album/37YAzLaSYo8TxAJ90WmELH) | 3:35 |
 
-Snapshot ID: `MCw4MTRhYWE0YmIxMjZmYTc5YmFmYmFlM2IwYjk2YjJkYWU1ZTk4ZTY5`
+Snapshot ID: `MCxkMWQzMzQ3MzI5NTUxMzIxYzdkOWU0Yjc3NWMyMmFkY2E4NDg2YzQy`

@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-365 songs - 23 hr 5 min
+366 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [El Día Que Me Quieras](https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 4:01 | 2022-06-02 |  |
 | [El Gato Que Está Triste y Azul \- Un Gato Nel Blu](https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [El Arte De Roberto Carlos](https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC) | 3:52 | 2022-01-01 | 2022-07-29 |
 | [El Hombre Que Yo Amo](https://open.spotify.com/track/4NmCycJdUGK0q5kBMXjDOY) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Yo Sé Que Te Acordarás Pop Latino \(Vol\. 2\)](https://open.spotify.com/album/49xdM2Df9KmzztftNI3t4v) | 3:32 | 2022-01-01 | 2022-07-29 |
-| [El Hombre Que Yo Amo](https://open.spotify.com/track/5OtonpNWhoAw9z3wRwM2TC) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Todo Lo Mio](https://open.spotify.com/album/1mNEGTs66AF3EPnXcFTOzb) | 3:33 | 2022-08-31 |  |
+| [El Hombre Que Yo Amo](https://open.spotify.com/track/5OtonpNWhoAw9z3wRwM2TC) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Todo Lo Mio](https://open.spotify.com/album/1mNEGTs66AF3EPnXcFTOzb) | 3:33 | 2022-08-31 | 2023-12-10 |
 | [El Me Mintio](https://open.spotify.com/track/67bbc4lUkhTtDrcu5gv1uN) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol I](https://open.spotify.com/album/1NKOp3Ct4RzmSGIApAKkS6) | 3:39 | 2022-01-01 | 2022-07-29 |
 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 | 2022-06-02 |  |
 | [El Noa Noa](https://open.spotify.com/track/5CgG9QML3GDyMss6bAMjY1) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Los 15 Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/6bcTRuDsKIe58Z0aYIUyNi) | 4:19 | 2022-01-01 | 2022-07-29 |
@@ -320,6 +320,7 @@
 | [Sombras \- Versión Trío](https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Exitos Con Trio](https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD) | 3:27 | 2022-01-01 | 2023-03-12 |
 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 | 2022-01-01 |  |
 | [Sé Como Duele](https://open.spotify.com/track/3d3tM44AOGsluNFGvpaFPu) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/1MgKIFUKgK88AuDHxccsl9) | 3:13 | 2022-01-01 | 2022-07-29 |
+| [Sé Cómo Duele](https://open.spotify.com/track/1723G9MmbFUTH8yai7AaWL) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2EeG6eYEpdAovdBFioA4C3) | 3:13 | 2023-01-12 |  |
 | [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 | 2022-08-31 | 2022-11-13 |
 | [Súbete a Mi Moto](https://open.spotify.com/track/1CNUozOLzsqVQxrct155hY) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Coleccion Original](https://open.spotify.com/album/2ysuZe6xyKlpVzuNKAJUuL) | 3:31 | 2022-08-31 | 2022-11-13 |
 | [Te Amaré](https://open.spotify.com/track/1GE253J05v6oCUmuav7zq2) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Esencial Miguel Bose](https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK) | 3:30 | 2022-01-01 | 2022-07-29 |

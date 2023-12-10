@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: FLETCHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,492 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,539 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 35 | [Personal](https://open.spotify.com/track/1n6wVsDU6A4wWx5EMXfdn3) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Personal](https://open.spotify.com/album/6jtiqMXyXnV0v03r0wLE1e) | 3:25 |
 | 36 | [IT IS WHAT IT IS](https://open.spotify.com/track/54rkDSLIa8TbUi7yZOoD33) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [IT IS WHAT IT IS](https://open.spotify.com/album/0VhIZyBKoUgJKNrICNsCFf) | 1:54 |
 | 37 | [july](https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century: the epilogue](https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11) | 2:45 |
-| 38 | [Good to Know](https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii) | 2:42 |
+| 38 | [Good to Know](https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 2:42 |
 | 39 | [White Glove](https://open.spotify.com/track/6NIlYycjhvtKGKtiABymF3) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:30 |
 | 40 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 | 41 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 89 | [Liquor Over U](https://open.spotify.com/track/2zWBxcWYX32fXgmzaksA6j) | [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [Tia Tia](https://open.spotify.com/album/2olewYGi4Q7EqYdgkL2qrb) | 2:54 |
 | 90 | [Cheerleaders and Jocks](https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Cheerleaders and Jocks](https://open.spotify.com/album/0x1qVcEYZiyq36Ps01Til8) | 3:47 |
 
-Snapshot ID: `MCxjMjM4MDI3NmNjMWNmYTFmNDk5OTJmM2QzZGM1ZGZkNTIxZDBlYTE1`
+Snapshot ID: `MCw4MDI1NzQwOTVhODY0OTE0MjgyODE5YjFlMDBhMzJmY2YyMzZlNDU2`

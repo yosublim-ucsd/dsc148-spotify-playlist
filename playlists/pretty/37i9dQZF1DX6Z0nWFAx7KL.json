@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47007,
+  "num_followers": 47027,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGJlNjkzMDY4YmM0ZGVlZmY5MmNhNjgzYWFlZTE0YjMzZDE0ZmRi",
+  "snapshot_id": "MCxlNTMwOTEyODU4OTA5ZjQ1ZTg2MjEzOTQyNDliNjQxMDg0NGZjZWJm",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Hold This Memory",
         "url": "https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG"
       },
@@ -43,62 +59,6 @@
       "duration_ms": 160071,
       "name": "Hold This Memory",
       "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "King",
-      "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Body on Fire",
-        "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 159180,
-      "name": "Body on Fire",
-      "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Morning Glory",
-        "url": "https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR"
-      },
-      "artists": [
-        {
-          "name": "Mondingo",
-          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
-        },
-        {
-          "name": "Monoko",
-          "url": "https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI"
-        }
-      ],
-      "duration_ms": 269679,
-      "name": "Morning Glory",
-      "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -127,6 +87,46 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Morning Glory",
+        "url": "https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR"
+      },
+      "artists": [
+        {
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        },
+        {
+          "name": "Monoko",
+          "url": "https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI"
+        }
+      ],
+      "duration_ms": 269679,
+      "name": "Morning Glory",
+      "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Body on Fire",
+        "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 159180,
+      "name": "Body on Fire",
+      "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Kick Up The Dust EP",
         "url": "https://open.spotify.com/album/41Vibdx0FTBi12fK4nMsFl"
       },
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "King",
+      "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 144375,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        }
-      ],
-      "duration_ms": 175169,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Found It With You",
         "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 163410,
       "name": "Found It With You",
       "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
+      },
+      "artists": [
+        {
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+        }
+      ],
+      "duration_ms": 175169,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -515,18 +515,30 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
+        "name": "Sweet Harmony",
+        "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
       },
       "artists": [
         {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Dario Trapani",
+          "url": "https://open.spotify.com/artist/3Hr5KIqDswsyQtOoDyJTmM"
+        },
+        {
+          "name": "Ivan Cappello",
+          "url": "https://open.spotify.com/artist/7feK9L4NzDWTVvUlG6rZgR"
+        },
+        {
+          "name": "Sh3",
+          "url": "https://open.spotify.com/artist/5OwncnHbQGwU9RtHWvsFvW"
         }
       ],
-      "duration_ms": 162833,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
+      "duration_ms": 162310,
+      "name": "Sweet Harmony",
+      "url": "https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -555,30 +567,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Sweet Harmony",
-        "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
       },
       "artists": [
         {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Dario Trapani",
-          "url": "https://open.spotify.com/artist/3Hr5KIqDswsyQtOoDyJTmM"
-        },
-        {
-          "name": "Ivan Cappello",
-          "url": "https://open.spotify.com/artist/7feK9L4NzDWTVvUlG6rZgR"
-        },
-        {
-          "name": "Sh3",
-          "url": "https://open.spotify.com/artist/5OwncnHbQGwU9RtHWvsFvW"
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
         }
       ],
-      "duration_ms": 162310,
-      "name": "Sweet Harmony",
-      "url": "https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV"
+      "duration_ms": 162833,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -707,6 +707,26 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Botanica",
         "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 132927,
       "name": "I Blame You",
       "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Juno Love",
         "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 446585,
       "name": "Juno Love",
       "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Ready For Your Love",
+        "url": "https://open.spotify.com/album/7bvIM3qgpX7b252SMdiGpz"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Raphael DeLove",
+          "url": "https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "Ready For Your Love",
+      "url": "https://open.spotify.com/track/2KNGqTAuFjtHnOwMHM2pSW"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 164516,
       "name": "Drift",
       "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Ready For Your Love",
-        "url": "https://open.spotify.com/album/7bvIM3qgpX7b252SMdiGpz"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Raphael DeLove",
-          "url": "https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "Ready For Your Love",
-      "url": "https://open.spotify.com/track/2KNGqTAuFjtHnOwMHM2pSW"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Oasis de Gafsa",
-        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Oasis de Gafsa",
-      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Scent of Wood (Bound to Divide Remix)",
         "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 241061,
       "name": "See You On The Other Side",
       "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Oasis de Gafsa",
+        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Oasis de Gafsa",
+      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
       },
       "artists": [
         {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+          "name": "Fredrik Ferrier",
+          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+        },
+        {
+          "name": "Electric Pineapple",
+          "url": "https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
+      "duration_ms": 174893,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1467,18 +1471,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
       },
       "artists": [
         {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
         }
       ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1503,22 +1507,38 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
       },
       "artists": [
         {
-          "name": "Fredrik Ferrier",
-          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
-        },
-        {
-          "name": "Electric Pineapple",
-          "url": "https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK"
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "A Radiant Sign",
+        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 232917,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1543,22 +1563,6 @@
       "duration_ms": 158600,
       "name": "One Last Call",
       "url": "https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
-      },
-      "artists": [
-        {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     }
   ],
   "unique_name": "Dance Chill",

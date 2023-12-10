@@ -524,10 +524,32 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 186000,
       "name": "Don't Be Alarmed",
       "url": "https://open.spotify.com/track/1zrqLcivY5ebUECrD36OLb"
+    },
+    {
+      "album": {
+        "name": "Don't Be Alarmed (with Bipolar Sunshine)",
+        "url": "https://open.spotify.com/album/64vcCD8R34tDPs7SzZdzHg"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Don't Be Alarmed (with Bipolar Sunshine)",
+      "url": "https://open.spotify.com/track/5oDOsRwFxEVd5sJlBpa2YG"
     },
     {
       "album": {

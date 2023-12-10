@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Marc Anthony",
-  "num_followers": 507621,
+  "num_followers": 508195,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmIzNTM5YjE0NGRlMDg4OGMwZGUyNzdlMWJmYWNlMDczMTZkZmQx",
+  "snapshot_id": "MCxkM2EwNTJlNTZlMDIwNTJjOGY4YWU1YmE1ZDAyMzNhMWU3OGZmOTJk",
   "tracks": [
     {
       "added_at": "2023-09-26 23:46:47",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "No Me Olvidaras",
-        "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         }
       ],
-      "duration_ms": 230186,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy"
+      "duration_ms": 325642,
+      "name": "Oiga, Mire, Vea",
+      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
     },
     {
       "added_at": "2023-09-26 23:46:47",
@@ -503,34 +503,34 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+        "name": "No Me Olvidaras",
+        "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
       },
       "artists": [
         {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 325642,
-      "name": "Oiga, Mire, Vea",
-      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
+      "duration_ms": 230186,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy"
     },
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Travesia",
-        "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 266493,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2023-09-26 23:46:47",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
+        "name": "Travesia",
+        "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
+      "duration_ms": 266493,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
     },
     {
       "added_at": "2023-09-26 23:46:47",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Probablemente",
-        "url": "https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 300265,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra"
-    },
-    {
-      "added_at": "2023-09-26 23:46:47",
-      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+    },
+    {
+      "added_at": "2023-09-26 23:46:47",
+      "album": {
+        "name": "Probablemente",
+        "url": "https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 300265,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra"
     },
     {
       "added_at": "2023-09-26 23:46:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EY8JFBuaLS.md) - [plain]
 
 > Trap y electrónica instrumental para enfoque.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,075 likes - 159 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,081 likes - 159 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EY8JFBuaLS.md) - [plain]
 | 158 | [Powerwalk](https://open.spotify.com/track/2ph6ScN92MMhfJQfRrU1nJ) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Wheel of Life](https://open.spotify.com/album/2SwyzaK73I5ynws5UNyfyg) | 2:56 |
 | 159 | [I Just Wanna Love Ya \(Instrumental Version\)](https://open.spotify.com/track/3MF7bAavjBi6EeUFxRDYN3) | [Sugar Blizz](https://open.spotify.com/artist/0n3Km7H53a4LT9DZo1N1Jo) | [I Just Wanna Love Ya](https://open.spotify.com/album/5yWRMHWIlbKnYm8hcJsVcb) | 3:12 |
 
-Snapshot ID: `MCxmMThjN2EyMzJjNDcxNWE2M2RlNjdlMjBjZmZiMWRjNDVhMWYyYTU1`
+Snapshot ID: `MCxmMmQ3YzdmODU5OTlmOTUyNDQzNDg0YzExNzc2NGFmNTM5MDc5ZDhm`

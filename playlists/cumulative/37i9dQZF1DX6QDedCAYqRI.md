@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-127 songs - 8 hr 6 min
+128 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Rumours](https://open.spotify.com/track/1Gn9E97yfDAORWpqxbfGUX) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [Bad Habits](https://open.spotify.com/album/0uIiZs2JTEUhRLA2YLCK98) | 3:11 | 2021-08-19 | 2022-07-29 |
 | [Run Away](https://open.spotify.com/track/3vtSvKUHdwAynIE3xjwDnZ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [When I Was Young \- EP](https://open.spotify.com/album/67aZECTq3l8kjV7h8EFXCp) | 3:05 | 2021-08-19 |  |
 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 | 2021-08-19 |  |
-| [Sardine Song](https://open.spotify.com/track/6cIKtihxWYkzkJHPQOiun1) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Sardine Song / Spirit Ditch](https://open.spotify.com/album/6GnrVEBefmxllZVtKVswLy) | 3:29 | 2021-08-19 |  |
+| [Sardine Song](https://open.spotify.com/track/4T8OTGiAX20o9cninpcXF7) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Sardine Song / Spirit Ditch](https://open.spotify.com/album/1pEmMnnJr4cQHNsAByIb45) | 3:29 | 2023-05-25 |  |
+| [Sardine Song](https://open.spotify.com/track/6cIKtihxWYkzkJHPQOiun1) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Sardine Song / Spirit Ditch](https://open.spotify.com/album/6GnrVEBefmxllZVtKVswLy) | 3:29 | 2021-08-19 | 2023-12-10 |
 | [Six Feet Under](https://open.spotify.com/track/1h4HSaKCCKVtxxk1Ak62sw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Six Feet Under](https://open.spotify.com/album/3JwLYRyQC7XojyloL2EvGf) | 3:09 | 2021-08-19 | 2022-07-29 |
 | [Six Feet Under](https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Six Feet Under](https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY) | 3:09 | 2022-06-01 |  |
 | [Six Feet Under](https://open.spotify.com/track/37hSLIyZ2YBADdtX0Zr4JS) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Breakup Songs](https://open.spotify.com/album/6ckrkQmWQZhc8dX80L9MGb) | 3:09 | 2022-06-01 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: FLETCHER
 
-4,422 songs - 9 day 3 hr 54 min
+4,423 songs - 9 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1549,7 +1549,8 @@
 | [Good Time](https://open.spotify.com/track/5pmRVQHgD4IoE0Gw7OSt49) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Good Time](https://open.spotify.com/album/0Q6YjIjuNy5Bt37PvxWes4) | 2:44 | 2023-03-17 | 2023-04-01 |
 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 | 2023-06-09 | 2023-07-01 |
 | [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 | 2023-10-20 | 2023-11-11 |
-| [Good to Know](https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii) | 2:42 | 2023-12-01 |  |
+| [Good to Know](https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii) | 2:42 | 2023-12-01 | 2023-12-10 |
+| [Good to Know](https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 2:42 | 2023-12-02 |  |
 | [Good, but not together](https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Good, but not together](https://open.spotify.com/album/7IJq7iIJ0JztktxLcoa0Sn) | 3:03 | 2023-03-03 | 2023-03-18 |
 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 | 2022-05-27 | 2022-06-18 |
 | [Goodbye](https://open.spotify.com/track/3CBcJQ5FLXZyuqM8BUbsgS) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Goodbye](https://open.spotify.com/album/3tvv2XYmaS5Ci3f9CteAOS) | 3:44 | 2022-05-27 | 2022-06-11 |

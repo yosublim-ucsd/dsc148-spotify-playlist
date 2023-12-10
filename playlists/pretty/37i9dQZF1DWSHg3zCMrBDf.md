@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf?si=sjHEoBNESWa5Fxr7isJdNw">King Promise</a> , <a href="https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc?si=\-aB7OKHRRwCXtoE2b7GDmw">Tiwa Savage</a>  and <a href="https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9?si=k04jqI0lSGyhW3WW\_asYmQ">Sean Paul</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,221 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,304 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
 | 50 | [2:30](https://open.spotify.com/track/1n3JvneU8FhfldfTQ8BdZs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:18 |
 
-Snapshot ID: `MCwzNzg1NzJjMTdlZDliNTIwMTQ1YTRiOGJkNGIzZGY5MmNiZTRjZGJj`
+Snapshot ID: `MCw4MjVlZmE4MTI0MWVjMjYwNWFiMjI0OGVmZDdhZDAzZmQ5NzI4MWZl`

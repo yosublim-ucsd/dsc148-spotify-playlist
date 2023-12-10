@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Michael Ray, Kidd G, Meg McRee and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,492 likes - 71 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,630 likes - 71 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 70 | [Stay in Bed](https://open.spotify.com/track/4iwjHOttd1glzNXJTEOSdV) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Stay in Bed](https://open.spotify.com/album/6Rvln9KI4IeotOFYLdasN0) | 2:46 |
 | 71 | [Like It's Your Last](https://open.spotify.com/track/7acQ4alyNqegxDdclnncX4) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Like It's Your Last](https://open.spotify.com/album/3BMgZpyxYTGrYkV6VnqnaS) | 3:15 |
 
-Snapshot ID: `MCw5NmRiODQ5NDdjOWZkZDg0N2M0YTAwZGRkZGM3ZmI5NmUwYmFkMDc3`
+Snapshot ID: `MCwzODllYzEzNzNhMTQ5NjBlYjE4YmExNjAwYjU2MWI3MjRmZjQwNDUz`

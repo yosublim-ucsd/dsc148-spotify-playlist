@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 102736,
+  "num_followers": 102855,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzRlMWYzN2Y2YjhlMWFjNTM3YzgzMmQ2MzE0M2JkZmZlZTg3NzU4",
+  "snapshot_id": "MCxhYmRlYjRhN2RmOTE5ZTNjNjY0NDcwYmE4Y2I5ODFjZTJjZjUyZjQ5",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -567,22 +567,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "El Caballero Del Vallenato",
-        "url": "https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9"
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
       },
       "artists": [
         {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+          "name": "El Gran Mart\u00edn El\u00edas",
+          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
         }
       ],
-      "duration_ms": 247813,
-      "name": "Traga'O De T\u00ed",
-      "url": "https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL"
+      "duration_ms": 315862,
+      "name": "10 Razones Para Amarte",
+      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -639,18 +635,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Con Aroma de Mujer",
-        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
+        "name": "Guerreras Del Amor",
+        "url": "https://open.spotify.com/album/4sbD543Z4mC4tFsaVJIGQ6"
       },
       "artists": [
         {
           "name": "Patricia Teher\u00e1n",
           "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+        },
+        {
+          "name": "Las Musas Del Vallenato",
+          "url": "https://open.spotify.com/artist/51NKeKxApR2v2CKQ5oejIo"
         }
       ],
-      "duration_ms": 289133,
-      "name": "Todo Daria por Ti",
-      "url": "https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2"
+      "duration_ms": 277472,
+      "name": "Me Dejaste Sin Nada",
+      "url": "https://open.spotify.com/track/00Yl6SEMlkvr0mnZGhvvcr"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -671,24 +671,8 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
-      },
-      "artists": [
-        {
-          "name": "El Gran Mart\u00edn El\u00edas",
-          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones Para Amarte",
-      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
+        "name": "El Caballero Del Vallenato",
+        "url": "https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9"
       },
       "artists": [
         {
@@ -696,73 +680,13 @@
           "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
         },
         {
-          "name": "Emiliano Zuleta",
-          "url": "https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5"
-        },
-        {
           "name": "Sergio Luis Rodr\u00edguez",
           "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
         }
       ],
-      "duration_ms": 222200,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Vallenato Fest",
-        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vallenato",
-          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
-        }
-      ],
-      "duration_ms": 316279,
-      "name": "Dime Que Me Quieres",
-      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
-        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 276360,
-      "name": "Cuatro Rosas",
-      "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Guerreras Del Amor",
-        "url": "https://open.spotify.com/album/4sbD543Z4mC4tFsaVJIGQ6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
-        },
-        {
-          "name": "Las Musas Del Vallenato",
-          "url": "https://open.spotify.com/artist/51NKeKxApR2v2CKQ5oejIo"
-        }
-      ],
-      "duration_ms": 277472,
-      "name": "Me Dejaste Sin Nada",
-      "url": "https://open.spotify.com/track/00Yl6SEMlkvr0mnZGhvvcr"
+      "duration_ms": 247813,
+      "name": "Traga'O De T\u00ed",
+      "url": "https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -807,22 +731,54 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
+        "name": "Vallenato Fest",
+        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
       },
       "artists": [
         {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Zabaleta",
-          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
+          "name": "Grupo Vallenato",
+          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
         }
       ],
-      "duration_ms": 275186,
-      "name": "El Amor M\u00e1s Grande del Planeta",
-      "url": "https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM"
+      "duration_ms": 316279,
+      "name": "Dime Que Me Quieres",
+      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Con Aroma de Mujer",
+        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
+      },
+      "artists": [
+        {
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "Todo Daria por Ti",
+      "url": "https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
+        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "Cuatro Rosas",
+      "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -843,6 +799,50 @@
       "duration_ms": 257373,
       "name": "Mi Primera Cana",
       "url": "https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Emiliano Zuleta",
+          "url": "https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Zabaleta",
+          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
+        }
+      ],
+      "duration_ms": 275186,
+      "name": "El Amor M\u00e1s Grande del Planeta",
+      "url": "https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -875,6 +875,26 @@
       "duration_ms": 293825,
       "name": "Me Mata La Melancolia",
       "url": "https://open.spotify.com/track/2pqNaWWVKvkJ1A5B4WHbee"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Avanzando",
+        "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        },
+        {
+          "name": "Juan David Herrera",
+          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
+        }
+      ],
+      "duration_ms": 286026,
+      "name": "Mi Diosa Humana",
+      "url": "https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -955,26 +975,6 @@
       "duration_ms": 283186,
       "name": "Te Perdone",
       "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Avanzando",
-        "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        },
-        {
-          "name": "Juan David Herrera",
-          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
-        }
-      ],
-      "duration_ms": 286026,
-      "name": "Mi Diosa Humana",
-      "url": "https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Manuel Juli\u00e1n",
+          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Mi Celosa Hermosa",
+      "url": "https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "La Combinacion Vallenata Vol. 3",
         "url": "https://open.spotify.com/album/3YvmSceIoFKWBoUPb2VciJ"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 314680,
       "name": "Amantes Inocentes",
       "url": "https://open.spotify.com/track/4DgZ6w7btR0E4pAb7I3bLs"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Manuel Juli\u00e1n",
-          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
-        }
-      ],
-      "duration_ms": 249560,
-      "name": "Mi Celosa Hermosa",
-      "url": "https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 19,965 likes - 152 songs - 8 hr 33 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 19,998 likes - 152 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 34 | [Jinx](https://open.spotify.com/track/3NreeKDKXqET25p7w1UxXZ) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n) | [Jinx](https://open.spotify.com/album/4FVnSnXWuUsL8dD3avOL0h) | 3:30 |
 | 35 | [Do Something](https://open.spotify.com/track/6TYxYMWG5Bw7sTAd1zgDr4) | [GANZ](https://open.spotify.com/artist/6sUbCA1obWzdoJ1FM3I9Ks), [jsaamena](https://open.spotify.com/artist/630MtaUtjucUCYAn3mPHSx) | [Do Something](https://open.spotify.com/album/4cdyPcA9sLqBriYj5RHetm) | 2:00 |
 | 36 | [Up The Place](https://open.spotify.com/track/4DUYIuaiqejOxW6oOgDEjo) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Up The Place EP](https://open.spotify.com/album/0XNGYrHVub8eNKkCwX8oRF) | 4:29 |
-| 37 | [Halfway Down \(Matrix & Futurebound Remix\)](https://open.spotify.com/track/0cJuzZObi9S9rySwsFgJKD) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Matrix](https://open.spotify.com/artist/1HxzLy3xmo2yu77YUnAXgF), [Futurebound](https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5), [Ashley Drake](https://open.spotify.com/artist/2j5xv1bAFJ3Rpd8jNSJrUA) | [Thrive \(The Remixes\)](https://open.spotify.com/album/4N2T69LHv5bsexpOjSKY4Z) | 4:33 |
+| 37 | [Halfway Down \(Matrix & Futurebound Remix\)](https://open.spotify.com/track/0cJuzZObi9S9rySwsFgJKD) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Ashley Drake](https://open.spotify.com/artist/2j5xv1bAFJ3Rpd8jNSJrUA) | [Thrive \(The Remixes\)](https://open.spotify.com/album/4N2T69LHv5bsexpOjSKY4Z) | 4:33 |
 | 38 | [Carnal](https://open.spotify.com/track/4lnOf9a8CBMrskBrcOSBaK) | [Losco](https://open.spotify.com/artist/1zzFdBVISHy7S3Tqlid87P), [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [Carnal](https://open.spotify.com/album/7llZf9rxuD3nUKVxf2qLRa) | 3:01 |
 | 39 | [Brain Tickler](https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Brain Tickler](https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg) | 2:24 |
 | 40 | [Till Dawn](https://open.spotify.com/track/2Lp7hKebG4d3LCs3MVgexc) | [NUU$HI](https://open.spotify.com/artist/0JmQGPrO3rgHZoyL2WwgIh), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [THE RAVING SIMULATOR](https://open.spotify.com/album/7n1V08q9JqKMJIsDBWyeZJ) | 2:58 |

@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-942 songs - 1 day 16 hr 49 min
+943 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Flying High](https://open.spotify.com/track/6AG03RXCk6TqJwg5foivCU) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Treetops](https://open.spotify.com/album/6ZPHDl66MQRlMwbkaQq8MX) | 2:01 | 2021-04-23 | 2021-08-05 |
 | [Foothills](https://open.spotify.com/track/20oGEJKvYaJPJ9fa2QKlIc) | [Cara Wolff](https://open.spotify.com/artist/4awzT4TfiIuWgss8saWodD) | [Foothills](https://open.spotify.com/album/2JazNostDaHeAcBFWDpxAI) | 2:43 | 2020-08-14\* | 2021-01-21 |
 | [Footprints](https://open.spotify.com/track/6JJ6h8zIfLOBivaUbsDKvz) | [Aron Risa](https://open.spotify.com/artist/4ZBYqZ6jRnD5xPtLWDvexS) | [Footprints](https://open.spotify.com/album/5GZU6r49UFFBsKxm2gMCrI) | 2:25 | 2020-08-14\* | 2022-09-24 |
-| [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2021-04-13 |  |
+| [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2021-04-13 | 2023-12-10 |
 | [For Brea](https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [For Brea](https://open.spotify.com/album/3DhaC4gb4cgt8tLlBEEERI) | 1:57 | 2021-02-13 | 2022-06-08 |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-01-18 |  |
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2020-11-12 | 2022-05-21 |
@@ -294,6 +294,7 @@
 | [Gentle](https://open.spotify.com/track/5XtP7nT6y4Yl8BhnPkDLjr) | [Lennox Cole](https://open.spotify.com/artist/4ZJ87FCTeqG6E14EkGqXpi) | [Gentle](https://open.spotify.com/album/4MVDKPNV0q07arvLobByMW) | 2:12 | 2021-09-15 |  |
 | [Giuoco Piano](https://open.spotify.com/track/6Uk13zgb5WGAm44OpM2FXX) | [Uno Conte](https://open.spotify.com/artist/259PkwoDlbW9KUQMPhWnxi) | [Giuoco Piano](https://open.spotify.com/album/3Bps7quQzAirtS9iasIPHh) | 2:20 | 2020-08-14\* | 2021-05-19 |
 | [Glendale Walk](https://open.spotify.com/track/30bKGGrB4CdUU1FrhDbjE8) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Glendale Walk](https://open.spotify.com/album/5foJvhdGbJtArvZjVzl7ER) | 3:07 | 2021-06-18 | 2021-08-05 |
+| [Glimmer](https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Glimmer](https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf) | 2:40 | 2023-11-28 |  |
 | [Glänta](https://open.spotify.com/track/3VF1j2dGIyKpymo10lG2G5) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Glänta](https://open.spotify.com/album/6vDY52DtIonyQ4O52463we) | 2:54 | 2021-06-18 | 2021-08-18 |
 | [Gouttes](https://open.spotify.com/track/6FEpVWSgpAadjPVuKNwCcx) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Gouttes](https://open.spotify.com/album/5Fws3ZQPPNC8m9vcR3H2Yx) | 3:14 | 2020-12-03 | 2022-07-20 |
 | [Gouttes de pluie](https://open.spotify.com/track/2aWlN3NzJxxY8AXlYYDj8S) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Gouttes de pluie](https://open.spotify.com/album/2ZBtySzL3lB1Kk06oBQX4x) | 2:15 | 2021-10-06 |  |

@@ -4,7 +4,7 @@
 
 > HSBC SVNS Cape Town Takeover: Soundtrack to The Biggest Party in Town.
 
-342 songs - 21 hr 14 min
+343 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Dila Beug](https://open.spotify.com/track/1p6fwH9J5T5hzY9k1CrwLe) | [Omar Pene](https://open.spotify.com/artist/4nnxyRURTnR5bO1rUWMe4N), [Le Super Diamono](https://open.spotify.com/artist/1STm0AYsnhrGFgWxGBi1m2) | [Omar Péné, 30 ans déjà \(Live\)](https://open.spotify.com/album/2Tb6pLYWYTZDmDLWRpdmgG) | 8:50 | 2022-11-29 | 2023-07-12 |
 | [Dinner Guest \(feat\. MoStack\)](https://open.spotify.com/track/0pMt7yNoZTu1gQByxkXaMu) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Flu Game](https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7) | 3:18 | 2022-03-27 | 2022-11-29 |
 | [Dinner Guest \(feat\. MoStack\)](https://open.spotify.com/track/4E57gt5EDgniqrpYO6TQy2) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Dinner Guest \(feat\. MoStack\)](https://open.spotify.com/album/2CeB1aRIEKmnAU5LPRyYsd) | 3:18 | 2022-03-27 | 2022-11-13 |
-| [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2023-12-04 |  |
+| [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2023-12-04 | 2023-12-10 |
+| [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 | 2023-12-04 |  |
 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 | 2022-11-28 | 2022-11-30 |
 | [Dra Die Bok](https://open.spotify.com/track/0qk80wozXTJsh8hN1JJYrx) | [Leon Schuster](https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs) | [Dra Die Bok](https://open.spotify.com/album/5brVlTDOpLybU1xBYTGGy9) | 3:52 | 2023-07-11 | 2023-07-29 |
 | [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 | 2023-08-08 | 2023-08-26 |

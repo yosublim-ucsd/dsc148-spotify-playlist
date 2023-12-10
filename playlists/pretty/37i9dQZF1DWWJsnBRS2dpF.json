@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 40096,
+  "num_followers": 40183,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzZmZjM2MTIxODRjZjEzZjYwN2Q1MTZjYTBjZDU5YTMwYTFmOTRk",
+  "snapshot_id": "MCxmMjc4YzNlN2IwMjQyZWUwOGIxYjkwZTNmMjI2YTM0YTRhMjBhMGFh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -103,6 +103,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 227386,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "Rise Of An Empire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 188320,
       "name": "Trophies",
       "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -827,18 +827,30 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 177445,
-      "name": "Still Your Best",
-      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
+      "duration_ms": 272068,
+      "name": "MOOD 4 EVA (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -875,30 +887,18 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+        "name": "When It's All Said And Done",
+        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 272068,
-      "name": "MOOD 4 EVA (feat. Oumou Sangar\u00e9)",
-      "url": "https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW"
+      "duration_ms": 177445,
+      "name": "Still Your Best",
+      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
     },
     {
       "added_at": "2022-10-01 16:21:24",

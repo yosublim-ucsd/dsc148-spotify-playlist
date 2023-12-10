@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 28068,
+  "num_followers": 28081,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGFkYWY4YWYzOGMxNzJkYmE3OWI0NzRhMzliZTgwZTA2MGQwYWU4",
+  "snapshot_id": "MCwxMDJmZmU5ZDQ4YzkxMTk5OGFhZmNlOGEwYjlhMjQ5MjIyMTA4MDBj",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -143,22 +143,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "D'amour ou d'amiti\u00e9",
-      "url": "https://open.spotify.com/track/7o4JMsKg9Et6s0qb6jWmof"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Amoureuse (Edition Deluxe)",
         "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 221600,
       "name": "Amoureuse - Remasteris\u00e9 en 2008",
       "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "D'amour ou d'amiti\u00e9",
+      "url": "https://open.spotify.com/track/7o4JMsKg9Et6s0qb6jWmof"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -771,22 +771,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Learn French Thru Music",
-        "url": "https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "Quelqu'un M'a Dit",
-      "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Sans retour",
         "url": "https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 435840,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Learn French Thru Music",
+        "url": "https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "Quelqu'un M'a Dit",
+      "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -871,22 +871,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Tant qu'il y aura des enfants",
-        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
-      },
-      "artists": [
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Je sais je sais",
-      "url": "https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Francine Raymond",
         "url": "https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Tant qu'il y aura des enfants",
+        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
+      },
+      "artists": [
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Je sais je sais",
+      "url": "https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "35th Anniversary Collection",
         "url": "https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Vivre dans la nuit",
-        "url": "https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4"
-      },
-      "artists": [
-        {
-          "name": "Nuance",
-          "url": "https://open.spotify.com/artist/56EV8wiS6RIrYrNG8uuiDl"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "Vivre dans la nuit - Version Microsillon",
-      "url": "https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Victoire (Radio Edit)",
         "url": "https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 196479,
       "name": "Victoire - Radio Edit",
       "url": "https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Vivre dans la nuit",
+        "url": "https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4"
+      },
+      "artists": [
+        {
+          "name": "Nuance",
+          "url": "https://open.spotify.com/artist/56EV8wiS6RIrYrNG8uuiDl"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "Vivre dans la nuit - Version Microsillon",
+      "url": "https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Premi\u00e8res nuits",
-        "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
-      },
-      "artists": [
-        {
-          "name": "Nelson Minville",
-          "url": "https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "Les bras de satan",
-      "url": "https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Miserere",
         "url": "https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 264786,
       "name": "Aime",
       "url": "https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Premi\u00e8res nuits",
+        "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
+      },
+      "artists": [
+        {
+          "name": "Nelson Minville",
+          "url": "https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "Les bras de satan",
+      "url": "https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY"
     },
     {
       "added_at": "2020-04-07 15:18:18",

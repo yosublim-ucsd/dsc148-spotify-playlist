@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 67690,
+  "num_followers": 67709,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODBmMjQ1MTU2MDE1OGUzNDdiZTBjMDNiOTg4ZjNlYTEyYWM4Mjhj",
+  "snapshot_id": "MCw5ZDRmNTE5Y2NkOWQ4YWFiZGNlNzhkNTk4MWRiN2E5ZTUzNTcyYTlj",
   "tracks": [
     {
       "added_at": "2023-11-24 19:22:06",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Soul Deep",
-        "url": "https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6"
+        "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
       },
       "artists": [
         {
-          "name": "Noora Noor",
-          "url": "https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl"
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
         }
       ],
-      "duration_ms": 199306,
-      "name": "Forget What I Said",
-      "url": "https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ"
+      "duration_ms": 177329,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+        "name": "Soul Deep",
+        "url": "https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6"
       },
       "artists": [
         {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+          "name": "Noora Noor",
+          "url": "https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl"
         }
       ],
-      "duration_ms": 177329,
-      "name": "Honeycomb",
-      "url": "https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc"
+      "duration_ms": 199306,
+      "name": "Forget What I Said",
+      "url": "https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Long Road Ahead",
         "url": "https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 202143,
       "name": "Long Road Ahead",
       "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 239893,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Taking Me Higher",
-        "url": "https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm"
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
       "artists": [
         {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 243314,
-      "name": "Taking Me Higher",
-      "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
+      "duration_ms": 252607,
+      "name": "Remember The Time",
+      "url": "https://open.spotify.com/track/4YBmxGFROCS3UsCBlMJtLR"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+        "name": "Taking Me Higher",
+        "url": "https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 252607,
-      "name": "Remember The Time",
-      "url": "https://open.spotify.com/track/4YBmxGFROCS3UsCBlMJtLR"
+      "duration_ms": 243314,
+      "name": "Taking Me Higher",
+      "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "No Mercy In This Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 225077,
       "name": "No Mercy In This Land",
       "url": "https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart, Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "I Know - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Dusty Highway",
         "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 242786,
       "name": "Let It Shine",
       "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "I Know - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Get Behind the Wheel",
         "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 200500,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/4O84Px6Z2O9tVHEWmdNlbh"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1595,38 +1595,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Good To Be (Home Again)",
-        "url": "https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Good To Be (Home Again)",
-      "url": "https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
-      },
-      "artists": [
-        {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "And That's Saying a Lot",
-      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "What Happens Next",
         "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
       },
@@ -1639,6 +1607,42 @@
       "duration_ms": 282253,
       "name": "Hell To Pay",
       "url": "https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "In the Sundust",
+        "url": "https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g"
+      },
+      "artists": [
+        {
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
+        },
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "Better Days (feat. Dave Fenley)",
+      "url": "https://open.spotify.com/track/2BrKBhvGdc2l0OTd8YSwCw"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Good To Be (Home Again)",
+        "url": "https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Good To Be (Home Again)",
+      "url": "https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1663,22 +1667,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "In the Sundust",
-        "url": "https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g"
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
       "artists": [
         {
-          "name": "The Hello Darlins",
-          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
-        },
-        {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
         }
       ],
-      "duration_ms": 243880,
-      "name": "Better Days (feat. Dave Fenley)",
-      "url": "https://open.spotify.com/track/2BrKBhvGdc2l0OTd8YSwCw"
+      "duration_ms": 180680,
+      "name": "And That's Saying a Lot",
+      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Bringing It Back Home",
-        "url": "https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI"
-      },
-      "artists": [
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        }
-      ],
-      "duration_ms": 337413,
-      "name": "Fool's Paradise",
-      "url": "https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Blood on My Hands",
         "url": "https://open.spotify.com/album/10dbGQiopAbLHmxglr90rl"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 221653,
       "name": "Bloodshot Eyes",
       "url": "https://open.spotify.com/track/4nRumK6k3u0twKpqmhd49n"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Bringing It Back Home",
+        "url": "https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "duration_ms": 337413,
+      "name": "Fool's Paradise",
+      "url": "https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1843,6 +1843,22 @@
       "duration_ms": 381893,
       "name": "Million Miles",
       "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Oh Frustration",
+        "url": "https://open.spotify.com/album/0wvfEf0tnVJ0tf44k4AxVo"
+      },
+      "artists": [
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        }
+      ],
+      "duration_ms": 226792,
+      "name": "Oh Frustration",
+      "url": "https://open.spotify.com/track/6wzjO71k5y5NLqOqQmnZDP"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1927,22 +1943,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Oh Frustration",
-        "url": "https://open.spotify.com/album/0wvfEf0tnVJ0tf44k4AxVo"
-      },
-      "artists": [
-        {
-          "name": "AJ Fullerton",
-          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
-        }
-      ],
-      "duration_ms": 226792,
-      "name": "Oh Frustration",
-      "url": "https://open.spotify.com/track/6wzjO71k5y5NLqOqQmnZDP"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/274mSeGv906bj4ylimeKiW"
       },
@@ -1955,54 +1955,6 @@
       "duration_ms": 254929,
       "name": "I Love Your Rock 'n' Roll",
       "url": "https://open.spotify.com/track/6rBwdTO9YwLm8xzgvdyHIt"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Wherever You Aren't",
-        "url": "https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Moen",
-          "url": "https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N"
-        }
-      ],
-      "duration_ms": 279922,
-      "name": "Ex's House Party",
-      "url": "https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Let Me Down Easy",
-        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Me to You",
-        "url": "https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "A Better Man",
-      "url": "https://open.spotify.com/track/7v7dx0S3dO2AKQDCJLwqLS"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2023,6 +1975,54 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Let Me Down Easy",
+        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Wherever You Aren't",
+        "url": "https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Moen",
+          "url": "https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N"
+        }
+      ],
+      "duration_ms": 279922,
+      "name": "Ex's House Party",
+      "url": "https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Me to You",
+        "url": "https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "A Better Man",
+      "url": "https://open.spotify.com/track/7v7dx0S3dO2AKQDCJLwqLS"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Behind The Rain",
         "url": "https://open.spotify.com/album/5ktC5H8hQ2G5tNOoDER8FE"
       },
@@ -2035,22 +2035,6 @@
       "duration_ms": 214412,
       "name": "Behind The Rain",
       "url": "https://open.spotify.com/track/3EvlnCWBHQlJZI0Iu2iAwx"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Scream, Holler & Howl",
-        "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
-      },
-      "artists": [
-        {
-          "name": "Blue Moon Marquee",
-          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
-        }
-      ],
-      "duration_ms": 247946,
-      "name": "Medicine Man",
-      "url": "https://open.spotify.com/track/3j6EDxYRTUTAYdC7MUHuic"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2071,18 +2055,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Mississippi",
-        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
+        "name": "Scream, Holler & Howl",
+        "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
       },
       "artists": [
         {
-          "name": "Mitch Grainger",
-          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
+          "name": "Blue Moon Marquee",
+          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
         }
       ],
-      "duration_ms": 208592,
-      "name": "Mississippi",
-      "url": "https://open.spotify.com/track/61afTyjnWQ0q4cQXg4av0f"
+      "duration_ms": 247946,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/3j6EDxYRTUTAYdC7MUHuic"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2115,6 +2099,22 @@
       "duration_ms": 230426,
       "name": "Breadwinner",
       "url": "https://open.spotify.com/track/2nT0mY6172fHVa71weoplF"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Mississippi",
+        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
+      },
+      "artists": [
+        {
+          "name": "Mitch Grainger",
+          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
+        }
+      ],
+      "duration_ms": 208592,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/61afTyjnWQ0q4cQXg4av0f"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Got Me a Party",
-        "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
-      },
-      "artists": [
-        {
-          "name": "Andy Fairweather Low",
-          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
-        }
-      ],
-      "duration_ms": 140600,
-      "name": "Got Me a Party",
-      "url": "https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 317275,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Got Me a Party",
+        "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
+      },
+      "artists": [
+        {
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
+        }
+      ],
+      "duration_ms": 140600,
+      "name": "Got Me a Party",
+      "url": "https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "THOUSAND STRINGED INSTRUMENT",
-        "url": "https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD"
-      },
-      "artists": [
-        {
-          "name": "THE DAWN LIGHT",
-          "url": "https://open.spotify.com/artist/2GY423HSoOGDoAZpfYp23A"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "THOUSAND STRINGED INSTRUMENT",
-      "url": "https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6lJWfWMqJ3suSucrbR6Kv2"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 254862,
       "name": "Underground Railroad",
       "url": "https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "THOUSAND STRINGED INSTRUMENT",
+        "url": "https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD"
+      },
+      "artists": [
+        {
+          "name": "THE DAWN LIGHT",
+          "url": "https://open.spotify.com/artist/2GY423HSoOGDoAZpfYp23A"
+        }
+      ],
+      "duration_ms": 329000,
+      "name": "THOUSAND STRINGED INSTRUMENT",
+      "url": "https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Oh Betty (Acoustic)",
+        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 246031,
+      "name": "Oh Betty - Acoustic",
+      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Who Is He?",
         "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
       },
@@ -2415,18 +2431,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Oh Betty (Acoustic)",
-        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/4dEMN1VQLVic39QCsULlAG"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Vicky Tafoya",
+          "url": "https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu"
         }
       ],
-      "duration_ms": 246031,
-      "name": "Oh Betty - Acoustic",
-      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
+      "duration_ms": 154065,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/1AKkHclqUO2FqtL3Z9Ec8b"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2471,22 +2487,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/4dEMN1VQLVic39QCsULlAG"
-      },
-      "artists": [
-        {
-          "name": "Vicky Tafoya",
-          "url": "https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu"
-        }
-      ],
-      "duration_ms": 154065,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/1AKkHclqUO2FqtL3Z9Ec8b"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Look Up!",
         "url": "https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK"
       },
@@ -2512,9 +2512,9 @@
           "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
         }
       ],
-      "duration_ms": 290502,
-      "name": "Hear My Prayer",
-      "url": "https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn"
+      "duration_ms": 406432,
+      "name": "The Man I Ought To Be",
+      "url": "https://open.spotify.com/track/0iMbe85OzernkDXLzGZ37e"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2535,18 +2535,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Am I Still Mine",
-        "url": "https://open.spotify.com/album/1wziCgGwodAnDKC8gIT3Qr"
+        "name": "I Need the Lord",
+        "url": "https://open.spotify.com/album/1g0lFxfFtSo2WaimhqDhYu"
       },
       "artists": [
         {
-          "name": "Murphy",
-          "url": "https://open.spotify.com/artist/3GeAbNoHc67eZKfxO6KtdN"
+          "name": "Elizabeth King",
+          "url": "https://open.spotify.com/artist/2rYdxt7Boyo1L88Li76b4V"
         }
       ],
-      "duration_ms": 155965,
-      "name": "Am I Still Mine",
-      "url": "https://open.spotify.com/track/7kiIMHdCluymsCJ6DmxuyU"
+      "duration_ms": 319126,
+      "name": "I Got a Love",
+      "url": "https://open.spotify.com/track/7B3Sw98sgND7SKFU586chA"
     }
   ],
   "unique_name": "Home at Last",

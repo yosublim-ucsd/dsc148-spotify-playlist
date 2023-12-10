@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Les hits marocains du moment\. Cover: Morad, GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,015 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,224 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 6 | [Ça c'est bien](https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ça c'est bien](https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES) | 2:39 |
 | 7 | [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 |
 | 8 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 |
-| 9 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
+| 9 | [Échec \- Spotify Singles](https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Sipo](https://open.spotify.com/artist/3oMj4UHfEpUEtClL0pcT8o) | [Échec \(Spotify Singles\)](https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt) | 3:23 |
 | 10 | [Unplugged \- Spotify Singles](https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Unplugged \(Spotify Singles\)](https://open.spotify.com/album/157sF3l27tLvkrIJzqFUeg) | 2:56 |
 | 11 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 |
 | 12 | [Mocro Mafia \(feat\. Maes\)](https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:14 |
 | 13 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 |
-| 14 | [Hyati](https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN) | 2:35 |
-| 15 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 |
-| 16 | [Échec \- Spotify Singles](https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Sipo](https://open.spotify.com/artist/3oMj4UHfEpUEtClL0pcT8o) | [Échec \(Spotify Singles\)](https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt) | 3:23 |
+| 14 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
+| 15 | [Hyati](https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN) | 2:35 |
+| 16 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 |
 | 17 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 |
 | 18 | [ماما](https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [ماما](https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o) | 3:46 |
 | 19 | [LGHERBAL](https://open.spotify.com/track/2qNvrq2gmzl7dwReVWLdpD) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI) | [LGHERBAL](https://open.spotify.com/album/6TijljvrYcwq5G1SpJFev4) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [WILI](https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [WILI](https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1) | 3:10 |
 | 50 | [Skati](https://open.spotify.com/track/7ungXHBRDqUW3s5iy5aEcI) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Skati](https://open.spotify.com/album/5KDd8Sv0z9yKzEvfNSh8am) | 4:12 |
 
-Snapshot ID: `MCwwMWQwOTgxNmViMjA4NTJlNjYyNDc5M2JhMWQxZWVlYWU4ZTMyMGEy`
+Snapshot ID: `MCxiYjQ5NmY5MjZiODc2Nzk4M2NhYjRkODA3NTE5ODZkY2QzZTM4MDhh`

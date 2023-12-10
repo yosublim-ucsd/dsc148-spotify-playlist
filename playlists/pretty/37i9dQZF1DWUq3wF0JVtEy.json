@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 940525,
+  "num_followers": 940630,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjdjMDM1YzhmNTI0OWYzYjMxMmE5NjQ1ZGEzNTUzMjlmY2UyNmEz",
+  "snapshot_id": "MCwwM2EzNmUyZTM1MWI4OTljNDQ5MWY3ZjUwMWM4NDlhZGYzOWE1MDMy",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Get Up Off The Floor",
-        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
+        "name": "dashstar*",
+        "url": "https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG"
       },
       "artists": [
         {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Get Up Off The Floor",
-      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+      "duration_ms": 198095,
+      "name": "dashstar*",
+      "url": "https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "dashstar*",
-        "url": "https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG"
+        "name": "Get Up Off The Floor",
+        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
         }
       ],
-      "duration_ms": 198095,
-      "name": "dashstar*",
-      "url": "https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF"
+      "duration_ms": 155000,
+      "name": "Get Up Off The Floor",
+      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -836,17 +836,21 @@
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "RUMBLE IN THE DISCO",
-        "url": "https://open.spotify.com/album/5ZKIzX3mYYmiqZk6Izi3ZT"
+        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
       },
       "artists": [
         {
           "name": "Kaleena Zanders",
           "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         }
       ],
       "duration_ms": 185653,
       "name": "HIGH AGAIN",
-      "url": "https://open.spotify.com/track/3EwmYpKAiJP0fNtUPBCdTQ"
+      "url": "https://open.spotify.com/track/5q0HCtQ07Vw2PoQtki30sW"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1499,22 +1503,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 167362,
-      "name": "Stick Your Tongue Out",
-      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "No Piensa",
         "url": "https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA"
       },
@@ -1535,6 +1523,30 @@
       "duration_ms": 149268,
       "name": "No Piensa",
       "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "TikTak",
+        "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 137204,
+      "name": "TikTak",
+      "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1575,6 +1587,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Alok Club Series 2023",
+        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "2 Much 2 Handle",
+      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -1599,46 +1631,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "TikTak",
-        "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
       },
       "artists": [
         {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         }
       ],
-      "duration_ms": 137204,
-      "name": "TikTak",
-      "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Alok Club Series 2023",
-        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "2 Much 2 Handle",
-      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+      "duration_ms": 167362,
+      "name": "Stick Your Tongue Out",
+      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1663,26 +1667,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "I'm Drunk (feat. AMY MIY\u00da)",
-        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
-      },
-      "artists": [
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        },
-        {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
-        }
-      ],
-      "duration_ms": 150234,
-      "name": "I'm Drunk (feat. AMY MIY\u00da)",
-      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1699,6 +1683,26 @@
       "duration_ms": 172800,
       "name": "Welcome To The Future",
       "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "I'm Drunk (feat. AMY MIY\u00da)",
+        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 150234,
+      "name": "I'm Drunk (feat. AMY MIY\u00da)",
+      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1723,6 +1727,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "B\u20acNZ",
         "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
       },
@@ -1743,22 +1763,6 @@
       "duration_ms": 244218,
       "name": "B\u20acNZ",
       "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1791,6 +1795,26 @@
       "duration_ms": 189289,
       "name": "Losing My Head",
       "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1851,22 +1875,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Can't Talk Right Now",
-        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 199218,
-      "name": "Can't Talk Right Now",
-      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Power Stone",
         "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
       },
@@ -1879,6 +1887,22 @@
       "duration_ms": 167272,
       "name": "Power Stone",
       "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Can't Talk Right Now",
+        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 199218,
+      "name": "Can't Talk Right Now",
+      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1899,22 +1923,6 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
-      },
-      "artists": [
-        {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        }
-      ],
-      "duration_ms": 140196,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
     }
   ],
   "unique_name": "Shuffle Syndrome",

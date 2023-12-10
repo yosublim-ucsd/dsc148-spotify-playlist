@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 349164,
+  "num_followers": 349181,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDRmNzFhMDQ3ZDVmNzk4YzM2MzI1ZDIxZGE3NTFjZmQ2YTUxZGU5",
+  "snapshot_id": "MCxkNjkwOTc0NmUzZjc0MWM0MmQwNzg0Mjg3Y2JkMjNiYzM0ZTJhNDc4",
   "tracks": [
     {
       "added_at": "2023-11-17 17:02:42",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 169949,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "All I Know So Far",
         "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 277413,
       "name": "All I Know So Far",
       "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 169949,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "Thanks For Nothing, See You Never",
-        "url": "https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 140309,
-      "name": "Pretty Boys",
-      "url": "https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "Der letzte Tanz",
         "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
+        "name": "Thanks For Nothing, See You Never",
+        "url": "https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
         }
       ],
-      "duration_ms": 176040,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
+      "duration_ms": 140309,
+      "name": "Pretty Boys",
+      "url": "https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -711,6 +695,22 @@
       "duration_ms": 184915,
       "name": "miss me (when you're gone)",
       "url": "https://open.spotify.com/track/33eSunUHnta6mPW3EoTuRw"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -995,6 +995,42 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
+        "name": "A Producer From Vienna",
+        "url": "https://open.spotify.com/album/7AX7iptabwUqOi4rFekYgp"
+      },
+      "artists": [
+        {
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 211781,
+      "name": "Boys & Girls",
+      "url": "https://open.spotify.com/track/0m28KN9Y8srHVJvutwJj5v"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 148345,
+      "name": "Faded Love",
+      "url": "https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
         "name": "Keep It Low",
         "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
       },
@@ -1023,22 +1059,6 @@
       "duration_ms": 172066,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0S5CurjBT1nbbD4YFTRrRv"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
-        "name": "Somewhere in Between",
-        "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
-      },
-      "artists": [
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 148345,
-      "name": "Faded Love",
-      "url": "https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -1091,22 +1111,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "How Many Moons",
-        "url": "https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9"
-      },
-      "artists": [
-        {
-          "name": "LUI HILL",
-          "url": "https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS"
-        }
-      ],
-      "duration_ms": 183635,
-      "name": "How Many Moons",
-      "url": "https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "ROOKERY",
         "url": "https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX"
       },
@@ -1119,22 +1123,6 @@
       "duration_ms": 194480,
       "name": "Wild Stare",
       "url": "https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 214383,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -1155,22 +1143,34 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "Let\u2019s Go Home Together (Luca Schreiner Remix)",
-        "url": "https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy"
+        "name": "How Many Moons",
+        "url": "https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9"
       },
       "artists": [
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "LUI HILL",
+          "url": "https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS"
         }
       ],
-      "duration_ms": 208692,
-      "name": "Let\u2019s Go Home Together",
-      "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
+      "duration_ms": 183635,
+      "name": "How Many Moons",
+      "url": "https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 214383,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY"
     }
   ],
   "unique_name": "Feelgood Pop",

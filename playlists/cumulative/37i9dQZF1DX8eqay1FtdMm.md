@@ -4,7 +4,7 @@
 
 > Enjoy the selection of ‘vocals with unique voices’ selected by BMK! \(BMK가 선곡한 '독보적인 음색이 돋보이는 보컬들' 선곡을 즐겨보세요!\)
 
-458 songs - 1 day 5 hr 50 min
+459 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,10 +152,11 @@
 | [Heaven](https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Heaven](https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug) | 3:43 | 2023-07-11 | 2023-07-21 |
 | [Hee Jae](https://open.spotify.com/track/6NPwyiOIJMTSVGspkOKiX7) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [\[Vol.4\] You Hee yul's Sketchbook 10th Anniversary Project : 2nd Voice 'Sketchbook X Ben'](https://open.spotify.com/album/6o1qBQswi3EBElxewqi7Yl) | 5:41 | 2021-12-20 | 2022-06-03 |
 | [Hello](https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV) | 4:04 | 2023-01-25 |  |
+| [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 |  |
 | [Hey Steve](https://open.spotify.com/track/1OmD2liXaVZmE0Gqg1fSzg) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 1:31 | 2023-02-15 | 2023-03-28 |
 | [Hide And Seek](https://open.spotify.com/track/3phcTgiZbOrcJdGS16bzXb) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hide And Seek \(Full Version\)](https://open.spotify.com/album/0Twooiwlv1TjdY9Fe8VfsP) | 2:57 | 2021-12-20 | 2022-04-17 |
 | [Hide And Seek](https://open.spotify.com/track/6kgbXxqe6gDKMYrjNL3zqD) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Jumpin'](https://open.spotify.com/album/5zIcY1Rd64xth4HmCwmYwu) | 2:57 | 2022-03-24 | 2022-04-19 |
-| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-04 |  |
+| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-04 | 2023-12-10 |
 | [Homesick](https://open.spotify.com/track/7bcfyB9jvnfkgLpIjZjL4Q) | [SOULSTAR](https://open.spotify.com/artist/354y0OnCO8WxPCaCMtbVSo) | [Who We Are \#3](https://open.spotify.com/album/2PrbCgHyAZi7h2sc6cNCWu) | 3:40 | 2021-12-27 | 2022-07-14 |
 | [Honest](https://open.spotify.com/track/6DzDRbPXIOajCimqmqSzfm) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 3:54 | 2022-03-24 | 2022-04-19 |
 | [How Can I Forget You](https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Forbidden Marriage, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv) | 4:35 | 2022-12-27 | 2023-04-02 |

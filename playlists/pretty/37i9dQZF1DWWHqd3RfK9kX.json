@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 22781,
+  "num_followers": 22782,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWMwNWEzYTBjMmUzNGVkNDcyM2NmMzY0NzI1MzhkNWUyZTRiMTkz",
+  "snapshot_id": "MCwyY2Q5N2ExOTY1NDM4NTI2ZTA3N2QwNTI3M2MzMzI2NjJjYjRhZDlm",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -531,6 +531,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Samba Esquema Novo",
         "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Lovestained",
-        "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Lovestained",
-      "url": "https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Jorge Ben",
         "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 155666,
       "name": "Take It Easy My Brother Charles",
       "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Lovestained",
+        "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Lovestained",
+      "url": "https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -827,22 +827,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Entre Dos Aguas",
-        "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
-      },
-      "artists": [
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        }
-      ],
-      "duration_ms": 362093,
-      "name": "Entre Dos Aguas",
-      "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Entre Dos Aguas",
+        "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "The Loser / Now We Know",
-        "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
-      },
-      "artists": [
-        {
-          "name": "Derrick Harriott",
-          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "The Loser",
-      "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "I Like It Like That",
         "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 185546,
       "name": "Soy El Rey",
       "url": "https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "The Loser / Now We Know",
+        "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
+      },
+      "artists": [
+        {
+          "name": "Derrick Harriott",
+          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "The Loser",
+      "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Curanderas",
-        "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
-      },
-      "artists": [
-        {
-          "name": "Kelvis Ochoa",
-          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Una De Mambo",
-      "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
         "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 246600,
       "name": "Bang! Bang!",
       "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Curanderas",
+        "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
+      },
+      "artists": [
+        {
+          "name": "Kelvis Ochoa",
+          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Una De Mambo",
+      "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
-        "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Dois Momentos",
         "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 198466,
       "name": "Quando voc\u00ea chegar",
       "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
+        "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
     }
   ],
   "unique_name": "Musica per Cucinare",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,549 likes - 60 songs - 3 hr 20 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,550 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
-| 2 | [Selassie is the Chapel](https://open.spotify.com/track/6347eqxZEaPQr9Y4hSAgc2) | [Bob Marley & The Wailers](https://open.spotify.com/artist/0koNR9Vh7Fe3CDzbGsqiTk) | [Selassie is the Chapel](https://open.spotify.com/album/6gkiVkkaGUkZRsv6GNOpRd) | 3:32 |
+| 2 | [Selassie is the Chapel](https://open.spotify.com/track/6347eqxZEaPQr9Y4hSAgc2) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Selassie is the Chapel](https://open.spotify.com/album/6gkiVkkaGUkZRsv6GNOpRd) | 3:32 |
 | 3 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
 | 4 | [Jesus why do you hate me](https://open.spotify.com/track/5LvYYf5HlcZ7gkjMLTtCxl) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Jesus why do you hate me](https://open.spotify.com/album/0KZ59arAKx828YfvhpnLAf) | 3:34 |
 | 5 | [Elevator Hum](https://open.spotify.com/track/3MPLwP2T5FQ2vtJiDvn79Q) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Elevator Hum](https://open.spotify.com/album/6fenEkY5qHSMxWKRpObBrb) | 3:55 |

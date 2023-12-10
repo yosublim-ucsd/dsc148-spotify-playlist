@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Jinbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,960 likes - 72 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,966 likes - 72 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [假裝沒變過](https://open.spotify.com/track/0kWUppVLq3IIvXjq36v8EU) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 4:21 |
 | 72 | [Woody](https://open.spotify.com/track/6S1JhalUapj0WoE8fKsaZ2) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 3:18 |
 
-Snapshot ID: `MCw5NDhlOTdkM2NkZTZlZGY1ZmJiNGNhOTc2MDg5MWNkN2IwNTE4MTMw`
+Snapshot ID: `MCxkN2ZmNGY5ZmM0YzNmNjEyZmQ3MmI2OTcxMGE0OTdlM2YxM2IyMjE4`

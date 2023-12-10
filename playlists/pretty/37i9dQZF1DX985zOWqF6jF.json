@@ -1,12 +1,12 @@
 {
   "description": "Y es que cuando nos comemo' hacemo' unas pose que los do' desconocemo' ",
-  "num_followers": 13918,
+  "num_followers": 13941,
   "original_name": "Perreo de Dos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODc2ZWE4MWExMTMwN2Q2ZGIyOGVjYmFmNjQ3MGIwMjNlNTVmMTQw",
+  "snapshot_id": "MCxjZWM4MzEwYWIzMzM3ZjhjMjdiY2U0OTFmYjI4NTUyMjY1OWZjMjkz",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "DI LETRA",
-        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Mi Cuarto",
-      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Toda Remix",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 367680,
       "name": "Toda Remix - Remix",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "DI LETRA",
+        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Mi Cuarto",
+      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -583,6 +583,54 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Darte Remix",
+        "url": "https://open.spotify.com/album/0Rg4l9kXJQyl04Oz4XyMWB"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 512060,
+      "name": "Darte Remix",
+      "url": "https://open.spotify.com/track/6wxZq37sANWYDJiDN5khyL"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Velitas",
         "url": "https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA"
       },
@@ -663,54 +711,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Darte Remix",
-        "url": "https://open.spotify.com/album/0Rg4l9kXJQyl04Oz4XyMWB"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 512060,
-      "name": "Darte Remix",
-      "url": "https://open.spotify.com/track/6wxZq37sANWYDJiDN5khyL"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Ay, DiOs M\u00edo!",
         "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Para Mi Ex",
-        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 187191,
-      "name": "Extasy",
-      "url": "https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "FERXXO (VOL 1: M.O.R)",
         "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 151400,
       "name": "EL CUARTO DE FERXXO",
       "url": "https://open.spotify.com/track/1WBwck9KqWfe6mr2j06UEM"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Para Mi Ex",
+        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 187191,
+      "name": "Extasy",
+      "url": "https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Sentimiento, Elegancia y Maldad",
-        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "VENTE CONMIGO",
         "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 186000,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Sentimiento, Elegancia y Maldad",
+        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1043,42 +1043,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Quemando Calor\u00edas",
-      "url": "https://open.spotify.com/track/3ss6y0Id5Iwk2L5MIZp4xF"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "QU\u00c9 RICO CH**GAMOS",
-      "url": "https://open.spotify.com/track/41onqkcjQIVFmz0S0b3aHV"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Bellaquita (Remix)",
         "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
       },
@@ -1111,6 +1075,42 @@
       "duration_ms": 304733,
       "name": "Bellaquita - Remix",
       "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Quemando Calor\u00edas",
+      "url": "https://open.spotify.com/track/3ss6y0Id5Iwk2L5MIZp4xF"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "QU\u00c9 RICO CH**GAMOS",
+      "url": "https://open.spotify.com/track/41onqkcjQIVFmz0S0b3aHV"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "AfroLOVA' 23",
-        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Solita y SueltAAA",
-      "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Caramelo (Remix)",
         "url": "https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "CUANDO HACEMOS EL AMOR",
+      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Sexflix",
         "url": "https://open.spotify.com/album/16JKU7ALzmQ8pFiHcgXUcH"
       },
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "AfroLOVA' 23",
+        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 214008,
-      "name": "CUANDO HACEMOS EL AMOR",
-      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
+      "duration_ms": 155789,
+      "name": "Solita y SueltAAA",
+      "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Turbo",
+        "url": "https://open.spotify.com/album/2JRoucIrtBsiCFqAAxQHiV"
+      },
+      "artists": [
+        {
+          "name": "Euphemism",
+          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+        }
+      ],
+      "duration_ms": 284839,
+      "name": "Turbo",
+      "url": "https://open.spotify.com/track/4vZVuZkymAK0G1eAmXIWbB"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Infiel (Remix)",
         "url": "https://open.spotify.com/album/0WHbGKLr25jT5mXcs2nHKf"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 215284,
       "name": "T'as peur",
       "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Turbo",
-        "url": "https://open.spotify.com/album/2JRoucIrtBsiCFqAAxQHiV"
-      },
-      "artists": [
-        {
-          "name": "Euphemism",
-          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
-        }
-      ],
-      "duration_ms": 284839,
-      "name": "Turbo",
-      "url": "https://open.spotify.com/track/4vZVuZkymAK0G1eAmXIWbB"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1911,30 +1911,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Una Noche Loca",
-        "url": "https://open.spotify.com/album/28YLk4yInrLrxXPlsjqMN1"
-      },
-      "artists": [
-        {
-          "name": "Nickzzy",
-          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
-        },
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        },
-        {
-          "name": "Came Beats",
-          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Una Noche Loca",
-      "url": "https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Astros",
         "url": "https://open.spotify.com/album/0ABNkRjooiKfK9ZNgWrCK0"
       },
@@ -1959,6 +1935,30 @@
       "duration_ms": 236590,
       "name": "T\u00edrame",
       "url": "https://open.spotify.com/track/5s02iWgBdqnf75q0xTdvj4"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Una Noche Loca",
+        "url": "https://open.spotify.com/album/28YLk4yInrLrxXPlsjqMN1"
+      },
+      "artists": [
+        {
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Una Noche Loca",
+      "url": "https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG"
     },
     {
       "added_at": "2023-11-24 06:00:00",

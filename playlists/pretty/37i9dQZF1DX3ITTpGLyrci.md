@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 
 > Get the drinks on ice, this one is on us
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,586 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,623 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 63 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
 | 64 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
 | 65 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 |
-| 66 | [Sweet Vibrations](https://open.spotify.com/track/5S1gAbJcWZy6ICn68Lsx2e) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Sweet Vibrations EP](https://open.spotify.com/album/62IsJzKQrSVzO2k2DIIcOw) | 2:40 |
+| 66 | [Sweet Vibrations](https://open.spotify.com/track/0zfHDEuHNc8NbaJnjTFtSe) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 2:40 |
 | 67 | [Moving All Around \(Jumpin'\) \(feat\. Kim English\)](https://open.spotify.com/track/3rN9iG9QDHFQfBdbym2uel) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs) | [Moving All Around \(Jumpin'\) \(feat\. Kim English\)](https://open.spotify.com/album/70r5AZjJ8e1dw4TxqcHae5) | 3:09 |
 | 68 | [Lift Me Up](https://open.spotify.com/track/5eV4sUsCLKTkrjtNc3eWWV) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Lift Me Up](https://open.spotify.com/album/5b6TihYV69YXs0p5CKnGYs) | 2:52 |
 | 69 | [Don't Forget My Love](https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 99 | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/track/2sW3snLTi77h0rm4g9tDuD) | [Wyles](https://open.spotify.com/artist/77u8tnFyGYz4GrpGbQXeUr), [Architechs](https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G), [Crystxl King](https://open.spotify.com/artist/01FnnL35UsLhTNK27gZjqt) | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/album/1JYq2a06tP799ORo2YdBB6) | 2:45 |
 | 100 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 |
 
-Snapshot ID: `MCwxYjk0NjM1ZTVhMzRiZjYzMWYxZWYxOTI2Yjc2YTI3ODM4NWYwNGMz`
+Snapshot ID: `MCxmZDNkNjkxOGZiNTFiMDE1YzFhNWIxZTczN2FiNzg2MzRjYjcyMDY2`

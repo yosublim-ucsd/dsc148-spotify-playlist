@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:1zZDuiPTuQzsbXPj4N58G4">Eris Ford</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,596 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,679 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 11 | [Fall Back](https://open.spotify.com/track/5tKkyk6FPsNfBUMyT3A3JF) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV), [Dante' Pride](https://open.spotify.com/artist/2v3KGsTtvQXwQHOMvqtkKS) | [Fall Back](https://open.spotify.com/album/1HaA6TrRiVF8wXl4wqCTAe) | 2:11 |
 | 12 | [Freedom Dance](https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Freedom Dance](https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH) | 2:54 |
 | 13 | [Forevermore](https://open.spotify.com/track/0Qkt5Srgb4ucUQg7Z0M2gV) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Forevermore](https://open.spotify.com/album/1XQK6ub9PhrJUI1DjDCX2E) | 3:00 |
-| 14 | [Whatever It Takes \- Acoustic](https://open.spotify.com/track/0Mz8Pqes2c9tjYvvbalCxL) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Whatever It Takes](https://open.spotify.com/album/5mCHYzFGo26QBL4TSbvgiw) | 3:12 |
+| 14 | [Whatever It Takes \- Take Two](https://open.spotify.com/track/0Mz8Pqes2c9tjYvvbalCxL) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Whatever It Takes](https://open.spotify.com/album/5mCHYzFGo26QBL4TSbvgiw) | 3:12 |
 | 15 | [Hold Onto Me](https://open.spotify.com/track/7oHBUjk2M0xMz2vhojyj82) | [Jennifer Victor](https://open.spotify.com/artist/265VUTYbhY9WwgOkHjdEMx) | [Hold Onto Me](https://open.spotify.com/album/2Zr66ICT20J8wgBXrPWis8) | 3:58 |
 | 16 | [Provider](https://open.spotify.com/track/0n9BmdMs7fugQBsLAOmMGg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Provider](https://open.spotify.com/album/52o4SrgD78FtKdtrtCp747) | 3:28 |
 | 17 | [One Day](https://open.spotify.com/track/4zRUmtHbOSn5xRqkHN9Aqz) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [One Day](https://open.spotify.com/album/5YbgriHUUeXOFH7QkPmPJN) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [BOSSA NOVA \(feat\. Aaron Cole\)](https://open.spotify.com/track/2M9Qr05EqIR3Wp7Bo0Vj7w) | [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [BOSSA NOVA \(feat\. Aaron Cole\)](https://open.spotify.com/album/4T1JkIOqz3htmhSMgwfkx7) | 2:36 |
 | 100 | [Hekima](https://open.spotify.com/track/6JxJEhBAHAnhjCtcHLJFNt) | [A.I\. The Anomaly](https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa) | [Hekima](https://open.spotify.com/album/66BRGKjTjQNF0KaVPnOnwi) | 4:00 |
 
-Snapshot ID: `MCw1M2EyMDYyNGU4NzE4M2VjODhlZDQ1ZGIxZjlkZGExNzJhNmMyMDRj`
+Snapshot ID: `MCxiZGM0OGJmZWZkMDU4MzAyZWRiNDQyNmMwNTM2NDFhOTk3OGI3ZWZj`

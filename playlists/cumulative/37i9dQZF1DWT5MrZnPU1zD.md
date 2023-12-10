@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-879 songs - 1 day 18 hr 3 min
+880 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Headshots](https://open.spotify.com/track/53e9gQYHBMAJoFYN7Gf0wj) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG), [NicWithTheKay](https://open.spotify.com/artist/6HzhKZLGHudtIyMibUXUaG) | [Headshots](https://open.spotify.com/album/7xq308CnKflzWm6OSSMzi2) | 2:17 | 2022-12-16 | 2023-01-14 |
 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Headshots \(4r Da Locals\)](https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1) | 3:13 | 2021-09-03 | 2022-07-29 |
 | [Heard Of Me](https://open.spotify.com/track/7pw6IXqjBn0M68l5JI3mIV) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Heard Of Me](https://open.spotify.com/album/21EvF7Ad9W7agK0o0vSBqz) | 3:44 | 2023-10-20 |  |
-| [Heavy](https://open.spotify.com/track/43pjKTwerf0zk3WSj1TE7I) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Heavy](https://open.spotify.com/album/48eAYIvW7LSsqDVfOgJrER) | 2:53 | 2023-09-22 |  |
+| [Heavy](https://open.spotify.com/track/43pjKTwerf0zk3WSj1TE7I) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Heavy](https://open.spotify.com/album/48eAYIvW7LSsqDVfOgJrER) | 2:53 | 2023-09-22 | 2023-12-10 |
 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 | 2022-03-18 | 2022-08-22 |
 | [HEAVY METAL](https://open.spotify.com/track/7cf8xNXwU9K0BuHjyIvxLE) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HEAVY METAL](https://open.spotify.com/album/2fXn6a7SYYnSNyuWj0CvnX) | 2:51 | 2023-03-24 | 2023-05-11 |
 | [Hell](https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hell](https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6) | 2:19 | 2022-09-02 | 2022-09-17 |
@@ -853,6 +853,7 @@
 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 | 2021-09-03 | 2022-11-12 |
 | [Where I Belong](https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Where I Belong](https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0) | 3:08 | 2022-07-01 | 2022-08-22 |
 | [Where's Dexter](https://open.spotify.com/track/0w3eAG8vNPSulwDOR1Th9F) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Where's Dexter](https://open.spotify.com/album/2huut23qggNR8NlsTpmn5q) | 2:19 | 2023-01-24 | 2023-02-27 |
+| [Whip It](https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop) | 2:17 | 2023-12-01 |  |
 | [Whip It](https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/3NMpB1bl2kVyZSqMUN9F3I) | 2:17 | 2023-04-28 | 2023-12-09 |
 | [Whipski \(feat\. Lil Skies & Internet Money\)](https://open.spotify.com/track/0a2Yk4ORO4MsGaJ4DI03qx) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Whipski \(feat\. Lil Skies & Internet Money\)](https://open.spotify.com/album/69zRKx6ZZQx652iPq1PRyp) | 3:03 | 2021-09-03 | 2022-03-18 |
 | [White Walls](https://open.spotify.com/track/292x0LG03veq1YIbcETPbO) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [White Walls](https://open.spotify.com/album/1wOYYzFpg5sbcuQ9nTNs1N) | 2:25 | 2022-03-25 | 2022-04-18 |

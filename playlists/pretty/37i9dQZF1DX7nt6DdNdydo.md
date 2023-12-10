@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,677 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,689 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 14 | [Going Back To New Orleans](https://open.spotify.com/track/15UtASGoJcuIZlLRTUGYVZ) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 2:50 |
 | 15 | [Down The Road Apiece](https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:59 |
 | 16 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
-| 17 | [Bradshaw Boogie](https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection](https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb) | 1:54 |
-| 18 | [Real Fine Daddy](https://open.spotify.com/track/6ZFkzS4x0VBL4VwthOydrU) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Presenting Helen Humes](https://open.spotify.com/album/7dU3bNHJgHR1YHcUi5NgAl) | 2:16 |
+| 17 | [Real Fine Daddy](https://open.spotify.com/track/6ZFkzS4x0VBL4VwthOydrU) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Presenting Helen Humes](https://open.spotify.com/album/7dU3bNHJgHR1YHcUi5NgAl) | 2:16 |
+| 18 | [Bradshaw Boogie](https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection](https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb) | 1:54 |
 | 19 | [Bloodshot Eyes](https://open.spotify.com/track/4w873lwWDABniYU2MOaXYQ) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:40 |
 | 20 | [Saturday Night Fish Fry \- Pts\. 1 & 2](https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Let The Good Times Roll: The Anthology 1938 \- 1953](https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK) | 5:34 |
 | 21 | [Big Fat Mama](https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Roy Milton And His Solid Senders](https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO) | 2:43 |
-| 22 | [Ain't Nobody Here but Us Chickens](https://open.spotify.com/track/22xTN0k7TtBkAjUP3VAW2d) | [Louis Jordan \(alto saxophone](https://open.spotify.com/artist/2yzFeVTv2CXilkOmEKADJA), [bandleader\)](https://open.spotify.com/artist/6bQhYQBFV5IicgcoPMzPFY), [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Louis Jordan & His Tympany Five: Choo Choo Ch'Boogie](https://open.spotify.com/album/2hB3069gKT6EDEbPNAIjLl) | 3:05 |
-| 23 | [Good Golly](https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK) | [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [The Capitol Years](https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV) | 1:52 |
+| 22 | [Good Golly](https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK) | [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [The Capitol Years](https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV) | 1:52 |
+| 23 | [Ain't Nobody Here but Us Chickens](https://open.spotify.com/track/22xTN0k7TtBkAjUP3VAW2d) | [Louis Jordan \(alto saxophone](https://open.spotify.com/artist/2yzFeVTv2CXilkOmEKADJA), [bandleader\)](https://open.spotify.com/artist/6bQhYQBFV5IicgcoPMzPFY), [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Louis Jordan & His Tympany Five: Choo Choo Ch'Boogie](https://open.spotify.com/album/2hB3069gKT6EDEbPNAIjLl) | 3:05 |
 | 24 | [Deacon Rides Again](https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Presenting Big Jay McNeely](https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A) | 2:47 |
 | 25 | [King Kong](https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w) | [Big 'T' Tyler](https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa) | [Jump Blue: Rockin' The Jukes](https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk) | 2:04 |
 | 26 | [\(Every Time I Hear\) That Mellow Saxophone](https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy) | [Roy Montrell](https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq) | [Mardi Gras Blues](https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak) | 2:27 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 39 | [Rhythm In The Barnyard](https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 4:46 |
 | 40 | [Sax Shack Boogie](https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:51 |
 | 41 | [Oh Babe](https://open.spotify.com/track/5uNMlXUTvc7M7nELi7I1Nq) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Information Blues](https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ) | 2:30 |
-| 42 | [Let the Four Winds Blow](https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Travelin' Blues](https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT) | 1:57 |
-| 43 | [The Flirt](https://open.spotify.com/track/57ReV13secms86t42AdOWq) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Come on and Have Your Fun](https://open.spotify.com/album/56kya17Zle3APMlEAXgkYL) | 1:59 |
+| 42 | [The Flirt](https://open.spotify.com/track/57ReV13secms86t42AdOWq) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Come on and Have Your Fun](https://open.spotify.com/album/56kya17Zle3APMlEAXgkYL) | 1:59 |
+| 43 | [Let the Four Winds Blow](https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Travelin' Blues](https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT) | 1:57 |
 | 44 | [Ravin' At The Haven](https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [The Ultimate Jazz Archive 24 \(1 Of 4\)](https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il) | 2:25 |
 | 45 | [I'm Going To Have Myself A Ball](https://open.spotify.com/track/1tqLXlzrpnMHOQH2kkt1y3) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [Walk That Mess!](https://open.spotify.com/album/1f6YAwaB3PeBuUZtB9V0v3) | 2:44 |
 | 46 | [All Night Long](https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo) | [Joe Houston & His Rockets](https://open.spotify.com/artist/0KE5SlfCEB81MaKTaWP4q6) | [Rock And Roll \- The Essential Collection](https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 49 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
 | 50 | [Big Fat Mama](https://open.spotify.com/track/03DRiEEHelUfdyDW2Z5y9e) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Information Blues](https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ) | 2:44 |
 
-Snapshot ID: `MCwyYjE5MmQ3YjYxZWFjMWI2MjM0YjEyMTQ2NmVkYjhiMWU3M2M3Y2Qz`
+Snapshot ID: `MCw5NzdlOGEzY2U5NDU1OGI5YWQxYmM3NGVjZjE5NDgwZjNiYWYzYWJm`

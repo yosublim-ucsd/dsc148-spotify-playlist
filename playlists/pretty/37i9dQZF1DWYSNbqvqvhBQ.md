@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: KANE
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,842 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,844 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [War Ends Today](https://open.spotify.com/track/6PKD7kKGS2TmdCLqBaaxYO) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [War Ends Today](https://open.spotify.com/album/7wrdmw5ThJYT67TBsYOVxC) | 3:17 |
+| 1 | [War Ends Today](https://open.spotify.com/track/4TDdbNg50GKvJXKka4uddq) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [War Ends Today](https://open.spotify.com/album/508yoawSJgvgXUAz7EFcgQ) | 3:17 |
 | 2 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 |
 | 3 | [Rise](https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Rise](https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf) | 3:03 |
 | 4 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 99 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 |
 | 100 | [Paranoia Blues](https://open.spotify.com/track/3wCVxrtfU6oZa3rLUkSGWE) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Paranoia Blues](https://open.spotify.com/album/6oZ0MkeEYNYIf4ehNuf6yf) | 3:52 |
 
-Snapshot ID: `MCw3OTk4NTdjN2NiNjc3M2MzNGI2ZWMwNDRiMzJiZTUzYWE0YmQxMDVm`
+Snapshot ID: `MCw1MzdmOTU2MzQzOGQ1Y2M2YWFiYTdlYmIzYmQ3ODFhNTU3YjRiMzEz`

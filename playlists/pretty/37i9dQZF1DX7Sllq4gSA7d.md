@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Sllq4gSA7d.md) - [plain]
 
 > Maria Garcia, host of Anything For Selena, spotlights singular stories in music culture.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCxkNDYwZjQ5NTRmZmY5YTViNjU0ZWVlNTY3MmZhYzFlYWY1NjRmNWM5`
+Snapshot ID: `MCxhMDI2Y2M1YTE5NzBjYjliN2FkMmExNzE5MTRhYmMzN2ZhZDkxOTk4`

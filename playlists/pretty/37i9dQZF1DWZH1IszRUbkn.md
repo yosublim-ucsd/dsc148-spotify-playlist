@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,773 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,776 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 3 | [No se habla de Bruno](https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Daniela Sierra](https://open.spotify.com/artist/3nwgQnJvhaRxrpJ9o84t4f), [Juanse Diez](https://open.spotify.com/artist/2tZy2DfvQ3d8AkmNUZbxoK), [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY), [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Encanto \- Elenco](https://open.spotify.com/artist/52l7jN5e0g2n3IVOHulkA6) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:36 |
 | 4 | [Hakuna Matata](https://open.spotify.com/track/2BFnHiGCfLy5Z96yMeO50g) | [Claudia Pizá](https://open.spotify.com/artist/6siLUAe0KmIQIAoBuihe5x), [Raúl Carballeda](https://open.spotify.com/artist/6GJcuvrFIs0ZZ9zz0l9L6e), [Francisco Colmenero](https://open.spotify.com/artist/7CUbYXaUdYaKhpzeGWwoBb) | [El Rey Leon \(Edición Especial\)](https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD) | 3:31 |
 | 5 | [La familia Madrigal](https://open.spotify.com/track/6740sbqgB64LZopHUEiBG8) | [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Yaneth Waldman](https://open.spotify.com/artist/49xYVBMRskbDXPIZJZxJwR), [Encanto \- Elenco](https://open.spotify.com/artist/52l7jN5e0g2n3IVOHulkA6) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 4:17 |
-| 6 | [La Llorona](https://open.spotify.com/track/5fBcRH4CnYTaFMQtM0JtSl) | [Alanna Ubach](https://open.spotify.com/artist/2QIv0RotNtHfzzp1jzJsJ4), [Antonio Sol](https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:45 |
-| 7 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 |
+| 6 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 |
+| 7 | [La Llorona](https://open.spotify.com/track/5fBcRH4CnYTaFMQtM0JtSl) | [Alanna Ubach](https://open.spotify.com/artist/2QIv0RotNtHfzzp1jzJsJ4), [Antonio Sol](https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:45 |
 | 8 | [El Mundo es mi Familia](https://open.spotify.com/track/5tsiVaup3IdqXrqItieZLY) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 0:50 |
 | 9 | [Caminito de la Escuela \- Remasterizado](https://open.spotify.com/track/4zE0vkNCDI5Gxpe0esVtbt) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri, Vol\. 2](https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX) | 2:22 |
 | 10 | [Pollito Amarillito](https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 1](https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH) | 1:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 49 | [El Zapatero](https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 1:43 |
 | 50 | [Feliz En Tu Día](https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 1:38 |
 
-Snapshot ID: `MCxlMjVjNmQwNzA4MGVlYzNhZDBjOTU3ODg1ZmU4NzFiZmJlZjdkZjEy`
+Snapshot ID: `MCw0ZGYxY2M0MGJjNzlhNDE4MzEwNTZjMmExM2VmMDcyMjdmMGVkMDA4`

@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-218 songs - 12 hr 22 min
+219 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Deathblow](https://open.spotify.com/track/5odPjdHDsGX3RUSzrw7eD9) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Deathblow](https://open.spotify.com/album/6PmtZ0lfWZ5XFl4IryXLxa) | 3:46 | 2022-12-08 | 2023-06-02 |
 | [Deep In The Underground](https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Deep In The Underground](https://open.spotify.com/album/0LynK8y3LDFTTl5yVKWJBf) | 3:21 | 2023-11-17 |  |
 | [Demolition Hardcore](https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Demolition Hardcore](https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8) | 3:20 | 2022-12-08 |  |
-| [Demonic Playgrounds](https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 3:08 | 2023-06-29 |  |
+| [Demonic Playgrounds](https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 3:08 | 2023-06-29 | 2023-12-10 |
 | [Demonic Rage](https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Sovereign King](https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46) | [Demonic Rage](https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w) | 3:16 | 2022-12-08 | 2023-09-02 |
 | [Den Haag Hakkûh](https://open.spotify.com/track/4i4Wy1Rp9OmeHz98xWMR4V) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Den Haag Hakkûh](https://open.spotify.com/album/26nTumwHgIcZNrGuFZC3UR) | 3:21 | 2023-04-06 | 2023-09-15 |
 | [DEQUINOX 100](https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [DEQUINOX 100](https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ) | 3:42 | 2022-12-08 | 2023-09-02 |
@@ -177,6 +177,7 @@
 | [Ruthless For Life](https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Ruthless For Life](https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i) | 2:48 | 2022-12-22 | 2023-11-18 |
 | [Schrik Van De Stad](https://open.spotify.com/track/02d1XpujNOPL5bqFLaCUbU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Dominator 2022 \(Hell Of A Ride\)](https://open.spotify.com/album/0BWZ28qb6KwR4wD8Ms7MCA) | 3:31 | 2023-06-29 | 2023-11-18 |
 | [Shadows in the Dark](https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [Shadows in the Dark](https://open.spotify.com/album/39LODywZvMhYTjECv7poxU) | 4:48 | 2022-12-22 |  |
+| [Shark Attack](https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Thunder In Paradise](https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF) | 2:39 | 2023-12-07 |  |
 | [Sick And Tired](https://open.spotify.com/track/1K13dIVI2xSsqZQlPuKvq2) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Sick And Tired](https://open.spotify.com/album/16kkNx668sjZceOu4LeK6d) | 3:12 | 2022-12-08 | 2023-01-27 |
 | [Side Fx's](https://open.spotify.com/track/7fwYN5u0dYRNqshCjhJWDF) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Artificial Intoxication](https://open.spotify.com/album/1UzOa746jQMejJtvImrB5O) | 3:06 | 2022-12-08 | 2023-06-30 |
 | [SIUU!](https://open.spotify.com/track/2OWCrAs7CVXECZax6Qhuuc) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Dopameme](https://open.spotify.com/album/7mrKtXt92sGdK4IIkBJNO0) | 3:37 | 2023-11-27 |  |

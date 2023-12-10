@@ -2,7 +2,7 @@
 
 ### [Entre deux](https://open.spotify.com/playlist/37i9dQZF1DWXyp9AUgvDAD)
 
-> À deux, c'est mieux ! Photo : Amir & Indila
+> À deux, c'est mieux ! Photo : Amel Bent & Hatik
 
 55 songs - 3 hr 14 min
 

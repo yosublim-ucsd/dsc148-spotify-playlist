@@ -4,7 +4,7 @@
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Ed Sheeran
 
-354 songs - 21 hr 11 min
+355 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Another Way](https://open.spotify.com/track/0BfPVt9Rgngm70OTpy1TPE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Both Ways](https://open.spotify.com/album/0P5Gw1os7s0rzcDWwrE7hx) | 4:11 | 2021-10-13 | 2022-07-29 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 | 2022-07-22 | 2023-12-07 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-02-04 | 2022-12-12 |
+| [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/7feKoS4dc8ZBxQq9ZH5rb2) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 3:07 | 2023-10-27 |  |
 | [As It Is](https://open.spotify.com/track/3zk8q1oiLgGtnPnepxF2vc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [As It Is](https://open.spotify.com/album/6ZslerQEyaHzEITrBQahOZ) | 3:04 | 2021-10-13 | 2022-07-29 |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2022-01-07 |  |
 | [Back & Forth](https://open.spotify.com/track/2vcwh4UGbHy3gkhCEvBDMn) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 3:31 | 2022-03-25 | 2022-04-21 |
@@ -260,7 +261,7 @@
 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 | 2022-03-25 | 2022-04-16 |
 | [Say It Again \- Acoustic](https://open.spotify.com/track/19lJcWaqc4JSFEd8ciz00g) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Say It Again \(Acoustic\)](https://open.spotify.com/album/3Y0VlRmIiYtweQhIWApgaw) | 3:01 | 2021-10-13 | 2022-07-29 |
 | [Say It Again \- Acoustic](https://open.spotify.com/track/7puldW6ecGUcM3Vau6U0SD) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Say It Again \(Acoustic\)](https://open.spotify.com/album/4skXIqZpJdY12tJy4KJvxV) | 3:01 | 2022-07-22 | 2022-10-20 |
-| [See You Again, Love Me Like You Do, Sugar \- Acoustic Mashup](https://open.spotify.com/track/29Ns3avs48iQhNQgrHMEkm) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [See You Again, Love Me Like You Do, Sugar \(Acoustic Mashup\)](https://open.spotify.com/album/598yk60jws90rsCDHU4lkl) | 3:51 | 2022-03-25 |  |
+| [See You Again, Love Me Like You Do, Sugar \- Acoustic Mashup](https://open.spotify.com/track/29Ns3avs48iQhNQgrHMEkm) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [See You Again, Love Me Like You Do, Sugar \(Acoustic Mashup\)](https://open.spotify.com/album/598yk60jws90rsCDHU4lkl) | 3:51 | 2022-03-25 | 2023-12-10 |
 | [Send My Love \(To Your New Lover\) \- Live](https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [Send My Love \(To Your New Lover\) \[Live\]](https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z) | 3:45 | 2022-03-25 | 2022-04-19 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/4LTOzL6JsnQBifmpsbo9a5) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Guitar Acoustic\)](https://open.spotify.com/album/58wAIiRLQ5q2yMN76ys9F2) | 3:32 | 2021-10-13 | 2022-07-29 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-07-22 |  |

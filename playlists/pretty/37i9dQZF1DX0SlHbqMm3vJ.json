@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Ric Hassani",
-  "num_followers": 218543,
+  "num_followers": 218622,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2NmODIxZGM3MGNkODQzZTE3ZDRkNjkzY2U4ODY5MWJlYzBhZjY5",
+  "snapshot_id": "MCw2Y2U4MDAwNjRjZDU0ZmZjNTUyMzEyNjQzYzQwMmYyMWU5MjRjNTRi",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Sweet Tea (Aduke)",
-        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Colors (My Baby) / Loyal",
         "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Anabella",
         "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
       },
@@ -407,26 +407,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Routine Lover",
-        "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
+        "name": "Sweet Tea (Aduke)",
+        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
       },
       "artists": [
         {
-          "name": "Good Nation",
-          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 168510,
-      "name": "Routine Lover",
-      "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
+      "duration_ms": 149481,
+      "name": "Sweet Tea (Aduke)",
+      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -475,18 +467,26 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+        "name": "Routine Lover",
+        "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
       },
       "artists": [
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 136842,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+      "duration_ms": 168510,
+      "name": "Routine Lover",
+      "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -507,18 +507,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr"
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 160611,
-      "name": "Jara",
-      "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
+      "duration_ms": 170322,
+      "name": "Ole (feat. BNXN)",
+      "url": "https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -547,22 +551,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr"
       },
       "artists": [
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Ole (feat. BNXN)",
-      "url": "https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz"
+      "duration_ms": 160611,
+      "name": "Jara",
+      "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Sad Romance (Deluxe)",
         "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -751,26 +751,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
       "artists": [
         {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "NESTA",
-          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 212307,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
+      "duration_ms": 174178,
+      "name": "Look What You Made Me Do (with Simi)",
+      "url": "https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -795,22 +791,46 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Tequila Ever After",
-        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
         },
         {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
         }
       ],
-      "duration_ms": 174178,
-      "name": "Look What You Made Me Do (with Simi)",
-      "url": "https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w"
+      "duration_ms": 212307,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -843,26 +863,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Busy Body",
         "url": "https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 162063,
       "name": "Busy Body",
       "url": "https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "4LYFE",
-        "url": "https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "4LYFE",
-      "url": "https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -911,6 +895,22 @@
       "duration_ms": 167547,
       "name": "PIANO",
       "url": "https://open.spotify.com/track/3idcqABwcfdvgBEdbG0ebq"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "4LYFE",
+        "url": "https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "4LYFE",
+      "url": "https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 157570,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Body, Soul & Spirit",
         "url": "https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 158264,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/2BpPchBu0QUEWESGox0EXq"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 120500,
-      "name": "Lose Ya",
-      "url": "https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Point Of View",
         "url": "https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 112540,
       "name": "Do What U Want",
       "url": "https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 120500,
+      "name": "Lose Ya",
+      "url": "https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Amina & The One",
+        "url": "https://open.spotify.com/album/6bdIYShApOLxOuaIiJXShU"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 165010,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/7oAWhox1NR7AvI12w8Wzlg"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "AMEN",
         "url": "https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 128666,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Amina & The One",
-        "url": "https://open.spotify.com/album/6bdIYShApOLxOuaIiJXShU"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 165010,
-      "name": "Amina",
-      "url": "https://open.spotify.com/track/7oAWhox1NR7AvI12w8Wzlg"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Area Party",
+        "url": "https://open.spotify.com/album/29FyZCVFynYTLUDkMFkEZL"
+      },
+      "artists": [
+        {
+          "name": "Novemba",
+          "url": "https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ"
+        }
+      ],
+      "duration_ms": 122474,
+      "name": "Area Party",
+      "url": "https://open.spotify.com/track/3HhFNwoskRIUdj8nadvmzp"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Trench to Triumph",
         "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Beautiful Lies",
-        "url": "https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY"
-      },
-      "artists": [
-        {
-          "name": "Runda",
-          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
-        }
-      ],
-      "duration_ms": 174964,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Love & Trust",
         "url": "https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 165217,
       "name": "Love and Trust",
       "url": "https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY"
+      },
+      "artists": [
+        {
+          "name": "Runda",
+          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
+        }
+      ],
+      "duration_ms": 174964,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 179828,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Area Party",
-        "url": "https://open.spotify.com/album/29FyZCVFynYTLUDkMFkEZL"
-      },
-      "artists": [
-        {
-          "name": "Novemba",
-          "url": "https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ"
-        }
-      ],
-      "duration_ms": 122474,
-      "name": "Area Party",
-      "url": "https://open.spotify.com/track/3HhFNwoskRIUdj8nadvmzp"
     },
     {
       "added_at": "2023-12-08 00:08:00",

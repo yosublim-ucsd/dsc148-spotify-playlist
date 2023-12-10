@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-716 songs - 1 day 10 hr 52 min
+717 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Barf](https://open.spotify.com/track/4IxcVM7qUaCZ16zqrBQqQg) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV) | [Black Heart Revenge 2](https://open.spotify.com/album/4YyvVj3QeL8HPwp9ffjPFp) | 1:48 | 2023-10-27 | 2023-12-09 |
 | [Barry](https://open.spotify.com/track/3z5hvnhC1rksnJNKR7rvqX) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [WE'RE ALL BRODIES\*](https://open.spotify.com/album/6vIfYqKIvseLIBU7e1E34c) | 2:16 | 2023-11-03 |  |
 | [Basement](https://open.spotify.com/track/6UECeLTI315ypdwrOMdu0N) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:13 | 2022-11-18 | 2023-01-15 |
-| [Beat It](https://open.spotify.com/track/048f0MCTAJd5I0X7Xc4DSb) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Beat It](https://open.spotify.com/album/0BzqFoK5ppXpfZmGT6D5WR) | 2:04 | 2023-03-24 |  |
+| [Beat It](https://open.spotify.com/track/048f0MCTAJd5I0X7Xc4DSb) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Beat It](https://open.spotify.com/album/0BzqFoK5ppXpfZmGT6D5WR) | 2:04 | 2023-03-24 | 2023-12-10 |
+| [Beat It](https://open.spotify.com/track/30cwmNAQximovZ8Uu1JI1j) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Beat It](https://open.spotify.com/album/0HcLr07FuylFKSvK9eq0aE) | 2:04 | 2023-12-08 |  |
 | [Been About It](https://open.spotify.com/track/7BmwARA7tuxdIYq59xSDFf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 2:21 | 2022-03-25 | 2022-10-15 |
 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 | 2022-01-14 | 2022-02-11 |
 | [better](https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [better](https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO) | 3:10 | 2022-04-01 | 2023-03-11 |

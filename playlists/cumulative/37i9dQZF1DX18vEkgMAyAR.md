@@ -4,7 +4,7 @@
 
 > Your everyday pick\-me\-up playlist.
 
-101 songs - 5 hr 28 min
+102 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [My Way](https://open.spotify.com/track/3OFnCTyDRIbv4WDRFotvMG) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:30 | 2020-11-13 | 2023-11-04 |
 | [My Way](https://open.spotify.com/track/3OgeKihJLTRcOM6Asy3z3u) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb) | 3:30 | 2023-11-03 |  |
 | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs) | 4:20 | 2019-06-06 |  |
-| [OMOGE WA JO](https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh) | 2:25 | 2023-04-21 |  |
+| [OMOGE WA JO](https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh) | 2:25 | 2023-04-21 | 2023-12-10 |
 | [OMOGE WA JO](https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K) | 2:25 | 2022-11-16 | 2023-02-01 |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2021-01-21 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-05-03 |  |
@@ -85,6 +85,7 @@
 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 | 2023-10-16 |  |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2020-09-07 |  |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-05-03 |  |
+| [Say You Will Remember Me](https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Say You Will Remember Me](https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be) | 3:22 | 2023-11-03 |  |
 | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/album/7Ll6kSs703zrmm60mTvw7v) | 3:13 | 2021-06-10 |  |
 | [SHANGRI\-LA \- Radio Edit](https://open.spotify.com/track/04NEE6filobSes2pww809U) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [SHANGRI\-LA \(Radio Edit\)](https://open.spotify.com/album/5ibPTCuJQNcbZnWTU9HkuX) | 3:02 | 2021-06-24 | 2022-11-12 |
 | [So What \(feat\. A R I Z O N A\)](https://open.spotify.com/track/3By9IFm4E2BvKQygT04O8g) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [So What \(feat\. A R I Z O N A\)](https://open.spotify.com/album/47hFYvR9yzeKgqDKWUWOfD) | 2:57 | 2021-06-10 |  |

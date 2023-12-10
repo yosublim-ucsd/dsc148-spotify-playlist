@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Aftershow](https://open.spotify.com/track/6dyn5n7eQdJ2Br5TKpfDrI) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi), [Harry Teardrop](https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV) | [Aftershow](https://open.spotify.com/album/11aeI5jTdP7gy6bRwS6EEy) | 3:52 |
 | 2 | [tetote](https://open.spotify.com/track/4jJi5kCvHjD7mRGx3lntbp) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB) | [tetote](https://open.spotify.com/album/4OFhxMicg5pmdVaac6WFYY) | 2:02 |
-| 3 | [Racy](https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Racy](https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo) | 4:29 |
+| 3 | [Racy](https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Racy](https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo) | 4:29 |
 | 4 | [ルビー](https://open.spotify.com/track/61dKPB7KS5K0ydinagQy4U) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [ルビー](https://open.spotify.com/album/4XH4mGDiIMfSsr0peqj5F0) | 4:30 |
 | 5 | [Opal](https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [Opal](https://open.spotify.com/album/154NpAyn5bQ66Ar3W0N5hr) | 3:33 |
 | 6 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [demigod chan](https://open.spotify.com/track/15c3MaKtAZ6NsYECSH0UrK) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [demigod chan](https://open.spotify.com/album/4oMTCCsF18RzDc9L5wgg7p) | 2:31 |
 | 60 | [Christmas Song \(Version II\)](https://open.spotify.com/track/5jGtK8nKWb7EZoWndPWUTz) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Christmas Song \(Version II\)](https://open.spotify.com/album/4TeEgeJ8h2Byt1IiG7sBxA) | 3:06 |
 
-Snapshot ID: `MCxiMzU0NjQ0Mjc2N2ExNzBjOWUzMmJmYThhNDg4NGQyNGQwYThhMTY5`
+Snapshot ID: `MCw0Yjk1ZDJkZDc0NTE5MmY0NjE3MWNmNzZmY2Y3NTk2MzBmMjk2OTQ5`

@@ -554,6 +554,24 @@
     {
       "album": {
         "name": "The Cost Of My Freedom",
+        "url": "https://open.spotify.com/album/2rd6vOxRnBTXJP1qizJs7C"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169317,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0p5AeHVOl8nmEdyCbYkkH5"
+    },
+    {
+      "album": {
+        "name": "The Cost Of My Freedom",
         "url": "https://open.spotify.com/album/2NK3TmaOmduXVBSm0LZ28N"
       },
       "artists": [
@@ -3825,6 +3843,24 @@
     },
     {
       "album": {
+        "name": "89.7 Growl FM",
+        "url": "https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162546,
+      "name": "Let It Go As If You Wander",
+      "url": "https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC"
+    },
+    {
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/1A2qh9qzsHSiN4jbRMSL7C"
       },
@@ -7080,7 +7116,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 120200,
       "name": "STAY GOLD",
       "url": "https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR"
@@ -9804,7 +9840,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 192506,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
       "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"

@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 79602,
+  "num_followers": 79691,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDAzMTEyYzllMjZiNDdhMGJhNjViOTBhOGY1OTI1NDY5YWIzN2Qw",
+  "snapshot_id": "MCwxYzNjYWI3YzUzYTUwMjkyNjE2YTE3N2RmMzBhY2FkNzNhNzhkY2Mw",
   "tracks": [
     {
       "added_at": "2023-12-07 13:58:32",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "I'll See You in My Dreams",
+      "url": "https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP"
+    },
+    {
+      "added_at": "2023-12-07 13:58:32",
+      "album": {
         "name": "Beyond The Missouri Sky",
         "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 214933,
       "name": "Cinema Paradiso [Love Theme]",
       "url": "https://open.spotify.com/track/5lsR6wuL7T7vR5IOZwPaEc"
-    },
-    {
-      "added_at": "2023-12-07 13:58:32",
-      "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "I'll See You in My Dreams",
-      "url": "https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
-        "name": "Bright Size Life",
-        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
+        "name": "Djangology 49",
+        "url": "https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq"
       },
       "artists": [
         {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 285600,
-      "name": "Bright Size Life",
-      "url": "https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac"
+      "duration_ms": 256000,
+      "name": "Beyond The Sea (La Mer)",
+      "url": "https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
-        "name": "Djangology 49",
-        "url": "https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq"
+        "name": "Bright Size Life",
+        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
       },
       "artists": [
         {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Beyond The Sea (La Mer)",
-      "url": "https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5"
+      "duration_ms": 285600,
+      "name": "Bright Size Life",
+      "url": "https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -463,22 +463,18 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
-        "name": "Beyond The Missouri Sky",
-        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
       },
       "artists": [
         {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 244626,
-      "name": "The Moon Is A Harsh Mistress",
-      "url": "https://open.spotify.com/track/70JLN0ibjDTs5hlUFTmqGq"
+      "duration_ms": 168720,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -515,18 +511,22 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
+        "name": "Beyond The Missouri Sky",
+        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
       },
       "artists": [
         {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
         }
       ],
-      "duration_ms": 168720,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
+      "duration_ms": 244626,
+      "name": "The Moon Is A Harsh Mistress",
+      "url": "https://open.spotify.com/track/70JLN0ibjDTs5hlUFTmqGq"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
-        "name": "Bright Size Life",
-        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Unity Village",
-      "url": "https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP"
-    },
-    {
-      "added_at": "2023-12-07 13:58:32",
-      "album": {
         "name": "Djangologie Vol15 / 1946 - 1947",
         "url": "https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 158013,
       "name": "Django's Tiger",
       "url": "https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84"
+    },
+    {
+      "added_at": "2023-12-07 13:58:32",
+      "album": {
+        "name": "Bright Size Life",
+        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Unity Village",
+      "url": "https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
-        "name": "Retrospective",
-        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 484493,
-      "name": "Joshua Fit De Battle Of Jericho",
-      "url": "https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA"
-    },
-    {
-      "added_at": "2023-12-07 13:58:32",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 209053,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH"
+    },
+    {
+      "added_at": "2023-12-07 13:58:32",
+      "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 484493,
+      "name": "Joshua Fit De Battle Of Jericho",
+      "url": "https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
-      },
-      "artists": [
-        {
-          "name": "Emily Remler",
-          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
-        }
-      ],
-      "duration_ms": 469360,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
-    },
-    {
-      "added_at": "2023-12-07 13:58:32",
-      "album": {
         "name": "Idle Moments",
         "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 409880,
       "name": "Jean De Fleur - Rudy Van Gelder Edition / Remastered 1999",
       "url": "https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD"
+    },
+    {
+      "added_at": "2023-12-07 13:58:32",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
+      },
+      "artists": [
+        {
+          "name": "Emily Remler",
+          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
+        }
+      ],
+      "duration_ms": 469360,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
+        "name": "The Next Step",
+        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 354293,
+      "name": "Minor Blues",
+      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+    },
+    {
+      "added_at": "2023-12-07 13:58:32",
+      "album": {
         "name": "The Essential Benny Goodman",
         "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 182653,
       "name": "Wholly Cats",
       "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
-    },
-    {
-      "added_at": "2023-12-07 13:58:32",
-      "album": {
-        "name": "The Next Step",
-        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 354293,
-      "name": "Minor Blues",
-      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
-        "name": "The Shape Of Things To Come",
-        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 347413,
-      "name": "Shape Of Things That Are And Were",
-      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
-    },
-    {
-      "added_at": "2023-12-07 13:58:32",
-      "album": {
         "name": "Kenny Burrell & John Coltrane",
         "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
@@ -1307,6 +1291,38 @@
       "duration_ms": 422680,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL"
+    },
+    {
+      "added_at": "2023-12-07 13:58:32",
+      "album": {
+        "name": "The Shape Of Things To Come",
+        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 347413,
+      "name": "Shape Of Things That Are And Were",
+      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
+    },
+    {
+      "added_at": "2023-12-07 13:58:32",
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -1331,22 +1347,6 @@
       "duration_ms": 292133,
       "name": "Ralph's Piano Waltz",
       "url": "https://open.spotify.com/track/6eldKsQmwvE8W8RJvE4bF8"
-    },
-    {
-      "added_at": "2023-12-07 13:58:32",
-      "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
-      },
-      "artists": [
-        {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
+        "name": "Free Flying",
+        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
+      },
+      "artists": [
+        {
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 384413,
+      "name": "Monk's Dream",
+      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
+    },
+    {
+      "added_at": "2023-12-07 13:58:32",
+      "album": {
         "name": "Early Stan",
         "url": "https://open.spotify.com/album/1V0xTNXZSiQEpkcM1vdc56"
       },
@@ -1455,22 +1475,6 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
-      },
-      "artists": [
-        {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
-    },
-    {
-      "added_at": "2023-12-07 13:58:32",
-      "album": {
         "name": "Bill Frisell, Ron Carter, Paul Motian",
         "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
       },
@@ -1487,38 +1491,18 @@
     {
       "added_at": "2023-12-07 13:58:32",
       "album": {
-        "name": "Concierto (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
       },
       "artists": [
         {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
         }
       ],
-      "duration_ms": 447026,
-      "name": "You'd Be So Nice To Come Home To - alt. take",
-      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
-    },
-    {
-      "added_at": "2023-12-07 13:58:32",
-      "album": {
-        "name": "Free Flying",
-        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
-      },
-      "artists": [
-        {
-          "name": "Fred Hersch",
-          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
-        },
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 384413,
-      "name": "Monk's Dream",
-      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
+      "duration_ms": 253586,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
     },
     {
       "added_at": "2023-12-07 13:58:32",
@@ -1535,6 +1519,22 @@
       "duration_ms": 502440,
       "name": "Brooklyn Sometimes",
       "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
+    },
+    {
+      "added_at": "2023-12-07 13:58:32",
+      "album": {
+        "name": "Concierto (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "You'd Be So Nice To Come Home To - alt. take",
+      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
     },
     {
       "added_at": "2023-12-07 13:58:32",

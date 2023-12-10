@@ -1,12 +1,12 @@
 {
-  "description": "Is \"indie sleaze\" in the room with us now? ft. Sky Ferreira",
-  "num_followers": 118509,
+  "description": "Is \"indie sleaze\" in the room with us? ft. The Strokes ",
+  "num_followers": 118684,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjZhNzRlOTFkNjM5NDgzNjkzOGFhNTNiNzUzZWQxMGFlMjk2OTI0",
+  "snapshot_id": "MCxkMWM3Yjk3ZGNkMGRkN2Y0YjBlY2JiZTdlMmFlYTZmZTgwMTg1OTA5",
   "tracks": [
     {
       "added_at": "2023-09-05 19:58:53",
@@ -327,18 +327,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         }
       ],
-      "duration_ms": 244999,
-      "name": "DARE",
-      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -359,22 +363,18 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Instrumental Relics",
-        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
       "artists": [
         {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 277710,
-      "name": "I'm God",
-      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+      "duration_ms": 244999,
+      "name": "DARE",
+      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Grand",
-        "url": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa"
-      },
-      "artists": [
-        {
-          "name": "Matt and Kim",
-          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "xx",
         "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 127920,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Grand",
+        "url": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa"
+      },
+      "artists": [
+        {
+          "name": "Matt and Kim",
+          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm"
     },
     {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "The Drums",
-        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Lets Go Surfing",
-      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Using You",
@@ -951,6 +935,22 @@
       "duration_ms": 536471,
       "name": "Dance Yrself Clean",
       "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "The Drums",
+        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Lets Go Surfing",
+      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Miike Snow",
-        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Master of My Make-Believe",
         "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "Supernature",
         "url": "https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 204373,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 462266,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 462266,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Treats",
         "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "D.A.N.C.E",
-        "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "D.A.N.C.E - Radio Edit",
-      "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Santigold",
         "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 204906,
       "name": "L.E.S. Artistes",
       "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "D.A.N.C.E",
+        "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "D.A.N.C.E - Radio Edit",
+      "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Y Control",
-      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Made In The Dark",
         "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 234240,
       "name": "Ready For The Floor",
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Y Control",
+      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Wait for Me",
-        "url": "https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3"
-      },
-      "artists": [
-        {
-          "name": "The Pigeon Detectives",
-          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "I Found Out",
-      "url": "https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3"
+      },
+      "artists": [
+        {
+          "name": "The Pigeon Detectives",
+          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "I Found Out",
+      "url": "https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "The Virgins",
-        "url": "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
-      },
-      "artists": [
-        {
-          "name": "The Virgins",
-          "url": "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Rich Girls",
-      "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Fist of God",
         "url": "https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 192853,
       "name": "Heartbreaker (feat. John Legend)",
       "url": "https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "I Can Change",
+        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 331525,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
     }
   ],
   "unique_name": "Indie Sleaze",

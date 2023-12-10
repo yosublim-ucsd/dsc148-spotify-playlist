@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed: Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 903527,
+  "num_followers": 903598,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2RmYWE3NjRjMjgwOGU0OWM3MDdkOGMwOWMxOTVkZmRmZTlhMzA5",
+  "snapshot_id": "MCxhZmNlZTg4NzkxZTI4NjA0ZGM1MDkzNjdjMTI3ZGEyNmZiZjEzMGI4",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "+Mexicana",
         "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 183733,
       "name": "Es Complicado",
       "url": "https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
-        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Las de Mi Apa",
+        "url": "https://open.spotify.com/album/2mNt20FWQIZMbmOO39TgG7"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 146672,
+      "name": "Todo Cuanto Tuve",
+      "url": "https://open.spotify.com/track/5vCnpRP2BzyPT2VaDaBFWy"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Ya Lo Super\u00e9",
         "url": "https://open.spotify.com/album/2N2i8N1tAzeghEYR0Shgbp"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 204546,
       "name": "Ya Lo Super\u00e9",
       "url": "https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Las de Mi Apa",
-        "url": "https://open.spotify.com/album/2mNt20FWQIZMbmOO39TgG7"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 146672,
-      "name": "Todo Cuanto Tuve",
-      "url": "https://open.spotify.com/track/5vCnpRP2BzyPT2VaDaBFWy"
     },
     {
       "added_at": "2023-09-01 06:00:00",

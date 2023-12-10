@@ -464,7 +464,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 148226,
       "name": "200K",
       "url": "https://open.spotify.com/track/4IbdvCq0V3qL67y5Fsrujr"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 151533,
       "name": "A.V.S.D",
       "url": "https://open.spotify.com/track/0cs7ugM9egZgqFfaB8kEzv"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 204373,
       "name": "AFRIKANBADMAN",
       "url": "https://open.spotify.com/track/5JxFWqqJiWPDXDTmQfwas3"
@@ -1477,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "Aller sans retour",
+        "url": "https://open.spotify.com/album/2CGmqtcGHkQrZkyw8NfSQN"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Aller sans retour",
+      "url": "https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj"
+    },
+    {
+      "album": {
         "name": "Allez dehors",
         "url": "https://open.spotify.com/album/6Us6AtFqQORq9wUpHdvbnf"
       },
@@ -1742,7 +1764,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 193506,
       "name": "AMBITIONS",
       "url": "https://open.spotify.com/track/0B1sGCkytyAiprzmBkO7Xu"
@@ -1970,7 +1992,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2564,6 +2586,24 @@
       "duration_ms": 181240,
       "name": "Au Bout De La Nuit",
       "url": "https://open.spotify.com/track/2r6L78L65TyGirzPgJvYEy"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204160,
+      "name": "Au-dessus de l'Atlas",
+      "url": "https://open.spotify.com/track/1jIrLMqN1JwgaGK3GwCEEb"
     },
     {
       "album": {
@@ -3239,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150480,
+      "name": "Battitsu",
+      "url": "https://open.spotify.com/track/4LP8kxxXJPoRnBLaAseBWx"
+    },
+    {
+      "album": {
         "name": "Ba\u00efla",
         "url": "https://open.spotify.com/album/20jFJuauruRbosHfmVU8Hk"
       },
@@ -3640,6 +3698,24 @@
       "duration_ms": 189400,
       "name": "Best life",
       "url": "https://open.spotify.com/track/46vfSYsDJZaNQcD4YvT8GD"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169413,
+      "name": "Beuh d'Hollande",
+      "url": "https://open.spotify.com/track/2lbKZKVRX54sPoNKZyp56H"
     },
     {
       "album": {
@@ -4729,6 +4805,24 @@
     },
     {
       "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186306,
+      "name": "C'est pas facile",
+      "url": "https://open.spotify.com/track/4xuuEQsFZhxZRn6ZdVOn2k"
+    },
+    {
+      "album": {
         "name": "C\u0153ur blanc",
         "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
       },
@@ -5630,7 +5724,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 156413,
       "name": "Celui qui part",
       "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
@@ -5764,7 +5858,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 212093,
       "name": "Chemin d'or",
       "url": "https://open.spotify.com/track/3rkyVQEgaDR5nZvW10QOrQ"
@@ -7518,7 +7612,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -7660,6 +7754,24 @@
       "duration_ms": 145162,
       "name": "Dans le R\u00e9seau",
       "url": "https://open.spotify.com/track/0X5zETsfr8nGAVABRcD4o4"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179920,
+      "name": "Dans ma mama",
+      "url": "https://open.spotify.com/track/5j4l2IPtapiK2twUJih3eV"
     },
     {
       "album": {
@@ -7814,7 +7926,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -11389,6 +11501,28 @@
     },
     {
       "album": {
+        "name": "Gaza",
+        "url": "https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP"
+      },
+      "artists": [
+        {
+          "name": "Un jour de paix",
+          "url": "https://open.spotify.com/artist/4ClHj8bEVJatxqxBqY7SHA"
+        },
+        {
+          "name": "PNL",
+          "url": "https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273278,
+      "name": "Gaza",
+      "url": "https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb"
+    },
+    {
+      "album": {
         "name": "Genkidama",
         "url": "https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ"
       },
@@ -12689,6 +12823,28 @@
     },
     {
       "album": {
+        "name": "I love you",
+        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238344,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
+    },
+    {
+      "album": {
         "name": "Tombolo",
         "url": "https://open.spotify.com/album/5x2zkoZogYhBNF6pYJIzk3"
       },
@@ -13158,7 +13314,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 142466,
       "name": "INTERLUDE",
       "url": "https://open.spotify.com/track/1itsG2W6qPClNGRLJeKkun"
@@ -13565,6 +13721,46 @@
     },
     {
       "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183106,
+      "name": "J'fais plaisir \u00e0 la zone",
+      "url": "https://open.spotify.com/track/26Anqi86HCCG57L5CE0gTr"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "J'fais que danser",
+      "url": "https://open.spotify.com/track/4SLSFnRybeeCkLMFm0Z7Fd"
+    },
+    {
+      "album": {
         "name": "J'fais que danser",
         "url": "https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27"
       },
@@ -13642,6 +13838,24 @@
       "duration_ms": 174320,
       "name": "J'r\u00e9fl\u00e9chis",
       "url": "https://open.spotify.com/track/3xQpQX1TkLTiqzlsYG8EnO"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "J'suis pas devin",
+      "url": "https://open.spotify.com/track/2SUIHnbjCvurDjnjjp9Oei"
     },
     {
       "album": {
@@ -14302,6 +14516,28 @@
       "duration_ms": 147668,
       "name": "Junya",
       "url": "https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225560,
+      "name": "Juste un bisou",
+      "url": "https://open.spotify.com/track/6vpwjY0PzlOK9fHseiNNnB"
     },
     {
       "album": {
@@ -15293,6 +15529,28 @@
     },
     {
       "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219680,
+      "name": "La fusion",
+      "url": "https://open.spotify.com/track/5zDwN3tjp5OGK7SD6gXYbr"
+    },
+    {
+      "album": {
         "name": "La goffa Lolita",
         "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
       },
@@ -15424,7 +15682,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 173427,
       "name": "La League",
       "url": "https://open.spotify.com/track/38KQ5zKDeF3kUH18ZjzBbZ"
@@ -15579,6 +15837,24 @@
     },
     {
       "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "La m\u00e1quina",
+      "url": "https://open.spotify.com/track/7953OK1zxdEkdJBv6XmJ9x"
+    },
+    {
+      "album": {
         "name": "R\u00e9elle vie 3.0",
         "url": "https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw"
       },
@@ -15656,6 +15932,24 @@
       "duration_ms": 71250,
       "name": "La Roja",
       "url": "https://open.spotify.com/track/3ZdHjM78OVjE1NvglkKOPm"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213253,
+      "name": "La route est longue",
+      "url": "https://open.spotify.com/track/5lDUreQrzenEWIaFSQaiLz"
     },
     {
       "album": {
@@ -16442,6 +16736,24 @@
       "duration_ms": 167173,
       "name": "Le pacte",
       "url": "https://open.spotify.com/track/5f0liIbQVE73Rrb3cZAZZg"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231546,
+      "name": "Le rappeur \u00e0 3 lettres",
+      "url": "https://open.spotify.com/track/46x6097gZein1HS9ORrOqC"
     },
     {
       "album": {
@@ -17308,7 +17620,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -17620,6 +17932,24 @@
       "duration_ms": 228192,
       "name": "LOYAL",
       "url": "https://open.spotify.com/track/5W9JWRvM5nTLCz8Z9aW2NS"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152880,
+      "name": "Luffy",
+      "url": "https://open.spotify.com/track/6RadQjQDe8vzn09AkXmyzu"
     },
     {
       "album": {
@@ -19365,6 +19695,28 @@
     },
     {
       "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Min\u00e9 sur Paname",
+      "url": "https://open.spotify.com/track/3hc9T5XzWBHxX7uEaG3Kdz"
+    },
+    {
+      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -20832,7 +21184,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 202186,
       "name": "No love",
       "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
@@ -20996,7 +21348,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 179653,
       "name": "Nouvelles",
       "url": "https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy"
@@ -21604,7 +21956,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 217333,
       "name": "OUTRO",
       "url": "https://open.spotify.com/track/2OCyqdreriNICl35JpNioQ"
@@ -23184,7 +23536,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 238653,
       "name": "Popcorn Sal\u00e9",
       "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
@@ -23210,6 +23562,28 @@
       "duration_ms": 227893,
       "name": "Portes Suicide",
       "url": "https://open.spotify.com/track/6ZcKyt3c0bnJjn4igDFrzf"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276546,
+      "name": "Postich\u00e9",
+      "url": "https://open.spotify.com/track/5bh2UVFvbc6UITYgrQZY6v"
     },
     {
       "album": {
@@ -23304,7 +23678,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -25326,7 +25700,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 176000,
       "name": "Sans Coeur",
       "url": "https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4"
@@ -25800,6 +26174,24 @@
       "duration_ms": 155506,
       "name": "Sensas",
       "url": "https://open.spotify.com/track/142JpcXpYMTXqxfwr5LthZ"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261320,
+      "name": "Sensations",
+      "url": "https://open.spotify.com/track/2cwZ9X7gkT2GVsZ3acLRUo"
     },
     {
       "album": {
@@ -26716,7 +27108,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 259372,
       "name": "SOBAD",
       "url": "https://open.spotify.com/track/6UhgUbPfAIMdKif2Srt7F6"
@@ -26752,7 +27144,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 146440,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/3kzXT2poHInDISrXOgT1PR"
@@ -30418,7 +30810,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -30746,6 +31138,24 @@
       "duration_ms": 198573,
       "name": "WWE",
       "url": "https://open.spotify.com/track/5IuquxbuAYmwm9tucytE3J"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156253,
+      "name": "Y'a plus de raison",
+      "url": "https://open.spotify.com/track/3heul5qehU8OST2QwYfrLA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Herencia de Grandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,756 likes - 212 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,767 likes - 212 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 211 | [La Gripa Del Perico](https://open.spotify.com/track/4VTRF8XNXWoO2tAffbaSpi) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:02 |
 | 212 | [El Arbol De Mi Familia](https://open.spotify.com/track/5ABXU27kjthunVsP9gwfZp) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:06 |
 
-Snapshot ID: `MCxiMjgxODFiZjZhYzBmMDRmYzYwNmRjOTI3ZTZjYzlkMDI5ZDQ2YTFh`
+Snapshot ID: `MCw3YTQ3NGMyZGRjYTYyNzE2ZGY4ZTg2MDA1NmNjMTNkOGVlMWQyZjMz`

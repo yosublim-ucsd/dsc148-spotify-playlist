@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 328007,
+  "num_followers": 328076,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTdhODg2OGM4YzgwOTM2MjE0YjgyZTIwZDBmMDhlY2I0YzgwMDE3",
+  "snapshot_id": "MCw1ZTcwODMxNjY0YjlhZTlhYTRlM2U3ZDk2YTc4ZWY5Y2ExMWQwNjU5",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -247,18 +247,22 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "You Spin Me Round (Like A Record)",
-        "url": "https://open.spotify.com/album/6GnNXKouBmoElIbpAZYnGG"
+        "name": "Ring of Ice (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD"
       },
       "artists": [
         {
-          "name": "Marc Korn",
-          "url": "https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt"
+          "name": "Jennifer Rush",
+          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 176744,
-      "name": "You Spin Me Round (Like A Record) - Radio Edit",
-      "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"
+      "duration_ms": 216344,
+      "name": "Ring of Ice - Stereoact Remix",
+      "url": "https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -283,22 +287,18 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Ring of Ice (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD"
+        "name": "You Spin Me Round (Like A Record)",
+        "url": "https://open.spotify.com/album/6GnNXKouBmoElIbpAZYnGG"
       },
       "artists": [
         {
-          "name": "Jennifer Rush",
-          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "Marc Korn",
+          "url": "https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt"
         }
       ],
-      "duration_ms": 216344,
-      "name": "Ring of Ice - Stereoact Remix",
-      "url": "https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES"
+      "duration_ms": 176744,
+      "name": "You Spin Me Round (Like A Record) - Radio Edit",
+      "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -479,26 +479,6 @@
       "duration_ms": 177780,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
-        "name": "Off Of My Mind",
-        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -775,6 +755,26 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+      },
+      "artists": [
+        {
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
+        },
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
         "name": "Raindrops (feat. Jessica Chertock)",
         "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
       },
@@ -795,26 +795,6 @@
       "duration_ms": 166887,
       "name": "Raindrops (feat. Jessica Chertock)",
       "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
-      },
-      "artists": [
-        {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
-        },
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -1131,22 +1111,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "All Eyez On Me (Rework)",
-        "url": "https://open.spotify.com/album/3HmxGIZ6ZtMO7EoLzHxYh5"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "All Eyez On Me - Rework",
-      "url": "https://open.spotify.com/track/0OsfIkq5kOtNQkvkgtLgPJ"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
       },
@@ -1167,6 +1131,22 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
+        "name": "All Eyez On Me (Rework)",
+        "url": "https://open.spotify.com/album/3HmxGIZ6ZtMO7EoLzHxYh5"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "All Eyez On Me - Rework",
+      "url": "https://open.spotify.com/track/0OsfIkq5kOtNQkvkgtLgPJ"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 171904,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
     },
     {
       "added_at": "2023-12-01 11:00:00",

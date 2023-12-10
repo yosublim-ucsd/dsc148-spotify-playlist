@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 34511,
+  "num_followers": 34558,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmViN2I4YmM3MzM0ZTE5OWY4NTBkNWZhZGY3NWQ1ZGMyNmE5YjQw",
+  "snapshot_id": "MCw4ZDJhYWMyODE1NGQ0YmZmNDc5MWRmY2Q3Yjg0YWQwNmZkM2I5YjRm",
   "tracks": [
     {
       "added_at": "2023-12-08 08:34:53",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
-        "name": "Desmond Blue",
-        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 279146,
-      "name": "I've Got You Under My Skin - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
-    },
-    {
-      "added_at": "2023-12-08 08:34:53",
-      "album": {
         "name": "Helen Merrill With Strings",
         "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 187266,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
+    },
+    {
+      "added_at": "2023-12-08 08:34:53",
+      "album": {
+        "name": "Desmond Blue",
+        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 279146,
+      "name": "I've Got You Under My Skin - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
-        "name": "You 'N Me",
-        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
-      },
-      "artists": [
-        {
-          "name": "The Al Cohn - Zoot Sims Quintet",
-          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
-    },
-    {
-      "added_at": "2023-12-08 08:34:53",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -455,6 +439,22 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
+        "name": "You 'N Me",
+        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
+      },
+      "artists": [
+        {
+          "name": "The Al Cohn - Zoot Sims Quintet",
+          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
+    },
+    {
+      "added_at": "2023-12-08 08:34:53",
+      "album": {
         "name": "Cool Heat",
         "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 174200,
       "name": "My Heart Belongs To Daddy",
       "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
-    },
-    {
-      "added_at": "2023-12-08 08:34:53",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "I Am In Love - Remastered",
-      "url": "https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -523,6 +507,38 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "I Am In Love - Remastered",
+      "url": "https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7"
+    },
+    {
+      "added_at": "2023-12-08 08:34:53",
+      "album": {
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
+    },
+    {
+      "added_at": "2023-12-08 08:34:53",
+      "album": {
         "name": "Their Greatest Hits And Finest Performances",
         "url": "https://open.spotify.com/album/3GK2W9eAOQ6585VCGKvKkh"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 187026,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/1Bis647TLxkQ6T2hhIFyC5"
-    },
-    {
-      "added_at": "2023-12-08 08:34:53",
-      "album": {
-        "name": "Charlie Parker With Strings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
-        "name": "The Best Of Cole Porter",
-        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
-      },
-      "artists": [
-        {
-          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
-          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
-        }
-      ],
-      "duration_ms": 152369,
-      "name": "Experiment",
-      "url": "https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB"
-    },
-    {
-      "added_at": "2023-12-08 08:34:53",
-      "album": {
         "name": "An Evening With Anita O'Day",
         "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 193600,
       "name": "From This Moment On - 1955 Version",
       "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
+    },
+    {
+      "added_at": "2023-12-08 08:34:53",
+      "album": {
+        "name": "The Best Of Cole Porter",
+        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+      },
+      "artists": [
+        {
+          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+        }
+      ],
+      "duration_ms": 152369,
+      "name": "Experiment",
+      "url": "https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
-        "name": "The Best Of Cole Porter",
-        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+        "name": "Worktime (RVG)",
+        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
       },
       "artists": [
         {
-          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
-          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 169001,
-      "name": "Rosalie",
-      "url": "https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv"
+      "duration_ms": 369053,
+      "name": "It's All Right With Me",
+      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+        "name": "The Best Of Cole Porter",
+        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
       },
       "artists": [
         {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
         }
       ],
-      "duration_ms": 189906,
-      "name": "Goodbye Little Dream, Goodbye",
-      "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
+      "duration_ms": 169001,
+      "name": "Rosalie",
+      "url": "https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
-        "name": "Worktime (RVG)",
-        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
         }
       ],
-      "duration_ms": 369053,
-      "name": "It's All Right With Me",
-      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
+      "duration_ms": 189906,
+      "name": "Goodbye Little Dream, Goodbye",
+      "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
-        "name": "The Best Of Cole Porter",
-        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
       },
       "artists": [
         {
-          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
-          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Old Fashioned Garden",
-      "url": "https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2"
+      "duration_ms": 266466,
+      "name": "Why Don't We Try Staying Home?",
+      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
+        "name": "The Best Of Cole Porter",
+        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+      },
+      "artists": [
+        {
+          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Old Fashioned Garden",
+      "url": "https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2"
+    },
+    {
+      "added_at": "2023-12-08 08:34:53",
+      "album": {
         "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
         "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
-      },
-      "artists": [
-        {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Why Don't We Try Staying Home?",
-      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
-    },
-    {
-      "added_at": "2023-12-08 08:34:53",
-      "album": {
         "name": "Mabel Mercer Sings Cole Porter",
         "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
@@ -1047,6 +1047,26 @@
       "duration_ms": 173840,
       "name": "Looking at You",
       "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
+    },
+    {
+      "added_at": "2023-12-08 08:34:53",
+      "album": {
+        "name": "Beauty And The Beat! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1lfNVAwkwZLIPwAmkSUtlQ"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Do I Love You? - Live In Miami, FL/1959",
+      "url": "https://open.spotify.com/track/32k3wUYW5lOUKa5waNJKu9"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -1131,22 +1151,6 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
-        "name": "The Columbia Years (1943-1952) The Complete Recordings",
-        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "You Don't Remind Me",
-      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
-    },
-    {
-      "added_at": "2023-12-08 08:34:53",
-      "album": {
         "name": "Mabel Mercer Sings Cole Porter",
         "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
@@ -1163,22 +1167,34 @@
     {
       "added_at": "2023-12-08 08:34:53",
       "album": {
-        "name": "Beauty And The Beat! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1lfNVAwkwZLIPwAmkSUtlQ"
+        "name": "The Jazz Collection",
+        "url": "https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Do I Love You? - Live In Miami, FL/1959",
-      "url": "https://open.spotify.com/track/32k3wUYW5lOUKa5waNJKu9"
+      "duration_ms": 221959,
+      "name": "Allez-Vous En, Go Away",
+      "url": "https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb"
+    },
+    {
+      "added_at": "2023-12-08 08:34:53",
+      "album": {
+        "name": "The Columbia Years (1943-1952) The Complete Recordings",
+        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "You Don't Remind Me",
+      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -1211,22 +1227,6 @@
       "duration_ms": 234840,
       "name": "Conversation Blues",
       "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
-    },
-    {
-      "added_at": "2023-12-08 08:34:53",
-      "album": {
-        "name": "The Jazz Collection",
-        "url": "https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 221959,
-      "name": "Allez-Vous En, Go Away",
-      "url": "https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Use Your Imagination",
-      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
+      "duration_ms": 131173,
+      "name": "Where Oh Where",
+      "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
     },
     {
       "added_at": "2023-12-08 08:34:53",
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 131173,
-      "name": "Where Oh Where",
-      "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
+      "duration_ms": 182400,
+      "name": "Use Your Imagination",
+      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
     }
   ],
   "unique_name": "The Cole Porter Songbook",

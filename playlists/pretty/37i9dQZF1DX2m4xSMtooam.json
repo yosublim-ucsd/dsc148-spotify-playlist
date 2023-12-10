@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 178360,
+  "num_followers": 178457,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGZmYTRjNThlYzMzNDQwZDEzNWU2ZDc1MTE0ZTkwNDI3MmYxNjhh",
+  "snapshot_id": "MCw2OWJmOTI5NzJmMWRmZGQzNzllNDQ5YWY3ZDdmOGNkYTM4Nzk2MWE0",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "A Little Brighter Every Day",
-        "url": "https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
       },
       "artists": [
         {
-          "name": "Brandon's Three",
-          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
         }
       ],
-      "duration_ms": 197500,
-      "name": "A Little Brighter Every Day",
-      "url": "https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK"
+      "duration_ms": 250186,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+        "name": "A Little Brighter Every Day",
+        "url": "https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp"
       },
       "artists": [
         {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+          "name": "Brandon's Three",
+          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
         }
       ],
-      "duration_ms": 250186,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+      "duration_ms": 197500,
+      "name": "A Little Brighter Every Day",
+      "url": "https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Foz Do Igua\u00e7u",
-        "url": "https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW"
-      },
-      "artists": [
-        {
-          "name": "da Su\u00e9cia",
-          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
-        }
-      ],
-      "duration_ms": 206822,
-      "name": "Foz Do Igua\u00e7u",
-      "url": "https://open.spotify.com/track/7DH2me3WEWpTNcPqeq6I8w"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "From Paris To Rio",
         "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 269000,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Foz Do Igua\u00e7u",
+        "url": "https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "duration_ms": 206822,
+      "name": "Foz Do Igua\u00e7u",
+      "url": "https://open.spotify.com/track/7DH2me3WEWpTNcPqeq6I8w"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "\u00c1guas Do Passado",
-        "url": "https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp"
-      },
-      "artists": [
-        {
-          "name": "Sara Santos",
-          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
-        }
-      ],
-      "duration_ms": 142623,
-      "name": "\u00c1guas Do Passado",
-      "url": "https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Bel\u00ea",
         "url": "https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 269840,
       "name": "Aquela Bossa Ax\u00e9",
       "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "\u00c1guas Do Passado",
+        "url": "https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp"
+      },
+      "artists": [
+        {
+          "name": "Sara Santos",
+          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
+        }
+      ],
+      "duration_ms": 142623,
+      "name": "\u00c1guas Do Passado",
+      "url": "https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Quarteto Jobim Morelenbaum",
+        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Jobim-Morelenbaum",
+          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "\u00c1guas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Recife",
         "url": "https://open.spotify.com/album/1mbGLAaBeA2071AXPDbDcW"
       },
@@ -1735,6 +1751,22 @@
       "duration_ms": 222195,
       "name": "Recife",
       "url": "https://open.spotify.com/track/2it9eIySkoMPexLleyo2eE"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Time Passes By",
+        "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "duration_ms": 151877,
+      "name": "Time Passes By",
+      "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1771,34 +1803,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
+        "name": "Lonely Desires",
+        "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
       },
       "artists": [
         {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
+          "name": "Amir Patel",
+          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
         }
       ],
-      "duration_ms": 181951,
-      "name": "\u00c1guas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Time Passes By",
-        "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonzalez",
-          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
-        }
-      ],
-      "duration_ms": 151877,
-      "name": "Time Passes By",
-      "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
+      "duration_ms": 161860,
+      "name": "Lonely Desires",
+      "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1815,22 +1831,6 @@
       "duration_ms": 262408,
       "name": "Liljeholmsviken",
       "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Lonely Desires",
-        "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
-      },
-      "artists": [
-        {
-          "name": "Amir Patel",
-          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
-        }
-      ],
-      "duration_ms": 161860,
-      "name": "Lonely Desires",
-      "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Studio Rio Presents: The Brazil Connection",
+        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Studio Rio",
+          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "You've Changed - Studio Rio Version",
+      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Quarteto Jobim Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
@@ -1911,26 +1931,6 @@
       "duration_ms": 259933,
       "name": "Day by day",
       "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Studio Rio Presents: The Brazil Connection",
-        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Studio Rio",
-          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "You've Changed - Studio Rio Version",
-      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Sombra La Lua",
+        "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
+      },
+      "artists": [
+        {
+          "name": "Billie Shaw",
+          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
+        }
+      ],
+      "duration_ms": 226468,
+      "name": "Sombra La Lua",
+      "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "The Cole Porter Mix",
         "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
       },
@@ -2031,22 +2047,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Don't Know Why",
-        "url": "https://open.spotify.com/album/1eOWhe6KSCG5aV9mrhjySq"
-      },
-      "artists": [
-        {
-          "name": "Naira Fonseca",
-          "url": "https://open.spotify.com/artist/7CsiZmusVRzvSxLFk3qrgC"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/7v70FdNcR0GkePhz3aQV3n"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Amorosa",
         "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
       },
@@ -2063,18 +2063,38 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Sombra La Lua",
-        "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/1eOWhe6KSCG5aV9mrhjySq"
       },
       "artists": [
         {
-          "name": "Billie Shaw",
-          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
+          "name": "Naira Fonseca",
+          "url": "https://open.spotify.com/artist/7CsiZmusVRzvSxLFk3qrgC"
         }
       ],
-      "duration_ms": 226468,
-      "name": "Sombra La Lua",
-      "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
+      "duration_ms": 204000,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/7v70FdNcR0GkePhz3aQV3n"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Here Now",
+        "url": "https://open.spotify.com/album/4zoSsjGlKk9Ny6BrdSNNPY"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        },
+        {
+          "name": "S\u00f8ren Bebe",
+          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Tangeri",
+      "url": "https://open.spotify.com/track/6ihB2dtJ91MxDE6sD13kty"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -2095,6 +2115,22 @@
       "duration_ms": 293280,
       "name": "I Wish I Knew How It Would Feel to be Free - Studio Rio Version",
       "url": "https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Waters of March",
+      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -2139,22 +2175,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Waters of March",
-      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Santa Tereza",
         "url": "https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM"
       },
@@ -2183,26 +2203,6 @@
       "duration_ms": 207339,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Here Now",
-        "url": "https://open.spotify.com/album/4zoSsjGlKk9Ny6BrdSNNPY"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        },
-        {
-          "name": "S\u00f8ren Bebe",
-          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Tangeri",
-      "url": "https://open.spotify.com/track/6ihB2dtJ91MxDE6sD13kty"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Double Rainbow",
-        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "When I Fall In Love",
         "url": "https://open.spotify.com/album/5Qyx80BQxegTNdvdDkjwJu"
       },
@@ -2275,18 +2259,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Grand Songs",
-        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
+        "name": "Double Rainbow",
+        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
       },
       "artists": [
         {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 206000,
-      "name": "I Should Have Known Better",
-      "url": "https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW"
+      "duration_ms": 284133,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -2307,6 +2291,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Grand Songs",
+        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "I Should Have Known Better",
+      "url": "https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Amorosa",
         "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
       },
@@ -2319,6 +2319,22 @@
       "duration_ms": 292933,
       "name": "Voce Vai Ver",
       "url": "https://open.spotify.com/track/6TYGxl1FiKz2R9BosMN4WM"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Anita's Dream",
+        "url": "https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "duration_ms": 187993,
+      "name": "Anita's Dream",
+      "url": "https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -2343,22 +2359,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Anita's Dream",
-        "url": "https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b"
-      },
-      "artists": [
-        {
-          "name": "Joe Wilson Trio",
-          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
-        }
-      ],
-      "duration_ms": 187993,
-      "name": "Anita's Dream",
-      "url": "https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
       },
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Cande y Paulo",
-        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 226658,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Telecoteco",
         "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 218346,
       "name": "Teleco-Teco",
       "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Cande y Paulo",
+        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 226658,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 302133,
-      "name": "Baubles, Bangles and Beads",
-      "url": "https://open.spotify.com/track/1vVm7i0MsbvRSGaX9SkyP0"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "The Valentine Sessions",
         "url": "https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c"
       },
@@ -2599,6 +2583,22 @@
       "duration_ms": 199120,
       "name": "Small Bossa",
       "url": "https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 302133,
+      "name": "Baubles, Bangles and Beads",
+      "url": "https://open.spotify.com/track/1vVm7i0MsbvRSGaX9SkyP0"
     }
   ],
   "unique_name": "Bossa Chill",

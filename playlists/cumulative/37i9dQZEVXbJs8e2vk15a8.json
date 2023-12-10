@@ -2215,7 +2215,7 @@
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 172767,
+      "duration_ms": 172774,
       "name": "ANDO",
       "url": "https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ"
     },
@@ -6138,7 +6138,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 217610,
       "name": "Cora Roto",
       "url": "https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU"
@@ -13699,6 +13699,24 @@
     },
     {
       "album": {
+        "name": "L'Italiano",
+        "url": "https://open.spotify.com/album/5LkInsAkNvLWqwJwcyrJ8y"
+      },
+      "artists": [
+        {
+          "name": "Toto Cutugno",
+          "url": "https://open.spotify.com/artist/6elIiwc8OyeqKxXe2rmPXZ"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236546,
+      "name": "L'italiano",
+      "url": "https://open.spotify.com/track/2S7RApTsKT0CtYojYq2cKz"
+    },
+    {
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -14208,7 +14226,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 400449,
       "name": "La Purga",
       "url": "https://open.spotify.com/track/4ELHvTp06qVu1XvWe7sy5Z"
@@ -15462,6 +15480,24 @@
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+    },
+    {
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247600,
+      "name": "Love Is A Long Road",
+      "url": "https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"
     },
     {
       "album": {
@@ -18332,7 +18368,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 149288,
       "name": "Mosca Original",
       "url": "https://open.spotify.com/track/5WmzobAIVMBUsA8P6xFygT"
@@ -20702,7 +20738,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 154935,
       "name": "Oye Mami Solo Dime",
       "url": "https://open.spotify.com/track/3Q6o01nivhX5FkHVMfBLm5"
@@ -23642,6 +23678,32 @@
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
+    },
+    {
+      "album": {
+        "name": "QU\u00c9 ROLLITO PRIMAVERA",
+        "url": "https://open.spotify.com/album/6JiecMCf6YvpuISA6rCzbc"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192266,
+      "name": "QU\u00c9 ROLLITO PRIMAVERA",
+      "url": "https://open.spotify.com/track/3WoxwWoay78KXzGRlAm7J7"
     },
     {
       "album": {
@@ -28512,7 +28574,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 166168,
       "name": "TROMPETAS (feat. King Savagge & Best)",
       "url": "https://open.spotify.com/track/7FwUyEny91YMSWGPyi99dG"

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 545939,
+  "num_followers": 546025,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTVhMDk1N2E3NGJlYzA1OTM1MjkwMzc1MWFhMzFkMTkyNmE0NWIz",
+  "snapshot_id": "MCwxNzNkOTMzNDU5NzZjMDA4NmVlODhiOWY4MWUwMzZkNWY2NDU0ZGIx",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
-      },
-      "artists": [
-        {
-          "name": "Crazibiza",
-          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
-        },
-        {
-          "name": "House of Prayers",
-          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
-        }
-      ],
-      "duration_ms": 284886,
-      "name": "Fresh - House of Prayers Poolside Edit",
-      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Out The Fire (At The Hotel)",
         "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+      },
+      "artists": [
+        {
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+        }
+      ],
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Giodisco",
-        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Giodisco",
-      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "ON THE MOVE",
         "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 204820,
       "name": "ON THE MOVE",
       "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Giodisco",
+        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Giodisco",
+      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "The Best Rapper Alive",
+        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
+      },
+      "artists": [
+        {
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+        }
+      ],
+      "duration_ms": 487619,
+      "name": "The Best Rapper Alive",
+      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "retro electrique fever",
         "url": "https://open.spotify.com/album/2y6UGYRHMrQQ1IJZ4vWYbb"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 154687,
       "name": "retro electrique fever",
       "url": "https://open.spotify.com/track/0DRZRfXOWgj2VNJNRRqNnR"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "The Best Rapper Alive",
-        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
-      },
-      "artists": [
-        {
-          "name": "Dj Streaks",
-          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
-        }
-      ],
-      "duration_ms": 487619,
-      "name": "The Best Rapper Alive",
-      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 165720,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "King Of My Castle (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM"
+      },
+      "artists": [
+        {
+          "name": "Wamdue Project",
+          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 199191,
+      "name": "King of My Castle (Purple Disco Machine Remix) (Edit)",
+      "url": "https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 185821,
       "name": "Skipping Like A Stone (feat. Beck) - Gerd Janson Remix",
       "url": "https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "King Of My Castle (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM"
-      },
-      "artists": [
-        {
-          "name": "Wamdue Project",
-          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 199191,
-      "name": "King of My Castle (Purple Disco Machine Remix) (Edit)",
-      "url": "https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Never Let It Go",
         "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
       },
@@ -1407,6 +1423,30 @@
       "duration_ms": 158405,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Beggin' You (Leftwing : Kody Remix)",
+        "url": "https://open.spotify.com/album/1TtWMY6skAo4XVB6Jf6LAf"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        },
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        }
+      ],
+      "duration_ms": 216101,
+      "name": "Beggin' You (Leftwing : Kody Remix)",
+      "url": "https://open.spotify.com/track/4ZpFJCzEFnXRtxRW4FBB5R"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1431,22 +1471,6 @@
       "duration_ms": 181874,
       "name": "FWD (feat. Rudimental & House Gospel Choir)",
       "url": "https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Seventies",
-        "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
-      },
-      "artists": [
-        {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
-        }
-      ],
-      "duration_ms": 196035,
-      "name": "Seventies",
-      "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1583,6 +1607,38 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Hot Summer Love",
+        "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        }
+      ],
+      "duration_ms": 254072,
+      "name": "Hot Summer Love",
+      "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Studio 54",
         "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
       },
@@ -1607,18 +1663,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+        "name": "Post Tenebras Lux",
+        "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+      "duration_ms": 232389,
+      "name": "Post Tenebras Lux",
+      "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1643,38 +1699,6 @@
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Post Tenebras Lux",
-        "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 232389,
-      "name": "Post Tenebras Lux",
-      "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Hot Summer Love",
-        "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
-      },
-      "artists": [
-        {
-          "name": "Jordan Astra",
-          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
-        }
-      ],
-      "duration_ms": 254072,
-      "name": "Hot Summer Love",
-      "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1775,6 +1799,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+      },
+      "artists": [
+        {
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+        }
+      ],
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "CAPYAC FOREVER",
         "url": "https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3"
       },
@@ -1799,22 +1839,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
-      },
-      "artists": [
-        {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
-        }
-      ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "I Discover",
         "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
       },
@@ -1831,42 +1855,6 @@
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Disc Me Bro",
-        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
-      },
-      "artists": [
-        {
-          "name": "Basixx",
-          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Disc Me Bro",
-      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Be with You Tonight",
-        "url": "https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o"
-      },
-      "artists": [
-        {
-          "name": "Val\u00e8re",
-          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
-        },
-        {
-          "name": "La Felix",
-          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
-        }
-      ],
-      "duration_ms": 219858,
-      "name": "Be with You Tonight",
-      "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1891,6 +1879,42 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Be with You Tonight",
+        "url": "https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e8re",
+          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
+        },
+        {
+          "name": "La Felix",
+          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
+        }
+      ],
+      "duration_ms": 219858,
+      "name": "Be with You Tonight",
+      "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Disc Me Bro",
+        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
+      },
+      "artists": [
+        {
+          "name": "Basixx",
+          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Disc Me Bro",
+      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/0RUZEsQQWmWhsuKKo6sk8J"
       },
@@ -1903,30 +1927,6 @@
       "duration_ms": 199217,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Kimchii",
-          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
-        }
-      ],
-      "duration_ms": 209693,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t"
     }
   ],
   "unique_name": "Poolside Disco",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,075 likes - 83 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,359 likes - 83 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 82 | [In Dulce Jubilo](https://open.spotify.com/track/7j2B1yYjSxVg9MGEQLIBqn) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [It's Snowing on My Piano](https://open.spotify.com/album/2GVRqMDD7XThNuI6pxqlAX) | 6:05 |
 | 83 | [Christ Was Born On Christmas Day](https://open.spotify.com/track/1HyKIB8bzYYT6PlosczZj3) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Christ Was Born On Christmas Day](https://open.spotify.com/album/4Av88zEsREUmeIhBwUhWV7) | 2:34 |
 
-Snapshot ID: `MCxmN2UyMjE4MzMxOGViZDIzZjM4NzBkZTNlYjE0OGJjNTY1OTgxNmE3`
+Snapshot ID: `MCxkNWJmNTZhYTkxY2NmNWQwMTVmZmNjMmI3ZWZhNjk4OWRiY2IyYjAy`

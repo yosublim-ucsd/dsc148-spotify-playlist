@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 164507,
+  "num_followers": 164642,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODZlNmM4ODcwZmFhZjAwZGNmMWU1MGRjMTY2MjY0MDYwNWIwNzU5",
+  "snapshot_id": "MCw0MGFkMjIzNDRkNzk2NTJhZDUwNDBkOWRmZTZhZjA1ZGJhNmNhODhl",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "El Cielo Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik"
+      },
+      "artists": [
+        {
+          "name": "Art Aguilera",
+          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Hay Libertad",
+      "url": "https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 299706,
       "name": "Preciosa Sangre",
       "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "El Cielo Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik"
-      },
-      "artists": [
-        {
-          "name": "Art Aguilera",
-          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Hay Libertad",
-      "url": "https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 424534,
-      "name": "Hay Poder",
-      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 447491,
       "name": "Lo Unico Que Quiero",
       "url": "https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 424534,
+      "name": "Hay Poder",
+      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -471,18 +471,26 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
       "artists": [
         {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Josu\u00e9 Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
         }
       ],
-      "duration_ms": 444330,
-      "name": "Digno",
-      "url": "https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL"
+      "duration_ms": 333893,
+      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -539,32 +547,8 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Josu\u00e9 Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Marco Barrientos Auditorio Nacional",
-        "url": "https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC"
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
       },
       "artists": [
         {
@@ -572,9 +556,41 @@
           "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         }
       ],
-      "duration_ms": 338453,
-      "name": "No hay Nadie Como t\u00fa",
-      "url": "https://open.spotify.com/track/2L6tC6T3EMhgtARt8Rgt6Q"
+      "duration_ms": 444330,
+      "name": "Digno",
+      "url": "https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 605453,
+      "name": "Obra de Tu Amor - (Alfarero)",
+      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -611,8 +627,8 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Mi Shalom",
-        "url": "https://open.spotify.com/album/5tcaH26vOYM9mluQUwROcz"
+        "name": "Toma Tu Lugar",
+        "url": "https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo"
       },
       "artists": [
         {
@@ -620,13 +636,13 @@
           "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
         },
         {
-          "name": "Graciela Galmes",
-          "url": "https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r"
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
         }
       ],
-      "duration_ms": 420773,
-      "name": "Mi Shalom",
-      "url": "https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT"
+      "duration_ms": 425640,
+      "name": "Atrae Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7bt8WjPT8Yyy4ovkKkhP9D"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -683,34 +699,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Obra de Tu Amor",
-        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+        "name": "Marco Barrientos Auditorio Nacional",
+        "url": "https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC"
       },
       "artists": [
         {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
-        },
-        {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         }
       ],
-      "duration_ms": 605453,
-      "name": "Obra de Tu Amor - (Alfarero)",
-      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
+      "duration_ms": 338453,
+      "name": "No hay Nadie Como t\u00fa",
+      "url": "https://open.spotify.com/track/2L6tC6T3EMhgtARt8Rgt6Q"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -735,8 +735,8 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Toma Tu Lugar",
-        "url": "https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo"
+        "name": "Mi Shalom",
+        "url": "https://open.spotify.com/album/5tcaH26vOYM9mluQUwROcz"
       },
       "artists": [
         {
@@ -744,13 +744,33 @@
           "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
         },
         {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+          "name": "Graciela Galmes",
+          "url": "https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r"
         }
       ],
-      "duration_ms": 425640,
-      "name": "Atrae Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7bt8WjPT8Yyy4ovkKkhP9D"
+      "duration_ms": 420773,
+      "name": "Mi Shalom",
+      "url": "https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 612165,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -783,26 +803,6 @@
       "duration_ms": 259613,
       "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
       "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612165,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Sin Ti No Vivo (En Vivo)",
-        "url": "https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Del Bosque",
-          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
-        }
-      ],
-      "duration_ms": 299773,
-      "name": "Me Entrego a Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Ven Y Llena Esta Casa",
         "url": "https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 300040,
       "name": "Por Las Llagas",
       "url": "https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Sin Ti No Vivo (En Vivo)",
+        "url": "https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Del Bosque",
+          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
+        }
+      ],
+      "duration_ms": 299773,
+      "name": "Me Entrego a Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 327146,
-      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
-      "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Encontr\u00e9 Mi Lugar",
         "url": "https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 296316,
       "name": "Encontr\u00e9 Mi Lugar",
       "url": "https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 327146,
+      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
+      "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Mi Coraz\u00f3n Te Anhela",
+        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bernal",
+          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
+        }
+      ],
+      "duration_ms": 295692,
+      "name": "Mi Coraz\u00f3n Te Anhela",
+      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Barra Libre",
         "url": "https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 206875,
       "name": "Barra Libre",
       "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Mi Coraz\u00f3n Te Anhela",
-        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bernal",
-          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
-        }
-      ],
-      "duration_ms": 295692,
-      "name": "Mi Coraz\u00f3n Te Anhela",
-      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "No Hay Otro Dios",
-        "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
-      },
-      "artists": [
-        {
-          "name": "Banda Horizonte",
-          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
-        }
-      ],
-      "duration_ms": 320200,
-      "name": "Nos Levantaremos",
-      "url": "https://open.spotify.com/track/2bWTrJ83AEekPcsBQb8X2x"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 225493,
       "name": "Amor Imparable",
       "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 393769,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

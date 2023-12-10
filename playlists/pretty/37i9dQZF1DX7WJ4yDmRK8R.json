@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 364816,
+  "num_followers": 364906,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2FmOTQyZGM5MGYwMjcyZTc2ZjlmZWFjYTlkNzkwM2JkMjU5YzE4",
+  "snapshot_id": "MCxhMmVhYzVjMTIyMmU5MGUwZWVkOWYyZTZhMDZiMjA3ZDUyYmEzMjgw",
   "tracks": [
     {
       "added_at": "2023-11-24 01:10:39",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
       "artists": [
         {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
         }
       ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+      "duration_ms": 116946,
+      "name": "9mm And A Three Piece Suit",
+      "url": "https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
       },
       "artists": [
         {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
         }
       ],
-      "duration_ms": 116946,
-      "name": "9mm And A Three Piece Suit",
-      "url": "https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14"
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "Let\u2019s Face It",
         "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 166166,
       "name": "The Rascal King",
       "url": "https://open.spotify.com/track/2EeIsfOZ3RNXUahTLJXluT"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Never Look Back",
-        "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 143166,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "More Noise And Other Disturbances",
         "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 206800,
       "name": "Where'd You Go",
       "url": "https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Never Look Back",
+        "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 143166,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Twenty-Eight Teeth",
-        "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
-      },
-      "artists": [
-        {
-          "name": "Buck-O-Nine",
-          "url": "https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "My Town",
-      "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "Middle Finger",
         "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 206032,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Twenty-Eight Teeth",
+        "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
+      },
+      "artists": [
+        {
+          "name": "Buck-O-Nine",
+          "url": "https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "My Town",
+      "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Message to the World",
-        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Social Drinker",
-      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "Keasbey Nights",
         "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 194146,
       "name": "On & On & On",
       "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Message to the World",
+        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Social Drinker",
+      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Let's Do Rock Steady",
-        "url": "https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO"
-      },
-      "artists": [
-        {
-          "name": "The Bodysnatchers",
-          "url": "https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV"
-        }
-      ],
-      "duration_ms": 174490,
-      "name": "Let's Do Rock Steady",
-      "url": "https://open.spotify.com/track/0FkBWszH9H2y7TxH899416"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "Firme",
         "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+        "name": "Let's Do Rock Steady",
+        "url": "https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "The Bodysnatchers",
+          "url": "https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV"
         }
       ],
-      "duration_ms": 180066,
-      "name": "House Of Fun",
-      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
+      "duration_ms": 174490,
+      "name": "Let's Do Rock Steady",
+      "url": "https://open.spotify.com/track/0FkBWszH9H2y7TxH899416"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -1335,6 +1319,22 @@
       "duration_ms": 228040,
       "name": "Life Won't Wait",
       "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "House Of Fun",
+      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
-      },
-      "artists": [
-        {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
-        }
-      ],
-      "duration_ms": 185088,
-      "name": "Enjoy Yourself",
-      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "Beatdown Generation",
         "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 194825,
       "name": "Beatdown Generation",
       "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "duration_ms": 185088,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
-      },
-      "artists": [
-        {
-          "name": "Hepcat",
-          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "Sound the Alarm",
         "url": "https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 168182,
       "name": "Things Change",
       "url": "https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+      },
+      "artists": [
+        {
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
     },
     {
       "added_at": "2023-11-24 01:10:39",

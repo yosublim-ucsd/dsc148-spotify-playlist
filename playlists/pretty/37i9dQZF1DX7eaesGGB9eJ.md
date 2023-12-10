@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,544 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,638 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 8 | [Esta Vida Me Encanta \(feat\. Zimple & Don Aero\)](https://open.spotify.com/track/2WNPCBgCQmcKqbFJQC9pK8) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 5:09 |
 | 9 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
 | 10 | [Ella Se Fue](https://open.spotify.com/track/02LnwwnaanFpM5dZNArPBb) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [La Sangre Nunca Muere](https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ) | 4:47 |
-| 11 | [Hit Me](https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 4:16 |
+| 11 | [Chingo de Cheve](https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:29 |
 | 12 | [El Arte del Engaño](https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. II](https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x) | 4:22 |
 | 13 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
-| 14 | [Chingo de Cheve](https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:29 |
+| 14 | [Hit Me](https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 4:16 |
 | 15 | [Un Par De Balas](https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Clasificacion C Vol.1](https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ) | 3:48 |
 | 16 | [Serenata Rap](https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:27 |
 | 17 | [Anda Y Ve](https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Los Aguacates De Jilquilpan](https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 |
 | 50 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/5zqu802NxT6gyJdxeGVWgE) | [El Chivo](https://open.spotify.com/artist/69SY9YEb04oDqLvN0xU9i7) | [Si Ladran No Muerden](https://open.spotify.com/album/5hUI3j0exMZcORuarfhK3J) | 4:26 |
 
-Snapshot ID: `MCwzYjJlYzg5MTI3YzFhZjA3Mjc0N2QxN2M1ZTA5YTExMDkxMDhiZmZh`
+Snapshot ID: `MCwzZjJjYjg4Mjg5MjkyYWMyOWVjNGM1ODgwNTA3YTk0Y2M1NWUyMjRi`

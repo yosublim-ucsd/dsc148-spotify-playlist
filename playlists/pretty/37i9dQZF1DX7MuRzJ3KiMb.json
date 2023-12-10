@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 64029,
+  "num_followers": 64075,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmI1ZDFhNTk5NmJkMmJjNDZiNzAxNDhlOGI0MjJlMDlhZGIyOGM4",
+  "snapshot_id": "MCw2YTJmMzhjZjliZTkwOTI3YjAwYzZmYTlkOGEzNGE4NTA0MjE2MzBk",
   "tracks": [
     {
       "added_at": "2023-06-22 20:49:18",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "Permanente",
         "url": "https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 235044,
       "name": "Permanente",
       "url": "https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
+        "name": "Qu\u00e9 Suerte",
+        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Qu\u00e9 Suerte",
+      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
         "name": "ULYSE",
         "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
-        "name": "Qu\u00e9 Suerte",
-        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Qu\u00e9 Suerte",
-      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/1NM35ebOcjBJsY0SYIezku"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0XYn21VZfgYoFMI4l9cE6U"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/1NM35ebOcjBJsY0SYIezku"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0XYn21VZfgYoFMI4l9cE6U"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "De Verdad",
+      "url": "https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
         "name": "Quiero Verte Hoy",
         "url": "https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "De Verdad",
-      "url": "https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "Ni Modo",
         "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Tengo Algo Que Decirte",
-        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Tengo Algo Que Decirte",
-      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "Tu Historia",
         "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 212156,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
+        "name": "Tengo Algo Que Decirte",
+        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Tengo Algo Que Decirte",
+      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "Bolero Estelar",
         "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 238406,
       "name": "Bolero Estelar",
       "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
+        "name": "Ir por un Caf\u00e9",
+        "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Ir por un Caf\u00e9",
+      "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
         "name": "45 RPM",
         "url": "https://open.spotify.com/album/7A8QtKKDMM2Rs91Sq5fcfr"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 263906,
       "name": "Para la Eternidad",
       "url": "https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
-        "name": "Ir por un Caf\u00e9",
-        "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Ir por un Caf\u00e9",
-      "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
     }
   ],
   "unique_name": "cursi",

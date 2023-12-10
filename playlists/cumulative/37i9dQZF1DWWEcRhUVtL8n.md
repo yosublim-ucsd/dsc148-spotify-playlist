@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-1,715 songs - 3 day 18 hr 21 min
+1,716 songs - 3 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [All I Need](https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All I Need](https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk) | 3:36 | 2020-11-03 | 2021-03-22 |
 | [All My Friends Are Stoned](https://open.spotify.com/track/7BL33HmuFQien4olebugdj) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [What About Now \- EP](https://open.spotify.com/album/3HwtxvL5vCqTmQdDNuEMm7) | 2:39 | 2020-11-03 | 2021-10-13 |
 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 | 2022-01-21 | 2022-06-15 |
-| [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2023-09-08 |  |
+| [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2023-09-08 | 2023-12-10 |
 | [All Night](https://open.spotify.com/track/3y6mJwIyeV7YbUgIZuR0GU) | [Tae](https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2) | [All Night](https://open.spotify.com/album/2L7ClezYcFXiYBf7NfV5q1) | 2:57 | 2021-08-13 | 2021-12-26 |
 | [All Our Friends Are Splitting Up](https://open.spotify.com/track/1uwZ46SjGjrVaZOdR3zYUF) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [All Our Friends Are Splitting Up](https://open.spotify.com/album/3Rf75PC9Awl8gfIccji1n8) | 3:40 | 2021-08-27 | 2022-04-15 |
 | [All Out of Love](https://open.spotify.com/track/13Dj9CkrgsKPHBRH0zzoNu) | [Stark](https://open.spotify.com/artist/5wNuh7FxIFmoNlRLMoVzWl), [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [All Out of Love](https://open.spotify.com/album/257gP7Vsp56gCBSWXhEaOt) | 3:47 | 2020-10-16 | 2021-05-21 |
@@ -1284,6 +1284,7 @@
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-29 | 2022-04-11 |
 | [Sad Girl Summer](https://open.spotify.com/track/6WyCDecnLaByR2WN3BVGDQ) | [smol fish](https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v) | [Sad Girl Summer](https://open.spotify.com/album/2Kcmjgcrs002N9IPKOZvo0) | 3:06 | 2021-05-03 | 2021-05-27 |
 | [Sad to Breathe](https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sad to Breathe](https://open.spotify.com/album/0sGBhfoO2V3a2gJejL2Li6) | 3:34 | 2023-04-21 | 2023-08-12 |
+| [Sad to Breathe](https://open.spotify.com/track/4lSCs7NXjDpMqWiGm4LD0Z) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:34 | 2023-04-21 |  |
 | [Sad To See You Happy](https://open.spotify.com/track/6ffcV0j4CLdpOE5CLLVzWm) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Sad To See You Happy](https://open.spotify.com/album/0HxhtexTu3zoF0tqhQ0gnk) | 2:54 | 2021-05-03 | 2022-04-07 |
 | [Safe Places](https://open.spotify.com/track/0877TMacBX9bM5cHZg6c3Q) | [Cassidy King](https://open.spotify.com/artist/04igiyo2E7vg7FxMxoTsIR) | [Safe Places](https://open.spotify.com/album/1bNGqBNK8ZqjmfRm843y1E) | 3:07 | 2020-10-13\* | 2020-11-20 |
 | [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 | 2022-12-09 |  |

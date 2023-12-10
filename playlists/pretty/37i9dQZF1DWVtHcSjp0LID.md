@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,573 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,575 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 44 | [Archive Seven](https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ) | [Pilotpriest](https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX) | [WWDKF](https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM) | 5:44 |
 | 45 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
 | 46 | [Holding You](https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Stay](https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb) | 5:08 |
-| 47 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
-| 48 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
+| 47 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
+| 48 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
 | 49 | [Simple Child](https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [LKF Project](https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d), [Selim Sivade](https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn), [Rondo Mo](https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG) | [Simple Child](https://open.spotify.com/album/3YRYyLIIgyWaCZ5okstYIi) | 6:16 |
 | 50 | [The Other Room](https://open.spotify.com/track/3BqEAXUXFoBLm2JXbEuG7o) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Moon III](https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4) | 1:57 |
 
-Snapshot ID: `MCw1ZGQ3YTk4YmExMjI2Yjg2OGU5YTFhNmI3NjdjYTU0YzlmNDZkNjg5`
+Snapshot ID: `MCxiNDgzNzJkMTk1YzJjNWU5M2YzMjI4MTg5NzAxOGIxNTk2NDlkZTYw`

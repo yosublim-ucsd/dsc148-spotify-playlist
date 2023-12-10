@@ -278,7 +278,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 230000,
       "name": "Baby Boy",
       "url": "https://open.spotify.com/track/59bmTqt7AFMBGLssuhtkmK"
@@ -916,6 +916,24 @@
       "duration_ms": 192245,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA"
+    },
+    {
+      "album": {
+        "name": "Feels Like Christmas (Live)",
+        "url": "https://open.spotify.com/album/3zbwpgm0jj9SSiybjnzQzU"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170398,
+      "name": "Everybody Knows - Live",
+      "url": "https://open.spotify.com/track/0Z7w4U1cX7QtpVhkoQG4Rs"
     },
     {
       "album": {
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 185639,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa"
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 257026,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/3gndDjG0Lxsm2b1eH5nA0Z"
@@ -3692,6 +3710,28 @@
       "duration_ms": 234815,
       "name": "Snow Day",
       "url": "https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi"
+    },
+    {
+      "album": {
+        "name": "Vian Izak & Juniper Vale Do Christmas, Vol. 1",
+        "url": "https://open.spotify.com/album/1DOUiwfFhAGBqgmD1LGTNt"
+      },
+      "artists": [
+        {
+          "name": "Vian Izak",
+          "url": "https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq"
+        },
+        {
+          "name": "Juniper Vale",
+          "url": "https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134640,
+      "name": "So We Sing on Christmas Day",
+      "url": "https://open.spotify.com/track/3JJFsY2EVqcJUW3bbxfxC3"
     },
     {
       "album": {
@@ -4460,7 +4500,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 93227,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr"

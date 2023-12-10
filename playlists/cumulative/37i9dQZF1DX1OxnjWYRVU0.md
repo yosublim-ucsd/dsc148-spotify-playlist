@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-455 songs - 20 hr 13 min
+456 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Cruel Summer](https://open.spotify.com/track/1zM1iQH65BDMk8TfjuGiN8) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Darci](https://open.spotify.com/artist/7pYtArA7b1TsnyoKAk9xOm) | [Cruel Summer](https://open.spotify.com/album/2jMt2LkilGrw6OClyjvWms) | 3:09 | 2022-08-01 |  |
 | [Cry for You](https://open.spotify.com/track/3mRbaq32Z5NSEIlsICMGxl) | [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Luc Ross](https://open.spotify.com/artist/2W3Sn6sLJ81kw6lOOY1bLJ), [WAGMI](https://open.spotify.com/artist/4zekO499ywZod7PN71TR2i), [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo) | [Cry for You](https://open.spotify.com/album/4tHn2eKtlFRvdAQ0JM17el) | 2:53 | 2022-08-05 |  |
 | [Cry For You](https://open.spotify.com/track/7AOSVXC6XUjYOWMC5Mhyij) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Martin van Lectro](https://open.spotify.com/artist/0goAkRbqjvGdCHsTN0ToOL) | [Cry For You](https://open.spotify.com/album/22nicfTAUt4OeyTxaqdm2a) | 2:00 | 2022-06-23 |  |
-| [Cry For You](https://open.spotify.com/track/1Y7GfGztj5Djt2DWT7Gbgt) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [Cry For You](https://open.spotify.com/album/2GQCnQigOLkPacuPotRygB) | 2:29 | 2022-01-13 |  |
+| [Cry For You](https://open.spotify.com/track/1Y7GfGztj5Djt2DWT7Gbgt) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [Cry For You](https://open.spotify.com/album/2GQCnQigOLkPacuPotRygB) | 2:29 | 2022-01-13 | 2023-12-10 |
+| [Cry For You](https://open.spotify.com/track/3wT0tDOuJLw4l8hkUyqVAl) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [Cry For You](https://open.spotify.com/album/77G5u7PE5Q93Jr4v5OxDLG) | 2:29 | 2023-10-27 |  |
 | [Cry For You](https://open.spotify.com/track/3ml2zPEx4LiKDEsWjneROo) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Michelle Collin](https://open.spotify.com/artist/0JCIIVMatHevg7wqdpuNxg), [Medon](https://open.spotify.com/artist/1qgI7Ho1Ky0EbmK9JhWg5J) | [Cry For You](https://open.spotify.com/album/00lN5WAzPoLAGNGRB4iCS8) | 2:28 | 2022-03-17 |  |
 | [Daddy Cool](https://open.spotify.com/track/50rcUhHimavzT1qq6QrgMG) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Daddy Cool](https://open.spotify.com/album/7fXtm0TpLRIJhxobKDjxRp) | 2:34 | 2022-01-13 |  |
 | [Dance With Somebody](https://open.spotify.com/track/0Jmh09aQdMyzpIwnwNwiLS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Benny Bridges](https://open.spotify.com/artist/4lP1lKWYqNLYWYtnuTh8OF) | [Dance With Somebody](https://open.spotify.com/album/5P3b13kbX6kSjcURHPyqxv) | 3:24 | 2023-05-23 |  |

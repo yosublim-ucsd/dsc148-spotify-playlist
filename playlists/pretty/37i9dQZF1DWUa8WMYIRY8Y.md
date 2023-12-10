@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,637 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,642 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Slipping Away](https://open.spotify.com/track/26u2W9VmoNNDqZMceqrBDs) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Slipping Away](https://open.spotify.com/album/3v2BiLetLp1wWT6lGceWiK) | 3:09 |
 | 50 | [Killing My Borrowed Time](https://open.spotify.com/track/53JhpHJVdE0TxXiZ6p387I) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [4D Country](https://open.spotify.com/album/4K2SDO8BFmI5oJsAHJieHp) | 3:17 |
 
-Snapshot ID: `MCw2NGViNTRkZDY1NmJkNmE1M2VjMTkzMDExZjZjMGMwNjQ2NWRjODMw`
+Snapshot ID: `MCxhM2YzNzNhODNhNzk5YjUyMzc2ZDkwZGJjOGU1MGE2YzA0YWY3MTEy`

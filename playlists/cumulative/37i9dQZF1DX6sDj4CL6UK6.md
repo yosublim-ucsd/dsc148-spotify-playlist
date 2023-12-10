@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Dot.
 
-264 songs - 15 hr 18 min
+265 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Confessions of a Bipolar Mind](https://open.spotify.com/track/3rA6c03IoVVDvkIds5LtZZ) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Confessions of a Bipolar Mind](https://open.spotify.com/album/6JuxjsRiQFHQWIW4vT9tWP) | 4:38 | 2022-03-25 | 2022-05-26 |
 | [Constellation](https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 3:15 | 2022-03-25 |  |
 | [Cool Kids](https://open.spotify.com/track/02xEsJ0ynw9UuAHWluiaPd) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5Fzma3FmQTk5gzE2S7ixv7) | 2:52 | 2023-09-07 | 2023-11-25 |
+| [Cool Kids](https://open.spotify.com/track/0pnEDzL1zut4qdMYikDix7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5YBeCgnlCf92RpY7ux9Xmu) | 2:52 | 2023-12-07 |  |
 | [Cool Kids](https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs) | 2:52 | 2022-03-25 | 2023-09-09 |
 | [Count The Stars](https://open.spotify.com/track/0pdZPMxxAssCeHFthSRFTp) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Count The Stars](https://open.spotify.com/album/19DpRWlsFRFxEeqsi0OYLl) | 2:54 | 2023-02-24 | 2023-03-29 |
 | [Courtside](https://open.spotify.com/track/5TzpCPx20n4hELdE9Vw6ZQ) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Courtside](https://open.spotify.com/album/2SI19jpnxHwAtvjTQbWKWD) | 2:26 | 2023-05-24 |  |
@@ -99,7 +100,7 @@
 | [Hello and Goodbye](https://open.spotify.com/track/1UXQnieFGCBAeiWM173eMX) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Hello and Goodbye](https://open.spotify.com/album/3LpTSaMHbu8oo0CBxjgMJt) | 3:09 | 2022-08-05 | 2023-01-13 |
 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 | 2023-05-19 |  |
 | [High Horse](https://open.spotify.com/track/57TCZJvvp9aR2gc6NTD4OB) | [Viv & Shaz](https://open.spotify.com/artist/0HcVwSFeNSlLHDaIbod2xf), [Vivienne Pocha](https://open.spotify.com/artist/2fUE5kssQWjZs704BulUUI), [Shazneen Arethna](https://open.spotify.com/artist/7sCO08Lf7f0FHy2KEEZ5lk) | [High Horse](https://open.spotify.com/album/1BuuweRpEy3kExoCcPhZzV) | 3:39 | 2022-05-25 | 2023-01-13 |
-| [Hold Me](https://open.spotify.com/track/0Ln54jTpgtQL7R1FeK70fP) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Hold Me](https://open.spotify.com/album/0Eg6kYUGniNTOb59oTofPO) | 4:41 | 2023-10-27 |  |
+| [Hold Me](https://open.spotify.com/track/0Ln54jTpgtQL7R1FeK70fP) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Hold Me](https://open.spotify.com/album/0Eg6kYUGniNTOb59oTofPO) | 4:41 | 2023-10-27 | 2023-12-10 |
 | [Hold Me](https://open.spotify.com/track/3EnsM1Y8cEb6OLDloYhss6) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Swing](https://open.spotify.com/album/08w80ZQxYfFGVrT5p7F8xU) | 2:43 | 2023-05-24 |  |
 | [Holding On To The Hope](https://open.spotify.com/track/24IgBHkgObOvSD4A2IgW0y) | [The Colour Compound](https://open.spotify.com/artist/4KtxCWu3CoqSSHtdmdiwpu) | [Holding On To The Hope](https://open.spotify.com/album/4J7eyBtkz33Em3qI5FD1g9) | 3:22 | 2022-04-28 | 2022-05-26 |
 | [Holding Onto History](https://open.spotify.com/track/5LJPsV27A8aIPAanwLgeAx) | [krishaa](https://open.spotify.com/artist/5rZ7vrAU9rGpRtgdlpjklV) | [Holding Onto History](https://open.spotify.com/album/0yyRIcVGq7BwnvP3CN2RpU) | 4:15 | 2022-03-25 | 2022-05-23 |

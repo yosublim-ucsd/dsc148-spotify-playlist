@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-878 songs - 2 day 15 hr 5 min
+879 songs - 2 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [Release](https://open.spotify.com/track/3158gk3gslAHlPrapSLKrA) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Midoca](https://open.spotify.com/artist/3k4i4K7PicHqnodnYhXsJy) | [Visceral](https://open.spotify.com/album/3qwS31WiLq73r7FsUtfwAx) | 3:52 | 2019-06-19\* | 2020-10-19 |
 | [Remember Rainbow Bridge](https://open.spotify.com/track/7bstdaL6jxS4qHoA2C8Iov) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Alto Aria](https://open.spotify.com/artist/2fKzX6tkABWKK5MnXizpSR) | [Remember Rainbow Bridge](https://open.spotify.com/album/0wP9qvozGpv6ZjX7IaaomX) | 6:16 | 2022-02-11 | 2022-04-20 |
 | [Requiem for Vega](https://open.spotify.com/track/2ipxQSBcvB28gbFThM3zI5) | [Lawrence Lui](https://open.spotify.com/artist/2msiavkyenRtKMxCDlRzEm) | [Retroism EP](https://open.spotify.com/album/7ITmnLWTyD8qKvTnb6VXgr) | 3:30 | 2019-06-19\* | 2020-10-21 |
+| [Respect The Source](https://open.spotify.com/track/2guCov9kckEzAQdpxOKZWc) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Barclay Crenshaw](https://open.spotify.com/album/7BY6KOUaHgakDbnS1DZspp) | 3:01 | 2023-12-06 |  |
 | [Respect The Source](https://open.spotify.com/track/7chpNfkxBfsGpUzj9btqLe) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Barclay Crenshaw](https://open.spotify.com/album/2p85APvTZpNNrpASUlCCsh) | 3:01 | 2019-05-26\* | 2022-04-21 |
 | [Rest in Peace](https://open.spotify.com/track/1qxdgsiWSmO6l4Ds1EZBj9) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [VHS](https://open.spotify.com/album/5dpCCx6F2ECsqnrdmwNGCH) | 3:31 | 2019-06-19\* | 2020-10-21 |
 | [restless](https://open.spotify.com/track/0HkqBi1na692hJl5nrTDit) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Kazukii](https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga) | [restless](https://open.spotify.com/album/3EDRGL855m5gnbykVzektt) | 2:37 | 2023-07-28 | 2023-10-14 |
@@ -775,7 +776,7 @@
 | [The Long Journey Home](https://open.spotify.com/track/78qoim2GGUkspkxV8kUtVv) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [The Long Journey Home](https://open.spotify.com/album/5uCP7wZqIvuZE7tKMk1vTz) | 4:48 | 2021-07-23 |  |
 | [The Longest Night](https://open.spotify.com/track/6mnqGJKrRVJfyrzxnvoOeo) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [The Longest Night](https://open.spotify.com/album/3nEU9bN4Hyg4wvtreQu7j9) | 4:50 | 2021-01-08 | 2022-06-16 |
 | [The Milky Way](https://open.spotify.com/track/6wmjXJSNbPrm3sqPuMQQ47) | [Androm](https://open.spotify.com/artist/4e0hkGJ86D7I16d4vBnx3j) | [The Milky Way](https://open.spotify.com/album/5XdHFNNBpYwYBrKqMRj8jp) | 4:30 | 2019-05-26\* | 2020-08-26 |
-| [The Mountain Will Fall](https://open.spotify.com/track/2zFdB0tHEumsFa5Z6tLuBM) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Mountain Will Fall](https://open.spotify.com/album/3OSeqyUWmkngEhQTTkdTSA) | 4:36 | 2023-12-06 |  |
+| [The Mountain Will Fall](https://open.spotify.com/track/2zFdB0tHEumsFa5Z6tLuBM) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Mountain Will Fall](https://open.spotify.com/album/3OSeqyUWmkngEhQTTkdTSA) | 4:36 | 2023-12-06 | 2023-12-10 |
 | [The Mountain Will Fall](https://open.spotify.com/track/7fKjt9lQRrbi7JaqfIsjIH) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Mountain Will Fall](https://open.spotify.com/album/2OW3iDsmS98lTqgta5Zv0O) | 4:36 | 2019-06-22 | 2022-04-21 |
 | [The Muse](https://open.spotify.com/track/6weh7iGLagI2lFYHuGuIcb) | [Lux Prima](https://open.spotify.com/artist/5fNO1btmBpMwi44ULZlWtO) | [Divisional Articulations](https://open.spotify.com/album/1qbxSL0REGz0hyipR5vjil) | 4:25 | 2019-07-25 | 2020-10-21 |
 | [The Pace](https://open.spotify.com/track/6nIsqJONitQCLGZt9x9zuE) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [The Pace](https://open.spotify.com/album/5xhhADw7EuZB2OZJR8lX9X) | 3:02 | 2023-05-05 |  |

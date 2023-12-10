@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-295 songs - 1 day 0 hr 3 min
+296 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Don't Explain](https://open.spotify.com/track/2yHAermF5pXf4HQPcbkjy1) | [New York Trio](https://open.spotify.com/artist/6U7yxyvc7JseXp9WbFdQm7) | [夜のブルース](https://open.spotify.com/album/0bGfW2KduWtUnGwBRb5oYW) | 5:56 | 2022-05-18 |  |
 | [Don't Go to Strangers](https://open.spotify.com/track/3Qly2YrjWrs6Z9X2Wfwo4C) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98), [Joakim Milder](https://open.spotify.com/artist/6qlsVWkkxnqeu0ysL9qDjx) | [Ballads](https://open.spotify.com/album/7fb7qwGqfdxJH1fKegVMTr) | 4:37 | 2022-05-18 | 2022-08-27 |
 | [Doubtful](https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Doubtful](https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo) | 3:44 | 2023-05-31 |  |
-| [Easy To Remember](https://open.spotify.com/track/6gW8WmLAWrjH857ZxVBrxK) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Diamond In The Rough](https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf) | 6:10 | 2022-09-08 |  |
+| [Easy To Remember](https://open.spotify.com/track/6gW8WmLAWrjH857ZxVBrxK) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Diamond In The Rough](https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf) | 6:10 | 2022-09-08 | 2023-12-10 |
 | [Emigrantvisa](https://open.spotify.com/track/5kjFu1dBCCqm0RPpjdgRQt) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 3:27 | 2022-05-26 | 2022-11-11 |
 | [End Music](https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6) | [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Mikkel Hess](https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq) | [At the Movies](https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj) | 4:00 | 2023-11-10 |  |
 | [Estrellita](https://open.spotify.com/track/3O7WAvCq2hW9QLgXo5NcH5) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Blues In Mambo](https://open.spotify.com/album/0iAa7v14VpiDTV1lgvkZVK) | 6:56 | 2022-09-08 | 2023-03-18 |
@@ -292,6 +292,7 @@
 | [Who Can I Turn To?](https://open.spotify.com/track/5QUGJBVRj59tCxosNP7G6X) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:10 | 2022-05-18 | 2022-08-27 |
 | [Willow Weep for Me](https://open.spotify.com/track/07jrvCmNfEglvbjxPZ3GIv) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 5:21 | 2022-05-18 | 2022-07-26 |
 | [Willow Weep for Me \- Remastered](https://open.spotify.com/track/111VqNnQA1m6enKxaO77B5) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 5:15 | 2022-06-29 | 2022-09-23 |
+| [Wind Dancer](https://open.spotify.com/track/32wWxPaGYRbkHHLI3bqoYz) | [Dreamland](https://open.spotify.com/artist/5WXDXyGmpfLSUlaRXueUYj) | [Wind Dancer](https://open.spotify.com/album/32FSarmIZSQXG34jvKX324) | 3:01 | 2023-12-08 |  |
 | [Winter in Munich](https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Anyone Can Dream](https://open.spotify.com/album/773JrMS5ndOwtXxSss6u2m) | 3:12 | 2022-11-24 |  |
 | [Withered Flowers](https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Withered Flowers](https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU) | 3:53 | 2022-11-24 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 5:11 | 2022-05-18 |  |

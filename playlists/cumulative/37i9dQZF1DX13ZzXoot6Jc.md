@@ -4,7 +4,7 @@
 
 > Country hits that will have you singing every word\. Cover: Riley Green
 
-278 songs - 15 hr 7 min
+279 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [She's Mine](https://open.spotify.com/track/6NCbMyR7A8MjbX0UhaEgbd) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Wild World](https://open.spotify.com/album/4IzjQzx4s48rZm0q8wVXWS) | 3:49 | 2022-11-15 | 2022-12-29 |
 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 | 2023-09-22 |  |
 | [Shoulda Known Better](https://open.spotify.com/track/4br26gvkvgv1wB4gdGGMIg) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Spillin' My Truth](https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r) | 2:46 | 2023-11-17 |  |
-| [Singing In A Beer](https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Singing In A Beer](https://open.spotify.com/album/2Rf3FtApcWOYcUSSUEc3v5) | 2:52 | 2023-08-18 |  |
+| [Singing In A Beer](https://open.spotify.com/track/6fAQULgYx8RZt6CHb9CJVw) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig) | 2:52 | 2023-12-08 |  |
+| [Singing In A Beer](https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Singing In A Beer](https://open.spotify.com/album/2Rf3FtApcWOYcUSSUEc3v5) | 2:52 | 2023-08-18 | 2023-12-10 |
 | [Single Saturday Night](https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Single Saturday Night](https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps) | 3:07 | 2022-07-21 | 2023-08-05 |
 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 | 2022-07-21 | 2022-11-16 |
 | [Slow Down Summer](https://open.spotify.com/track/6c9mvipi1OooFPcU2dbwxq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:37 | 2022-07-21 | 2022-11-12 |

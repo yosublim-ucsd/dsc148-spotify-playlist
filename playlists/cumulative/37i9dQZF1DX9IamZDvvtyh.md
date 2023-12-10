@@ -4,7 +4,7 @@
 
 > 80s workout jams.
 
-51 songs - 3 hr 29 min
+53 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Dare](https://open.spotify.com/track/7DZcrMqgQiO4kotOGucIM7) | [Stan Bush](https://open.spotify.com/artist/7qT1EPkli4RDJ2KNynkQyQ) | [Transformers](https://open.spotify.com/album/6MB5ahz8dvKcoO3DVHrmgU) | 4:01 | 2023-01-20 |  |
 | [Don't Stop Runnin'](https://open.spotify.com/track/6ZZ2ddUz2ZuQpkFeJm3FlK) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [In Rock We Trust \(Expanded Edition\)](https://open.spotify.com/album/6hHdV5X9hTkpsny9xaDD1p) | 4:21 | 2023-01-20 |  |
 | [Down Boys](https://open.spotify.com/track/0dw3dXWx6dgp7Ri3HeDBUq) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:03 | 2023-01-20 |  |
-| [Escape](https://open.spotify.com/track/0uohDwZcv1qjIKVsLsx0HD) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 5:16 | 2023-01-20 |  |
+| [Escape](https://open.spotify.com/track/0uohDwZcv1qjIKVsLsx0HD) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 5:16 | 2023-01-20 | 2023-12-10 |
+| [Escape \(2022 Remaster\)](https://open.spotify.com/track/20ai3uWFuWgutSWA8MRG50) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 5:16 | 2023-01-20 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 | 2023-01-20 |  |
 | [Feel the Heat](https://open.spotify.com/track/5ZF6C6EdmJnOmisRh0nlbU) | [Jean Beauvoir](https://open.spotify.com/artist/3n99AZrLOuuAtHvu12uDDC) | [Drums Along the Mohawk](https://open.spotify.com/album/6nP6m9Xc6hG8JbCLtpg6o4) | 4:03 | 2023-01-20 |  |
 | [Fire to Burn](https://open.spotify.com/track/4Ar7Eby1joalj1sFyXg6Jb) | [Saraya](https://open.spotify.com/artist/3ruACf0oMHNYWImFGj10c6) | [Saraya](https://open.spotify.com/album/1KogbTSOYl4u0jZrAoXnko) | 4:38 | 2023-01-20 |  |
@@ -48,7 +49,8 @@
 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 | 2023-01-20 |  |
 | [Say What You Will](https://open.spotify.com/track/08nVwMJvWeJwwc9pSd74wO) | [Fastway](https://open.spotify.com/artist/7eD005d7pGOEYD3eWVRecb) | [FASTWAY](https://open.spotify.com/album/6sCVVfHN80AH6tzqTvCRDg) | 3:19 | 2023-01-20 |  |
 | [Scarface \(Push It To The Limit\)](https://open.spotify.com/track/0H6rpW1xnJ8qRQwSrIADPE) | [Paul Engemann](https://open.spotify.com/artist/3Rfb8wuY9YHVntDXJqPW6r) | [Scarface \(Expanded Motion Picture Soundtrack\)](https://open.spotify.com/album/6ccQdoDqZsqWlflxEIg0F3) | 2:58 | 2023-01-20 |  |
-| [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 | 2023-01-20 |  |
+| [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 | 2023-01-20 | 2023-12-10 |
+| [Separate Ways \(Worlds Apart\) \[2023 Remaster\]](https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers \(2023 Remaster\)](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 5:23 | 2023-01-20 |  |
 | [Slow an' Easy](https://open.spotify.com/track/1NH0Zs7WkQg8h8mm3jS5yn) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Slide It In](https://open.spotify.com/album/4jFSgsgOGtd96FZtNWF0cp) | 6:09 | 2023-01-20 |  |
 | [Streets Of Siam](https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL) | [Paul Hertzog](https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d) | [Kickboxer: The Deluxe Edition Soundtrack](https://open.spotify.com/album/5GEMDzzKJzVJkwRiPYPzn4) | 3:51 | 2023-01-20 |  |
 | [Take Me Home Tonight](https://open.spotify.com/track/63diy8Bzm0pHMAU37By2Nh) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [The Best Of Eddie Money](https://open.spotify.com/album/590LYMDhJ9uUglR8QeNGWz) | 3:31 | 2023-01-20 |  |

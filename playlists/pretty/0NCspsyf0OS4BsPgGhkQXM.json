@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2049999,
+  "num_followers": 2050047,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQzMTcsYzk5NGE4YTA2MzJjM2RiYmYxOWFmODczOWY5ZjY3MTRmZjkzZDYxNA==",
+  "snapshot_id": "MTQzMTksZGQzN2IxNzdhY2E1NmNjYmIxMjcxNjI1ZWI3NTQ2M2NjY2ZlZDRhMg==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -1627,6 +1627,30 @@
       "duration_ms": 281800,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc"
+    },
+    {
+      "added_at": "2023-12-09 21:51:05",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0BQIqS7CzTfYAQY5H9DU5S"
+      },
+      "artists": [
+        {
+          "name": "Highup",
+          "url": "https://open.spotify.com/artist/5vGy6auivb3qywR2zZQvU8"
+        },
+        {
+          "name": "DJ SODA",
+          "url": "https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+        }
+      ],
+      "duration_ms": 135454,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4T49o23TlFgm1AEEz4uIhM"
     },
     {
       "added_at": "2023-11-03 17:38:51",

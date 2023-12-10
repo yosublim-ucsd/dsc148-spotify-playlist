@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Ghost
 
-175 songs - 12 hr 20 min
+176 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bulls on Parade](https://open.spotify.com/track/6gSfKul1glsUVY5MU7Kpgx) | [Andrew Baena](https://open.spotify.com/artist/31Jtwuc3XU8MypjID0ZuIm), [Johnny Ciardullo](https://open.spotify.com/artist/7567HDjus3OchzVOdkLnDX) | [Bulls on Parade](https://open.spotify.com/album/7tHei16hRcsEEjn6rxmPkM) | 3:41 | 2022-05-25 | 2022-07-20 |
 | [Carry on a Wayward Son](https://open.spotify.com/track/6YvqkiySh1NoVCvkYxfNXK) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [For All Kings \(Deluxe\)](https://open.spotify.com/album/4V0U4SYEZX0tmBw6fnca3h) | 5:24 | 2022-06-13 | 2023-02-20 |
 | [Carry on Wayward Son](https://open.spotify.com/track/1FxosQH33P76OcBR4HcPMh) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Leftoverthrax](https://open.spotify.com/album/09r0W7tapAmT4AL2RJeVL0) | 5:24 | 2022-05-25 | 2022-07-29 |
-| [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 | 2022-05-25 |  |
+| [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 | 2022-05-25 | 2023-12-10 |
 | [Children Of The Grave](https://open.spotify.com/track/7eEHTD3EEevRKoLj7RwbYn) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Nativity In Black: A Tribute To Black Sabbath](https://open.spotify.com/album/3UlxkwnznivcfY2FdxsnSu) | 5:49 | 2022-05-25 | 2023-02-20 |
 | [Chop Suey!](https://open.spotify.com/track/37SgiDGQSiUTQXZo2Ml888) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Chop Suey!](https://open.spotify.com/album/0TkVuK1bb6hvlJOjZlV80i) | 3:38 | 2022-05-25 | 2023-02-20 |
 | [Chop Suey!](https://open.spotify.com/track/6mAtV1MrrpaAFtcUgSj3q0) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [Chop Suey!](https://open.spotify.com/album/6FDx7On1oIaLAn95L3Swhx) | 3:34 | 2022-05-25 | 2023-02-20 |
@@ -177,6 +177,7 @@
 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 | 2022-05-25 | 2022-07-29 |
 | [Whiskey In The Jar](https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC) | 5:04 | 2022-06-13 |  |
 | [Wicked Game](https://open.spotify.com/track/0evX82L72YwaZIEKw5fEQT) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Lovesongs Vol\. 666](https://open.spotify.com/album/6meTP5bnTECxbCBv8hzD7c) | 3:54 | 2023-06-22 | 2023-11-05 |
+| [Wicked Game](https://open.spotify.com/track/3JBz53sjIaCRRcHY7OI82G) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Lovesongs Vol\. 666 \(Deluxe Versions; Remastered\)](https://open.spotify.com/album/0bopJOCBWUlA23xwJDwrkw) | 3:54 | 2023-08-23 |  |
 | [Wind of Change](https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Wind of Change](https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG) | 5:22 | 2022-05-25 | 2023-02-20 |
 | [Wish You Were Here](https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:13 | 2022-05-25 |  |
 | [Word Up!](https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Word Up! \(The Remixes\)](https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF) | 2:52 | 2022-05-25 |  |

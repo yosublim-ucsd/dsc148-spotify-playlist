@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-237 songs - 15 hr 44 min
+238 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [KIMINOMAMA](https://open.spotify.com/track/4O8Dy9kthy651s3M774S1h) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [KIMINOMAMA](https://open.spotify.com/album/1zfEiFINYq6yP3aUROBvQz) | 2:57 | 2023-02-21 | 2023-07-03 |
 | [KIMINOMAMA](https://open.spotify.com/track/69lJz2fXXptw0YU5hF3L47) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [MILLION](https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm) | 2:57 | 2023-07-02 | 2023-09-19 |
 | [kimiwaunmeinohito](https://open.spotify.com/track/0FXPwxpbU9jZRndH7buJGW) | [Manato Funatsu](https://open.spotify.com/artist/4L7zIJ9LjO6oSTRjzBlrva) | [kimiwaunmeinohito](https://open.spotify.com/album/4spgC6mFvPofhyFBhHWUVU) | 3:36 | 2023-09-22 |  |
+| [koi](https://open.spotify.com/track/6aR2Dy2Ur9TZ6PifgvJYFJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [koi](https://open.spotify.com/album/3kmSRwmaYAPQDBPkG3WZJL) | 3:16 | 2023-12-09 |  |
 | [Koi ha Ramune no Youni](https://open.spotify.com/track/4fWRzTlFkMaEbxXvIBKwz7) | [平理央](https://open.spotify.com/artist/5XV5kNtCkFTwVcL5rdCUln) | [Koi ha Ramune no Youni](https://open.spotify.com/album/0XspZ9bvHBSCdcH12HfD1Y) | 3:27 | 2023-08-15 | 2023-08-25 |
 | [Koi no Iro](https://open.spotify.com/track/46O3D2H8HPLiSUHNokwsRa) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Koi no Iro](https://open.spotify.com/album/0oaOQZS5vKKA9P0jr8LmAV) | 4:42 | 2023-07-25 | 2023-08-05 |
 | [KOINODHISUMAXTUCHIN](https://open.spotify.com/track/7CvYzuttwz9Yn7Z5nBUzjl) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [KOINODHISUMAXTUCHIN](https://open.spotify.com/album/5B016jj6OpHB6GSSSXIAaU) | 2:48 | 2023-05-30 | 2023-06-14 |
@@ -169,7 +170,7 @@
 | [ラブドランカー](https://open.spotify.com/track/5HCCjLQ7RLQHjHPBNljQ5l) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD) | [ラブドランカー](https://open.spotify.com/album/03Q6Xk1M9x1rHCXZRRp2gF) | 3:52 | 2023-11-28 |  |
 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-09-02 |  |
 | [リッツパーティー](https://open.spotify.com/track/1FDrCBlNru2OrVXePw1BFQ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [スーパースター](https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI) | 3:16 | 2023-03-16 | 2023-12-06 |
-| [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-02-09 |  |
+| [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-02-09 | 2023-12-10 |
 | [ルビー](https://open.spotify.com/track/61dKPB7KS5K0ydinagQy4U) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [ルビー](https://open.spotify.com/album/4XH4mGDiIMfSsr0peqj5F0) | 4:30 | 2023-11-30 |  |
 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 | 2023-02-09 | 2023-05-11 |
 | [ロスタイム](https://open.spotify.com/track/7iL5vjJdt8kD2hAXYE7iv4) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [ロスタイム](https://open.spotify.com/album/5AJDIhtmJB2KEXmggElgo2) | 3:58 | 2023-07-13 | 2023-08-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: ODUMODUBLVCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,251 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,340 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 28 | [Appel manqué](https://open.spotify.com/track/7ul6BstETf3WQYYgsc3yIK) | [JDL](https://open.spotify.com/artist/3aSOqB03AcdniBDFyhaQBq) | [Appel manqué](https://open.spotify.com/album/0WbwtVUVSy1YHMhJRNcdMp) | 2:45 |
 | 29 | [Fear Love](https://open.spotify.com/track/19oxoR5S1ChfKRMd6qdRgx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Fear Love](https://open.spotify.com/album/45pBZzzVyvcLUu3pjh8BVF) | 2:55 |
 | 30 | [Push \(feat\. Omah Lay\)](https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Obsidian](https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6) | 2:42 |
-| 31 | [Freaky](https://open.spotify.com/track/6kZkSWQOWE3zpekjg0Jrpq) | [Sadandsolo](https://open.spotify.com/artist/0JKJ8w8dzJ894jec6ZtAkH), [Q\-Mark](https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Freaky](https://open.spotify.com/album/2MepRGb5fpyCl8GoBtPtos) | 2:34 |
+| 31 | [Freaky](https://open.spotify.com/track/6kZkSWQOWE3zpekjg0Jrpq) | [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [Sadandsolo](https://open.spotify.com/artist/0JKJ8w8dzJ894jec6ZtAkH), [Q\-Mark](https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Freaky \(feat\. Phantom Steeze\)](https://open.spotify.com/album/2MepRGb5fpyCl8GoBtPtos) | 2:34 |
 | 32 | [Higher \(C'est la vie\)](https://open.spotify.com/track/1wAtGMXgrFQ8MotS0DuG6d) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [Higher \(C'est la vie\)](https://open.spotify.com/album/3yJZCxYGmIRHrUccAb3ZlQ) | 3:27 |
 | 33 | [I Want You](https://open.spotify.com/track/77LZE9iAKy6KDWTBl7vRwm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/6AB8x99F5MUrnSHSbUdLBD) | 3:43 |
 | 34 | [My Work](https://open.spotify.com/track/06A5rQH5i5UNVkeNHzWuNV) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [My Work](https://open.spotify.com/album/6WbTAQjDajkW1MBptt1I9O) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Santé](https://open.spotify.com/track/1XPQalXJbjYH9NdndXHxmU) | [FUL](https://open.spotify.com/artist/2iQnY6e0Mq4fepcLm7AHAZ), [Cysoul](https://open.spotify.com/artist/212RAD04CL3a1XwexVB129), [GBC the Yemba](https://open.spotify.com/artist/07yKhu1K2QOiWM9j7MYd92) | [Santé](https://open.spotify.com/album/6fjYYh9hPTXD652nXseuL2) | 3:33 |
 | 50 | [Bossy Girl](https://open.spotify.com/track/4msbsjQlixRbQU1NRE3eNw) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Bossy Girl](https://open.spotify.com/album/5VO01zNNWXMdYVXRx8oZpM) | 2:34 |
 
-Snapshot ID: `MCxjM2QwZDVhZTQyZmRhYzMwYjc0YzJkZmMyNzM2M2VjOWJjZGM3YTI4`
+Snapshot ID: `MCw3NzJiZDBkMzA5YmE1MjM2MDRmYWM2OTcxYTE5OTdjZjQ2ZGQ1ZDE1`

@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: BXKS",
-  "num_followers": 158209,
+  "num_followers": 158250,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGFiYjA4MDY4OWMxOGFmNDBhYTY4YWEzOTg2ZjVmYTQyZmRhYmRm",
+  "snapshot_id": "MCxjYzI0MmQ1NTkxOGNkNTgzYzU0OGIyMzUwZGQ5NDdhZDE2YWJkMDk0",
   "tracks": [
     {
       "added_at": "2023-11-24 12:22:37",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 116129,
-      "name": "Mad Riches",
-      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
         "name": "From The D 2 The LBC (with Snoop Dogg)",
         "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 215120,
       "name": "From The D 2 The LBC (with Snoop Dogg)",
       "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "hugo",
+        "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 180723,
+      "name": "Speed Of Plight",
+      "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "Los Pollos Hermanos",
         "url": "https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "hugo",
-        "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
       },
       "artists": [
         {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 180723,
-      "name": "Speed Of Plight",
-      "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
+      "duration_ms": 152112,
+      "name": "Hate It Or Luv It",
+      "url": "https://open.spotify.com/track/5CpnjR6DE6X3PFvmKqrw1l"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -591,22 +607,6 @@
       "duration_ms": 185142,
       "name": "Lotto",
       "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 152112,
-      "name": "Hate It Or Luv It",
-      "url": "https://open.spotify.com/track/5CpnjR6DE6X3PFvmKqrw1l"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -699,6 +699,26 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "Right Hand",
+        "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Right Hand",
+      "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "On My Soul",
         "url": "https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 160000,
       "name": "On My Soul",
       "url": "https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "Right Hand",
-        "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 165067,
-      "name": "Right Hand",
-      "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
+        "name": "Bon App\u00e9tit",
+        "url": "https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
         }
       ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
+      "duration_ms": 197924,
+      "name": "Bon App\u00e9tit",
+      "url": "https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -843,22 +859,6 @@
       "duration_ms": 168880,
       "name": "Closed Doors",
       "url": "https://open.spotify.com/track/7HLmj4xIlHt3lIQ6EB87nT"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "Bon App\u00e9tit",
-        "url": "https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 197924,
-      "name": "Bon App\u00e9tit",
-      "url": "https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -919,54 +919,18 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "Leon the Professional",
-        "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
+        "name": "FU",
+        "url": "https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ"
       },
       "artists": [
         {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
-      "duration_ms": 181200,
-      "name": "Leon the Professional",
-      "url": "https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "Before the Smoke",
-        "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 143692,
-      "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
+      "duration_ms": 136917,
+      "name": "FU",
+      "url": "https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -983,6 +947,38 @@
       "duration_ms": 178340,
       "name": "SIMMER DOWN",
       "url": "https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
+        "name": "Leon the Professional",
+        "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Leon the Professional",
+      "url": "https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -1011,6 +1007,26 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "Before the Smoke",
+        "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 143692,
+      "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "FU",
-        "url": "https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ"
-      },
-      "artists": [
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 136917,
-      "name": "FU",
-      "url": "https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd"
     },
     {
       "added_at": "2023-11-24 12:22:37",

@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 597345,
+  "num_followers": 597911,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWQ5ZGUzYTVhMzkwY2M4ODQ1ODE2YjRkMDQ3M2ZkMDhiYTYyMDQw",
+  "snapshot_id": "MCxkZjQzYjRmOWEzY2VkYzAxZTU0MDNjNzE5ZTk2YWQ5NWExNWQ1YTA2",
   "tracks": [
     {
       "added_at": "2023-02-14 19:26:52",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "Old Boots, New Dirt",
+        "url": "https://open.spotify.com/album/5i2qu2FGIYy2BMhHDKST43"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Burnin' It Down",
+      "url": "https://open.spotify.com/track/32FcjEWPn4aSRqJ6loL01b"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "Livin' It Up",
         "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 180960,
       "name": "Coal Miner's Daughter - Single Version",
       "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "Old Boots, New Dirt",
-        "url": "https://open.spotify.com/album/5i2qu2FGIYy2BMhHDKST43"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Burnin' It Down",
-      "url": "https://open.spotify.com/track/32FcjEWPn4aSRqJ6loL01b"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Pure Country",
         "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 212000,
       "name": "I Cross My Heart - Pure Country Soundtrack Version",
       "url": "https://open.spotify.com/track/6FHXJu99aQAUnivEjPhuUR"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "All-Time Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+        "name": "My Kind Of Livin'",
+        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
         }
       ],
-      "duration_ms": 143306,
-      "name": "Act Naturally",
-      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
+      "duration_ms": 201493,
+      "name": "That's What I Love About Sunday",
+      "url": "https://open.spotify.com/track/2nKvLnpExkH7Mfc14c6a7H"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 143306,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 200466,
       "name": "19 Somethin' - Greatest Hits Version",
       "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "My Kind Of Livin'",
-        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
-      },
-      "artists": [
-        {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "That's What I Love About Sunday",
-      "url": "https://open.spotify.com/track/2nKvLnpExkH7Mfc14c6a7H"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "How Do You Like Me Now?!",
-      "url": "https://open.spotify.com/track/7LimFGKop84KMDutqYaNIF"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 140440,
       "name": "Daddy Sang Bass",
       "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "How Do You Like Me Now?!",
+      "url": "https://open.spotify.com/track/7LimFGKop84KMDutqYaNIF"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "The Very Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Hello Darlin'",
-      "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "All The People Are Talkin'",
         "url": "https://open.spotify.com/album/2cWX0i12WDcbP8Gp6cACvS"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 177693,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/5EPQbU0wk70Btiu9onZR48"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "The Very Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Hello Darlin'",
+      "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
     },
     {
       "added_at": "2023-02-14 19:26:52",

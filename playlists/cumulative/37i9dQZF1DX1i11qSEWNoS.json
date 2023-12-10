@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 155000,
       "name": "Get Up Off The Floor",
       "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
@@ -1480,6 +1480,28 @@
       "duration_ms": 125492,
       "name": "KETA UND KRAWALL",
       "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+    },
+    {
+      "album": {
+        "name": "Kommissar",
+        "url": "https://open.spotify.com/album/6qHIHbbOEFkZQaEVXFgVCi"
+      },
+      "artists": [
+        {
+          "name": "Pazoo",
+          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
+        },
+        {
+          "name": "NoooN",
+          "url": "https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163940,
+      "name": "Kommissar",
+      "url": "https://open.spotify.com/track/0djjZQPlvpOPNgnWTMVvli"
     },
     {
       "album": {

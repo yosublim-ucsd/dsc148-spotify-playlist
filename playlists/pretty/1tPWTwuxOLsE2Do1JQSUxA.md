@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 
 > The biggest 2010s throwback anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more\. Image: Harry Styles.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 443,010 likes - 195 songs - 11 hr 58 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 442,968 likes - 195 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

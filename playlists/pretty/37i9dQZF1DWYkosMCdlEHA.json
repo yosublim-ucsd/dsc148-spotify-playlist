@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 130051,
+  "num_followers": 130204,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDM4MGRlNDhjODFmMjM0MzIzZTg5MTQ2YjdkOWU1MzJjMGY1OTQx",
+  "snapshot_id": "MCxhM2NkOTQxZDEyYzVmYWZjYzA5OGNmYWE0ZWQwOTM1OTZjOTU5YzYx",
   "tracks": [
     {
       "added_at": "2023-10-13 15:01:06",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-10-13 15:01:06",
       "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "Beach In Hawaii",
+      "url": "https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6"
+    },
+    {
+      "added_at": "2023-10-13 15:01:06",
+      "album": {
         "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 221262,
       "name": "Eu Tive um Sonho - Ao Vivo",
       "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
-    },
-    {
-      "added_at": "2023-10-13 15:01:06",
-      "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "Beach In Hawaii",
-      "url": "https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6"
     },
     {
       "added_at": "2023-10-13 15:01:06",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-10-13 15:01:06",
       "album": {
-        "name": "Papas Da L\u00edngua",
-        "url": "https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q"
-      },
-      "artists": [
-        {
-          "name": "Papas Da L\u00edngua",
-          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
-        }
-      ],
-      "duration_ms": 298453,
-      "name": "Blusinha Branca",
-      "url": "https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX"
-    },
-    {
-      "added_at": "2023-10-13 15:01:06",
-      "album": {
         "name": "Hist\u00f3rias Pra Cantar",
         "url": "https://open.spotify.com/album/1jLZTYKG2LT3HUGWaJJd0e"
       },
@@ -519,18 +503,34 @@
     {
       "added_at": "2023-10-13 15:01:06",
       "album": {
-        "name": "Ac\u00fastico Planta e Raiz 2022, Pt. 1",
-        "url": "https://open.spotify.com/album/4ZJQfw6hoCE1t2YcTijqTU"
+        "name": "Papas Da L\u00edngua",
+        "url": "https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q"
       },
       "artists": [
         {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+          "name": "Papas Da L\u00edngua",
+          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
         }
       ],
-      "duration_ms": 187093,
-      "name": "Filme de Romance",
-      "url": "https://open.spotify.com/track/4iTahl8TU9hjSaGGVAsdTd"
+      "duration_ms": 298453,
+      "name": "Blusinha Branca",
+      "url": "https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX"
+    },
+    {
+      "added_at": "2023-10-13 15:01:06",
+      "album": {
+        "name": "Real Gold",
+        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Real Gold",
+      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
     },
     {
       "added_at": "2023-10-13 15:01:06",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-10-13 15:01:06",
       "album": {
-        "name": "Real Gold",
-        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+        "name": "Ac\u00fastico Planta e Raiz 2022, Pt. 1",
+        "url": "https://open.spotify.com/album/4ZJQfw6hoCE1t2YcTijqTU"
       },
       "artists": [
         {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
         }
       ],
-      "duration_ms": 197840,
-      "name": "Real Gold",
-      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
+      "duration_ms": 187093,
+      "name": "Filme de Romance",
+      "url": "https://open.spotify.com/track/4iTahl8TU9hjSaGGVAsdTd"
     },
     {
       "added_at": "2023-10-13 15:01:06",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-13 15:01:06",
       "album": {
-        "name": "Segue em Frente",
-        "url": "https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "Desde as Estrelas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK"
-    },
-    {
-      "added_at": "2023-10-13 15:01:06",
-      "album": {
         "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
         "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 220855,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/1BCX365xfyXvfhkMtUFGuE"
+    },
+    {
+      "added_at": "2023-10-13 15:01:06",
+      "album": {
+        "name": "Segue em Frente",
+        "url": "https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Desde as Estrelas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK"
     },
     {
       "added_at": "2023-10-13 15:01:06",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-10-13 15:01:06",
       "album": {
+        "name": "Serenou/Nosso Mundo (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ"
+      },
+      "artists": [
+        {
+          "name": "Yeti Reggae Club",
+          "url": "https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs"
+        }
+      ],
+      "duration_ms": 221483,
+      "name": "Serenou/Nosso Mundo - Acoustic Sessions",
+      "url": "https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn"
+    },
+    {
+      "added_at": "2023-10-13 15:01:06",
+      "album": {
         "name": "Casa de Praia Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 358400,
       "name": "Stepping Out - Live",
       "url": "https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b"
-    },
-    {
-      "added_at": "2023-10-13 15:01:06",
-      "album": {
-        "name": "Serenou/Nosso Mundo (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ"
-      },
-      "artists": [
-        {
-          "name": "Yeti Reggae Club",
-          "url": "https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs"
-        }
-      ],
-      "duration_ms": 221483,
-      "name": "Serenou/Nosso Mundo - Acoustic Sessions",
-      "url": "https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn"
     },
     {
       "added_at": "2023-10-13 15:01:06",

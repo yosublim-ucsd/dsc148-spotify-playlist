@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 481634,
+  "num_followers": 481647,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTM4ZWJjNzExMTI0MDhkOWM4NWIzNTg1MTJjNWRiNThhOGU3Zjdl",
+  "snapshot_id": "MCwxNzA4YjE0MWZlOGMwYjA4NjMyNzQ2Zjk1ZWU4ZmExNjRiMzQ5YzA4",
   "tracks": [
     {
       "added_at": "2023-12-06 09:09:14",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 202173,
       "name": "Luv Luv Luv",
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
     },
     {
       "added_at": "2023-12-06 09:09:14",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
         "name": "You Might (Feat. SHIRT)",
         "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 187185,
       "name": "You Might (Feat. SHIRT)",
       "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
     },
     {
       "added_at": "2023-12-06 09:09:14",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 264052,
+      "name": "Angel (feat. TAEYEON)",
+      "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
         "name": "fool",
         "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 130333,
       "name": "fool",
       "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        },
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 264052,
-      "name": "Angel (feat. TAEYEON)",
-      "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
     },
     {
       "added_at": "2023-12-06 09:09:14",
@@ -791,6 +791,22 @@
       "duration_ms": 188293,
       "name": "Flu",
       "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
     },
     {
       "added_at": "2023-12-06 09:09:14",
@@ -871,18 +887,18 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+        "name": "5\uc6d4\uc758 \ubc24 (May)",
+        "url": "https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
+      "duration_ms": 196881,
+      "name": "5\uc6d4\uc758 \ubc24 (May)",
+      "url": "https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ"
     },
     {
       "added_at": "2023-12-06 09:09:14",
@@ -903,22 +919,6 @@
       "duration_ms": 201183,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
-        "name": "5\uc6d4\uc758 \ubc24 (May)",
-        "url": "https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 196881,
-      "name": "5\uc6d4\uc758 \ubc24 (May)",
-      "url": "https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ"
     },
     {
       "added_at": "2023-12-06 09:09:14",

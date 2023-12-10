@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,318 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,356 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 22 | [Sen Dönene Kadar](https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh) | 3:09 |
 | 23 | [Favela](https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Favela](https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm) | 3:41 |
 | 24 | [Şampanya](https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Şampanya](https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF) | 4:13 |
-| 25 | [Keşke Benim Olsan](https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Keşke Benim Olsan](https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR) | 2:34 |
+| 25 | [Sallan](https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [Sallan](https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh) | 3:15 |
 | 26 | [kördüğüm](https://open.spotify.com/track/6mYGCOpWCq1qtrlOr68u5p) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Jako](https://open.spotify.com/artist/4kpqHcVwTcRhrNTAB66li4) | [kördüğüm](https://open.spotify.com/album/2khti4BtrnPoDh4zHxD8Ez) | 2:46 |
 | 27 | [Bul Beni](https://open.spotify.com/track/1riBwVUqVsk5RGJ9iLN8cG) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bul Beni](https://open.spotify.com/album/79oroEdFGvT0h2a3QH9KEk) | 2:34 |
-| 28 | [Sallan](https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [Sallan](https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh) | 3:15 |
+| 28 | [Keşke Benim Olsan](https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Keşke Benim Olsan](https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR) | 2:34 |
 | 29 | [Bi Sonraki Hayatımda Gel](https://open.spotify.com/track/5SYkeNpjhJPFUMOP5TK8iw) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM) | 2:47 |
 | 30 | [Yangınlar](https://open.spotify.com/track/62Neo1KGRRXVaiISkxFUrE) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Sertan](https://open.spotify.com/artist/0LlV4LGUosenvcisOMC4Vs) | [Yangınlar](https://open.spotify.com/album/6KMkJMnKZ9Vqwy6GdKSTUN) | 2:57 |
-| 31 | [Kayboldum](https://open.spotify.com/track/403N2V31Tk7gmD7K5PW6Xb) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Kayboldum](https://open.spotify.com/album/1Ke68puz6YDWgTVRLA2DTM) | 2:06 |
-| 32 | [NERDESİN](https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:45 |
+| 31 | [NERDESİN](https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:45 |
+| 32 | [Kayboldum](https://open.spotify.com/track/403N2V31Tk7gmD7K5PW6Xb) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Kayboldum](https://open.spotify.com/album/1Ke68puz6YDWgTVRLA2DTM) | 2:06 |
 | 33 | [Boş Yapma](https://open.spotify.com/track/3vjW60vUWX82R4SFcUlZk7) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Boş Yapma](https://open.spotify.com/album/6fXyjHXlM4V5kjiO97pC51) | 2:27 |
 | 34 | [SÖYLENEYDİBU?](https://open.spotify.com/track/5QucJT1HhY3MD6Qw2qBCUl) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [SÖYLENEYDİBU?](https://open.spotify.com/album/1w4ty6XQiTnVXVddrLhOtD) | 2:05 |
 | 35 | [AYA](https://open.spotify.com/track/4ywdchqXzNiX5S8YqKzGtA) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM) | 3:16 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 39 | [Sen Başkasın](https://open.spotify.com/track/3n7ep2pxWrVPAwlxslJqCX) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Sen Başkasın](https://open.spotify.com/album/0obg4FfubIvPbCeWKPIOyB) | 2:05 |
 | 40 | [Bu Ne Hava](https://open.spotify.com/track/4f20sgXTgd8oG9Ywmkxmay) | [Resit Kemal](https://open.spotify.com/artist/3xtQQsJvIjKcyaLT4uMsWz) | [Bu Ne Hava](https://open.spotify.com/album/71KkIbCxjd6tUuhvafpdCz) | 2:10 |
 | 41 | [Imdat \(feat\. Hadise\)](https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat \(feat\. Hadise\)](https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD) | 3:14 |
-| 42 | [madem](https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [madem](https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU) | 2:22 |
-| 43 | [DELALÊ](https://open.spotify.com/track/3xoEwdWzY9YfEtiEi3dfKo) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [ZENGBEJ](https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7) | 2:50 |
+| 42 | [DELALÊ](https://open.spotify.com/track/3xoEwdWzY9YfEtiEi3dfKo) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [ZENGBEJ](https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7) | 2:50 |
+| 43 | [madem](https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [madem](https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU) | 2:22 |
 | 44 | [FİLM ŞERİDİ](https://open.spotify.com/track/3OYDt4fhreJ5JITOciY4Ch) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [FİLM ŞERİDİ](https://open.spotify.com/album/2VPfh6D7kpnM3KsHYt0Ej8) | 2:16 |
 | 45 | [Baby \(feat\. Murda\)](https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Baby \(feat\. Murda\)](https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO) | 2:47 |
 | 46 | [Kimse bilmiyor](https://open.spotify.com/track/3Hkia1c1vf930mO4SZ3ZnA) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz) | [Kimse bilmiyor](https://open.spotify.com/album/36w2dxLUwvWx0XwnHVePyK) | 2:54 |
 | 47 | [Yastık İzi](https://open.spotify.com/track/1HnuCWlMEJ4BPhwTNlOQuH) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Yastık İzi](https://open.spotify.com/album/6BaXepPQ4GZUNK4vcQKFf6) | 1:43 |
 | 48 | [Artık](https://open.spotify.com/track/4IRitV0vz4K7lCgwPilLPO) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42) | [P.O.P Mixtape pt.2](https://open.spotify.com/album/2Ffmd55esIgdPHxsXuFFc3) | 3:09 |
-| 49 | [BABY BİRTANEM](https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [BABY BİRTANEM](https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL) | 2:47 |
+| 49 | [hatırla](https://open.spotify.com/track/6Ei4PCSOYNEa0QbDV0eeVr) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [hatırla](https://open.spotify.com/album/1M2HlETIjJxogCYUFF7aZP) | 2:36 |
 | 50 | [RARRii](https://open.spotify.com/track/0RPEhK1UCgtLb9Nc97lA4R) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [RARRii](https://open.spotify.com/album/280clOshxkGrR1Litdyu7u) | 2:47 |
 
-Snapshot ID: `MCxjNThiMmRhMjE4MDU2OTM2ZDFjMjgyNzE2NmY5YWIyZGQ4YmQ3Y2Y5`
+Snapshot ID: `MCw5Y2U4MTY0MjBhNDkzNGVmNGJiZTQzOWUzYmU4ODUyYjE3OGQ4ZTI3`

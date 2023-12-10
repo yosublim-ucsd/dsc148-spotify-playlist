@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023, anche in autunno \ud83d\udc40",
-  "num_followers": 103044,
+  "num_followers": 103039,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDMwMjNkNDFjNTg0YWI5OTZkMWViM2VlZTk2ZjQ5MmZhNzEwZTAw",
+  "snapshot_id": "MCxjZjQ2NWFmYjMxMWQ4NGRmNWM0NWMzNDExNmE0ZjBiMWY3OGEwZGIz",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 188731,
       "name": "Run",
       "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 193018,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Tears In Ibiza (feat. AR/CO)",
-        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
       },
       "artists": [
         {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 143579,
-      "name": "Tears In Ibiza (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
+      "duration_ms": 170706,
+      "name": "Smash My Heart",
+      "url": "https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1335,38 +1331,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
+        "name": "Tears In Ibiza (feat. AR/CO)",
+        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Smash My Heart",
-      "url": "https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
         },
         {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 166572,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
+      "duration_ms": 143579,
+      "name": "Tears In Ibiza (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1411,6 +1391,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 166572,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2"
-      },
-      "artists": [
-        {
-          "name": "ALT\u00c9GO",
-          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
-        }
-      ],
-      "duration_ms": 119084,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "World, Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 178304,
       "name": "World, Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2"
+      },
+      "artists": [
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        }
+      ],
+      "duration_ms": 119084,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
-      },
-      "artists": [
-        {
-          "name": "Crazibiza",
-          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
-        },
-        {
-          "name": "House of Prayers",
-          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
-        }
-      ],
-      "duration_ms": 284886,
-      "name": "Fresh - House of Prayers Poolside Edit",
-      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -1779,22 +1759,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Pretty People (feat. INJI)",
-        "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
         },
         {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
         }
       ],
-      "duration_ms": 149771,
-      "name": "Pretty People (feat. INJI)",
-      "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1819,22 +1799,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Good Feeling (feat. Rhys Lewis)",
-        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+        "name": "Pretty People (feat. INJI)",
+        "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
       },
       "artists": [
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
         }
       ],
-      "duration_ms": 214942,
-      "name": "Good Feeling (feat. Rhys Lewis)",
-      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+      "duration_ms": 149771,
+      "name": "Pretty People (feat. INJI)",
+      "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1855,6 +1835,26 @@
       "duration_ms": 179512,
       "name": "My Head & My Heart - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Good Feeling (feat. Rhys Lewis)",
+        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 148086,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "How You Samba",
         "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 151680,
       "name": "How You Samba",
       "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 148086,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO"
     },
     {
       "added_at": "2023-11-10 00:01:00",

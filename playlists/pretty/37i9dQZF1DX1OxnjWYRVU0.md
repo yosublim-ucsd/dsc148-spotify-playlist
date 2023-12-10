@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,982 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,103 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,7 +225,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 215 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/5WyD2lZhEeTNg91oEF0TYK) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt), [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/2Ev260A0m7FJyCcnHYLKZN) | 2:12 |
 | 216 | [In the Shadows](https://open.spotify.com/track/08CHIJpxNSHJzxAfvkbQlc) | [JETFIRE](https://open.spotify.com/artist/1flYnVP7znbiEcL0ELwwTt), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [In the Shadows](https://open.spotify.com/album/0QgbNWzG6iH9F9oUtl2lIT) | 2:20 |
 | 217 | [Funky Nutcracker](https://open.spotify.com/track/6fuz8f4OPpqwxU1RK8KUIs) | [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Jessica](https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W), [Ruff Ryders](https://open.spotify.com/artist/49pQfWTLlSww8C7K7unpUC) | [Funky Nutcracker](https://open.spotify.com/album/5W8i1VEtyWkYXiqhoXNoiw) | 1:52 |
-| 218 | [Cry For You](https://open.spotify.com/track/1Y7GfGztj5Djt2DWT7Gbgt) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [Cry For You](https://open.spotify.com/album/2GQCnQigOLkPacuPotRygB) | 2:29 |
+| 218 | [Cry For You](https://open.spotify.com/track/3wT0tDOuJLw4l8hkUyqVAl) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [Cry For You](https://open.spotify.com/album/77G5u7PE5Q93Jr4v5OxDLG) | 2:29 |
 | 219 | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg) | 2:51 |
 | 220 | [All The Things She Said](https://open.spotify.com/track/6a3xD7m0pqeBpmbOS5OmpI) | [POLINA](https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB) | [Трибьют t.A.T.u\. "200 по встречной"](https://open.spotify.com/album/6vGQST667kLKUriMXcmTft) | 3:00 |
 | 221 | [Trouble So Hard](https://open.spotify.com/track/4kwc8PLcVkCxf0AH335ojG) | [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mildenhaus](https://open.spotify.com/artist/1fzjSsvVUpGt2W0itpcTKP) | [Trouble So Hard](https://open.spotify.com/album/1T3nznub8k2qGDndHBlO9r) | 2:12 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 359 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 360 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCw2MDBiMmEyYWQ0YzMzNzhiMjEzMzVhODA5MzY4NmFkMGNkZjk4YWQ3`
+Snapshot ID: `MCxiZjAxNGM1NDNkYzA3ZDE1OTRmZjQ1MzQxOWFjZjI3Mjk4ZjU1NjM3`

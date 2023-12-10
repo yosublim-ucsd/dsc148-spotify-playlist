@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Megan Moroney
 
-352 songs - 19 hr 16 min
+353 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2022-07-22 |  |
 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 | 2022-09-16 | 2023-02-17 |
 | [Love You a Little Bit](https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W) | 3:30 | 2023-02-17 | 2023-09-18 |
+| [Love You a Little Bit](https://open.spotify.com/track/5U8jzduwcqML3oi3yY1wDP) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY \(DELUXE\)](https://open.spotify.com/album/2GBaNzYtAW6NgOW4VHxnlq) | 3:30 | 2023-12-01 |  |
 | [Lucky](https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:14 | 2023-02-10 |  |
 | [Magic](https://open.spotify.com/track/47Gp8oW808q6j4Oxg9iGLw) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Magic](https://open.spotify.com/album/2X2jLJr3W0IMGbCVwzSjc3) | 3:06 | 2022-03-25 | 2022-04-20 |
 | [Make It Past Georgia](https://open.spotify.com/track/2jt5TmTYrmdr46cGHrcFjq) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Make It Past Georgia](https://open.spotify.com/album/7z68pYfdYT9aRs15woSgh1) | 3:21 | 2021-12-01 | 2022-07-26 |
@@ -270,7 +271,7 @@
 | [Somebody's Shot of Whiskey](https://open.spotify.com/track/5BJxNM01TAttlt3qtkHPPv) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj) | [Somebody's Shot of Whiskey](https://open.spotify.com/album/4VPnHfrRmcUn7rp1oMw2Xi) | 3:17 | 2022-03-25 | 2022-04-15 |
 | [Someone's Sometimes](https://open.spotify.com/track/4CRM33ZzLhuJzQGAnINTtp) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Someone's Sometimes](https://open.spotify.com/album/6GUducmjhIlMXqrbDxBeBi) | 3:31 | 2021-12-01 | 2022-03-02 |
 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 | 2022-03-25 |  |
-| [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 | 2022-09-16 |  |
+| [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 | 2022-09-16 | 2023-12-10 |
 | [Stay Golden](https://open.spotify.com/track/76GawWqBDrAdNzJDwqwiNF) | [Emily Reid](https://open.spotify.com/artist/3TT6dzzXE5aV42E7PiGuAD) | [Stay Golden](https://open.spotify.com/album/2mz71ERp3XMn78Cel9SYiA) | 3:08 | 2022-03-25 | 2022-04-21 |
 | [Stompin' Grounds](https://open.spotify.com/track/53vwWIEwfyoYtblcIngWIs) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Stompin' Grounds](https://open.spotify.com/album/6ZrH2Rlec09MDpvAGjS3UN) | 3:19 | 2023-02-17 |  |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 | 2021-12-01 |  |

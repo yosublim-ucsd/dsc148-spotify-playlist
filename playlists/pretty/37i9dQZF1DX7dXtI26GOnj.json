@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Kali Uchis, KAROL G",
-  "num_followers": 168013,
+  "num_followers": 168104,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGYzNWI4ZThmOGVhYzg2NGI4MDQwMjQ3Y2RjNjAyMjg0YTVhOTIy",
+  "snapshot_id": "MCw0ZjAyYjAzMDIwMzZmOTNiZDA1ZTYwMzE4ZTM3OTcyOGU3NTg3ZWM5",
   "tracks": [
     {
       "added_at": "2023-12-08 10:19:51",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-12-08 10:19:51",
       "album": {
-        "name": "ASI ES LA VIDA",
-        "url": "https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 172095,
-      "name": "ASI ES LA VIDA",
-      "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
-    },
-    {
-      "added_at": "2023-12-08 10:19:51",
-      "album": {
         "name": "Por Dentro",
         "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 165981,
       "name": "Por Dentro",
       "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
+    },
+    {
+      "added_at": "2023-12-08 10:19:51",
+      "album": {
+        "name": "ASI ES LA VIDA",
+        "url": "https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 172095,
+      "name": "ASI ES LA VIDA",
+      "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
     },
     {
       "added_at": "2023-12-08 10:19:51",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-12-08 10:19:51",
       "album": {
-        "name": "S91",
-        "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 173005,
-      "name": "S91",
-      "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
-    },
-    {
-      "added_at": "2023-12-08 10:19:51",
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 203200,
       "name": "LA NOCHE DE ANOCHE",
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
+    },
+    {
+      "added_at": "2023-12-08 10:19:51",
+      "album": {
+        "name": "S91",
+        "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 173005,
+      "name": "S91",
+      "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
     },
     {
       "added_at": "2023-12-08 10:19:51",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2023-12-08 10:19:51",
       "album": {
+        "name": "Borracho y Loco",
+        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
+    },
+    {
+      "added_at": "2023-12-08 10:19:51",
+      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
       },
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2023-12-08 10:19:51",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 107906,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM"
-    },
-    {
-      "added_at": "2023-12-08 10:19:51",
-      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -1111,22 +1111,22 @@
     {
       "added_at": "2023-12-08 10:19:51",
       "album": {
-        "name": "Borracho y Loco",
-        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n"
       },
       "artists": [
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 171800,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
+      "duration_ms": 107906,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM"
     },
     {
       "added_at": "2023-12-08 10:19:51",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2023-12-08 10:19:51",
       "album": {
-        "name": "69",
-        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
+        "name": "No te enamores de \u00e9l",
+        "url": "https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 221935,
-      "name": "69",
-      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
+      "duration_ms": 197366,
+      "name": "No te enamores de \u00e9l",
+      "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
     },
     {
       "added_at": "2023-12-08 10:19:51",
@@ -1327,6 +1323,26 @@
       "duration_ms": 174044,
       "name": "LLYLM",
       "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+    },
+    {
+      "added_at": "2023-12-08 10:19:51",
+      "album": {
+        "name": "69",
+        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 221935,
+      "name": "69",
+      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
     },
     {
       "added_at": "2023-12-08 10:19:51",
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2023-12-08 10:19:51",
       "album": {
-        "name": "No te enamores de \u00e9l",
-        "url": "https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 197366,
-      "name": "No te enamores de \u00e9l",
-      "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
-    },
-    {
-      "added_at": "2023-12-08 10:19:51",
-      "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-12-08 10:19:51",
       "album": {
+        "name": "LOS MUCHACHOS",
+        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 199591,
+      "name": "SINCERAMENTE",
+      "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
+    },
+    {
+      "added_at": "2023-12-08 10:19:51",
+      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
-    },
-    {
-      "added_at": "2023-12-08 10:19:51",
-      "album": {
-        "name": "LOS MUCHACHOS",
-        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 199591,
-      "name": "SINCERAMENTE",
-      "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
     },
     {
       "added_at": "2023-12-08 10:19:51",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-12-08 10:19:51",
       "album": {
+        "name": "Lo Que Queda de M\u00ed",
+        "url": "https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 230867,
+      "name": "Lo Que Queda de M\u00ed",
+      "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
+    },
+    {
+      "added_at": "2023-12-08 10:19:51",
+      "album": {
         "name": "EL RELOJ (con Maluma)",
         "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
       },
@@ -1531,38 +1547,6 @@
     {
       "added_at": "2023-12-08 10:19:51",
       "album": {
-        "name": "Lo Que Queda de M\u00ed",
-        "url": "https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 230867,
-      "name": "Lo Que Queda de M\u00ed",
-      "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
-    },
-    {
-      "added_at": "2023-12-08 10:19:51",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 188930,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
-    },
-    {
-      "added_at": "2023-12-08 10:19:51",
-      "album": {
         "name": "Los Bandoleros",
         "url": "https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 305666,
       "name": "Bandoleros",
       "url": "https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl"
+    },
+    {
+      "added_at": "2023-12-08 10:19:51",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 188930,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
     },
     {
       "added_at": "2023-12-08 10:19:51",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-12-08 10:19:51",
       "album": {
-        "name": "Trofeo",
-        "url": "https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Trofeo",
-      "url": "https://open.spotify.com/track/4ajAhp58D3zWqtpGJFG2NB"
-    },
-    {
-      "added_at": "2023-12-08 10:19:51",
-      "album": {
         "name": "Good Energy (Remix)",
         "url": "https://open.spotify.com/album/1PihY5yy5PX8kW2jGonJW1"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 189918,
       "name": "D\u00c9JALO EN VISTO",
       "url": "https://open.spotify.com/track/5PrNsTfGhAxHcdg3AgqBNt"
+    },
+    {
+      "added_at": "2023-12-08 10:19:51",
+      "album": {
+        "name": "Trofeo",
+        "url": "https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Trofeo",
+      "url": "https://open.spotify.com/track/4ajAhp58D3zWqtpGJFG2NB"
     },
     {
       "added_at": "2023-12-08 10:19:51",

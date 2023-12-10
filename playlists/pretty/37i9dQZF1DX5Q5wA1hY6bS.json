@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDQwMTk0YzViMzE5MmEyM2YxZDU1NWJlMTY0Y2I0ZThmMGEzMjNh",
+  "snapshot_id": "MCxjZWVmYjhlNzcwYjBhZjg0OTI0ZmRhNTllYmVhYWIyYmY1NWQ0YTE3",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/0lBgdXhU3VUskJTGwOU2BT"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 196760,
       "name": "Run",
       "url": "https://open.spotify.com/track/7xoDqnyrBDgusvQ1AHoOSx"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 220333,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Latigo EP",
-        "url": "https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Stars and Satellites",
         "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Latigo EP",
+        "url": "https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "On The Road Again",
         "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 173969,
       "name": "On The Road Again",
       "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/6dokqbkGAaQuLxmpfb9g6a"
-      },
-      "artists": [
-        {
-          "name": "Animal Years",
-          "url": "https://open.spotify.com/artist/2TvIyBTuMGzgGuVLWKWJT1"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/7IuUsxQWHfXGkRDdAT0MLW"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 228120,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/16AefybWxoNF6pM2jzZ2ka"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/6dokqbkGAaQuLxmpfb9g6a"
+      },
+      "artists": [
+        {
+          "name": "Animal Years",
+          "url": "https://open.spotify.com/artist/2TvIyBTuMGzgGuVLWKWJT1"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/7IuUsxQWHfXGkRDdAT0MLW"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Never Be Ourselves",
+      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Never Be Ourselves",
-      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "American Novel: Ch. I",
-        "url": "https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX"
-      },
-      "artists": [
-        {
-          "name": "The Brevet",
-          "url": "https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM"
-        }
-      ],
-      "duration_ms": 279500,
-      "name": "Moving Mountains",
-      "url": "https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 243733,
       "name": "More I See",
       "url": "https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "American Novel: Ch. I",
+        "url": "https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX"
+      },
+      "artists": [
+        {
+          "name": "The Brevet",
+          "url": "https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM"
+        }
+      ],
+      "duration_ms": 279500,
+      "name": "Moving Mountains",
+      "url": "https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Olalla",
-      "url": "https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Ivory Castanets",
         "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 190600,
       "name": "Like a Wave",
       "url": "https://open.spotify.com/track/0p3bGYYZTf75CskrmGwpVi"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "October (October Version)",
-        "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
-      },
-      "artists": [
-        {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
-        }
-      ],
-      "duration_ms": 277777,
-      "name": "October (October Version)",
-      "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "People Are My Drug",
         "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 241746,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "October (October Version)",
+        "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 277777,
+      "name": "October (October Version)",
+      "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
     },
     {
       "added_at": "2023-11-17 05:00:00",

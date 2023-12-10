@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: The Castellows
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,943 likes - 173 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,011 likes - 173 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 17 | [TWO BROKE HEARTS](https://open.spotify.com/track/1cr011JYf3xTu3rYRUK6io) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [TWO BROKE HEARTS](https://open.spotify.com/album/36H4r65rax4ptGYfds64nC) | 3:17 |
 | 18 | [Stayed A Summer](https://open.spotify.com/track/6vbesEByLl4HPeX71QMwBa) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Bet My Heart](https://open.spotify.com/album/3szLmfgILxIvbdhPDPeqeX) | 2:56 |
 | 19 | [Fireworks](https://open.spotify.com/track/3Y7omwsDJdFCPnfzrlU4J6) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Fireworks](https://open.spotify.com/album/1jjaT5DFXEu1bJUEiH6k5a) | 3:09 |
-| 20 | [My Future](https://open.spotify.com/track/3BgmOSHUxnpSAcUM1ekBrj) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/3ar0skKJQsyath9XFqdFDh) | 2:35 |
+| 20 | [My Future](https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw) | 2:35 |
 | 21 | [How It Looks From Here](https://open.spotify.com/track/4hAfjznZNYNHDUwk8blpTb) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [How It Looks From Here](https://open.spotify.com/album/2xjT6X1tTBsuwjMFU8KrME) | 2:51 |
 | 22 | [Wallen On Your Radio](https://open.spotify.com/track/4eWtmopOFSfV93yWdRROnF) | [Alli Leighann](https://open.spotify.com/artist/4OeJYKm6vIFtrORFTjF68v) | [Wallen On Your Radio](https://open.spotify.com/album/74TKonwqXqmm5pgvzVNoGt) | 3:12 |
 | 23 | [She Stayed](https://open.spotify.com/track/578BYrM7Wi8ahpo0aF3XJ7) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [She Stayed](https://open.spotify.com/album/2MnUamrNb5FpJUcwUdvtyF) | 3:15 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 172 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 173 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCxlN2U1MWM1NjUxZmZmMDc5N2FlNTM1YzQxMThjMWVkOWY2ODA0Nzcw`
+Snapshot ID: `MCwyYWZmMTQwMmRiN2FlM2I3NWRjMDgzMzQ2OTc2Y2RiMmQ3OTQwNDY1`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-141 songs - 7 hr 43 min
+142 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [History Hum](https://open.spotify.com/track/0015PJhPr5d6TPsEik8Gq7) | [Yantan Ministry](https://open.spotify.com/artist/01AjwwrgGUCdqlN6UynMO0) | [Radio Unnameable](https://open.spotify.com/album/60FXurMhSi2BMg3zrs4mhO) | 3:35 | 2022-06-09 |  |
 | [History Hum](https://open.spotify.com/track/64SkUAXJ0Nqqfs9HikTowR) | [Yantan Ministry](https://open.spotify.com/artist/01AjwwrgGUCdqlN6UynMO0) | [Radio Unnameable](https://open.spotify.com/album/1J82F4sktKDOiKBtOu7Xmj) | 3:35 | 2022-06-09 | 2023-04-30 |
 | [Honey Island](https://open.spotify.com/track/69WiTBlk3IE1T1mNoZgPyK) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Blinks](https://open.spotify.com/album/6nWmnZpOMHaYBjDZe43fuJ) | 2:10 | 2021-11-16 | 2022-04-23 |
-| [Horny](https://open.spotify.com/track/4OhccbByaFhTNXAzuPzMvS) | [Supahbadd](https://open.spotify.com/artist/1HaUkY7GweQxgdKQGJZS2O) | [Horny](https://open.spotify.com/album/1g7Pxc9ogZr5zYmmOAuEW8) | 2:59 | 2022-01-21 |  |
+| [Horny](https://open.spotify.com/track/4OhccbByaFhTNXAzuPzMvS) | [Supahbadd](https://open.spotify.com/artist/1HaUkY7GweQxgdKQGJZS2O) | [Horny](https://open.spotify.com/album/1g7Pxc9ogZr5zYmmOAuEW8) | 2:59 | 2022-01-21 | 2023-12-10 |
+| [Horny](https://open.spotify.com/track/4nBIBDd8G4qdugoUcxNPWq) | [Supahbadd](https://open.spotify.com/artist/1HaUkY7GweQxgdKQGJZS2O) | [Horny](https://open.spotify.com/album/24SBsiWsekcg4JqDvkobSX) | 2:59 | 2022-06-09 |  |
 | [I Can See The Future](https://open.spotify.com/track/2zC1lEtZQ8nByZXkjTpjMb) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [I Can See The Future](https://open.spotify.com/album/4m9jQTUHctvkH6DFGnOVZ0) | 2:56 | 2021-11-16 |  |
 | [I'ma Do It](https://open.spotify.com/track/4Jypf4lkZZ1ghYO5BSVxGn) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [I'ma Do It](https://open.spotify.com/album/0wP6lr0DC3TgGkV3pbwx9Y) | 2:15 | 2021-11-16 |  |
 | [IDGAF](https://open.spotify.com/track/19yYZxguSuz2UUgW6J7fOO) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [4 da 304’s](https://open.spotify.com/album/5N6520vpd3Nj66r18wlU4s) | 2:28 | 2021-11-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 65151,
+  "num_followers": 65180,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzhhZGE1ODE1OTZiYTYzOGE0NjM3NjU0MjczOTdhOGY4ZGUwMzg4",
+  "snapshot_id": "MCxmOWY4MWNmMzBlZjAyYjY1YjAxNjMyZTJiMWQyZmFmZGI4M2FlMzA4",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "Welcome To The Madhouse (Deluxe)",
+        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Welcome To The Madhouse (Deluxe)",
-        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "All Love Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3OgeKihJLTRcOM6Asy3z3u"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "So What (feat. A R I Z O N A)",
         "url": "https://open.spotify.com/album/47hFYvR9yzeKgqDKWUWOfD"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 177476,
       "name": "So What (feat. A R I Z O N A)",
       "url": "https://open.spotify.com/track/3By9IFm4E2BvKQygT04O8g"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "All Love Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3OgeKihJLTRcOM6Asy3z3u"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
+      },
+      "artists": [
+        {
+          "name": "Rubber Duc",
+          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "The Woods (Evida Remix)",
         "url": "https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 191062,
       "name": "The Woods - Evida Remix",
       "url": "https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
-      },
-      "artists": [
-        {
-          "name": "Rubber Duc",
-          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
-      },
-      "artists": [
-        {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "Life Without Fantasies (Radio Edit)",
         "url": "https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf"
       },
@@ -1119,22 +1103,34 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "OMOGE WA JO",
-        "url": "https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
       },
       "artists": [
         {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "L0LA",
-          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
         }
       ],
-      "duration_ms": 145084,
-      "name": "OMOGE WA JO",
-      "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
+      "duration_ms": 203093,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "Say You Will Remember Me",
+        "url": "https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be"
+      },
+      "artists": [
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 202035,
+      "name": "Say You Will Remember Me",
+      "url": "https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F"
     }
   ],
   "unique_name": "Feel Good Look Good",

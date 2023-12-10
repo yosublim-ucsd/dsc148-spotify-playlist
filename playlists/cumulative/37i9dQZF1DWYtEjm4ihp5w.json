@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Sipo, Inkonnu",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Onzy, Draganov",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -318,6 +318,24 @@
     {
       "album": {
         "name": "Before Iceberg",
+        "url": "https://open.spotify.com/album/0fY9vEMGhf3326m70o0jzj"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155227,
+      "name": "Before Iceberg",
+      "url": "https://open.spotify.com/track/1FY6b78b0u4GRhY1a3RAuL"
+    },
+    {
+      "album": {
+        "name": "Before Iceberg",
         "url": "https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW"
       },
       "artists": [
@@ -328,7 +346,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 155227,
       "name": "Before Iceberg",
       "url": "https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi"
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 228075,
       "name": "Lmossiba (\u0627\u0644\u0645\u0635\u064a\u0628\u0629)",
       "url": "https://open.spotify.com/track/0epZr5EAVHCi1VLSb227ky"
@@ -1882,6 +1900,28 @@
       "duration_ms": 181301,
       "name": "L\u2019allemagne - Bonus",
       "url": "https://open.spotify.com/track/127o4DBdyOacwktIX5Nh28"
+    },
+    {
+      "album": {
+        "name": "M.I.M",
+        "url": "https://open.spotify.com/album/2gfPi1iEcCqRKuBxPprAxK"
+      },
+      "artists": [
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+        },
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "M.I.M",
+      "url": "https://open.spotify.com/track/1r2Fl6ZdRIAZpQDGR9X9ov"
     },
     {
       "album": {

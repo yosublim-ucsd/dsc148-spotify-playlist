@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 119743,
+  "num_followers": 119771,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWU4M2RmMjMxMjMyMmY0MTY3YjQzOWU1MzlhMmFmZTJkYTI1YmJl",
+  "snapshot_id": "MCxkMTgzNWEyOTg1NmZkNTExZTQwOTliOGJjM2UxMGMwZTI4NjEzZDg2",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -305,7 +305,7 @@
         }
       ],
       "duration_ms": 261881,
-      "name": "It Runs Through Me",
+      "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 180563,
+      "name": "attention (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Pressure (with SG Lewis)",
         "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 247455,
       "name": "Ruthless",
       "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 180563,
-      "name": "attention (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd"
+        "name": "Freetown Sound",
+        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 196754,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5"
+      "duration_ms": 225747,
+      "name": "Best to You",
+      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

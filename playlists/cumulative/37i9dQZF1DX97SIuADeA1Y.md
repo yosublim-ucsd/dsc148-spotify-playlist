@@ -4,7 +4,7 @@
 
 > The bassline keeps you moving.
 
-276 songs - 11 hr 58 min
+277 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp) | 2:26 | 2022-03-25 | 2023-03-11 |
 | [Not The Same](https://open.spotify.com/track/7cgnBuGq8jSnW6u0Bcwags) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [AMADEUS](https://open.spotify.com/artist/2t7THYoDAV1wXEmsp7HNH1) | [Not The Same](https://open.spotify.com/album/4084bVF9BIBMAoL5ypCqEo) | 2:17 | 2022-03-25 | 2022-04-21 |
 | [Nothing Else Matters](https://open.spotify.com/track/7AFgtsFcRfvXd2sUKd9o88) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2) | [Nothing Else Matters](https://open.spotify.com/album/1MTAPqxvOAo54UcBZLD2AQ) | 2:36 | 2023-04-07 | 2023-10-21 |
-| [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 | 2022-01-17 |  |
+| [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 | 2022-01-17 | 2023-12-10 |
+| [Off Of My Mind](https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:44 | 2023-12-01 |  |
 | [Oh La La \(feat\. Mougleta\)](https://open.spotify.com/track/46Dxwh73hkHgPg2NCTCzmt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Oh La La \(feat\. Mougleta\)](https://open.spotify.com/album/3nt62cBy34uUk2SlkOyvSg) | 2:30 | 2022-01-17 | 2022-07-27 |
 | [On And On](https://open.spotify.com/track/70n69mBQ7kaNPHpky7UEpF) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [L4TCH](https://open.spotify.com/artist/07gXEJZYZSWeYOkQGepW3u) | [On And On](https://open.spotify.com/album/4pIenSX7P0YzAsM5k3kDkD) | 2:51 | 2022-01-17 | 2022-07-24 |
 | [One And Only](https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [Money For Nothing](https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY) | [One And Only](https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph) | 2:03 | 2023-03-11 | 2023-11-21 |

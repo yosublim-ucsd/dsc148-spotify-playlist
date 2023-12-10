@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Adrian Bello",
-  "num_followers": 134062,
+  "num_followers": 134067,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWJiNjVjMzhmZjA5MjJkOGI1NzBiNzA5MzQyZDA3Mzk4MjRlNWVh",
+  "snapshot_id": "MCwxOGY4NDY0ZTYxNGIzMzUyZmVlZDViNjhmN2NmOGVmZjY4MGI1MDIx",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "NO BINARIA",
-        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 131416,
-      "name": "NO BINARIA",
-      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "444/Ms. Moon",
         "url": "https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z"
       },
@@ -947,22 +931,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Querer Querer",
-        "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
+        "name": "NO BINARIA",
+        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
       },
       "artists": [
         {
-          "name": "Tessa Ia",
-          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
-        },
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
         }
       ],
-      "duration_ms": 207572,
-      "name": "Querer Querer",
-      "url": "https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2"
+      "duration_ms": 131416,
+      "name": "NO BINARIA",
+      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -979,6 +959,26 @@
       "duration_ms": 225000,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Querer Querer",
+        "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
+      },
+      "artists": [
+        {
+          "name": "Tessa Ia",
+          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+        },
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "duration_ms": 207572,
+      "name": "Querer Querer",
+      "url": "https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2"
     },
     {
       "added_at": "2023-12-01 05:01:00",

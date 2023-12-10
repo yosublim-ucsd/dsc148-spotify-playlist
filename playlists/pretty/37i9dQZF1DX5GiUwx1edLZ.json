@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277032,
+  "num_followers": 277052,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjU5ZGJhM2QzMTRmY2ZjNTQzODI2ZDQ5Njg4YWYxZDEzMjE1MTRh",
+  "snapshot_id": "MCwyMzhlZmU5OTM4MzA0Njc0ODFiYzUyNGYxOWI4OTEwMzkxYjk4NzRl",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "On My Love (Live Acoustic)",
         "url": "https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 237923,
       "name": "Lullaby - Acoustic",
       "url": "https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Tri-State",
         "url": "https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU"
       },
@@ -627,22 +607,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Tell Me You Love Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S"
+        "name": "Hey (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
       "artists": [
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
         },
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 232066,
-      "name": "No Promises - Acoustic",
-      "url": "https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P"
+      "duration_ms": 156804,
+      "name": "Hey - Acoustic",
+      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -667,6 +647,26 @@
       "duration_ms": 150652,
       "name": "Better (feat. Teddy Swims) - Acoustic Version",
       "url": "https://open.spotify.com/track/24MoOLc4izxq0E0lzRxxJn"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Tell Me You Love Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "No Promises - Acoustic",
+      "url": "https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 304983,
-      "name": "Satellite / Stealing Time",
-      "url": "https://open.spotify.com/track/1zZEeO528oaVVBixuEgX7K"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Believe In The Kingdom",
         "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 304983,
+      "name": "Satellite / Stealing Time",
+      "url": "https://open.spotify.com/track/1zZEeO528oaVVBixuEgX7K"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "You Don't Know Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 224560,
       "name": "You Don't Know Me - Acoustic Version",
       "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Hurricane (Acoustic Version)",
-        "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 170882,
-      "name": "Hurricane - Acoustic Version",
-      "url": "https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -867,6 +847,26 @@
       "duration_ms": 293946,
       "name": "Looking For Your Name",
       "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Hurricane (Acoustic Version)",
+        "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 170882,
+      "name": "Hurricane - Acoustic Version",
+      "url": "https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Regardless (Acoustic)",
         "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 224053,
       "name": "Regardless - Acoustic",
       "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "We Are All We Need",
+        "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 117506,
+      "name": "Quieter Is Louder",
+      "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Crazy (Remixes - Pt. 1)",
         "url": "https://open.spotify.com/album/63oRa4RTNrXMMlyNWsHHcO"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "We Are All We Need",
-        "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 117506,
-      "name": "Quieter Is Louder",
-      "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
       },
@@ -1211,22 +1211,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+        "name": "Feel Good (feat. Daya) [Acoustic]",
+        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
       },
       "artists": [
         {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
+      "duration_ms": 239772,
+      "name": "Feel Good (feat. Daya) - Acoustic",
+      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1255,26 +1259,42 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Feel Good (feat. Daya) [Acoustic]",
-        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         },
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
         }
       ],
-      "duration_ms": 239772,
-      "name": "Feel Good (feat. Daya) - Acoustic",
-      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
+      "duration_ms": 260839,
+      "name": "Thing Called Love",
+      "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1295,26 +1315,6 @@
       "duration_ms": 169466,
       "name": "Recognise - Acoustic Version",
       "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        }
-      ],
-      "duration_ms": 260839,
-      "name": "Thing Called Love",
-      "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Lionheart (feat. Tom Grennan) [Strings Version]",
         "url": "https://open.spotify.com/album/50NvGvefucu16aAdjr7MMS"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 157142,
       "name": "Lionheart (feat. Tom Grennan) - Strings Version",
       "url": "https://open.spotify.com/track/5NGS1jwlMxkdCVLG1stGRY"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1731,18 +1731,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Florida",
-        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
+        "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
+        "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 96866,
-      "name": "Florida",
-      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
+      "duration_ms": 201468,
+      "name": "How to Love (feat. Sofia Reyes) - Acoustic",
+      "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1767,22 +1771,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
-        "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
       },
       "artists": [
         {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
-      "duration_ms": 201468,
-      "name": "How to Love (feat. Sofia Reyes) - Acoustic",
-      "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
+      "duration_ms": 96866,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1843,26 +1843,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "BED (The BEDtime Mixes)",
-        "url": "https://open.spotify.com/album/6N5kkUQ8tqA7EMwtdjFjDT"
+        "name": "Radio (Acoustic)",
+        "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 177364,
-      "name": "BED - Acoustic",
-      "url": "https://open.spotify.com/track/6tIc4TnrcyqILXEyx8QKAm"
+      "duration_ms": 138048,
+      "name": "Radio - Acoustic",
+      "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1891,22 +1887,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Radio (Acoustic)",
-        "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
+        "name": "BED (The BEDtime Mixes)",
+        "url": "https://open.spotify.com/album/6N5kkUQ8tqA7EMwtdjFjDT"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 138048,
-      "name": "Radio - Acoustic",
-      "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
+      "duration_ms": 177364,
+      "name": "BED - Acoustic",
+      "url": "https://open.spotify.com/track/6tIc4TnrcyqILXEyx8QKAm"
     },
     {
       "added_at": "2023-10-06 04:01:00",

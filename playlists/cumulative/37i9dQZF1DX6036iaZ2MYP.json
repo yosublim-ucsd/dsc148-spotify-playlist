@@ -2129,10 +2129,14 @@
     },
     {
       "album": {
-        "name": "Freaky",
+        "name": "Freaky (feat. Phantom Steeze)",
         "url": "https://open.spotify.com/album/2MepRGb5fpyCl8GoBtPtos"
       },
       "artists": [
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        },
         {
           "name": "Sadandsolo",
           "url": "https://open.spotify.com/artist/0JKJ8w8dzJ894jec6ZtAkH"
@@ -2144,10 +2148,6 @@
         {
           "name": "Nanette",
           "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
-        },
-        {
-          "name": "Phantom Steeze",
-          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
         }
       ],
       "date_added": "2023-12-08",

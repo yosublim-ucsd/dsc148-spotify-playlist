@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: I SEE STARS
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,212 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,455 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 99 | [Reap](https://open.spotify.com/track/0sG0I67b53eGXCKryNCgmC) | [Shallowsky](https://open.spotify.com/artist/0OggfRsxbs119D8rf3rXvG) | [Reap](https://open.spotify.com/album/4cBmWgK6BWMuh5NakqcOIi) | 3:27 |
 | 100 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 |
 
-Snapshot ID: `MCxmYWY4NDBlNmNiYjdjZDQ3OGMzZjFiOTA3M2QwYjNlZjA5ZmE1MDdh`
+Snapshot ID: `MCw2MzdhNWJiYzVkN2YyYjhhZWUwNmQ3ZmI3MTc4MWJhYTNjZWE0OTg3`

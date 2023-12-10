@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas\. <br/>📷 Lara91k
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,864 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,863 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 |
 | 100 | [ME ODIO](https://open.spotify.com/track/6S07osKZTJ77027oVhDVEk) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI) | [ME ODIO](https://open.spotify.com/album/5mVuaMtYO8qUsXrtBaKdh6) | 3:49 |
 
-Snapshot ID: `MCxkMTEzZTk4OTU1NDY0NjQ5MzkyZTdhNTBlOTVhZWFjODQyYzBmMWY2`
+Snapshot ID: `MCw1NGU2M2EyY2E1MjdlNzRjMjk2YjVhYTYwZGY0NWZhYjI3MGFmZmNh`

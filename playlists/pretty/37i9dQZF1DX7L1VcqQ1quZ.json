@@ -1,12 +1,12 @@
 {
   "description": "All 90s, all ballads. Cover: Mariah Carey",
-  "num_followers": 335646,
+  "num_followers": 335792,
   "original_name": "90s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2QzZjdiOGE4ODUxNmFhNmE5NWQxOTkzYWRiZDFkMWJkNTU0NWEy",
+  "snapshot_id": "MCwyNTI2ZGE2MDA1MzY0MDZmYWQ2YjNmNTFlYWIzMGEwMjBiOTIzOGFl",
   "tracks": [
     {
       "added_at": "2023-09-07 22:07:21",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "18 Til I Die",
-        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 291666,
-      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
-      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
-    },
-    {
-      "added_at": "2022-11-10 16:45:53",
-      "album": {
         "name": "Love Always",
         "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 331240,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
+    },
+    {
+      "added_at": "2022-11-10 16:45:53",
+      "album": {
+        "name": "18 Til I Die",
+        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
+      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
     },
     {
       "added_at": "2022-11-10 16:45:53",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "Paid Vacation",
-        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 214826,
-      "name": "Now And Forever",
-      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
     },
     {
       "added_at": "2022-11-10 16:45:53",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+        "name": "Paid Vacation",
+        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
         }
       ],
-      "duration_ms": 314866,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
+      "duration_ms": 214826,
+      "name": "Now And Forever",
+      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
     },
     {
       "added_at": "2022-11-10 16:45:53",

@@ -3238,10 +3238,32 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 185653,
       "name": "HIGH AGAIN",
       "url": "https://open.spotify.com/track/3EwmYpKAiJP0fNtUPBCdTQ"
+    },
+    {
+      "album": {
+        "name": "RUMBLE IN THE DISCO",
+        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185653,
+      "name": "HIGH AGAIN",
+      "url": "https://open.spotify.com/track/5q0HCtQ07Vw2PoQtki30sW"
     },
     {
       "album": {
@@ -4192,6 +4214,28 @@
       "duration_ms": 193170,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/0XMEQwAZFgX4PGb5eu67B8"
+    },
+    {
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "album": {
@@ -5850,7 +5894,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 140196,
       "name": "On & On",
       "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"

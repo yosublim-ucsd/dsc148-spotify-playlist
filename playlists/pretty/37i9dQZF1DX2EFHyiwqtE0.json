@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes that both you and your little one can enjoy.",
-  "num_followers": 22738,
+  "num_followers": 22751,
   "original_name": "Raised on Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDZiNmNiMjY3YTc3Nzc1ZDM1MDlhZGJlNjA3MWFjNDI0ODNmMzEx",
+  "snapshot_id": "MCxiYWU1MmNlYWEzZmUyYmU2NjE2ZWVjZGI2NzJjYWM5YzBiZDFmZTg0",
   "tracks": [
     {
       "added_at": "2023-01-09 06:31:47",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2023-01-09 06:31:47",
+      "album": {
         "name": "Despacito Feat. Justin Bieber (Remix)",
         "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 300160,
       "name": "Tu Amor Me Hace Bien - Salsa Version",
       "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
-    },
-    {
-      "added_at": "2023-01-09 06:31:47",
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2023-01-09 06:31:47",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
+        "name": "Clasicos de la Provincia",
+        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "La Gota Fria",
+      "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
+    },
+    {
+      "added_at": "2023-01-09 06:31:47",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 214306,
       "name": "Rebelde",
       "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
-    },
-    {
-      "added_at": "2023-01-09 06:31:47",
-      "album": {
-        "name": "Clasicos de la Provincia",
-        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "La Gota Fria",
-      "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
     },
     {
       "added_at": "2023-01-09 06:31:47",

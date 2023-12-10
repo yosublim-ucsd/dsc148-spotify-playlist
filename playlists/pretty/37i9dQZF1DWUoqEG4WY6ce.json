@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1059603,
+  "num_followers": 1059719,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODk0ZGIwMWUyYzY4MDczMmRkNTBhMmE5ZWQ4MjkyMmZjMzk0ZjJk",
+  "snapshot_id": "MCwxNTYxYmI4MmIzY2UzOWRmZjdkMWY3YzMxOWEzMjA4MzFkYzQ0M2Y4",
   "tracks": [
     {
       "added_at": "2023-09-29 19:49:08",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Astrovan",
-      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Astrovan",
+      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "We're Going to Be Friends",
-      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 183440,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Blue Orchid",
-      "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "The Suburbs (Deluxe)",
         "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 315026,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -735,34 +735,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 206465,
-      "name": "Me & My Dog",
-      "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
       },
@@ -791,6 +763,34 @@
       "duration_ms": 234160,
       "name": "Nancy From Now On",
       "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 206465,
+      "name": "Me & My Dog",
+      "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -891,34 +891,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 290360,
-      "name": "Satanist",
-      "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
       },
@@ -947,6 +919,34 @@
       "duration_ms": 274200,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 290360,
+      "name": "Satanist",
+      "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "A Little Lift",
-        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "Empress",
-      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 223488,
       "name": "Supalonely (feat. Gus Dapperton)",
       "url": "https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "A Little Lift",
+        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "Empress",
+      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Bahamas Is Afie",
-        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "All The Time",
-      "url": "https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 148866,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "All The Time",
+      "url": "https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Earthtones",
-        "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 260959,
-      "name": "Way With Words",
-      "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 199053,
       "name": "Caring Is Creepy - 2021 Remaster",
       "url": "https://open.spotify.com/track/1d1Uc9yNUMvUb0RbakGDt0"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Earthtones",
+        "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 260959,
+      "name": "Way With Words",
+      "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Great Big Blue",
-        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
-      },
-      "artists": [
-        {
-          "name": "Geowulf",
-          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
-        }
-      ],
-      "duration_ms": 247280,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Great Big Blue",
+        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
+      },
+      "artists": [
+        {
+          "name": "Geowulf",
+          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
     },
     {
       "added_at": "2023-09-29 19:49:08",

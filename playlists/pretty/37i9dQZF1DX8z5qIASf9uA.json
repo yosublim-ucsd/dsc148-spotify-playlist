@@ -1,12 +1,12 @@
 {
   "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Valent\u00edn Elizalde en portada. ",
-  "num_followers": 262445,
+  "num_followers": 262682,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDM2NmExOGUzZWJlOWY3MzUzZmM2ODMwODFjYTZhN2MxNmJmZDVh",
+  "snapshot_id": "MCwzYmIwOTUxMmYwMGUzZDk0NDcxOWMyZDc2ODU3NmM0OTM0YWUyMzk1",
   "tracks": [
     {
       "added_at": "2023-11-28 00:20:32",
@@ -367,18 +367,22 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 183813,
-      "name": "A Mis Enemigos",
-      "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -399,22 +403,18 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
+      "duration_ms": 183813,
+      "name": "A Mis Enemigos",
+      "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -467,22 +467,18 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Volver\u00e9 A Conquistarte",
-        "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 236533,
-      "name": "Pero Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
+      "duration_ms": 179320,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -503,18 +499,22 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+        "name": "Volver\u00e9 A Conquistarte",
+        "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 166868,
-      "name": "El Toro Encartado",
-      "url": "https://open.spotify.com/track/572KOXYeHP69vqpcgvOKGh"
+      "duration_ms": 236533,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
         "name": "Antonio Aguilar con Mariachi",
         "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 233116,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 166868,
+      "name": "El Toro Encartado",
+      "url": "https://open.spotify.com/track/572KOXYeHP69vqpcgvOKGh"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Solo Baladas",
-        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -643,6 +627,38 @@
       "duration_ms": 203520,
       "name": "Ya Lo S\u00e9",
       "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
+        "name": "Solo Baladas",
+        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -695,6 +711,22 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "La Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
         "name": "Como Pude Enamorarme De Ti",
         "url": "https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU"
       },
@@ -707,54 +739,6 @@
       "duration_ms": 131440,
       "name": "C\u00f3mo Pude Enamorarme De Ti",
       "url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
-        "name": "Rancher\u00edsimo, Vol. 2",
-        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
-        "name": "Los Yonic's",
-        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Un Dolor",
-      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Millonario De Amor",
-      "url": "https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Millonario De Amor",
+      "url": "https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
         "name": "Hablemos",
         "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
       },
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+        "name": "Los Yonic's",
+        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 252440,
-      "name": "La Gran Se\u00f1ora",
-      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
+      "duration_ms": 192440,
+      "name": "Un Dolor",
+      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Ya Despu\u00e9s De Muerto",
-        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 175891,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
         "name": "La Fuga Del Dorian",
         "url": "https://open.spotify.com/album/36mJ5VoUwMC3MFQHcUt68T"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 277460,
       "name": "La Fuga Del Dorian",
       "url": "https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
+        "name": "Ya Despu\u00e9s De Muerto",
+        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 175891,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -1099,22 +1099,22 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Ya Despu\u00e9s De Muerto",
-        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
+        "name": "Borracho de Primera",
+        "url": "https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy"
       },
       "artists": [
         {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
         },
         {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 179211,
-      "name": "Los Chismes",
-      "url": "https://open.spotify.com/track/2PP65VcRvkiNZUq7Wd0yP8"
+      "duration_ms": 231862,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -1135,22 +1135,22 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Borracho de Primera",
-        "url": "https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy"
+        "name": "Ya Despu\u00e9s De Muerto",
+        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
       "artists": [
         {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         },
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 231862,
-      "name": "Que Me Entierren Cantando",
-      "url": "https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY"
+      "duration_ms": 179211,
+      "name": "Los Chismes",
+      "url": "https://open.spotify.com/track/2PP65VcRvkiNZUq7Wd0yP8"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Ya Despu\u00e9s De Muerto",
-        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Nieves De Enero",
-      "url": "https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
         "name": "La Jugada",
         "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 233066,
       "name": "La Jugada",
       "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
+        "name": "Ya Despu\u00e9s De Muerto",
+        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Nieves De Enero",
+      "url": "https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe"
     },
     {
       "added_at": "2023-11-28 00:20:32",

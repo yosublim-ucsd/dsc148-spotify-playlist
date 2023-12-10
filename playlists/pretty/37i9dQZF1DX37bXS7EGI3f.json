@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 756151,
+  "num_followers": 756323,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzVmYzM0MzZhYWE5NmNlOGU3ZmIwMDcxZWY0ZmQxYjhjYTlhMTk2",
+  "snapshot_id": "MCw5OGU5MWE5NDg3YjAxZDE4M2NmZWRkZmI0NzA2MTY2OWRkMmI1ZTlj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -487,6 +487,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        },
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        }
+      ],
+      "duration_ms": 347800,
+      "name": "Opus of the Night (Ghost Requiem) (feat. Tina Guo)",
+      "url": "https://open.spotify.com/track/08yNiukGEc21at2TakEvQT"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "On the Sea",
         "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
       },
@@ -519,26 +539,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
-      },
-      "artists": [
-        {
-          "name": "Kamelot",
-          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
-        },
-        {
-          "name": "Tina Guo",
-          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
-        }
-      ],
-      "duration_ms": 347800,
-      "name": "Opus of the Night (Ghost Requiem) (feat. Tina Guo)",
-      "url": "https://open.spotify.com/track/08yNiukGEc21at2TakEvQT"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Wonders Still Awaiting",
         "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 312626,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -591,22 +575,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Wicked Rule The Night",
-        "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
       },
       "artists": [
         {
-          "name": "Avantasia",
-          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
-        },
-        {
-          "name": "Ralf Scheepers",
-          "url": "https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV"
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
         }
       ],
-      "duration_ms": 264946,
-      "name": "The Wicked Rule The Night",
-      "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -623,6 +603,26 @@
       "duration_ms": 276705,
       "name": "Fairy of the Bog",
       "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Wicked Rule The Night",
+        "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
+      },
+      "artists": [
+        {
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+        },
+        {
+          "name": "Ralf Scheepers",
+          "url": "https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "The Wicked Rule The Night",
+      "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "A Heartless Portrait (The Orph\u00e9an Testament)",
+        "url": "https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2"
+      },
+      "artists": [
+        {
+          "name": "Evergrey",
+          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+        }
+      ],
+      "duration_ms": 263853,
+      "name": "Call out the Dark",
+      "url": "https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 228000,
       "name": "Interrogativa Cantilena",
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "A Heartless Portrait (The Orph\u00e9an Testament)",
-        "url": "https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2"
-      },
-      "artists": [
-        {
-          "name": "Evergrey",
-          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
-        }
-      ],
-      "duration_ms": 263853,
-      "name": "Call out the Dark",
-      "url": "https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Krigsherren",
-        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
-      },
-      "artists": [
-        {
-          "name": "Hulkoff",
-          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Krigsherren",
-      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Vita Nova",
         "url": "https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 364029,
       "name": "Vita Nova",
       "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Krigsherren",
+        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
+      },
+      "artists": [
+        {
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Krigsherren",
+      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -935,62 +935,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Not All Those Who Wander Are Lost",
-        "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
-      },
-      "artists": [
-        {
-          "name": "Eklipse",
-          "url": "https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH"
-        },
-        {
-          "name": "Melissa Bonny",
-          "url": "https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb"
-        }
-      ],
-      "duration_ms": 286525,
-      "name": "Not All Those Who Wander Are Lost",
-      "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Dragonwings",
-        "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
-      },
-      "artists": [
-        {
-          "name": "Pagefire",
-          "url": "https://open.spotify.com/artist/1gKEQdxsZV3e97GIhOwTmF"
-        },
-        {
-          "name": "Craig Cairns",
-          "url": "https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK"
-        }
-      ],
-      "duration_ms": 243529,
-      "name": "Dragonwings",
-      "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Invaders",
-        "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
-      },
-      "artists": [
-        {
-          "name": "Civil War",
-          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
@@ -1013,36 +957,24 @@
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
     },
     {
-      "added_at": "2023-07-17 22:14:26",
-      "album": {
-        "name": "Cicada",
-        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "Cicada",
-      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+        "name": "Not All Those Who Wander Are Lost",
+        "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
       },
       "artists": [
         {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+          "name": "Eklipse",
+          "url": "https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH"
+        },
+        {
+          "name": "Melissa Bonny",
+          "url": "https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb"
         }
       ],
-      "duration_ms": 314414,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+      "duration_ms": 286525,
+      "name": "Not All Those Who Wander Are Lost",
+      "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1067,6 +999,90 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Invaders",
+        "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
+      },
+      "artists": [
+        {
+          "name": "Civil War",
+          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Dragonwings",
+        "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
+      },
+      "artists": [
+        {
+          "name": "Pagefire",
+          "url": "https://open.spotify.com/artist/1gKEQdxsZV3e97GIhOwTmF"
+        },
+        {
+          "name": "Craig Cairns",
+          "url": "https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK"
+        }
+      ],
+      "duration_ms": 243529,
+      "name": "Dragonwings",
+      "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+    },
+    {
+      "added_at": "2023-07-17 22:14:26",
+      "album": {
+        "name": "Cicada",
+        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "duration_ms": 275146,
+      "name": "The Gates of Time",
+      "url": "https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Fears Don't Matter",
         "url": "https://open.spotify.com/album/0vWuMEMFKAPlkyO27hAV9n"
       },
@@ -1079,6 +1095,22 @@
       "duration_ms": 224600,
       "name": "Fears Don't Matter",
       "url": "https://open.spotify.com/track/6gWMxaJw6PBE1Bw1lud6zm"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "We Are Legion",
+        "url": "https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "We Are Legion",
+      "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1103,54 +1135,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 275146,
-      "name": "The Gates of Time",
-      "url": "https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "We Are Legion",
-        "url": "https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "We Are Legion",
-      "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Now Is the Time",
-        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
-      },
-      "artists": [
-        {
-          "name": "Power Quest",
-          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
-        }
-      ],
-      "duration_ms": 378549,
-      "name": "Now Is the Time",
-      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Seventh Rum of a Seventh Rum",
         "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
       },
@@ -1163,22 +1147,6 @@
       "duration_ms": 201114,
       "name": "Seventh Rum of a Seventh Rum",
       "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Keeper of the Celestial Flame of Abernethy",
-        "url": "https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh"
-      },
-      "artists": [
-        {
-          "name": "Gloryhammer",
-          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
-        }
-      ],
-      "duration_ms": 275168,
-      "name": "Holy Flaming Hammer of Unholy Cosmic Frost",
-      "url": "https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1199,6 +1167,54 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Now Is the Time",
+        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
+      },
+      "artists": [
+        {
+          "name": "Power Quest",
+          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
+        }
+      ],
+      "duration_ms": 378549,
+      "name": "Now Is the Time",
+      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Keeper of the Celestial Flame of Abernethy",
+        "url": "https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh"
+      },
+      "artists": [
+        {
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+        }
+      ],
+      "duration_ms": 275168,
+      "name": "Holy Flaming Hammer of Unholy Cosmic Frost",
+      "url": "https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Here We Stand",
         "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
       },
@@ -1211,38 +1227,6 @@
       "duration_ms": 248026,
       "name": "Here We Stand",
       "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Beast Has Awoken",
-        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
-      },
-      "artists": [
-        {
-          "name": "Hate World Hero",
-          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "The Beast Has Awoken",
-      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
-      },
-      "artists": [
-        {
-          "name": "Dark Sarah",
-          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
-        }
-      ],
-      "duration_ms": 259068,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1263,18 +1247,34 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
       },
       "artists": [
         {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+          "name": "Dark Sarah",
+          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
         }
       ],
-      "duration_ms": 234280,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
+      "duration_ms": 259068,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Beast Has Awoken",
+        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
+      },
+      "artists": [
+        {
+          "name": "Hate World Hero",
+          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "The Beast Has Awoken",
+      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Over the Horizon Radar",
-        "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
-      },
-      "artists": [
-        {
-          "name": "Jorn",
-          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
-        }
-      ],
-      "duration_ms": 323990,
-      "name": "Over the Horizon Radar",
-      "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Juokse Sin\u00e4 Humma",
         "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 196636,
       "name": "Juokse Sin\u00e4 Humma",
       "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Over the Horizon Radar",
+        "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
+      },
+      "artists": [
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "duration_ms": 323990,
+      "name": "Over the Horizon Radar",
+      "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
     },
     {
       "added_at": "2023-05-19 04:00:00",

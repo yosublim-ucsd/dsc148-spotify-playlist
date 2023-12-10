@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 130537,
+  "num_followers": 130548,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTVmZTQ4MWY1YzE4NzU3ZWRmMGI4ZDEwY2FjNzY0MTkzN2UyZGFi",
+  "snapshot_id": "MCw1OGYxYzRlZDNiZmZiYTE0ZmU4OTI1YzYwNGVjYmQ4YmVhOTc0MmVj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -539,22 +539,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Djadja (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 166850,
-      "name": "Djadja (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+      "duration_ms": 186946,
+      "name": "Sodio",
+      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -591,18 +587,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+        "name": "Djadja (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 186946,
-      "name": "Sodio",
-      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
+      "duration_ms": 166850,
+      "name": "Djadja (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
     },
     {
       "added_at": "2020-12-01 05:03:00",

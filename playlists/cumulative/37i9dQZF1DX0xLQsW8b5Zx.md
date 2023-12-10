@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-188 songs - 8 hr 22 min
+189 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Mona Lisa](https://open.spotify.com/track/3iUS5pEe8CinR7KiQn8LNm) | [Carl Mann](https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT) | [Like Mann](https://open.spotify.com/album/74VeRuvhc3cNf2JMj646Tp) | 2:26 | 2022-05-06 | 2022-07-07 |
 | [Mona Lisa](https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH) | [Carl Mann](https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT) | [Like, Mann: Carl Mann Sings](https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ) | 2:26 | 2022-07-05 |  |
 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 | 2022-05-06 | 2023-06-11 |
-| [My Little Sister Gotta Motorbike](https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Our Own Way Of Rockin'](https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO) | 2:45 | 2022-05-06 |  |
+| [My Little Sister Gotta Motorbike](https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Our Own Way Of Rockin'](https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO) | 2:45 | 2022-05-06 | 2023-12-10 |
 | [Nathalie](https://open.spotify.com/track/48zoQZk5Vc4Y71SvvJuyLm) | [Pepita Slappers](https://open.spotify.com/artist/5QrPasvRZt9axhtr96a54Z) | [Honey Bee](https://open.spotify.com/album/7FSJZmaJWEAxzNTHL7Jdf5) | 3:34 | 2022-05-06 | 2022-07-24 |
 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 | 2022-07-05 |  |
 | [North Side Gal](https://open.spotify.com/track/5WLS5Fz6pW8AUwio6BGJJ2) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ) | 2:31 | 2022-09-02 |  |
@@ -172,6 +172,7 @@
 | [Summertime Blues](https://open.spotify.com/track/2wwRSaZgshcHSvGzWryUIi) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Very Best Of](https://open.spotify.com/album/25TCdjTn54TAHVulRohu4G) | 2:00 | 2022-05-06 | 2022-07-29 |
 | [Sunny](https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w) | [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Sunny](https://open.spotify.com/album/0iNprdkkVugAnZ6KfTR1f2) | 3:37 | 2022-05-06 | 2022-11-14 |
 | [Tainted Love](https://open.spotify.com/track/0Y1BHJjQjDhTnKCAsUEmGJ) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/3BNRNDUotlBZGQmurOu0lj) | 2:45 | 2022-05-06 | 2022-07-28 |
+| [Tainted Love](https://open.spotify.com/track/390RYJSKZVN9IHa9E9zB34) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [More Mayhem](https://open.spotify.com/album/7vL49AGpkONykl6dCDShAu) | 2:45 | 2023-10-27 |  |
 | [Tainted Love](https://open.spotify.com/track/71iCLishjeRC9YLVf9BVIb) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR) | 2:45 | 2022-07-05 | 2023-11-19 |
 | [Teddy Boy Flick Knife Rock'n'Roll](https://open.spotify.com/track/0OYiNLG8jAVJdHzxzsmxL4) | [Esa Pulliainen](https://open.spotify.com/artist/7dZrUotZctNzR1NFr5uKra), [Mr\. Breathless](https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo) | [Happy Rokkenrol! Vol\. 2](https://open.spotify.com/album/1I51JBGJpNGGEqCEPNGjnr) | 2:21 | 2023-06-02 |  |
 | [Tempo Tantrum](https://open.spotify.com/track/6iEk06fyAxeR7YKu2D2AV2) | [Hillbilly Frankenstein](https://open.spotify.com/artist/3yVkfbmGfkQDMRbktbZn74) | [American Rumble, Vol\. 1](https://open.spotify.com/album/4l2lMwNC31nbwR1PRTuhrW) | 3:27 | 2022-05-06 | 2022-11-13 |

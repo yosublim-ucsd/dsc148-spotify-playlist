@@ -5525,6 +5525,24 @@
     },
     {
       "album": {
+        "name": "LAPIDADO",
+        "url": "https://open.spotify.com/album/3URqY4nlWbjNy83m3wYrEf"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226229,
+      "name": "LAPIDADO",
+      "url": "https://open.spotify.com/track/2WvNuQh87fYwdVY2gNIYy2"
+    },
+    {
+      "album": {
         "name": "Larga Essa Vida",
         "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
       },
@@ -8174,6 +8192,10 @@
         {
           "name": "Chris MC",
           "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
       "date_added": "2023-11-20",

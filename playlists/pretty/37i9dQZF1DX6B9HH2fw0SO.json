@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 57300,
+  "num_followers": 57357,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGNiNWRiZjJlMjFiZWI3Mjc5NTU5OGU3MTY4Y2FiYTRiZDgyMTIy",
+  "snapshot_id": "MCxjMTk3YWE4ZjdiY2RiNWMzYWQ3MmQ5Y2M5MTI2Y2ZjMzRiN2MyNmRm",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 274320,
-      "name": "Past Lives",
-      "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 226073,
       "name": "This Is Home",
       "url": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 274320,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 300720,
-      "name": "What Went Down",
-      "url": "https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Peripheral Vision",
         "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 195984,
       "name": "Cutting My Fingers Off",
       "url": "https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 300720,
+      "name": "What Went Down",
+      "url": "https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1139,8 +1139,8 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Sound & Color",
-        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
+        "name": "Sound & Color (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
       },
       "artists": [
         {
@@ -1148,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 232546,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
+      "duration_ms": 182466,
+      "name": "Sound & Color",
+      "url": "https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Sound & Color (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Sound & Color",
-      "url": "https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT"
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Every Open Eye",
-        "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Leave a Trace",
-      "url": "https://open.spotify.com/track/5HTBPhN9b2GMp5YXAGV6lT"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Art Angels",
         "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 198337,
       "name": "California",
       "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Every Open Eye",
+        "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Leave a Trace",
+      "url": "https://open.spotify.com/track/5HTBPhN9b2GMp5YXAGV6lT"
     },
     {
       "added_at": "2021-09-14 05:14:45",

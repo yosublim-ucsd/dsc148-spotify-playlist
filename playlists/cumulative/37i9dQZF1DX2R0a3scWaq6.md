@@ -4,7 +4,7 @@
 
 > Los grandes hits y los sonidos emergentes de la música electrónica latina están aquí\. Foto: Dezko
 
-88 songs - 4 hr 28 min
+89 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 | 2023-09-29 |  |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-09-29 |  |
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2023-09-29 |  |
-| [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 | 2023-09-29 |  |
+| [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2023-10-20 |  |
+| [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 | 2023-09-29 | 2023-12-10 |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2023-09-29 |  |
 | [Bailame](https://open.spotify.com/track/7omD0weGgQdnJ56hgvBacG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [BESKO DEEJAYS](https://open.spotify.com/artist/4agBzHY8Dx7XsUeZxtSpzP), [Yexenia](https://open.spotify.com/artist/2Vi39DnBYR2mhriXctjGkK) | [Bailame](https://open.spotify.com/album/7reELDsMhzX80cJants71P) | 2:50 | 2023-09-29 |  |
 | [Believe \- KEES POP & Jon Thomas Remix](https://open.spotify.com/track/0rCXGX0Odn9enfPRRWzo4n) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Nina Vlu](https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt), [KEES POP](https://open.spotify.com/artist/2hyTxsipYZ4IKdiHhTzufD), [Jon Thomas](https://open.spotify.com/artist/3gV5r1iOvrDXAiew86XlKI) | [Believe \(KEES POP & Jon Thomas Remix\)](https://open.spotify.com/album/4vDbUKc4yOATz8np8M9M94) | 2:36 | 2023-09-29 |  |

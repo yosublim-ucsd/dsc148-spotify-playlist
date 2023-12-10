@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 13161,
+  "num_followers": 13162,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzNkYzQxMmMyMjE2OGZmOTQ5ZDlmOTIwZThhNGZkMDc0ZDk0MWFl",
+  "snapshot_id": "MCw3MGU1ZmMyZDQyYzA2MjkxMDkwZTM4MzFhYWIzZTNkNzYzYmVkZDMw",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Creole Moon",
-        "url": "https://open.spotify.com/album/0Jzf95x1LjqhTda3HMH5ZU"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 514866,
-      "name": "Creole Moon",
-      "url": "https://open.spotify.com/track/7uf7sRGi0DkGgTOTSjrBUG"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "New Orleans Street Singer",
         "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 193333,
       "name": "I Got a Woman",
       "url": "https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Creole Moon",
+        "url": "https://open.spotify.com/album/0Jzf95x1LjqhTda3HMH5ZU"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 514866,
+      "name": "Creole Moon",
+      "url": "https://open.spotify.com/track/7uf7sRGi0DkGgTOTSjrBUG"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Let's Talk It Over",
-        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
+        "name": "Hooked On Your Love",
+        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
       },
       "artists": [
         {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
         }
       ],
-      "duration_ms": 356773,
-      "name": "Greasy Man",
-      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
+      "duration_ms": 277933,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Hooked On Your Love",
-        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
+        "name": "Let's Talk It Over",
+        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
       },
       "artists": [
         {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
         }
       ],
-      "duration_ms": 277933,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
+      "duration_ms": 356773,
+      "name": "Greasy Man",
+      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -571,6 +571,22 @@
       "duration_ms": 141000,
       "name": "Boppin' The Rock",
       "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Walking On Fire",
+        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Blues Stew",
+      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -619,22 +635,6 @@
       "duration_ms": 175826,
       "name": "Dark Clouds Rollin'",
       "url": "https://open.spotify.com/track/4VU7zTodGQKwJh5295pflB"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "Davell Crawford",
-          "url": "https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Gather by the River",
-      "url": "https://open.spotify.com/track/5bxFlzZ2fdlt740q1YikpQ"
     },
     {
       "added_at": "2022-03-28 20:10:01",

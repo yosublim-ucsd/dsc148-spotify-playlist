@@ -1407,6 +1407,28 @@
     },
     {
       "album": {
+        "name": "Friction",
+        "url": "https://open.spotify.com/album/6AdVRKAiGXEFTpcWssnfED"
+      },
+      "artists": [
+        {
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+        },
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228984,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/2fzmOoog3BxuPtHDgDE9la"
+    },
+    {
+      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5"
       },
@@ -2838,7 +2860,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"

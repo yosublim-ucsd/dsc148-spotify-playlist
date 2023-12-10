@@ -4,7 +4,7 @@
 
 > Relax to acoustic versions of your favorite rock songs.
 
-151 songs - 9 hr 42 min
+152 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [bloody valentine \- Acoustic](https://open.spotify.com/track/4Uah1pyFsLEsw4eauJvuNF) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [bloody valentine \(Acoustic\)](https://open.spotify.com/album/6b3coyUziyxHqt8h5UiSkU) | 3:15 | 2020-11-10\* | 2023-11-07 |
 | [Bonfire \- Acoustic](https://open.spotify.com/track/7GKcBvX6u1UfcqV80U2hbp) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [100 \(Deluxe Edition\)](https://open.spotify.com/album/7ultGKO0ExMznWmwwO9r5H) | 4:05 | 2021-02-04 | 2021-11-09 |
 | [Bored To Death \(Acoustic\)](https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS) | 3:55 | 2020-11-10\* | 2023-11-04 |
+| [Bored To Death \(Acoustic\)](https://open.spotify.com/track/3YfjCNWTxiLAhmp80aDTNA) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 3:55 | 2023-09-20 |  |
 | [Boxes \- Acoustic](https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Boxes \(Acoustic\)](https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK) | 4:22 | 2021-01-15 |  |
 | [Broken Heart of Gold \- Acoustic](https://open.spotify.com/track/2dQipRQrdclKwgHm6yHh43) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold \(Acoustic\)](https://open.spotify.com/album/7neFui3IJyMhntotCcfVvW) | 3:39 | 2021-10-14 | 2021-10-16 |
 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 | 2021-01-15 |  |
@@ -101,7 +102,7 @@
 | [Nevermind](https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Nevermind](https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi) | 3:52 | 2022-06-16 | 2022-09-22 |
 | [On My Mind \(Live Acoustic\)](https://open.spotify.com/track/1KnLSqxHth8FNcgrqJ81Tn) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [On My Mind \(Live Acoustic\)](https://open.spotify.com/album/1UMirDC66Fu590WY3eSZiV) | 3:16 | 2020-11-10\* | 2020-11-13 |
 | [Once In A Lifetime \- Acoustic](https://open.spotify.com/track/4NFrmJIi8b0wDV3CpZnqa9) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime \(Acoustic\)](https://open.spotify.com/album/0L4CbqMfdtHZ2ohVVsaita) | 3:13 | 2021-10-12 | 2021-10-16 |
-| [Pardon Me \- Acoustic](https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [When Incubus Attacks, Vol\. 1](https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw) | 3:47 | 2023-01-11 |  |
+| [Pardon Me \- Acoustic](https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [When Incubus Attacks, Vol\. 1](https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw) | 3:47 | 2023-01-11 | 2023-12-10 |
 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 | 2021-01-15 |  |
 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-01-11 |  |
 | [Radioactive \- Live](https://open.spotify.com/track/2YTdPCFxGx0t8Sw26dUKac) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [This Is Acoustic](https://open.spotify.com/album/6ivT2ATQqnTzLaUQM3Zjnv) | 4:32 | 2021-01-15 | 2022-07-29 |

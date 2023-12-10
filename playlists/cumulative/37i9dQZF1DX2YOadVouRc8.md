@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-336 songs - 16 hr 44 min
+337 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [loving is harder](https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [loving is harder](https://open.spotify.com/album/66bXOBWU3SD12I3Hiw6TD9) | 2:29 | 2022-06-09 | 2022-11-26 |
 | [Loving You](https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Loving You](https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63) | 4:18 | 2023-03-17 | 2023-04-21 |
 | [Lucy](https://open.spotify.com/track/5ExWQrTxlHdfCssnKpIxu9) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Wayyy Saucy](https://open.spotify.com/album/4ZG7gMykuBh6qo1uhpbxl6) | 2:18 | 2023-11-24 | 2023-12-02 |
-| [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2023-03-30 |  |
+| [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2023-03-30 | 2023-12-10 |
 | [Make Sense](https://open.spotify.com/track/4V5ewWUvecAPHQmgZ1TPQJ) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 3:09 | 2023-06-02 |  |
 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 | 2022-06-09 | 2022-10-01 |
 | [Many Man](https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S) | [Stainless](https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT) | [Many Man](https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C) | 2:36 | 2023-04-14 | 2023-07-15 |
@@ -279,6 +279,7 @@
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 |  |
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2022-06-09 | 2023-03-04 |
 | [Sundress](https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Sundress](https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK) | 2:12 | 2023-08-10 |  |
+| [SUPARO \- Remix](https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [SUPARO \(Remix\)](https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx) | 2:41 | 2023-12-08 |  |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-10 | 2023-09-10 |
 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 | 2023-11-03 |  |
 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 | 2023-11-24 | 2023-12-02 |

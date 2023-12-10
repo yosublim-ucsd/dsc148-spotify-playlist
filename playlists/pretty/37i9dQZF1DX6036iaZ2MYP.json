@@ -1,12 +1,12 @@
 {
   "description": "Tracks popping off in the Afro scene. Cover: ODUMODUBLVCK",
-  "num_followers": 75251,
+  "num_followers": 75340,
   "original_name": "Afro Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2QwZDVhZTQyZmRhYzMwYjc0YzJkZmMyNzM2M2VjOWJjZGM3YTI4",
+  "snapshot_id": "MCw3NzJiZDBkMzA5YmE1MjM2MDRmYWM2OTcxYTE5OTdjZjQ2ZGQ1ZDE1",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -559,10 +559,14 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Freaky",
+        "name": "Freaky (feat. Phantom Steeze)",
         "url": "https://open.spotify.com/album/2MepRGb5fpyCl8GoBtPtos"
       },
       "artists": [
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        },
         {
           "name": "Sadandsolo",
           "url": "https://open.spotify.com/artist/0JKJ8w8dzJ894jec6ZtAkH"
@@ -574,10 +578,6 @@
         {
           "name": "Nanette",
           "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
-        },
-        {
-          "name": "Phantom Steeze",
-          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
         }
       ],
       "duration_ms": 154040,

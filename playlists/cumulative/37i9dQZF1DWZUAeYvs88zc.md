@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-492 songs - 1 day 3 hr 42 min
+493 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Elvis Song](https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:10 | 2021-08-28 | 2021-09-16 |
 | [Emotion](https://open.spotify.com/track/5BczxY3kkmEWeQwqYpQzjP) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Emotion](https://open.spotify.com/album/1H8tuX1O4S2HCZmhvwIWRI) | 3:33 | 2019-12-18 | 2021-10-16 |
 | [End This \(L.O.V.E.\)](https://open.spotify.com/track/04fBskFuMgIx0T0ob7uIhd) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/5ryDRO9Lft4ltBzEETx9MM) | 3:03 | 2020-06-02 | 2021-10-23 |
+| [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2023-12-08 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-07-22 |  |
 | [Everyone but Me](https://open.spotify.com/track/0gakOwhuH8Xf7JuCgsXhDI) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Next Season](https://open.spotify.com/album/0SyIOIfOM9lINTDWwtIg3R) | 2:50 | 2019-05-26\* | 2022-05-10 |
 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 | 2021-07-17 |  |
@@ -246,7 +247,7 @@
 | [Knowing Me, Knowing You](https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:01 | 2023-01-28 |  |
 | [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2019-07-30 | 2019-08-08 |
 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 | 2019-06-21 | 2019-08-08 |
-| [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-05-27 |  |
+| [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-05-27 | 2023-12-10 |
 | [Left Out](https://open.spotify.com/track/29J1kOSHGqA8wbz2u1adoI) | [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Left Out](https://open.spotify.com/album/1FgrStcjDbtlXYPfugTCF3) | 2:50 | 2021-09-22 | 2021-09-25 |
 | [Less Than You](https://open.spotify.com/track/6md1zWHOzgRdZheTvsqpOI) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Less Than You](https://open.spotify.com/album/31NIqJbSkFpnUi5YrxAAgv) | 2:48 | 2021-10-23 | 2022-04-25 |
 | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/track/5AEtlRudpgdT5FtNiuly6Y) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/album/4s5AbPXAxSCC62EWb1ZTqU) | 2:54 | 2019-11-19 | 2021-10-24 |

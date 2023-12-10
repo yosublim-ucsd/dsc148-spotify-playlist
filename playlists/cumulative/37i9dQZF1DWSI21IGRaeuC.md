@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-256 songs - 20 hr 54 min
+257 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Mistakes](https://open.spotify.com/track/63IGK3U44KfteaWjAdMm8Y) | [Santé](https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE) | [Mistakes EP](https://open.spotify.com/album/2J8IaTOHYwiXB1ItJwSLYG) | 2:39 | 2022-06-24 | 2022-07-28 |
 | [Moody Fuse](https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Moody Fuse](https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh) | 6:51 | 2022-07-15 | 2022-10-30 |
 | [Moon](https://open.spotify.com/track/181XnwgJTJpeKkpS2zQOAF) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Moon](https://open.spotify.com/album/1Qy0K3GpyxtAyG2u4s53VH) | 2:58 | 2023-10-13 |  |
+| [Moonlight](https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Moonlight](https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng) | 5:37 | 2023-12-08 |  |
 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 | 2022-07-01 |  |
 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 | 2022-06-03 |  |
 | [Nana](https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Nana](https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt) | 2:47 | 2022-09-09 | 2023-09-02 |
@@ -204,7 +205,7 @@
 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 | 2022-06-03 |  |
 | [Summer Of Love](https://open.spotify.com/track/0HMWBMDhQiMcuBH8PQmZqq) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Summer Of Love](https://open.spotify.com/album/7duYShW24ZnlYT08ovEadQ) | 5:41 | 2022-06-17 | 2022-07-29 |
 | [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-10 | 2022-08-30 |
-| [Superlicious](https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y) | 3:01 | 2023-09-22 |  |
+| [Superlicious](https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y) | 3:01 | 2023-09-22 | 2023-12-10 |
 | [Superlicious](https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs) | 3:01 | 2023-03-17 | 2023-08-26 |
 | [Supermodel Thick](https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv) | [Jho Roscioli](https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH) | [Supermodel Thick](https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo) | 5:26 | 2023-07-28 |  |
 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 | 2023-10-13 |  |

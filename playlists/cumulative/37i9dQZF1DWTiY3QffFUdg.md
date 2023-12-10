@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-115 songs - 6 hr 43 min
+116 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Give In \- VE/RA Remix](https://open.spotify.com/track/0dGhV1P8EXUJDNAckHGmI1) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC) | [Give In \(VE/RA Remix\)](https://open.spotify.com/album/2bb0dvGrReZelAiRSNqlfB) | 3:06 | 2023-08-25 | 2023-09-08 |
 | [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-08-11 | 2023-11-05 |
 | [Glow](https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1) | 3:13 | 2023-11-03 | 2023-11-08 |
+| [Hello \(Call All My Friends\)](https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Hello \(Call All My Friends\)](https://open.spotify.com/album/2OlzZDJPCpBeH0zElBaisI) | 2:18 | 2023-12-08 |  |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-08-11 |  |
 | [Hey Baby \(Drop It To The Floor\) \- HYPERTECHNO](https://open.spotify.com/track/6UaPEtxRDMInJ0IF0xc3kw) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [HYPER DEMON](https://open.spotify.com/artist/0FANj0502DHdbObVXrNYeM), [Mr Demon](https://open.spotify.com/artist/4KxFQKuMJRcrnz0UpiGgw4) | [Hey Baby \(Drop It To The Floor\) \[HYPERTECHNO\]](https://open.spotify.com/album/6uG2nDPFgWAozxZfwPYOfa) | 2:11 | 2023-10-26 |  |
 | [Hold Me](https://open.spotify.com/track/1vUZJ35SGzEtmlgb0ts81v) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Hold Me](https://open.spotify.com/album/6qhNsO8v6k0ZYyf1BkbCCj) | 2:48 | 2023-08-11 | 2023-08-19 |
@@ -63,7 +64,7 @@
 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 | 2023-08-11 |  |
 | [Lose This Feeling \- Maddix Remix](https://open.spotify.com/track/4k6rfEGWGrv8rOHnjVcXVw) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Lose This Feeling \(Maddix Remix\)](https://open.spotify.com/album/7kGQVU6PHkVJmq6Lg1jf5e) | 3:06 | 2023-11-17 |  |
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-09-15 |  |
-| [Lost My Way](https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Lost My Way](https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX) | 2:22 | 2023-10-26 |  |
+| [Lost My Way](https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Lost My Way](https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX) | 2:22 | 2023-10-26 | 2023-12-10 |
 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-08-11 | 2023-12-09 |
 | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V) | 2:46 | 2023-10-06 | 2023-11-18 |
 | [Make Way](https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Make Way](https://open.spotify.com/album/7MVKL0h5yHt8L2VP7W7NgM) | 3:17 | 2023-08-11 | 2023-09-19 |

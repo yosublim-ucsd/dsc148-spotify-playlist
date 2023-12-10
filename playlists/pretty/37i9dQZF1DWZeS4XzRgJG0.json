@@ -1,12 +1,12 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 27820,
+  "num_followers": 27878,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzI4ZTc2NzZiZjg3ZTc2ZjQ1ZDcxODk2ODE1OGJlNjdlNTQxZTYw",
+  "snapshot_id": "MCw5ODc5MGQ3YWUzODU3ZGQ4YjMxMzY2NGU3ODUxY2VmZmRjYmRjNTU3",
   "tracks": [
     {
       "added_at": "2023-05-12 08:21:15",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 220492,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "All That We Needed",
         "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "James Arthur (Deluxe)",
-        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "This City",
-        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "This City",
-      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Feel Something (Deluxe)",
         "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 228442,
       "name": "Happiest Year",
       "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "This City",
+        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "If You Want Love",
+      "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "If You Want Love",
-      "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "3 (The Purple Album)",
-        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "The Pains Of Growing",
         "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 227693,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "3 (The Purple Album)",
+        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Goodbye My Lover",
-      "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 256236,
       "name": "People Help the People",
       "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Goodbye My Lover",
+      "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Praying",
-      "url": "https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Safe Haven",
         "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 276066,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Praying",
+      "url": "https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Loma Vista",
-        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
-      },
-      "artists": [
-        {
-          "name": "Family of the Year",
-          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Sunset Lover",
         "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 237792,
       "name": "Sunset Lover",
       "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Loma Vista",
+        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
+      },
+      "artists": [
+        {
+          "name": "Family of the Year",
+          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Amigo",
-        "url": "https://open.spotify.com/album/0cai6DfUIlJ3aDAAzommLJ"
-      },
-      "artists": [
-        {
-          "name": "Chef'Special",
-          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
-        }
-      ],
-      "duration_ms": 238100,
-      "name": "Nicotine",
-      "url": "https://open.spotify.com/track/5YqwpwmzMGwUIU9h1kcOK8"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 254986,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/3DBu7OhZ58syQ7PotgqXV2"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/0cai6DfUIlJ3aDAAzommLJ"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "duration_ms": 238100,
+      "name": "Nicotine",
+      "url": "https://open.spotify.com/track/5YqwpwmzMGwUIU9h1kcOK8"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2799,18 +2799,18 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/13u5Dj3JQCowv1LH94I5xQ"
+        "name": "Bells",
+        "url": "https://open.spotify.com/album/0s0Bc5cmfLhgk2ZBfDDEgB"
       },
       "artists": [
         {
-          "name": "Grace Grundy",
-          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+          "name": "Laura Jansen",
+          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
         }
       ],
-      "duration_ms": 126981,
-      "name": "Final Song",
-      "url": "https://open.spotify.com/track/4bStPJgW8E1nqlO96J6FxI"
+      "duration_ms": 207133,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/0csBvjhn08XTANLWQTvL3E"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2831,18 +2831,18 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Bells",
-        "url": "https://open.spotify.com/album/0s0Bc5cmfLhgk2ZBfDDEgB"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/13u5Dj3JQCowv1LH94I5xQ"
       },
       "artists": [
         {
-          "name": "Laura Jansen",
-          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
         }
       ],
-      "duration_ms": 207133,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/0csBvjhn08XTANLWQTvL3E"
+      "duration_ms": 126981,
+      "name": "Final Song",
+      "url": "https://open.spotify.com/track/4bStPJgW8E1nqlO96J6FxI"
     },
     {
       "added_at": "2023-05-12 08:21:15",

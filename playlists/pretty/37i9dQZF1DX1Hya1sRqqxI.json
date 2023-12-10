@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 340701,
+  "num_followers": 340998,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzI5ODBkNzA2Zjk5OTEyM2M4ZjM1NDZmYzQzNjMzNjY3ODk1MGY0",
+  "snapshot_id": "MCxhNjg1OTNkMjc1YzAyNzJmOGZiYzUxOTJhYjg5YmYwOWViMDA0NTlj",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Young Hearts Run Free (US Internet Release)",
-        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Young Hearts Run Free",
-      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Young Hearts Run Free (US Internet Release)",
+        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Young Hearts Run Free",
+      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "School's Out",
@@ -1047,6 +1031,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Fantastic Boney M.",
@@ -1211,6 +1195,22 @@
       "duration_ms": 303333,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1309,20 +1309,20 @@
       "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Move on Up",
-        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
+        "name": "Love For Sale",
+        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
         }
       ],
-      "duration_ms": 165789,
-      "name": "Move on Up - Single Edit",
-      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
+      "duration_ms": 276080,
+      "name": "Ma Baker",
+      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1341,20 +1341,20 @@
       "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Love For Sale",
-        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
+        "name": "Move on Up",
+        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
       },
       "artists": [
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 276080,
-      "name": "Ma Baker",
-      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
+      "duration_ms": 165789,
+      "name": "Move on Up - Single Edit",
+      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "Please Mr. Postman",
-      "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Wild And Peaceful",
         "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 186533,
       "name": "Jungle Boogie",
       "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Please Mr. Postman",
+      "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Rose Garden",
-        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
-      },
-      "artists": [
-        {
-          "name": "Lynn Anderson",
-          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "War And Peace",
         "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 200266,
       "name": "War",
       "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
+      },
+      "artists": [
+        {
+          "name": "Lynn Anderson",
+          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Rose Garden",
+      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1553,20 +1553,20 @@
       "url": "https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
+      "duration_ms": 179466,
+      "name": "Bad, Bad Leroy Brown",
+      "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1585,20 +1585,20 @@
       "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Silk Degrees (2023 Remaster)",
-        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
       },
       "artists": [
         {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 317788,
-      "name": "Lowdown (2023 Remaster)",
-      "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1615,6 +1615,22 @@
       "duration_ms": 237066,
       "name": "Peg",
       "url": "https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Silk Degrees (2023 Remaster)",
+        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 317788,
+      "name": "Lowdown (2023 Remaster)",
+      "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1663,22 +1679,6 @@
       "duration_ms": 400115,
       "name": "You Make Me Feel (Mighty Real)",
       "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Life & Times",
-        "url": "https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Bad, Bad Leroy Brown",
-      "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "You Don't Mess Around with Jim",
+      "url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -2107,22 +2123,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Make It Happen",
-        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "The Tears Of A Clown",
-      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
       },
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
+        "name": "Make It Happen",
+        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
       },
       "artists": [
         {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
         }
       ],
-      "duration_ms": 182533,
-      "name": "You Don't Mess Around with Jim",
-      "url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R"
+      "duration_ms": 181800,
+      "name": "The Tears Of A Clown",
+      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2167,6 +2167,22 @@
       "duration_ms": 213453,
       "name": "Loves Me Like a Rock",
       "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2199,22 +2215,6 @@
       "duration_ms": 237120,
       "name": "Lady Marmalade",
       "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2333,22 +2333,6 @@
       "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
     },
     {
-      "added_at": "2021-07-20 13:13:34",
-      "album": {
-        "name": "The Best Of Philadelphia International Records",
-        "url": "https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ"
-      },
-      "artists": [
-        {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Ain't No Stoppin' Us Now - Single Version",
-      "url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "KC & the Sunshine Band",
@@ -2363,6 +2347,22 @@
       "duration_ms": 317160,
       "name": "Get Down Tonight - 2004 Remaster",
       "url": "https://open.spotify.com/track/2qVZpGu1v98tvUAutqyAfJ"
+    },
+    {
+      "added_at": "2021-07-20 13:13:34",
+      "album": {
+        "name": "The Best Of Philadelphia International Records",
+        "url": "https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ"
+      },
+      "artists": [
+        {
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Ain't No Stoppin' Us Now - Single Version",
+      "url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "AWB",
-        "url": "https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6"
-      },
-      "artists": [
-        {
-          "name": "Average White Band",
-          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
-        }
-      ],
-      "duration_ms": 239908,
-      "name": "Pick Up the Pieces",
-      "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Young, Gifted and Black",
         "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
       },
@@ -2431,18 +2415,34 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "McFadden & Whitehead",
-        "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
+        "name": "AWB",
+        "url": "https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6"
       },
       "artists": [
         {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+          "name": "Average White Band",
+          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
         }
       ],
-      "duration_ms": 420986,
-      "name": "Ain't No Stoppin' Us Now",
-      "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
+      "duration_ms": 239908,
+      "name": "Pick Up the Pieces",
+      "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "KC & the Sunshine Band, Pt. 3... and More",
+        "url": "https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "(Shake, Shake, Shake) Shake Your Booty",
+      "url": "https://open.spotify.com/track/3Is0Nnz59rzbNZE491URlY"
     }
   ],
   "unique_name": "70s Party",

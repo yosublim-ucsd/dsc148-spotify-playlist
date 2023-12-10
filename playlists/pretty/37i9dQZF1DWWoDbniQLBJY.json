@@ -1,12 +1,12 @@
 {
   "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "num_followers": 1994230,
+  "num_followers": 1994214,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGUzM2MzYmEzNzRlZjA5YTgwYzlkMmRmYzA2M2FhODJhNjVlMjgy",
+  "snapshot_id": "MCxiMTU3NDhmYzQ0ZjQ1YWU0NjZhZmQ4OTViOTg3ZDUzMGM4ZWY1ZGVh",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Para Ti (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Para Ti - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3wO71n44x8JqR1lLgsOU6v"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -215,18 +231,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Para Ti (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3"
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 201500,
-      "name": "Para Ti - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/3wO71n44x8JqR1lLgsOU6v"
+      "duration_ms": 182453,
+      "name": "Pongamos que hablo de Mart\u00ednez",
+      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -243,22 +259,6 @@
       "duration_ms": 147761,
       "name": "ojitos caramelo",
       "url": "https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Pongamos que hablo de Mart\u00ednez",
-      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Verano, por siempre",
-        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "una luz",
-      "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "El Color de Tus Ojos (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 230213,
       "name": "El Color de Tus Ojos - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Verano, por siempre",
+        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "una luz",
+      "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Tour 2007",
+        "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 324826,
+      "name": "La chispa adecuada - Live",
+      "url": "https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Universo Amor",
         "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Tour 2007",
-        "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 324826,
-      "name": "La chispa adecuada - Live",
-      "url": "https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "01 - EP",
         "url": "https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Tus Ojitos",
-        "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
-      },
-      "artists": [
-        {
-          "name": "Samanez",
-          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
-        }
-      ],
-      "duration_ms": 255514,
-      "name": "Tus Ojitos",
-      "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Tr3s Presents Juanes MTV Unplugged",
         "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 224600,
       "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
       "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Tus Ojitos",
+        "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
+      },
+      "artists": [
+        {
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+        }
+      ],
+      "duration_ms": 255514,
+      "name": "Tus Ojitos",
+      "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
-        "url": "https://open.spotify.com/album/7svWXeyE07A5uDMa2gCkS2"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 226481,
-      "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
-      "url": "https://open.spotify.com/track/717UO8qmZhhgr8nz9psfss"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Afuera Del Planeta (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 261376,
       "name": "Afuera Del Planeta - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
+        "url": "https://open.spotify.com/album/7svWXeyE07A5uDMa2gCkS2"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 226481,
+      "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
+      "url": "https://open.spotify.com/track/717UO8qmZhhgr8nz9psfss"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -803,38 +803,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
       },
@@ -851,18 +819,34 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
         }
       ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Mar\u00eda - Unplugged",
+      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -883,18 +867,34 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Mar\u00eda - Unplugged",
-      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 179501,
-      "name": "Navegando",
-      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "El Ultimo Concierto B (Remastered)",
         "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 280960,
       "name": "Persiana Americana - Remasterizado 2007",
       "url": "https://open.spotify.com/track/6TTs9Wf4dIQdEAkXJFSEcR"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 179501,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "A M\u00ed y a Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 157617,
-      "name": "A M\u00ed y a Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Shakira MTV Unplugged",
         "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 298773,
       "name": "Estoy Aqu\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "A M\u00ed y a Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 157617,
+      "name": "A M\u00ed y a Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "Veneno - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 185186,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185975,
-      "name": "Veneno - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 255650,
-      "name": "La Carretera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Acustico",
         "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 453893,
       "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
       "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 255650,
+      "name": "La Carretera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "En Ac\u00fastico",
-        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
-      },
-      "artists": [
-        {
-          "name": "Jxta Martin",
-          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
-        }
-      ],
-      "duration_ms": 207207,
-      "name": "Destino - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Souvenir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "En Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
+      },
+      "artists": [
+        {
+          "name": "Jxta Martin",
+          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
+        }
+      ],
+      "duration_ms": 207207,
+      "name": "Destino - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Jard\u00edn",
         "url": "https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Si Te Soy M\u00e1s Sincera",
-        "url": "https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "Cinco Letras",
-      "url": "https://open.spotify.com/track/2TVSNN2hGNYsOay9QWCnym"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Agua Del Pozo",
         "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 206800,
       "name": "De Camino",
       "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Si Te Soy M\u00e1s Sincera",
+        "url": "https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Cinco Letras",
+      "url": "https://open.spotify.com/track/2TVSNN2hGNYsOay9QWCnym"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "rimas del verbo amar",
-        "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        },
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "tensi\u00f3n",
-      "url": "https://open.spotify.com/track/17POGo5ALqlJWhUhmH7Zbq"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "La Canci\u00f3n",
         "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 253910,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "rimas del verbo amar",
+        "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        },
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "tensi\u00f3n",
+      "url": "https://open.spotify.com/track/17POGo5ALqlJWhUhmH7Zbq"
     }
   ],
   "unique_name": "Mediod\u00eda Ac\u00fastico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,152,791 likes - 98 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,160,233 likes - 98 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 52 | [THE AUTOTREM 1.0](https://open.spotify.com/track/1cOOhtwpwDFIjsuZkp2KYJ) | [DJ RICK 013](https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [THE AUTOTREM 1.0](https://open.spotify.com/album/3B6zpOLO07POn5FKcNwTKB) | 2:29 |
 | 53 | [TUCA DONKA](https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD) | [CURSEDEVIL](https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [TUCA DONKA](https://open.spotify.com/album/27XmqsKeLyr5jDURAordcd) | 1:15 |
 | 54 | [PSYCHO CRUISE](https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [STRAWANGLE](https://open.spotify.com/artist/4o5PswOvXGSq0y5BqZTR9n) | [PSYCHO CRUISE](https://open.spotify.com/album/2F3yPhrN0gUj5O5lORwMu6) | 2:31 |
-| 55 | [AREAMATE MIZ](https://open.spotify.com/track/0PW8SEPqoQGQPbQQQCuWk8) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/3O8rLwUhaombLniabIsX5d) | 1:20 |
+| 55 | [AREAMATE MIZ](https://open.spotify.com/track/41ickhOwnmWX33HhsRNA6w) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/6OdcDL26C2YfsKp1kk22cx) | 1:16 |
 | 56 | [MURDER PLOT](https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MURDER PLOT](https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv) | 2:06 |
 | 57 | [Funk of Suffering](https://open.spotify.com/track/3GbFWANaWI8VZf1AxqFeaN) | [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [Funk of Suffering](https://open.spotify.com/album/2B8qo6AA5g6iPR0DpkjrbB) | 1:17 |
 | 58 | [COWBELL WARRIOR!](https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4) | 2:29 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 97 | [Phonk Bachi Bachi](https://open.spotify.com/track/4hx1w2XDXdS7w7cQ4NJxIj) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [Phonk Bachi Bachi](https://open.spotify.com/album/6w26U8IiuMeNYdMAfX52W6) | 1:44 |
 | 98 | [Mtg \- Coração](https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Mtg \- Coração](https://open.spotify.com/album/4LsthlcTRWkcsfRRn9yxYC) | 1:53 |
 
-Snapshot ID: `MCxmYzE3NTMyYzdhZmVhZTdjN2RkNTgzMGYwZjI3ODhhZTBlN2M4Yjg3`
+Snapshot ID: `MCxiNmQyNjMyNWVkOWFlMDlkMjRhYTFmMTEwZDYxODZiYzk0Yjc1NzA0`

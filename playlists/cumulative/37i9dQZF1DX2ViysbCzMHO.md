@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-271 songs - 14 hr 44 min
+272 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Don't Come Lookin' \- Live Acoustic](https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Don't Come Lookin' \(Live Acoustic\)](https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6) | 3:35 | 2022-07-29 | 2022-10-02 |
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\) \- Acoustic](https://open.spotify.com/track/5WlaHL9HnkhRMrVkvsLcd5) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album \(Acoustic\)](https://open.spotify.com/album/6HrXzPva9d1ucDAUO1lyS9) | 2:40 | 2021-12-17 | 2022-08-01 |
 | [Drinkin' for Two \- One Take](https://open.spotify.com/track/4lLehyULZRrOtF7mT8G5C4) | [Jordan Rager](https://open.spotify.com/artist/4XoYsecWoLIoV66HEbt365) | [Memories](https://open.spotify.com/album/2RIyH2pNBgdBkdudi7FXFt) | 3:11 | 2021-12-17 | 2022-07-10 |
+| [Drinking Alone \- Sunset Session](https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Drinking Alone](https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI) | 2:55 | 2023-12-01 |  |
 | [Drinking to the Broken Hearts \- Piano Version](https://open.spotify.com/track/3LNvApdP3ORvOyYvnYTSxM) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Drinking to the Broken Hearts \- Piano Version](https://open.spotify.com/album/1wJXKeag5KwfjFCrESiAOK) | 3:29 | 2022-01-28 | 2022-07-22 |
 | [Drive You Out Of My Mind \- Dark Room Edition](https://open.spotify.com/track/422L8K9qMnljsXBxrk7G7D) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind \(Dark Room Edition\)](https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg) | 3:54 | 2023-09-15 | 2023-10-17 |
 | [Drunk Too](https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Drunk Too](https://open.spotify.com/album/2AccCtAAKQrx8b1bvPcftg) | 2:42 | 2021-12-17 | 2022-11-19 |
@@ -185,7 +186,7 @@
 | [Religiously \- Religiously\. The Acoustic Sessions.](https://open.spotify.com/track/6N7kZBEu0O7wckERy2XqWM) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously \(Religiously\. The Acoustic Sessions.\)](https://open.spotify.com/album/1Oa74VQMAtnNj7HGxXZLyO) | 2:58 | 2023-08-04 |  |
 | [Rock and A Hard Place \- Acoustic](https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place \(Acoustic\)](https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R) | 3:27 | 2022-07-15 |  |
 | [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 | 2023-06-16 |  |
-| [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 | 2021-12-17 |  |
+| [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 | 2021-12-17 | 2023-12-10 |
 | [See You Next Summer \- Acoustic](https://open.spotify.com/track/3IFhvMzycy0tFNbxEf1IjJ) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer \(Acoustic\)](https://open.spotify.com/album/1MaVV8K1KYUOEDK7uJCszn) | 2:37 | 2023-09-29 | 2023-11-10 |
 | [Settling Down \- Acoustic](https://open.spotify.com/track/3qiFXINhnsIAkaE5AKPiKO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Settling Down \(Acoustic\)](https://open.spotify.com/album/5aoAYHBddUsvs2tkDfNDJL) | 2:27 | 2021-12-17 |  |
 | [She Had Me at Heads Carolina \- Acoustic](https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [She Had Me At Heads Carolina \(Acoustic\)](https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa) | 3:16 | 2022-10-07 | 2023-08-12 |

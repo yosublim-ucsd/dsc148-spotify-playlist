@@ -4,7 +4,7 @@
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-126 songs - 10 hr 29 min
+127 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Back Up, Back Up](https://open.spotify.com/track/3nsGBl64eMkPKFxVDkDAST) | [DJ Spoony](https://open.spotify.com/artist/6tDESlsE9MXHHGHASpXukv) | [Garage Classical](https://open.spotify.com/album/0ffDkx9XNvg59sxuWbUNYq) | 4:14 | 2022-12-28 | 2023-01-19 |
 | [Bassline Junkie](https://open.spotify.com/track/1o1x4gUntwc9sqeMDWR9eE) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [The Fifth \(Deluxe\)](https://open.spotify.com/album/0canh94jv3jOqOh7n8L1z2) | 3:24 | 2023-01-18 | 2023-08-12 |
 | [Battle](https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Lain](https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:00 | 2022-12-28 |  |
+| [Blues For You \(Hard Dub\)](https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P) | [Logic](https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT) | [Blues for You](https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA) | 4:29 | 2023-08-11 |  |
 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 | 2023-01-18 | 2023-11-04 |
 | [Body Groove \(feat\. Nay Nay & Ms Banks\)](https://open.spotify.com/track/1JiIIPsPCcvWWWcaTVB4yC) | [DJ Spoony](https://open.spotify.com/artist/6tDESlsE9MXHHGHASpXukv), [Nay Nay](https://open.spotify.com/artist/71a3J9zMxFclkoV020pkHT), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Garage Classical](https://open.spotify.com/album/0ffDkx9XNvg59sxuWbUNYq) | 3:31 | 2022-12-28 | 2023-01-19 |
 | [Body Groove \- Mix Mc Version](https://open.spotify.com/track/2hpoLae9rAKGQUBXMYVbr1) | [Architechs](https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G), [Nay Nay](https://open.spotify.com/artist/71a3J9zMxFclkoV020pkHT) | [Summer Dance 2022](https://open.spotify.com/album/3qNkVEZpm5afLAkw1YXsAE) | 5:15 | 2022-12-28 |  |
@@ -79,7 +80,7 @@
 | [Love Shy \- Club Asylum Remix](https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 3:41 | 2023-01-18 |  |
 | [Love Shy \- Tuff Jam Dub Mix](https://open.spotify.com/track/31tuwNVYbXIRTGTXdjgSgM) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Tuff Jam](https://open.spotify.com/artist/75HAYbl77Jah0RGasPTXk1) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 6:23 | 2022-12-28 | 2023-01-19 |
 | [Love Shy \- Tuff Jam Vocal Mix](https://open.spotify.com/track/5oZnoalYwu89qmkx3gZORI) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Tuff Jam](https://open.spotify.com/artist/75HAYbl77Jah0RGasPTXk1) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 4:09 | 2023-01-18 | 2023-08-12 |
-| [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 | 2022-12-28 |  |
+| [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 | 2022-12-28 | 2023-12-10 |
 | [Masterblaster 2000 \- Oracles Remix](https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [J.J](https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss), [Oracles](https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb) | [Masterblaster 2000](https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu) | 5:32 | 2023-01-18 |  |
 | [Melody \- Original 98 Mix](https://open.spotify.com/track/3AVByQiYYgBOK9mQav7jzq) | [Masterstepz](https://open.spotify.com/artist/0PzA7Rpt21GZplV4FosHe7) | [Melody 2.0](https://open.spotify.com/album/3eNKQv0DftWw8h94hMy31s) | 6:11 | 2022-12-28 | 2023-03-16 |
 | [Moving Too Fast \- Radio Edit](https://open.spotify.com/track/4FLFm76nwepkcxzqS8PzH4) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Romina Johnson](https://open.spotify.com/artist/1NmCD7ZZqEs7Dfp6fSZkZ0) | [Movin' Too Fast \(Ultimate Collection\)](https://open.spotify.com/album/0kIgzYlCvb6kifRgHl1scM) | 3:58 | 2023-01-18 |  |

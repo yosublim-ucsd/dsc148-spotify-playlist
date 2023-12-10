@@ -686,10 +686,32 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 193469,
       "name": "Condensed Milk",
       "url": "https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP"
+    },
+    {
+      "album": {
+        "name": "Condensed Milk",
+        "url": "https://open.spotify.com/album/7cwuRBBw9qpJi5rijLEEcG"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193469,
+      "name": "Condensed Milk",
+      "url": "https://open.spotify.com/track/6CqQVBWhL00BV2DfsxXoaZ"
     },
     {
       "album": {
@@ -2466,6 +2488,28 @@
     {
       "album": {
         "name": "Riches Wii a Pree",
+        "url": "https://open.spotify.com/album/0EzG5RsmeisxpEsNMoWGCt"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        },
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186654,
+      "name": "Riches Wii a Pree",
+      "url": "https://open.spotify.com/track/6iT95NOUvQpPjjEnEoO5dP"
+    },
+    {
+      "album": {
+        "name": "Riches Wii a Pree",
         "url": "https://open.spotify.com/album/25IgvW1IMpamtzY5ID4dhD"
       },
       "artists": [
@@ -2480,7 +2524,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 186654,
       "name": "Riches Wii a Pree",
       "url": "https://open.spotify.com/track/70sylDX7oTLfSyqPepXnn4"

@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1354,
+  "num_followers": 1353,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmE5YTllMTJjMDcyMGU1NzE4OTg0NzAyOTdkZmU0YWE2NDExOTAw",
+  "snapshot_id": "MCxhYTBjN2YwOWExYjQwZmE4ODRlMWY4NGNjMTNkOGEzMGU0YmI2ZGFk",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Mojo A Go Go - Real Rock For Kids",
+        "url": "https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu"
+      },
+      "artists": [
+        {
+          "name": "Daddy A Go Go",
+          "url": "https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Do The Chores",
+      "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "20 Canciones Infantiles",
-        "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
-      },
-      "artists": [
-        {
-          "name": "Osito Panda Band",
-          "url": "https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Ba\u00f1o de Burbujas",
-      "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Music for Classroom Management",
         "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
       },
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "20 Canciones Infantiles",
+        "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
+      },
+      "artists": [
+        {
+          "name": "Osito Panda Band",
+          "url": "https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0"
+        }
+      ],
+      "duration_ms": 112400,
+      "name": "Ba\u00f1o de Burbujas",
+      "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Life Lessons for Children from LittleBabyBum",
         "url": "https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 90900,
       "name": "Going Back to School Today",
       "url": "https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Moey's Music Party",
-        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
-      },
-      "artists": [
-        {
-          "name": "Moey",
-          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
-        }
-      ],
-      "duration_ms": 129560,
-      "name": "I Always Sit When I Eat",
-      "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -703,6 +703,22 @@
       "duration_ms": 150906,
       "name": "A Comer Que la Mesa Est\u00e1 Servida",
       "url": "https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Moey's Music Party",
+        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
+      },
+      "artists": [
+        {
+          "name": "Moey",
+          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
+        }
+      ],
+      "duration_ms": 129560,
+      "name": "I Always Sit When I Eat",
+      "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -751,22 +767,6 @@
       "duration_ms": 58644,
       "name": "Sonidos al Comer",
       "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Mojo A Go Go - Real Rock For Kids",
-        "url": "https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu"
-      },
-      "artists": [
-        {
-          "name": "Daddy A Go Go",
-          "url": "https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Do The Chores",
-      "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
     },
     {
       "added_at": "2023-03-17 09:43:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,799 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,825 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 36 | [Un Día Llegará La Muerte](https://open.spotify.com/track/12lXjp68kn92QS8Tjkajn5) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Un Día Llegará La Muerte](https://open.spotify.com/album/4ZFRDoeqaVXCFuP65keIWG) | 3:09 |
 | 37 | [Que Vuelvas / Bebe Dame](https://open.spotify.com/track/4anE0W56Z8NKjAwAuMZA1o) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Que Vuelvas / Bebe Dame](https://open.spotify.com/album/4ogxUO5T4YutKJlGSfDiq3) | 2:56 |
 | 38 | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 |
-| 39 | [Mentiroso](https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Mentiroso](https://open.spotify.com/album/6arHthrwXAAUuehcBKshhd) | 2:39 |
-| 40 | [Terapia](https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Terapia](https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN) | 2:42 |
+| 39 | [Terapia](https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Terapia](https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN) | 2:42 |
+| 40 | [Mentiroso](https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Mentiroso](https://open.spotify.com/album/6arHthrwXAAUuehcBKshhd) | 2:39 |
 | 41 | [La Chacalosa](https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [La Chacalosa](https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT) | 3:33 |
 | 42 | [Paso A Pasito](https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:43 |
 | 43 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 |
 | 44 | [Esto Es Lo Mío](https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Esto Es Lo Mío](https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9) | 2:01 |
 | 45 | [La Bruja](https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj) | [Paulina Del Campo](https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt) | [La Bruja](https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN) | 3:45 |
 | 46 | [Triste Recuerdo](https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9) | 3:23 |
-| 47 | [Se Acabo \- En Vivo](https://open.spotify.com/track/34Z1nXTwSX6AF6soXdRHmb) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/2zFaRfokK5hhre6SV3EQEq) | 2:38 |
-| 48 | [Voy A Quedarte Mal](https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Voy A Quedarte Mal](https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r) | 3:43 |
+| 47 | [Voy A Quedarte Mal](https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Voy A Quedarte Mal](https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r) | 3:43 |
+| 48 | [Se Acabo \- En Vivo](https://open.spotify.com/track/34Z1nXTwSX6AF6soXdRHmb) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/2zFaRfokK5hhre6SV3EQEq) | 2:38 |
 | 49 | [Ni El Dinero Ni Nada \- En Vivo](https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Ni El Dinero Ni Nada \(En Vivo\)](https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP) | 2:30 |
 | 50 | [Busca Otro Amor \(En Vivo\)](https://open.spotify.com/track/612bRKznhv8gN6Jwsr5IPX) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Busca Otro Amor \(En Vivo\)](https://open.spotify.com/album/6fvx4HALVK3h4cGd24v6IQ) | 3:49 |
 | 51 | [No Me Pregunten Por Él](https://open.spotify.com/track/5N3UilPh2Nsk5tx1VeotXs) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [No Me Pregunten Por Él](https://open.spotify.com/album/3tF7QyTPnYypPP9LXAG5cm) | 3:11 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 59 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 | 60 | [Lento](https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8) | [Katia Morales](https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg) | [Lento](https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru) | 3:00 |
 | 61 | [Te fallaste a ti](https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [Te fallaste a ti](https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH) | 3:02 |
-| 62 | [En Mil Cosas \- En Vivo](https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [En Mil Cosas \(En Vivo\)](https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL) | 3:14 |
-| 63 | [Dije](https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P) | [Natalia Corona](https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa) | [Dije](https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3) | 2:48 |
+| 62 | [Dije](https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P) | [Natalia Corona](https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa) | [Dije](https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3) | 2:48 |
+| 63 | [En Mil Cosas \- En Vivo](https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [En Mil Cosas \(En Vivo\)](https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL) | 3:14 |
 | 64 | [Cúbreme](https://open.spotify.com/track/6YCsNv4f9cHSuWRKWZ2Car) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Siempre Gabriella](https://open.spotify.com/album/5dNYwOCnXWUW3G241sdEwt) | 3:21 |
 | 65 | [Te Me Sigues Antojando](https://open.spotify.com/track/1lmHmsQN66qHztoYgWrzZy) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [Te Me Sigues Antojando](https://open.spotify.com/album/5MmoawkYlXuROoreINB1k6) | 3:05 |
 
-Snapshot ID: `MCw4YmE5NTFiOWI1ZThhMWNhMGMyNzUyODBiYjM4ZmFiOGVlYWNiOGVm`
+Snapshot ID: `MCw5ZmMzNGFmNjhlMTdhNTFmYjYzNWNmMjQ5ZTBiODE2NWEwY2ZhOWZh`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 80. \n\n",
-  "num_followers": 123916,
+  "num_followers": 124180,
   "original_name": "Rock en Espa\u00f1ol: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTRhODFmOGE1M2Y2NjU2NGZlMTA1OTY0MDY3NTVhNmM0OGRkN2E3",
+  "snapshot_id": "MCw3MDYxMjZiNzBmMzE2ZjQ0NjE4NjNiOThjODYxMmMzMjZmNGRiNDEw",
   "tracks": [
     {
       "added_at": "2022-03-29 18:50:52",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
-        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
+        "name": "Yo Te Avis\u00e9",
+        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
       },
       "artists": [
         {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 225764,
-      "name": "Paramar",
-      "url": "https://open.spotify.com/track/6YbjZUR8F5ewBI1kHaIA1G"
+      "duration_ms": 174306,
+      "name": "Yo No Me Sentar\u00eda en Tu Mesa - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/7Jy41XI7wVBnXvOifdoaxG"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Yo Te Avis\u00e9",
-        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
         }
       ],
-      "duration_ms": 174306,
-      "name": "Yo No Me Sentar\u00eda en Tu Mesa - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/7Jy41XI7wVBnXvOifdoaxG"
+      "duration_ms": 225764,
+      "name": "Paramar",
+      "url": "https://open.spotify.com/track/6YbjZUR8F5ewBI1kHaIA1G"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
-        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 287605,
-      "name": "Sexo",
-      "url": "https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "30 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 263506,
       "name": "Yo No Me Llamo Javier",
       "url": "https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 287605,
+      "name": "Sexo",
+      "url": "https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq"
     },
     {
       "added_at": "2022-03-29 18:50:52",

@@ -1,12 +1,12 @@
 {
   "description": "Highlights of 2023, listen to women at full volume. Cover:  <a href=\u201cspotify:artist:5LkbTSqXfMBjFSGi9LOGjq\u201d>Samara Joy</a> ",
-  "num_followers": 44883,
+  "num_followers": 45088,
   "original_name": "Best of EQUAL US 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDc0MzkzNjdlY2QxMmJlNjAxMTM3MWMxOTJkMzQxMjUyMTlkOWI0",
+  "snapshot_id": "MCw2NTZmMTgzNDY5YzJiOTNkMTIxNWRjNDVlMWJjYTkzNGI4NzQ3YjUw",
   "tracks": [
     {
       "added_at": "2023-11-29 12:17:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "AMERICAN HORROR SHOW",
-        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
-      },
-      "artists": [
-        {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 149391,
-      "name": "AMERICAN HORROR SHOW",
-      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Red Ruby Da Sleeze",
         "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 161367,
-      "name": "Bigger Person",
-      "url": "https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Your face",
         "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 227426,
       "name": "Your face",
       "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 161367,
+      "name": "Bigger Person",
+      "url": "https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx"
     },
     {
       "added_at": "2023-11-29 12:17:00",

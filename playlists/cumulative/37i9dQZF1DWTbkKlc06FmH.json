@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 174516,
       "name": "Better",
       "url": "https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 150700,
       "name": "Body & Soul (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
@@ -10466,7 +10466,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 234736,
       "name": "When We Were Younger (feat. Cavetown)",
       "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
@@ -11986,6 +11986,24 @@
       "duration_ms": 257687,
       "name": "\u77b3\u60da\u308c",
       "url": "https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z"
+    },
+    {
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "\u77b3\u60da\u308c",
+      "url": "https://open.spotify.com/track/5ZqO8UI3rELw35xCb8oF7c"
     },
     {
       "album": {

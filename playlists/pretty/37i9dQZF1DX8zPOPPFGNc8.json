@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"http://tbhits.com/\">Tommy Brown</a>",
-  "num_followers": 11534,
+  "num_followers": 11576,
   "original_name": "Tommy Brown's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmJlY2E0NDcyNzUyNzhhZjI5YWIxYzZmMzk0ZWVmNmEwZjNhODE4",
+  "snapshot_id": "MCw4ZWNmMTZlOTJmYjRlN2NjYTc2NDgyZjI5MDFlMzM3NzBmMjQ5ZGUx",
   "tracks": [
     {
       "added_at": "2022-10-01 04:00:00",
@@ -75,18 +75,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
         }
       ],
-      "duration_ms": 250986,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
+      "duration_ms": 404106,
+      "name": "Stan",
+      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -115,26 +119,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 404106,
-      "name": "Stan",
-      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -151,22 +135,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -179,6 +147,22 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -203,26 +187,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 351946,
-      "name": "Devil In A New Dress",
-      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -239,6 +203,26 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 351946,
+      "name": "Devil In A New Dress",
+      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -299,6 +283,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 272186,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272186,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -471,6 +455,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 374413,
+      "name": "No More Parties In LA",
+      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -499,22 +499,6 @@
       "duration_ms": 171573,
       "name": "needy",
       "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 374413,
-      "name": "No More Parties In LA",
-      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -635,22 +619,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -663,6 +631,22 @@
       "duration_ms": 206013,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -739,6 +723,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "Total Reggae: Summer Hits",
+        "url": "https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Total Reggae: Summer Hits",
-        "url": "https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Club Classics Vol. One",
         "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
@@ -819,18 +803,34 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw"
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
       "artists": [
         {
-          "name": "Frisco Kid",
-          "url": "https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 191533,
-      "name": "Bashment Time Featuring Mr. Easy",
-      "url": "https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP"
+      "duration_ms": 249600,
+      "name": "Don't Stop Believin' (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Planet Reggae",
+        "url": "https://open.spotify.com/album/635rqHGKQs1naHN7W0uLB5"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Sucky Ducky",
+      "url": "https://open.spotify.com/track/2JDb4hjA4JK4PoI47Ra492"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -851,18 +851,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Planet Reggae",
-        "url": "https://open.spotify.com/album/635rqHGKQs1naHN7W0uLB5"
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/6HJ0FiBSHswlkAQkFGj6rD"
       },
       "artists": [
         {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+          "name": "Frisco Kid",
+          "url": "https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7"
+        },
+        {
+          "name": "Mr. Easy",
+          "url": "https://open.spotify.com/artist/58e5hDoKHUV6rI8rDtr9a2"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Sucky Ducky",
-      "url": "https://open.spotify.com/track/2JDb4hjA4JK4PoI47Ra492"
+      "duration_ms": 191533,
+      "name": "Bashment Time (feat. Mr. Easy)",
+      "url": "https://open.spotify.com/track/0D9VHACaA1aaW6mf03qqD8"
     },
     {
       "added_at": "2022-10-01 04:00:00",

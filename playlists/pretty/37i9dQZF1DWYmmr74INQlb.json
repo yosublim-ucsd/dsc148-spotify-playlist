@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 20 years of \"Diary of Alicia Keys\". Cover: Alicia Keys",
-  "num_followers": 4607918,
+  "num_followers": 4608540,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2NiNjdiMDhjODY0NjIxNGY5OWNhZGFlN2QyNThjNjY5MmM2M2Qy",
+  "snapshot_id": "MCxiYTVhZDJhOGNiYmViNjE0Y2M0NGQxMmMwZWRlZjJkZDY1NzRhMjgw",
   "tracks": [
     {
       "added_at": "2023-12-03 16:39:22",
@@ -941,6 +941,22 @@
       "url": "https://open.spotify.com/track/2yr2HnFYl7XvqJk4fXoQBt"
     },
     {
+      "added_at": "2023-06-20 16:00:00",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Naughty Girl",
+      "url": "https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Goodies",
@@ -959,22 +975,6 @@
       "duration_ms": 256346,
       "name": "Oh (feat. Ludacris)",
       "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
-    },
-    {
-      "added_at": "2023-06-20 16:00:00",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Naughty Girl",
-      "url": "https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
     },
     {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Peaches & Cream",
+      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
+    },
+    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Unappreciated",
@@ -1075,22 +1091,6 @@
       "duration_ms": 226293,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/6MBEjJlXQYXr8dfxDvZuoA"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Peaches & Cream",
-      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Juslisen",
-        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Halfcrazy",
-      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Destiny Fulfilled",
@@ -1419,6 +1403,22 @@
       "duration_ms": 325573,
       "name": "Soldier (feat. T.I. & Lil' Wayne)",
       "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Juslisen",
+        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Halfcrazy",
+      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
     },
     {
       "added_at": "2023-06-20 16:00:00",
@@ -1493,40 +1493,20 @@
       "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Aijuswanaseing",
-        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 251426,
-      "name": "Just Friends (Sunny)",
-      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Ms. Kelly",
-        "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
       "artists": [
         {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Like This (feat. Eve)",
-      "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
+      "duration_ms": 224146,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1545,36 +1525,20 @@
       "url": "https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 224146,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
+      "duration_ms": 251426,
+      "name": "Just Friends (Sunny)",
+      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1595,6 +1559,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 256426,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Ms. Kelly",
+        "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Like This (feat. Eve)",
+      "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "Heaven Sent",
-      "url": "https://open.spotify.com/track/2E90KUsor4U2abOJGFKtfx"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 159293,
       "name": "Why Don't We Fall in Love",
       "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/2E90KUsor4U2abOJGFKtfx"
     },
     {
       "added_at": "2023-03-04 19:43:24",

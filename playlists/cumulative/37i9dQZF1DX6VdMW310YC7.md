@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,547 songs - 4 day 10 hr 33 min
+1,548 songs - 4 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Divide \(feat\. Kelsey Bulkin\)](https://open.spotify.com/track/3CvMXAVFGmfq56tvUAa9ip) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Kelsey Bulkin](https://open.spotify.com/artist/3vDjFm7GgG4ph7WR1KwNvp) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 4:01 | 2020-05-18 | 2020-07-03 |
 | [Divinity \- filous Remix](https://open.spotify.com/track/5EEb0Vm8xUKjpwH2jlftOl) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Divinity \(filous Remix\)](https://open.spotify.com/album/14i5IIywwM8fMuuI87M4Ap) | 4:07 | 2020-05-18 | 2020-07-03 |
 | [DJs Gotta Dance More](https://open.spotify.com/track/30HLXV5dIVOlrp2ncsUyjn) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [DJs Gotta Dance More](https://open.spotify.com/album/4IhHOv33cZ5J14gdrGbSoF) | 4:12 | 2020-05-18 | 2021-01-11 |
-| [Do I Go](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Do I Go](https://open.spotify.com/album/4SJrqffwVOdXAhuzl1subk) | 3:34 | 2023-10-20 |  |
+| [Do I Go](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Do I Go](https://open.spotify.com/album/4SJrqffwVOdXAhuzl1subk) | 3:34 | 2023-10-20 | 2023-12-10 |
 | [Do It Like You](https://open.spotify.com/track/5h1Gi50T9QxVfzvIF8vciC) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Do It Like You](https://open.spotify.com/album/4PKH86wn7Gw4iel2WD564k) | 3:10 | 2020-05-18 | 2020-07-18 |
 | [Do You Feel The Same? \- OCULA Remix](https://open.spotify.com/track/588upfdUtSJ3Mvsqvyqzhs) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Do You Feel The Same? \(OCULA Remix\)](https://open.spotify.com/album/6wdkY0pX5shDrKlGRZX1Gw) | 3:52 | 2023-02-17 | 2023-02-19 |
 | [Do You Feel The Same? \- OCULA Remix](https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Do You Feel The Same? \(OCULA Remix\)](https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L) | 3:52 | 2023-03-03 |  |
@@ -692,6 +692,7 @@
 | [Interference](https://open.spotify.com/track/6ETfQA0MON9Cce2qvsdZKv) | [Luca Guerrieri](https://open.spotify.com/artist/0kSI1cgEztfBxr2QUYlU7c) | [Interference](https://open.spotify.com/album/4wOKCoHW8VI9Vtpjtl6uKv) | 3:14 | 2022-12-28 | 2023-01-06 |
 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 | 2021-12-10 | 2022-12-29 |
 | [Into \- Mixed](https://open.spotify.com/track/1Z64JbXJY6Ky1RTECjpdF0) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Colorscapes Volume One](https://open.spotify.com/album/0n2QULhpm9u9GoTSSJja7i) | 1:48 | 2020-03-16 | 2020-07-03 |
+| [Into The Bloom](https://open.spotify.com/track/5CGwVoSCM3jHWpZi4u6Jgc) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Jack Kelly](https://open.spotify.com/artist/1qXQAJC0HsasWQhGI8P1QC), [Betty Bloom](https://open.spotify.com/artist/028AENVWICmqAiAj5xXncO) | [Into The Bloom](https://open.spotify.com/album/6mekDyVlyHqCPacthWRtP5) | 2:40 | 2023-12-01 |  |
 | [Into the Blue \(feat\. Pearl Andersson\)](https://open.spotify.com/track/5LjUA2CYBNR0Rehpv6XryW) | [Jewelz & Sparks](https://open.spotify.com/artist/50kceDjknh0CjwOko7kx7V), [Sarazar](https://open.spotify.com/artist/7fXsYMwApwATorXlTt95LD), [Pearl Andersson](https://open.spotify.com/artist/4EoSEUWlmLpYGHGNBoThiM) | [Into The Blue \(feat\. Pearl Andersson\)](https://open.spotify.com/album/1E5INJCgL6hInOlqqoucWh) | 2:47 | 2020-05-22 | 2020-07-03 |
 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 | 2023-08-04 |  |
 | [Into The Sun \- Chill Mix](https://open.spotify.com/track/4bXeqbONCSECKqU3XpA5eT) | [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Pretty Garter](https://open.spotify.com/artist/0ikHknT4cbqziewzUdqn3y), [Charlz](https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv) | [Into The Sun \(Chill Mix\)](https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil) | 2:44 | 2023-08-04 |  |

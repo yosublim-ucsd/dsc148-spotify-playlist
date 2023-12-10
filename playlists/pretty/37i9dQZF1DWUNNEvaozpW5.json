@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Sidecars.",
-  "num_followers": 572207,
+  "num_followers": 572334,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTRlM2ExMmRkM2Y5ZWNmMmU5ZDQxMmQ3OGY4YWI1MDliNzljNTdk",
+  "snapshot_id": "MCwwYjZlNDZhYzM4MGY4NmEyMmU3OGRmYTQ1NGE2MDZkNDY0NjU3Yjc2",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "4 Canciones",
-        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
       "artists": [
         {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 254840,
-      "name": "No Puedo Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+        "name": "4 Canciones",
+        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
       },
       "artists": [
         {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
         }
       ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+      "duration_ms": 254840,
+      "name": "No Puedo Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Todos Los D\u00edas Sale El Sol",
-        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
-      },
-      "artists": [
-        {
-          "name": "Bongo Botrako",
-          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
-        }
-      ],
-      "duration_ms": 146337,
-      "name": "Todos los d\u00edas sale el sol",
-      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Por la boca vive el pez",
         "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 375119,
       "name": "Acabo de llegar",
       "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Todos Los D\u00edas Sale El Sol",
+        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
+      },
+      "artists": [
+        {
+          "name": "Bongo Botrako",
+          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
+        }
+      ],
+      "duration_ms": 146337,
+      "name": "Todos los d\u00edas sale el sol",
+      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
-      },
-      "artists": [
-        {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
-        }
-      ],
-      "duration_ms": 400480,
-      "name": "Por verte sonre\u00edr",
-      "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Coces al Aire 1997-2007",
         "url": "https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 337666,
       "name": "Corazon de mimbre",
       "url": "https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
+      },
+      "artists": [
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "duration_ms": 400480,
+      "name": "Por verte sonre\u00edr",
+      "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Vispera De Todos Los Santos",
-        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
-      },
-      "artists": [
-        {
-          "name": "Los Suaves",
-          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Palabras Para Julia",
-      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Saca La Lengua",
         "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 237000,
       "name": "Adi\u00f3s pap\u00e1",
       "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Vispera De Todos Los Santos",
+        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
+      },
+      "artists": [
+        {
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Palabras Para Julia",
+      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Por Instinto",
-        "url": "https://open.spotify.com/album/3b2ODyXT2nMGONCMhUAWA9"
-      },
-      "artists": [
-        {
-          "name": "Barricada",
-          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
-        }
-      ],
-      "duration_ms": 245026,
-      "name": "En Blanco Y Negro",
-      "url": "https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
         "url": "https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 226813,
       "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
       "url": "https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Por Instinto",
+        "url": "https://open.spotify.com/album/3b2ODyXT2nMGONCMhUAWA9"
+      },
+      "artists": [
+        {
+          "name": "Barricada",
+          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
+        }
+      ],
+      "duration_ms": 245026,
+      "name": "En Blanco Y Negro",
+      "url": "https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "20 a\u00f1os de canciones",
+        "url": "https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Acantilados",
         "url": "https://open.spotify.com/album/4hVXwiwBAae93kGJGVTC9A"
       },
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "20 a\u00f1os de canciones",
-        "url": "https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3"
+        "name": "Burning (Singles Collection)",
+        "url": "https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN"
       },
       "artists": [
         {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+          "name": "Burning",
+          "url": "https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v"
         }
       ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
+      "duration_ms": 247401,
+      "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
+      "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Burning (Singles Collection)",
-        "url": "https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN"
-      },
-      "artists": [
-        {
-          "name": "Burning",
-          "url": "https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v"
-        }
-      ],
-      "duration_ms": 247401,
-      "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
-      "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Para volverte a decir",
-        "url": "https://open.spotify.com/album/4MKKOwt0Lw7susoIuMBo5s"
-      },
-      "artists": [
-        {
-          "name": "Arco",
-          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
-        }
-      ],
-      "duration_ms": 191231,
-      "name": "Para volverte a decir",
-      "url": "https://open.spotify.com/track/55quatI4AI4K0Tj3XNAxy7"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Madrid Nuclear - En Directo",
         "url": "https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 283373,
       "name": "Como Si Fueras a Morir Ma\u00f1ana - Madrid Nuclear - En Directo",
       "url": "https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Para volverte a decir",
+        "url": "https://open.spotify.com/album/4MKKOwt0Lw7susoIuMBo5s"
+      },
+      "artists": [
+        {
+          "name": "Arco",
+          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
+        }
+      ],
+      "duration_ms": 191231,
+      "name": "Para volverte a decir",
+      "url": "https://open.spotify.com/track/55quatI4AI4K0Tj3XNAxy7"
     },
     {
       "added_at": "2023-12-08 00:09:00",

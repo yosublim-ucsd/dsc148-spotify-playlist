@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 534400,
+  "num_followers": 534884,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmIxMjlhNWU1YWZjYTc3MzQyNDVlYmU2ZTE1MzM4MTk2Y2Y2Mjhi",
+  "snapshot_id": "MCw0ZTFlMGNmYTViZWQ2N2JmNzlhMDhiMDFlN2U3NzNhNGNjZWMyODFk",
   "tracks": [
     {
       "added_at": "2023-10-26 17:18:48",
@@ -81,22 +81,6 @@
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "Good Girl Gone Bad: Reloaded",
@@ -115,6 +99,22 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
-    },
-    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "My Love Is Your Love",
@@ -1043,6 +1027,22 @@
       "duration_ms": 292400,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 198346,
-      "name": "Shackles (Praise You)",
-      "url": "https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Almost Famous",
         "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 184906,
       "name": "Never Leave You (Uh Oooh, Uh Oooh)",
       "url": "https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 198346,
+      "name": "Shackles (Praise You)",
+      "url": "https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 299826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Hurtin' Me",
         "url": "https://open.spotify.com/album/2xhP3p0znN775vRxRP71ET"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 212815,
       "name": "Hurtin' Me",
       "url": "https://open.spotify.com/track/76IkF7pA7RscjDTvOFT4vb"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 299826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1325,6 +1325,22 @@
       "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
     },
     {
+      "added_at": "2023-07-14 04:17:24",
+      "album": {
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 193901,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
+    },
+    {
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "Boyfriend",
@@ -1359,22 +1375,6 @@
       "duration_ms": 215853,
       "name": "Like This (feat. Eve)",
       "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
-    },
-    {
-      "added_at": "2023-07-14 04:17:24",
-      "album": {
-        "name": "When I Hear Your Name",
-        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 193901,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Don't Waste My Time (feat. Ella Mai)",
-        "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "Don't Waste My Time (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Jenny From The Block - The Remixes",
         "url": "https://open.spotify.com/album/7pJj6tOX5HCBaYfLPiHfDn"
       },
@@ -1483,6 +1463,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 178289,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
       },
@@ -1503,22 +1499,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 178289,
-      "name": "FREEDOM",
-      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 226800,
       "name": "Right Here - Human Nature Radio Mix",
       "url": "https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Don't Waste My Time (feat. Ella Mai)",
+        "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Don't Waste My Time (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Fear Of Flying",
         "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 228000,
       "name": "Breathe (feat. Sean Paul) - Rap Version",
       "url": "https://open.spotify.com/track/0q3lwFiwQYQynThTulLKGN"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 213506,
-      "name": "7/11",
-      "url": "https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 224472,
       "name": "CHURCH GIRL",
       "url": "https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 213506,
+      "name": "7/11",
+      "url": "https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu"
     },
     {
       "added_at": "2022-08-02 10:25:51",

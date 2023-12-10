@@ -3482,7 +3482,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 209626,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/7MSGK0KByE9M66NOMup1AT"
@@ -5216,6 +5216,24 @@
       "duration_ms": 182346,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/4Wsst7bJEVKRWI1vef1S7R"
+    },
+    {
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/1snJ2mJ2UJXASD7QteQ6PK"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164093,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/47yul4OvMZctnAVjrEJ1YC"
     },
     {
       "album": {

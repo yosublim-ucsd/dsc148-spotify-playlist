@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > HSBC SVNS Cape Town Takeover: Soundtrack to The Biggest Party in Town.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,249 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,622 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 27 | [The Weekend \- Radio Edit](https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Analog Is On](https://open.spotify.com/album/1v1bEFD6ZgEvAbrMJqK1Oz) | 3:12 |
 | 28 | [I Shot The Sheriff](https://open.spotify.com/track/60e5PcqGmlVFQ0HHgUagCJ) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 4:40 |
 | 29 | [Thula](https://open.spotify.com/track/1s59XTyE9Xwt0HQZx8KJ1X) | [DJ Zinhle](https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW), [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj) | [Thula](https://open.spotify.com/album/1RMBMJecixfvRYNQlXiWpp) | 6:17 |
-| 30 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
+| 30 | [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 |
 | 31 | [iPlan](https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Permanent Music 3](https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow) | 6:50 |
 | 32 | [YMCA](https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Can't Stop the Music \(Original Soundtrack 1980\)](https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS) | 3:22 |
 | 33 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 49 | [Saggies](https://open.spotify.com/track/4qwBmPUVUbyXjwlttBAp8J) | [Temple Boys Cpt](https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n), [Young King The Vocalist](https://open.spotify.com/artist/3r7XbZvsiEHw7dYQky22tl) | [The Goats Ep, Vol\. 2](https://open.spotify.com/album/4MXixbdCRGPB96aNjBmbHF) | 2:20 |
 | 50 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
 
-Snapshot ID: `MCwzOWQwMzYxMGUxMTRjZGQ4MDQwNDA0OGY5YmVlYTVhNWQ5YzFmNDRk`
+Snapshot ID: `MCxmNWFkMDdhYzllNTQ3NDUwNTFjZDZhZGVkM2EwZjBjZjcyMjk0YmI1`

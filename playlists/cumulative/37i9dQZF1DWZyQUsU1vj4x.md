@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-186 songs - 11 hr 37 min
+187 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Let This Remain](https://open.spotify.com/track/168Vc6GtKTO6CxypymkDxo) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Let This Remain](https://open.spotify.com/album/60V5m75Zb1n2EXTilxL946) | 3:22 | 2019-10-31 | 2022-10-04 |
 | [Let This Remain](https://open.spotify.com/track/7cCOmB2QOuW04afSmTbDGL) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Let This Remain](https://open.spotify.com/album/4mndZQ8LpNLxYh54oVnhH2) | 3:22 | 2022-01-27 |  |
 | [Light That Match](https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps) | [Light That Match](https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx) | 3:02 | 2019-10-31 |  |
-| [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 | 2022-01-27 |  |
+| [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/43to8KLXwPSvEnCgkxW7AN) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:03 | 2023-11-10 |  |
+| [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 | 2022-01-27 | 2023-12-10 |
 | [Manuscripts](https://open.spotify.com/track/1Q7FOLlniUrL6P3nOfh2Y9) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3vSNB85xVwlQHjh2AmME8s) | 3:43 | 2019-10-31 | 2022-07-29 |
 | [Manuscripts](https://open.spotify.com/track/1vSwF9g9HvreKhSHJCkRac) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 3:43 | 2022-01-27 |  |
 | [Manuscripts](https://open.spotify.com/track/6hQUYyrGrPOBbxCFbwQxVG) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:43 | 2022-01-27 | 2022-09-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,967 likes - 102 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,974 likes - 102 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 58 | [Tauchen](https://open.spotify.com/track/1KAj8sihsZYYBMCZuXHq3o) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Tauchen](https://open.spotify.com/album/7ch3M4qcbnjN4v19mZHz7U) | 2:53 |
 | 59 | [MAMA](https://open.spotify.com/track/5Xcb4aJZdpgpYQLGme2bbZ) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [MAMA](https://open.spotify.com/album/773DbsSgLexvCh9XIsw4QA) | 3:14 |
 | 60 | [Du liebst ein G…](https://open.spotify.com/track/47UQwuQhvdXDCD2o1swikf) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Tirana EP 3](https://open.spotify.com/album/5VUZbN6U5OkLjiWJN0kfkz) | 2:36 |
-| 61 | [late checkout](https://open.spotify.com/track/2CPj8R9uFPKylqRJonbcfU) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [late checkout](https://open.spotify.com/album/0KZjAkutWySi992G3vTKx5) | 2:03 |
+| 61 | [Late checkout](https://open.spotify.com/track/2CPj8R9uFPKylqRJonbcfU) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [Late checkout](https://open.spotify.com/album/0KZjAkutWySi992G3vTKx5) | 2:03 |
 | 62 | [Bleiben können](https://open.spotify.com/track/3KHG0KGqP3kjZsOtD5tx9u) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Bleiben können](https://open.spotify.com/album/642EFDlyEu8rafHgDk9n5p) | 3:03 |
 | 63 | [MERRY GO ROUND](https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AND ALL I LOVED, I LOVED ALONE](https://open.spotify.com/album/5HlkWTlZidWmEkSAJkm2Aq) | 2:10 |
 | 64 | [Kei Diva](https://open.spotify.com/track/45RFTbVZDspLv67hm8trBZ) | [Skip](https://open.spotify.com/artist/1sWe2nEb4VOOvCFBphBjkd) | [Kei Diva](https://open.spotify.com/album/40Q9Cv1L882yRd0Opv5wIG) | 3:22 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 101 | [Charisma](https://open.spotify.com/track/2mtBjvQzQHtknKFQKTbCbX) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Charisma](https://open.spotify.com/album/2TcKAlzwi9pSGMpVOIXho4) | 2:57 |
 | 102 | [UFO](https://open.spotify.com/track/078TILT7Zgz4S0KMr03VLf) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Nina Hagen sings Larry Norman](https://open.spotify.com/album/685AcFqtZ1ubHhdeoKQYf0) | 2:57 |
 
-Snapshot ID: `MCwyYjM0NDVkMGUxYjQ4NzYzZTM4NWM2NDI4M2UzZjcxY2UxM2RlZTEw`
+Snapshot ID: `MCwxM2NhNTMyYWQzM2M1MmJhN2YwNDNmNzE1ZTY5OTE0OTJjMjU4ZmJh`

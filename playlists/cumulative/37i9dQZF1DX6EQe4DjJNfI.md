@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Hanifah, Doug O.
 
-175 songs - 8 hr 53 min
+176 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Nossa Brisa](https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy) | [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Lunar](https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf) | 1:55 | 2022-12-01 |  |
 | [A Sós](https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh) | [A Sós](https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ) | 2:44 | 2023-07-14 |  |
 | [Abstinência](https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs) | [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Ceejay](https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624) | [Abstinência](https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO) | 2:48 | 2023-07-21 |  |
-| [AMSTERDÃ](https://open.spotify.com/track/5yv1WZnGg25Xp2X5e78Cce) | [Nay](https://open.spotify.com/artist/14O6fkCHntWGqGGibsFpXl) | [AMSTERDÃ](https://open.spotify.com/album/2UCga76KqUyQombwCGGQbN) | 2:28 | 2023-11-10 |  |
+| [AMSTERDÃ](https://open.spotify.com/track/5yv1WZnGg25Xp2X5e78Cce) | [Nay](https://open.spotify.com/artist/14O6fkCHntWGqGGibsFpXl) | [AMSTERDÃ](https://open.spotify.com/album/2UCga76KqUyQombwCGGQbN) | 2:28 | 2023-11-10 | 2023-12-10 |
 | [Aos Céus](https://open.spotify.com/track/5dVGO5yaLhJbkEsnMJkvqL) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [miguelisaneko](https://open.spotify.com/artist/5jTQuRW0DsoMIvTFzR4Mzs) | [Aos Céus](https://open.spotify.com/album/1acdSqlcfpIeOGUiLHefiy) | 2:17 | 2023-01-13 | 2023-01-21 |
 | [Aperta Start](https://open.spotify.com/track/6ByLwg9h4FEHbk1TdDAIdM) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Aperta Start](https://open.spotify.com/album/70KB2kysyDwhfToulSQ5gs) | 2:57 | 2022-11-18 | 2023-04-09 |
 | [Aquelas Coisas](https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT) | [Aquelas Coisas](https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm) | 3:16 | 2023-02-03 | 2023-07-29 |
@@ -30,6 +30,7 @@
 | [Bem Calma](https://open.spotify.com/track/6c3b87lxij2i7A4uFpcd1t) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Bem Calma](https://open.spotify.com/album/3yWAlfv8Jyw8ddRiLqWECS) | 3:00 | 2022-11-18 | 2023-01-14 |
 | [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 | 2023-01-20 | 2023-06-03 |
 | [Brigas Demais](https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 4:08 | 2023-03-24 | 2023-08-05 |
+| [Cadê Aquele Nosso Amor \- Ao Vivo](https://open.spotify.com/track/422sUCkF4qs7gOImkoBhBw) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 3:04 | 2023-12-09 |  |
 | [Caixa Postal](https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Caixa Postal](https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR) | 3:03 | 2023-09-01 |  |
 | [calma](https://open.spotify.com/track/5HDIwU7a2S5sfP7QMEgS9N) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Douglas Moda](https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 4:03 | 2023-11-10 |  |
 | [Caos](https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Caos](https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD) | 3:00 | 2023-04-07 | 2023-06-24 |

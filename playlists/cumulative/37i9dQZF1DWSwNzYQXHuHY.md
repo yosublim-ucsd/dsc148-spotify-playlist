@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-186 songs - 10 hr 30 min
+187 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Pop? Pop!](https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [Sequence : 7272](https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo) | 3:35 | 2022-08-09 |  |
 | [pounding trembling](https://open.spotify.com/track/1vkrW27KEye650Rf7AZfr0) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [pounding trembling](https://open.spotify.com/album/2qFCc7RMflhZJWEjbEhk8d) | 3:00 | 2022-05-11 | 2022-07-27 |
 | [Quest](https://open.spotify.com/track/5G0mUWDldd0QhwB4SkGzFB) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 3:28 | 2022-05-11 | 2022-07-27 |
-| [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 | 2022-05-11 |  |
+| [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 | 2022-05-11 | 2023-12-10 |
 | [Say Yes](https://open.spotify.com/track/27zrFrtUtWl2urlvjOn5xc) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) | 3:38 | 2022-05-11 |  |
 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 | 2022-05-11 | 2022-08-15 |
 | [see you](https://open.spotify.com/track/5qwogqCsf0RDUVzywwlfzI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:15 | 2022-05-11 | 2022-07-26 |
@@ -174,6 +174,7 @@
 | [Waggy](https://open.spotify.com/track/4PaV21Q4jkSvfQ5iAcFJef) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:12 | 2022-05-11 | 2022-06-09 |
 | [Wanna go for a walk?](https://open.spotify.com/track/05aHjamumAJ0m9L24mgGBp) | [LiYoon](https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn) | [Wanna go for a walk?](https://open.spotify.com/album/3ULtXyAUl3AQ3t6iXvXfIp) | 3:05 | 2022-06-20 | 2022-07-26 |
 | [What about \(feat\. PENOMECO\)](https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [What about \(feat\. PENOMECO\)](https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig) | 3:28 | 2022-05-11 | 2022-07-29 |
+| [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [PARK JIWON of fromis\_9](https://open.spotify.com/artist/7HiDoJ7GFuGv7WNfu4qv8B) | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa) | 2:58 | 2023-12-09 |  |
 | [What are you thinking about?](https://open.spotify.com/track/1eimXRbiVMsqSvTLj8Tt41) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Someone's playlist \#2](https://open.spotify.com/album/2mvcfZb6tMU4iJheHHhdYM) | 3:35 | 2022-05-11 | 2022-07-23 |
 | [What Shall I Do?](https://open.spotify.com/track/5EifmUIMkCqnayTDAWwTfx) | [12DAL](https://open.spotify.com/artist/6Y2UFKStWOiUYxIDE5QFKn) | [What Shall I Do?](https://open.spotify.com/album/32QOWg3l9smEZU2VUtJlFp) | 3:41 | 2022-05-11 | 2022-07-28 |
 | [Where Is Dream](https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [START\-UP \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B) | 3:03 | 2022-05-11 | 2023-06-04 |

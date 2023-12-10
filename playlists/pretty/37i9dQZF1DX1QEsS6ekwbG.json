@@ -1,12 +1,12 @@
 {
   "description": "La mejor compa\u00f1\u00eda mientras llueve.",
-  "num_followers": 144524,
+  "num_followers": 144597,
   "original_name": "Lluvia y Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTQzMjYzM2JjZjk5N2U5ZWJlYzY3ZGZkOTg1YWNjMTMwZmI0MzI4",
+  "snapshot_id": "MCxhNmQ5NzE0NmMxZGU1Mzk5MjdiMjE5YWI5YmU2MmJhYjNmZjI2ODdk",
   "tracks": [
     {
       "added_at": "2023-11-10 14:52:15",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-11-10 14:52:15",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Luz De Dia",
-      "url": "https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx"
-    },
-    {
-      "added_at": "2023-11-10 14:52:15",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 227480,
       "name": "Amigos Con Derechos",
       "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
+    },
+    {
+      "added_at": "2023-11-10 14:52:15",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Luz De Dia",
+      "url": "https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx"
     },
     {
       "added_at": "2023-11-10 14:52:15",

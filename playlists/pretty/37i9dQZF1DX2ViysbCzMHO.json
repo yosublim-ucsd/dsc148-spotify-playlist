@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 141504,
+  "num_followers": 141592,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjFhYmY3Y2E3MWFmYWNmZjg0ZDNmYmI0ODQ4ZGUyNDViNDRjYjNl",
+  "snapshot_id": "MCxmMmMyN2EyMDAzYTYxNTJmNDYyMWQyYzcwOTZhZWI4YzA5MTBiYTcy",
   "tracks": [
     {
       "added_at": "2023-12-01 16:50:14",
@@ -707,38 +707,6 @@
     {
       "added_at": "2023-12-01 16:50:14",
       "album": {
-        "name": "Hey World Sessions",
-        "url": "https://open.spotify.com/album/1cukOALZABGxEuM4O28Iqy"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 177459,
-      "name": "Come Get Your Memory - Hey World Sessions",
-      "url": "https://open.spotify.com/track/2jUawi80YTVDXNau91PQMX"
-    },
-    {
-      "added_at": "2023-12-01 16:50:14",
-      "album": {
-        "name": "Small Town Hypocrite",
-        "url": "https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        }
-      ],
-      "duration_ms": 242005,
-      "name": "Small Town Hypocrite",
-      "url": "https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8"
-    },
-    {
-      "added_at": "2023-12-01 16:50:14",
-      "album": {
         "name": "This City Remix (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
@@ -759,6 +727,22 @@
     {
       "added_at": "2023-12-01 16:50:14",
       "album": {
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "duration_ms": 242005,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8"
+    },
+    {
+      "added_at": "2023-12-01 16:50:14",
+      "album": {
         "name": "Hell Of A Way To Go (Acoustic)",
         "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 173126,
       "name": "Hell Of A Way To Go - Acoustic",
       "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
+    },
+    {
+      "added_at": "2023-12-01 16:50:14",
+      "album": {
+        "name": "Hey World Sessions",
+        "url": "https://open.spotify.com/album/1cukOALZABGxEuM4O28Iqy"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 177459,
+      "name": "Come Get Your Memory - Hey World Sessions",
+      "url": "https://open.spotify.com/track/2jUawi80YTVDXNau91PQMX"
     },
     {
       "added_at": "2023-12-01 16:50:14",
@@ -891,22 +891,22 @@
     {
       "added_at": "2023-12-01 16:50:14",
       "album": {
-        "name": "The Acoustic Sessions",
-        "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
+        "name": "Half Of Me (Acoustic)",
+        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         },
         {
-          "name": "Charles Kelley",
-          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 198026,
-      "name": "Here Tonight - The Acoustic Sessions",
-      "url": "https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO"
+      "duration_ms": 175639,
+      "name": "Half Of Me - Acoustic",
+      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
     },
     {
       "added_at": "2023-12-01 16:50:14",
@@ -931,22 +931,22 @@
     {
       "added_at": "2023-12-01 16:50:14",
       "album": {
-        "name": "Half Of Me (Acoustic)",
-        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
+        "name": "The Acoustic Sessions",
+        "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         },
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Charles Kelley",
+          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
         }
       ],
-      "duration_ms": 175639,
-      "name": "Half Of Me - Acoustic",
-      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
+      "duration_ms": 198026,
+      "name": "Here Tonight - The Acoustic Sessions",
+      "url": "https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO"
     },
     {
       "added_at": "2023-12-01 16:50:14",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-12-01 16:50:14",
       "album": {
-        "name": "All I Know About Girls",
-        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "All I Know About Girls",
-      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
-    },
-    {
-      "added_at": "2023-12-01 16:50:14",
-      "album": {
         "name": "All Out Acoustic Sessions",
         "url": "https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 187487,
       "name": "Wanna Be Saved (Acoustic)",
       "url": "https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj"
+    },
+    {
+      "added_at": "2023-12-01 16:50:14",
+      "album": {
+        "name": "All I Know About Girls",
+        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "All I Know About Girls",
+      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
     },
     {
       "added_at": "2023-12-01 16:50:14",
@@ -1143,22 +1143,18 @@
     {
       "added_at": "2023-12-01 16:50:14",
       "album": {
-        "name": "Honestly (Deluxe)",
-        "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
+        "name": "Breakin' in Boots (Stripped)",
+        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
       },
       "artists": [
         {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
-        },
-        {
-          "name": "Charlie Worsham",
-          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
         }
       ],
-      "duration_ms": 212932,
-      "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
-      "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+      "duration_ms": 154173,
+      "name": "Breakin' in Boots - Stripped",
+      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
     },
     {
       "added_at": "2023-12-01 16:50:14",
@@ -1179,6 +1175,26 @@
     {
       "added_at": "2023-12-01 16:50:14",
       "album": {
+        "name": "Honestly (Deluxe)",
+        "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        },
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+        }
+      ],
+      "duration_ms": 212932,
+      "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
+      "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+    },
+    {
+      "added_at": "2023-12-01 16:50:14",
+      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
       },
@@ -1191,6 +1207,22 @@
       "duration_ms": 204004,
       "name": "Better Off Gone (Acoustic Sessions)",
       "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
+    },
+    {
+      "added_at": "2023-12-01 16:50:14",
+      "album": {
+        "name": "Little More Be Alright",
+        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        }
+      ],
+      "duration_ms": 215721,
+      "name": "Little More Be Alright",
+      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
     },
     {
       "added_at": "2023-12-01 16:50:14",
@@ -1223,38 +1255,6 @@
       "duration_ms": 212435,
       "name": "Yearbook",
       "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
-    },
-    {
-      "added_at": "2023-12-01 16:50:14",
-      "album": {
-        "name": "Little More Be Alright",
-        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
-      },
-      "artists": [
-        {
-          "name": "Drew Green",
-          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
-        }
-      ],
-      "duration_ms": 215721,
-      "name": "Little More Be Alright",
-      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
-    },
-    {
-      "added_at": "2023-12-01 16:50:14",
-      "album": {
-        "name": "Breakin' in Boots (Stripped)",
-        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "Breakin' in Boots - Stripped",
-      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
     },
     {
       "added_at": "2023-12-01 16:50:14",
@@ -1311,54 +1311,6 @@
     {
       "added_at": "2023-12-01 16:50:14",
       "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
-      },
-      "artists": [
-        {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
-        }
-      ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
-    },
-    {
-      "added_at": "2023-12-01 16:50:14",
-      "album": {
-        "name": "I Hate Cowboys & All Dogs Go To Hell",
-        "url": "https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini"
-      },
-      "artists": [
-        {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "For A Day",
-      "url": "https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx"
-    },
-    {
-      "added_at": "2023-12-01 16:50:14",
-      "album": {
-        "name": "Creek Will Rise (Acoustic)",
-        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
-      },
-      "artists": [
-        {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Creek Will Rise - Acoustic",
-      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
-    },
-    {
-      "added_at": "2023-12-01 16:50:14",
-      "album": {
         "name": "Take My Name (Wedding Version)",
         "url": "https://open.spotify.com/album/2gGSvwn3wS3drhrN07fnSC"
       },
@@ -1371,6 +1323,22 @@
       "duration_ms": 174133,
       "name": "Take My Name (Wedding Version)",
       "url": "https://open.spotify.com/track/5Pe59NlkY1rYND0I1wqgv6"
+    },
+    {
+      "added_at": "2023-12-01 16:50:14",
+      "album": {
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
+      },
+      "artists": [
+        {
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
+        }
+      ],
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
     },
     {
       "added_at": "2023-12-01 16:50:14",
@@ -1391,6 +1359,22 @@
     {
       "added_at": "2023-12-01 16:50:14",
       "album": {
+        "name": "I Hate Cowboys & All Dogs Go To Hell",
+        "url": "https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "For A Day",
+      "url": "https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx"
+    },
+    {
+      "added_at": "2023-12-01 16:50:14",
+      "album": {
         "name": "Hope It's Hot Out (Acoustic)",
         "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 167833,
       "name": "Hope It's Hot Out (Acoustic)",
       "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
+    },
+    {
+      "added_at": "2023-12-01 16:50:14",
+      "album": {
+        "name": "Creek Will Rise (Acoustic)",
+        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Creek Will Rise - Acoustic",
+      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
     },
     {
       "added_at": "2023-12-01 16:50:14",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-12-01 16:50:14",
       "album": {
-        "name": "God Gave Me A Girl (Acoustic)",
-        "url": "https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 201020,
-      "name": "God Gave Me A Girl - Acoustic",
-      "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
-    },
-    {
-      "added_at": "2023-12-01 16:50:14",
-      "album": {
         "name": "Neon Moon",
         "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 161052,
       "name": "Neon Moon",
       "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
+    },
+    {
+      "added_at": "2023-12-01 16:50:14",
+      "album": {
+        "name": "God Gave Me A Girl (Acoustic)",
+        "url": "https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 201020,
+      "name": "God Gave Me A Girl - Acoustic",
+      "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
     },
     {
       "added_at": "2023-12-01 16:50:14",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-12-01 16:50:14",
       "album": {
-        "name": "Secret (Gravel Drive Sounds)",
-        "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
+        "name": "Drinking Alone",
+        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
       },
       "artists": [
         {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
         }
       ],
-      "duration_ms": 225240,
-      "name": "Secret - Gravel Drive Sounds",
-      "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
+      "duration_ms": 175783,
+      "name": "Drinking Alone - Sunset Session",
+      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
     },
     {
       "added_at": "2023-12-01 16:50:14",

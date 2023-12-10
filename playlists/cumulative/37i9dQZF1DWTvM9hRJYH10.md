@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: The Castellows
 
-315 songs - 16 hr 40 min
+316 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Momentum](https://open.spotify.com/track/2Km7p52eJt51AsLoizZsXz) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [Momentum](https://open.spotify.com/album/1UVUIMDHj2I0Lt5Mumd6eh) | 3:21 | 2022-05-06 |  |
 | [More or Less](https://open.spotify.com/track/53PCMZmgBA739sanZsNU0x) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [More or Less](https://open.spotify.com/album/3twjUH5CABauFgk6YcRC3u) | 3:09 | 2023-09-29 |  |
 | [My Favorite](https://open.spotify.com/track/2IVy3iMsdJpoL93FYaPZZD) | [Stephen Carey](https://open.spotify.com/artist/5R4aCM4MHu9UvbvfDgW6N1) | [My Favorite](https://open.spotify.com/album/7EYrUwCFsD1544kVlGtP0r) | 2:39 | 2022-04-08 |  |
-| [My Future](https://open.spotify.com/track/3BgmOSHUxnpSAcUM1ekBrj) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/3ar0skKJQsyath9XFqdFDh) | 2:35 | 2023-01-13 |  |
+| [My Future](https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw) | 2:35 | 2023-12-01 |  |
+| [My Future](https://open.spotify.com/track/3BgmOSHUxnpSAcUM1ekBrj) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/3ar0skKJQsyath9XFqdFDh) | 2:35 | 2023-01-13 | 2023-12-10 |
 | [My Mistake](https://open.spotify.com/track/3KKzYn1hHHwdATpAzYWV5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/6Augs9cdAbmK60GzMGx1gc) | 3:41 | 2023-06-02 |  |
 | [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-31 | 2023-06-22 |
 | [My Turn](https://open.spotify.com/track/4fREYVupHFsPepnZeZrKI5) | [Alyssa Trahan](https://open.spotify.com/artist/0aMw8k8BbQf9sEeVokLzSo) | [Baby Blues & Stilettos](https://open.spotify.com/album/7xhGmTGboj8tUh1XfeW0k6) | 2:53 | 2021-12-31 | 2022-01-08 |

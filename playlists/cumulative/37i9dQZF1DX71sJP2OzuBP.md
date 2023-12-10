@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-1,176 songs - 3 day 3 hr 49 min
+1,177 songs - 3 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,8 @@
 | [倔強的樹](https://open.spotify.com/track/4wjzv5jLRUbgpK0IbGGzKQ) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [倔強的樹](https://open.spotify.com/album/2OpZawHJBGwPUqkJXxaAIZ) | 4:59 | 2022-12-05 | 2023-02-28 |
 | [值得被愛](https://open.spotify.com/track/0hwIvBjy3MlLuScS6RS1R2) | [曾溯恕](https://open.spotify.com/artist/26oO7cnLi8UB2en60YXqEv) | [值得被愛](https://open.spotify.com/album/5QTJjJohfupsbaQ52GHFtm) | 4:28 | 2022-06-06 | 2022-07-12 |
 | [假如世上還有一個人](https://open.spotify.com/track/0ki1xpYUdxYxzJocp1jjxa) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [假如世上還有一個人](https://open.spotify.com/album/3R0a9X793U1Xi5ayVzrXQk) | 4:20 | 2022-09-12 | 2022-11-15 |
-| [假設 \(feat\. 孫盛希\)](https://open.spotify.com/track/5H6O5Ba04pJH8iHiqT7Hcs) | [郑润泽](https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [假設](https://open.spotify.com/album/7KmRA1JE6SbZ62XbWnxt3c) | 3:34 | 2023-12-04 |  |
+| [假設 \(feat\. 孫盛希\)](https://open.spotify.com/track/5H6O5Ba04pJH8iHiqT7Hcs) | [郑润泽](https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [假設](https://open.spotify.com/album/7KmRA1JE6SbZ62XbWnxt3c) | 3:34 | 2023-12-04 | 2023-12-10 |
+| [假设](https://open.spotify.com/track/5eIvG3WhIn1Xt2i11fOExb) | [郑润泽](https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4), [孙盛希](https://open.spotify.com/artist/48KbdQ2h1Qq2G0mr3hVsls) | [绚烂 枯萎 以后](https://open.spotify.com/album/29GUxcViDudgrKO0IJpL72) | 3:34 | 2023-12-04 |  |
 | [做妳的靠山](https://open.spotify.com/track/46ofDyr8xeCQDlfBtr6vnB) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ) | [做妳的靠山](https://open.spotify.com/album/6hp8INKxFKRyXZ2xD43e4c) | 3:30 | 2023-10-30 | 2023-11-21 |
 | [做自己的主角](https://open.spotify.com/track/1gPbc3AOaPqmqjs3qnxBVE) | [有感覺](https://open.spotify.com/artist/7uSnXddSw3Vrj8tM7tynMy) | [做自己的主角](https://open.spotify.com/album/6t17FPfiUhsX9LzeqDvI5m) | 4:08 | 2022-06-06 | 2022-06-28 |
 | [停电](https://open.spotify.com/track/3H7y1jmV0dE6pzNqaEbUDG) | [Layla Sania](https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK) | [1671](https://open.spotify.com/album/1rCLI5ezftmPGRbX3UlMG1) | 3:35 | 2023-10-02 | 2023-10-24 |

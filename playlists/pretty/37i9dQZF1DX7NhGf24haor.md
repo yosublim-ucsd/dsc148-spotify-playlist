@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Gunz For Hire \(Ran\-D & Adaro\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,042 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,270 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 10 | [Pachanga](https://open.spotify.com/track/7acQxS7IlhxBYpSfAW7CPg) | [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv), [Kloon](https://open.spotify.com/artist/3JkCb5x64oiOqmQxuJFTYI), [Glusonik](https://open.spotify.com/artist/74a3QM58GhxOaaX9mxQSIn) | [Pachanga](https://open.spotify.com/album/490Mim6cyzPDnz47PfbvKs) | 3:23 |
 | 11 | [Stay Alive 2K24](https://open.spotify.com/track/5o4rviue1So4SS4tECuaHB) | [D\-Attack](https://open.spotify.com/artist/79QnAdpXGrzcsIOFtW3gR4), [MC Diesel](https://open.spotify.com/artist/20rPxPH4gXyqj2G3ooE44c) | [Stay Alive 2K24](https://open.spotify.com/album/2biv7GpWXb9HKAjeGfEGAK) | 2:33 |
 | 12 | [PIECES](https://open.spotify.com/track/3cA6s2sQZ5UeYjSOZA33ZL) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [PIECES](https://open.spotify.com/album/6IZx5SzxQk0tyWfPzdyeVm) | 2:43 |
-| 13 | [Mystery](https://open.spotify.com/track/4uZLkiCJHog1qI04KdhzNv) | [VENNIC](https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS) | [Mystery](https://open.spotify.com/album/1bCGQxeHAlY1QPjuUPkIlm) | 2:53 |
+| 13 | [Mystery](https://open.spotify.com/track/4uZLkiCJHog1qI04KdhzNv) | [VENNIC](https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS) | [Mystery](https://open.spotify.com/album/1bCGQxeHAlY1QPjuUPkIlm) | 2:54 |
 | 14 | [Nine 2 Five](https://open.spotify.com/track/5zylS3y0Yh4slf7IM1UFai) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Nine 2 Five](https://open.spotify.com/album/1kTIfYlljukpQidDcdZh3e) | 2:23 |
 | 15 | [My Witness](https://open.spotify.com/track/7Btg1nNz5OuTMY7RTzKz20) | [Hardstyle Legends](https://open.spotify.com/artist/7h1AK4oFSkeL6vlOa5NHb0) | [My Witness](https://open.spotify.com/album/3FPO1GDAzVsAkYikTmawWQ) | 3:27 |
 | 16 | [LOVE THE WAY](https://open.spotify.com/track/5xPXUK6x8cWrL5xsqJv9eF) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [LOVE THE WAY](https://open.spotify.com/album/4g6S9RIdnxH7jaY4hDFX6a) | 4:50 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 107 | [The Best Night](https://open.spotify.com/track/5RdqaD1NJS8CFxDogGEj7w) | [X.AYA](https://open.spotify.com/artist/61QYj9ZPwaO68IxP6mhooq), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [The Best Night](https://open.spotify.com/album/6HXupTPN8q8nTFWL5S43yg) | 2:42 |
 | 108 | [Bound By Blood](https://open.spotify.com/track/0urHN48EcZuLqImG7ASp98) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Bound By Blood](https://open.spotify.com/album/2fH2mZmPLKbWrnFBdQ90gw) | 3:45 |
 
-Snapshot ID: `MCw5NGYzYjUwOWM5NjQxYjQ3MmJiNTExZTc4ODc0NGY2OTQ0OTBmNDg4`
+Snapshot ID: `MCw4ZDc3YmNjNDAzZjVmNTMxNjRmOWZlMDU2NDJjZmFjMmIwZDkzZGFh`

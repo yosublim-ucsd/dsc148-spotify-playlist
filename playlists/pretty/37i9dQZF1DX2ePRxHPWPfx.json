@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 3006,
+  "num_followers": 3022,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDYxMTgwNTJiYmQ4ZWI4NGUzN2FjMTY0NjZhYTY2NjI4ODBkNTU3",
+  "snapshot_id": "MCw5YmVjZDllMWNlZDI2OGM5ZDdmNmRmMDdlZjQyZmQzZDI3MGEwZjlm",
   "tracks": [
     {
       "added_at": "2023-12-08 05:01:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 197720,
-      "name": "5:24",
-      "url": "https://open.spotify.com/track/1ZymB4keoWbIgKYZ0RaO9b"
+      "duration_ms": 255586,
+      "name": "Te Deseo Muy Felices Fiestas",
+      "url": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 255586,
-      "name": "Te Deseo Muy Felices Fiestas",
-      "url": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
+      "duration_ms": 197720,
+      "name": "5:24",
+      "url": "https://open.spotify.com/track/1ZymB4keoWbIgKYZ0RaO9b"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
         "name": "Permanente",
         "url": "https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz"
       },
@@ -399,22 +415,18 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 271893,
-      "name": "Quererte Bonito",
-      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
+      "duration_ms": 188199,
+      "name": "Sonr\u00ede",
+      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -435,34 +447,22 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Por Debajo De La Mesa",
-      "url": "https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
         {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0"
+      "duration_ms": 271893,
+      "name": "Quererte Bonito",
+      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -515,22 +515,18 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/3wNzFBRNBuK1xz6XbZNBBQ"
+      "duration_ms": 184080,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -571,18 +567,22 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 188199,
-      "name": "Sonr\u00ede",
-      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
+      "duration_ms": 158133,
+      "name": "Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/3wNzFBRNBuK1xz6XbZNBBQ"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
+        "name": "Chilango Blues",
+        "url": "https://open.spotify.com/album/1XqryMmgsJxFIfUHu8E2VQ"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Chilango Blues",
+      "url": "https://open.spotify.com/track/15GJ5u94ls3eciXNh6YDER"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 203999,
       "name": "WCID?",
       "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "Chilango Blues",
-        "url": "https://open.spotify.com/album/1XqryMmgsJxFIfUHu8E2VQ"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Chilango Blues",
-      "url": "https://open.spotify.com/track/15GJ5u94ls3eciXNh6YDER"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Canciones Chiquitas",
-        "url": "https://open.spotify.com/album/2E2800vbcd00dx5rVBGsw0"
-      },
-      "artists": [
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 72874,
-      "name": "La Luna y T\u00fa",
-      "url": "https://open.spotify.com/track/4hHvdHXszAHLPrisD96BDq"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
         "name": "Sweet Christmas Ukulele & Jazz",
         "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 164787,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/1nobDMo2NzOyNXgCeyD8f7"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "Canciones Chiquitas",
+        "url": "https://open.spotify.com/album/2E2800vbcd00dx5rVBGsw0"
+      },
+      "artists": [
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 72874,
+      "name": "La Luna y T\u00fa",
+      "url": "https://open.spotify.com/track/4hHvdHXszAHLPrisD96BDq"
     },
     {
       "added_at": "2023-12-08 05:01:00",

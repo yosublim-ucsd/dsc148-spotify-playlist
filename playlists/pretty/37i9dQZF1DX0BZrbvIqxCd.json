@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 542838,
+  "num_followers": 542856,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzNlNGI4MzkwYWY4ZWRjZDYyOGQ1NGFlZDUxZmE2NmZkNDlhMDJk",
+  "snapshot_id": "MCxiOTc0NmRjOTY1NWYwNjdjOTI5NzBlZDk2ODJjODg5MmU4ZTdlZTFh",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -339,22 +339,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Take Off Your Pants And Jacket",
-        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Anthem Part Two",
-      "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "We The Kings",
         "url": "https://open.spotify.com/album/34lYm54X8P7MO9LezUTmQL"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 220146,
       "name": "Check Yes, Juliet",
       "url": "https://open.spotify.com/track/7N2PNxzZXxCdAHiAfsklhT"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Take Off Your Pants And Jacket",
+        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Anthem Part Two",
+      "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Fuck Authority",
-      "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
-    },
-    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "Joy as an Act of Resistance.",
@@ -559,6 +543,22 @@
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Fuck Authority",
+      "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Bro Hymn - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Ghost in My Home",
         "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 200189,
       "name": "Ghost in My Home",
       "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Bro Hymn - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -931,18 +931,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/7B48nfbRi9Ar1ukAXx5UJD"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/5AWAQJsqtuF3CjytMDOdDN"
       },
       "artists": [
         {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
         }
       ],
-      "duration_ms": 180082,
-      "name": "Drown In My Mind",
-      "url": "https://open.spotify.com/track/7w0gu9n8vp3sE0xZFCxcFu"
+      "duration_ms": 199416,
+      "name": "She's Quiet",
+      "url": "https://open.spotify.com/track/3YUJ8NyZfqeDcI5815TuXw"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -963,18 +963,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/5AWAQJsqtuF3CjytMDOdDN"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/7B48nfbRi9Ar1ukAXx5UJD"
       },
       "artists": [
         {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
         }
       ],
-      "duration_ms": 199416,
-      "name": "She's Quiet",
-      "url": "https://open.spotify.com/track/3YUJ8NyZfqeDcI5815TuXw"
+      "duration_ms": 180082,
+      "name": "Drown In My Mind",
+      "url": "https://open.spotify.com/track/7w0gu9n8vp3sE0xZFCxcFu"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 173000,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/4nxdFmnrmHS2IjGT8lYxI5"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 229101,
+      "name": "Smash Shit Up",
+      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
       },
       "artists": [
         {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 229101,
-      "name": "Smash Shit Up",
-      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
+      "duration_ms": 233280,
+      "name": "Broken Dreams, Inc.",
+      "url": "https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1209,26 +1225,10 @@
       "url": "https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
+      "added_at": "2021-07-08 22:59:55",
       "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 233280,
-      "name": "Broken Dreams, Inc.",
-      "url": "https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Entertainment",
-        "url": "https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Blonde",
-      "url": "https://open.spotify.com/track/6Donz2zn7kxsRyA7g5l158"
+      "duration_ms": 151265,
+      "name": "You\u2019d Be Paranoid Too (If Everyone Was Out To Get You)",
+      "url": "https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Into the Raging Sea",
-        "url": "https://open.spotify.com/album/668M0j58jceb2KVxomANs6"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 221539,
-      "name": "Foolish Believer",
-      "url": "https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 193280,
       "name": "Me First",
       "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Into the Raging Sea",
+        "url": "https://open.spotify.com/album/668M0j58jceb2KVxomANs6"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 221539,
+      "name": "Foolish Believer",
+      "url": "https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1325,10 +1325,10 @@
       "url": "https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI"
     },
     {
-      "added_at": "2021-07-08 22:59:55",
+      "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI"
+        "name": "Entertainment",
+        "url": "https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV"
       },
       "artists": [
         {
@@ -1336,25 +1336,9 @@
           "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 151265,
-      "name": "You\u2019d Be Paranoid Too (If Everyone Was Out To Get You)",
-      "url": "https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 180599,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
+      "duration_ms": 200706,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/6Donz2zn7kxsRyA7g5l158"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "From The Outside",
+      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
       "artists": [
         {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 185493,
-      "name": "From The Outside",
-      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
+      "duration_ms": 180599,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Great Heights & Nosedives",
-        "url": "https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx"
-      },
-      "artists": [
-        {
-          "name": "ROAM",
-          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
-        }
-      ],
-      "duration_ms": 160831,
-      "name": "Playing Fiction",
-      "url": "https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Sundressed & Nominee",
-        "url": "https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE"
+        "name": "Great Heights & Nosedives",
+        "url": "https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx"
       },
       "artists": [
         {
-          "name": "Sundressed",
-          "url": "https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH"
+          "name": "ROAM",
+          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
         }
       ],
-      "duration_ms": 187795,
-      "name": "So Poetic",
-      "url": "https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE"
+      "duration_ms": 160831,
+      "name": "Playing Fiction",
+      "url": "https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1603,6 +1587,22 @@
       "duration_ms": 185158,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4BFmoq1AU7k5GrPnymjgdd"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Sundressed & Nominee",
+        "url": "https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE"
+      },
+      "artists": [
+        {
+          "name": "Sundressed",
+          "url": "https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH"
+        }
+      ],
+      "duration_ms": 187795,
+      "name": "So Poetic",
+      "url": "https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE"
     },
     {
       "added_at": "2020-11-20 21:27:18",

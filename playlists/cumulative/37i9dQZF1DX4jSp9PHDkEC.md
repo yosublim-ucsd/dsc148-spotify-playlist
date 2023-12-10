@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-344 songs - 23 hr 3 min
+345 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [skin in the game](https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [skin in the game](https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb) | 3:52 | 2023-07-24 | 2023-09-14 |
 | [Skrting On The Surface](https://open.spotify.com/track/0AmkMHfI5zFNuptoglfmOp) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 5:31 | 2023-01-17 |  |
 | [Slow Disco \- piano version](https://open.spotify.com/track/2stcQY2OjzSIdk3I9Y1sCW) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MassEducation](https://open.spotify.com/album/3XwQPcRrrSNxETjuD5ka5r) | 2:30 | 2023-01-17 |  |
-| [slow down](https://open.spotify.com/track/2ZQkYFEcfpAEaIirwyOG90) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [bloomington](https://open.spotify.com/album/7tUnJRaWtyZWyNPbXnRaUl) | 2:16 | 2023-01-17 |  |
+| [slow down](https://open.spotify.com/track/2ZQkYFEcfpAEaIirwyOG90) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [bloomington](https://open.spotify.com/album/7tUnJRaWtyZWyNPbXnRaUl) | 2:16 | 2023-01-17 | 2023-12-10 |
 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2023-01-17 |  |
 | [Snowman](https://open.spotify.com/track/3xKvXle8QcTpWz2al4WzaB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:15 | 2023-06-07 | 2023-10-27 |
 | [Snowman](https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Snowman](https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh) | 5:15 | 2023-06-07 | 2023-10-20 |
@@ -321,6 +321,7 @@
 | [Unconditional](https://open.spotify.com/track/6s4zenGcbyP5D9v9YATbmX) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 3:44 | 2023-01-17 |  |
 | [Underwater](https://open.spotify.com/track/3VPYYPGOIRpxXiyA3IJofb) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature \(Extended\)](https://open.spotify.com/album/308zHvDzU8ok2hzZ4szOEZ) | 6:45 | 2023-01-17 | 2023-12-01 |
 | [Underwater](https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature](https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF) | 6:45 | 2023-01-17 | 2023-08-28 |
+| [Underwater](https://open.spotify.com/track/0PsZltduNZQbymx3XF9GbF) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Sun's Signature \(Extended\)](https://open.spotify.com/album/5rQJ0Q4WKC2XPyPiMaSO4n) | 6:45 | 2023-01-17 |  |
 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 | 2023-01-17 |  |
 | [Unmade](https://open.spotify.com/track/3uqx1JmyAiuVk6YW0HSeAn) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Suspiria \(Music for the Luca Guadagnino Film\)](https://open.spotify.com/album/2UehMLybYgLuuNHRNJpbCB) | 4:27 | 2023-01-17 |  |
 | [Unpeopled Space](https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 6:09 | 2023-01-17 |  |

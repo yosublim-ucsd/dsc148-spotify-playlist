@@ -24047,6 +24047,24 @@
     },
     {
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/4k72z9GeyqEkRD7jtE6lTI"
+      },
+      "artists": [
+        {
+          "name": "Sakura",
+          "url": "https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108428,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/57pur3MoSCX7raelUCpiAK"
+    },
+    {
+      "album": {
         "name": "Cream",
         "url": "https://open.spotify.com/album/1o0aV2wUBEKtZr2UUy89bA"
       },
@@ -29420,6 +29438,24 @@
       "duration_ms": 115200,
       "name": "Dream It Real",
       "url": "https://open.spotify.com/track/5qgpCz7YWobF4cjnmV3O6i"
+    },
+    {
+      "album": {
+        "name": "Dream Little Dreams",
+        "url": "https://open.spotify.com/album/3z401mkRRsYqmrMZSoVcqP"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128046,
+      "name": "Dream Little Dreams",
+      "url": "https://open.spotify.com/track/2HP0zVn24L18ChvxZWaGfs"
     },
     {
       "album": {
@@ -38722,7 +38758,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 105205,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/2iUUEVttCsDlHdipmllDo9"
@@ -80643,6 +80679,24 @@
     },
     {
       "album": {
+        "name": "Pasadena",
+        "url": "https://open.spotify.com/album/7La4e1LchRTR0ZssnD3j47"
+      },
+      "artists": [
+        {
+          "name": "Krims Krams",
+          "url": "https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Pasadena",
+      "url": "https://open.spotify.com/track/1oIrVe05XbFLR6y4sngNvU"
+    },
+    {
+      "album": {
         "name": "Asparuhgus",
         "url": "https://open.spotify.com/album/73TEnW9jK7kBS5fgNzlSs1"
       },
@@ -82380,6 +82434,24 @@
       "duration_ms": 121507,
       "name": "Pink Crickets",
       "url": "https://open.spotify.com/track/6CupNOQJGQXRSqm95Lc5cH"
+    },
+    {
+      "album": {
+        "name": "pink dawn",
+        "url": "https://open.spotify.com/album/67SmpfkjjRmXJzWXS9pZOc"
+      },
+      "artists": [
+        {
+          "name": "Sleepr Cell",
+          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "pink dawn",
+      "url": "https://open.spotify.com/track/3a5drO67gyZUWtswFKvcMT"
     },
     {
       "album": {
@@ -89064,7 +89136,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 138352,
       "name": "Roll the Dice",
       "url": "https://open.spotify.com/track/4dSXPcxNserQeYmrJYVKFi"
@@ -104758,7 +104830,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 123000,
       "name": "Sweet Lines",
       "url": "https://open.spotify.com/track/4etBa0f5edCpEtNPK0nMiE"
@@ -105802,7 +105874,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 145500,
       "name": "Tangerines",
       "url": "https://open.spotify.com/track/6pmpSFh5kpOeUeLa6WROB3"

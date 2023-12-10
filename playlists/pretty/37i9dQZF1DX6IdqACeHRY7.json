@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152359,
+  "num_followers": 152362,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjgyN2YzZDA4ODdhODgxNTU2NTdmNDhkZjAzYWU0NDYwY2QyNjlh",
+  "snapshot_id": "MCxhMTExYWNiMjdiMjM5MzViMzRjNmVlMWEwYjA5ZmE0ZGUwMTk2Njhl",
   "tracks": [
     {
       "added_at": "2023-10-26 19:02:58",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 280533,
-      "name": "How Would You Feel (Paean)",
-      "url": "https://open.spotify.com/track/6PJ8FF6UR8FZXfEvpHkIVN"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Little Voice",
         "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 232760,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 280533,
+      "name": "How Would You Feel (Paean)",
+      "url": "https://open.spotify.com/track/6PJ8FF6UR8FZXfEvpHkIVN"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/4AgPd1f3cOa9fmTdPGW7UR"
+        "name": "Love on the Weekend",
+        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
       },
       "artists": [
         {
-          "name": "K E M A L",
-          "url": "https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 138546,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH"
+      "duration_ms": 212626,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Love on the Weekend",
-        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/4AgPd1f3cOa9fmTdPGW7UR"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "K E M A L",
+          "url": "https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo"
         }
       ],
-      "duration_ms": 212626,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+      "duration_ms": 138546,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Vincent",
-        "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "I Wouldn't Know Any Better Than You",
         "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 151041,
       "name": "I Wouldn't Know Any Better Than You",
       "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Vincent",
+        "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Electric Light",
-        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Wild Love",
-      "url": "https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Place We Were Made",
         "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+        "name": "Electric Light",
+        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
       "artists": [
         {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
+      "duration_ms": 197280,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1047,6 +1031,22 @@
       "duration_ms": 175492,
       "name": "The Vow",
       "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Maybe I'll Find You Again",
         "url": "https://open.spotify.com/album/0sndNDx9a9z77Jx8MsULfw"
       },
@@ -1163,22 +1147,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Rhythm Inside (Acoustic)",
-        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 212171,
-      "name": "Rhythm Inside - Acoustic",
-      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Undiscovered",
         "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
       },
@@ -1191,6 +1159,38 @@
       "duration_ms": 212933,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Rhythm Inside (Acoustic)",
+        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 212171,
+      "name": "Rhythm Inside - Acoustic",
+      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Rockabye (Acoustic)",
-        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Rockabye - Acoustic Version",
-      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 169226,
       "name": "Get Here - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Rockabye (Acoustic)",
+        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "If That's Alright",
-        "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
-      },
-      "artists": [
-        {
-          "name": "Dylan Dunlap",
-          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
-        }
-      ],
-      "duration_ms": 235393,
-      "name": "If That's Alright",
-      "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 229783,
       "name": "Flux",
       "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "If That's Alright",
+        "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
+      },
+      "artists": [
+        {
+          "name": "Dylan Dunlap",
+          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
+        }
+      ],
+      "duration_ms": 235393,
+      "name": "If That's Alright",
+      "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
+        "name": "i loved you first",
+        "url": "https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg"
       },
       "artists": [
         {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
         }
       ],
-      "duration_ms": 211514,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
+      "duration_ms": 227067,
+      "name": "i loved you first",
+      "url": "https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1787,34 +1787,18 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "i loved you first",
-        "url": "https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
       },
       "artists": [
         {
-          "name": "joan",
-          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
         }
       ],
-      "duration_ms": 227067,
-      "name": "i loved you first",
-      "url": "https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
-        "name": "Perfect to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Perfect To Me - Acoustic",
-      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+      "duration_ms": 211514,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1831,6 +1815,22 @@
       "duration_ms": 164897,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Perfect to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Perfect To Me - Acoustic",
+      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
     },
     {
       "added_at": "2023-10-26 19:02:58",

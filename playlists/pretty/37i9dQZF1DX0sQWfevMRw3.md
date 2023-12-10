@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > JULEN PÅ FYRA HJUL ÄR HÄR!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,665 likes - 105 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,804 likes - 105 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 104 | [50/50](https://open.spotify.com/track/7wQKO9dOporjLvFD0TY5nG) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [50/50](https://open.spotify.com/album/6vUTGS6AJ8mAIadZjGefoP) | 2:44 |
 | 105 | [RAGGARBILAR \(WARRA WARRA\)](https://open.spotify.com/track/1Rl4O8fqcMTBN8o2rilFBL) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [DANJAL](https://open.spotify.com/artist/4HUyn4KZwjD66czjxk8SxN) | [RAGGARBILAR \(WARRA WARRA\)](https://open.spotify.com/album/25wtWAZwZCTg3qIIhasZXh) | 2:01 |
 
-Snapshot ID: `MCxkYzA4M2ZiMWI3YjIyNzViNTVlYmNlZjdhZGFjNDlmYzRmNmMwOWIz`
+Snapshot ID: `MCxkY2I3Njk2YjA0YTFmYTYzZGQyODE5YzQ2YzllNjFmYzRiNTc2NjUx`

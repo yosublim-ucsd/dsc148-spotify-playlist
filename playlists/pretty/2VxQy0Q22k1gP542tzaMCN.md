@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/2VxQy0Q22k1gP542tzaMCN.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rosie](https://open.spotify.com/track/6LH94JKGmGqakhshtsGnNz) | [Alan Lomax](https://open.spotify.com/artist/1u8YzEYh6gvvFog95WtAao) | [Negro Prison Blues And Songs](https://open.spotify.com/album/7lXqoJ3JvHVAbaKBT8XSQi) | 2:49 |
+| 1 | [Rosie](https://open.spotify.com/track/6LH94JKGmGqakhshtsGnNz) | [Alan Lomax](https://open.spotify.com/artist/3hqkLzons6lli901a1MHnC) | [Negro Prison Blues And Songs](https://open.spotify.com/album/7lXqoJ3JvHVAbaKBT8XSQi) | 2:49 |
 | 2 | [Rosie](https://open.spotify.com/track/1Y98PBHYx6s9Fhc8FRC9CZ) | [Unidentified Mississippi State Penitentiary \(Parchman Farm\) prisoners](https://open.spotify.com/artist/0TwR2bAVKiVSF8VK1gOmLS) | [Jail House Bound: John Lomax's First Southern Prison Recordings, 1933](https://open.spotify.com/album/35QX5obGb0h11SbP7JnJKm) | 2:55 |
 | 3 | [Be My Husband](https://open.spotify.com/track/5zeSDdfyYdeF68kpjDaXuy) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It Be Me](https://open.spotify.com/album/28o1l971qgJszeQJkBsIC1) | 3:54 |
 | 4 | [Be Your Husband \- Live at Sin\-é, New York, NY \- July/August 1993](https://open.spotify.com/track/5K3XHLYc9uaDyx0YSLGmuL) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Live At Sin\-é \(Legacy Edition\)](https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc) | 4:55 |

@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-272 songs - 14 hr 59 min
+273 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 | 2022-05-10 |  |
 | [Strike a Pose \(feat\. Aitch\)](https://open.spotify.com/track/23GvTfcGK454ppLsts3W44) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Strike a Pose \(feat\. Aitch\)](https://open.spotify.com/album/4VHqJxJ3wZ9znAPhgcwYwa) | 3:34 | 2021-07-09 | 2022-05-10 |
 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 | 2021-07-09 |  |
-| [Sun Came Up](https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Sun Came Up](https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i) | 3:22 | 2022-05-10 |  |
+| [Sun Came Up](https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Sun Came Up](https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i) | 3:22 | 2022-05-10 | 2023-12-10 |
+| [Sun Came Up](https://open.spotify.com/track/4OssNR8i2CZHzIBJDxRh2e) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 3:23 | 2023-11-22 |  |
 | [Sun Goes Down](https://open.spotify.com/track/28cF5QOu0CWdyTt6lYxIeA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sun Goes Down](https://open.spotify.com/album/1vbX5xsy8Dz96qmskVY8SI) | 2:34 | 2021-07-09 | 2022-05-04 |
 | [Sunshine \- Wookie Main Mix](https://open.spotify.com/track/5q1hpdlf8ncJUhKLyjHoHB) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi), [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Rise](https://open.spotify.com/album/2R6V1HDBBgRxfu469y6V6R) | 4:26 | 2021-07-09 | 2022-05-11 |
 | [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-20 | 2022-07-07 |

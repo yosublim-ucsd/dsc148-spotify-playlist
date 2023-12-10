@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Nessa Barrett
 
-1,514 songs - 3 day 9 hr 18 min
+1,515 songs - 3 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,8 @@
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-07-26 | 2022-10-11 |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-06 | 2022-07-29 |
 | [Good Times](https://open.spotify.com/track/2viFClLxqJ70n3Ns6RwkMy) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Good Times](https://open.spotify.com/album/3Vx3OGEbw8e6lPxAL28GGa) | 2:57 | 2021-09-25 | 2022-01-08 |
-| [Good to Know](https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii) | 2:42 | 2023-12-01 |  |
+| [Good to Know](https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii) | 2:42 | 2023-12-01 | 2023-12-10 |
+| [Good to Know](https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 2:42 | 2023-12-01 |  |
 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 | 2021-03-26 | 2021-07-04 |
 | [Good, but not together](https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Good, but not together](https://open.spotify.com/album/7IJq7iIJ0JztktxLcoa0Sn) | 3:03 | 2023-03-03 | 2023-06-03 |
 | [goodluck](https://open.spotify.com/track/21yJyPtVRgZSRsfMdypfFV) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [u and me, but mostly me \(deluxe\)](https://open.spotify.com/album/2l7cVRzbe6YJ76WQcF9gsw) | 3:26 | 2020-08-07 | 2020-09-04 |

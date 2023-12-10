@@ -1,12 +1,12 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 361968,
+  "num_followers": 362364,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjhmYjUxYzE1ZDczNTgwZDNjODZkY2ExMTM3NTNmZWQ2MzhjMThk",
+  "snapshot_id": "MCw2NWM1Mzk2OWZlMjVlMTVlNDhiZGU2NmU4MzQ1ZDVmYWU4NjZkZDRj",
   "tracks": [
     {
       "added_at": "2023-10-27 12:45:10",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 443240,
-      "name": "No More Tears",
-      "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
         "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 443240,
+      "name": "No More Tears",
+      "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Sacrament",
-        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Redneck",
-      "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "N.A.T.I.O.N.",
         "url": "https://open.spotify.com/album/6yMblFoGadj25t99DryfSv"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Repentless",
-        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+        "name": "Sacrament",
+        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 199866,
-      "name": "Repentless",
-      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
+      "duration_ms": 220880,
+      "name": "Redneck",
+      "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -631,6 +615,22 @@
       "duration_ms": 203293,
       "name": "Girls Got Rhythm",
       "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "Party in My Head",
         "url": "https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 188111,
       "name": "Party in My Head",
       "url": "https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Ride The Lightning (Deluxe Remaster)",
-        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 395706,
-      "name": "Creeping Death (Remastered)",
-      "url": "https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "The Number of the Beast (2015 Remaster)",
         "url": "https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 233506,
       "name": "Run to the Hills (2015 Remaster)",
       "url": "https://open.spotify.com/track/5b1jZ9geGD4boxz24XgGPp"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 395706,
+      "name": "Creeping Death (Remastered)",
+      "url": "https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Breakin' Outta Hell",
-        "url": "https://open.spotify.com/album/6zg7O8iR0ODT7pDibI3vfd"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 232425,
-      "name": "Breakin' Outta Hell",
-      "url": "https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "Rewind, Replay, Rebound (Deluxe)",
         "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 182466,
       "name": "Die To Live",
       "url": "https://open.spotify.com/track/7u9r4j7KSMW5yLsgjLRZGZ"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Breakin' Outta Hell",
+        "url": "https://open.spotify.com/album/6zg7O8iR0ODT7pDibI3vfd"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 232425,
+      "name": "Breakin' Outta Hell",
+      "url": "https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Cleansing",
-        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
-      },
-      "artists": [
-        {
-          "name": "Prong",
-          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Snap Your Fingers, Snap Your Neck",
-      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 208666,
       "name": "Slave to the Grind",
       "url": "https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Cleansing",
+        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
+      },
+      "artists": [
+        {
+          "name": "Prong",
+          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Snap Your Fingers, Snap Your Neck",
+      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "The Art of Partying",
-        "url": "https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h"
-      },
-      "artists": [
-        {
-          "name": "Municipal Waste",
-          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
-        }
-      ],
-      "duration_ms": 129386,
-      "name": "Sadistic Magician",
-      "url": "https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Nola",
-        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
+        "name": "The Art of Partying",
+        "url": "https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h"
       },
       "artists": [
         {
-          "name": "DOWN",
-          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
         }
       ],
-      "duration_ms": 282506,
-      "name": "Stone the Crow",
-      "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
+      "duration_ms": 129386,
+      "name": "Sadistic Magician",
+      "url": "https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -1243,6 +1227,22 @@
       "duration_ms": 290280,
       "name": "The Toxic Waltz",
       "url": "https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Nola",
+        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
+      },
+      "artists": [
+        {
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+        }
+      ],
+      "duration_ms": 282506,
+      "name": "Stone the Crow",
+      "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
     },
     {
       "added_at": "2023-10-27 12:45:10",

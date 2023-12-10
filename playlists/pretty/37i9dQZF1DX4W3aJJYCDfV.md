@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Tate McRae \(pictured\), Libianca, Fred again.\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,628 likes - 110 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,740 likes - 110 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 40 | [Don't Have To Say](https://open.spotify.com/track/71kzGdYc8Srk6frgFMyslo) | [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Don't Have To Say](https://open.spotify.com/album/5tycmn2ltiY6h2b7DKPrLc) | 3:12 |
 | 41 | [Spirit](https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Rebel Diamonds](https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN) | 2:58 |
 | 42 | [Magic \(Is In Tempo\)](https://open.spotify.com/track/497vuCGyrDAOhgfbkclw9i) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Magic \(Is In The Tempo\)](https://open.spotify.com/album/63B6pz458I1M1hVUyC3QVY) | 6:09 |
-| 43 | [This Time](https://open.spotify.com/track/0rsCo6I7DyOFPHkMBDyHf5) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Transparency](https://open.spotify.com/album/3ZapMaumC12jGWOjUWH56a) | 2:59 |
+| 43 | [This Time](https://open.spotify.com/track/0rsCo6I7DyOFPHkMBDyHf5) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [TRANSPARENCY](https://open.spotify.com/album/3ZapMaumC12jGWOjUWH56a) | 2:59 |
 | 44 | [Artiste](https://open.spotify.com/track/1uAFzVmlo4V4ndVtbF1ZlM) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Antisocial](https://open.spotify.com/album/1LC0NKB3yklAQE4prNhFbU) | 2:06 |
 | 45 | [Bad Bassline \(feat\. DJ Luck & MC Neat\)](https://open.spotify.com/track/5EVnjzIr0WpuZVFDGXIaTU) | [SAINT](https://open.spotify.com/artist/2XzayuOUUjbWK65LzwHKuX), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline \(feat\. DJ Luck & MC Neat\)](https://open.spotify.com/album/5Sf5Purje1nUFi9b3DsURp) | 2:31 |
 | 46 | [How Do You Sleep At Night?](https://open.spotify.com/track/2K37XDEcpev2hUDbb14XGd) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [How Do You Sleep At Night?](https://open.spotify.com/album/49TAgh1ogazJrsGUvgp5tu) | 3:28 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 109 | [Fade to Black](https://open.spotify.com/track/78yarzaFAlCbbJLc6R2wXD) | [Cam Thomas](https://open.spotify.com/artist/5c3fIb9ddx79HLNnl99grZ), [Willhouse](https://open.spotify.com/artist/2xvy06CHiXhtfmolaLM2ni) | [Fade to Black](https://open.spotify.com/album/0F5on11ZJZ4PuJHFeDjiep) | 3:51 |
 | 110 | [Christmas All Year](https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Christmas All Year](https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl) | 2:53 |
 
-Snapshot ID: `MCw5ZGIyY2I2MjU4ZjVjNjhmNDI1MDgwZDkzMjQwYWNiN2JkNjJkMGMy`
+Snapshot ID: `MCxlYjk4NjEyMTIxOTA3MzVlNDJkZTQ4ZDlmZWE2OWQwNTY4MTNiNzRk`

@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 286268,
+  "num_followers": 286304,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTRmMmNhZTQ5ZWYxOWVmYjkzNTUyOTU5NTA5MGNmMTYwMDU0MWFm",
+  "snapshot_id": "MCxlYTc5YmQzZTdkYzQ0ZjBmYzViZWZiYTNjODM5ODE2OWRmMTM2YjVl",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Cattle Call",
-      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 152906,
       "name": "Crazy Arms",
       "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Cattle Call",
+      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "22 Early Starday Recordings",
-        "url": "https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 136240,
-      "name": "Why Baby Why",
-      "url": "https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 169000,
       "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
       "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "22 Early Starday Recordings",
+        "url": "https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 136240,
+      "name": "Why Baby Why",
+      "url": "https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Johnny Horton",
-        "url": "https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN"
-      },
-      "artists": [
-        {
-          "name": "Johnny Horton",
-          "url": "https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz"
-        }
-      ],
-      "duration_ms": 130933,
-      "name": "Honky Tonk Man",
-      "url": "https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Retrospective (Volume 2)",
         "url": "https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 172000,
       "name": "Too Old To Cut The Mustard",
       "url": "https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Essential Johnny Horton",
+        "url": "https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Horton",
+          "url": "https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz"
+        }
+      ],
+      "duration_ms": 130933,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Complete Capitol Hits Of Faron Young",
-        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
+        "name": "Gotta Travel On: The Very Best Of Billy Grammar",
+        "url": "https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY"
       },
       "artists": [
         {
-          "name": "Faron Young",
-          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+          "name": "Billy Grammer",
+          "url": "https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA"
         }
       ],
-      "duration_ms": 142000,
-      "name": "If You Ain't Lovin' (You Ain't Livin')",
-      "url": "https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC"
+      "duration_ms": 150493,
+      "name": "Gotta Travel On",
+      "url": "https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu"
     }
   ],
   "unique_name": "50s Country",

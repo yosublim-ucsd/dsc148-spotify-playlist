@@ -1,12 +1,12 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 39894,
+  "num_followers": 39944,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWVlNjJlOWVjY2ExOGU4NTE2YmEyZmZhZjZkODE5Y2JjNWFmNzlk",
+  "snapshot_id": "MCw2ZDI0ZmRkN2M2YzcyZDdhNTg0MThhY2Q4NWNiM2E2MmRiNDY3MWNh",
   "tracks": [
     {
       "added_at": "2023-10-13 15:20:09",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Nadie Como T\u00fa",
-        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 240906,
       "name": "El Mala Estrella",
       "url": "https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -455,8 +455,8 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+        "name": "Colecci\u00f3n De Oro De Antonio Aguilar, Vol. 5: 1990-2000",
+        "url": "https://open.spotify.com/album/4fNCUyeFb9HMw0iBBbNIQy"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 184064,
-      "name": "Lamberto Quintero",
-      "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
+      "duration_ms": 187907,
+      "name": "Que Me Entierren Con La Banda",
+      "url": "https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -531,22 +531,6 @@
       "duration_ms": 238022,
       "name": "Tu Sangre en Mi Cuerpo",
       "url": "https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
-        "name": "No Voy A Llorar",
-        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -627,6 +611,22 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
+        "name": "No Voy A Llorar",
+        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
         "name": "Que No Se Apague La M\u00fasica",
         "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
       },
@@ -647,8 +647,8 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Colecci\u00f3n De Oro De Antonio Aguilar, Vol. 5: 1990-2000",
-        "url": "https://open.spotify.com/album/4fNCUyeFb9HMw0iBBbNIQy"
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 187907,
-      "name": "Que Me Entierren Con La Banda",
-      "url": "https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD"
+      "duration_ms": 184064,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
     },
     {
       "added_at": "2023-10-13 15:20:09",

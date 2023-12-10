@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Channel Tres
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,547 likes - 157 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,611 likes - 157 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 26 | [On Me](https://open.spotify.com/track/3ShnnKhn0zXuYuEivj0jeD) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [On Me](https://open.spotify.com/album/3LLuz5ZL4FUrNz4y9E8s87) | 2:40 |
 | 27 | [Children](https://open.spotify.com/track/6iMyAaTKUoVOWSr4o0vESO) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Children](https://open.spotify.com/album/4NH7dyo0xKA0Tw19ZIeeYR) | 4:35 |
 | 28 | [Overnight](https://open.spotify.com/track/2ckYzNOvjKVQX5ARttEhlo) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Overnight](https://open.spotify.com/album/6Bx2GZ9URhZitfByTc5eCS) | 3:58 |
-| 29 | [Outbound \(feat\. grandpa juile\)](https://open.spotify.com/track/1hN9P4VZol7Hxfn7Z4ZHBu) | [Hitch](https://open.spotify.com/artist/0EqZqTzwUy9Sgm7yFIllLo), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/album/31Z21p10mUPCn4hQfGsVZv) | 3:39 |
+| 29 | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/track/1hN9P4VZol7Hxfn7Z4ZHBu) | [Hitch](https://open.spotify.com/artist/0EqZqTzwUy9Sgm7yFIllLo), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/album/31Z21p10mUPCn4hQfGsVZv) | 3:39 |
 | 30 | [idgaf](https://open.spotify.com/track/4Ej0ob9L6wzurJsEvbYNjF) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [idgaf](https://open.spotify.com/album/6wMU9MnWIR1jM9xY5rt8zC) | 2:31 |
 | 31 | [CRISIS QUEEN](https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [TROUBLESHOOTER](https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t) | 2:20 |
 | 32 | [Dollar $hort](https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Dollar $hort](https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG) | 3:15 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 156 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 157 | [Satisfy You](https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Satisfy You](https://open.spotify.com/album/5tkytLQFtBzhfXtXhrWVYg) | 3:27 |
 
-Snapshot ID: `MCw5ZTMyOGY1ZjczMDZmMmRhNTZiZmZmYTkxOWMyNGZiYTE3ZDIwZGUw`
+Snapshot ID: `MCxhM2JkMmY0NWZmYjMxMTI1MzljMzg5ZmRjNWIzOTExNzhkNDUxOTU4`

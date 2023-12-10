@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > New music from Adrianne Lenker, Sjowgren, Real Estate and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,196,719 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,196,730 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 99 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9) | 3:53 |
 | 100 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 |
 
-Snapshot ID: `MCxmNzk5MWNiYWJkOTVmZTg2NDBjMmYwMTQ0YWY4ZDYwMzg2NWJjMTRm`
+Snapshot ID: `MCw5ZDBiNGZjNWFhMzk4NTAwYmY3N2MxODE4NWMzY2YzMmZhMTFhYjA1`

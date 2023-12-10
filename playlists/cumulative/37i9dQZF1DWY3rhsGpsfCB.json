@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-10",
       "duration_ms": 160879,
       "name": "Confess",
       "url": "https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr"
@@ -6732,6 +6732,28 @@
       "duration_ms": 192596,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju"
+    },
+    {
+      "album": {
+        "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201347,
+      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
     },
     {
       "album": {

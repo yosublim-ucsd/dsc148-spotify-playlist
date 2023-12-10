@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover:  Channi Nattan, Inderpal Moga
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,434 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,458 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 49 | [Kikli](https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/16BiNUvVT8zdnr9QitdteN) | 2:53 |
 | 50 | [Clutch Baliye](https://open.spotify.com/track/3qWI4prgSotUOGR4BfOreW) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Gagan](https://open.spotify.com/artist/3kfNgIiPN2rdxVEQg6L3lW) | [Clutch Baliye](https://open.spotify.com/album/2a7G4hLUBoE9vnPOBeyb4C) | 2:32 |
 
-Snapshot ID: `MCwyNWUwMjlhNDRmM2I3NGEwNTVhYjk0OTdiZmVmYjE3ZDQ2YmQzMWM0`
+Snapshot ID: `MCw3OWRiYjU5MDVhNTNkMzVmYTViYWU1ZTJhYmU2NzA5YTI1NWZhZDY4`
