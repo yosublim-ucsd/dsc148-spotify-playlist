@@ -452,6 +452,36 @@
     {
       "album": {
         "name": "Music Is The Weapon (Reloaded)",
+        "url": "https://open.spotify.com/album/3xvUlOBBbOf1Y1O0OT1Qcu"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "Jadi Buti",
+      "url": "https://open.spotify.com/track/1kGL1Mt8kNNhZDZwCocBBF"
+    },
+    {
+      "album": {
+        "name": "Music Is The Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
       },
       "artists": [
@@ -474,7 +504,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 163846,
       "name": "Jadi Buti (feat. Rashmeet Kaur)",
       "url": "https://open.spotify.com/track/58PeAWeOz9yVemSLoeYyKZ"
@@ -500,10 +530,36 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 161538,
       "name": "Jadi Buti (feat. Rashmeet Kaur) - Nucleya VIP Remix",
       "url": "https://open.spotify.com/track/5R6SwiLR2VWDD2vtAORuoQ"
+    },
+    {
+      "album": {
+        "name": "Music Is The Weapon (Remixes)",
+        "url": "https://open.spotify.com/album/2PoUNP3XnxGDDdTpURcHoY"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "Jadi Buti (Nucleya VIP Remix)",
+      "url": "https://open.spotify.com/track/1lbVysCV8VAQ37iyiFoaqQ"
     },
     {
       "album": {

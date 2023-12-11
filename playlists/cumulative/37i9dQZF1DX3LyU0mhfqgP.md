@@ -4,7 +4,7 @@
 
 > Listen to the hottest songs from LGBTQIA+ artists in 2023\. Cover: Sam Smith
 
-1,011 songs - 2 day 7 hr 0 min
+1,012 songs - 2 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [1994](https://open.spotify.com/track/0nldraDxkeNlhAX5sLrK9u) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:23 | 2023-03-31 | 2023-04-14 |
 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-12 | 2023-10-11 |
 | [1st bite](https://open.spotify.com/track/6wi608n3NbkEa9CAObGS49) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [i had this dream that you were my sister](https://open.spotify.com/album/18BLcbWC20YW2O3kRTxBwB) | 2:24 | 2023-07-11 | 2023-08-02 |
-| [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-31 |  |
+| [2 Die 4](https://open.spotify.com/track/1VYlIU9IpVa4MHUqzKHyOb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 3:05 | 2023-11-29 |  |
+| [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-31 | 2023-12-11 |
 | [2 Die 4](https://open.spotify.com/track/71BJVUm9wse1WBFEGHIFsI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:05 | 2023-01-24 | 2023-02-11 |
 | [22](https://open.spotify.com/track/2pauY34xHvz0W3asl70y3D) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [22](https://open.spotify.com/album/3WyoEyJ9jxbbzWxPzzeKDj) | 3:45 | 2021-12-24 | 2022-01-04 |
 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 | 2022-08-19 | 2022-10-08 |

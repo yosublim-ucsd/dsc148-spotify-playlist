@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Sie7e",
-  "num_followers": 4256,
+  "num_followers": 4272,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjdmNGQwMzM0YmIzMTA4MTdiY2M3OTViYzRkYTQyMjQxMzE4ZGEy",
+  "snapshot_id": "MCxiY2U1MDAwMzFiYzRlMGNlMWVkOTYzMzZjNDQ1MWRiOTYxMDc1NWRi",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Nacarile",
+        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 174080,
+      "name": "(Escap\u00e1ndome) de m\u00ed",
+      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
-      },
-      "artists": [
-        {
-          "name": "Calma Carmona",
-          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
-        }
-      ],
-      "duration_ms": 174947,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
@@ -387,34 +387,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Nacarile",
-        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
         }
       ],
-      "duration_ms": 174080,
-      "name": "(Escap\u00e1ndome) de m\u00ed",
-      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Tu Mundo",
-        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 234041,
-      "name": "Tu Mundo",
-      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
+      "duration_ms": 174947,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -431,6 +415,22 @@
       "duration_ms": 182320,
       "name": "D\u00edas Negros",
       "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Tu Mundo",
+        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 234041,
+      "name": "Tu Mundo",
+      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Diamante y L\u00e1grima",
-        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 200174,
-      "name": "Diamante y L\u00e1grima",
-      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Circuito por Mil\u00e1n",
         "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 194500,
       "name": "Duermo con fr\u00edo",
       "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Diamante y L\u00e1grima",
+        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 200174,
+      "name": "Diamante y L\u00e1grima",
+      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Me Saben a Miel",
+        "url": "https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb"
+      },
+      "artists": [
+        {
+          "name": "Circo",
+          "url": "https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 223703,
+      "name": "Me Saben a Miel",
+      "url": "https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Guarapo y Flor",
         "url": "https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ"
       },
@@ -667,22 +687,6 @@
       "duration_ms": 179541,
       "name": "Guarapo y Flor",
       "url": "https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "La Rareza",
-        "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
-      },
-      "artists": [
-        {
-          "name": "Los Rarxs",
-          "url": "https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Tu Nunca Has Sentido",
-      "url": "https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -715,22 +719,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Me Saben a Miel",
-        "url": "https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb"
+        "name": "La Rareza",
+        "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
       },
       "artists": [
         {
-          "name": "Circo",
-          "url": "https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Los Rarxs",
+          "url": "https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR"
         }
       ],
-      "duration_ms": 223703,
-      "name": "Me Saben a Miel",
-      "url": "https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh"
+      "duration_ms": 161739,
+      "name": "Tu Nunca Has Sentido",
+      "url": "https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Mares\u00eda",
-        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        }
-      ],
-      "duration_ms": 211169,
-      "name": "Mares\u00eda",
-      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Toco Madera",
         "url": "https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 228073,
       "name": "Toco Madera",
       "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Mares\u00eda",
+        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
+      },
+      "artists": [
+        {
+          "name": "Karina Daza",
+          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
+        }
+      ],
+      "duration_ms": 211169,
+      "name": "Mares\u00eda",
+      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
     }
   ],
   "unique_name": "Indie Boricua",

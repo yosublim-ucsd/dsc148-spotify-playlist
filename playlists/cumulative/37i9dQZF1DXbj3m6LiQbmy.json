@@ -2450,10 +2450,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 161312,
       "name": "Hands On Me",
       "url": "https://open.spotify.com/track/0HUiEOHqH9gPbuCWDVvZ7u"
+    },
+    {
+      "album": {
+        "name": "Hands On Me",
+        "url": "https://open.spotify.com/album/6UQ1Z4VPXaJtKM8EqzBGKs"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161312,
+      "name": "Hands On Me",
+      "url": "https://open.spotify.com/track/5HZgrygoh8tjdHqyLROobo"
     },
     {
       "album": {

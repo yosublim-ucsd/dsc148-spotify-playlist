@@ -3960,10 +3960,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 190133,
       "name": "Make You Love Me",
       "url": "https://open.spotify.com/track/2HQM8xlOk1K7cGsCmnfKEn"
+    },
+    {
+      "album": {
+        "name": "WEDNESDAY'S CHILD (SIDE A)",
+        "url": "https://open.spotify.com/album/2ADiKsPH6T2GNgjYNLQ7ri"
+      },
+      "artists": [
+        {
+          "name": "Aiyana-Lee",
+          "url": "https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "Make You Love Me",
+      "url": "https://open.spotify.com/track/5DzUuP6tUU9dZ7npCwFCzA"
     },
     {
       "album": {

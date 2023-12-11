@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 
 > Enjoy M.Net's dance battle show Street Dance Girls Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿댄스 걸스 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,758 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,755 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 | 20 | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/track/1K7WzjKDcDdVbKNGrB0gej) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/album/6A0SAv8tSkXHGzIlgFIhSy) | 2:34 |
 | 21 | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i) | 2:09 |
 | 22 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 |
-| 23 | [Jump](https://open.spotify.com/track/4fbS7h0x7zwYD5XHVaEH4d) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Know No Better](https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC) | 3:03 |
+| 23 | [Jump](https://open.spotify.com/track/5uyFJJev6H1w10xIJsgJWE) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Know No Better](https://open.spotify.com/album/1kfKkwT78GfbyiOaJKdMFV) | 3:03 |
 | 24 | [BOOM](https://open.spotify.com/track/4cs99TEADEOcGm5DRRFyOw) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [CLUBLIFE, VOL\. 5: CHINA](https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0) | 2:34 |
 | 25 | [MAD DOG](https://open.spotify.com/track/1x60WPvUlRvUZFMaMMDGQi) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:03 |
 | 26 | [ROCKET](https://open.spotify.com/track/0xhBYNgmGLJEyvfObiwAhq) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 3:11 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 | 36 | [Beethoven Virus](https://open.spotify.com/track/299X2r8Ei0ecTat3CdmdaA) | [Diana](https://open.spotify.com/artist/2Zmqdz7cF17LbLOz3Kwnqg) | [Beethoven Virus](https://open.spotify.com/album/2wAcELxSyvFr5qYCvb558O) | 3:39 |
 | 37 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
 
-Snapshot ID: `MCxkYmEwMTdlYzYzMTUyODBmZTAzOTgxYTNiMmViMzI2YTdiM2VjMGQx`
+Snapshot ID: `MCxhMTZlZDE4MjY2MzVjYTUxODU2OGMxMzMwZDBmYjIwYjRhZjkzODQ3`

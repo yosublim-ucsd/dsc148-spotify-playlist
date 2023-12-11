@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 396497,
+  "num_followers": 396631,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjUyNWI1M2UzMzZjMWJkZWJlYjVhYTgyNThmZDc1OWZkYzZjZjgx",
+  "snapshot_id": "MCw0Zjg4NTRlNDdlOTc0ODFmYjQyNGEzNGM5NWU5OTRkODE3MjBmMTY0",
   "tracks": [
     {
       "added_at": "2023-11-24 01:15:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Aufheben",
-        "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 278826,
-      "name": "Panic In Babylon",
-      "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Don't Delay, Join Today!",
         "url": "https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 128917,
       "name": "Strange Secrets Worth Knowing",
       "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Aufheben",
+        "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 278826,
+      "name": "Panic In Babylon",
+      "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "The Gold & Silver Sessions",
-        "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
-      },
-      "artists": [
-        {
-          "name": "Elder",
-          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
-        }
-      ],
-      "duration_ms": 593386,
-      "name": "Illusory Motion",
-      "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Back to Land",
         "url": "https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 317960,
       "name": "Back to Land",
       "url": "https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "The Gold & Silver Sessions",
+        "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
+      },
+      "artists": [
+        {
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+        }
+      ],
+      "duration_ms": 593386,
+      "name": "Illusory Motion",
+      "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "duration_ms": 383100,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "Acid Crusher / Mount Swan",
         "url": "https://open.spotify.com/album/2tsErqQpgo0r7MdxtDysiq"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 200382,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/4YlOq4SkgNgI3gbSsUTDRl"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
-      },
-      "artists": [
-        {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
-        }
-      ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Egypt",
-        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
-      },
-      "artists": [
-        {
-          "name": "KYANOS",
-          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
-        }
-      ],
-      "duration_ms": 261634,
-      "name": "Egypt",
-      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Los Estimados",
         "url": "https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 277589,
       "name": "Los Estimados",
       "url": "https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Egypt",
+        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
+      },
+      "artists": [
+        {
+          "name": "KYANOS",
+          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
+        }
+      ],
+      "duration_ms": 261634,
+      "name": "Egypt",
+      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1519,34 +1519,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Ghost Tapes #10",
-        "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
+        "name": "Hologram",
+        "url": "https://open.spotify.com/album/3TAM2d6u89SFo3WCGTC1Yo"
       },
       "artists": [
         {
-          "name": "God Is An Astronaut",
-          "url": "https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2"
+          "name": "A Place To Bury Strangers",
+          "url": "https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR"
         }
       ],
-      "duration_ms": 364048,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Transporter",
-        "url": "https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe"
-      },
-      "artists": [
-        {
-          "name": "Ouzo Bazooka",
-          "url": "https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj"
-        }
-      ],
-      "duration_ms": 397813,
-      "name": "Space Camel",
-      "url": "https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt"
+      "duration_ms": 326694,
+      "name": "End of the Night",
+      "url": "https://open.spotify.com/track/7CWh8Z5lxzAji5F1CPr3mD"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1567,6 +1551,38 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "Transporter",
+        "url": "https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe"
+      },
+      "artists": [
+        {
+          "name": "Ouzo Bazooka",
+          "url": "https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj"
+        }
+      ],
+      "duration_ms": 397813,
+      "name": "Space Camel",
+      "url": "https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Ghost Tapes #10",
+        "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
+      },
+      "artists": [
+        {
+          "name": "God Is An Astronaut",
+          "url": "https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2"
+        }
+      ],
+      "duration_ms": 364048,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
         "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 250214,
       "name": "Meme City",
       "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Hologram",
-        "url": "https://open.spotify.com/album/3TAM2d6u89SFo3WCGTC1Yo"
-      },
-      "artists": [
-        {
-          "name": "A Place To Bury Strangers",
-          "url": "https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR"
-        }
-      ],
-      "duration_ms": 326694,
-      "name": "End of the Night",
-      "url": "https://open.spotify.com/track/7CWh8Z5lxzAji5F1CPr3mD"
     },
     {
       "added_at": "2023-11-24 01:15:27",

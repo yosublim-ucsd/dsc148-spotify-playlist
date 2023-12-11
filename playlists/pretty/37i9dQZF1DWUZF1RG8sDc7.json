@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 102855,
+  "num_followers": 102985,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmRlYjRhN2RmOTE5ZTNjNjY0NDcwYmE4Y2I5ODFjZTJjZjUyZjQ5",
+  "snapshot_id": "MCxiNzRlMWYzN2Y2YjhlMWFjNTM3YzgzMmQ2MzE0M2JkZmZlZTg3NzU4",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -567,18 +567,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
+        "name": "Guerreras Del Amor",
+        "url": "https://open.spotify.com/album/4sbD543Z4mC4tFsaVJIGQ6"
       },
       "artists": [
         {
-          "name": "El Gran Mart\u00edn El\u00edas",
-          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+        },
+        {
+          "name": "Las Musas Del Vallenato",
+          "url": "https://open.spotify.com/artist/51NKeKxApR2v2CKQ5oejIo"
         }
       ],
-      "duration_ms": 315862,
-      "name": "10 Razones Para Amarte",
-      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
+      "duration_ms": 277472,
+      "name": "Me Dejaste Sin Nada",
+      "url": "https://open.spotify.com/track/00Yl6SEMlkvr0mnZGhvvcr"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -635,22 +639,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Guerreras Del Amor",
-        "url": "https://open.spotify.com/album/4sbD543Z4mC4tFsaVJIGQ6"
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
       },
       "artists": [
         {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
-        },
-        {
-          "name": "Las Musas Del Vallenato",
-          "url": "https://open.spotify.com/artist/51NKeKxApR2v2CKQ5oejIo"
+          "name": "El Gran Mart\u00edn El\u00edas",
+          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
         }
       ],
-      "duration_ms": 277472,
-      "name": "Me Dejaste Sin Nada",
-      "url": "https://open.spotify.com/track/00Yl6SEMlkvr0mnZGhvvcr"
+      "duration_ms": 315862,
+      "name": "10 Razones Para Amarte",
+      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -687,6 +687,22 @@
       "duration_ms": 247813,
       "name": "Traga'O De T\u00ed",
       "url": "https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Con Aroma de Mujer",
+        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
+      },
+      "artists": [
+        {
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "Todo Daria por Ti",
+      "url": "https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -743,22 +759,6 @@
       "duration_ms": 316279,
       "name": "Dime Que Me Quieres",
       "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Con Aroma de Mujer",
-        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
-      },
-      "artists": [
-        {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "Todo Daria por Ti",
-      "url": "https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2"
     },
     {
       "added_at": "2022-12-16 20:17:47",

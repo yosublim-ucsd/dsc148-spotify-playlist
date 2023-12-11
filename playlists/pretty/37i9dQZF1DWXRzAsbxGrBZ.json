@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 37126,
+  "num_followers": 37217,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWIxMmQyYTg2MGZmYTUwOWU5NTQ2ODdlNDM2N2Y2M2FmN2M5ZmVl",
+  "snapshot_id": "MCxlMTBiZTc4ZjRiNTExNTdkNDE2YWIxMGI4YzYwYTRhZWZiY2U4NzRj",
   "tracks": [
     {
       "added_at": "2023-12-08 03:55:14",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-08 03:55:14",
       "album": {
-        "name": "Sentimental Affair",
-        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
-      },
-      "artists": [
-        {
-          "name": "Supreme Rhythm",
-          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Myself & The Dark",
-      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
-    },
-    {
-      "added_at": "2023-12-08 03:55:14",
-      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
+    },
+    {
+      "added_at": "2023-12-08 03:55:14",
+      "album": {
+        "name": "Sentimental Affair",
+        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
+      },
+      "artists": [
+        {
+          "name": "Supreme Rhythm",
+          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Myself & The Dark",
+      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
     },
     {
       "added_at": "2023-12-08 03:55:14",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-12-08 03:55:14",
       "album": {
-        "name": "Gambiando Caras",
-        "url": "https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG"
-      },
-      "artists": [
-        {
-          "name": "Sir Vee The Great",
-          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
-        }
-      ],
-      "duration_ms": 435179,
-      "name": "Gambiando Caras",
-      "url": "https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL"
-    },
-    {
-      "added_at": "2023-12-08 03:55:14",
-      "album": {
         "name": "Dusty Streets",
         "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 386525,
       "name": "Dusty Streets",
       "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
+    },
+    {
+      "added_at": "2023-12-08 03:55:14",
+      "album": {
+        "name": "Gambiando Caras",
+        "url": "https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG"
+      },
+      "artists": [
+        {
+          "name": "Sir Vee The Great",
+          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
+        }
+      ],
+      "duration_ms": 435179,
+      "name": "Gambiando Caras",
+      "url": "https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL"
     }
   ],
   "unique_name": "Deep House Session",

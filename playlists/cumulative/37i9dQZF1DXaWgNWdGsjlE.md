@@ -4,7 +4,7 @@
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-204 songs - 11 hr 3 min
+205 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [HATE PARTY](https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [HATE PARTY](https://open.spotify.com/album/6L4voUmXNjOw6fTimrXJnn) | 2:28 | 2023-03-24 |  |
 | [HATEFUCK](https://open.spotify.com/track/2G6AOP03YY7hCCxvskZLb4) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [HATEFUCK](https://open.spotify.com/album/2JN7YYzP0l4WkIlHIeFfIa) | 3:16 | 2022-04-29 | 2023-09-23 |
 | [HATEFUL](https://open.spotify.com/track/6QtiPaRRcSIne26CN4zNla) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [HATEFUL](https://open.spotify.com/album/5bNClD13l1fc6BosE5EKoN) | 4:08 | 2023-04-28 | 2023-05-20 |
-| [HATEFUL \[Feat\. SIERRA\]](https://open.spotify.com/track/1s4ym7eC16ckglNEcPe2Lw) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [HATEFUL \[Feat\. SIERRA\]](https://open.spotify.com/album/1Pdzx7m7W6s9oWnleMRNg8) | 4:08 | 2023-05-19 |  |
+| [HATEFUL \[Feat\. SIERRA\]](https://open.spotify.com/track/1s4ym7eC16ckglNEcPe2Lw) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [HATEFUL \[Feat\. SIERRA\]](https://open.spotify.com/album/1Pdzx7m7W6s9oWnleMRNg8) | 4:08 | 2023-05-19 | 2023-12-11 |
+| [HATEFUL \[Feat\. SIERRA\]](https://open.spotify.com/track/7Gms5d2KYbWOGLIIJK3kD9) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 4:08 | 2023-09-22 |  |
 | [Haylo](https://open.spotify.com/track/5ih8rs2vdkf3jDpKQ8Dc6L) | [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [Haylo](https://open.spotify.com/album/7t9bnEaLxctp8lexAFEb5F) | 1:19 | 2023-03-24 |  |
 | [Head Like A Hole](https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:59 | 2022-04-08 | 2022-09-24 |
 | [HEARTSTOPPER](https://open.spotify.com/track/362y5MOIwF4ueAFlYrwuCy) | [Kent Osborne](https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta) | [HEARTSTOPPER](https://open.spotify.com/album/1469SqW8gXxPFpBGMrZg9p) | 2:13 | 2022-11-08 |  |

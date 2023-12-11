@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: SXMPRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,763 likes - 127 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,963 likes - 127 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 11 | [harmful](https://open.spotify.com/track/63kMVxA0GX56dSBmmmPbP7) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [harmful](https://open.spotify.com/album/3801uSyiDSkOYSWaNL7dNg) | 2:03 |
 | 12 | [RIGHT BETWEEN THE EYES](https://open.spotify.com/track/6MduUVifnAw1mft3JR41Z9) | [Gao the Arsonist](https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum) | [RIGHT BETWEEN THE EYES](https://open.spotify.com/album/3T5Ja60ghxC0pCsDb2G3T6) | 3:36 |
 | 13 | [TOMORROW WILL NOT COME](https://open.spotify.com/track/5t9SAPZmW0zTmkYGLc4sTk) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [TOMORROW WILL NOT COME](https://open.spotify.com/album/2urKBNTHSezfBsuJf4lLWi) | 2:37 |
-| 14 | [MY DAY IS RUINED !](https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/4awPNl06D2VWOKJW63of3n) | 2:13 |
+| 14 | [MY DAY IS RUINED !](https://open.spotify.com/track/5DYpHAtMDShweH1zaYUXRQ) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [I HOPE YOU'RE HAPPY](https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p) | 2:13 |
 | 15 | [Memoirs of a Gorilla](https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 2:02 |
 | 16 | [INTENSIVE CARE UNIT](https://open.spotify.com/track/5jqh407cAc00xLMSrJ51os) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [INTENSIVE CARE UNIT](https://open.spotify.com/album/5tvu9lbiNvbTILQhtwhB3G) | 1:39 |
 | 17 | [GUTS!](https://open.spotify.com/track/1TgfuMX9NCHkMTMlAf1yQB) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [GUTS!](https://open.spotify.com/album/5L148hAAOKZP6GsvjUzSXs) | 2:12 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 126 | [ÅÅÅFRESTELSE](https://open.spotify.com/track/2Rwcxnc8f1oyaxBvvX5TJf) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [ÅÅÅFRESTELSE](https://open.spotify.com/album/0pSR4oL8sKE2ZriOo35tJR) | 2:22 |
 | 127 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 
-Snapshot ID: `MCw5ODE3MGZhYmU4YWJhM2ZiNjZjYmM3YjQwYzYzMTc4NWVmZjVlNWJl`
+Snapshot ID: `MCwxMDBhMmM0MjViMzVmZTM0MTlhMTI0MzQ2NWQyYjQ2N2ExYTA1MTU0`

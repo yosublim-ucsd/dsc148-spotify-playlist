@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs?si=TOE0uf8iTvqYTNht5twFPw">Bokang Ramatlapeng</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,393 likes - 60 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,423 likes - 60 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

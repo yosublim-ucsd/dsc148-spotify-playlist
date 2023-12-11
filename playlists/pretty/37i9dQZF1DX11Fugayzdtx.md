@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Fugayzdtx.md) - [plain]
 
 > Featuring El Guincho on West's fan curated mixtape\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725 likes - 21 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 726 likes - 21 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Fugayzdtx.md) - [plain]
 | 20 | [Cacao \- Remasterizado](https://open.spotify.com/track/2Lcf8RHQCee73KKePEtM5q) | [Grupo Algo Nuevo](https://open.spotify.com/artist/0d6LTruZr5HlPACP3G0bAV) | [Grupo Algo Nuevo \(Remasterizado\)](https://open.spotify.com/album/4cayX0IAGszuOqVDNStmqi) | 4:54 |
 | 21 | [Enamorada De Ti](https://open.spotify.com/track/1rDMH6HnLbZWdgzIuRv0mC) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:01 |
 
-Snapshot ID: `MCw1Y2ExMmZhOWRmZTVjNDhiNWQzZGJkYTE5MmY5ZjY0MDUwNzE5MjA3`
+Snapshot ID: `MCwyYTE4YzU2ZGE4NGEzZjk4YjgwYWFjYTMyNmMwYWI0NWY0NGI4ODUx`

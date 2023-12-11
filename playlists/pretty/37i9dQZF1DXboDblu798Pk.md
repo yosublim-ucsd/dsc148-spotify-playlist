@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Pharrell Williams, Swae Lee,  Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,837 likes - 89 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,825 likes - 89 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

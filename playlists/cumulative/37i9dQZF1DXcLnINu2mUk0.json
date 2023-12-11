@@ -2273,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Dan\u00e7a",
+        "url": "https://open.spotify.com/album/0P7u3Ze1wNDzKFFNo7to1C"
+      },
+      "artists": [
+        {
+          "name": "nastyfactor",
+          "url": "https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179179,
+      "name": "Dan\u00e7a",
+      "url": "https://open.spotify.com/track/5dFuWvNXDMwWJg3Fs64pJM"
+    },
+    {
+      "album": {
         "name": "de longe",
         "url": "https://open.spotify.com/album/04GuuwxXFyYKrApJTvDobv"
       },
@@ -2672,7 +2690,7 @@
       },
       "artists": [
         {
-          "name": "WiNDOH",
+          "name": "WINDOH",
           "url": "https://open.spotify.com/artist/6JdeUWTrO9Ou3GD1b07Xgs"
         }
       ],
@@ -4378,6 +4396,28 @@
       "duration_ms": 199363,
       "name": "Ka nu komplika",
       "url": "https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD"
+    },
+    {
+      "album": {
+        "name": "Karma (feat. Coca FSM)",
+        "url": "https://open.spotify.com/album/3zmKF4shlzNRvy3OMbkDiR"
+      },
+      "artists": [
+        {
+          "name": "Tekilla",
+          "url": "https://open.spotify.com/artist/4JpVZA90RocmWArCvMSWqM"
+        },
+        {
+          "name": "Coca FSM",
+          "url": "https://open.spotify.com/artist/7nBujSP0pSaB93RkhIWIiG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214117,
+      "name": "Karma (feat. Coca FSM)",
+      "url": "https://open.spotify.com/track/1Fz1vSPH9JxwmJRtCQPiS6"
     },
     {
       "album": {
@@ -7744,7 +7784,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 186352,
       "name": "Sem Ti",
       "url": "https://open.spotify.com/track/0f4byXqIig8NDRC1gsyJe6"
@@ -8230,7 +8270,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 188808,
       "name": "Strong",
       "url": "https://open.spotify.com/track/2dARaDpOpZxdbVl8a04HeQ"

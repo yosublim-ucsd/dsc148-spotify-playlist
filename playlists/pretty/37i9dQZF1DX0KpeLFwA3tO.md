@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: BIG SPECIAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,408 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,448 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Identical Days](https://open.spotify.com/track/4hrptHq1WUVnUIsZpyt3YE) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Identical Days](https://open.spotify.com/album/519UtOzExBjOwddalv1eJL) | 3:04 |
 | 100 | [Try](https://open.spotify.com/track/1isiUXaYArJVAFe2f6vRPt) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:57 |
 
-Snapshot ID: `MCwzMzY1Njk5N2IwODE5M2U0YWJmNWI3NmIzNWQwYzJjYzgxMjcyMjQ4`
+Snapshot ID: `MCxmNjk2ZjBlMzUzNDk3NTc4MDczOTIxZTU2OTMwOGRmMDEzMTI0NWY0`

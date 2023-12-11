@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,204 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,333 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 26 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 |
 | 27 | [Pensamento \(Acústico\)](https://open.spotify.com/track/2NhI1Yc8XNEztaWxAR1SdD) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 2:52 |
 | 28 | [Reviso Meus Planos \- Ao Vivo Em São Paulo](https://open.spotify.com/track/0qEngYWXqMntXxTTUbdLnZ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 4:12 |
-| 29 | [Pra Falar de Amor](https://open.spotify.com/track/5KWvYZHwjJ6A3R41uJmpr7) | [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Histórias Pra Cantar](https://open.spotify.com/album/1jLZTYKG2LT3HUGWaJJd0e) | 3:29 |
-| 30 | [Blusinha Branca](https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Papas Da Língua](https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q) | 4:58 |
+| 29 | [Blusinha Branca](https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Papas Da Língua](https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q) | 4:58 |
+| 30 | [Pra Falar de Amor](https://open.spotify.com/track/5KWvYZHwjJ6A3R41uJmpr7) | [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Histórias Pra Cantar](https://open.spotify.com/album/1jLZTYKG2LT3HUGWaJJd0e) | 3:29 |
 | 31 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 |
 | 32 | [Me Namora \(feat\. Edu Ribeiro\) \- Natiruts Reggae Brasil \- Ao Vivo](https://open.spotify.com/track/0gRNBFAXFhq1Z8QgTd0aXI) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE) | [Natiruts Reggae Brasil \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2NANM7zBb4IIH5DzKqAoMG) | 3:16 |
 | 33 | [A Casa do Sol/Sentimento \- Ao Vivo](https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 5:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 74 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 |
 | 75 | [Corre Pro Meu Mar \- Acústico / Ao Vivo](https://open.spotify.com/track/6o1uuE7FrCUUN1zqB37nLR) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Corre Pro Meu Mar \(Acústico / Ao Vivo\)](https://open.spotify.com/album/6MYUGgADS5UKWNKwwdOyCw) | 3:23 |
 
-Snapshot ID: `MCxhM2NkOTQxZDEyYzVmYWZjYzA5OGNmYWE0ZWQwOTM1OTZjOTU5YzYx`
+Snapshot ID: `MCwzZDM4MGRlNDhjODFmMjM0MzIzZTg5MTQ2YjdkOWU1MzJjMGY1OTQx`

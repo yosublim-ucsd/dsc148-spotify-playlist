@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 224968,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 268653,
       "name": "Damage Gets Done (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
@@ -1348,6 +1348,24 @@
       "duration_ms": 202686,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/0GFXbdgwVYO8Dw6BG8MLfL"
+    },
+    {
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
     },
     {
       "album": {
@@ -1590,6 +1608,24 @@
       "duration_ms": 190000,
       "name": "Empires",
       "url": "https://open.spotify.com/track/6W2PWC5H7FSG3fdWc70EgZ"
+    },
+    {
+      "album": {
+        "name": "Eras Of Us",
+        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168668,
+      "name": "Eras Of Us",
+      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
     },
     {
       "album": {
@@ -5125,6 +5161,24 @@
     },
     {
       "album": {
+        "name": "Rebel Diamonds",
+        "url": "https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178546,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx"
+    },
+    {
+      "album": {
         "name": "Starting Line",
         "url": "https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD"
       },
@@ -5522,7 +5576,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 186270,
       "name": "The American Dream Is Killing Me",
       "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
@@ -6239,6 +6293,24 @@
     },
     {
       "album": {
+        "name": "Autofiction: Expanded",
+        "url": "https://open.spotify.com/album/262thmd0z4EhOW2kWuQ9t6"
+      },
+      "artists": [
+        {
+          "name": "The London Suede",
+          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213386,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/3ug0tEZJZR3a4bstvyQapc"
+    },
+    {
+      "album": {
         "name": "You Irritate Me (Demo)",
         "url": "https://open.spotify.com/album/68S9B59BVpKiLLvSR0q1r0"
       },
@@ -6304,7 +6376,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"

@@ -4,7 +4,7 @@
 
 > Mantém a energia positiva!
 
-117 songs - 6 hr 10 min
+118 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2023-10-09 |  |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-10-09 |  |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2023-10-09 | 2023-12-08 |
-| [Cheiro de Mato](https://open.spotify.com/track/1WgIQxW737iaI3dOG4Szfc) | [Gabi Saiury](https://open.spotify.com/artist/4AQJYFrojOyAjk0VGvsd5v), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Cheiro de Mato](https://open.spotify.com/album/0M18wiQUNOxf239MRwGFkw) | 3:06 | 2023-12-07 |  |
+| [Cheiro de Mato](https://open.spotify.com/track/3wcbaeM7n6Y97JpQQJeNVz) | [Gabi Saiury](https://open.spotify.com/artist/4AQJYFrojOyAjk0VGvsd5v), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Neeh](https://open.spotify.com/artist/2SDYnXWEAiTFyyKyRDy79I) | [Cheiro de Mato](https://open.spotify.com/album/1wRi2MX2TAFwbBlBLCT2zE) | 3:06 | 2023-12-07 |  |
+| [Cheiro de Mato](https://open.spotify.com/track/1WgIQxW737iaI3dOG4Szfc) | [Gabi Saiury](https://open.spotify.com/artist/4AQJYFrojOyAjk0VGvsd5v), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Cheiro de Mato](https://open.spotify.com/album/0M18wiQUNOxf239MRwGFkw) | 3:06 | 2023-12-07 | 2023-12-11 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2023-10-09 |  |
 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 | 2023-10-09 |  |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2023-10-09 |  |

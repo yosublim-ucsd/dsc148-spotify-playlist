@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > Highlights of 2023, tracks of 2023 in Beats & Rhymes playlist \(Cover: J\-Hope\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,300 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,419 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

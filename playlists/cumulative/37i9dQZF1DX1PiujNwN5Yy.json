@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Dices me Extra\u00f1as",
+        "url": "https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292317,
+      "name": "Dices me Extra\u00f1as",
+      "url": "https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH"
+    },
+    {
+      "album": {
         "name": "ENTROP\u00cdA",
         "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
       },
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"

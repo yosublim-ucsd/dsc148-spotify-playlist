@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzM4MzEwZjM0MWIyZDBhYjJlZjIwNjljNjVmNTliODg4YjAzNjVj",
+  "snapshot_id": "MCw2Njk5NDkwODhhYTQxYzg1MTg2ZDRjZGMxMjg2ZThjN2RiM2UxODJm",
   "tracks": [
     {
       "added_at": "2023-08-24 02:20:42",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "Hello - Special Album",
-        "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
       },
       "artists": [
         {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 218880,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
+      "duration_ms": 230706,
+      "name": "CROWN",
+      "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "The Dream Chapter: STAR",
-        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
+        "name": "Hello - Special Album",
+        "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
         }
       ],
-      "duration_ms": 230706,
-      "name": "CROWN",
-      "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
+      "duration_ms": 218880,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
     },
     {
       "added_at": "2023-08-24 02:20:42",

@@ -4,7 +4,7 @@
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-105 songs - 4 hr 8 min
+106 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Rhythm of the Sway](https://open.spotify.com/track/1L9LumzTPzhFDS4eaRMgZ2) | [The Battersby Duo](https://open.spotify.com/artist/5KwmbOHKArPzgbmnGUWLmc) | [Sunny Days](https://open.spotify.com/album/73MDMbmuuEgkyv5LMiJV6w) | 2:30 | 2022-03-24 |  |
 | [Rise & Rhyme](https://open.spotify.com/track/3XxEPzTOhPEmm7aj60oLQt) | [Culture Queen](https://open.spotify.com/artist/4IfGc40LRbnwom32WYBhJs) | [I Like the Me I See!](https://open.spotify.com/album/5gptuEMTs3RzCeWYvWEyiO) | 2:48 | 2022-03-24 |  |
 | [Robo Dancing](https://open.spotify.com/track/5lIo031iOkz2v9kKVbT5lA) | [Money Mark](https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB) | 1:28 | 2022-03-24 |  |
-| [Robot Dance](https://open.spotify.com/track/0GZ2ci08NLxQYs0ECpAuqf) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3) | 3:25 | 2022-03-24 |  |
+| [Robot Dance](https://open.spotify.com/track/0GZ2ci08NLxQYs0ECpAuqf) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3) | 3:25 | 2022-03-24 | 2023-12-11 |
+| [Robot Dance](https://open.spotify.com/track/470l84TRRT6uM8udVunIDb) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H) | 3:25 | 2023-09-14 |  |
 | [Shake It Off](https://open.spotify.com/track/35lFPPnyTv6I0YjwlosQNs) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [¡Hora de Jugar!](https://open.spotify.com/album/2VtktaHo6N1jKwHoltneBK) | 3:28 | 2022-03-24 | 2022-11-13 |
 | [Shake It Off](https://open.spotify.com/track/0qiu3KKWvyZtwUZ68EYBCh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Shake It Off](https://open.spotify.com/album/29BcvDgVirGNl2I2KHiFcV) | 3:28 | 2022-03-24 | 2022-07-29 |
 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 | 2022-03-24 |  |

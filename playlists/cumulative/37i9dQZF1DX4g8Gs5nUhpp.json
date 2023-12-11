@@ -994,7 +994,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 210531,
       "name": "C\u00f3 \u0111au th\u00ec \u0111au m\u1ed9t m\u00ecnh",
       "url": "https://open.spotify.com/track/37od1g713ZvI32VA2diR9L"
@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Heyyy",
+        "url": "https://open.spotify.com/album/0XqRGTTHzsFhcVCMLhlVEo"
+      },
+      "artists": [
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Heyyy",
+      "url": "https://open.spotify.com/track/4M8vXfKZyPmVUdFJslJQU2"
+    },
+    {
+      "album": {
         "name": "Hit Me Up (feat. Nomovodka)",
         "url": "https://open.spotify.com/album/0FZXUfdUtrkzNyzmT1VLlB"
       },
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 239519,
       "name": "Mi\u1ec1n \u0110\u1ea5t H\u1ee9a",
       "url": "https://open.spotify.com/track/2I9QJOvD1lamK9tHffY4La"
@@ -2530,6 +2548,24 @@
       "duration_ms": 232173,
       "name": "Ng\u00f5 Ch\u1ea1m",
       "url": "https://open.spotify.com/track/0Qs29ApstkrU5T8S5Hxazw"
+    },
+    {
+      "album": {
+        "name": "Ng\u01b0\u1eddi B\u00ecnh Th\u01b0\u1eddng",
+        "url": "https://open.spotify.com/album/3a6PHMBJmFYQtjkFU7hP6e"
+      },
+      "artists": [
+        {
+          "name": "V\u0169 C\u00e1t T\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284600,
+      "name": "Ng\u01b0\u1eddi B\u00ecnh Th\u01b0\u1eddng",
+      "url": "https://open.spotify.com/track/1fFvYVg1v3rpUSqKNCUh7b"
     },
     {
       "album": {
@@ -4072,7 +4108,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 227205,
       "name": "V\u00ec Em T\u1ea5t C\u1ea3",
       "url": "https://open.spotify.com/track/7D9tiidrBDQRgCENeIhko0"
@@ -4456,6 +4492,24 @@
       "duration_ms": 264596,
       "name": "\u0111\u1ec3 t\u00f4i \u00f4m em b\u1eb1ng giai \u0111i\u1ec7u n\u00e0y",
       "url": "https://open.spotify.com/track/5qbjUmVV1yOOjcMOInNPYD"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1eebng k\u1ebft th\u00fac h\u00f4m nay",
+        "url": "https://open.spotify.com/album/4h0hGD95lTVKwSjNZAvfp3"
+      },
+      "artists": [
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212593,
+      "name": "\u0110\u1eebng k\u1ebft th\u00fac h\u00f4m nay",
+      "url": "https://open.spotify.com/track/3VkPKSc5HU1WPahoLOCRnj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp"

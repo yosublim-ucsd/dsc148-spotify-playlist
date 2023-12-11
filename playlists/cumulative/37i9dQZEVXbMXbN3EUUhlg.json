@@ -726,7 +726,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 190100,
       "name": "Agudo M\u00e1gico 4",
       "url": "https://open.spotify.com/track/4wjDiZGsZYQqKkXyPcQGF6"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 172548,
       "name": "Anestesiado - Ao Vivo",
       "url": "https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8"
@@ -1452,6 +1452,24 @@
       "duration_ms": 171428,
       "name": "Aqui Na Parma Tu Vem Pra Fuder",
       "url": "https://open.spotify.com/track/3euydCfGHLFjuwHA7G7AUJ"
+    },
+    {
+      "album": {
+        "name": "Boiadeira Internacional: Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1fg0TEYbq89Jmirue5wXai"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168572,
+      "name": "Aqui Tem Algu\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/735MbOmMNSTMmPVrY51LBh"
     },
     {
       "album": {
@@ -3402,7 +3420,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 262258,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
@@ -6802,7 +6820,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 127228,
       "name": "Faz Completo, Chefe",
       "url": "https://open.spotify.com/track/4ldcxPVAtih8alepJTu8Hx"
@@ -12894,7 +12912,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
@@ -13014,7 +13032,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 152085,
       "name": "Pirulito Vermelho",
       "url": "https://open.spotify.com/track/1Z3QqD45wKKN6fUKBXSvcZ"
@@ -16446,7 +16464,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 167551,
       "name": "Torce o Olho - Ao Vivo",
       "url": "https://open.spotify.com/track/6PXyRQ9Q0eNlLGsI6GxiYX"

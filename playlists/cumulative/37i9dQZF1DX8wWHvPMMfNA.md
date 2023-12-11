@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-704 songs - 1 day 20 hr 57 min
+707 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Answer Me](https://open.spotify.com/track/2fTGteXpvwsNG8K83YyhRb) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [A Promise](https://open.spotify.com/album/1XgXxxdonnIbTNWF4SZ5nz) | 5:53 | 2023-09-08 |  |
 | [Anything Valuable](https://open.spotify.com/track/3CQ1gEocVfoT1qCm6jRs66) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Anything Valuable](https://open.spotify.com/album/5WmYl5Ty01xWXOGBFndMcu) | 3:00 | 2023-08-10 |  |
 | [April's Fooling No One](https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [April's Fooling No One](https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS) | 4:15 | 2023-06-01 |  |
-| [Arbitrary Love](https://open.spotify.com/track/4vhr8jvSyLmzWJxjjBvPRv) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Arbitrary Love](https://open.spotify.com/album/14cKYBGrd72kX0cxVceOAV) | 3:08 | 2023-08-10 |  |
+| [Arbitrary Love](https://open.spotify.com/track/4vhr8jvSyLmzWJxjjBvPRv) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Arbitrary Love](https://open.spotify.com/album/14cKYBGrd72kX0cxVceOAV) | 3:08 | 2023-08-10 | 2023-12-11 |
 | [Around six thirty](https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Around six thirty](https://open.spotify.com/album/2VFpIdwjRZtDUBm5MxNGza) | 3:23 | 2023-08-17 |  |
 | [As I Ponder](https://open.spotify.com/track/6khM5DGF44SpKPh0Wb0lQI) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [As I Ponder](https://open.spotify.com/album/367OQVZU6YW07Dk0B7SvO5) | 3:19 | 2023-08-17 |  |
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-06-01 |  |
@@ -64,7 +64,7 @@
 | [Autumn Embrace](https://open.spotify.com/track/3a2EtryAoijDMEAOaFSxqH) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Autumn Embrace](https://open.spotify.com/album/2DxBhqTHXlvOPiGGb4tB4k) | 2:33 | 2023-08-10 |  |
 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 | 2022-11-11 |  |
 | [Autumn Promises](https://open.spotify.com/track/5kVaJiItTvUFR9jy5lgNQo) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [Autumn Promises](https://open.spotify.com/album/0JUe11QqnjHKIYXaUSKp7m) | 3:18 | 2023-08-10 |  |
-| [Ballad Medley](https://open.spotify.com/track/4wpISKwRdLsRrP8dxJlf12) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Hamp & Getz](https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o) | 8:08 | 2021-12-16 |  |
+| [Ballad Medley](https://open.spotify.com/track/4wpISKwRdLsRrP8dxJlf12) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Hamp & Getz](https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o) | 8:08 | 2021-12-16 | 2023-12-11 |
 | [Banks of Noon](https://open.spotify.com/track/2HriYFonV6QkhctkB8DMxY) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Banks of Noon](https://open.spotify.com/album/7EOxOqItUbFeCrlC4xxgfR) | 3:35 | 2022-12-08 |  |
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 | 2023-04-21 |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-11-11 |  |
@@ -134,6 +134,7 @@
 | [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 |  |
 | [Corners of the Parlor](https://open.spotify.com/track/6aiLqhTcNWps6NmvXoi7zo) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Corners of the Parlor](https://open.spotify.com/album/3xY9cBUyiQdLr98m0CRntx) | 2:10 | 2022-12-08 |  |
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-11-11 |  |
+| [Country house](https://open.spotify.com/track/3UZL035zZvEx7DbZbwB1ti) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Country house](https://open.spotify.com/album/2Ukym7x4DKIMAXCHVLqkfU) | 2:55 | 2023-12-08 |  |
 | [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 | 2021-12-16 | 2022-11-11 |
 | [Crestfallen](https://open.spotify.com/track/2hMC0mu9GmXSqNDC1RmkYR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Crestfallen](https://open.spotify.com/album/66MHp6vMZ2jVzeyFLE3WgU) | 4:28 | 2023-06-01 |  |
 | [Crooked Politicians](https://open.spotify.com/track/3AxgIQQy36G89sU41UaIwb) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Crooked Politicians](https://open.spotify.com/album/4aqNCgPghtRszsF147PlAN) | 2:57 | 2023-09-22 |  |
@@ -393,6 +394,7 @@
 | [Midnight Memories](https://open.spotify.com/track/2MsHAU74YmVSjtN7BXFtOS) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Midnight Memories](https://open.spotify.com/album/1QOozr6l51QtdjLtXmZmkP) | 2:50 | 2023-08-24 |  |
 | [Midnight Moods](https://open.spotify.com/track/4nTbbttvaqWAuqs78RjFnd) | [Eight Bar Band](https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa) | [Midnight Moods](https://open.spotify.com/album/4LEcYRPLzM6qln70B05TS2) | 2:59 | 2023-04-20 |  |
 | [Midnight Passion](https://open.spotify.com/track/3P62YgTZIrJR5RMKXFNMMr) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Midnight Passion](https://open.spotify.com/album/0vt5ejd6J0VlbhW41zN84q) | 2:29 | 2023-12-08 |  |
+| [Midnight Reverie](https://open.spotify.com/track/7tkPArhLCX4cDHkZMalG41) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [Midnight Reverie](https://open.spotify.com/album/1axg5vCMgiF7T7US2mv3Oc) | 3:48 | 2023-12-08 |  |
 | [Midnight Serenade](https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Midnight Serenade](https://open.spotify.com/album/3wIeHoxZk52kgKVI4IjeQh) | 4:19 | 2023-08-10 |  |
 | [Minor Matters](https://open.spotify.com/track/79TNrecUsky8SMPo7I1AJC) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Minor Matters](https://open.spotify.com/album/4FI5JIydsr1OYdMPVLoJX6) | 3:15 | 2023-08-24 |  |
 | [Miso the cat](https://open.spotify.com/track/6UoHrLNQE4UR8SG79V6FBX) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Miso the cat](https://open.spotify.com/album/5RmAvg9TQzDmm287fovehw) | 3:50 | 2023-08-10 |  |
@@ -552,7 +554,7 @@
 | [Stick Around](https://open.spotify.com/track/0fAm8fg0phPSokcYL4YCg9) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Stick Around](https://open.spotify.com/album/3OGuwr110zyVOAtdPVUKqe) | 3:02 | 2023-08-10 | 2023-12-10 |
 | [Storvindeln](https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Storvindeln](https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr) | 3:36 | 2023-02-09 |  |
 | [Story of My Dream](https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1) | [Almost Here](https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs) | [Story of My Dream](https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79) | 2:57 | 2023-09-22 |  |
-| [Stranger In Town](https://open.spotify.com/track/5WORP69uuwI9bSLIVQ94Or) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Glad To Be Unhappy](https://open.spotify.com/album/2UAhO873vD6JXgrthqTcEG) | 6:23 | 2021-12-16 |  |
+| [Stranger In Town](https://open.spotify.com/track/5WORP69uuwI9bSLIVQ94Or) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Glad To Be Unhappy](https://open.spotify.com/album/2UAhO873vD6JXgrthqTcEG) | 6:23 | 2021-12-16 | 2023-12-11 |
 | [Strangest Sea](https://open.spotify.com/track/1uptgSNdSsDIVsdynJEoCe) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Strangest Sea](https://open.spotify.com/album/2KsZ2DjNxiSbfwWv49bHS9) | 3:34 | 2023-02-23 |  |
 | [Strawberry Snow Cones For Two](https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Strawberry Snow Cones For Two](https://open.spotify.com/album/578scmNeIm4OpGwLnlAd8Q) | 3:34 | 2023-08-10 |  |
 | [Street Of Dreams](https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Street Of Dreams](https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U) | 3:21 | 2023-06-01 |  |
@@ -695,6 +697,7 @@
 | [Yearning](https://open.spotify.com/track/5VHpA5RrPEGY9NgHhahHnG) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Yearning](https://open.spotify.com/album/7boH53I2zbrw1GoeACrj8c) | 2:59 | 2023-08-31 |  |
 | [You Are There \- Remastered](https://open.spotify.com/track/3liUB1RsKdQawbQJN4ZaHc) | [George Shearing Quintet](https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y) | [The Swingin's Mutual \(Expanded Edition / Remastered\)](https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7) | 2:10 | 2021-12-16 | 2023-11-26 |
 | [You Are Too Beautiful](https://open.spotify.com/track/3rGH9xLvAP2R6445FaLVs8) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [You Are Too Beautiful](https://open.spotify.com/album/33NCFfEVLRuMZduy6wUiQA) | 3:18 | 2023-06-01 |  |
+| [You bet!](https://open.spotify.com/track/79tPOqXrPFr2JDCunwgCt7) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [You bet!](https://open.spotify.com/album/3LtckKyDK6gOe3dTgVLpq6) | 3:42 | 2023-12-08 |  |
 | [You Do Something To Me](https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [You Do Something To Me](https://open.spotify.com/album/3Lbgbr1X5ACTAeWIYgsFEU) | 3:10 | 2023-04-13 |  |
 | [You Gave Me That Look](https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You Gave Me That Look](https://open.spotify.com/album/4ZFC18j6lyUKueqtxiorZa) | 5:04 | 2023-10-20 |  |
 | [You Go To My Heart](https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [You Go To My Heart](https://open.spotify.com/album/370Ld8YCqxXQvHIyAh7Efy) | 3:41 | 2023-04-20 |  |

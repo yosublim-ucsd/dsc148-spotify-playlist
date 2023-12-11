@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-132 songs - 12 hr 18 min
+133 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [La disquette](https://open.spotify.com/track/0X8OzXCOAGldwWzl7lcd62) | [Lumoon](https://open.spotify.com/artist/0yef6VSNvf1atgoH0Vv5aR), [Rob!n](https://open.spotify.com/artist/1YJp6laoD5gLNFt4iksPMu) | [La disquette](https://open.spotify.com/album/5ixTN6mFe4jAoiAX7WlNJR) | 5:07 | 2022-12-20 |  |
 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 | 2022-12-20 |  |
 | [La Piragua](https://open.spotify.com/track/41sfxCghJlbnWnql4QEfl7) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 8:38 | 2022-12-20 |  |
-| [Labyrinth \- Extended Mix](https://open.spotify.com/track/2DSixYXsxGkbLYxsrP9ZEe) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [Labyrinth](https://open.spotify.com/album/3Uz71ibY4FDCqu6Aux9lWA) | 6:16 | 2022-12-20 |  |
+| [Labyrinth \(Extended Mix\)](https://open.spotify.com/track/7zo8uef0YiTXTYO6pioVyW) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [Labyrinth](https://open.spotify.com/album/16cjfaUqI1TGn9ucJG4Xth) | 6:16 | 2023-11-20 |  |
+| [Labyrinth \- Extended Mix](https://open.spotify.com/track/2DSixYXsxGkbLYxsrP9ZEe) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [Labyrinth](https://open.spotify.com/album/3Uz71ibY4FDCqu6Aux9lWA) | 6:16 | 2022-12-20 | 2023-12-11 |
 | [Le Flute](https://open.spotify.com/track/1WnZTp8oX83UoUlCJ2M2Rk) | [Sirhan](https://open.spotify.com/artist/5sMckZzTxJ15aUpf8j4Xsy) | [BONFIDO 001](https://open.spotify.com/album/4itOijRXiDntdXEMaTdNfa) | 4:49 | 2022-12-20 | 2023-06-21 |
 | [Like It Is](https://open.spotify.com/track/2hFjxLPeeBZrvLb302MKLj) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Disco Volante EP](https://open.spotify.com/album/3F98dsHSClqD3929v1B6S2) | 5:55 | 2022-12-20 |  |
 | [Love Ain't Over \- Club Edit](https://open.spotify.com/track/1QYkx8JV0E6eEXoD1q49dD) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Love Ain't Over](https://open.spotify.com/album/51oTex9Ozpd3DfpUhymt9w) | 5:38 | 2022-12-20 |  |

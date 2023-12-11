@@ -4,7 +4,7 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-139 songs - 5 hr 12 min
+140 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Are You Hungry?](https://open.spotify.com/track/3gsvzQe3KjPdsNA5ufI6lc) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Old MacDonald Had a Farm & More Kids Songs](https://open.spotify.com/album/2Sivlm6GK4dr21Ucf1UKV8) | 1:53 | 2022-04-05 |  |
 | [At The Salad Bar \(without the echo\)](https://open.spotify.com/track/6ohR49fjiq0aVdD7gf3IA7) | [Noodle Loaf](https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI) | [Echo Songs, Vol\. 1 \(Without the Echo\)](https://open.spotify.com/album/1kevLUJnWAXDF28NRpLSOb) | 2:01 | 2022-04-05 |  |
 | [Baking Cookies](https://open.spotify.com/track/1kH1vKhV9jE74jAs0DyS5f) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap \(In the House\)](https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf) | 1:58 | 2022-04-05 |  |
-| [Banana](https://open.spotify.com/track/17VG7Iu5vxG9h3XV0ZzX74) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte) | 3:56 | 2022-04-05 |  |
+| [Banana](https://open.spotify.com/track/17VG7Iu5vxG9h3XV0ZzX74) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte) | 3:56 | 2022-04-05 | 2023-12-11 |
+| [Banana](https://open.spotify.com/track/6uQ4WjitpoG07KEZHCtaHi) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/4IYiLuEwpQ3ksLwzmagQxu) | 3:56 | 2022-04-05 |  |
 | [Banana Bread](https://open.spotify.com/track/72hJoAEGryRpRzkdl89nWp) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Away We Go!](https://open.spotify.com/album/6gXAuYlj9SA4b0APIF1CGS) | 2:24 | 2022-04-05 |  |
 | [Beans and Weenies](https://open.spotify.com/track/4OVJqV9Qur5mmzIITiYBTu) | [Trout Fishing in America](https://open.spotify.com/artist/5gAy9e3RXVsKUbZvmydkR6) | [My World](https://open.spotify.com/album/7eVTOjYvPv6uekXpjeDSss) | 2:05 | 2022-04-05 |  |
 | [Biscuits in the Oven](https://open.spotify.com/track/0p4oKH8NmM9xM6bSJeeEbc) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Baby Beluga](https://open.spotify.com/album/0sOARc9azSO1btKcDtM7o1) | 2:24 | 2022-04-05 |  |

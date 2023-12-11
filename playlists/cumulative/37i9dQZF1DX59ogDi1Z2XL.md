@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake
 
-1,293 songs - 2 day 11 hr 47 min
+1,294 songs - 2 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,7 +683,7 @@
 | [LOVING U](https://open.spotify.com/track/6dBJwr5oHLtoyFgDqLM2Wq) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [LOVING U](https://open.spotify.com/album/5JXHvbiZSHrOxB5Kckqsfy) | 3:38 | 2023-03-17 | 2023-04-29 |
 | [Low Key](https://open.spotify.com/track/3tVehpzkK816x97M6ucipl) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Low Key](https://open.spotify.com/album/7qwc46marpRqDkQmZPhrim) | 2:40 | 2023-04-14 | 2023-04-29 |
 | [LUCKY](https://open.spotify.com/track/3OmQETOVbKRGtBFqGMpOQY) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [LUCKY](https://open.spotify.com/album/6phKf8kkkCdpHZDunVepYa) | 2:37 | 2022-12-02 | 2023-03-04 |
-| [Luv Me For Free](https://open.spotify.com/track/3GdIFrbnlat0N8F4E9In9J) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE) | [Luv Me For Free](https://open.spotify.com/album/68DqEjHTwdAPnlDWsSvlkm) | 2:00 | 2023-11-10 |  |
+| [Luv Me For Free](https://open.spotify.com/track/3GdIFrbnlat0N8F4E9In9J) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE) | [Luv Me For Free](https://open.spotify.com/album/68DqEjHTwdAPnlDWsSvlkm) | 2:00 | 2023-11-10 | 2023-12-11 |
 | [M$](https://open.spotify.com/track/1wJ17YT2GuwtXlsbLBfyX8) | [Juvy](https://open.spotify.com/artist/5WW1ErMJvuGaxJypZBfvy7) | [M$](https://open.spotify.com/album/1DpDSmXLK4vb9FhLCvvblA) | 2:50 | 2022-06-17 | 2022-08-11 |
 | [MACHINERY](https://open.spotify.com/track/0Hg2svLW14zbgyG89P1efj) | [WISE](https://open.spotify.com/artist/5Jw6zr5U4jNtFzDQvtjNSH) | [MACHINERY](https://open.spotify.com/album/2ioNPoNMzgUjEZFBiOUtVU) | 2:38 | 2022-06-17 | 2022-08-13 |
 | [Mad](https://open.spotify.com/track/4EgfdwOewXxqBuFlVrn2fm) | [XORA](https://open.spotify.com/artist/314rLbir7Cluk4nKOszw8I) | [Moonchild](https://open.spotify.com/album/3Aeq47ujEWFb49Oi1TNidU) | 1:56 | 2022-04-22 | 2022-05-20 |
@@ -898,6 +898,7 @@
 | [Pizzazz](https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Pizzazz](https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL) | 3:11 | 2022-04-15 | 2022-06-25 |
 | [Piñata](https://open.spotify.com/track/1f1pJVRhSDROq6cRALKTqO) | [Exmiranda](https://open.spotify.com/artist/0lfVICBd5hDKhuTZJwj6br) | [Piñata](https://open.spotify.com/album/6BTrHJBSwuoagEuyrWfSxV) | 2:28 | 2022-08-05 | 2022-09-17 |
 | [PLAIN JANE](https://open.spotify.com/track/0ibfcFmGtwTPScXJY7USAE) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [PLAIN JANE](https://open.spotify.com/album/1gU8EZFGp7aIaIz8PCPldL) | 2:07 | 2023-03-03 | 2023-04-09 |
+| [Planet Giza "On The Radar" Freestyle](https://open.spotify.com/track/2T0Wl5G3ZyVSbu9Zy6ikMw) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Planet Giza "On The Radar" Freestyle](https://open.spotify.com/album/4RVeRwHtmm7cSoafWYb7u0) | 2:05 | 2023-12-10 |  |
 | [PLEASE, BE MY GUEST](https://open.spotify.com/track/3l7wSJVlbHqaNkXWLRs0Y0) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [PLEASE, BE MY GUEST](https://open.spotify.com/album/3GzDXKVemFml7H7VkcW0n4) | 2:23 | 2023-04-28 | 2023-05-27 |
 | [Pleasure](https://open.spotify.com/track/36KkEDXgq4ruKeXmKMN7oW) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT) | [Pleasure](https://open.spotify.com/album/42bTZNENLihgDs0u61QI61) | 1:59 | 2023-03-31 | 2023-04-22 |
 | [Politics As Usual](https://open.spotify.com/track/29aELZNPrbzYrxVyA98sFz) | [RUNXGUN](https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI), [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [RXGSZN](https://open.spotify.com/album/54QHxg1zyRs1e2zK4dGJUd) | 3:57 | 2022-06-24 | 2022-08-06 |

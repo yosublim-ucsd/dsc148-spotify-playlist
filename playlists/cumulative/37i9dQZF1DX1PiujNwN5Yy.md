@@ -4,7 +4,7 @@
 
 > Sad songs just 4 you para los días tristes.
 
-187 songs - 10 hr 41 min
+188 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Despecho Nuevo](https://open.spotify.com/track/1bjbn61QLOt2sf96LE55Ng) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Despecho Nuevo](https://open.spotify.com/album/0rbz1GmxsruvzYckQhcK73) | 3:37 | 2021-12-06 | 2022-12-03 |
 | [Devuélvemelo](https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Devuélvemelo](https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f) | 4:02 | 2022-05-03 |  |
 | [Devuélvemelo](https://open.spotify.com/track/23OYFfmHaZbTOi1wWx80WV) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg), [Raspo](https://open.spotify.com/artist/4PRbNE8CqQfT4tz9JWCR9E) | [Devuélvemelo](https://open.spotify.com/album/3mqh472CkUfl553wSHWGgO) | 4:02 | 2021-12-06 | 2022-07-29 |
+| [Dices me Extrañas](https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Dices me Extrañas](https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0) | 4:52 | 2023-12-08 |  |
 | [Dieznoches](https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:24 | 2021-12-06 |  |
 | [Diferente](https://open.spotify.com/track/60YrZoQNcy90opzVnfoUrA) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Diferente](https://open.spotify.com/album/7s3a776EyXjlyP0YofUlQ3) | 3:28 | 2021-12-06 | 2022-11-13 |
 | [Dimelo](https://open.spotify.com/track/01gltC5OR4isA1lsAg6z6Z) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [Dimelo](https://open.spotify.com/album/59tzTzas3KHpgYTMAg1MpL) | 2:51 | 2021-12-06 | 2023-01-13 |
@@ -80,7 +81,7 @@
 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 | 2021-12-06 |  |
 | [idontwannabeyouanymore](https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:23 | 2021-12-06 |  |
 | [Impostora](https://open.spotify.com/track/3qt8BT9AvLwsZDP3OkBdz0) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Impostora](https://open.spotify.com/album/2pxlBM9lnTuwDaou9eo66p) | 3:33 | 2021-12-06 | 2022-04-24 |
-| [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-12-02 |  |
+| [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-12-02 | 2023-12-11 |
 | [La Banqueta](https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [La Banqueta](https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG) | 3:08 | 2021-12-06 |  |
 | [La Canción](https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [La Canción](https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ) | 4:13 | 2021-12-06 | 2023-11-04 |
 | [La Pared](https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [La Pared](https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa) | 4:49 | 2021-12-06 |  |

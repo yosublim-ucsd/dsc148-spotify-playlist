@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eurice Diniz",
-  "num_followers": 108996,
+  "num_followers": 109130,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjkzNzIwNWY1OTBiYTg5ZDVkODdjYjkwODI5MGJjOGY0OGMxNTg4",
+  "snapshot_id": "MCwwNTNiNmU4NTMxMGQyMjdmZTE0MWY3NzIxMTJlYzczODgyNjg1NWE4",
   "tracks": [
     {
       "added_at": "2023-11-03 04:32:06",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-11-03 04:32:06",
       "album": {
-        "name": "Esp\u00edrito Santo",
-        "url": "https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 287769,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw"
-    },
-    {
-      "added_at": "2023-11-03 04:32:06",
-      "album": {
         "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 358973,
       "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
       "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
+    },
+    {
+      "added_at": "2023-11-03 04:32:06",
+      "album": {
+        "name": "Esp\u00edrito Santo",
+        "url": "https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 287769,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw"
     },
     {
       "added_at": "2023-11-03 04:32:06",

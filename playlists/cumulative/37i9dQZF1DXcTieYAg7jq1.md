@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-363 songs - 20 hr 57 min
+364 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-12-03 | 2023-01-20 |
 | [Madison](https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:44 | 2021-12-03 | 2022-10-01 |
 | [Magical Thinking](https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Magical Thinking](https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV) | 2:53 | 2022-10-07 | 2023-02-16 |
-| [Make You Love Me](https://open.spotify.com/track/2HQM8xlOk1K7cGsCmnfKEn) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [WEDNESDAY'S CHILD \(SIDE A\)](https://open.spotify.com/album/0Xab1cM6Bk1KxUBpn3cCtC) | 3:10 | 2022-02-11 |  |
+| [Make You Love Me](https://open.spotify.com/track/2HQM8xlOk1K7cGsCmnfKEn) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [WEDNESDAY'S CHILD \(SIDE A\)](https://open.spotify.com/album/0Xab1cM6Bk1KxUBpn3cCtC) | 3:10 | 2022-02-11 | 2023-12-11 |
+| [Make You Love Me](https://open.spotify.com/track/5DzUuP6tUU9dZ7npCwFCzA) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [WEDNESDAY'S CHILD \(SIDE A\)](https://open.spotify.com/album/2ADiKsPH6T2GNgjYNLQ7ri) | 3:10 | 2022-02-18 |  |
 | [Making a Home](https://open.spotify.com/track/06rzXALwHru7trEapSZi8h) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Making a Home](https://open.spotify.com/album/5B2G6U0jYPaGUrCW0n6XSV) | 3:58 | 2021-12-03 | 2022-07-29 |
 | [Making it Right](https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6) | [Harrison Finks](https://open.spotify.com/artist/0eARUhJrHJ8EljWe3WG2fv), [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8), [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg) | [Making it Right](https://open.spotify.com/album/2LRTQrA17SE7V0SbupU00f) | 2:17 | 2022-08-26 |  |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-02-18 | 2023-06-10 |

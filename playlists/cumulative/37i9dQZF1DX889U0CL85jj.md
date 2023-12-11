@@ -4,7 +4,7 @@
 
 > Just chill, and potentially disassociate, in 2023.
 
-579 songs - 1 day 9 hr 34 min
+580 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Dot](https://open.spotify.com/track/69p1aR2n7h7lOL0uPDwnHA) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Dot](https://open.spotify.com/album/5sJ8PzY1bbaILoGztXsaJX) | 5:22 | 2022-04-14 | 2022-04-29 |
 | [DREAD/TKOE \- ALASKALASKA Remix](https://open.spotify.com/track/757G9ylgcnkdYfZphNXqZo) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx), [BELLS](https://open.spotify.com/artist/5YdylHKZSONXW6PLIaP5Fx), [ALASKALASKA](https://open.spotify.com/artist/78CgVNlDQMvOVDIrRL84tJ) | [DREAD/TKOE \(ALASKALASKA Remix\)](https://open.spotify.com/album/3F4h5peaLQaW2dJjWIeNco) | 5:26 | 2022-08-19 | 2022-10-14 |
 | [Dream](https://open.spotify.com/track/2zGIkOiBbu2CiRYA4TIx7D) | [Friend of a Friend](https://open.spotify.com/artist/42umgGQd1MziaOHQfGOmaP) | [In Arms](https://open.spotify.com/album/048TCEC1wmw4TUHsJNEZtl) | 3:48 | 2022-09-29 | 2022-10-05 |
-| [Dream About You \(feat\. Halima\)](https://open.spotify.com/track/0cl805dKSvEQNUBD7iq9ZD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [London Safari](https://open.spotify.com/album/4HSk5BHyYIk15DOSUJGkwo) | 3:04 | 2022-10-08 |  |
+| [Dream About You](https://open.spotify.com/track/0HrQUJIhZ8vXxuiAGCM9iF) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [London Safari](https://open.spotify.com/album/3wwCsZvjI8VrdS21n5HPdQ) | 3:04 | 2023-09-29 |  |
+| [Dream About You \(feat\. Halima\)](https://open.spotify.com/track/0cl805dKSvEQNUBD7iq9ZD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [London Safari](https://open.spotify.com/album/4HSk5BHyYIk15DOSUJGkwo) | 3:04 | 2022-10-08 | 2023-12-11 |
 | [Dream Away](https://open.spotify.com/track/3L3GtwAflCkqh4QCoacRYk) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Monsters](https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW) | 3:39 | 2020-08-10 | 2022-01-22 |
 | [Dream For Dreaming](https://open.spotify.com/track/2dMMC7nrI2v1wYdncGJVXY) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dream For Dreaming](https://open.spotify.com/album/3oVYWStRa3452eCmKHhKKZ) | 3:39 | 2019-10-04 | 2022-01-22 |
 | [dreamin'](https://open.spotify.com/track/4PlzJVdaRYC9Fg2AqlOxer) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [dreamin'](https://open.spotify.com/album/4OVHuaHyH9KpFwgbJTdSS1) | 3:27 | 2020-03-09 | 2022-11-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,719 likes - 75 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,872 likes - 75 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 29 | [Don't Blame Me \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:53 |
 | 30 | [Bewitched](https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 4:26 |
 | 31 | [I Can't Get Started](https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 3:55 |
-| 32 | [What's The Rush](https://open.spotify.com/track/7yRMYF0BqrqPjinbG9Ja3Z) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Keep Calm with Jazz](https://open.spotify.com/album/6Id96zESyjAKNBGB427Tfo) | 3:42 |
-| 33 | [A Lovely Way To Spend An Evening](https://open.spotify.com/track/0nEqVExhmcXgfArSMMnwFo) | [Curtis Fuller](https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK) | [The Opener \(Remastered\)](https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH) | 6:53 |
+| 32 | [A Lovely Way To Spend An Evening](https://open.spotify.com/track/0nEqVExhmcXgfArSMMnwFo) | [Curtis Fuller](https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK) | [The Opener \(Remastered\)](https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH) | 6:53 |
+| 33 | [What's The Rush](https://open.spotify.com/track/7yRMYF0BqrqPjinbG9Ja3Z) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Keep Calm with Jazz](https://open.spotify.com/album/6Id96zESyjAKNBGB427Tfo) | 3:42 |
 | 34 | [502 Blues \(Drinkin' And Drivin'\) \- Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:34 |
 | 35 | [\(It Will Have To Do\) Until The Real Thing Comes Along \- Remastered](https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:49 |
 | 36 | [Old Folks \(feat\. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb\)](https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [Someday My Prince Will Come](https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ) | 5:14 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 64 | [You Know I Care \- Rudy Van Gelder Edition / 2004 Digital Remaster](https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Inner Urge \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI) | 7:22 |
 | 65 | [Blues In The Night](https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Blues In The Night](https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817) | 5:55 |
 | 66 | [Willow Weep For Me](https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Ballads](https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u) | 9:58 |
-| 67 | [House Of Jade \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5tIDZCixAvskZRL867Ewh5) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:53 |
-| 68 | [Elsa](https://open.spotify.com/track/3b85Jv4nFjRZNsorLlXA0p) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 5:11 |
+| 67 | [Elsa](https://open.spotify.com/track/3b85Jv4nFjRZNsorLlXA0p) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 5:11 |
+| 68 | [House Of Jade \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5tIDZCixAvskZRL867Ewh5) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:53 |
 | 69 | [Indian Summer](https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 5:01 |
 | 70 | [Little Girl Blue](https://open.spotify.com/track/4y3Rmu6XbLeUi95ym34PGq) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Messages](https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55) | 8:43 |
 | 71 | [Ballad](https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 5:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 74 | [I've Grown Accustomed To Your Face \- Rudy Van Gelder Remaster](https://open.spotify.com/track/2Ss7eZJNHWyyLaCGdp6tac) | [Sonny Rollins Quintet](https://open.spotify.com/artist/5dJDadRqAmqc06tD2KRSDO) | [Plays For Bird \(RVG Remaster\)](https://open.spotify.com/album/3DYmLyJmnC9Rk3xFzQsd8C) | 4:51 |
 | 75 | [Dam That Dream](https://open.spotify.com/track/1BBIJBrOV8Lzl48C9GZ4rX) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Poppin'](https://open.spotify.com/album/0fGG4NXcCWzTcpYGrcyCtc) | 6:10 |
 
-Snapshot ID: `MCw2OTViOTg4NmNkMzNhNjNhZjYyY2QyMzY3NjBkMjAwMzlhZjI2OGU4`
+Snapshot ID: `MCxjNjYxNzYyYTBhOTljOTcyZjc0NjdjYzlhNmJmMTQ4ODBmMjk1N2Q3`

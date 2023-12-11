@@ -4,7 +4,7 @@
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Brujería en portada.
 
-81 songs - 5 hr 27 min
+82 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Thelos](https://open.spotify.com/track/3X0UDx7EPJipUHATcZgcoh) | [Spectral Resonanze](https://open.spotify.com/artist/4qNvazDFEQfldPBGo9CEqt) | [Thelos](https://open.spotify.com/album/0TWTjlPOiIwqMgeOjKhcHD) | 5:30 | 2023-09-22 |  |
 | [Torments of My Past](https://open.spotify.com/track/0w32lrkgtivPVLyQR4Tlh3) | [Anna Fiori](https://open.spotify.com/artist/518MGsGqVYTk86dnrxZHX6), [Jonathan Thorpenberg](https://open.spotify.com/artist/2CjVUnYTzkQKGHx0H4OA7H) | [Torments of My Past](https://open.spotify.com/album/5nJuu9BimckMRyhlwfXFhi) | 4:08 | 2023-09-22 | 2023-11-18 |
 | [Torments of My Past](https://open.spotify.com/track/7s6e24nfv7Z7jaXHNhAIDx) | [Anna Fiori](https://open.spotify.com/artist/518MGsGqVYTk86dnrxZHX6), [Jonathan Thorpenberg](https://open.spotify.com/artist/2CjVUnYTzkQKGHx0H4OA7H) | [Torments of My Past](https://open.spotify.com/album/5iBhZDdaX7cieH81vFkCia) | 4:08 | 2023-10-23 |  |
+| [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 | 2023-11-24 |  |
 | [Tu Puño Dentro De Mí](https://open.spotify.com/track/03wXtLGSG6lKBx8Cer689U) | [Larva](https://open.spotify.com/artist/70fgQkaCL6ITJxg1E8Q9iP) | [Tu Puño Dentro De Mí](https://open.spotify.com/album/3H95nMXGOPKyuAdQ5rqSbq) | 4:31 | 2023-09-22 |  |
 | [Us Against Them](https://open.spotify.com/track/33bghBAXcT8PypSUHQABFc) | [Dead Legacy](https://open.spotify.com/artist/2959HnSzlYRaGRXMRZmNAt) | [Us Against Them](https://open.spotify.com/album/3bX15eCIHTmPTwZmzqQzQp) | 3:44 | 2023-09-22 |  |
 | [Vida Profana](https://open.spotify.com/track/34RNwS9sBpEeYlXM8Rsz5s) | [JesuCristo Mentiroso](https://open.spotify.com/artist/61yMpECIaGfrNMLwdOjhQO) | [Ruido Asesino](https://open.spotify.com/album/0dsHhzlxqnhSlpUYREXS91) | 1:09 | 2023-09-22 |  |

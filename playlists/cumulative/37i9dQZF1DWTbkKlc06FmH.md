@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-595 songs - 1 day 12 hr 4 min
+596 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 | 2023-03-09 | 2023-06-13 |
 | [BETTY](https://open.spotify.com/track/1sZMEQ5l9HCmasdqtxd5hY) | [Takumadrops](https://open.spotify.com/artist/469no6YyPirEUGHqqqyINS) | [BETTY](https://open.spotify.com/album/2R4WxFjANEHlSQ1X3abj6N) | 4:19 | 2023-06-29 | 2023-07-21 |
 | [BLESS](https://open.spotify.com/track/1n7KmMGSUJPpNrywGB2XK2) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [BLESS](https://open.spotify.com/album/1xdhzuA7RZyNauCUu5dIN9) | 2:21 | 2023-11-07 |  |
-| [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 | 2022-10-20 |  |
+| [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 | 2022-10-20 | 2023-12-11 |
 | [BOLD \(feat\. reina\)](https://open.spotify.com/track/3GJszdk6pDqqHN1XZJla8Z) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [BOLD \(feat\. reina\)](https://open.spotify.com/album/014D3rCQX8K9Hqqj9dYEl6) | 2:23 | 2023-05-30 | 2023-06-09 |
 | [BOLD \- feat\. reina](https://open.spotify.com/track/0ysitHytpmV4P83IKMxxdF) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [BOLD \(feat\. reina\)](https://open.spotify.com/album/1usd1sCOenjgbcgpbyHwpG) | 2:23 | 2023-05-30 | 2023-06-01 |
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 | 2023-06-21 |
@@ -440,6 +440,7 @@
 | [Sundaynight](https://open.spotify.com/track/7gPcTsRB1ylvb17OckGa2K) | [Koshi Miura](https://open.spotify.com/artist/14uVBFNoG8Pvv304q3zswS) | [Sundaynight](https://open.spotify.com/album/5ZAQlhUTPNNchqfZXS8g98) | 5:09 | 2023-01-19 | 2023-03-08 |
 | [Sunshine](https://open.spotify.com/track/60VGUSDVni8Qvbng1brQIQ) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Julisa](https://open.spotify.com/artist/37jvpuURr5W4XN4JDVx744) | [Sunshine](https://open.spotify.com/album/4nx0MICtzlbMeruCNSnIPO) | 3:38 | 2023-02-18 | 2023-04-05 |
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-05-18 | 2023-10-13 |
+| [Sunshine Baby](https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:39 | 2023-12-07 |  |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-09-28 |  |
 | [Super Star](https://open.spotify.com/track/6AflIeXwx0xqkfe0mmnChE) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Super Star](https://open.spotify.com/album/12wAKwJC0xf2cfTCZXlxpF) | 3:22 | 2023-05-09 | 2023-11-22 |
 | [Superman](https://open.spotify.com/track/3R0VkHQ4az4AhbZP2KHFfF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Superman](https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV) | 3:29 | 2023-11-09 |  |

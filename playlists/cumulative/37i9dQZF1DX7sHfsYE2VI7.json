@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "Foreign Language (10 Year Anniversary)",
+        "url": "https://open.spotify.com/album/2gTe12kWJnouYrPC5m72FC"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Jess",
+          "url": "https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244080,
+      "name": "Foreign Language",
+      "url": "https://open.spotify.com/track/5JFDFNp3jzckTyB0QwHuwp"
+    },
+    {
+      "album": {
         "name": "Foreign Language",
         "url": "https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo"
       },
@@ -342,7 +364,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 244080,
       "name": "Foreign Language",
       "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
@@ -472,7 +494,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 156293,
       "name": "Home",
       "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
@@ -1162,7 +1184,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 349413,
       "name": "Pizza Guy",
       "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
@@ -1522,7 +1544,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 273840,
       "name": "The Wilhelm Scream",
       "url": "https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm"
@@ -1664,7 +1686,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 214053,
       "name": "With You Forever",
       "url": "https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,974 likes - 102 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,970 likes - 102 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 101 | [Charisma](https://open.spotify.com/track/2mtBjvQzQHtknKFQKTbCbX) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Charisma](https://open.spotify.com/album/2TcKAlzwi9pSGMpVOIXho4) | 2:57 |
 | 102 | [UFO](https://open.spotify.com/track/078TILT7Zgz4S0KMr03VLf) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Nina Hagen sings Larry Norman](https://open.spotify.com/album/685AcFqtZ1ubHhdeoKQYf0) | 2:57 |
 
-Snapshot ID: `MCwxM2NhNTMyYWQzM2M1MmJhN2YwNDNmNzE1ZTY5OTE0OTJjMjU4ZmJh`
+Snapshot ID: `MCwyYjM0NDVkMGUxYjQ4NzYzZTM4NWM2NDI4M2UzZjcxY2UxM2RlZTEw`

@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks of today, featuring Simon Grossman.",
-  "num_followers": 156048,
+  "num_followers": 156047,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTVjNzZhNzU3ZTRmYTFlZjZkZWE4Y2IzMWMwN2IwOWUxMGVmMzcx",
+  "snapshot_id": "MCw4NzgzMGQyY2E4MmJlOGY2ODRiNDRmZjMwOTg5NDZiNmQ5NjNlYmIw",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -327,30 +327,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Si Esto Es",
-        "url": "https://open.spotify.com/album/0fw02MOlRu9FJaXmrv0dsM"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Si Esto Es",
-      "url": "https://open.spotify.com/track/4GQsT5TzolkHmgXmMhNiTB"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "\u00bfQui\u00e9n trae las cornetas?",
         "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
@@ -371,6 +347,30 @@
       "duration_ms": 230808,
       "name": "Se Te Nota",
       "url": "https://open.spotify.com/track/5kokNg16pOhrirK3kmgbQ4"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Si Esto Es",
+        "url": "https://open.spotify.com/album/0fw02MOlRu9FJaXmrv0dsM"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Si Esto Es",
+      "url": "https://open.spotify.com/track/4GQsT5TzolkHmgXmMhNiTB"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 284492,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Uh",
         "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
       },
@@ -495,6 +479,38 @@
       "duration_ms": 214280,
       "name": "La \u00daltima Vez",
       "url": "https://open.spotify.com/track/18H0STg2CPkVKx0AqRsoLQ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Milanoche",
+        "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 168282,
+      "name": "Milanoche",
+      "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 284492,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -531,22 +547,6 @@
       "duration_ms": 223621,
       "name": "Cortes Modernos",
       "url": "https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Milanoche",
-        "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 168282,
-      "name": "Milanoche",
-      "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 226057,
-      "name": "Antes de Ti",
-      "url": "https://open.spotify.com/track/69YoHCogS3aJwhf9ntlPvq"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 226057,
+      "name": "Antes de Ti",
+      "url": "https://open.spotify.com/track/69YoHCogS3aJwhf9ntlPvq"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 182782,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "LA RUTA NATURAL",
         "url": "https://open.spotify.com/album/3JgA2PPl6TmIWEC4C3f1sF"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 197179,
       "name": "LA RUTA NATURAL",
       "url": "https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 182782,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "DARK CLOUDS",
+        "url": "https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        },
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 188755,
+      "name": "DARK CLOUDS",
+      "url": "https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 211986,
       "name": "en la ciudad",
       "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "DARK CLOUDS",
-        "url": "https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        },
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 188755,
-      "name": "DARK CLOUDS",
-      "url": "https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4"
     },
     {
       "added_at": "2023-12-08 05:00:00",

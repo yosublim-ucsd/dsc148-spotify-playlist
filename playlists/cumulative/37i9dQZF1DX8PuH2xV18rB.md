@@ -4,7 +4,7 @@
 
 > Enjoy M.Net's dance battle show Street Dance Girls Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿댄스 걸스 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-46 songs - 2 hr 16 min
+47 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [I'm Sick](https://open.spotify.com/track/0aKB5gfdOJVImcUj6fV4xc) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [I'm Sick](https://open.spotify.com/album/3FPMeMYEqjNECafov4bIiF) | 2:53 | 2022-01-14 |  |
 | [ICONIC](https://open.spotify.com/track/5bMHrigI1EAmZdiyRzKoQi) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:11 | 2022-01-14 |  |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2022-01-14 |  |
-| [Jump](https://open.spotify.com/track/4fbS7h0x7zwYD5XHVaEH4d) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Know No Better](https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC) | 3:03 | 2022-01-14 |  |
+| [Jump](https://open.spotify.com/track/4fbS7h0x7zwYD5XHVaEH4d) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Know No Better](https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC) | 3:03 | 2022-01-14 | 2023-12-11 |
+| [Jump](https://open.spotify.com/track/5uyFJJev6H1w10xIJsgJWE) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Know No Better](https://open.spotify.com/album/1kfKkwT78GfbyiOaJKdMFV) | 3:03 | 2022-01-14 |  |
 | [Jump \(feat\. Busy Signal\)](https://open.spotify.com/track/3TezRGYXNITwmpgi2oQI0h) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Know No Better](https://open.spotify.com/album/4ox0wVwssaVMH3Wp0KpQss) | 3:03 | 2022-01-14 | 2022-07-29 |
 | [MAD DOG](https://open.spotify.com/track/1x60WPvUlRvUZFMaMMDGQi) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:03 | 2022-01-14 |  |
 | [MAD DOG](https://open.spotify.com/track/7ARkzETM5vjxptipR501ue) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:03 | 2022-01-14 | 2022-07-29 |

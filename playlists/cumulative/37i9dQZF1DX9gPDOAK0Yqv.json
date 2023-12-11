@@ -3365,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/2auTyTFkBTYDIQwQKLz8l4"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/6QqWR8fmdwG6rfgxwFHcrI"
+    },
+    {
+      "album": {
         "name": "Katania",
         "url": "https://open.spotify.com/album/6jaUFnMIk0TI6DaF1AoIEn"
       },
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 208818,
       "name": "LAY ME DOWN",
       "url": "https://open.spotify.com/track/50SJaoPsOsvhwxUCRP4WxD"
@@ -4924,6 +4942,28 @@
       "duration_ms": 272255,
       "name": "Pantheon",
       "url": "https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG"
+    },
+    {
+      "album": {
+        "name": "Paradise Calling (Henri Bergmann Remix)",
+        "url": "https://open.spotify.com/album/32CDmng6IXw9koENByQRiw"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        },
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319354,
+      "name": "Paradise Calling - Henri Bergmann Remix",
+      "url": "https://open.spotify.com/track/6Wu6BSw8N2KqBNHKYZolYu"
     },
     {
       "album": {
@@ -7866,7 +7906,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 214332,
       "name": "You Are My Guide",
       "url": "https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0"

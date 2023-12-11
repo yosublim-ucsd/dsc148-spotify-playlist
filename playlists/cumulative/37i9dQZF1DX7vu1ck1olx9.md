@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-254 songs - 10 hr 15 min
+255 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [In a Movie](https://open.spotify.com/track/4OUAPh56ulVaZxJjh4JviP) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [In a Movie](https://open.spotify.com/album/1KUsPpASsEz9IJlELl2d6L) | 2:40 | 2023-10-27 |  |
 | [In The Park](https://open.spotify.com/track/2pvQe4EUSB0Wv6hHtnAIlv) | [TAKARAZI](https://open.spotify.com/artist/07d4tXU9TiNIvlPLQBiA4H) | [In The Park](https://open.spotify.com/album/6sjsZntXB6ZaK8XOomB1SI) | 2:10 | 2023-10-27 |  |
 | [in writing](https://open.spotify.com/track/5hoFX6v9C65g919yd99QHn) | [pemil](https://open.spotify.com/artist/3b2vVfB2bA0PXXwlbNA7hg) | [in wriring](https://open.spotify.com/album/1YPiwsGnuaAyfqM93A6Fce) | 3:04 | 2023-10-27 |  |
+| [Inceptions](https://open.spotify.com/track/0sqk7TgOIVVp6zFCccxRNU) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [Inceptions](https://open.spotify.com/album/52OgGdDDUt2tkFe6z4hT2P) | 2:00 | 2023-12-08 |  |
 | [infinity](https://open.spotify.com/track/7psacqXXypqDByQk9iLD0J) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [infinity](https://open.spotify.com/album/5zm0jfovige3nobvXRGuAg) | 2:25 | 2023-10-27 |  |
 | [Inn](https://open.spotify.com/track/2hEgmgkHVDFf52Sxpc3Nh2) | [Benno](https://open.spotify.com/artist/4HYjlPJLk1PyVwuuy63o6L), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Inn](https://open.spotify.com/album/4Lh05HrYs2QKvRIaNN9oQG) | 2:11 | 2022-09-09 | 2023-03-29 |
 | [Intersections](https://open.spotify.com/track/51NtpncCFm7jTLxIcGpHgR) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [Intersections](https://open.spotify.com/album/5iLI3eUZ57osvD1pdjEL5w) | 2:11 | 2023-10-27 |  |
@@ -193,7 +194,7 @@
 | [Serenity](https://open.spotify.com/track/44Enofs0bXrGNbKuqtdx0k) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/7boAU92M1FypSBlYz0aeSg) | 3:12 | 2020-11-12 | 2023-09-16 |
 | [Serenity](https://open.spotify.com/track/4x1mZMYf8E239Ug0VeYvzQ) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/4n4VJqnZTaPg41iDIakpmE) | 3:12 | 2020-11-12 | 2022-07-29 |
 | [Sesame](https://open.spotify.com/track/2bS8fi0PnaVWjtPWmGqj5j) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3YzLE1tSMOuHt1XfAir75z) | 2:33 | 2020-11-12 | 2022-07-29 |
-| [Sesame](https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3goNpzRpK4nIJr9vIMF3Ks) | 2:33 | 2023-11-24 |  |
+| [Sesame](https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3goNpzRpK4nIJr9vIMF3Ks) | 2:33 | 2023-11-24 | 2023-12-11 |
 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 | 2023-10-27 |  |
 | [Shelter](https://open.spotify.com/track/6k1foZCmEKnMrLAd3nKlkT) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/0kLQU10QiF47j6ttLaBKcu) | 1:57 | 2020-11-12 | 2023-07-07 |
 | [Shelter](https://open.spotify.com/track/6ls8MehGgZkb3ERkAacm6q) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0) | 1:57 | 2020-11-12 |  |

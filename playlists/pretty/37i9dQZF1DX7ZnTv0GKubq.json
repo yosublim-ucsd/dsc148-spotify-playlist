@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 359634,
+  "num_followers": 359660,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjMxNjg0MmE4MTI0MmMyZTA2YjlkYjE0NWVhNDU2YzBiYjQ0Y2Jm",
+  "snapshot_id": "MCxkNzE1ZjgzNzIyMTdiYzQ4NDEwYmI1ZWRiNTY1NzIwOGU5ZTI4M2Rh",
   "tracks": [
     {
       "added_at": "2023-11-24 11:28:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "hugo",
-        "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 180723,
-      "name": "Speed Of Plight",
-      "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 192130,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
+        "name": "hugo",
+        "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 180723,
+      "name": "Speed Of Plight",
+      "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
     }
   ],
   "unique_name": "Spotify & Chill",

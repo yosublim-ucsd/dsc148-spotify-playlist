@@ -1,6 +1,6 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3685,
+  "num_followers": 3690,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-12-01 17:10:32",
       "album": {
-        "name": "Tranquilao",
-        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Tranquilao",
-      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
-    },
-    {
-      "added_at": "2023-12-01 17:10:32",
-      "album": {
         "name": "Bim Boom Bam",
         "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 144023,
       "name": "Bim Boom Bam",
       "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
+    },
+    {
+      "added_at": "2023-12-01 17:10:32",
+      "album": {
+        "name": "Tranquilao",
+        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Tranquilao",
+      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
     },
     {
       "added_at": "2023-12-01 17:10:32",
@@ -931,6 +931,26 @@
     {
       "added_at": "2023-12-01 17:10:32",
       "album": {
+        "name": "T\u00f3cate",
+        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
+      },
+      "artists": [
+        {
+          "name": "Cach House",
+          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
+        },
+        {
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+        }
+      ],
+      "duration_ms": 190393,
+      "name": "T\u00f3cate",
+      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
+    },
+    {
+      "added_at": "2023-12-01 17:10:32",
+      "album": {
         "name": "Wimbo",
         "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 150488,
       "name": "Wimbo",
       "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
-    },
-    {
-      "added_at": "2023-12-01 17:10:32",
-      "album": {
-        "name": "Dimini",
-        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
-        }
-      ],
-      "duration_ms": 142447,
-      "name": "Dimini",
-      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
     },
     {
       "added_at": "2023-12-01 17:10:32",
@@ -1003,22 +1003,22 @@
     {
       "added_at": "2023-12-01 17:10:32",
       "album": {
-        "name": "T\u00f3cate",
-        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
+        "name": "Dimini",
+        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
       },
       "artists": [
         {
-          "name": "Cach House",
-          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
         },
         {
-          "name": "Conrado",
-          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+          "name": "Twolate",
+          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
         }
       ],
-      "duration_ms": 190393,
-      "name": "T\u00f3cate",
-      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
+      "duration_ms": 142447,
+      "name": "Dimini",
+      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
     },
     {
       "added_at": "2023-12-01 17:10:32",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-12-01 17:10:32",
       "album": {
+        "name": "Gitrox",
+        "url": "https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Gitrox",
+      "url": "https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM"
+    },
+    {
+      "added_at": "2023-12-01 17:10:32",
+      "album": {
         "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
         "url": "https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J"
       },
@@ -1067,6 +1083,38 @@
       "duration_ms": 198214,
       "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
       "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
+    },
+    {
+      "added_at": "2023-12-01 17:10:32",
+      "album": {
+        "name": "La Gente",
+        "url": "https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ"
+      },
+      "artists": [
+        {
+          "name": "ESSED",
+          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
+        }
+      ],
+      "duration_ms": 192230,
+      "name": "La Gente",
+      "url": "https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2"
+    },
+    {
+      "added_at": "2023-12-01 17:10:32",
+      "album": {
+        "name": "Quema Quema",
+        "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
+      },
+      "artists": [
+        {
+          "name": "Mister Pancho",
+          "url": "https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe"
+        }
+      ],
+      "duration_ms": 126707,
+      "name": "Quema Quema",
+      "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
     },
     {
       "added_at": "2023-12-01 17:10:32",
@@ -1103,58 +1151,6 @@
     {
       "added_at": "2023-12-01 17:10:32",
       "album": {
-        "name": "Jaleo",
-        "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
-      },
-      "artists": [
-        {
-          "name": "Kenny Brian",
-          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Jaleo",
-      "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
-    },
-    {
-      "added_at": "2023-12-01 17:10:32",
-      "album": {
-        "name": "La Gente",
-        "url": "https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ"
-      },
-      "artists": [
-        {
-          "name": "ESSED",
-          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
-        }
-      ],
-      "duration_ms": 192230,
-      "name": "La Gente",
-      "url": "https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2"
-    },
-    {
-      "added_at": "2023-12-01 17:10:32",
-      "album": {
-        "name": "Esta Pegao",
-        "url": "https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth"
-      },
-      "artists": [
-        {
-          "name": "Carloh",
-          "url": "https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Esta Pegao",
-      "url": "https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK"
-    },
-    {
-      "added_at": "2023-12-01 17:10:32",
-      "album": {
         "name": "La Bulla",
         "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
       },
@@ -1175,6 +1171,26 @@
     {
       "added_at": "2023-12-01 17:10:32",
       "album": {
+        "name": "Jaleo",
+        "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
+      },
+      "artists": [
+        {
+          "name": "Kenny Brian",
+          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Jaleo",
+      "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
+    },
+    {
+      "added_at": "2023-12-01 17:10:32",
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
       },
@@ -1187,6 +1203,22 @@
       "duration_ms": 201720,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
+    },
+    {
+      "added_at": "2023-12-01 17:10:32",
+      "album": {
+        "name": "Esta Pegao",
+        "url": "https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth"
+      },
+      "artists": [
+        {
+          "name": "Carloh",
+          "url": "https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Esta Pegao",
+      "url": "https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK"
     },
     {
       "added_at": "2023-12-01 17:10:32",
@@ -1267,22 +1299,6 @@
     {
       "added_at": "2023-12-01 17:10:32",
       "album": {
-        "name": "Gitrox",
-        "url": "https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU"
-      },
-      "artists": [
-        {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Gitrox",
-      "url": "https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM"
-    },
-    {
-      "added_at": "2023-12-01 17:10:32",
-      "album": {
         "name": "El Hoyo",
         "url": "https://open.spotify.com/album/7bB62uup0K7tg2yzsppwlr"
       },
@@ -1299,6 +1315,38 @@
     {
       "added_at": "2023-12-01 17:10:32",
       "album": {
+        "name": "Mueve Los Dos Pies",
+        "url": "https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wong",
+          "url": "https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Mueve Los Dos Pies",
+      "url": "https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ"
+    },
+    {
+      "added_at": "2023-12-01 17:10:32",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/1E3ZQ6io0107ZazD7ZPYhy"
+      },
+      "artists": [
+        {
+          "name": "Mia Moretti",
+          "url": "https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9"
+    },
+    {
+      "added_at": "2023-12-01 17:10:32",
+      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc"
       },
@@ -1311,22 +1359,6 @@
       "duration_ms": 195826,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"
-    },
-    {
-      "added_at": "2023-12-01 17:10:32",
-      "album": {
-        "name": "Quema Quema",
-        "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
-      },
-      "artists": [
-        {
-          "name": "Mister Pancho",
-          "url": "https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe"
-        }
-      ],
-      "duration_ms": 126707,
-      "name": "Quema Quema",
-      "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
     },
     {
       "added_at": "2023-12-01 17:10:32",
@@ -1351,38 +1383,6 @@
     {
       "added_at": "2023-12-01 17:10:32",
       "album": {
-        "name": "Mueve Los Dos Pies",
-        "url": "https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wong",
-          "url": "https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Mueve Los Dos Pies",
-      "url": "https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ"
-    },
-    {
-      "added_at": "2023-12-01 17:10:32",
-      "album": {
-        "name": "Labios (La Noche)",
-        "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 161760,
-      "name": "Labios (La Noche)",
-      "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
-    },
-    {
-      "added_at": "2023-12-01 17:10:32",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj"
       },
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2023-12-01 17:10:32",
       "album": {
-        "name": "Q' Pario",
-        "url": "https://open.spotify.com/album/2r5Q18MMpuhbEariH5zTJx"
+        "name": "Labios (La Noche)",
+        "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
       },
       "artists": [
         {
-          "name": "Sunday Noise",
-          "url": "https://open.spotify.com/artist/7GIGyQw9goHVF0MRV4bGRY"
-        },
-        {
-          "name": "Cris Ocana",
-          "url": "https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 231562,
-      "name": "Q' Pario",
-      "url": "https://open.spotify.com/track/1WITm8WzXW6sTDvHGKQI4i"
+      "duration_ms": 161760,
+      "name": "Labios (La Noche)",
+      "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
     }
   ],
   "unique_name": "Alma",

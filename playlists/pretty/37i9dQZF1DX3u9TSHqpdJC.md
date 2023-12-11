@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Pop in 2023\. Cover: Debbii Dawson
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,660 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,763 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 49 | [If You'll Have Me](https://open.spotify.com/track/5eocW7HblxHATAlUkwihVj) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [If You'll Have Me](https://open.spotify.com/album/2Tj6aMOWvhNxk4bh3JA3vj) | 2:50 |
 | 50 | [Pardon My French](https://open.spotify.com/track/3Fk6VAsLpyrPlGcEzNbSyP) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Pardon My French](https://open.spotify.com/album/6tU236uAny4Fttxjoq1srR) | 2:21 |
 
-Snapshot ID: `MCxmMGMyYmQ5OTIwOWRhZTc2NzcxMjhiYjRmZjk0MDQxODAyYTgxZTUx`
+Snapshot ID: `MCwxMmY3ZGUwZDM0ZjIyOTk1YWY0MTVmZjlhODcyNGZhMjg5ODMzNGVm`

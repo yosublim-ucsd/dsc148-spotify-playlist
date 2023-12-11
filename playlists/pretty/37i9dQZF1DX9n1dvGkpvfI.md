@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9?si=eme3jaO3QK6R9DlIBeSAEQ">Mannequin Pussy</a> and the songs that shape their alternative spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,051 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,440 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

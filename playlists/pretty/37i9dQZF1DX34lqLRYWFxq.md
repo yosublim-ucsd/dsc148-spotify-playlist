@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in rock this week\. Cover: Elephant Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,264 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,262 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 |
 | 2 | [The General](https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The General](https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM) | 4:22 |
 | 3 | [Another Year Gone](https://open.spotify.com/track/3DPcH2cjFG7QvBh2DI1ajr) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Another Year Gone](https://open.spotify.com/album/5Ue9eH8utP2C5koj3Efp6q) | 1:44 |
-| 4 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/1hcYgQfU1DIParVH4wPJCw) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
+| 4 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
 | 5 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 |
 | 6 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 |
 | 7 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [XOXO](https://open.spotify.com/track/2gsQSr676Ri06KDDtUqjAs) | [Gee Clarke](https://open.spotify.com/artist/5mKjDMrHsXXsNPqIvVX3j3), [Command Sisters](https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed) | [XOXO](https://open.spotify.com/album/4vvX6eL8vfklKlxiREbon5) | 2:15 |
 | 100 | [Plaster Girl](https://open.spotify.com/track/4WJJ5Klv5EgxXpw7Kl7Vdt) | [Thermal](https://open.spotify.com/artist/0rXfVyHv2j4AaWRvhM44KS) | [Plaster Girl](https://open.spotify.com/album/7pbvS6lwjSmn48GlPUim2H) | 4:40 |
 
-Snapshot ID: `MCwzYTRmNjhlNWViNWNmYjk1ZDY0MDkwM2JjMjJlNWNkZDJlMzRlOTU0`
+Snapshot ID: `MCw5N2M5YTY4ZjljY2ZlMGRkNWQyZjllYmQ4OTk2ZjA5NTdkODU5ZmVj`

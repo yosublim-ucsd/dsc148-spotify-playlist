@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 239114,
+  "num_followers": 239193,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
-        }
-      ],
-      "duration_ms": 140360,
-      "name": "Anclao En Paris",
-      "url": "https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Milonga de mis amores",
         "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 142133,
       "name": "Milonga de mis amores - Estilo Pedro Laurenz",
       "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
+        }
+      ],
+      "duration_ms": 140360,
+      "name": "Anclao En Paris",
+      "url": "https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Esperarte",
-        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
+        "name": "A Pedido",
+        "url": "https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9"
       },
       "artists": [
         {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+          "name": "Horacio Molina",
+          "url": "https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Esperarte",
-      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
+      "duration_ms": 211613,
+      "name": "Flor de lino - Live",
+      "url": "https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "A Pedido",
-        "url": "https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9"
-      },
-      "artists": [
-        {
-          "name": "Horacio Molina",
-          "url": "https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Flor de lino - Live",
-      "url": "https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Vientos del Sur",
         "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 198437,
       "name": "Siempre Se Vuelve a Buenos Aires",
       "url": "https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Lo Mejor de Alfredo Belusi",
+        "url": "https://open.spotify.com/album/3eGpNB9KUDP9KxrXBLKhXq"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Belusi",
+          "url": "https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe"
+        }
+      ],
+      "duration_ms": 124240,
+      "name": "De Puro Curda",
+      "url": "https://open.spotify.com/track/2yiFCdnMggyVo2R5mrs5Hu"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Tango Collection",
-        "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
+        "name": "Esperarte",
+        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
       },
       "artists": [
         {
-          "name": "Juan D'Arienzo",
-          "url": "https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4"
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
         }
       ],
-      "duration_ms": 140503,
-      "name": "Valsecito Criollo",
-      "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
+      "duration_ms": 205266,
+      "name": "Esperarte",
+      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Tango Collection",
+        "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
+      },
+      "artists": [
+        {
+          "name": "Juan D'Arienzo",
+          "url": "https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4"
+        }
+      ],
+      "duration_ms": 140503,
+      "name": "Valsecito Criollo",
+      "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "... Tangamente",
         "url": "https://open.spotify.com/album/4B60jIPooAY6gTBMkUwfCu"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 164312,
       "name": "Como Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/2KjkU7YZX04oml0VRr9kqj"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Lo Mejor de Alfredo Belusi",
-        "url": "https://open.spotify.com/album/3eGpNB9KUDP9KxrXBLKhXq"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Belusi",
-          "url": "https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe"
-        }
-      ],
-      "duration_ms": 124240,
-      "name": "De Puro Curda",
-      "url": "https://open.spotify.com/track/2yiFCdnMggyVo2R5mrs5Hu"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Toda Mi Vida",
-        "url": "https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR"
-      },
-      "artists": [
-        {
-          "name": "An\u00edbal Troilo",
-          "url": "https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN"
-        },
-        {
-          "name": "Francisco Fiorentino",
-          "url": "https://open.spotify.com/artist/0chC6Ta4I8hpmaZ28GUdMT"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Tinta Roja",
-      "url": "https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 224746,
       "name": "Mariposita - En Vivo",
       "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Toda Mi Vida",
+        "url": "https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR"
+      },
+      "artists": [
+        {
+          "name": "An\u00edbal Troilo",
+          "url": "https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN"
+        },
+        {
+          "name": "Francisco Fiorentino",
+          "url": "https://open.spotify.com/artist/0chC6Ta4I8hpmaZ28GUdMT"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Tinta Roja",
+      "url": "https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Solo Guitarra",
+        "url": "https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU"
+      },
+      "artists": [
+        {
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/6kDLsaJF6yNhgGXRH4IcNP"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Canciones del Sur",
         "url": "https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Solo Guitarra",
-        "url": "https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU"
+        "name": "Tangos",
+        "url": "https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow"
       },
       "artists": [
         {
-          "name": "Luis Salinas",
-          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+          "name": "Hugo D\u00edaz",
+          "url": "https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp"
         }
       ],
-      "duration_ms": 154293,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/6kDLsaJF6yNhgGXRH4IcNP"
+      "duration_ms": 177446,
+      "name": "Volvio Una Noche",
+      "url": "https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Tangos",
-        "url": "https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow"
-      },
-      "artists": [
-        {
-          "name": "Hugo D\u00edaz",
-          "url": "https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "Volvio Una Noche",
-      "url": "https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Tangazos",
         "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
       },
@@ -847,26 +847,6 @@
       "duration_ms": 161061,
       "name": "Se Tiran Conmigo",
       "url": "https://open.spotify.com/track/52bmeu33Kkm1hfEsuvivs5"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "A los Cantores (En Vivo)",
-        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "La Luz de un F\u00f3sforo - En Vivo",
-      "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -887,6 +867,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Anibal Troilo - Cancion desesperada",
+        "url": "https://open.spotify.com/album/77OkvaAB1cjgOtxqf3oQIW"
+      },
+      "artists": [
+        {
+          "name": "An\u00edbal Troilo",
+          "url": "https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Adios Pampa mia",
+      "url": "https://open.spotify.com/track/4mHp0whXyf80glskjIXqMK"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Pasional",
         "url": "https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc"
       },
@@ -903,18 +899,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Anibal Troilo - Cancion desesperada",
-        "url": "https://open.spotify.com/album/77OkvaAB1cjgOtxqf3oQIW"
+        "name": "A los Cantores (En Vivo)",
+        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
       "artists": [
         {
-          "name": "An\u00edbal Troilo",
-          "url": "https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN"
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
         }
       ],
-      "duration_ms": 204960,
-      "name": "Adios Pampa mia",
-      "url": "https://open.spotify.com/track/4mHp0whXyf80glskjIXqMK"
+      "duration_ms": 174693,
+      "name": "La Luz de un F\u00f3sforo - En Vivo",
+      "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -975,18 +975,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+        "name": "Castiellos",
+        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
       },
       "artists": [
         {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        },
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
         }
       ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
+      "duration_ms": 241546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1011,22 +1015,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Castiellos",
-        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
+        "name": "Un sue\u00f1o de barrio",
+        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
       },
       "artists": [
         {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
-        },
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+          "name": "Mirta Uguet",
+          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
         }
       ],
-      "duration_ms": 241546,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
+      "duration_ms": 208384,
+      "name": "Confidencias",
+      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Intimos, Vol. 1 en vivo en Bebop",
-        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
       },
       "artists": [
         {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Andr\u00e9s Linetzky",
-          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
         }
       ],
-      "duration_ms": 320922,
-      "name": "Fuimos - En Vivo",
-      "url": "https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za"
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1079,6 +1075,26 @@
       "duration_ms": 161794,
       "name": "Fugata",
       "url": "https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Intimos, Vol. 1 en vivo en Bebop",
+        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Andr\u00e9s Linetzky",
+          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
+        }
+      ],
+      "duration_ms": 320922,
+      "name": "Fuimos - En Vivo",
+      "url": "https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Un sue\u00f1o de barrio",
-        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
-      },
-      "artists": [
-        {
-          "name": "Mirta Uguet",
-          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
-        }
-      ],
-      "duration_ms": 208384,
-      "name": "Confidencias",
-      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Rescatados",
         "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
       },
@@ -1167,58 +1167,6 @@
       "duration_ms": 158487,
       "name": "Desencuentro",
       "url": "https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
-      },
-      "artists": [
-        {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        }
-      ],
-      "duration_ms": 233732,
-      "name": "Cualquiera de Estas Noches",
-      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "70 A\u00f1os de Tango",
-        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
-      },
-      "artists": [
-        {
-          "name": "Roberto Siri",
-          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Quiero Verte una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Presentando a Charlo",
-        "url": "https://open.spotify.com/album/0eZJ7lKZF1MpL2u4wy4bzm"
-      },
-      "artists": [
-        {
-          "name": "Charlo",
-          "url": "https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Ave de Paso",
-      "url": "https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1259,22 +1207,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "A los Cantores (En Vivo)",
-        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
+        "name": "Mi Version de los Hechos",
+        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
       },
       "artists": [
         {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
         },
         {
-          "name": "Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
         }
       ],
-      "duration_ms": 167200,
-      "name": "Barrio de Tango - En Vivo",
-      "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
+      "duration_ms": 233732,
+      "name": "Cualquiera de Estas Noches",
+      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1307,22 +1255,70 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "De Criollos y Tangueros",
-        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
+        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
+        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
       },
       "artists": [
         {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        },
-        {
-          "name": "Walter Laborde",
-          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
         }
       ],
-      "duration_ms": 253769,
-      "name": "Payada Gardel-Razzano",
-      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
+      "duration_ms": 154573,
+      "name": "Cafetin",
+      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Presentando a Charlo",
+        "url": "https://open.spotify.com/album/0eZJ7lKZF1MpL2u4wy4bzm"
+      },
+      "artists": [
+        {
+          "name": "Charlo",
+          "url": "https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Ave de Paso",
+      "url": "https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "70 A\u00f1os de Tango",
+        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
+      },
+      "artists": [
+        {
+          "name": "Roberto Siri",
+          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Quiero Verte una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "A los Cantores (En Vivo)",
+        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Barrio de Tango - En Vivo",
+      "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1343,18 +1339,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
-        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
+        "name": "De Criollos y Tangueros",
+        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
       },
       "artists": [
         {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        },
+        {
+          "name": "Walter Laborde",
+          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
         }
       ],
-      "duration_ms": 154573,
-      "name": "Cafetin",
-      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
+      "duration_ms": 253769,
+      "name": "Payada Gardel-Razzano",
+      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1375,42 +1375,34 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Si Sos Brujo",
+        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+          "name": "Alfredo Gobbi",
+          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Fruta Amarga",
-      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+      "duration_ms": 209746,
+      "name": "Si Sos Brujo",
+      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
     },
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Piazzolla & Amelita Baltar",
-        "url": "https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw"
+        "name": "Comunidad",
+        "url": "https://open.spotify.com/album/2W4TjCwnnCsqSnhczdVL76"
       },
       "artists": [
         {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        },
-        {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+          "name": "Rodolfo Mederos",
+          "url": "https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC"
         }
       ],
-      "duration_ms": 276093,
-      "name": "Las Ciudades",
-      "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
+      "duration_ms": 247026,
+      "name": "El Abrojito",
+      "url": "https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan"
     },
     {
       "added_at": "2023-12-01 03:00:00",

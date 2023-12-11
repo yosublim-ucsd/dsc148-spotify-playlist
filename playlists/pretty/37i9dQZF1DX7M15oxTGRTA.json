@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 89681,
+  "num_followers": 89781,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODFiNGU4ODk2YjRlNTZhZDkwN2UwYzU1YTIyMzI3MTgxNWE3MmJl",
+  "snapshot_id": "MCw4MmE2ZWQ3YmQxNjYzNzY0YjJmZDQ1ZjQ2ODJkMWY1YjIwNWM1ZmQ3",
   "tracks": [
     {
       "added_at": "2023-09-14 19:15:58",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 388546,
       "name": "Come Live With Me Angel",
       "url": "https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-09-14 19:15:58",

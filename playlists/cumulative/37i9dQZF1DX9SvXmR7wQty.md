@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Jul
 
-2,226 songs - 4 day 22 hr 56 min
+2,227 songs - 4 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [C'était salement romantique \- Reprise](https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [C'était salement romantique \(Reprise\)](https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM) | 3:08 | 2023-11-24 | 2023-12-09 |
 | [C\-17](https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [C\-17](https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc) | 2:52 | 2023-01-13 | 2023-01-28 |
 | [C00N](https://open.spotify.com/track/4wJyyhwG8ZeESwPVR9mKg2) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [C00N: la prophétie](https://open.spotify.com/album/672gWjyvSXba4DbO2p6JrS) | 3:01 | 2022-10-21 | 2022-11-05 |
-| [Cabeza](https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Cabeza](https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n) | 2:54 | 2023-12-08 |  |
+| [Cabeza](https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Cabeza](https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n) | 2:54 | 2023-12-08 | 2023-12-11 |
 | [CALI](https://open.spotify.com/track/5nkgFuu8rzLZVaKIY4Fdwc) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [FILM!](https://open.spotify.com/album/2v4IcRJ0F24UuukJOFIjY7) | 2:31 | 2022-02-04 | 2022-02-19 |
 | [Cali \(Ayayaye\)](https://open.spotify.com/track/5jvuNeTQI7q78Ki4iWAEHT) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [Cali \(Ayayaye\)](https://open.spotify.com/album/7A5iYPRldfzUvFVIg7pbvV) | 2:31 | 2022-01-07 | 2022-01-22 |
 | [Call on me \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Call on me \(feat\. Ed Sheeran\)](https://open.spotify.com/album/23uCYiDGcfNkrKbGAfMTLx) | 3:20 | 2022-10-07 | 2022-10-22 |
@@ -831,6 +831,7 @@
 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:58 | 2023-12-08 |  |
 | [I Love You](https://open.spotify.com/track/3PyznUqNXz4O8woVOvvUh9) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Tombolo](https://open.spotify.com/album/5x2zkoZogYhBNF6pYJIzk3) | 3:06 | 2022-04-29 | 2022-05-14 |
 | [I LOVE YOU](https://open.spotify.com/track/1VbxvZ4Rv8Xw9Hvcp1iGRp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [I LOVE YOU](https://open.spotify.com/album/3SJhcGgcwKvJlw2epL7123) | 3:39 | 2022-09-02 | 2022-09-17 |
+| [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 | 2023-12-08 |  |
 | [Iapit Nutepanu Tshekuan \- Ce qui me manque](https://open.spotify.com/track/4asH9NNYXfHuHrYfbj51XR) | [Claude McKenzie](https://open.spotify.com/artist/6mQxVMXmQumHSbY96HiMjY) | [Iapit Nutepanu Tshekuan \(Ce qui me manque\)](https://open.spotify.com/album/00m2SGOln3FyxdjUsVcTdT) | 4:03 | 2021-12-31 | 2022-01-08 |
 | [Ice](https://open.spotify.com/track/0HCuDi36FfephRRd37HrPd) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Kodes](https://open.spotify.com/artist/3fnfvu19t4JYyEkRldXsO5), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Monument](https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI) | 3:23 | 2022-06-24 | 2022-07-16 |
 | [Ici c’est Toulouse](https://open.spotify.com/track/0D050w2EIJMwDAFPqh7IUQ) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/1DO9NnnNHJHstVla096ryH) | 3:03 | 2022-07-15 | 2022-08-13 |

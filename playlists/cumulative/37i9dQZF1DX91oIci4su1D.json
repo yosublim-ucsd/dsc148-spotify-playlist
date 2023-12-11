@@ -4344,6 +4344,28 @@
     {
       "album": {
         "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7bw0YFMIT3N4iT3P093Caj"
+      },
+      "artists": [
+        {
+          "name": "Marc Van Linden",
+          "url": "https://open.spotify.com/artist/2bnp0PzMRKZX5ZuPcgL0P9"
+        },
+        {
+          "name": "Abstract Vision",
+          "url": "https://open.spotify.com/artist/38ll04WO5aX23GmDvdneOr"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1NMLUxMIOdfH5ZwSJEVDMs"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
         "url": "https://open.spotify.com/album/28O6B1ua1KENELc9jh1otO"
       },
       "artists": [
@@ -7784,6 +7806,28 @@
       "duration_ms": 210967,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/3d62qyrB8lYUH480rtz7ev"
+    },
+    {
+      "album": {
+        "name": "Killer Zone",
+        "url": "https://open.spotify.com/album/3EGEGf6CmyAhvXJMpqXmNv"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        },
+        {
+          "name": "Lyd14",
+          "url": "https://open.spotify.com/artist/4ExXsMNYJjGYRV02EQnvKU"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216956,
+      "name": "Killer Zone",
+      "url": "https://open.spotify.com/track/17yDqFqMZpy3fpDH67GKbD"
     },
     {
       "album": {
@@ -12288,7 +12332,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 229130,
       "name": "Run Into Better Times",
       "url": "https://open.spotify.com/track/1Pnup2MWt4ROMYTfrsOnAg"
@@ -13636,7 +13680,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 233030,
       "name": "Starship",
       "url": "https://open.spotify.com/track/04ted2YPfm40Peb2pC9CyD"

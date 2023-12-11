@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-124 songs - 7 hr 21 min
+125 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Facetime](https://open.spotify.com/track/2tEIpLMEMAYXfBSXrqs89p) | [LAXX](https://open.spotify.com/artist/2kDv96OSt2CHxn9zx3pBwx) | [Facetime](https://open.spotify.com/album/4Dxbt4m9TKVhUx5YouFxNj) | 3:39 | 2021-10-28 |  |
 | [Frankenstein's Fury](https://open.spotify.com/track/10rmDaJ80PXKTN4BINMfh6) | [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr) | [Frankenstein's Fury](https://open.spotify.com/album/3l6DpMg71tQ15zQYfxbRF1) | 2:59 | 2022-10-07 |  |
 | [Fugue in D minor \- Spotify Singles](https://open.spotify.com/track/08ooPV5h25QXuoC6oerVuJ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Spotify Singles](https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS) | 4:45 | 2022-09-30 |  |
-| [Ghost Voices](https://open.spotify.com/track/7ipGvvE90ROUNFw7ZBXBTO) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 4:26 | 2021-10-28 |  |
+| [Ghost Voices](https://open.spotify.com/track/3A02f2nXSbpeY9uXHi7oMi) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/5xNtL2BsCZI9cSx0Zzd3J0) | 4:26 | 2023-10-31 |  |
+| [Ghost Voices](https://open.spotify.com/track/7ipGvvE90ROUNFw7ZBXBTO) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 4:26 | 2021-10-28 | 2023-12-11 |
 | [Ghostbusters](https://open.spotify.com/track/1Yhxmnxo9C5g6rYkM5FRUM) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Ghostbusters](https://open.spotify.com/album/3vpc3fW5djJuuaF0588LHV) | 2:26 | 2022-10-28 |  |
 | [Ghosts](https://open.spotify.com/track/5UALpuD8gWsDQwEnVXyuug) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Ghosts](https://open.spotify.com/album/7AVSiVc6v0OR4aulmhxGro) | 2:40 | 2021-10-28 |  |
 | [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 | 2021-10-28 | 2023-07-29 |

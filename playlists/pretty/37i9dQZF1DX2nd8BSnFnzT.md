@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,445 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,452 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 5 | [A Mosca \- Garage](https://open.spotify.com/track/2yQNNjtrix1rEodkJrCLqa) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Dog Murras](https://open.spotify.com/artist/5yLebnsC6CZ5jkxkP08py5), [Vandal](https://open.spotify.com/artist/4HnqLhzPvFcIac2mf5YPo8) | [A Mosca \(Garage\)](https://open.spotify.com/album/29aP7T6Qdmo7ttRbRLFKeX) | 3:42 |
 | 6 | [Depois Das Seis](https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Depois das Seis](https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3) | 3:00 |
 | 7 | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd) | 3:14 |
-| 8 | [Outro Lugar \- Ao Vivo](https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [20 Anos \- Acústico](https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw) | 4:14 |
+| 8 | [Outro Lugar \(feat\. Badauí\) \- Ao Vivo](https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [20 Anos \- Acústico](https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw) | 4:14 |
 | 9 | [Culpa](https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Conflitos](https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7) | 3:04 |
 | 10 | [Espelho](https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Espelho](https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw) | 2:11 |
 | 11 | [PURGATÓRIO](https://open.spotify.com/track/3CrwV01FCQHHsSvEX1XOWt) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VÊNUS≠netuno](https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Inabalável](https://open.spotify.com/track/3972PNho0RmiNcpIm6hcYn) | [Mattilha](https://open.spotify.com/artist/1p5k3q7GkTTeSI3dundiSU) | [Inabalável](https://open.spotify.com/album/6PG3v6BBWyDyDR3BgBqXgw) | 4:23 |
 | 75 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 |
 
-Snapshot ID: `MCwyYTJkMzMwZDVhZTFkMDI3YmVlZTczOTc0YmYzMGU3MWFkOTMxODlk`
+Snapshot ID: `MCxmZjFiYjZlN2NjMzg2ZWM0NmE0NTAzOTdiOWYzZmQ2MDE3ZTk2MjBm`

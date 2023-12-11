@@ -4,7 +4,7 @@
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-329 songs - 16 hr 51 min
+330 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Flexa](https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Flexa](https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR) | 3:18 | 2023-03-03 | 2023-05-27 |
 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 | 2023-08-22 | 2023-12-07 |
 | [Forma de Ser](https://open.spotify.com/track/7eRwcu9IjN4AmmYb8MKILo) | [Krofon](https://open.spotify.com/artist/4Esx64oaFV1013SafhyEpR), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [Forma de Ser](https://open.spotify.com/album/5HA8gT8huIiB96MVgBotIU) | 2:49 | 2023-12-06 |  |
-| [freak](https://open.spotify.com/track/16xldbcXGr6ipC3pHvlcQ5) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [r u missing](https://open.spotify.com/album/1JC06HUJLcl40hRtZxfwLY) | 2:32 | 2023-12-06 |  |
+| [freak](https://open.spotify.com/track/16xldbcXGr6ipC3pHvlcQ5) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [r u missing](https://open.spotify.com/album/1JC06HUJLcl40hRtZxfwLY) | 2:32 | 2023-12-06 | 2023-12-11 |
+| [freak](https://open.spotify.com/track/1sPrKOJyjhFKGJdwaHvzZQ) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [mundo dulce](https://open.spotify.com/album/1Vbm9eKF88bWRkPNNz8uC1) | 2:32 | 2023-12-06 |  |
 | [Fría](https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5) | [Fría](https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc) | 2:26 | 2023-12-06 |  |
 | [Funeral](https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Funeral](https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA) | 3:14 | 2023-03-31 | 2023-05-27 |
 | [Futuro](https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Futuro](https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf) | 4:02 | 2023-03-03 | 2023-05-27 |
@@ -336,6 +337,6 @@
 | [¿CÓMO TE LO EXPLICO?](https://open.spotify.com/track/67wSCJJ91eyI1aS4AjLYkW) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:01 | 2023-08-18 | 2023-09-09 |
 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 | 2023-03-07 | 2023-05-27 |
 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 | 2023-12-06 |  |
-| [¿Qué Nos Pasó?](https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD) | [¿Qué Nos Pasó?](https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ) | 3:59 | 2023-12-06 |  |
+| [¿Qué Nos Pasó?](https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Nos Pasó?](https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ) | 3:59 | 2023-12-06 |  |
 
 \*This playlist was first scraped on 2022-09-16. Prior content cannot be recovered.

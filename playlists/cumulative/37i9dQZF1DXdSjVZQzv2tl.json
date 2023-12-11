@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Guilherme & Benuto, Simone Mendes",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Israel & Rodolffo, Mc Don Juan, Jo\u00e3o Gomes",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -230,10 +230,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 144307,
       "name": "AMBIENTE ERRADO - Ao Vivo",
       "url": "https://open.spotify.com/track/2nfnhFDhwMet9yZodpGfn3"
+    },
+    {
+      "album": {
+        "name": "LUAN CITY 2.0 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144307,
+      "name": "AMBIENTE ERRADO - Ao Vivo",
+      "url": "https://open.spotify.com/track/7blC5LzebSn2A64Kn4XXMP"
     },
     {
       "album": {
@@ -256,6 +274,24 @@
       "duration_ms": 169297,
       "name": "Amor N\u00e3o D\u00e1 Em Copo - Ao Vivo",
       "url": "https://open.spotify.com/track/0GTUqRzwAacEI5Pll8YlBA"
+    },
+    {
+      "album": {
+        "name": "Anestesiado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172548,
+      "name": "Anestesiado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8"
     },
     {
       "album": {
@@ -394,7 +430,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 164383,
       "name": "Basiquinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI"
@@ -434,7 +470,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 171007,
       "name": "Beijo de Glicose - Ao Vivo",
       "url": "https://open.spotify.com/track/6gyhp7IcNhTYzwlk8utsgP"
@@ -1278,7 +1314,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 148800,
       "name": "Eu Gosto Assim - Ao Vivo",
       "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
@@ -1535,6 +1571,28 @@
     },
     {
       "album": {
+        "name": "Jb&V 21 In Concert, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2QBGxpW0DghBTheXIT5ozx"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vinicius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209802,
+      "name": "Fim da Noite - Ao Vivo",
+      "url": "https://open.spotify.com/track/6rKwnVo6wuXk0egEls9kSD"
+    },
+    {
+      "album": {
         "name": "Debaixo Do Meu Telhado",
         "url": "https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg"
       },
@@ -1550,6 +1608,28 @@
       "duration_ms": 183413,
       "name": "Foi P\u00e1 Pum",
       "url": "https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp"
+    },
+    {
+      "album": {
+        "name": "Boiadeira Internacional: Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hLKGp4sfW7wmW9cjXphLb"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166189,
+      "name": "Fronteira - Ao Vivo",
+      "url": "https://open.spotify.com/track/12G0KiYRpmpDOrube9GCa5"
     },
     {
       "album": {
@@ -1833,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "LUAN CITY 2.0 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175468,
+      "name": "MEIO TERMO - Ao Vivo",
+      "url": "https://open.spotify.com/track/23IebZSNZ8VzwUr4rJNGRG"
+    },
+    {
+      "album": {
         "name": "LUAN CITY 2.0 - FASE 1",
         "url": "https://open.spotify.com/album/4dQAevCwvaHURvvM1ddXwM"
       },
@@ -1844,7 +1942,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 175468,
       "name": "MEIO TERMO - Ao Vivo",
       "url": "https://open.spotify.com/track/4zUFA8l78k4tCmoVuGtV8z"
@@ -2076,10 +2174,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 190293,
       "name": "MULHER SEGURA - Ao Vivo",
       "url": "https://open.spotify.com/track/0KhLYwYVhi13hMhxX73m55"
+    },
+    {
+      "album": {
+        "name": "LUAN CITY 2.0 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "MULHER SEGURA - Ao Vivo",
+      "url": "https://open.spotify.com/track/6S44vghJxOzBM2dwG10KBR"
     },
     {
       "album": {
@@ -2337,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Recomendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/38P68ZCxri4SUQXSK15CxW"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141216,
+      "name": "N\u00e3o Recomendo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ssTFuVeNJG8py5dr2P2pV"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Sei o Que L\u00e1",
         "url": "https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye"
       },
@@ -2399,6 +2533,28 @@
     },
     {
       "album": {
+        "name": "Oceano (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1biMVdDkmu2a2foDbME6y3"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174105,
+      "name": "Oceano - Ao Vivo",
+      "url": "https://open.spotify.com/track/0EhGgIoOPjsqfB2ktrGgJd"
+    },
+    {
+      "album": {
         "name": "Oficializar (Ao Vivo)",
         "url": "https://open.spotify.com/album/2pU9UzS827vpfB5NHy7N4t"
       },
@@ -2414,7 +2570,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 167514,
       "name": "Oficializar - Ao Vivo",
       "url": "https://open.spotify.com/track/5eID9KNVJV2fDSPQGzQHQg"
@@ -2476,7 +2632,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 183694,
       "name": "Pactos - Ao Vivo",
       "url": "https://open.spotify.com/track/2M4kQD87lKnAS9vFlb4Bez"
@@ -2722,7 +2878,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178251,
-      "name": "Quase Algo - Ao Vivo",
+      "name": "Quase Algo - Ao Vivo Em Nova Iorque / 2022",
       "url": "https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP"
     },
     {
@@ -2862,7 +3018,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 168840,
       "name": "Seu Brilho Sumiu - Ao Vivo",
       "url": "https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN"
@@ -2882,7 +3038,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192437,
-      "name": "Seu Erro - Ao Vivo",
+      "name": "Seu Erro - Ao Vivo Em Nova Iorque / 2022",
       "url": "https://open.spotify.com/track/6tGlPVCrjerAAbKJs85m5g"
     },
     {
@@ -2898,7 +3054,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 194582,
       "name": "Solteiro For\u00e7ado - Boiadeira Internacional",
       "url": "https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR"
@@ -3094,6 +3250,28 @@
       "duration_ms": 171712,
       "name": "Todo Seu - Ao Vivo",
       "url": "https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq"
+    },
+    {
+      "album": {
+        "name": "Torce o Olho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4iDEMrwkGMQ6LpdbdTnLGy"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167551,
+      "name": "Torce o Olho - Ao Vivo",
+      "url": "https://open.spotify.com/track/6PXyRQ9Q0eNlLGsI6GxiYX"
     },
     {
       "album": {
@@ -3344,6 +3522,24 @@
       "duration_ms": 154662,
       "name": "Voc\u00ea Beberia Ou N\u00e3o Beberia?",
       "url": "https://open.spotify.com/track/4P7IXYPAkinTdZrBF5bGWp"
+    },
+    {
+      "album": {
+        "name": "To Be (Ao Vivo Em Nova Iorque EP3)",
+        "url": "https://open.spotify.com/album/0o2dcSIEUJlFNFjRk4VPwV"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164201,
+      "name": "Voc\u00ea Vai Ser Fiel - Ao Vivo Em Nova Iorque / 2022",
+      "url": "https://open.spotify.com/track/4TVPiACLzxgDjmkwaabMxs"
     },
     {
       "album": {

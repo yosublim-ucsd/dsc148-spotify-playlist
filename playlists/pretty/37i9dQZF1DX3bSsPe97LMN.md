@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Grupo TMB en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,808 likes - 89 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,807 likes - 89 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 24 | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE) | 3:18 |
 | 25 | [MM](https://open.spotify.com/track/1IxTNg2s3WvWUiW271iDFv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [MM](https://open.spotify.com/album/3vHvCoOUhQRogW4IlqV3jp) | 2:48 |
 | 26 | [Mil Pedazos](https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:01 |
-| 27 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
-| 28 | [Normal](https://open.spotify.com/track/7zW4YRpp2nzhdbaPNG3WcL) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Normal](https://open.spotify.com/album/7kRqoAgwxx9miEyVIfoqBS) | 3:02 |
+| 27 | [Normal](https://open.spotify.com/track/7zW4YRpp2nzhdbaPNG3WcL) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Normal](https://open.spotify.com/album/7kRqoAgwxx9miEyVIfoqBS) | 3:02 |
+| 28 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
 | 29 | [Soy El Único \- Spotify Singles](https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:47 |
 | 30 | [Buenas Vibras](https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Buenas Vibras](https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco) | 2:09 |
 | 31 | [Una Rosa Blanca](https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Una Rosa Blanca](https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o) | 3:20 |
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 42 | [Lo Obvio](https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Lo Obvio](https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi) | 2:20 |
 | 43 | [Morrito \- Remix](https://open.spotify.com/track/2NrpQHe6eeh65X4dzKiPHB) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Morrito \(Remix\)](https://open.spotify.com/album/5VZTVTe2FcDkVY72KRpGQv) | 3:25 |
 | 44 | [Perfecto](https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Perfecto](https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na) | 2:32 |
-| 45 | [Normal](https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Jupiter](https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K) | 3:02 |
-| 46 | [Sal](https://open.spotify.com/track/7xRI4RckSJk8uJIJ8o6KlS) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Sal](https://open.spotify.com/album/41oaDCSgz0dm75je22VRME) | 2:44 |
+| 45 | [Sal](https://open.spotify.com/track/7xRI4RckSJk8uJIJ8o6KlS) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Sal](https://open.spotify.com/album/41oaDCSgz0dm75je22VRME) | 2:44 |
+| 46 | [Normal](https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Jupiter](https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K) | 3:02 |
 | 47 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/38gCWM721Yetzyd4cc3quv) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/7r0ntv8Os7uQksoHTjrczw) | 3:21 |
-| 48 | [EL CHAPULÍN](https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel) | [ARRIOLA](https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked) | [NO HAY NADA MÁS](https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC) | 2:30 |
-| 49 | [Todas Son Iguales](https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Todas Son Iguales](https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj) | 2:35 |
-| 50 | [Corazón](https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd) | [Los Luna](https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC) | [Corazón](https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe) | 3:03 |
-| 51 | [Sin Escalas](https://open.spotify.com/track/6hoC511JZk2gaDBSSDV7UP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/1daB1drE8UKC2vbKDGadJX) | 2:20 |
-| 52 | [Tiempo](https://open.spotify.com/track/6Y7N2iPTtfTy5WMJivwYdX) | [Los Del Momento](https://open.spotify.com/artist/0JEQwqiLH4duEyXPCldsfS) | [Tiempo](https://open.spotify.com/album/4X4pNm2ByzuQrE6N0eGUEH) | 2:57 |
+| 48 | [Todas Son Iguales](https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Todas Son Iguales](https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj) | 2:35 |
+| 49 | [Corazón](https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd) | [Los Luna](https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC) | [Corazón](https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe) | 3:03 |
+| 50 | [EL CHAPULÍN](https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel) | [ARRIOLA](https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked) | [NO HAY NADA MÁS](https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC) | 2:30 |
+| 51 | [Tiempo](https://open.spotify.com/track/6Y7N2iPTtfTy5WMJivwYdX) | [Los Del Momento](https://open.spotify.com/artist/0JEQwqiLH4duEyXPCldsfS) | [Tiempo](https://open.spotify.com/album/4X4pNm2ByzuQrE6N0eGUEH) | 2:57 |
+| 52 | [Sin Escalas](https://open.spotify.com/track/6hoC511JZk2gaDBSSDV7UP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/1daB1drE8UKC2vbKDGadJX) | 2:20 |
 | 53 | [Frío](https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Frío](https://open.spotify.com/album/47I5OpIC5kzWFrEKXM3I2V) | 2:55 |
 | 54 | [La Plebada](https://open.spotify.com/track/1yGQ5WHIaLboYVm5IRjT0w) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [La Plebada](https://open.spotify.com/album/2RhK9R4I6t8bdacMbu5Qt6) | 2:21 |
 | 55 | [Solo](https://open.spotify.com/track/4ffEwH5xuTvAjqDRkdCYdp) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Solo](https://open.spotify.com/album/0g4HdaQjNybjGfYPevA1Vz) | 2:55 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 88 | [Malditas Ganas](https://open.spotify.com/track/3vVz8W2SZaMTS1DOunlDen) | [Hendry El Mero Mero](https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP) | [Malditas Ganas](https://open.spotify.com/album/3N9wgCOFhkKkQ0KMfBdhjX) | 3:16 |
 | 89 | [Toro Relajo](https://open.spotify.com/track/1N6XCVkEpYzLbKsO2BZt7P) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Toro Relajo](https://open.spotify.com/album/6IluN3tRW1DIQg9mAOQI4q) | 3:38 |
 
-Snapshot ID: `MCxiZTdkZTJhNDhlMTc5ZThlZThhYWVkNDE0OTAxNjYwOGJiZGY3NzFj`
+Snapshot ID: `MCwxMjcyMDJmZTgzYzNmODU1NTY0YjE0MzZlM2QzNTYzYmZkZjA2NWIw`

@@ -1384,7 +1384,7 @@
     {
       "album": {
         "name": "Outside Voices",
-        "url": "https://open.spotify.com/album/0Pesak1vor7VVB7IbKmcgY"
+        "url": "https://open.spotify.com/album/7DT8NAqpr0uDrUgqBQgntS"
       },
       "artists": [
         {
@@ -1395,6 +1395,24 @@
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226559,
+      "name": "Subway Train",
+      "url": "https://open.spotify.com/track/1pIuRfOebAwqhA15gB9ni2"
+    },
+    {
+      "album": {
+        "name": "Outside Voices",
+        "url": "https://open.spotify.com/album/0Pesak1vor7VVB7IbKmcgY"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
       "duration_ms": 226559,
       "name": "Subway Train",
       "url": "https://open.spotify.com/track/42FFOjM6H3ISwFIZNO3IE5"

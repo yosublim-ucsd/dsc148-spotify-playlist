@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 10576,
+  "num_followers": 10582,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWJmZjRhZTMxMjFmMTNiOTUzNTAxOTZjZjU1M2NjNWY3MjYzZDYw",
+  "snapshot_id": "MCxjMDViY2I0MmYwNzcxMGRkMzM1NTA5M2RkY2UzNTViMGNlYjg1NzFk",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Rock The Box",
-        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
-      },
-      "artists": [
-        {
-          "name": "Vermelho",
-          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
-        },
-        {
-          "name": "Ivana Wonder",
-          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
-        }
-      ],
-      "duration_ms": 382204,
-      "name": "Rock The Box - Original",
-      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Kengaral Eletrohits, Vol. 2",
         "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 665738,
       "name": "Espinheira Santa",
       "url": "https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Rock The Box",
+        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+      },
+      "artists": [
+        {
+          "name": "Vermelho",
+          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
+        },
+        {
+          "name": "Ivana Wonder",
+          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+        }
+      ],
+      "duration_ms": 382204,
+      "name": "Rock The Box - Original",
+      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Corpo",
-        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
-      },
-      "artists": [
-        {
-          "name": "Gezender",
-          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 303161,
-      "name": "Corpo Fechado",
-      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Ch\u00e1 de trombeta",
         "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 420000,
       "name": "Ch\u00e1 de trombeta",
       "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Corpo",
+        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
+      },
+      "artists": [
+        {
+          "name": "Gezender",
+          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 303161,
+      "name": "Corpo Fechado",
+      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "V.Acina, Vol.1",
+        "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
+      },
+      "artists": [
+        {
+          "name": "Brisa Busters",
+          "url": "https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP"
+        }
+      ],
+      "duration_ms": 396922,
+      "name": "Eu Vou Surfar Na Pista",
+      "url": "https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Conexao Riocife",
         "url": "https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 304098,
       "name": "Baile do Tai Tai",
       "url": "https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "V.Acina, Vol.1",
-        "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
-      },
-      "artists": [
-        {
-          "name": "Brisa Busters",
-          "url": "https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP"
-        }
-      ],
-      "duration_ms": 396922,
-      "name": "Eu Vou Surfar Na Pista",
-      "url": "https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL"
     }
   ],
   "unique_name": "Front BR",

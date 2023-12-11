@@ -4,7 +4,7 @@
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
-184 songs - 11 hr 2 min
+185 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,12 +43,13 @@
 | [Don't Matter \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3yyWyHmynAWWCPASifJ7Ev) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj) | 3:09 | 2022-03-09 |  |
 | [Don't Matter \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4a00SVbdG6saNqRJlC4XKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:09 | 2021-10-21 | 2022-10-13 |
 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2021-10-21 |  |
-| [Doo Wop \(That Thing\) \- Spotify Singles](https://open.spotify.com/track/0D9OkPTPIn9QkDucglW4DS) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Spotify Singles](https://open.spotify.com/album/6cZYUit3dBM00CccH1WNAZ) | 4:55 | 2023-11-07 |  |
+| [Doo Wop \(That Thing\) \- Spotify Singles](https://open.spotify.com/track/0D9OkPTPIn9QkDucglW4DS) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Spotify Singles](https://open.spotify.com/album/6cZYUit3dBM00CccH1WNAZ) | 4:55 | 2023-11-07 | 2023-12-11 |
+| [Doo Wop \(That Thing\) \- Spotify Singles](https://open.spotify.com/track/17wO4MVncoihafFeQ1Su7o) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Spotify Singles](https://open.spotify.com/album/6hT8SzWxxk6skgXDAa7cVG) | 4:55 | 2023-11-07 |  |
 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 | 2021-10-21 |  |
 | [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2e9FxyGISHtOxXdKHTw8QP) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:31 | 2022-03-09 | 2023-04-29 |
 | [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:31 | 2023-01-11 |  |
 | [Echo \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2d7lM2tUbVZbfOvmJFn4pw) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:31 | 2021-10-21 | 2022-07-29 |
-| [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 | 2021-10-21 |  |
+| [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 | 2021-10-21 | 2023-12-11 |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-10-21 |  |
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5) | 4:25 | 2022-03-09 |  |
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 | 2021-10-21 | 2022-07-29 |
@@ -56,7 +57,7 @@
 | [Ex\-Factor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5EfIJ2ElBG4R1COH0Y6OHZ) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3JbrnUMiO5gRtb5jOxEk8r) | 6:11 | 2022-03-09 | 2022-07-29 |
 | [Family Man \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1CzZkpQZp9kr0faBwScA0i) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 3:28 | 2021-10-21 | 2022-07-29 |
 | [Fear Of Being Alone \- Alternate Version](https://open.spotify.com/track/7aNtmcPpreJpoSpLWwa5Ef) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 2:38 | 2021-10-21 | 2022-07-29 |
-| [Feels \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3ZQ7nkVPz3DcFMpsp47e8m) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Spotify Singles](https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t) | 1:35 | 2022-03-09 | 2023-11-11 |
+| [Feels \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3ZQ7nkVPz3DcFMpsp47e8m) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Spotify Singles](https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t) | 1:35 | 2022-03-09 |  |
 | [Flume \- Spotify Singles](https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Spotify Singles](https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j) | 3:51 | 2022-03-09 |  |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-03-09 |  |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/5PTYfTSOaDdpJWV5u8MBWT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/4g4c2rJ1Jwipxrvl568KtG) | 3:24 | 2021-10-21 | 2022-07-29 |

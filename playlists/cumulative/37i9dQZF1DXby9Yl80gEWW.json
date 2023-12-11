@@ -113,6 +113,40 @@
     },
     {
       "album": {
+        "name": "Indoor Vistas",
+        "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
+      },
+      "artists": [
+        {
+          "name": "Ethan Sherman",
+          "url": "https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse"
+        },
+        {
+          "name": "Thomas Cassell",
+          "url": "https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa"
+        },
+        {
+          "name": "Matthew Davis",
+          "url": "https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26"
+        },
+        {
+          "name": "Avery Merritt",
+          "url": "https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku"
+        },
+        {
+          "name": "Tim McNalley",
+          "url": "https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237768,
+      "name": "And Then, And Then, And Then",
+      "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
+    },
+    {
+      "album": {
         "name": "Appalachian Picking Society",
         "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
       },
@@ -400,7 +434,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 257939,
       "name": "Battersea Skillet Liquor",
       "url": "https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F"
@@ -1072,7 +1106,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 200768,
       "name": "Chemical Plant Zone",
       "url": "https://open.spotify.com/track/3pIgBGEeDs9wVlHJVqiv33"
@@ -4510,7 +4544,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 203621,
       "name": "Wellington",
       "url": "https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF"

@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 201637,
       "name": "care about u",
       "url": "https://open.spotify.com/track/4jZlOF64flGokeFKZFeK6o"
@@ -4103,6 +4103,28 @@
     },
     {
       "album": {
+        "name": "Level Up (feat. Scrufizzer)",
+        "url": "https://open.spotify.com/album/3RIW263kHZvpyYk3ZrCALC"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Gartner",
+          "url": "https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180629,
+      "name": "Level Up (feat. Scrufizzer)",
+      "url": "https://open.spotify.com/track/3VFtHmvmClUSOp9kWrx4RA"
+    },
+    {
+      "album": {
         "name": "Look at the Sky",
         "url": "https://open.spotify.com/album/1BEsCHUcX6slXc4N957W2y"
       },
@@ -4806,7 +4828,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 238870,
       "name": "Musician",
       "url": "https://open.spotify.com/track/6AIMGwDREa86WOdxIQj2S7"
@@ -6398,7 +6420,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 218964,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2CgOd0Lj5MuvOqzqdaAXtS"

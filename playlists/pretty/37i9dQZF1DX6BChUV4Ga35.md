@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,712 likes - 85 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,732 likes - 85 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,6 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 | 82 | [Say Hi to the Animals](https://open.spotify.com/track/0zjtrZUxd3h2R0uyI0xfVZ) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Happy Lemons](https://open.spotify.com/album/3BxUa5Rt3dtxwBY4tDhQz3) | 2:24 |
 | 83 | [I've Got A Goat](https://open.spotify.com/track/5aOmYquQylHT2GhJ5TjSu6) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [Tag, You're It!](https://open.spotify.com/album/5O0lrEav82bSTfEbcl37h3) | 2:16 |
 | 84 | [Wild and Free](https://open.spotify.com/track/3LLrYsa09Us4UFAtVJggsy) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Wild and Free](https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI) | 3:02 |
-| 85 | [Bug Out](https://open.spotify.com/track/5YY2Em0TLlczXmkTsuwKj6) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3) | 4:04 |
+| 85 | [Bug Out](https://open.spotify.com/track/3QUfPDdx2scGtqqXhN4JU3) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7cHCMYnkFDgLT0uQ4sAMWl) | 4:04 |
 
-Snapshot ID: `MCwxYjAyN2YyOTk3MDc4NDAxNDFiNTBiMzFmMmNjNGYyZTE1N2YyYTk4`
+Snapshot ID: `MCw4ODk4ZGJhZmIyOWM5MzRjZjk4MmVmODE0OGNkODNkMjI1YjI3ODIx`

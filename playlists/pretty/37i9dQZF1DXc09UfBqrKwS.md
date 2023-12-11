@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc09UfBqrKwS.md) - [plain]
 
 > hora d hacer la meme
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,379 likes - 230 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,401 likes - 230 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

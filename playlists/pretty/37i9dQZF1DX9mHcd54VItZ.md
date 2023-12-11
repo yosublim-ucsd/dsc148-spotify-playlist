@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi?si=mzpc0FFRSMmhOyHHh\_XGng">RAAF</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,851 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,888 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 4 | [Terapie Vir Nou](https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Terapie Vir Nou](https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN) | 3:38 |
 | 5 | [INTERNET ROCKSTAR](https://open.spotify.com/track/2T7Lk6O1Op9IiYzGJQ4aXJ) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [INTERNET ROCKSTAR](https://open.spotify.com/album/2pCcEeO9WHERPNzdemOnVr) | 2:40 |
 | 6 | [Die Lig](https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r) | [Die Eindste](https://open.spotify.com/artist/6gqvpFp2YBWmoPR5LURl3k), [Danie Reënwolf](https://open.spotify.com/artist/7vvYumgXzUPBNnwXtajb08) | [Die Lig](https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk) | 5:17 |
-| 7 | [Remembrance](https://open.spotify.com/track/0TFdmmMFx0KtMThDCnINHP) | [Flat Stanley](https://open.spotify.com/artist/2N30x8D6x2qXCI8dr7s0J2), [Mac Stanley](https://open.spotify.com/artist/72yw92ZbF6erG4xPviBX2R) | [Remembrance](https://open.spotify.com/album/6AX7duuUmGSxA2GV0QdsTh) | 4:03 |
+| 7 | [Remembrance](https://open.spotify.com/track/0TFdmmMFx0KtMThDCnINHP) | [Flat Stanley](https://open.spotify.com/artist/2N30x8D6x2qXCI8dr7s0J2), [Macstanley](https://open.spotify.com/artist/4VOGc6FGlWQLdrM7GYN4en) | [Remembrance](https://open.spotify.com/album/6AX7duuUmGSxA2GV0QdsTh) | 4:03 |
 | 8 | [Vakansie Vir My Siel](https://open.spotify.com/track/1lJ44Qfd4jmcpxzUMRaGoU) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Vakansie Vir My Siel](https://open.spotify.com/album/3lkkoC0gKDx7uplWEymzAk) | 4:21 |
 | 9 | [Twak In Die Sak](https://open.spotify.com/track/0kBHPLX0L9okVxNzaBOhW1) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Twak In Die Sak](https://open.spotify.com/album/4sQIxY95sJP8RyIx17tVsh) | 2:28 |
 | 10 | [Shadow Fiend](https://open.spotify.com/track/080JBnOECwq62d9KOSoYFD) | [Crash And The Void](https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo) | [Shadow Fiend](https://open.spotify.com/album/2D6QcBj0AN3i3E0YUeoZFd) | 4:48 |

@@ -7674,7 +7674,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 297000,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/5VVWgWH8HFLAtM8lbttvn9"
@@ -8146,6 +8146,24 @@
       "duration_ms": 194253,
       "name": "The Ghost of You",
       "url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL"
+    },
+    {
+      "album": {
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "The Good Left Undone",
+      "url": "https://open.spotify.com/track/3Effll2C7OnP2isgbVPJje"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: The Jesus and Mary Chain
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,415 likes - 105 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,534 likes - 105 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 104 | [iwantuall4me](https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [iwantuall4me](https://open.spotify.com/album/4KZ5IYrCfL2R2vNX3wga8F) | 3:58 |
 | 105 | [Bloom](https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Bloom](https://open.spotify.com/album/76LGx54WGptsGBHL497A3k) | 2:19 |
 
-Snapshot ID: `MCwyNzMwMTc1NzU2MzVkNTI4MWQyMjhkNmI3ZWM1NzllZjA1M2M3OTEz`
+Snapshot ID: `MCxiNDc4Y2Y1ZWU0MjdiODA4YWE1ZmM4YjU0NDgyNzYxNGNiMmI1MDFi`

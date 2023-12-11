@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
-143 songs - 9 hr 53 min
+145 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,9 +147,11 @@
 | [Vaarkadal](https://open.spotify.com/track/457AZM8fq9yR2yRfRRrD9N) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Vaarkadal](https://open.spotify.com/album/2TYy2MAcm8czR5fXD1Ayxp) | 4:25 | 2023-10-10 |  |
 | [Varav](https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [$obin](https://open.spotify.com/artist/3GrYRWOQlcY1qs48diMppb) | [Varav](https://open.spotify.com/album/7upuJEyMJJzQAtvJGirH1r) | 3:07 | 2023-05-26 | 2023-07-28 |
 | [Vettam](https://open.spotify.com/track/11CrYElJH7l26yy5Tb5Ihy) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Vettam](https://open.spotify.com/album/3wfiH7VqV5yXoU6eZLWZEy) | 3:32 | 2023-10-10 |  |
+| [Vettam Reprised](https://open.spotify.com/track/1VKqe5jwgqdmFLkxxTdx4x) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Vettam Reprised](https://open.spotify.com/album/1YowHOWsfSiRVrgWFI05n4) | 3:11 | 2023-12-10 |  |
 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 | 2023-08-03 |  |
 | [When Nature Calls](https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [When Nature Calls](https://open.spotify.com/album/1MraQsbPfSly4llApBNHae) | 5:12 | 2023-08-03 |  |
 | [Yaanam](https://open.spotify.com/track/2k0m3S5y6J3RPBEwrYAHrU) | [Sangeeth Vijayan](https://open.spotify.com/artist/2TPRb7Pr2jsn9U2QL9RQut) | [Yaanam](https://open.spotify.com/album/2MN3tPfDAg2PsBBb78uLCs) | 3:20 | 2023-11-06 |  |
 | [Yathra](https://open.spotify.com/track/7nZxElNcOuVrsAjw7Um0IE) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/0AMVYu01sebX3Sba3AS9J9) | 3:05 | 2023-10-10 |  |
+| [Yele](https://open.spotify.com/track/2k1pxoTf0NjqlFvyyKm9gT) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T) | [Yele](https://open.spotify.com/album/6Imawk8CVUyCxZjU8fm9Ka) | 4:52 | 2023-12-10 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

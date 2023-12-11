@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-56 songs - 4 hr 23 min
+57 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AntiSystem's](https://open.spotify.com/track/3ixFouonAtRdwg4FiVN9z9) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [AntiSystem's](https://open.spotify.com/album/5rLvwX10c9pwbRqzoqenCC) | 3:31 | 2022-10-09 |  |
 | [Ashura\-chan](https://open.spotify.com/track/5N9wLoOxkCZcNhxRdMG70W) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:15 | 2022-10-09 |  |
 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 | 2022-10-09 |  |
+| [Buriki No Dance](https://open.spotify.com/track/1tf23ctEJtmWpCoMwVwFLF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Buriki No Dance](https://open.spotify.com/album/434XGVb26I50AvHTKdwAYk) | 3:19 | 2023-11-28 |  |
 | [DIGNITY](https://open.spotify.com/track/1BDCBbdTDQo3JxC0kVDSqP) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [DIGNITY](https://open.spotify.com/album/0yeSKha3HfhzdjVNnrqLks) | 4:12 | 2023-09-18 |  |
 | [Domestic De Violence](https://open.spotify.com/track/3uC62LIuJjBH7Ya8xLfcTi) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 2:38 | 2022-10-09 |  |
 | [Eat](https://open.spotify.com/track/6G7lmaVhweBRsn3sniKvme) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Eat](https://open.spotify.com/album/0GP5ShEt1o6H7y3izn2G4G) | 3:24 | 2022-10-09 |  |

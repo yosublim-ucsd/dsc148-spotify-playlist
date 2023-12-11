@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 207099,
+  "num_followers": 207225,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjEzMDQzNDgzNDdlYzJhMzkzYjFmMGRmMGVkOGFiN2IwNTc1YjYz",
+  "snapshot_id": "MCw0YWI3NzNlNjFmODI0MGNiZjBkMDQzZWU5YTYyODA4YmQ3NTFmMDc3",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Music for Awkward Dates",
-        "url": "https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk"
-      },
-      "artists": [
-        {
-          "name": "strxwberrymilk",
-          "url": "https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1"
-        }
-      ],
-      "duration_ms": 186257,
-      "name": "My Head Hurts",
-      "url": "https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Care",
         "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 67894,
       "name": "Hi",
       "url": "https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Music for Awkward Dates",
+        "url": "https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk"
+      },
+      "artists": [
+        {
+          "name": "strxwberrymilk",
+          "url": "https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1"
+        }
+      ],
+      "duration_ms": 186257,
+      "name": "My Head Hurts",
+      "url": "https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Somoku Hodo",
-        "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "Doku",
-      "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "TILT",
         "url": "https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 180048,
       "name": "DesktopBuddy",
       "url": "https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Somoku Hodo",
+        "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Doku",
+      "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71"
+        "name": "morrigan",
+        "url": "https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3"
       },
       "artists": [
         {
-          "name": "Drive45",
-          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
+          "name": "slaywitme",
+          "url": "https://open.spotify.com/artist/6iuyjc5Y2UTDG9htNrLAcw"
         }
       ],
-      "duration_ms": 175624,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx"
+      "duration_ms": 142839,
+      "name": "morrigan",
+      "url": "https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1"
     }
   ],
   "unique_name": "webcore",

@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 199217,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV"
@@ -2370,6 +2370,28 @@
       "duration_ms": 193720,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y"
+    },
+    {
+      "album": {
+        "name": "DISCO: Guest List Edition",
+        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193720,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/3yenE3U2DbvNyQcHZHTg1W"
     },
     {
       "album": {

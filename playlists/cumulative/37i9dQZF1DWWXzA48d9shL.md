@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: SXMPRA
 
-559 songs - 22 hr 6 min
+560 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,8 @@
 | [MUDD](https://open.spotify.com/track/0MEMJNYVMS7TBNgFzV1aVN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/2WwhmvIhoJ5FVzDPc2NuVH) | 2:21 | 2022-09-02 | 2023-10-20 |
 | [MUDD](https://open.spotify.com/track/5atfVRV16HQZTF8S6IuNWN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/1E4SvucOCxgyUiH5hU6BTH) | 2:21 | 2022-09-02 |  |
 | [Mundane](https://open.spotify.com/track/5JgqBNZilPgZLfOKlG939s) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [Mundane](https://open.spotify.com/album/3FcW66sYKdwQF3QyiLj9aC) | 3:00 | 2023-02-13 | 2023-05-06 |
-| [MY DAY IS RUINED !](https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/4awPNl06D2VWOKJW63of3n) | 2:13 | 2023-10-16 |  |
+| [MY DAY IS RUINED !](https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/4awPNl06D2VWOKJW63of3n) | 2:13 | 2023-10-16 | 2023-12-11 |
+| [MY DAY IS RUINED !](https://open.spotify.com/track/5DYpHAtMDShweH1zaYUXRQ) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [I HOPE YOU'RE HAPPY](https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p) | 2:13 | 2023-10-16 |  |
 | [MY DAY IS RUINED !](https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy) | 2:13 | 2023-10-16 | 2023-11-08 |
 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 | 2022-12-02 | 2023-04-15 |
 | [MYLAR](https://open.spotify.com/track/3Qw7LPrzt23bdQXMsguiyb) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [MYLAR](https://open.spotify.com/album/4Dv0bJQKXIOwcV30jhuNCc) | 2:52 | 2022-11-25 | 2023-08-05 |

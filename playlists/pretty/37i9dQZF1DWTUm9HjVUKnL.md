@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,906 likes - 918 songs - 2 day 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,910 likes - 918 songs - 2 day 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 156 | [MEMORIES! \- Spotify Singles](https://open.spotify.com/track/0rW8hItaLoHHtG2X29zeCT) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Spotify Singles](https://open.spotify.com/album/7fWDAcxnpxhia9dUifr81o) | 3:01 |
 | 157 | [Bad Reputation \- Spotify Singles](https://open.spotify.com/track/6qNRJFypNpGWhUhlR13ENJ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Spotify Singles](https://open.spotify.com/album/7fWDAcxnpxhia9dUifr81o) | 2:29 |
 | 158 | [GAY 4 ME \- Spotify Singles \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/4E1QNVcaLYlqyfjklxvwOK) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Spotify Singles](https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8) | 4:44 |
-| 159 | [Kiwi \- Spotify Singles](https://open.spotify.com/track/1b1rfsxSu3LqIVZjTWxZol) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Spotify Singles](https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8) | 2:57 |
+| 159 | [Kiwi \(Spotify Singles\)](https://open.spotify.com/track/6MJAkWFJZWiKllA78BuQf8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Spotify Singles](https://open.spotify.com/album/6EaUb1MYoaFWB3TiiSvJ61) | 2:57 |
 | 160 | [Teenage Dirtbag – Spotify Singles](https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Spotify Singles](https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU) | 3:06 |
 | 161 | [God Is A Freak – Spotify Singles](https://open.spotify.com/track/6RyyeVI5TvILuhzLQvuFv3) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Spotify Singles](https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU) | 2:58 |
 | 162 | [Love Sux – Spotify Singles](https://open.spotify.com/track/3ETIiuhw1yqp7ALasQPqdw) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Spotify Singles](https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV) | 2:54 |
@@ -758,8 +758,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 748 | [Don't Look Back in Anger \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 5:04 |
 | 749 | [Lay It on Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Spotify Singles](https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9) | 3:34 |
 | 750 | [You Can Call Me Al \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Spotify Singles](https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9) | 3:08 |
-| 751 | [Begin \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0q59zQZgCwEhwzzipPvWoZ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 4:02 |
-| 752 | [Friends \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 3:00 |
+| 751 | [Begin \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6l7LSKKYaWvZ8IXw3SM6vM) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/7DDDGdgST4NFAvtbCtrRWA) | 4:02 |
+| 752 | [Friends \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4p2bLiYJ59fvHWU2zbX81b) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/7DDDGdgST4NFAvtbCtrRWA) | 3:00 |
 | 753 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
 | 754 | [Black Beatles \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07MbSpXIjhoUzh0QBUM1J1) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:33 |
 | 755 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 |
@@ -927,4 +927,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 917 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 918 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCw2ZTAxNTM2ZDczN2E1OTRmMmE5ZGRhNjc5OTE1OGMwNjI0YTViMmZh`
+Snapshot ID: `MCxjNjhhNjZkY2EyNTA3NzE0ZTMxMTAyMDVkYjU4YzMzMjVmMzk1N2I1`

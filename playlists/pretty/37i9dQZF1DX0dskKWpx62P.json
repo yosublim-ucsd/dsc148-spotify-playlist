@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 38974,
+  "num_followers": 39007,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTM2YWE4ZmNmMjNhMDc3M2Y0MTRlZWJlZjkzNTRmZmMzMTcyNGY2",
+  "snapshot_id": "MCwzMjY5Y2Y4ODlmNDI2NTU4OTFjMTQxZWFmMWYxNTQxZmViOTcxZTY0",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -95,18 +95,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La Chinita del Amor",
-        "url": "https://open.spotify.com/album/564dCSiWqoKbYuCWIUUyu5"
+        "name": "Olvidame",
+        "url": "https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ"
       },
       "artists": [
         {
-          "name": "Yarita Lizeth Yanarico",
-          "url": "https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y"
+          "name": "String Karma",
+          "url": "https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx"
         }
       ],
-      "duration_ms": 353044,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/43AppGONaZENtN60Ez9Vyv"
+      "duration_ms": 265599,
+      "name": "Cajamarquina",
+      "url": "https://open.spotify.com/track/5tOCsVNHO1rEtC7KaP2v3E"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -127,18 +127,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Olvidame",
-        "url": "https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ"
+        "name": "La Chinita del Amor",
+        "url": "https://open.spotify.com/album/564dCSiWqoKbYuCWIUUyu5"
       },
       "artists": [
         {
-          "name": "String Karma",
-          "url": "https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx"
+          "name": "Yarita Lizeth Yanarico",
+          "url": "https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y"
         }
       ],
-      "duration_ms": 265599,
-      "name": "Cajamarquina",
-      "url": "https://open.spotify.com/track/5tOCsVNHO1rEtC7KaP2v3E"
+      "duration_ms": 353044,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/43AppGONaZENtN60Ez9Vyv"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Conjunto Condemayta de Acomayo",
-        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Cuerpo Soltero",
-      "url": "https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Los Errantes",
         "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 161933,
       "name": "Llanto por Llanto",
       "url": "https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Cuerpo Soltero",
+      "url": "https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huayno, Vol. 1",
-        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        }
-      ],
-      "duration_ms": 159520,
-      "name": "Chall Huaschallay",
-      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Cantares Huaracinos",
         "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 186360,
       "name": "Al Comp\u00e1s de Mi Guitarra",
       "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Huayno, Vol. 1",
+        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "Chall Huaschallay",
+      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "La princesa del Folklore",
+        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
+      },
+      "artists": [
+        {
+          "name": "Alicia Delgado",
+          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "D\u00f3nde Est\u00e1 tu Dinero",
+      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "De Colores",
         "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La princesa del Folklore",
-        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
+        "name": "El Jilguero de Huascar\u00e1n",
+        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
       },
       "artists": [
         {
-          "name": "Alicia Delgado",
-          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
+          "name": "Ernesto Sanchez Fajardo",
+          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
         }
       ],
-      "duration_ms": 270000,
-      "name": "D\u00f3nde Est\u00e1 tu Dinero",
-      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
+      "duration_ms": 181186,
+      "name": "Benditas las Madres",
+      "url": "https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -703,22 +719,6 @@
       "duration_ms": 290853,
       "name": "Nuestra Promesa",
       "url": "https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "El Jilguero de Huascar\u00e1n",
-        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Sanchez Fajardo",
-          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "Benditas las Madres",
-      "url": "https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La Reina de las Parranditas",
-        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
-      },
-      "artists": [
-        {
-          "name": "Abencia Meza",
-          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
-        }
-      ],
-      "duration_ms": 220708,
-      "name": "Cuanto Tiempo Sin Verte",
-      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "El Imperio de los Apus",
         "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 239853,
       "name": "Sirwana",
       "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "La Reina de las Parranditas",
+        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
+      },
+      "artists": [
+        {
+          "name": "Abencia Meza",
+          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "Cuanto Tiempo Sin Verte",
+      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Los Pacharacos",
-        "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
-      },
-      "artists": [
-        {
-          "name": "Los Pacharacos",
-          "url": "https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Chinita Ingrata",
-      "url": "https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Pastorita Huaracina",
         "url": "https://open.spotify.com/album/5zU5497KK5qMwEnZGlsf4b"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 188786,
       "name": "A los Filos de un Cuchillo",
       "url": "https://open.spotify.com/track/2zBNL2irMpvqj3DNJiUgUe"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Los Pacharacos",
+        "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
+      },
+      "artists": [
+        {
+          "name": "Los Pacharacos",
+          "url": "https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Chinita Ingrata",
+      "url": "https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB"
     },
     {
       "added_at": "2022-02-04 14:45:56",

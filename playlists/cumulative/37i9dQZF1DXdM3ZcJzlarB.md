@@ -4,11 +4,12 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Hernan Cattaneo
 
-101 songs - 11 hr 51 min
+105 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [38 & 46](https://open.spotify.com/track/58q8fCZzu1d7hkfeEazOSI) | [Baunder](https://open.spotify.com/artist/744syf9NAt7tUG1cXCiKog) | [Balance presents The Soundgarden \(Unmixed Version\)](https://open.spotify.com/album/6EbpbxMyd4PGHyn908dpYm) | 7:52 | 2020-09-04 | 2023-11-18 |
+| [A Bit More \- Edit](https://open.spotify.com/track/0xYmdP9DGSWP6Db4H6jLH0) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Trans\-formation](https://open.spotify.com/artist/563IiQDSACB86RMyhj2BMq) | [A Bit More](https://open.spotify.com/album/3xKAj9oBSoozdJbizqf2tm) | 4:58 | 2023-12-07 |  |
 | [Analog Ghosts \- Original Mix](https://open.spotify.com/track/2mKzqGh8lGQPfFv10eL3jS) | [Matias Chilano](https://open.spotify.com/artist/2LpqyWMwfJfzA0MWYONoLw) | [Red Line](https://open.spotify.com/album/4Fnum52nd6UfjW6fhz8EVr) | 7:30 | 2020-09-04 | 2023-11-18 |
 | [Apocalyptic Love](https://open.spotify.com/track/3hThqI5UeSRg5xiLkRn6H6) | [After Burn](https://open.spotify.com/artist/4qxOWkTfAz2n6UHllPAIKX) | [Apocalyptic Love](https://open.spotify.com/album/0cY0qRmL8wmJZ4xWpjF4yP) | 7:32 | 2020-09-04 | 2023-09-09 |
 | [Apocalyptic Love](https://open.spotify.com/track/6hiLV1fEZaUw6x9XGmrKM0) | [After Burn](https://open.spotify.com/artist/4qxOWkTfAz2n6UHllPAIKX) | [Apocalyptic Love](https://open.spotify.com/album/2fIF7zGwcpAJeAbEMnxDUH) | 7:32 | 2020-09-04 | 2023-11-18 |
@@ -94,6 +95,7 @@
 | [Rotator \- Original Mix](https://open.spotify.com/track/7m7EJuQ8tF7TPdh036FwpI) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Globular](https://open.spotify.com/album/5qTrZyXSG7VO5KojULMd7Q) | 7:56 | 2020-09-04 | 2023-11-18 |
 | [Sand Waves](https://open.spotify.com/track/19cecQlufpLqz369fFxfWv) | [Max & Nim](https://open.spotify.com/artist/2HWIznpGV3NYozQqochmbX) | [Sand Waves](https://open.spotify.com/album/6gAG0C3oSeH81sQWtbZMTn) | 3:06 | 2020-09-04 | 2023-11-18 |
 | [Sensitive \(Part II\)](https://open.spotify.com/track/2h1lMvv4Tz8zJ0NhS2Xtjk) | [Paul \(AR\)](https://open.spotify.com/artist/1HlaPjfSvC73YiHc3HH9eO) | [Small Musical Stories](https://open.spotify.com/album/4fYQ3930NKvfCSflAS6dMk) | 8:16 | 2020-09-04 | 2023-11-18 |
+| [Serenade Of](https://open.spotify.com/track/6W4MGvqou0stPjsGDRmFEC) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Serenade Of](https://open.spotify.com/album/172jmC3FkDUT0O3Q4s8YuB) | 4:01 | 2023-12-07 |  |
 | [Shades of Blue \- Original Mix](https://open.spotify.com/track/5liCbYlITgbpbPMmKrbh8o) | [Marcelo Vasami](https://open.spotify.com/artist/4bsJBOidwLc1UbwPoKbF44) | [Dirty Talk](https://open.spotify.com/album/4mhDwi7PYRFkQblvLi67i9) | 9:16 | 2020-09-04 | 2023-11-18 |
 | [Stampi](https://open.spotify.com/track/25CLjHvR3WwX1WZdLsh8Iv) | [Nico Szabo](https://open.spotify.com/artist/0Vw8wTJPM8hzOHwqAjsFri) | [Winter Collection](https://open.spotify.com/album/5bhBstQAQQiL1NDHyxSpYo) | 8:43 | 2020-09-04 | 2023-11-18 |
 | [Stampi](https://open.spotify.com/track/5B3FNvNReTQF1iJYN9TfOL) | [Nico Szabo](https://open.spotify.com/artist/0Vw8wTJPM8hzOHwqAjsFri) | [The Soundgarden Winter Collection](https://open.spotify.com/album/3tevMtF2CvFb2WX3Jzq3zZ) | 8:43 | 2020-09-04 | 2022-07-29 |
@@ -105,9 +107,11 @@
 | [Time Is An Illusion](https://open.spotify.com/track/0jj1tCb1DCGsKsYmf8zFNS) | [Ditian](https://open.spotify.com/artist/6JIvK1wvwFlrjpAWjETPLx) | [Time Is An Illusion EP](https://open.spotify.com/album/3Lhg5VoqZlOrFBzGqppqnj) | 7:29 | 2020-09-04 | 2023-11-18 |
 | [Timeless](https://open.spotify.com/track/3tdRR98vlJ1Vr6apFjPQoJ) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Crabo](https://open.spotify.com/album/5mhP51VoWxehN7sgn1Ko8n) | 9:18 | 2020-09-04 | 2023-11-18 |
 | [Timeless](https://open.spotify.com/track/4j0qHgFJYumy5NDvaDbdl3) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Crabo](https://open.spotify.com/album/1UVqmzod2ZtvMO83PQQAEC) | 9:18 | 2020-09-04 | 2022-07-29 |
+| [Undertones 2](https://open.spotify.com/track/4p6A0iRwk566yuZysJdv7z) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Undertones 2](https://open.spotify.com/album/3OPQ2Kjn717hUsHhmBMx64) | 5:46 | 2023-12-07 |  |
 | [Vectoria \- Original Mix](https://open.spotify.com/track/0Ww28y8TkdNMhijhYgNbe7) | [John Cosani](https://open.spotify.com/artist/2LRGIZMAT8HDCNQvMqgcFg) | [Vectoria](https://open.spotify.com/album/4Vs7EUAgcGDxfZ7SFpauhH) | 8:00 | 2020-09-04 | 2023-11-18 |
 | [Voltaire](https://open.spotify.com/track/2qNyupNqF0BTrEXAu8DWwy) | [Analog Jungs](https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1) | [Voltaire EP](https://open.spotify.com/album/1XPSLd8egeo4SE72lE2yjn) | 10:41 | 2020-09-04 | 2023-11-18 |
 | [Voltaire](https://open.spotify.com/track/6RhZ3wEOHmJpZGuXhfl2HJ) | [Analog Jungs](https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1) | [Voltaire](https://open.spotify.com/album/1fLFRG742JTDx3eilXsbnM) | 10:41 | 2020-09-04 | 2022-07-29 |
 | [¿De Qué Sirve?](https://open.spotify.com/track/0nj6RDxpCQOBawgxFzYLEm) | [Amelia](https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P), [Lnt\. Noire](https://open.spotify.com/artist/6iQaNTW8QA5orel0VJRkGt) | [ONÍRIKA](https://open.spotify.com/album/6QLEJbuQAJnC8u62fMpr0b) | 4:40 | 2023-11-17 |  |
+| [Óxido](https://open.spotify.com/track/0EL6TLGSGVInCuTlFQesWD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Óxido](https://open.spotify.com/album/5WqBhwKHsjcQyImgRtHt59) | 2:54 | 2023-12-07 |  |
 
 \*This playlist was first scraped on 2022-06-15. Prior content cannot be recovered.

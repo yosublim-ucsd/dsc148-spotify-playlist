@@ -1,12 +1,12 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 4449,
+  "num_followers": 4467,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDI2YzIxYjI1MmI1YTI4ZDFmM2Q2NWJlMjBhOWIwZGY2MjFiYmQz",
+  "snapshot_id": "MCxlOTkyOWRlNTIwODJjMGVlMzFmNjU1MDVmNTk2YjU5Y2VkZGI5MWQ4",
   "tracks": [
     {
       "added_at": "2023-11-27 14:59:06",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
+        "name": "My Testimony 2015 - 2017",
+        "url": "https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y"
+      },
+      "artists": [
+        {
+          "name": "Anita Afriyie",
+          "url": "https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5"
+        }
+      ],
+      "duration_ms": 325093,
+      "name": "Adehye Mogya",
+      "url": "https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 309525,
       "name": "Menyame Nhyiraba",
       "url": "https://open.spotify.com/track/68B3urp2uXgEDenOfqhdQi"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
-        "name": "My Testimony 2015 - 2017",
-        "url": "https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y"
-      },
-      "artists": [
-        {
-          "name": "Anita Afriyie",
-          "url": "https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5"
-        }
-      ],
-      "duration_ms": 325093,
-      "name": "Adehye Mogya",
-      "url": "https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV"
     },
     {
       "added_at": "2023-11-27 14:59:06",

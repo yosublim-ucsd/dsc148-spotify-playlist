@@ -2304,6 +2304,32 @@
     {
       "album": {
         "name": "In Control (feat. Selin)",
+        "url": "https://open.spotify.com/album/2k5oEpL6XqBHLWWm2Ygq9M"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Ali Arutan",
+          "url": "https://open.spotify.com/artist/40Hr91B6wn9pO83Gj0JMrP"
+        },
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179232,
+      "name": "In Control (feat. Selin)",
+      "url": "https://open.spotify.com/track/1JDwfM6fzE7HtRukcJSZDd"
+    },
+    {
+      "album": {
+        "name": "In Control (feat. Selin)",
         "url": "https://open.spotify.com/album/1B68g8b4wpedNDvvQLAoCe"
       },
       "artists": [
@@ -2322,7 +2348,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 179232,
       "name": "In Control (feat. Selin)",
       "url": "https://open.spotify.com/track/4WNcduiCmDNfmTEz7JvmLv"
@@ -2950,6 +2976,28 @@
     {
       "album": {
         "name": "Lost",
+        "url": "https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219202,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1"
+    },
+    {
+      "album": {
+        "name": "Lost",
         "url": "https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0"
       },
       "artists": [
@@ -2986,7 +3034,7 @@
       ],
       "date_added": "2021-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 160575,
       "name": "Love of You (The Violin Song)",
       "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-238 songs - 16 hr 11 min
+239 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Hot Summer Love](https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Hot Summer Love](https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb) | 4:14 | 2022-06-20 |  |
 | [Hot Summer Love](https://open.spotify.com/track/5dVoFQZwySXrBDd3AszUIe) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Hot Summer Love](https://open.spotify.com/album/0SNFUiPfcs9jo8A5a6zs07) | 4:14 | 2021-07-24 | 2022-07-29 |
 | [Hot Summer Love](https://open.spotify.com/track/7jkNyMn9RQErk40hZlvVM9) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [The Moment](https://open.spotify.com/album/08tD174VfZEDisYlcp0mfX) | 4:14 | 2022-06-20 | 2022-11-13 |
-| [How It Feels](https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [How It Feels](https://open.spotify.com/album/0RUZEsQQWmWhsuKKo6sk8J) | 3:19 | 2023-09-22 |  |
+| [How It Feels](https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [How It Feels](https://open.spotify.com/album/0RUZEsQQWmWhsuKKo6sk8J) | 3:19 | 2023-09-22 | 2023-12-11 |
 | [How Long Have You Been Away?](https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 3:28 | 2023-05-19 |  |
 | [Hydrate](https://open.spotify.com/track/6hHn9EtyvsJhovCmCCaJz2) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Hydrate EP](https://open.spotify.com/album/1X4AfBEtMngYcVObm6QKq1) | 6:22 | 2021-07-24 | 2023-05-20 |
 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 | 2021-07-24 |  |
@@ -122,6 +122,7 @@
 | [King of My Castle \(Purple Disco Machine Remix\) \(Edit\)](https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [King Of My Castle \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM) | 3:19 | 2023-11-17 |  |
 | [King of My Castle \- \(Purple Disco Machine Remix\) \[Edit\]](https://open.spotify.com/track/03Hu4c9THPQJDIml8xRYgn) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [King Of My Castle \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4KvYiPXNUASfXFCXPXyZ8M) | 3:19 | 2023-08-11 | 2023-11-04 |
 | [Kiss of Life](https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Kiss of Life](https://open.spotify.com/album/2gm5Yftyy6HCSpLlUpWtFn) | 3:13 | 2023-05-19 | 2023-11-18 |
+| [Kiss of Life](https://open.spotify.com/track/3yenE3U2DbvNyQcHZHTg1W) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [DISCO: Guest List Edition](https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh) | 3:13 | 2023-12-01 |  |
 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 | 2022-06-20 | 2023-05-23 |
 | [La Luna](https://open.spotify.com/track/3Yxc08PwQ9uRUt5bkDll2I) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [La Luna](https://open.spotify.com/album/1zoVH0wshtj6gJgmt3jJhz) | 3:37 | 2022-06-20 | 2023-05-20 |
 | [Lady Love](https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh) | 2:54 | 2023-08-04 |  |

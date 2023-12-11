@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 446,
+  "num_followers": 140,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWMxNTZkNDE3OWVmZmY3NGRjOGE5ZGRkYTI4YzJmZWJlNGM3ODY0",
+  "snapshot_id": "MCw4ODQ2YWJlMmI0YzhlMDUwMjk1ZGVhYzViYThmY2QyYTI3MDkwMzE4",
   "tracks": [
     {
       "added_at": "2022-11-12 17:30:07",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Bonito",
-        "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
-      },
-      "artists": [
-        {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Bonito",
-      "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -667,6 +647,26 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
+      },
+      "artists": [
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Magnetica",
         "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 230746,
       "name": "Sol Clap",
       "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "El Baile de las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
+      },
+      "artists": [
+        {
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+        }
+      ],
+      "duration_ms": 404351,
+      "name": "Elelu Tomassita",
+      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -703,22 +719,6 @@
       "duration_ms": 273063,
       "name": "#S\u00e1dico - Sunsplash & Ferraz Remix",
       "url": "https://open.spotify.com/track/6biNxZAZzW1qmWZu78ao5C"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "El Baile de las Ara\u00f1as",
-        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
-      },
-      "artists": [
-        {
-          "name": "PAAX (Tulum)",
-          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
-        }
-      ],
-      "duration_ms": 404351,
-      "name": "Elelu Tomassita",
-      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "L\u00e1zaro",
-        "url": "https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN"
-      },
-      "artists": [
-        {
-          "name": "Casta",
-          "url": "https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ"
-        }
-      ],
-      "duration_ms": 256551,
-      "name": "Pandemia",
-      "url": "https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Beach Planet Vol. 1",
         "url": "https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "L\u00e1zaro",
+        "url": "https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN"
+      },
+      "artists": [
+        {
+          "name": "Casta",
+          "url": "https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ"
+        }
+      ],
+      "duration_ms": 256551,
+      "name": "Pandemia",
+      "url": "https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8"
     },
     {
       "added_at": "2022-06-07 16:47:23",

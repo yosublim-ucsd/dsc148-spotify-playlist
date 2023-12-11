@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,993 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,039 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wanna Stop](https://open.spotify.com/track/1vj9zQwbID2XkPEsYOp59f) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Wanna Stop](https://open.spotify.com/album/3w65NF9vnUUXnphSZiof2L) | 2:33 |
 | 2 | [Get together \(feat\. Devito\) \- Tuborg Open Mix](https://open.spotify.com/track/6km0jEcoy7ab26k4b4ZiWl) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN) | [Get together \(feat\. Devito\) \[Tuborg Open Mix\]](https://open.spotify.com/album/3c5A4ffJTynPXfws4MHM4M) | 2:11 |
-| 3 | [TARAKA](https://open.spotify.com/track/5P6ilWY7ZC1LrDkLgB1HHv) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [TARAKA](https://open.spotify.com/album/0cIY1dUj0wUVwJU2yxCul7) | 5:07 |
+| 3 | [TARAKA](https://open.spotify.com/track/0FmHBBkDFZYNYKSyhtrV1D) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [TARAKA](https://open.spotify.com/album/3IeQRYd7uyIORxlIpggPwq) | 5:07 |
 | 4 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
 | 5 | [Promises](https://open.spotify.com/track/7AVRMxljXWpqmL9NlzeCJw) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:21 |
 | 6 | [Turn off the Lights](https://open.spotify.com/track/7dsImih2L25fa6qjNphBI7) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Turn off the Lights](https://open.spotify.com/album/132voEBLKSWmTV959PQuiC) | 3:30 |

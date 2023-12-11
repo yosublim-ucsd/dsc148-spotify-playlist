@@ -834,6 +834,24 @@
     {
       "album": {
         "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227023,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs"
+    },
+    {
+      "album": {
+        "name": "Absolution",
         "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
       },
       "artists": [
@@ -844,7 +862,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 227440,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD"

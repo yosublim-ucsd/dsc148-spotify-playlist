@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA",
-  "num_followers": 92885,
+  "num_followers": 92909,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzNiMGM3ZDA0NzdjNDMzNGNjMmJjNTBiZTQwZWRhY2IxMmE1OGUw",
+  "snapshot_id": "MCxiNmVhOTJkYWUyMTgyNzQ5NTMwZTE5YzM5MDM0N2Q2NDVlZDBlN2Qw",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "DIOSA (feat. Peppe Soks) [Remix]",
-        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
-      },
-      "artists": [
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        },
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        }
-      ],
-      "duration_ms": 143641,
-      "name": "DIOSA (feat. Peppe Soks) - Remix",
-      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Arte",
         "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 152440,
       "name": "Twerk (con Boro)",
       "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "DIOSA (feat. Peppe Soks) [Remix]",
+        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
+      },
+      "artists": [
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        }
+      ],
+      "duration_ms": 143641,
+      "name": "DIOSA (feat. Peppe Soks) - Remix",
+      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1595,30 +1595,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "MI AMI O NO (feat. Capo Plaza)",
-        "url": "https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H"
-      },
-      "artists": [
-        {
-          "name": "Giaime",
-          "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
-        },
-        {
-          "name": "Andry The Hitmaker",
-          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 145085,
-      "name": "MI AMI O NO (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
       },
@@ -1647,6 +1623,30 @@
       "duration_ms": 158630,
       "name": "DREAM TEAM (feat. Dylan, Capo Plaza, Tedua & Shiva)",
       "url": "https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "MI AMI O NO (feat. Capo Plaza)",
+        "url": "https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H"
+      },
+      "artists": [
+        {
+          "name": "Giaime",
+          "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 145085,
+      "name": "MI AMI O NO (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY"
     }
   ],
   "unique_name": "Club Rap ",

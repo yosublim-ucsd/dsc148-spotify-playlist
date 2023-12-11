@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 83945,
+  "num_followers": 84015,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTgyZGUyYWUyZTJlZjRiMjY4MGM5MjMwOWY5NDIzYTVlYzJjNGQ3",
+  "snapshot_id": "MCxlMzlhZTRhNWI1OTkzY2NlZGM5NDc2YTcyNjExNGMwY2QxZTc5MjAz",
   "tracks": [
     {
       "added_at": "2023-11-24 14:25:40",
@@ -223,8 +223,8 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Sua Paz",
-        "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Sua Paz",
-      "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
+      "duration_ms": 240697,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -259,18 +259,26 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Gra\u00e7a Sobre Gra\u00e7a",
-        "url": "https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi"
+        "name": "\u00c9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX"
       },
       "artists": [
         {
-          "name": "Brenda Danese",
-          "url": "https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        },
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
         }
       ],
-      "duration_ms": 191530,
-      "name": "Gra\u00e7a Sobre Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
+      "duration_ms": 231575,
+      "name": "\u00c9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -319,26 +327,18 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "\u00c9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX"
+        "name": "Gra\u00e7a Sobre Gra\u00e7a",
+        "url": "https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        },
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+          "name": "Brenda Danese",
+          "url": "https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r"
         }
       ],
-      "duration_ms": 231575,
-      "name": "\u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7"
+      "duration_ms": 191530,
+      "name": "Gra\u00e7a Sobre Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -415,8 +415,8 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
+        "name": "Sua Paz",
+        "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 240697,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
+      "duration_ms": 205266,
+      "name": "Sua Paz",
+      "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "Esperarei com Paci\u00eancia",
         "url": "https://open.spotify.com/album/53C192EeqK9cTA0dohXePM"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 329500,
       "name": "Esperarei Com Paci\u00eancia",
       "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
+        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
+        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
+      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
         "name": "Deus no Controle - Remix",
         "url": "https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 215856,
       "name": "Deus no Controle - Remix",
       "url": "https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
-        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
-      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
+        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
+      },
+      "artists": [
+        {
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+        }
+      ],
+      "duration_ms": 272021,
+      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
         "name": "Ousado Amor (Releitura)",
         "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 226187,
       "name": "Teu Amor Me Consome",
       "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
-      },
-      "artists": [
-        {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
-        }
-      ],
-      "duration_ms": 272021,
-      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
+        "name": "Hoje Eu Vivo",
+        "url": "https://open.spotify.com/album/71zFfgb78uhDc28Ym9v35b"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Verissimo",
+          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+        },
+        {
+          "name": "Babi Garcia",
+          "url": "https://open.spotify.com/artist/01sgeuHsummWMm330PtyM5"
+        }
+      ],
+      "duration_ms": 143417,
+      "name": "Hoje Eu Vivo",
+      "url": "https://open.spotify.com/track/6Iv1HNunu1jNHvwjoSTBhz"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 204173,
       "name": "Leve",
       "url": "https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Hoje Eu Vivo",
-        "url": "https://open.spotify.com/album/71zFfgb78uhDc28Ym9v35b"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Verissimo",
-          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
-        },
-        {
-          "name": "Babi Garcia",
-          "url": "https://open.spotify.com/artist/01sgeuHsummWMm330PtyM5"
-        }
-      ],
-      "duration_ms": 143417,
-      "name": "Hoje Eu Vivo",
-      "url": "https://open.spotify.com/track/6Iv1HNunu1jNHvwjoSTBhz"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
+        "name": "Todo Meu Viver (Ac\u00fastico) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw"
+      },
+      "artists": [
+        {
+          "name": "Margem Norte",
+          "url": "https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1"
+        },
+        {
+          "name": "Cristiano Halabi",
+          "url": "https://open.spotify.com/artist/6UbiNQAO1m9RvbBx9dSF0M"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Todo Meu Viver (Ac\u00fastico) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
         "name": "Pense Bem",
         "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 196032,
       "name": "Rota",
       "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Todo Meu Viver (Ac\u00fastico) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw"
-      },
-      "artists": [
-        {
-          "name": "Margem Norte",
-          "url": "https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1"
-        },
-        {
-          "name": "Cristiano Halabi",
-          "url": "https://open.spotify.com/artist/6UbiNQAO1m9RvbBx9dSF0M"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Todo Meu Viver (Ac\u00fastico) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "Al\u00e9m do Que Se V\u00ea",
         "url": "https://open.spotify.com/album/7eBr2Gk1ELbv9nBX1qNaU2"
       },
@@ -1419,22 +1403,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        }
-      ],
-      "duration_ms": 199864,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "Casulo",
         "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
       },
@@ -1447,6 +1415,38 @@
       "duration_ms": 219903,
       "name": "Casulo",
       "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        }
+      ],
+      "duration_ms": 199864,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1467,6 +1467,26 @@
       "duration_ms": 224000,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Sinal de Aviso",
+        "url": "https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Guilherme Franco",
+          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+        }
+      ],
+      "duration_ms": 195422,
+      "name": "Sinal de Aviso",
+      "url": "https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1503,22 +1523,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Me Leva Al\u00e9m",
-        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
-      },
-      "artists": [
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Me Leva Al\u00e9m",
-      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "Te Vejo",
         "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
       },
@@ -1535,22 +1539,18 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Sinal de Aviso",
-        "url": "https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4"
+        "name": "Me Leva Al\u00e9m",
+        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
       },
       "artists": [
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Guilherme Franco",
-          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
         }
       ],
-      "duration_ms": 195422,
-      "name": "Sinal de Aviso",
-      "url": "https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP"
+      "duration_ms": 215061,
+      "name": "Me Leva Al\u00e9m",
+      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
     },
     {
       "added_at": "2023-11-24 14:25:40",

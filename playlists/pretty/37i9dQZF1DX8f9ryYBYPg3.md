@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,066 likes - 171 songs - 1 day 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,092 likes - 171 songs - 1 day 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 170 | [Drama Track「The Block Party \-前半\-」](https://open.spotify.com/track/1SBltxCSVpDGhp7rDRAWDn) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 46:04 |
 | 171 | [Drama Track「The Block Party \-後半\-」](https://open.spotify.com/track/65gKBHXFNvjelDHDPAmEwg) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [The Block Party \-HOODs\-](https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z) | 53:48 |
 
-Snapshot ID: `MCw1OTkzMGM4NTU5MWY5ODc1MzVhODA2NTk4MjJlZWU0ZWE4YzI4NmIz`
+Snapshot ID: `MCxhYzgyNDI2YjA1NTIxZTg1NmM0NzkwZmU5YzA4YTExOTNmNDEzOTVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Solange Almeida e Mari Fernandez, Luan Santana e Ana Castela, Peso Pluma e Anitta e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,926,393 likes - 97 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,926,859 likes - 97 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [CAVALO](https://open.spotify.com/track/1sUm4MP3HONaWirVHHQolW) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [DNA](https://open.spotify.com/album/2MsolTrnzuwbFCDwzXsbdp) | 3:43 |
 | 97 | [Chega No Céu](https://open.spotify.com/track/1qJQ19YelMgCwKzCksuAuv) | [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Chega No Céu](https://open.spotify.com/album/5ouXiGEQDB4dKZZdwYhUVS) | 3:47 |
 
-Snapshot ID: `MCxiZjMzYWJjNWI5NzQwODNjYzBmZjZiNmNhN2QzZDUwYjZiYmY4YmQ5`
+Snapshot ID: `MCxmY2IxNWFjMzFlNDQyOTczODk5NWNiODUxYjA2Mjg4YWNhODQ0N2Vh`

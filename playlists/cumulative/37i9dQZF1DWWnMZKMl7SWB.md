@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,306 songs - 2 day 9 hr 35 min
+1,308 songs - 2 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [London](https://open.spotify.com/track/4IgI10xrOzTIiDg4ApvfwC) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [London](https://open.spotify.com/album/5vyoEpmkwXKO8lUSaTsz2O) | 2:35 | 2023-09-22 |  |
 | [Lonely Astronaut](https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:31 | 2023-09-22 |  |
 | [Long Green](https://open.spotify.com/track/4ADWxy7ycP8yvfYvbKrgro) | [ULMÄR](https://open.spotify.com/artist/68q8XXsA6PTuUJGRge3sR5) | [Long Green](https://open.spotify.com/album/08vHVer2zsqXCop1SKBA5Y) | 2:52 | 2023-09-22 |  |
+| [Longing](https://open.spotify.com/track/05GlRiSvnaggtZNRUa2uC0) | [beatmon](https://open.spotify.com/artist/57e9NWmKBJnNbKmEf4qOrk) | [Longing](https://open.spotify.com/album/7bmRiZrMzbxwGPcvXw7sP6) | 1:55 | 2023-12-08 |  |
 | [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 | 2023-09-08 | 2023-11-25 |
 | [Longing for summer](https://open.spotify.com/track/7I6VIP00dwIA97Ge5AK1YP) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Longing for summer](https://open.spotify.com/album/4FGN3nnZpSUtQ0tbzccpmX) | 2:20 | 2023-09-22 |  |
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2022-04-12 | 2023-09-09 |
@@ -735,7 +736,7 @@
 | [Multiply](https://open.spotify.com/track/2hn3t1cwovKmBKdLcTa76c) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Multiply](https://open.spotify.com/album/0TCNPI9uK76IZQ8zCp66SJ) | 2:06 | 2023-11-24 |  |
 | [Musgo.](https://open.spotify.com/track/1XOMHe2G9ugjLqznM8Wv3Z) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG) | [Musgo.](https://open.spotify.com/album/68apOdZFDut1aK9OQEIFPX) | 3:41 | 2022-04-12 | 2023-09-09 |
 | [mushroom clouds](https://open.spotify.com/track/0FjGnELYi164OPipUCqEYG) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [mushroom clouds](https://open.spotify.com/album/102vk5Vw84JxgRSFa96EQZ) | 2:48 | 2023-09-22 |  |
-| [Muy Tarde](https://open.spotify.com/track/2ja1xyVemtZKehVmPy1USL) | [Greco Murillo](https://open.spotify.com/artist/1matEXRuPsWuSWx1Ksjn5h), [Andros](https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7), [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ) | [Muy Tarde](https://open.spotify.com/album/4XBtEmRbJ7XgsEw5Wc3sBx) | 2:19 | 2023-09-22 |  |
+| [Muy Tarde](https://open.spotify.com/track/2ja1xyVemtZKehVmPy1USL) | [Greco Murillo](https://open.spotify.com/artist/1matEXRuPsWuSWx1Ksjn5h), [Andros](https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7), [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ) | [Muy Tarde](https://open.spotify.com/album/4XBtEmRbJ7XgsEw5Wc3sBx) | 2:19 | 2023-09-22 | 2023-12-11 |
 | [My Cat Picks Cactus Flowers](https://open.spotify.com/track/6yi6V9pR18642tim9GlHdG) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [My Cat Picks Cactus Flowers](https://open.spotify.com/album/2tDJDcZyS9wTgIxj7qz4wu) | 2:17 | 2023-09-08 | 2023-11-25 |
 | [My Cloud](https://open.spotify.com/track/4tiMh3bIjPllOtHHkjNhzS) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [We're New Here](https://open.spotify.com/album/3tjP8SLyGerhquO9eMOlWy) | 4:27 | 2022-04-12 | 2022-07-29 |
 | [My Cloud](https://open.spotify.com/track/5o4jvwNQLPmMaNBFgjvO92) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 4:27 | 2022-04-12 | 2023-09-09 |
@@ -790,6 +791,7 @@
 | [Ocean view](https://open.spotify.com/track/67KV197aojEW3rNeGj6Vxe) | [SoFo](https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1) | [Ocean view](https://open.spotify.com/album/19mGPmYIQDX59svRvMjAoB) | 3:15 | 2023-09-08 | 2023-11-25 |
 | [Octagonic](https://open.spotify.com/track/64Y0uVoqEkZ75mIRU8yxtC) | [Luwaks](https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr) | [Stupid Lies](https://open.spotify.com/album/0TOxF30glvIvhwJjTc6dJU) | 2:56 | 2022-04-12 | 2023-09-09 |
 | [Off you go!](https://open.spotify.com/track/29szXKFMvX88CTRKJQ2S87) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Off you go!](https://open.spotify.com/album/5lSDbRWbpOevHM0XD79OJ6) | 2:52 | 2023-09-22 | 2023-12-09 |
+| [Oh Dear, its been a while](https://open.spotify.com/track/1K9eYINfBVuW75487aGHrm) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Oh Dear, its been a while](https://open.spotify.com/album/6nxkxz1XLZ1Bnoyb0a810x) | 2:06 | 2023-12-08 |  |
 | [Oh!](https://open.spotify.com/track/2yjRx5E794bHknceHZQdK0) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2) | 4:08 | 2022-09-09 | 2023-09-09 |
 | [Oh!](https://open.spotify.com/track/6CJI4zpW77MHwmRo5DCsGk) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 4:08 | 2022-04-12 | 2022-10-22 |
 | [On Demand](https://open.spotify.com/track/5xDZcCoD5lenLkc3IUM2YR) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [On Demand](https://open.spotify.com/album/72LlNQkCRr0myzBUSsmNCX) | 1:56 | 2023-09-22 |  |
@@ -941,7 +943,7 @@
 | [Rocking Chair](https://open.spotify.com/track/2xbQ4xdV9FuN9VdCshaOcr) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Rocking Chair](https://open.spotify.com/album/0xLjnKdDGk054OL9CZsCKU) | 1:36 | 2023-09-22 | 2023-12-10 |
 | [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 | 2023-09-22 |  |
 | [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 | 2022-04-12 | 2023-09-09 |
-| [rollups](https://open.spotify.com/track/0egGEXJbXSsahzn67PQmPr) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [rollups](https://open.spotify.com/album/464Q2A9SCCQRi6RxIVm8ub) | 1:46 | 2023-09-22 |  |
+| [rollups](https://open.spotify.com/track/0egGEXJbXSsahzn67PQmPr) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [rollups](https://open.spotify.com/album/464Q2A9SCCQRi6RxIVm8ub) | 1:46 | 2023-09-22 | 2023-12-11 |
 | [Roronoa](https://open.spotify.com/track/1rMkIrW3SoR42ZLX3d26m0) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Roronoa](https://open.spotify.com/album/4ELgzCYaKWZ0ShzrH1mnKK) | 2:14 | 2022-12-09 | 2023-09-09 |
 | [Rose Garden](https://open.spotify.com/track/0h1ejKTkczqPpAaikKRpvJ) | [Aschen](https://open.spotify.com/artist/2EbcgO69SwHoTLvjsi9OZt), [Nessen](https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt) | [Rose Garden](https://open.spotify.com/album/2MpI1lAwlHJXOTq3I0E6Xu) | 2:00 | 2023-09-08 | 2023-11-25 |
 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 | 2022-04-12 | 2023-09-09 |

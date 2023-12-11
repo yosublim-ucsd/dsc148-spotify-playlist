@@ -1714,6 +1714,24 @@
     {
       "album": {
         "name": "TARAKA",
+        "url": "https://open.spotify.com/album/3IeQRYd7uyIORxlIpggPwq"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307741,
+      "name": "TARAKA",
+      "url": "https://open.spotify.com/track/0FmHBBkDFZYNYKSyhtrV1D"
+    },
+    {
+      "album": {
+        "name": "TARAKA",
         "url": "https://open.spotify.com/album/0cIY1dUj0wUVwJU2yxCul7"
       },
       "artists": [
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 307741,
       "name": "TARAKA",
       "url": "https://open.spotify.com/track/5P6ilWY7ZC1LrDkLgB1HHv"

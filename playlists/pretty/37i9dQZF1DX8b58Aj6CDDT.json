@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 3495,
+  "num_followers": 3497,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTE1MDYwNmQ2YjNkZDIyZThhNTJlYjVjMmZkZjg3YjJkN2M0Mjlj",
+  "snapshot_id": "MCw0YzM3YTEzNzI2YWQ5ZGQ2OTU5OGIyMmE3MDlhNWU4ZmM4YjNiNTBm",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Charly Garc\u00eda",
+        "url": "https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 157467,
+      "name": "Charly Garc\u00eda",
+      "url": "https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Mientras Ando",
         "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 198000,
       "name": "Me lo kiero imaginar",
       "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Charly Garc\u00eda",
-        "url": "https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 157467,
-      "name": "Charly Garc\u00eda",
-      "url": "https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP"
     },
     {
       "added_at": "2022-11-30 14:18:55",

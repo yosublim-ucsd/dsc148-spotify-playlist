@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: Eté & Los Problems
 
-285 songs - 18 hr 51 min
+286 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Diciembre \- En Vivo](https://open.spotify.com/track/0Fs5CDI4JlHfQ16j5oktcb) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Montevideo Rock \(En Vivo\)](https://open.spotify.com/album/6KWbGjTW4cvCFbc5Atdo9i) | 4:18 | 2022-07-01 | 2022-07-09 |
 | [Distopía en Blues \- En Vivo](https://open.spotify.com/track/7hkv7nI5rcbZX8slin02aU) | [La Tabaré](https://open.spotify.com/artist/0vpsHg4mpVWG7IM5gLD6UK) | [Distopía en blues \(En Vivo\)](https://open.spotify.com/album/0hRURSGazmXwhLNRgG25Et) | 4:29 | 2023-08-25 | 2023-11-24 |
 | [Don Luis](https://open.spotify.com/track/68XyowC5GNGLnaKQ01GBG6) | [Chole](https://open.spotify.com/artist/5H4ORJM3AxCkrxJlWq7a7s), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [Don Luis](https://open.spotify.com/album/4NyQb7MRDZK1MwPjz7GNWm) | 3:19 | 2022-07-08 | 2022-07-20 |
-| [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2022-07-08 |  |
+| [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2022-07-08 | 2023-12-11 |
+| [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 | 2023-12-07 |  |
 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2022-07-08 | 2023-01-12 |
 | [Dream On](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:27 | 2022-12-16 |  |
 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 5:29 | 2022-07-08 |  |

@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/1lWGtQTbxNWC3dSQzcYqZe"
+      },
+      "artists": [
+        {
+          "name": "Dodo",
+          "url": "https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182692,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/2x12EMxzr5fuPmneswOubB"
+    },
+    {
+      "album": {
         "name": "Bruma",
         "url": "https://open.spotify.com/album/3SNTxemEGfgVAsPMcNzkyv"
       },
@@ -4514,7 +4532,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 236022,
       "name": "Metatr\u00f3n",
       "url": "https://open.spotify.com/track/6qUsTRejNR8WuUVqClm8Li"
@@ -8113,6 +8131,24 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/4YL39TFWCRRMd9R7fijYoc"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261896,
+      "name": "Viaje al Kil\u00f3metro Cero",
+      "url": "https://open.spotify.com/track/2U4LnZ1NRQVrs2omVcpY2M"
+    },
+    {
+      "album": {
         "name": "Viejita M\u00cda",
         "url": "https://open.spotify.com/album/4sNqiULYzQn616xc9J08Jt"
       },
@@ -8324,7 +8360,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 156000,
       "name": "y las flores? (en bruto 1/2)",
       "url": "https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt"

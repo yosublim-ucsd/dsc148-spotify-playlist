@@ -1,12 +1,12 @@
 {
   "description": "Ease into the day",
-  "num_followers": 642183,
+  "num_followers": 642170,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjE3MWZkZWYwNjg1MWJiMDZkZDg0MGJhNjI0YzA4NjlhMGVlYmI2",
+  "snapshot_id": "MCwwZWEzYmMyODdiZWFkYTcxMmE2N2Y5NGY4NDJkNGRlZDU2NjVmZGUx",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1711,8 +1711,8 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Only The Lonely",
-        "url": "https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk"
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y"
       },
       "artists": [
         {
@@ -1722,7 +1722,7 @@
       ],
       "duration_ms": 232297,
       "name": "Only The Lonely",
-      "url": "https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII"
+      "url": "https://open.spotify.com/track/6V6BkDMR9A1BvHUhbdGATJ"
     }
   ],
   "unique_name": "Mellow Morning",

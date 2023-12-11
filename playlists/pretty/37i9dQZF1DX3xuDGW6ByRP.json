@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: Hotelo",
-  "num_followers": 46893,
+  "num_followers": 46894,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGM0MjVjN2M2NDUzMTgzNGMxYzQ5M2RmYjMyMTMxZmQ3MTg5MTFm",
+  "snapshot_id": "MCw1YWNlM2U3NjM0ZjdhYTJlMWFhODYzNDBmYmYxMWUzOTBiYzdhZDYy",
   "tracks": [
     {
       "added_at": "2023-12-08 10:20:35",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 137391,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/1CjD9etP1cSqhqhRWOGAJw"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
-        "name": "N\u00e3o Fosse T\u00e3o Tarde",
-        "url": "https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP"
-      },
-      "artists": [
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        }
-      ],
-      "duration_ms": 205256,
-      "name": "N\u00e3o Fosse T\u00e3o Tarde",
-      "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+        "name": "N\u00e3o Fosse T\u00e3o Tarde",
+        "url": "https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
         }
       ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
+      "duration_ms": 205256,
+      "name": "N\u00e3o Fosse T\u00e3o Tarde",
+      "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "Eu Nunca Fui Embora",
-        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
-      },
-      "artists": [
-        {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        }
-      ],
-      "duration_ms": 185337,
-      "name": "Eu Nunca Fui Embora",
-      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
         "name": "Still Alive (From the Original Motion Picture Scream VI)",
         "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 185310,
       "name": "Still Alive - From the Original Motion Picture Scream VI",
       "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "Eu Nunca Fui Embora",
+        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "duration_ms": 185337,
+      "name": "Eu Nunca Fui Embora",
+      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 227975,
-      "name": "Tell Me You Love Me - Rock Version",
-      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 190800,
       "name": "tired of california",
       "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "REVAMPED",
+        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Tell Me You Love Me - Rock Version",
+      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "ur just horny",
-        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 178787,
-      "name": "ur just horny",
-      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
         "name": "MALVADONA",
         "url": "https://open.spotify.com/album/7BgO5sEJpQIjrrAwxqUKUM"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 204870,
       "name": "MALVADONA",
       "url": "https://open.spotify.com/track/3V1XdOJVcvtupbYLzOaulm"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "ur just horny",
+        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 178787,
+      "name": "ur just horny",
+      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "cuida de mim",
-        "url": "https://open.spotify.com/album/0wy3T5ywwjxTpi2iR37ddE"
-      },
-      "artists": [
-        {
-          "name": "Sophi",
-          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
-        }
-      ],
-      "duration_ms": 173995,
-      "name": "cuida de mim",
-      "url": "https://open.spotify.com/track/0T83WyyuuFXfQzjzu8gwSd"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
         "name": "O Amor Machuca Demais",
         "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 188638,
       "name": "O Amor Machuca Demais",
       "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "cuida de mim",
+        "url": "https://open.spotify.com/album/0wy3T5ywwjxTpi2iR37ddE"
+      },
+      "artists": [
+        {
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        }
+      ],
+      "duration_ms": 173995,
+      "name": "cuida de mim",
+      "url": "https://open.spotify.com/track/0T83WyyuuFXfQzjzu8gwSd"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -799,6 +799,22 @@
       "duration_ms": 163880,
       "name": "Exagerado",
       "url": "https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "n\u00e3o me importo mais",
+        "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "n\u00e3o me importo mais",
+      "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -855,6 +871,22 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
+        "name": "T\u00c1 TODO MUNDO MAL",
+        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "T\u00c1 TODO MUNDO MAL",
+      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
         "name": "Dona da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil"
       },
@@ -871,22 +903,6 @@
       "duration_ms": 235008,
       "name": "Dona da Minha Cabe\u00e7a",
       "url": "https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
-        "name": "T\u00c1 TODO MUNDO MAL",
-        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "T\u00c1 TODO MUNDO MAL",
-      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -911,22 +927,6 @@
       "duration_ms": 175063,
       "name": "Teu Pesco\u00e7o",
       "url": "https://open.spotify.com/track/4NZJGR8aUHBcUn9dOKGVJC"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
-        "name": "n\u00e3o me importo mais",
-        "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "n\u00e3o me importo mais",
-      "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "S\u00f3 Sinto",
-        "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
+        "name": "QUEM NUNCA??",
+        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
       },
       "artists": [
         {
-          "name": "Cac\u00e1 Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk"
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        },
+        {
+          "name": "Egypcio",
+          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
         }
       ],
-      "duration_ms": 141484,
-      "name": "Cora\u00e7\u00e3o Solto",
-      "url": "https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY"
+      "duration_ms": 216255,
+      "name": "QUEM NUNCA??",
+      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -1147,38 +1151,18 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "QUEM NUNCA??",
-        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
+        "name": "S\u00f3 Sinto",
+        "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
       },
       "artists": [
         {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        },
-        {
-          "name": "Egypcio",
-          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
+          "name": "Cac\u00e1 Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk"
         }
       ],
-      "duration_ms": 216255,
-      "name": "QUEM NUNCA??",
-      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
-        "name": "EMO NAS BAHAMAS",
-        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
-      },
-      "artists": [
-        {
-          "name": "BAKA",
-          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
-        }
-      ],
-      "duration_ms": 148880,
-      "name": "VOU ALI DORMIR",
-      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
+      "duration_ms": 141484,
+      "name": "Cora\u00e7\u00e3o Solto",
+      "url": "https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -1195,6 +1179,22 @@
       "duration_ms": 207070,
       "name": "CORPO FECHADO",
       "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "EMO NAS BAHAMAS",
+        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
+      },
+      "artists": [
+        {
+          "name": "BAKA",
+          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
+        }
+      ],
+      "duration_ms": 148880,
+      "name": "VOU ALI DORMIR",
+      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "VSF (Telefone)",
-        "url": "https://open.spotify.com/album/3Q3DAfcLrkaArCrr3AgTKL"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        }
-      ],
-      "duration_ms": 161951,
-      "name": "VSF (Telefone)",
-      "url": "https://open.spotify.com/track/7JCv3LOgpS0qwh8V1mYU7A"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
         "name": "melhor ou pior",
         "url": "https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 164000,
       "name": "melhor ou pior",
       "url": "https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "VSF (Telefone)",
+        "url": "https://open.spotify.com/album/3Q3DAfcLrkaArCrr3AgTKL"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        }
+      ],
+      "duration_ms": 161951,
+      "name": "VSF (Telefone)",
+      "url": "https://open.spotify.com/track/7JCv3LOgpS0qwh8V1mYU7A"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -1347,6 +1347,22 @@
       "duration_ms": 171861,
       "name": "Amigo de Ningu\u00e9m",
       "url": "https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "Depois das Seis",
+        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 180488,
+      "name": "Depois Das Seis",
+      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "Depois das Seis",
-        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
+        "name": "Mete o P\u00e9",
+        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
         }
       ],
-      "duration_ms": 180488,
-      "name": "Depois Das Seis",
-      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
+      "duration_ms": 142699,
+      "name": "Mete o P\u00e9",
+      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -1523,22 +1539,6 @@
       "duration_ms": 207000,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/4xawu6VJn17igipPIGayeU"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
-        "name": "Mete o P\u00e9",
-        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 142699,
-      "name": "Mete o P\u00e9",
-      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
     },
     {
       "added_at": "2023-12-08 10:20:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 
 > Explore the great works of Maurice Ravel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,223 likes - 69 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,250 likes - 69 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 | 68 | [Sérénade Grotesque, M\. 5](https://open.spotify.com/track/0Fyohy2Xo5Q5Zii9hN7bms) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Ravel: Intégrale de l'œuvre pour piano](https://open.spotify.com/album/1PGV2mCrXJKpNl7onDJ6Yx) | 3:31 |
 | 69 | [Valses nobles et sentimentales, M.61 \- for Orchestra: 2\. Assez lent](https://open.spotify.com/track/7Mq0Sz8UNRtZDCgbbz0MB1) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Classics for Autumn: Ravel](https://open.spotify.com/album/2HQGF44I64Ku9rKGjb7CEo) | 2:07 |
 
-Snapshot ID: `MCxmMTRjYjE3NjlmZTRhMThhNGU2YzA1N2I4ZWM3YWYxNDZjMmNiYmM1`
+Snapshot ID: `MCwzMDcwNzkzNjk5YjA5NDg5NTYxMjI0YWMxZjY5MzRjMzIzNWFmMjlj`

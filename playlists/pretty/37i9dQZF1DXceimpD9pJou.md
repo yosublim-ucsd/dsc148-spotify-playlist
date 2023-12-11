@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:0rOLLmeuTbBAx7YKcVEECH">Gabriel EMC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,089 likes - 99 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,162 likes - 99 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 9 | [Así Soy](https://open.spotify.com/track/5YEAwtymvmHE5CF8WrBa3F) | [MBO la Nueva Forma](https://open.spotify.com/artist/39Tz9Pbpn6zh2m0KrgS3Ho), [JRMusic JayRicky](https://open.spotify.com/artist/4je6RyF9YH23F3UpnIpVfx) | [Así Soy](https://open.spotify.com/album/1XWo5SVINx31g3K0LQE0ND) | 2:42 |
 | 10 | [La calle](https://open.spotify.com/track/0neUiqoEWqizg6Efg2RwPf) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W) | [La Calle](https://open.spotify.com/album/54uVxvk4etK925Io8YoOrI) | 3:44 |
 | 11 | [Recuerdos](https://open.spotify.com/track/1Htp7oEYtmf3Ot5z8zryf5) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Recuerdos](https://open.spotify.com/album/70zZ6rm69iuY1UK7RDMuLG) | 2:58 |
-| 12 | [Puedes Oír ?](https://open.spotify.com/track/7wG2u7SaipB1ZhH0fWBzku) | [Miguel Montes](https://open.spotify.com/artist/1vAjRLZpOujabj1cc2izZr), [Bani Muñoz](https://open.spotify.com/artist/22nH9EkYNfn8yJDXApp7MZ), [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Diamnd El Cientifico](https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe) | [Puedes Oír ?](https://open.spotify.com/album/5NzkCnXT2y5zRWBXeLzdl3) | 3:31 |
+| 12 | [Puedes Oír ?](https://open.spotify.com/track/7wG2u7SaipB1ZhH0fWBzku) | [Miguel Montes](https://open.spotify.com/artist/1vAjRLZpOujabj1cc2izZr), [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Diamnd El Cientifico](https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe), [Bani Muñoz](https://open.spotify.com/artist/22nH9EkYNfn8yJDXApp7MZ) | [Puedes Oír ?](https://open.spotify.com/album/5NzkCnXT2y5zRWBXeLzdl3) | 3:31 |
 | 13 | [Like Trash Food](https://open.spotify.com/track/2grFRW0VDXhX4ywsu9sa2T) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Like Trash Food](https://open.spotify.com/album/5RLdBPiPdGSJl893o48Aa2) | 2:33 |
 | 14 | [Perfecta Combinación](https://open.spotify.com/track/09yLxEf2JTcvnAsKzKxlVT) | [La Sociedad 111](https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Perfecta Combinación](https://open.spotify.com/album/1D38Oa04mcnL7SV29Z0Grs) | 3:55 |
 | 15 | [YA NO](https://open.spotify.com/track/3MLEmWgIAtuSN8O9fmPisw) | [VINS](https://open.spotify.com/artist/6YIOc3DMdsA2dIl7eOfRi2), [Krito Music](https://open.spotify.com/artist/7H6JDIeAv6nf84jOPJnFEv) | [YA NO](https://open.spotify.com/album/6VFMaQ846axMjwBho1JdUH) | 2:06 |

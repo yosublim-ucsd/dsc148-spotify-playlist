@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-286 songs - 1 day 1 hr 50 min
+287 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Garden of Delight](https://open.spotify.com/track/3apdPUK06P8pXgTsIKlFIl) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [I Love Jan Lundgren Trio](https://open.spotify.com/album/6iUNYWWimI0uy8kzvdQbuh) | 4:51 | 2020-03-31 | 2023-08-17 |
 | [Girlfriend with Magical Ears \- Two Moons Analog Session](https://open.spotify.com/track/2i1VVdIDUsewiSu4kupiQp) | [Sebastian Gahler](https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W), [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0) | [Girlfriend with Magical Ears \(Two Moons Analog Session\)](https://open.spotify.com/album/6wpyFcHcUCLtQDaKPo4rAd) | 3:59 | 2023-03-23 |  |
 | [Going Up](https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst) | 4:35 | 2022-02-18 | 2022-08-31 |
+| [Gone With The Wind](https://open.spotify.com/track/3XI87Etehc7cnY3mUSrLBl) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Gone With The Wind](https://open.spotify.com/album/46eUBYqO4qQSYyi25RUPwa) | 3:41 | 2023-12-08 |  |
 | [Groove Waltz](https://open.spotify.com/track/4JI1z2ExhzqYbnTyG5bNX6) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Impulse Story](https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5) | 5:28 | 2020-03-31 | 2023-01-27 |
 | [Habanera](https://open.spotify.com/track/1TKJu779sVM4bM1Kg0qNEF) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Habanera](https://open.spotify.com/album/1ifBHQSP0GZJx0H1GygeVQ) | 4:48 | 2022-08-11 |  |
 | [Habbit Rabbit](https://open.spotify.com/track/6Pz1RgeZG6tmlu0X00KHhZ) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Fredrik Rundqvist](https://open.spotify.com/artist/5xLLcvi1xnXS9mMKi6PW57) | [Circles](https://open.spotify.com/album/7yDHwMVnH0SXCYw6eD7fDg) | 5:14 | 2020-03-31 |  |
@@ -272,7 +273,7 @@
 | [There Will Never Be Another You](https://open.spotify.com/track/3Jj4zXCs23YMLcEFODQsfY) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [There Will Never Be Another You](https://open.spotify.com/album/7B3cO9ADwtUAV1vV3vCawT) | 3:55 | 2023-05-11 |  |
 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2020-03-31 | 2023-09-01 |
 | [There's Always A Way](https://open.spotify.com/track/1kILTrdSQFgpOSAeycMPAe) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [There's Always A Way](https://open.spotify.com/album/6i64NI6yiadQVZpDcljiqU) | 2:54 | 2023-05-25 |  |
-| [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 | 2022-02-18 |  |
+| [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 | 2022-02-18 | 2023-12-11 |
 | [Tidal Breeze](https://open.spotify.com/track/4TRyfSh9IzlprJbTlMrWxl) | [Passport Quartet](https://open.spotify.com/artist/1sKCem3MqxDHeM5F5zAKfy), [Raphaël Imbert](https://open.spotify.com/artist/2FLekZm435IfyjMhb0JCIg) | [Invitation](https://open.spotify.com/album/6D6xpmmZhAg25csbBX8leD) | 1:13 | 2020-03-31 | 2022-04-21 |
 | [Time After Time](https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 7:43 | 2020-03-31 | 2022-05-18 |
 | [Tutto](https://open.spotify.com/track/62kqshOHXpzRjnjU32j3tk) | [Lorenzo Tucci](https://open.spotify.com/artist/3hTTFA9ODrbXSu1BJ82hsq) | [Happy end](https://open.spotify.com/album/6rMNuXq1cfyp747FxxOEDv) | 5:18 | 2023-02-11 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 52944,
+  "num_followers": 52997,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
+        "name": "Efeito Moral",
+        "url": "https://open.spotify.com/album/5bWoFCqvQwN8Q93tbhNHCq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 129444,
+      "name": "Efeito Moral",
+      "url": "https://open.spotify.com/track/5V5k3Ml3unt4bH4sIw9Gi4"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
         "name": "Chama",
         "url": "https://open.spotify.com/album/7uKJgLIQpEnzBW0wL2qUgj"
       },
@@ -131,26 +147,6 @@
       "duration_ms": 205505,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/5WyATZ79ZuG8IS4Sfqf8K7"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
-        "name": "MOVA - Algumas Verdades, Outras Mentiras",
-        "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        },
-        {
-          "name": "prx",
-          "url": "https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "E EU?",
-      "url": "https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -171,18 +167,22 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "Efeito Moral",
-        "url": "https://open.spotify.com/album/5bWoFCqvQwN8Q93tbhNHCq"
+        "name": "MOVA - Algumas Verdades, Outras Mentiras",
+        "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
       },
       "artists": [
         {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        },
+        {
+          "name": "prx",
+          "url": "https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe"
         }
       ],
-      "duration_ms": 129444,
-      "name": "Efeito Moral",
-      "url": "https://open.spotify.com/track/5V5k3Ml3unt4bH4sIw9Gi4"
+      "duration_ms": 176285,
+      "name": "E EU?",
+      "url": "https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "Sinto a Sua Falta",
-        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
-      },
-      "artists": [
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 201620,
-      "name": "Sinto a Sua Falta",
-      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
         "name": "Faminta",
         "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 249333,
       "name": "Eu Tava Em Casa",
       "url": "https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
+        "name": "Sinto a Sua Falta",
+        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 201620,
+      "name": "Sinto a Sua Falta",
+      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -499,30 +499,6 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "Me Faz Sentir",
-        "url": "https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2"
-      },
-      "artists": [
-        {
-          "name": "Aya",
-          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
-        },
-        {
-          "name": "Dj Will",
-          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
-        },
-        {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
-        }
-      ],
-      "duration_ms": 231402,
-      "name": "Me Faz Sentir",
-      "url": "https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
         "name": "P\u00e2nico",
         "url": "https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5"
       },
@@ -563,6 +539,30 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
+        "name": "Me Faz Sentir",
+        "url": "https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2"
+      },
+      "artists": [
+        {
+          "name": "Aya",
+          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
+        },
+        {
+          "name": "Dj Will",
+          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+        },
+        {
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+        }
+      ],
+      "duration_ms": 231402,
+      "name": "Me Faz Sentir",
+      "url": "https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
         "name": "Hip Hop Machine #18",
         "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
       },
@@ -583,6 +583,26 @@
       "duration_ms": 357248,
       "name": "Se Foi",
       "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
+        "name": "That's Why I Love You",
+        "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
+      },
+      "artists": [
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        },
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "That's Why I Love You",
+      "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -615,26 +635,6 @@
       "duration_ms": 151578,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
-        "name": "That's Why I Love You",
-        "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
-      },
-      "artists": [
-        {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
-        },
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "That's Why I Love You",
-      "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
+        "name": "Tra\u00e7os",
+        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Tra\u00e7os",
+      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
         "name": "n \u00e9 vc, sou eu",
         "url": "https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3"
       },
@@ -731,6 +747,22 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
+        "name": "Entre Mem\u00f3rias Tristes",
+        "url": "https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf"
+      },
+      "artists": [
+        {
+          "name": "C.I.D",
+          "url": "https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl"
+        }
+      ],
+      "duration_ms": 317059,
+      "name": "Entre Mem\u00f3rias Tristes",
+      "url": "https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
         "name": "Um momento",
         "url": "https://open.spotify.com/album/07S8GOxygxS3qpgcaU3npE"
       },
@@ -751,34 +783,18 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "Entre Mem\u00f3rias Tristes",
-        "url": "https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf"
+        "name": "\u00cdndigo (Te Venero)",
+        "url": "https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ"
       },
       "artists": [
         {
-          "name": "C.I.D",
-          "url": "https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl"
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
         }
       ],
-      "duration_ms": 317059,
-      "name": "Entre Mem\u00f3rias Tristes",
-      "url": "https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
-        "name": "Tra\u00e7os",
-        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Tra\u00e7os",
-      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
+      "duration_ms": 194137,
+      "name": "\u00cdndigo (Te Venero)",
+      "url": "https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -799,42 +815,6 @@
       "duration_ms": 177391,
       "name": "Qu\u00edmica Perfeita",
       "url": "https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
-        "name": "\u00cdndigo (Te Venero)",
-        "url": "https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 194137,
-      "name": "\u00cdndigo (Te Venero)",
-      "url": "https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
-        "name": "Canela e hortel\u00e3",
-        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
-      },
-      "artists": [
-        {
-          "name": "Gray C.",
-          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Canela e hortel\u00e3",
-      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -867,6 +847,26 @@
       "duration_ms": 199186,
       "name": "Candeia",
       "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
+        "name": "Canela e hortel\u00e3",
+        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
+      },
+      "artists": [
+        {
+          "name": "Gray C.",
+          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Canela e hortel\u00e3",
+      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
     },
     {
       "added_at": "2023-12-08 13:39:11",

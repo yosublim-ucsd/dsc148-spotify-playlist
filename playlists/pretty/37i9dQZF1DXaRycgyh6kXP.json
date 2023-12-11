@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 200705,
+  "num_followers": 200946,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
         }
       ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -651,22 +667,6 @@
       "duration_ms": 285973,
       "name": "So Many Details",
       "url": "https://open.spotify.com/track/1YpRBLuUWsdahTFhZr9pwK"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 596772,
-      "name": "Immunity - Remaster 2023",
-      "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 229155,
       "name": "Without",
       "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 596772,
+      "name": "Immunity - Remaster 2023",
+      "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Solo Piano",
-        "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
-      },
-      "artists": [
-        {
-          "name": "Chilly Gonzales",
-          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "Overnight",
-      "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/74qv9Kr09Yz3ot2RiDnaKp"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 299448,
       "name": "Way Ur Touchin Me",
       "url": "https://open.spotify.com/track/5a73pqoQFFooJRxuNLP8tO"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Solo Piano",
+        "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
+      },
+      "artists": [
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Night Owl",
-        "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
-      },
-      "artists": [
-        {
-          "name": "Cihangir Aslan",
-          "url": "https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD"
-        },
-        {
-          "name": "Dilan Balkay",
-          "url": "https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM"
-        }
-      ],
-      "duration_ms": 376082,
-      "name": "Night Owl",
-      "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
@@ -1043,22 +1023,6 @@
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "I Become A Shade",
-        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
-      },
-      "artists": [
-        {
-          "name": "Seoul",
-          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
-        }
-      ],
-      "duration_ms": 237945,
-      "name": "Stay With Us",
-      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1079,18 +1043,38 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Cihangir Aslan",
+          "url": "https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD"
+        },
+        {
+          "name": "Dilan Balkay",
+          "url": "https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM"
         }
       ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+      "duration_ms": 376082,
+      "name": "Night Owl",
+      "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "I Become A Shade",
+        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
+      },
+      "artists": [
+        {
+          "name": "Seoul",
+          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
+        }
+      ],
+      "duration_ms": 237945,
+      "name": "Stay With Us",
+      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 256133,
       "name": "Smokebelch II - Beatless Mix",
       "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
         "name": "Dissolvi",
         "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+      "duration_ms": 319666,
+      "name": "SHEEP",
+      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Appeayl 2 U",
-        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
+        "name": "Rushing",
+        "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
       },
       "artists": [
         {
-          "name": "Gayngs",
-          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
         }
       ],
-      "duration_ms": 236703,
-      "name": "Appeayl 2 U part 1",
-      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
+      "duration_ms": 136000,
+      "name": "My Lights Kiss Your Thoughts Every Moment",
+      "url": "https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1431,34 +1447,18 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+        "name": "Appeayl 2 U",
+        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "Gayngs",
+          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
         }
       ],
-      "duration_ms": 319666,
-      "name": "SHEEP",
-      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "Rushing",
-        "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
-      },
-      "artists": [
-        {
-          "name": "Lucy Gooch",
-          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "My Lights Kiss Your Thoughts Every Moment",
-      "url": "https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4"
+      "duration_ms": 236703,
+      "name": "Appeayl 2 U part 1",
+      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Encores 2",
-        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Far Away Trains Passing By",
         "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 397986,
       "name": "Passing By - 2019 remaster",
       "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Encores 2",
+        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
     },
     {
       "added_at": "2023-11-13 21:00:00",

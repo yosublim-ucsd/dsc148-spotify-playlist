@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 192958,
       "name": "Good Times - Radio Edit",
       "url": "https://open.spotify.com/track/2oVeXlWPMaRxwZzcVwqTmv"
@@ -2865,6 +2865,28 @@
     },
     {
       "album": {
+        "name": "House Music (feat. Arctic Lake) (feat. Arctic Lake) [Edit]",
+        "url": "https://open.spotify.com/album/5xpZSKJdk6jje1g3HUIXU9"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "House Music (feat. Arctic Lake) (feat. Arctic Lake) - Edit",
+      "url": "https://open.spotify.com/track/4CgWViOVEbDKtcVVkFwYgh"
+    },
+    {
+      "album": {
         "name": "House Music (feat. Arctic Lake) [Edit]",
         "url": "https://open.spotify.com/album/3nB4U7gdNErhJHY3v10NMr"
       },
@@ -2880,7 +2902,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 179520,
       "name": "House Music (feat. Arctic Lake) - Edit",
       "url": "https://open.spotify.com/track/3aAgQEbQUFMhXqk9fz3fcK"
@@ -3776,7 +3798,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 183460,
       "name": "Lights Go Down (with SIDEPIECE)",
       "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"

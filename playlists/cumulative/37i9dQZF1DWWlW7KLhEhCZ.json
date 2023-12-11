@@ -3099,6 +3099,32 @@
     },
     {
       "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bola Outro - Feat. Brocasito",
+      "url": "https://open.spotify.com/track/4ES3qh8IU3tQfe4ZmZvWdi"
+    },
+    {
+      "album": {
         "name": "Bolando Planos",
         "url": "https://open.spotify.com/album/2pJ1qLw7bHRcDYfub815Nw"
       },
@@ -9370,7 +9396,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 182871,
       "name": "FREIA N\u00c3O",
       "url": "https://open.spotify.com/track/70OEITtSlCqzRbwVR9ubqr"

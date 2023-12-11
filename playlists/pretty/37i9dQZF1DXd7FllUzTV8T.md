@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 
 > Instrumental relaxing jazz with the cozy sound of soft vinyl crackle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,103 likes - 26 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,243 likes - 26 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

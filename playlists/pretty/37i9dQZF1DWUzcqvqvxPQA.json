@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjNkNmQ0ODU3YjBkYTJmNzg5NmI4NjA1M2Y2M2JmYTMwNzVjOGNk",
+  "snapshot_id": "MCxhMzRhM2YyNDE5ZjgyNjJiNzcwYjUwNmI4MTVlZTQzZmMzMzAyMjkz",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "One More Day",
-        "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "One More Day",
-      "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Wherever I Go",
         "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 226120,
       "name": "I just need U.",
       "url": "https://open.spotify.com/track/7uvDJFly0TCWWsK48NI1fx"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 194798,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+        "name": "Who Says?",
+        "url": "https://open.spotify.com/album/60mgib427tgTcQiBP5na0y"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "Joshua Micah",
+          "url": "https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv"
         }
       ],
-      "duration_ms": 202893,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx"
+      "duration_ms": 246215,
+      "name": "Who Says?",
+      "url": "https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Who Says?",
-        "url": "https://open.spotify.com/album/60mgib427tgTcQiBP5na0y"
+        "name": "III",
+        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
       },
       "artists": [
         {
-          "name": "Joshua Micah",
-          "url": "https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         }
       ],
-      "duration_ms": 246215,
-      "name": "Who Says?",
-      "url": "https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7"
+      "duration_ms": 202893,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1371,26 +1371,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "The One Where I Talk To God",
-        "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
+        "name": "\u00a1hola!",
+        "url": "https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe"
       },
       "artists": [
         {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        },
-        {
-          "name": "Tree Giants",
-          "url": "https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss"
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
         }
       ],
-      "duration_ms": 205101,
-      "name": "The One Where I Talk To God",
-      "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
+      "duration_ms": 195944,
+      "name": "\u00a1hola!",
+      "url": "https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1415,18 +1407,26 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "\u00a1hola!",
-        "url": "https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe"
+        "name": "The One Where I Talk To God",
+        "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
       "artists": [
         {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Tree Giants",
+          "url": "https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss"
         }
       ],
-      "duration_ms": 195944,
-      "name": "\u00a1hola!",
-      "url": "https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm"
+      "duration_ms": 205101,
+      "name": "The One Where I Talk To God",
+      "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "The Divine Storm",
         "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 181446,
       "name": "Paid For It",
       "url": "https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR"
     },
     {
       "added_at": "2020-08-13 14:39:00",

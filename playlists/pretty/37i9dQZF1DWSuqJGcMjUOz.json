@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3888,
+  "num_followers": 3887,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTA5YjNkNWU4ODBlOWEyZTc5ZDA2OTYxN2YwNWYwYjIwMjY3OGJk",
+  "snapshot_id": "MCwwNTU5MWY1ZGQ1YmM3YzQ4NDQ4ZGU5NWNjN2FmNjVhNWFkZjkyMDVh",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur",
-        "url": "https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO"
-      },
-      "artists": [
-        {
-          "name": "Rowjay",
-          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
-        },
-        {
-          "name": "Alpha Wann",
-          "url": "https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Devil May Cry",
-      "url": "https://open.spotify.com/track/3iw9cmv0VuAhwLI9HPkcx6"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "10 ans d'Enfantillages !",
         "url": "https://open.spotify.com/album/20yuAjZhTVhDHcYx6dep1w"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 194813,
       "name": "Pour louper l'\u00e9cole",
       "url": "https://open.spotify.com/track/0XW5XY9LcCw6hpS7EuORkj"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur",
+        "url": "https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        },
+        {
+          "name": "Alpha Wann",
+          "url": "https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Devil May Cry",
+      "url": "https://open.spotify.com/track/3iw9cmv0VuAhwLI9HPkcx6"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "LA VIE",
+        "url": "https://open.spotify.com/album/10jDF7CGfczyhmy8zcfLvy"
+      },
+      "artists": [
+        {
+          "name": "Arthur H",
+          "url": "https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR"
+        }
+      ],
+      "duration_ms": 269013,
+      "name": "La vie",
+      "url": "https://open.spotify.com/track/3Qolx4UFKqkAK865XSTFG5"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 186453,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "LA VIE",
-        "url": "https://open.spotify.com/album/10jDF7CGfczyhmy8zcfLvy"
-      },
-      "artists": [
-        {
-          "name": "Arthur H",
-          "url": "https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR"
-        }
-      ],
-      "duration_ms": 269013,
-      "name": "La vie",
-      "url": "https://open.spotify.com/track/3Qolx4UFKqkAK865XSTFG5"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Il faut partir maintenant",
+        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Penses-tu rester encore?",
+      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "M\u00e9tastases",
         "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Il faut partir maintenant",
-        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Penses-tu rester encore?",
-      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Mitshuap",
         "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 240010,
       "name": "Nimueshtaten nete",
       "url": "https://open.spotify.com/track/5X9LT75w5F75O2XmsAn2Pp"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
+      },
+      "artists": [
+        {
+          "name": "Zoo Baby",
+          "url": "https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO"
+        }
+      ],
+      "duration_ms": 165973,
+      "name": "Diff\u00e9rent de toi",
+      "url": "https://open.spotify.com/track/3lBN3qdOdRezs6VgKbqJ6r"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Volume 2",
-        "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
+        "name": "M\u00e9tastases",
+        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
       },
       "artists": [
         {
-          "name": "Zoo Baby",
-          "url": "https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO"
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
         }
       ],
-      "duration_ms": 165973,
-      "name": "Diff\u00e9rent de toi",
-      "url": "https://open.spotify.com/track/3lBN3qdOdRezs6VgKbqJ6r"
+      "duration_ms": 312653,
+      "name": "A\u00e9roplane",
+      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1643,22 +1659,6 @@
       "duration_ms": 175388,
       "name": "Grand Bleu",
       "url": "https://open.spotify.com/track/3QLccDBR414z0qExgMp4FH"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "M\u00e9tastases",
-        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
-      },
-      "artists": [
-        {
-          "name": "Keith Kouna",
-          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
-        }
-      ],
-      "duration_ms": 312653,
-      "name": "A\u00e9roplane",
-      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Naomi",
-        "url": "https://open.spotify.com/album/732MHsEpWkJRnAkrvXdtoi"
-      },
-      "artists": [
-        {
-          "name": "Naomi",
-          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Pas le temps de jouer",
-      "url": "https://open.spotify.com/track/5IYD6Jw0CdpEZTuQF3Jw0K"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "L'\u00e9chec h\u00e9ro\u00efque",
         "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 204461,
       "name": "Mydriase",
       "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Naomi",
+        "url": "https://open.spotify.com/album/732MHsEpWkJRnAkrvXdtoi"
+      },
+      "artists": [
+        {
+          "name": "Naomi",
+          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Pas le temps de jouer",
+      "url": "https://open.spotify.com/track/5IYD6Jw0CdpEZTuQF3Jw0K"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Anh\u00e9donie",
-        "url": "https://open.spotify.com/album/7188natmAynJElRoh3pKWD"
-      },
-      "artists": [
-        {
-          "name": "Pierre Guitard",
-          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
-        }
-      ],
-      "duration_ms": 342280,
-      "name": "Pourtant",
-      "url": "https://open.spotify.com/track/4ZYnrqFlddLKvCH1SKuV5l"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
         "url": "https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 151253,
       "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
       "url": "https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Anh\u00e9donie",
+        "url": "https://open.spotify.com/album/7188natmAynJElRoh3pKWD"
+      },
+      "artists": [
+        {
+          "name": "Pierre Guitard",
+          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
+        }
+      ],
+      "duration_ms": 342280,
+      "name": "Pourtant",
+      "url": "https://open.spotify.com/track/4ZYnrqFlddLKvCH1SKuV5l"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pas l'temps d'niaiser",
-        "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
-      },
-      "artists": [
-        {
-          "name": "Les H\u00f4tesses D' Hilaire",
-          "url": "https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Inconfortable",
-      "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Chou",
         "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 123541,
       "name": "Chou",
       "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pas l'temps d'niaiser",
+        "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
+      },
+      "artists": [
+        {
+          "name": "Les H\u00f4tesses D' Hilaire",
+          "url": "https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Inconfortable",
+      "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
     },
     {
       "added_at": "2023-05-25 23:46:15",

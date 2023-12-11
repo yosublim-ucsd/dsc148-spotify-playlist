@@ -4,12 +4,13 @@
 
 > Featuring YOVNGCHIMI, Myke Towers, Don Omar & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-26 songs - 1 hr 29 min
+27 songs - 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Al Dia](https://open.spotify.com/track/4ZX3ui4xclh7h5XXCZMo3p) | [Kele](https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Al Dia](https://open.spotify.com/album/5c7ikVWg62OlZWFC4iGOJP) | 5:15 | 2023-02-14 |  |
-| [Baby Glock](https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv) | 2:45 | 2023-02-14 |  |
+| [Baby Glock](https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv) | 2:45 | 2023-02-14 | 2023-12-11 |
+| [Baby Glock \(with Hydro\)](https://open.spotify.com/track/3nJRll2b0cPAA55igh2oqr) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 2:45 | 2023-02-14 |  |
 | [BABY OTAKU](https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [BABY OTAKU](https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G) | 2:56 | 2023-02-14 |  |
 | [Bandoleros](https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Los Bandoleros](https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw) | 5:05 | 2023-02-14 |  |
 | [Besties \- Remix](https://open.spotify.com/track/4v7KHnsIpCKCQaPAPWUJD0) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Besties \(Remix\)](https://open.spotify.com/album/3NvpDUAiKjiZ4xbk9EiF5a) | 5:03 | 2023-02-14 |  |

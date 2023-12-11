@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 12726,
+  "num_followers": 12723,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzM3NTA4ODVmNmZkZTYyMmFjMGNjMDI4ZDM2YTc5YmM1MGE0Zjg4",
+  "snapshot_id": "MCw0MzljZDk0MWJjZGJjMDIyNGI1MjYxZjZhM2UxOTVjNzg2YjZiZjM2",
   "tracks": [
     {
       "added_at": "2023-11-04 06:04:29",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
+        "name": "The Film",
+        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 196386,
+      "name": "The Film",
+      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
         "name": "Stay (Feat. Youlakk)",
         "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 208771,
       "name": "Stay (Feat. Youlakk)",
       "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "The Film",
-        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 196386,
-      "name": "The Film",
-      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
-      },
-      "artists": [
-        {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
-        }
-      ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -659,22 +643,6 @@
       "duration_ms": 171500,
       "name": "a story to tell (Original Ver.)",
       "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/0WBqQSi54g3khAPyVTGHhv"
-      },
-      "artists": [
-        {
-          "name": "kimujoo",
-          "url": "https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf"
-        }
-      ],
-      "duration_ms": 204813,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/5MePbEuuuTGWDJi6UbNFgb"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -695,6 +663,38 @@
       "duration_ms": 220496,
       "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
       "url": "https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/0WBqQSi54g3khAPyVTGHhv"
+      },
+      "artists": [
+        {
+          "name": "kimujoo",
+          "url": "https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf"
+        }
+      ],
+      "duration_ms": 204813,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/5MePbEuuuTGWDJi6UbNFgb"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Seoul Check-in OST Part 8",
-        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+        "name": "Seoul Check-in OST Part 8",
+        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
       },
       "artists": [
         {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 213327,
-      "name": "Going home",
-      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+      "duration_ms": 178758,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -823,6 +807,22 @@
       "duration_ms": 187173,
       "name": "Lazy Me",
       "url": "https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "duration_ms": 213327,
+      "name": "Going home",
+      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
     },
     {
       "added_at": "2023-11-04 06:04:29",

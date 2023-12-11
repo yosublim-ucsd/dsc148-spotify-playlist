@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-273 songs - 15 hr 33 min
+274 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 | 2021-07-16 |  |
 | [Fever](https://open.spotify.com/track/3La5HUF1nBwTVCWjwOpEmz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Fever](https://open.spotify.com/album/5IoORLuEpBsvIfCALa0rim) | 3:56 | 2021-07-16 | 2023-01-28 |
 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 | 2021-07-16 |  |
-| [Fix You](https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 3:12 | 2021-07-16 |  |
+| [Fix You](https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 3:12 | 2021-07-16 | 2023-12-11 |
 | [Flowers](https://open.spotify.com/track/0Ys9zkCKuGpBO9wHBG30Jj) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Disturbing Body](https://open.spotify.com/album/0T7mEuUdWxVECRH3LIt4EE) | 2:19 | 2021-07-16 | 2022-10-15 |
 | [Flowers](https://open.spotify.com/track/1i888NGaVHKEZX8ooyKMJv) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Disturbing Body](https://open.spotify.com/album/769s0o4Q4cWxhN3cJUYnHS) | 2:19 | 2021-07-16 | 2023-04-02 |
 | [Flowers](https://open.spotify.com/track/6bQx6qOENXNZOg404fDD3U) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Flowers](https://open.spotify.com/album/1TuLZxWiU277r6sk4ZZkIz) | 2:19 | 2021-07-16 | 2022-07-29 |
@@ -240,6 +240,7 @@
 | [The Day I Left Hanoi](https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y) | [Jokai](https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz) | [The Day I Left Hanoi](https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh) | 3:49 | 2021-07-16 | 2023-01-03 |
 | [The Day That We First Met](https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [The Day That We First Met](https://open.spotify.com/album/6iw7Nwas2Qw3ByoVCh3g6r) | 3:40 | 2021-07-16 | 2022-07-29 |
 | [The Moons Detriment](https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [The Moons Detriment](https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m) | 2:35 | 2021-07-16 | 2023-11-23 |
+| [The Moons Detriment](https://open.spotify.com/track/0tVGryiARVH5XuOM2S8Rn0) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 2:35 | 2023-06-09 |  |
 | [There's Nothing Holdin Me Back](https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [There's Nothing Holdin Me Back](https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU) | 3:19 | 2021-07-16 |  |
 | [This Is What You Did](https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:12 | 2021-07-16 |  |
 | [This Letter](https://open.spotify.com/track/6Coj030ZmrxVdbccR0F0Yj) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [This Letter](https://open.spotify.com/album/1EOeUNDvffyZ4S9Baj64yI) | 3:25 | 2021-07-16 | 2022-07-28 |

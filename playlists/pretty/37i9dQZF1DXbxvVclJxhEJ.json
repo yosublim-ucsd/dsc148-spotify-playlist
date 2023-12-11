@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 42936,
+  "num_followers": 43009,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Ma Rainey",
-        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 146226,
-      "name": "Runaway Blues",
-      "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "The Chess Story 1957-1964",
         "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 171266,
       "name": "I'm A Little Mixed Up",
       "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 146226,
+      "name": "Runaway Blues",
+      "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Haunted House Blues",
-      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
         "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 182400,
       "name": "Man Stealer Blues",
       "url": "https://open.spotify.com/track/6Ad9JbwY1HGjbNhVYddNbk"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Haunted House Blues",
+      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Those Dirty Blues, Vol. 2",
-        "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
-      },
-      "artists": [
-        {
-          "name": "Hattie North & Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Honey Dripper Blues",
-      "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "High Flying Bird",
         "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
@@ -779,6 +763,38 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "Those Dirty Blues, Vol. 2",
+        "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
+      },
+      "artists": [
+        {
+          "name": "Hattie North & Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Honey Dripper Blues",
+      "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Tonight's the Night",
+        "url": "https://open.spotify.com/album/29MBxwwCj9k7jt6Z6mUTnv"
+      },
+      "artists": [
+        {
+          "name": "Julia Lee",
+          "url": "https://open.spotify.com/artist/12YnPfu3zqQ9uOalclG0bK"
+        }
+      ],
+      "duration_ms": 175253,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/6qURWmWdKXkoGGvEl2iiEi"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Sings... Me And The Blues",
         "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
       },
@@ -791,6 +807,22 @@
       "duration_ms": 180560,
       "name": "Don't Worry 'Bout Strangers",
       "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Ma Rainey Vol. 3 (1925-1926)",
+        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 175726,
+      "name": "Stack O'Lee Blues",
+      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -815,18 +847,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Ma Rainey Vol. 3 (1925-1926)",
-        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
+        "name": "Bertha \"Chippie\" Hill 1925-1929",
+        "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
       },
       "artists": [
         {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+          "name": "Bertha \"Chippie\" Hill",
+          "url": "https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E"
         }
       ],
-      "duration_ms": 175726,
-      "name": "Stack O'Lee Blues",
-      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
+      "duration_ms": 164624,
+      "name": "Trouble In Mind (9510)",
+      "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -843,54 +875,6 @@
       "duration_ms": 184111,
       "name": "Evil Mama Blues",
       "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Tonight's the Night",
-        "url": "https://open.spotify.com/album/29MBxwwCj9k7jt6Z6mUTnv"
-      },
-      "artists": [
-        {
-          "name": "Julia Lee",
-          "url": "https://open.spotify.com/artist/12YnPfu3zqQ9uOalclG0bK"
-        }
-      ],
-      "duration_ms": 175253,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/6qURWmWdKXkoGGvEl2iiEi"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Female Blues Singers Vol. 1 A/B (1924-1932)",
-        "url": "https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB"
-      },
-      "artists": [
-        {
-          "name": "Ora Alexander",
-          "url": "https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl"
-        }
-      ],
-      "duration_ms": 183667,
-      "name": "I Crave Your Lovin' Every Day",
-      "url": "https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Bertha \"Chippie\" Hill 1925-1929",
-        "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
-      },
-      "artists": [
-        {
-          "name": "Bertha \"Chippie\" Hill",
-          "url": "https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E"
-        }
-      ],
-      "duration_ms": 164624,
-      "name": "Trouble In Mind (9510)",
-      "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -923,6 +907,22 @@
       "duration_ms": 142293,
       "name": "Every Night (a.k.a. Baby Baby Every Night)",
       "url": "https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Female Blues Singers Vol. 1 A/B (1924-1932)",
+        "url": "https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB"
+      },
+      "artists": [
+        {
+          "name": "Ora Alexander",
+          "url": "https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl"
+        }
+      ],
+      "duration_ms": 183667,
+      "name": "I Crave Your Lovin' Every Day",
+      "url": "https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
-        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
-      },
-      "artists": [
-        {
-          "name": "Mozelle Alderson",
-          "url": "https://open.spotify.com/artist/7s0emFTwgBW7DQw7n3X4Yu"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "Tight in Chicago",
-      "url": "https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Stationary Mama",
         "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 168973,
       "name": "How Come You Do Me Like You Do?",
       "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
+        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
+      },
+      "artists": [
+        {
+          "name": "Mozelle Alderson",
+          "url": "https://open.spotify.com/artist/7s0emFTwgBW7DQw7n3X4Yu"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Tight in Chicago",
+      "url": "https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV"
     },
     {
       "added_at": "2023-08-23 10:15:28",

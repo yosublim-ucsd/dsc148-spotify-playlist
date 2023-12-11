@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 204921,
+  "num_followers": 205019,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjUyYzBkNGZiY2ZlM2U5NGFiMjQzNTY0ODk0OTQ4ZDk3NWE1Zjlh",
+  "snapshot_id": "MCw2MzE3Y2E2MzYzMDhlNzE2MzdmNzQzM2I2YWJkMDE5YmU5ZTNhNTI3",
   "tracks": [
     {
       "added_at": "2023-11-24 08:43:33",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "The Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Jazz Trio",
-          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
-        }
-      ],
-      "duration_ms": 232261,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 194030,
       "name": "Chovendo Na Roseira",
       "url": "https://open.spotify.com/track/4FwoSbAlyYBm2hsmAb6S7Q"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Trio",
+          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
+        }
+      ],
+      "duration_ms": 232261,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Qualquer Coisa",
+        "url": "https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Samba E Amor",
+      "url": "https://open.spotify.com/track/044fQ35cLbMVwta0KyN5dM"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Vaidoso",
         "url": "https://open.spotify.com/album/1c8sfO9ugBr4SHYChqewTC"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 180641,
       "name": "Vaidoso",
       "url": "https://open.spotify.com/track/30wH1ebVpN4yCfXqEbNhMG"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Qualquer Coisa",
-        "url": "https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Samba E Amor",
-      "url": "https://open.spotify.com/track/044fQ35cLbMVwta0KyN5dM"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "\u00cdndia",
-        "url": "https://open.spotify.com/album/0jKrhKSGwTc4ZJ1cBvtRpI"
-      },
-      "artists": [
-        {
-          "name": "Last Aliens in Rio",
-          "url": "https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8"
-        }
-      ],
-      "duration_ms": 188597,
-      "name": "\u00cdndia - Tarde de Sol",
-      "url": "https://open.spotify.com/track/78wqr91hQ7oX3H5FEOE6zF"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Semente Chorojazz",
         "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 267000,
       "name": "Sambete",
       "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "\u00cdndia",
+        "url": "https://open.spotify.com/album/0jKrhKSGwTc4ZJ1cBvtRpI"
+      },
+      "artists": [
+        {
+          "name": "Last Aliens in Rio",
+          "url": "https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8"
+        }
+      ],
+      "duration_ms": 188597,
+      "name": "\u00cdndia - Tarde de Sol",
+      "url": "https://open.spotify.com/track/78wqr91hQ7oX3H5FEOE6zF"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "O Estrangeiro",
-        "url": "https://open.spotify.com/album/2RlEZzMaHe520j2LtRj08d"
-      },
-      "artists": [
-        {
-          "name": "V\u00edtor Guima",
-          "url": "https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Por A\u00ed",
-      "url": "https://open.spotify.com/track/1YbIcj0uulunkhqFn2uJww"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Da Hora",
         "url": "https://open.spotify.com/album/7nPkLH5JVbbc1mvesc6cGi"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 275574,
       "name": "Nada \u00e9 Melhor Do Que Voc\u00ea",
       "url": "https://open.spotify.com/track/5av3enKGwy5cfBKX8dpQ4r"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "O Estrangeiro",
+        "url": "https://open.spotify.com/album/2RlEZzMaHe520j2LtRj08d"
+      },
+      "artists": [
+        {
+          "name": "V\u00edtor Guima",
+          "url": "https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Por A\u00ed",
+      "url": "https://open.spotify.com/track/1YbIcj0uulunkhqFn2uJww"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Selfie",
+        "url": "https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz"
+      },
+      "artists": [
+        {
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
+        }
+      ],
+      "duration_ms": 187905,
+      "name": "Seres Incriveis",
+      "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Veja Bem Meu Bem (Single)",
         "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 322202,
       "name": "Veja Bem Meu Bem",
       "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Selfie",
-        "url": "https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz"
-      },
-      "artists": [
-        {
-          "name": "Jair Oliveira",
-          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
-        }
-      ],
-      "duration_ms": 187905,
-      "name": "Seres Incriveis",
-      "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Saudades de Amanh\u00e3",
-        "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
-      },
-      "artists": [
-        {
-          "name": "Antonio Carlos Bigonha",
-          "url": "https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK"
-        }
-      ],
-      "duration_ms": 275370,
-      "name": "Perto do Tom",
-      "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Terra Papagali Coffee Shop",
         "url": "https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Saudades de Amanh\u00e3",
+        "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
+      },
+      "artists": [
+        {
+          "name": "Antonio Carlos Bigonha",
+          "url": "https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK"
+        }
+      ],
+      "duration_ms": 275370,
+      "name": "Perto do Tom",
+      "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Joao",
         "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "O Melhor Carinho",
-        "url": "https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o"
-      },
-      "artists": [
-        {
-          "name": "Elisa Gudin",
-          "url": "https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I"
-        }
-      ],
-      "duration_ms": 193324,
-      "name": "O Melhor Carinho",
-      "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Voc\u00ea E Eu",
         "url": "https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 179299,
       "name": "Voc\u00ea E Eu",
       "url": "https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "O Melhor Carinho",
+        "url": "https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o"
+      },
+      "artists": [
+        {
+          "name": "Elisa Gudin",
+          "url": "https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I"
+        }
+      ],
+      "duration_ms": 193324,
+      "name": "O Melhor Carinho",
+      "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Deslizando Na Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT"
-      },
-      "artists": [
-        {
-          "name": "Marcos Lessa",
-          "url": "https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ"
-        }
-      ],
-      "duration_ms": 173213,
-      "name": "Pega Esse Sambete A\u00ed",
-      "url": "https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Palavra Alada 1",
         "url": "https://open.spotify.com/album/7k4B1RcDhKchDEBccyEuc0"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 267488,
       "name": "Choro de Ver\u00e3o",
       "url": "https://open.spotify.com/track/6wn4H2ORKskGU81H6Hpook"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Deslizando Na Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT"
+      },
+      "artists": [
+        {
+          "name": "Marcos Lessa",
+          "url": "https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ"
+        }
+      ],
+      "duration_ms": 173213,
+      "name": "Pega Esse Sambete A\u00ed",
+      "url": "https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Bossa Got the Blues",
+        "url": "https://open.spotify.com/album/5dEp2QTwiqkTJGMPR4IK0i"
+      },
+      "artists": [
+        {
+          "name": "Bossacucanova",
+          "url": "https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        }
+      ],
+      "duration_ms": 180665,
+      "name": "Bossa Got The Blues",
+      "url": "https://open.spotify.com/track/5vMu1L01Bc437QjNdC1Ezp"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Quase Mem\u00f3ria",
         "url": "https://open.spotify.com/album/2uOXIfvOEPPvSdCqoKAiu6"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 226653,
       "name": "Terra do Nunca",
       "url": "https://open.spotify.com/track/7ccMcBkYbGyEdXxQF85kGV"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Bossa Got the Blues",
-        "url": "https://open.spotify.com/album/5dEp2QTwiqkTJGMPR4IK0i"
-      },
-      "artists": [
-        {
-          "name": "Bossacucanova",
-          "url": "https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        }
-      ],
-      "duration_ms": 180665,
-      "name": "Bossa Got The Blues",
-      "url": "https://open.spotify.com/track/5vMu1L01Bc437QjNdC1Ezp"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Parti Capuri",
+        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
+      },
+      "artists": [
+        {
+          "name": "Billynho Blanco",
+          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Parti Capuri",
+      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "A Banca do Distinto",
         "url": "https://open.spotify.com/album/5xWkhmNrlCtTfj8BOSSClj"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 152338,
       "name": "A Banca do Distinto",
       "url": "https://open.spotify.com/track/7kM9MuAIlRY3h0I8JnO68F"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Parti Capuri",
-        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
-      },
-      "artists": [
-        {
-          "name": "Billynho Blanco",
-          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Parti Capuri",
-      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
     },
     {
       "added_at": "2023-11-24 08:43:33",

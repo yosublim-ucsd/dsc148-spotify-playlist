@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 232600,
+  "num_followers": 232689,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWM2ZWZmMTMxN2Y1OWI4NzAyYmFkZGQ0MzIxNjM1OTM1ZjdmZjBi",
+  "snapshot_id": "MCw4ODY3MmZjMzBkY2IxYTg1ZGY1NGI4ZGNiN2JkMzE3YTBiNjNlMmY5",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "La Historia\u2026Mis \u00c9xitos",
-        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "Me Voy - Bachata",
-      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Sentimiento",
         "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 194400,
       "name": "Morire Bebiendo",
       "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "La Historia\u2026Mis \u00c9xitos",
+        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 242320,
+      "name": "Me Voy - Bachata",
+      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "Como Yo",
+        "url": "https://open.spotify.com/album/71dYjwPdkThUSdajTtKoXz"
+      },
+      "artists": [
+        {
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+        }
+      ],
+      "duration_ms": 220264,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4dlO6SdyflPGww0GCShmgh"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 219666,
       "name": "Laudano",
       "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Como Yo",
-        "url": "https://open.spotify.com/album/71dYjwPdkThUSdajTtKoXz"
-      },
-      "artists": [
-        {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
-        }
-      ],
-      "duration_ms": 220264,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4dlO6SdyflPGww0GCShmgh"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1583,18 +1583,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "La Luz De Mis Ojos",
-        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
+        "name": "Besito en la Boca",
+        "url": "https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk"
       },
       "artists": [
         {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+        },
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
         }
       ],
-      "duration_ms": 229613,
-      "name": "La Luz De Mis Ojos",
-      "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
+      "duration_ms": 251250,
+      "name": "Besito en la Boca",
+      "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1615,22 +1619,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Besito en la Boca",
-        "url": "https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk"
+        "name": "La Luz De Mis Ojos",
+        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
       "artists": [
         {
-          "name": "Samanez",
-          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
-        },
-        {
-          "name": "Gaby Zambrano",
-          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
         }
       ],
-      "duration_ms": 251250,
-      "name": "Besito en la Boca",
-      "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
+      "duration_ms": 229613,
+      "name": "La Luz De Mis Ojos",
+      "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
     },
     {
       "added_at": "2023-04-27 23:54:49",

@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Yeng Constantino",
-  "num_followers": 2444988,
+  "num_followers": 2445473,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDI2YWQ5MTE5MTJkMzY2MDg2Nzg5NGUxOTgwZTYwN2Q2NmY1NWE2",
+  "snapshot_id": "MCw4NDdiMTBmNDVlODE0ODk4NzdkYmViNTNkMjI4MTdmM2FkYzQ1N2Nk",
   "tracks": [
     {
       "added_at": "2023-09-13 05:36:31",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Isa lang",
         "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 269256,
       "name": "Isa lang",
       "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -159,18 +159,18 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Episode",
-        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+        "name": "Letters Never Sent",
+        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Give Me Your Forever",
-      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+      "duration_ms": 245760,
+      "name": "Higa",
+      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Letters Never Sent",
-        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 245760,
-      "name": "Higa",
-      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
+      "duration_ms": 244800,
+      "name": "Give Me Your Forever",
+      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Yakap",
-        "url": "https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 178947,
-      "name": "Yakap",
-      "url": "https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Sana",
         "url": "https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 260599,
       "name": "Di Na Muli",
       "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Yakap",
+        "url": "https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 178947,
+      "name": "Yakap",
+      "url": "https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Hale",
-        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
-      },
-      "artists": [
-        {
-          "name": "Hale",
-          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "Kahit Pa",
-      "url": "https://open.spotify.com/track/444aHC3uiDijx7jzmMkIUK"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Monodramatic",
         "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 253360,
       "name": "Sa'yo",
       "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "Kahit Pa",
+      "url": "https://open.spotify.com/track/444aHC3uiDijx7jzmMkIUK"
     },
     {
       "added_at": "2023-09-13 05:36:31",

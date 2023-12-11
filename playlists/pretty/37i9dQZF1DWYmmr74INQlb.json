@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 20 years of \"Diary of Alicia Keys\". Cover: Alicia Keys",
-  "num_followers": 4608540,
+  "num_followers": 4609154,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTVhZDJhOGNiYmViNjE0Y2M0NGQxMmMwZWRlZjJkZDY1NzRhMjgw",
+  "snapshot_id": "MCw1Y2NiNjdiMDhjODY0NjIxNGY5OWNhZGFlN2QyNThjNjY5MmM2M2Qy",
   "tracks": [
     {
       "added_at": "2023-12-03 16:39:22",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
     },
     {
-      "added_at": "2023-11-09 23:03:46",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 238760,
-      "name": "1 Thing",
-      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Street Love",
@@ -339,6 +323,22 @@
       "duration_ms": 273133,
       "name": "You",
       "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"
+    },
+    {
+      "added_at": "2023-11-09 23:03:46",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "1 Thing",
+      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
     },
     {
       "added_at": "2023-09-14 14:32:45",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Bluestars",
+        "url": "https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE"
+      },
+      "artists": [
+        {
+          "name": "Pretty Ricky",
+          "url": "https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Grind With Me",
+      "url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Intuition",
@@ -819,22 +835,6 @@
       "duration_ms": 289746,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Bluestars",
-        "url": "https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE"
-      },
-      "artists": [
-        {
-          "name": "Pretty Ricky",
-          "url": "https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "Grind With Me",
-      "url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Aaliyah",
@@ -1255,6 +1239,22 @@
       "duration_ms": 229866,
       "name": "More Than A Woman",
       "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1493,20 +1493,20 @@
       "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
         }
       ],
-      "duration_ms": 224146,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
+      "duration_ms": 284666,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1541,20 +1541,20 @@
       "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Open Letter",
-        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
       "artists": [
         {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 284666,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
+      "duration_ms": 224146,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1589,6 +1589,22 @@
       "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Ms. Kelly",
@@ -1607,22 +1623,6 @@
       "duration_ms": 215853,
       "name": "Like This (feat. Eve)",
       "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
     },
     {
       "added_at": "2022-08-21 11:22:08",

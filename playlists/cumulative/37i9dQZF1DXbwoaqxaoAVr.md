@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny summer vibe!
 
-167 songs - 10 hr 34 min
+168 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [As You Are \- Shy FX Remix](https://open.spotify.com/track/5LBsjW8qNjTpHFPeBoVwca) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [As You Are \(Remixes\)](https://open.spotify.com/album/5jl3bZodIYwlQKAolggKyG) | 3:25 | 2022-07-07 |  |
 | [Bad Habits](https://open.spotify.com/track/741vtogYZT2POD24ma6X7k) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4) | [Bad Habits](https://open.spotify.com/album/2Ofbih2q7WqJKrpubxr20H) | 3:46 | 2021-11-25 | 2022-08-27 |
 | [Baltimore](https://open.spotify.com/track/4OXVBbmqS1YoLTHrYYimuw) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Baltimore](https://open.spotify.com/album/0GB2QWABy8Uij9UIS1E10Z) | 5:03 | 2021-11-25 | 2023-05-21 |
-| [Be With You \- 2022 Version](https://open.spotify.com/track/0DpRKdn06BWfJlFd7eAyZt) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Sons of Zion](https://open.spotify.com/album/0UeLDwEOhTWT3pDbJ4otLc) | 3:40 | 2022-12-22 |  |
+| [Be With You \- 2022 Version](https://open.spotify.com/track/0DpRKdn06BWfJlFd7eAyZt) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Sons of Zion](https://open.spotify.com/album/0UeLDwEOhTWT3pDbJ4otLc) | 3:40 | 2022-12-22 |  |
 | [Beautiful Things](https://open.spotify.com/track/5f1ipolg7GbqPvU82RrPKW) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [Beautiful Things](https://open.spotify.com/album/5AHhfT944fJxDCAwXzSlHn) | 4:04 | 2021-11-25 | 2022-07-29 |
 | [Beautiful Things](https://open.spotify.com/track/5mxW7RsgYQ0wlhiK4qcpFI) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [Beautiful Things](https://open.spotify.com/album/3hlrDC42IzSM8B6qnFVuwW) | 4:04 | 2022-11-10 | 2022-11-14 |
 | [Beautiful Things \(Remix\)](https://open.spotify.com/track/1OhaZufeyAo6bve6Dm8hWR) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [New Again](https://open.spotify.com/album/5RN7Lm1aUvOsr7viqOl4x4) | 4:05 | 2022-07-07 | 2023-05-12 |
@@ -50,7 +50,8 @@
 | [Every Day \(feat\. Romain Virgo, Fiji\)](https://open.spotify.com/track/6MaY1vrV1kgOhUxb0XwfjD) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Every Day \(feat\. Romain Virgo, Fiji\)](https://open.spotify.com/album/6m51kg4NdKR3zzPNetb1qL) | 3:51 | 2023-11-09 |  |
 | [Flowers](https://open.spotify.com/track/77mExXdHBmXHy2Ge14T3l9) | [Khalia](https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR), [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH) | [Flowers](https://open.spotify.com/album/6RIKM60SSomYggvqXtppKE) | 3:51 | 2023-06-10 |  |
 | [Fly High](https://open.spotify.com/track/1A0GQQTh59wxrM5OT4Dw0o) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y), [Hindi Zahra](https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S) | [Fly High](https://open.spotify.com/album/2P2mEfHVA713lsDSIs1Qkf) | 3:10 | 2021-11-25 | 2022-02-26 |
-| [Get Free](https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:49 | 2022-07-07 |  |
+| [Get Free](https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:49 | 2022-07-07 | 2023-12-11 |
+| [Get Free](https://open.spotify.com/track/56hYeuutlZO5Pkm99FzLCW) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8) | 4:49 | 2023-11-09 |  |
 | [Get Free](https://open.spotify.com/track/5BervU7PHyHTtYpzT3bYAD) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Get Free](https://open.spotify.com/album/2Ph6OVeGhl8LwgmkG9HKh4) | 4:49 | 2022-11-10 | 2022-11-12 |
 | [Get Free](https://open.spotify.com/track/0pHYQzbf7xJiSCn79w8Efb) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber of Dirty Projectors](https://open.spotify.com/artist/6ZNxsFRXMi2yGGgOtVZsrr) | [Get Free \(feat\. Amber of Dirty Projectors\)](https://open.spotify.com/album/2tH6X8xxt0p7EVQ0fcScL2) | 4:49 | 2021-11-25 | 2022-07-29 |
 | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF) | 4:34 | 2023-11-09 |  |

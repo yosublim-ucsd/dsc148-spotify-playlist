@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 130837,
+  "num_followers": 130856,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDNiYmE5ZjI4MjgwZTQ1MzNlNGIwNDZiMmNhZWVlZWRhNWNkZDc4",
+  "snapshot_id": "MCw3NGY5NjQ3MTEzYmY5M2E5MmI2MDY2OTk4YjZmNjVkMmViMTUyMTQ2",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "La femme \u00e0 la peau bleue",
-      "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Dancy Party",
         "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "La femme \u00e0 la peau bleue",
+      "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "nice 2 me",
-        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        }
-      ],
-      "duration_ms": 171622,
-      "name": "nice 2 me",
-      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Rita Lee & Roberto \u2013 Classix Remix Vol. l",
         "url": "https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 195840,
       "name": "Mania De Voc\u00ea - Dubdogz & Watzgood Remix / Radio Edit",
       "url": "https://open.spotify.com/track/6oxlS3jlN3aVslynpnCEe5"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "nice 2 me",
+        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "duration_ms": 171622,
+      "name": "nice 2 me",
+      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 306720,
+      "name": "Elixir",
+      "url": "https://open.spotify.com/track/00bz5bGRGFMfACJWfhMSxx"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Moment EP",
         "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Rain Check",
-        "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
-        }
-      ],
-      "duration_ms": 136618,
-      "name": "Rain Check",
-      "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -1319,6 +1319,22 @@
       "duration_ms": 274716,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Rain Check",
+        "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "duration_ms": 136618,
+      "name": "Rain Check",
+      "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1399,6 +1415,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Young Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 279676,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Discoman",
         "url": "https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT"
       },
@@ -1419,22 +1451,6 @@
       "duration_ms": 220420,
       "name": "Discoman",
       "url": "https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Young Romance (Deluxe)",
-        "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 279676,
-      "name": "Falling Back",
-      "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Aguado",
-          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Through The Night",
-      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Lindstrom & Prins Thomas",
         "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 229386,
       "name": "Boney M Down",
       "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Through The Night",
+      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1711,22 +1727,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
       },
@@ -1739,6 +1739,22 @@
       "duration_ms": 275746,
       "name": "Canta",
       "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1799,22 +1815,6 @@
       "duration_ms": 350851,
       "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
       "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
-      },
-      "artists": [
-        {
-          "name": "Tab\u00fa",
-          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
-        }
-      ],
-      "duration_ms": 220038,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

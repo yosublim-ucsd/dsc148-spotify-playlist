@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,464 likes - 77 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,675 likes - 77 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 |
+| 1 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Sweat \(A La La La La Long\)](https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg) | 3:49 |
 | 2 | [Let's Do It Again](https://open.spotify.com/track/4TBtGrMgUYH7D5Tf5HLvyz) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:12 |
 | 3 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 |
 | 4 | [Casanova](https://open.spotify.com/track/4lJLnVBDuYMj6Knll4Wcnc) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Casanova](https://open.spotify.com/album/0XFw2p6US2uootA3nofB65) | 3:38 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 47 | [If Tomorrow Never Comes](https://open.spotify.com/track/22ZZBq0OsmYAaKv7seN9Gz) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/3t4ZMKrNUIwsuLoe46XBqh) | 3:50 |
 | 48 | [My Guy \(with Wayno\)](https://open.spotify.com/track/5w9fFUqIzcp1tebYIkBfko) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [21](https://open.spotify.com/album/78J8bZXTc1Wr7DXg6lyAeg) | 3:51 |
 | 49 | [Be Alright](https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Be Alright](https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr) | 3:13 |
-| 50 | [Road Trip](https://open.spotify.com/track/4z7cAWJg5EfFoaYXmx15xj) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/4MCqdqhhPcrOmyVBPsnRzh) | 3:09 |
+| 50 | [Road Trip](https://open.spotify.com/track/4z7cAWJg5EfFoaYXmx15xj) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/4MCqdqhhPcrOmyVBPsnRzh) | 3:09 |
 | 51 | [Oh My Goodness Ft\. Big Steve](https://open.spotify.com/track/0ySxHGWdbENkqGdthmBxps) | [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [Dear Billy](https://open.spotify.com/album/0DOQvfdera8Np9cZ7ppSC2) | 4:03 |
 | 52 | [Smokin' Love \(with Collie Buddz\)](https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 3:34 |
 | 53 | [Homebound](https://open.spotify.com/track/7MteePJlHvmj0XZmGuIokA) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [Homebound](https://open.spotify.com/album/2GN1dUFmDULuoCMNveEVcr) | 3:46 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 56 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 |
 | 57 | [Fire](https://open.spotify.com/track/2DyRPkBu8gHPdhxnUjQ86D) | [Soul Brown](https://open.spotify.com/artist/4gRJyO5LOBVHkbJz4W4tTU), [Kabin Bread Boyz](https://open.spotify.com/artist/4bo1Rnjq7uRSYVxTfa1XXO) | [Fire](https://open.spotify.com/album/6s5VEE4s07qFTF3zdezGI7) | 4:04 |
 | 58 | [Coming Home](https://open.spotify.com/track/0b3MO0oAXgxpUUh1idkBcW) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/4M6mGR7ZhUu6y7zTgjTWs2) | 5:31 |
-| 59 | [Party](https://open.spotify.com/track/0AHbwnfwocPdIN9CvQCYKr) | [House Of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Island Vibration](https://open.spotify.com/album/01G2mx0ulpRXWEYr7jnVvI) | 4:37 |
+| 59 | [Party](https://open.spotify.com/track/0AHbwnfwocPdIN9CvQCYKr) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Island Vibration](https://open.spotify.com/album/01G2mx0ulpRXWEYr7jnVvI) | 4:37 |
 | 60 | [Love Mi Bad](https://open.spotify.com/track/3wni9NKQ88KnU2LLa5rkAK) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Love Mi Bad](https://open.spotify.com/album/5ddeqiKpSSfKkl7RDXBEBe) | 2:40 |
 | 61 | [Duduke](https://open.spotify.com/track/1Dugqy9EGYV66nkp7yLiA4) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/5LfTq81m11TP8TqTGV2aHk) | 2:52 |
 | 62 | [My Everything](https://open.spotify.com/track/0sPw3mbkSbtIIkBmVsFjXr) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9) | [My Everything](https://open.spotify.com/album/4UDtxHAZcijAvVhwNenm1P) | 4:13 |

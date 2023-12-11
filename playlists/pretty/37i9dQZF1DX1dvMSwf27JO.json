@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ft Erykah Badu and Usher front row at Marni. ",
-  "num_followers": 527438,
+  "num_followers": 527404,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTc4MGZkNTI1MDEyYWFlZDA3NGJmMmFiZDQ0M2ZlMjFjMjVmOTdl",
+  "snapshot_id": "MCxiNThmODZhMWM5NTU4ODg1MDUzMzdhMDE2YTFiOTg4ODU1YjgwYWM3",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Hitler Wears Hermes 7",
+        "url": "https://open.spotify.com/album/1aefUsOlozdtYI6ukHvrpp"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 61440,
+      "name": "Love U",
+      "url": "https://open.spotify.com/track/1crT4b1YmKckWpK23mSnnO"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Lately EP",
         "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Hitler Wears Hermes 7",
-        "url": "https://open.spotify.com/album/1aefUsOlozdtYI6ukHvrpp"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 61440,
-      "name": "Love U",
-      "url": "https://open.spotify.com/track/1crT4b1YmKckWpK23mSnnO"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Just Sayin' Shit",
-        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
-      },
-      "artists": [
-        {
-          "name": "Flower in Bloom",
-          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
-        }
-      ],
-      "duration_ms": 61717,
-      "name": "Just Sayin' Shit",
-      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 104571,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Just Sayin' Shit",
+        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
+      },
+      "artists": [
+        {
+          "name": "Flower in Bloom",
+          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
+        }
+      ],
+      "duration_ms": 61717,
+      "name": "Just Sayin' Shit",
+      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "VAN GOGH",
-        "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
-      },
-      "artists": [
-        {
-          "name": "METTE",
-          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "VAN GOGH",
-      "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Coven Music Session, Vol. 1",
         "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 58801,
       "name": "60 Seconds",
       "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "VAN GOGH",
+        "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "VAN GOGH",
+      "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 235801,
+      "name": "hmu",
+      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "girls like me don't cry (remix) ft. MIN",
         "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 213283,
       "name": "girls like me don't cry (remix) ft. MIN",
       "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 235801,
-      "name": "hmu",
-      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 56880,
-      "name": "chix - Unfinished",
-      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Toronto Funhouse",
         "url": "https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 120693,
       "name": "Toronto Funhouse",
       "url": "https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 56880,
+      "name": "chix - Unfinished",
+      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Mr Valentine",
-        "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
-      },
-      "artists": [
-        {
-          "name": "YAZ",
-          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
-        }
-      ],
-      "duration_ms": 157875,
-      "name": "Mr Valentine",
-      "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 209108,
       "name": "Closure",
       "url": "https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Mr Valentine",
+        "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
+      },
+      "artists": [
+        {
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+        }
+      ],
+      "duration_ms": 157875,
+      "name": "Mr Valentine",
+      "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1703,18 +1703,26 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+        "name": "froge.mp3",
+        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
       "artists": [
         {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
         }
       ],
-      "duration_ms": 221613,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3"
+      "duration_ms": 154400,
+      "name": "silver lining",
+      "url": "https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy"
     }
   ],
   "unique_name": "'fit check",

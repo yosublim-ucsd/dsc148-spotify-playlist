@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-288 songs - 18 hr 20 min
+289 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,10 +95,10 @@
 | [Forces du désordre](https://open.spotify.com/track/2hWlaul9Wj3tUBTmEPrv7i) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF) | 4:43 | 2022-09-12 | 2023-06-28 |
 | [From The Sea To Your Mind](https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [From The Sea To Your Mind](https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9) | 5:29 | 2022-03-24 | 2023-10-24 |
 | [Full Circle Back](https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Full Circle Back](https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu) | 3:46 | 2022-04-17 | 2023-05-12 |
-| [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 | 2022-01-03 | 2023-11-11 |
+| [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 | 2022-01-03 |  |
 | [Funny Job](https://open.spotify.com/track/1UkK5H2jqo3AsT1BqWN18p) | [Alista](https://open.spotify.com/artist/61hCos6hISn5le08kOOkIc) | [Home Alone](https://open.spotify.com/album/487GnXko7mltMClLrOXiI5) | 3:46 | 2021-12-15 |  |
 | [Get Down](https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP) | [Dewaere](https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF) | [Slot Logic](https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W) | 3:24 | 2021-12-15 | 2023-11-11 |
-| [Get Out](https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl) | [PALES](https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX) | [Get Out](https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN) | 3:45 | 2022-02-01 |  |
+| [Get Out](https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl) | [PALES](https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX) | [Get Out](https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN) | 3:45 | 2022-02-01 | 2023-12-11 |
 | [Getaway](https://open.spotify.com/track/5bsYpjfPaItASe2rB5nWIO) | [MEULE](https://open.spotify.com/artist/59z07g6lIQcpb04hzDHN7H) | [Meule](https://open.spotify.com/album/1lkZB1dQUOG37b9lNAxvHo) | 3:48 | 2022-03-24 |  |
 | [Ghetto Blaster](https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [4 AM](https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq) | 5:02 | 2022-04-17 | 2023-06-30 |
 | [Gold Digger Woman](https://open.spotify.com/track/6NnzPYNCUGzxiNhSdAVWyO) | [Uncut](https://open.spotify.com/artist/1VnwZ4jMNVIsOnR2X5VwYs) | [From Blue](https://open.spotify.com/album/2Tkh9QIKdZ7h4nURbfv5xb) | 4:09 | 2021-12-15 | 2023-11-18 |
@@ -119,7 +119,7 @@
 | [Homecoming](https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu) | [Noiseheads](https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q) | [Sitcoms for Aliens](https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6) | 3:05 | 2021-12-31 |  |
 | [Hope](https://open.spotify.com/track/4aHrl8py7CwMO4rJJ6KzXN) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Hope](https://open.spotify.com/album/2eJyTdACTIslhQB92NZzWt) | 3:01 | 2023-05-11 | 2023-07-08 |
 | [Hope](https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Afterparty \- All We Have Is Now](https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU) | 3:01 | 2023-07-05 |  |
-| [HORIZON](https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU) | 3:48 | 2023-01-26 | 2023-12-09 |
+| [HORIZON](https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU) | 3:48 | 2023-01-26 |  |
 | [Hotline](https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [Hotline](https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt) | 4:11 | 2023-11-16 |  |
 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-05-11 | 2023-06-30 |
 | [Humans](https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n) | [Rank\-O](https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF) | [De Novo](https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6) | 3:12 | 2022-04-17 |  |
@@ -182,6 +182,7 @@
 | [No Brain No Shame](https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy) | [J.C\. Satàn](https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW) | [Centaur Desire](https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np) | 3:29 | 2021-12-15 | 2023-05-08 |
 | [No Love](https://open.spotify.com/track/19njmJxhmdDqtR7YiFbm9v) | [Greyfell](https://open.spotify.com/artist/5spUgqt548nWET38ueJ7Kq) | [Horsepower](https://open.spotify.com/album/521jPvDr9aRITcZICFdTmc) | 6:12 | 2022-01-03 | 2022-07-27 |
 | [No Matter What](https://open.spotify.com/track/0XBjcu4H7ZHD7nZykpX2cN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [No Matter What](https://open.spotify.com/album/6YqquSBeAfT3M0znCqQnr5) | 4:20 | 2021-12-31 | 2022-07-22 |
+| [No Way Back](https://open.spotify.com/track/1LOfgqLOdbYOaIUpMNQWqQ) | [Your New Favorite Tape](https://open.spotify.com/artist/4ENnggxXjjdhEKsUwiH2JP) | [No Way Back](https://open.spotify.com/album/1wA9xFBmCIQ86l91WEQvMi) | 2:12 | 2023-11-16 |  |
 | [Nowhere Near Prepared](https://open.spotify.com/track/0gBOasbQ8wXhs0Ji3omdh1) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [Nowhere Near Prepared](https://open.spotify.com/album/7ib5O00WC2qag2JBqNaPa5) | 3:23 | 2023-06-29 | 2023-07-13 |
 | [NYE](https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY) | [Unschooling](https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs) | [Random Acts of Total Control](https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C) | 3:52 | 2022-01-27 |  |
 | [Néant](https://open.spotify.com/track/49KvJyXnYReCKEUcvUsFbF) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Néant](https://open.spotify.com/album/2DNqvxMLvHoBkRqJm3jKNu) | 4:09 | 2023-07-05 |  |
@@ -237,7 +238,7 @@
 | [Skyless](https://open.spotify.com/track/7jh3IHdHMcm9oJBSP9IJJW) | [Affidavit](https://open.spotify.com/artist/2pLCPj16MdarXf0lwPBMN8) | [Skyless](https://open.spotify.com/album/0pSViR11jW0BxCoJBbnkuS) | 4:06 | 2021-12-31 | 2022-07-23 |
 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 | 2023-08-24 |  |
 | [So Quarrelsome](https://open.spotify.com/track/0LQpEbMVphRO59Ag6pjjYE) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/3sDeZ1GrOO8KfK4fYbRnNN) | 3:17 | 2022-03-24 | 2022-04-21 |
-| [So Quarrelsome](https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh) | 3:17 | 2022-06-30 |  |
+| [So Quarrelsome](https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh) | 3:17 | 2022-06-30 | 2023-12-11 |
 | [So Sorry](https://open.spotify.com/track/1jXuf4JztonnpLw3IO0UB9) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Thousand Shadows Vol.1](https://open.spotify.com/album/6QWuE2Js1brZVSvtzlriH3) | 3:21 | 2022-04-17 | 2023-05-27 |
 | [SO TIRED](https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [FRENCH FRIES](https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm) | 3:35 | 2023-06-29 |  |
 | [Someone Will Come For You](https://open.spotify.com/track/4hzHtrLB8mWhLqDA4WC8ub) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [Someone Will Come For You](https://open.spotify.com/album/4WE7A9E3ed18Z9ZbU3ip8V) | 3:32 | 2023-02-03 | 2023-02-15 |
@@ -281,7 +282,7 @@
 | [Vasy](https://open.spotify.com/track/6VKJ18DRQjVFzNBb6GG3D0) | [Fils.](https://open.spotify.com/artist/1Tq8z5jrtwLN5OlvsRKB9T) | [Amorphe](https://open.spotify.com/album/69zFYf5KGASOfFkeFzqJfZ) | 2:13 | 2021-12-31 | 2022-07-29 |
 | [Vegan Porn Food](https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Billy Believe](https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR) | 4:46 | 2021-12-31 |  |
 | [Voices](https://open.spotify.com/track/5w0zJQuL3t1oHkF0vGAGac) | [Lane \(Love And Noise Experiment\)](https://open.spotify.com/artist/6mAfQASNTrLERLgZYR9hxf) | [Pictures of a Century](https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N) | 2:41 | 2021-12-15 | 2022-07-26 |
-| [Vulgar](https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Postmodern Blue](https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta) | 2:50 | 2021-12-31 |  |
+| [Vulgar](https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Postmodern Blue](https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta) | 2:50 | 2021-12-31 | 2023-12-11 |
 | [Wait On Me](https://open.spotify.com/track/21hHG6wPAOsnSeGZYAoS0C) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [As Safe As Yesterday](https://open.spotify.com/album/1uufU9XE4QdcM6BzwrEy4C) | 3:32 | 2022-04-27 | 2022-12-25 |
 | [Wandering Life](https://open.spotify.com/track/1yAzT7gBa4nAn8SeUrwj3E) | [FUZETA](https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO) | [Wandering Life](https://open.spotify.com/album/7dDOXyyR3MgSkqoZkW4MdV) | 3:32 | 2021-12-31 | 2022-04-20 |
 | [Water and Sand](https://open.spotify.com/track/3vZos9tKa0kAdentfhRCsg) | [daria](https://open.spotify.com/artist/44dVdbbHLKb31Q5V8LPi67) | [Water and Sand](https://open.spotify.com/album/2UV1tzdltdJHaIwoUBecGZ) | 3:47 | 2023-05-11 | 2023-05-17 |

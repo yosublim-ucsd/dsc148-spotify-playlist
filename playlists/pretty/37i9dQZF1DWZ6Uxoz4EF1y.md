@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,642 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,769 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,18 +51,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 41 | [Mi Shalom](https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Graciela Galmes](https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r) | [Mi Shalom](https://open.spotify.com/album/5tcaH26vOYM9mluQUwROcz) | 7:00 |
 | 42 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 10:12 |
 | 43 | [Cantaré de Tu Amor](https://open.spotify.com/track/7kzqc0u8SNQAU5Wca0WNKo) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Colección de Danilo Montero](https://open.spotify.com/album/7pmvlz6QfePhtw0PdAfXh7) | 6:00 |
-| 44 | [Océanos \(Donde Mis Pies Pueden Fallar\) \- Live](https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 4:19 |
-| 45 | [Jesús, Has Mi Carácter](https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Sólo Tu Gracia](https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi) | 4:42 |
+| 44 | [Jesús, Has Mi Carácter](https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Sólo Tu Gracia](https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi) | 4:42 |
+| 45 | [Océanos \(Donde Mis Pies Pueden Fallar\) \- Live](https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 4:19 |
 | 46 | [Como Río En Primavera](https://open.spotify.com/track/1yWXAAeTbbjWEfzKvNBLQA) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [El Mismo Cielo](https://open.spotify.com/album/4a1zDZ3LqsdOsCb43s6l4r) | 3:50 |
 | 47 | [Digno Y Santo](https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 8:48 |
 | 48 | [Rey de Reyes](https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [La Bondad de Dios](https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7) | 4:23 |
 | 49 | [Eterna luz](https://open.spotify.com/track/5aJL7N6W2oXcZsMB9njrYH) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Música en el Desierto](https://open.spotify.com/album/0XJjgo6rIW6kp9O8qLnord) | 4:31 |
 | 50 | [Mi Esperanza Está en Jesús \(Live\)](https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 4:51 |
 | 51 | [Getsemaní](https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1), [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Getsemaní](https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q) | 4:08 |
-| 52 | [Santo Río de Dios](https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM) | 5:01 |
-| 53 | [Levántate y Resplandece](https://open.spotify.com/track/5tRy42q9tRNbpIW8vpcIk1) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Levántate Y Resplandece](https://open.spotify.com/album/77GhJZHeuVtEMLzQob3AWk) | 5:47 |
-| 54 | [Mi Refugio](https://open.spotify.com/track/59ThysQrym292KleIzgqci) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 4:46 |
-| 55 | [Por Las Llagas](https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh) | [Vino Nuevo](https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX) | [Ven Y Llena Esta Casa](https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN) | 5:00 |
+| 52 | [Mi Refugio](https://open.spotify.com/track/59ThysQrym292KleIzgqci) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 4:46 |
+| 53 | [Santo Río de Dios](https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM) | 5:01 |
+| 54 | [Por Las Llagas](https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh) | [Vino Nuevo](https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX) | [Ven Y Llena Esta Casa](https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN) | 5:00 |
+| 55 | [Levántate y Resplandece](https://open.spotify.com/track/5tRy42q9tRNbpIW8vpcIk1) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Levántate Y Resplandece](https://open.spotify.com/album/77GhJZHeuVtEMLzQob3AWk) | 5:47 |
 | 56 | [Me Entrego a Ti \(En Vivo\)](https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw) | [Alejandro Del Bosque](https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h) | [Sin Ti No Vivo \(En Vivo\)](https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy) | 4:59 |
 | 57 | [El No Pereció](https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [En Las Alas Del Amor](https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI) | 4:20 |
 | 58 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 99 | [Amor Imparable](https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 3:45 |
 | 100 | [Gracias](https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Gracias](https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd) | 6:33 |
 
-Snapshot ID: `MCw0MGFkMjIzNDRkNzk2NTJhZDUwNDBkOWRmZTZhZjA1ZGJhNmNhODhl`
+Snapshot ID: `MCxjODZlNmM4ODcwZmFhZjAwZGNmMWU1MGRjMTY2MjY0MDYwNWIwNzU5`

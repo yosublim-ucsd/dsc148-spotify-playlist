@@ -4,7 +4,7 @@
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Marwan Pablo
 
-336 songs - 17 hr 26 min
+337 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Batal L3alam](https://open.spotify.com/track/4yEDdEd4N8eIuntHLlg0MF) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 5:49 | 2022-05-08 | 2022-08-24 |
 | [Batal Men El Waraa](https://open.spotify.com/track/3tcrbd01g8TFAiC2DFUu9Z) | [Sedawy](https://open.spotify.com/artist/317hp6Z5h0o05KwsqXk9tR) | [Batal Men El Waraa](https://open.spotify.com/album/6WsGicBXJZydM2npkNgZI7) | 3:15 | 2022-05-08 | 2022-06-10 |
 | [Beautiful](https://open.spotify.com/track/33kN7MSsfmxCG4HT2vn7j8) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Beautiful](https://open.spotify.com/album/7EFMPafpTIPs0V2RsNhF9T) | 2:20 | 2022-07-04 | 2023-01-12 |
-| [Before Iceberg](https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Before Iceberg](https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW) | 2:35 | 2023-09-05 |  |
+| [Before Iceberg](https://open.spotify.com/track/1FY6b78b0u4GRhY1a3RAuL) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Before Iceberg](https://open.spotify.com/album/0fY9vEMGhf3326m70o0jzj) | 2:35 | 2023-12-05 |  |
+| [Before Iceberg](https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Before Iceberg](https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW) | 2:35 | 2023-09-05 | 2023-12-11 |
 | [BEL 3AKS](https://open.spotify.com/track/6ar3PwuylnywVRKfIFAyJN) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [BEL 3AKS](https://open.spotify.com/album/4ds49GyngSgvVoUt8TEtLE) | 3:50 | 2022-11-28 | 2023-01-12 |
 | [Bip Bip](https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Bip Bip](https://open.spotify.com/album/69bn20UloS5fQKpAzs4WL0) | 2:24 | 2022-05-08 | 2022-06-25 |
 | [Blanco](https://open.spotify.com/track/6Uig1yLkQkBZoHGDyZrTzm) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Akhro Noor](https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7) | 2:26 | 2023-04-01 | 2023-07-04 |

@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Trial By Fire",
+        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
+    },
+    {
+      "album": {
         "name": "Tu Pu\u00f1o Dentro De M\u00ed",
         "url": "https://open.spotify.com/album/3H95nMXGOPKyuAdQ5rqSbq"
       },

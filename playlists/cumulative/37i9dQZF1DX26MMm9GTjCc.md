@@ -4,7 +4,7 @@
 
 > The soundtrack to your festive get\-together!
 
-125 songs - 7 hr 19 min
+126 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-10-28 | 2022-07-29 |
 | [Underneath the Tree](https://open.spotify.com/track/4R9DGZjme5DCgHlmLvXYkQ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Christmas Songs](https://open.spotify.com/album/0EpoPC0mlAGna8H08tkXoI) | 3:49 | 2021-10-28 | 2022-11-14 |
 | [What Christmas Means To Me](https://open.spotify.com/track/2qoZNAP3JLyIOtbsPtBjvV) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Someday At Christmas](https://open.spotify.com/album/0zdNmxXNCOFIFsTpJ4Q6uq) | 2:27 | 2021-10-28 | 2022-07-29 |
-| [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 | 2021-10-28 |  |
+| [What Christmas Means To Me](https://open.spotify.com/track/5eK52eAjFLLBNhOUIuBnBe) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:27 | 2023-11-28 |  |
+| [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 | 2021-10-28 | 2023-12-11 |
 | [What Christmas Means To Me \- Single Version / Mono](https://open.spotify.com/track/5mDjTAHZE82wzbIq8wYC8n) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Merry Christmas](https://open.spotify.com/album/4ZWoMk06dUmAF5jH06OEvU) | 2:28 | 2021-10-28 | 2022-11-13 |
 | [White Christmas \(with Shy'm\)](https://open.spotify.com/track/3xONtQKJ7gVv77fGLKC3Kb) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Caméléon \(Deluxe Edition\)](https://open.spotify.com/album/1xKo2KKccXTTmV8cqKFRBf) | 3:36 | 2021-10-28 |  |
 | [White Christmas \(with Shy'm\)](https://open.spotify.com/track/54fvgxr5WYXNsnmKwMc7S1) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shy'm](https://open.spotify.com/artist/37vrZ22ryfsMP8bPttLjpD) | [White Christmas \(with Shy'm\)](https://open.spotify.com/album/3uTPJvoA6ck9juIaDCytSH) | 3:36 | 2021-10-28 | 2022-07-29 |

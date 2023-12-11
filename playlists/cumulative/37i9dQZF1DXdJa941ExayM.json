@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Love No Less Than A Queen",
+        "url": "https://open.spotify.com/album/5ZGW7QDlSfoir5P54sqt4M"
+      },
+      "artists": [
+        {
+          "name": "Trampolene",
+          "url": "https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "Gotta Do More Gotta Be More",
+      "url": "https://open.spotify.com/track/1iO0DqalKhC7BuS7LEx6Cq"
+    },
+    {
+      "album": {
         "name": "Gotta Do More Gotta Be More",
         "url": "https://open.spotify.com/album/2OtLneHnXrZ3vjRMHJhjgL"
       },
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 165354,
       "name": "I Want Attention",
       "url": "https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF"
@@ -2790,7 +2808,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 62270,
       "name": "MOTHERFUCKER",
       "url": "https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl"
@@ -2942,7 +2960,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 220290,
       "name": "Night Pill",
       "url": "https://open.spotify.com/track/6M9YPsfizSSymcQCFUTlHz"

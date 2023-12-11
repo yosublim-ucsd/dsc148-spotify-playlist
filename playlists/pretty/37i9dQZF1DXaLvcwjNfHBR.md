@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,980 likes - 74 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,065 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 12 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
 | 13 | [I AM \- From the Ava DuVernay feature film 'Origin'](https://open.spotify.com/track/1uNSDmdnCmOgMvAyfCnh2Q) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [I AM \(From the Ava DuVernay feature film 'Origin'\)](https://open.spotify.com/album/5xu60Zz8cb4j7Qnmy7oio7) | 4:29 |
 | 14 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
-| 15 | [I Want More](https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH) | [I Want More](https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD) | 2:57 |
+| 15 | [I Want More](https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH) | [I Want More](https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD) | 2:57 |
 | 16 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 |
 | 17 | [Paris](https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Paris](https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC) | 3:00 |
 | 18 | [GOLDEN TAN](https://open.spotify.com/track/0BGpFyx94bloTixpSc2Fl3) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [GOLDEN TAN](https://open.spotify.com/album/0g1TUTFKhCXhjrbRVgD51W) | 2:16 |

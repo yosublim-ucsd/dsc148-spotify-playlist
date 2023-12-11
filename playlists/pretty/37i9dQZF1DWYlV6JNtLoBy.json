@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 4113,
+  "num_followers": 4140,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDIyYTBhZWIwNTZhMTY1YWM4NGYwYjRmMjQzNjA5MWI5ODcwYTM0",
+  "snapshot_id": "MCxmZmY3M2E4ZTE2MDQ3MjcxMzcxYWViMzFlYzhiY2Q0OTVmN2RmYThk",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Shusha Nyavu",
+        "url": "https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Shusha Nyavu",
+      "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "My Matter",
         "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Shusha Nyavu",
-        "url": "https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Shusha Nyavu",
-      "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -693,26 +693,6 @@
       "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
     },
     {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "YOU'LL NEVER LEAVE ME",
@@ -755,6 +735,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Unikumbuke",
         "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
       },
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Yatupasa Kushukuru",
+        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
+      },
+      "artists": [
+        {
+          "name": "Ambassadors Of Christ Choir",
+          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
+        }
+      ],
+      "duration_ms": 283469,
+      "name": "Yatupasa Kushukuru",
+      "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 216111,
       "name": "Good",
       "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Yatupasa Kushukuru",
-        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
-      },
-      "artists": [
-        {
-          "name": "Ambassadors Of Christ Choir",
-          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
-        }
-      ],
-      "duration_ms": 283469,
-      "name": "Yatupasa Kushukuru",
-      "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -901,32 +901,20 @@
       "url": "https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE"
     },
     {
-      "added_at": "2023-11-17 00:01:00",
+      "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Blessings (Everywhere I Go)",
-        "url": "https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg"
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf"
       },
       "artists": [
         {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        },
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Blessings (Everywhere I Go)",
-      "url": "https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW"
+      "duration_ms": 205790,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
     }
   ],
   "unique_name": "Sunday Service",

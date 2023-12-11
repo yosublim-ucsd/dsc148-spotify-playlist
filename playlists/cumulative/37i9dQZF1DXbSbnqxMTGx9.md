@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-611 songs - 1 day 10 hr 0 min
+613 songs - 1 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Baby Blue](https://open.spotify.com/track/6AfX87cuEDIb71QFoRsBw8) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Baby Blue](https://open.spotify.com/album/4XrQjdrNKg4S5j1AVHvPQh) | 2:54 | 2022-08-18 | 2022-09-23 |
 | [Babylon](https://open.spotify.com/track/7EKP7Qa6F4GKtxxnlLLxnV) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:20 | 2022-09-22 |  |
 | [Babylon Too Rough](https://open.spotify.com/track/2CFxgaypHjxdYWgfGFoDs0) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:53 | 2022-09-22 |  |
-| [Bad Boys \(Theme from COPS\)](https://open.spotify.com/track/0qeKzbUsW0V4ZWRJrHNiD3) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:49 | 2021-03-02 |  |
+| [Bad Boys](https://open.spotify.com/track/0STIV4K7EZkp2YHAyyu5em) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Sweat \(A La La La La Long\)](https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg) | 3:51 | 2022-09-22 |  |
+| [Bad Boys \(Theme from COPS\)](https://open.spotify.com/track/0qeKzbUsW0V4ZWRJrHNiD3) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:49 | 2021-03-02 | 2023-12-11 |
 | [Ballistic Affair](https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl) | [Leroy Smart](https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:13 | 2022-09-22 |  |
 | [Bam Bam](https://open.spotify.com/track/4ktUhAtsoUAsXsehUopodK) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Total Reggae: Summer Vibes](https://open.spotify.com/album/34gjCoWruAoiinrY2llS5q) | 3:09 | 2022-08-18 | 2022-09-23 |
 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 | 2021-03-02 | 2022-07-26 |
@@ -514,7 +515,8 @@
 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 | 2021-03-02 |  |
 | [Te Ves Buena](https://open.spotify.com/track/11hTfTUePHgMu4VpaNZ3Ir) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:02 | 2022-09-22 |  |
 | [Te Ves Buena](https://open.spotify.com/track/0LumjfkjMHkSTMssHOGCtY) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Originales](https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ) | 4:04 | 2022-09-22 | 2022-11-27 |
-| [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 | 2021-03-02 |  |
+| [Tenement Yard](https://open.spotify.com/track/28auprp3b9yjwPYmUxFxkR) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0UIDN8jPyn2Gt5LGFkTrsk) | 2:34 | 2022-09-22 |  |
+| [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 | 2021-03-02 | 2023-12-11 |
 | [That Day Will Come](https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Reign Of Fire](https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21) | 4:06 | 2022-08-18 | 2022-09-23 |
 | [The First Time for a Long Time](https://open.spotify.com/track/2UG0ilJvwB8GMHa5hKPxKm) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [Double Dekker \(Expanded Version\)](https://open.spotify.com/album/47GJkdoLyxzpkEhYOoU20z) | 2:29 | 2022-09-22 |  |
 | [The Further You Look \(The Less You See\)](https://open.spotify.com/track/0Fx1OZsFHjFMVNoZVa5YHV) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [4000 Volts of Holt: The Classic Albums Collection](https://open.spotify.com/album/1d5ZtXjhgYxQArbE7DHjey) | 3:05 | 2022-09-22 | 2023-11-11 |

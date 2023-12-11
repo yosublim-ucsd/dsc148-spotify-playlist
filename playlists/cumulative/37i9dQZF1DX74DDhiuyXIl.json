@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 240422,
       "name": "\u6309\u90e8\u5c31\u73ed",
       "url": "https://open.spotify.com/track/6rzIygJUB5cuPOE1krIfb9"
@@ -4260,6 +4260,24 @@
       "duration_ms": 280107,
       "name": "\u65c5\u5f92",
       "url": "https://open.spotify.com/track/4kW2QiG6ihBssg4nI58bBr"
+    },
+    {
+      "album": {
+        "name": "\u65e0\u6cd5\u80dc\u4efb",
+        "url": "https://open.spotify.com/album/1rfzKyxDFnbLLhD38bpqVF"
+      },
+      "artists": [
+        {
+          "name": "Ren Ran",
+          "url": "https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230322,
+      "name": "\u65e0\u6cd5\u80dc\u4efb",
+      "url": "https://open.spotify.com/track/365nDyleJix9hWTNDCFRO8"
     },
     {
       "album": {
@@ -4605,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "\u5047\u5982\u7ed9\u6211\u4e09\u5929\u5149\u660e",
+        "url": "https://open.spotify.com/album/3e53PWcecI0iJaEB7YQFtn"
+      },
+      "artists": [
+        {
+          "name": "Joi Chua",
+          "url": "https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "\u672b\u65e5\u79cd\u5b50\u7684\u7e41\u534e\u5b63\u8282",
+      "url": "https://open.spotify.com/track/5als3DEs1Ea5iSpPn8k8wC"
+    },
+    {
+      "album": {
         "name": "\u67e5\u7121\u6b64\u5fc3 (\u300a\u67e5\u7121\u6b64\u5fc3\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/3humwzw4eBD7wuyX9qtLjl"
       },
@@ -4746,7 +4782,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 259028,
       "name": "\u6f06\u9ed1\u7684\u7a7a\u95f4\uff08\u300a\u7070\u8272\u8f68\u8ff9\u300b\u56fd\u8bed\u7248\uff09",
       "url": "https://open.spotify.com/track/2hrNeq36jA6fqQOjE97bFX"

@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 62413,
+  "num_followers": 62425,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDc5MDU4NTM4NTYxZWYxY2Q1OTNmYjc0M2IwYjM2ZDdkNWVjZmE4",
+  "snapshot_id": "MCxlNzMyNzI5NmU4ZjJjODEzM2M4MzBjYzQzMzg5NWVlMmNiY2ZiNTli",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -571,6 +571,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Trans Orient Express (Adana Twins A Night At EGO\" Version - Edit\")",
         "url": "https://open.spotify.com/album/5bSWEhz58eNwQuKehvAaW2"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 238017,
       "name": "Trans Orient Express - Adana Twins \"A Night At EGO\" Version - Edit",
       "url": "https://open.spotify.com/track/0zCqYPJEfVhCDDvCDrWIAV"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
-      },
-      "artists": [
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -643,26 +643,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Faccia a faccia (Remixes)",
-        "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
-      },
-      "artists": [
-        {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Italoconnection",
-          "url": "https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et"
-        }
-      ],
-      "duration_ms": 227019,
-      "name": "Faccia a faccia - Italoconnection Remix Radio",
-      "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Time Slips Away - The Remixes",
         "url": "https://open.spotify.com/album/0NdbADVLpkHPdfxlY28oGe"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 350000,
       "name": "Eyes Wide Strut - Tunnelvisions Remix",
       "url": "https://open.spotify.com/track/3VEyA2eTsrUylqc1rS3QVR"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Faccia a faccia (Remixes)",
+        "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
+      },
+      "artists": [
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Italoconnection",
+          "url": "https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et"
+        }
+      ],
+      "duration_ms": 227019,
+      "name": "Faccia a faccia - Italoconnection Remix Radio",
+      "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
     },
     {
       "added_at": "2021-08-27 15:45:01",

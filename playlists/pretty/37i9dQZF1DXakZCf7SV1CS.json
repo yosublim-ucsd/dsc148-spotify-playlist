@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 69689,
+  "num_followers": 69822,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "think abt it",
-        "url": "https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V"
+        "name": "19",
+        "url": "https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8"
       },
       "artists": [
         {
-          "name": "oaf1",
-          "url": "https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu"
-        },
-        {
-          "name": "Caspr",
-          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
         }
       ],
-      "duration_ms": 144332,
-      "name": "think abt it",
-      "url": "https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo"
+      "duration_ms": 171808,
+      "name": "Kismet",
+      "url": "https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -563,18 +559,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8"
+        "name": "think abt it",
+        "url": "https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V"
       },
       "artists": [
         {
-          "name": "WHOKILLEDXIX",
-          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+          "name": "oaf1",
+          "url": "https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu"
+        },
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
         }
       ],
-      "duration_ms": 171808,
-      "name": "Kismet",
-      "url": "https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS"
+      "duration_ms": 144332,
+      "name": "think abt it",
+      "url": "https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -736,7 +736,7 @@
       "added_at": "2023-04-27 17:13:18",
       "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
       },
       "artists": [
         {
@@ -746,7 +746,7 @@
       ],
       "duration_ms": 232806,
       "name": "Immaterial",
-      "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
+      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Flamboyant",
-        "url": "https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn"
-      },
-      "artists": [
-        {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
-        }
-      ],
-      "duration_ms": 197757,
-      "name": "Man To Man",
-      "url": "https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "Flamboyant",
+        "url": "https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "duration_ms": 197757,
+      "name": "Man To Man",
+      "url": "https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "VYZEE",
         "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "detest me",
         "url": "https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 118930,
       "name": "detest me",
       "url": "https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Visored Vitality",
-        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Butterfly Bankai",
-      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "BIPP",
         "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 224142,
       "name": "BIPP",
       "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Visored Vitality",
+        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Butterfly Bankai",
+      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1175,6 +1175,22 @@
       "duration_ms": 96705,
       "name": "scawy monstews and nice spwites :3",
       "url": "https://open.spotify.com/track/36WzDYkUhzkrOMng4yEf1h"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 236937,
+      "name": "Faceshopping",
+      "url": "https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 236937,
-      "name": "Faceshopping",
-      "url": "https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT"
       },
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "I'm All Ears",
-        "url": "https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg"
+        "name": "hot_babe_93",
+        "url": "https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ"
       },
       "artists": [
         {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
         }
       ],
-      "duration_ms": 248976,
-      "name": "Hot Pink",
-      "url": "https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8"
+      "duration_ms": 206026,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs"
     }
   ],
   "unique_name": "Hyperpop Classics",

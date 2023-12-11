@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 
 > New wave took the 70s punk blueprint and ran wild! Cover: Blondie
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,206 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,353 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 | 49 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 |
 | 50 | [Love Like Blood](https://open.spotify.com/track/6VzXOkU7pVXaVMR6e4hRAg) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Laugh? I Nearly Bought One!](https://open.spotify.com/album/1NslVOXC1oGYPKfsgpdbqn) | 4:25 |
 
-Snapshot ID: `MCxhNjcxZTQ0M2RhZjVmOWE4NDY4M2EyNzFhNmNiY2M4Njg2ZmI5OTU5`
+Snapshot ID: `MCwxMDc0ZDY2Njg5ZTZmOWQ0NmQ4NzIyYzk1NDUyNGE5NjI0NmNiNzA2`

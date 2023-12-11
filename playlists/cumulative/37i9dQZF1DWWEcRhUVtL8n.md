@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-1,716 songs - 3 day 18 hr 24 min
+1,717 songs - 3 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [All I Need](https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All I Need](https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk) | 3:36 | 2020-11-03 | 2021-03-22 |
 | [All My Friends Are Stoned](https://open.spotify.com/track/7BL33HmuFQien4olebugdj) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [What About Now \- EP](https://open.spotify.com/album/3HwtxvL5vCqTmQdDNuEMm7) | 2:39 | 2020-11-03 | 2021-10-13 |
 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 | 2022-01-21 | 2022-06-15 |
-| [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2023-09-08 | 2023-12-10 |
+| [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2023-09-08 |  |
 | [All Night](https://open.spotify.com/track/3y6mJwIyeV7YbUgIZuR0GU) | [Tae](https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2) | [All Night](https://open.spotify.com/album/2L7ClezYcFXiYBf7NfV5q1) | 2:57 | 2021-08-13 | 2021-12-26 |
 | [All Our Friends Are Splitting Up](https://open.spotify.com/track/1uwZ46SjGjrVaZOdR3zYUF) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [All Our Friends Are Splitting Up](https://open.spotify.com/album/3Rf75PC9Awl8gfIccji1n8) | 3:40 | 2021-08-27 | 2022-04-15 |
 | [All Out of Love](https://open.spotify.com/track/13Dj9CkrgsKPHBRH0zzoNu) | [Stark](https://open.spotify.com/artist/5wNuh7FxIFmoNlRLMoVzWl), [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [All Out of Love](https://open.spotify.com/album/257gP7Vsp56gCBSWXhEaOt) | 3:47 | 2020-10-16 | 2021-05-21 |
@@ -847,7 +847,7 @@
 | [july](https://open.spotify.com/track/5qAK8ceZCzwvNabw9Mu17F) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [july](https://open.spotify.com/album/51wHhJCdpwZ2591Es9Jqea) | 2:37 | 2023-07-28 | 2023-09-30 |
 | [july](https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century: the epilogue](https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11) | 2:45 | 2023-12-08 |  |
 | [JUMPSHOT!](https://open.spotify.com/track/1hWIeur5Q8BJ9hUrDyTI8W) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [JUMPSHOT!](https://open.spotify.com/album/0jUh0PoLQtLry0B3JXyDiW) | 2:59 | 2022-04-29 | 2022-06-30 |
-| [jupiter](https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [jupiter](https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn) | 2:30 | 2023-09-22 |  |
+| [jupiter](https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [jupiter](https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn) | 2:30 | 2023-09-22 | 2023-12-11 |
 | [Just a Little Bit Lonely](https://open.spotify.com/track/5HkDr6w8kst095gAP09k8C) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Just a Little Bit Lonely](https://open.spotify.com/album/3H0itk6lTMK8zFHT7MvZul) | 2:03 | 2021-02-24 | 2021-05-25 |
 | [Just a Waste](https://open.spotify.com/track/6WCgeGzEYlkluHeqQqmnl6) | [summervibes](https://open.spotify.com/artist/1JPqepX6kQ0rU9Btzsbb1C) | [Just a Waste](https://open.spotify.com/album/4v2u9tXp3irRw0UB9VUYZK) | 2:07 | 2021-10-06 | 2021-10-13 |
 | [Just Like Me](https://open.spotify.com/track/5CMgV1SsMDRFyeM10Al6NL) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Like Me](https://open.spotify.com/album/0EeEkFwvT9QbI5y5CeUMq6) | 2:50 | 2022-08-26 | 2022-09-09 |
@@ -1470,7 +1470,8 @@
 | [sunny day](https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:52 | 2023-05-19 |  |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-11-07 |  |
 | [Sunset](https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Sunset](https://open.spotify.com/album/77Ob5Q6w1Pgcsnzwz7qs2h) | 4:45 | 2023-06-09 | 2023-08-20 |
-| [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-05-19 |  |
+| [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-05-19 | 2023-12-11 |
+| [Sunshine Baby](https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:39 | 2023-05-19 |  |
 | [Sunshine State](https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Sunshine State](https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij) | 2:18 | 2021-07-19 | 2022-04-03 |
 | [Sunshower](https://open.spotify.com/track/5Mc4BNPh2DCBmcw4877E0y) | [Ruben Dawnson](https://open.spotify.com/artist/4TyxwOt2w5n4gNtGRwUMKy) | [Sunshower](https://open.spotify.com/album/0EHKJdmyRo75KbQsVABAM2) | 3:44 | 2021-05-07 | 2021-05-26 |
 | [Sunsick](https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Sunsick](https://open.spotify.com/album/6NHBiRrUCP6QGefUIH8KPG) | 2:25 | 2020-11-03 | 2021-10-08 |

@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-241 songs - 1 day 0 hr 5 min
+242 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Dodoma](https://open.spotify.com/track/1eult54nuGwQsIfPL2rZOh) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Kemet Deep Sessions, Vol\. 1](https://open.spotify.com/album/0P4IX6KeVNUXFNz4uNgCWC) | 6:35 | 2022-07-21 | 2022-09-30 |
 | [Dodoma](https://open.spotify.com/track/4d7iVgX5u3NxBM1pa72xh3) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Kemet Deep Sessions, Vol\. 1](https://open.spotify.com/album/7Djcq0KMBZlfMbva2PBla2) | 6:35 | 2022-04-13 | 2022-07-29 |
 | [Does It Matter \- Ajna \(BE\) Remix](https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Does It Matter \(Ajna Remix\)](https://open.spotify.com/album/4IZK2sBwj3A4tDpxyxtpct) | 5:40 | 2023-05-18 |  |
-| [Duduk](https://open.spotify.com/track/5hkEwaKH0APo8nyWO2BT6n) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Roxteel](https://open.spotify.com/artist/0xCictaICMnerRvsyLeisS) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:30 | 2022-11-18 |  |
+| [Duduk](https://open.spotify.com/track/5hkEwaKH0APo8nyWO2BT6n) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Roxteel](https://open.spotify.com/artist/0xCictaICMnerRvsyLeisS) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:30 | 2022-11-18 | 2023-12-11 |
 | [Duende \- Derun Remix](https://open.spotify.com/track/0F3yxc47bdzD1pgDxLoyzp) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [UNER](https://open.spotify.com/artist/44CkOTmP33qUoft5iGVPov), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [Duende \(Derun Remix\)](https://open.spotify.com/album/2UhA4Ain3n3gfsztBiqVmY) | 6:39 | 2023-03-08 |  |
 | [DüN](https://open.spotify.com/track/2Q8eKyLWsmdmNBKrgdWVf6) | [KeuS](https://open.spotify.com/artist/1DWdkfnG0twxn7hIrGb4YC) | [DüN](https://open.spotify.com/album/0hQnHGP8TLX88RnLDTx9SB) | 6:55 | 2022-04-13 | 2023-07-06 |
 | [Elgoa](https://open.spotify.com/track/4hLv1dWaXMwUjgyfRmE56p) | [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Hamada Hammy](https://open.spotify.com/artist/3ynNwCnPhBjoUFpNe3zoXl) | [Elgoa EP](https://open.spotify.com/album/794UFSLjBzEsZslOOC3ylc) | 7:01 | 2023-11-24 |  |
@@ -158,6 +158,7 @@
 | [Mogo](https://open.spotify.com/track/3akGuvuTvyiItgLT30Vzeo) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Mogo](https://open.spotify.com/album/4PxVKlw9yeGuOpYKChdC0e) | 5:51 | 2023-07-05 |  |
 | [Moniety \- Zuma Dionys Remix](https://open.spotify.com/track/429fbNqnI6oPNg3vyMQHe3) | [Nakriz](https://open.spotify.com/artist/7xOnNnEPGiv30dRUzHSgOM), [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Moniety \(Zuma Dionys Remix\)](https://open.spotify.com/album/4TjycR17WTU1NtzroqlGlw) | 7:13 | 2022-04-13 | 2023-04-21 |
 | [Mulajia \- Live Album](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 | 2022-05-20 | 2023-04-21 |
+| [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-12-10 |  |
 | [Mykonos](https://open.spotify.com/track/6xM5J6zi05edZeo06y524g) | [Fantasi](https://open.spotify.com/artist/3hA7JQHjqkT82wssjqG3uK), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [Nomade](https://open.spotify.com/artist/0N5B6Un7UkxtVwx6OD1Oqp) | [Mykonos](https://open.spotify.com/album/1suGVIujM6SWlo0HktXH23) | 3:46 | 2022-11-10 |  |
 | [Nabad](https://open.spotify.com/track/7wEmAzcAIKXhS1JnKP81Pe) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Helem](https://open.spotify.com/album/6hsfOW3mF5VGwLL3tEpsig) | 6:26 | 2022-04-13 | 2023-04-21 |
 | [Nani Nani](https://open.spotify.com/track/7fxkzVcC4HC1ScmMQoiTmH) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Nani Nani](https://open.spotify.com/album/3XKDhPxJxnSdPFakkKJuk7) | 6:44 | 2023-06-19 |  |

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,094 songs - 1 day 17 hr 20 min
+1,096 songs - 1 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Cozy Snow Day](https://open.spotify.com/track/29VMXBsPGYwjTgZpCy2i0d) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Cozy Snow Day](https://open.spotify.com/album/5X2TCtMfK0Ms10pH2a8wJM) | 2:03 | 2022-12-09 |  |
 | [Cracks](https://open.spotify.com/track/3wx8UcizTr4xtjpBlRfL9r) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Cracks](https://open.spotify.com/album/1Go5kxxnG2vqF09gVhXdWj) | 2:58 | 2022-02-18 |  |
 | [Crawl in a Tube](https://open.spotify.com/track/56uIN8rYI0qu5ajQFDAIiy) | [Troy Vibes](https://open.spotify.com/artist/5F1euTC1Sqpk3VJ4aReY41) | [Crawl in a Tube](https://open.spotify.com/album/1BnZGn0ExlpMhIefaXtSIG) | 3:33 | 2022-06-17 | 2023-03-18 |
+| [Crazy Love](https://open.spotify.com/track/57pur3MoSCX7raelUCpiAK) | [Sakura](https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV) | [Crazy Love](https://open.spotify.com/album/4k72z9GeyqEkRD7jtE6lTI) | 1:48 | 2023-12-08 |  |
 | [Crestone](https://open.spotify.com/track/7krjREoicbTMB4gx3xxwLB) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Crestone](https://open.spotify.com/album/0AL4T93NfHuZMS8899nZtx) | 1:53 | 2022-04-08 | 2022-12-10 |
 | [Crickets in the Clouds](https://open.spotify.com/track/5RympJSBDjBLazHFthkhug) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Crickets in the Clouds](https://open.spotify.com/album/2y6zoXDqTJJIphmJqkM0BV) | 4:05 | 2021-11-10 | 2022-10-29 |
 | [crispy snacks](https://open.spotify.com/track/7lYOXFgCFNd5rvBkU2LZQZ) | [cudlz](https://open.spotify.com/artist/4heHOS8ybxsPh3TBtw9gf0) | [crispy snacks](https://open.spotify.com/album/4nvHX1HwzfGFXQxSXVeGMA) | 2:21 | 2021-11-10 | 2022-11-12 |
@@ -288,6 +289,7 @@
 | [emotions](https://open.spotify.com/track/5vrv8kx1oXElzJhKEDmdZx) | [BluSummr](https://open.spotify.com/artist/14zmv1RDidod1M4EjoeIpj), [Esydia](https://open.spotify.com/artist/3UnKW2I4SWJMttZ44TfNGU), [natureboy.](https://open.spotify.com/artist/6O9U5o03ZCnqcaujspQF5f) | [emotions](https://open.spotify.com/album/4SLMkcOf80LWXelSHbki80) | 2:43 | 2022-05-27 | 2023-03-18 |
 | [Empty Hallways](https://open.spotify.com/track/7Glvm1A5eVOTgrKhkuJPG9) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Empty Hallways](https://open.spotify.com/album/2RrbweEpM42paH0jr6F8td) | 2:26 | 2021-11-10 | 2023-05-20 |
 | [Empty streets](https://open.spotify.com/track/30myxL9EReHmytXIOdpbUq) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Empty streets](https://open.spotify.com/album/7I4JMTFdlK0uJ5AOr1X3oS) | 2:10 | 2022-12-23 |  |
+| [Encounter](https://open.spotify.com/track/10Q6Zi067V35REvI9w40hm) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Encounter](https://open.spotify.com/album/1Y5GeinuQQrEwocF29Svy0) | 2:26 | 2023-12-08 |  |
 | [endearing](https://open.spotify.com/track/2fTN3Osj9COyyoFyGKnppX) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [endearing](https://open.spotify.com/album/2rzKJC0vgRiXhkZLO4htwB) | 2:00 | 2022-07-29 | 2022-10-29 |
 | [Ender](https://open.spotify.com/track/0mE3vnX3Jl8lPrw616n3qY) | [1ga](https://open.spotify.com/artist/34NTA1C1HZCG5v0szAB5Fu) | [Goblin](https://open.spotify.com/album/5HuYg16CS7wK0qDa6Y1K7V) | 2:44 | 2021-11-10 | 2022-10-15 |
 | [Endless](https://open.spotify.com/track/6CkDqbpSaKHUh7lvXxpioS) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [Endless](https://open.spotify.com/album/3VAXigb1EDQeHoH5GBV09g) | 2:05 | 2021-11-10 | 2022-05-20 |
@@ -440,7 +442,7 @@
 | [How The Story Goes](https://open.spotify.com/track/4C1kmQjG42md25gFTyqvik) | [The Escape Route](https://open.spotify.com/artist/0OtRCgwx2kuOZy7ylYPU7g) | [Ariadne](https://open.spotify.com/album/71YzYvRCooN8yB2itVAE3d) | 2:26 | 2023-03-16 |  |
 | [Howl](https://open.spotify.com/track/0jv8Wc070R7666f1ZqOBc6) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Howl](https://open.spotify.com/album/2dVX4NHJr7an0lAZiGjB4H) | 2:54 | 2021-11-10 | 2022-04-08 |
 | [Hugs](https://open.spotify.com/track/4DvpfIQ3MzvqGjv55JLhBy) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Hugs](https://open.spotify.com/album/20XOY3736f9F4ChtuDP7Jv) | 1:36 | 2022-04-22 | 2023-09-16 |
-| [Hush Hush](https://open.spotify.com/track/3F90E5OZDFFZymIM39Lt4G) | [Simu](https://open.spotify.com/artist/60LZQf6T8dgrVN0KpHjWJp) | [Hush Hush](https://open.spotify.com/album/0FrZGfKkaAX1JtBq7PjCzU) | 2:39 | 2022-12-09 |  |
+| [Hush Hush](https://open.spotify.com/track/3F90E5OZDFFZymIM39Lt4G) | [Simu](https://open.spotify.com/artist/60LZQf6T8dgrVN0KpHjWJp) | [Hush Hush](https://open.spotify.com/album/0FrZGfKkaAX1JtBq7PjCzU) | 2:39 | 2022-12-09 | 2023-12-11 |
 | [Hustle](https://open.spotify.com/track/2ItT6Kt0j6lsCQghaB8748) | [Ginnypig](https://open.spotify.com/artist/72bmvqzLz3X1XDJ0eZh61F) | [Hustle](https://open.spotify.com/album/36RbOMJiubjof1uj03ZwkG) | 2:24 | 2021-11-10 | 2022-11-12 |
 | [Hypnotize](https://open.spotify.com/track/02K4Xtln59oC545vyjFcSa) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Hypnotize](https://open.spotify.com/album/1IykfuCo1IlJJ5RGROfNzl) | 1:46 | 2021-11-10 | 2022-09-03 |
 | [I Have A Crush On You…](https://open.spotify.com/track/4B1Yl9xzbOAJjdjSt3tXkQ) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [I Have A Crush On You…](https://open.spotify.com/album/1GXLqbEQkJvaKs1cX7rk6d) | 2:36 | 2023-07-13 |  |
@@ -532,7 +534,7 @@
 | [Let Your Feet Dangle](https://open.spotify.com/track/4RaXy0LmaGyiqMrKQsU3k7) | [Garo](https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Let Your Feet Dangle](https://open.spotify.com/album/4d3ncw3CrRX2JD5nxdyAp3) | 2:22 | 2023-01-06 |  |
 | [leyawiin](https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte) | 1:28 | 2021-11-10 | 2022-07-29 |
 | [Lickity Strings](https://open.spotify.com/track/5DgGR97f1mJVghYHiRIrpT) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [lickity strings](https://open.spotify.com/album/1RDTcxXVvp9HCXRUwL5LF9) | 2:08 | 2022-07-08 | 2023-04-28 |
-| [Life](https://open.spotify.com/track/7lzdvV0WJPgEK3BFBVv9QV) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Life](https://open.spotify.com/album/06zhjwSw4KeDhxJJj7QX3h) | 2:03 | 2023-03-16 |  |
+| [Life](https://open.spotify.com/track/7lzdvV0WJPgEK3BFBVv9QV) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Life](https://open.spotify.com/album/06zhjwSw4KeDhxJJj7QX3h) | 2:03 | 2023-03-16 | 2023-12-11 |
 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 | 2021-11-10 | 2022-04-08 |
 | [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 | 2021-11-10 | 2022-05-27 |
 | [Lifted](https://open.spotify.com/track/2TiPnK5thdkQPHpGJDhf4m) | [Lumini](https://open.spotify.com/artist/2cbLFoYZjIj973sMYSZRpu), [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Lifted](https://open.spotify.com/album/1tRGn7tdLi2a4Z9MHxNZOM) | 2:29 | 2022-11-25 |  |

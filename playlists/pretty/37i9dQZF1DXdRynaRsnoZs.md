@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,942 likes - 65 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,952 likes - 65 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 36 | [O Come All Ye Faithful](https://open.spotify.com/track/2s52PLq7hqaO2kmb6CPn6T) | [Attila Fias](https://open.spotify.com/artist/3V1CgXZe3cFkJ9VDSeFKkl) | [Peaceful Christmas Harp](https://open.spotify.com/album/1ZPpgQnJEJEHCycs1dWEHl) | 4:11 |
 | 37 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\) \- Piano](https://open.spotify.com/track/1p0ZcKHqx7rnbpmOtjn50M) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 2:27 |
 | 38 | [Ding Dong Merrily On High](https://open.spotify.com/track/51VCb04kTqUOziuk2kviK5) | [Michiko Mullins](https://open.spotify.com/artist/0kZcnLHQCIufaWOKpac6ZG) | [Light The Candles](https://open.spotify.com/album/1iAiCpBrkkToAoC7CU1Ed9) | 2:03 |
-| 39 | [Amazing Grace](https://open.spotify.com/track/1vvJlfnj5pfqpI5S8Yrq3e) | [Edwin Othello Excell](https://open.spotify.com/artist/5mOhoiRh7zP0udscnBUyGz), [Bae Bee](https://open.spotify.com/artist/1OYYgvoQMVHpU1HgW0ZduV) | [Little Star](https://open.spotify.com/album/46hkWWf7jd6FyDZwCwRPXm) | 2:47 |
-| 40 | [I Believe In Santa Claus](https://open.spotify.com/track/6Vm4eMLPr43DFlZ6stXEKc) | [Gold Axe](https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2) | [I Believe In Santa Claus](https://open.spotify.com/album/1ueh7lgp8KLCiBoA3ICEkH) | 2:02 |
-| 41 | [When A Child Is Born](https://open.spotify.com/track/1QZWQNbo6aupLs38M2M1bY) | [Charles Conte](https://open.spotify.com/artist/0To8dvXvNaBa5ucn97a1dS) | [Little Donkey](https://open.spotify.com/album/1hS0GhWKiFmZOWsqLnBeyM) | 2:16 |
-| 42 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/7BvZgDcV6eUZ7H4rivyj0a) | [IlDemir](https://open.spotify.com/artist/2ltRPQzXd13wJclrBGeaud) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5AhxuuosbvJk98PD63kMa9) | 1:52 |
-| 43 | [Lo, How a Rose E'er Blooming \(Instrumental Version\)](https://open.spotify.com/track/3sDAasJyBhCo7swSa9MHrk) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 2:37 |
-| 44 | [Hallelujah](https://open.spotify.com/track/4vXkT1Dgel9Y3W9V3IvM74) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Hallelujah](https://open.spotify.com/album/38alZxIo99eD19U9ldrQSl) | 2:44 |
-| 45 | [O Little Town Of Bethlehem Lullaby](https://open.spotify.com/track/6wG0W7L4nVL28C7s0YO81g) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Christmas Lullabies, Vol\. 2](https://open.spotify.com/album/34sTR4gJbGeXmRVUpltCxk) | 1:03 |
-| 46 | [The Chipmunk Song](https://open.spotify.com/track/7jmrDlg68Otsi3oxZcmJBP) | [Shannon Stuart](https://open.spotify.com/artist/5vGxYS3YeeSFrXGEjFEDTj) | [A Joyous Christmas](https://open.spotify.com/album/0lzvUeQSMEAhZnASLb4RKB) | 2:57 |
-| 47 | [Petit Papa Noël](https://open.spotify.com/track/6OwstAX8yxSqc3itLP03hF) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Petit Papa Noël](https://open.spotify.com/album/7HiT8CeoS3mij30fdTMxX1) | 2:33 |
-| 48 | [Frosty the Snowman](https://open.spotify.com/track/5QLExSTWr6iDncCkWh7pfe) | [Shannon Stuart](https://open.spotify.com/artist/5vGxYS3YeeSFrXGEjFEDTj) | [A Joyous Christmas](https://open.spotify.com/album/0lzvUeQSMEAhZnASLb4RKB) | 3:05 |
-| 49 | [The First Noel](https://open.spotify.com/track/2ijFTJ7XHAbD9sgcVfPy5w) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [The First Noel](https://open.spotify.com/album/66Q3ybskRWvQHk1BMNfsM6) | 1:55 |
+| 39 | [I Believe In Santa Claus](https://open.spotify.com/track/6Vm4eMLPr43DFlZ6stXEKc) | [Gold Axe](https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2) | [I Believe In Santa Claus](https://open.spotify.com/album/1ueh7lgp8KLCiBoA3ICEkH) | 2:02 |
+| 40 | [When A Child Is Born](https://open.spotify.com/track/1QZWQNbo6aupLs38M2M1bY) | [Charles Conte](https://open.spotify.com/artist/0To8dvXvNaBa5ucn97a1dS) | [Little Donkey](https://open.spotify.com/album/1hS0GhWKiFmZOWsqLnBeyM) | 2:16 |
+| 41 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/7BvZgDcV6eUZ7H4rivyj0a) | [IlDemir](https://open.spotify.com/artist/2ltRPQzXd13wJclrBGeaud) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5AhxuuosbvJk98PD63kMa9) | 1:52 |
+| 42 | [Hallelujah](https://open.spotify.com/track/4vXkT1Dgel9Y3W9V3IvM74) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Hallelujah](https://open.spotify.com/album/38alZxIo99eD19U9ldrQSl) | 2:44 |
+| 43 | [O Little Town Of Bethlehem Lullaby](https://open.spotify.com/track/6wG0W7L4nVL28C7s0YO81g) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Christmas Lullabies, Vol\. 2](https://open.spotify.com/album/34sTR4gJbGeXmRVUpltCxk) | 1:03 |
+| 44 | [The Chipmunk Song](https://open.spotify.com/track/7jmrDlg68Otsi3oxZcmJBP) | [Shannon Stuart](https://open.spotify.com/artist/5vGxYS3YeeSFrXGEjFEDTj) | [A Joyous Christmas](https://open.spotify.com/album/0lzvUeQSMEAhZnASLb4RKB) | 2:57 |
+| 45 | [Petit Papa Noël](https://open.spotify.com/track/6OwstAX8yxSqc3itLP03hF) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Petit Papa Noël](https://open.spotify.com/album/7HiT8CeoS3mij30fdTMxX1) | 2:33 |
+| 46 | [Amazing Grace](https://open.spotify.com/track/1vvJlfnj5pfqpI5S8Yrq3e) | [Edwin Othello Excell](https://open.spotify.com/artist/5mOhoiRh7zP0udscnBUyGz), [Bae Bee](https://open.spotify.com/artist/1OYYgvoQMVHpU1HgW0ZduV) | [Little Star](https://open.spotify.com/album/46hkWWf7jd6FyDZwCwRPXm) | 2:47 |
+| 47 | [Frosty the Snowman](https://open.spotify.com/track/5QLExSTWr6iDncCkWh7pfe) | [Shannon Stuart](https://open.spotify.com/artist/5vGxYS3YeeSFrXGEjFEDTj) | [A Joyous Christmas](https://open.spotify.com/album/0lzvUeQSMEAhZnASLb4RKB) | 3:05 |
+| 48 | [The First Noel](https://open.spotify.com/track/2ijFTJ7XHAbD9sgcVfPy5w) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [The First Noel](https://open.spotify.com/album/66Q3ybskRWvQHk1BMNfsM6) | 1:55 |
+| 49 | [Lo, How a Rose E'er Blooming \(Instrumental Version\)](https://open.spotify.com/track/3sDAasJyBhCo7swSa9MHrk) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 2:37 |
 | 50 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 |
 | 51 | [Christmas Traditions](https://open.spotify.com/track/4iyxrcCCOGaG3VYp2lMc04) | [Lue Miles](https://open.spotify.com/artist/2cxel74Dv32TWXq5q9sqAU) | [Christmas Traditions](https://open.spotify.com/album/4WoFoO86STGkrZmx7VtZpc) | 2:11 |
 | 52 | [Dona Nobis Pacem \- Arr\. For Cello And Piano](https://open.spotify.com/track/3doLaEr9KYiReJIRkGWbxJ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Peaceful Christmas Cello](https://open.spotify.com/album/06hUzupPHjNtNHr4yrmrgF) | 1:35 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 64 | [Once in Royal David's City](https://open.spotify.com/track/0SCNnJ3DAYT3obCiGpEs5s) | [The Harpatons](https://open.spotify.com/artist/0PX2FmQQ5HuoI2uSsIhfKt) | [Once in Royal David's City](https://open.spotify.com/album/3uLkmeBBV0sDJVWt4TwyYo) | 2:04 |
 | 65 | [We Three Kings \(Instrumental\)](https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:23 |
 
-Snapshot ID: `MCw2Y2Q1NTdlZjE1NjY2ODBlYzE3ZDRkZDUxYzNlOTA5NjQ4MmQxODcy`
+Snapshot ID: `MCwwZTBkMjJiODA4YWNjYWUwNjk4NDYxYmY5OGFmN2M3OGQ5ZjM1ZmNj`

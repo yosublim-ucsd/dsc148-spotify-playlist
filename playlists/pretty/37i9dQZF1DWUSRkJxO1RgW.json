@@ -1,12 +1,12 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 284458,
+  "num_followers": 284537,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTg5YTI1NGE0N2FjNDM4OTBmZWEwMWY3YzZmN2ZkNjgzMDQyODkz",
+  "snapshot_id": "MCw1MmFjMTg5ZDc4MmZjYmFhMGQ4OWIzNWNlMTMwYmRjZDA0MDAyYjMz",
   "tracks": [
     {
       "added_at": "2020-03-13 14:40:50",
@@ -831,22 +831,6 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "La Ma\u00f1ana Siguiente",
-        "url": "https://open.spotify.com/album/3FiojM8DKWg6Jo4fYbc4qg"
-      },
-      "artists": [
-        {
-          "name": "Silvina Garre",
-          "url": "https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "Cancion Del Pinar",
-      "url": "https://open.spotify.com/track/4YPLZxPs21yQQ1noPsLWNo"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
         "name": "El Milagro Argentino",
         "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 142373,
       "name": "Entreg\u00e1 el Marr\u00f3n",
       "url": "https://open.spotify.com/track/1U9nKdWvYxGLyoi25KSSdh"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "La Ma\u00f1ana Siguiente",
+        "url": "https://open.spotify.com/album/3FiojM8DKWg6Jo4fYbc4qg"
+      },
+      "artists": [
+        {
+          "name": "Silvina Garre",
+          "url": "https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "Cancion Del Pinar",
+      "url": "https://open.spotify.com/track/4YPLZxPs21yQQ1noPsLWNo"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -967,18 +967,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "40 Dibujos Ah\u00ed En El Piso",
-        "url": "https://open.spotify.com/album/0ZNRl9pxbglsYLKRdSEmz0"
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 224773,
-      "name": "Enciende Mi Fuego",
-      "url": "https://open.spotify.com/track/1fE3XzV4QvyqP67lejrNSM"
+      "duration_ms": 196998,
+      "name": "Lunes Por La Madrugada",
+      "url": "https://open.spotify.com/track/3H5nkDbMCRFB4bdLv40H4D"
     }
   ],
   "unique_name": "Los 80 Argentina",

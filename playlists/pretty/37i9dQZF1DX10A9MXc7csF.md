@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Cuatro De Oro
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,263 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,271 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 29 | [Bendecido](https://open.spotify.com/track/4BD6URiRxROzGO4kITMYhR) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Bendecido](https://open.spotify.com/album/4o0eJ66HdL5skDYs9CnOql) | 3:04 |
 | 30 | [Equipo Cannabis](https://open.spotify.com/track/7Kuljk1IHforwjZryE6QC5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Viada](https://open.spotify.com/artist/6TBtNrAvB4UVFzWZK293ix) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 2:48 |
 | 31 | [2 Balas](https://open.spotify.com/track/3wu4eH71M7yZ2dd9oPDXir) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [2 Balas](https://open.spotify.com/album/6NL6xe066Q3EOcwX3Sb7J7) | 2:51 |
-| 32 | [¿Qué Nos Pasó?](https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD) | [¿Qué Nos Pasó?](https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ) | 3:59 |
+| 32 | [¿Qué Nos Pasó?](https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Nos Pasó?](https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ) | 3:59 |
 | 33 | [Gente Del Chapo \- En Vivo](https://open.spotify.com/track/3WWZxFaHosVcLJ8PUoXGqN) | [Neto Becerra](https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ), [Grupo Los Del Area](https://open.spotify.com/artist/2cuvlWUiSa8eLLTbnRR0cf) | [Corridos En Vivo \(Live\)](https://open.spotify.com/album/3jV6e9iQ4lbkbXDSsLBUli) | 3:01 |
 | 34 | [Modo Tranquilón](https://open.spotify.com/track/68prGJqyFk5wILH0xNFeD3) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Modo Tranquilón](https://open.spotify.com/album/3rK98vllYXzwbtdvgx0Azn) | 2:36 |
 | 35 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 64 | [Dame Amor](https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Dame Amor](https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs) | 3:29 |
 | 65 | [Salieron Rumores](https://open.spotify.com/track/0SX9Hs9YY4AP4Z9CR33tAv) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Salieron Rumores](https://open.spotify.com/album/6Fs1Gcj7MrYUMEzOUA7CYB) | 2:19 |
 
-Snapshot ID: `MCwwYzllM2QwZDhmZDkzNjliZjUzNjAwMzViMzAzNDQ3ZjI1MWE0YjE1`
+Snapshot ID: `MCw3M2I0OGJiYTQyMmU5ZWQ4MjNiNWRlZmYyYzdmMzU1YTdjMWFkMmY0`

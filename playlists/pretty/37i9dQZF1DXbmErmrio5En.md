@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,119 likes - 110 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,240 likes - 110 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 74 | [Nothin](https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Nothin](https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES) | 2:47 |
 | 75 | [No One But You](https://open.spotify.com/track/7kiM75ze8pvLiutHPstEnO) | [AViT](https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp), [Sergina](https://open.spotify.com/artist/1mtwR4TyjROOCPYduXKpe5) | [No One But You](https://open.spotify.com/album/0L1GatITCRcqZThNREgTQW) | 4:10 |
 | 76 | [dumb party](https://open.spotify.com/track/5HfOgxlPWRH2A6fW8yDVhp) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [the world i love](https://open.spotify.com/album/0PGaguvVjayjOSfFjwVKRV) | 1:49 |
-| 77 | [Recluse](https://open.spotify.com/track/3cJh7SldK4a4AGCtxonwLa) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [Recluse](https://open.spotify.com/album/59kHbqqRiCkkw1x5dul1LG) | 1:33 |
+| 77 | [recluse](https://open.spotify.com/track/3cJh7SldK4a4AGCtxonwLa) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [recluse](https://open.spotify.com/album/59kHbqqRiCkkw1x5dul1LG) | 1:33 |
 | 78 | [Dream Yoga](https://open.spotify.com/track/0Ngdd6uqWXFm1XdBln7hj0) | [Elroy](https://open.spotify.com/artist/1OP39gZ2SXVnwg4NrARmsu) | [Dream Yoga](https://open.spotify.com/album/6g6fNjJYuxNeFhchBLWC77) | 3:03 |
 | 79 | [COMEDOWN](https://open.spotify.com/track/5uYViosjAmKH1Auq3zvZL1) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [COMEDOWN](https://open.spotify.com/album/1IqxYZcc2DxAaOyqEOdGnR) | 2:09 |
 | 80 | [With U](https://open.spotify.com/track/2pJavDqKkQvhrVv7RAc8yd) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [Prelude To Cupid](https://open.spotify.com/album/0MrMikCJXVv8txn6gyTO3u) | 1:40 |

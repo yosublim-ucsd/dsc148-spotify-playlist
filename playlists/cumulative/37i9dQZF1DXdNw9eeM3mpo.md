@@ -4,7 +4,7 @@
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-308 songs - 18 hr 47 min
+309 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Estrella Roja](https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:17 | 2021-12-21 | 2023-07-01 |
 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 | 2021-12-21 |  |
 | [Fotos Y Recuerdos](https://open.spotify.com/track/51Ku6m19nFsCXcjosxfCUn) | [Roncovacoco](https://open.spotify.com/artist/5vnrCzVAoWqGBR12f4lFjZ) | [Presenta...](https://open.spotify.com/album/24sOxrv4eAoqmc2FB7eJ8R) | 3:05 | 2021-12-21 | 2022-03-07 |
-| [Fuera de Ritmo](https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7) | [Fuerza Dread](https://open.spotify.com/artist/4upmyJmsVYEetRhB4ko8iV), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Fuera de Ritmo](https://open.spotify.com/album/0KtQlIksmdmm5FvxwpH5Av) | 4:24 | 2023-04-21 |  |
+| [Fuera de Ritmo](https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7) | [Fuerza Dread](https://open.spotify.com/artist/4upmyJmsVYEetRhB4ko8iV), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Fuera de Ritmo](https://open.spotify.com/album/0KtQlIksmdmm5FvxwpH5Av) | 4:24 | 2023-04-21 | 2023-12-11 |
 | [Grita](https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:44 | 2023-09-08 |  |
 | [Groove Me](https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Groove Me](https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw) | 3:04 | 2021-12-21 | 2022-04-20 |
 | [HardCore e Festa](https://open.spotify.com/track/4PHrcMAJ81ePbgOevZKaOR) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [HardCore e Festa](https://open.spotify.com/album/6GnrYHjaIgRwyxBKWtEsZl) | 1:40 | 2023-07-14 | 2023-08-05 |
@@ -127,7 +127,7 @@
 | [Kilómetros](https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:11 | 2021-12-21 |  |
 | [Kilómetros \- En Vivo](https://open.spotify.com/track/6Cqxghbtzx0DdnQYnMwpEw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [20 Años: El Show Más Feliz del Mundo \(En Vivo\)](https://open.spotify.com/album/3LcZw9ONp2XAz0VDJ5RILj) | 5:04 | 2021-12-21 | 2023-07-01 |
 | [Konfesión](https://open.spotify.com/track/20K8gKxabOpZe5BEJH2thY) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Ací Estem](https://open.spotify.com/album/3gBBuswdlFKPtSj3FITA79) | 4:11 | 2021-12-21 | 2022-07-22 |
-| [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 | 2023-04-21 | 2023-09-09 |
+| [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 | 2023-04-21 |  |
 | [La Banda Borracha](https://open.spotify.com/track/5oXFI9ZLYGUbpLZY34T3ai) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [La Banda Borracha](https://open.spotify.com/album/6QB9WO7bZPX4MfbteFWWJM) | 3:33 | 2021-12-21 | 2022-08-19 |
 | [LA BESTIA](https://open.spotify.com/track/0ruzjmHbo1rQzSzhTB3E97) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [LA BESTIA](https://open.spotify.com/album/4mnYASpvR57lHSg8iJwWeh) | 3:17 | 2023-06-30 | 2023-10-13 |
 | [La Bolsa](https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Bolsa](https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el) | 3:19 | 2023-05-05 |  |
@@ -142,6 +142,7 @@
 | [La Herida](https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Sueños de Anoche](https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff) | 3:57 | 2021-12-21 |  |
 | [La Herida](https://open.spotify.com/track/2b8OrrQmDScF3TtbDvwWfy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Camino Clandestino](https://open.spotify.com/album/5zueG558h4DXnC7KORcaLm) | 3:59 | 2021-12-21 | 2022-07-29 |
 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 | 2021-12-21 |  |
+| [La Muralla Verde \- Live](https://open.spotify.com/track/4BClSUMAudzbtUPIrCBmrE) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [La Muralla Verde \(Live\)](https://open.spotify.com/album/0IUiKA2tZ1heRo8bJZxDpZ) | 3:24 | 2023-11-24 |  |
 | [La Rumba del Mezcal](https://open.spotify.com/track/1Awj73E7Zc3Yc7KwPFYJef) | [Los Fibos](https://open.spotify.com/artist/1Kcaj61FM0mFYwh4ZCN4Lw) | [Pan](https://open.spotify.com/album/3JU9qk2R2JibqpKONrGuUx) | 4:44 | 2021-12-21 | 2022-07-29 |
 | [La Zona del Terror](https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:03 | 2021-12-21 |  |
 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 | 2021-12-21 |  |
@@ -248,7 +249,7 @@
 | [Si Tu Boquito Fuera](https://open.spotify.com/track/662E0RMa6XGHqctB0F4SpW) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [96\-05](https://open.spotify.com/album/0K4u6F523q9hHjIZyduSK7) | 2:13 | 2021-12-21 | 2022-07-29 |
 | [Si Una Vez](https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Si Una Vez](https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0) | 3:48 | 2021-12-21 | 2022-07-29 |
 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 | 2023-07-07 |  |
-| [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 | 2023-07-21 |  |
+| [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 | 2023-07-21 | 2023-12-11 |
 | [Siguiendo La Luna](https://open.spotify.com/track/2xIZ74gMY794yuZir9zwgc) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Vasos Vacios](https://open.spotify.com/album/7fOv9NQRH5UWZq0EfUk1YE) | 4:56 | 2021-12-21 | 2022-03-17 |
 | [Siguiendo la Luna \- Remasterizado 2008](https://open.spotify.com/track/1orgfjGJoycODSItcGVatE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 4:51 | 2021-12-21 |  |
 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 | 2021-12-21 |  |

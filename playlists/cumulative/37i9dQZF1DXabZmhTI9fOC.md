@@ -4,7 +4,7 @@
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-509 songs - 1 day 3 hr 44 min
+510 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,7 +470,8 @@
 | [Trouble](https://open.spotify.com/track/7LqUwzOSDAdQp111VQG9Mk) | [Kat Meoz](https://open.spotify.com/artist/3ONmBYM261icTRuD38N9vS) | [Royalty](https://open.spotify.com/album/5bfZVXwPOwwKCShPhidWWJ) | 2:34 | 2022-07-29 | 2022-10-14 |
 | [Trouble \(with Georgia Ku\)](https://open.spotify.com/track/7HHRiPCwjaYcUzxjbOK1lO) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Trouble \(with Georgia Ku\)](https://open.spotify.com/album/0SO2B2p5FXifC2mwY24nih) | 2:19 | 2023-07-22 |  |
 | [True Romance](https://open.spotify.com/track/7G4aD9GSe262y5lisfaIGy) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [True Romance](https://open.spotify.com/album/6kPYPazaW34fsXAgVGQxxZ) | 4:05 | 2022-08-12 | 2023-07-19 |
-| [True Romance](https://open.spotify.com/track/5cozKcTbz5DUdHHfgNdGOb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 4:05 | 2023-08-16 |  |
+| [True Romance](https://open.spotify.com/track/3DSIQ2SCR25VwYqkpImpmb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 4:05 | 2023-09-13 |  |
+| [True Romance](https://open.spotify.com/track/5cozKcTbz5DUdHHfgNdGOb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 4:05 | 2023-08-16 | 2023-12-11 |
 | [Turn Off The Lights](https://open.spotify.com/track/3tcv4j4DQYDBaNoHTLYKV8) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:36 | 2023-08-09 |  |
 | [Ultraviolet](https://open.spotify.com/track/2PXt0tumLcyaMbiJ9ldkHg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:35 | 2022-08-26 | 2023-07-19 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2023-07-19 |  |

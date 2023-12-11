@@ -4,12 +4,13 @@
 
 > Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.
 
-26 songs - 1 hr 44 min
+27 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Andrea Chenier, Act III: La mamma morta](https://open.spotify.com/track/0i0XoLRtl0Ece1XTTXalwZ) | [Umberto Giordano](https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj), [Lila Larinova](https://open.spotify.com/artist/0VCsEU7pBDeEiEha4eDTml), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Johannes Wildner](https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ) | [Famous Arias and Duets: Verdi, Mozart, and Puccini](https://open.spotify.com/album/5xMNb7LpbNr1kPhcv4xfjN) | 4:55 | 2022-12-01 |  |
-| [Blood](https://open.spotify.com/track/2KgUfq542PMh2oImJz7W7T) | [Exhibitionist](https://open.spotify.com/artist/2L4hIKcvgn76KaB7D9X5iZ) | [Let Go Of Love](https://open.spotify.com/album/4UvzxGsJRbfoAHxQ5QHV1k) | 3:04 | 2022-12-01 |  |
+| [Blood](https://open.spotify.com/track/1DI9n01NfIKnl5b90zhI2l) | [Exhibitionist](https://open.spotify.com/artist/2L4hIKcvgn76KaB7D9X5iZ) | [Let Go Of Love](https://open.spotify.com/album/0DaecKdiL80ncdQhhUYtpq) | 3:04 | 2022-12-01 |  |
+| [Blood](https://open.spotify.com/track/2KgUfq542PMh2oImJz7W7T) | [Exhibitionist](https://open.spotify.com/artist/2L4hIKcvgn76KaB7D9X5iZ) | [Let Go Of Love](https://open.spotify.com/album/4UvzxGsJRbfoAHxQ5QHV1k) | 3:04 | 2022-12-01 | 2023-12-11 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-01 |  |
 | [Cello Concerto in E Minor, Op\. 85: III\. Adagio](https://open.spotify.com/track/1H8N7ONl0vFj3gJiAe0h36) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 4:53 | 2022-12-01 |  |
 | [De O De O Doe De O](https://open.spotify.com/track/1VS1KRKgRlMkavRrJb5DTb) | [Skip Easterling](https://open.spotify.com/artist/7Ljeb35EACw2LCUxhvRHtY) | [Shoo Fly Pop Rock & Folk from the Bayou Vol\. 2](https://open.spotify.com/album/6ltSt6HeiPjcyapn9lVUbg) | 3:01 | 2022-12-01 |  |

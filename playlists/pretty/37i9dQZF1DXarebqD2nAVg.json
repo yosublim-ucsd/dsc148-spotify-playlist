@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 444369,
+  "num_followers": 444455,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
-        "name": "Under The Tree",
-        "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
-      },
-      "artists": [
-        {
-          "name": "Chrisolof",
-          "url": "https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI"
-        }
-      ],
-      "duration_ms": 114422,
-      "name": "Under The Tree",
-      "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
-    },
-    {
-      "added_at": "2023-12-08 07:26:07",
-      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
       },
@@ -319,6 +303,22 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
+        "name": "Under The Tree",
+        "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
+      },
+      "artists": [
+        {
+          "name": "Chrisolof",
+          "url": "https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI"
+        }
+      ],
+      "duration_ms": 114422,
+      "name": "Under The Tree",
+      "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
+    },
+    {
+      "added_at": "2023-12-08 07:26:07",
+      "album": {
         "name": "Fonnes",
         "url": "https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB"
       },
@@ -331,6 +331,22 @@
       "duration_ms": 134030,
       "name": "Fonnes",
       "url": "https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6"
+    },
+    {
+      "added_at": "2023-12-08 07:26:07",
+      "album": {
+        "name": "perspective",
+        "url": "https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk"
+      },
+      "artists": [
+        {
+          "name": "bax iv",
+          "url": "https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42"
+        }
+      ],
+      "duration_ms": 117167,
+      "name": "perspective",
+      "url": "https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -363,22 +379,6 @@
       "duration_ms": 128212,
       "name": "Blue Side",
       "url": "https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh"
-    },
-    {
-      "added_at": "2023-12-08 07:26:07",
-      "album": {
-        "name": "perspective",
-        "url": "https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk"
-      },
-      "artists": [
-        {
-          "name": "bax iv",
-          "url": "https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42"
-        }
-      ],
-      "duration_ms": 117167,
-      "name": "perspective",
-      "url": "https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
-        "name": "soul",
-        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
-      },
-      "artists": [
-        {
-          "name": "Tatami Construct",
-          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
-        }
-      ],
-      "duration_ms": 215713,
-      "name": "memory",
-      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
-    },
-    {
-      "added_at": "2023-12-08 07:26:07",
-      "album": {
         "name": "Silent Sky",
         "url": "https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 120000,
       "name": "lunar walk",
       "url": "https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx"
+    },
+    {
+      "added_at": "2023-12-08 07:26:07",
+      "album": {
+        "name": "soul",
+        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
+      },
+      "artists": [
+        {
+          "name": "Tatami Construct",
+          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
+        }
+      ],
+      "duration_ms": 215713,
+      "name": "memory",
+      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
-        "name": "Magic Mind",
-        "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
-      },
-      "artists": [
-        {
-          "name": "Duane Drew",
-          "url": "https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J"
-        }
-      ],
-      "duration_ms": 155424,
-      "name": "Magic Mind",
-      "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
-    },
-    {
-      "added_at": "2023-12-08 07:26:07",
-      "album": {
         "name": "Over Skies",
         "url": "https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 247320,
       "name": "Lie",
       "url": "https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb"
+    },
+    {
+      "added_at": "2023-12-08 07:26:07",
+      "album": {
+        "name": "Magic Mind",
+        "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
+      },
+      "artists": [
+        {
+          "name": "Duane Drew",
+          "url": "https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J"
+        }
+      ],
+      "duration_ms": 155424,
+      "name": "Magic Mind",
+      "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
+        "name": "When You Forgive",
+        "url": "https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu"
+      },
+      "artists": [
+        {
+          "name": "Just Big Hills",
+          "url": "https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Sick of This",
+      "url": "https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo"
+    },
+    {
+      "added_at": "2023-12-08 07:26:07",
+      "album": {
         "name": "Apart",
         "url": "https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
-        "name": "When You Forgive",
-        "url": "https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu"
-      },
-      "artists": [
-        {
-          "name": "Just Big Hills",
-          "url": "https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309"
-        }
-      ],
-      "duration_ms": 233846,
-      "name": "Sick of This",
-      "url": "https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo"
-    },
-    {
-      "added_at": "2023-12-08 07:26:07",
-      "album": {
         "name": "Corals",
         "url": "https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4"
       },
@@ -767,38 +767,6 @@
       "duration_ms": 124000,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ"
-    },
-    {
-      "added_at": "2023-12-08 07:26:07",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
-      },
-      "artists": [
-        {
-          "name": "Ok2222",
-          "url": "https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "Hold on, Pt. 2",
-      "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
-    },
-    {
-      "added_at": "2023-12-08 07:26:07",
-      "album": {
-        "name": "Free Trees",
-        "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
-      },
-      "artists": [
-        {
-          "name": "Duos On Mars",
-          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Free Trees",
-      "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -819,18 +787,18 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
-        "name": "No I'm Not",
-        "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
+        "name": "Free Trees",
+        "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
       },
       "artists": [
         {
-          "name": "Imfinenow",
-          "url": "https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy"
+          "name": "Duos On Mars",
+          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
         }
       ],
-      "duration_ms": 117196,
-      "name": "No I'm Not",
-      "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
+      "duration_ms": 150857,
+      "name": "Free Trees",
+      "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -855,6 +823,38 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
+        "name": "No I'm Not",
+        "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
+      },
+      "artists": [
+        {
+          "name": "Imfinenow",
+          "url": "https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy"
+        }
+      ],
+      "duration_ms": 117196,
+      "name": "No I'm Not",
+      "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
+    },
+    {
+      "added_at": "2023-12-08 07:26:07",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
+      },
+      "artists": [
+        {
+          "name": "Ok2222",
+          "url": "https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "Hold on, Pt. 2",
+      "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
+    },
+    {
+      "added_at": "2023-12-08 07:26:07",
+      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -867,26 +867,6 @@
       "duration_ms": 163533,
       "name": "Now, I See",
       "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
-    },
-    {
-      "added_at": "2023-12-08 07:26:07",
-      "album": {
-        "name": "Clockwork",
-        "url": "https://open.spotify.com/album/51EKtNFncEaNE3TCUR6m5i"
-      },
-      "artists": [
-        {
-          "name": "Philanthrope",
-          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
-        },
-        {
-          "name": "DRWN.",
-          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
-        }
-      ],
-      "duration_ms": 123041,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/5jZeQRVMRWsSSYnp8tgrsq"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -907,6 +887,26 @@
       "duration_ms": 113345,
       "name": "Seymour (with Dawn Golden)",
       "url": "https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS"
+    },
+    {
+      "added_at": "2023-12-08 07:26:07",
+      "album": {
+        "name": "Clockwork",
+        "url": "https://open.spotify.com/album/51EKtNFncEaNE3TCUR6m5i"
+      },
+      "artists": [
+        {
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
+        },
+        {
+          "name": "DRWN.",
+          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
+        }
+      ],
+      "duration_ms": 123041,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/5jZeQRVMRWsSSYnp8tgrsq"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
         }
       ],
-      "duration_ms": 121672,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
+      "duration_ms": 144892,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
-        "name": "diary 2018",
-        "url": "https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA"
-      },
-      "artists": [
-        {
-          "name": "Gnavis",
-          "url": "https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp"
-        }
-      ],
-      "duration_ms": 124974,
-      "name": "dreary",
-      "url": "https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae"
-    },
-    {
-      "added_at": "2023-12-08 07:26:07",
-      "album": {
         "name": "Adomania",
         "url": "https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
-        "name": "Summertime and the Livings Easier.",
-        "url": "https://open.spotify.com/album/54jpEU6GWZmrbmicr1JYCP"
+        "name": "diary 2018",
+        "url": "https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA"
       },
       "artists": [
         {
-          "name": "fantompower",
-          "url": "https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47"
+          "name": "Gnavis",
+          "url": "https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp"
         }
       ],
-      "duration_ms": 131162,
-      "name": "We Are Safe Here",
-      "url": "https://open.spotify.com/track/54hB5NjjtjCMkfY7yaF9dR"
+      "duration_ms": 124974,
+      "name": "dreary",
+      "url": "https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
+        "name": "Summertime and the Livings Easier.",
+        "url": "https://open.spotify.com/album/54jpEU6GWZmrbmicr1JYCP"
+      },
+      "artists": [
+        {
+          "name": "fantompower",
+          "url": "https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47"
+        }
+      ],
+      "duration_ms": 131162,
+      "name": "We Are Safe Here",
+      "url": "https://open.spotify.com/track/54hB5NjjtjCMkfY7yaF9dR"
+    },
+    {
+      "added_at": "2023-12-08 07:26:07",
+      "album": {
         "name": "Distant",
         "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
@@ -1080,25 +1080,9 @@
           "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
         }
       ],
-      "duration_ms": 144892,
-      "name": "Distant",
-      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
-    },
-    {
-      "added_at": "2023-12-08 07:26:07",
-      "album": {
-        "name": "Cinemotional, Vol. 2",
-        "url": "https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf"
-      },
-      "artists": [
-        {
-          "name": "jalowo",
-          "url": "https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS"
-        }
-      ],
-      "duration_ms": 123076,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883"
+      "duration_ms": 121672,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2023-12-08 07:26:07",
       "album": {
-        "name": "sundays.",
-        "url": "https://open.spotify.com/album/5RqAijRRjT6vk53rvV3jTh"
+        "name": "Cinemotional, Vol. 2",
+        "url": "https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf"
       },
       "artists": [
         {
-          "name": "mindbody&beats",
-          "url": "https://open.spotify.com/artist/09ziI4OFiSlExXt4CE3NLB"
+          "name": "jalowo",
+          "url": "https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS"
         }
       ],
-      "duration_ms": 120215,
-      "name": "mangos",
-      "url": "https://open.spotify.com/track/2d2ZOEYuXYnvdW7ZA3ZyRS"
+      "duration_ms": 123076,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883"
     },
     {
       "added_at": "2023-12-08 07:26:07",
@@ -1151,6 +1135,22 @@
       "duration_ms": 124821,
       "name": "Stay In Bed",
       "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
+    },
+    {
+      "added_at": "2023-12-08 07:26:07",
+      "album": {
+        "name": "sundays.",
+        "url": "https://open.spotify.com/album/5RqAijRRjT6vk53rvV3jTh"
+      },
+      "artists": [
+        {
+          "name": "mindbody&beats",
+          "url": "https://open.spotify.com/artist/09ziI4OFiSlExXt4CE3NLB"
+        }
+      ],
+      "duration_ms": 120215,
+      "name": "mangos",
+      "url": "https://open.spotify.com/track/2d2ZOEYuXYnvdW7ZA3ZyRS"
     },
     {
       "added_at": "2023-12-08 07:26:07",

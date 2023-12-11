@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: HEALTH
 
-5,280 songs - 14 day 21 hr 45 min
+5,281 songs - 14 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,8 @@
 | [Black Heart](https://open.spotify.com/track/4HtsdVBN8T9ro2DmdPKBt1) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Black Heart](https://open.spotify.com/album/7pBojLKV8hnzsVFdsmPnOs) | 4:21 | 2023-02-03 | 2023-02-11 |
 | [Black Hole](https://open.spotify.com/track/0pNfjQmun4TkovFgLaJOR1) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Black Hole](https://open.spotify.com/album/0Jl2byDXilu4Iivo3QO7Ii) | 3:45 | 2022-08-19 | 2022-08-27 |
 | [Black Ink](https://open.spotify.com/track/7AlsIxffk4FHQ7geSUxLOE) | [As I May](https://open.spotify.com/artist/6RK7Xn39VaxdJNqhYVhVEk) | [Karu](https://open.spotify.com/album/1LUk4jMz426TXcyRvd6yoa) | 3:22 | 2022-01-07 | 2022-02-04 |
-| [Black Metal](https://open.spotify.com/track/3X5kqFlzHpE0F4dWu7FpvE) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Black Metal](https://open.spotify.com/album/3zSEbbnDK2iU0YwBD2MfPe) | 3:25 | 2023-12-08 |  |
+| [Black Metal](https://open.spotify.com/track/3X5kqFlzHpE0F4dWu7FpvE) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Black Metal](https://open.spotify.com/album/3zSEbbnDK2iU0YwBD2MfPe) | 3:25 | 2023-12-08 | 2023-12-11 |
+| [Black Metal](https://open.spotify.com/track/7EOQkhF7XjesdoSFn9x10Y) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Inspiratio Profanus](https://open.spotify.com/album/6PMOZfuG2E4wDMZLGmpkkx) | 3:25 | 2023-12-08 |  |
 | [Black Omens](https://open.spotify.com/track/5957HymGq70So6YYScSRwI) | [Dog Fashion Disco](https://open.spotify.com/artist/150pf0yE8MFgrMzAplQXmq) | [Black Omens](https://open.spotify.com/album/3N8qZVoKr41nwD4BDWL0wo) | 5:03 | 2022-02-11 | 2022-02-18 |
 | [Black or White](https://open.spotify.com/track/5ue1IMSwhn0vkVVKcb5RuO) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [The Infinite](https://open.spotify.com/album/722tbhbu93dDRtoOs5DDmM) | 3:25 | 2023-01-27 | 2023-02-04 |
 | [Black Phoenix](https://open.spotify.com/track/7uy1wXlIw0IjGOS6wKlpGs) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Over the Horizon Radar](https://open.spotify.com/album/4CR7GpwpFdR0nuLeGbxk9A) | 4:32 | 2022-06-17 | 2022-06-24 |

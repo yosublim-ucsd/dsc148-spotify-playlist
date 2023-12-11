@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > All juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,187 likes - 168 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,195 likes - 168 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 123 | [away we go](https://open.spotify.com/track/1okoQz8zSkpsiItIWZXZpc) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [runaway](https://open.spotify.com/album/4nfEIcsk07kD6emNPSTWhH) | 3:16 |
 | 124 | [Feels Like My Hands Are On Fire](https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:28 |
 | 125 | [Waiting for a Night](https://open.spotify.com/track/3nHLqAfJ2wWaBVsd8GdiAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Waiting for a Night](https://open.spotify.com/album/4ctxW7vnWMIrRmPxLBZp5o) | 3:00 |
-| 126 | [Must Be Love \(feat\. Electric Fields\) \- jamesjamesjames Remix](https://open.spotify.com/track/5sjzYhFFK90kjuFFZxSUHn) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Must Be Love \(feat\. Electric Fields\) \[jamesjamesjames Remix\]](https://open.spotify.com/album/4AEC1lieDBlS4vBvY6EQT0) | 3:54 |
+| 126 | [Must Be Love \(jamesjamesjames Remix\)](https://open.spotify.com/track/5QOaVycy7WMQaOx1MyQygT) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Must Be Love \(jamesjamesjames Remix\)](https://open.spotify.com/album/3caWCMtBsdAlLlm2rpRwvM) | 3:54 |
 | 127 | [Find My Way Home](https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Find My Way Home](https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY) | 4:18 |
 | 128 | [Set Me Free \- Y U QT Remix](https://open.spotify.com/track/1VJGDUZoQLWv8n1cj31E4I) | [Lo5ive](https://open.spotify.com/artist/2DuLUbcjIUnDhEI1E8k6dq), [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Set Me Free \(Y U QT Remix\)](https://open.spotify.com/album/0gBBRxlWp0OX1sgxGKjcxu) | 5:16 |
 | 129 | [Sleeves Touch My Elbows](https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Sleeves Touch My Elbows](https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG) | 3:30 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 167 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 168 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCwxOWYzYTk3ZmI5YWNlNDg0NTk2MmRmYWRjZTlhYzY4ODJjYThkMDFm`
+Snapshot ID: `MCwxMTAyYWY3MTMwYzk5ZWE3MmFkYzJiNGIwYWU1ZDY2OWM0MDYzZTI0`

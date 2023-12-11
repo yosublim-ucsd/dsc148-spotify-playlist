@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-169 songs - 9 hr 8 min
+170 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cómo Poder Olvidar \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 | 2022-11-25 |  |
 | [Diciembre](https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Diciembre](https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi) | 2:40 | 2023-12-01 |  |
 | [Diciembre](https://open.spotify.com/track/4uXPGx3gKGFYPx6kkQfUm5) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 3:08 | 2021-12-15 | 2022-12-19 |
+| [Diciembre Frío](https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Diciembre Frío](https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5) | 2:56 | 2023-12-08 |  |
 | [Dime Navidad](https://open.spotify.com/track/3pvbBrh49UPDa4UENRVT9f) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Dime Navidad](https://open.spotify.com/album/3c11HITsZe2IyDyb4tUg8K) | 2:39 | 2023-11-03 |  |
 | [Dime Niño ¿de Quien Eres?](https://open.spotify.com/track/0Mrgc3kVm21j2idMBEuDhy) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:32 | 2021-12-15 | 2022-12-20 |
 | [Dios nos bendecirá](https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Mi Navidad \(Remastered\)](https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN) | 3:15 | 2021-12-15 | 2022-12-20 |
@@ -57,7 +58,7 @@
 | [El Burrito De Belén](https://open.spotify.com/track/1s8opuqalYMgW0fPM42kgE) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Burrito De Belen](https://open.spotify.com/album/2NLDIgiA60k5FukGh5vGHY) | 3:11 | 2021-12-15 | 2022-12-19 |
 | [El Burrito De Belén](https://open.spotify.com/track/7DxJqMhtaqJJNBROZxgj5u) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Burrito De Belen](https://open.spotify.com/album/3KD3ORPP0rNiWB8H4Ezkjg) | 3:11 | 2021-12-15 | 2022-07-29 |
 | [El Burrito Sabanero](https://open.spotify.com/track/7HF8whsl9PaIpp3kLXswm8) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF) | [El Burrito Sabanero](https://open.spotify.com/album/6O687QHs2jSKAb7HkJPbRv) | 3:30 | 2023-12-01 |  |
-| [El Mejor Regalo](https://open.spotify.com/track/1IWAy4qkSoNrqCYTuYXlo2) | [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU) | [El Mejor Regalo](https://open.spotify.com/album/4huFSpufroQjcBio8jr4JN) | 2:39 | 2023-11-24 |  |
+| [El Mejor Regalo](https://open.spotify.com/track/1IWAy4qkSoNrqCYTuYXlo2) | [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU) | [El Mejor Regalo](https://open.spotify.com/album/4huFSpufroQjcBio8jr4JN) | 2:39 | 2023-11-24 | 2023-12-11 |
 | [El Niño del Tambor](https://open.spotify.com/track/7pFXmdN6QMqwBc4ME6qptI) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [La Mejor Música Navideña](https://open.spotify.com/album/1JWEolxSf2FPXP8akSKPrW) | 4:18 | 2022-12-18 | 2022-12-20 |
 | [El pequeño tamborilero](https://open.spotify.com/track/4IGpk6yRhP3Vk5t3NxIzSR) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Navidad En España](https://open.spotify.com/album/4C4U9Rmq9gdtAUreLkh5oO) | 3:03 | 2021-12-15 | 2022-12-20 |
 | [El Tamborilero](https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [MON SIERRA](https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK) | [Villancicos](https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb) | 4:20 | 2022-11-25 |  |

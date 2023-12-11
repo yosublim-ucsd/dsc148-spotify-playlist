@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Landon Barker
 
-683 songs - 1 day 11 hr 23 min
+684 songs - 1 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [AFTERTASTE](https://open.spotify.com/track/3ZarOuID7yQHZu0uKZ2xok) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [AFTERTASTE](https://open.spotify.com/album/3kuwEIhYml4wGj2UEfwrk7) | 3:08 | 2022-03-24 | 2022-04-21 |
 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 | 2022-03-17 | 2022-07-28 |
 | [Alive](https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Alive](https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv) | 3:12 | 2023-03-17 |  |
-| [Alive and Unwell](https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 2:01 | 2023-11-17 | 2023-12-09 |
+| [Alive and Unwell](https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 2:01 | 2023-11-17 |  |
 | [Alive and Unwell](https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8) | 2:01 | 2022-11-11 | 2022-11-13 |
 | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 | 2023-03-24 |  |
 | [All I Need](https://open.spotify.com/track/20NJF63c7zVC6kf5ViH8VG) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [All I Need](https://open.spotify.com/album/3fmtbVIXRK5M4OSAxllhDb) | 2:26 | 2022-03-17 | 2022-07-08 |
@@ -113,9 +113,10 @@
 | [Break My Baby](https://open.spotify.com/track/5NnFkbEjahUGx5T3qxbNCW) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Want More / Break My Baby](https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY) | 4:25 | 2022-03-24 | 2023-03-25 |
 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 | 2022-03-24 | 2022-04-20 |
 | [Broken In All The Right Places](https://open.spotify.com/track/3iINQZKpmSMY2mkjLtlzYO) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [It's Not You, It's Me](https://open.spotify.com/album/4zsIydG84QRTBlDlXKn8dH) | 2:45 | 2022-03-17 | 2023-10-07 |
+| [Bubble Wrap](https://open.spotify.com/track/18FE77kJAwPMcuCnBLUciS) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Bubble Wrap](https://open.spotify.com/album/78WrvGD9hVnhpcNGp0GTuP) | 2:51 | 2023-12-06 |  |
 | [Bullets in the Dark \(feat\. MOD SUN\)](https://open.spotify.com/track/2FwhZ9LriLQ3oiRF4h1vJ1) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bullets in the Dark \(feat\. MOD SUN\)](https://open.spotify.com/album/7xlzTiOeRBSaprkz1YoKid) | 3:01 | 2022-03-17 | 2022-07-28 |
 | [Bury Us](https://open.spotify.com/track/4lOVXhEtawEzHtYE9exnoK) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Bury Us / Sunseeker](https://open.spotify.com/album/35DlFe93HNKF9WLsZ9rd0F) | 3:09 | 2022-03-24 | 2022-04-11 |
-| [butterflies \(From Barbie The Album\)](https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [butterflies \(From Barbie The Album\)](https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg) | 2:16 | 2023-07-28 |  |
+| [butterflies \(From Barbie The Album\)](https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [butterflies \(From Barbie The Album\)](https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg) | 2:16 | 2023-07-28 | 2023-12-11 |
 | [C'MON \(feat\. Travis Barker\)](https://open.spotify.com/track/1EXNyTN6Ux1sIuea1R8GqE) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [C'MON \(feat\. Travis Barker\)](https://open.spotify.com/album/3i16WXOYEYO0v6kA1KfeAb) | 3:40 | 2022-03-24 | 2022-04-02 |
 | [California Girl](https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [California Girl](https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q) | 2:53 | 2023-03-17 |  |
 | [Call Me Anytime](https://open.spotify.com/track/5rWFCdMamYwI8czc7Jd0HP) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Get A Good Look Pt.1](https://open.spotify.com/album/5M1LWIxv3zOLpx90WLgaRi) | 4:24 | 2022-03-24 | 2022-04-20 |
@@ -160,7 +161,7 @@
 | [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-28 |  |
 | [Dance Of The Clairvoyants](https://open.spotify.com/track/3Y1q37A7ecFEdR5IAMWodA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dance Of The Clairvoyants](https://open.spotify.com/album/2J2ZoKPtJneBtFoSkl8yJy) | 4:25 | 2022-03-24 | 2022-04-21 |
 | [Dancing in the Mirror](https://open.spotify.com/track/4h0lirk2bZfueiTWUQ0UYh) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Dancing in the Mirror](https://open.spotify.com/album/2LXpyMZDLUB9IcrIhHWWBB) | 3:04 | 2022-03-24 | 2022-04-21 |
-| [Day Job](https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN) | [Jayden Seeley](https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy), [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Day Job](https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi) | 2:38 | 2023-10-06 |  |
+| [Day Job](https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN) | [Jayden Seeley](https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy), [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Day Job](https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi) | 2:38 | 2023-10-06 | 2023-12-11 |
 | [Daydream](https://open.spotify.com/track/778JDHI6qfgQ1HBEKP1FZu) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Daydream](https://open.spotify.com/album/1FsnruavnbrVGEesSSiKEE) | 2:30 | 2022-03-24 | 2022-04-20 |
 | [Daydreams](https://open.spotify.com/track/7d0zWiniNwO2Bsex8jRDYa) | [Walden](https://open.spotify.com/artist/7IspetvXSZ5EjAymJEGJTF) | [Daydreams](https://open.spotify.com/album/1j79OR9z9uQarwcxPOBTcw) | 3:52 | 2022-03-24 | 2022-04-15 |
 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 | 2022-08-26 |  |

@@ -4,7 +4,7 @@
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 
-54 songs - 3 hr 36 min
+56 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Boyfriend](https://open.spotify.com/track/0LS0zdRKdEfulSAD0BKOVa) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [Boyfriend](https://open.spotify.com/album/6XSVTDsitBTYEJe9R3PZce) | 2:59 | 2017-06-02 | 2022-07-29 |
 | [Boyfriend](https://open.spotify.com/track/7Gt5J8EAM6hj4uT1fHEZUl) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [Up to Anything](https://open.spotify.com/album/2jdxXOqTIKrLdJicu74xSx) | 2:59 | 2022-07-29 |  |
 | [Chroma](https://open.spotify.com/track/3n7M8kSbSzBf1jrzodJSFj) | [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Chroma](https://open.spotify.com/album/1oDlsYuTMY0j7njqZlmyhz) | 7:29 | 2017-06-02 | 2022-07-29 |
-| [Chroma](https://open.spotify.com/track/74hmy168eOivZZhdLJKU8v) | [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Chroma](https://open.spotify.com/album/3yMzf0bNHMAL8A6wunIHYi) | 7:29 | 2022-07-29 |  |
+| [Chroma](https://open.spotify.com/track/3pHAZPhKxGoRKXVZK484XO) | [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Chroma](https://open.spotify.com/album/11ZmZDSCNMCWvh2lpgYiy5) | 7:29 | 2023-12-11 |  |
+| [Chroma](https://open.spotify.com/track/74hmy168eOivZZhdLJKU8v) | [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Chroma](https://open.spotify.com/album/3yMzf0bNHMAL8A6wunIHYi) | 7:29 | 2022-07-29 | 2023-12-11 |
 | [Chroma](https://open.spotify.com/track/7bXZ9u4Cccw9oYOzWP31MT) | [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [One In A Million: A Future Classic Compilation](https://open.spotify.com/album/0bBhSWcWu6laymRdRrbz72) | 7:29 | 2022-11-11 | 2022-11-14 |
 | [Everybody Wants to Love You](https://open.spotify.com/track/2xMkD3Zv3tBUMyOzLmIYYZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Everybody Wants to Love You](https://open.spotify.com/album/7iRFeAePGZRT2HLP9WkmBv) | 2:12 | 2017-06-02 | 2022-07-29 |
 | [Everybody Wants to Love You](https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:12 | 2022-07-29 |  |
@@ -33,7 +34,8 @@
 | [Real Friends](https://open.spotify.com/track/6C4j3qW5h6GjvF5FbcoBvz) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/0WAuEfa5Lmg72xfydLVcca) | 4:11 | 2017-06-02 | 2022-07-29 |
 | [Real Love](https://open.spotify.com/track/2LfOLw9Cq3J7okmaNuoUWq) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Real Love](https://open.spotify.com/album/2vo4oS67h53A4lugsqxiyq) | 4:17 | 2017-06-02 | 2022-07-29 |
 | [Real Love](https://open.spotify.com/track/6lU6rPNgmEhilIurtFmkFm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 4:17 | 2022-07-29 | 2023-06-03 |
-| [Real Love](https://open.spotify.com/track/6sNy4KFU2xAIrFZ5DUtDUp) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 4:17 | 2023-06-03 |  |
+| [Real Love](https://open.spotify.com/track/6sNy4KFU2xAIrFZ5DUtDUp) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 4:17 | 2023-06-03 | 2023-12-11 |
+| [Real Love \- 2023 Remaster](https://open.spotify.com/track/7LTUCZcEv05vnvyEsn9HBT) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 4:17 | 2023-12-11 |  |
 | [See, Know](https://open.spotify.com/track/3VjhqZXe5WYyyFYgCrVJkO) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/5TQGEWrZpq2O5TdRbLID3q) | 5:04 | 2017-06-02 | 2022-07-29 |
 | [See, Know](https://open.spotify.com/track/6bAgNeCSmRrKtOaHHD5aSl) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/4KwHbfz70XklNDO1ZNC8EE) | 5:04 | 2022-07-29 |  |
 | [Shadow](https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG) | 3:44 | 2022-07-29 |  |

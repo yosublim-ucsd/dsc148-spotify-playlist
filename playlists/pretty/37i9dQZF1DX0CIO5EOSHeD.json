@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: feeble little horse",
-  "num_followers": 462342,
+  "num_followers": 462429,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODE2YjAyMjZiZmY5MjQxZDYzYWRkOTU4OTEzZjZkOTFmNDZkY2Q0",
+  "snapshot_id": "MCwzNmZhYTJkYjE1NGM5Yjc5Zjc4ZDJkYjgyZmY1ZThiNGJjZDBiODcx",
   "tracks": [
     {
       "added_at": "2023-12-02 02:07:22",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "It's All In Your Head",
+        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
+      },
+      "artists": [
+        {
+          "name": "dandelion hands",
+          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
+        }
+      ],
+      "duration_ms": 167126,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Human Condition",
         "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "It's All In Your Head",
-        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
+        "name": "Car Crash in G Major",
+        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
       },
       "artists": [
         {
-          "name": "dandelion hands",
-          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
         }
       ],
-      "duration_ms": 167126,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
+      "duration_ms": 132000,
+      "name": "Car Crash in G Major",
+      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -839,18 +855,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Car Crash in G Major",
-        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
+        "name": "Inner World Peace",
+        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
       },
       "artists": [
         {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Car Crash in G Major",
-      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
+      "duration_ms": 155609,
+      "name": "One Year Stand",
+      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -867,22 +883,6 @@
       "duration_ms": 118521,
       "name": "Blue Sheen",
       "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Inner World Peace",
-        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 155609,
-      "name": "One Year Stand",
-      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "3:45/buslane",
-        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 128530,
-      "name": "3:45/buslane",
-      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Dawn Of The Freak",
         "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 265346,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4uXwTz4opiuvyyYU9FwFla"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "3:45/buslane",
+        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 128530,
+      "name": "3:45/buslane",
+      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Me Oh My Mirror",
-        "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "End Of The Day (music from the film Anonymous Club)",
         "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 131107,
       "name": "Start Somewhere",
       "url": "https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Me Oh My Mirror",
+        "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Le feu",
-        "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 231358,
-      "name": "Le feu",
-      "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "That's What They Wanted",
         "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Le feu",
+        "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "duration_ms": 231358,
+      "name": "Le feu",
+      "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 237398,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Jelsy",
-        "url": "https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 228898,
-      "name": "Jelsy",
-      "url": "https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1595,6 +1579,22 @@
       "duration_ms": 96000,
       "name": "AHH!!",
       "url": "https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Jelsy",
+        "url": "https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 228898,
+      "name": "Jelsy",
+      "url": "https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF"
     },
     {
       "added_at": "2023-12-02 02:07:22",

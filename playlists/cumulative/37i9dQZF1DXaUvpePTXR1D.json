@@ -2283,6 +2283,28 @@
     },
     {
       "album": {
+        "name": "The Years",
+        "url": "https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Make It Out (feat. Maisie Peters)",
+      "url": "https://open.spotify.com/track/43to8KLXwPSvEnCgkxW7AN"
+    },
+    {
+      "album": {
         "name": "Make It Out (feat. Maisie Peters)",
         "url": "https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo"
       },
@@ -2298,7 +2320,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 183360,
       "name": "Make It Out (feat. Maisie Peters)",
       "url": "https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt"

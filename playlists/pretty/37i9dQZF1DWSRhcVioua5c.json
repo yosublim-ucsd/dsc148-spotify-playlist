@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 69438,
+  "num_followers": 69483,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDlhNmI0YzEzMjJiYWUwOGY4YmQ1YWI5MTQ2MTA2MjBjY2I5ZmM4",
+  "snapshot_id": "MCw4ODhlMDExNzdjYmY2ZDE5MTllNDIzOTgyY2JkY2QxZDlhNTQ5YTEz",
   "tracks": [
     {
       "added_at": "2023-11-10 13:34:27",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "No Te Rindas",
-        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
-      },
-      "artists": [
-        {
-          "name": "Destino San Javier",
-          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
-        }
-      ],
-      "duration_ms": 219050,
-      "name": "No Te Rindas",
-      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Los Del Portezuelo",
         "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "El Punto Final",
-        "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
+        "name": "No Te Rindas",
+        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
       },
       "artists": [
         {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "Destino San Javier",
+          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
         }
       ],
-      "duration_ms": 213418,
-      "name": "El Punto Final",
-      "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
+      "duration_ms": 219050,
+      "name": "No Te Rindas",
+      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -807,6 +791,22 @@
       "duration_ms": 242684,
       "name": "Hablan de Ti",
       "url": "https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "El Punto Final",
+        "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 213418,
+      "name": "El Punto Final",
+      "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Ven Por Mi",
-        "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 301800,
-      "name": "Mucho M\u00e1s Que Piel",
-      "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Al Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
       },
@@ -939,18 +923,34 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Retiro al Norte",
-        "url": "https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf"
+        "name": "Ven Por Mi",
+        "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
       },
       "artists": [
         {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 213533,
-      "name": "Rubia Morena",
-      "url": "https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f"
+      "duration_ms": 301800,
+      "name": "Mucho M\u00e1s Que Piel",
+      "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
+      },
+      "artists": [
+        {
+          "name": "Francisco Benitez",
+          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+        }
+      ],
+      "duration_ms": 190113,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -987,18 +987,34 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/3GVVx7A9HewidYwsqs518a"
       },
       "artists": [
         {
-          "name": "Francisco Benitez",
-          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 190113,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
+      "duration_ms": 174888,
+      "name": "Viaje",
+      "url": "https://open.spotify.com/track/1sx0wAmnvniAus4EJzIN5g"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Retiro al Norte",
+        "url": "https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Rubia Morena",
+      "url": "https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/3GVVx7A9HewidYwsqs518a"
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
       },
       "artists": [
         {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
         }
       ],
-      "duration_ms": 174888,
-      "name": "Viaje",
-      "url": "https://open.spotify.com/track/1sx0wAmnvniAus4EJzIN5g"
+      "duration_ms": 213859,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 213859,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Luna Llena",
-        "url": "https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR"
-      },
-      "artists": [
-        {
-          "name": "Juan Fuentes",
-          "url": "https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF"
-        }
-      ],
-      "duration_ms": 187439,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/27682VM2spSTjaneKmvNjk"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Repechando la Senda",
         "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 249627,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Luna Llena",
+        "url": "https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR"
+      },
+      "artists": [
+        {
+          "name": "Juan Fuentes",
+          "url": "https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF"
+        }
+      ],
+      "duration_ms": 187439,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/27682VM2spSTjaneKmvNjk"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Repechando la Senda",
-        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
-      },
-      "artists": [
-        {
-          "name": "Los Puesteros",
-          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
-        }
-      ],
-      "duration_ms": 233561,
-      "name": "Nunca Olvides",
-      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Tierra Mia",
         "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
+        "name": "Churita",
+        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+      },
+      "artists": [
+        {
+          "name": "Mariana Baraj",
+          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "La Guada",
+      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
         "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
         "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
       },
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Churita",
-        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+        "name": "Repechando la Senda",
+        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
       },
       "artists": [
         {
-          "name": "Mariana Baraj",
-          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
         }
       ],
-      "duration_ms": 183866,
-      "name": "La Guada",
-      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+      "duration_ms": 233561,
+      "name": "Nunca Olvides",
+      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 180362,
-      "name": "Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 237957,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 180362,
+      "name": "Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB"
     },
     {
       "added_at": "2023-11-10 13:34:27",

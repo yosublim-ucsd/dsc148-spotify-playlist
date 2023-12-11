@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. Marco Mares y Bandalos Chinos en portada.
 
-3,455 songs - 8 day 0 hr 21 min
+3,455 songs - 8 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,7 +1053,7 @@
 | [El Sueño de la Mariposa](https://open.spotify.com/track/5Vp6lO8uolEZtgg2L0hchj) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Al Sur](https://open.spotify.com/album/5SUTIUjCTb0BBXYcfPlvM7) | 3:21 | 2022-06-24 | 2022-07-02 |
 | [El Temblor en el Liceu de Barcelona \- En Directo](https://open.spotify.com/track/6LillVd0O69giYQwO6sywq) | [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk), [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [El Temblor en el Liceu de Barcelona \(En Directo\)](https://open.spotify.com/album/4E4MWrtVc16DLuzkuA64Ai) | 4:25 | 2023-10-27 | 2023-11-11 |
 | [EL TIEMPO](https://open.spotify.com/track/391riVrY9pzfYKoFMx2uHF) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [EL TIEMPO](https://open.spotify.com/album/7tbET09m557PdBAOHWYR5r) | 3:52 | 2023-02-03 | 2023-02-11 |
-| [El Tiempo](https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [El Tiempo](https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7) | 4:28 | 2023-12-08 |  |
+| [El Tiempo](https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [El Tiempo](https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7) | 3:56 | 2023-12-08 |  |
 | [El tiempo bala](https://open.spotify.com/track/6om93Lt7EYYa2uTT2faUFk) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [El tiempo bala](https://open.spotify.com/album/6l5MBFb7TwqYUqNY0QAgWj) | 1:40 | 2023-09-15 | 2023-09-23 |
 | [El Tiempo No Dura Siempre Lo Mismo](https://open.spotify.com/track/1iSZXTBweX09knpV40D6Sz) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu) | [El Tiempo No Dura Siempre Lo Mismo](https://open.spotify.com/album/6XDdB3E3l7yhunP8oGHOrY) | 2:21 | 2023-04-28 | 2023-05-06 |
 | [El Toxi](https://open.spotify.com/track/0yVokwrSDaNuLhDGIYPDtP) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Cuatro Pasos del Flechazo a la Derrota](https://open.spotify.com/album/79CKQjJbcF4TpczTAChmoQ) | 3:39 | 2022-07-08 | 2022-07-16 |

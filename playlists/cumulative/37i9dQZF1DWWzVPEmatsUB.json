@@ -4844,10 +4844,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 232297,
       "name": "Only The Lonely",
       "url": "https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII"
+    },
+    {
+      "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232297,
+      "name": "Only The Lonely",
+      "url": "https://open.spotify.com/track/6V6BkDMR9A1BvHUhbdGATJ"
     },
     {
       "album": {

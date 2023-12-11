@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 
 > The soundtrack to Spotify House at SXSW Sydney 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,926 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,912 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 | 7 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 |
 | 8 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 |
 | 9 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 |
-| 10 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 |
+| 10 | [Ripple](https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Ripple](https://open.spotify.com/album/3HCEwjTot7RUhwiOWrVQbI) | 3:34 |
 | 11 | [Worst Taste In Girls](https://open.spotify.com/track/3WSZgyMBLoNxXb8DjFFYDq) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Worst Taste In Girls](https://open.spotify.com/album/1D05rYqJaiYUhl3YX8t0Oq) | 2:56 |
 | 12 | [Mess Around \(feat\. EARTHGANG\)](https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mess Around \(feat\. EARTHGANG\)](https://open.spotify.com/album/2uykIyf5aQOuwSfpfEo8zL) | 3:50 |
 | 13 | [King of Disappointment](https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [King of Disappointment](https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X) | 4:11 |

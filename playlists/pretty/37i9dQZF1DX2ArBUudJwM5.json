@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompieron en 2023. Foto: Ivonne Guzm\u00e1n",
-  "num_followers": 39879,
+  "num_followers": 39882,
   "original_name": "EQUAL Argentina: Lo Mejor de 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmNkZWNlZTRlYWVkOWNlMWJhNzMxMWYwOGFkOTdjNzFiNjM3OWEz",
+  "snapshot_id": "MCw5ODNiMmFiOTBlODU3MmEzY2ZkZGY2MDMyMjhlZmIxNzQyNWE0YzQ4",
   "tracks": [
     {
       "added_at": "2023-11-29 12:15:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "No Lo Pienses M\u00e1s",
-        "url": "https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK"
-      },
-      "artists": [
-        {
-          "name": "Luz Gaggi",
-          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "No Lo Pienses M\u00e1s",
-      "url": "https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Mala Sangre",
         "url": "https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 149610,
       "name": "La Ara\u00f1a",
       "url": "https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "No Lo Pienses M\u00e1s",
+        "url": "https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK"
+      },
+      "artists": [
+        {
+          "name": "Luz Gaggi",
+          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "No Lo Pienses M\u00e1s",
+      "url": "https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Selva Ac\u00fastica",
-        "url": "https://open.spotify.com/album/119Zme9y3k6G2l9srfhT7M"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "Ley de Atracci\u00f3n",
-      "url": "https://open.spotify.com/track/5NRBIHHUCyT8aqi0PTFJ7E"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "LXS INFERNALES (Del Valle Encantado)",
         "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
+        "name": "Selva Ac\u00fastica",
+        "url": "https://open.spotify.com/album/119Zme9y3k6G2l9srfhT7M"
       },
       "artists": [
         {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
         }
       ],
-      "duration_ms": 296914,
-      "name": "La Batalla",
-      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
+      "duration_ms": 192029,
+      "name": "Ley de Atracci\u00f3n",
+      "url": "https://open.spotify.com/track/5NRBIHHUCyT8aqi0PTFJ7E"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -719,6 +703,22 @@
       "duration_ms": 173159,
       "name": "Olvidarte nunca",
       "url": "https://open.spotify.com/track/4wuS8BrAW1zMCoquH1brDq"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 296914,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
     },
     {
       "added_at": "2023-11-29 12:15:00",

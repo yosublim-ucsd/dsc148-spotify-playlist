@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,328 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,339 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -276,7 +276,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 266 | [Como un Dragón](https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 2:50 |
 | 267 | [24/7](https://open.spotify.com/track/0HEzXmxtvdjHcPgJW4Hw1K) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7), [Fox](https://open.spotify.com/artist/7j5cjlpkpQCMvEfhCxHpDn) | [24 / 7](https://open.spotify.com/album/4MjxsNYkG5oaoJWPcWX8YD) | 4:10 |
 | 268 | [Throw It Down](https://open.spotify.com/track/5HSncYIiSbQ7BQbhKBoHQh) | [Dominique Young Unique](https://open.spotify.com/artist/6e9YXVneoNtzARrkVUauiz) | [Throw It Down](https://open.spotify.com/album/288UGY9vHGwSEzz95hJYKp) | 3:16 |
-| 269 | [All In Place \(feat\. Bearcubs\) \[Nathan Fake Remix\]](https://open.spotify.com/track/5F2ktgdhVn79jwhnxouAjO) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [All In Place \(feat\. Bearcubs\) \[Remixes\]](https://open.spotify.com/album/4r6LMenu9pD3n3UYNbmTlp) | 6:24 |
+| 269 | [All In Place \(feat\. Bearcubs\) \(Nathan Fake Remix\)](https://open.spotify.com/track/0CBK22JtRADJszMrZSbnBD) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Giving Up Air \(Remixes\)](https://open.spotify.com/album/6TitMGZay7YyY7a0msiknE) | 6:24 |
 | 270 | [Sombra, Céu e Mar](https://open.spotify.com/track/2NTlkPI3LGiL9NlUjUML4v) | [Pedro Dralha](https://open.spotify.com/artist/68LNRWNYznTvfi4foBhP9w) | [Sombra, Céu e Mar](https://open.spotify.com/album/0Ot4Icq9e8uOuXBmintddD) | 3:14 |
 | 271 | [Alta tensión](https://open.spotify.com/track/15n6UWbqyAVftmrl2Qfy99) | [Alaska Y Los Pegamoides](https://open.spotify.com/artist/60LKzdjqtmposRWQbVnGAI) | [Grandes Éxitos \- Edición Para Coleccionistas](https://open.spotify.com/album/3MHA0IRha04GHJwFHGFxdP) | 2:52 |
 | 272 | [Breathe For Me](https://open.spotify.com/track/0B9MMdHFOFFhqFVbVS8Irg) | [Attic Lights](https://open.spotify.com/artist/53I53JqO0ELxsVxEu9v1p4) | [Say You Love Me](https://open.spotify.com/album/0R1GkMTHWdc33OHicmxGSo) | 4:23 |
@@ -397,7 +397,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 387 | [Move Your Feet](https://open.spotify.com/track/670lqX7FWkegmFz41iUrVY) | [DESTABILIZED](https://open.spotify.com/artist/4nu031RbrdRCeIMN9o6PTP) | [Move Your Feet](https://open.spotify.com/album/2eG5jBTdn3Q5I8ffJNb5Sv) | 3:22 |
 | 388 | [Resistiré](https://open.spotify.com/track/2oI6d7XcMz1AMTQhDopV5J) | [Duo Dinamico](https://open.spotify.com/artist/1TiGxAkU8w0xBCVFOP6Ttl) | [En Forma](https://open.spotify.com/album/1o1XBaN4Jinqh1j3MrEzI2) | 4:01 |
 | 389 | [A bite of papaya](https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [A bite of papaya](https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n) | 4:17 |
-| 390 | [All In Place](https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp) | 4:03 |
+| 390 | [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place](https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp) | 4:03 |
 | 391 | [Trancesizer \- Franz Scala Remix](https://open.spotify.com/track/2Ki8Y7w8xIIcB2Xts3aW2p) | [E\-bony](https://open.spotify.com/artist/6XznOPxK8736MxOoKyZBvA), [Franz Scala](https://open.spotify.com/artist/3kKQObtWHIS03QH4Kgd9E4) | [Stray Cats](https://open.spotify.com/album/3C7vNh81bdzlDEgXhiP3II) | 6:37 |
 | 392 | [Greenarp](https://open.spotify.com/track/4sHTSXAklnVPGTDNOvunVL) | [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb) | [Forest City](https://open.spotify.com/album/1tEe3UAUaaqkGutB94Jsiw) | 3:34 |
 | 393 | [0594 Help](https://open.spotify.com/track/0PAzo1j8xHJTGGLulS9Tus) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [0594 Help](https://open.spotify.com/album/7grAKSZRAEyc9P7N0osrl8) | 3:46 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCwxODk4ZGJkNmJhNWI2NzIxNWUzOThlYTUwMjgxNzFiMGVmMzY3NWJi`
+Snapshot ID: `MCxjODhiYTc1N2IzYWQ0MGJkMWIyN2ZkNDc5NmIwYmFhZDFiMDEyZjRm`

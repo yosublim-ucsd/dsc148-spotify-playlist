@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Emanero, Angela Torres, Karina & j mena.
 
-355 songs - 20 hr 27 min
+356 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Gracias](https://open.spotify.com/track/5u986eU3jCkZzym2Gb3TM2) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Gracias](https://open.spotify.com/album/3VOdx5jz3An6DX3oqjibTd) | 2:06 | 2022-04-01 | 2022-04-19 |
 | [Hasta el Amanecer](https://open.spotify.com/track/6sOxNeps1ULMAiIJRE1EJu) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Hasta el Amanecer](https://open.spotify.com/album/6PmzZJxtyxQrlPIwzyPeyv) | 3:48 | 2022-01-21 | 2022-06-22 |
 | [Hawai](https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Hawai](https://open.spotify.com/album/6mjTIBHjNtyQWwBrwrC6Kw) | 3:12 | 2022-01-14 | 2022-12-24 |
-| [Hoy Quiero Verte](https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Hoy Quiero Verte](https://open.spotify.com/album/19AtwODbc5YtbcUYQcRsRX) | 3:19 | 2022-04-01 |  |
+| [Hoy Quiero Verte](https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Hoy Quiero Verte](https://open.spotify.com/album/19AtwODbc5YtbcUYQcRsRX) | 3:19 | 2022-04-01 | 2023-12-11 |
 | [Hoy Te Vas](https://open.spotify.com/track/20iwP3Qzh9AnLJRguIKWqN) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Hoy Te Vas](https://open.spotify.com/album/03cCnCHcgtarhC0BnZIGZ7) | 3:08 | 2023-06-02 | 2023-09-23 |
 | [Indiferente](https://open.spotify.com/track/7G00AWh0XZS09lrMdpEcE2) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Y Amigos](https://open.spotify.com/album/7aY118zqoTPNmZsLc66twq) | 3:01 | 2022-01-14 | 2023-03-22 |
 | [Insaciable](https://open.spotify.com/track/1nvoQ3ZBMJZ38wsdDDHzGE) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Insaciable](https://open.spotify.com/album/24JQjRIlTGax38PWGJYhAA) | 3:26 | 2022-02-18 | 2022-07-17 |
@@ -186,7 +186,7 @@
 | [Mentirosa](https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm) | 3:15 | 2022-01-21 | 2022-09-11 |
 | [Mi Figurita](https://open.spotify.com/track/0e1ZHxouYIXP1XaxdTEO7V) | [Como Suena](https://open.spotify.com/artist/6mMF00MGSqk8MT3c31YRSg), [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe) | [Mi Figurita](https://open.spotify.com/album/3qIZHzb0e132TyVGJQtTxd) | 3:04 | 2022-02-04 | 2022-07-12 |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O) | 3:24 | 2023-10-06 |  |
-| [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 | 2022-01-14 | 2023-11-29 |
+| [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 | 2022-01-14 |  |
 | [Mientele](https://open.spotify.com/track/21ygs5dGjRIpOnXMjDiXZd) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Mientele](https://open.spotify.com/album/7bR6mVOH2sWX9qNGgYA7g5) | 3:43 | 2022-04-01 | 2022-05-28 |
 | [Mientes / Te Fuiste de Aqui / Me Duele Amarte](https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Mientes / Te Fuiste de Aqui / Me Duele Amarte](https://open.spotify.com/album/6sdJVuMEJlJOWP7rrLISiQ) | 5:41 | 2022-01-14 | 2022-07-07 |
 | [Mil Lágrimas](https://open.spotify.com/track/3bEjthWPk4EjDuV8vcrP9p) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Corazón Pecador](https://open.spotify.com/album/6YUSZgWOHLPfsEe92kTCu9) | 3:23 | 2023-03-10 | 2023-08-19 |
@@ -278,6 +278,7 @@
 | [Sigo Enamorado de Ti](https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6), [A Su Manera](https://open.spotify.com/artist/0ZWg0OhnFL02qbG9fIVLbZ) | [Sigo Enamorado de Ti](https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr) | 2:51 | 2022-02-04 | 2022-07-28 |
 | [Sigues En Mi Vida](https://open.spotify.com/track/68HfjBvYwUAFu3rRAGS1U7) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Sigues En Mi Vida](https://open.spotify.com/album/6g9RsKEGLj7Yz6SSaXDko7) | 2:57 | 2023-09-08 | 2023-09-12 |
 | [Siguiendo La Luna](https://open.spotify.com/track/6P36zQKLdaW8WBUqmmqmpH) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Messirve Mix 7](https://open.spotify.com/album/4eHuMe6gkLf1XkXN3Hu3nS) | 2:44 | 2023-09-08 |  |
+| [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 | 2023-12-09 |  |
 | [Solo](https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Solo](https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45) | 3:13 | 2023-12-08 |  |
 | [Solo Parecia Amor](https://open.spotify.com/track/5tNMJdmknM2S0lOpknjNVM) | [La Sonora Gigante](https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn) | [Solo Parecía Amor](https://open.spotify.com/album/1andvP8dyAISy4SH1Z5NxH) | 3:44 | 2022-04-01 | 2022-06-22 |
 | [SOMOS NOSOTROS](https://open.spotify.com/track/2u3Hwa2fckCMGb5vo8DBbJ) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [SOMOS NOSOTROS](https://open.spotify.com/album/7mxxb19XlmY9nhFhumFmSD) | 2:02 | 2022-11-18 | 2023-10-06 |

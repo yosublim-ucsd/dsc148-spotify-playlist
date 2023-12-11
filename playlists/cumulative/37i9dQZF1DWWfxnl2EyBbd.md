@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-529 songs - 1 day 16 hr 36 min
+530 songs - 1 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-02-10 | 2022-05-18 |
 | [Deep As Love](https://open.spotify.com/track/2zLYr006x2323uleZZT1U2) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 5:54 | 2022-02-10 | 2022-11-21 |
 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 | 2022-02-25 |  |
-| [Denmark](https://open.spotify.com/track/4An9UP6jPeBqQQVxSQqU0z) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Denmark](https://open.spotify.com/album/0RBjVKwdTopRmzaSUWE1la) | 3:47 | 2022-02-25 |  |
+| [Denmark](https://open.spotify.com/track/4An9UP6jPeBqQQVxSQqU0z) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Denmark](https://open.spotify.com/album/0RBjVKwdTopRmzaSUWE1la) | 3:47 | 2022-02-25 | 2023-12-11 |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2022-11-12 |  |
 | [Det Lilla](https://open.spotify.com/track/5PXrMlPFARqpwCGtuhywSs) | [Tingvall Trio](https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M) | [Det Lilla](https://open.spotify.com/album/3fVBRaXkD4TolDw3jBfGDD) | 3:33 | 2022-02-25 |  |
 | [Diane](https://open.spotify.com/track/77BESrsUN386SrjEA7siB5) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Plays Charles Mingus](https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f) | 3:11 | 2022-07-07 |  |
@@ -344,6 +344,7 @@
 | [Pastorale](https://open.spotify.com/track/2NTQheIeDelu14XCu0Mh7A) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Wisteria](https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s) | 6:15 | 2022-02-10 |  |
 | [Pawn Broker](https://open.spotify.com/track/7MiBR34i4KkdoM3fdf4RUT) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [At This Time...](https://open.spotify.com/album/1oQCGl03k3fDmNADJ99zAn) | 6:09 | 2022-03-08 |  |
 | [Peace](https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Peace](https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn) | 3:37 | 2022-11-12 |  |
+| [Places To Write](https://open.spotify.com/track/0awgGcOGbt4vO7vj1hcXq1) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Places To Write](https://open.spotify.com/album/0wCUJgr4Y0j6floashhhYC) | 4:02 | 2023-12-07 |  |
 | [Platinum Goose](https://open.spotify.com/track/3eoLFO9XPg6vnONeRen5hf) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Platinum Goose](https://open.spotify.com/album/2yugNDUqoylzXH3T5FBggD) | 3:02 | 2023-02-09 |  |
 | [Plaza Real](https://open.spotify.com/track/5NNyy2Fn4qsZ79lEzKFrM9) | [Marcin Wasilewski](https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF), [Slawomir Kurkiewicz](https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR), [Michal Miskiewicz](https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT) | [Trio](https://open.spotify.com/album/5jXillw4nWUrF7Gy56dVu6) | 5:51 | 2022-02-10 |  |
 | [Please, Stay](https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Please, Stay](https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK) | 3:08 | 2023-05-25 |  |

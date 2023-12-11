@@ -1,29 +1,13 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 38659,
+  "num_followers": 38669,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTdmYzgyM2NhNjQ4ZWM5MWM2ZDMyNGE4ZTg2NWRmYjYxZmZlOGI0",
+  "snapshot_id": "MCxkYmMwMTZiZWFmODk4MjhlZjI1MTNlNzUzMTI0MmY4ZDcxNzM5ZjQ1",
   "tracks": [
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Bajan",
-      "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
-    },
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 202513,
       "name": "Seminare (Remasterizado 2021)",
       "url": "https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "Bajan",
+      "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "El Jardin de los Presentes",
-        "url": "https://open.spotify.com/album/0lbpA4dCZfaNhy6LZrGDvJ"
-      },
-      "artists": [
-        {
-          "name": "Invisible",
-          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
-        }
-      ],
-      "duration_ms": 306626,
-      "name": "El Anillo del Capit\u00e1n Beto",
-      "url": "https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -91,6 +75,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "El Jardin de los Presentes",
+        "url": "https://open.spotify.com/album/0lbpA4dCZfaNhy6LZrGDvJ"
+      },
+      "artists": [
+        {
+          "name": "Invisible",
+          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
+        }
+      ],
+      "duration_ms": 306626,
+      "name": "El Anillo del Capit\u00e1n Beto",
+      "url": "https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "La M\u00e1quina De Hacer P\u00e1jaros",
         "url": "https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw"
       },
@@ -103,22 +103,6 @@
       "duration_ms": 164440,
       "name": "Como Mata el Viento Norte",
       "url": "https://open.spotify.com/track/7BbpLe12HpkoZJcJs1A3SP"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 130080,
-      "name": "Todas las Hojas Son del Viento",
-      "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -155,6 +139,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Pappo's Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq"
+      },
+      "artists": [
+        {
+          "name": "Pappo's Blues",
+          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+        }
+      ],
+      "duration_ms": 275386,
+      "name": "Sucio y Desprolijo",
+      "url": "https://open.spotify.com/track/4gyVO49rTCm0JsSbKMqSxX"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
       },
@@ -171,18 +171,34 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Pappo's Blues, Vol. 3",
-        "url": "https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq"
+        "name": "Durazno Sangrando",
+        "url": "https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7"
       },
       "artists": [
         {
-          "name": "Pappo's Blues",
-          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+          "name": "Invisible",
+          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
         }
       ],
-      "duration_ms": 275386,
-      "name": "Sucio y Desprolijo",
-      "url": "https://open.spotify.com/track/4gyVO49rTCm0JsSbKMqSxX"
+      "duration_ms": 219186,
+      "name": "Durazno Sangrando",
+      "url": "https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 130080,
+      "name": "Todas las Hojas Son del Viento",
+      "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -219,22 +235,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 547960,
-      "name": "Cantata de Puentes Amarillos",
-      "url": "https://open.spotify.com/track/7BCQ7bfdNpCdLmlvEGUfSG"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "Confesiones De Invierno",
         "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
       },
@@ -247,22 +247,6 @@
       "duration_ms": 191226,
       "name": "Rasgu\u00f1a las Piedras",
       "url": "https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Durazno Sangrando",
-        "url": "https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7"
-      },
-      "artists": [
-        {
-          "name": "Invisible",
-          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
-        }
-      ],
-      "duration_ms": 219186,
-      "name": "Durazno Sangrando",
-      "url": "https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -347,6 +331,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 547960,
+      "name": "Cantata de Puentes Amarillos",
+      "url": "https://open.spotify.com/track/7BCQ7bfdNpCdLmlvEGUfSG"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "Le\u00f3n Gieco",
         "url": "https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 193535,
       "name": "En el pa\u00eds de la libertad",
       "url": "https://open.spotify.com/track/4cfkWf9EmRZCKMZBAPebNm"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Las Habladurias del Mundo",
-      "url": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -395,6 +379,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Color Humano",
+        "url": "https://open.spotify.com/album/0iEUyTKuM2Nhi3ehAbwYmH"
+      },
+      "artists": [
+        {
+          "name": "Color Humano",
+          "url": "https://open.spotify.com/artist/6AETRCQep85mUtIlX7BaFV"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Ma\u00f1ana por la Noche",
+      "url": "https://open.spotify.com/track/6gWplVwr7ta6vpp2DSCo96"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "Confesiones De Invierno",
         "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 245333,
       "name": "Confesiones de Invierno",
       "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Cuero Caliente",
-        "url": "https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN"
-      },
-      "artists": [
-        {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "El Momento En Que Est\u00e1s",
-      "url": "https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -443,18 +427,34 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Color Humano",
-        "url": "https://open.spotify.com/album/0iEUyTKuM2Nhi3ehAbwYmH"
+        "name": "Cuero Caliente",
+        "url": "https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN"
       },
       "artists": [
         {
-          "name": "Color Humano",
-          "url": "https://open.spotify.com/artist/6AETRCQep85mUtIlX7BaFV"
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
         }
       ],
-      "duration_ms": 172733,
-      "name": "Ma\u00f1ana por la Noche",
-      "url": "https://open.spotify.com/track/6gWplVwr7ta6vpp2DSCo96"
+      "duration_ms": 222693,
+      "name": "El Momento En Que Est\u00e1s",
+      "url": "https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Las Habladurias del Mundo",
+      "url": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -471,22 +471,6 @@
       "duration_ms": 284933,
       "name": "Donde Va la Gente Cuando Llueve",
       "url": "https://open.spotify.com/track/2JjB7P18oOeqpWKGsUGINy"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Lo Mejor de Pescado Rabioso",
-        "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "Post-Crucifixion",
-      "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -571,22 +555,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Mi Cuarto",
-        "url": "https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6"
-      },
-      "artists": [
-        {
-          "name": "Vivencia",
-          "url": "https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "Mi Cuarto",
-      "url": "https://open.spotify.com/track/1eD4rXi4Orx0b3k5an1LBL"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "Manal",
         "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
       },
@@ -599,6 +567,38 @@
       "duration_ms": 254466,
       "name": "Casa Con Diez Pinos",
       "url": "https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Lo Mejor de Pescado Rabioso",
+        "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "Post-Crucifixion",
+      "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Mi Cuarto",
+        "url": "https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6"
+      },
+      "artists": [
+        {
+          "name": "Vivencia",
+          "url": "https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "Mi Cuarto",
+      "url": "https://open.spotify.com/track/1eD4rXi4Orx0b3k5an1LBL"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -651,18 +651,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Alma y Vida, Vol. 2",
-        "url": "https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl"
+        "name": "Otras Pistas",
+        "url": "https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV"
       },
       "artists": [
         {
-          "name": "Alma Y Vida",
-          "url": "https://open.spotify.com/artist/6Qv7PzO62iPNtE9jNTPGDG"
+          "name": "Aquelarre",
+          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
         }
       ],
-      "duration_ms": 165826,
-      "name": "Hoy Te Queremos Cantar",
-      "url": "https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv"
+      "duration_ms": 322026,
+      "name": "Violencia En El Parque",
+      "url": "https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -683,6 +683,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Alma y Vida, Vol. 2",
+        "url": "https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl"
+      },
+      "artists": [
+        {
+          "name": "Alma Y Vida",
+          "url": "https://open.spotify.com/artist/6Qv7PzO62iPNtE9jNTPGDG"
+        }
+      ],
+      "duration_ms": 165826,
+      "name": "Hoy Te Queremos Cantar",
+      "url": "https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "Manal",
         "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 333680,
       "name": "Avellaneda Blues",
       "url": "https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Otras Pistas",
-        "url": "https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV"
-      },
-      "artists": [
-        {
-          "name": "Aquelarre",
-          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
-        }
-      ],
-      "duration_ms": 322026,
-      "name": "Violencia En El Parque",
-      "url": "https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S"
     },
     {
       "added_at": "2020-02-26 16:25:22",

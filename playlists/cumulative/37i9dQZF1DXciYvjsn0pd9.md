@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-93 songs - 5 hr 38 min
+94 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2022-06-30 |  |
 | [Take Ü There \(feat\. Kiesza\)](https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 3:30 | 2022-06-30 |  |
 | [Take Ü There \(feat\. Kiesza\) \- Missy Elliott Remix](https://open.spotify.com/track/4JJTel4WTX7VeyN3fe5CbS) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 3:30 | 2022-06-30 |  |
-| [TARAKA](https://open.spotify.com/track/5P6ilWY7ZC1LrDkLgB1HHv) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [TARAKA](https://open.spotify.com/album/0cIY1dUj0wUVwJU2yxCul7) | 5:07 | 2022-06-30 |  |
+| [TARAKA](https://open.spotify.com/track/0FmHBBkDFZYNYKSyhtrV1D) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [TARAKA](https://open.spotify.com/album/3IeQRYd7uyIORxlIpggPwq) | 5:07 | 2023-01-09 |  |
+| [TARAKA](https://open.spotify.com/track/5P6ilWY7ZC1LrDkLgB1HHv) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [TARAKA](https://open.spotify.com/album/0cIY1dUj0wUVwJU2yxCul7) | 5:07 | 2022-06-30 | 2023-12-11 |
 | [Te Quiero feat\. Chipi Chacon](https://open.spotify.com/track/3muLhrpYdopNymiYwHs8Wx) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Chipi Chacon](https://open.spotify.com/artist/0tKWh0NtdpcakhwymYbfc8) | [Te Quiero feat\. Chipi Chacon](https://open.spotify.com/album/3ZyK7RwnYOGoUh3QRhM6cN) | 3:49 | 2022-06-30 |  |
 | [The Nights](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 2:56 | 2022-06-30 |  |
 | [The Only Way Is Up](https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:18 | 2022-06-30 |  |

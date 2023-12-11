@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Mula B
 
-4,188 songs - 9 day 3 hr 55 min
+4,189 songs - 9 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3894,7 +3894,8 @@
 | [Wandelaar](https://open.spotify.com/track/7kmuLLkQCz5AHlI8EJrY8o) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Wandelaar](https://open.spotify.com/album/2GJ6KgI6oEwJ1cYHQpnoyC) | 3:41 | 2023-03-02 | 2023-03-10 |
 | [Wantrouwig](https://open.spotify.com/track/6uApgxxrwmo7bHARAwvK0e) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Wantrouwig](https://open.spotify.com/album/6TrfrmhSxSIsqnjxcSRfdI) | 2:26 | 2023-12-01 | 2023-12-09 |
 | [WAPAE \(feat\. Angel Dior, Lenier, & Bulin 47\)](https://open.spotify.com/track/556h1n7la5iyZHcrv4kJMC) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [WAPAE \(feat\. Angel Dior, Lenier, & Bulin 47\)](https://open.spotify.com/album/2En0vH2nqSia8vj0y47Ora) | 2:57 | 2023-04-20 | 2023-04-28 |
-| [War Ends Today](https://open.spotify.com/track/6PKD7kKGS2TmdCLqBaaxYO) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [War Ends Today](https://open.spotify.com/album/7wrdmw5ThJYT67TBsYOVxC) | 3:17 | 2023-12-08 |  |
+| [War Ends Today](https://open.spotify.com/track/4TDdbNg50GKvJXKka4uddq) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [War Ends Today](https://open.spotify.com/album/508yoawSJgvgXUAz7EFcgQ) | 3:17 | 2023-12-08 |  |
+| [War Ends Today](https://open.spotify.com/track/6PKD7kKGS2TmdCLqBaaxYO) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [War Ends Today](https://open.spotify.com/album/7wrdmw5ThJYT67TBsYOVxC) | 3:17 | 2023-12-08 | 2023-12-11 |
 | [Warning Sign](https://open.spotify.com/track/2azB6hY1LbNC3VXuGjlDgt) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Do You Ever Wonder What Comes Next?](https://open.spotify.com/album/4ROCJwS5ApQbHrSjo9FWft) | 4:21 | 2023-06-15 | 2023-06-23 |
 | [Waste My Time](https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Waste My Time](https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY) | 2:33 | 2023-10-20 | 2023-10-27 |
 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 | 2023-06-08 | 2023-06-16 |

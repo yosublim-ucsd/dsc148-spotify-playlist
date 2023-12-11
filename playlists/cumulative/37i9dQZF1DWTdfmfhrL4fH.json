@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 284293,
       "name": "A Reason to Fight",
       "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
@@ -4198,6 +4198,24 @@
       "duration_ms": 207925,
       "name": "I Just Wanna Shine",
       "url": "https://open.spotify.com/track/4GZ3YCkuH0VvTluVLwUp4g"
+    },
+    {
+      "album": {
+        "name": "Baby Darling Doll Face Honey",
+        "url": "https://open.spotify.com/album/4lIHrAdqOfKTlIYIMcanJy"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "I Know What I Am",
+      "url": "https://open.spotify.com/track/1NmwD4CJILAT5KXYKv9zfZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Dfideliz
 
-1,031 songs - 2 day 3 hr 18 min
+1,032 songs - 2 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Call me](https://open.spotify.com/track/1AGoUReTLuBe2NCEicxqR7) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Volp](https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z) | [Call me](https://open.spotify.com/album/2Pnva8ngeY9CTxuwO4VEoJ) | 2:41 | 2022-01-17 | 2022-01-22 |
 | [Camarote 7](https://open.spotify.com/track/5oKcpuszlyGFFIfvMiyHwL) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Camarote 7](https://open.spotify.com/album/5FOMlfbmJnVv4BdMlH00pq) | 4:08 | 2022-09-16 | 2022-10-01 |
 | [CAMISETA CARA](https://open.spotify.com/track/1j2ota25fkBJ1pJOjmlqo6) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw) | [SHH..](https://open.spotify.com/album/5YOtVvTMusuUBHZaMjh6NG) | 5:06 | 2022-01-17 | 2022-04-23 |
+| [Camuflado De BAPE \- Feat\. Rare Kidd](https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek) | [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW), [Rare Kidd](https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 2:58 | 2023-12-10 |  |
 | [Candy Shop \(Freestyle\)](https://open.spotify.com/track/6EfI8UhGm3pwUQsT4WnRKE) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [Candy Shop \(Freestyle\)](https://open.spotify.com/album/2uJBMRx8aP2BkrxM7Nb7TX) | 2:54 | 2022-10-28 | 2022-11-19 |
 | [Cangaço](https://open.spotify.com/track/5Ve2D5wBgB4G2ZBeWD5vRX) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Não pode Ser Nada](https://open.spotify.com/artist/7DEa9DT5UqhsCsThZo1qMX), [Omni Black](https://open.spotify.com/artist/38JfrdJwSQMp4l0mpg7K8S), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Cangaço](https://open.spotify.com/album/5x09g7mizCZEPpQgwjSYDp) | 3:19 | 2022-01-17 | 2022-02-19 |
 | [Cara de Tralha](https://open.spotify.com/track/6p23TaKgrd7yyyTn3rH56e) | [Narciso](https://open.spotify.com/artist/5qqfzlsMSYnsixtxlx0US7), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [VZ](https://open.spotify.com/artist/337ob62xgVsYPV0koq0ylW) | [Cara de Tralha](https://open.spotify.com/album/5BmVleMdPxEdtf30r9oDtG) | 2:27 | 2022-11-18 | 2022-11-26 |

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-143 songs - 7 hr 59 min
+144 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/track/4VGut8AX4LO2dWv4YbN6VS) | [Chris Hyson](https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd), [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6) | [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/album/1oaKO5r4jqYYlKcudsKegI) | 5:56 | 2023-08-22 |  |
 | [Pipe Dream](https://open.spotify.com/track/2j55REbJcq6dgZ5FxWDaxE) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [KAZUMI KANEDA](https://open.spotify.com/artist/7mQtMaMaPMw2NTeYXfT53M), [David Lavoie](https://open.spotify.com/artist/6GEHfwj42nnWXXmfKZMPsa), [Javier Martinez Vallejos](https://open.spotify.com/artist/7A0Hqf5PHDLbxCDmYaz1xI) | [Trans Pacific](https://open.spotify.com/album/3gqv8ICfij6deG7ZpBWQXU) | 3:06 | 2023-08-22 |  |
 | [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 | 2023-08-22 |  |
-| [Poolday](https://open.spotify.com/track/7vtfIwFyzFSFvjUjHbEQoG) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [miamore](https://open.spotify.com/artist/23sH6BNUvKukpazBNr5HqB) | [Poolday](https://open.spotify.com/album/0CWEHEdbxMu2w92XiE93xq) | 2:10 | 2023-12-08 |  |
+| [Poolday](https://open.spotify.com/track/7vtfIwFyzFSFvjUjHbEQoG) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [miamore](https://open.spotify.com/artist/23sH6BNUvKukpazBNr5HqB) | [Poolday](https://open.spotify.com/album/0CWEHEdbxMu2w92XiE93xq) | 2:10 | 2023-12-08 | 2023-12-11 |
 | [Remote Planet](https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Remote Planet](https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R) | 2:42 | 2023-08-22 |  |
 | [Rivers](https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Chris Keys](https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur) | [Rivers](https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq) | 2:40 | 2023-08-22 |  |
 | [Routes To Knowledge](https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN) | [The Golden Eternity](https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu) | [Routes To Knowledge](https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl) | 2:57 | 2023-09-22 |  |
@@ -139,6 +139,7 @@
 | [Twinkles](https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [Twinkles](https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn) | 2:41 | 2023-10-13 |  |
 | [Up](https://open.spotify.com/track/2KM2zleCL1o3ruHOic7ZLY) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Up](https://open.spotify.com/album/5tF9qI8ae8ieur4U7SSFow) | 3:24 | 2023-10-13 |  |
 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 | 2023-08-22 |  |
+| [Urban Oasis](https://open.spotify.com/track/68q3yCwDpiaoSQzp2ZWeG2) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Urban Oasis](https://open.spotify.com/album/3q6FnpTsnNq0J1JYFh83fa) | 2:30 | 2023-12-08 |  |
 | [Valencia](https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/1fYibTIKGYuOV0le0LwMvZ) | 2:28 | 2023-08-22 |  |
 | [Verdant](https://open.spotify.com/track/6eopX3Kongrg9P751naBpe) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj) | [Verdant](https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t) | 2:26 | 2023-08-31 |  |
 | [Volpaia](https://open.spotify.com/track/4Xp91oprIAo7n9tMYvK1f4) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Volpaia](https://open.spotify.com/album/0mR6D7VJMDdUNL7LPo4DEw) | 2:13 | 2023-08-22 |  |

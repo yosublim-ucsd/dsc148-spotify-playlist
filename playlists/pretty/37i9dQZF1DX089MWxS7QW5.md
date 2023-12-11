@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Colde\(콜드\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,647 likes - 52 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,686 likes - 52 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 51 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 |
 | 52 | [Adulting](https://open.spotify.com/track/6loqQEv0DKuPc4ztKG4gAR) | [Aylah](https://open.spotify.com/artist/1chOut2a9FJiw0pQFHsCBP) | [Comely](https://open.spotify.com/album/6yjwtup5l6X1YFEGfXtxNk) | 2:40 |
 
-Snapshot ID: `MCw1ZmY4YzJmYjZhYmFlYzJmMzQxMDUwMDkyZWUxYTMwYmUwMGViNWY3`
+Snapshot ID: `MCw4MmMwMmZmODkyNmE1YzM4NDRlNzcyNzc4YjNhMTg1ZTA1ZTNkOWQw`

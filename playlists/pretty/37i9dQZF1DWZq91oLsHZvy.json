@@ -1,12 +1,12 @@
 {
   "description": "Let's go!",
-  "num_followers": 340068,
+  "num_followers": 340310,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWY1NWUyNmU5MjUwYWEwOWJiNDc5ZTIyZDdkNGJjM2ZkZjE1ZTk1",
+  "snapshot_id": "MCwzNjZiOWMzZWI1NDBlYmZmYTkyNjUzMGM2YTc1ZTg3ZTZmZjEwNjQy",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "chapter 2",
-        "url": "https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/1HRTFytvp1Bs50ckTlL5qs"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Year of the Caprese",
         "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
       },
@@ -299,6 +283,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 256306,
       "name": "7",
       "url": "https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "i'll die anyway.",
-        "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 192612,
-      "name": "i'll die anyway.",
-      "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -467,6 +451,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "i'll die anyway.",
+        "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 192612,
+      "name": "i'll die anyway.",
+      "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "The English Riviera",
         "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 290173,
       "name": "The Bay",
       "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 195951,
-      "name": "You Stupid Bitch",
-      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -515,6 +499,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 184599,
+      "name": "Heavy, California",
+      "url": "https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
       },
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 184599,
-      "name": "Heavy, California",
-      "url": "https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz"
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
     },
     {
-      "added_at": "2023-02-10 12:43:59",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 177511,
-      "name": "My Love - Edit",
-      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
-    },
-    {
       "added_at": "2023-01-20 11:00:00",
       "album": {
         "name": "Mechanical Bull (Expanded Edition)",
@@ -967,6 +951,22 @@
       "duration_ms": 250453,
       "name": "Temple",
       "url": "https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC"
+    },
+    {
+      "added_at": "2023-02-10 12:43:59",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 177511,
+      "name": "My Love - Edit",
+      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1149,26 +1149,6 @@
       "url": "https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl"
     },
     {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "Lockjaw",
-        "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 254037,
-      "name": "This Song Is Not About A Girl",
-      "url": "https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU"
-    },
-    {
       "added_at": "2023-11-09 07:04:57",
       "album": {
         "name": "adios",
@@ -1217,6 +1197,26 @@
       "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
+    },
+    {
       "added_at": "2023-02-10 12:43:59",
       "album": {
         "name": "Alpha Zulu",
@@ -1249,42 +1249,6 @@
       "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
     },
     {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "1998",
-        "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "1998",
-      "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
       "added_at": "2023-05-17 13:32:35",
       "album": {
         "name": "Lots of Nothing (feat. BENEE)",
@@ -1303,6 +1267,22 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1327,22 +1307,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Entertainment",
-      "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
@@ -1359,18 +1323,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Is This What It Feels Like to Feel Like This? (Myd Remix)",
-        "url": "https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6"
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
       },
       "artists": [
         {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 165666,
-      "name": "Is This What It Feels Like to Feel Like This?",
-      "url": "https://open.spotify.com/track/6LTVD3zeHqAAiSqyKDhNEH"
+      "duration_ms": 219973,
+      "name": "Entertainment",
+      "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1387,6 +1351,22 @@
       "duration_ms": 248840,
       "name": "Go It Alone",
       "url": "https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Is This What It Feels Like to Feel Like This? (Myd Remix)",
+        "url": "https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Is This What It Feels Like to Feel Like This?",
+      "url": "https://open.spotify.com/track/6LTVD3zeHqAAiSqyKDhNEH"
     },
     {
       "added_at": "2023-05-16 12:08:08",
@@ -1587,6 +1567,26 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 254037,
+      "name": "This Song Is Not About A Girl",
+      "url": "https://open.spotify.com/track/0Z7GNrvgEj3iiIxxPtRwIe"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "MoM & DaD",
-        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
-      },
-      "artists": [
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 291773,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "The Front Bottoms",
         "url": "https://open.spotify.com/album/2ebceTtl7SU1xdVBOzmIJo"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 297346,
       "name": "Flashlight",
       "url": "https://open.spotify.com/track/04hN6ODPxg2w93G6x0XQxr"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "MoM & DaD",
+        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
+      },
+      "artists": [
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 291773,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f"
     }
   ],
   "unique_name": "Indie x Running",

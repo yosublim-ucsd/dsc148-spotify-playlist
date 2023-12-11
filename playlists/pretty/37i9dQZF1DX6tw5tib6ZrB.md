@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Nicki Minaj, 2 Chainz, French Montana, Drake and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,300 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,414 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [I Know](https://open.spotify.com/track/40j4RoqmLiivqzRObbQ4BF) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:56 |
 | 50 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 |
 
-Snapshot ID: `MCxmODI0YzlmMTMyMGY3MTM3YTdkNzliYjg2N2Y1Y2RjNWM4YWU3NDFj`
+Snapshot ID: `MCw0ODVjZWNiYTMwNmNlZjgzODg0MGRlNWNjMzEyMTMxOTE0Y2Y4ZmQy`

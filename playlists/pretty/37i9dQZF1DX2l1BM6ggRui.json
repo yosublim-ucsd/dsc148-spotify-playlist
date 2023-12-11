@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWRiNTkxOGIwNjVlOTE1Y2ViMWU2OGU4ZWMzZTU3YzQyNjA2OWUy",
+  "snapshot_id": "MCw3ODI1NDY0OTU1NmEzOGNlMzQzYTAxM2Q0NWMxM2JiMGM1MzE3YmY1",
   "tracks": [
     {
       "added_at": "2023-11-03 06:14:32",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
-        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Rose Blossom",
-      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "BASTIONS OST Part.4",
         "url": "https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 158980,
       "name": "Guardian",
       "url": "https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 197096,
       "name": "METEOR",
       "url": "https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Be Your Love",
-      "url": "https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Gee - The First Mini Album",
         "url": "https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "A-MOONO-KE",
-        "url": "https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM"
+        "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN"
       },
       "artists": [
         {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
         }
       ],
-      "duration_ms": 177840,
-      "name": "A-MOONO-KE (I\u2019m OK)",
-      "url": "https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT"
+      "duration_ms": 192133,
+      "name": "Be Your Love",
+      "url": "https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -751,6 +735,22 @@
       "duration_ms": 213626,
       "name": "PARADISE (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "A-MOONO-KE",
+        "url": "https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM"
+      },
+      "artists": [
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "A-MOONO-KE (I\u2019m OK)",
+      "url": "https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "HOODIE E BANBAJI",
-        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
-        }
-      ],
-      "duration_ms": 189973,
-      "name": "HOODIE E BANBAJI",
-      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "BLOOM*IZ",
         "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 226786,
       "name": "DREAMLIKE",
       "url": "https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "HOODIE E BANBAJI",
+        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 189973,
+      "name": "HOODIE E BANBAJI",
+      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
     },
     {
       "added_at": "2023-11-03 06:14:32",

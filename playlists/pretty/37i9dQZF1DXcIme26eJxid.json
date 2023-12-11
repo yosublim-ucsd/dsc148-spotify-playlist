@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 98604,
+  "num_followers": 98672,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/2yBjFF19OmukrC7deP7LfZ"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
-    },
-    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "Ebo Taylor",
@@ -307,6 +291,22 @@
       "duration_ms": 365680,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -359,22 +359,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Obi Ate Meso Buo",
         "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 339253,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -607,6 +607,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "Shinamania",
+        "url": "https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk"
+      },
+      "artists": [
+        {
+          "name": "Sir Shina Peters",
+          "url": "https://open.spotify.com/artist/774XinAuSJ5UAid0N6BNrV"
+        }
+      ],
+      "duration_ms": 1002906,
+      "name": "Shinamania, Pt. 1",
+      "url": "https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "Nigeria 70 - Funky Lagos",
         "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 483986,
       "name": "Alo Mi Alo (Parts 1 & 2)",
       "url": "https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Shinamania",
-        "url": "https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk"
-      },
-      "artists": [
-        {
-          "name": "Sir Shina Peters",
-          "url": "https://open.spotify.com/artist/774XinAuSJ5UAid0N6BNrV"
-        }
-      ],
-      "duration_ms": 1002906,
-      "name": "Shinamania, Pt. 1",
-      "url": "https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub"
     },
     {
       "added_at": "2019-06-28 16:54:51",

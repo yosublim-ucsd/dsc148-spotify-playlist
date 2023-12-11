@@ -4,7 +4,7 @@
 
 > Un vibe tranqui para que disfrutes de tu espacio.
 
-85 songs - 4 hr 28 min
+86 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Myself](https://open.spotify.com/track/39DQ77c4J3fJiRNQCDDqox) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Myself](https://open.spotify.com/album/29GHool4MoV8vE9o0RxYKF) | 3:47 | 2021-07-16 |  |
 | [not alone](https://open.spotify.com/track/4muWNZ5n69p9tnjTfDz7GO) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 2:34 | 2021-07-16 |  |
 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 | 2021-07-16 |  |
-| [Oh, But Lover](https://open.spotify.com/track/4Sp5AdeCtHcPQc0KtJUAuR) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Oh, But Lover](https://open.spotify.com/album/6miGsq9L3Tnod0GAHzMXne) | 4:04 | 2021-07-16 |  |
+| [Oh, But Lover](https://open.spotify.com/track/4Sp5AdeCtHcPQc0KtJUAuR) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Oh, But Lover](https://open.spotify.com/album/6miGsq9L3Tnod0GAHzMXne) | 4:04 | 2021-07-16 | 2023-12-11 |
+| [Oh, But Lover](https://open.spotify.com/track/58Sk3DtxUNtE3B2H0yGObE) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/7F2YDpbOx9HBlJc8n8rSoJ) | 4:04 | 2021-07-16 |  |
 | [One Day at a Time](https://open.spotify.com/track/3YzOBxLQQVvqKH8xR0XgNh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [One Day at a Time](https://open.spotify.com/album/7wqOTHoyjGvqRJ7ThxxdNk) | 2:01 | 2021-07-16 |  |
 | [One More Day](https://open.spotify.com/track/6vE4pMWuDSW9gHNbsvgzkB) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Forever Isn't Long Enough](https://open.spotify.com/album/46yNQ7SSAUvftNPAqFGiak) | 4:29 | 2021-07-16 |  |
 | [Our Little Loving](https://open.spotify.com/track/0hK4PwqAEIEnqXquCvhaR3) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Our Little Loving](https://open.spotify.com/album/3lv54CEMwrV5wcmTIxa71s) | 1:31 | 2021-07-16 |  |

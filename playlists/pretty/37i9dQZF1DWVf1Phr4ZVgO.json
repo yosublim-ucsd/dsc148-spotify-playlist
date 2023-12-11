@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1042707,
+  "num_followers": 1043009,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmViNmU1OTJiZWRlYTFhYTIzYjU0NWVlNjFlYTBkNzZmMmM2ZmY5",
+  "snapshot_id": "MCwyNzJjZjg3NWIyYmIxMTQ4OWYwYWE3MDE4ZGFjYjEwMjUzYzJhMmNj",
   "tracks": [
     {
       "added_at": "2023-12-06 13:47:35",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-12-06 13:47:35",
       "album": {
+        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
+        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 182573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
+    },
+    {
+      "added_at": "2023-12-06 13:47:35",
+      "album": {
         "name": "Someone To Watch Over Me",
         "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 215520,
       "name": "Let's Do It (Let's Fall In Love)",
       "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
-    },
-    {
-      "added_at": "2023-12-06 13:47:35",
-      "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
-        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 182573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
     },
     {
       "added_at": "2023-12-06 13:47:35",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-12-06 13:47:35",
       "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
+        "name": "French Fries & Champagne",
+        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
       },
       "artists": [
         {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+          "name": "The Hot Sardines",
+          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
         }
       ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
+      "duration_ms": 141640,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
     },
     {
       "added_at": "2023-12-06 13:47:35",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-12-06 13:47:35",
       "album": {
-        "name": "French Fries & Champagne",
-        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
       },
       "artists": [
         {
-          "name": "The Hot Sardines",
-          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
         }
       ],
-      "duration_ms": 141640,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2023-12-06 13:47:35",

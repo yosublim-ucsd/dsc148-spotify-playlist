@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,874 likes - 107 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,878 likes - 107 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 6 | [Gnawa \(feat\. The Atlas Collective\)](https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv) | [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [The Atlas Collective](https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828) | [Gnawa EP](https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG) | 3:39 |
 | 7 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 |
 | 8 | [Kaga Bole Mera \- Turbotito & Ragz Rework](https://open.spotify.com/track/2YEFBAV9cmwudwx2JjssZR) | [Arundhati Bhaumik](https://open.spotify.com/artist/5lBkGTwZlXHNNKJWsCMPrp), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Ragz](https://open.spotify.com/artist/4YyUBP46T7GxKP0UfqiTSn) | [Kaga Bole Mera \(Turbotito & Ragz Rework\)](https://open.spotify.com/album/3q0N21aIuH5qesQ02Agwpk) | 5:41 |
-| 9 | [Labyrinth \- Extended Mix](https://open.spotify.com/track/2DSixYXsxGkbLYxsrP9ZEe) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [Labyrinth](https://open.spotify.com/album/3Uz71ibY4FDCqu6Aux9lWA) | 6:16 |
+| 9 | [Labyrinth \(Extended Mix\)](https://open.spotify.com/track/7zo8uef0YiTXTYO6pioVyW) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [Labyrinth](https://open.spotify.com/album/16cjfaUqI1TGn9ucJG4Xth) | 6:16 |
 | 10 | [Alegría \- Yuksek Remix](https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Alegría \(Yuksek Remix\) \- Single](https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH) | 4:18 |
 | 11 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 |
 | 12 | [La Piragua](https://open.spotify.com/track/41sfxCghJlbnWnql4QEfl7) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 8:38 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 106 | [En Balaté \(rework\)](https://open.spotify.com/track/780wEKS87IvaYO3QRrpTmx) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj), [Jean\-Claude Naimro](https://open.spotify.com/artist/5NXrAZhndFutn5Kon2ZQCQ) | [En Balaté \(rework\)](https://open.spotify.com/album/0otCKYtXnC0tpVxB0Edg9P) | 6:25 |
 | 107 | [\(It Goes Like\) Nanana](https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 6:07 |
 
-Snapshot ID: `MCwyMDVhNTk2NDg0MjMxNTU3ZTVhNjBhMzIxZDk3Yzg2MmE4MmEwYTVm`
+Snapshot ID: `MCwzZjVlZTVmNzU3ZmMwYjlhNWViMjJhZjVlYzg3YzQwMGE4NDFlZDhh`

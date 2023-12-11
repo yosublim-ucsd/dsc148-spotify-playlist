@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,626 likes - 67 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,666 likes - 67 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 66 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 |
 | 67 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
 
-Snapshot ID: `MCxiM2MwMjA5ZTNkN2NkMmIyMjI4MjBhMDliYWFmMzkzNmIwZDM0YWRk`
+Snapshot ID: `MCw4NTFjOWNmY2FlNWNhODJhZTEyNDRjNzIzZmUwOWMzOWU3NDczODY1`

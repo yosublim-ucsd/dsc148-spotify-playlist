@@ -4802,6 +4802,32 @@
     {
       "album": {
         "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        },
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212767,
+      "name": "No Le Temas a \u00c9l",
+      "url": "https://open.spotify.com/track/1mJzxguN12OGoxFK6VKOdK"
+    },
+    {
+      "album": {
+        "name": "Los Bacatranes",
         "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
       },
       "artists": [
@@ -8030,7 +8056,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 144186,
       "name": "Villana",
       "url": "https://open.spotify.com/track/3dvmH4H92kg3IR1FeimUFw"

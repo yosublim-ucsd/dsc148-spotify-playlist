@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 
 > Un vibe tranqui para que disfrutes de tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,064 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,070 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 65 | [Myself](https://open.spotify.com/track/39DQ77c4J3fJiRNQCDDqox) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Myself](https://open.spotify.com/album/29GHool4MoV8vE9o0RxYKF) | 3:47 |
 | 66 | [Disque Magique](https://open.spotify.com/track/6FWjkgQnnOV4LvLykqbbCo) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:35 |
 | 67 | [Over the Moon](https://open.spotify.com/track/02wNtFxlr9dLmZXKT5TIF5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 3:02 |
-| 68 | [Oh, But Lover](https://open.spotify.com/track/4Sp5AdeCtHcPQc0KtJUAuR) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Oh, But Lover](https://open.spotify.com/album/6miGsq9L3Tnod0GAHzMXne) | 4:04 |
+| 68 | [Oh, But Lover](https://open.spotify.com/track/58Sk3DtxUNtE3B2H0yGObE) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/7F2YDpbOx9HBlJc8n8rSoJ) | 4:04 |
 | 69 | [Lay Low](https://open.spotify.com/track/5Y9v0SLYfeDtgToS3dxtMg) | [Gallway Flex](https://open.spotify.com/artist/6DZylFpDS9LLQYsGRUpa9t) | [Lay Low](https://open.spotify.com/album/16xU2UigXjzJUR4AxW6I0U) | 3:06 |
 | 70 | [5am in cairo](https://open.spotify.com/track/1HO5CGNK9d9zGUXpDAxigN) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/3SEeS3WVZhevxaJKnHe3GU) | 2:57 |
 | 71 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 84 | [Shoes Off](https://open.spotify.com/track/4sRhJO2jitRW4bKiwxQHrH) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Vinkel](https://open.spotify.com/album/57zyze2b8SjHt20Th7mXHO) | 2:01 |
 | 85 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
 
-Snapshot ID: `MCw0OWQwMWQ2MzdlYmY1YjlmN2YyYzQzNGI0Y2FhNzJlMGZjNGY0MWM0`
+Snapshot ID: `MCxkYmNlOWQyMDcxNWYyOGYxY2I5M2ZkOGM5OGIwNWFlZDEzOWY3Njky`

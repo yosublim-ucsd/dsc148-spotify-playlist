@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-354 songs - 1 day 1 hr 34 min
+356 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [我需要一些孤獨 \(八大原創戲劇《親愛的亞當》插曲\)](https://open.spotify.com/track/0dFb9eVcS8YazOCm8Qr3ku) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [我需要一些孤獨 \(八大原創戲劇《親愛的亞當》插曲\)](https://open.spotify.com/album/5OczIitNHb1MwBSvTDbhjq) | 4:40 | 2022-06-13 | 2022-07-01 |
 | [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 | 2023-05-22 | 2023-11-30 |
 | [把所有的愛都揮霍](https://open.spotify.com/track/2bkU3k04LPBUzFSgPJvsB3) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [把所有的愛都揮霍](https://open.spotify.com/album/0wG64jKhXBFqzQ6yclsx7N) | 3:03 | 2023-10-02 | 2023-10-09 |
-| [按部就班](https://open.spotify.com/track/6rzIygJUB5cuPOE1krIfb9) | [草爺](https://open.spotify.com/artist/2saJkMLnybRcxBoOQy6hUG) | [按部就班](https://open.spotify.com/album/6uQppkeYCZl2qemsFb9tPT) | 4:00 | 2023-12-04 |  |
+| [按部就班](https://open.spotify.com/track/6rzIygJUB5cuPOE1krIfb9) | [草爺](https://open.spotify.com/artist/2saJkMLnybRcxBoOQy6hUG) | [按部就班](https://open.spotify.com/album/6uQppkeYCZl2qemsFb9tPT) | 4:00 | 2023-12-04 | 2023-12-11 |
 | [换个角度](https://open.spotify.com/track/6RqLe2IKHFtflmkADqyT3W) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [换个角度](https://open.spotify.com/album/4HaBUU0v5HHq7hDL3uHnmy) | 3:39 | 2023-01-10 | 2023-01-24 |
 | [摯友](https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摯友](https://open.spotify.com/album/5XhdyuaZcuvgWVR135euye) | 5:13 | 2023-05-22 |  |
 | [放過自己](https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [放過自己](https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8) | 4:09 | 2022-08-08 |  |
@@ -239,6 +239,7 @@
 | [斷捨離](https://open.spotify.com/track/0wiUOfOE3RTOhRCU5Xcqnb) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [斷捨離](https://open.spotify.com/album/4b2XXczwNuQYYxv9VRT0EB) | 4:15 | 2023-03-21 | 2023-03-28 |
 | [斷捨離](https://open.spotify.com/track/3SGelhCWnm8CU2y18TwEgp) | [施語庭](https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql) | [斷捨離](https://open.spotify.com/album/3qE0In8H2JhWbS59UsYVws) | 3:49 | 2023-04-17 | 2023-04-25 |
 | [旅徒](https://open.spotify.com/track/4kW2QiG6ihBssg4nI58bBr) | [Control T](https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge) | [旅徒](https://open.spotify.com/album/5nfkPP8P8u3vAx1Uh4GjZI) | 4:40 | 2023-10-23 | 2023-10-31 |
+| [无法胜任](https://open.spotify.com/track/365nDyleJix9hWTNDCFRO8) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [无法胜任](https://open.spotify.com/album/1rfzKyxDFnbLLhD38bpqVF) | 3:50 | 2023-12-11 |  |
 | [日常、遠方及其他](https://open.spotify.com/track/2lEBagjEKT6fdHtYjJipII) | [郭真榕](https://open.spotify.com/artist/6tQ9tgGfydvXjNqnzYJ5lH) | [日常、遠方及其他](https://open.spotify.com/album/189CcFeQ1acLGlbEUmpUL8) | 6:05 | 2022-07-18 | 2022-08-18 |
 | [时光洪流](https://open.spotify.com/track/05yDoVDvARdRQCzDNNd6a1) | [程响](https://open.spotify.com/artist/0EZ1dmFa27KXSwDwcZKT1O) | [时光洪流](https://open.spotify.com/album/4BXBO9Tqn43erEulVz5rNz) | 4:11 | 2022-06-20 |  |
 | [明年 \(Let Go\)](https://open.spotify.com/track/4WegZMLkhwLStHRO9cPsTi) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [明年 \(Let Go\)](https://open.spotify.com/album/2LnX8RfkcsUosGOQgwsh8I) | 4:13 | 2022-06-06 | 2022-07-23 |
@@ -258,6 +259,7 @@
 | [月心說](https://open.spotify.com/track/4jAVdVZUiPUQQKeKBDxedz) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [月心說](https://open.spotify.com/album/0tX5D7Kj42NQCLDXk5kiAy) | 3:51 | 2023-03-21 | 2023-03-28 |
 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 | 2022-07-11 |  |
 | [未发送](https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [未发送](https://open.spotify.com/album/1Ez536BFu6IGYAe9HMKMoh) | 3:35 | 2022-06-06 |  |
+| [末日种子的繁华季节](https://open.spotify.com/track/5als3DEs1Ea5iSpPn8k8wC) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [假如给我三天光明](https://open.spotify.com/album/3e53PWcecI0iJaEB7YQFtn) | 4:07 | 2023-12-11 |  |
 | [查無此心 \- 《查無此心》電影主題曲](https://open.spotify.com/track/0QMtpUJcjt7IEl7FFSd8AJ) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [查無此心 \(《查無此心》電影主題曲\)](https://open.spotify.com/album/3humwzw4eBD7wuyX9qtLjl) | 4:38 | 2023-08-21 | 2023-12-05 |
 | [機場](https://open.spotify.com/track/1uRpwofq229pcFA9s6isv2) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [機場](https://open.spotify.com/album/43fjY3hGhkioULMdbEG3M6) | 5:01 | 2022-06-27 | 2022-07-27 |
 | [毒藥](https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [毒藥](https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc) | 3:25 | 2022-06-13 |  |
@@ -265,7 +267,7 @@
 | [沒什麼能給你 \(Nothing With Me\)](https://open.spotify.com/track/735XY7i9hhLAT6NHAWLdMR) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [沒什麼能給你 \(Nothing With Me\)](https://open.spotify.com/album/7Id27hoZ9cJNpaqPwEfwwb) | 4:14 | 2022-12-27 | 2023-02-21 |
 | [海的顏色 \- 華視《最佳利益》插曲](https://open.spotify.com/track/5SJgGgX2yEjr0kPu1gstYJ) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [愛到不要命](https://open.spotify.com/album/5t2ig6VpX1ED2SH7IzQw4e) | 4:30 | 2022-06-13 | 2022-07-04 |
 | [溫柔 \#MaydayBlue20th \- feat.孫燕姿](https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [溫柔 \#MaydayBlue20th](https://open.spotify.com/album/0hFNgUJRgBphC1NBJaZGI3) | 4:31 | 2022-06-06 |  |
-| [漆黑的空间（《灰色轨迹》国语版）](https://open.spotify.com/track/2hrNeq36jA6fqQOjE97bFX) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [漆黑的空间（《灰色轨迹》国语版）](https://open.spotify.com/album/3Yjh9x7YvA9inrONmxI0jE) | 4:19 | 2023-12-04 |  |
+| [漆黑的空间（《灰色轨迹》国语版）](https://open.spotify.com/track/2hrNeq36jA6fqQOjE97bFX) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [漆黑的空间（《灰色轨迹》国语版）](https://open.spotify.com/album/3Yjh9x7YvA9inrONmxI0jE) | 4:19 | 2023-12-04 | 2023-12-11 |
 | [潮光（《逆水寒》五周年推廣曲）](https://open.spotify.com/track/3LsHqNi3DK2i8K8RBkK7GQ) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [潮光](https://open.spotify.com/album/2rxrXojvyNnKmZY3UAOVla) | 3:34 | 2023-06-19 | 2023-09-15 |
 | [為你寫下這首情歌](https://open.spotify.com/track/7nQUCbkxmQpuhXLugmLffu) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [為你寫下這首情歌](https://open.spotify.com/album/7clyQmQE4BgF0XULsArbiZ) | 4:01 | 2022-12-19 |  |
 | [無價](https://open.spotify.com/track/0OFhF9p11GFEmz2XuSvQI3) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [無價](https://open.spotify.com/album/5nEzxMa4pXq1wscDTMP4js) | 5:27 | 2022-06-13 | 2022-07-25 |

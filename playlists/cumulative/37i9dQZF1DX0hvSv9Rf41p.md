@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Levity
 
-696 songs - 1 day 16 hr 1 min
+697 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,8 @@
 | [Mitosis](https://open.spotify.com/track/1F1yF2KSilU2YLOMuYYf71) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Mitosis](https://open.spotify.com/album/41alHDUXIm46q49d1uO1fq) | 3:43 | 2021-12-17 | 2022-07-16 |
 | [Money Dance](https://open.spotify.com/track/2F9oUWhetYspt7jiVpZgSX) | [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [Money Dance](https://open.spotify.com/album/0xYuvy9cAFsizq7UA1vG4S) | 2:18 | 2023-08-25 | 2023-10-21 |
 | [Monsters](https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Monsters](https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg) | 4:44 | 2023-09-08 | 2023-12-02 |
-| [Monzo](https://open.spotify.com/track/4uEE7AyvysiCXq7jBdj4NJ) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG), [Gaszia](https://open.spotify.com/artist/4g1Lsci8x957T6ksPgsW6Z), [Kollaba](https://open.spotify.com/artist/6Ls6gOeudldLCGkNCgUMTG) | [Monzo](https://open.spotify.com/album/0SzAdr9vEME4ynywDkEZLS) | 3:14 | 2023-12-08 |  |
+| [Monzo](https://open.spotify.com/track/4uEE7AyvysiCXq7jBdj4NJ) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG), [Gaszia](https://open.spotify.com/artist/4g1Lsci8x957T6ksPgsW6Z), [Kollaba](https://open.spotify.com/artist/6Ls6gOeudldLCGkNCgUMTG) | [Monzo](https://open.spotify.com/album/0SzAdr9vEME4ynywDkEZLS) | 3:14 | 2023-12-08 | 2023-12-11 |
+| [Monzo](https://open.spotify.com/track/6AU1pwtdQEzBVhFFpsMsMo) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG), [Gaszia](https://open.spotify.com/artist/4g1Lsci8x957T6ksPgsW6Z), [Kollaba](https://open.spotify.com/artist/6Ls6gOeudldLCGkNCgUMTG) | [Monzo](https://open.spotify.com/album/5RqzZF8XxszlNScsFkQBAu) | 3:14 | 2023-12-08 |  |
 | [Moods](https://open.spotify.com/track/0oEi7MQ5smqE9ahj75MjJR) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Moods](https://open.spotify.com/album/3asWZDjuiU2ED1GoVphwLr) | 2:36 | 2021-12-17 | 2022-02-19 |
 | [Moonlight](https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [Moonlight](https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6) | 3:37 | 2023-10-20 |  |
 | [Mothership](https://open.spotify.com/track/4RcndKiQfqi78jtR3x7acx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z) | [Mothership](https://open.spotify.com/album/7bQMFsjUNd7QTMA6z8kHJE) | 4:03 | 2023-07-07 | 2023-10-28 |

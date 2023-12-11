@@ -2801,6 +2801,28 @@
     },
     {
       "album": {
+        "name": "Sunrise Session II",
+        "url": "https://open.spotify.com/album/6qaLyQ7bPB8sjrer4K01bj"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Reykjav\u00edk Orkestra",
+          "url": "https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Loom - Sunrise Session II",
+      "url": "https://open.spotify.com/track/3ZgOaxUgKP9gaN2xdRWrEM"
+    },
+    {
+      "album": {
         "name": "Loom (Sunrise Session II)",
         "url": "https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5"
       },
@@ -3032,7 +3054,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 195719,
       "name": "Mishkin",
       "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
@@ -3352,6 +3374,28 @@
       "duration_ms": 365892,
       "name": "New Beginning",
       "url": "https://open.spotify.com/track/4Pvt5sRCWGXDFa1Zyv7X7Q"
+    },
+    {
+      "album": {
+        "name": "some kind of peace \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
+      },
+      "artists": [
+        {
+          "name": "tstewart",
+          "url": "https://open.spotify.com/artist/5xEcI8Vn4ofUa5tLHNNlkV"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216141,
+      "name": "New Grass \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/2t56sYAHF16I3bRp0jRGqX"
     },
     {
       "album": {
@@ -4610,7 +4654,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 222187,
       "name": "Sleepless Wake",
       "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"

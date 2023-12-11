@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,153 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,157 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 3 | [HIGH SPEDE](https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!](https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl) | 3:58 |
 | 4 | [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 |
 | 5 | [My Darling](https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [My Darling](https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD) | 3:06 |
-| 6 | [Vanity](https://open.spotify.com/track/6J2xVnZsEgnXyl2hzQawRd) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/6tc7crU7Bal4sLhy5UIq4B) | 2:32 |
+| 6 | [Vanity](https://open.spotify.com/track/23yGrPeT2zyxnr7EWqJsRa) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/6JgvhDCWYLwDbrNWkfUhAF) | 2:32 |
 | 7 | [Fireflies](https://open.spotify.com/track/4Ajby5KmiabXW8U22I6wKC) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Fireflies](https://open.spotify.com/album/6WfB9YEC9FDRhJCrNd5sah) | 2:21 |
 | 8 | [Vijana Wanataka Kazi](https://open.spotify.com/track/71QA3QXgNuJcSWcnUIN1qy) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Vijana Wanataka Kazi](https://open.spotify.com/album/4dFU75ysafiICD8lfC6Rvf) | 2:50 |
 | 9 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [Chaser 2.0](https://open.spotify.com/track/2HGsCutOKv0mC7R0EoiSfP) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Chaser 2.0](https://open.spotify.com/album/1dvm9UdT2HzJeEZzR1HDUz) | 3:00 |
 | 70 | [Sugar My](https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [Sugar My](https://open.spotify.com/album/1d8R1bjpHCMEAK3FH9pGEf) | 3:06 |
 
-Snapshot ID: `MCxhYTAxOTZhZTdhNDZjZTI1MTYzMWE0MmYxMmZmMmFjZmYwODZjMGRj`
+Snapshot ID: `MCxjZTdhNjUxNjdkMDkyNmViY2UxZjdlYzgyZGI0Zjc0NGRiOTQ3YjEw`

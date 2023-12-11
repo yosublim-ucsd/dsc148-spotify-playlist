@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Alpha Sinus Waves 84-92 Hz",
+        "url": "https://open.spotify.com/album/4oERjy6CpIs7kdcVwiP2Tt"
+      },
+      "artists": [
+        {
+          "name": "Rio Delacruz",
+          "url": "https://open.spotify.com/artist/2gATxJ6ZQe6AS97hivkZ52"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Alpha Sinus Waves 84-92 Hz",
+      "url": "https://open.spotify.com/track/5F8l1xTGaGvLVzz8BTkBN3"
+    },
+    {
+      "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU"
       },
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 303614,
       "name": "Meditative Alpha (L-116Hz R-125Hz)",
       "url": "https://open.spotify.com/track/7gI5bxKKzvPPpL8qxrlPd6"

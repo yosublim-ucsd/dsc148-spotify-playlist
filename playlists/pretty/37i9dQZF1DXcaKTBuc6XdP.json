@@ -1,6 +1,6 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 8890,
+  "num_followers": 8889,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Worship Initiative, Vol. 2",
-        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
       },
       "artists": [
         {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
         }
       ],
-      "duration_ms": 229487,
-      "name": "You Are My All In All",
-      "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
+      "duration_ms": 221360,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -491,6 +487,26 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "The Worship Initiative, Vol. 2",
+        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 229487,
+      "name": "You Are My All In All",
+      "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Season One",
         "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 352026,
       "name": "Brokenness Aside",
       "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -611,26 +611,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "We Belong To Jesus (feat. New Life Kids)",
-        "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
-      },
-      "artists": [
-        {
-          "name": "Shout Praises Kids",
-          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
-        },
-        {
-          "name": "New Life Kids",
-          "url": "https://open.spotify.com/artist/7gEZRb7O8vKSmKFCNjypG2"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Never Be Shaken",
-      "url": "https://open.spotify.com/track/4siHGq67CuIl7m8L5qC3a5"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "The Kingdom of Heaven Is Like This",
         "url": "https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 182635,
       "name": "Do Not Worry (feat. Ellie Holcomb)",
       "url": "https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "We Belong To Jesus (feat. New Life Kids)",
+        "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        },
+        {
+          "name": "New Life Kids",
+          "url": "https://open.spotify.com/artist/7gEZRb7O8vKSmKFCNjypG2"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Never Be Shaken",
+      "url": "https://open.spotify.com/track/4siHGq67CuIl7m8L5qC3a5"
     },
     {
       "added_at": "2021-06-29 13:36:02",

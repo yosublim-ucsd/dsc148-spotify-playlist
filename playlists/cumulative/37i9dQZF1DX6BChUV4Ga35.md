@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-124 songs - 4 hr 14 min
+125 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Bird Song](https://open.spotify.com/track/5LOGVDV4Vixiq9d9penmpe) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Birds Rock](https://open.spotify.com/album/4WS4TO1KO4rqljGMeNM7EG) | 2:10 | 2022-02-01 |  |
 | [Blue Whale](https://open.spotify.com/track/2EaMZzWk01lNJM8saw3vTd) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Animal Songs 2](https://open.spotify.com/album/5L9VHpr6V2kXzN3mI4eqZe) | 1:00 | 2022-02-01 |  |
 | [Bounce Like a Bunny](https://open.spotify.com/track/2NIFGVRr4hkbefiViKjGpb) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Bounce Like a Bunny](https://open.spotify.com/album/7iPcccVEN3J8les524Hbc9) | 1:49 | 2022-02-01 |  |
-| [Bug Out](https://open.spotify.com/track/5YY2Em0TLlczXmkTsuwKj6) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3) | 4:04 | 2022-02-01 |  |
+| [Bug Out](https://open.spotify.com/track/3QUfPDdx2scGtqqXhN4JU3) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7cHCMYnkFDgLT0uQ4sAMWl) | 4:04 | 2022-07-25 |  |
+| [Bug Out](https://open.spotify.com/track/5YY2Em0TLlczXmkTsuwKj6) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3) | 4:04 | 2022-02-01 | 2023-12-11 |
 | [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/4F3ddWC6h5vgJKNih9v340) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 2:55 | 2022-02-01 |  |
 | [Cheetah](https://open.spotify.com/track/5YV1zmwIMC6cP7GGMhP1OO) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Animal Songs 2](https://open.spotify.com/album/5L9VHpr6V2kXzN3mI4eqZe) | 1:03 | 2022-02-01 |  |
 | [Chicken Bop](https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:03 | 2022-02-01 | 2023-02-08 |

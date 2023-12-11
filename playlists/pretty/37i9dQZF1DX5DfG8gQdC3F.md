@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Tate McRae, Nicki Minaj, Peso Pluma & Anitta, Night Lovell and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,219 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,244 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 97 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 |
 | 98 | [Skin and Bones](https://open.spotify.com/track/3aL5ZnB59jfM9Y3XJSICAu) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW) | [Skin and Bones](https://open.spotify.com/album/2Ka1MPym74RaVFNrH9QK3n) | 3:23 |
 | 99 | [THE WOLF](https://open.spotify.com/track/0Be1p9GZJlbBd7cONbRgra) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [THE WOLF](https://open.spotify.com/album/34nx9Nn2GQ48ziOsccw7Ow) | 3:40 |
-| 100 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/1hcYgQfU1DIParVH4wPJCw) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
+| 100 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
 
-Snapshot ID: `MCxmNDA2ODliNjNkODAzMmFlZTgwMjNmYTQ1MDdjMzZiMmE0MTNmY2Qx`
+Snapshot ID: `MCxmZjM1MDc0NDIzYmVlNzlkM2I1ZDIwNjI4MTA0YzI0YjQ3MWNhZjFh`

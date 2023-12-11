@@ -1,12 +1,12 @@
 {
   "description": "New music from Adrianne Lenker, Sjowgren, Real Estate and more...  ",
-  "num_followers": 2196730,
+  "num_followers": 2196763,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDBiNGZjNWFhMzk4NTAwYmY3N2MxODE4NWMzY2YzMmZhMTFhYjA1",
+  "snapshot_id": "MCwzMGQ4YjRmYTA4NzdkNDJiNjE0Zjg1NjlkYWVmMjA0MzU3NzFlMzBj",
   "tracks": [
     {
       "added_at": "2023-12-08 18:09:07",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
     },
     {
+      "added_at": "2023-12-10 23:08:00",
+      "album": {
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/187ddebM7tIpmkdDOicu81"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 185458,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/2ESCxmLAUmOPPWlUtbCMDo"
+    },
+    {
       "added_at": "2023-12-08 18:09:07",
       "album": {
         "name": "Water Underground",
@@ -71,6 +87,42 @@
       "duration_ms": 206546,
       "name": "Water Underground",
       "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
+    },
+    {
+      "added_at": "2023-12-10 23:08:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
+    },
+    {
+      "added_at": "2023-12-10 23:08:00",
+      "album": {
+        "name": "I'm Sorry (ft. Lous and The Yakuza)",
+        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -123,6 +175,22 @@
       "duration_ms": 165413,
       "name": "Pet Rock",
       "url": "https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3"
+    },
+    {
+      "added_at": "2023-12-10 23:08:00",
+      "album": {
+        "name": "Wanna",
+        "url": "https://open.spotify.com/album/5ziaDeu4Ulk0MkIujM5Fw8"
+      },
+      "artists": [
+        {
+          "name": "Paul Dally",
+          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
+        }
+      ],
+      "duration_ms": 153492,
+      "name": "Wanna",
+      "url": "https://open.spotify.com/track/5FxmV25XctzXjuHNaQPpBz"
     },
     {
       "added_at": "2023-11-14 17:35:08",
@@ -209,6 +277,22 @@
       "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
     },
     {
+      "added_at": "2023-12-10 23:08:00",
+      "album": {
+        "name": "Don't You Want To Sleep With Someone Normal?",
+        "url": "https://open.spotify.com/album/3pZbBTlwXWw77Tj5Euwe3s"
+      },
+      "artists": [
+        {
+          "name": "Love Fame Tragedy",
+          "url": "https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q"
+        }
+      ],
+      "duration_ms": 228095,
+      "name": "Don't You Want To Sleep With Someone Normal?",
+      "url": "https://open.spotify.com/track/0UwDwiamblRdcYyzfDJS4k"
+    },
+    {
       "added_at": "2023-12-08 18:09:07",
       "album": {
         "name": "SUNSTRIKES",
@@ -251,6 +335,22 @@
       "duration_ms": 180994,
       "name": "Average Guy (Blame)",
       "url": "https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H"
+    },
+    {
+      "added_at": "2023-12-10 23:08:00",
+      "album": {
+        "name": "Dead Lands",
+        "url": "https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8"
+      },
+      "artists": [
+        {
+          "name": "Punchlove",
+          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
+        }
+      ],
+      "duration_ms": 274714,
+      "name": "Dead Lands",
+      "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
     },
     {
       "added_at": "2023-12-08 18:09:07",
@@ -343,6 +443,22 @@
       "duration_ms": 294396,
       "name": "Thick Skull (Re: Julien Baker)",
       "url": "https://open.spotify.com/track/7JH2H8oc2LfcEfiiEN0mML"
+    },
+    {
+      "added_at": "2023-12-10 23:08:00",
+      "album": {
+        "name": "another sublet",
+        "url": "https://open.spotify.com/album/3j4TeXExZfONFBsnukEMuG"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "another sublet",
+      "url": "https://open.spotify.com/track/5QXO4uPk1FdznZEGqTJsLb"
     },
     {
       "added_at": "2023-12-08 18:09:07",
@@ -641,22 +757,6 @@
       "url": "https://open.spotify.com/track/46HVIOMbE5dabV45fjJewz"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Jean",
-        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
-    },
-    {
       "added_at": "2023-11-21 20:31:45",
       "album": {
         "name": "New Blue Sun",
@@ -703,22 +803,6 @@
       "duration_ms": 208372,
       "name": "Using You",
       "url": "https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF"
-    },
-    {
-      "added_at": "2023-11-21 19:17:27",
-      "album": {
-        "name": "And The Wind (Live and Loose!)",
-        "url": "https://open.spotify.com/album/269ipbHgbvO1kxtwhwY3XR"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 211444,
-      "name": "Catholic Priest - Live",
-      "url": "https://open.spotify.com/track/1bibYQtOlKNPqk3oA8HGP3"
     },
     {
       "added_at": "2023-11-21 19:17:27",
@@ -1045,22 +1129,6 @@
       "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
     },
     {
-      "added_at": "2023-10-02 17:23:54",
-      "album": {
-        "name": "going...going...GONE!",
-        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "pos",
-      "url": "https://open.spotify.com/track/5EwIo2Vc50Blvpk00ynRQP"
-    },
-    {
       "added_at": "2023-10-26 22:36:02",
       "album": {
         "name": "I Don't Know You",
@@ -1237,22 +1305,6 @@
       "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
     },
     {
-      "added_at": "2023-11-06 17:02:48",
-      "album": {
-        "name": "Archive 81",
-        "url": "https://open.spotify.com/album/1zdajIdMnoprAM6WgaGzrH"
-      },
-      "artists": [
-        {
-          "name": "Bathe Alone",
-          "url": "https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC"
-        }
-      ],
-      "duration_ms": 221014,
-      "name": "Archive 81",
-      "url": "https://open.spotify.com/track/72K6hldjaNmLFpvPIBIiXp"
-    },
-    {
       "added_at": "2023-07-07 22:04:26",
       "album": {
         "name": "All We Ever Do Is Talk",
@@ -1299,22 +1351,6 @@
       "duration_ms": 219507,
       "name": "Bright Green Vibrant Gray",
       "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
-    },
-    {
-      "added_at": "2023-11-06 17:02:48",
-      "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW"
-      },
-      "artists": [
-        {
-          "name": "FRIDAY*",
-          "url": "https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Radiohead",
-      "url": "https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1671,22 +1707,6 @@
       "duration_ms": 233406,
       "name": "Pink + White - Live at Electric Lady",
       "url": "https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Oh No Darling!",
-        "url": "https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 203876,
-      "name": "Oh No Darling!",
-      "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
     }
   ],
   "unique_name": "Front Page Indie",

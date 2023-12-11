@@ -60,7 +60,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 150370,
       "name": "Active",
       "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
@@ -3912,10 +3912,44 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 194993,
       "name": "Monzo",
       "url": "https://open.spotify.com/track/4uEE7AyvysiCXq7jBdj4NJ"
+    },
+    {
+      "album": {
+        "name": "Monzo",
+        "url": "https://open.spotify.com/album/5RqzZF8XxszlNScsFkQBAu"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        },
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "X&G",
+          "url": "https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG"
+        },
+        {
+          "name": "Gaszia",
+          "url": "https://open.spotify.com/artist/4g1Lsci8x957T6ksPgsW6Z"
+        },
+        {
+          "name": "Kollaba",
+          "url": "https://open.spotify.com/artist/6Ls6gOeudldLCGkNCgUMTG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194993,
+      "name": "Monzo",
+      "url": "https://open.spotify.com/track/6AU1pwtdQEzBVhFFpsMsMo"
     },
     {
       "album": {
@@ -4760,7 +4794,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 225230,
       "name": "REDloop",
       "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
@@ -5190,7 +5224,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 247500,
       "name": "Silo (feat. fknsyd)",
       "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
@@ -5916,7 +5950,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 314840,
       "name": "Trailblazer",
       "url": "https://open.spotify.com/track/3CLYGFWX1kUFMSXbpC5Qa5"

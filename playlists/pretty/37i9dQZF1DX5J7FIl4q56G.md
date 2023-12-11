@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: HEALTH
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,515 likes - 67 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,566 likes - 67 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 3 | [DSM\-V](https://open.spotify.com/track/31JoCS9r2IzGp13ENm3Cvd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 4:23 |
 | 4 | [Parasite](https://open.spotify.com/track/47yul4OvMZctnAVjrEJ1YC) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Parasite](https://open.spotify.com/album/1snJ2mJ2UJXASD7QteQ6PK) | 2:44 |
 | 5 | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD) | 3:54 |
-| 6 | [Black Metal](https://open.spotify.com/track/3X5kqFlzHpE0F4dWu7FpvE) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Black Metal](https://open.spotify.com/album/3zSEbbnDK2iU0YwBD2MfPe) | 3:25 |
+| 6 | [Black Metal](https://open.spotify.com/track/7EOQkhF7XjesdoSFn9x10Y) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Inspiratio Profanus](https://open.spotify.com/album/6PMOZfuG2E4wDMZLGmpkkx) | 3:25 |
 | 7 | [Bark At The Moon](https://open.spotify.com/track/12Y5yksLToukuJ7e5DHb7Z) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Bark At The Moon](https://open.spotify.com/album/6dQXONEkRfBrMVsXBLudql) | 4:19 |
 | 8 | [Mighty Wings](https://open.spotify.com/track/7LGcQjyaSSd81RSBBLCIPM) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Mighty Wings](https://open.spotify.com/album/735ulHQqXLC4wPuO3ErnkD) | 4:00 |
 | 9 | [Deconstruction](https://open.spotify.com/track/0qX3XuE9FpgCLoHYzsdIKM) | [Gibson Band](https://open.spotify.com/artist/3RcpwEmMSqD1EysycFp689), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV), [Cesar Gueikian](https://open.spotify.com/artist/0oAV1TRT03wZlwmLzaRf60) | [Deconstruction](https://open.spotify.com/album/3jOniKvAymZ17r3rfxmlpE) | 5:56 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 66 | [Junod's Way](https://open.spotify.com/track/6Ku6jB02BMS8CXobauBlLl) | [Unlocked](https://open.spotify.com/artist/7qUiIkl6gCVuFmQlbTkV3n) | [Junod's Way](https://open.spotify.com/album/0goZV9SCSoENt4FksFgcMh) | 4:38 |
 | 67 | [Killing Floor](https://open.spotify.com/track/4aD1F7EEthPlwOB2kcq66t) | [Glower](https://open.spotify.com/artist/073IQy30gdvdbAzjn2VjMb) | [Gaunt Sun](https://open.spotify.com/album/3lIUsaPKaxelSAsPJF4BHg) | 1:59 |
 
-Snapshot ID: `MCw2MjBjMTMwYjRlZWZhZmJmOWFmZWRjYmQ4MDIwYTYxNGI5MDdmOTcy`
+Snapshot ID: `MCwwYjcyYmY2NjI4Y2IwYjk4MGNiYzlmMTM2ZDgwYjY3MTY2MmZiNjcy`

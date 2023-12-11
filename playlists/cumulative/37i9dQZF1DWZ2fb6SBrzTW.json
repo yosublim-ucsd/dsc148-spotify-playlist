@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137885,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
+    },
+    {
+      "album": {
         "name": "Awon Temi",
         "url": "https://open.spotify.com/album/4n6UFiFW2nstnqVp7areC1"
       },
@@ -2603,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "Gbadun",
+        "url": "https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Gbadun",
+      "url": "https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F"
+    },
+    {
+      "album": {
         "name": "Gbee Body (feat. Edem)",
         "url": "https://open.spotify.com/album/1kKY6PVggt76lqta770b9y"
       },
@@ -2640,7 +2676,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 162991,
       "name": "Gbese",
       "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
@@ -5320,7 +5356,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 120439,
       "name": "PARIWO",
       "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"

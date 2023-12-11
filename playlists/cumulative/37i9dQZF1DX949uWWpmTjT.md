@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-875 songs - 2 day 9 hr 3 min
+876 songs - 2 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Midnight Passion](https://open.spotify.com/track/3P62YgTZIrJR5RMKXFNMMr) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Midnight Passion](https://open.spotify.com/album/0vt5ejd6J0VlbhW41zN84q) | 2:29 | 2023-12-08 |  |
 | [Midnight Reverie](https://open.spotify.com/track/7tkPArhLCX4cDHkZMalG41) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [Midnight Reverie](https://open.spotify.com/album/1axg5vCMgiF7T7US2mv3Oc) | 3:48 | 2023-12-08 |  |
 | [Midnight Serenade](https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Midnight Serenade](https://open.spotify.com/album/3wIeHoxZk52kgKVI4IjeQh) | 4:19 | 2023-08-10 |  |
+| [Milano](https://open.spotify.com/track/3HqAqSU3Boz7wCwfiaXdfR) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Milano](https://open.spotify.com/album/0rcCAGcrW8YSqgqiUBguYm) | 3:58 | 2023-12-08 |  |
 | [Minor Matters](https://open.spotify.com/track/79TNrecUsky8SMPo7I1AJC) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Minor Matters](https://open.spotify.com/album/4FI5JIydsr1OYdMPVLoJX6) | 3:15 | 2023-08-25 |  |
 | [Miso the cat](https://open.spotify.com/track/6UoHrLNQE4UR8SG79V6FBX) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Miso the cat](https://open.spotify.com/album/5RmAvg9TQzDmm287fovehw) | 3:50 | 2023-08-10 |  |
 | [Miss B.](https://open.spotify.com/track/1BmYFsBIxIB2mDsIXGlCv7) | [Mu Quintet](https://open.spotify.com/artist/26hCtsfsn4q3v24kGBmlr0) | [Summit](https://open.spotify.com/album/5P1I1tIgkLh6682ZiOtP92) | 4:51 | 2023-02-09 |  |
@@ -725,7 +726,7 @@
 | [The Big Year](https://open.spotify.com/track/3Di1FOtznFLCR1EMqAP0B4) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [The Big Year](https://open.spotify.com/album/2LCxo9ZWgOg4lsltaB9nOw) | 3:58 | 2023-06-15 | 2023-11-26 |
 | [The Day that I Felt](https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:18 | 2023-02-09 | 2023-05-26 |
 | [The Days Of Wine And Roses](https://open.spotify.com/track/4perVeAQ5hn68NDRx6nzey) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [The Days Of Wine And Roses](https://open.spotify.com/album/2k7HeS16u7cqaUJei7VuAf) | 3:05 | 2023-02-09 |  |
-| [The Days of Wine and Roses](https://open.spotify.com/track/4mummEvXDYUwKdTiMV55UI) | [Sentimental Mood Trio](https://open.spotify.com/artist/3P5GWV6ACWtiwq71Y5KYcD) | [The Days of Wine and Roses](https://open.spotify.com/album/5wLINKGGSQJ4A1hxCHS5z2) | 5:19 | 2023-06-15 |  |
+| [The Days of Wine and Roses](https://open.spotify.com/track/4mummEvXDYUwKdTiMV55UI) | [Sentimental Mood Trio](https://open.spotify.com/artist/3P5GWV6ACWtiwq71Y5KYcD) | [The Days of Wine and Roses](https://open.spotify.com/album/5wLINKGGSQJ4A1hxCHS5z2) | 5:19 | 2023-06-15 | 2023-12-11 |
 | [The First Step](https://open.spotify.com/track/2CFUoit9OLr6gHZ2WUz7P1) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [The First Step](https://open.spotify.com/album/0npCvOirIl3qBkbtpkAufa) | 3:02 | 2023-11-24 |  |
 | [the first time I saw you](https://open.spotify.com/track/2mxkWAgoZBU1lRmxp8KEBt) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [the first time I saw you](https://open.spotify.com/album/1L8MHKjTmFHlcwinpZgWZn) | 2:55 | 2023-04-14 |  |
 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 | 2022-11-10 |  |

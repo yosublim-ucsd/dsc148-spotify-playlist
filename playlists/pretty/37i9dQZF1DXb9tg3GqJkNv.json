@@ -1,6 +1,6 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: FRVRFRIDAY",
-  "num_followers": 9364,
+  "num_followers": 9383,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
@@ -311,26 +311,6 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "eat ya veggies",
-        "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 161613,
-      "name": "2 time zones (feat. Night Lovell)",
-      "url": "https://open.spotify.com/track/5d2fEfIzQz67c3YQ2trVnE"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
         "name": "B.B. King Freestyle",
         "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 222801,
       "name": "B.B. King Freestyle (with Drake)",
       "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "EXCEPTIONAL",
+        "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "duration_ms": 137739,
+      "name": "EXCEPTIONAL",
+      "url": "https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -403,22 +403,18 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "EXCEPTIONAL",
-        "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
+        "name": "Sorry 4 What",
+        "url": "https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a"
       },
       "artists": [
         {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
         }
       ],
-      "duration_ms": 137739,
-      "name": "EXCEPTIONAL",
-      "url": "https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC"
+      "duration_ms": 145918,
+      "name": "Why Did I",
+      "url": "https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -439,18 +435,18 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Sorry 4 What",
-        "url": "https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a"
+        "name": "88GLAM2",
+        "url": "https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd"
       },
       "artists": [
         {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
         }
       ],
-      "duration_ms": 145918,
-      "name": "Why Did I",
-      "url": "https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6"
+      "duration_ms": 180813,
+      "name": "Lil Boat",
+      "url": "https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -471,22 +467,6 @@
       "duration_ms": 195053,
       "name": "Champion (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "88GLAM2",
-        "url": "https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd"
-      },
-      "artists": [
-        {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Lil Boat",
-      "url": "https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -527,22 +507,6 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Everywhere We Go Single",
-        "url": "https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2"
-      },
-      "artists": [
-        {
-          "name": "SonReal",
-          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Everywhere We Go",
-      "url": "https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
         "name": "Canada Goose",
         "url": "https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14"
       },
@@ -563,22 +527,18 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "88GLAM RELOADED",
-        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
+        "name": "Everywhere We Go Single",
+        "url": "https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2"
       },
       "artists": [
         {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
         }
       ],
-      "duration_ms": 185316,
-      "name": "Bali",
-      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
+      "duration_ms": 198520,
+      "name": "Everywhere We Go",
+      "url": "https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -595,6 +555,26 @@
       "duration_ms": 180748,
       "name": "Live Up to My Name",
       "url": "https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "88GLAM RELOADED",
+        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
+      },
+      "artists": [
+        {
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 185316,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -651,22 +631,6 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "EXTRA EXTRA!",
-        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "MUST BE",
-      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
         "name": "Special Occasion",
         "url": "https://open.spotify.com/album/41EeKSi50U1kVWCq08Cqav"
       },
@@ -687,6 +651,22 @@
       "duration_ms": 233239,
       "name": "Bass (feat. Tech N9ne & Hopsin)",
       "url": "https://open.spotify.com/track/6oOX1c2fcsYbdgxUkI80h0"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "MUST BE",
+      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -811,26 +791,6 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Rastar",
-        "url": "https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag"
-      },
-      "artists": [
-        {
-          "name": "Yung Tory",
-          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
-        },
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        }
-      ],
-      "duration_ms": 173932,
-      "name": "Netflix & Chill (feat. Fenix Flexin)",
-      "url": "https://open.spotify.com/track/5pgOjtwyKuzOVj8QAMKdJB"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
         "name": "Mansion",
         "url": "https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E"
       },
@@ -851,6 +811,26 @@
       "duration_ms": 166000,
       "name": "Mansion",
       "url": "https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "Rastar",
+        "url": "https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag"
+      },
+      "artists": [
+        {
+          "name": "Yung Tory",
+          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 173932,
+      "name": "Netflix & Chill (feat. Fenix Flexin)",
+      "url": "https://open.spotify.com/track/5pgOjtwyKuzOVj8QAMKdJB"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -915,6 +895,22 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
+        "name": "Trust Your Gut",
+        "url": "https://open.spotify.com/album/69pUV4gOn39njJuG6iHoyv"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        }
+      ],
+      "duration_ms": 229624,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/5BqEut8sdVvVMqs60BgwCl"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/3v7DpJF9d1XoAI8e0cnn6h"
       },
@@ -947,22 +943,6 @@
       "duration_ms": 141333,
       "name": "Money Showers",
       "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "Trust Your Gut",
-        "url": "https://open.spotify.com/album/69pUV4gOn39njJuG6iHoyv"
-      },
-      "artists": [
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        }
-      ],
-      "duration_ms": 229624,
-      "name": "Way Down",
-      "url": "https://open.spotify.com/track/5BqEut8sdVvVMqs60BgwCl"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1039,6 +1019,22 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
+        "name": "NightmareZ",
+        "url": "https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7"
+      },
+      "artists": [
+        {
+          "name": "Duvy",
+          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
+        }
+      ],
+      "duration_ms": 109446,
+      "name": "NightmareZ",
+      "url": "https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
         "name": "30,000 ft",
         "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
       },
@@ -1055,22 +1051,6 @@
       "duration_ms": 157873,
       "name": "30,000 ft",
       "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "NightmareZ",
-        "url": "https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7"
-      },
-      "artists": [
-        {
-          "name": "Duvy",
-          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
-        }
-      ],
-      "duration_ms": 109446,
-      "name": "NightmareZ",
-      "url": "https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1151,22 +1131,6 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "BECAUSE WE'RE ALIVE",
-        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
-      },
-      "artists": [
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        }
-      ],
-      "duration_ms": 151310,
-      "name": "KING OF THE TOWN",
-      "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
         "name": "DUSK to DAWN",
         "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
       },
@@ -1183,18 +1147,18 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Vallie Mode",
-        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
+        "name": "BECAUSE WE'RE ALIVE",
+        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
       },
       "artists": [
         {
-          "name": "Dom Vallie",
-          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
         }
       ],
-      "duration_ms": 148349,
-      "name": "Vallie Mode",
-      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
+      "duration_ms": 151310,
+      "name": "KING OF THE TOWN",
+      "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1231,6 +1195,22 @@
       "duration_ms": 168426,
       "name": "WOO!",
       "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "Vallie Mode",
+        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "duration_ms": 148349,
+      "name": "Vallie Mode",
+      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1291,26 +1271,42 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Pedro Activated",
-        "url": "https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W"
+        "name": "Northside Jane",
+        "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
       },
       "artists": [
         {
-          "name": "Top5",
-          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
+          "name": "TallupTwinz",
+          "url": "https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL"
         },
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "Burna Bandz",
+          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
         },
         {
-          "name": "6ixbuzz",
-          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
         }
       ],
-      "duration_ms": 204000,
-      "name": "21 Questions",
-      "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
+      "duration_ms": 221596,
+      "name": "No Favours",
+      "url": "https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
+      },
+      "artists": [
+        {
+          "name": "LocoCity",
+          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
+        }
+      ],
+      "duration_ms": 139213,
+      "name": "Job Done",
+      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1335,42 +1331,26 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
+        "name": "Pedro Activated",
+        "url": "https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W"
       },
       "artists": [
         {
-          "name": "LocoCity",
-          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
-        }
-      ],
-      "duration_ms": 139213,
-      "name": "Job Done",
-      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "Northside Jane",
-        "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
-      },
-      "artists": [
-        {
-          "name": "TallupTwinz",
-          "url": "https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL"
+          "name": "Top5",
+          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
         },
         {
-          "name": "Burna Bandz",
-          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
-          "name": "Houdini",
-          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
         }
       ],
-      "duration_ms": 221596,
-      "name": "No Favours",
-      "url": "https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki"
+      "duration_ms": 204000,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1411,6 +1391,22 @@
       "duration_ms": 208991,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "When The Moving Stops",
+        "url": "https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 208670,
+      "name": "When The Moving Stops",
+      "url": "https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr"
     },
     {
       "added_at": "2023-12-08 05:01:00",

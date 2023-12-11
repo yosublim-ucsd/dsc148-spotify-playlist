@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1970s\. Cover: Elton John
 
-296 songs - 18 hr 54 min
+297 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Love Hurts \- Single Edit](https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair of the Dog](https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP) | 3:52 | 2021-04-22 | 2022-07-18 |
 | [Love Me](https://open.spotify.com/track/6bldx2VmqcHGB8OkNdtqA0) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [70s Love](https://open.spotify.com/album/1IrBNTc364DkrvUBmISfMC) | 3:17 | 2021-04-22 | 2022-07-13 |
 | [Love Me For A Reason](https://open.spotify.com/track/1rdEDyNqQb7AsG193Q58Fl) | [The Osmonds](https://open.spotify.com/artist/5fU6lODhpw3GEGGJuaDprR) | [Love Me For A Reason](https://open.spotify.com/album/0KtBaZDnqKUfrfStBHDaHT) | 4:03 | 2021-04-22 | 2022-04-20 |
-| [Love, Love, Love](https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 3:22 | 2023-02-13 |  |
+| [Love, Love, Love](https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 3:22 | 2023-02-13 | 2023-12-11 |
 | [Make It with You](https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [On the Waters](https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7) | 3:12 | 2021-04-22 |  |
 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 | 2021-04-22 |  |
 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:13 | 2021-04-22 |  |
@@ -229,6 +229,7 @@
 | [Starting All Over Again](https://open.spotify.com/track/6Vo8rpayHpm3dmuoluEzTQ) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [The Complete Stax / Volt Soul Singles, Vol\. 3: 1972\-1975](https://open.spotify.com/album/0qX1tjvl4tyjt4rbLwOtJU) | 3:50 | 2021-04-22 | 2022-04-21 |
 | [Still](https://open.spotify.com/track/4spErQWs900r6GUJaX6kvk) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/1M2c57R5rPEqZzTzh2yooj) | 3:44 | 2021-04-22 | 2022-07-29 |
 | [Streets of London](https://open.spotify.com/track/0P49pJa288tm8gKbFcofn9) | [Ralph McTell](https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG) | [Spiral Staircase \(Expanded Edition\)](https://open.spotify.com/album/4g0FobFyVjCK1evYB6A4jY) | 4:08 | 2021-04-22 | 2023-11-04 |
+| [Streets of London](https://open.spotify.com/track/2zwH1NlxBEpzVlvzXNHQso) | [Ralph McTell](https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG) | [Spiral Staircase \(Expanded Edition\)](https://open.spotify.com/album/1KNG7O89f5oHbvvI3eOMPv) | 4:08 | 2022-09-23 |  |
 | [Sunshine On My Shoulders](https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 5:11 | 2021-04-22 |  |
 | [Superstar](https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Carpenters](https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI) | 3:51 | 2021-04-22 |  |
 | [Sweet Love](https://open.spotify.com/track/3W7sJgfcVgR3ifmFxid141) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Movin' On](https://open.spotify.com/album/6VkPcXitZQpLTtZphpaPXC) | 6:33 | 2021-04-22 | 2022-04-20 |

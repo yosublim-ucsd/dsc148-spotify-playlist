@@ -4,7 +4,7 @@
 
 > Listen to all of her hits right here!
 
-72 songs - 3 hr 33 min
+73 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Macetar](https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Macetar](https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v) | 1:54 | 2023-09-08 |  |
 | [Machika](https://open.spotify.com/track/7FnHUsFRTMg8VYteFKj3xL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:09 | 2023-09-08 |  |
 | [Mais Uma](https://open.spotify.com/track/1ttR4WB57ZZQqVBGiUZVis) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9), [Zain](https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp) | [Mais Uma](https://open.spotify.com/album/4dnZFRXRCa2ez2jLAUcNp1) | 2:07 | 2023-09-08 |  |
-| [Make It Hot](https://open.spotify.com/track/3MXUsff3RxRds9KCVttibq) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Make It Hot](https://open.spotify.com/album/7l9LzzyPayF2hvDuznaofC) | 2:48 | 2023-09-08 |  |
+| [Make It Hot](https://open.spotify.com/track/3MH4Qwn0qcUvzzqKSLdcnd) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Make It Hot](https://open.spotify.com/album/4zGtPLu4eVxoGT8XBg7TOz) | 2:48 | 2023-10-24 |  |
+| [Make It Hot](https://open.spotify.com/track/3MXUsff3RxRds9KCVttibq) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Make It Hot](https://open.spotify.com/album/7l9LzzyPayF2hvDuznaofC) | 2:48 | 2023-09-08 | 2023-12-11 |
 | [Mala Mía \- Remix](https://open.spotify.com/track/6sAwJPgaSQ9Q4XGnbx1gZb) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mala Mía \(Remix\)](https://open.spotify.com/album/2Vuq0IsELmGGmdoBqvgaYC) | 3:27 | 2023-09-08 |  |
 | [Maria Elegante \(feat\. Afro B\)](https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:06 | 2023-09-08 |  |
 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd) | 3:00 | 2023-09-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFC1xcOhJZ9.md) - [plain]
 
 > Ambient's most enduring tracks from the 90's chillout room scene\. Cover: 808 State
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,422 likes - 58 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,217 likes - 58 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFC1xcOhJZ9.md) - [plain]
 | 5 | [\#13](https://open.spotify.com/track/3jRCZkYVcDniUrXjL71QwE) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:20 |
 | 6 | [Lady Burning Sky](https://open.spotify.com/track/1dV0JUzukyWI1BO5tcVpCh) | [Neutron 9000](https://open.spotify.com/artist/0wTMDXNFj8bX2rKZuBDEdd) | [Lady Burning Sky](https://open.spotify.com/album/0Q9MAgJqzAEbFaBopjzY1H) | 14:01 |
 | 7 | [14:31](https://open.spotify.com/track/31NqxiLbyEYuH2voZoHk61) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 14:31 |
-| 8 | [Magical Dream](https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Ninety](https://open.spotify.com/album/46z1u29jqg6fZA6mAO2E8Y) | 3:52 |
-| 9 | [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 |
-| 10 | [\#3](https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:44 |
-| 11 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 |
-| 12 | [8:07](https://open.spotify.com/track/6q9DUgZXbx3ZQnylpZprRX) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 8:07 |
-| 13 | [Water Drums](https://open.spotify.com/track/73yIws4bfOjywozSf3w2ds) | [Union Jack](https://open.spotify.com/artist/2MiaJc5Vbck2Bkkm19eUx0) | [There Will Be No Armageddon](https://open.spotify.com/album/4OgxrFxrO8DWMA4W7jDwnU) | 9:06 |
-| 14 | [Raxmus](https://open.spotify.com/track/126vgRdfnOEPCeC2DmUiYU) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Spanners](https://open.spotify.com/album/6BrkYc6kK7iw7Q4NkvyGbO) | 3:03 |
-| 15 | [Nerve Crystal](https://open.spotify.com/track/6K7KEeglf26QamThWKXBRo) | [human mesh dance](https://open.spotify.com/artist/2enYGxTGe7ivBhLBOCfWfF) | [Mindflower](https://open.spotify.com/album/4XEk4WvhlcdT7AuvGuUisG) | 3:15 |
+| 8 | [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 |
+| 9 | [\#3](https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:44 |
+| 10 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 |
+| 11 | [8:07](https://open.spotify.com/track/6q9DUgZXbx3ZQnylpZprRX) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 8:07 |
+| 12 | [Water Drums](https://open.spotify.com/track/73yIws4bfOjywozSf3w2ds) | [Union Jack](https://open.spotify.com/artist/2MiaJc5Vbck2Bkkm19eUx0) | [There Will Be No Armageddon](https://open.spotify.com/album/4OgxrFxrO8DWMA4W7jDwnU) | 9:06 |
+| 13 | [Raxmus](https://open.spotify.com/track/126vgRdfnOEPCeC2DmUiYU) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Spanners](https://open.spotify.com/album/6BrkYc6kK7iw7Q4NkvyGbO) | 3:03 |
+| 14 | [Nerve Crystal](https://open.spotify.com/track/6K7KEeglf26QamThWKXBRo) | [human mesh dance](https://open.spotify.com/artist/2enYGxTGe7ivBhLBOCfWfF) | [Mindflower](https://open.spotify.com/album/4XEk4WvhlcdT7AuvGuUisG) | 3:15 |
+| 15 | [Magical Dream](https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Ninety](https://open.spotify.com/album/46z1u29jqg6fZA6mAO2E8Y) | 3:52 |
 | 16 | [The Lie\-In King](https://open.spotify.com/track/00yMhNhN8PmZ5qa2AOX1VV) | [The Irresistible Force](https://open.spotify.com/artist/1aBkI1XS3Qq7KgbYEIf4Ul) | [Its Tomorrow Already](https://open.spotify.com/album/7reNdSVZHFWwfonRfEQQk4) | 5:39 |
 | 17 | [Spectral](https://open.spotify.com/track/6p0N2HNDXZEcPHnliWTlvH) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs) | [Colourform](https://open.spotify.com/album/4mTqs8onoAtoUIPXvJ0tO5) | 7:01 |
 | 18 | [Aquarius](https://open.spotify.com/track/08EgS4Nqe1jPkI9tx9Dq3S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 5:58 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFC1xcOhJZ9.md) - [plain]
 | 57 | [Garden Of Paradise \- 2006 Digital Remaster](https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz) | 23:14 |
 | 58 | [Gong Bath](https://open.spotify.com/track/6JjQ14L39RjX9gPNaQOPOH) | [Slow Riffs](https://open.spotify.com/artist/1OM9xXTByZgCV0qUFQGnXF) | [Gong Bath](https://open.spotify.com/album/2FdT5FaH1WGrtWDH1UBcMF) | 9:59 |
 
-Snapshot ID: `MCw5ZmVjZjk2YmYxMTMwZDU2NmRhOWI5MzYyZjZiZGYwYmIzMzRlMTI0`
+Snapshot ID: `MCwzYWQ5NDc5YmY4YTY1ZGU2NTM5N2YxMWYxYWQyM2JmMzljOTY0MzA5`

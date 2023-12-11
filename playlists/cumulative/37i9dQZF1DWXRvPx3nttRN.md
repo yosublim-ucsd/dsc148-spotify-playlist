@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-399 songs - 22 hr 32 min
+400 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,8 +182,9 @@
 | [Lean On](https://open.spotify.com/track/5hNTzhoF8CQ6WM7Bn9i05W) | [Ali Brustofski](https://open.spotify.com/artist/6KxBixTtWRYyojmIvlFvjD) | [Lean On](https://open.spotify.com/album/19tX6LEBrvRESPOmcHPtQR) | 2:19 | 2021-03-12 | 2022-07-29 |
 | [Let Her Go](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ) | 4:12 | 2022-04-22 |  |
 | [Let Her Go](https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights](https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1) | 4:12 | 2021-03-12 | 2022-07-29 |
+| [Let Me Live \(Acoustic\)](https://open.spotify.com/track/1LgCOY4sQAnJG8xgG2yabZ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Let Me Live \(Acoustic\)](https://open.spotify.com/album/01bPcIXVpaR8OTdakwuQt1) | 3:38 | 2023-10-23 |  |
 | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\) \- Acoustic](https://open.spotify.com/track/7kStxK6rzxka5SRlg1lzhz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\) \[Acoustic\]](https://open.spotify.com/album/1v4bQwWWnsdfMhlHHKZumi) | 3:38 | 2021-03-12 | 2022-07-29 |
-| [Let Me Live \- Acoustic](https://open.spotify.com/track/1mqVImA1k8qma45Lqc8CNR) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Let Me Live \(Acoustic\)](https://open.spotify.com/album/46ZlmN0g2PaRsG0J5LsiLy) | 3:38 | 2022-04-22 |  |
+| [Let Me Live \- Acoustic](https://open.spotify.com/track/1mqVImA1k8qma45Lqc8CNR) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Let Me Live \(Acoustic\)](https://open.spotify.com/album/46ZlmN0g2PaRsG0J5LsiLy) | 3:38 | 2022-04-22 | 2023-12-11 |
 | [Like I Can](https://open.spotify.com/track/07rVlfoJTfJbRtqkRo7g0M) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:47 | 2022-04-22 |  |
 | [Like I Can](https://open.spotify.com/track/3vsleqgIlGso3digeTpx6H) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Like I Can](https://open.spotify.com/album/4iYpYmRR7ahnTrHtll8RI5) | 2:47 | 2021-03-12 | 2022-07-29 |
 | [Like I Can](https://open.spotify.com/track/4bTToCKmxbG5Qy6jnN1VLx) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Like I Can](https://open.spotify.com/album/3SQd4dXdPiSLH3PFr1LJjm) | 2:47 | 2022-04-22 | 2022-11-13 |

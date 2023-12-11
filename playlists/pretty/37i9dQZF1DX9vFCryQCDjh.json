@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11394,
+  "num_followers": 11393,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -555,38 +555,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
-      },
-      "artists": [
-        {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "PERFECT LOVE",
         "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
       },
@@ -599,6 +567,22 @@
       "duration_ms": 200097,
       "name": "White love",
       "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -619,22 +603,34 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Remake Romantic 2",
-        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
+        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
       },
       "artists": [
         {
-          "name": "Seo Young Eun",
-          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
-        },
-        {
-          "name": "Kim Yeon Woo",
-          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
         }
       ],
-      "duration_ms": 213707,
-      "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
+      "duration_ms": 242341,
+      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Rhythm Light Beat Black",
+        "url": "https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI"
+      },
+      "artists": [
+        {
+          "name": "DEUX",
+          "url": "https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA"
+        }
+      ],
+      "duration_ms": 271490,
+      "name": "\uc5ec\ub984 \uc548\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -655,18 +651,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Rhythm Light Beat Black",
-        "url": "https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI"
+        "name": "Remake Romantic 2",
+        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
       "artists": [
         {
-          "name": "DEUX",
-          "url": "https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA"
+          "name": "Seo Young Eun",
+          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
+        },
+        {
+          "name": "Kim Yeon Woo",
+          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
         }
       ],
-      "duration_ms": 271490,
-      "name": "\uc5ec\ub984 \uc548\uc5d0\uc11c",
-      "url": "https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA"
+      "duration_ms": 213707,
+      "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Seotaiji and Boys II",
-        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "NEW SENSATION",
         "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 243095,
       "name": "Twist king",
       "url": "https://open.spotify.com/track/4hTrNbqzskHUuq0Jz0XroB"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Seotaiji and Boys II",
+        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "LOVE - The 3rd Album",
-        "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Twilight Zone",
-      "url": "https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Tell Me One More Time",
         "url": "https://open.spotify.com/album/0EMCROFAU9wlGTzdSycGHO"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 195508,
       "name": "Tell Me One More Time",
       "url": "https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "LOVE - The 3rd Album",
+        "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Twilight Zone",
+      "url": "https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1011,38 +1011,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ud64d\uacbd\ubbfc Vol. 3",
-        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
-      },
-      "artists": [
-        {
-          "name": "Hong Kyung-min",
-          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Shaky Friendship - Euru Remix Version",
-      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "HEY, COME ON! - The 4th Album",
-        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Hey, Come On!",
-      "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Second Birth",
         "url": "https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm"
       },
@@ -1071,6 +1039,38 @@
       "duration_ms": 225946,
       "name": "A-Yo",
       "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "\ud64d\uacbd\ubbfc Vol. 3",
+        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
+      },
+      "artists": [
+        {
+          "name": "Hong Kyung-min",
+          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Shaky Friendship - Euru Remix Version",
+      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "HEY, COME ON! - The 4th Album",
+        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Hey, Come On!",
+      "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1127,38 +1127,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\uc0ac\ub791\ub9cc\uc0ac",
-        "url": "https://open.spotify.com/album/6aJnz5ARKUGudgHG9Uquup"
-      },
-      "artists": [
-        {
-          "name": "Noise",
-          "url": "https://open.spotify.com/artist/1ndo1he29FAeiehsdw5g0t"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "\ub108\uc5d0\uac8c \uc6d0\ud55c\uac74",
-      "url": "https://open.spotify.com/track/7hz9BEXxvhQtDkBhx0FHja"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Only One - The 3rd Album",
-        "url": "https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Bijou Is Ballad",
         "url": "https://open.spotify.com/album/6bitlzpPk8hUUsVY2N8jhA"
       },
@@ -1191,6 +1159,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "\uc0ac\ub791\ub9cc\uc0ac",
+        "url": "https://open.spotify.com/album/6aJnz5ARKUGudgHG9Uquup"
+      },
+      "artists": [
+        {
+          "name": "Noise",
+          "url": "https://open.spotify.com/artist/1ndo1he29FAeiehsdw5g0t"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "\ub108\uc5d0\uac8c \uc6d0\ud55c\uac74",
+      "url": "https://open.spotify.com/track/7hz9BEXxvhQtDkBhx0FHja"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Road Fighter",
         "url": "https://open.spotify.com/album/08TW1bmGzSg172Db8C2Bde"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 140253,
       "name": "\ubd89\uc740 \ub178\uc744",
       "url": "https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Only One - The 3rd Album",
+        "url": "https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Seotaiji and Boys",
+        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "I Know - Club Mix",
+      "url": "https://open.spotify.com/track/5p0EAPiH5jFWsZRntqfsLg"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Re-turn",
         "url": "https://open.spotify.com/album/3O8lIpghPdAcJ7RFkzdk15"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Seotaiji and Boys",
-        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
+        "name": "Deuxism",
+        "url": "https://open.spotify.com/album/5Q5YrEMnQmNxtivzl4j8hM"
       },
       "artists": [
         {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+          "name": "DEUX",
+          "url": "https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA"
         }
       ],
-      "duration_ms": 227666,
-      "name": "I Know - Club Mix",
-      "url": "https://open.spotify.com/track/5p0EAPiH5jFWsZRntqfsLg"
+      "duration_ms": 213550,
+      "name": "\uc6b0\ub9ac\ub294",
+      "url": "https://open.spotify.com/track/7bON6VDJ5ndO6EAxCrjVj2"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Deuxism",
-        "url": "https://open.spotify.com/album/5Q5YrEMnQmNxtivzl4j8hM"
+        "name": "The Life\u2026 DOC Blues",
+        "url": "https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U"
       },
       "artists": [
         {
-          "name": "DEUX",
-          "url": "https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA"
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
         }
       ],
-      "duration_ms": 213550,
-      "name": "\uc6b0\ub9ac\ub294",
-      "url": "https://open.spotify.com/track/7bON6VDJ5ndO6EAxCrjVj2"
+      "duration_ms": 224840,
+      "name": "\u1109\u1161\u1105\u1161\u11bc\u110b\u1173\u11af \u110b\u1161\u110c\u1175\u11a8\u1103\u1169 \u1102\u1161\u11ab I Don't Know Love",
+      "url": "https://open.spotify.com/track/1lilimwLEAWFlImqjke27f"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "The Life\u2026 DOC Blues",
-        "url": "https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U"
+        "name": "2nd Album",
+        "url": "https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC"
       },
       "artists": [
         {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+          "name": "YTC",
+          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
         }
       ],
-      "duration_ms": 224840,
-      "name": "\u1109\u1161\u1105\u1161\u11bc\u110b\u1173\u11af \u110b\u1161\u110c\u1175\u11a8\u1103\u1169 \u1102\u1161\u11ab I Don't Know Love",
-      "url": "https://open.spotify.com/track/1lilimwLEAWFlImqjke27f"
+      "duration_ms": 250618,
+      "name": "\ud0c0\uc778",
+      "url": "https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1407,22 +1423,6 @@
       "duration_ms": 203693,
       "name": "One Flew over the Cuckoo's Nest",
       "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "2nd Album",
-        "url": "https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC"
-      },
-      "artists": [
-        {
-          "name": "YTC",
-          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
-        }
-      ],
-      "duration_ms": 250618,
-      "name": "\ud0c0\uc778",
-      "url": "https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "DJ DOC Best Of Best Panda Mix Vol. 1",
-        "url": "https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 185939,
-      "name": "\uba38\ud53c\uc758 \ubc95\uce59",
-      "url": "https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Drunken Tiger Best",
         "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
       },
@@ -1507,6 +1491,38 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
+      },
+      "artists": [
+        {
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+        }
+      ],
+      "duration_ms": 226667,
+      "name": "\ud504\ub85c\uc640 \uc544\ub9c8\uce04\uc5b4",
+      "url": "https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "DJ DOC Best Of Best Panda Mix Vol. 1",
+        "url": "https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W"
+      },
+      "artists": [
+        {
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+        }
+      ],
+      "duration_ms": 185939,
+      "name": "\uba38\ud53c\uc758 \ubc95\uce59",
+      "url": "https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Jinusean",
         "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
+        "name": "Welcome To The Sechskies Land",
+        "url": "https://open.spotify.com/album/34MZoibtbiSndywYTeCiHm"
       },
       "artists": [
         {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
         }
       ],
-      "duration_ms": 226667,
-      "name": "\ud504\ub85c\uc640 \uc544\ub9c8\uce04\uc5b4",
-      "url": "https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp"
+      "duration_ms": 223640,
+      "name": "Chivalry",
+      "url": "https://open.spotify.com/track/1MEl32IpYcMhaExr6Mq1bv"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Welcome To The Sechskies Land",
-        "url": "https://open.spotify.com/album/34MZoibtbiSndywYTeCiHm"
+        "name": "\ud654\uc0b0",
+        "url": "https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV"
       },
       "artists": [
         {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
+          "name": "Park Sang Min",
+          "url": "https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu"
         }
       ],
-      "duration_ms": 223640,
-      "name": "Chivalry",
-      "url": "https://open.spotify.com/track/1MEl32IpYcMhaExr6Mq1bv"
+      "duration_ms": 265508,
+      "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
+      "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1603,22 +1619,6 @@
       "duration_ms": 176493,
       "name": "The woman in the rain",
       "url": "https://open.spotify.com/track/3mha9zJ31Ya9vSMhkcYnJF"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "\ud654\uc0b0",
-        "url": "https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV"
-      },
-      "artists": [
-        {
-          "name": "Park Sang Min",
-          "url": "https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu"
-        }
-      ],
-      "duration_ms": 265508,
-      "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
-      "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
     },
     {
       "added_at": "2021-03-11 16:28:13",

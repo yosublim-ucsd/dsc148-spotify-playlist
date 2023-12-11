@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,399 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,549 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 87 | [One Summer Night](https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4) | [The Danleers](https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv) | [Presenting The Danleers](https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R) | 2:13 |
 | 88 | [Dedicated To The One I Love](https://open.spotify.com/track/4HdRMye6yPWOFrfLLM7W6b) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Will You Still Love Me Tomorrow](https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ) | 2:04 |
 | 89 | [Two Lovers](https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Two Lovers](https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL) | 2:46 |
-| 90 | [Dry Your Eyes](https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:44 |
-| 91 | [Soon Enough](https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Tangled Up in You](https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7) | 4:00 |
+| 90 | [Soon Enough](https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Tangled Up in You](https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7) | 4:00 |
+| 91 | [Dry Your Eyes](https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:44 |
 | 92 | [Going In Circles](https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C) | [The Friends Of Distinction](https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu) | [Grazin'](https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw) | 4:12 |
 | 93 | [Searching For My Love](https://open.spotify.com/track/6EtOgpD6m1fBzcnckUAEfW) | [Bobby Moore & The Rhythm Aces](https://open.spotify.com/artist/6qlpFH9e4sZ52tAPy2KmLz) | [Searching For My Love](https://open.spotify.com/album/7lpZkRX58TVPOyRbCFiRjV) | 2:30 |
 | 94 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 108 | [Love on a Two Way Street](https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI) | [The Moments](https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT) | [Love On A Two\-Way Street \(US Release\)](https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9) | 3:37 |
 | 109 | [Ilusión De Amor](https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b) | [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Ilusión De Amor](https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa) | 3:45 |
 | 110 | [I Really Love You](https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [The Best Of Dee Dee Sharp 1962\-1966](https://open.spotify.com/album/319S820SmHsr88JCQDCEYv) | 2:48 |
-| 111 | [Hello Stranger](https://open.spotify.com/track/1lv1pjnBPOQbGBt4tYedy6) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/1ntEg1vkoTy13VGg0bbDvE) | 2:40 |
-| 112 | [When You're Gone](https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:35 |
+| 111 | [When You're Gone](https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:35 |
+| 112 | [Hello Stranger](https://open.spotify.com/track/1lv1pjnBPOQbGBt4tYedy6) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/1ntEg1vkoTy13VGg0bbDvE) | 2:40 |
 | 113 | [Shining Star](https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Best Of The Manhattans: Kiss And Say Goodbye](https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq) | 4:39 |
 | 114 | [Mujer Mia \(2022 \- Remaster\)](https://open.spotify.com/track/7Lzr8bmMFrUFLYsalwDN3v) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Salsoul](https://open.spotify.com/album/3UKJxuwhcy1poGhxdMNvIP) | 4:28 |
 | 115 | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE) | [The Vanguards](https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW) | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6) | 3:51 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 149 | [Young Love](https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Irons In The Fire](https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a) | 5:29 |
 | 150 | [The Entertainer](https://open.spotify.com/track/5cnaeNo5ODjXiUrqWMD0iA) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM), [The Vibes](https://open.spotify.com/artist/21SkzTtJjXO1tnoRPziAzv) | [The Entertainer](https://open.spotify.com/album/0ywM9vXLCWhCAthJ0aHnv0) | 2:40 |
 
-Snapshot ID: `MCxmM2Y3OWM4MjE0NzcxYWMzMWExM2Y5NTE0YmJkNTg2MGE2NmNkZTQ3`
+Snapshot ID: `MCwyMTgxZmE3ZTY5OTUxMjdlMTgwZDMzNjJkMjBlY2JjY2JmZjBiOTIx`

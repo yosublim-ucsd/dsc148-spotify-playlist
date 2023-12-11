@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 289683,
+  "num_followers": 289732,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzBmYTFmM2ZjMTJhNzBjNWI0ZjczYWE4NTYwOGI5ZDhmZjEzNmI5",
+  "snapshot_id": "MCw4YjU3NWRmOTBmZWM4ZTNmMmRlMWNlZmJjOWJkN2IzZDQ3NzBlMjhk",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1491,22 +1491,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Every Time Two Fools Collide",
-        "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Dottie West",
-          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
         }
       ],
-      "duration_ms": 180906,
-      "name": "Every Time Two Fools Collide",
-      "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
+      "duration_ms": 139560,
+      "name": "When You're Hot, You're Hot",
+      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1543,18 +1539,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+        "name": "Every Time Two Fools Collide",
+        "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
       },
       "artists": [
         {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dottie West",
+          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
         }
       ],
-      "duration_ms": 139560,
-      "name": "When You're Hot, You're Hot",
-      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
+      "duration_ms": 180906,
+      "name": "Every Time Two Fools Collide",
+      "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
     },
     {
       "added_at": "2023-08-21 19:26:53",

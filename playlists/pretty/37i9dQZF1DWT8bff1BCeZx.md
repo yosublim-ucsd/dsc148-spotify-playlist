@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,392 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,439 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 47 | [Hosanna](https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna](https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV) | 5:21 |
 | 48 | [Glorious](https://open.spotify.com/track/5CoFGig7qZFdTHikB8ZDWj) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Glorious](https://open.spotify.com/album/4uoShwbFnmUlYGJpBp0nNe) | 2:24 |
 | 49 | [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 |
-| 50 | [Your Name Is Higher](https://open.spotify.com/track/72uQC5auMkudAOsB1Hhwqz) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [Your Name Is Higher](https://open.spotify.com/album/6uY6lnE7u3ZIcBlwVpbp3i) | 3:29 |
+| 50 | [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 |
 
-Snapshot ID: `MCw4YjEzMzg3YmRiZWJhNGQxZGJkNTdjZjk2N2Y0YmQ4ODkyMWY5Y2Uy`
+Snapshot ID: `MCxiOWY1ZjMxODAyZGMwOWVmODc1M2JlNDZhOGI2ZmU1NGVhYWI0MDIx`

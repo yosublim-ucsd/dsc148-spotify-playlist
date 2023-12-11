@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu?si=nvvCipfkR6KQyMwv3cqysw">Mnqobi Yazo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,282 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,735 likes - 55 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

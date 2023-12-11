@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,287 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,289 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 39 | [CHRONOISE](https://open.spotify.com/track/5D8E7sLUDoeyDoZQj9jQ4i) | [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK), [Seisui P](https://open.spotify.com/artist/4aktWUBKZzULDPUasRxwvd), [Nurse Robot Type T](https://open.spotify.com/artist/0IHI6TRUokPUyQBOJG5vHq), [Merrow](https://open.spotify.com/artist/5pvGRFxql8KZG1vP79ghqk) | [CHRONOISE](https://open.spotify.com/album/45jr3f10o8ewvQyGxFN8iK) | 2:56 |
 | 40 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
 | 41 | [Collar](https://open.spotify.com/track/43CQYlZRuru7VTk1UNDDg7) | [necchi](https://open.spotify.com/artist/27F63dd4bHW1BTIS15fNJb) | [Collar](https://open.spotify.com/album/5XHVSKuy9davVWqjN2bnvI) | 3:26 |
-| 42 | [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 |
+| 42 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
 | 43 | [Doh Doh](https://open.spotify.com/track/6SABAzmqzQhcfRkU5qJOUj) | [aohatomare](https://open.spotify.com/artist/3nIIHJ0v3UTElDmckDrqWo) | [Doh Doh](https://open.spotify.com/album/29DpaA22tCad0UXn10jE4i) | 3:17 |
-| 44 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
+| 44 | [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 |
 | 45 | [Choju Giga](https://open.spotify.com/track/6hmR1ka2ZUG9w6rniXE3De) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Choju Giga](https://open.spotify.com/album/0Rsq4VHL8OXmZUlrLM6toB) | 2:51 |
 | 46 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 47 | [Panorama](https://open.spotify.com/track/2azz82Oj5Mt9cEkKdn1JeV) | [KUJIRAGI](https://open.spotify.com/artist/4rG3x6s38W3SI4aS80gjnj) | [Panorama](https://open.spotify.com/album/5jW5xMD1W4H1VYJLwiQcVb) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [Wakuseitsushin feat\. Mel](https://open.spotify.com/track/5sPyRxOdmBXoONmkIXAUkK) | [Has\-ki](https://open.spotify.com/artist/7pvleOZtwMfQPOkZ57czSA), [Mel](https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a) | [Wakuseitsushin feat\. Mel](https://open.spotify.com/album/1WqErc2gluGCawMMWoaGtf) | 4:16 |
 | 50 | [個性](https://open.spotify.com/track/56Fr4U5BImRoCe84QqCNJf) | [Awairo](https://open.spotify.com/artist/5zCXmpe2klqd9LXL9Q7gxa) | [個性](https://open.spotify.com/album/3ZCcLATYnK0XMLiZErvagX) | 3:16 |
 
-Snapshot ID: `MCxmZmRhMGZhNmI2MGUxOTM5MTAzNzlhMWQzYjc5Zjc3M2QwNWE5Nzc0`
+Snapshot ID: `MCw3M2FjNDFmMjRjNWQwNDZmYjRhODk1ZjczYzEzN2Q2ZWQwMDE3YmEz`

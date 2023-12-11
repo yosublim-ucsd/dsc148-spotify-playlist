@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 
 > <a href="spotify:artist:68McnNC9twEtiynOAJRRgZ">Uncle Waffles</a>' favorite tracks\. Updated regularly\. Curated by Uncle Waffles\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,567 likes - 50 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,706 likes - 50 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 | 49 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 |
 | 50 | [Iy’ntsimbi zase envy \- Vol.2 Kwaaito Edition](https://open.spotify.com/track/7prBXsKsF494LBElVDGmSb) | [Reece Madlisa](https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2), [Zuma](https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K), [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt) | [Iy’ntsimbi zase envy \(Vol.2 Kwaaito Edition\)](https://open.spotify.com/album/44xgWfSQ1RVzt04tkGRF2W) | 6:14 |
 
-Snapshot ID: `MCxhM2NlMzRiOTVhZWFiYWIyMjQyOGE1NmRmYjk1YmE2OGM0NDdhM2Fm`
+Snapshot ID: `MCxmODgwMmJjNzNiNjhiOTRmNGQ1MTBjNThlNmQ0ODhlNjAwMWJkYmIw`

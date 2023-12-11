@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-259 songs - 15 hr 28 min
+260 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Cuentos](https://open.spotify.com/track/0lGL5kvifiLpsn6hEbJAAs) | [Las Otras](https://open.spotify.com/artist/0AOY1Sj0V5URW5vLabuXbM) | [Amarilla](https://open.spotify.com/album/1eIFqYqqIgR2EmjoqFcDNZ) | 1:59 | 2022-01-20 | 2022-07-27 |
 | [De chispa fuego](https://open.spotify.com/track/4D1OaK6yej6RknDhKvAyc7) | [Privia](https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4) | [De chispa fuego](https://open.spotify.com/album/7GUzCwTB2tvoXHof5vxWds) | 2:41 | 2023-04-14 | 2023-11-25 |
 | [Denadie](https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Denadie](https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G) | 3:06 | 2022-01-20 | 2023-04-15 |
-| [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 2:25 | 2022-01-20 |  |
+| [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 2:25 | 2022-01-20 | 2023-12-11 |
 | [Desordenar](https://open.spotify.com/track/1FAht60T3avEUv7qG058Um) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV) | 4:43 | 2022-01-20 | 2023-01-10 |
 | [Desordenar](https://open.spotify.com/track/2Pha6dxvBxVmwwpGkwjWRb) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7) | 4:43 | 2022-12-09 |  |
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2022-01-20 |  |
@@ -108,6 +108,7 @@
 | [Fumar de día](https://open.spotify.com/track/482CWaKmMQzrYMQMEMYRtT) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 2:58 | 2022-01-20 |  |
 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 | 2022-07-15 | 2023-12-02 |
 | [Gira por el Interior](https://open.spotify.com/track/5vfifUxxB7OdXiqNSlGAvE) | [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Gira por el Interior](https://open.spotify.com/album/3PdyLzRWeHoOAnkD4dONO3) | 3:54 | 2022-01-20 | 2022-10-28 |
+| [give/UP](https://open.spotify.com/track/2rVDacOFhSBzcPzfG9ITfm) | [Le Butcherettes](https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6) | [bi/MENTAL](https://open.spotify.com/album/74buoPf0UxcLGAI0oUjkGn) | 3:40 | 2023-11-24 |  |
 | [give/UP](https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh) | [Le Butcherettes](https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6) | [bi/MENTAL](https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle) | 3:40 | 2022-01-20 | 2023-11-10 |
 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 | 2022-01-20 | 2023-06-26 |
 | [Haku \- Bonus Track](https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Mala \(Edición Malísima\)](https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq) | 3:40 | 2023-11-24 |  |
@@ -158,7 +159,7 @@
 | [Mis Demonios](https://open.spotify.com/track/79V8A27yn7FiOlDec4yux9) | [Luciana Segovia](https://open.spotify.com/artist/1h0VgUZrsCsorbQQ7k8EQ5) | [Mis Demonios](https://open.spotify.com/album/2IuP44TaCv53BeJSgNrl1z) | 2:57 | 2022-01-20 | 2022-07-27 |
 | [Monstruo](https://open.spotify.com/track/2Rc6wFcaYLWjlP9NIFoupV) | [PAM](https://open.spotify.com/artist/7ej7oMw5d0QQMq3uIo7qBJ), [Guide to RaZe](https://open.spotify.com/artist/5ga7Rculd6yTfQIfpkLFyg) | [Monstruo](https://open.spotify.com/album/3rWsZ0tXxQK8pU2BHjy90v) | 3:38 | 2022-01-20 | 2022-07-25 |
 | [Morirían](https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Hora de No Ver](https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR) | 3:11 | 2022-01-20 | 2023-09-04 |
-| [Mujer Contra Mujer](https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk) | [Sandra Y Celeste](https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H) | [Mujer Contra Mujer](https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX) | 3:49 | 2022-01-20 |  |
+| [Mujer Contra Mujer](https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk) | [Sandra & Celeste](https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H) | [Mujer Contra Mujer](https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX) | 3:49 | 2022-01-20 |  |
 | [Mujeres](https://open.spotify.com/track/2wVZPxC1lrkix7RGHhUzkA) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Dectectives](https://open.spotify.com/album/4OCganNLdrhUcEgG5Hkcjx) | 3:34 | 2022-03-08 | 2023-06-22 |
 | [Más Que Imaginación](https://open.spotify.com/track/03eYIOtSexrXgmHkJASYO8) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Celeste Carballo y La Generación](https://open.spotify.com/album/2I5HdZx4z2FkJLCLW7IQcG) | 4:01 | 2022-01-20 | 2022-07-19 |
 | [Nada](https://open.spotify.com/track/0jOZNv1RX2RDeKCKe2tKrg) | [Flor Gerson](https://open.spotify.com/artist/40q0uCjzcyKrvan9wU5Lph) | [Nada](https://open.spotify.com/album/3EVa7SywshiNqJPLA9fyjV) | 3:15 | 2022-01-20 | 2022-07-28 |

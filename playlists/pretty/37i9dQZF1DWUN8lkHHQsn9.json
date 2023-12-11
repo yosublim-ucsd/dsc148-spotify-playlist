@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:2FhI5QfUYl5iIlUog9HHEw\">27.Fuckdemons</a>",
-  "num_followers": 7142,
+  "num_followers": 7140,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzg4MzhkOWFkZmE0YzQyMDg1N2JjNjViZDEzMWY4YjU0ZDU2MDRj",
+  "snapshot_id": "MCxiZjg2ZDhiNjJiMjA5NTJlOGQ2OGRlMzNlMTAwNTUwYWQzNjA1NGI1",
   "tracks": [
     {
       "added_at": "2023-11-13 23:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "tw\u00f3j zapach",
-        "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
-      },
-      "artists": [
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "tw\u00f3j zapach",
-      "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
         "name": "Le$bijka",
         "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 169759,
       "name": "Le$bijka",
       "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
+        "name": "tw\u00f3j zapach",
+        "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "tw\u00f3j zapach",
+      "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
+        "name": "$WAG (lepi si\u0119 w ch*j)",
+        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
       },
       "artists": [
         {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
         }
       ],
-      "duration_ms": 211555,
-      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
+      "duration_ms": 158787,
+      "name": "$WAG (lepi si\u0119 w ch*j)",
+      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -692,25 +692,25 @@
           "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
         }
       ],
-      "duration_ms": 193942,
-      "name": "Spytaj mnie",
-      "url": "https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b"
+      "duration_ms": 194250,
+      "name": "Dok\u0105d biegn\u0119",
+      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
     },
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "$WAG (lepi si\u0119 w ch*j)",
-        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
+        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
       },
       "artists": [
         {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
         }
       ],
-      "duration_ms": 158787,
-      "name": "$WAG (lepi si\u0119 w ch*j)",
-      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+      "duration_ms": 211555,
+      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -755,38 +755,6 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "Bolt",
-        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        }
-      ],
-      "duration_ms": 216860,
-      "name": "Bolt",
-      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
-        "name": "Straty",
-        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "Dok\u0105d biegn\u0119",
-      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
       },
@@ -807,6 +775,22 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
+        "name": "Straty",
+        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        }
+      ],
+      "duration_ms": 193942,
+      "name": "Spytaj mnie",
+      "url": "https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
         "name": "OLIMP",
         "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 192557,
       "name": "Tamto Lato",
       "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
+        "name": "Bolt",
+        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 216860,
+      "name": "Bolt",
+      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "Nie ma",
-        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 202419,
-      "name": "Nie ma",
-      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
         "name": "J\u0119zyk",
         "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 186468,
       "name": "J\u0119zyk",
       "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
+        "name": "Nie ma",
+        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 202419,
+      "name": "Nie ma",
+      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
         "name": "BSoD (Bluescreen)",
         "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 179986,
       "name": "BSoD (Bluescreen)",
       "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
         "name": "Maski",
         "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
@@ -1203,22 +1187,6 @@
       "duration_ms": 239354,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 262014,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -1243,6 +1211,22 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 262014,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
         "name": "Bezpowrotnie",
         "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 182219,
       "name": "Bezpowrotnie",
       "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "Maski",
-        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
+        "name": "Rojava",
+        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
       },
       "artists": [
         {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
         }
       ],
-      "duration_ms": 254436,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
+      "duration_ms": 267000,
+      "name": "Rojava",
+      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
+        "name": "Maski",
+        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
+      },
+      "artists": [
+        {
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+        }
+      ],
+      "duration_ms": 254436,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
         "name": "Girls, Gays, People",
         "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 261818,
       "name": "Don't Collapse",
       "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
-        "name": "Rojava",
-        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Rojava",
-      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
     }
   ],
   "unique_name": "GLOW Polska",

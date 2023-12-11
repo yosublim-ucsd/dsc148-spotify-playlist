@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,706 likes - 55 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,737 likes - 55 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 22 | [Bring The Sun feat\. Gry \- Original Mix](https://open.spotify.com/track/276YatmSVaFpD1L6Sclj6Q) | [Frank & Tony](https://open.spotify.com/artist/45inHjnamn5uQuuRXOnnmN) | [You Go Girl](https://open.spotify.com/album/50bVD7KSoqvKfvPVLqOHto) | 8:20 |
 | 23 | [Healing](https://open.spotify.com/track/3nhNVCiyHSYbYPFwoKbOA0) | [COMPUTER DATA](https://open.spotify.com/artist/5wwnitxvqbrtiGk3QW3BuN) | [Emotional Shift](https://open.spotify.com/album/68xVswDiJHf3kSVVoKVD9H) | 6:15 |
 | 24 | [Yeah Right](https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Big Fish Theory](https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS) | 3:08 |
-| 25 | [Blue \- Flume Remix](https://open.spotify.com/track/0chpQTaECrCZBusarf71Ql) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Blue \(Flume Remix\)](https://open.spotify.com/album/0jihZJEz7ZnvQVN6WBj5RC) | 2:46 |
+| 25 | [Blue \(Flume Remix\)](https://open.spotify.com/track/24xKxcxrCfWtOgonPByVNB) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Blue \(Flume Remix\)](https://open.spotify.com/album/6xsULAl9vtqhoGmzALgRLC) | 2:46 |
 | 26 | [When I Go](https://open.spotify.com/track/5EKXcCIPjXO0VxsQwArvd1) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Stars](https://open.spotify.com/album/48lHjI17WkWYLSrQyf4tLG) | 3:24 |
-| 27 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
+| 27 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
 | 28 | [On A Mountain](https://open.spotify.com/track/72CvvI5icHY81VKG0EkNxR) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [On A Mountain](https://open.spotify.com/album/6PWbRLIiW7ufDn07HxJQjI) | 3:06 |
 | 29 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 | 30 | [Friendly](https://open.spotify.com/track/6RpCmGSiaF8x4hAPy1gNwO) | [Elsa Hewitt](https://open.spotify.com/artist/7xwbnGpTJA94MgILLAeThK) | [Quilt Jams](https://open.spotify.com/album/3bEXGkOqaDFmM62M9zm67H) | 2:14 |
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 39 | [Teen Scene feat\. Buddy](https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Teen Scene feat\. Buddy](https://open.spotify.com/album/3bLZlNsCcoc4Ih0FtqPvkF) | 4:10 |
 | 40 | [Flashing](https://open.spotify.com/track/3qJ7uiN8W7ykxSVZ1lvdLs) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Flashing](https://open.spotify.com/album/5gMxG9aZ8LC5E5D8hUm73V) | 2:40 |
 | 41 | [Codeina](https://open.spotify.com/track/749vq4AE25hT0k0ba1Zknp) | [Bclip](https://open.spotify.com/artist/7kGL1m1wkAzKUrLCqaDVDT), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Codeina](https://open.spotify.com/album/4mEfTeBJYd9XczuIVoPy3y) | 3:26 |
-| 42 | [Is It Cold In The Water?](https://open.spotify.com/track/292h0AOEEmddv9wIWnrDl4) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:32 |
+| 42 | [Is It Cold In The Water?](https://open.spotify.com/track/20vrVR0N1Y0zAJNmvnQJyg) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:32 |
 | 43 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 |
 | 44 | [Spectacular Anthem](https://open.spotify.com/track/7ziEkzmh9Wy7Et5WSJC9Zo) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [Dadras](https://open.spotify.com/artist/7BImjgEzTuDG9xyCRepmEY) | [BASIC VOLUME](https://open.spotify.com/album/1TyCWZsehiZ6n2BL80VCRc) | 4:31 |
 | 45 | [Gyöngyhajú lány](https://open.spotify.com/track/3nDfx9WqSNOfbuCP4yonzj) | [Omega](https://open.spotify.com/artist/2jFXKAH9A9H8lVnJkkLxXl) | [10000 lépés](https://open.spotify.com/album/5GVrqNePT3Rek05os9fegp) | 5:49 |
-| 46 | [The Difference \- Willaris\. K Remix](https://open.spotify.com/track/3k45LqVsI4GoELWfOdd5eZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj) | [The Difference \(Willaris\. K Remix\)](https://open.spotify.com/album/3Svo8cKt8BQdIbJovBZ86w) | 3:19 |
+| 46 | [The Difference \(Willaris\. K Remix\)](https://open.spotify.com/track/45M0L8i5qsBiOr38BEdxYs) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj) | [The Difference \(Willaris\. K Remix\)](https://open.spotify.com/album/0NHoL9C3wr8BArXdT5nApC) | 3:19 |
 | 47 | [Drowning](https://open.spotify.com/track/7rBMPlE0MXMgYLRtqkN8gt) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq) | 3:45 |
 | 48 | [Petrichor](https://open.spotify.com/track/5e2QHek93FrcaKfH9znqZE) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f) | [Temp](https://open.spotify.com/album/3bN8zyo2OS44ePXdNaGv2T) | 3:31 |
 | 49 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 54 | [Note To Self](https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:17 |
 | 55 | [Pretty](https://open.spotify.com/track/6zt4DdMRYAFHNQj3D6BE0q) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/6zzEQ9WSwPleia1tlnNZpe) | 2:46 |
 
-Snapshot ID: `MCw3NDRiODY2ZGY2ZjlmMTdlZDdkNTAyNmE2NWU3MmExYWI0NjJkYTAz`
+Snapshot ID: `MCwzYzAxMDc3ZmVjZmUzYmUzYzNjZmI0ODcxZWNhMWNhYTI4NmFkOTMw`

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,723 songs - 2 day 17 hr 30 min
+1,724 songs - 2 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [faster](https://open.spotify.com/track/5QN0VL4Zthy2vdMpXzMDR7) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [faster](https://open.spotify.com/album/0an1ldE8K3dZ61nvVhC8QN) | 2:34 | 2022-12-09 |  |
 | [Faster Than I Thought](https://open.spotify.com/track/6fcZVaFU6p5XzqgGeiXR9B) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj) | [Faster Than I Thought](https://open.spotify.com/album/5xKg3yQwJ8uRyqmi4c9ClA) | 2:14 | 2023-08-03 |  |
 | [Fauna](https://open.spotify.com/track/2hdzmJyxFVxP55WDk7ZErD) | [Ikioma](https://open.spotify.com/artist/5abWpSIsMg0CLqe7APDP9y) | [Flora & Fauna](https://open.spotify.com/album/4Dx88ce54PYnFRqV7Odmt5) | 1:46 | 2022-04-15 | 2022-06-10 |
+| [favour the brave](https://open.spotify.com/track/2TLObOpKa82LXdJwzEgP2M) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [favour the brave](https://open.spotify.com/album/2ZnbvpFVdC80gCouRA9Ofl) | 2:14 | 2023-12-08 |  |
 | [Feathers](https://open.spotify.com/track/5f703of0AlVVMqFhBy5Osq) | [Fableistic](https://open.spotify.com/artist/7mP34YiF6cqj41ZEkwXWKD) | [Yogurt](https://open.spotify.com/album/5ud6q8X5Gg5N3qeB4zri4a) | 3:00 | 2022-04-15 | 2022-06-25 |
 | [Feeling Myself](https://open.spotify.com/track/1ecJea7PNSjIRw6xW4uxvs) | [Swoozy](https://open.spotify.com/artist/5sP6S7dFC7D2jWt7ydbGJn), [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O) | [Feeling Myself](https://open.spotify.com/album/2AZyjF7lRKKh0Q0CWsNPtN) | 2:29 | 2023-01-06 | 2023-03-09 |
 | [Feeling Relaxed](https://open.spotify.com/track/3Xs7hvI1tofJ5KAwcHKzoO) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Feeling Relaxed](https://open.spotify.com/album/76Het5EiAMnghGM3B14KtR) | 2:08 | 2022-08-12 | 2022-12-17 |
@@ -1421,7 +1422,7 @@
 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 | 2023-10-27 |  |
 | [Starlight](https://open.spotify.com/track/6YcSUjxAWwublCNiKPgwKD) | [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c) | [Starlight](https://open.spotify.com/album/5a96sPpHX2sg6EJGTsTnMx) | 2:33 | 2022-04-15 | 2022-08-19 |
 | [Starlight Express](https://open.spotify.com/track/7mri8J9CegZp5s1ENbVV1C) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Starlight Express](https://open.spotify.com/album/3vK33VSr0JY5K92VvFhUia) | 2:12 | 2023-12-08 |  |
-| [starry eyes](https://open.spotify.com/track/6HX2fTjb1lItGhMPjrcF0p) | [Cat Dreams](https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1) | [starry eyes](https://open.spotify.com/album/2ivknlaDl9aLesFWbhqgSz) | 1:55 | 2023-08-17 |  |
+| [starry eyes](https://open.spotify.com/track/6HX2fTjb1lItGhMPjrcF0p) | [Cat Dreams](https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1) | [starry eyes](https://open.spotify.com/album/2ivknlaDl9aLesFWbhqgSz) | 1:55 | 2023-08-17 | 2023-12-11 |
 | [starry night](https://open.spotify.com/track/4EpMnMxqGXNfmDmEV4Uq6E) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [starry night](https://open.spotify.com/album/3Izct1glTX9dzY3SMbodJO) | 2:23 | 2023-11-17 |  |
 | [Starry Sky](https://open.spotify.com/track/3Jxmg9f7febdO7plV6ZFYI) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Starry Sky](https://open.spotify.com/album/58c0I7luC6IYww4orYNgjq) | 2:39 | 2023-01-13 | 2023-03-09 |
 | [Starscapes](https://open.spotify.com/track/4Kxz7mFnE1dVsxbM6nZCxU) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh), [S N U G](https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk) | [Miracle](https://open.spotify.com/album/7yILBiqYvyWNs1hJ7NrnwU) | 2:32 | 2022-07-29 | 2022-08-12 |

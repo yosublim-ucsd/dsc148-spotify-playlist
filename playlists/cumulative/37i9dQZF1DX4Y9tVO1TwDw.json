@@ -2286,10 +2286,28 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 152755,
       "name": "freak",
       "url": "https://open.spotify.com/track/16xldbcXGr6ipC3pHvlcQ5"
+    },
+    {
+      "album": {
+        "name": "mundo dulce",
+        "url": "https://open.spotify.com/album/1Vbm9eKF88bWRkPNNz8uC1"
+      },
+      "artists": [
+        {
+          "name": "Cassie Marin",
+          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152755,
+      "name": "freak",
+      "url": "https://open.spotify.com/track/1sPrKOJyjhFKGJdwaHvzZQ"
     },
     {
       "album": {
@@ -6252,6 +6270,10 @@
         {
           "name": "Mauro",
           "url": "https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD"
+        },
+        {
+          "name": "Palm Street Music",
+          "url": "https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c"
         }
       ],
       "date_added": "2023-12-06",

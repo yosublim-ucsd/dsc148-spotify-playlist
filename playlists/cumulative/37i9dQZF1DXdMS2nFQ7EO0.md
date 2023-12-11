@@ -4,7 +4,7 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-189 songs - 9 hr 52 min
+190 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Paradise \- Tiësto Remix](https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Princess of China](https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7) | 4:46 | 2022-04-07 | 2022-05-12 |
 | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/track/3BQn0kOqvoCtV83QAVGd0e) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [El Chima En La Casa](https://open.spotify.com/artist/2m54qKxJNbCGH7OZN0xuL1), [JoeyTheGawd](https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv) | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/album/6ba7djkJEIp1Zx9kTqi7Uf) | 2:31 | 2023-05-08 |  |
 | [PBJ](https://open.spotify.com/track/0NmUL8gDbSDE3K7jBE4yFY) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [PBJ](https://open.spotify.com/album/6INzRJV3JKaf0I42L1tPZU) | 2:48 | 2023-05-08 |  |
-| [Peligrosa](https://open.spotify.com/track/6vY27OV1D4WIBUl87Ne6B1) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [Peligrosa](https://open.spotify.com/album/2K5Q5i0Wj9WyCBSNixb7xg) | 3:24 | 2023-05-08 |  |
+| [Peligrosa](https://open.spotify.com/track/2DwQUXmFDx8cKbL5FzvU5j) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [Peligrosa](https://open.spotify.com/album/0fgTj13sJaweG78aXKqXBl) | 3:24 | 2023-09-01 |  |
+| [Peligrosa](https://open.spotify.com/track/6vY27OV1D4WIBUl87Ne6B1) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [Peligrosa](https://open.spotify.com/album/2K5Q5i0Wj9WyCBSNixb7xg) | 3:24 | 2023-05-08 | 2023-12-11 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2022-04-07 | 2022-05-12 |
 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 | 2022-05-11 |  |
 | [Perdiendo El Control](https://open.spotify.com/track/02Zu3RK6EJdJA5MqgkN5iX) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Marco Acevedo](https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC) | [Perdiendo El Control](https://open.spotify.com/album/48GzWmYraDHofGXOhtMlx4) | 3:04 | 2022-05-11 | 2023-05-09 |

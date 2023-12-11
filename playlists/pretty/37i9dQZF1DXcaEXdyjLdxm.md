@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 
 > LGBTQIA+ artists like you've never heard before\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,942 likes - 52 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,951 likes - 52 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [sunday \- Spotify Singles](https://open.spotify.com/track/1VxyhRGiDHmbeyGHrURHIG) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:23 |
-| 2 | [GAY 4 ME \- Spotify Singles \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/4E1QNVcaLYlqyfjklxvwOK) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Spotify Singles](https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8) | 4:44 |
+| 2 | [GAY 4 ME \(Spotify Singles\)](https://open.spotify.com/track/4s3DBRFQkzpwBCEea4aQ3T) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Spotify Singles](https://open.spotify.com/album/6EaUb1MYoaFWB3TiiSvJ61) | 4:44 |
 | 3 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 |
 | 4 | [Cherry \- Spotify Singles](https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Cherry \- Spotify Singles](https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p) | 3:00 |
 | 5 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 |

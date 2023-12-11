@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-381 songs - 23 hr 1 min
+382 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [Only Love](https://open.spotify.com/track/0dOuhQQVPnCBkvmCr5PeVH) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 2:47 | 2022-10-14 | 2023-04-22 |
 | [Only Love](https://open.spotify.com/track/6RfIR5hQTyHWrQYbDzhtfs) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/0E0ZVILGRfM9yU2aJwnk6E) | 2:47 | 2022-10-14 | 2022-10-19 |
 | [Only Love](https://open.spotify.com/track/76KzsJ4emV8BsE4CgwFxeo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/3FmERkFWALx6fbh8fcSKx2) | 2:47 | 2022-10-14 | 2022-10-22 |
-| [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 | 2022-08-26 |  |
+| [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 | 2022-08-26 | 2023-12-11 |
+| [Only The Lonely](https://open.spotify.com/track/6V6BkDMR9A1BvHUhbdGATJ) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y) | 3:52 | 2023-09-01 |  |
 | [Out Of The Blue](https://open.spotify.com/track/1MjtLhNGLURCcXNV4WXJch) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Out Of The Blue](https://open.spotify.com/album/4WoTj3vWOdk1TSmgEXSpFg) | 5:12 | 2020-10-17 | 2022-07-29 |
 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 | 2020-10-17 | 2023-02-18 |
 | [Out the Way](https://open.spotify.com/track/3UEmpuOogjSg6N5EUXtK69) | [Ocean Heights](https://open.spotify.com/artist/2gVib207kw8Jc73xCejsik) | [Out the Way](https://open.spotify.com/album/4928Q5jd10hOb4B5TAhCVi) | 3:23 | 2020-10-17 | 2022-04-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,859 likes - 105 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,092 likes - 105 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 104 | [Main Nahi Jaunga \- Lo\-Fi Remix](https://open.spotify.com/track/3XAMnjzBZPQKPQiXV1x5UI) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Main Nahi Jaunga \(Lo\-Fi Remix\)](https://open.spotify.com/album/7dBU6fZJM3RXFzqxudpbYz) | 3:50 |
 | 105 | [Heeriye Lofi Remix \(feat\. Arijit Singh\)](https://open.spotify.com/track/6fX311zFnYhtD39XXa2hEz) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Dulquer Salmaan](https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [Heeriye Lofi Remix \(feat\. Arijit Singh\)](https://open.spotify.com/album/2XruSso0y6zHFhkuonrZkh) | 3:36 |
 
-Snapshot ID: `MCw5MDdkZmI5NDIxYThlZDQ0N2FhZWQ1ZWZjMDRhYmZhZGM4YTBkOTVi`
+Snapshot ID: `MCxiYTE2ZTFhMjRhOTQ2YWY2YTE5MjhjYWE0NGIzMzFhNGQ2ZGI2NmQ3`

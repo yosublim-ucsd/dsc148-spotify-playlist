@@ -4,7 +4,7 @@
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Night Lovell
 
-1,677 songs - 3 day 9 hr 0 min
+1,678 songs - 3 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -791,7 +791,7 @@
 | [Landslide \(feat\. Nafe Smallz\)](https://open.spotify.com/track/25roKnaj1LrahRrGjBcqQy) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Landslide \(feat\. Nafe Smallz\)](https://open.spotify.com/album/5IraEqtcwvylKHZlBX1V92) | 3:14 | 2023-11-10 | 2023-11-18 |
 | [Last Days](https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Last Days](https://open.spotify.com/album/6uAmDDiWne5nh9ch1y4ZNy) | 2:34 | 2023-07-28 | 2023-08-05 |
 | [Last Time](https://open.spotify.com/track/3ALMB72epp4pXoJrd97eKq) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Last Time](https://open.spotify.com/album/4pDMivkVPVB3P37c84SaHC) | 3:04 | 2023-06-09 | 2023-06-17 |
-| [Last Time](https://open.spotify.com/track/5lNWV5HwCCPbRX5OD1HcVt) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Holy Water](https://open.spotify.com/album/0vvsV9PgoX1kSkwjmHTN2A) | 3:11 | 2023-12-01 |  |
+| [Last Time](https://open.spotify.com/track/5lNWV5HwCCPbRX5OD1HcVt) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Holy Water](https://open.spotify.com/album/0vvsV9PgoX1kSkwjmHTN2A) | 3:11 | 2023-12-01 | 2023-12-11 |
 | [Late Night](https://open.spotify.com/track/2GhnWZRKKjSp7aaaPqaTPT) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [Late Night](https://open.spotify.com/album/3kZ0ka8LXgXmsSwVe59oIh) | 2:37 | 2023-07-14 | 2023-07-22 |
 | [Lately](https://open.spotify.com/track/46gWH6zPctPEzFe2ahVH4H) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE) | [Lately](https://open.spotify.com/album/6pfoqQEy4jCjY7okXQl77p) | 1:50 | 2023-09-15 | 2023-09-30 |
 | [Latex Gloves](https://open.spotify.com/track/74sE79ReizotiesesgUm90) | [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [Latex Gloves](https://open.spotify.com/album/4KSSTRoBSZNdEFeVHUZpMB) | 3:18 | 2023-08-25 | 2023-09-16 |
@@ -1136,6 +1136,7 @@
 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 | 2023-05-05 | 2023-05-20 |
 | [Pit Stop \(feat\. French Montana\)](https://open.spotify.com/track/51fqkA2jYEfXiUkcQYpCyB) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Pit Stop \(feat\. French Montana\)](https://open.spotify.com/album/6KwdG45dabKfLbbEFgEdCx) | 2:47 | 2023-10-20 | 2023-11-11 |
 | [PLAIN JANE](https://open.spotify.com/track/0ibfcFmGtwTPScXJY7USAE) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [PLAIN JANE](https://open.spotify.com/album/1gU8EZFGp7aIaIz8PCPldL) | 2:07 | 2023-03-03 | 2023-03-11 |
+| [Planet Giza "On The Radar" Freestyle](https://open.spotify.com/track/2T0Wl5G3ZyVSbu9Zy6ikMw) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Planet Giza "On The Radar" Freestyle](https://open.spotify.com/album/4RVeRwHtmm7cSoafWYb7u0) | 2:05 | 2023-12-10 |  |
 | [PLATINUM](https://open.spotify.com/track/54yKZ2DQV7laSMTaWKDJBu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PLATINUM](https://open.spotify.com/album/6QQYtQ7qZ6TXU2iskQXh9A) | 2:38 | 2023-06-16 | 2023-07-01 |
 | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6U3j5OLotiJlHVdiq5hfSe) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/5VcFT8jQVrava7H4QDuj8S) | 2:57 | 2023-07-07 | 2023-07-15 |
 | [Players \- Tokischa Remix](https://open.spotify.com/track/3CiqiUV5zVJ2f80qHMyAKZ) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Players \(Tokischa Remix\)](https://open.spotify.com/album/0ifEUZF2u0CAeQOtpQIBVx) | 2:24 | 2023-03-31 | 2023-04-09 |

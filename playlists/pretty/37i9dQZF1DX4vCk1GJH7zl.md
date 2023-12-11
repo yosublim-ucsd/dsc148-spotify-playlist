@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,847 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,884 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 74 | [Quero Te Levar](https://open.spotify.com/track/5HNSzyOYeKko9LiIJvVGaQ) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/22CxgpaTDyzRSzdeQq1jQc) | 2:59 |
 | 75 | [Camaleão](https://open.spotify.com/track/4rNTVavvYJ6RZnWQDqOJrP) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Camaleão](https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH) | 3:16 |
 
-Snapshot ID: `MCwyZDJmNjlkNmYxNGVhYTBhMmMzZmU5OTNjNGM1MTQyMWVmYjNkNzhh`
+Snapshot ID: `MCxiNjYxYjY3NmQ5YTgwM2Q4ZTlhNmJkZDRjOTIxNjU4NzJjYjY3NjY3`

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Answer to Remember",
-  "num_followers": 33487,
+  "num_followers": 33508,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2MxMWEyMjQ1MzZmNjFiZmVmYmYzMmY4YzNhNWJhZjE2ZGQ4MTAz",
+  "snapshot_id": "MCw2NTY2NmZmODE3NmVkODgzM2NlNzJhYjVjNjkzNTllMjRkNzA2YTM4",
   "tracks": [
     {
       "added_at": "2023-12-05 15:00:00",
@@ -707,26 +707,18 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
-        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
+        "name": "MISIA SOUL JAZZ SESSION",
+        "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
       },
       "artists": [
         {
-          "name": "BimBomBam Orchestra",
-          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
-        },
-        {
-          "name": "\u5143\u6674",
-          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
-        },
-        {
-          "name": "\u67f4\u7530\u4eae",
-          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
         }
       ],
-      "duration_ms": 427000,
-      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
-      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
+      "duration_ms": 350880,
+      "name": "It's just love",
+      "url": "https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -755,34 +747,26 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "MISIA SOUL JAZZ SESSION",
-        "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
+        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
+        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
       },
       "artists": [
         {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
-        }
-      ],
-      "duration_ms": 350880,
-      "name": "It's just love",
-      "url": "https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv"
-    },
-    {
-      "added_at": "2023-12-05 15:00:00",
-      "album": {
-        "name": "9 P.M.",
-        "url": "https://open.spotify.com/album/44wIm9dGMuTJ7Tt1osYmLe"
-      },
-      "artists": [
+          "name": "BimBomBam Orchestra",
+          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
+        },
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "\u5143\u6674",
+          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
+        },
+        {
+          "name": "\u67f4\u7530\u4eae",
+          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
         }
       ],
-      "duration_ms": 215000,
-      "name": "9 P.M.",
-      "url": "https://open.spotify.com/track/2Gqmm2IOcDwUZCsETTdCd7"
+      "duration_ms": 427000,
+      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
+      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -807,6 +791,22 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
+        "name": "9 P.M.",
+        "url": "https://open.spotify.com/album/44wIm9dGMuTJ7Tt1osYmLe"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "9 P.M.",
+      "url": "https://open.spotify.com/track/2Gqmm2IOcDwUZCsETTdCd7"
+    },
+    {
+      "added_at": "2023-12-05 15:00:00",
+      "album": {
         "name": "Orange Mug",
         "url": "https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "NEW",
-        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
-      },
-      "artists": [
-        {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Red Ocean",
-      "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
-    },
-    {
-      "added_at": "2023-12-05 15:00:00",
-      "album": {
         "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
         "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 256360,
       "name": "\u4e59\u5973\u306e\u7948\u308a",
       "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
+    },
+    {
+      "added_at": "2023-12-05 15:00:00",
+      "album": {
+        "name": "NEW",
+        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Red Ocean",
+      "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
     },
     {
       "added_at": "2023-12-05 15:00:00",

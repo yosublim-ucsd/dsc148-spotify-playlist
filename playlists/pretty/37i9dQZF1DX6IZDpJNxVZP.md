@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,238 likes - 130 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,233 likes - 130 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 86 | [Five Little Pumpkins Sitting on a Gate](https://open.spotify.com/track/3uawt11RygVvIMXVRMb4PN) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Preschool Halloween Songs](https://open.spotify.com/album/43jz0Ysu62z2Zvi9NZJ3ti) | 1:56 |
 | 87 | [Little Shop Of Horrors](https://open.spotify.com/track/7iWCPjc2yyewvw9P188RKn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 2:45 |
 | 88 | [Bumps in the Night](https://open.spotify.com/track/5JzhuMnBiO3GEG7dZ5RVIK) | [KB Whirly](https://open.spotify.com/artist/7B2JoMPGHMLWXKfuhLa892) | [Bumps in the Night](https://open.spotify.com/album/22T70YwMgTaTl9saldJGDO) | 2:36 |
-| 89 | [Costume Party](https://open.spotify.com/track/1Gac8490Qd6yH90MEYIRB3) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 4:25 |
+| 89 | [Costume Party](https://open.spotify.com/track/752gzqJYvYKjGfPOiGzEPS) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H) | 4:25 |
 | 90 | [This is Halloween](https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:19 |
 | 91 | [Candy Girl](https://open.spotify.com/track/7JWdD53mrh74GCdkHR531r) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 3:34 |
 | 92 | [Let's Get Spooky](https://open.spotify.com/track/2QAH8HPq0MBWj0MfiOKGPi) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:29 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 129 | [Casper The Friendly Ghost](https://open.spotify.com/track/19GKm4dDOz44DRH3OycKJk) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Bestest Kids Halloween Songs Ever](https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm) | 1:22 |
 | 130 | [Witch Doctor](https://open.spotify.com/track/2Eyv5QwBHpWIJFOzIXKnm0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 2:25 |
 
-Snapshot ID: `MCw0YTg0ZDIzMGYxZmU0NWVjMTM0MTAxNWY2MGQ1YzIyN2IxMzY2MTc5`
+Snapshot ID: `MCwyNTM4NjA1YTQwYTEwMzgwMTY5MjA5N2UzZjNhMTNhNTA2ZDUxOGVm`

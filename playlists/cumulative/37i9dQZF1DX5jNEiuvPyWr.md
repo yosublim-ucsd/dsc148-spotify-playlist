@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : Khali
 
-313 songs - 15 hr 34 min
+314 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,8 @@
 | [Tout peut s'effacer](https://open.spotify.com/track/04lh5nf7uhCtzdD60ZtXHk) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Tout peut s'effacer](https://open.spotify.com/album/3FPxbZhLbM2AJ7E0jthbco) | 3:17 | 2023-03-23 | 2023-04-21 |
 | [Triste mais elle aime ça \(Affamé \#16\)](https://open.spotify.com/track/4AGxTigtrKhNFIK1ZEdhNm) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Triste mais elle aime ça \(Affamé \#16\)](https://open.spotify.com/album/6yLW4TV9WqAu0k04EPPubz) | 3:06 | 2023-03-09 | 2023-04-28 |
 | [Triste temps](https://open.spotify.com/track/2EjucVZtebnlRYwMIOle3N) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Triste temps](https://open.spotify.com/album/4rGYoyAGZJbSOSgJEbU7Mx) | 2:40 | 2023-11-16 | 2023-12-01 |
-| [Triste temps](https://open.spotify.com/track/5eogqa52u4P6TIzYsvLUqH) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Triste temps](https://open.spotify.com/album/2Ey1lsZAGC0ch5wd5qFF7v) | 2:40 | 2023-11-30 |  |
+| [Triste temps](https://open.spotify.com/track/5eogqa52u4P6TIzYsvLUqH) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Triste temps](https://open.spotify.com/album/2Ey1lsZAGC0ch5wd5qFF7v) | 2:40 | 2023-11-30 | 2023-12-11 |
+| [Triste temps](https://open.spotify.com/track/6XGP90GUjC9BeT0tWlZ2Fx) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 2:40 | 2023-12-08 |  |
 | [Tu sais pas](https://open.spotify.com/track/3f4pUO4jY4myuGsPtkwR6Q) | [Softo](https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp) | [Mirage](https://open.spotify.com/album/1ym3PUxJ1ZMGwj6rnK71R2) | 2:19 | 2023-03-02 | 2023-04-28 |
 | [UBER](https://open.spotify.com/track/08QiWwcnUHZXsyIk0BXlcD) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [UBER](https://open.spotify.com/album/3jXGdIm7ZG30nb7fNxeQ3J) | 2:40 | 2022-12-22 | 2023-05-19 |
 | [Ulyss](https://open.spotify.com/track/6SLrsf0RoSwEWo6jp8fF7P) | [Captaine Roshi](https://open.spotify.com/artist/4bDcCV0zjPsVs2GxtduYry) | [Ulyss](https://open.spotify.com/album/20wAvXHkfRKHNqAx9xQRbz) | 3:17 | 2023-02-02 | 2023-04-28 |

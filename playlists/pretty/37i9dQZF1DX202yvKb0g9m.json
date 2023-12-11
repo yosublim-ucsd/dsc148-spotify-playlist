@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 108226,
+  "num_followers": 108286,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTRlNDg1ZTVlYTVjNTIzYjhjZjg0M2YwNTJlZDkzMTEzNjA2YmJk",
+  "snapshot_id": "MCw2MzNkYjcxOGQzZDk5NTg3NTIzZjk1YmYzM2Y4YzhlMWQ0YTBhYWU5",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "United Acid Emirates",
-        "url": "https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb"
-      },
-      "artists": [
-        {
-          "name": "Ceephax Acid Crew",
-          "url": "https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I"
-        }
-      ],
-      "duration_ms": 331373,
-      "name": "Commuter",
-      "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "White Light",
         "url": "https://open.spotify.com/album/4WYhXrhMUSMsbHtgoKgSCx"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 345520,
       "name": "Warsaw (White Light Version)",
       "url": "https://open.spotify.com/track/2gF5ZsKfoGV8ZevuYAAbou"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "United Acid Emirates",
+        "url": "https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb"
+      },
+      "artists": [
+        {
+          "name": "Ceephax Acid Crew",
+          "url": "https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I"
+        }
+      ],
+      "duration_ms": 331373,
+      "name": "Commuter",
+      "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
     },
     {
       "added_at": "2021-10-22 11:07:27",

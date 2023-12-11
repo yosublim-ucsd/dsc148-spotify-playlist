@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Marina Sena
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,461,066 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,461,192 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 6 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 |
 | 7 | [DA BRABA](https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:45 |
 | 8 | [Fiu Fiu](https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:24 |
-| 9 | [Quer Dançar](https://open.spotify.com/track/1g1elRYAuQ7BHMpeejvvKH) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Bonde do Tigrão](https://open.spotify.com/artist/1VQMltQ5m8iFvRCpW2n5HR) | [Quer Dançar](https://open.spotify.com/album/0dcppOWM61TlHS4cfaE451) | 2:10 |
+| 9 | [QUER DANÇAR](https://open.spotify.com/track/1g1elRYAuQ7BHMpeejvvKH) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Bonde do Tigrão](https://open.spotify.com/artist/1VQMltQ5m8iFvRCpW2n5HR) | [QUER DANÇAR](https://open.spotify.com/album/0dcppOWM61TlHS4cfaE451) | 2:10 |
 | 10 | [BANDIDONA](https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [BANDIDONA](https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK) | 2:16 |
 | 11 | [La Muerte](https://open.spotify.com/track/1B7qwIcI3gbPS5Mm4CBLjD) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [La Muerte](https://open.spotify.com/album/1ZJGLtqMXz4zETyqQw6qDG) | 2:35 |
 | 12 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 49 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 |
 | 50 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 
-Snapshot ID: `MCwxNmU0MzlhYjk2NjEzYjA1MGU4MTYzOTQ5OTU1YzFmMDI4OTkwZmZi`
+Snapshot ID: `MCxkZTE0M2UwZDhlMTY2MWYyYTllNjQxNWZiODE4MDU0Mjc4MzA0MWI3`

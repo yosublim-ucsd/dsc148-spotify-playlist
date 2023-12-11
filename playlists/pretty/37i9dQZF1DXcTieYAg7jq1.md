@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,605 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,679 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 50 | [Precious Love \(Refreshed\)](https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Greatest Hits](https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa) | 4:00 |
 | 51 | [All Summer](https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [All Summer](https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS) | 2:51 |
 | 52 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 |
-| 53 | [Make You Love Me](https://open.spotify.com/track/2HQM8xlOk1K7cGsCmnfKEn) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [WEDNESDAY'S CHILD \(SIDE A\)](https://open.spotify.com/album/0Xab1cM6Bk1KxUBpn3cCtC) | 3:10 |
+| 53 | [Make You Love Me](https://open.spotify.com/track/5DzUuP6tUU9dZ7npCwFCzA) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [WEDNESDAY'S CHILD \(SIDE A\)](https://open.spotify.com/album/2ADiKsPH6T2GNgjYNLQ7ri) | 3:10 |
 | 54 | [Do Re Mi](https://open.spotify.com/track/2EvyQsmsVGfDh2sEG8Myhy) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Do Re Mi](https://open.spotify.com/album/6H8u5r6t7U24FN1qFnPTfq) | 2:41 |
 | 55 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
 | 56 | [Unknown](https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Unknown](https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I) | 3:34 |

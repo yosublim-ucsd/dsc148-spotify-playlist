@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,316 likes - 65 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,700 likes - 65 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 19 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
 | 20 | [Mr Reggae](https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 3:04 |
 | 21 | [My Sweet Lord](https://open.spotify.com/track/0gVCFdvavY7YRsIpssaxaz) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [My Sweet Lord](https://open.spotify.com/album/7rbfhqkpS5J9JerwXt4OPq) | 5:04 |
-| 22 | [Get Free](https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:49 |
+| 22 | [Get Free](https://open.spotify.com/track/56hYeuutlZO5Pkm99FzLCW) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8) | 4:49 |
 | 23 | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \- Remix](https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [Noah Cronin](https://open.spotify.com/artist/7zVlPgqcPPfRMwK5cBulaH) | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \[Remix\]](https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y) | 4:14 |
 | 24 | [Morning Is Coming \(with Shaggy\)](https://open.spotify.com/track/1MIoqrkFISWV3q3JvifC4S) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [44/876 \(Deluxe\)](https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l) | 3:11 |
 | 25 | [High](https://open.spotify.com/track/1dJYJHPtH89qxLS3HOPtJs) | [Khalia](https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [High](https://open.spotify.com/album/3WKBAk3KLaL5HbUrtcKCbm) | 3:46 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 30 | [Cupid \- Deluxe Edition Version](https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:48 |
 | 31 | [That's Life](https://open.spotify.com/track/6zj0UbuOOigThu9Wmt99ox) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [That's Life](https://open.spotify.com/album/3vfu6Fg7uXZdfEEV2uDOgt) | 3:24 |
 | 32 | [In Another Life](https://open.spotify.com/track/24tzZeY1hzccRdH4twuwXM) | [Irie Love](https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn), [Nyle Banks](https://open.spotify.com/artist/0gA0qBobEelLCWc7c1raJB), [Bost & Bim](https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP) | [In Another Life](https://open.spotify.com/album/1UfPkbVCpMAxKSit7jXvbh) | 3:13 |
-| 33 | [Be With You \- 2022 Version](https://open.spotify.com/track/0DpRKdn06BWfJlFd7eAyZt) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Sons of Zion](https://open.spotify.com/album/0UeLDwEOhTWT3pDbJ4otLc) | 3:40 |
+| 33 | [Be With You \- 2022 Version](https://open.spotify.com/track/0DpRKdn06BWfJlFd7eAyZt) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Sons of Zion](https://open.spotify.com/album/0UeLDwEOhTWT3pDbJ4otLc) | 3:40 |
 | 34 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 |
 | 35 | [Maneater \- Reggae Version](https://open.spotify.com/track/1OiqnA0P1YOuiNPHPYhq6V) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Maneater \(Reggae Version\)](https://open.spotify.com/album/2yOQTfcph2iV1BLTPhnj51) | 5:23 |
 | 36 | [Sunshine](https://open.spotify.com/track/5yzNWZVVkSTuxwG6qENxCi) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/6gaWh2FOUVD3BLKQ8CA6E2) | 4:22 |

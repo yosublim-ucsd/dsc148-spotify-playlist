@@ -1,6 +1,6 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 21418,
+  "num_followers": 21466,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/7vld1FYKOT0Rdo6bEfur8V"
-      },
-      "artists": [
-        {
-          "name": "El Jeffrey",
-          "url": "https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX"
-        }
-      ],
-      "duration_ms": 224634,
-      "name": "Palabritas",
-      "url": "https://open.spotify.com/track/1OLipTUWDrz67unieZgkdD"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Mentirosa",
         "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 231183,
       "name": "Noches de Fantasia",
       "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/7vld1FYKOT0Rdo6bEfur8V"
+      },
+      "artists": [
+        {
+          "name": "El Jeffrey",
+          "url": "https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX"
+        }
+      ],
+      "duration_ms": 224634,
+      "name": "Palabritas",
+      "url": "https://open.spotify.com/track/1OLipTUWDrz67unieZgkdD"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Tu Me Vas a Dejar",
-      "url": "https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Acabando!",
         "url": "https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 238160,
       "name": "Borr\u00f3n y Cuenta Nueva",
       "url": "https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Tu Me Vas a Dejar",
+      "url": "https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -443,18 +443,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Bomba 2000",
-        "url": "https://open.spotify.com/album/4XkIhuk4TeHc7uGkF6wdeh"
+        "name": "Por un Poco de Amor",
+        "url": "https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3"
       },
       "artists": [
         {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
         }
       ],
-      "duration_ms": 274226,
-      "name": "Un Beso y una Flor",
-      "url": "https://open.spotify.com/track/5dQBYhRAkPoMPwTwMfqKcG"
+      "duration_ms": 218000,
+      "name": "Que Pasara",
+      "url": "https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -507,18 +507,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Por un Poco de Amor",
-        "url": "https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3"
+        "name": "Bomba 2000",
+        "url": "https://open.spotify.com/album/4XkIhuk4TeHc7uGkF6wdeh"
       },
       "artists": [
         {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Que Pasara",
-      "url": "https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU"
+      "duration_ms": 274226,
+      "name": "Un Beso y una Flor",
+      "url": "https://open.spotify.com/track/5dQBYhRAkPoMPwTwMfqKcG"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -571,6 +571,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "El Cantante del Amor",
+        "url": "https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro",
+          "url": "https://open.spotify.com/artist/7gkL5E5Ci6Lrq9cjvwMUXA"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "No Se Que Hacer",
+      "url": "https://open.spotify.com/track/6Vk9edqtgXB5BiHfeOgaF1"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Juntos Con Sus \u00c9xitos",
         "url": "https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 281760,
       "name": "Desnudate Mujer",
       "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "El Cantante del Amor",
-        "url": "https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro",
-          "url": "https://open.spotify.com/artist/7gkL5E5Ci6Lrq9cjvwMUXA"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "No Se Que Hacer",
-      "url": "https://open.spotify.com/track/6Vk9edqtgXB5BiHfeOgaF1"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Rey De Corazones",
-        "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
-      },
-      "artists": [
-        {
-          "name": "Manny Manuel",
-          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
-        }
-      ],
-      "duration_ms": 288280,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 306266,
       "name": "Llego Tu Marido",
       "url": "https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Rey De Corazones",
+        "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
+      },
+      "artists": [
+        {
+          "name": "Manny Manuel",
+          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Exclusivo",
-        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Mamwali, Vol. 2",
         "url": "https://open.spotify.com/album/3dcYjalrQeUe4ed4FHxa6e"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 220893,
       "name": "Con Los Ojos Cerrados",
       "url": "https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Exclusivo",
+        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "Me Vas a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/55ycbarVA1LauuGe8KJDCY"
+      },
+      "artists": [
+        {
+          "name": "Julian Oro Duro",
+          "url": "https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa"
+        }
+      ],
+      "duration_ms": 300442,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/4wI6MMQxzCGit5qlBw6m7M"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Puro Mambo",
         "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 337800,
       "name": "Donde",
       "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Me Vas a Extra\u00f1ar",
-        "url": "https://open.spotify.com/album/55ycbarVA1LauuGe8KJDCY"
-      },
-      "artists": [
-        {
-          "name": "Julian Oro Duro",
-          "url": "https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa"
-        }
-      ],
-      "duration_ms": 300442,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/4wI6MMQxzCGit5qlBw6m7M"
     },
     {
       "added_at": "2021-10-19 17:28:22",

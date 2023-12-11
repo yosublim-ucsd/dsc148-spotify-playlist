@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 215879,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0q6Xgn4RsP8EMUrjOtoOy7"
@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 199133,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
@@ -2714,6 +2714,24 @@
       "duration_ms": 192500,
       "name": "Punk's Dead",
       "url": "https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo"
+    },
+    {
+      "album": {
+        "name": "Put On Dog",
+        "url": "https://open.spotify.com/album/0GYRu2d493XVadeoJjxfAR"
+      },
+      "artists": [
+        {
+          "name": "THUS LOVE",
+          "url": "https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247204,
+      "name": "Put On Dog",
+      "url": "https://open.spotify.com/track/2q6l5suoodd4GWSDoLnMdG"
     },
     {
       "album": {
@@ -3186,10 +3204,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 142538,
       "name": "Stop Living & Don't Dream",
       "url": "https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR"
+    },
+    {
+      "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     },
     {
       "album": {
@@ -3410,7 +3446,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 186048,
       "name": "Til' The Wheels Fall Off",
       "url": "https://open.spotify.com/track/6dkkmXCY0FxDV1vTy6s62l"

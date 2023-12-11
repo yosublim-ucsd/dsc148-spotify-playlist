@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Diljit & Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,905 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,480 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 29 | [Dillagi](https://open.spotify.com/track/3kA53abqN88SJ06rXMd3np) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Dillagi](https://open.spotify.com/album/6XpGHTIMmOITEcwG5z86NR) | 1:24 |
 | 30 | [BIBA](https://open.spotify.com/track/4IQqOlTZpfjnSTOArpZX5j) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Slick Trick](https://open.spotify.com/artist/6ENmrRecdouZ74WXpHjQZl), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv) | [OFIVE1](https://open.spotify.com/album/1Rk6mhJQnIDrhygra17EtG) | 3:36 |
 | 31 | [Naagin](https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Naagin](https://open.spotify.com/album/1qvwPj7hWoVYJ0S5z5mbag) | 2:37 |
-| 32 | [Jadi Buti \(feat\. Rashmeet Kaur\)](https://open.spotify.com/track/58PeAWeOz9yVemSLoeYyKZ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:43 |
+| 32 | [Jadi Buti](https://open.spotify.com/track/1kGL1Mt8kNNhZDZwCocBBF) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/3xvUlOBBbOf1Y1O0OT1Qcu) | 2:43 |
 | 33 | [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/album/1d8jt3TJEbsTf6bTDnfyK9) | 3:49 |
 | 34 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
 | 35 | [Hungama Ho Gaya \(From "Queen"\)](https://open.spotify.com/track/4ZiH6RyMrw2vlgD6vrvzBd) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Hungama Ho Gaya \(From "Queen"\) \- Single](https://open.spotify.com/album/6OwQwHjB0tBu122oE7JK5P) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 49 | [Oh Ho Ho Ho \(Remix\)](https://open.spotify.com/track/3F0I9AkbRwz12yz7Hxn0bF) | [Sukhbir](https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Hindi Medium](https://open.spotify.com/album/5wUJ0hK8HJMpf5WEotPihO) | 4:04 |
 | 50 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 
-Snapshot ID: `MCxiNDNiOTViZmNjZGYyZjc2YmQyYzRiNTkyMzQzMWU5MDk2NzE0ODJi`
+Snapshot ID: `MCw3NTVlZDcwZDU3YTZhYWNhOTRjZmNiNGFmMTY2YTU0NzZjMTg1NzBj`

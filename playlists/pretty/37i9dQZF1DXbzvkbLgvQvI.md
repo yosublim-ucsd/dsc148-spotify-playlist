@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzvkbLgvQvI.md) - [plain]
 
 > All the Latin hits that have graced the top of the charts\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,517 likes - 18 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,574 likes - 18 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

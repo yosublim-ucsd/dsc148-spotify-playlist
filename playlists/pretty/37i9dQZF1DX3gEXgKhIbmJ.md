@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,535 likes - 49 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,546 likes - 49 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 48 | [Baile da Serra](https://open.spotify.com/track/68gG13CYNMzdGG8pRhZnU5) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:45 |
 | 49 | [Fura Moletom](https://open.spotify.com/track/1hIYUPdxYNswLJcjDgdoHp) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Fura Moletom](https://open.spotify.com/album/6J7Ow0edJOdzRA87Rg7LH5) | 2:12 |
 
-Snapshot ID: `MCwzMjVkMWU0OGI2ZTkxM2Y0N2M2MDlkMzI2ZmRlOWFiZTlmN2Y1Zjhm`
+Snapshot ID: `MCw3ZjY3ODdjMGZhODAzNjE3MTMzMWE4NDE2N2ExZjQ4NWJkN2FlMjBk`

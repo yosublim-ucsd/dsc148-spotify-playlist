@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 49119,
+  "num_followers": 49144,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWM0OWUwNmJiNWE5M2Q4MDU0NTg0YTNmM2U0MTQ5YWUwNmMwMTU2",
+  "snapshot_id": "MCxiZjQ4MDljZjUwMjE4YjljZDFkZjliODQxY2U4NmMxM2YxMTQ4Nzhh",
   "tracks": [
     {
       "added_at": "2023-11-02 08:20:42",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Black Pearl",
-      "url": "https://open.spotify.com/track/5SEh5ElnuNTz6zn8Th5pP9"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "A Long Dream",
         "url": "https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 258420,
       "name": "A Long Dream",
       "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Black Pearl",
+      "url": "https://open.spotify.com/track/5SEh5ElnuNTz6zn8Th5pP9"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "1/6",
-        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "1/6",
-      "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Seoul Check-in OST Part 5",
         "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
+      },
+      "artists": [
+        {
+          "name": "JuJu Secret",
+          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "SOUL LADY",
         "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
       },
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
+        "name": "1/6",
+        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
       },
       "artists": [
         {
-          "name": "JuJu Secret",
-          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
         }
       ],
-      "duration_ms": 194373,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
+      "duration_ms": 221160,
+      "name": "1/6",
+      "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
-      },
-      "artists": [
-        {
-          "name": "Eyedi",
-          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "HAPPEN",
         "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 188573,
       "name": "Why",
       "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
+      },
+      "artists": [
+        {
+          "name": "Eyedi",
+          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
-      },
-      "artists": [
-        {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
-        }
-      ],
-      "duration_ms": 190287,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing can tear us apart",
         "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 257450,
       "name": "Thanks to",
       "url": "https://open.spotify.com/track/0dGI1GRr0UAnkPKcWn7QbI"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 235227,
-      "name": "Landed",
-      "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Love & Evil",
         "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 187703,
       "name": "You and Me Together",
       "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 235227,
+      "name": "Landed",
+      "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "When My Loneliness Calls You (From The Original TV Show \"Live On\")",
+        "url": "https://open.spotify.com/album/1UjN6iS3t6X7TiBpZynE2l"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        }
+      ],
+      "duration_ms": 257031,
+      "name": "When My Loneliness Calls You",
+      "url": "https://open.spotify.com/track/61fkpzyUvPX7PMz9PnuHTF"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
         "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
       },
@@ -1259,22 +1279,6 @@
       "duration_ms": 176333,
       "name": "The Paradise",
       "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "AOA 4th Mini Album Good Luck",
-        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
-      },
-      "artists": [
-        {
-          "name": "AOA",
-          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
-        }
-      ],
-      "duration_ms": 236031,
-      "name": "10 Seconds",
-      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1315,18 +1319,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Love visible",
-        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
+        "name": "AOA 4th Mini Album Good Luck",
+        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
       },
       "artists": [
         {
-          "name": "aiai",
-          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
         }
       ],
-      "duration_ms": 185217,
-      "name": "Love visible",
-      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
+      "duration_ms": 236031,
+      "name": "10 Seconds",
+      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1347,6 +1351,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "Love visible",
+        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Love visible",
+      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 226453,
       "name": "A day of weather",
       "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "When My Loneliness Calls You (From The Original TV Show \"Live On\")",
-        "url": "https://open.spotify.com/album/1UjN6iS3t6X7TiBpZynE2l"
-      },
-      "artists": [
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        },
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        }
-      ],
-      "duration_ms": 257031,
-      "name": "When My Loneliness Calls You",
-      "url": "https://open.spotify.com/track/61fkpzyUvPX7PMz9PnuHTF"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "THIS CITY",
-        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
-      },
-      "artists": [
-        {
-          "name": "ROCOBERRY",
-          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "THIS CITY",
-      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Rainbow note",
         "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 212137,
       "name": "Venus",
       "url": "https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "THIS CITY",
+        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "THIS CITY",
+      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "THE PARK IN THE NIGHT part three",
-        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
-      },
-      "artists": [
-        {
-          "name": "GWSN",
-          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
-        }
-      ],
-      "duration_ms": 213150,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
         "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 208000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "THE PARK IN THE NIGHT part three",
+        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
+      },
+      "artists": [
+        {
+          "name": "GWSN",
+          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
+        }
+      ],
+      "duration_ms": 213150,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
     },
     {
       "added_at": "2023-11-02 08:20:42",

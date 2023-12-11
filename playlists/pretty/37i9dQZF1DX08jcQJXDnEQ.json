@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 944198,
+  "num_followers": 944765,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTJmNTgxMzMxNGVjMzJkNmMxMWI5NDg1NjFmZjdhNTVjZmQxMmIy",
+  "snapshot_id": "MCw5OWI2NDFlMzM5YjMwMGMwMmY4ZWVkZjY4YWY0NDUzZDA5YzM1NDI0",
   "tracks": [
     {
       "added_at": "2023-03-01 15:25:34",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "Them Bones (2022 Remaster)",
-      "url": "https://open.spotify.com/track/4A065x9kJt955eGVqf813g"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Sehnsucht (Anniversary Edition - Remastered)",
         "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 264947,
       "name": "Engel",
       "url": "https://open.spotify.com/track/5Zuboc3Cj9Ldnc8HyUnNUK"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Them Bones (2022 Remaster)",
+      "url": "https://open.spotify.com/track/4A065x9kJt955eGVqf813g"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Coal Chamber",
-        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
-      },
-      "artists": [
-        {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Chaos A.D.",
         "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 199226,
       "name": "Refuse / Resist",
       "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Coal Chamber",
+        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
+      },
+      "artists": [
+        {
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "duration_ms": 321573,
+      "name": "Jet City Woman - Remastered 2003",
+      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+        "name": "Chaos A.D.",
+        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
       },
       "artists": [
         {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
         }
       ],
-      "duration_ms": 321573,
-      "name": "Jet City Woman - Remastered 2003",
-      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
+      "duration_ms": 287480,
+      "name": "Territory",
+      "url": "https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -971,6 +987,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "Sehnsucht (Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 203383,
+      "name": "B\u00fcck dich",
+      "url": "https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "Cleansing",
         "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
       },
@@ -987,18 +1019,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Sehnsucht (Anniversary Edition - Remastered)",
-        "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
+        "name": "Seasons In The Abyss",
+        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 203383,
-      "name": "B\u00fcck dich",
-      "url": "https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg"
+      "duration_ms": 320520,
+      "name": "Dead Skin Mask",
+      "url": "https://open.spotify.com/track/0t1lDXmMWBzF6mfnQ6KwqZ"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1023,8 +1055,8 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Chaos A.D.",
-        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
       },
       "artists": [
         {
@@ -1032,25 +1064,9 @@
           "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
         }
       ],
-      "duration_ms": 287480,
-      "name": "Territory",
-      "url": "https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "Seasons In The Abyss",
-        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 320520,
-      "name": "Dead Skin Mask",
-      "url": "https://open.spotify.com/track/0t1lDXmMWBzF6mfnQ6KwqZ"
+      "duration_ms": 198226,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Lights...Camera...Revolution",
-        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 348093,
-      "name": "You Can't Bring Me Down",
-      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 258266,
       "name": "Monkey Business",
       "url": "https://open.spotify.com/track/57IEwDDEj8q9UQKc0MNR2x"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Lights...Camera...Revolution",
+        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 348093,
+      "name": "You Can't Bring Me Down",
+      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1119,6 +1135,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "Seasons In The Abyss",
+        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 291733,
+      "name": "War Ensemble",
+      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "Blues for the Red Sun",
         "url": "https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f"
       },
@@ -1131,22 +1163,6 @@
       "duration_ms": 217906,
       "name": "Green Machine",
       "url": "https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1179,22 +1195,6 @@
       "duration_ms": 212693,
       "name": "Clean My Wounds",
       "url": "https://open.spotify.com/track/6g48vpikqU2atsrDXdGzKo"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "Seasons In The Abyss",
-        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "War Ensemble",
-      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k"
-      },
-      "artists": [
-        {
-          "name": "Corrosion Of Conformity",
-          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Vote with a Bullet",
-      "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Angel Dust",
         "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
       },
@@ -1307,22 +1291,6 @@
       "duration_ms": 259866,
       "name": "Midlife Crisis",
       "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 330706,
-      "name": "N.W.O.",
-      "url": "https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1343,6 +1311,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 330706,
+      "name": "N.W.O.",
+      "url": "https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "Danzig III: How The Gods Kill",
         "url": "https://open.spotify.com/album/5FRzKiBPlUkfULxupLXK53"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 356400,
       "name": "How The Gods Kill",
       "url": "https://open.spotify.com/track/5w8agmmSkjBh4ScKCAtWqx"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k"
+      },
+      "artists": [
+        {
+          "name": "Corrosion Of Conformity",
+          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Vote with a Bullet",
+      "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Soulfly",
-        "url": "https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc"
-      },
-      "artists": [
-        {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Powertrip",
         "url": "https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 268760,
       "name": "More Human Than Human",
       "url": "https://open.spotify.com/track/6JgxvNYi44NFHCtQmZncTv"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Soulfly",
+        "url": "https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc"
+      },
+      "artists": [
+        {
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
+        "name": "King for a Day, Fool for a Lifetime (2016 Remaster; Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
         }
       ],
-      "duration_ms": 151760,
-      "name": "Suite-Pee",
-      "url": "https://open.spotify.com/track/7bYa4W8I1vbcOiXmLnPlik"
+      "duration_ms": 208706,
+      "name": "The Gentle Art of Making Enemies - 2016 Remaster",
+      "url": "https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "King for a Day, Fool for a Lifetime (2016 Remaster; Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW"
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
       },
       "artists": [
         {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 208706,
-      "name": "The Gentle Art of Making Enemies - 2016 Remaster",
-      "url": "https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl"
+      "duration_ms": 151760,
+      "name": "Suite-Pee",
+      "url": "https://open.spotify.com/track/7bYa4W8I1vbcOiXmLnPlik"
     },
     {
       "added_at": "2023-03-01 15:25:34",

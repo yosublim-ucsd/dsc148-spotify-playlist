@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277052,
+  "num_followers": 277058,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzhlZmU5OTM4MzA0Njc0ODFiYzUyNGYxOWI4OTEwMzkxYjk4NzRl",
+  "snapshot_id": "MCxiZjU5ZGJhM2QzMTRmY2ZjNTQzODI2ZDQ5Njg4YWYxZDEzMjE1MTRh",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Hurricane (Acoustic Version)",
-        "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 170882,
-      "name": "Hurricane - Acoustic Version",
-      "url": "https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Head & Heart (feat. MNEK) [Acoustic]",
         "url": "https://open.spotify.com/album/71LvRT11O1syL5E8BRBwmj"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 218526,
       "name": "Head & Heart (feat. MNEK) - Acoustic",
       "url": "https://open.spotify.com/track/06N4bQF7MXzLbbifGMIJZW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Hurricane (Acoustic Version)",
+        "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 170882,
+      "name": "Hurricane - Acoustic Version",
+      "url": "https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Recognise (Remixes)",
-        "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Recognise - Acoustic Version",
-      "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Where Are \u00dc Now Live (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 216339,
       "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
       "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Recognise (Remixes)",
+        "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Recognise - Acoustic Version",
+      "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Used To Have It All (Acoustic Version)",
         "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 181934,
       "name": "Used To Have It All - Acoustic",
       "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Ones You Miss (Acoustic)",
+        "url": "https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 112173,
+      "name": "Ones You Miss - Acoustic",
+      "url": "https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Radio (Acoustic)",
         "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
       },
@@ -1859,30 +1875,6 @@
       "duration_ms": 138048,
       "name": "Radio - Acoustic",
       "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
-        "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        },
-        {
-          "name": "John Ewbank",
-          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
-        }
-      ],
-      "duration_ms": 192724,
-      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
-      "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1911,18 +1903,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Ones You Miss (Acoustic)",
-        "url": "https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp"
+        "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
+        "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        },
+        {
+          "name": "John Ewbank",
+          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
         }
       ],
-      "duration_ms": 112173,
-      "name": "Ones You Miss - Acoustic",
-      "url": "https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl"
+      "duration_ms": 192724,
+      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
+      "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
     },
     {
       "added_at": "2023-10-06 04:01:00",

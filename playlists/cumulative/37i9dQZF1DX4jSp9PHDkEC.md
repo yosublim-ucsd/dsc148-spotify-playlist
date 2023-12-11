@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-345 songs - 23 hr 10 min
+346 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 | 2023-01-17 |  |
 | [Confirmation](https://open.spotify.com/track/3If8ea7T8uSsAl26PVzaFE) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation/I Turned Away](https://open.spotify.com/album/0DoVCiF0oByhPyMh5UdZQw) | 3:29 | 2023-01-17 | 2023-09-22 |
 | [Confirmation](https://open.spotify.com/track/6erM0iK1QJH7Qaw29Vzqow) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation / I Turned Away](https://open.spotify.com/album/7nC3k0PpLQ1MVsmcB7xTl4) | 3:29 | 2023-01-17 |  |
-| [Coolhand](https://open.spotify.com/track/54NlZnxWxbdXZPr2nckzkb) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Coolhand](https://open.spotify.com/album/3LtaIdQSXZXqyO3qMPbPg9) | 3:38 | 2023-01-17 |  |
+| [Coolhand](https://open.spotify.com/track/54NlZnxWxbdXZPr2nckzkb) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Coolhand](https://open.spotify.com/album/3LtaIdQSXZXqyO3qMPbPg9) | 3:38 | 2023-01-17 | 2023-12-11 |
 | [Crushing](https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Powders](https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U) | 4:31 | 2023-11-09 |  |
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-01-17 |  |
 | [Curse of the Contemporary](https://open.spotify.com/track/1ceNLWlSQNgh7sfkkIzeTJ) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [Curse of the Contemporary](https://open.spotify.com/album/4cjB9RgCy5DcRCKcXImyc1) | 4:13 | 2023-01-17 |  |
@@ -185,6 +185,7 @@
 | [Love More](https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Love More](https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4) | 4:32 | 2023-01-17 |  |
 | [Love Without Possession](https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un) | [Scout LaRue Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [Love Without Possession](https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL) | 4:01 | 2023-01-17 |  |
 | [Love Yourself](https://open.spotify.com/track/1aqdjguUGEzyTjPhXPXUxT) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs) | 3:48 | 2023-01-17 |  |
+| [Luminous](https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2) | [Youthlim](https://open.spotify.com/artist/0rHYAz4lrtdEHOXNZA7XzC) | [Luminous](https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd) | 6:08 | 2023-01-17 |  |
 | [Madeline](https://open.spotify.com/track/77VgB3vfrQBnn5hR1DOmX4) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Madeline](https://open.spotify.com/album/64vGKIpUILzQMHVmNEQAft) | 4:32 | 2023-01-17 |  |
 | [Magician's Success](https://open.spotify.com/track/3lTrCTKTggljIq5WCNNp1T) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [The Age of Immunology](https://open.spotify.com/album/415aJSNYQzadqE4p5l51NE) | 3:55 | 2023-01-17 |  |
 | [Maker](https://open.spotify.com/track/2QzMBWIuleaRF4qGARXEmv) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:32 | 2023-01-17 |  |

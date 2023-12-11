@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,176 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,968 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 47 | [Fire Wire \- Radio Edit](https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Fire Wire](https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY) | 2:51 |
 | 48 | [Mystery Land](https://open.spotify.com/track/1fwmpaKObFM51Nw1g5uJyt) | [Y\-Traxx](https://open.spotify.com/artist/5s2mMsZZjqenfPaKVW4bpT) | [Clubbin'spirit 2](https://open.spotify.com/album/1YJ8Bo9MWNOHh1BImavPht) | 4:01 |
 | 49 | [Diving Faces \- Radio Cut](https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU) | [Liquid Child](https://open.spotify.com/artist/0cljqRBWiEmXSI4vXvMFl7) | [Diving Faces](https://open.spotify.com/album/5Axm2YhkSXmlxqiZcBSpyZ) | 3:40 |
-| 50 | [Happiness Happening \- Lange Remix](https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA) | [Happiness Happening](https://open.spotify.com/album/0Cv2ksoLYcjvHKP0CZ89s0) | 3:35 |
+| 50 | [Time to Burn \- Radio Edit](https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC) | [Storm](https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0) | [Time To Burn 2010](https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku) | 2:55 |
 
 Snapshot ID: `MCwwMmY5NDQ3NmM2YmI4MTA3NzJkZmUwNjhjZjA5NzI3OWNlY2I2ODNm`

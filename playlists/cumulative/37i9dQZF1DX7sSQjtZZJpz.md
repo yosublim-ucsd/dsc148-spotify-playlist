@@ -4,7 +4,7 @@
 
 > Songs to help your kids learn in English and Spanish!
 
-98 songs - 3 hr 19 min
+99 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Los Numeros](https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:59 | 2020-04-22 |  |
 | [Los Pollitos Dicen Pio Pio](https://open.spotify.com/track/0Au8V5YJFWPWqDHfhKhHCz) | [La Vaca Lola La Vaca Lola](https://open.spotify.com/artist/1H89yfXllRrOvumojYn7yr) | [La Vaca Lola Y Otras Canciones Infantiles](https://open.spotify.com/album/4h2B0YWCUOVfOO7irnLB17) | 1:18 | 2020-04-22 |  |
 | [Marcha de las Letras \- Remasterizado](https://open.spotify.com/track/5bKzsNRXlGq1XQn8zojVpz) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [RCA 100 Años de Música \- Segunda Parte](https://open.spotify.com/album/35tXa79TFnXRr6j2wWuDFS) | 2:36 | 2020-04-22 |  |
-| [Math Rock](https://open.spotify.com/track/1BtyMTwHG9Hul83lnmwlwt) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte) | 3:14 | 2020-04-22 |  |
+| [Math Rock](https://open.spotify.com/track/1BtyMTwHG9Hul83lnmwlwt) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte) | 3:14 | 2020-04-22 | 2023-12-11 |
+| [Math Rock](https://open.spotify.com/track/3GxB1NBguq3n4Ri6gekJHI) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/4IYiLuEwpQ3ksLwzmagQxu) | 3:14 | 2023-02-24 |  |
 | [Me Gusta \(I Like It\)](https://open.spotify.com/track/4C1r13PlR7cmnCf1eEnU8X) | [Rosita](https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf), [Sesame Street's Luis](https://open.spotify.com/artist/5gkgowgHErOkz7nmAed0hD), [Sesame Street's Maria](https://open.spotify.com/artist/57OWlDKazIVF2qqFDWoFFp), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [¡C es para Canta!](https://open.spotify.com/album/2Am4OCwxhJuQKLAstBzhNq) | 1:49 | 2020-04-22 |  |
 | [Mi Sopa de Letras](https://open.spotify.com/track/7e2ZoYqkJzphbPi57ShqYl) | [Panam y Circo](https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW) | [CD2:Yo Soy Panam \- Vol.2](https://open.spotify.com/album/2ettljH6l8EIeEsFc0rTGT) | 2:53 | 2020-04-22 |  |
 | [Moles, Hounds, Bears, Bees and Hares](https://open.spotify.com/track/1OKkJX79kSL5RYB0A0c5zi) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Why?](https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK) | 2:06 | 2020-04-22 |  |

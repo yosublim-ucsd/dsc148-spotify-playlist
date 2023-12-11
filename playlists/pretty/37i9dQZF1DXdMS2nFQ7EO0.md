@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,184 likes - 61 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,635 likes - 61 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 29 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
 | 30 | [Love Tonight \(David Guetta Remix Edit\)](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 |
 | 31 | [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 |
-| 32 | [Peligrosa](https://open.spotify.com/track/6vY27OV1D4WIBUl87Ne6B1) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [Peligrosa](https://open.spotify.com/album/2K5Q5i0Wj9WyCBSNixb7xg) | 3:24 |
+| 32 | [Peligrosa](https://open.spotify.com/track/2DwQUXmFDx8cKbL5FzvU5j) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [Peligrosa](https://open.spotify.com/album/0fgTj13sJaweG78aXKqXBl) | 3:24 |
 | 33 | [Apaguen \- Kidd Spin Mix](https://open.spotify.com/track/4MRr5HARjpyjRv11suojzM) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Kidd Spin](https://open.spotify.com/artist/2DMpyk6UvqyiQIfJdkFswE) | [Apaguen \(Kidd Spin Mix\)](https://open.spotify.com/album/3YJmtaWhhOO84Em0tfGp75) | 2:42 |
 | 34 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
 | 35 | [QUE RICO](https://open.spotify.com/track/716OfBLkdmt0dAdQ0ONHId) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx) | [QUE RICO](https://open.spotify.com/album/2l7O2LG10I1c8vwVbUBLEe) | 2:31 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 60 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 |
 | 61 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 |
 
-Snapshot ID: `MCw2MTBlNGYyMDFiMDAwNGNlOTQ1Yjk3ZThjY2UwYjU5NGFmYTE0Yzcy`
+Snapshot ID: `MCwzOTZhMGM5OGZmMjdkMzU2N2I1YThmYTlhYjRhNmM1ZjA1NzA4NGMz`

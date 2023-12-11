@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121124,
+  "num_followers": 121132,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWMyOGQzOTU3Yjk1OTdmM2QwMjM1ZDI4NWIwNzM1YmViNWQ1MWZj",
+  "snapshot_id": "MCxiZTkwMGIwOWJjOTU3ODU5NjQyMjE3NjI4NTg2MjA3NzhjMjg1NDk2",
   "tracks": [
     {
       "added_at": "2023-11-30 16:06:40",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/53ffmHurxQTIN3ZRZ3lVZx"
+      },
+      "artists": [
+        {
+          "name": "Lenji",
+          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+        }
+      ],
+      "duration_ms": 130171,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/22QWx1WyniAV8veVxcLkom"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/7yxVfuMQqLo8Ev3hgMfZNo"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 130526,
       "name": "Running",
       "url": "https://open.spotify.com/track/3RUH0HeITf0oN5jyV9cduz"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/53ffmHurxQTIN3ZRZ3lVZx"
-      },
-      "artists": [
-        {
-          "name": "Lenji",
-          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
-        }
-      ],
-      "duration_ms": 130171,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/22QWx1WyniAV8veVxcLkom"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Eladio",
-        "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
-      },
-      "artists": [
-        {
-          "name": "Camisade",
-          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
-        }
-      ],
-      "duration_ms": 138100,
-      "name": "Eladio",
-      "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Eladio",
+        "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "duration_ms": 138100,
+      "name": "Eladio",
+      "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -271,22 +271,18 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Space Logic",
-        "url": "https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF"
+        "name": "Travellers",
+        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
       },
       "artists": [
         {
-          "name": "Bondi",
-          "url": "https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk"
-        },
-        {
-          "name": "Jacob Drescher",
-          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
+          "name": "Ran the Man",
+          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
         }
       ],
-      "duration_ms": 211025,
-      "name": "I Need You to Hear Me",
-      "url": "https://open.spotify.com/track/329rKlFCy5U6H9U7AtSAvP"
+      "duration_ms": 215743,
+      "name": "Suburban Sunrise",
+      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -307,18 +303,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Travellers",
-        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
+        "name": "Space Logic",
+        "url": "https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF"
       },
       "artists": [
         {
-          "name": "Ran the Man",
-          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
+          "name": "Bondi",
+          "url": "https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk"
+        },
+        {
+          "name": "Jacob Drescher",
+          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
         }
       ],
-      "duration_ms": 215743,
-      "name": "Suburban Sunrise",
-      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
+      "duration_ms": 211025,
+      "name": "I Need You to Hear Me",
+      "url": "https://open.spotify.com/track/329rKlFCy5U6H9U7AtSAvP"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 279960,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Gotta Dance",
-        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
       },
       "artists": [
         {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
         }
       ],
-      "duration_ms": 197796,
-      "name": "Gotta Dance",
-      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
+        "name": "Gotta Dance",
+        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
+      "duration_ms": 197796,
+      "name": "Gotta Dance",
+      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 250430,
+      "name": "Tom's Bar",
+      "url": "https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 220800,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 250430,
-      "name": "Tom's Bar",
-      "url": "https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Hey Papi (Kraak & Smaak Remix)",
         "url": "https://open.spotify.com/album/38vxMgf3OrvZfbHOfazb9s"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 278240,
       "name": "Hey Papi - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/0lMtUoIPD99Vn4YImDAI6X"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "Cherry Skies",
+        "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Cherry Skies",
+      "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "100 Miles",
         "url": "https://open.spotify.com/album/0MHuy3031MWIjNAwuPgCJK"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 518086,
       "name": "100 Miles",
       "url": "https://open.spotify.com/track/3AsStByn7z7jj9EY7iymPb"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Cherry Skies",
-        "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Cherry Skies",
-      "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Reconnect",
         "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "V\u00edn",
         "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
       },
@@ -1287,6 +1287,26 @@
       "duration_ms": 305370,
       "name": "<3DAYSOFLOVE",
       "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Falling Upwards",
+        "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
+      },
+      "artists": [
+        {
+          "name": "Koelle",
+          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
+        },
+        {
+          "name": "Margret",
+          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
+        }
+      ],
+      "duration_ms": 343384,
+      "name": "Falling Upwards",
+      "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1339,22 +1359,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Falling Upwards",
-        "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/0xA3Pyif2qZdMymcAMUXAI"
       },
       "artists": [
         {
-          "name": "Koelle",
-          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
         },
         {
-          "name": "Margret",
-          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
         }
       ],
-      "duration_ms": 343384,
-      "name": "Falling Upwards",
-      "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
+      "duration_ms": 175711,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1531,26 +1551,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/0xA3Pyif2qZdMymcAMUXAI"
-      },
-      "artists": [
-        {
-          "name": "M1NT",
-          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
-        },
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
-        }
-      ],
-      "duration_ms": 175711,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Wax Casting",
         "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Killer Machine",
         "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 233316,
       "name": "Killer Machine",
       "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
     },
     {
       "added_at": "2023-11-30 16:06:40",

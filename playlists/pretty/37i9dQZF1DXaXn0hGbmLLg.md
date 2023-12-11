@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume! Cover: <a href="spotify:artist:5SU9mZVaI9pRXgXmIhG1fL">Blackbird</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,642 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,639 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

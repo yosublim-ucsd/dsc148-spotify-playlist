@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-172 songs - 13 hr 5 min
+173 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [On Top Of Your Game](https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [On Top Of Your Game](https://open.spotify.com/album/5h0gY72fOLWScMTejDedln) | 2:46 | 2023-06-20 |  |
 | [Out'a Nowhere](https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:51 | 2022-08-16 |  |
 | [Over The Line](https://open.spotify.com/track/1kA20EkOahp3dPlvFDgz2E) | [Melrose Avenue](https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1) | [Over The Line](https://open.spotify.com/album/5vyjEsckiQO2Ot84RiPG45) | 2:37 | 2023-08-18 | 2023-12-08 |
+| [Over The Rainbow](https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:12 | 2023-12-08 |  |
 | [Pacific Breeze](https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Nelson Braxton](https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt) | [Pearls](https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF) | 3:44 | 2022-05-06 |  |
 | [Paks](https://open.spotify.com/track/3f526KslwaHSuamZFabgvk) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Paks](https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW) | 2:48 | 2023-10-13 |  |
 | [Passages](https://open.spotify.com/track/3rddq2C6kmthJnC2VFYzyr) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:57 | 2022-06-14 | 2022-10-05 |
@@ -143,7 +144,7 @@
 | [Stay](https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x) | [Club 1600](https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn) | [Club 1600](https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z) | 4:43 | 2022-05-06 |  |
 | [Straight to the Heart](https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Secrets](https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc) | 3:53 | 2022-05-06 |  |
 | [Summer Groove](https://open.spotify.com/track/2oXfaASoAr4XVmubahCw08) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [This Is What I Hear](https://open.spotify.com/album/3wKbSf1poINjnQB7A1tLkl) | 4:39 | 2022-05-06 | 2022-07-29 |
-| [Summer Groove](https://open.spotify.com/track/1vJNMJf8iGkfO7TR9XRpFz) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:40 | 2022-06-28 |  |
+| [Summer Groove](https://open.spotify.com/track/1vJNMJf8iGkfO7TR9XRpFz) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:40 | 2022-06-28 | 2023-12-11 |
 | [Surrender \(feat\. Boney James\)](https://open.spotify.com/track/3XS01xqHzkICimJBDwy0iA) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD), [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Surrender](https://open.spotify.com/album/11cJrPEgWk8xpK8MqRegfd) | 4:42 | 2022-05-06 |  |
 | [Take It Higher](https://open.spotify.com/track/2n3CS2o8W2zUzOvGHaAynw) | [Gino Rosaria](https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq) | [Don't Stop Now!](https://open.spotify.com/album/1uVPlYMIp6GoyWWflqm9cm) | 4:23 | 2023-02-23 | 2023-03-01 |
 | [Take Me There](https://open.spotify.com/track/5rB6wRwImtMsQirYDS2Xxu) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 5:14 | 2022-05-06 | 2022-10-05 |

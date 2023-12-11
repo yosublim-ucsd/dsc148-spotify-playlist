@@ -678,7 +678,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 231192,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Days Away",
       "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 295310,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/48791UfuvihI3pL5GX05WZ"
@@ -3932,7 +3932,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 357600,
       "name": "Intelli",
       "url": "https://open.spotify.com/track/5nr4V4qlRTEJvhCjIeZr0K"
@@ -4232,7 +4232,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 361560,
       "name": "Kosmos",
       "url": "https://open.spotify.com/track/4X0jbC7u4PJbz0p3IM72Xn"
@@ -6180,7 +6180,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 206593,
       "name": "Persona",
       "url": "https://open.spotify.com/track/1HXJiwsbj0afbCvmIZFCkE"
@@ -6822,7 +6822,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 342926,
       "name": "Shooting Star (Six Times)",
       "url": "https://open.spotify.com/track/0l3sZCqwb8QaoToHA7SPtF"
@@ -8132,7 +8132,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 313034,
       "name": "Timeshift",
       "url": "https://open.spotify.com/track/2ZEOISOM5pxvClnCtAKQCQ"
@@ -8295,6 +8295,24 @@
     },
     {
       "album": {
+        "name": "Turnover",
+        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
+      },
+      "artists": [
+        {
+          "name": "Envotion",
+          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185100,
+      "name": "Turnover",
+      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
+    },
+    {
+      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/2AkabzuOF5cIiED2GcgCKp"
       },
@@ -8346,7 +8364,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 350812,
       "name": "Uni-Verse",
       "url": "https://open.spotify.com/track/2GNktRlF6uSSDBpecepGCe"
@@ -8426,7 +8444,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 481639,
       "name": "Vertical Horizon",
       "url": "https://open.spotify.com/track/2zveRTYGSSfFbqePG6hv3n"
@@ -8448,6 +8466,24 @@
       "duration_ms": 287305,
       "name": "Victory (Credits)",
       "url": "https://open.spotify.com/track/617YOhywR7gXFM5ltHDzU7"
+    },
+    {
+      "album": {
+        "name": "Video Knights",
+        "url": "https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb"
+      },
+      "artists": [
+        {
+          "name": "spring gang",
+          "url": "https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252729,
+      "name": "Video Knights",
+      "url": "https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u"
     },
     {
       "album": {

@@ -8009,6 +8009,28 @@
     },
     {
       "album": {
+        "name": "Gaza",
+        "url": "https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP"
+      },
+      "artists": [
+        {
+          "name": "Un jour de paix",
+          "url": "https://open.spotify.com/artist/4ClHj8bEVJatxqxBqY7SHA"
+        },
+        {
+          "name": "PNL",
+          "url": "https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273278,
+      "name": "Gaza",
+      "url": "https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -24630,7 +24652,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 183878,
       "name": "ZOK",
       "url": "https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU"

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 63699,
+  "num_followers": 63725,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDAyZTQ3OGY1ZjQ2MDIxNWNiYWZlYjE3MmRjNzUyYmVhYWIyMTY1",
+  "snapshot_id": "MCxhODc4NDc1YTE0MDliZTZlMWVkYWVkMWI2MjQzM2I0MjkyMjcxNmIx",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -239,6 +239,38 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Sou Livre",
+        "url": "https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Nemer",
+          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
+        }
+      ],
+      "duration_ms": 252720,
+      "name": "Poror\u00f3",
+      "url": "https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 189939,
+      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
+      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Medley Crian\u00e7as Diante do Trono (Ao Vivo)",
         "url": "https://open.spotify.com/album/2F0dpBrgay5e2ikGnyBbpj"
       },
@@ -271,38 +303,6 @@
       "duration_ms": 338635,
       "name": "Medley Crian\u00e7as DT Toin Toin - Ao Vivo",
       "url": "https://open.spotify.com/track/26XndRd8wqjXghY0rTIWd1"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 189939,
-      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
-      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Sou Livre",
-        "url": "https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Nemer",
-          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
-        }
-      ],
-      "duration_ms": 252720,
-      "name": "Poror\u00f3",
-      "url": "https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Jesus Me Ama Tanto",
-        "url": "https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc"
+        "name": "Deus Grand\u00e3o",
+        "url": "https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn"
       },
       "artists": [
         {
-          "name": "Arieta Magrini",
-          "url": "https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5"
-        },
-        {
-          "name": "Metodista Kids",
-          "url": "https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 236683,
-      "name": "Jesus Me Ama Tanto",
-      "url": "https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX"
+      "duration_ms": 251147,
+      "name": "Deus Grand\u00e3o",
+      "url": "https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Deus Grand\u00e3o",
-        "url": "https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn"
+        "name": "Jesus Me Ama Tanto",
+        "url": "https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Arieta Magrini",
+          "url": "https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5"
+        },
+        {
+          "name": "Metodista Kids",
+          "url": "https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa"
         }
       ],
-      "duration_ms": 251147,
-      "name": "Deus Grand\u00e3o",
-      "url": "https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5"
+      "duration_ms": 236683,
+      "name": "Jesus Me Ama Tanto",
+      "url": "https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX"
     },
     {
       "added_at": "2023-10-20 03:00:00",

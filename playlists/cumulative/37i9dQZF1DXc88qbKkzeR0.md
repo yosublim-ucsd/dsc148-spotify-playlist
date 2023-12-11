@@ -4,7 +4,7 @@
 
 > Curated by Chrishell Stause and G Flip\. Watch the new season of Selling Sunset on Netflix.
 
-129 songs - 7 hr 30 min
+132 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,8 @@
 | [betty](https://open.spotify.com/track/5kI4eCXXzyuIUXjQra0Cxi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:54 | 2023-05-19 |  |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2023-05-19 |  |
 | [Bitter](https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Bitter](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u) | 3:14 | 2022-09-16 | 2023-05-20 |
-| [Blondes](https://open.spotify.com/track/0rrqr7NumrmZPbFf6Ajy1H) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Blondes](https://open.spotify.com/album/2AMpW22gfRVDTavZafv3fc) | 3:00 | 2023-05-19 |  |
-| [Blondes](https://open.spotify.com/track/3rahfnBg8S2nWnyoc3gCyy) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Blondes](https://open.spotify.com/album/4ftxjAuwdSH3g22vwBrthc) | 3:00 | 2023-05-19 | 2023-08-24 |
+| [Blondes](https://open.spotify.com/track/0rrqr7NumrmZPbFf6Ajy1H) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Blondes](https://open.spotify.com/album/2AMpW22gfRVDTavZafv3fc) | 3:00 | 2023-05-19 | 2023-12-11 |
+| [Blondes](https://open.spotify.com/track/3rahfnBg8S2nWnyoc3gCyy) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Blondes](https://open.spotify.com/album/4ftxjAuwdSH3g22vwBrthc) | 3:00 | 2023-05-19 |  |
 | [Blow](https://open.spotify.com/track/6wwrYruEgWlowPDZMq5116) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:09 | 2023-05-19 |  |
 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 | 2022-07-22 | 2022-09-17 |
 | [Boys Ain't Shit](https://open.spotify.com/track/6vzLbfskWigBsCzNdB0kfE) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Boys Ain't Shit](https://open.spotify.com/album/14h9GgdPLs6rnEqORICaAm) | 2:55 | 2022-09-16 | 2023-05-20 |
@@ -56,7 +56,8 @@
 | [Forever](https://open.spotify.com/track/2319gHincsCeSmc19Efi2j) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 | 2023-05-19 |  |
 | [Freak On a Leash](https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:15 | 2023-05-19 |  |
 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu) | 2:54 | 2023-05-19 |  |
-| [GET ME OUTTA HERE](https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY) | 3:14 | 2023-05-19 |  |
+| [GET ME OUTTA HERE](https://open.spotify.com/track/3pZlV5uMalVEdvDhS5OQSO) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/0wIlSlSzmhKZZS2Zz3i2eY) | 3:14 | 2023-05-19 |  |
+| [GET ME OUTTA HERE](https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY) | 3:14 | 2023-05-19 | 2023-12-11 |
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2022-07-22 | 2022-09-17 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2023-05-19 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2022-09-16 | 2023-05-20 |
@@ -67,7 +68,8 @@
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2023-05-19 |  |
 | [High For This](https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:07 | 2022-09-16 | 2023-03-12 |
 | [High For This \- Original](https://open.spotify.com/track/2ye9iWj5V4g6k6HFeTTAKa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 4:09 | 2022-09-16 | 2023-05-20 |
-| [Hyperfine](https://open.spotify.com/track/4iqVQrt8pmzSn8VFkC8jAP) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Hyperfine](https://open.spotify.com/album/7esEe8uuK18DWivcoe3LCA) | 3:40 | 2023-05-19 |  |
+| [Hyperfine](https://open.spotify.com/track/2hwkdFDtrM5rbcPiLepA6W) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Hyperfine](https://open.spotify.com/album/538kjKwHHz4AEqj4u2kuBl) | 3:40 | 2023-05-19 |  |
+| [Hyperfine](https://open.spotify.com/track/4iqVQrt8pmzSn8VFkC8jAP) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Hyperfine](https://open.spotify.com/album/7esEe8uuK18DWivcoe3LCA) | 3:40 | 2023-05-19 | 2023-12-11 |
 | [I Can't Help \- G Flip Remix](https://open.spotify.com/track/4MtZaELOLSWEaXiWc6c6Z0) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [I Can't Help \(with Sarcastic Sounds\) \[Remixes\]](https://open.spotify.com/album/5tdR4hsMyGmiYDAIql0BYO) | 2:04 | 2023-05-19 |  |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-09-16 | 2023-05-20 |
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2022-09-16 | 2023-05-20 |
@@ -81,7 +83,8 @@
 | [Lady Jesus](https://open.spotify.com/track/4HkJ9MoO7sQHQ6hCxJN01w) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2022-09-16 | 2023-05-20 |
 | [Looking Up](https://open.spotify.com/track/3mzV0WDATjcpzcTNK2TLJw) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:29 | 2023-05-19 |  |
 | [Love You Down](https://open.spotify.com/track/7tjbm60E0t7SerbiG61cce) | [INOJ](https://open.spotify.com/artist/5IUvXYeMtVmp8YJWf0eqvf) | [Ready for the World](https://open.spotify.com/album/7lF5KjVwW7LRytM2Ifed9j) | 4:22 | 2022-09-16 | 2023-05-20 |
-| [Lover](https://open.spotify.com/track/0wA9uHq1tcXJ7PlfJMrrT6) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 3:27 | 2023-05-19 |  |
+| [Lover](https://open.spotify.com/track/0Ot8SLEHax9a07kjSckmR6) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/7qGnsVywMDpieieyFKBrdu) | 3:27 | 2023-05-19 |  |
+| [Lover](https://open.spotify.com/track/0wA9uHq1tcXJ7PlfJMrrT6) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 3:27 | 2023-05-19 | 2023-12-11 |
 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 | 2023-05-19 |  |
 | [Many Men \(Wish Death\)](https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:16 | 2022-09-16 | 2023-05-20 |
 | [Mariposa](https://open.spotify.com/track/6I07cCR5AwBnVRmFRhJHGL) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Mariposa](https://open.spotify.com/album/64aNLTvoDd51YloSSJQZ78) | 2:59 | 2022-09-16 | 2023-05-20 |

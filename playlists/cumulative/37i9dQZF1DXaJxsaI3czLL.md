@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-375 songs - 1 day 2 hr 35 min
+376 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Hues](https://open.spotify.com/track/08XFNYjOUBtWjdlSpimV7A) | [naomi paris tokyo](https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8) | [Hues](https://open.spotify.com/album/031jv13JunAFo2noS217gX) | 4:13 | 2023-06-06 | 2023-06-21 |
 | [I Love You More.](https://open.spotify.com/track/5Id0x8wRZVso2GLqzofDAB) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 2:00 | 2023-01-03 | 2023-02-01 |
 | [I Wish You Love](https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [Voices Of Love](https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9) | 4:18 | 2023-01-26 |  |
-| [IDEN](https://open.spotify.com/track/5nXb09reEw4Iat5wLkSgaU) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [TITY](https://open.spotify.com/album/0VOCIszImulRCdf8lz89aP) | 3:52 | 2023-11-02 | 2023-11-08 |
+| [IDEN](https://open.spotify.com/track/5nXb09reEw4Iat5wLkSgaU) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [TITY](https://open.spotify.com/album/0VOCIszImulRCdf8lz89aP) | 3:52 | 2023-11-02 |  |
 | [if you just smile\(もし君が微笑んだら\)](https://open.spotify.com/track/0T68jDr8wpTUtpWoxjX1ue) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [Long Voyage](https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi) | 6:11 | 2022-10-20 | 2022-11-09 |
 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 | 2023-11-28 |  |
 | [intersolid](https://open.spotify.com/track/21gAd3WVNMqP0mSaM04CdZ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [intersolid](https://open.spotify.com/album/31BTiDOOBfmQldZdl6vQgz) | 3:54 | 2022-11-08 | 2023-04-19 |
@@ -111,7 +111,7 @@
 | [kyokou](https://open.spotify.com/track/6bc4C84YxaMQNJw3O2AlUr) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL) | 4:38 | 2023-04-20 | 2023-05-31 |
 | [La Lune](https://open.spotify.com/track/5bn0m1qjFbmYAI0imnwFPL) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [La Lune](https://open.spotify.com/album/2DwIjTWuPaPwlbsZMaegPX) | 2:13 | 2023-07-18 | 2023-08-09 |
 | [Lady \- 2020](https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 5:56 | 2022-10-20 |  |
-| [Lamp](https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [Lamp](https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd) | 4:32 | 2022-10-20 |  |
+| [Lamp](https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [Lamp](https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd) | 4:32 | 2022-10-20 | 2023-12-11 |
 | [Last Peace](https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH), [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [27](https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj) | 3:43 | 2022-10-20 |  |
 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-05 |  |
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-07 | 2023-04-05 |
@@ -240,7 +240,7 @@
 | [きれいだ](https://open.spotify.com/track/3AUERt8iOPlZ2ruHQMDAVh) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [夜はそのまなざしの先に流れる](https://open.spotify.com/album/2nHykm1RdbUDW4ImLANpUb) | 6:13 | 2022-10-20 | 2023-07-12 |
 | [ここにある地球\(ほし\)](https://open.spotify.com/track/3QZMFiHaweFFr8xqwIVo4v) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [ここにある地球\(ほし\)](https://open.spotify.com/album/5qpeBvBrNJG8SKH5vNBeaD) | 2:12 | 2022-12-13 | 2022-12-15 |
 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 | 2022-10-20 |  |
-| [さもありなん](https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [さもありなん](https://open.spotify.com/album/6B8yGpKG4hIATtbS3ibsHA) | 5:50 | 2023-02-28 |  |
+| [さもありなん](https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [さもありなん](https://open.spotify.com/album/6B8yGpKG4hIATtbS3ibsHA) | 5:50 | 2023-02-28 | 2023-12-11 |
 | [それでは、](https://open.spotify.com/track/5qGpsL9fCOr1sGYNMmFFtI) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:50 | 2022-10-20 | 2022-11-11 |
 | [ため息の行方](https://open.spotify.com/track/6GSVtgBJ2bNRicSqQcXg99) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ゆめ](https://open.spotify.com/album/4d0nnBfxKBJt3evaV4Yssh) | 4:28 | 2022-10-20 | 2023-01-27 |
 | [つぐみ](https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [THUNDERBIRD](https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg) | 3:58 | 2022-10-20 |  |
@@ -361,6 +361,7 @@
 | [糸](https://open.spotify.com/track/1Q3wFTqaH9rmVGdGj85Lsa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 3:44 | 2023-01-26 | 2023-02-01 |
 | [糸](https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [命の別名](https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I) | 5:07 | 2022-11-27 | 2023-02-22 |
 | [素晴らしい世界](https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [素晴らしい世界](https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy) | 7:37 | 2022-10-20 | 2023-11-22 |
+| [素直](https://open.spotify.com/track/3WMOGfwdooXGzFI62zi7JK) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [We Love Mackey](https://open.spotify.com/album/60SAcVHhDuo8KgYm802Rlp) | 4:58 | 2023-12-10 |  |
 | [綻び](https://open.spotify.com/track/2vE2pvqVvonR7sEIf697xO) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [綻び](https://open.spotify.com/album/5i4JlotjA0vsgko8HccOuo) | 4:35 | 2023-08-29 | 2023-08-31 |
 | [缶ビール](https://open.spotify.com/track/1FVwIVuTtMaptIxyE6zJZj) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ユラレル](https://open.spotify.com/album/7Ba3DMHpngjawGFVGE6Guw) | 2:52 | 2023-06-13 | 2023-06-21 |
 | [美しい森](https://open.spotify.com/track/1kyMnvdnlt3bKF9jUg7v5q) | [音沙汰](https://open.spotify.com/artist/0f7VaIN3RXWoaWqBsSoew2) | [Musicalium](https://open.spotify.com/album/6PwH6MOazT3anivW965oHY) | 4:40 | 2023-09-19 | 2023-10-11 |

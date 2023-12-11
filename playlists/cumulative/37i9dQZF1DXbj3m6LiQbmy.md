@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. ARIETE in cover! ✨
 
-332 songs - 19 hr 45 min
+333 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Gold](https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Gold](https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs) | 3:16 | 2022-06-10 | 2023-05-01 |
 | [GOOD PUSS](https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [GOOD PUSS](https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn) | 3:40 | 2022-08-24 | 2023-01-25 |
 | [Good PusS \(feat\. cupcakKe\) \- Remix](https://open.spotify.com/track/0jiThGoZ1qdJrImd4U6XE5) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Good PusS \(feat\. cupcakKe\) \[Remix\]](https://open.spotify.com/album/7bHH8XTv8INRsqbvF507iO) | 3:39 | 2022-04-01 | 2023-01-25 |
-| [Hands On Me](https://open.spotify.com/track/0HUiEOHqH9gPbuCWDVvZ7u) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Moon Faces EP](https://open.spotify.com/album/55bGD2IkUYPSALh6TySzjy) | 2:41 | 2021-11-19 |  |
+| [Hands On Me](https://open.spotify.com/track/0HUiEOHqH9gPbuCWDVvZ7u) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Moon Faces EP](https://open.spotify.com/album/55bGD2IkUYPSALh6TySzjy) | 2:41 | 2021-11-19 | 2023-12-11 |
+| [Hands On Me](https://open.spotify.com/track/5HZgrygoh8tjdHqyLROobo) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Hands On Me](https://open.spotify.com/album/6UQ1Z4VPXaJtKM8EqzBGKs) | 2:41 | 2023-12-07 |  |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-02-10 | 2023-01-25 |
 | [Hi, I'm a Slut](https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131) | [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx) | [Lil Mariko](https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb) | 2:50 | 2022-04-01 | 2023-01-25 |
 | [Ho pianto in discoteca](https://open.spotify.com/track/5wvVbN2nYosTemhRiIlJ1K) | [Sem&Stènn](https://open.spotify.com/artist/4urS4ezvKDRW6o0XQeRve5), [CRLN](https://open.spotify.com/artist/4Gmkm3PIIdBZkSMlIdsMwZ) | [Ho pianto in discoteca](https://open.spotify.com/album/24JZfKM6ETpX1RkL4eiR7m) | 2:51 | 2021-11-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Lang Lang
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,176 likes - 58 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,236 likes - 58 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 57 | [Carols: I\. God the Ancient of Days \- II\. New Joy Has Come 3\. Heaven and Earth \- Live](https://open.spotify.com/track/0EzpB9OYZaC0wskZbveFaH) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Andrei Petrenko](https://open.spotify.com/artist/2hhNwiu7okIS0mtd8iluiC), [Yekaterinburg Philharmonic Choir](https://open.spotify.com/artist/5gG07YDbPTNUgG6exS0Mem) | [Old New Year: A Choral Celebration \(Live\)](https://open.spotify.com/album/0z59j5c9KT6FL3AMpA5veR) | 3:46 |
 | 58 | [Bangalore](https://open.spotify.com/track/2ergekxfdDjQoKyyjLIiiM) | [Paul Colomb](https://open.spotify.com/artist/2sGla7iUXrL6bwkcN4h0o2), [Justine Metral](https://open.spotify.com/artist/2h33yfyktyyl99tup86VY8), [Frédéric Deville](https://open.spotify.com/artist/26vCIaJFpYWCu8r6YkwvKt), [Michèle Pierre](https://open.spotify.com/artist/0u5L4vVUyEljoYyBBd6EQ5), [Louis Rodde](https://open.spotify.com/artist/5OFyR6vslFqhDqoLo8opbc) | [Paul Colomb: Bangalore](https://open.spotify.com/album/1D1Ud25KXEGZuAPrlRhWFm) | 4:13 |
 
-Snapshot ID: `MCxmNzlmMGY5YmMwMDEyZjZkNGNmNTE2MjU4YzNjMzE2ZjNmNWI2YzBj`
+Snapshot ID: `MCwyZmFiOGYyMjc2MDNiODA0NGE5ZWU0ZjQ3Y2JiZTEzMzA3M2Y4YTQ4`

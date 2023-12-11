@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Tokischa
 
-417 songs - 22 hr 42 min
+418 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [El Chiva](https://open.spotify.com/track/6Lpx9mRll44qoVXhSPBdSw) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Ahora Venimo Con Rango](https://open.spotify.com/album/40Tm0edfITjnxINCgdVmeU) | 2:24 | 2022-11-21 |  |
 | [El Chiva](https://open.spotify.com/track/6RwI2ttaWWptIzIQvj3G68) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Ahora Venimo' Con Rango](https://open.spotify.com/album/0Qwqq5uobfICw2CYAlzfiU) | 2:27 | 2021-12-10 | 2022-07-26 |
 | [El Con Con](https://open.spotify.com/track/4ZTbTvevmFuXUQ26LTLEoy) | [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA), [A.C.](https://open.spotify.com/artist/0nEAytOgLVljiBx1pj4uWy), [Maceo El Perro Blanco](https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6) | [El Con Con](https://open.spotify.com/album/29HCwiG8wd0LWtSzMN5SWf) | 2:36 | 2023-05-26 | 2023-08-25 |
-| [El Culon](https://open.spotify.com/track/5KHLqLHg2HcuuyzjYcJYIC) | [Cromo X](https://open.spotify.com/artist/3rDYAiKm3c9RgztxGEUfto), [X3mo](https://open.spotify.com/artist/50lPFUvJt3DTeGcTapLP9h) | [El Culon \- Single](https://open.spotify.com/album/6uD6BVQAaRi9hDyfcSg5IF) | 4:19 | 2022-01-04 |  |
+| [El Culon](https://open.spotify.com/track/5KHLqLHg2HcuuyzjYcJYIC) | [Cromo X](https://open.spotify.com/artist/3rDYAiKm3c9RgztxGEUfto), [X3mo](https://open.spotify.com/artist/50lPFUvJt3DTeGcTapLP9h) | [El Culon \- Single](https://open.spotify.com/album/6uD6BVQAaRi9hDyfcSg5IF) | 4:19 | 2022-01-04 | 2023-12-11 |
 | [EL DUEÑO DE LO CROKY](https://open.spotify.com/track/2J1uiNac11AmKR3cyOX3iC) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [EL DUEÑO DE LO CROKY](https://open.spotify.com/album/190ZJLansag1l9axCck8rx) | 3:02 | 2023-09-29 |  |
 | [El Gagayor](https://open.spotify.com/track/0yc93K8GZlCCL77cVMV3GF) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [El Gagayor](https://open.spotify.com/album/4iuxrqCjK8RS9hsz7MEnsu) | 3:52 | 2021-12-10 | 2022-12-27 |
 | [El Humo](https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [Hip Hop Dominicano](https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7) | 3:19 | 2022-05-28 | 2023-09-23 |
@@ -209,6 +209,7 @@
 | [Live, Vol\. 1](https://open.spotify.com/track/5bxEXOaf4biN720159ryJz) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [Live, Vol\. 1](https://open.spotify.com/album/7EuHieQfQhIYWezHe8KsZx) | 5:59 | 2022-04-20 | 2022-05-20 |
 | [Llevo La Vainita](https://open.spotify.com/track/1r7AXKQ0MQt3n65UYQ4XVF) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Llevo La Vainita](https://open.spotify.com/album/2v4PGOWo3I1mohKUjIqrjy) | 2:40 | 2022-01-04 | 2022-07-23 |
 | [Llevo la Vainita](https://open.spotify.com/track/0PtuUiKPpQqEp2W4CasynB) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Llevo la Vainita](https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX) | 2:42 | 2022-11-21 | 2023-11-17 |
+| [Llevo La Vainita](https://open.spotify.com/track/7ctgLB1uXV6jkOFUNzfZ6F) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Llevo La Vainita](https://open.spotify.com/album/12dw2jWxzyGzLMiNuMXYYS) | 2:42 | 2023-10-19 |  |
 | [Loco Mio](https://open.spotify.com/track/3SU4qmYFMI353KqmfDduQo) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Loco Mio](https://open.spotify.com/album/6Cvm8XJPef2VaEalHUPE0a) | 3:04 | 2023-07-14 |  |
 | [Lokitroky \(Dembow Version\)](https://open.spotify.com/track/2HwnSUWQD8gqULSL6D2M88) | [Sarita](https://open.spotify.com/artist/1QxkThT4UZIVSv5KS7KS8I), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Lokitroky \(Dembow Version\)](https://open.spotify.com/album/7rubcrIZUCKciQ5aBGtByG) | 1:47 | 2022-04-20 | 2022-05-20 |
 | [Lorito](https://open.spotify.com/track/4QMzXTX5ePQIwdj4bJktFz) | [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq) | [Lorito](https://open.spotify.com/album/0oGOljyN6qexxje71tp3lb) | 2:22 | 2022-03-22 |  |

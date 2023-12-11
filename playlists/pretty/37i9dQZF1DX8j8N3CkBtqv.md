@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Kayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,513 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,544 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Tera Ho Gaya](https://open.spotify.com/track/59FM7MmPIP1MsQE5cMlAAn) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Tera Ho Gaya](https://open.spotify.com/album/2E6IlsJetcFPCCtqxLLCJs) | 2:58 |
 | 50 | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/track/0eCVQoYH5nTFgmmjQqsJmG) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Nolan Santo](https://open.spotify.com/artist/2w4TUuwxwWPYy1eDqWolzC) | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/album/7rwO4jDTCmn5njEzs5jKAK) | 2:16 |
 
-Snapshot ID: `MCw1YTdhMzFmOTY4NzMyZTVmYTE3YmY4MjY4NmM4M2Q1NTg4YmUzZjVk`
+Snapshot ID: `MCw3Y2JiOTZkNWEzZGRhMjA2ZGM0NzI5NWQxOTQzOTJmMmQ0M2YxYzZh`

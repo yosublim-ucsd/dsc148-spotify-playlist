@@ -4,7 +4,7 @@
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-308 songs - 1 day 1 hr 38 min
+309 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Los Bandidos](https://open.spotify.com/track/5SciHsLkumLoGnSLFiQILV) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [El Sonido Nuevo](https://open.spotify.com/album/4rzynODIi4mNflsICsYZoX) | 7:18 | 2022-07-26 | 2023-06-22 |
 | [Los Bandidos](https://open.spotify.com/track/32tLjdkVZN11pPtEhT8zEq) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 7:15 | 2021-12-09 | 2022-07-29 |
 | [Los Jibaros](https://open.spotify.com/track/5TN80dTN1oDq9VBPxyQm7K) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 2:43 | 2021-12-09 | 2022-07-29 |
-| [Luces](https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 4:53 | 2021-12-09 |  |
+| [Luces](https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 4:53 | 2021-12-09 | 2023-12-11 |
 | [Lágrimas Negras](https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 3:44 | 2022-07-26 |  |
 | [Madriga](https://open.spotify.com/track/4NnJDou9s1CLFmWWYfV3Xn) | [David Sánchez](https://open.spotify.com/artist/753L7PG3yQoWm59XUZ7ruK) | [Carib](https://open.spotify.com/album/3AVGFHZfppICGSb74721jY) | 7:09 | 2021-12-09 | 2022-05-06 |
 | [Mambo in Miami](https://open.spotify.com/track/3LgdE2ElJy94x5qqgJWl7Q) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Too Late Now](https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy) | 2:45 | 2021-12-09 | 2022-07-29 |
@@ -237,6 +237,7 @@
 | [Reza](https://open.spotify.com/track/4EpucAOoGXgSW5HScC8V1F) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 4:04 | 2021-12-09 | 2022-07-29 |
 | [Reza](https://open.spotify.com/track/7sv2Y2vqr4IH8qEyomRjxf) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Bird: Whiffenpoof](https://open.spotify.com/album/5JZRDbjyuSbc5fvDzcn1iy) | 4:04 | 2022-07-26 |  |
 | [Ritmo Alegre](https://open.spotify.com/track/2JqXaToOHxVjhs1oweYx1A) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Eddie Palmieri](https://open.spotify.com/album/1trmE8HIehZWBPpNZ7AAWM) | 10:33 | 2021-12-09 | 2022-05-25 |
+| [Ritmo Alegre](https://open.spotify.com/track/2m7WYqE9R9yajANFXrwEbr) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Eddie Palmieri](https://open.spotify.com/album/4LehLvy8VtP9PIuPVxtSkm) | 10:33 | 2023-08-28 |  |
 | [Ritmo Caliente](https://open.spotify.com/track/3bsz6Dxswzbc49bokCxlHJ) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Sugar Daddy](https://open.spotify.com/album/7K2q9wSW3MIZvJNlofnzbe) | 2:44 | 2021-12-09 | 2022-01-23 |
 | [River Rises](https://open.spotify.com/track/2cgUuAbgKxogUes21l6BSq) | [The Gaddabouts](https://open.spotify.com/artist/4YKbrs5rlpiUd9YhD2kn1B), [Edie Brickell](https://open.spotify.com/artist/5Y4g6bsYzlhsC6jRDQnN4a), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Andy Fairweather Low](https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Axel Tosca](https://open.spotify.com/artist/4IuMtzNqUsW4Oli1mzNLqh), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh) | [Look out Now!](https://open.spotify.com/album/3If8CnWombvLZqUZiN3FI5) | 5:50 | 2021-12-09 | 2023-03-16 |
 | [Sabor](https://open.spotify.com/track/7tzvCIB8xPWf9XuPvgRWUV) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Lo Mejor de Bebo Valdés](https://open.spotify.com/album/2SKODlLDMDQjGlyPeo0DOf) | 2:33 | 2021-12-09 | 2022-07-09 |

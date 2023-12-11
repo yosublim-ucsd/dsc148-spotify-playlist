@@ -620,7 +620,7 @@
 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 | 2021-12-07 |  |
 | [Verträumt](https://open.spotify.com/track/6yfuxuWZNEnwOykWXStzxY) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Verträumt](https://open.spotify.com/album/1QLGJWEAeddXVFaAwI6gZ4) | 2:14 | 2021-12-07 |  |
 | [Veszprém](https://open.spotify.com/track/2ZC0zLg4UMtC4AFWTd34Ly) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Veszprém](https://open.spotify.com/album/51QJQwxCAO6ol5ZVG7vL1U) | 3:01 | 2021-12-07 | 2022-04-21 |
-| [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 | 2021-12-07 |  |
+| [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 | 2021-12-07 | 2023-12-11 |
 | [Vigilance](https://open.spotify.com/track/5ezssE7jFdCzJOJAedPhEN) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Vigilance](https://open.spotify.com/album/7eyB39siSce7Rld9UZqL0O) | 2:06 | 2021-12-07 | 2022-01-05 |
 | [Viklau](https://open.spotify.com/track/4CFzH8jRqwNIYIRBv8Bkwk) | [Raukar](https://open.spotify.com/artist/3gsSGPxBGQvwSMtMkMoTbE) | [Viklau](https://open.spotify.com/album/03g3D3FtbDm3NEiskGfoSM) | 2:30 | 2021-12-07 | 2022-05-21 |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-01-18 |  |
@@ -656,7 +656,7 @@
 | [Yōsei](https://open.spotify.com/track/5wsqAeIRP9mmZBVRua7ShH) | [Malotte H](https://open.spotify.com/artist/7DRkB3iAI3rpubmBA7qrEt) | [Yōsei](https://open.spotify.com/album/0PK0SJ0irDoDsSvI2WF5zy) | 2:38 | 2021-12-07 |  |
 | [Zeit der Stille](https://open.spotify.com/track/0uP8U2GsVBIifLbVbvHRid) | [Kal Daniels](https://open.spotify.com/artist/7tSECjYISKAql7IRAqhhYB) | [Herbst Briese](https://open.spotify.com/album/7ffWTDZHGBYKWnLrvAnyvZ) | 3:18 | 2021-12-07 | 2022-02-01 |
 | [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 | 2022-03-16 |  |
-| [À Cheval](https://open.spotify.com/track/48tmOujKv21Ej498FCYjXI) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [À Cheval](https://open.spotify.com/album/4S05QzDmpuZ5DvZiod7p27) | 2:54 | 2021-12-07 | 2023-11-10 |
+| [À Cheval](https://open.spotify.com/track/48tmOujKv21Ej498FCYjXI) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [À Cheval](https://open.spotify.com/album/4S05QzDmpuZ5DvZiod7p27) | 2:54 | 2021-12-07 |  |
 | [Ça en vaut la peine](https://open.spotify.com/track/3ggkhQAdAMUQe7Bz6kmYzr) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Ça en vaut la peine](https://open.spotify.com/album/2yFJkdKJEjuEysAA8Isn66) | 2:31 | 2022-01-04 | 2022-05-06 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

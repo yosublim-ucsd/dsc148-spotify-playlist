@@ -4,7 +4,7 @@
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-264 songs - 12 hr 32 min
+265 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 | 2023-08-04 | 2023-09-01 |
 | [Nikolaus, Nikolaus](https://open.spotify.com/track/5m2iD9ImK5TxjScasHLo9H) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Weckt den Weihnachtsmann](https://open.spotify.com/album/5Q8D7jMstKaZrKh6xCc18H) | 2:24 | 2023-11-14 |  |
 | [O je, Tannenbaum!](https://open.spotify.com/track/3UpOay0ipJUvhzk8YFeHl1) | [Enno Bunger](https://open.spotify.com/artist/0aiAgFPJcZggIkSUGDFdkD) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:41 | 2023-11-14 |  |
-| [O Tannenbaum](https://open.spotify.com/track/2qgt9DvHOd9Yu4BgUdtZ63) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Summ, Summ, Summ! \- Die beliebtesten Weihnachtslieder](https://open.spotify.com/album/6eDDX5gAtuCrsBtRIHpR4q) | 2:30 | 2023-11-14 |  |
+| [O Tannenbaum](https://open.spotify.com/track/2qgt9DvHOd9Yu4BgUdtZ63) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Summ, Summ, Summ! \- Die beliebtesten Weihnachtslieder](https://open.spotify.com/album/6eDDX5gAtuCrsBtRIHpR4q) | 2:30 | 2023-11-14 | 2023-12-11 |
 | [Ohne dich hätt' ich mich nicht getraut](https://open.spotify.com/track/5dlhNyHb5S9AuixZqnPaNY) | [Christopher Annen](https://open.spotify.com/artist/2WWeCEF0kF9vHGlLlsHaRE) | [Unter meinem Bett 5](https://open.spotify.com/album/5JYmSMR3duFBHnSIKumZtG) | 4:13 | 2023-08-04 | 2023-08-31 |
 | [Oogie Boogie's Song](https://open.spotify.com/track/1TctVlWvNpmKGHMuPqJ5G2) | [Ed Ivory](https://open.spotify.com/artist/2Iv9xUxQZyMxknah773Sdw), [Ken Page](https://open.spotify.com/artist/5AAomuiyEWayklKG3qLv6U) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:17 | 2023-10-30 | 2023-11-06 |
 | [Paranormal](https://open.spotify.com/track/6dmdfDexEUn0aSPgZQLbrv) | [Dolini](https://open.spotify.com/artist/4XKVz2WC7nZStQsHJv7zyS) | [Paranormal](https://open.spotify.com/album/7p7huTAyXP2i2WdfyB32rB) | 4:12 | 2023-10-16 | 2023-11-06 |
@@ -249,6 +249,7 @@
 | [Was zieh' ich an?](https://open.spotify.com/track/2mB1Bd0hw1b5cJr3AfvmRH) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs neue Schulweg\-Hitparade](https://open.spotify.com/album/09au3ViAkjIjJA4dEjIJTp) | 3:00 | 2023-08-31 | 2023-10-17 |
 | [Weihnachten im Zoo](https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Folge 74 \- Benjamin Blümchen singt Weihnachtslieder](https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua) | 3:15 | 2023-11-14 |  |
 | [Weihnachtskeksrakete](https://open.spotify.com/track/7hyisV0kr3uhzNcgJef3aO) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Weihnachtskeksrakete](https://open.spotify.com/album/34ra71Y7hPwBvbwe1kse7o) | 2:15 | 2023-11-14 |  |
+| [Weihnachtssong \(Santa Claus Rap\)](https://open.spotify.com/track/19FbU9S8eTXqtwiBRlOJIH) | [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN) | [Weihnachtssong \(Santa Claus Rap\)](https://open.spotify.com/album/6gIBEoHrbndw5WRV0uwGy1) | 2:19 | 2023-12-08 |  |
 | [Weihnachtszeit, Kinderzeit](https://open.spotify.com/track/0IHclLb62TS7CauAJJ4SU5) | [Wise Guys](https://open.spotify.com/artist/11YTrgsi6VjRCkExQBY13k), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 2:32 | 2023-11-14 |  |
 | [Wenn der Herbst für dich singt](https://open.spotify.com/track/5EvDPBe18z0G5xqcIIdGYW) | [Natalie Rohrer](https://open.spotify.com/artist/16yPiZ50vlvW4hAS00ZvgF) | [Kinder dieser Welt](https://open.spotify.com/album/0VYUUIZ0sDH3BzJqUdvFi1) | 2:13 | 2023-08-31 | 2023-10-17 |
 | [Wenn der Sommer kommt](https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 3:06 | 2023-06-28 | 2023-09-01 |

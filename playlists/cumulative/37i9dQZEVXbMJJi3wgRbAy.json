@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 222401,
       "name": "CALL ME MAYBE",
       "url": "https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk"
@@ -5046,6 +5046,28 @@
       "duration_ms": 159849,
       "name": "Fuera del mercado",
       "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "album": {
+        "name": "Fugitivos",
+        "url": "https://open.spotify.com/album/6Zaek2nHg5HPgIz57hkC0F"
+      },
+      "artists": [
+        {
+          "name": "Valen Aguirre",
+          "url": "https://open.spotify.com/artist/5dfWD9UWMwzZnhYUw09hkC"
+        },
+        {
+          "name": "NMX",
+          "url": "https://open.spotify.com/artist/6YgFGXFyD3WK6GW6W91A1a"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193910,
+      "name": "Fugitivos",
+      "url": "https://open.spotify.com/track/71adJar7KwL6wTiOTvnKra"
     },
     {
       "album": {
@@ -8762,7 +8784,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 168484,
       "name": "NO DA M\u00c1S",
       "url": "https://open.spotify.com/track/7jDYmAWdghEWmQyqwLpriE"
@@ -10558,6 +10580,28 @@
       "duration_ms": 181745,
       "name": "Que Dolor",
       "url": "https://open.spotify.com/track/48Pf7zioiN5Npe8EjDgoss"
+    },
+    {
+      "album": {
+        "name": "QUE ME FALTE TODO",
+        "url": "https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165918,
+      "name": "QUE ME FALTE TODO",
+      "url": "https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l"
     },
     {
       "album": {

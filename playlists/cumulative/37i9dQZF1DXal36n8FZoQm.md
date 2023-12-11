@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-174 songs - 10 hr 26 min
+175 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Nothin' But A Good Time](https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say \. \. \. Ahh!](https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8) | 3:43 | 2022-01-07 |  |
 | [Oh Yeah](https://open.spotify.com/track/44IX8SM0fEWApOGlhUGAFc) | [Yello](https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi) | [Essential](https://open.spotify.com/album/2X923YDUN9MTWJ1vS4atnB) | 3:06 | 2022-01-07 |  |
 | [Once Upon a Time in the Valley \(From the Cobra Kai: Season 5 Soundtrack\)](https://open.spotify.com/track/3OUmjWm8M9MO7qwWQ4sBK7) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Once Upon a Time in the Valley \(From the Cobra Kai: Season 5 Soundtrack\)](https://open.spotify.com/album/6NNUyz4QLtYSJYToXpdgeV) | 2:53 | 2022-08-30 |  |
-| [Open Arms](https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:22 | 2022-01-07 |  |
+| [Open Arms](https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:22 | 2022-01-07 | 2023-12-11 |
+| [Open Arms \(2022 Remaster\)](https://open.spotify.com/track/29vqBtjJTBLS1f8dKJS4Ht) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 3:19 | 2022-01-07 |  |
 | [Path to Truth](https://open.spotify.com/track/0R8MuYcefByzYmdyxzuTqx) | [Michael Spreitzer](https://open.spotify.com/artist/0jzAvFtyoSpHWy0XLaVKP6), [John Boecklin](https://open.spotify.com/artist/7dCwFv18oKHu6sV2XQBV8P), [Jeffrey Kendrick](https://open.spotify.com/artist/6WX5ctm79NwhKNyjOZPTiP), [Carl Bensley](https://open.spotify.com/artist/3TWStVknoPHw3tEf2Jm4Fj) | [Terror Metal](https://open.spotify.com/album/0b9AcnezKScs42fsq1Jyqb) | 2:08 | 2022-01-07 |  |
 | [Pelicans](https://open.spotify.com/track/2fuKzSeYauXKyz2fyrlL4H) | [E.G.O.](https://open.spotify.com/artist/7BTbMWAtRG6B6wRuGsztNU), [JF](https://open.spotify.com/artist/2jHzwqnp8ghpB7QpnnWNKu), [Noir](https://open.spotify.com/artist/43Q1i8pwT3uRuxJYr8AYRG) | [Pelicans](https://open.spotify.com/album/6AJuZuzvVu2N2JHKOwnL9z) | 2:56 | 2022-01-07 |  |
 | [Perm](https://open.spotify.com/track/1I6pKIyaBp4OebTGLJpCCC) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:30 | 2022-01-07 |  |

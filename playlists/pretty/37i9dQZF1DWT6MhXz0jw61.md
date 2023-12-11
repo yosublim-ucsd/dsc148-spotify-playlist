@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,081 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,304,191 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [SHiRU'S iNTERLUDE](https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SHiRU'S iNTERLUDE](https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3) | 2:15 |
 | 100 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
 
-Snapshot ID: `MCxhY2QxYTYyNzNjOWFhM2Y0ODBiMDMxMGQyZGQ2MzQxZTJiM2UwN2M0`
+Snapshot ID: `MCw0NTU4NWFhZjU1MzExY2QwOTQ5Y2JmNGY0NTE0YWExMzRjZGZiZTZl`

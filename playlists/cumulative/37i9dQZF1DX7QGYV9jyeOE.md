@@ -4,7 +4,7 @@
 
 > Classic and contemporary pioneers of New Age music\. Cover: Constance Demby
 
-88 songs - 7 hr 59 min
+89 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Tides V](https://open.spotify.com/track/03qT1kvlTKcdsCH4axWiEe) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Tides: Music for Meditation and Yoga](https://open.spotify.com/album/3RV45YANay6vYeX0BKbGnh) | 6:36 | 2021-10-15 |  |
 | [Tides VII](https://open.spotify.com/track/5tmJVC4Eh86aZcjmBOpr94) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Tides: Music for Meditation and Yoga](https://open.spotify.com/album/3RV45YANay6vYeX0BKbGnh) | 3:20 | 2021-10-15 |  |
 | [Touching the Sky](https://open.spotify.com/track/31nV5do766NYndAZPlNT88) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ) | 5:04 | 2021-10-15 | 2022-07-29 |
-| [Touching the Sky](https://open.spotify.com/track/5kzuk0rbtrKYYAbEU34uyL) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 5:04 | 2022-05-06 |  |
+| [Touching the Sky](https://open.spotify.com/track/3b4nIHXW63YoTzK8ObFOWh) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Sounds of The Sea](https://open.spotify.com/album/3DSg8Ljevyy63dE6dcZ9Vz) | 5:04 | 2023-08-24 |  |
+| [Touching the Sky](https://open.spotify.com/track/5kzuk0rbtrKYYAbEU34uyL) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 5:04 | 2022-05-06 | 2023-12-11 |
 | [Walk Softly into the Night](https://open.spotify.com/track/2NSIBktrcGeMsp2AbbDchC) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Blue Cosmos](https://open.spotify.com/album/6XpGe8ue2wcvkDc0RWpsff) | 6:56 | 2021-10-15 |  |
 | [Whisper](https://open.spotify.com/track/4tiMJFpS9DzRHTGXZ5Kpn1) | [Lisa Lynne](https://open.spotify.com/artist/7DCHj51jkx28ABRyrKzmul), [Aryeh Frankfurter](https://open.spotify.com/artist/2SJAELt6ygyUmDglWepUoJ) | [Weaving Worlds](https://open.spotify.com/album/1cTcE6flp51XhTLEeqAee5) | 4:44 | 2021-10-15 |  |
 

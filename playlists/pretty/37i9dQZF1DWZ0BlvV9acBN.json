@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Catarina Von Bora",
-  "num_followers": 133416,
+  "num_followers": 133447,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjZjYzAwNDdhNDI0NTRkZTEzNTk5NzhlNGMzNTIxMWM2MDNiY2E2",
+  "snapshot_id": "MCw5ODMzMjdlNGFkZTJjYTVhN2EwZGJmMDViZmI2OTI3MzkxMDM4NDNl",
   "tracks": [
     {
       "added_at": "2023-11-24 07:21:54",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
+        "name": "Nosso Deus \u00c9 Grande (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2JF2opWknYA7UFAHKrIOdW"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 254762,
+      "name": "Nosso Deus \u00c9 Grande - Ao Vivo",
+      "url": "https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
         "name": "Rei da Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 339580,
       "name": "Rei da Gl\u00f3ria",
       "url": "https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
-        "name": "Nosso Deus \u00c9 Grande (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2JF2opWknYA7UFAHKrIOdW"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 254762,
-      "name": "Nosso Deus \u00c9 Grande - Ao Vivo",
-      "url": "https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE"
     },
     {
       "added_at": "2023-11-24 07:21:54",

@@ -4,7 +4,7 @@
 
 > The softer side of dance.
 
-204 songs - 11 hr 44 min
+205 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Sex](https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [Sex](https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM) | 3:48 | 2021-10-06 | 2022-07-29 |
 | [Sex](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [Sex](https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG) | 3:48 | 2022-01-18 | 2023-07-15 |
 | [Sexual Healing \- Kygo Remix](https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Sexual Healing \(Kygo Remix\)](https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5) | 6:08 | 2022-01-18 |  |
-| [Shelter](https://open.spotify.com/track/2CgOd0Lj5MuvOqzqdaAXtS) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Shelter](https://open.spotify.com/album/1n8ESe5nt7EeuZedZUI3yu) | 3:38 | 2021-02-26 |  |
+| [Shelter](https://open.spotify.com/track/2CgOd0Lj5MuvOqzqdaAXtS) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Shelter](https://open.spotify.com/album/1n8ESe5nt7EeuZedZUI3yu) | 3:38 | 2021-02-26 | 2023-12-11 |
+| [Shelter](https://open.spotify.com/track/2ewEh7LuvToYyGHq7yT8N1) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Shelter](https://open.spotify.com/album/2vVfxcvBQAGnEKM3zM0zxw) | 3:38 | 2023-09-08 |  |
 | [Show Me Love](https://open.spotify.com/track/2UsnjLHBKPaaRjZiWYUCpj) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt) | [Show Me Love](https://open.spotify.com/album/2TLZzh2JoU0hiQKEpFPxrW) | 3:01 | 2022-01-18 |  |
 | [Show Me Love](https://open.spotify.com/track/6ksRossV4vKsXntCCZbhaM) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt) | [Show Me Love](https://open.spotify.com/album/1Ba3HDw1at35UVxMxLCdCa) | 3:01 | 2021-02-26 | 2022-07-29 |
 | [Show Me Love \- EDX Remix / Radio Edit](https://open.spotify.com/track/1NTvk8oOpR1uT50FdZPm2j) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [45 Min Workout](https://open.spotify.com/album/5ewrkcFUx1cGLxIh1jya9e) | 3:00 | 2022-01-18 | 2022-11-13 |

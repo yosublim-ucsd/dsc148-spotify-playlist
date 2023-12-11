@@ -842,12 +842,12 @@
       },
       "artists": [
         {
-          "name": "Discret Popescu",
-          "url": "https://open.spotify.com/artist/4siElKDGrsy2P7gX5i68uN"
-        },
-        {
           "name": "Crihan",
           "url": "https://open.spotify.com/artist/1xn7qDCSTB4NNqj4OYAJIf"
+        },
+        {
+          "name": "Discret Popescu",
+          "url": "https://open.spotify.com/artist/4siElKDGrsy2P7gX5i68uN"
         }
       ],
       "date_added": "2023-10-27",
@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 178983,
       "name": "Lofi Vs. House",
       "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
@@ -4454,7 +4454,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 230748,
       "name": "True Romance (Maja Edit)",
       "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"

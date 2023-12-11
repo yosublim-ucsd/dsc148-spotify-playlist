@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-162 songs - 9 hr 59 min
+163 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Lights](https://open.spotify.com/track/1g6GzYj6ye18Lk5I2wSZri) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [The Modern String Quintet](https://open.spotify.com/artist/6j09ytUn8UDWtb9yNYCVPi) | [Lights](https://open.spotify.com/album/25YM8TBtQFHjMYEa83qnGF) | 2:53 | 2021-11-19 |  |
 | [Lilac](https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8) | [Lilac](https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC) | 4:05 | 2021-11-19 |  |
 | [Lo, the full, final sacrifice, Op\. 26: Amen \- Instrumental](https://open.spotify.com/track/5776PanLfe9zLJMhDbMBgW) | [Gerald Finzi](https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Introit: The Music of Gerald Finzi](https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ) | 2:40 | 2021-11-19 |  |
-| [Loom \- Sunrise Session II](https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU) | [Loom \(Sunrise Session II\)](https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5) | 3:46 | 2022-05-11 |  |
+| [Loom \- Sunrise Session II](https://open.spotify.com/track/3ZgOaxUgKP9gaN2xdRWrEM) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU) | [Sunrise Session II](https://open.spotify.com/album/6qaLyQ7bPB8sjrer4K01bj) | 3:46 | 2023-06-30 |  |
+| [Loom \- Sunrise Session II](https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU) | [Loom \(Sunrise Session II\)](https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5) | 3:46 | 2022-05-11 | 2023-12-11 |
 | [Lucida](https://open.spotify.com/track/1BWFgp352htOukWtjsD7B7) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Shelter](https://open.spotify.com/album/3wB9cEC4wDm8TeNJEvRLbo) | 6:39 | 2023-06-30 |  |
 | [Lucida](https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Lucida](https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL) | 6:39 | 2021-11-19 | 2023-11-23 |
 | [Manhattan Sunrise](https://open.spotify.com/track/7jT28bNawgEskE8tDLEBbd) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Manhattan Sunrise](https://open.spotify.com/album/0N8AvE66Yxl0NLaqx6vcDl) | 3:38 | 2022-05-11 |  |

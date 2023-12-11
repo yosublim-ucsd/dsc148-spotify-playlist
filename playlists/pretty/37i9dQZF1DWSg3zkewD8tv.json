@@ -1,12 +1,12 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 302995,
+  "num_followers": 303049,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGZmZTBkMTcxNjNiNjY2Y2NhOWUzNTc0NTllYjBhNDQ2NTc5ODE4",
+  "snapshot_id": "MCxkYzA0ZDA2Mjg2ZGJjOWJmODg0ZThkZjY1OWI1NzgyYjNlY2Q2MWEz",
   "tracks": [
     {
       "added_at": "2022-07-12 10:53:53",
@@ -811,18 +811,22 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Feeding the Family",
-        "url": "https://open.spotify.com/album/25Urb8gPENVfcJ5Lcw0Ui7"
+        "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
       },
       "artists": [
         {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 284687,
-      "name": "Feeding the Family",
-      "url": "https://open.spotify.com/track/0sYJr89AznFrfAv6knnVtp"
+      "duration_ms": 221894,
+      "name": "Drop The Game",
+      "url": "https://open.spotify.com/track/3wFFW1B6WAmAFGOwdEOOZR"
     }
   ],
   "unique_name": "Aussie BBQ",

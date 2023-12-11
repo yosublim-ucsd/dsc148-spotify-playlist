@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47027,
+  "num_followers": 47045,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTMwOTEyODU4OTA5ZjQ1ZTg2MjEzOTQyNDliNjQxMDg0NGZjZWJm",
+  "snapshot_id": "MCw4NGJlNjkzMDY4YmM0ZGVlZmY5MmNhNjgzYWFlZTE0YjMzZDE0ZmRi",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -475,46 +475,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 183460,
-      "name": "Lights Go Down (with SIDEPIECE)",
-      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
       },
@@ -543,6 +503,42 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 162833,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK"
       },
@@ -563,22 +559,6 @@
       "duration_ms": 148522,
       "name": "Holy",
       "url": "https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 162833,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -691,22 +671,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "The Sea",
-        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Forever, Now",
         "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
       },
@@ -723,6 +687,22 @@
       "duration_ms": 274795,
       "name": "Elenore",
       "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -767,26 +747,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "I Blame You",
-        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 132927,
-      "name": "I Blame You",
-      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Never Give Up On You",
         "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
       },
@@ -803,6 +763,26 @@
       "duration_ms": 216538,
       "name": "Never Give Up On You",
       "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "I Blame You",
+        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "I Blame You",
+      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -871,26 +851,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 229484,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/595M3e9mqepEd19NGVEABi"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
       },
@@ -907,6 +867,26 @@
       "duration_ms": 239021,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 229484,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/595M3e9mqepEd19NGVEABi"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -939,6 +919,30 @@
       "duration_ms": 141371,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        },
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        }
+      ],
+      "duration_ms": 169048,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -991,30 +995,6 @@
       "duration_ms": 106315,
       "name": "Feeling Lost Tonight",
       "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        },
-        {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
-        }
-      ],
-      "duration_ms": 169048,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1155,30 +1135,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Bloom (nowifi Remix)",
-        "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        },
-        {
-          "name": "nowifi",
-          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
-        }
-      ],
-      "duration_ms": 121461,
-      "name": "Bloom (nowifi Remix)",
-      "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -1223,6 +1179,30 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Bloom (nowifi Remix)",
+        "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "nowifi",
+          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
+        }
+      ],
+      "duration_ms": 121461,
+      "name": "Bloom (nowifi Remix)",
+      "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2"
       },
@@ -1259,22 +1239,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Summer Stars",
-        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
-      },
-      "artists": [
-        {
-          "name": "Mauve",
-          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "Summer Stars",
-      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "I Can See",
         "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
       },
@@ -1287,6 +1251,22 @@
       "duration_ms": 130500,
       "name": "I Can See",
       "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Summer Stars",
+        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
+      },
+      "artists": [
+        {
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+        }
+      ],
+      "duration_ms": 150394,
+      "name": "Summer Stars",
+      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1451,6 +1431,38 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/0MsW5Q0FuA617PpHZG0yaM"
       },
@@ -1467,22 +1479,6 @@
       "duration_ms": 154137,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/69R5HIAVF8zNVh4hVBafuO"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1543,26 +1539,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "One Last Call",
-        "url": "https://open.spotify.com/album/6QSHLUdOOiWVjjt3KI30ei"
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
       },
       "artists": [
         {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
         },
         {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Lola Melita",
-          "url": "https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI"
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
         }
       ],
-      "duration_ms": 158600,
-      "name": "One Last Call",
-      "url": "https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1"
+      "duration_ms": 126147,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
     }
   ],
   "unique_name": "Dance Chill",

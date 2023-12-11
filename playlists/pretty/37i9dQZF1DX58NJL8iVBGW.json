@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 589441,
+  "num_followers": 589521,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjVhYmFjMGM2MGZjNDMwNzdkYTI2NmNkNmE0MTdiMTRkYWM0N2Fk",
+  "snapshot_id": "MCxlY2Q2YjA3ODA0YjE0MWU2MzMxMTM4MTM4YTcyNTVhMDgxZTQ4Yzcy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "When the River Took Flight",
+        "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
+      },
+      "artists": [
+        {
+          "name": "Paper Bird",
+          "url": "https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "William Crighton",
         "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 164200,
       "name": "Nothing But The Water (I)",
       "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "When the River Took Flight",
-        "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
-      },
-      "artists": [
-        {
-          "name": "Paper Bird",
-          "url": "https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Heatstroke/The Wind and the War",
+        "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "Boy Got It Bad",
+      "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Hell Among The Yearlings",
         "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 217240,
       "name": "Fire in the Empire",
       "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Heatstroke/The Wind and the War",
-        "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Boy Got It Bad",
-      "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Quiet Flame",
-        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 242153,
-      "name": "Pull the Moon",
-      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Little Wing",
         "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 175960,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Quiet Flame",
+        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 242153,
+      "name": "Pull the Moon",
+      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+        "name": "I Am The Man Thomas",
+        "url": "https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "The Devil Makes Three",
+          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
         }
       ],
-      "duration_ms": 177359,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+      "duration_ms": 159101,
+      "name": "I Am The Man Thomas",
+      "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
     }
   ],
   "unique_name": "Southern Gothic",

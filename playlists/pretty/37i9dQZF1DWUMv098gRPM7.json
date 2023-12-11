@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Daniel Caesar",
-  "num_followers": 8641,
+  "num_followers": 8647,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzkwNTRhZWRhNzk3MTY1ZTZmZDlmMDA0OTBiZGMxMWRiYWFmMDYz",
+  "snapshot_id": "MCxmMzkzOGFhYjM0YmJkZjc4Y2M2MzdmYTAxYmI1YWJjMGI2ZjlmNGQ5",
   "tracks": [
     {
       "added_at": "2023-12-08 05:01:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Kiddo",
-        "url": "https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "FIGURES",
-      "url": "https://open.spotify.com/track/3U3J5v3rkx89WnFEQvAJD5"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
         "name": "NOTHIN LIKE U / CHANCES",
         "url": "https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 218200,
       "name": "CHANCES",
       "url": "https://open.spotify.com/track/439X8jGytErRiPnaoUJHju"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "Kiddo",
+        "url": "https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "FIGURES",
+      "url": "https://open.spotify.com/track/3U3J5v3rkx89WnFEQvAJD5"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "FOREVER (with 6LACK)",
-      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
         "name": "WFM",
         "url": "https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp"
       },
@@ -579,26 +559,6 @@
       "duration_ms": 136000,
       "name": "WFM",
       "url": "https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "We Caa Done (feat. Drake)",
-        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "We Caa Done (feat. Drake)",
-      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -623,6 +583,26 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
+        "name": "We Caa Done (feat. Drake)",
+        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "We Caa Done (feat. Drake)",
+      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
         "name": "Don't Throw Rocks At The Moon",
         "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 104827,
       "name": "LIMB",
       "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "FOREVER (with 6LACK)",
+      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -683,6 +683,22 @@
       "duration_ms": 195004,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "Don't Throw Rocks At The Moon",
+        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 130369,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/7DvlNrYFvmZieL8GdhJuoy"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -739,22 +755,6 @@
       "duration_ms": 225213,
       "name": "IMPORTED (with 6LACK)",
       "url": "https://open.spotify.com/track/2shEeQzAAL3nnOXfB5pJXx"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "Don't Throw Rocks At The Moon",
-        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 130369,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/7DvlNrYFvmZieL8GdhJuoy"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 154702,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
         "name": "BEFORE LOVE CAME TO KILL US (Deluxe)",
         "url": "https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 215213,
       "name": "FAR AWAY II (feat. A Boogie Wit da Hoodie & JID)",
       "url": "https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "Give Me Time",
-        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 154702,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
+        "name": "NASTY",
+        "url": "https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 170366,
+      "name": "NASTY",
+      "url": "https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "NASTY",
-        "url": "https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 170366,
-      "name": "NASTY",
-      "url": "https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3"
-      },
-      "artists": [
-        {
-          "name": "Alicia Creti",
-          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
         "name": "soft thing",
         "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 143647,
       "name": "be cool",
       "url": "https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3"
+      },
+      "artists": [
+        {
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3"
     },
     {
       "added_at": "2023-12-08 05:01:00",

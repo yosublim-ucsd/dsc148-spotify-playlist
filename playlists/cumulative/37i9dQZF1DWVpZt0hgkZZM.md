@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-138 songs - 9 hr 12 min
+139 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 | 2021-12-16 |  |
 | [Cariñito](https://open.spotify.com/track/705gb4qpSn1fYD0Qlz46z6) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 3:46 | 2021-12-16 | 2023-07-19 |
 | [Cariñito](https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [De Peligro](https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k) | 3:50 | 2021-12-16 | 2023-11-16 |
+| [Cariñito \(Live\)](https://open.spotify.com/track/3vPtbRkj6qGEm244ULVQ4R) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:46 | 2021-12-16 |  |
 | [Carola](https://open.spotify.com/track/3rEmNFo8XX1xlXrdlSwJBw) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 2:53 | 2021-12-16 | 2023-07-19 |
 | [Carola](https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF) | [Rossy](https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 2:54 | 2021-12-16 | 2023-11-14 |
 | [Carola \(Live\)](https://open.spotify.com/track/4DaC0h77cp8NWHtTW8ECEo) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 2:53 | 2021-12-16 |  |
@@ -137,7 +138,7 @@
 | [Te Voy a Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 | 2021-12-16 |  |
 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 | 2021-12-16 |  |
 | [Tonto Amor](https://open.spotify.com/track/4oO3pFGNyMAohdyq3uq6zZ) | [Hernan Hernandez](https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH) | [18 Éxitos](https://open.spotify.com/album/2HOXyGlmyh3aX14N1mbO5s) | 3:26 | 2021-12-16 | 2023-09-18 |
-| [Tonto Amor](https://open.spotify.com/track/0ftARxjabx2Bs2wvLLkltc) | [Hernan Hernandez](https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH) | [18 Exitos](https://open.spotify.com/album/6BGEdqEaJ5PuNz64Vs2coI) | 3:26 | 2021-12-16 |  |
+| [Tonto Amor](https://open.spotify.com/track/0ftARxjabx2Bs2wvLLkltc) | [Hernan Hernandez](https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH) | [18 Exitos](https://open.spotify.com/album/6BGEdqEaJ5PuNz64Vs2coI) | 3:26 | 2021-12-16 | 2023-12-11 |
 | [Traicionera](https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 3:34 | 2021-12-16 |  |
 | [Tu Cariñito](https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Men in Salsa](https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4) | 4:11 | 2021-12-16 |  |
 | [Tu Eres Ajena](https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:53 | 2021-12-16 |  |

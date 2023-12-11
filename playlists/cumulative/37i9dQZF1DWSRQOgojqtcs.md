@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-143 songs - 8 hr 50 min
+144 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 | 2022-09-15 |  |
 | [Double Dip](https://open.spotify.com/track/2qLM9dbsAbjCE9N3fPagG2) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Double Dip](https://open.spotify.com/album/5FID5KjP1a0xptUHQZkIVL) | 3:18 | 2022-09-14 |  |
 | [Downtown](https://open.spotify.com/track/4o9umFsPZmwRT5lve7QAps) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB) | 4:09 | 2022-09-14 |  |
-| [Dribble](https://open.spotify.com/track/1mQmVfIUWi6Yx50l59TpKU) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Dribble](https://open.spotify.com/album/3irvKBxgn7l3j49OqRLwx1) | 4:00 | 2022-09-14 |  |
+| [Dribble](https://open.spotify.com/track/1jgM9KS9l3Z11aCTAunw9B) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Dribble](https://open.spotify.com/album/5557t4f7xXgPqVevkuC0rQ) | 4:00 | 2022-09-15 |  |
+| [Dribble](https://open.spotify.com/track/1mQmVfIUWi6Yx50l59TpKU) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Dribble](https://open.spotify.com/album/3irvKBxgn7l3j49OqRLwx1) | 4:00 | 2022-09-14 | 2023-12-11 |
 | [ECC](https://open.spotify.com/track/7CLQc8p4EMUFUH7HqCMbcs) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Water](https://open.spotify.com/album/6u23yJ4d4RawFlNGLsomot) | 6:59 | 2022-09-14 |  |
 | [Ego](https://open.spotify.com/track/698bVkLUnvCIVrpPv2pHgC) | [Strawbz](https://open.spotify.com/artist/7w2jkQBOxdnwUOLxom93l3) | [Ego](https://open.spotify.com/album/4o7EqM5k7ybSZqkWWkHuuv) | 3:06 | 2022-09-16 |  |
 | [Eshay](https://open.spotify.com/track/3mDL5BWuaVwXFAhZMWp88E) | [Gucci Dassy](https://open.spotify.com/artist/4xhGRFsiALp1uDKt0FMaGf) | [Eshay](https://open.spotify.com/album/0QfGGytvuz1ORWR5kZRiZJ) | 3:09 | 2022-09-14 |  |
@@ -99,7 +100,7 @@
 | [M31 \(Racing down the Hume\)](https://open.spotify.com/track/4UR73u6KPuWoqIKv4JwwiJ) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [M31 \(Racing down the Hume\)](https://open.spotify.com/album/0OU300xi5Q4hmuU6nv2Kp8) | 2:14 | 2022-09-14 |  |
 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 | 2022-09-14 |  |
 | [Monologue](https://open.spotify.com/track/2gV5NMri6fyQfOf2M1ovJM) | [Putrika](https://open.spotify.com/artist/5awAtBuVQEV68Nvs1loiby) | [Silmara](https://open.spotify.com/album/1px4Nxt7hD6KtVBlNLDXzb) | 4:30 | 2022-09-14 |  |
-| [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2022-09-14 |  |
+| [Must Be Love](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2022-09-14 |  |
 | [Natural Beauty](https://open.spotify.com/track/0WEnEhULdWHeKDr4gsropA) | [LJ Waiters](https://open.spotify.com/artist/67wGdNGk0xWzIN4J86W9Iz) | [Lost in Sound \- Rare Soul & Funk Essentials](https://open.spotify.com/album/6BbMWc3YyOT6BXQP1I36OV) | 3:03 | 2022-09-14 |  |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-09-14 |  |
 | [On The Move](https://open.spotify.com/track/0bHyslF1DSnm9eyYQOQUtE) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [On the Move](https://open.spotify.com/album/1VLMheujIj4G6USXsYgEqp) | 3:14 | 2022-09-14 |  |

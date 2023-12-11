@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Diljit & Sia
 
-227 songs - 12 hr 2 min
+228 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,8 +101,9 @@
 | [INTO THE UNKNOWN](https://open.spotify.com/track/3Y6CWrNdkuaJ5iW2Y829fU) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 3:58 | 2022-07-22 | 2023-01-11 |
 | [INTO THE UNKNOWN](https://open.spotify.com/track/6RgMjFGFDYSfMSKxbyQseJ) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/3sRYWksIy88qpwLHJTItae) | 3:58 | 2022-07-22 | 2022-09-12 |
 | [INTO THE UNKNOWN](https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng) | 3:58 | 2022-05-18 | 2022-07-29 |
+| [Jadi Buti](https://open.spotify.com/track/1kGL1Mt8kNNhZDZwCocBBF) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/3xvUlOBBbOf1Y1O0OT1Qcu) | 2:43 | 2023-11-17 |  |
 | [Jadi Buti](https://open.spotify.com/track/5MZ3ZUvMFbS0zKis6DwmAM) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Music Is The Weapon](https://open.spotify.com/album/0B0YAftqQVpzUD7K12wDVg) | 2:43 | 2021-11-26 | 2022-02-02 |
-| [Jadi Buti \(feat\. Rashmeet Kaur\)](https://open.spotify.com/track/58PeAWeOz9yVemSLoeYyKZ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:43 | 2023-02-17 |  |
+| [Jadi Buti \(feat\. Rashmeet Kaur\)](https://open.spotify.com/track/58PeAWeOz9yVemSLoeYyKZ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:43 | 2023-02-17 | 2023-12-11 |
 | [Jalebi Baby \(Tesher x Jason Derulo\) \[DallasK Remix\]](https://open.spotify.com/track/4zKTu2n2ExlcLkx9KHUpeb) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Jalebi Baby \(Tesher x Jason Derulo\) \[DallasK Remix\]](https://open.spotify.com/album/7Gz8KFyOaJ67RTRicF5n7F) | 2:41 | 2022-02-01 | 2022-05-19 |
 | [Jhanak Jhanak](https://open.spotify.com/track/3IvL7aRZDOsL4kcZ7qq9GV) | [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe), [Gatha](https://open.spotify.com/artist/010FK25JoVsN1fr5iudnjv) | [Resurface](https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5) | 4:23 | 2022-09-16 | 2023-01-11 |
 | [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jugnu](https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP) | 3:50 | 2023-02-17 |  |

@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-439 songs - 1 day 7 hr 2 min
+440 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV) | 3:58 | 2018-12-12 |  |
 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/7LwlTiFehCUVQQJKEUzF5Z) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/3VWF2zk0hXCcUmtprzF4zs) | 3:58 | 2018-12-12 | 2022-07-29 |
 | [Quiet Life](https://open.spotify.com/track/3vyzp6lqJbpZlDfwXan61J) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Quiet Life](https://open.spotify.com/album/0QOBJYviordwqHAgv5g9m3) | 4:48 | 2018-12-12 | 2022-07-27 |
-| [Quiet Life](https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Quiet Life](https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT) | 4:49 | 2018-12-12 |  |
+| [Quiet Life](https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Quiet Life](https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT) | 4:49 | 2018-12-12 | 2023-12-11 |
 | [Radio Free Europe](https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur](https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q) | 4:05 | 2018-12-12 |  |
 | [Radio Free Europe](https://open.spotify.com/track/7A6Z9bZgSq8WRuoDIVNM6P) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur \- Deluxe Edition](https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm) | 4:05 | 2018-12-12 | 2022-07-29 |
 | [Rain](https://open.spotify.com/track/3Od5XBElZqm5N6rr86LS5r) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 3:56 | 2018-12-12 |  |
@@ -351,6 +351,7 @@
 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/0kA5scXMiaO5Ms2GQ4pRWa) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2011 Remaster\)](https://open.spotify.com/album/6t4LdKTNWIOr2PZIB8tiZF) | 3:55 | 2018-12-12 | 2022-07-29 |
 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:55 | 2018-12-12 |  |
 | [Surrender](https://open.spotify.com/track/4QRO73C82pI3OCHo0njVlS) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [A Way of Life](https://open.spotify.com/album/26PJUy6j7JJYwNMQ2M5XQh) | 3:48 | 2018-12-12 | 2022-04-21 |
+| [Surrender \('88 Version\) \(2023 Remaster\)](https://open.spotify.com/track/784ypNcE0CXkfUxUiu0U9n) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [A Way of Life \(35th Anniversary Edition; 2023 Remaster\)](https://open.spotify.com/album/7B7zUoZNVdYgqzrGpxTJ0t) | 3:47 | 2023-05-03 |  |
 | [Surrender \- 2022 \- Remaster](https://open.spotify.com/track/21DRFiBq9G12EAq9RoW6iw) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Surrender](https://open.spotify.com/album/7l5I3C9sBNZfNG0BiECU2X) | 3:46 | 2018-12-12 | 2023-03-29 |
 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 | 2018-12-12 |  |
 | [Tainted Love / Where Did Our Love Go \- Extended Version / Medley](https://open.spotify.com/track/5fkfdFPtgeYGvpGYblD7l1) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non Stop Erotic Cabaret \(Deluxe Edition\)](https://open.spotify.com/album/1xza4j8vMQdGqqQdHa30lI) | 9:02 | 2019-08-01 | 2022-11-13 |

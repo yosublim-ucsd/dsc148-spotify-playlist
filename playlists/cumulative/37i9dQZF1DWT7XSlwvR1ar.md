@@ -4,7 +4,7 @@
 
 > Stay relaxed with these easy, laid\-back songs.
 
-406 songs - 1 day 0 hr 44 min
+407 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Jealous Of Birds](https://open.spotify.com/track/6nuoNN62XI74sF1MehARgZ) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Jealous Of Birds](https://open.spotify.com/album/1wvJvb2k412nebCXAsNuMW) | 3:12 | 2019-09-08 | 2020-02-19 |
 | [Joyride](https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Joyride](https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb) | 3:32 | 2019-08-20 |  |
 | [Just A Little While](https://open.spotify.com/track/3CL0eXel8usNNSCQ6OT7KJ) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/1sewF9zfVLURBL1CEKJmMC) | 2:42 | 2021-12-15 | 2022-04-20 |
-| [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-11-25 |  |
+| [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-11-25 | 2023-12-11 |
 | [Keep 'Em on They Toes](https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Keep 'Em on They Toes](https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD) | 2:43 | 2022-07-18 |  |
 | [Keep 'Em on They Toes](https://open.spotify.com/track/3Fi4FVtrEUzivnQdogAskP) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Keep 'Em on They Toes](https://open.spotify.com/album/3xwGU8mft75hEEOKYOMfAM) | 2:43 | 2020-10-07 | 2022-07-25 |
 | [Keep On Dreamin'](https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Keep On Dreamin'](https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5) | 4:26 | 2022-10-14 | 2022-12-09 |
@@ -202,6 +202,7 @@
 | [Leaving It Up to You](https://open.spotify.com/track/2PAQygVRwdmwzY955cn2FS) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:36 | 2022-07-18 |  |
 | [Lebanon](https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 3:26 | 2019-10-26 | 2022-07-29 |
 | [Lilacs](https://open.spotify.com/track/5MDUdi9T4Ee4Kv33SbewC3) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho) | 3:15 | 2020-06-12 | 2022-04-21 |
+| [Lilacs](https://open.spotify.com/track/69Akwuscu16hdYN637eTis) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:15 | 2023-11-10 |  |
 | [Living in Lightning](https://open.spotify.com/track/49rYFKjXZ9n0GS9l9oxAD1) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Living in Lightning](https://open.spotify.com/album/1sUbo7S9HuiImv6HaFcbhP) | 3:19 | 2019-10-27 | 2020-02-19 |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2021-02-15 |  |
 | [Long Limbs](https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Long Limbs](https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt) | 3:16 | 2023-06-09 | 2023-11-27 |

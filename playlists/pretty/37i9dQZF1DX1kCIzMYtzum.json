@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 203993,
+  "num_followers": 204173,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGI4NGNlYWRkNGUyMzNjNDllZDMyMWMyYjYzMDI5N2EzNGE0Y2Rk",
+  "snapshot_id": "MCxjMThiZWE0MGVkOWQ0MTA1ZDAzYzU4MmViNjllMjJjN2ExMmI5NjI5",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1337,28 +1337,24 @@
       "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Starlight (Keep Me Afloat)",
-        "url": "https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY"
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         },
         {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+          "name": "Jordan Rys",
+          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
         }
       ],
-      "duration_ms": 202670,
-      "name": "Starlight (Keep Me Afloat)",
-      "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
+      "duration_ms": 143117,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1391,6 +1387,30 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Starlight (Keep Me Afloat)",
+        "url": "https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+        }
+      ],
+      "duration_ms": 202670,
+      "name": "Starlight (Keep Me Afloat)",
+      "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 240000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Jordan Rys",
-          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
-        }
-      ],
-      "duration_ms": 143117,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1533,28 +1533,28 @@
       "url": "https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Locked Up (ft. Akon)",
-        "url": "https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu"
+        "name": "house in the streetlight",
+        "url": "https://open.spotify.com/album/0zaBQVn70gLIwHrKto8ViF"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
         },
         {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
         },
         {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
         }
       ],
-      "duration_ms": 147170,
-      "name": "Locked Up (ft. Akon)",
-      "url": "https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53"
+      "duration_ms": 175113,
+      "name": "house in the streetlight",
+      "url": "https://open.spotify.com/track/2oKH22tSUiqdjDSUhnWz0t"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1581,28 +1581,28 @@
       "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "house in the streetlight",
-        "url": "https://open.spotify.com/album/0zaBQVn70gLIwHrKto8ViF"
+        "name": "Locked Up (ft. Akon)",
+        "url": "https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu"
       },
       "artists": [
         {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "LSR/CITY",
-          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
         },
         {
-          "name": "Annabel",
-          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 175113,
-      "name": "house in the streetlight",
-      "url": "https://open.spotify.com/track/2oKH22tSUiqdjDSUhnWz0t"
+      "duration_ms": 147170,
+      "name": "Locked Up (ft. Akon)",
+      "url": "https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1675,30 +1675,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Over Now",
-        "url": "https://open.spotify.com/album/7udk1qiys7QiEPKN9lY8a4"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Opposite the Other",
-          "url": "https://open.spotify.com/artist/3YPzVOVeAXdzhmnffu1WjZ"
-        }
-      ],
-      "duration_ms": 175635,
-      "name": "Over Now",
-      "url": "https://open.spotify.com/track/606Z051kpzw0rrcBCYCTtR"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
@@ -1723,22 +1699,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Paranoia",
-        "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
+        "name": "Over Now",
+        "url": "https://open.spotify.com/album/7udk1qiys7QiEPKN9lY8a4"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Opposite the Other",
+          "url": "https://open.spotify.com/artist/3YPzVOVeAXdzhmnffu1WjZ"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
+      "duration_ms": 175635,
+      "name": "Over Now",
+      "url": "https://open.spotify.com/track/606Z051kpzw0rrcBCYCTtR"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1819,6 +1799,26 @@
       "duration_ms": 251428,
       "name": "Ray Of Solar - Mau P Remix",
       "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1909,6 +1909,26 @@
       "url": "https://open.spotify.com/track/3wgHsBRNmHDI94vJf5ivpC"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Luv Me A Little",
+        "url": "https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 224615,
+      "name": "Luv Me a Little",
+      "url": "https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT"
+    },
+    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "HiROQUEST 2: Double Helix",
@@ -1931,26 +1951,6 @@
       "duration_ms": 138750,
       "name": "Prizm ft. Sweet Minxxx",
       "url": "https://open.spotify.com/track/1IBQxyulewUUEeRkRiWPAD"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Luv Me A Little",
-        "url": "https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 224615,
-      "name": "Luv Me a Little",
-      "url": "https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT"
     },
     {
       "added_at": "2023-11-03 04:00:00",

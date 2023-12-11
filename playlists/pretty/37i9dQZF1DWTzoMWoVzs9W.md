@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzoMWoVzs9W.md) - [plain]
 
 > Listen to all of her hits right here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,086,451 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,086,541 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzoMWoVzs9W.md) - [plain]
 | 63 | [Mel](https://open.spotify.com/track/2RaEn6L5ZKUuc0JG08fpme) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Mel](https://open.spotify.com/album/08Ey1cwsbiqoi3wmgnl6TV) | 2:09 |
 | 64 | [Banana](https://open.spotify.com/track/7eeLYvJsK5QiDeX1loY9rW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/5yV6JVfsLGdi3QMclVkvMW) | 3:15 |
 | 65 | [R.I.P\. \(feat\. Rita Ora & Anitta\)](https://open.spotify.com/track/6JqpFboOH2bq9pzaYbkKBn) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [R.I.P\. \(feat\. Rita Ora & Anitta\)](https://open.spotify.com/album/2yN1kxrx1Z1CHO5VMdO2Yk) | 3:07 |
-| 66 | [Make It Hot](https://open.spotify.com/track/3MXUsff3RxRds9KCVttibq) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Make It Hot](https://open.spotify.com/album/7l9LzzyPayF2hvDuznaofC) | 2:48 |
+| 66 | [Make It Hot](https://open.spotify.com/track/3MH4Qwn0qcUvzzqKSLdcnd) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Make It Hot](https://open.spotify.com/album/4zGtPLu4eVxoGT8XBg7TOz) | 2:48 |
 | 67 | [Love You](https://open.spotify.com/track/05bzJIGgdNTEOvt6bBJAej) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:02 |
 | 68 | [Love Me, Love Me](https://open.spotify.com/track/5AJfaxekTYEnZTijlvOuxk) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:11 |
 | 69 | [Turn It Up](https://open.spotify.com/track/3912zNANDuLatGYzGSobcE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:39 |
 | 70 | [Un altro ballo \(feat\. Anitta\)](https://open.spotify.com/track/7cJ9H8e0xzC0EBdsUVIBRx) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Un altro ballo \(feat\. Anitta\)](https://open.spotify.com/album/4ntB7pGMbRx3mNMDbbT2Je) | 2:47 |
 
-Snapshot ID: `MCw1NjRhMmQ1YWE3MmI1ZTg2YTZmZDEyNDM5NDA0NmMzNTdlYTUxZmEy`
+Snapshot ID: `MCw3YWEyMmQ1NzY5ZDM4MmMzZTg1ZWM3NWQ5ZDdmNDFiNGY0MDZkNzk3`

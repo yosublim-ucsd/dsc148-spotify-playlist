@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 267200,
+  "num_followers": 267224,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzgwYjIxNzViNjcxYzUyZjU4YjJlMjAzZDk1Y2E0ODM5Nzk1ODYx",
+  "snapshot_id": "MCw3MzQ2ODk5MTQ4NDY1NDRmM2M4Njg2ZDAzYzNkYjE3ZTMxMGRkNjc2",
   "tracks": [
     {
       "added_at": "2023-12-07 22:02:58",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-12-07 22:02:58",
       "album": {
+        "name": "Abel",
+        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
+    },
+    {
+      "added_at": "2023-12-07 22:02:58",
+      "album": {
         "name": "Baloncito Viejo",
         "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 170862,
       "name": "Baloncito Viejo",
       "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
-    },
-    {
-      "added_at": "2023-12-07 22:02:58",
-      "album": {
-        "name": "Abel",
-        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
     },
     {
       "added_at": "2023-12-07 22:02:58",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-12-07 22:02:58",
       "album": {
-        "name": "Llamada Perdida",
-        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Llamada Perdida",
-      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
-    },
-    {
-      "added_at": "2023-12-07 22:02:58",
-      "album": {
         "name": "Viaje a ning\u00fan lado (con Carin Leon)",
         "url": "https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 229567,
       "name": "Viaje a ning\u00fan lado (con Carin Leon)",
       "url": "https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH"
+    },
+    {
+      "added_at": "2023-12-07 22:02:58",
+      "album": {
+        "name": "Llamada Perdida",
+        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Llamada Perdida",
+      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
     },
     {
       "added_at": "2023-12-07 22:02:58",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-12-07 22:02:58",
       "album": {
+        "name": "Agua Salada",
+        "url": "https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 213434,
+      "name": "Agua Salada",
+      "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
+    },
+    {
+      "added_at": "2023-12-07 22:02:58",
+      "album": {
         "name": "LORO",
         "url": "https://open.spotify.com/album/1HXRxYf1zHa5WZu70DXYCo"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 156774,
       "name": "LORO",
       "url": "https://open.spotify.com/track/55UW6NYVtbjUgX4vwEV3GQ"
-    },
-    {
-      "added_at": "2023-12-07 22:02:58",
-      "album": {
-        "name": "Agua Salada",
-        "url": "https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 213434,
-      "name": "Agua Salada",
-      "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
     },
     {
       "added_at": "2023-12-07 22:02:58",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2023-12-07 22:02:58",
       "album": {
-        "name": "Dame Una Oportunidad",
-        "url": "https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO"
+        "name": "T\u00fa Me Delatas",
+        "url": "https://open.spotify.com/album/0xsTTmJKU8ii6x4pkTXtjT"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 198622,
-      "name": "Dame Una Oportunidad",
-      "url": "https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc"
+      "duration_ms": 197426,
+      "name": "T\u00fa Me Delatas",
+      "url": "https://open.spotify.com/track/5SAED5EpG2omE0XIBLwKLi"
     }
   ],
   "unique_name": "Radio Pop",

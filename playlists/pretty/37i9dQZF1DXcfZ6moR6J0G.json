@@ -1,6 +1,6 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1838268,
+  "num_followers": 1838819,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
+        "name": "S.C.I.E.N.C.E.",
+        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Vitamin",
+      "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
         "name": "Through The Eyes",
         "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 248906,
       "name": "Black",
       "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "S.C.I.E.N.C.E.",
-        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Vitamin",
-      "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
+        "name": "S.C.I.E.N.C.E.",
+        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "A Certain Shade of Green",
+      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
         "name": "L.D. 50",
         "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 291933,
       "name": "Death Blooms",
       "url": "https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "Animosity",
-        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 218933,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "S.C.I.E.N.C.E.",
-        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
+        "name": "Animosity",
+        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
       },
       "artists": [
         {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
         }
       ],
-      "duration_ms": 191360,
-      "name": "A Certain Shade of Green",
-      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
+      "duration_ms": 218933,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
     }
   ],
   "unique_name": "Nu Metal Era",

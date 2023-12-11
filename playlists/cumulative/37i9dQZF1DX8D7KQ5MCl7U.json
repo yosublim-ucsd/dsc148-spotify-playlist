@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 611368,
       "name": "Dastaan-e-Moomal Rano",
       "url": "https://open.spotify.com/track/253ISN2sxDJwIfSl1aQIQz"
@@ -6868,6 +6868,28 @@
       "duration_ms": 392763,
       "name": "Sammi Meri Waar",
       "url": "https://open.spotify.com/track/2d31GzVrdWILC8ilW2ftxS"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 8",
+        "url": "https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B"
+      },
+      "artists": [
+        {
+          "name": "Quratulain Balouch",
+          "url": "https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q"
+        },
+        {
+          "name": "Umair Jaswal",
+          "url": "https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392763,
+      "name": "Sammi Meri Waar",
+      "url": "https://open.spotify.com/track/4SOlMjbKYAvLKaanovsWnA"
     },
     {
       "album": {

@@ -3665,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/4k72z9GeyqEkRD7jtE6lTI"
+      },
+      "artists": [
+        {
+          "name": "Sakura",
+          "url": "https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108428,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/57pur3MoSCX7raelUCpiAK"
+    },
+    {
+      "album": {
         "name": "Crestone",
         "url": "https://open.spotify.com/album/0AL4T93NfHuZMS8899nZtx"
       },
@@ -5358,6 +5376,24 @@
       "duration_ms": 130312,
       "name": "Empty streets",
       "url": "https://open.spotify.com/track/30myxL9EReHmytXIOdpbUq"
+    },
+    {
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/1Y5GeinuQQrEwocF29Svy0"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Encounter",
+      "url": "https://open.spotify.com/track/10Q6Zi067V35REvI9w40hm"
     },
     {
       "album": {
@@ -8256,7 +8292,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 159705,
       "name": "Hush Hush",
       "url": "https://open.spotify.com/track/3F90E5OZDFFZymIM39Lt4G"
@@ -10016,7 +10052,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 123634,
       "name": "Life",
       "url": "https://open.spotify.com/track/7lzdvV0WJPgEK3BFBVv9QV"

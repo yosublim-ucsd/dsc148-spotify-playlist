@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 216426,
       "name": "1second 1minute 1hour (Something Between Us X 2am)",
       "url": "https://open.spotify.com/track/3zOfZsJpefV3GP8YVvEpxf"
@@ -56,6 +56,24 @@
       "duration_ms": 212786,
       "name": "99 (Guide to Proper Romance X Standing Egg)",
       "url": "https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Farewell - I am Re:Born #1",
+        "url": "https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250211,
+      "name": "A Beautiful Farewell",
+      "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
     },
     {
       "album": {
@@ -222,7 +240,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
@@ -280,6 +298,24 @@
       "duration_ms": 195200,
       "name": "breath",
       "url": "https://open.spotify.com/track/2Jj5O7jDSKkgsSTTuGuQc4"
+    },
+    {
+      "album": {
+        "name": "By My Side (Webtoon 'The Beloved Little Princess' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4KjhisTl80v6Uu9w1Y01mu"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209051,
+      "name": "By My Side (Webtoon 'The Beloved Little Princess' Original Soundtrack)",
+      "url": "https://open.spotify.com/track/4Xsa6atNGdwG3U85u2FZcV"
     },
     {
       "album": {
@@ -352,7 +388,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 188003,
       "name": "Crush on you (No brakes for your curves)",
       "url": "https://open.spotify.com/track/5eHVjWcQKMsTRwT6OtJd0q"
@@ -514,7 +550,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 222685,
       "name": "Drip Drip Drip",
       "url": "https://open.spotify.com/track/1rfYUwAohM9nZJbscZFCWl"
@@ -586,7 +622,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 202920,
       "name": "Feel Empty (WEBTOON 'Discovery of Love' X OuiOui)",
       "url": "https://open.spotify.com/track/0tEJych2LdCffCFYVn5vU0"
@@ -716,7 +752,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 209653,
       "name": "Half of Half",
       "url": "https://open.spotify.com/track/4yAaTghM4WlFmkcMn8OltI"
@@ -806,7 +842,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 226321,
       "name": "I feel you (My life is in your hands X Yeo Eun)",
       "url": "https://open.spotify.com/track/1DJY4YIgrOqvV6dgDG7pZK"
@@ -824,7 +860,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 256314,
       "name": "I Like You, But Got Tired of Liking You",
       "url": "https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ"
@@ -842,7 +878,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 237957,
       "name": "I still miss you",
       "url": "https://open.spotify.com/track/707JA03fZSI9FJGSzenyMf"
@@ -878,7 +914,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 223693,
       "name": "I will give you all",
       "url": "https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y"
@@ -968,7 +1004,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 237173,
       "name": "In this world",
       "url": "https://open.spotify.com/track/2vXa3jnw1puqq9mRw4Nuit"
@@ -986,7 +1022,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 204013,
       "name": "IS THIS LOVE",
       "url": "https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht"
@@ -1044,7 +1080,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 203760,
       "name": "JAMSOO",
       "url": "https://open.spotify.com/track/66iI9spr5VTGqkdmdjKz3G"
@@ -1106,7 +1142,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 245880,
       "name": "Last trip (The stairway of Time X Kim Namjoo (Apink))",
       "url": "https://open.spotify.com/track/1knhMBYdhLHleCJwPbJtvi"
@@ -1160,7 +1196,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 222207,
       "name": "LETTER (True Beauty X VIINI)",
       "url": "https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7"
@@ -1232,7 +1268,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 276693,
       "name": "Love is always thisty (Nth Romance X Lee Hae Ri)",
       "url": "https://open.spotify.com/track/3AxlCZSy0Yk9vQfAW6l4rI"
@@ -1272,6 +1308,24 @@
       "duration_ms": 227866,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
+    },
+    {
+      "album": {
+        "name": "Meeting (The Moon during the Day) [2023 Remake]",
+        "url": "https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "Meeting (The Moon during the Day) [2023 Remake]",
+      "url": "https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq"
     },
     {
       "album": {
@@ -1398,7 +1452,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 222653,
       "name": "My Love is Pain",
       "url": "https://open.spotify.com/track/4de2K1NmgYTYiuCp1EioYs"
@@ -1416,7 +1470,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 187480,
       "name": "My Reflection (Original Soundtrack from the Webtoon Fight For My Way)",
       "url": "https://open.spotify.com/track/2z7QJnit7gxHVx2ASw5EzX"
@@ -1506,7 +1560,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 203253,
       "name": "Only you (Romance 101 X Yang Yo Seop)",
       "url": "https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi"
@@ -1578,7 +1632,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 165590,
       "name": "Pont Alexandre iii (Nth Romance X KIMMUSEUM)",
       "url": "https://open.spotify.com/track/1JfGO5Y59Ly5KK5cjncV1r"
@@ -1650,7 +1704,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 207727,
       "name": "Sad Ending [From \"Anonymous, I Know You!\" (Original Soundtrack) Pt. 5]",
       "url": "https://open.spotify.com/track/5qYNQiXaRyUV2JBux6kIXv"
@@ -1668,7 +1722,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 221000,
       "name": "Same as Your Ex",
       "url": "https://open.spotify.com/track/4ofRVjFZ7PWdFxwp2RmyiZ"
@@ -1722,7 +1776,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 227986,
       "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
       "url": "https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR"
@@ -1740,7 +1794,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 225908,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF"
@@ -1758,7 +1812,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 248076,
       "name": "something between us (Romance 101 X george)",
       "url": "https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH"
@@ -1816,7 +1870,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 298640,
       "name": "Star (Back to you X An Da Eun)",
       "url": "https://open.spotify.com/track/2Y1R1w2TOzYQTqntArpHXn"
@@ -1870,7 +1924,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 153132,
       "name": "Survival Log X YOUNGDOONG - Keep going(Original Webtoon Soundtrack)",
       "url": "https://open.spotify.com/track/2K5aam6OaUxiSIkPARLFkZ"
@@ -1924,7 +1978,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 231640,
       "name": "TEARS (WEBTOON 'Discovery of Love' X HWANG CHI YEUL)",
       "url": "https://open.spotify.com/track/0pRpX95wMdfhszOe7QkVYx"
@@ -1946,7 +2000,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 192493,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
@@ -1982,7 +2036,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 215266,
       "name": "The day, you left",
       "url": "https://open.spotify.com/track/6XwYhpviRrXo0gcxE9whmC"
@@ -2000,7 +2054,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 175480,
       "name": "The Extra (One of a Kind Romance)",
       "url": "https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg"
@@ -2198,7 +2252,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 190522,
       "name": "Walking In The Memory",
       "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
@@ -2288,7 +2342,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 221040,
       "name": "Why isn't love always easy? (Romance 101 X JOY)",
       "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
@@ -2504,7 +2558,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 206506,
       "name": "\ub0b4\uac00 \ubbf8\uc548\ud574",
       "url": "https://open.spotify.com/track/4aoDe43Tdn2bd8hXWn0cgX"
@@ -2558,7 +2612,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 207423,
       "name": "\ub610 \ud55c\ubc88 \ucc3e\uc544\uc62c\uae4c\uc694",
       "url": "https://open.spotify.com/track/3k9W2HpTJNVaoMAyd9tR4e"

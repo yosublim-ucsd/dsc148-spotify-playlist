@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 709800,
+  "num_followers": 709912,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjNhYWI4ZjRjOTc4ZTkxZWRiYzBjMmJjZmM5OWQ0ODg0ZTdhMDYz",
+  "snapshot_id": "MCxmYTA5Mjc1MzUxYWQ4MjFhZjdmOGNiZWE5NzQ0MDdkZjYzNDk4NDVj",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -263,22 +263,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
+        "name": "O Som das Multid\u00f5es (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/4d329KQXDPuJgo2828KdKA"
       },
       "artists": [
         {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
         }
       ],
-      "duration_ms": 165360,
-      "name": "Anti Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zlU0V45H1FcjZeGEVt8ih"
+      "duration_ms": 227413,
+      "name": "Lancinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/6CeeLpwJUYA4b0xL7eSvzn"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -315,18 +311,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "O Som das Multid\u00f5es (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/4d329KQXDPuJgo2828KdKA"
+        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
       "artists": [
         {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 227413,
-      "name": "Lancinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/6CeeLpwJUYA4b0xL7eSvzn"
+      "duration_ms": 165360,
+      "name": "Anti Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zlU0V45H1FcjZeGEVt8ih"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -763,22 +763,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Amando, Bebendo e Sofrendo (Ao Vivo) - EP 3",
-        "url": "https://open.spotify.com/album/5tR4iEANCfJjjUOgxyYhtD"
+        "name": "TunTunTun (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
       },
       "artists": [
         {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        },
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
         }
       ],
-      "duration_ms": 161396,
-      "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
-      "url": "https://open.spotify.com/track/48CAeajgzcGJaVUSsXd7h0"
+      "duration_ms": 186501,
+      "name": "TunTunTun - Spotify Singles",
+      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -811,6 +807,26 @@
       "duration_ms": 224181,
       "name": "At\u00e9 que enfim - Ao vivo",
       "url": "https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Amando, Bebendo e Sofrendo (Ao Vivo) - EP 3",
+        "url": "https://open.spotify.com/album/5tR4iEANCfJjjUOgxyYhtD"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "duration_ms": 161396,
+      "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
+      "url": "https://open.spotify.com/track/48CAeajgzcGJaVUSsXd7h0"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -867,22 +883,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "TunTunTun (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 186501,
-      "name": "TunTunTun - Spotify Singles",
-      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia - EP1",
         "url": "https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL"
       },
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
+        "name": "Buteco do Gusttavo Lima, Vol. 2",
+        "url": "https://open.spotify.com/album/1quJKGITMBDF2S4x0Zl2Vn"
       },
       "artists": [
         {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 205430,
-      "name": "Ponto Fraco - Ao Vivo",
-      "url": "https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e"
+      "duration_ms": 199701,
+      "name": "Apelido Carinhoso",
+      "url": "https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Buteco do Gusttavo Lima, Vol. 2",
-        "url": "https://open.spotify.com/album/1quJKGITMBDF2S4x0Zl2Vn"
+        "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 199701,
-      "name": "Apelido Carinhoso",
-      "url": "https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq"
+      "duration_ms": 205430,
+      "name": "Ponto Fraco - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Com ou Sem Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Com ou Sem Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Sensa\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 269306,
       "name": "Linda Voz (Ol\u00e1)",
       "url": "https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Com ou Sem Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Com ou Sem Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
     },
     {
       "added_at": "2023-11-17 03:01:00",

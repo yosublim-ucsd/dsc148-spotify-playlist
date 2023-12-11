@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Jul",
-  "num_followers": 39413,
+  "num_followers": 39416,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTdmZGFhNDQ3Yjg5YjBiODllMWU0Nzk5NjBiNGVjOWM0ZjQ1MjY1",
+  "snapshot_id": "MCxkMGE1YTEzNGQzMjRlYzNjOTJmYTU0YjNhYTBiNWVlOWIxMmIzODM1",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -239,42 +239,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Bonsoir Paris (Mama No Cry)",
-        "url": "https://open.spotify.com/album/2nZoEqQ0HREvujxUpQ2Ohn"
-      },
-      "artists": [
-        {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 218392,
-      "name": "Bonsoir Paris (Mama No Cry)",
-      "url": "https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "MAGHRIBI",
-      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "AMBITION",
         "url": "https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY"
       },
@@ -295,38 +259,38 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Lova",
-        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 173810,
-      "name": "Lova",
-      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
+      "duration_ms": 254800,
+      "name": "MAGHRIBI",
+      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
     },
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Il y a",
-        "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
+        "name": "Bonsoir Paris (Mama No Cry)",
+        "url": "https://open.spotify.com/album/2nZoEqQ0HREvujxUpQ2Ohn"
       },
       "artists": [
         {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
         },
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 205365,
-      "name": "Il y a",
-      "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
+      "duration_ms": 218392,
+      "name": "Bonsoir Paris (Mama No Cry)",
+      "url": "https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -351,6 +315,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Il y a",
+        "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 205365,
+      "name": "Il y a",
+      "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Aller sans retour",
         "url": "https://open.spotify.com/album/2CGmqtcGHkQrZkyw8NfSQN"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 176146,
       "name": "Aller sans retour",
       "url": "https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Lova",
+        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 173810,
+      "name": "Lova",
+      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -427,22 +427,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Terminus",
-        "url": "https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT"
+        "name": "KH-22",
+        "url": "https://open.spotify.com/album/1zqvKz8fhd93s4GPYFDYAP"
       },
       "artists": [
         {
-          "name": "Sidiki Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
         },
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
         }
       ],
-      "duration_ms": 158449,
-      "name": "Terminus",
-      "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
+      "duration_ms": 171428,
+      "name": "CORONER",
+      "url": "https://open.spotify.com/track/0fU8nZlFxeplNx9SeuYEQL"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -463,22 +463,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "KH-22",
-        "url": "https://open.spotify.com/album/1zqvKz8fhd93s4GPYFDYAP"
+        "name": "Terminus",
+        "url": "https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT"
       },
       "artists": [
         {
-          "name": "ASHE 22",
-          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
         },
         {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 171428,
-      "name": "CORONER",
-      "url": "https://open.spotify.com/track/0fU8nZlFxeplNx9SeuYEQL"
+      "duration_ms": 158449,
+      "name": "Terminus",
+      "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Plaisir Risque D\u00e9pendance",
-        "url": "https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        },
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Sensations",
-      "url": "https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Maintenant",
         "url": "https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 189588,
       "name": "Maintenant",
       "url": "https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Plaisir Risque D\u00e9pendance",
+        "url": "https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Sensations",
+      "url": "https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -707,6 +707,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Le chemin - 20 ans",
+        "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 170026,
+      "name": "Je cours (feat. Nuit Incolore)",
+      "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Jane Birkin",
         "url": "https://open.spotify.com/album/2oN1NPHrJDWBFeUiG0phb2"
       },
@@ -739,26 +759,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Le chemin - 20 ans",
-        "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        },
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 170026,
-      "name": "Je cours (feat. Nuit Incolore)",
-      "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Miroirs",
         "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
       },
@@ -775,6 +775,26 @@
       "duration_ms": 176653,
       "name": "Beau (feat. Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "I'm Sorry (ft. Lous and The Yakuza)",
+        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -815,6 +835,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Que ta t\u00eate fleurisse toujours",
+        "url": "https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "duration_ms": 197053,
+      "name": "Bougez",
+      "url": "https://open.spotify.com/track/2NmHMbZ6LRvyvTY0nbalfg"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "fou",
         "url": "https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9"
       },
@@ -831,18 +867,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Que ta t\u00eate fleurisse toujours",
-        "url": "https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u"
+        "name": "Un morceau de Sicre",
+        "url": "https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO"
       },
       "artists": [
         {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 197053,
-      "name": "Bougez",
-      "url": "https://open.spotify.com/track/2NmHMbZ6LRvyvTY0nbalfg"
+      "duration_ms": 242360,
+      "name": "Un morceau de Sicre",
+      "url": "https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -867,22 +903,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Un morceau de Sicre",
-        "url": "https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 242360,
-      "name": "Un morceau de Sicre",
-      "url": "https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Weekend \u00e0 Marseille",
         "url": "https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA"
       },
@@ -895,22 +915,6 @@
       "duration_ms": 163373,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Cabeza",
-        "url": "https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n"
-      },
-      "artists": [
-        {
-          "name": "RIDSA",
-          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
-        }
-      ],
-      "duration_ms": 174819,
-      "name": "Cabeza",
-      "url": "https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

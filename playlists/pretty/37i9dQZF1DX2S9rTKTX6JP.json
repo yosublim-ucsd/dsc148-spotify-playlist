@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 665723,
+  "num_followers": 665769,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2EwY2M3NTdhZjMyN2M4YTliYTBkOWIxM2JiY2Y2OGY3ZjI3ZGU1",
+  "snapshot_id": "MCw5N2U5N2UzMzk1YTljZDAzZWY3OTUyNTUwNmI3ZGZjY2M1NDE0NTI1",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
-      },
-      "artists": [
-        {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
-        }
-      ],
-      "duration_ms": 109900,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 199240,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "duration_ms": 109900,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 166466,
       "name": "I Just Don't Know What to Do With Myself",
       "url": "https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "If I Ever Lose My Faith in You",
-        "url": "https://open.spotify.com/album/4W5TsaInsp1dAZUE5qvm5g"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 274055,
-      "name": "If I Ever Lose My Faith in You",
-      "url": "https://open.spotify.com/track/4wozhA7ftHx3QQPBKCCL9d"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 262906,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "If I Ever Lose My Faith in You",
+        "url": "https://open.spotify.com/album/4W5TsaInsp1dAZUE5qvm5g"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 274055,
+      "name": "If I Ever Lose My Faith in You",
+      "url": "https://open.spotify.com/track/4wozhA7ftHx3QQPBKCCL9d"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "DJ Got Us Fallin in Love",
-        "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
-      },
-      "artists": [
-        {
-          "name": "Her Bright Skies",
-          "url": "https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI"
-        }
-      ],
-      "duration_ms": 215922,
-      "name": "DJ Got Us Fallin in Love",
-      "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "No One Sings Like You Anymore",
         "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 194359,
       "name": "Watching The Wheels",
       "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "DJ Got Us Fallin in Love",
+        "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
+      },
+      "artists": [
+        {
+          "name": "Her Bright Skies",
+          "url": "https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI"
+        }
+      ],
+      "duration_ms": 215922,
+      "name": "DJ Got Us Fallin in Love",
+      "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Dirt Soundtrack",
         "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Pisces Iscariot (Remastered)",
         "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 190586,
       "name": "Landslide - Remastered",
       "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Ballroom Blitz",
-        "url": "https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 249853,
-      "name": "Ballroom Blitz",
-      "url": "https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 292040,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Ballroom Blitz",
+        "url": "https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Ballroom Blitz",
+      "url": "https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
-      },
-      "artists": [
-        {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Uninvited",
         "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 259689,
       "name": "Uninvited",
       "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2371,6 +2371,30 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
+        "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 211616,
+      "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
+      "url": "https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Crawling",
         "url": "https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc"
       },
@@ -2399,30 +2423,6 @@
       "duration_ms": 218746,
       "name": "Telepath",
       "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
-        "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        },
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 211616,
-      "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
-      "url": "https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Volume 1",
-        "url": "https://open.spotify.com/album/1V7mEaiz643Os9Gq4icuzI"
-      },
-      "artists": [
-        {
-          "name": "Smith & Myers",
-          "url": "https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe"
-        }
-      ],
-      "duration_ms": 213878,
-      "name": "ROCKIN' IN THE FREE WORLD",
-      "url": "https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
         "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 276013,
       "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
       "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/1V7mEaiz643Os9Gq4icuzI"
+      },
+      "artists": [
+        {
+          "name": "Smith & Myers",
+          "url": "https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe"
+        }
+      ],
+      "duration_ms": 213878,
+      "name": "ROCKIN' IN THE FREE WORLD",
+      "url": "https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP"
     },
     {
       "added_at": "2023-11-17 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: YOVNGCHIMI\n",
-  "num_followers": 522000,
+  "num_followers": 522034,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmY1YTJiMDA0ZTVmMmMzYzA3ZDM4YmIyZmU4ZmQzNDcwZGExODAw",
+  "snapshot_id": "MCwyMjhhZjUzYTM0OTE0OTI4YTdlZTdmMzIwYmQ4NDM0ZDUzM2JkMzE3",
   "tracks": [
     {
       "added_at": "2023-12-08 20:24:21",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 165318,
-      "name": "333",
-      "url": "https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
         "name": "Le Gustan lo' Flaites",
         "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 183328,
       "name": "Le Gustan lo' Flaites",
       "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 165318,
+      "name": "333",
+      "url": "https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -939,8 +939,8 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "LOCO X PERREARTE",
-        "url": "https://open.spotify.com/album/1EKXvsbN9F0aBxigrLRXnc"
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
       },
       "artists": [
         {
@@ -948,13 +948,13 @@
           "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 212024,
-      "name": "LOCO X PERREARTE",
-      "url": "https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux"
+      "duration_ms": 191588,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "TRAPPii",
-        "url": "https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 150314,
-      "name": "REPEAT",
-      "url": "https://open.spotify.com/track/0TV7rMZ42HNc3xTuMaLC0m"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
         "name": "Partyson",
         "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
       },
@@ -1091,8 +1075,24 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
+        "name": "TRAPPii",
+        "url": "https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 150314,
+      "name": "REPEAT",
+      "url": "https://open.spotify.com/track/0TV7rMZ42HNc3xTuMaLC0m"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "LOCO X PERREARTE",
+        "url": "https://open.spotify.com/album/1EKXvsbN9F0aBxigrLRXnc"
       },
       "artists": [
         {
@@ -1100,13 +1100,13 @@
           "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 191588,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
+      "duration_ms": 212024,
+      "name": "LOCO X PERREARTE",
+      "url": "https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1127,6 +1127,42 @@
       "duration_ms": 170695,
       "name": "Te Cambie Por El",
       "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/2b7NyXYaxu3V1ktJWmfcFd"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "Maullame",
+        "url": "https://open.spotify.com/album/02SfPrc9u72kuzrv2ZFjFj"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 246428,
+      "name": "Maullame",
+      "url": "https://open.spotify.com/track/0hKXlakDWwbKS43VuHDV5d"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1167,26 +1203,6 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "CLICK",
-        "url": "https://open.spotify.com/album/2b7NyXYaxu3V1ktJWmfcFd"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "CLICK",
-      "url": "https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -1223,6 +1239,22 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Solt\u00e1ndote",
+      "url": "https://open.spotify.com/track/1Wez9szTYiHFQVtjNTID4h"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
         "name": "DE CAMINO A HERMES",
         "url": "https://open.spotify.com/album/5DLbv9HAIPWzqChpPxIAnc"
       },
@@ -1243,22 +1275,6 @@
       "duration_ms": 243913,
       "name": "BARCELONA",
       "url": "https://open.spotify.com/track/10MB5BRNILT229BsnB2oRU"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
-        "name": "Maullame",
-        "url": "https://open.spotify.com/album/02SfPrc9u72kuzrv2ZFjFj"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 246428,
-      "name": "Maullame",
-      "url": "https://open.spotify.com/track/0hKXlakDWwbKS43VuHDV5d"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1355,86 +1371,6 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "Perreando Triste (feat. Uzielito Mix)",
-        "url": "https://open.spotify.com/album/0Z0tJ5ucn0zI9Z1nuPruCs"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 175483,
-      "name": "Perreando Triste (feat. Uzielito Mix)",
-      "url": "https://open.spotify.com/track/7yo64TVgvf9hBKZKCuVhUy"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
-        "name": "La Manzana",
-        "url": "https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 196626,
-      "name": "La Manzana",
-      "url": "https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 168125,
-      "name": "Ella Perrea",
-      "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
-        "name": "Partyson",
-        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Solt\u00e1ndote",
-      "url": "https://open.spotify.com/track/1Wez9szTYiHFQVtjNTID4h"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
         "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
         "url": "https://open.spotify.com/album/705CyZCCFXeFcybba6kvmv"
       },
@@ -1463,6 +1399,54 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
+        "name": "Perreando Triste (feat. Uzielito Mix)",
+        "url": "https://open.spotify.com/album/0Z0tJ5ucn0zI9Z1nuPruCs"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "Perreando Triste (feat. Uzielito Mix)",
+      "url": "https://open.spotify.com/track/7yo64TVgvf9hBKZKCuVhUy"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "Ella Perrea",
+      "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/3A616yEBlkljpPNeY239DF"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 140192,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/61QJE5XWMH7iJdl9MWQHhb"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "X'CLUSIVO",
+        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "X'CLUSIVO",
+      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1495,6 +1495,22 @@
       "duration_ms": 231454,
       "name": "GANGSTA LUV",
       "url": "https://open.spotify.com/track/5DW8n9JygY7J4oMFV5M7ti"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "La Manzana",
+        "url": "https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "La Manzana",
+      "url": "https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1567,22 +1583,6 @@
       "duration_ms": 162713,
       "name": "Gafas Pal Sol",
       "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
-        "name": "X'CLUSIVO",
-        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "X'CLUSIVO",
-      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
+        "name": "Suena El Bajo",
+        "url": "https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 194968,
+      "name": "Suena el Bajo",
+      "url": "https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
         "name": "Band\u00fblera",
         "url": "https://open.spotify.com/album/0rxeTyPj7IPCYPUMLe6Tl1"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 155056,
       "name": "Me Perjudique",
       "url": "https://open.spotify.com/track/70tG2LYkoL0bbBGZhCYjnt"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
-        "name": "Suena El Bajo",
-        "url": "https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 194968,
-      "name": "Suena el Bajo",
-      "url": "https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2"
     },
     {
       "added_at": "2023-12-08 20:24:21",

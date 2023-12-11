@@ -4,7 +4,7 @@
 
 > Flirty tracks Tove Lo loves\. Put this on when you want your intentions to be obvious..\. Welcome to mixtape, a curator's playground.
 
-31 songs - 2 hr 7 min
+32 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Peanut Butter \- Larry Levan Mix / Bonus Track](https://open.spotify.com/track/0GVmRS7Zgg5fxrITQE1BYp) | [Gwen Guthrie](https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy), [Larry Levan](https://open.spotify.com/artist/7wxPD9vDsKD5OuHCeWgXRm) | [Portrait](https://open.spotify.com/album/5YO9PAJkOPXXzLyNDiGqyR) | 6:05 | 2023-07-05 |  |
 | [Pink Noise](https://open.spotify.com/track/4VkaCwvhIEZ80FjeDXF284) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Pink Noise](https://open.spotify.com/album/1VQO9qF4W5tCsMfwDYh5FU) | 3:29 | 2023-07-05 |  |
 | [ride the dragon](https://open.spotify.com/track/15TXFTdwGEEL4jH9erTRnK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:08 | 2023-07-05 |  |
-| [Save Me](https://open.spotify.com/track/49OKGVDSoyJMAEH7oGubKa) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 3:18 | 2023-07-05 |  |
+| [Save Me](https://open.spotify.com/track/49OKGVDSoyJMAEH7oGubKa) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 3:18 | 2023-07-05 | 2023-12-11 |
+| [Save Me](https://open.spotify.com/track/7Gk5kyMG2PwHSg3PNX7Qcr) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/4BYaSHRWW0tn3tZv4fhDnQ) | 3:18 | 2023-07-05 |  |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2023-07-05 |  |
 | [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 | 2023-07-05 |  |
 | [Together Again](https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:01 | 2023-07-05 |  |

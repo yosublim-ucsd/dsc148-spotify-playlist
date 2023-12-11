@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,513 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,643 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [About You](https://open.spotify.com/track/4N2OBtjqEH8Z84s5LTBAFK) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 4:07 |
+| 1 | [About You](https://open.spotify.com/track/4iWngT077V48iQzezvDoXb) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/7qGnsVywMDpieieyFKBrdu) | 4:07 |
 | 2 | [Poppin' Champagne](https://open.spotify.com/track/7ifTNKe9EUcvFZbW7pi3Tr) | [Showtime Showtime](https://open.spotify.com/artist/088T8F1N8sJlnPiUtHUzRG), [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM), [DJ Marc B](https://open.spotify.com/artist/35zOGL2jF8cLvmxCq87E9q) | [Poppin' Champagne](https://open.spotify.com/album/1eoaDIQdGDz82HiLE7gezu) | 3:26 |
 | 3 | [Restart](https://open.spotify.com/track/5jGCbDTm5ZXgasOymIwfJV) | [Carlile](https://open.spotify.com/artist/5oVmfRMAc0GXe5c3UJQ3dz) | [Restart](https://open.spotify.com/album/2Dh4QA6lBhNu8xAhs5AYDm) | 4:56 |
 | 4 | [Bending Back](https://open.spotify.com/track/4RahdzD2B7f7Q6XDyf92qH) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Bending Back](https://open.spotify.com/album/5ON0tHlFe654F5AUFCRFzl) | 4:02 |

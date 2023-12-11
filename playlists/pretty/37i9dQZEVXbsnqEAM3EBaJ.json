@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNjY3NDAsMDAwMDAwMDA2YzhhMjNlODI4YzU4OWZkODFkMjA3MzA1ZjljMTRhOA==",
+  "snapshot_id": "MjgzNjY3NDAsMDAwMDAwMDBiZjUyYTQxMjYxNTllOWViNTQ1MDcxM2VhMmQ1MmUwMw==",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -239,8 +239,8 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "i/o",
-        "url": "https://open.spotify.com/album/1mhuLKVEwZH4aTJXCLuhec"
+        "name": "Live and Let Live (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/6OV1d8eJOZop5qg4cl3EeT"
       },
       "artists": [
         {
@@ -250,7 +250,7 @@
       ],
       "duration_ms": 406972,
       "name": "Live and Let Live - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/1vQUh3oButfNbma7dwwnjr"
+      "url": "https://open.spotify.com/track/3G4SxcaSkW7JXn3vfa4Vdq"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 144072,
-      "name": "Guitar Solo (Neal Schon) - Live",
-      "url": "https://open.spotify.com/track/2NWbOuarPwAo7G3erN0xjI"
+      "duration_ms": 403575,
+      "name": "Dixie Highway - Live",
+      "url": "https://open.spotify.com/track/35VaQZ1H6HZ0YoHpLqYCuD"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -431,8 +431,8 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "xmas sped up + slowed",
-        "url": "https://open.spotify.com/album/0QplsJsS4g4VFDCJODfyaL"
+        "name": "Viral Christmas: Sped Up + Slowed",
+        "url": "https://open.spotify.com/album/47MrmOjxT2nrbtQoM6SLSH"
       },
       "artists": [
         {
@@ -446,7 +446,7 @@
       ],
       "duration_ms": 177662,
       "name": "What Christmas Means to Me (feat. Stevie Wonder) - Slowed & Reverb",
-      "url": "https://open.spotify.com/track/14TIy5ASSW9O354VELxV5I"
+      "url": "https://open.spotify.com/track/7qdQEcxu2pV6EZI21Aa1o0"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 262683,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/0olhDuJdwF3WbIu16hCE3S"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "The Complete Budokan 1978 (Live)",
         "url": "https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni"
       },
@@ -531,6 +511,38 @@
       "duration_ms": 243653,
       "name": "Going, Going, Gone - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
       "url": "https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "The Green Willow Tree",
+        "url": "https://open.spotify.com/album/1ErYH78IVjcfor1UtQcDea"
+      },
+      "artists": [
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Archie Churchill-Moss",
+          "url": "https://open.spotify.com/artist/2lUG0DnSJvZOrjuL23oPRD"
+        },
+        {
+          "name": "Ben Tunnicliffe",
+          "url": "https://open.spotify.com/artist/0tS3TD2NR8dVkQlgXayL70"
+        },
+        {
+          "name": "Patrick Rimes",
+          "url": "https://open.spotify.com/artist/2xvtXSbHqfdcvF4sSW6RVi"
+        }
+      ],
+      "duration_ms": 183386,
+      "name": "The Green Willow Tree",
+      "url": "https://open.spotify.com/track/2OoI1WWucbF8pJMTwsmClH"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

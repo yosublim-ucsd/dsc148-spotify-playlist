@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1678474,
+  "num_followers": 1678505,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGE5N2Y5NmQxMzM0M2QwZDE3Y2Q2YjMyNjY4OTBkMDZmMDY5Mjgy",
+  "snapshot_id": "MCw3MDNjY2YwODBmYWQ0MThkOTZlMDg0YWYzMDE1N2FiMjJkMDY4NDM0",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Dead or Alive",
-        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 122487,
-      "name": "Dead or Alive",
-      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Rocket Power",
         "url": "https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Dead or Alive",
+        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 122487,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "MVP (feat. G-Eazy)",
         "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
       },
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Jenn Jenn Jenn",
+        "url": "https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "duration_ms": 120917,
+      "name": "Jenn Jenn Jenn",
+      "url": "https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Hellcats SRTs 2 (with Lil Durk)",
         "url": "https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 165863,
       "name": "Hellcats SRTs 2 (with Lil Durk)",
       "url": "https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Jenn Jenn Jenn",
-        "url": "https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg"
-      },
-      "artists": [
-        {
-          "name": "41",
-          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
-        }
-      ],
-      "duration_ms": 120917,
-      "name": "Jenn Jenn Jenn",
-      "url": "https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1363,42 +1363,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "WTF (feat. Polo G) [Remix]",
-        "url": "https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL"
-      },
-      "artists": [
-        {
-          "name": "Hotboii",
-          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 173458,
-      "name": "WTF (feat. Polo G) - Remix",
-      "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "First Day Out (Freestyle) Pt. 2",
-        "url": "https://open.spotify.com/album/2GMbT6TVTPmb8XQc2IOBNW"
-      },
-      "artists": [
-        {
-          "name": "Rundown Spaz",
-          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
-        }
-      ],
-      "duration_ms": 197459,
-      "name": "First Day Out (Freestyle) Pt. 2",
-      "url": "https://open.spotify.com/track/4oeUol0xLGJYCmiPypgUvi"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
       },
@@ -1415,6 +1379,26 @@
       "duration_ms": 124965,
       "name": "Walk",
       "url": "https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "WTF (feat. Polo G) [Remix]",
+        "url": "https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 173458,
+      "name": "WTF (feat. Polo G) - Remix",
+      "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1495,26 +1479,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "TEXAS BOY",
-        "url": "https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 195267,
-      "name": "ARSENAL (I SMELL BITCH) (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Okay Bet Pt. 2 (feat. Skilla Baby)",
         "url": "https://open.spotify.com/album/48FhsqFEXciRzwi9cGp8Gz"
       },
@@ -1535,6 +1499,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "TEXAS BOY",
+        "url": "https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 195267,
+      "name": "ARSENAL (I SMELL BITCH) (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "BUTTERFLY COUPE feat. Tyga",
         "url": "https://open.spotify.com/album/4Lm3jQ2K459Vufnq6wHjn4"
       },
@@ -1551,6 +1535,26 @@
       "duration_ms": 164848,
       "name": "BUTTERFLY COUPE feat. Tyga",
       "url": "https://open.spotify.com/track/3HCDcijVzbd59yvVn0nLPY"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Chrome Hearted (feat. Tyga)",
+        "url": "https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Chrome Hearted (feat. Tyga)",
+      "url": "https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1583,26 +1587,6 @@
       "duration_ms": 176516,
       "name": "Pacer",
       "url": "https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Chrome Hearted (feat. Tyga)",
-        "url": "https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ"
-      },
-      "artists": [
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Chrome Hearted (feat. Tyga)",
-      "url": "https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1643,22 +1627,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "ROTY",
-        "url": "https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 129832,
-      "name": "Rapper of the Year",
-      "url": "https://open.spotify.com/track/6LlqdoSjvt0ANFOTIX5cn5"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "MadMan",
         "url": "https://open.spotify.com/album/49J8Mmm7YFMsTRVBr0hUEt"
       },
@@ -1683,6 +1651,42 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "ROTY",
+        "url": "https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 129832,
+      "name": "Rapper of the Year",
+      "url": "https://open.spotify.com/track/6LlqdoSjvt0ANFOTIX5cn5"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "BUTTERFLY COUPE feat. Quavo (PART 2)",
+        "url": "https://open.spotify.com/album/7dlgyGTSBR0SyN7tMo3R43"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 164848,
+      "name": "BUTTERFLY COUPE (feat. Quavo) - PART 2",
+      "url": "https://open.spotify.com/track/6fxgWsJWzQWKq2YoAJNLey"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Chops on the Blade",
         "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
       },
@@ -1699,6 +1703,22 @@
       "duration_ms": 212154,
       "name": "Chops on the Blade",
       "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 137716,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1731,26 +1751,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "BUTTERFLY COUPE feat. Quavo (PART 2)",
-        "url": "https://open.spotify.com/album/7dlgyGTSBR0SyN7tMo3R43"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 164848,
-      "name": "BUTTERFLY COUPE (feat. Quavo) - PART 2",
-      "url": "https://open.spotify.com/track/6fxgWsJWzQWKq2YoAJNLey"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Brand New Blues",
         "url": "https://open.spotify.com/album/5fSbf5rRr5VO5zyWnoBPk9"
       },
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Express Myself",
-        "url": "https://open.spotify.com/album/64JKDU3XXp4VbXSlhh6nHd"
-      },
-      "artists": [
-        {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
-        }
-      ],
-      "duration_ms": 153525,
-      "name": "Express Myself",
-      "url": "https://open.spotify.com/track/6gMSYXkEiXzHLK09ykXGac"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/454OgvsugH7I6ltxO2jzvZ"
       },
@@ -1795,22 +1779,6 @@
       "duration_ms": 158549,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/7bPY7SRKFhkQwsjfJUyH5m"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 137716,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1851,6 +1819,22 @@
       "duration_ms": 180000,
       "name": "Eminem ft. Veeze",
       "url": "https://open.spotify.com/track/6Q2isGQ6xXITDRtruDUM8B"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Express Myself",
+        "url": "https://open.spotify.com/album/64JKDU3XXp4VbXSlhh6nHd"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "duration_ms": 153525,
+      "name": "Express Myself",
+      "url": "https://open.spotify.com/track/6gMSYXkEiXzHLK09ykXGac"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1903,6 +1887,26 @@
       "duration_ms": 139824,
       "name": "TyTy&NaeNae",
       "url": "https://open.spotify.com/track/28951XXObn5igteQcIdpJT"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/48eAYIvW7LSsqDVfOgJrER"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/43pjKTwerf0zk3WSj1TE7I"
     }
   ],
   "unique_name": "Hip Hop Controller",

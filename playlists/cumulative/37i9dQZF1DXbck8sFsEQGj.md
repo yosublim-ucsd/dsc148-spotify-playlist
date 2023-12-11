@@ -4,7 +4,7 @@
 
 > Hottest tracks from Coke Studio Pakistan\. Cover: Talal Qureshi
 
-52 songs - 5 hr 20 min
+53 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Baazi](https://open.spotify.com/track/1jjwcee83tvrgLRcNUQNuD) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 7:14 | 2022-03-15 | 2022-07-29 |
 | [Baazi](https://open.spotify.com/track/21jdKUCgXSukh8jRRxIObL) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Coke Studio Season 10 \- Episode 3](https://open.spotify.com/album/38RPDZ3avBF2kuw9K9SI3z) | 7:14 | 2022-03-15 |  |
 | [Bewajah](https://open.spotify.com/track/0div6Bf8qZlryVh0XorLSM) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 5:52 | 2022-03-15 | 2023-10-08 |
-| [Bewajah](https://open.spotify.com/track/2hZM1GweCj57j81PBZEEfW) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 5:52 | 2022-10-12 |  |
+| [Bewajah](https://open.spotify.com/track/0fKgXWkoy5hy6mskHzOKVF) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 5:52 | 2022-10-12 |  |
+| [Bewajah](https://open.spotify.com/track/2hZM1GweCj57j81PBZEEfW) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 5:52 | 2022-10-12 | 2023-12-11 |
 | [Chaap Tilak](https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 8:52 | 2022-03-15 |  |
 | [Channa](https://open.spotify.com/track/2z7iGPW9VjWRMfxnozYpZe) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:57 | 2022-03-15 |  |
 | [Dil Khirki](https://open.spotify.com/track/6YrKCcOXiZQHHU6YxWUHZj) | [Mehdi Maloof](https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR) | [Dil Khirki](https://open.spotify.com/album/3K9z78A8qaaJ2W4IZ8BRcY) | 3:24 | 2022-03-15 |  |

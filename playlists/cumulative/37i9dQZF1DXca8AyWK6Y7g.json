@@ -7704,7 +7704,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 150740,
       "name": "Dickhead",
       "url": "https://open.spotify.com/track/763KqAOG6WV6wMqInIHZQe"
@@ -9890,7 +9890,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 158602,
       "name": "Fall into You",
       "url": "https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu"
@@ -12370,7 +12370,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 162556,
       "name": "Good to Know",
       "url": "https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp"
@@ -14750,7 +14750,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 197266,
       "name": "I Blame The World",
       "url": "https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ"
@@ -15262,6 +15262,24 @@
       "duration_ms": 203346,
       "name": "i remember",
       "url": "https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ"
+    },
+    {
+      "album": {
+        "name": "I Sent My Therapist To Therapy",
+        "url": "https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "I Sent My Therapist To Therapy",
+      "url": "https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB"
     },
     {
       "album": {
@@ -18587,6 +18605,24 @@
     },
     {
       "album": {
+        "name": "little miss misogyny",
+        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147205,
+      "name": "little miss misogyny",
+      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+    },
+    {
+      "album": {
         "name": "Little Omens",
         "url": "https://open.spotify.com/album/0ss7qXUWf8vgd4GmDy3725"
       },
@@ -18794,6 +18830,24 @@
       "duration_ms": 164744,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/1f4HxbLx0uCBrKlsszA9m1"
+    },
+    {
+      "album": {
+        "name": "Looking For",
+        "url": "https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Looking For",
+      "url": "https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F"
     },
     {
       "album": {
@@ -25764,6 +25818,24 @@
       "duration_ms": 168510,
       "name": "run away (feat. Chelsea Collins)",
       "url": "https://open.spotify.com/track/5yZsE3TKmxdRVrSc8TCqfx"
+    },
+    {
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143940,
+      "name": "run for the hills",
+      "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 102026,
+  "num_followers": 102060,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmY5NDMzMDQyY2UxYmM4YzdkMjQ1MWMzOGEwNjEwYTIwZGI2YmM5",
+  "snapshot_id": "MCxlMDliZTc3OTRhYTk1YzFkNzIwNjA1ZDQ1MGRhMmViM2FiZjE2MDQz",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
         }
       ],
-      "duration_ms": 243804,
-      "name": "Girl Crush - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
+      "duration_ms": 189000,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Vienna",
-        "url": "https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
       },
       "artists": [
         {
-          "name": "Matt Schuster",
-          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW"
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "I'm A Ram",
-        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "I'm A Ram",
-      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Cypress Hills and the Big Country",
         "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 184040,
       "name": "Let's All Help the Cowboys (Sing the Blues)",
       "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "I'm A Ram",
+        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "I'm A Ram",
+      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Bless the Broken Road",
-        "url": "https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
-        }
-      ],
-      "duration_ms": 186560,
-      "name": "Bless the Broken Road",
-      "url": "https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 322346,
       "name": "It's Only Rock 'N' Roll (But I Like It)",
       "url": "https://open.spotify.com/track/001c1daR1pFdqfpe1vAWzh"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Bless the Broken Road",
+        "url": "https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Bless the Broken Road",
+      "url": "https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc"
     },
     {
       "added_at": "2023-12-08 05:00:00",

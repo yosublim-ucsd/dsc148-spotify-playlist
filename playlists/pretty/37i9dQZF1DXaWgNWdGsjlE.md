@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,647 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,797 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 5 | [So Below](https://open.spotify.com/track/7MYbFew463Qcnj3nsdU0NJ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [What is Really Underneath?](https://open.spotify.com/album/6b7BEJklF29cidjmtLOC1Y) | 3:26 |
 | 6 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 |
 | 7 | [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 |
-| 8 | [HATEFUL \[Feat\. SIERRA\]](https://open.spotify.com/track/1s4ym7eC16ckglNEcPe2Lw) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [HATEFUL \[Feat\. SIERRA\]](https://open.spotify.com/album/1Pdzx7m7W6s9oWnleMRNg8) | 4:08 |
+| 8 | [HATEFUL \[Feat\. SIERRA\]](https://open.spotify.com/track/7Gms5d2KYbWOGLIIJK3kD9) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 4:08 |
 | 9 | [BIRTH OF VENUS](https://open.spotify.com/track/1Q98DdOmQlFrIaldR4MOVl) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BIRTH OF VENUS](https://open.spotify.com/album/1VBKFrSZ7JSMAfBNz2nAcX) | 3:12 |
 | 10 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 |
 | 11 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. ARIETE in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,870 likes - 86 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,873 likes - 86 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 24 | [Rave in the Casba](https://open.spotify.com/track/2U8W0if8bgd8Fru41AW1OL) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Rave in the Casba](https://open.spotify.com/album/7wqLZzK27gTVo6QZIUb4WO) | 3:06 |
 | 25 | [PRAY](https://open.spotify.com/track/5OPERNndxIm6JL4Qmdfm5S) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [PRAY](https://open.spotify.com/album/5zsTNApj0NEoO3c4tFYbhY) | 2:23 |
 | 26 | [Chi Ama Brucia](https://open.spotify.com/track/6E72u7gme1bAjQjPs1H29m) | [Ragazza Milano](https://open.spotify.com/artist/0OY6LGQu7fk8V4X43c81zn) | [Chi Ama Brucia](https://open.spotify.com/album/1rVqCLxybZCUtyCfaF9SwO) | 2:06 |
-| 27 | [Hands On Me](https://open.spotify.com/track/0HUiEOHqH9gPbuCWDVvZ7u) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Moon Faces EP](https://open.spotify.com/album/55bGD2IkUYPSALh6TySzjy) | 2:41 |
+| 27 | [Hands On Me](https://open.spotify.com/track/5HZgrygoh8tjdHqyLROobo) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Hands On Me](https://open.spotify.com/album/6UQ1Z4VPXaJtKM8EqzBGKs) | 2:41 |
 | 28 | [ULTRANCE](https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [ULTRANCE](https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv) | 5:39 |
 | 29 | [Pepper on the Tongue](https://open.spotify.com/track/0pBhLio0KuHjWI1AOHL4H6) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 6:12 |
 | 30 | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k) | 3:33 |

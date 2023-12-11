@@ -1,6 +1,6 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 14443,
+  "num_followers": 14462,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Stand by Me",
-        "url": "https://open.spotify.com/album/3Ss8pBPxrazhXYoSJcBYN7"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        }
-      ],
-      "duration_ms": 199019,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/068qo0w1Ki0cjnFYOUhAm2"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Carta para no llorar",
         "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 178577,
       "name": "Carta para no llorar",
       "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Stand by Me",
+        "url": "https://open.spotify.com/album/3Ss8pBPxrazhXYoSJcBYN7"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "duration_ms": 199019,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/068qo0w1Ki0cjnFYOUhAm2"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Agua Salada",
-        "url": "https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 213434,
-      "name": "Agua Salada",
-      "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Agua Salada",
+        "url": "https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 213434,
+      "name": "Agua Salada",
+      "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "PITADA",
         "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
@@ -631,6 +631,26 @@
       "duration_ms": 226840,
       "name": "Amor Loco",
       "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Puntos Equidistantes",
+        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 227375,
+      "name": "Puntos Equidistantes",
+      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -679,26 +699,6 @@
       "duration_ms": 158297,
       "name": "INTENSIDAD",
       "url": "https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Puntos Equidistantes",
-        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 227375,
-      "name": "Puntos Equidistantes",
-      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Parte de M\u00ed",
         "url": "https://open.spotify.com/album/4bshN7IkjA4YcKnrx4Ij2G"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 175065,
       "name": "Parte de M\u00ed",
       "url": "https://open.spotify.com/track/3qW3oIG7ZYzs3Ru5988fP5"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Vitali Sessions #3 (En vivo)",
         "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "(un poco + de) FE",
         "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "POCA FE",
-        "url": "https://open.spotify.com/album/5fdkUi9K20VRbdYLdfJJEn"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 181356,
-      "name": "POCA FE",
-      "url": "https://open.spotify.com/track/122xkWF4LRrAIZPzZEogy9"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Nocturna",
         "url": "https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 149900,
       "name": "Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "POCA FE",
+        "url": "https://open.spotify.com/album/5fdkUi9K20VRbdYLdfJJEn"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 181356,
+      "name": "POCA FE",
+      "url": "https://open.spotify.com/track/122xkWF4LRrAIZPzZEogy9"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "PASTEL",
-        "url": "https://open.spotify.com/album/7qh2ukKIDbv6MJ5ehaQ1Or"
-      },
-      "artists": [
-        {
-          "name": "Vesta Lugg",
-          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
-        }
-      ],
-      "duration_ms": 153114,
-      "name": "PASTEL",
-      "url": "https://open.spotify.com/track/4MSDg2W214fo40nvBpf5dc"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Falsas Esperanzas",
         "url": "https://open.spotify.com/album/5RmwruUMsb7kVs4foUB7O0"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 180256,
       "name": "Falsas Esperanzas",
       "url": "https://open.spotify.com/track/6Hm00Tl2uG5PhCCVsGB26u"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "PASTEL",
+        "url": "https://open.spotify.com/album/7qh2ukKIDbv6MJ5ehaQ1Or"
+      },
+      "artists": [
+        {
+          "name": "Vesta Lugg",
+          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
+        }
+      ],
+      "duration_ms": 153114,
+      "name": "PASTEL",
+      "url": "https://open.spotify.com/track/4MSDg2W214fo40nvBpf5dc"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1267,22 +1267,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Uno De Esos D\u00edas",
-        "url": "https://open.spotify.com/album/6P4acuRUxR1uWUxB07yBJW"
+        "name": "Dije Que No Me Iba a Enamorar",
+        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
       "artists": [
-        {
-          "name": "Vesta Lugg",
-          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
-        },
         {
           "name": "Yami Safdie",
           "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         }
       ],
-      "duration_ms": 168374,
-      "name": "Uno De Esos D\u00edas",
-      "url": "https://open.spotify.com/track/3knplr6ptMfZ4B1inYhfXP"
+      "duration_ms": 176669,
+      "name": "2 Segundos",
+      "url": "https://open.spotify.com/track/3XrFCK8Xq7baolGxN8jNrm"
     },
     {
       "added_at": "2023-12-01 03:00:00",

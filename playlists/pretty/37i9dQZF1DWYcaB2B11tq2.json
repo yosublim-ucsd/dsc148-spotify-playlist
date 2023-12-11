@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 397402,
+  "num_followers": 397520,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzBiMWE5OWY3YmE2Y2UzMDExYWY0OTFiMGM5ZDFjMmZhODYzYzM5",
+  "snapshot_id": "MCw0OGQ2NzAyZDNhMzFjNDkzYmU1YzU3ZjdiOTkxODNjZjQ0YmE5N2Y2",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -347,18 +347,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Regreso a Ti",
-        "url": "https://open.spotify.com/album/0MKjR7eouvKif4m6IaI8jA"
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
-      "duration_ms": 252376,
-      "name": "Vives t\u00fa y vivo yo",
-      "url": "https://open.spotify.com/track/6uxOAF2PW2Smg8g6wooYR5"
+      "duration_ms": 241072,
+      "name": "Promesas",
+      "url": "https://open.spotify.com/track/4fCR5COPBAKXUJAhuUl5W7"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -379,22 +383,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Promesas",
-        "url": "https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8"
+        "name": "Regreso a Ti",
+        "url": "https://open.spotify.com/album/0MKjR7eouvKif4m6IaI8jA"
       },
       "artists": [
         {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 241072,
-      "name": "Promesas",
-      "url": "https://open.spotify.com/track/4fCR5COPBAKXUJAhuUl5W7"
+      "duration_ms": 252376,
+      "name": "Vives t\u00fa y vivo yo",
+      "url": "https://open.spotify.com/track/6uxOAF2PW2Smg8g6wooYR5"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -487,6 +487,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Te Puedo Sentir",
+        "url": "https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 274106,
+      "name": "Tu Poeta",
+      "url": "https://open.spotify.com/track/4yatXJP2xfGvVpEQOthgqV"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Comenzar de Cero",
         "url": "https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 294800,
       "name": "Give Me Faith",
       "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Te Puedo Sentir",
-        "url": "https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 274106,
-      "name": "Tu Poeta",
-      "url": "https://open.spotify.com/track/4yatXJP2xfGvVpEQOthgqV"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -971,6 +971,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Incontrolable Amor",
+        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 333120,
+      "name": "Incontrolable Amor",
+      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Fierce (Studio Version)",
         "url": "https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 222186,
       "name": "Fierce - Studio Version",
       "url": "https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Incontrolable Amor",
-        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
-      },
-      "artists": [
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        }
-      ],
-      "duration_ms": 333120,
-      "name": "Incontrolable Amor",
-      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
     },
     {
       "added_at": "2021-05-21 19:19:27",

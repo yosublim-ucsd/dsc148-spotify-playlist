@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 127703,
+  "num_followers": 127763,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTYyZTQ5NjIzZGUwYzQ3ZWRlZTYxODhkMmY1NjkxZDlhOTI2MDE0",
+  "snapshot_id": "MCxiZTAzNWYxMGQ5YzkwZGI5NjA3NjdkYWVkN2YwY2ViOWE0OWU1YWE3",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -219,22 +219,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Color Rit (Remastered)",
-        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
-      },
-      "artists": [
-        {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "I Can\u2019t Let Go - Remastered",
-      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "A Gift For Tomorrow",
         "url": "https://open.spotify.com/album/69AsVSIaoenj2pN7syJqHo"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 307360,
       "name": "Walking In Rhythm",
       "url": "https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Color Rit (Remastered)",
+        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "I Can\u2019t Let Go - Remastered",
+      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -523,18 +523,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Blue Touch",
-        "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
       },
       "artists": [
         {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Fly Away (Thinking Of You)",
-      "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
+      "duration_ms": 221640,
+      "name": "Charisma",
+      "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -555,18 +555,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
+        "name": "Blue Touch",
+        "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
       },
       "artists": [
         {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 221640,
-      "name": "Charisma",
-      "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
+      "duration_ms": 230533,
+      "name": "Fly Away (Thinking Of You)",
+      "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -587,18 +587,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A River In The Desert",
-        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+        "name": "Urban Knights",
+        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
       },
       "artists": [
         {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
         }
       ],
-      "duration_ms": 338933,
-      "name": "The East from the West",
-      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
+      "duration_ms": 437133,
+      "name": "Hearts Of Longing",
+      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -619,18 +619,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Urban Knights",
-        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
+        "name": "A River In The Desert",
+        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
       },
       "artists": [
         {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
         }
       ],
-      "duration_ms": 437133,
-      "name": "Hearts Of Longing",
-      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
+      "duration_ms": 338933,
+      "name": "The East from the West",
+      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -891,6 +891,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "For The Love Of You",
+        "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "duration_ms": 275333,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/5yUImzMKMFku3Kyj8CnD74"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/3Na83ECiryHeBsdF7kLdRU"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 355533,
       "name": "Personal Touch",
       "url": "https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "For The Love Of You",
-        "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
-      },
-      "artists": [
-        {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
-        }
-      ],
-      "duration_ms": 275333,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/5yUImzMKMFku3Kyj8CnD74"
     },
     {
       "added_at": "2020-08-19 00:00:21",

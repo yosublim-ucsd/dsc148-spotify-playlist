@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,014 likes - 61 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,038 likes - 61 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 47 | [Un Día Voy a Ser Gigante](https://open.spotify.com/track/24F2hfF3c2hx0wAzzP1NHn) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu, vol\. 1](https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq) | 3:16 |
 | 48 | [Copy Paste](https://open.spotify.com/track/39UXEKOYb2YXx3GgzQf7hs) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Copy Paste](https://open.spotify.com/album/0BMYDRsP7t1nBcDM2Lmatn) | 3:01 |
 | 49 | [Merengue!](https://open.spotify.com/track/3T5DRtuj3RlqKM70IL5Dzu) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:15 |
-| 50 | [Vamos a Jugar](https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:55 |
-| 51 | [La Luz](https://open.spotify.com/track/7Jafrholm3CJ8AIfWKi77X) | [Isabella Castillo](https://open.spotify.com/artist/1VMbsWJQQaRlubXsKcEOcL) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:40 |
+| 50 | [La Luz](https://open.spotify.com/track/7Jafrholm3CJ8AIfWKi77X) | [Isabella Castillo](https://open.spotify.com/artist/1VMbsWJQQaRlubXsKcEOcL) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:40 |
+| 51 | [Vamos a Jugar](https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:55 |
 | 52 | [A Bailar \(Reggaeton\)](https://open.spotify.com/track/1o57FlJbOyZyg9f6ZZYR4W) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T), [Dj Checho](https://open.spotify.com/artist/22x9PuTD1UCatt3pkPn8QZ) | [Por Ti y Para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:24 |
 | 53 | [Speedy Gonzalez](https://open.spotify.com/track/11dG2Slr6F3a3UB7MHztvd) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 3:25 |
 | 54 | [Chiqui Boom](https://open.spotify.com/track/6QOEP25z7BqTTIK8Skyu7Z) | [Banda Infantil](https://open.spotify.com/artist/28qWzF1RMBH0ZJrSj20BdZ) | [Colorea Tu Portada Vol.25](https://open.spotify.com/album/6B4ZCjw573fCJh94YZq6nV) | 3:12 |

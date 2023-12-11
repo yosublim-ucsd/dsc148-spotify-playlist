@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh?si=YkPkwrdXTb2HyyQlLNCJrA\">Kinsu</a>",
-  "num_followers": 2318,
+  "num_followers": 2344,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzZmY2UyYjAwN2YwMDRlZTkzNmExODdhNzIzYmU4NTVjMDU4MDg1",
+  "snapshot_id": "MCxlZmE2YTk0N2IwYzU0ZTJhNWUzYmVmMDMzZjU4OTlkYTYzZTJhNmIx",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
+        "name": "I Am Yours",
+        "url": "https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Tobass Adolphus",
+          "url": "https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf"
         }
       ],
-      "duration_ms": 208691,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
+      "duration_ms": 237631,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "I Am Yours",
-        "url": "https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },
       "artists": [
         {
-          "name": "Tobass Adolphus",
-          "url": "https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 237631,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08"
+      "duration_ms": 208691,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Cornerstone (Live)",
-        "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 346346,
-      "name": "I Surrender - Live",
-      "url": "https://open.spotify.com/track/1urrG04mC0IopJD7vpKiiW"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "HALLELUJAH LIVE",
         "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 511197,
       "name": "Ebenezer - Live",
       "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Cornerstone (Live)",
+        "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 346346,
+      "name": "I Surrender - Live",
+      "url": "https://open.spotify.com/track/1urrG04mC0IopJD7vpKiiW"
     },
     {
       "added_at": "2023-12-01 00:01:00",

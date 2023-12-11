@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,430 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,434 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 67 | [Dushi Bida](https://open.spotify.com/track/2sgoZa1C2kXvyIuU7m8HvA) | [Zanillya](https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p), [Humphrey Dennis](https://open.spotify.com/artist/6BcgdXb4SkZ1Rusdb8IckU) | [Dushi Bida](https://open.spotify.com/album/2BDnwuBlDEF7EcGnGHKA8Z) | 2:29 |
 | 68 | [LIVE\-O \- Haai Remix](https://open.spotify.com/track/1KWoVLw43OxWMNuA7gS7WS) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [LIVE\-O \(HAAi remix\)](https://open.spotify.com/album/0CyDae0WkQmAu3LN6BrnLi) | 3:12 |
 | 69 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
-| 70 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
+| 70 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
 
-Snapshot ID: `MCw0ZGRhN2Y5NDcwMzVjYmQxMWQyZWU3YjFmMjllMjEwNTRhYTA5MGJl`
+Snapshot ID: `MCwxNDYyMDM0YTliY2YyMDlmMmFhOTA2MzdkNjEwZTExMzE5ZDYwNjEy`

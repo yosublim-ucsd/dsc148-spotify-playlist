@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 58509,
+  "num_followers": 58527,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWI5OTY4MWM0MDgyZDhiZGYzMmFiNjhmNDY0Y2YzY2U5MjY0YzYz",
+  "snapshot_id": "MCxhYzlmMmI1YzAzMzhkZmRhYmNkNGM5MmJkYzU4YWU5ZjQ5ZjgxMTYy",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Always Will Be",
         "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 230000,
       "name": "Always Will Be",
       "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "I Will Remember",
         "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 142173,
       "name": "Into The Sea",
       "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Matins : Vespers",
+        "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
+      },
+      "artists": [
+        {
+          "name": "Parachute Band",
+          "url": "https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "* Consecrate *",
+      "url": "https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 172000,
       "name": "wearing thin (alt. version)",
       "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Matins : Vespers",
-        "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
-      },
-      "artists": [
-        {
-          "name": "Parachute Band",
-          "url": "https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk"
-        }
-      ],
-      "duration_ms": 236386,
-      "name": "* Consecrate *",
-      "url": "https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "features",
-        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
-      },
-      "artists": [
-        {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        },
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 216366,
-      "name": "hold on (alt. version)",
-      "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -895,22 +875,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Hope Where There Was None",
-        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Weeping Mary",
-      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Eternal Jetlag",
         "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
       },
@@ -923,6 +887,42 @@
       "duration_ms": 236172,
       "name": "I Go",
       "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "features",
+        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        },
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 216366,
+      "name": "hold on (alt. version)",
+      "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Hope Where There Was None",
+        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Weeping Mary",
+      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Nineveh (Live)",
-        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 268347,
-      "name": "Nineveh - Live",
-      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "You Are Good",
         "url": "https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 358373,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Nineveh (Live)",
+        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 268347,
+      "name": "Nineveh - Live",
+      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
-      },
-      "artists": [
-        {
-          "name": "Audrey Marie",
-          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Survive These Seas",
         "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 221626,
       "name": "Survive These Seas",
       "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
+      },
+      "artists": [
+        {
+          "name": "Audrey Marie",
+          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fantasize",
-        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
-      },
-      "artists": [
-        {
-          "name": "Kye Kye",
-          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Grunewald Church Session",
         "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 418995,
       "name": "Without Shelter",
       "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
+      },
+      "artists": [
+        {
+          "name": "Kye Kye",
+          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
     },
     {
       "added_at": "2023-07-28 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 75981,
+  "num_followers": 76004,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmExYThjZmQwMTllYzhiMTRmYThkNDYxYTU3MzI0MTExY2E1M2Vm",
+  "snapshot_id": "MCxmZDNiYjZhOGI5ZDY5NDVkYjkyZDcwYjI2NDJiMDg2Y2EwMmMxZDk3",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 288254,
-      "name": "PURE/HONEY",
-      "url": "https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 288254,
+      "name": "PURE/HONEY",
+      "url": "https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Bunny Is A Rider (Remix)",
-        "url": "https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 237109,
-      "name": "Bunny Is A Rider - Doss Remix",
-      "url": "https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
         "name": "Hoe",
         "url": "https://open.spotify.com/album/3WVWxLyo3jYBbUi2orG7RF"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 283900,
       "name": "Hoe",
       "url": "https://open.spotify.com/track/2SM5nyVFHtqGBsVfK23zlK"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "Bunny Is A Rider (Remix)",
+        "url": "https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 237109,
+      "name": "Bunny Is A Rider - Doss Remix",
+      "url": "https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH"
     },
     {
       "added_at": "2023-07-24 14:56:33",

@@ -1,6 +1,6 @@
 {
   "description": "Canciones de rock dignas de festival para dedicarle a tu media naranja.",
-  "num_followers": 121204,
+  "num_followers": 121370,
   "original_name": "Amor Festivalero",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-09-08 23:25:08",
       "album": {
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
+    },
+    {
+      "added_at": "2023-09-08 23:25:08",
+      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
-    },
-    {
-      "added_at": "2023-09-08 23:25:08",
-      "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
     },
     {
       "added_at": "2023-09-08 23:25:08",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-08 23:25:08",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
-    },
-    {
-      "added_at": "2023-09-08 23:25:08",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 472400,
       "name": "La Negra Tomasa - Bilongo - Versi\u00f3n Tropical",
       "url": "https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3"
+    },
+    {
+      "added_at": "2023-09-08 23:25:08",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2023-09-08 23:25:08",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-09-08 23:25:08",
       "album": {
+        "name": "Trance",
+        "url": "https://open.spotify.com/album/3aHa7uq45Sob1hGiKAiwxi"
+      },
+      "artists": [
+        {
+          "name": "La Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Cenit Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0rHLMqXVjJlfV7GrHujBvl"
+    },
+    {
+      "added_at": "2023-09-08 23:25:08",
+      "album": {
         "name": "Golpes en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
-    },
-    {
-      "added_at": "2023-09-08 23:25:08",
-      "album": {
-        "name": "Trance",
-        "url": "https://open.spotify.com/album/3aHa7uq45Sob1hGiKAiwxi"
-      },
-      "artists": [
-        {
-          "name": "La Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Cenit Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0rHLMqXVjJlfV7GrHujBvl"
     },
     {
       "added_at": "2023-09-08 23:25:08",

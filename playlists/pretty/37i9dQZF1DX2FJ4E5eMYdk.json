@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 156367,
+  "num_followers": 156414,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2U0MmYwNjkzMmY2MGUxOGI1ZTJkNGJlNjkwZDEwMGY4NWM1ODU2",
+  "snapshot_id": "MCxhYjEyNWM4OTg2NGRhZDIyN2UzYzFjZGU2ZGRlMTY4ZmQ2MjZhNDY0",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Keen",
+          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
+        }
+      ],
+      "duration_ms": 221514,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "& I'm Fine Today",
         "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Trust Me",
-        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
+        "name": "Banshee",
+        "url": "https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt"
       },
       "artists": [
         {
-          "name": "Barnaby Keen",
-          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
+          "name": "The Cave Singers",
+          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
         }
       ],
-      "duration_ms": 221514,
-      "name": "Trust Me",
-      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
+      "duration_ms": 253316,
+      "name": "That's Why",
+      "url": "https://open.spotify.com/track/11U2oE7JtimG9mtqSb4bNk"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -983,22 +999,6 @@
       "duration_ms": 376618,
       "name": "Habbie Doobie",
       "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Banshee",
-        "url": "https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt"
-      },
-      "artists": [
-        {
-          "name": "The Cave Singers",
-          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
-        }
-      ],
-      "duration_ms": 253316,
-      "name": "That's Why",
-      "url": "https://open.spotify.com/track/11U2oE7JtimG9mtqSb4bNk"
     }
   ],
   "unique_name": "Psych & Groove",

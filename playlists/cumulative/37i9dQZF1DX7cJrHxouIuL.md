@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-198 songs - 9 hr 28 min
+199 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [For the Long Night](https://open.spotify.com/track/17F95g980LpKuKWjo3r43y) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Amadou Kouyate](https://open.spotify.com/artist/1WLB9ei0uFv9aDdnE2LXpg) | [Let Love Be Your Guide](https://open.spotify.com/album/29YQcKWonRl02h3pypRui6) | 4:17 | 2022-04-15 |  |
 | [From My Head to My Toes](https://open.spotify.com/track/02XuozZPsS2Exfcz10Bnvl) | [Music with Mandy](https://open.spotify.com/artist/2FkQ1kvpxbGnnL3hIW0uJ2) | [From My Head to My Toes](https://open.spotify.com/album/5GqrcPwPUPHuHGnmkBOaWA) | 4:00 | 2022-04-15 |  |
 | [Getting The Job Done](https://open.spotify.com/track/3yOp3GzFSCDE0UEilodXxN) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/1R2BqByAAsMXoGaa6Q2iNc) | 3:39 | 2022-04-15 | 2022-07-29 |
-| [Getting The Job Done](https://open.spotify.com/track/7LHPkrPgSFKyGO6Ru6tdDu) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 3:39 | 2022-04-15 |  |
+| [Getting The Job Done](https://open.spotify.com/track/7LHPkrPgSFKyGO6Ru6tdDu) | [Tps](https://open.spotify.com/artist/20uljvju3dv59k8Oz9dOtl) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 3:39 | 2022-04-15 |  |
 | [Good Morning](https://open.spotify.com/track/7mwyLcoz7a4YwWg2vWrs24) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Good Morning](https://open.spotify.com/album/7qZlj8JaGC91YZb2jklkhG) | 3:37 | 2022-04-15 |  |
 | [Happiness Is Simple](https://open.spotify.com/track/7DaPyur46lgI5csRDosSPE) | [Rabbit!](https://open.spotify.com/artist/2PD0xyJOdwn3i3fKhgRDA8) | [Happiness Is Simple](https://open.spotify.com/album/1QopRRYf8U9hdYCg348skK) | 3:23 | 2022-04-15 |  |
 | [Happy](https://open.spotify.com/track/2UW1WAywpS3DWVLckJQJOI) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Happy To Be Here](https://open.spotify.com/album/5ryBpO4WnX4pjdU6rA8xdX) | 2:03 | 2023-06-09 |  |
@@ -146,7 +146,8 @@
 | [Recess](https://open.spotify.com/track/5tvN74QGIU0JAOEnsWjs3E) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Recess](https://open.spotify.com/album/4BYfIYdWATXM3Hw9Ed7Q2m) | 4:01 | 2022-04-15 |  |
 | [Robot Breaks Down](https://open.spotify.com/track/11mCw5oysypX7odP5eqw0L) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Happy to Be Here](https://open.spotify.com/album/7eBWLwnJ1ZzJyzpIl4Lcs6) | 2:53 | 2022-04-15 | 2023-07-02 |
 | [Robot Breaks Down](https://open.spotify.com/track/5N0RY2JgHKbbhlDwh7sSVI) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Happy To Be Here](https://open.spotify.com/album/5ryBpO4WnX4pjdU6rA8xdX) | 2:53 | 2023-06-09 |  |
-| [Robot Dance](https://open.spotify.com/track/2WDZMUZ1KI9Qf5sfV0Vw0d) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 3:25 | 2022-04-15 |  |
+| [Robot Dance](https://open.spotify.com/track/2WDZMUZ1KI9Qf5sfV0Vw0d) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 3:25 | 2022-04-15 | 2023-12-11 |
+| [Robot Dance](https://open.spotify.com/track/470l84TRRT6uM8udVunIDb) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H) | 3:25 | 2023-09-08 |  |
 | [Robot Tea Party](https://open.spotify.com/track/1JY3NZtz8mqqVIeiPkvzQq) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [The Full Circle](https://open.spotify.com/album/60ghiOTP0JVoCg8lvnd9P3) | 2:36 | 2022-04-15 |  |
 | [Rock, Paper, Scissors](https://open.spotify.com/track/0BQi2ZHehN8L02CMB9pWlg) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [Songs with My Daughters](https://open.spotify.com/album/4MyybH1mOTmaADrhjWXDgb) | 1:38 | 2022-04-15 |  |
 | [Row, Row, Row Your Boat](https://open.spotify.com/track/0EQExac8KePwocPf07mXeb) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Presents](https://open.spotify.com/album/64WvAofHslf6rOxPy586gl) | 2:15 | 2022-04-15 | 2022-12-11 |

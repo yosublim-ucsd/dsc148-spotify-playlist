@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaaLM83puGG5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaaLM83puGG5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaaLM83puGG5)
 
-### [House Party](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
+### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
 > Keeping the party going with Southern Fried Queer Pride's <a href="https://www.eventbrite.com/e/sugar\-shack\-a\-queer\-parking\-lot\-dance\-party\-tickets\-717834842337?aff=oddtdtcreator">SUGAR SHACK!</a>
 

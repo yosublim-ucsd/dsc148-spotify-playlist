@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 83576,
+  "num_followers": 83660,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWM1ZDY2YWNjNjhhNTczOWIyM2NiZWViMDE2ZTBhMmNjNDFmZTBh",
+  "snapshot_id": "MCw1MzE1YWNhY2FhNWI1ZjI4MzNmYzI5ODUxMGU2YjJkZDRmOTI1MDFj",
   "tracks": [
     {
       "added_at": "2023-11-24 08:42:40",
@@ -531,18 +531,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Beleza Rara",
-        "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
+        "name": "Apesar de Querer",
+        "url": "https://open.spotify.com/album/0ErKcgeiea7yFFpyBvXIpb"
       },
       "artists": [
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Abacaxepa",
+          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
         }
       ],
-      "duration_ms": 205411,
-      "name": "Beleza Rara",
-      "url": "https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth"
+      "duration_ms": 244000,
+      "name": "Apesar de Querer",
+      "url": "https://open.spotify.com/track/6MbwzsouKfv44jkE6eA4j9"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -559,6 +563,22 @@
       "duration_ms": 228866,
       "name": "Farol das Estrelas - Ao Vivo",
       "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Beleza Rara",
+        "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 205411,
+      "name": "Beleza Rara",
+      "url": "https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -619,22 +639,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "raiz",
-        "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "cora\u00e7\u00e3o tambor",
-      "url": "https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Bloco Do Silva #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
       },
@@ -651,6 +655,22 @@
       "duration_ms": 235640,
       "name": "Sozinho - Ao Vivo",
       "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "raiz",
+        "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "cora\u00e7\u00e3o tambor",
+      "url": "https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -723,26 +743,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Apesar de Querer",
-        "url": "https://open.spotify.com/album/0ErKcgeiea7yFFpyBvXIpb"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Abacaxepa",
-          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Apesar de Querer",
-      "url": "https://open.spotify.com/track/6MbwzsouKfv44jkE6eA4j9"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "V\u00e1rias Ondas",
         "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
       },
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Juntin",
-        "url": "https://open.spotify.com/album/4wN9p2830m4vGoUrlZCV9L"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        },
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        }
-      ],
-      "duration_ms": 179841,
-      "name": "Juntin",
-      "url": "https://open.spotify.com/track/1sOoISLSEm5oyDkTfdxiph"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Maior Que N\u00f3s",
         "url": "https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51"
       },
@@ -819,22 +799,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Amanheceu (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
-      },
-      "artists": [
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        }
-      ],
-      "duration_ms": 196743,
-      "name": "Amanheceu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "N\u00f3s Dois Aqui",
         "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
       },
@@ -851,6 +815,42 @@
       "duration_ms": 241572,
       "name": "N\u00f3s Dois Aqui",
       "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Amanheceu (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "duration_ms": 196743,
+      "name": "Amanheceu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Juntin",
+        "url": "https://open.spotify.com/album/4wN9p2830m4vGoUrlZCV9L"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        },
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        }
+      ],
+      "duration_ms": 179841,
+      "name": "Juntin",
+      "url": "https://open.spotify.com/track/1sOoISLSEm5oyDkTfdxiph"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "In\u00edcio",
+        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 192371,
+      "name": "Conto as Horas",
+      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Simples Assim",
         "url": "https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 196546,
       "name": "Que Sorte",
       "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "In\u00edcio",
-        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 192371,
-      "name": "Conto as Horas",
-      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Balan\u00e7o de Amor",
-        "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        },
-        {
-          "name": "Curandeira",
-          "url": "https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp"
-        },
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
-        }
-      ],
-      "duration_ms": 199231,
-      "name": "Balan\u00e7o de Amor",
-      "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Entre Homens e Autom\u00f3veis",
         "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
       },
@@ -1047,22 +1023,6 @@
       "duration_ms": 189882,
       "name": "Mais Perto",
       "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Somos Instantes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1083,6 +1043,46 @@
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Somos Instantes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 224687,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Balan\u00e7o de Amor",
+        "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        },
+        {
+          "name": "Curandeira",
+          "url": "https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp"
+        },
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        }
+      ],
+      "duration_ms": 199231,
+      "name": "Balan\u00e7o de Amor",
+      "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
     },
     {
       "added_at": "2023-11-24 08:42:40",

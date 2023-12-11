@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 66418,
+  "num_followers": 66439,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzE1OGQwNTc1Nzk3Njk1NDY1YWMyYzdjODk4ZDRmOTE0N2UzOGIy",
+  "snapshot_id": "MCwwMDZmMzVkMWZhODUyYzNmZWU1OGU5YzM4NTYwZDYzNjFjMWUyOWU0",
   "tracks": [
     {
       "added_at": "2023-12-04 02:43:39",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-12-04 02:43:39",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Only in the Dark",
-      "url": "https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD"
-    },
-    {
-      "added_at": "2023-12-04 02:43:39",
-      "album": {
         "name": "Piano Songs",
         "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 225180,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
+    },
+    {
+      "added_at": "2023-12-04 02:43:39",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Only in the Dark",
+      "url": "https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD"
     },
     {
       "added_at": "2023-12-04 02:43:39",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-04 02:43:39",
       "album": {
-        "name": "Disney Covers Vol 1",
-        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Nielsen",
-          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
-        }
-      ],
-      "duration_ms": 186088,
-      "name": "God Help the Outcasts",
-      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
-    },
-    {
-      "added_at": "2023-12-04 02:43:39",
-      "album": {
         "name": "Living Memories",
         "url": "https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 185188,
       "name": "White Light",
       "url": "https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG"
+    },
+    {
+      "added_at": "2023-12-04 02:43:39",
+      "album": {
+        "name": "Disney Covers Vol 1",
+        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Nielsen",
+          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
+        }
+      ],
+      "duration_ms": 186088,
+      "name": "God Help the Outcasts",
+      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
     },
     {
       "added_at": "2023-12-04 02:43:39",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-04 02:43:39",
       "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
-      },
-      "artists": [
-        {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
-        }
-      ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
-    },
-    {
-      "added_at": "2023-12-04 02:43:39",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 148407,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
+    },
+    {
+      "added_at": "2023-12-04 02:43:39",
+      "album": {
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+      },
+      "artists": [
+        {
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+        }
+      ],
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2023-12-04 02:43:39",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-12-04 02:43:39",
       "album": {
-        "name": "Fristad",
-        "url": "https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn"
-      },
-      "artists": [
-        {
-          "name": "Domi Nova",
-          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Fristad",
-      "url": "https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2"
-    },
-    {
-      "added_at": "2023-12-04 02:43:39",
-      "album": {
         "name": "In The Stillness",
         "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 184389,
       "name": "Grounded Mind",
       "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+    },
+    {
+      "added_at": "2023-12-04 02:43:39",
+      "album": {
+        "name": "Fristad",
+        "url": "https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn"
+      },
+      "artists": [
+        {
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Fristad",
+      "url": "https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2"
     },
     {
       "added_at": "2023-12-04 02:43:39",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-12-04 02:43:39",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
-      },
-      "artists": [
-        {
-          "name": "Jakob Ahlbom",
-          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
-        }
-      ],
-      "duration_ms": 137290,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
-    },
-    {
-      "added_at": "2023-12-04 02:43:39",
-      "album": {
         "name": "Apples And Bananas",
         "url": "https://open.spotify.com/album/4AYW0ItGoV4ClM939MhDkE"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 91500,
       "name": "Apples And Bananas",
       "url": "https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb"
+    },
+    {
+      "added_at": "2023-12-04 02:43:39",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ahlbom",
+          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
+        }
+      ],
+      "duration_ms": 137290,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
     },
     {
       "added_at": "2023-12-04 02:43:39",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-04 02:43:39",
       "album": {
-        "name": "If You Must Go",
-        "url": "https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd"
-      },
-      "artists": [
-        {
-          "name": "Larry McDavid",
-          "url": "https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz"
-        }
-      ],
-      "duration_ms": 127624,
-      "name": "If You Must Go",
-      "url": "https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB"
-    },
-    {
-      "added_at": "2023-12-04 02:43:39",
-      "album": {
         "name": "A Place Like This",
         "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 121500,
       "name": "A Place Like This",
       "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
+    },
+    {
+      "added_at": "2023-12-04 02:43:39",
+      "album": {
+        "name": "If You Must Go",
+        "url": "https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd"
+      },
+      "artists": [
+        {
+          "name": "Larry McDavid",
+          "url": "https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz"
+        }
+      ],
+      "duration_ms": 127624,
+      "name": "If You Must Go",
+      "url": "https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB"
     },
     {
       "added_at": "2023-12-04 02:43:39",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-12-04 02:43:39",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
-      },
-      "artists": [
-        {
-          "name": "Vincent Fanguro",
-          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
-        }
-      ],
-      "duration_ms": 228038,
-      "name": "Peace Within",
-      "url": "https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE"
-    },
-    {
-      "added_at": "2023-12-04 02:43:39",
-      "album": {
         "name": "Chopin +",
         "url": "https://open.spotify.com/album/5Kh9ZZuFyKZ5gC4vRwyyLg"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 73573,
       "name": "Improvisation 7",
       "url": "https://open.spotify.com/track/0MCv1ES2lNZfmHYvIz6q1f"
+    },
+    {
+      "added_at": "2023-12-04 02:43:39",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
+      },
+      "artists": [
+        {
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
+        }
+      ],
+      "duration_ms": 228038,
+      "name": "Peace Within",
+      "url": "https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE"
     },
     {
       "added_at": "2023-12-04 02:43:39",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-12-04 02:43:39",
       "album": {
-        "name": "Magnificent",
-        "url": "https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn"
+        "name": "Swear on this Life",
+        "url": "https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw"
       },
       "artists": [
         {
-          "name": "Odette Montano",
-          "url": "https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC"
+          "name": "Fabienne Willis",
+          "url": "https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd"
+      "duration_ms": 132773,
+      "name": "Swear on this Life",
+      "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
     },
     {
       "added_at": "2023-12-04 02:43:39",
@@ -1475,34 +1475,18 @@
     {
       "added_at": "2023-12-04 02:43:39",
       "album": {
-        "name": "Swear on this Life",
-        "url": "https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw"
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn"
       },
       "artists": [
         {
-          "name": "Fabienne Willis",
-          "url": "https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9"
+          "name": "Odette Montano",
+          "url": "https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC"
         }
       ],
-      "duration_ms": 132773,
-      "name": "Swear on this Life",
-      "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
-    },
-    {
-      "added_at": "2023-12-04 02:43:39",
-      "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
-      },
-      "artists": [
-        {
-          "name": "Belinda Myers",
-          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Children Will Listen",
-      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
+      "duration_ms": 154000,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd"
     },
     {
       "added_at": "2023-12-04 02:43:39",
@@ -1539,6 +1523,22 @@
       "duration_ms": 200812,
       "name": "I See the Light - From \"Tangled\"",
       "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
+    },
+    {
+      "added_at": "2023-12-04 02:43:39",
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
+      },
+      "artists": [
+        {
+          "name": "Belinda Myers",
+          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Children Will Listen",
+      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
     },
     {
       "added_at": "2023-12-04 02:43:39",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-12-04 02:43:39",
       "album": {
+        "name": "Magari",
+        "url": "https://open.spotify.com/album/7jIDxPIv8IFMdVIsiZ2Sg5"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Lettiere",
+          "url": "https://open.spotify.com/artist/5umUIBjnV8j12Qu5Zeni2x"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Magari",
+      "url": "https://open.spotify.com/track/3cbYtmntj3mAHLoM1CEfzZ"
+    },
+    {
+      "added_at": "2023-12-04 02:43:39",
+      "album": {
         "name": "Lunaria",
         "url": "https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 139051,
       "name": "There You Were",
       "url": "https://open.spotify.com/track/2m6G2vP3x33rQhfmSYB9Iy"
-    },
-    {
-      "added_at": "2023-12-04 02:43:39",
-      "album": {
-        "name": "Magari",
-        "url": "https://open.spotify.com/album/7jIDxPIv8IFMdVIsiZ2Sg5"
-      },
-      "artists": [
-        {
-          "name": "Riccardo Lettiere",
-          "url": "https://open.spotify.com/artist/5umUIBjnV8j12Qu5Zeni2x"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Magari",
-      "url": "https://open.spotify.com/track/3cbYtmntj3mAHLoM1CEfzZ"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

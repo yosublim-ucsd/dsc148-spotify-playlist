@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 175678,
+  "num_followers": 175769,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTk0Njc0ZjM1NjM3NzM0NzQyYzgxZjQ4ZWM4NTE4NWY2MGIxZmEx",
+  "snapshot_id": "MCxkOWMwZDYyMWYxOWIzNzUzYzA5MzUyMzgyMzI0NTY5MTlkZDM2Yzk3",
   "tracks": [
     {
       "added_at": "2023-12-01 18:00:25",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Ten Impressions for Piano and Strings",
+        "url": "https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK"
+      },
+      "artists": [
+        {
+          "name": "Sean McCann",
+          "url": "https://open.spotify.com/artist/7c6kXSGmiGhrr8l3CSY0Y2"
+        }
+      ],
+      "duration_ms": 156422,
+      "name": "Sylvan Smoke",
+      "url": "https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "All I Hear Is Birds (Focus Rework)",
         "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 248506,
       "name": "All I Hear Is Birds - Focus Rework",
       "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Ten Impressions for Piano and Strings",
-        "url": "https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK"
-      },
-      "artists": [
-        {
-          "name": "Sean McCann",
-          "url": "https://open.spotify.com/artist/7c6kXSGmiGhrr8l3CSY0Y2"
-        }
-      ],
-      "duration_ms": 156422,
-      "name": "Sylvan Smoke",
-      "url": "https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "regrets",
         "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 136145,
       "name": "regrets - Slowed",
       "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Two Chambers",
+        "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Two Chambers",
+      "url": "https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Our True Nature",
         "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 278541,
       "name": "Migration Sun",
       "url": "https://open.spotify.com/track/5sw81wiy3iwmUulSlB6WxJ"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Two Chambers",
-        "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Two Chambers",
-      "url": "https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Nouveau-N\u00e9",
-        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Nouveau-N\u00e9 (Re-Imagined)",
-      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Introducing (Zazenkai Escape Ambient Re-Work)",
         "url": "https://open.spotify.com/album/2acOH83IutEkwFXvUBHXTV"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Nouveau-N\u00e9",
+        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 200862,
+      "name": "Nouveau-N\u00e9 (Re-Imagined)",
+      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Starlit Lake",
         "url": "https://open.spotify.com/album/0o3BzLWKCPllbznVgozHzg"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 297874,
       "name": "Interstellar Clouds",
       "url": "https://open.spotify.com/track/0cK11RP6yVl1OM6oIpUZre"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "High Peaks",
         "url": "https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt"
       },
@@ -1343,6 +1343,38 @@
       "duration_ms": 230750,
       "name": "The Ghosts we keep Inside Ourselves",
       "url": "https://open.spotify.com/track/0zafu3xeKBBa1aUo9vOGOV"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Conception",
+        "url": "https://open.spotify.com/album/51SIsJxGaN6FgnDjRB8WDM"
+      },
+      "artists": [
+        {
+          "name": "Playplain",
+          "url": "https://open.spotify.com/artist/6ox2mZTM2Sf7GeBm4ayN01"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Drift Through the Need",
+      "url": "https://open.spotify.com/track/15mfP42t0kKFtxbWVakQWa"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "duration_ms": 116875,
+      "name": "Golden Dust",
+      "url": "https://open.spotify.com/track/4hUaTmX1C1TsbjGvcL6vRP"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1375,22 +1407,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Conception",
-        "url": "https://open.spotify.com/album/51SIsJxGaN6FgnDjRB8WDM"
-      },
-      "artists": [
-        {
-          "name": "Playplain",
-          "url": "https://open.spotify.com/artist/6ox2mZTM2Sf7GeBm4ayN01"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Drift Through the Need",
-      "url": "https://open.spotify.com/track/15mfP42t0kKFtxbWVakQWa"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Westwind",
         "url": "https://open.spotify.com/album/54QBiA3s2a0taeJvZo0h8j"
       },
@@ -1407,58 +1423,6 @@
       "duration_ms": 142012,
       "name": "Westwind",
       "url": "https://open.spotify.com/track/0mEgHC8L8LkgnX9PADMq5z"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
-      },
-      "artists": [
-        {
-          "name": "Grandbrothers",
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
-        }
-      ],
-      "duration_ms": 116875,
-      "name": "Golden Dust",
-      "url": "https://open.spotify.com/track/4hUaTmX1C1TsbjGvcL6vRP"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "A Turning Earth",
-        "url": "https://open.spotify.com/album/0le0m5ADH12SfkysmxSNDx"
-      },
-      "artists": [
-        {
-          "name": "We Dream of Eden",
-          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
-        },
-        {
-          "name": "Human Is Alive",
-          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Taking New Ground",
-      "url": "https://open.spotify.com/track/6TPhWZQLHPo3FKfPQ0pzHX"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Isola",
-        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
-      },
-      "artists": [
-        {
-          "name": "Rumpistol",
-          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
-        }
-      ],
-      "duration_ms": 315960,
-      "name": "Vindheks",
-      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1487,6 +1451,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Isola",
+        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
+      },
+      "artists": [
+        {
+          "name": "Rumpistol",
+          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
+        }
+      ],
+      "duration_ms": 315960,
+      "name": "Vindheks",
+      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Intention II",
         "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
       },
@@ -1503,18 +1483,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "The Things We've Said and Done",
-        "url": "https://open.spotify.com/album/4S6UybRbvPeUZTtaKfAAuB"
+        "name": "A Turning Earth",
+        "url": "https://open.spotify.com/album/0le0m5ADH12SfkysmxSNDx"
       },
       "artists": [
         {
-          "name": "Infralyd",
-          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        },
+        {
+          "name": "Human Is Alive",
+          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
         }
       ],
-      "duration_ms": 264485,
-      "name": "Long Day?",
-      "url": "https://open.spotify.com/track/1MfqvxG31pJfnyL6xaWHu9"
+      "duration_ms": 243000,
+      "name": "Taking New Ground",
+      "url": "https://open.spotify.com/track/6TPhWZQLHPo3FKfPQ0pzHX"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "The Things We've Said and Done",
+        "url": "https://open.spotify.com/album/4S6UybRbvPeUZTtaKfAAuB"
+      },
+      "artists": [
+        {
+          "name": "Infralyd",
+          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
+        }
+      ],
+      "duration_ms": 264485,
+      "name": "Long Day?",
+      "url": "https://open.spotify.com/track/1MfqvxG31pJfnyL6xaWHu9"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "VIM",
         "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
       },
@@ -1547,54 +1547,6 @@
       "duration_ms": 207756,
       "name": "VIM",
       "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Flesh",
-        "url": "https://open.spotify.com/album/21RNVRDl7R8ihhc0crfTFr"
-      },
-      "artists": [
-        {
-          "name": "Jogging House",
-          "url": "https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka"
-        }
-      ],
-      "duration_ms": 434696,
-      "name": "Flesh",
-      "url": "https://open.spotify.com/track/5fFk95hDPNBF3UQkwSOim3"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Selected Works II",
-        "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 335402,
-      "name": "A Woman Escapes Cue 4",
-      "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1615,6 +1567,38 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Selected Works II",
+        "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 335402,
+      "name": "A Woman Escapes Cue 4",
+      "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "The Long Night in Winter Light",
         "url": "https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
+        "name": "Flesh",
+        "url": "https://open.spotify.com/album/21RNVRDl7R8ihhc0crfTFr"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "Jogging House",
+          "url": "https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka"
         }
       ],
-      "duration_ms": 140453,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
+      "duration_ms": 434696,
+      "name": "Flesh",
+      "url": "https://open.spotify.com/track/5fFk95hDPNBF3UQkwSOim3"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1663,6 +1647,22 @@
       "duration_ms": 295394,
       "name": "After the Flood",
       "url": "https://open.spotify.com/track/5uDNJnKd1gWSZnz0QeP6TO"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Dear (Haruhisa Tanaka Remix)",
+        "url": "https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3"
+      },
+      "artists": [
+        {
+          "name": "I.P.U",
+          "url": "https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD"
+        },
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 130280,
+      "name": "Dear - Haruhisa Tanaka Remix",
+      "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "The See Within",
         "url": "https://open.spotify.com/album/6PrE3djsB6qncqSHPX8BDW"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 173456,
       "name": "The See Within",
       "url": "https://open.spotify.com/track/1LV5enjdiftT01ts1r6Ue0"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Dear (Haruhisa Tanaka Remix)",
-        "url": "https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3"
-      },
-      "artists": [
-        {
-          "name": "I.P.U",
-          "url": "https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD"
-        },
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 130280,
-      "name": "Dear - Haruhisa Tanaka Remix",
-      "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
     },
     {
       "added_at": "2023-12-01 18:00:25",

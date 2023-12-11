@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: Gazo x Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,417 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,465 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 49 | [À L'AUBE](https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW) | [Hös Copperfield](https://open.spotify.com/artist/4fn6Kez1kGOO74vNuKrvCU), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [À L'AUBE](https://open.spotify.com/album/3dRIUWKwJ9lTV59OXqtUN8) | 3:10 |
 | 50 | [Coeur De Pirate](https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Coeur De Pirate](https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY) | 3:00 |
 
-Snapshot ID: `MCw0ZGQ0ZjdmMzM3MzRmNTdjOWNiZjgzMWQzOTU3MWVmNGYwNjZkNGUw`
+Snapshot ID: `MCwxZGVhNWU5MTAwMzZkZjE2NDk1MDVkMmVkZTAzY2Y3M2ZmYjc1NjBh`

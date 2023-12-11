@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > he was a boy, i was a horse\. could that make it any more difficult.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,653 likes - 143 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,735 likes - 143 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 68 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
 | 69 | [Friday Night](https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 3:25 |
 | 70 | [No.1 Crush](https://open.spotify.com/track/4GFfewzz3DGvsPowTn7no1) | [nil00](https://open.spotify.com/artist/3TADf84189Yznq4sPkRrXs) | [No.1 Crush](https://open.spotify.com/album/5VtLOIjLEdC0izqKvTqE6b) | 1:58 |
-| 71 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
+| 71 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
 | 72 | [Love Me Not](https://open.spotify.com/track/5byAOEQI3eoYLMYPVqibcb) | [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Love Me Not](https://open.spotify.com/album/73bJ0NPa4NLJUKrQICs0OB) | 3:06 |
 | 73 | [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Under my Bed](https://open.spotify.com/album/1bNIF4ct4CiV8u5SvSYywB) | 2:04 |
 | 74 | [FruitNinja.ipa](https://open.spotify.com/track/0Ukv1JUvVApUcleaxS8xvb) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo), [twikipedia](https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj) | [FruitNinja.ipa](https://open.spotify.com/album/6htGzYtQjYzAIie2qQhWTt) | 2:10 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 142 | [Lock Screen](https://open.spotify.com/track/47OXSrqD2OqBu3jI3R785W) | [plastic pet](https://open.spotify.com/artist/5LhRO5xKEb5FKQfQY0nke6), [TUNA DISPLAY](https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J) | [Lock Screen](https://open.spotify.com/album/3Vqzez3P1GB4yppr0aaCiL) | 4:47 |
 | 143 | [W.U.S.S\. \(why you so scared\)](https://open.spotify.com/track/7Hf2AUc1VUOGDvsd8yy2Ou) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9), [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [W.U.S.S\. \(why you so scared\)](https://open.spotify.com/album/1j55nj87PQvkooVWUfFftR) | 3:04 |
 
-Snapshot ID: `MCwwNTkxOGViYWNmYWMwNmYyOTdiMjRlNTQxODcxNGQ4ODVlNzc1YjJi`
+Snapshot ID: `MCxhZWFiYzBlMjRmOWE3Yzc1MGVmNjM5NTBiMTZjM2E3NjU4MjEzYTEw`

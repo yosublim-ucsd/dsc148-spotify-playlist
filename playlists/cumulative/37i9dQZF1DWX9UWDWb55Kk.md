@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-440 songs - 1 day 3 hr 51 min
+441 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,9 @@
 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 | 2022-04-08 |  |
 | [All About the Music](https://open.spotify.com/track/4ZYjeXb7idg3lSEKA1DHUI) | [WAS](https://open.spotify.com/artist/0Vy8ogc0toTWyui4W7FEB6) | [All About the Music](https://open.spotify.com/album/7wK6THr4RFx8DSSxHy9P0q) | 3:38 | 2021-09-01 |  |
 | [All I Need](https://open.spotify.com/track/45tEa06w991TxJZ2qWWFYe) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [it's the end of the world, but it's ok](https://open.spotify.com/album/62PLeXBXAAo4eRR3a8lKIs) | 4:10 | 2021-09-01 |  |
-| [All In Place](https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp) | 4:03 | 2022-11-24 |  |
-| [All In Place \(feat\. Bearcubs\) \[Nathan Fake Remix\]](https://open.spotify.com/track/5F2ktgdhVn79jwhnxouAjO) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [All In Place \(feat\. Bearcubs\) \[Remixes\]](https://open.spotify.com/album/4r6LMenu9pD3n3UYNbmTlp) | 6:24 | 2022-11-29 |  |
+| [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place](https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp) | 4:03 | 2022-11-24 |  |
+| [All In Place \(feat\. Bearcubs\) \(Nathan Fake Remix\)](https://open.spotify.com/track/0CBK22JtRADJszMrZSbnBD) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Giving Up Air \(Remixes\)](https://open.spotify.com/album/6TitMGZay7YyY7a0msiknE) | 6:24 | 2022-11-29 |  |
+| [All In Place \(feat\. Bearcubs\) \[Nathan Fake Remix\]](https://open.spotify.com/track/5F2ktgdhVn79jwhnxouAjO) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [All In Place \(feat\. Bearcubs\) \[Remixes\]](https://open.spotify.com/album/4r6LMenu9pD3n3UYNbmTlp) | 6:24 | 2022-11-29 | 2023-12-11 |
 | [All My Friends Are Falling In Love](https://open.spotify.com/track/0JAQUGJudVlhRoAqqhVoYX) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [All My Friends Are Falling In Love](https://open.spotify.com/album/36dPTCQrHjXgcgKhHi6jcV) | 3:30 | 2021-09-01 |  |
 | [Alright](https://open.spotify.com/track/4twn74u477hG5PlKmwl2hO) | [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Alright](https://open.spotify.com/album/5kS03UfZL4mr602XkFiEBN) | 3:58 | 2021-09-01 |  |
 | [Alta tensión](https://open.spotify.com/track/15n6UWbqyAVftmrl2Qfy99) | [Alaska Y Los Pegamoides](https://open.spotify.com/artist/60LKzdjqtmposRWQbVnGAI) | [Grandes Éxitos \- Edición Para Coleccionistas](https://open.spotify.com/album/3MHA0IRha04GHJwFHGFxdP) | 2:52 | 2022-04-08 |  |

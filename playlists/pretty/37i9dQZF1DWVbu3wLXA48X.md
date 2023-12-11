@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Adrianne Lenker
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,171 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,170 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 99 | [The Tern](https://open.spotify.com/track/7EcVoZPkdxpnTCCt8pblwK) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Tern](https://open.spotify.com/album/0jHJZUI0HYFHEVRiSnO5Sq) | 4:14 |
 | 100 | [Walk Your Heart Home](https://open.spotify.com/track/1nbquISEGb21tsBdVlaP6V) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Temptation](https://open.spotify.com/album/6AvHqghzOREIkOOOJoLhWw) | 3:41 |
 
-Snapshot ID: `MCwwNmRkNWNlYzU1NGZjY2ZmNTg4YTJmZDc0YmMxNWYyYzdmMDAzZWFj`
+Snapshot ID: `MCw0YjFjOWZkMjczZmYyZGU4MTlmMmEwNTk4YWRhOTMxZmExN2EwYzUy`

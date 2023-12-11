@@ -11941,6 +11941,24 @@
     },
     {
       "album": {
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/7bmRiZrMzbxwGPcvXw7sP6"
+      },
+      "artists": [
+        {
+          "name": "beatmon",
+          "url": "https://open.spotify.com/artist/57e9NWmKBJnNbKmEf4qOrk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115500,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/05GlRiSvnaggtZNRUa2uC0"
+    },
+    {
+      "album": {
         "name": "Longing For",
         "url": "https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30"
       },
@@ -13666,7 +13684,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 139681,
       "name": "Muy Tarde",
       "url": "https://open.spotify.com/track/2ja1xyVemtZKehVmPy1USL"
@@ -14678,6 +14696,24 @@
       "duration_ms": 172173,
       "name": "Off you go!",
       "url": "https://open.spotify.com/track/29szXKFMvX88CTRKJQ2S87"
+    },
+    {
+      "album": {
+        "name": "Oh Dear, its been a while",
+        "url": "https://open.spotify.com/album/6nxkxz1XLZ1Bnoyb0a810x"
+      },
+      "artists": [
+        {
+          "name": "Yankee Hart",
+          "url": "https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Oh Dear, its been a while",
+      "url": "https://open.spotify.com/track/1K9eYINfBVuW75487aGHrm"
     },
     {
       "album": {
@@ -17498,7 +17534,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 106305,
       "name": "rollups",
       "url": "https://open.spotify.com/track/0egGEXJbXSsahzn67PQmPr"

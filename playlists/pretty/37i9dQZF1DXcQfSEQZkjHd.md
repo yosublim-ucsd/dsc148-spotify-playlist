@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQfSEQZkjHd.md) - [plain]
 
 > Flirty tracks Tove Lo loves\. Put this on when you want your intentions to be obvious..\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,065 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,094 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQfSEQZkjHd.md) - [plain]
 | 5 | [Baby](https://open.spotify.com/track/2lE8pY64icLsx6k0Wr9iVF) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:39 |
 | 6 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/3fBFxEPqWhrdoWGrmaacFq) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:02 |
 | 7 | [Hot Flavor](https://open.spotify.com/track/1TjdChJkvO0puE4YugH6ne) | [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [Hot Flavor](https://open.spotify.com/album/1GqmYS5dHoMGLUp3jByxAO) | 3:38 |
-| 8 | [Save Me](https://open.spotify.com/track/49OKGVDSoyJMAEH7oGubKa) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 3:18 |
+| 8 | [Save Me](https://open.spotify.com/track/7Gk5kyMG2PwHSg3PNX7Qcr) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/4BYaSHRWW0tn3tZv4fhDnQ) | 3:18 |
 | 9 | [Lights On](https://open.spotify.com/track/01ZqsXtHhRtO2Z2JrvkG1w) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:39 |
 | 10 | [No Kink in the Wire](https://open.spotify.com/track/4qIwGVYW7OINlnBfMMlKSM) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Mt\. Pleasant](https://open.spotify.com/album/0ZjTwAs6QJit4LmOs1Z8TB) | 5:30 |
 | 11 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |

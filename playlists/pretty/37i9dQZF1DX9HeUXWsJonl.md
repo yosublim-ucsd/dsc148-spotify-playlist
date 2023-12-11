@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Les hits tunisiens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,475 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,557 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Trafiquant](https://open.spotify.com/track/0oVCJc8jyrrhFvighWUAP2) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Trafiquant](https://open.spotify.com/album/6GMy1L0OFXE5UXY5scYimM) | 3:25 |
 | 2 | [Sada9tha](https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Sada9tha](https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq) | 3:31 |
-| 3 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 |
-| 4 | [Manetfergou](https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Manetfergou](https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8) | 3:17 |
-| 5 | [Merteh \- مرتاح](https://open.spotify.com/track/1cdgSRY4IhYtx7w9QSZaHe) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Merteh \(مرتاح\)](https://open.spotify.com/album/38rvM6WsLXixyKndh2rDEX) | 4:05 |
-| 6 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 |
-| 7 | [Ghariba \- غريبة](https://open.spotify.com/track/2YZVac5l4SD169JDjkxssD) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ghariba \(غريبة\)](https://open.spotify.com/album/58g0RtDsBvyaPYFm8rNjP9) | 4:05 |
-| 8 | [Streams](https://open.spotify.com/track/6Vtl6NEo5P7SIz1FI4jfv3) | [Noor Arjoun](https://open.spotify.com/artist/6XNtfxejdOwe52THEb2FBA), [Selim Arjoun](https://open.spotify.com/artist/1x5vwzJm10nLzIyspRRPu1), [Dhalma](https://open.spotify.com/artist/5nBnuz27wNFubJjmRTRNPC) | [Streams](https://open.spotify.com/album/5S6j2JUXKM6XD3bltc5Mqu) | 5:03 |
+| 3 | [Streams](https://open.spotify.com/track/6Vtl6NEo5P7SIz1FI4jfv3) | [Noor Arjoun](https://open.spotify.com/artist/6XNtfxejdOwe52THEb2FBA), [Selim Arjoun](https://open.spotify.com/artist/1x5vwzJm10nLzIyspRRPu1), [Dhalma](https://open.spotify.com/artist/5nBnuz27wNFubJjmRTRNPC) | [Streams](https://open.spotify.com/album/5S6j2JUXKM6XD3bltc5Mqu) | 5:03 |
+| 4 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 |
+| 5 | [Manetfergou](https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Manetfergou](https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8) | 3:17 |
+| 6 | [Merteh \- مرتاح](https://open.spotify.com/track/1cdgSRY4IhYtx7w9QSZaHe) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Merteh \(مرتاح\)](https://open.spotify.com/album/38rvM6WsLXixyKndh2rDEX) | 4:05 |
+| 7 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 |
+| 8 | [Ghariba \- غريبة](https://open.spotify.com/track/2YZVac5l4SD169JDjkxssD) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ghariba \(غريبة\)](https://open.spotify.com/album/58g0RtDsBvyaPYFm8rNjP9) | 4:05 |
 | 9 | [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 |
 | 10 | [Sahara \- سهّارة](https://open.spotify.com/track/0zDdQ9LQW6Fu6EAIQ34l92) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Sahara \(سهّارة\)](https://open.spotify.com/album/6ZFP3CKGbHnXK9Cuzhdyus) | 2:56 |
 | 11 | [Manansech \- مننساش](https://open.spotify.com/track/0ZHftCnY8Dlvpo8CFF2SBn) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Manansech \(مننساش\)](https://open.spotify.com/album/1uTvUDzsXMJlFuIbeNyvKp) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Tomorrow](https://open.spotify.com/track/4wzFYKgyMtU8KDl8d7N1Ry) | [Naqqa](https://open.spotify.com/artist/65D6dxtE0d7MoKoJfxOEyH), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Tomorrow](https://open.spotify.com/album/1BNLeUBIAYE6dPAKjKV21M) | 4:03 |
 | 50 | [BLA BLA](https://open.spotify.com/track/4XDaWzm0Y6gZoRuo2engXC) | [Youssef Mounes](https://open.spotify.com/artist/6sMjcbHchN0wUoMmYhKSD2) | [BLA BLA](https://open.spotify.com/album/5qy4gJpXBGvCqlAM7uyVTj) | 2:48 |
 
-Snapshot ID: `MCxjNjU2ZDYzYzkxNzNhNDI5YjIwY2RjNjdmNDJjYzc5ZGQ2ZjkwN2Nm`
+Snapshot ID: `MCxjYWZmYzFmMjVmY2Q4OGZhNDZkODM4NjBmMDdjOGEzMDNkNDgxODIw`

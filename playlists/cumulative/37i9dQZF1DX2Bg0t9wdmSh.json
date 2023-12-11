@@ -746,10 +746,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 173610,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3mRlFZHUyvJbPTlkzg4LyJ"
+    },
+    {
+      "album": {
+        "name": "Collection One",
+        "url": "https://open.spotify.com/album/1VYRUsEjoHAnE1NNa0Tj3z"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173610,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/47MhyGA0XUtF9lZJtny3Pd"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Tita Lau",
-  "num_followers": 599283,
+  "num_followers": 599457,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjRiMDYwYTdhN2VmNjAyYzQxNGE4NjljMzM3NzhkZjNlNzBhN2Jj",
+  "snapshot_id": "MCxiZDRmYmJmNzc1ODFjZWU5OGY3NzM2MzhhMGZmY2EyMDRlNDhmNjc5",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1123,18 +1123,26 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Tudo Bem, Tudo Bom",
-        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
+        "name": "Gas Pedal (Kyle Watson Remix)",
+        "url": "https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Sage The Gemini",
+          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+        },
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
         }
       ],
-      "duration_ms": 178125,
-      "name": "Tudo Bem, Tudo Bom - Radio Edit",
-      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
+      "duration_ms": 183318,
+      "name": "Gas Pedal - Kyle Watson Remix",
+      "url": "https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1163,26 +1171,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Gas Pedal (Kyle Watson Remix)",
-        "url": "https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg"
+        "name": "Tudo Bem, Tudo Bom",
+        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
       },
       "artists": [
         {
-          "name": "Sage The Gemini",
-          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
-        },
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 183318,
-      "name": "Gas Pedal - Kyle Watson Remix",
-      "url": "https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl"
+      "duration_ms": 178125,
+      "name": "Tudo Bem, Tudo Bom - Radio Edit",
+      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Do My Thing",
+        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 182109,
+      "name": "Do My Thing",
+      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Chakachaka",
         "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 160645,
       "name": "Chakachaka",
       "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Do My Thing",
-        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 182109,
-      "name": "Do My Thing",
-      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2001,22 +2001,6 @@
       "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 225116,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "This Mixtape is Fire TOO",
@@ -2035,6 +2019,22 @@
       "duration_ms": 206998,
       "name": "On A Trip (with Marten H\u00f8rger)",
       "url": "https://open.spotify.com/track/61nIe3FaqSOGtWdL1dsHCc"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 225116,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2135,6 +2135,42 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Say It To My Face",
+        "url": "https://open.spotify.com/album/7paSCVBfktpNZjGfIHBKp9"
+      },
+      "artists": [
+        {
+          "name": "Melissa Pools",
+          "url": "https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW"
+        },
+        {
+          "name": "Axel North",
+          "url": "https://open.spotify.com/artist/3R6uxVGkeyvGM6i9Dipr7h"
+        }
+      ],
+      "duration_ms": 132736,
+      "name": "Say It To My Face",
+      "url": "https://open.spotify.com/track/2Y7str4JalVvAAFcKALeyl"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Bim Boom Bam",
+        "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
+      },
+      "artists": [
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        }
+      ],
+      "duration_ms": 144023,
+      "name": "Bim Boom Bam",
+      "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Energy (feat. Techno Tupac)",
         "url": "https://open.spotify.com/album/782lLArC8cRM2vl9MbVGci"
       },
@@ -2177,42 +2213,6 @@
       "url": "https://open.spotify.com/track/74JGPkr0Lb0KOTJJvp28UH"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Say It To My Face",
-        "url": "https://open.spotify.com/album/7paSCVBfktpNZjGfIHBKp9"
-      },
-      "artists": [
-        {
-          "name": "Melissa Pools",
-          "url": "https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW"
-        },
-        {
-          "name": "Axel North",
-          "url": "https://open.spotify.com/artist/3R6uxVGkeyvGM6i9Dipr7h"
-        }
-      ],
-      "duration_ms": 132736,
-      "name": "Say It To My Face",
-      "url": "https://open.spotify.com/track/2Y7str4JalVvAAFcKALeyl"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Bim Boom Bam",
-        "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
-      },
-      "artists": [
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        }
-      ],
-      "duration_ms": 144023,
-      "name": "Bim Boom Bam",
-      "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Pa Lante",
@@ -2241,22 +2241,6 @@
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "I Got U",
-        "url": "https://open.spotify.com/album/4kl7iQhSvKlcIOHLttDlIA"
-      },
-      "artists": [
-        {
-          "name": "Paul Damixie",
-          "url": "https://open.spotify.com/artist/0nkCaGdwKdFsufB3GbvCdk"
-        }
-      ],
-      "duration_ms": 195765,
-      "name": "I Got U",
-      "url": "https://open.spotify.com/track/4qZ0WykWxm9aImzOI4Ig6L"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Sick With It",
@@ -2273,22 +2257,6 @@
       "url": "https://open.spotify.com/track/15zpqXOkvL346KQVCK0lYT"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "All Night",
@@ -2303,6 +2271,38 @@
       "duration_ms": 177195,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "I Got U",
+        "url": "https://open.spotify.com/album/4kl7iQhSvKlcIOHLttDlIA"
+      },
+      "artists": [
+        {
+          "name": "Paul Damixie",
+          "url": "https://open.spotify.com/artist/0nkCaGdwKdFsufB3GbvCdk"
+        }
+      ],
+      "duration_ms": 195765,
+      "name": "I Got U",
+      "url": "https://open.spotify.com/track/4qZ0WykWxm9aImzOI4Ig6L"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/0gvBqzpRrgaqyUwrPLZ84A"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 199750,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/6sGTKPKsrNRMg96OUhSUWo"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Club Rompas",
         "url": "https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 176000,
       "name": "Blisters on My Feet",
       "url": "https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Think About It",
-        "url": "https://open.spotify.com/album/0gvBqzpRrgaqyUwrPLZ84A"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 199750,
-      "name": "Think About It",
-      "url": "https://open.spotify.com/track/6sGTKPKsrNRMg96OUhSUWo"
     }
   ],
   "unique_name": "Tech House Operator",

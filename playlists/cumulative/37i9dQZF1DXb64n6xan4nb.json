@@ -2474,7 +2474,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 272386,
       "name": "\uc815\ub9d0 \uc0ac\ub791\ud588\uc744\uae4c",
       "url": "https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4"
@@ -2514,6 +2514,24 @@
       "duration_ms": 243546,
       "name": "\uc911\ub3c5",
       "url": "https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc18c\ub77c 1\uc9d1",
+        "url": "https://open.spotify.com/album/2PwgctO9OueSiENB9sseUp"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264542,
+      "name": "\ucc98\uc74c \ub290\ub08c \uadf8\ub300\ub85c",
+      "url": "https://open.spotify.com/track/2ZNUK5het1OwJvjkVzzoNC"
     },
     {
       "album": {

@@ -4868,10 +4868,32 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 135000,
       "name": "Raggarbil",
       "url": "https://open.spotify.com/track/42hMLGWV8lNXgfXOeLnxLC"
+    },
+    {
+      "album": {
+        "name": "ALBUMTRAOZ",
+        "url": "https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Raggarbil",
+      "url": "https://open.spotify.com/track/6iV9GKfPUxeCSGnUotAM0k"
     },
     {
       "album": {

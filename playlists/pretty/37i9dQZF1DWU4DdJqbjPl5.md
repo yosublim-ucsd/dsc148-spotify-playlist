@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=kMra\_ARaTXqkgg75udSQAA"> Tems</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,304 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,504 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [Borderline](https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [All Things Considered](https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP) | 2:50 |
 | 80 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 |
 
-Snapshot ID: `MCwwZDM5MDY4ZDJiZjRhNGEzZDJlZTQ5ZDYwNmZhNjkzMjg0OTM3YTdk`
+Snapshot ID: `MCwxNWRjN2YwMmEzMjM2NTNkNDI1YTMyNzg2ZGEyYWVmNjYyNWFkMGQ2`

@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 162535,
+  "num_followers": 162592,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTI4NGJkYjg1YzE1NWExOGFkMjgwMjU4N2JmOWQzOWJiYzZhMjEw",
+  "snapshot_id": "MCxjMmE2YmEwNjRmMDNlNmE4ZDNhOGIyM2IzZDRkMWJmZDY0OTZlMzBh",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -187,22 +187,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Starlight (Live)",
-        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/55Fm920hiqUcGhKuv8hjgV"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         },
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
         }
       ],
-      "duration_ms": 299365,
-      "name": "King of My Heart - Live",
-      "url": "https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6"
+      "duration_ms": 208205,
+      "name": "Brother (feat. Gavin DeGraw)",
+      "url": "https://open.spotify.com/track/62M9yafZsSRzlsphzeJPGo"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -227,22 +227,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/55Fm920hiqUcGhKuv8hjgV"
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
       },
       "artists": [
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 208205,
-      "name": "Brother (feat. Gavin DeGraw)",
-      "url": "https://open.spotify.com/track/62M9yafZsSRzlsphzeJPGo"
+      "duration_ms": 299365,
+      "name": "King of My Heart - Live",
+      "url": "https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -483,6 +483,26 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 216940,
+      "name": "Until Grace",
+      "url": "https://open.spotify.com/track/52stVyuGiZ0QOWAAb27ZY4"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "No Longer Slaves (Radio Version)",
         "url": "https://open.spotify.com/album/69pv7F33kbIP0PxynOW0VA"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 249213,
       "name": "No Longer Slaves - Radio Version",
       "url": "https://open.spotify.com/track/2W1EsT0BlEnFaPe44Q71N5"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 216940,
-      "name": "Until Grace",
-      "url": "https://open.spotify.com/track/52stVyuGiZ0QOWAAb27ZY4"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -727,18 +727,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
       },
       "artists": [
         {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 204800,
-      "name": "I Have This Hope",
-      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
+      "duration_ms": 218106,
+      "name": "Fight On, Fighter",
+      "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -767,18 +767,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
       "artists": [
         {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
         }
       ],
-      "duration_ms": 218106,
-      "name": "Fight On, Fighter",
-      "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
+      "duration_ms": 204800,
+      "name": "I Have This Hope",
+      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -799,22 +799,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Christmas: The Peace Project",
         "url": "https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 274386,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Strong Tower",
-        "url": "https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Strong Tower",
-      "url": "https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Lead Us Back: Songs of Worship",
         "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 238600,
       "name": "Your Words (feat. Harvest) (feat. Harvest)",
       "url": "https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Strong Tower",
+        "url": "https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Strong Tower",
+      "url": "https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh"
     },
     {
       "added_at": "2020-07-23 14:38:16",

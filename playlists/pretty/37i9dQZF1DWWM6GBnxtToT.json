@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 580659,
+  "num_followers": 580698,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGM3YjFkMDk3ZjY0MWIxM2VhZDI4N2VjMmE2YjFlYmIwMThjN2Jj",
+  "snapshot_id": "MCw3MWM1OWYxODEzYjUxZGExY2I5NWZmYmM1N2U1YjJiOWNjZWE4MWI4",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Tonight (feat. Ezra Koenig)",
         "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "minuit",
-        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
-      },
-      "artists": [
-        {
-          "name": "Clementine",
-          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
-        },
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "minuit",
-      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "minuit",
+        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
+      },
+      "artists": [
+        {
+          "name": "Clementine",
+          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
+        },
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "minuit",
+      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Why You Lacking Energy?",
-        "url": "https://open.spotify.com/album/5Oky6qpyguBJj42ajNfxEu"
-      },
-      "artists": [
-        {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/3Y9CkOkl5eotKgClQMZvdw"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Hotel Surrender",
         "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 222936,
       "name": "Get High",
       "url": "https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Why You Lacking Energy?",
+        "url": "https://open.spotify.com/album/5Oky6qpyguBJj42ajNfxEu"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/3Y9CkOkl5eotKgClQMZvdw"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Tenderfoot",
         "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 128703,
       "name": "Tenderfoot",
       "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Mister Burns",
-        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mister Burns",
-      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "A-Train",
         "url": "https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 215307,
       "name": "A-Train - Edit",
       "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Mister Burns",
+        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mister Burns",
+      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Dancing in the City (Radio Edit)",
-        "url": "https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o"
-      },
-      "artists": [
-        {
-          "name": "Siamese Elephants",
-          "url": "https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80"
-        }
-      ],
-      "duration_ms": 201994,
-      "name": "Dancing in the City (Radio Edit)",
-      "url": "https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Passion (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Proportions",
-        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
+        "name": "Dancing in the City (Radio Edit)",
+        "url": "https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o"
       },
       "artists": [
         {
-          "name": "Seed to Tree",
-          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
+          "name": "Siamese Elephants",
+          "url": "https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80"
         }
       ],
-      "duration_ms": 277480,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
+      "duration_ms": 201994,
+      "name": "Dancing in the City (Radio Edit)",
+      "url": "https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Proportions",
+        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
+      },
+      "artists": [
+        {
+          "name": "Seed to Tree",
+          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Things Are Great",
         "url": "https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 223053,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Colour Me Blue",
-      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1199,6 +1183,22 @@
       "duration_ms": 228092,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Colour Me Blue",
+      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Here, Right Now",
-        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "Going with You",
-      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Waste My Life",
         "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 160853,
       "name": "Waste My Life",
       "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Here, Right Now",
+        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "Going with You",
+      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Young Romance (Deluxe)",
-        "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 279676,
-      "name": "Falling Back",
-      "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Always on My Mind",
         "url": "https://open.spotify.com/album/5i0Y2Sy1MsI93LMM8FcyX4"
       },
@@ -1411,22 +1395,6 @@
       "duration_ms": 209564,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/6JBOTY4U3xGtE2Wpzp2uA3"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1447,6 +1415,38 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Young Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 279676,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "More Than Happiness",
         "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Majored In Broken Hearts",
-        "url": "https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV"
-      },
-      "artists": [
-        {
-          "name": "Two Year Vacation",
-          "url": "https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ"
-        }
-      ],
-      "duration_ms": 191499,
-      "name": "Majored In Broken Hearts",
-      "url": "https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Live Vol. 1",
         "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 175375,
       "name": "IknowhowIfeel - from Hansa Studios, Berlin",
       "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Majored In Broken Hearts",
+        "url": "https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV"
+      },
+      "artists": [
+        {
+          "name": "Two Year Vacation",
+          "url": "https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ"
+        }
+      ],
+      "duration_ms": 191499,
+      "name": "Majored In Broken Hearts",
+      "url": "https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Morning Dew",
-        "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
-      },
-      "artists": [
-        {
-          "name": "Moglii",
-          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
-        }
-      ],
-      "duration_ms": 159454,
-      "name": "Morning Dew",
-      "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Impossible Weight",
         "url": "https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 202493,
       "name": "Impossible Weight - feat. Sharon Van Etten",
       "url": "https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
+      },
+      "artists": [
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        }
+      ],
+      "duration_ms": 159454,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
     },
     {
       "added_at": "2023-10-19 09:54:20",

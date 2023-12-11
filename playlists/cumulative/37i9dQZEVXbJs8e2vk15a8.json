@@ -5404,7 +5404,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 201084,
       "name": "CHUPON",
       "url": "https://open.spotify.com/track/7v4JGOsUkblqcvOJ0YpNUU"
@@ -14114,7 +14114,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 183247,
       "name": "LA NEGRITA",
       "url": "https://open.spotify.com/track/4lHP7JSvlDZ6EeVZg5Ud0q"
@@ -22048,7 +22048,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 136360,
       "name": "Perro Salchicha",
       "url": "https://open.spotify.com/track/16BBRNgw82jgleM4Ds31GG"
@@ -23346,7 +23346,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
@@ -27514,7 +27514,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 171588,
       "name": "Tendo - Remix",
       "url": "https://open.spotify.com/track/5iQlORQQ6qpj9QSyWoxLbs"
@@ -31630,6 +31630,24 @@
       "duration_ms": 176053,
       "name": "\u00c9nfasis",
       "url": "https://open.spotify.com/track/46NV3wb1MJ10d6HatAWzr0"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0436\u0430\u0433\u0430-\u0434\u0436\u0430\u0433\u0430",
+        "url": "https://open.spotify.com/album/5bqf6dvtEfpmc9IqM2wSLz"
+      },
+      "artists": [
+        {
+          "name": "Katya Lel",
+          "url": "https://open.spotify.com/artist/3NguMMTDTItRbe2E2PZrJ2"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223190,
+      "name": "\u041c\u043e\u0439 \u043c\u0430\u0440\u043c\u0435\u043b\u0430\u0434\u043d\u044b\u0439 (\u042f \u043d\u0435 \u043f\u0440\u0430\u0432\u0430)",
+      "url": "https://open.spotify.com/track/1Hg0KhBCuME4PgsTYMBK9y"
     },
     {
       "album": {

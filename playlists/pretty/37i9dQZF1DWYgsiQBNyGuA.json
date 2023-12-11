@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 71444,
+  "num_followers": 71493,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWViYTgyMDFhOTM4NTE2ZjUxMGJmOTE5ZmYzMDU5NzczNWNhNzNm",
+  "snapshot_id": "MCxjNjA5ZjEyY2I4MDgyNTBlMDMwM2Q4Nzk0ZDExMDAyMjZjZWU3MTNh",
   "tracks": [
     {
       "added_at": "2023-10-06 09:12:51",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
       "artists": [
         {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Cornbread, Fish & Collard Greens",
-      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
+      "duration_ms": 238480,
+      "name": "Let My People Go",
+      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
       "artists": [
         {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 238480,
-      "name": "Let My People Go",
-      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
+      "duration_ms": 273893,
+      "name": "Cornbread, Fish & Collard Greens",
+      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
-      },
-      "artists": [
-        {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+      },
+      "artists": [
+        {
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
         "name": "Soul Revolution",
         "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 199520,
       "name": "Positivity",
       "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -955,22 +971,6 @@
       "duration_ms": 212116,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
-        "name": "A Weird Kinda Wonderful",
-        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
-      },
-      "artists": [
-        {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
-        }
-      ],
-      "duration_ms": 311453,
-      "name": "Can't Change Me",
-      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Feels So Good (Don\u2019t It)",
-        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
-      },
-      "artists": [
-        {
-          "name": "Secret Rendezvous",
-          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
-        }
-      ],
-      "duration_ms": 209524,
-      "name": "Feels So Good Don\u2019t It",
-      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 214960,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "Feels So Good (Don\u2019t It)",
+        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
+      },
+      "artists": [
+        {
+          "name": "Secret Rendezvous",
+          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
+        }
+      ],
+      "duration_ms": 209524,
+      "name": "Feels So Good Don\u2019t It",
+      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Bless My Soul",
-        "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
+        "name": "Ben L'Oncle Soul",
+        "url": "https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj"
       },
       "artists": [
         {
-          "name": "Shawn Lee",
-          "url": "https://open.spotify.com/artist/47tCcKYrErv1FGvFCgGX8E"
-        },
-        {
-          "name": "Angels Of Libra",
-          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
         }
       ],
-      "duration_ms": 226290,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm"
+      "duration_ms": 222453,
+      "name": "Soulman - New English Version",
+      "url": "https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1279,6 +1275,26 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
+        "name": "Bless My Soul",
+        "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
+      },
+      "artists": [
+        {
+          "name": "Shawn Lee",
+          "url": "https://open.spotify.com/artist/47tCcKYrErv1FGvFCgGX8E"
+        },
+        {
+          "name": "Angels Of Libra",
+          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
+        }
+      ],
+      "duration_ms": 226290,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 265560,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
-        "name": "Ben L'Oncle Soul",
-        "url": "https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Soulman - New English Version",
-      "url": "https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V"
     },
     {
       "added_at": "2023-10-06 09:12:51",

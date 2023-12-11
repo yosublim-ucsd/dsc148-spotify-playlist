@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTHlwqNeZ4l.md) - [plain]
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,225 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,226 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTHlwqNeZ4l.md) - [plain]
 | 20 | [Mountains Have a Face Too](https://open.spotify.com/track/7bJyIcYNVDhGHerkDswuyh) | [Billion One](https://open.spotify.com/artist/72xr3FQtagwbPYSErz7JYt), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Minerva](https://open.spotify.com/album/4LZSCfxSKPlr8nEkRy9ydH) | 4:27 |
 | 21 | [Work \- Lost Kings Remix](https://open.spotify.com/track/3Qnqmo5wfuEpMKf8b9Cg1n) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [Work \(Remixes\)](https://open.spotify.com/album/4zuZnAmDCk2FIl8ZfvvmoD) | 4:18 |
 | 22 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
-| 23 | [Real Love](https://open.spotify.com/track/6sNy4KFU2xAIrFZ5DUtDUp) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 4:17 |
+| 23 | [Real Love \- 2023 Remaster](https://open.spotify.com/track/7LTUCZcEv05vnvyEsn9HBT) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 4:17 |
 | 24 | [Whole Lot of Heart](https://open.spotify.com/track/6Nvc82bjwooWPGwaBixf6s) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Alter Egos](https://open.spotify.com/album/1p4ZKxMRpLcgONdy4rLKXJ) | 3:35 |
-| 25 | [Chroma](https://open.spotify.com/track/74hmy168eOivZZhdLJKU8v) | [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Chroma](https://open.spotify.com/album/3yMzf0bNHMAL8A6wunIHYi) | 7:29 |
+| 25 | [Chroma](https://open.spotify.com/track/3pHAZPhKxGoRKXVZK484XO) | [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Chroma](https://open.spotify.com/album/11ZmZDSCNMCWvh2lpgYiy5) | 7:29 |
 | 26 | [Tegan and Sara on Their Music](https://open.spotify.com/track/2pU9KIVKzkq30Ie8hcEzgn) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:28 |
 | 27 | [Operator \(He Doesn't Call Me\)](https://open.spotify.com/track/56sYN9utLyjGXju9rU8lWi) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:24 |
 
-Snapshot ID: `MCw0NzUxMmI4NDgzOGI4YjcwOGQ4MzI5MGE1NmRkMDk0Yjg5NmI3MzI2`
+Snapshot ID: `MCxjOWI5MDQxMTE3YjRmOTRmMDMzYjk4NDhmZDg4YThlZjY0NmU3YTQx`

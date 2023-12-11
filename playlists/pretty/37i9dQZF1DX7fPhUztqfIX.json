@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 115835,
+  "num_followers": 115888,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDM1OTE1MTgyYzA4MTQ5YTVjZTRiMmZhZWVlMGEzMmUwNzI0YTE4",
+  "snapshot_id": "MCxmZTUwZTZmMjA2OGE1NjI3MDhlOTgxZTY0MDRmOTdlZDJiYThmYmFi",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Even The Impossible (Live)",
+        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 290133,
+      "name": "Even The Impossible - Live",
+      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Even The Impossible (Live)",
-        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 290133,
-      "name": "Even The Impossible - Live",
-      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "All Of Us (All Praise) [Live]",
         "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 386906,
       "name": "All Praise - Live",
       "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "You Are Fullness",
-        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 320080,
-      "name": "You Are Fullness",
-      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Spirit Of God",
         "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 289480,
       "name": "Jesus My Treasure",
       "url": "https://open.spotify.com/track/5gK1uutVAMPNMVNlFmrmjg"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "You Are Fullness",
+        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 320080,
+      "name": "You Are Fullness",
+      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 357404,
-      "name": "Just The Cross",
-      "url": "https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "A Thousand More",
         "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 359710,
       "name": "A Thousand More - Live",
       "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 357404,
+      "name": "Just The Cross",
+      "url": "https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Exalt (Worship Version)",
-        "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 292840,
-      "name": "Come Holy Spirit - Worship Version",
-      "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "My Worship (Live)",
         "url": "https://open.spotify.com/album/1FE5cVevOjLl6SauUbrEM6"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 459120,
       "name": "My Worship - Live",
       "url": "https://open.spotify.com/track/0CaD1v9lFnjI5jc1Ao34Ju"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Exalt (Worship Version)",
+        "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 292840,
+      "name": "Come Holy Spirit - Worship Version",
+      "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "We Have The Name",
-        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 346591,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "I Heard a Song I Can't Ignore",
         "url": "https://open.spotify.com/album/53YgGrvY32WGW97USevt8m"
       },
@@ -1967,18 +1951,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl"
+        "name": "We Have The Name",
+        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
       },
       "artists": [
         {
-          "name": "Battledrums",
-          "url": "https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ"
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
         }
       ],
-      "duration_ms": 341328,
-      "name": "Edge of Heaven",
-      "url": "https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6"
+      "duration_ms": 346591,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1995,6 +1979,22 @@
       "duration_ms": 414698,
       "name": "King Jesus - Live",
       "url": "https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl"
+      },
+      "artists": [
+        {
+          "name": "Battledrums",
+          "url": "https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ"
+        }
+      ],
+      "duration_ms": 341328,
+      "name": "Edge of Heaven",
+      "url": "https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 259399,
+      "name": "PEACE",
+      "url": "https://open.spotify.com/track/4D8Qp4TZCL9ibaTkIIOqWA"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Find a Reason",
         "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 254310,
       "name": "Praise Your Name (feat. Desi Raines)",
       "url": "https://open.spotify.com/track/7wJgpOcsk9f4zMUd5RDSMX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 259399,
-      "name": "PEACE",
-      "url": "https://open.spotify.com/track/4D8Qp4TZCL9ibaTkIIOqWA"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Stained Glass Stories",
-        "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
-      },
-      "artists": [
-        {
-          "name": "Philippa Hanna",
-          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
-        }
-      ],
-      "duration_ms": 222906,
-      "name": "Freedom Found Me",
-      "url": "https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Lord You Have My Heart (feat. Martin Smith)",
         "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 267467,
       "name": "Lord You Have My Heart (feat. Martin Smith)",
       "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Stained Glass Stories",
+        "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
+      },
+      "artists": [
+        {
+          "name": "Philippa Hanna",
+          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
+        }
+      ],
+      "duration_ms": 222906,
+      "name": "Freedom Found Me",
+      "url": "https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj"
     }
   ],
   "unique_name": "New & Bold",

@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes da mistura pop dividindo o mesmo palco!  / Foto: CHAMELEO",
-  "num_followers": 367348,
+  "num_followers": 367373,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGNiY2NkMjMwN2VjY2ExMjQ0MzVlZTUxMzU1ZGNkYzZhN2U1MzE0",
+  "snapshot_id": "MCwwNDI0NGNlOWNmZmQyZTMzY2Y2ZjU2ODYxZjU5YTEzNTUyOTI2MzFh",
   "tracks": [
     {
       "added_at": "2023-12-08 10:18:48",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
+        "name": "POCPOC",
+        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "POCPOC",
+      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
+    },
+    {
+      "added_at": "2023-12-08 10:18:48",
+      "album": {
         "name": "Hotel Caro",
         "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 221857,
       "name": "Hotel Caro",
       "url": "https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH"
-    },
-    {
-      "added_at": "2023-12-08 10:18:48",
-      "album": {
-        "name": "POCPOC",
-        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "POCPOC",
-      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
     },
     {
       "added_at": "2023-12-08 10:18:48",
@@ -411,7 +411,7 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
-        "name": "Quer Dan\u00e7ar",
+        "name": "QUER DAN\u00c7AR",
         "url": "https://open.spotify.com/album/0dcppOWM61TlHS4cfaE451"
       },
       "artists": [
@@ -425,7 +425,7 @@
         }
       ],
       "duration_ms": 130729,
-      "name": "Quer Dan\u00e7ar",
+      "name": "QUER DAN\u00c7AR",
       "url": "https://open.spotify.com/track/1g1elRYAuQ7BHMpeejvvKH"
     },
     {
@@ -527,18 +527,22 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
       "artists": [
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
     },
     {
       "added_at": "2023-12-08 10:18:48",
@@ -627,22 +631,18 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         }
       ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2023-12-08 10:18:48",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
-        "name": "Dois",
-        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 142765,
-      "name": "ne-yo",
-      "url": "https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5"
-    },
-    {
-      "added_at": "2023-12-08 10:18:48",
-      "album": {
         "name": "NOVA ERA Part. I",
         "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 188976,
       "name": "Mal\u00edcia",
       "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
+    },
+    {
+      "added_at": "2023-12-08 10:18:48",
+      "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 142765,
+      "name": "ne-yo",
+      "url": "https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5"
     },
     {
       "added_at": "2023-12-08 10:18:48",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
+        "name": "Deixa Acender",
+        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
+      },
+      "artists": [
+        {
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "Deixa Acender",
+      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
+    },
+    {
+      "added_at": "2023-12-08 10:18:48",
+      "album": {
         "name": "Algum Lugar Pra Gente Viajar",
         "url": "https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
-    },
-    {
-      "added_at": "2023-12-08 10:18:48",
-      "album": {
-        "name": "Deixa Acender",
-        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
-      },
-      "artists": [
-        {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Deixa Acender",
-      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
     },
     {
       "added_at": "2023-12-08 10:18:48",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
+        "name": "deu pra sentir?",
+        "url": "https://open.spotify.com/album/0GQQnrdqZsLcbiebflnDXT"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 144896,
+      "name": "deu pra sentir?",
+      "url": "https://open.spotify.com/track/0NILfuLrTeAxhdDRFRsOcG"
+    },
+    {
+      "added_at": "2023-12-08 10:18:48",
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2"
       },
@@ -1347,18 +1363,22 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
-        "name": "deu pra sentir?",
-        "url": "https://open.spotify.com/album/0GQQnrdqZsLcbiebflnDXT"
+        "name": "JOVEM (DELUXE)",
+        "url": "https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M"
       },
       "artists": [
         {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        },
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 144896,
-      "name": "deu pra sentir?",
-      "url": "https://open.spotify.com/track/0NILfuLrTeAxhdDRFRsOcG"
+      "duration_ms": 174873,
+      "name": "colorida",
+      "url": "https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV"
     },
     {
       "added_at": "2023-12-08 10:18:48",
@@ -1379,26 +1399,6 @@
       "duration_ms": 172308,
       "name": "eu vivo negando o amor",
       "url": "https://open.spotify.com/track/3dUjqZzAvcy7RQGJSDj1fi"
-    },
-    {
-      "added_at": "2023-12-08 10:18:48",
-      "album": {
-        "name": "JOVEM (DELUXE)",
-        "url": "https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        },
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 174873,
-      "name": "colorida",
-      "url": "https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV"
     },
     {
       "added_at": "2023-12-08 10:18:48",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
-      },
-      "artists": [
-        {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
-        },
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 158829,
-      "name": "Pegada de Vil\u00e3",
-      "url": "https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm"
-    },
-    {
-      "added_at": "2023-12-08 10:18:48",
-      "album": {
         "name": "INFAME",
         "url": "https://open.spotify.com/album/5RqXMcLv0YNhAN6PA9OSjw"
       },
@@ -1487,18 +1467,22 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
-        "name": "cinco anos em cinco minutos",
-        "url": "https://open.spotify.com/album/10iYPXAHfK0rwB5gNQFr31"
+        "name": "93",
+        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
       "artists": [
         {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
         }
       ],
-      "duration_ms": 143664,
-      "name": "cinco anos em cinco minutos",
-      "url": "https://open.spotify.com/track/1wIP79xCQuRtIOPXsWOyoI"
+      "duration_ms": 158829,
+      "name": "Pegada de Vil\u00e3",
+      "url": "https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm"
     },
     {
       "added_at": "2023-12-08 10:18:48",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
+        "name": "cinco anos em cinco minutos",
+        "url": "https://open.spotify.com/album/10iYPXAHfK0rwB5gNQFr31"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        }
+      ],
+      "duration_ms": 143664,
+      "name": "cinco anos em cinco minutos",
+      "url": "https://open.spotify.com/track/1wIP79xCQuRtIOPXsWOyoI"
+    },
+    {
+      "added_at": "2023-12-08 10:18:48",
+      "album": {
         "name": "Flor da Idade",
         "url": "https://open.spotify.com/album/3EaofuMgRgID0QiWKbtj9X"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 216118,
       "name": "Flor da Idade",
       "url": "https://open.spotify.com/track/7byqYK458bCwphyDg66d6G"
+    },
+    {
+      "added_at": "2023-12-08 10:18:48",
+      "album": {
+        "name": "Achei Que Te Amava",
+        "url": "https://open.spotify.com/album/3xEQJh50k3B47QSuMIJxio"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "duration_ms": 158890,
+      "name": "Achei Que Te Amava",
+      "url": "https://open.spotify.com/track/2CeDA1fxF2pKXOjSNnjyDx"
     },
     {
       "added_at": "2023-12-08 10:18:48",
@@ -1599,22 +1615,6 @@
       "duration_ms": 142105,
       "name": "Canc\u00fan",
       "url": "https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn"
-    },
-    {
-      "added_at": "2023-12-08 10:18:48",
-      "album": {
-        "name": "Achei Que Te Amava",
-        "url": "https://open.spotify.com/album/3xEQJh50k3B47QSuMIJxio"
-      },
-      "artists": [
-        {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
-        }
-      ],
-      "duration_ms": 158890,
-      "name": "Achei Que Te Amava",
-      "url": "https://open.spotify.com/track/2CeDA1fxF2pKXOjSNnjyDx"
     },
     {
       "added_at": "2023-12-08 10:18:48",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-12-08 10:18:48",
       "album": {
-        "name": "TRI \u00c2NGULOS",
-        "url": "https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z"
-      },
-      "artists": [
-        {
-          "name": "Lell\u00ea",
-          "url": "https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY"
-        }
-      ],
-      "duration_ms": 119874,
-      "name": "PEGADA DE CRIA",
-      "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
-    },
-    {
-      "added_at": "2023-12-08 10:18:48",
-      "album": {
         "name": "Juras De Amor",
         "url": "https://open.spotify.com/album/7kHFuafy2K2CSNghMZuFsY"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 179236,
       "name": "Juras De Amor",
       "url": "https://open.spotify.com/track/5TTerkWDZPhRqFaHBTfiV0"
+    },
+    {
+      "added_at": "2023-12-08 10:18:48",
+      "album": {
+        "name": "TRI \u00c2NGULOS",
+        "url": "https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z"
+      },
+      "artists": [
+        {
+          "name": "Lell\u00ea",
+          "url": "https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY"
+        }
+      ],
+      "duration_ms": 119874,
+      "name": "PEGADA DE CRIA",
+      "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
     },
     {
       "added_at": "2023-12-08 10:18:48",

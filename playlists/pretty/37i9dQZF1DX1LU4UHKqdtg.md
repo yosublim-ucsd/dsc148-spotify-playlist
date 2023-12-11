@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: NMIXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,484 likes - 82 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,608 likes - 82 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 81 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
 | 82 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 
-Snapshot ID: `MCxmNWMwM2FlZjVmMzBjMGFhMDg0NjFkODhhMjE2M2VhYjllYjY0YTNi`
+Snapshot ID: `MCwzM2NjY2RkZjYwODQyOTAzY2VkMjAxZDQ2NjIxMTc5YmRlNzNmYzhl`

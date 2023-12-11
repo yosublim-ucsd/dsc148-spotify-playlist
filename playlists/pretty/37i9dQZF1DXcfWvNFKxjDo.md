@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Diplo, Maren Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,567 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,656 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 67 | [Felt A Little Like](https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Felt A Little Like](https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1) | 3:37 |
 | 68 | [Nightmares](https://open.spotify.com/track/1kTZtIjl3t03WzJZJuytSM) | [PASSIK](https://open.spotify.com/artist/0bo2VeKBPFR4jRI0c5JWsp), [Cole Morehead](https://open.spotify.com/artist/6gHxIZilVw6JePsq6gqHyZ) | [Nightmares](https://open.spotify.com/album/3SAplUTNa6rJRtD1xObtZi) | 2:35 |
 | 69 | [Runaway](https://open.spotify.com/track/2pofjLCQ7tRtNQA9MVbzfv) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Runaway](https://open.spotify.com/album/7dylTp33NDWNwugN9HiIB4) | 1:56 |
-| 70 | [Outbound \(feat\. grandpa juile\)](https://open.spotify.com/track/1hN9P4VZol7Hxfn7Z4ZHBu) | [Hitch](https://open.spotify.com/artist/0EqZqTzwUy9Sgm7yFIllLo), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/album/31Z21p10mUPCn4hQfGsVZv) | 3:39 |
+| 70 | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/track/1hN9P4VZol7Hxfn7Z4ZHBu) | [Hitch](https://open.spotify.com/artist/0EqZqTzwUy9Sgm7yFIllLo), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/album/31Z21p10mUPCn4hQfGsVZv) | 3:39 |
 | 71 | [Hello \(Call All My Friends\)](https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Hello \(Call All My Friends\)](https://open.spotify.com/album/2OlzZDJPCpBeH0zElBaisI) | 2:18 |
 | 72 | [Bringing Me Home](https://open.spotify.com/track/6Uuh5KUTe7ujO2vhpruqW7) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Bringing Me Home](https://open.spotify.com/album/1WdDBOFiSMGuAuLUKJbvXL) | 3:29 |
 | 73 | [In The City \(Charli XCX & Sam Smith\) \- DJ HEARTSTRING REMIX](https://open.spotify.com/track/1PPyQo1k7wI1U6BcaD0ZfT) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City \(Charli XCX & Sam Smith\) \[DJ HEARTSTRING REMIX\]](https://open.spotify.com/album/4DgbJO2O9XXAMYXP6j3cX6) | 3:33 |

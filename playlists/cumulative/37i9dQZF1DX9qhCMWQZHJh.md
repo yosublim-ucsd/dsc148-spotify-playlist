@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-80 songs - 5 hr 7 min
+81 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [heights](https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [heights](https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j) | 3:51 | 2022-04-11 |  |
 | [holy terrain](https://open.spotify.com/track/5ZmzzBiEAIVCkgsPyh80gt) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 4:03 | 2022-04-11 |  |
 | [I'm a Wheel \- Sandboards Remix](https://open.spotify.com/track/1z2xv5OP3YRaushvU52S2Y) | [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [Buddy Zapha](https://open.spotify.com/artist/0LIghSBzyt4aXvXnC2Ea6z), [Sandboards](https://open.spotify.com/artist/0b9nRoESDT63nvLGIhktdT) | [I'm a Wheel](https://open.spotify.com/album/18QWJ3yPqNv5OHMFih7yDr) | 5:23 | 2022-04-11 |  |
-| [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2022-04-11 |  |
+| [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2022-04-11 | 2023-12-11 |
+| [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 | 2022-04-11 |  |
 | [Jacuzzi \- J Rick Remix](https://open.spotify.com/track/4H89ZzgPG7A8jYvVCEXpgW) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [J Rick](https://open.spotify.com/artist/3b0OO3bmtd9oXo3EOW8KHZ) | [Jacuzzi \(J Rick Remix\)](https://open.spotify.com/album/4evytfyo3pD6YXO1Kf5n6L) | 3:02 | 2022-04-11 |  |
 | [Losing You](https://open.spotify.com/track/29kMmvimeOyKb60VEX7aj5) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP) | 4:20 | 2022-04-11 | 2022-11-05 |
 | [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 | 2022-04-11 |  |

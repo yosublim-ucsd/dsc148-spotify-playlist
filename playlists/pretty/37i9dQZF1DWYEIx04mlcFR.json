@@ -1,12 +1,12 @@
 {
   "description": "La nueva generaci\u00f3n del pop que defini\u00f3 el 2023 con RENEE en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 66747,
+  "num_followers": 66784,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmU5NDU3NmRiNWQwZDUwY2Q5M2JhNGNkYWQyMmE5Y2IwNDI2Y2Vm",
+  "snapshot_id": "MCwwMGFjMTM1YWVkZTQzZWU2MGE0ZjFiMDYzNjUxNWUyMWM2YzIwYTRi",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
         "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "LO QUE PAS\u00d3 UNA VEZ",
-        "url": "https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t"
-      },
-      "artists": [
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
-        }
-      ],
-      "duration_ms": 150013,
-      "name": "LO QUE PAS\u00d3 UNA VEZ",
-      "url": "https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Recuerdos de un amor",
         "url": "https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 210357,
       "name": "TQM",
       "url": "https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "LO QUE PAS\u00d3 UNA VEZ",
+        "url": "https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t"
+      },
+      "artists": [
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "duration_ms": 150013,
+      "name": "LO QUE PAS\u00d3 UNA VEZ",
+      "url": "https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -575,6 +575,26 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "A Sus \u00d3rdenes",
+        "url": "https://open.spotify.com/album/23cpCT5WYsJq7lr1C5JTOO"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Alta Joya",
+      "url": "https://open.spotify.com/track/3eULD3gV9SBdt3yYsycDUd"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "El Principal",
         "url": "https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v"
       },
@@ -595,22 +615,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "A Sus \u00d3rdenes",
-        "url": "https://open.spotify.com/album/23cpCT5WYsJq7lr1C5JTOO"
+        "name": "Desamor Feliz Pt. 2",
+        "url": "https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj"
       },
       "artists": [
         {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Alta Joya",
-      "url": "https://open.spotify.com/track/3eULD3gV9SBdt3yYsycDUd"
+      "duration_ms": 156168,
+      "name": "Desamor Feliz Pt. 2",
+      "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -635,22 +651,6 @@
       "duration_ms": 166813,
       "name": "Despejao",
       "url": "https://open.spotify.com/track/0FgZOpqfzeuaogejdUrcfR"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Desamor Feliz Pt. 2",
-        "url": "https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 156168,
-      "name": "Desamor Feliz Pt. 2",
-      "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
     },
     {
       "added_at": "2023-11-29 12:16:00",

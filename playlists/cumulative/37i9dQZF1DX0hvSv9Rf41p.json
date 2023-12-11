@@ -8466,10 +8466,44 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 194993,
       "name": "Monzo",
       "url": "https://open.spotify.com/track/4uEE7AyvysiCXq7jBdj4NJ"
+    },
+    {
+      "album": {
+        "name": "Monzo",
+        "url": "https://open.spotify.com/album/5RqzZF8XxszlNScsFkQBAu"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        },
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "X&G",
+          "url": "https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG"
+        },
+        {
+          "name": "Gaszia",
+          "url": "https://open.spotify.com/artist/4g1Lsci8x957T6ksPgsW6Z"
+        },
+        {
+          "name": "Kollaba",
+          "url": "https://open.spotify.com/artist/6Ls6gOeudldLCGkNCgUMTG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194993,
+      "name": "Monzo",
+      "url": "https://open.spotify.com/track/6AU1pwtdQEzBVhFFpsMsMo"
     },
     {
       "album": {

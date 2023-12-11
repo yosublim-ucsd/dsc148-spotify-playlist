@@ -1,6 +1,6 @@
 {
   "description": "Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.",
-  "num_followers": 44131,
+  "num_followers": 44139,
   "original_name": "The Pop Lounge",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,30 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 214459,
+      "name": "Potion (with Dua Lipa & Young Thug)",
+      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Lipstick",
         "url": "https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV"
       },
@@ -223,30 +247,6 @@
       "duration_ms": 175636,
       "name": "Crush",
       "url": "https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Potion (with Dua Lipa & Young Thug)",
-        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 214459,
-      "name": "Potion (with Dua Lipa & Young Thug)",
-      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -331,22 +331,6 @@
       "duration_ms": 182856,
       "name": "Good Without",
       "url": "https://open.spotify.com/track/0xqHkO5570zlGpLpCnd4MG"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Best Day Of My Life",
-        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 146895,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -451,22 +435,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 200759,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
       },
@@ -515,22 +483,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 187544,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Can You Afford To Lose Me?",
         "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
       },
@@ -547,18 +499,34 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/0uu8cPSov9nCPWlfWs8c6d"
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s"
       },
       "artists": [
         {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         }
       ],
-      "duration_ms": 183849,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X"
+      "duration_ms": 187544,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -575,6 +543,22 @@
       "duration_ms": 213818,
       "name": "Liar Liar",
       "url": "https://open.spotify.com/track/7c0tqRk43Y0QXTOYZ5lnkA"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/0uu8cPSov9nCPWlfWs8c6d"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 183849,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "We Could Start a Thing",
+        "url": "https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "We Could Start a Thing",
+      "url": "https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "half a world away",
         "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 207954,
       "name": "half a world away",
       "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "We Could Start a Thing",
-        "url": "https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg"
-      },
-      "artists": [
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "We Could Start a Thing",
-      "url": "https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1055,22 +1039,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Honeymoon Phase",
-        "url": "https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi"
-      },
-      "artists": [
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Love You've Lost",
-      "url": "https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/0cI7LukQT1A8d3orxjBUwR"
       },
@@ -1083,6 +1051,22 @@
       "duration_ms": 199241,
       "name": "I Know",
       "url": "https://open.spotify.com/track/7xMtHMEyRCktv2UmDYG8kP"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Honeymoon Phase",
+        "url": "https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Love You've Lost",
+      "url": "https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "When The Light Hits The Room",
-        "url": "https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep"
-      },
-      "artists": [
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 177701,
-      "name": "Rest of My Life",
-      "url": "https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Trippin",
         "url": "https://open.spotify.com/album/5czzOP2xMdJJybVvju91DF"
       },
@@ -1203,6 +1171,38 @@
       "duration_ms": 190438,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/2VTV2S3TThrY5fGjWHZ6yu"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "When The Light Hits The Room",
+        "url": "https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep"
+      },
+      "artists": [
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 177701,
+      "name": "Rest of My Life",
+      "url": "https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 146895,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO"
     }
   ],
   "unique_name": "The Pop Lounge",

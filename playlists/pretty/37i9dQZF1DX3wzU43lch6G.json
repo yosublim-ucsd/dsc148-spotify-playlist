@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 103338,
+  "num_followers": 103333,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTFmMWJhYTA0MTIyNDNhZWU0NjM4MzA4NjY2OGQ0OWYwMWI2YTEz",
+  "snapshot_id": "MCxjNWUwYWEzNTRlY2M0NjVkMzk4Zjc5NTk1ZjdiZWQwYWU0MGQxNzNl",
   "tracks": [
     {
       "added_at": "2023-11-16 21:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Ke\u015fke Benim Olsan",
-        "url": "https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR"
-      },
-      "artists": [
-        {
-          "name": "Kozmos",
-          "url": "https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Ke\u015fke Benim Olsan",
-      "url": "https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
         "name": "\u015eehir Yaln\u0131zl\u0131\u011f\u0131",
         "url": "https://open.spotify.com/album/5MgGccROaHVkJQJaR8Ok1r"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 237422,
       "name": "Nara",
       "url": "https://open.spotify.com/track/11m3VyqxqUiiviJnwEzwBb"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
+        "name": "Ke\u015fke Benim Olsan",
+        "url": "https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR"
+      },
+      "artists": [
+        {
+          "name": "Kozmos",
+          "url": "https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Ke\u015fke Benim Olsan",
+      "url": "https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Sonsuza Kadar",
-        "url": "https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0"
+        "name": "Nokta",
+        "url": "https://open.spotify.com/album/7qU1wsdRbnLXCkNEjotc2p"
       },
       "artists": [
         {
-          "name": "Kalben",
-          "url": "https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV"
+          "name": "Ersay \u00dcner",
+          "url": "https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB"
         }
       ],
-      "duration_ms": 177661,
-      "name": "Ben Her Zaman Sana A\u015f\u0131kt\u0131m",
-      "url": "https://open.spotify.com/track/4CWwQBDEI444gJh9rSg6iB"
+      "duration_ms": 265994,
+      "name": "Selam",
+      "url": "https://open.spotify.com/track/5ujFCaNhNEWlM9TERC0FXm"
     }
   ],
   "unique_name": "K\u0131y\u0131 Boyu",

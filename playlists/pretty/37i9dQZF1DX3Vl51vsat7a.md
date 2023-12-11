@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ÄTNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,988 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,986 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 5 | [Retail Therapy](https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Retail Therapy](https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI) | 2:28 |
 | 6 | [James Blake](https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn) | 3:44 |
 | 7 | [sweatshop](https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [sweatshop](https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS) | 2:29 |
-| 8 | [Bahnhof](https://open.spotify.com/track/7DKc8Gbi54gknk0qMRzOhO) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Nate57](https://open.spotify.com/artist/5PIdjtNMwJgYituTP77U3X), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Bahnhof](https://open.spotify.com/album/6u2OSCJpCOE5kOLhZb3V4g) | 2:43 |
+| 8 | [BAHNHOF](https://open.spotify.com/track/7DKc8Gbi54gknk0qMRzOhO) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Nate57](https://open.spotify.com/artist/5PIdjtNMwJgYituTP77U3X), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [BAHNHOF](https://open.spotify.com/album/6u2OSCJpCOE5kOLhZb3V4g) | 2:43 |
 | 9 | [Cover Up My Face](https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2) | 3:24 |
 | 10 | [FRANKENSTEIN](https://open.spotify.com/track/1TedN903wyVk0dX1gdiADm) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [FRANKENSTEIN](https://open.spotify.com/album/2soZWSMd2glxCRjBNgrws2) | 3:57 |
 | 11 | [ADHD](https://open.spotify.com/track/6YYjOdTC6r8woS303ScscC) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [ADHD](https://open.spotify.com/album/1R8E8cwhWD2NI1Y04F6rQu) | 3:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 |
 | 60 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 |
 
-Snapshot ID: `MCwxZDRjMjliMmNmMDgyYzRjYjBjNTI2OTZmNDM4MTJhMjA3YjRkZDdk`
+Snapshot ID: `MCw4YmJmYWEwNTdiZTZmOTA1ODZlYjY1YTI4MzY1OGU5MTUyYjhmNTUx`

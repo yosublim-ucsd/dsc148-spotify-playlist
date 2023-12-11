@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,971 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,045 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 2 | [Whitby](https://open.spotify.com/track/7JVjcxfs9CG6Ozlmibdrkl) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Whitby](https://open.spotify.com/album/14YTLf3CZsyOvooAwyJfUV) | 3:15 |
 | 3 | [the color of the sky \- solo piano](https://open.spotify.com/track/06UlQEupfklesVD0OB2N87) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(solo piano\)](https://open.spotify.com/album/5CwNs4a2hBPimKHRvb6rM0) | 3:43 |
 | 4 | [Future Love \(Reimagined by Pêtr Aleksänder\) \- Instrumental](https://open.spotify.com/track/3mug1SqX316NBMW9Gab4hv) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds in the Mirror \(This Is Not a Safe Place Reimagined by Pêtr Aleksänder\) \[Instrumentals\]](https://open.spotify.com/album/5J1t0MUxKrixwW0RuyaBJb) | 3:03 |
-| 5 | [Loom \- Sunrise Session II](https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU) | [Loom \(Sunrise Session II\)](https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5) | 3:46 |
+| 5 | [Loom \- Sunrise Session II](https://open.spotify.com/track/3ZgOaxUgKP9gaN2xdRWrEM) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU) | [Sunrise Session II](https://open.spotify.com/album/6qaLyQ7bPB8sjrer4K01bj) | 3:46 |
 | 6 | [Bylur](https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 4:11 |
 | 7 | [Deux Pensées](https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Deux Pensées](https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA) | 2:49 |
 | 8 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 99 | [Piano Sonata No\. 9: II\. Lento](https://open.spotify.com/track/28E9jz4D9f3j4pkLo67ZFe) | [Anis Fuleihan](https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E), [Tatiana Primak\-Khoury](https://open.spotify.com/artist/1erZzEQ3UqiP7kNDe2rQy6) | [Lebanese Piano Music](https://open.spotify.com/album/6C6FXqvkxp62ZmImOXuHPz) | 4:08 |
 | 100 | [Aria variata, BWV 989: Var\. 10](https://open.spotify.com/track/55yVBAj9RlTiZLtzjwJ79H) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tamara Stefanovich](https://open.spotify.com/artist/3j715uRkAjPRwIvUB7ruMC) | [Influences](https://open.spotify.com/album/0T0QqdUwohT4wESYVgHLtd) | 2:32 |
 
-Snapshot ID: `MCxmNzhhMDVkYzhhMDUzZTkyZGY0YWM4OThiOTMxZjFmODQwNDlkMmJj`
+Snapshot ID: `MCw4OGIzZmQ0YTI4MjI1YTBmOTg0MDI0YmI1NTE5ZDQ2ZjEyMmEzMjY4`

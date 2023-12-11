@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-735 songs - 1 day 15 hr 44 min
+736 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2023-02-17 |  |
 | [Drive Me Home \- GOLDHOUSE Remix](https://open.spotify.com/track/149Rcv6foJRa7COnnmUkNs) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Drive Me Home \(Remixes\)](https://open.spotify.com/album/5KF1m0zhkRyUzCrCF6ua61) | 3:07 | 2019-09-05\* | 2020-10-13 |
 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 | 2020-01-30 | 2021-09-25 |
-| [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 | 2021-08-28 |  |
+| [edamame](https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a) | 2:13 | 2023-12-08 |  |
+| [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 | 2021-08-28 | 2023-12-11 |
 | [eighty\-five](https://open.spotify.com/track/3QqdwK6b3QTRIWkT9oNYb1) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN), [Atwood](https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [Colliding With Mars](https://open.spotify.com/artist/2K7iE9Z2ySIBKsG8UnG8PR), [Garrett.](https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY), [planet girl](https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv) | [eighty\-five](https://open.spotify.com/album/7CsSVXp6GWGA7kTaqbUxm2) | 3:12 | 2020-07-24 | 2021-09-25 |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-03-03 | 2023-07-01 |
 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 | 2022-08-12 | 2022-12-28 |

@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-657 songs - 1 day 2 hr 41 min
+659 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [outta pocket](https://open.spotify.com/track/3K9nYguUdYNPB8APzCAk7R) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [outta pocket](https://open.spotify.com/album/1c8PXZmTKvn1JER2EaKjg8) | 1:37 | 2023-09-08 |  |
 | [oyoyoy](https://open.spotify.com/track/3olHLiTm1rO8x0MzyP1ad7) | [bito bitox](https://open.spotify.com/artist/4biX5gqFgXs4cSzHcdVFms) | [oyoyoy](https://open.spotify.com/album/6pC5QrbAOUJcl4Tu62lRmR) | 2:24 | 2023-09-08 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/0Po3LlQVxAG4F7P4xceR7b) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [P.S\. I Love You](https://open.spotify.com/album/3lyhm1eO4SAd3Kqg3OE1YM) | 2:07 | 2023-09-08 |  |
+| [palm](https://open.spotify.com/track/2Hwwu9plR7Y0lBxByDiaYS) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [palm](https://open.spotify.com/album/4bFFUeBi8kPYsZl5g0XdqR) | 2:05 | 2023-12-08 |  |
 | [Palme](https://open.spotify.com/track/1yJR8z4s4lASBJ4wfMG8zc) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Palme](https://open.spotify.com/album/4bSIoqXG6MbAxWCCvpVcGW) | 1:50 | 2023-09-08 |  |
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 |  |
 | [Past Bedtime](https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Past Bedtime](https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky) | 2:05 | 2023-09-29 |  |
@@ -504,9 +505,9 @@
 | [Sleepy Turtle](https://open.spotify.com/track/1PMKS7BnOOXwFpEyspGwd3) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Sleepy Turtle](https://open.spotify.com/album/0HXsJ0Dwrx5Kf4Py3fngRa) | 2:27 | 2023-09-08 |  |
 | [Slick As A Swan](https://open.spotify.com/track/0Mka9kWv6P518Cz1ga626I) | [Nice Gii](https://open.spotify.com/artist/4y04SK9f1oYHAZ8WDHy9wi) | [Slick As A Swan](https://open.spotify.com/album/5u9gRxKr2hwPFFtWDepX2o) | 2:12 | 2023-11-17 |  |
 | [Slipping Mats](https://open.spotify.com/track/72wDz8RDKFvffQJhHucHDy) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Slipping Mats](https://open.spotify.com/album/3wH3cUze42grMn3r4LTZHF) | 2:29 | 2023-09-08 |  |
-| [Slowdown](https://open.spotify.com/track/2IpmQO6mPAmx3StyIDpqKe) | [landq](https://open.spotify.com/artist/1RbHqyLEOuXC9fy1me1VFJ) | [Slowdown](https://open.spotify.com/album/4BIBrBkF0tGLUsid8qR738) | 2:09 | 2023-09-08 |  |
+| [Slowdown](https://open.spotify.com/track/2IpmQO6mPAmx3StyIDpqKe) | [landq](https://open.spotify.com/artist/1RbHqyLEOuXC9fy1me1VFJ) | [Slowdown](https://open.spotify.com/album/4BIBrBkF0tGLUsid8qR738) | 2:09 | 2023-09-08 | 2023-12-11 |
 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 | 2023-11-24 |  |
-| [Smells Like Silverblue](https://open.spotify.com/track/6OmRE9XnZrMMfS9TuuQCPU) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Smells Like Silverblue](https://open.spotify.com/album/21oPNtdHyQvc3V0BQ5SG35) | 2:40 | 2023-09-08 |  |
+| [Smells Like Silverblue](https://open.spotify.com/track/6OmRE9XnZrMMfS9TuuQCPU) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Smells Like Silverblue](https://open.spotify.com/album/21oPNtdHyQvc3V0BQ5SG35) | 2:40 | 2023-09-08 | 2023-12-11 |
 | [SMOKE BREAK](https://open.spotify.com/track/3CPtS5vGos6uIlYf0Nqc4L) | [NIGHTSHOW](https://open.spotify.com/artist/3eO8RkSNmOmPFIRXP6i1S8) | [SMOKE BREAK](https://open.spotify.com/album/1EjwtUUR8Ju58b9UUQiD4v) | 3:19 | 2022-02-17 | 2023-09-09 |
 | [Soakysun](https://open.spotify.com/track/4mY6CgDg0SU6YeqnQpNHQT) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Soakysun](https://open.spotify.com/album/6IYzaxjgbNHy5KftjruUE8) | 2:02 | 2023-09-08 |  |
 | [Social Jazz](https://open.spotify.com/track/7GzdWuACBcAB9nmz0JJ4Pl) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Social Jazz](https://open.spotify.com/album/2FOY9O0VU5AEfvmEXQYbQT) | 2:01 | 2023-09-08 |  |
@@ -553,6 +554,7 @@
 | [Sunset Wish](https://open.spotify.com/track/5OuutCf0GMIB0fSyI2kHNr) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Sunset Wish](https://open.spotify.com/album/63RgFySdicgg8HLgCbSTen) | 2:14 | 2023-09-08 |  |
 | [Sunshine](https://open.spotify.com/track/4noLQWyJ28F0zFz6eTSOOW) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Ultramarinblau](https://open.spotify.com/artist/0ZzVsShp5a93vikX006voH) | [Sunshine](https://open.spotify.com/album/5ufcAAHfkltz0Ch9ZDTWTX) | 2:24 | 2023-09-08 |  |
 | [Sunshine](https://open.spotify.com/track/0jI9YXwJOdw9qScRjns6TG) | [Xblaze](https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j) | [Sunshine](https://open.spotify.com/album/4SMjgiYm2cBcaYdeADCDZs) | 2:08 | 2023-09-08 |  |
+| [supajam](https://open.spotify.com/track/0EJPiTVZZJ4LIrfQcQpDlI) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [supajam](https://open.spotify.com/album/2qoWl3DKNFoKvMQSv79tl0) | 2:00 | 2023-12-08 |  |
 | [Supalonley](https://open.spotify.com/track/3Bhi8rQjwOviWEpnt17Ser) | [Instant Influence](https://open.spotify.com/artist/5Enyz9z97MuIj0QCfUOT1X) | [Supalonely](https://open.spotify.com/album/3gT6m4IDzhjMUot8ZgKAIM) | 3:07 | 2023-09-08 |  |
 | [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2023-09-08 |  |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |

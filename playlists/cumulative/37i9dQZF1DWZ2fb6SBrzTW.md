@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-352 songs - 18 hr 8 min
+354 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Atenu](https://open.spotify.com/track/7LKOOxFzqTRkzsTwipxXFQ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:24 | 2022-06-23 | 2022-07-28 |
 | [Aunty Lovina](https://open.spotify.com/track/53gPrOWfnUvZSzx4erfaG1) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Aunty Lovina](https://open.spotify.com/album/41TFQ5OW8R2G36vyKu3U0H) | 4:00 | 2021-09-21 | 2022-07-29 |
 | [AVAILABU](https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 | 2023-03-04 | 2023-11-17 |
+| [Away](https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Away](https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w) | 2:17 | 2023-12-08 |  |
 | [Awon Temi](https://open.spotify.com/track/77TsovSSSHb4TSOyyYHILl) | [Shayo Davids](https://open.spotify.com/artist/5iq9xZgHRSltyOnP0ag1X9), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Awon Temi](https://open.spotify.com/album/4n6UFiFW2nstnqVp7areC1) | 2:32 | 2022-06-09 | 2022-07-26 |
 | [Ayinde](https://open.spotify.com/track/2xpb6oPsClDQ8d2s3nqHW4) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ayinde](https://open.spotify.com/album/1HiR5KInIE39OU7koooAZ7) | 3:03 | 2022-06-30 | 2022-07-28 |
 | [Baboni](https://open.spotify.com/track/1oyyyo84213cxYa2ZAh6kd) | [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6), [Versatile](https://open.spotify.com/artist/2ukohNyOzWF8p6S3Tqz3J7) | [Baboni](https://open.spotify.com/album/7MbNMZostPP8Kihu31ODWB) | 2:54 | 2022-04-14 | 2022-07-29 |
@@ -129,8 +130,9 @@
 | [Full Current \(That's My Baby\)](https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Full Current \(That's My baby\)](https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP) | 3:28 | 2022-07-28 | 2023-03-11 |
 | [Fvck Off](https://open.spotify.com/track/6suEGaFoeHV8eNQau8itvT) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fvck Off](https://open.spotify.com/album/0xlCeLVQm5xoe9JsCHyJ48) | 2:37 | 2022-05-19 | 2022-10-08 |
 | [Gaza](https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:14 | 2023-08-10 |  |
+| [Gbadun](https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Gbadun](https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO) | 2:40 | 2023-12-08 |  |
 | [Gbee Body \(feat\. Edem\)](https://open.spotify.com/track/4UkCWodJ0mU4BQ1M5Aifdb) | [Ak Songstress](https://open.spotify.com/artist/52lFu2pWl3LZrSer7G5K3a), [Edem](https://open.spotify.com/artist/5gb4BlH3ixp1oGLlzfeppl) | [Gbee Body \(feat\. Edem\)](https://open.spotify.com/album/1kKY6PVggt76lqta770b9y) | 3:23 | 2022-03-24 | 2022-07-25 |
-| [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 | 2023-02-23 |  |
+| [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 | 2023-02-23 | 2023-12-11 |
 | [Gboza](https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Gboza](https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5) | 3:19 | 2022-10-07 | 2022-12-03 |
 | [Gettin' Hot](https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Gettin' Hot](https://open.spotify.com/album/0otN5Uk42fJzAtyMmPrLc0) | 3:44 | 2022-07-28 | 2022-08-22 |
 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 | 2022-09-09 | 2022-10-25 |
@@ -256,7 +258,7 @@
 | [palazzo](https://open.spotify.com/track/3FZL5wn7jwqbQbCwyuqsuu) | [Rodi0](https://open.spotify.com/artist/3oo0pZAB5OrgM3Fh3tIFo5) | [palazzo](https://open.spotify.com/album/36cDnYodbE7wMVKnwNoSOB) | 3:06 | 2022-05-12 | 2022-09-28 |
 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-05-12 |  |
 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 | 2022-08-12 | 2022-12-13 |
-| [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-09-29 |  |
+| [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-09-29 | 2023-12-11 |
 | [Party](https://open.spotify.com/track/0RdO7NC6LgugflNKRmNeAn) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Party](https://open.spotify.com/album/2nUeJg5EVfIFZBqZkGYjhB) | 2:25 | 2022-06-30 | 2022-08-22 |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-17 |  |
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-23 |  |

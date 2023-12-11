@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompieron en 2023\. Foto: Ivonne Guzmán
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,879 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,882 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 12 | [Tengo](https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:21 |
 | 13 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 |
 | 14 | [Anochecemos](https://open.spotify.com/track/2ka5Ij6Nasvr5krBY93TgM) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [MAL APRENDIDA](https://open.spotify.com/album/2Zb3Aq1Z1eUkAEIvmaZknJ) | 3:24 |
-| 15 | [No Lo Pienses Más](https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [No Lo Pienses Más](https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK) | 2:51 |
-| 16 | [La Araña](https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Mala Sangre](https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7) | 2:29 |
+| 15 | [La Araña](https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Mala Sangre](https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7) | 2:29 |
+| 16 | [No Lo Pienses Más](https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [No Lo Pienses Más](https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK) | 2:51 |
 | 17 | [Si Me Duele Que Duela](https://open.spotify.com/track/5iDW3YN3foLkUzdK9mAAvk) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Me Duele Que Duela](https://open.spotify.com/album/6gnumXyZdCKbpx7fmkBXuo) | 2:39 |
 | 18 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
 | 19 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 35 | [Piedra del Águila](https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Piedra del Águila](https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ) | 3:14 |
 | 36 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 |
 | 37 | [Fin del Mundo](https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 5:19 |
-| 38 | [Ley de Atracción](https://open.spotify.com/track/5NRBIHHUCyT8aqi0PTFJ7E) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Selva Acústica](https://open.spotify.com/album/119Zme9y3k6G2l9srfhT7M) | 3:12 |
-| 39 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6fsMd6rAjKzdLazlBvzfIR) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LXS INFERNALES \(Del Valle Encantado\)](https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE) | 2:51 |
-| 40 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
-| 41 | [Olvidarte nunca](https://open.spotify.com/track/4wuS8BrAW1zMCoquH1brDq) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [PATA DE PERRA](https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO) | 2:53 |
+| 38 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6fsMd6rAjKzdLazlBvzfIR) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LXS INFERNALES \(Del Valle Encantado\)](https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE) | 2:51 |
+| 39 | [Ley de Atracción](https://open.spotify.com/track/5NRBIHHUCyT8aqi0PTFJ7E) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Selva Acústica](https://open.spotify.com/album/119Zme9y3k6G2l9srfhT7M) | 3:12 |
+| 40 | [Olvidarte nunca](https://open.spotify.com/track/4wuS8BrAW1zMCoquH1brDq) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [PATA DE PERRA](https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO) | 2:53 |
+| 41 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
 | 42 | [La Segunda de Nadie](https://open.spotify.com/track/6FjkffGC2bgqvWYAKtYYuY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [La Segunda de Nadie](https://open.spotify.com/album/0abOnKTYQrA5blXmG0Z6nU) | 2:26 |
 | 43 | [Pedazo de Cielo](https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 3:29 |
 | 44 | [No va a pasar](https://open.spotify.com/track/5X6u72qVyFS6O5tsnBIlnO) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Ultra](https://open.spotify.com/album/2WQ0t4lLQINzhFzD74bODS) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Cream Hot](https://open.spotify.com/track/54n8e8ov3mn1WnuNlKUYiV) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [Beivip](https://open.spotify.com/album/1pxnHWYPK67qato4SYjNut) | 2:55 |
 | 50 | [Dime Si \- remix](https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Dime Si \(remix\)](https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO) | 4:14 |
 
-Snapshot ID: `MCw3NmNkZWNlZTRlYWVkOWNlMWJhNzMxMWYwOGFkOTdjNzFiNjM3OWEz`
+Snapshot ID: `MCw5ODNiMmFiOTBlODU3MmEzY2ZkZGY2MDMyMjhlZmIxNzQyNWE0YzQ4`

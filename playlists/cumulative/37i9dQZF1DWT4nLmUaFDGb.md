@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-239 songs - 15 hr 25 min
+240 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Fever](https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Genius Loves Company](https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE) | 3:30 | 2022-07-14 |  |
 | [Fever \(with Natalie Cole\)](https://open.spotify.com/track/7JMZvdSIUDUkeKupzSF0B5) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Genius Loves Company](https://open.spotify.com/album/4QpvUXLTSvZ5JfA8kOyfNk) | 3:30 | 2021-12-21 | 2022-07-29 |
 | [Fire and Rain](https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:02 | 2021-12-21 |  |
+| [Flowers](https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Flowers](https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2) | 2:56 | 2023-12-06 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2021-12-21 | 2022-12-06 |
 | [From Paris With Love \- Single Version](https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [From Paris With Love](https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH) | 4:48 | 2021-12-21 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-11 | 2023-08-23 |
@@ -188,7 +189,7 @@
 | [Somethin' Stupid](https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:50 | 2021-12-21 | 2022-03-16 |
 | [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-18 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 | 2021-12-21 |  |
-| [Summer Wind](https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Summer Wind](https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf) | 2:41 | 2021-12-21 |  |
+| [Summer Wind](https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Summer Wind](https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf) | 2:41 | 2021-12-21 | 2023-12-11 |
 | [Sunny](https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Jazz Love](https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq) | 3:56 | 2021-12-21 |  |
 | [Sunset In The Blue](https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D) | 4:32 | 2021-12-21 | 2023-08-19 |
 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 | 2022-09-22 |  |

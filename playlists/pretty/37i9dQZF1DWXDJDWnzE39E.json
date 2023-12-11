@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: NOVELISTS",
-  "num_followers": 651466,
+  "num_followers": 651516,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOThjY2Q4NzNiNDJhMGJlZTNiYmQyYWNlYTQzNTA5OWU2M2Y4NDhk",
+  "snapshot_id": "MCwyZWQwNzE1OGFlZWZlMGI0NjFlYWRjMzAzYWNkNTI3MjNkNzVjNzYx",
   "tracks": [
     {
       "added_at": "2023-09-15 12:26:41",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
-      },
-      "artists": [
-        {
-          "name": "Unleash The Archers",
-          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
-        }
-      ],
-      "duration_ms": 404093,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 211045,
       "name": "Entertain You",
       "url": "https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
+      },
+      "artists": [
+        {
+          "name": "Unleash The Archers",
+          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
+        }
+      ],
+      "duration_ms": 404093,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Forsaken (The Aftermath)",
         "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 298634,
       "name": "Forsaken - The Aftermath",
       "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Stigmata Itch",
-        "url": "https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN"
-      },
-      "artists": [
-        {
-          "name": "Rave The Reqviem",
-          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Colossvs",
-      "url": "https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Sunset over the Empire",
         "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 243080,
       "name": "Sunset over the Empire",
       "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Stigmata Itch",
+        "url": "https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN"
+      },
+      "artists": [
+        {
+          "name": "Rave The Reqviem",
+          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Colossvs",
+      "url": "https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Apocalypse & Chill",
-        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        }
-      ],
-      "duration_ms": 256040,
-      "name": "Burning Bridges",
-      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 209160,
       "name": "Yeah Right",
       "url": "https://open.spotify.com/track/3dLSEH3LqTsCcBFMzsE0Er"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Apocalypse & Chill",
+        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "duration_ms": 256040,
+      "name": "Burning Bridges",
+      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
     },
     {
       "added_at": "2023-09-15 12:26:41",

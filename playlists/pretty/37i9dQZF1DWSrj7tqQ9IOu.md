@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Jeanne Bonjour
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,575 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,541 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [GOBACK](https://open.spotify.com/track/7BiCR2KFuppkMQdxsYmSvT) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [GOBACK](https://open.spotify.com/album/5920FnXcvVNVrk9npCJa4X) | 2:06 |
 | 50 | [NO ONE ELSE](https://open.spotify.com/track/6mhmebxd0Dv3GbQp34Abch) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [NO ONE ELSE](https://open.spotify.com/album/0yoOQg6R0Ds8TaCtXFZXNz) | 2:48 |
 
-Snapshot ID: `MCwyOTNkOWIyOTcxMTY3NGZkOGFjM2M5Y2NkY2IyNzA1NDI2MjRhOGM1`
+Snapshot ID: `MCwzMGI2YjlhYzQ5YzJjOTEwMDljNDRiOTMzODc0MTQ5M2UxMzdmZTY0`

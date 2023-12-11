@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Baseball star Ezequiel Tovar shares his favorite game day tracks\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,371 likes - 25 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,909,326 likes - 25 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [Prepotente](https://open.spotify.com/track/47EGifeNL52SJL13TxcvBR) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Prepotente](https://open.spotify.com/album/1rsXO7NvbxSVOdcDsrWvt6) | 2:05 |
 | 25 | [THUNDER Y LIGHTNING](https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:37 |
 
-Snapshot ID: `MCxlZmY0MDc4Nzk4MWE2YTQ5YjAxODUyYjAxMThlYTUyNzAzMmI2NjEy`
+Snapshot ID: `MCxjMjlmNjI3ZDM0NTY3NzVlNzE0NzQzMWJjYzAzYjc2YjkxYmFmOGU5`

@@ -118,7 +118,7 @@
     {
       "album": {
         "name": "Blue (Flume Remix)",
-        "url": "https://open.spotify.com/album/0jihZJEz7ZnvQVN6WBj5RC"
+        "url": "https://open.spotify.com/album/6xsULAl9vtqhoGmzALgRLC"
       },
       "artists": [
         {
@@ -133,6 +133,28 @@
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Blue (Flume Remix)",
+      "url": "https://open.spotify.com/track/24xKxcxrCfWtOgonPByVNB"
+    },
+    {
+      "album": {
+        "name": "Blue (Flume Remix)",
+        "url": "https://open.spotify.com/album/0jihZJEz7ZnvQVN6WBj5RC"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
       "duration_ms": 166666,
       "name": "Blue - Flume Remix",
       "url": "https://open.spotify.com/track/0chpQTaECrCZBusarf71Ql"
@@ -582,10 +604,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
+    },
+    {
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
     },
     {
       "album": {
@@ -608,7 +648,7 @@
     {
       "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
       },
       "artists": [
         {
@@ -619,6 +659,24 @@
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 212213,
+      "name": "Is It Cold In The Water?",
+      "url": "https://open.spotify.com/track/20vrVR0N1Y0zAJNmvnQJyg"
+    },
+    {
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
       "duration_ms": 212213,
       "name": "Is It Cold In The Water?",
       "url": "https://open.spotify.com/track/292h0AOEEmddv9wIWnrDl4"
@@ -1250,7 +1308,7 @@
     {
       "album": {
         "name": "The Difference (Willaris. K Remix)",
-        "url": "https://open.spotify.com/album/3Svo8cKt8BQdIbJovBZ86w"
+        "url": "https://open.spotify.com/album/0NHoL9C3wr8BArXdT5nApC"
       },
       "artists": [
         {
@@ -1269,6 +1327,32 @@
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199130,
+      "name": "The Difference (Willaris. K Remix)",
+      "url": "https://open.spotify.com/track/45M0L8i5qsBiOr38BEdxYs"
+    },
+    {
+      "album": {
+        "name": "The Difference (Willaris. K Remix)",
+        "url": "https://open.spotify.com/album/3Svo8cKt8BQdIbJovBZ86w"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "Willaris. K",
+          "url": "https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
       "duration_ms": 199130,
       "name": "The Difference - Willaris. K Remix",
       "url": "https://open.spotify.com/track/3k45LqVsI4GoELWfOdd5eZ"

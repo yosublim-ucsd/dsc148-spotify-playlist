@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Marco Mares y Bandalos Chinos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,125 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,159 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 8 | [aguacero](https://open.spotify.com/track/7xYb3v9YEWFf1fSnYUkesp) | [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [cerodenero](https://open.spotify.com/album/7CGQKOzLa4bAIHRti1M4fM) | 3:05 |
 | 9 | [Beberte](https://open.spotify.com/track/5EMeCPx3V0OJippeF92zyu) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Beberte](https://open.spotify.com/album/3C4sRDxQ8JtyN55TZypugV) | 2:16 |
 | 10 | [Last Maria On Earth](https://open.spotify.com/track/5TczQlpIm3pTgbBFeCbtrR) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Last Maria On Earth](https://open.spotify.com/album/2xWuL3q83WPPeL8QsCdahV) | 2:18 |
-| 11 | [El Tiempo](https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [El Tiempo](https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7) | 4:28 |
+| 11 | [El Tiempo](https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [El Tiempo](https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7) | 3:56 |
 | 12 | [Visa Gold Miami](https://open.spotify.com/track/0Pd4u4TF4v3xsUK6ziOamg) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Visa Gold Miami](https://open.spotify.com/album/4RP1zedrA6lKoiOku9W7mw) | 3:01 |
 | 13 | [Viaje al Kilómetro Cero](https://open.spotify.com/track/2U4LnZ1NRQVrs2omVcpY2M) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Aurora](https://open.spotify.com/album/4YL39TFWCRRMd9R7fijYoc) | 4:21 |
 | 14 | [Delirio Contemporáneo](https://open.spotify.com/track/6HyKip6Hf3VnQyWnngjVow) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Delirio Contemporáneo](https://open.spotify.com/album/1EAwneHTPcl2J22P8Wb6BT) | 4:48 |

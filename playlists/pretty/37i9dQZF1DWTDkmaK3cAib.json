@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 42578,
+  "num_followers": 42597,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTAyN2EyMmEyNzc0ZjliNjNkZGJlZGU3ZjFlOGQ4N2RjYTAyYmNh",
+  "snapshot_id": "MCw4NDU3Y2RmZGI3MzQ2MzM2MTQ1MjEwNjJmNzU3ODUyMWZlNWY3MjU1",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "No Fue",
-        "url": "https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 195844,
-      "name": "No Fue",
-      "url": "https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Cardellino",
         "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 163755,
       "name": "COLTRANE",
       "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "No Fue",
+        "url": "https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        }
+      ],
+      "duration_ms": 195844,
+      "name": "No Fue",
+      "url": "https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr"
     },
     {
       "added_at": "2023-12-01 05:00:00",

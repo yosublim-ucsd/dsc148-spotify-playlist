@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 270262,
+  "num_followers": 270308,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2YxMTBmN2M4ODZjZWIyNjdmOTQ4ZWNjMGU2OGQzOTExOWU0NDA5",
+  "snapshot_id": "MCxlNDk1NTM1NWQ2M2JlYWEzMDJhOGE0MmNmMjI3YWI0ZWEyNDdmZGJi",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -787,22 +787,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Quiero Cantar",
-        "url": "https://open.spotify.com/album/5Z7soSWKI9Df92V6w4hapo"
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
       "artists": [
         {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
-        },
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 234040,
-      "name": "Tan Distintos (feat. Edgar Oceransky)",
-      "url": "https://open.spotify.com/track/3unJniffgdKHCxTfUelqou"
+      "duration_ms": 212200,
+      "name": "De Alguna Manera",
+      "url": "https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -839,18 +835,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+        "name": "Quiero Cantar",
+        "url": "https://open.spotify.com/album/5Z7soSWKI9Df92V6w4hapo"
       },
       "artists": [
         {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
+        },
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         }
       ],
-      "duration_ms": 212200,
-      "name": "De Alguna Manera",
-      "url": "https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh"
+      "duration_ms": 234040,
+      "name": "Tan Distintos (feat. Edgar Oceransky)",
+      "url": "https://open.spotify.com/track/3unJniffgdKHCxTfUelqou"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Coincidir",
-        "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
-      },
-      "artists": [
-        {
-          "name": "Alberto Escobar",
-          "url": "https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Coincidir",
-      "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
-    },
-    {
       "added_at": "2022-03-01 04:08:22",
       "album": {
         "name": "Destino",
@@ -1255,6 +1239,22 @@
       "duration_ms": 205333,
       "name": "Destino",
       "url": "https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Coincidir",
+        "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
+      },
+      "artists": [
+        {
+          "name": "Alberto Escobar",
+          "url": "https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
     },
     {
       "added_at": "2021-07-29 16:46:05",

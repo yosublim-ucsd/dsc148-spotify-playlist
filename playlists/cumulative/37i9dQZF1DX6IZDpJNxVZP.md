@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-214 songs - 9 hr 32 min
+215 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Candy Girl](https://open.spotify.com/track/7JWdD53mrh74GCdkHR531r) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 3:34 | 2021-09-10 |  |
 | [Casper The Friendly Ghost](https://open.spotify.com/track/19GKm4dDOz44DRH3OycKJk) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Bestest Kids Halloween Songs Ever](https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm) | 1:22 | 2021-08-30 |  |
 | [Chocolate](https://open.spotify.com/track/2Ur5ADNf6q89b3HsEiE9LU) | [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj), [Amelia Robinson](https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK) | [Everyone Together Now!](https://open.spotify.com/album/15zXp1K6Q2RlZxBhuBC9sK) | 3:38 | 2021-08-30 |  |
-| [Costume Party](https://open.spotify.com/track/1Gac8490Qd6yH90MEYIRB3) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 4:25 | 2021-09-10 |  |
+| [Costume Party](https://open.spotify.com/track/1Gac8490Qd6yH90MEYIRB3) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 4:25 | 2021-09-10 | 2023-12-11 |
+| [Costume Party](https://open.spotify.com/track/752gzqJYvYKjGfPOiGzEPS) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H) | 4:25 | 2023-10-27 |  |
 | [Cruella De Vil \- From "101 Dalmatians"/Soundtrack Version](https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN) | [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [101 Dalmatians](https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr) | 5:03 | 2021-08-30 |  |
 | [Day\-O \(The Banana Boat Song\)](https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [The 50 Best Summer Songs](https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ) | 3:04 | 2023-10-02 |  |
 | [Ding Dong The Witch Is Dead](https://open.spotify.com/track/5mkjplHZNNa8ebq0ZEucBh) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Halloween y diversión para peques](https://open.spotify.com/album/3l7nn2ZoTDBGnMrOzsB6dT) | 2:41 | 2022-10-11 | 2022-11-13 |

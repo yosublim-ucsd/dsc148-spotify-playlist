@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwV18siYeei.md) - [plain]
 
 > Summer classics from yesteryear!
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,799 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,796 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwV18siYeei.md) - [plain]
 | 79 | [People Everyday \- Metamorphosis Mix](https://open.spotify.com/track/5thts3213xwSroRd11fv5A) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [Greatest Hits](https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm) | 4:56 |
 | 80 | [Malibu](https://open.spotify.com/track/5bVOX6eyHsML2sB4aMlZEi) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 3:50 |
 
-Snapshot ID: `MCxmNWUwMzY3OTI2Nzk2OGI0MTBmZTZlMzhjNDZlM2VjZWI2ZmE2M2I1`
+Snapshot ID: `MCxmYzc2NmU1MjkyZmE1ZGEyMjdjY2QzNGU3ZjU2NjY0YmExNWFkNWZk`

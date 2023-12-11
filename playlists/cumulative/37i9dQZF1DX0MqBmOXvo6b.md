@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-598 songs - 1 day 1 hr 25 min
+599 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Fugazy](https://open.spotify.com/track/2d35QTcQM3EJroGevSvnEf) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Fugazy](https://open.spotify.com/album/7MVVUbmETVZkVsve5NOBM2) | 2:32 | 2022-06-07 | 2022-09-15 |
 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr), [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 | 2022-06-07 | 2022-09-15 |
 | [Gentle](https://open.spotify.com/track/5XtP7nT6y4Yl8BhnPkDLjr) | [Lennox Cole](https://open.spotify.com/artist/4ZJ87FCTeqG6E14EkGqXpi) | [Gentle](https://open.spotify.com/album/4MVDKPNV0q07arvLobByMW) | 2:12 | 2022-06-07 | 2022-12-24 |
+| [Glimmer](https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Glimmer](https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf) | 2:40 | 2023-11-28 |  |
 | [Glänta](https://open.spotify.com/track/3VF1j2dGIyKpymo10lG2G5) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Glänta](https://open.spotify.com/album/6vDY52DtIonyQ4O52463we) | 2:54 | 2022-06-07 | 2022-09-24 |
 | [Gouttes](https://open.spotify.com/track/6FEpVWSgpAadjPVuKNwCcx) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Gouttes](https://open.spotify.com/album/5Fws3ZQPPNC8m9vcR3H2Yx) | 3:14 | 2022-06-07 |  |
 | [Gouttes de pluie](https://open.spotify.com/track/2aWlN3NzJxxY8AXlYYDj8S) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Gouttes de pluie](https://open.spotify.com/album/2ZBtySzL3lB1Kk06oBQX4x) | 2:15 | 2022-06-07 |  |
@@ -256,7 +257,7 @@
 | [Learning](https://open.spotify.com/track/7ndJq3FTs0QIzag0nYw7BX) | [Gareth Riley](https://open.spotify.com/artist/4MV0ijpQhdnte0lJh2tilX) | [Learning](https://open.spotify.com/album/04uA73Nx9vnxlpZJfktKNp) | 2:02 | 2022-06-07 | 2022-07-20 |
 | [Legend](https://open.spotify.com/track/6ManJ5S1o9oDqzEoRRAqcU) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Legend](https://open.spotify.com/album/0TiCArCLbEtByFYvHLfD1k) | 2:32 | 2022-06-07 | 2022-09-15 |
 | [Les Années Folles](https://open.spotify.com/track/1YAneLq79WDFeKZABB6KcD) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Les Années Folles](https://open.spotify.com/album/6Gzh3Pk0CPYLhph8FdXVYv) | 2:45 | 2022-06-07 |  |
-| [Les Combes\-58](https://open.spotify.com/track/3luC1osD9bTIdiv77Z8ebS) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Les Combes\-58](https://open.spotify.com/album/1t983gN7i0JitSK1BmsWAZ) | 3:24 | 2022-06-07 |  |
+| [Les Combes\-58](https://open.spotify.com/track/3luC1osD9bTIdiv77Z8ebS) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Les Combes\-58](https://open.spotify.com/album/1t983gN7i0JitSK1BmsWAZ) | 3:24 | 2022-06-07 | 2023-12-11 |
 | [Les mots](https://open.spotify.com/track/0KCHUInxtCsvyMP51FbpIv) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Les mots](https://open.spotify.com/album/2kTguPsPBlP4vxONM6FUUh) | 1:57 | 2023-04-09 | 2023-07-25 |
 | [Les passions](https://open.spotify.com/track/5eVSECRwlo8dpiAVWZImDs) | [Gianfranco Abate](https://open.spotify.com/artist/0LY1eNeWoYUJ9kwockmS2t) | [Les passions](https://open.spotify.com/album/1kLAGCQCV2Zn75wEKDl9eh) | 2:34 | 2022-06-07 |  |
 | [Letter Of Fervid](https://open.spotify.com/track/6Zn3YUW28L4M2Smxz7tyIB) | [Sula Black](https://open.spotify.com/artist/2uzZ9S1yshc7xkAzbga5X0) | [Letter Of Fervid](https://open.spotify.com/album/7erSjN1YTxq2JTs8w90lGg) | 3:08 | 2022-06-07 |  |

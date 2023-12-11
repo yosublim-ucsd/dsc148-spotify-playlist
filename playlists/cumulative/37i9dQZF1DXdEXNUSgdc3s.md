@@ -4,7 +4,7 @@
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-84 songs - 4 hr 13 min
+85 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alpha Sinus 100 Hz \- 108 Hz](https://open.spotify.com/track/3amQPrutVjXI9SMrvwHDK3) | [BinauralVille](https://open.spotify.com/artist/1Cqzx8HaZK3qHBxb002KXi) | [BinauralVille](https://open.spotify.com/album/1MCK9CMXGG0OdGXW6VlE6T) | 3:22 | 2023-04-28 |  |
 | [Alpha Sinus 300 Hz \- L 308 Hz \- Stress reduction](https://open.spotify.com/track/1Rf0PFutLKfaOPVL4RScmH) | [Ivo Phi](https://open.spotify.com/artist/7vvyFnhnPCb0gn7QwDwP0C) | [Alpha Sinus 300 Hz \- L 308 Hz \- Stress reduction](https://open.spotify.com/album/5SkCxTesMMQMOL6A5Geswu) | 3:06 | 2023-04-28 |  |
 | [Alpha Sinus Beauty 88Hz \- 96Hz](https://open.spotify.com/track/2Q1tvcxY1AURUd0Qh6707l) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Alpha Sinus Beauty 88Hz \- 96Hz](https://open.spotify.com/album/4KeshHI1lJjb7LTiex6J2L) | 2:31 | 2023-04-28 |  |
+| [Alpha Sinus Waves 84\-92 Hz](https://open.spotify.com/track/5F8l1xTGaGvLVzz8BTkBN3) | [Rio Delacruz](https://open.spotify.com/artist/2gATxJ6ZQe6AS97hivkZ52) | [Alpha Sinus Waves 84\-92 Hz](https://open.spotify.com/album/4oERjy6CpIs7kdcVwiP2Tt) | 2:36 | 2023-11-24 |  |
 | [Alpha Thoughts 107Hz \- 114Hz](https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 4:35 | 2023-04-28 |  |
 | [Alpha Universe 64+66 hz](https://open.spotify.com/track/7Hbgr7d97YAxvZE0gufBWO) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 2:45 | 2023-04-28 |  |
 | [Alpha Vocantes 54Hz\-62Hz](https://open.spotify.com/track/1iUPb3Uw65EBlhAo5gDDE6) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Alpha Vocantes 54Hz\-62Hz](https://open.spotify.com/album/2kyCvfTIMvavgFc9IGP8K6) | 2:29 | 2023-06-02 |  |
@@ -64,7 +65,7 @@
 | [Hopeful \- Alpha Sinus 64 \- 65,3 hz](https://open.spotify.com/track/57QUXv3pUENQAK1zXb2BKK) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Alpha Sinus](https://open.spotify.com/album/1bKv528U0Z6FgdmFtRUrb9) | 3:30 | 2023-04-28 |  |
 | [Improve Life Binaural Alpha 73.6 Hz \- 81 Hz](https://open.spotify.com/track/0hIv4O3CwH8EyRXnQcG3Fb) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Improve Life Binaural Alpha 73.6 Hz \- 81 Hz](https://open.spotify.com/album/1GcX8KeYhAKMs8Fa7Jmllg) | 3:00 | 2023-04-28 | 2023-10-06 |
 | [Maravilloso \- Alpha 71Hz \- 78Hz](https://open.spotify.com/track/7510hFPI8vVEJhyp5gNHPk) | [Sun Pixel](https://open.spotify.com/artist/1pHiSwRuACzlyf5hP6P011) | [Maravilloso \- Alpha 71Hz \- 78Hz](https://open.spotify.com/album/77SOSiQ8GtREeX4NXLLJpC) | 4:10 | 2023-09-29 |  |
-| [Meditative Alpha \(L\-116Hz R\-125Hz\)](https://open.spotify.com/track/7gI5bxKKzvPPpL8qxrlPd6) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Meditative Waves \(Binaural\)](https://open.spotify.com/album/1dGqEiB7ltld0xON2X7Hxi) | 5:03 | 2023-04-28 |  |
+| [Meditative Alpha \(L\-116Hz R\-125Hz\)](https://open.spotify.com/track/7gI5bxKKzvPPpL8qxrlPd6) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Meditative Waves \(Binaural\)](https://open.spotify.com/album/1dGqEiB7ltld0xON2X7Hxi) | 5:03 | 2023-04-28 | 2023-12-11 |
 | [Mind Medicine \(Alpha Sinus\)](https://open.spotify.com/track/36mzpOJQV2IsPXrONBRLUO) | [Mind Medicine](https://open.spotify.com/artist/0nTfjHvGK38IUQ0Mx1BmF5) | [Mind Medicine](https://open.spotify.com/album/0nEnQBAZdghQsCNZbKNm2B) | 2:56 | 2023-04-28 | 2023-07-14 |
 | [Miracle Sky \(Alpha 58.1 Hz \- 70.3 Hz\)](https://open.spotify.com/track/2fKEmLQx6YYL3AlVwl8434) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Miracle Sky](https://open.spotify.com/album/2cXXAAzd7fwpxO1czxwpoq) | 2:40 | 2023-04-28 |  |
 | [Mirrorlake \- Alpha Sinus 100Hz \- 107Hz](https://open.spotify.com/track/4f2GInNlgh8zlg2KDVyYii) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Binaural Mirror](https://open.spotify.com/album/5Sup9jYgyPcub2p6LXGgmw) | 4:23 | 2023-04-28 |  |

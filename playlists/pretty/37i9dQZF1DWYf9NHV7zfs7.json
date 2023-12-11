@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 23154,
+  "num_followers": 23204,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjUxMWI2NWQ1MjhmM2FhOGY5NGZjMGM1ZTMzMGEyNDVlMTgyYWE2",
+  "snapshot_id": "MCw5NTgxZjlmM2FmNGU5NzhhOTAyYzZiZDY4N2VhYmZlZTlkZjgwNDFk",
   "tracks": [
     {
       "added_at": "2023-12-07 22:03:40",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-12-07 22:03:40",
       "album": {
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
+      },
+      "artists": [
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/7zsgBOY20sX0Z8L4RTdU3Y"
+    },
+    {
+      "added_at": "2023-12-07 22:03:40",
+      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
-    },
-    {
-      "added_at": "2023-12-07 22:03:40",
-      "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
-      },
-      "artists": [
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/7zsgBOY20sX0Z8L4RTdU3Y"
     },
     {
       "added_at": "2023-12-07 22:03:40",
@@ -907,18 +907,26 @@
     {
       "added_at": "2023-12-07 22:03:40",
       "album": {
-        "name": "Sof\u00e1",
-        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
+        "name": "Las Leyes de La Vida",
+        "url": "https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz"
       },
       "artists": [
         {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Benja Torres",
+          "url": "https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4"
         }
       ],
-      "duration_ms": 264053,
-      "name": "Cu\u00eddame",
-      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
+      "duration_ms": 199340,
+      "name": "Las Leyes de La Vida",
+      "url": "https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS"
     },
     {
       "added_at": "2023-12-07 22:03:40",
@@ -935,6 +943,22 @@
       "duration_ms": 151000,
       "name": "Cositas",
       "url": "https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I"
+    },
+    {
+      "added_at": "2023-12-07 22:03:40",
+      "album": {
+        "name": "Sof\u00e1",
+        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 264053,
+      "name": "Cu\u00eddame",
+      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
     },
     {
       "added_at": "2023-12-07 22:03:40",
@@ -959,6 +983,22 @@
     {
       "added_at": "2023-12-07 22:03:40",
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
+    },
+    {
+      "added_at": "2023-12-07 22:03:40",
+      "album": {
         "name": "Intemperie",
         "url": "https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f"
       },
@@ -975,18 +1015,18 @@
     {
       "added_at": "2023-12-07 22:03:40",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+        "name": "Tarde o Temprano",
+        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 229943,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
+      "duration_ms": 213127,
+      "name": "Tarde o Temprano",
+      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
     },
     {
       "added_at": "2023-12-07 22:03:40",
@@ -1007,22 +1047,18 @@
     {
       "added_at": "2023-12-07 22:03:40",
       "album": {
-        "name": "Quiero Verte",
-        "url": "https://open.spotify.com/album/2gnITQUWyhtqnZn6DgcjoI"
+        "name": "Mala Sangre",
+        "url": "https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7"
       },
       "artists": [
         {
-          "name": "Lel\u00e9",
-          "url": "https://open.spotify.com/artist/30zaUiWxGl2IDR0dTiRrXO"
-        },
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
         }
       ],
-      "duration_ms": 232252,
-      "name": "Quiero Verte",
-      "url": "https://open.spotify.com/track/68hs0QwwcssOzKuqZgonw7"
+      "duration_ms": 149610,
+      "name": "La Ara\u00f1a",
+      "url": "https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj"
     },
     {
       "added_at": "2023-12-07 22:03:40",
@@ -1063,58 +1099,22 @@
     {
       "added_at": "2023-12-07 22:03:40",
       "album": {
-        "name": "Tarde o Temprano",
-        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/2gnITQUWyhtqnZn6DgcjoI"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Tarde o Temprano",
-      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
-    },
-    {
-      "added_at": "2023-12-07 22:03:40",
-      "album": {
-        "name": "Las Leyes de La Vida",
-        "url": "https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "Lel\u00e9",
+          "url": "https://open.spotify.com/artist/30zaUiWxGl2IDR0dTiRrXO"
         },
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Benja Torres",
-          "url": "https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4"
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
         }
       ],
-      "duration_ms": 199340,
-      "name": "Las Leyes de La Vida",
-      "url": "https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS"
-    },
-    {
-      "added_at": "2023-12-07 22:03:40",
-      "album": {
-        "name": "Mala Sangre",
-        "url": "https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7"
-      },
-      "artists": [
-        {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "La Ara\u00f1a",
-      "url": "https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj"
+      "duration_ms": 232252,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/68hs0QwwcssOzKuqZgonw7"
     },
     {
       "added_at": "2023-12-07 22:03:40",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-12-07 22:03:40",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 225586,
+      "name": "Tormento de Amor",
+      "url": "https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o"
+    },
+    {
+      "added_at": "2023-12-07 22:03:40",
+      "album": {
         "name": "Aqua di Emma",
         "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2023-12-07 22:03:40",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 225586,
-      "name": "Tormento de Amor",
-      "url": "https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o"
-    },
-    {
-      "added_at": "2023-12-07 22:03:40",
-      "album": {
         "name": "Tarde (feat. Malena Villa)",
         "url": "https://open.spotify.com/album/2Q7SYjBnXAqOvfXNrTLv28"
       },
@@ -1251,6 +1251,26 @@
       "duration_ms": 153058,
       "name": "Tarde (feat. Malena Villa)",
       "url": "https://open.spotify.com/track/6WqX4T9GsccD5j64OOGPnI"
+    },
+    {
+      "added_at": "2023-12-07 22:03:40",
+      "album": {
+        "name": "Donde digan las estrellas",
+        "url": "https://open.spotify.com/album/688zCqVZX3ZJGjvaD8DiTY"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Gonzalo Hermida",
+          "url": "https://open.spotify.com/artist/2bk3GMoc0FPUB4nt5gW7Or"
+        }
+      ],
+      "duration_ms": 212912,
+      "name": "Donde digan las estrellas",
+      "url": "https://open.spotify.com/track/243KMgjddKXmu7EMfdxoEJ"
     },
     {
       "added_at": "2023-12-07 22:03:40",
@@ -1287,26 +1307,6 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
-    },
-    {
-      "added_at": "2023-12-07 22:03:40",
-      "album": {
-        "name": "Donde digan las estrellas",
-        "url": "https://open.spotify.com/album/688zCqVZX3ZJGjvaD8DiTY"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Gonzalo Hermida",
-          "url": "https://open.spotify.com/artist/2bk3GMoc0FPUB4nt5gW7Or"
-        }
-      ],
-      "duration_ms": 212912,
-      "name": "Donde digan las estrellas",
-      "url": "https://open.spotify.com/track/243KMgjddKXmu7EMfdxoEJ"
     },
     {
       "added_at": "2023-12-07 22:03:40",

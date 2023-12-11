@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-334 songs - 15 hr 28 min
+335 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [Ragga runt](https://open.spotify.com/track/0ZikbghBZwvTuWANNZ3tSO) | [Lasaronen](https://open.spotify.com/artist/1SngJIvUVzHysyQsm8RJks), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Ragga runt](https://open.spotify.com/album/2UUUaYP34NrB0e2gQ7H6uD) | 2:30 | 2021-12-16 | 2022-04-18 |
 | [RAGGA VÄRLDEN RUNT](https://open.spotify.com/track/6PTD6A0ttYfoAoOHkzu1Ba) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Lurifaks](https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [RAGGA VÄRLDEN RUNT](https://open.spotify.com/album/7q8TSeI9J4fxBNP7CoWJKZ) | 2:30 | 2022-09-08 | 2022-09-23 |
 | [Raggarbil](https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Karen](https://open.spotify.com/artist/5e1ekj5rPqXgSRF4gZw7cO) | [Raggarbil](https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn) | 2:15 | 2021-12-16 | 2022-11-02 |
-| [Raggarbil](https://open.spotify.com/track/42hMLGWV8lNXgfXOeLnxLC) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [ALBUMTRAOZ](https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e) | 2:15 | 2022-10-20 |  |
+| [Raggarbil](https://open.spotify.com/track/42hMLGWV8lNXgfXOeLnxLC) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [ALBUMTRAOZ](https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e) | 2:15 | 2022-10-20 | 2023-12-11 |
+| [Raggarbil](https://open.spotify.com/track/6iV9GKfPUxeCSGnUotAM0k) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [ALBUMTRAOZ](https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC) | 2:15 | 2023-12-08 |  |
 | [RAGGARBILAR \(WARRA WARRA\)](https://open.spotify.com/track/1Rl4O8fqcMTBN8o2rilFBL) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [DANJAL](https://open.spotify.com/artist/4HUyn4KZwjD66czjxk8SxN) | [RAGGARBILAR \(WARRA WARRA\)](https://open.spotify.com/album/25wtWAZwZCTg3qIIhasZXh) | 2:01 | 2023-08-10 |  |
 | [Ragge](https://open.spotify.com/track/6Zs81zXoJ7SVL9vmwRMV8i) | [Thomassen & Berg](https://open.spotify.com/artist/2h3XAFvVOB0uIWDcucNzv2) | [Ragge](https://open.spotify.com/album/4P1Pf5kUXT5XUSYUqdtKxO) | 2:05 | 2022-01-20 | 2022-07-03 |
 | [Raggen](https://open.spotify.com/track/33C7lhLNX5KKMyzrIi4bEo) | [Chris og Colada](https://open.spotify.com/artist/0YVbhK3PygEi4q70SrSPfB) | [Raggen](https://open.spotify.com/album/0UcMYS1DaPVY48qykyef6p) | 2:28 | 2022-04-14 | 2022-06-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 151289,
+  "num_followers": 151387,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTg3M2Y4NTAwODRkZjNmZTU2OWE4ZDA2ZWRhNDVkODg0MDMxMzI4",
+  "snapshot_id": "MCxlMTJhZTQwZTY3NzM5ZDc4ZDk1NGRlNjBiZDBiYWU2MWI5NjY4YjQw",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Von hier an blind",
         "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 236200,
       "name": "Nur ein Wort",
       "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Kleiner Finger Schwur",
-        "url": "https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn"
+        "name": "30-11-80",
+        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
       },
       "artists": [
         {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 168306,
-      "name": "Kleiner Finger Schwur",
-      "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
+      "duration_ms": 195416,
+      "name": "Liebe",
+      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -307,6 +307,22 @@
       "duration_ms": 174873,
       "name": "Du",
       "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Kleiner Finger Schwur",
+        "url": "https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Kleiner Finger Schwur",
+      "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -347,22 +363,6 @@
       "duration_ms": 206108,
       "name": "Liebe zu dritt",
       "url": "https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "30-11-80",
-        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 195416,
-      "name": "Liebe",
-      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Nador",
-        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
-      },
-      "artists": [
-        {
-          "name": "Namika",
-          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "Lieblingsmensch",
-      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
         "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 272440,
       "name": "Alles aus Liebe",
       "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Nador",
+        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
+      },
+      "artists": [
+        {
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "Lieblingsmensch",
+      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Liege wieder wach",
-        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Liege wieder wach",
-      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 222613,
       "name": "Nur getr\u00e4umt",
       "url": "https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Liege wieder wach",
+        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Liege wieder wach",
+      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
     },
     {
       "added_at": "2023-03-06 08:21:00",

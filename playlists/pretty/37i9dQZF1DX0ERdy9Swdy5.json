@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 690377,
+  "num_followers": 690625,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWUxN2YwNGJlMzJkMWFkNmYyMTE0YmRkNzU5NDNiMWVjYmY5YzZi",
+  "snapshot_id": "MCwwOGU4NGM1ZWZmMGMxNjk5YmVmM2Y1Mjk0NDRjODYyOTg1MmIwYmUw",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "T\u00f9 No Le Amas Le Temes",
-      "url": "https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "En Vivo Desde El Carnegie Hall",
         "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 446333,
       "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
       "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "T\u00f9 No Le Amas Le Temes",
+      "url": "https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 286626,
-      "name": "Date un Chance",
-      "url": "https://open.spotify.com/track/0mW2TeZmav4gTBzsMcy811"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Super Exitos",
         "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 250773,
       "name": "No Puedo Prescindir De Ti",
       "url": "https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 286626,
+      "name": "Date un Chance",
+      "url": "https://open.spotify.com/track/0mW2TeZmav4gTBzsMcy811"
     }
   ],
   "unique_name": "Salsa Hits: Los 90s",

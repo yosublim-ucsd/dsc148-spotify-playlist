@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 155189,
+  "num_followers": 155276,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTNiYWI1M2VmN2U0Mjk1ZmZmMWVhZjZlZmYxYjY1YzgyYTBjMGI2",
+  "snapshot_id": "MCw3ZTk3ZGNhZjNiYjRhNGNiNjQwYzY5Nzc3MDhiNTYzZmE4ZWIxZTJk",
   "tracks": [
     {
       "added_at": "2023-12-08 13:27:37",
@@ -567,6 +567,30 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
+        "name": "ORDEM & PROGRESSO",
+        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 209150,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
         "name": "Cartas (feat.Luccas Carlos) (feat.Paiva Prod)",
         "url": "https://open.spotify.com/album/7qCnoY2xgPiEsmbJ2auP1L"
       },
@@ -647,30 +671,6 @@
       "duration_ms": 139000,
       "name": "Mensagem",
       "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
-        "name": "ORDEM & PROGRESSO",
-        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 209150,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -799,30 +799,6 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
-        "name": "Alta Defini\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6"
-      },
-      "artists": [
-        {
-          "name": "Ari",
-          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
-        },
-        {
-          "name": "Teo Guedx",
-          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
-        },
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
-        }
-      ],
-      "duration_ms": 123380,
-      "name": "Alta Defini\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 143448,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
+        "name": "Alta Defini\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6"
+      },
+      "artists": [
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "duration_ms": 123380,
+      "name": "Alta Defini\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
+        "name": "Mais uma Chance",
+        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
+      },
+      "artists": [
+        {
+          "name": "Buia Kalunga",
+          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
+        },
+        {
+          "name": "Macaia",
+          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
+        }
+      ],
+      "duration_ms": 183700,
+      "name": "Mais uma Chance",
+      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 125932,
       "name": "Ir Embora",
       "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
-        "name": "Mais uma Chance",
-        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
-      },
-      "artists": [
-        {
-          "name": "Buia Kalunga",
-          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
-        },
-        {
-          "name": "Macaia",
-          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
-        }
-      ],
-      "duration_ms": 183700,
-      "name": "Mais uma Chance",
-      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 213698,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -1411,6 +1411,46 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
+        "name": "Voe",
+        "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Voe",
+      "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
         "name": "Guts Sessions #1: Menina Linda",
         "url": "https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB"
       },
@@ -1443,46 +1483,6 @@
       "duration_ms": 252367,
       "name": "Guts Sessions #1: Menina Linda",
       "url": "https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
-        "name": "Voe",
-        "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Voe",
-      "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -1559,30 +1559,26 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
-        "name": "Nada Comum",
-        "url": "https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO"
+        "name": "Meia Hora",
+        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
       "artists": [
         {
-          "name": "Trist\u00e3o",
-          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
+          "name": "Gabriel Henriques",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
         },
         {
-          "name": "Camargo",
-          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
         },
         {
-          "name": "RalphTheKiD",
-          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
-        },
-        {
-          "name": "Joab Beats",
-          "url": "https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh"
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
         }
       ],
-      "duration_ms": 199750,
-      "name": "Nada comum",
-      "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
+      "duration_ms": 197142,
+      "name": "Meia Hora",
+      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -1611,26 +1607,30 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
-        "name": "Meia Hora",
-        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
+        "name": "Nada Comum",
+        "url": "https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO"
       },
       "artists": [
         {
-          "name": "Gabriel Henriques",
-          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+          "name": "Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
         },
         {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
         },
         {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
+        },
+        {
+          "name": "Joab Beats",
+          "url": "https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Meia Hora",
-      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
+      "duration_ms": 199750,
+      "name": "Nada comum",
+      "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
     },
     {
       "added_at": "2023-12-08 13:27:37",

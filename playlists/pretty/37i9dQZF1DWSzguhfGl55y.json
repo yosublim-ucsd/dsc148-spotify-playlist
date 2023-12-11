@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 621995,
+  "num_followers": 622002,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzBkYjcyMGUyNGRkNWQ2MmMyZjRkZmQwZjFlYzczMjIyODVlYWQ4",
+  "snapshot_id": "MCw2NzhlYTJlNTc5ZmNkYzU1MDA4MjNkODFkY2Y0OTM3ZjJkZjQyOWQz",
   "tracks": [
     {
       "added_at": "2023-12-07 13:48:37",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
+        "name": "Mercedes Dance",
+        "url": "https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th"
+      },
+      "artists": [
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        }
+      ],
+      "duration_ms": 295440,
+      "name": "Klar",
+      "url": "https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 221346,
       "name": "Eines Tages (feat. Cassandra Steen) - Single Edit",
       "url": "https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Mercedes Dance",
-        "url": "https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        }
-      ],
-      "duration_ms": 295440,
-      "name": "Klar",
-      "url": "https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg"
     },
     {
       "added_at": "2023-12-07 13:48:37",

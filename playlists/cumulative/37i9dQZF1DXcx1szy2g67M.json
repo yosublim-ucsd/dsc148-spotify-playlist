@@ -6142,7 +6142,7 @@
     {
       "album": {
         "name": "War Ends Today",
-        "url": "https://open.spotify.com/album/7wrdmw5ThJYT67TBsYOVxC"
+        "url": "https://open.spotify.com/album/508yoawSJgvgXUAz7EFcgQ"
       },
       "artists": [
         {
@@ -6153,6 +6153,24 @@
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197142,
+      "name": "War Ends Today",
+      "url": "https://open.spotify.com/track/4TDdbNg50GKvJXKka4uddq"
+    },
+    {
+      "album": {
+        "name": "War Ends Today",
+        "url": "https://open.spotify.com/album/7wrdmw5ThJYT67TBsYOVxC"
+      },
+      "artists": [
+        {
+          "name": "KANE",
+          "url": "https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
       "duration_ms": 197142,
       "name": "War Ends Today",
       "url": "https://open.spotify.com/track/6PKD7kKGS2TmdCLqBaaxYO"

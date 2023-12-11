@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Nicki Minaj, Tate McRae, Fred Again.., Peso Pluma, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,186,619 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,186,928 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Wanna](https://open.spotify.com/track/5FxmV25XctzXjuHNaQPpBz) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Wanna](https://open.spotify.com/album/5ziaDeu4Ulk0MkIujM5Fw8) | 2:33 |
 | 100 | [LINK UP](https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:05 |
 
-Snapshot ID: `MCxlNmI0ODNkMmJhYjlmZjRmOTA0MWZkOTBlODQ5NWFhMjg5NDNkOWRi`
+Snapshot ID: `MCxhZDQ5NzM1MjVjMGI4NmZmNzUxZDM5MDVkMjkwZWI3YmQ4OGEyOTNl`

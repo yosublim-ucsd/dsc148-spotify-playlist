@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 265173,
       "name": "Fractal",
       "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
@@ -1634,6 +1634,28 @@
       "duration_ms": 188890,
       "name": "Supersticiones",
       "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
+    },
+    {
+      "album": {
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208908,
+      "name": "SUR",
+      "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
     },
     {
       "album": {

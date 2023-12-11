@@ -4,7 +4,7 @@
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our second Gold House Future Music Guild artists: Mad Tsai, Rhea Raj & Alex Porat.
 
-199 songs - 10 hr 44 min
+200 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [don't cry over spilled milk](https://open.spotify.com/track/5rUMoqhEIRBoU9p1tAFw8O) | [OKAY! KENJI](https://open.spotify.com/artist/00zm8dLiIe8eTAWaEsrOrm), [Sewerperson](https://open.spotify.com/artist/6bPjJVb3mKaiW1qIT0b7ZF) | [objects in the mirror](https://open.spotify.com/album/436fByE89naaUgjYjRWbYx) | 3:00 | 2023-04-29 | 2023-06-30 |
 | [don't cry over spilled milk](https://open.spotify.com/track/6eocjZ7OFfRprtjmhC7Sjy) | [OKAY! KENJI](https://open.spotify.com/artist/00zm8dLiIe8eTAWaEsrOrm), [Sewerperson](https://open.spotify.com/artist/6bPjJVb3mKaiW1qIT0b7ZF) | [don't cry over spilled milk](https://open.spotify.com/album/60AgXcvaPhzDsDdtQ1ekRO) | 3:00 | 2023-05-31 | 2023-10-24 |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2023-05-06 | 2023-05-13 |
-| [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 | 2022-05-18 |  |
+| [edamame](https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a) | 2:13 | 2023-05-31 |  |
+| [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 | 2022-05-18 | 2023-12-11 |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-05-18 | 2022-07-13 |
 | [Fashionably Late](https://open.spotify.com/track/4gG73FSWLBH5DlkmgaKJtv) | [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR) | [Fashionably Late](https://open.spotify.com/album/4eBlEJK3JKGWGeElVlxJhI) | 3:17 | 2023-04-29 |  |
 | [February Song](https://open.spotify.com/track/69fLVwZ9rQImSXMJSwYb39) | [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [February Song](https://open.spotify.com/album/3iNMX5Rjd4IS8bsl8NrQo3) | 3:20 | 2022-07-12 | 2023-04-30 |

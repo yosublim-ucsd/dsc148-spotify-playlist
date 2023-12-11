@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 21267,
+  "num_followers": 21271,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTQyNzE0OGE1NDhkNWJkYzIzMDY1Y2UxZGY2MTgzOTFkYTA4ZDRi",
+  "snapshot_id": "MCw2ZmFhYjQ3M2I0YjgzNmM5NmU5ODZjNzQ0ODE4M2Y2ODhkNTVkMzUw",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -355,22 +355,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Anything But Time",
-        "url": "https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2"
-      },
-      "artists": [
-        {
-          "name": "Matt Schofield",
-          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "Anything But Time",
-      "url": "https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/0HohoNniglpDithTFEnqaW"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 260013,
       "name": "Where Did I Go Wrong",
       "url": "https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Anything But Time",
+        "url": "https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2"
+      },
+      "artists": [
+        {
+          "name": "Matt Schofield",
+          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "Anything But Time",
+      "url": "https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z"
     },
     {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 63720,
-      "name": "Rattlin' Change",
-      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
-    },
-    {
       "added_at": "2021-04-27 23:04:41",
       "album": {
         "name": "Raisin' Cain",
@@ -433,6 +417,22 @@
       "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 63720,
+      "name": "Rattlin' Change",
+      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
+    },
+    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "The Traveler",
@@ -447,22 +447,6 @@
       "duration_ms": 387706,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 250182,
-      "name": "Brown Gatton",
-      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -487,38 +471,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
         }
       ],
-      "duration_ms": 221430,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "The Bookends",
-        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "B. Slade",
-          "url": "https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Something's Gotta Give",
-      "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
+      "duration_ms": 250182,
+      "name": "Brown Gatton",
+      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -535,6 +499,38 @@
       "duration_ms": 300226,
       "name": "Watch It Die",
       "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 221430,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I"
+      },
+      "artists": [
+        {
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+        }
+      ],
+      "duration_ms": 216552,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -555,34 +551,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I"
+        "name": "The Bookends",
+        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
       "artists": [
         {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
-        }
-      ],
-      "duration_ms": 216552,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Reckless Blues",
-        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
-      },
-      "artists": [
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "B. Slade",
+          "url": "https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH"
         }
       ],
-      "duration_ms": 315178,
-      "name": "Here Comes the Flood",
-      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
+      "duration_ms": 259906,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
     },
     {
       "added_at": "2022-02-23 14:50:27",
@@ -623,38 +607,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Headway",
-        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 178037,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "Change In Me (The Rebirth)",
-      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Chills & Thrills",
         "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
       },
@@ -671,6 +623,38 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Reckless Blues",
+        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 315178,
+      "name": "Here Comes the Flood",
+      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 180583,
       "name": "Cry for Me",
       "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "Change In Me (The Rebirth)",
+      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
+    },
+    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Shufflin' West Coast",
@@ -795,22 +811,6 @@
       "duration_ms": 262536,
       "name": "Shufflin' West Coast",
       "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
     },
     {
       "added_at": "2022-05-13 04:02:00",

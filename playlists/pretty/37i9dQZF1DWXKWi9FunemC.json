@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 247490,
+  "num_followers": 247664,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGI4YTc4NTk0NDY4YjIwODMzNWI0ZTYxYzFjODRhNWVmMzU5NjJj",
+  "snapshot_id": "MCxiY2VkNzMzYWY2OWU5NWYwZGIwMzlmNTgyOWFiMzYxNzQ2ZGIyZGFh",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
+        "url": "https://open.spotify.com/album/7lD371T7NrKgCnOHQq42gk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "duration_ms": 211251,
+      "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
+      "url": "https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
-        "url": "https://open.spotify.com/album/7lD371T7NrKgCnOHQq42gk"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        },
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
-        }
-      ],
-      "duration_ms": 211251,
-      "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
-      "url": "https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "On Christ (House Church)",
-        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "On Christ (House Church)",
-      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Secret Place",
         "url": "https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 181011,
       "name": "Secret Place",
       "url": "https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "On Christ (House Church)",
+        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "On Christ (House Church)",
+      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Raise a Hallelujah (Acoustic)",
-        "url": "https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 303176,
-      "name": "Raise a Hallelujah (Acoustic)",
-      "url": "https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "The Things We Did at First",
         "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Meadow",
-        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
+        "name": "Raise a Hallelujah (Acoustic)",
+        "url": "https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn"
       },
       "artists": [
         {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Meadow",
-      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
+      "duration_ms": 303176,
+      "name": "Raise a Hallelujah (Acoustic)",
+      "url": "https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -907,6 +891,22 @@
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Ashes to Skies",
-        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Ashes to Skies",
-      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "When It Comes to You",
         "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 335299,
       "name": "Goodness",
       "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Ashes to Skies",
+        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Ashes to Skies",
+      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1031,38 +1031,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "If It Wasn\u2019t for the Cross",
-        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
-      },
-      "artists": [
-        {
-          "name": "The Lowly Heirs",
-          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "If It Wasn\u2019t for the Cross",
-      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "\u2020 (just the cross)",
-        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "\u2020 (just the cross) - Live",
-      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Tremble",
         "url": "https://open.spotify.com/album/27z3KNGIVFS5vLQfK7zdsL"
       },
@@ -1083,6 +1051,38 @@
       "duration_ms": 204590,
       "name": "Tremble",
       "url": "https://open.spotify.com/track/6GPU6ddPncezJZyMimnG0Q"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "\u2020 (just the cross)",
+        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "\u2020 (just the cross) - Live",
+      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "If It Wasn\u2019t for the Cross",
+        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
+      },
+      "artists": [
+        {
+          "name": "The Lowly Heirs",
+          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "If It Wasn\u2019t for the Cross",
+      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "I can always find You",
+        "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "I can always find You",
+      "url": "https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 188563,
       "name": "Broken Things - Acoustic",
       "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Worth The Wait",
-        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 235056,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "I can always find You",
-        "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
       },
       "artists": [
         {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
         }
       ],
-      "duration_ms": 226063,
-      "name": "I can always find You",
-      "url": "https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg"
+      "duration_ms": 235056,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Footprints (Acoustic)",
         "url": "https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 247195,
       "name": "Footprints - Acoustic",
       "url": "https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Letting Go (Alternate Version)",
-        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 212739,
-      "name": "Letting Go - Alternate Version",
-      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Magnified (Acoustic)",
         "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
       },
@@ -1579,6 +1563,42 @@
       "duration_ms": 211800,
       "name": "Magnified (Acoustic)",
       "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Letting Go (Alternate Version)",
+        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 212739,
+      "name": "Letting Go - Alternate Version",
+      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1615,26 +1635,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        },
-        {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
       },
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Bridges",
-        "url": "https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 216436,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Thank God I Do",
         "url": "https://open.spotify.com/album/0E1Ip2z8HR4ZYobvGTSlbJ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 169188,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/1V89zM9vgYVK4wyuasc74p"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 216436,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
     },
     {
       "added_at": "2023-07-28 04:01:00",

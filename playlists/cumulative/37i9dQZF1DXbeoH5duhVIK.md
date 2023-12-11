@@ -4,13 +4,14 @@
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-107 songs - 6 hr 35 min
+108 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#FILTER](https://open.spotify.com/track/1La1CnxlYPre0HVUzrRmJ7) | [Princess Shaw](https://open.spotify.com/artist/4nNqSw4oiBkrRjd4vEivbD) | [\#FILTER](https://open.spotify.com/album/2UTgBeM4jyG3prxKgAnHzV) | 4:13 | 2023-03-07 |  |
 | [A Bit like Todayz](https://open.spotify.com/track/2YIHgWe4yVg47gw78GxokQ) | [DJ Destroyer](https://open.spotify.com/artist/3D60ZYCpmUW1j9tog4jKJT) | [A Bit like Todayz](https://open.spotify.com/album/4SnginvNQ6ojUT2UESpVDn) | 4:15 | 2023-03-02 |  |
-| [About You](https://open.spotify.com/track/4N2OBtjqEH8Z84s5LTBAFK) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 4:07 | 2023-03-02 |  |
+| [About You](https://open.spotify.com/track/4N2OBtjqEH8Z84s5LTBAFK) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 4:07 | 2023-03-02 | 2023-12-11 |
+| [About You](https://open.spotify.com/track/4iWngT077V48iQzezvDoXb) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/7qGnsVywMDpieieyFKBrdu) | 4:07 | 2023-03-10 |  |
 | [All The Girls Get Together And Rule](https://open.spotify.com/track/58imTuTZa3LkwfOdKwsLdv) | [Costanza](https://open.spotify.com/artist/1qvYgywpWubEqaAKoKnaEg) | [Zerokilled](https://open.spotify.com/album/01M9XLTxEfesaQjCfa2YYB) | 3:48 | 2023-03-02 |  |
 | [All The Things Lost](https://open.spotify.com/track/62P3dTff68UTyYPqbGpaXs) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [How Does It Feel](https://open.spotify.com/album/1jiIy9BncsplWeFEgbtbRW) | 3:14 | 2023-03-02 |  |
 | [Anything](https://open.spotify.com/track/0CRURHlmneilmPXh9rFESw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 2:38 | 2023-03-02 |  |

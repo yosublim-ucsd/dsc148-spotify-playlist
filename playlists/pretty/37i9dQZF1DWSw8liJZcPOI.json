@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 54997,
+  "num_followers": 55144,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTgwMGI1ZTA1YmY4OTJjNThjMDljOWI0ZWQzZDA5OTk0YjJlZWM3",
+  "snapshot_id": "MCxhNjdlODRjMWUwMzM3YTliNmFiOTdkNDFmNzhjNGY5NjFlODEwN2Q3",
   "tracks": [
     {
       "added_at": "2023-11-24 04:00:00",
@@ -379,18 +379,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "No Ball Games (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mAh7l6iuv2vGhJXeCQJFn"
+        "name": "Movement 5 - Pt. 2",
+        "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
       },
       "artists": [
         {
-          "name": "Patrick Jonsson",
-          "url": "https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl"
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Scottish Ensemble",
+          "url": "https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ"
         }
       ],
-      "duration_ms": 121000,
-      "name": "No Ball Games (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/7ffWqewr8cBD1t7f87sAU3"
+      "duration_ms": 252920,
+      "name": "Movement 5 - Pt. 2 - Instrumental",
+      "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -419,26 +423,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Movement 5 - Pt. 2",
-        "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Scottish Ensemble",
-          "url": "https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Movement 5 - Pt. 2 - Instrumental",
-      "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "The Turning Year",
         "url": "https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX"
       },
@@ -459,22 +443,18 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Over The Pines (from the Motion Picture \"Land\")",
-        "url": "https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj"
+        "name": "No Ball Games (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mAh7l6iuv2vGhJXeCQJFn"
       },
       "artists": [
         {
-          "name": "Ben Sollee",
-          "url": "https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si"
-        },
-        {
-          "name": "Time For Three",
-          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
+          "name": "Patrick Jonsson",
+          "url": "https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl"
         }
       ],
-      "duration_ms": 191386,
-      "name": "Over The Pines",
-      "url": "https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa"
+      "duration_ms": 121000,
+      "name": "No Ball Games (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/7ffWqewr8cBD1t7f87sAU3"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -491,6 +471,26 @@
       "duration_ms": 251173,
       "name": "Bylur",
       "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Over The Pines (from the Motion Picture \"Land\")",
+        "url": "https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj"
+      },
+      "artists": [
+        {
+          "name": "Ben Sollee",
+          "url": "https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si"
+        },
+        {
+          "name": "Time For Three",
+          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "Over The Pines",
+      "url": "https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Wandering II",
-        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 159747,
-      "name": "Wandering II",
-      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Under the Stars",
         "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
       },
@@ -631,6 +615,26 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "some kind of peace \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 227674,
+      "name": "Woven Song \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/2xQBYQi4xvqo3HcjOQg5Oj"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Footsteps",
         "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
       },
@@ -647,6 +651,22 @@
       "duration_ms": 189026,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Wandering II",
+        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 159747,
+      "name": "Wandering II",
+      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -683,26 +703,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "some kind of peace \u2014 piano reworks",
-        "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 227674,
-      "name": "Woven Song \u2014 piano reworks",
-      "url": "https://open.spotify.com/track/2xQBYQi4xvqo3HcjOQg5Oj"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Somnia",
         "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
       },
@@ -715,6 +715,26 @@
       "duration_ms": 198323,
       "name": "Somnia",
       "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Lost Time - Strings Version",
+        "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Lost Time - Strings Version",
+      "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -791,26 +811,6 @@
       "duration_ms": 218333,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Lost Time - Strings Version",
-        "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Francois Mathian",
-          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Lost Time - Strings Version",
-      "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Vitamin String Quartet Performs Bjork",
-        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 175090,
       "name": "Little Orc",
       "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Vitamin String Quartet Performs Bjork",
+        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1267,38 +1267,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Okno",
-        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
-      },
-      "artists": [
-        {
-          "name": "Julia Gjertsen",
-          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Okno",
-      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "A Winged Victory for the Sullen",
-        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
-      },
-      "artists": [
-        {
-          "name": "A Winged Victory for the Sullen",
-          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Steep Hills of Vicodin Tears",
-      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "BLOMMA",
         "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
       },
@@ -1323,6 +1291,38 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "A Winged Victory for the Sullen",
+        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Steep Hills of Vicodin Tears",
+      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Okno",
+        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
+      },
+      "artists": [
+        {
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Okno",
+      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Clouds in the Mirror (This Is Not a Safe Place Reimagined by P\u00eatr Aleks\u00e4nder) [Instrumentals]",
         "url": "https://open.spotify.com/album/5J1t0MUxKrixwW0RuyaBJb"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "A",
         "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 232000,
       "name": "A",
       "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "some kind of peace \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Still / Sound \u2013 piano reworks",
+      "url": "https://open.spotify.com/track/4BlEJ8BG3efMsKKJMhiMar"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "For Mark",
         "url": "https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 154041,
       "name": "Riverscape",
       "url": "https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "some kind of peace \u2014 piano reworks",
-        "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Still / Sound \u2013 piano reworks",
-      "url": "https://open.spotify.com/track/4BlEJ8BG3efMsKKJMhiMar"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Satori by the Sea",
-        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
+        "name": "Tranquillant",
+        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
       },
       "artists": [
         {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Satori by the Sea",
-      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
+      "duration_ms": 173373,
+      "name": "Tranquillant",
+      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
     }
   ],
   "unique_name": "Not Quite Classical",

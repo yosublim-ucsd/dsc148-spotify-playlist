@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,144 songs - 2 day 21 hr 42 min
+1,147 songs - 2 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Bedroom Exile \- Spotify Singles](https://open.spotify.com/track/41nuWG6XRUTGlFSOumec21) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Spotify Singles](https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF) | 3:21 | 2023-03-29 |  |
 | [Before \- Spotify Singles](https://open.spotify.com/track/4nVARAwovEPz1q5miBzOWg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz) | 4:38 | 2022-09-14 |  |
 | [Before You Called Me Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:45 | 2022-01-19 |  |
-| [Begin \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0q59zQZgCwEhwzzipPvWoZ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 4:02 | 2022-01-19 |  |
+| [Begin \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0q59zQZgCwEhwzzipPvWoZ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 4:02 | 2022-01-19 | 2023-12-11 |
+| [Begin \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6l7LSKKYaWvZ8IXw3SM6vM) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/7DDDGdgST4NFAvtbCtrRWA) | 4:02 | 2023-10-02 |  |
 | [Believe \- Spotify Singles](https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 4:08 | 2022-07-20 |  |
 | [Bennie And The Jets \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/144y07SeEatHOBswM3BZHk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 6:01 | 2022-01-19 |  |
 | [Best Shot \(Spotify Singles\)](https://open.spotify.com/track/2WfVAdZp1iQ0OqwnNyKzlU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h) | 4:10 | 2023-10-02 |  |
@@ -336,7 +337,8 @@
 | [Friday Morning \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2f5OAOdaYeFj5mwyganOjD) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/0SsFgST749MQC6oN9PLHLf) | 6:36 | 2022-01-19 | 2022-07-29 |
 | [Friday Morning \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4JNbeUuiJV0CjOUPCLogZy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 6:36 | 2022-07-05 |  |
 | [Friend Of The Devil \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2IS9tN9jucJpiZvl3MreGb) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Spotify Singles](https://open.spotify.com/album/2uQ8dFoSxstQvGqn0OF5Ah) | 2:59 | 2022-01-19 |  |
-| [Friends \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 3:00 | 2022-01-19 |  |
+| [Friends \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 3:00 | 2022-01-19 | 2023-12-11 |
+| [Friends \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4p2bLiYJ59fvHWU2zbX81b) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/7DDDGdgST4NFAvtbCtrRWA) | 3:00 | 2023-10-02 |  |
 | [Friends \- Spotify Singles](https://open.spotify.com/track/2KGVkBbgimzFotFamGtD2a) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Spotify Singles](https://open.spotify.com/album/19wyFSSjj5pqoS130wwCIf) | 2:20 | 2023-09-07 |  |
 | [Frontin' \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6PXs5P69Ab5cSxWaE6Y6wd) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Spotify Singles](https://open.spotify.com/album/0bRsCrUAjvQeQZGLrDFesT) | 4:18 | 2022-01-19 |  |
 | [Frozen \- Spotify Singles](https://open.spotify.com/track/5RYQc6iLLJ4KOBxT94blVF) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Spotify Singles](https://open.spotify.com/album/1533lD31LGOMT8Usm4Y6bC) | 4:23 | 2023-08-16 |  |
@@ -556,7 +558,8 @@
 | [Kiss from a Rose](https://open.spotify.com/track/7sz7Ux2pAuM5V5RdjbaH6V) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Spotify Singles](https://open.spotify.com/album/0cG8Sv80ABlYVGf20D0AAf) | 5:04 | 2023-07-31 |  |
 | [Kiss from God \- mint Singles](https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Kiss from God \(mint Singles\)](https://open.spotify.com/album/3YP0uoO3xoPEVCPX7b3CbV) | 3:48 | 2022-01-19 | 2022-12-01 |
 | [Kiss from God \- mint Singles](https://open.spotify.com/track/5XFTW0rJnYwicp5Db3YRCf) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Kiss from God \(mint Singles\)](https://open.spotify.com/album/3luU3JrWxKBSf71MbpYiAu) | 3:48 | 2022-10-26 |  |
-| [Kiwi \- Spotify Singles](https://open.spotify.com/track/1b1rfsxSu3LqIVZjTWxZol) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Spotify Singles](https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8) | 2:57 | 2022-07-05 |  |
+| [Kiwi \(Spotify Singles\)](https://open.spotify.com/track/6MJAkWFJZWiKllA78BuQf8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Spotify Singles](https://open.spotify.com/album/6EaUb1MYoaFWB3TiiSvJ61) | 2:57 | 2023-10-02 |  |
+| [Kiwi \- Spotify Singles](https://open.spotify.com/track/1b1rfsxSu3LqIVZjTWxZol) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Spotify Singles](https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8) | 2:57 | 2022-07-05 | 2023-12-11 |
 | [Knights Of Cydonia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MMhtroreghawB4y14vaUP) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 4:37 | 2022-01-19 |  |
 | [Kool \- Spotify Singles](https://open.spotify.com/track/1E3KNG9OY7KhW5LbQ5sqwe) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 2:30 | 2023-06-14 |  |
 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 | 2022-01-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Khali
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,823 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,868 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 11 | [Loin](https://open.spotify.com/track/2QjuqvJRPxx4Bs6CNFi2Zz) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma \(Extended\)](https://open.spotify.com/album/5Rx2hiXG1JTKJFIhjkitd2) | 3:13 |
 | 12 | [Si tu savais](https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N) | [Si tu savais](https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K) | 2:25 |
 | 13 | [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 |
-| 14 | [Triste temps](https://open.spotify.com/track/5eogqa52u4P6TIzYsvLUqH) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Triste temps](https://open.spotify.com/album/2Ey1lsZAGC0ch5wd5qFF7v) | 2:40 |
+| 14 | [Triste temps](https://open.spotify.com/track/6XGP90GUjC9BeT0tWlZ2Fx) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 2:40 |
 | 15 | [PERDU SANS TOI](https://open.spotify.com/track/5Aeb85aDLZH4DuMGnMikAZ) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [TOUT VA BIEN](https://open.spotify.com/album/22CKc4qEluGxJ5Rq7XscZS) | 3:36 |
 | 16 | [J'connais](https://open.spotify.com/track/0qXimz42wMirNPwbOuXPuN) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:27 |
 | 17 | [Saudade](https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7) | [Django](https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3) | [Saudade](https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6) | 2:35 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [SITCOM](https://open.spotify.com/track/5vcpJ2wHyrWCCbhy20FvCL) | [S4Y](https://open.spotify.com/artist/730brklpRJyEsMwAd4mQRp) | [SITCOM](https://open.spotify.com/album/1dgFGmX8Pogi4Ol44jDgFY) | 2:13 |
 | 40 | [Dr\. Surprise](https://open.spotify.com/track/0lL5qRP6yOTkaCl9Hy48ZB) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [Dr\. Surprise](https://open.spotify.com/album/1EZFmNCKU4wn8tNk6sRsJg) | 1:54 |
 
-Snapshot ID: `MCw3MmFiOTUyM2Y2NjMzYTVhZmNmZGZiNDNmYTE0MTZmMDdjZmJhMDI2`
+Snapshot ID: `MCwzN2NiYWYzMTFhNTkwMmRjNmExOThmYTU4ODM5YTFhZDRkZTc1NTRj`

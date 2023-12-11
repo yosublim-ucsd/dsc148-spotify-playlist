@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Kyan",
-  "num_followers": 135703,
+  "num_followers": 135699,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2YyM2IyNjkwMDg1ZTRhNThjZjFlNzY3MjhkMTFjOTY2MTQ4NjIx",
+  "snapshot_id": "MCxiZGU4MmQyYTdlMjRlYTUzYTJiMGQxM2Y3MGU4ZmMxNTNjODllNDUx",
   "tracks": [
     {
       "added_at": "2023-12-08 03:33:34",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Bem Vindo Natal Mixtape 2",
-        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
-      },
-      "artists": [
-        {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Gato Preto",
-      "url": "https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
         "name": "O Bagulho \u00c9 Trap II",
         "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 154789,
       "name": "Porsche \"Ye Yo\"",
       "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Gato Preto",
+      "url": "https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -1003,46 +1003,6 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Bem Vindo Natal Mixtape 2",
-        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
-      },
-      "artists": [
-        {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 129923,
-      "name": "Toca Na Corrente",
-      "url": "https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
-        "name": "FREDDIE MERCURY",
-        "url": "https://open.spotify.com/album/030z6Qb2ol8uilw8a6npJx"
-      },
-      "artists": [
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
-        },
-        {
-          "name": "TTF",
-          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
-        }
-      ],
-      "duration_ms": 159798,
-      "name": "FREDDIE MERCURY",
-      "url": "https://open.spotify.com/track/4EpS720DSnhvLM9TV995M1"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
         "name": "O Bagulho \u00c9 Trap II",
         "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
@@ -1079,6 +1039,46 @@
       "duration_ms": 91890,
       "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
       "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 129923,
+      "name": "Toca Na Corrente",
+      "url": "https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
+        "name": "FREDDIE MERCURY",
+        "url": "https://open.spotify.com/album/030z6Qb2ol8uilw8a6npJx"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "TTF",
+          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
+        }
+      ],
+      "duration_ms": 159798,
+      "name": "FREDDIE MERCURY",
+      "url": "https://open.spotify.com/track/4EpS720DSnhvLM9TV995M1"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Sa\u00ed da Biqueira",
+      "url": "https://open.spotify.com/track/7DOJ3635MnSx8Q7HMOtog1"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
         "name": "ISSO \u00d1 \u00c9 GPT",
         "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 170526,
       "name": "Fashion Cria",
       "url": "https://open.spotify.com/track/459ztj37W4Afh6JsdCU5Pe"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
-        "name": "Bem Vindo Natal Mixtape 2",
-        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
-      },
-      "artists": [
-        {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Sa\u00ed da Biqueira",
-      "url": "https://open.spotify.com/track/7DOJ3635MnSx8Q7HMOtog1"
     },
     {
       "added_at": "2023-12-08 03:33:34",

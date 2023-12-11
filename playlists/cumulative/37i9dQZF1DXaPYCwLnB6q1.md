@@ -4,7 +4,7 @@
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy?si=ead57c8c75c94c3a">PVRIS'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-34 songs - 1 hr 49 min
+35 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [NIGHTSHIFT](https://open.spotify.com/track/1jYnAsjQrW7ZCzGhv7txdV) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/0w9y3hsTarYxfXKgH5BEF4) | 2:07 | 2023-08-04 |  |
 | [NIGHTSHIFT](https://open.spotify.com/track/6vZqkQWq28a1ccZa69KDQd) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/3lsu0Vp20MZEsHdTDE6G8I) | 2:07 | 2023-07-14 | 2023-11-06 |
 | [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 | 2023-07-14 |  |
-| [Ponyboy](https://open.spotify.com/track/30lIB7UwSLy5qgkfYZEtB1) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:14 | 2023-07-14 |  |
+| [Ponyboy](https://open.spotify.com/track/30lIB7UwSLy5qgkfYZEtB1) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:14 | 2023-07-14 | 2023-12-11 |
+| [Ponyboy](https://open.spotify.com/track/7dUrhEQguPAglRgnACCzYw) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:14 | 2023-08-04 |  |
 | [Puzzles](https://open.spotify.com/track/56F0w1wbpp3mQRpTlKXVi8) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:41 | 2023-07-14 |  |
 | [Rain on Snow \(feat\. Inspectah Deck, Ghostface Killah, Raekwon\)](https://open.spotify.com/track/44E1khU5Nesq3jW1pdfX81) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Our Pathetic Age](https://open.spotify.com/album/3hquc6tMlycPwkyqKTX0Xa) | 3:39 | 2023-07-14 |  |
 | [SANA SANA](https://open.spotify.com/track/7kakp7vYlAUJAOTBYh42ic) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 2:58 | 2023-07-14 |  |

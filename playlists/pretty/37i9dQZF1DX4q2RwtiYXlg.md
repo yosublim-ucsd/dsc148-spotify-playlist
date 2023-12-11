@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q2RwtiYXlg.md) - [plain]
 
 > Listen to the songs of the Worldwide Fans' Choice Category's winner!
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,118 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,176 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q2RwtiYXlg.md) - [plain]
 | 19 | [Do or Die](https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Do or Die](https://open.spotify.com/album/0vZCxyaV5c4lcHqds3xfts) | 3:25 |
 | 20 | [If We Ever Meet Again](https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 4:34 |
 
-Snapshot ID: `MCwwMWM5NWUyZDBiNThjZWJkNzc4MmY0OWMzNTI3ZGUyZmUyYjJmOTcx`
+Snapshot ID: `MCwyODM5OTA3YmQ3NGNjYmI5MjY3YmY2NDAwODFhMGNjNDM2MzY3OWNm`

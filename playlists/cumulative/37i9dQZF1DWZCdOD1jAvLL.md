@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Apashe
 
-619 songs - 1 day 10 hr 10 min
+620 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-02-10 |  |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-11-14 |  |
 | [Give It Up](https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up](https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U) | 3:20 | 2022-01-14 | 2022-01-22 |
+| [Gladiator](https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Def3](https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG) | [Gladiator](https://open.spotify.com/album/1syBtYI0asFIInNYjw7bNI) | 2:16 | 2023-12-08 |  |
 | [Godless](https://open.spotify.com/track/1LLQXqalVEKNTkga1WHrx9) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [Godless](https://open.spotify.com/album/3JbJ3sGuHEl4EY4Q3EhB6w) | 3:25 | 2023-12-01 |  |
 | [Going Insane](https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Eyes Wide Open](https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX) | 3:51 | 2023-11-10 |  |
 | [Gonna Be Alright](https://open.spotify.com/track/4nqVID3WttReUjBa8ciCZj) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f) | [Gonna Be Alright](https://open.spotify.com/album/7hd4Sowpp2laWg6Gw7veOS) | 4:08 | 2023-06-30 | 2023-07-15 |
@@ -522,7 +523,7 @@
 | [Step Back](https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Step Back](https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI) | 2:53 | 2023-04-28 | 2023-10-28 |
 | [Step Into It](https://open.spotify.com/track/5NTuMqHe6C2wPNB6pRxnT0) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Karsten Sollors](https://open.spotify.com/artist/0ltQvvKInsKwRwpg6sDW35) | [Step Into It](https://open.spotify.com/album/4TyRY68LRAM61BRBKDNiNq) | 3:09 | 2022-11-18 | 2023-03-11 |
 | [Step To](https://open.spotify.com/track/0HsQvGaux6t1XMptT4XrhU) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Step To](https://open.spotify.com/album/2K3748HtawpGZUmelDKNhx) | 3:42 | 2022-10-07 | 2023-02-11 |
-| [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 | 2023-12-08 |  |
+| [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 | 2023-12-08 | 2023-12-11 |
 | [STFU](https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [STFU](https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB) | 2:36 | 2023-09-22 |  |
 | [Stimulate](https://open.spotify.com/track/6GKyjW8BA1BUMX1BwUyabt) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Stimulate](https://open.spotify.com/album/1le5zXq9nLfSCTVm8LPtnc) | 3:02 | 2022-01-14 | 2022-06-11 |
 | [Stop Time](https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Stop Time](https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4) | 3:13 | 2023-08-04 |  |

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-560 songs - 1 day 11 hr 5 min
+561 songs - 1 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Change Is Gonna Come](https://open.spotify.com/track/12YYFvwwuYiw010ONgfYlW) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:17 | 2022-05-25 |  |
 | [A Match Into Water](https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:32 | 2022-05-25 |  |
 | [A Matter Of Time](https://open.spotify.com/track/6LYNOWzGwVZmi64kwtWLx7) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 4:11 | 2022-05-25 | 2022-07-18 |
-| [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 | 2022-05-25 |  |
+| [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 | 2022-05-25 | 2023-12-11 |
 | [Aberdeen](https://open.spotify.com/track/7pwULzYydZdjJX3SiqQ5bR) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/2jVxhH1xg6EIc87rGM1Ogt) | 3:12 | 2022-05-25 | 2022-07-05 |
 | [Adolescents](https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [If Not Now, When?](https://open.spotify.com/album/7d4zNXpbzKsvJpjQi4cIfj) | 4:48 | 2022-05-25 | 2022-07-18 |
 | [After Midnight](https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:26 | 2022-05-25 | 2023-11-22 |
@@ -238,6 +238,7 @@
 | [I Can Talk](https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:57 | 2023-01-18 |  |
 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 | 2022-05-25 |  |
 | [I Just Wanna Shine](https://open.spotify.com/track/4GZ3YCkuH0VvTluVLwUp4g) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:27 | 2022-05-25 |  |
+| [I Know What I Am](https://open.spotify.com/track/1NmwD4CJILAT5KXYKv9zfZ) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Baby Darling Doll Face Honey](https://open.spotify.com/album/4lIHrAdqOfKTlIYIMcanJy) | 3:18 | 2023-01-18 |  |
 | [I Like It](https://open.spotify.com/track/6kw1FgFiPt7Z2X1o8StG3q) | [Foxy Shazam](https://open.spotify.com/artist/5qRXoCC1CDTMTli9gplUvk) | [The Church of Rock and Roll](https://open.spotify.com/album/6k6gbpR9h1fIuXSEKRp3Yo) | 2:48 | 2022-05-25 | 2022-07-23 |
 | [I Really Wish I Hated You](https://open.spotify.com/track/6KWcq5p0wsz97N3eoRUSH6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:11 | 2022-05-25 |  |
 | [I Want It All](https://open.spotify.com/track/7npA2JN5UNjEPUclosjxe8) | [Hell Or Highwater](https://open.spotify.com/artist/6piuj3kJYX4Xrta28yveKM) | [Vista](https://open.spotify.com/album/4SsdIckhSZ3NiehTr9hCiw) | 3:39 | 2022-05-25 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world.Cover: <a href=\"https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh?si=2NIAB8_-RlOrii-bGyWo8g\">Nicki Minaj</a>",
-  "num_followers": 77847,
+  "num_followers": 78120,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -44,7 +44,7 @@
           "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
         }
       ],
-      "duration_ms": 450348,
+      "duration_ms": 444932,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/7ssA6kQHkrNSNx4ZLiTV8V"
     },
@@ -1060,8 +1060,8 @@
           "url": "https://open.spotify.com/artist/2N30x8D6x2qXCI8dr7s0J2"
         },
         {
-          "name": "Mac Stanley",
-          "url": "https://open.spotify.com/artist/72yw92ZbF6erG4xPviBX2R"
+          "name": "Macstanley",
+          "url": "https://open.spotify.com/artist/4VOGc6FGlWQLdrM7GYN4en"
         }
       ],
       "duration_ms": 243620,
@@ -1287,10 +1287,14 @@
     {
       "added_at": "2023-12-08 05:05:00",
       "album": {
-        "name": "Freaky",
+        "name": "Freaky (feat. Phantom Steeze)",
         "url": "https://open.spotify.com/album/2MepRGb5fpyCl8GoBtPtos"
       },
       "artists": [
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        },
         {
           "name": "Sadandsolo",
           "url": "https://open.spotify.com/artist/0JKJ8w8dzJ894jec6ZtAkH"
@@ -1302,10 +1306,6 @@
         {
           "name": "Nanette",
           "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
-        },
-        {
-          "name": "Phantom Steeze",
-          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
         }
       ],
       "duration_ms": 154040,

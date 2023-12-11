@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13501,
+  "num_followers": 13497,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2YyZTMzZmFhNWMzMDU0MGY0Y2IzZjE1NDdkNjg1ZDQ4YjFhMmJh",
+  "snapshot_id": "MCw2Y2YyY2Q5OWNkYjUxMWZiMDA5MTVlNDUzYzUwMTA1MWUwMjgyYThj",
   "tracks": [
     {
       "added_at": "2023-12-08 09:05:06",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
+        "name": "Duke Ellington Meets Coleman Hawkins",
+        "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 315893,
+      "name": "Limbo Jazz",
+      "url": "https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
-        "name": "Duke Ellington Meets Coleman Hawkins",
-        "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 315893,
-      "name": "Limbo Jazz",
-      "url": "https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 247149,
-      "name": "When the Sun Comes Out",
-      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "The Lost Tapes",
         "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 220440,
       "name": "There'll Be Another Spring",
       "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 247149,
+      "name": "When the Sun Comes Out",
+      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 384360,
       "name": "Gone With The Wind",
       "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Backlash",
-        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 401226,
-      "name": "Up Jumped Spring",
-      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 156706,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/060iqzIx8nHrhtQEOZaXv2"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Backlash",
+        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 401226,
+      "name": "Up Jumped Spring",
+      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Fellowship",
-        "url": "https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF"
-      },
-      "artists": [
-        {
-          "name": "Glenn Zaleski",
-          "url": "https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W"
-        }
-      ],
-      "duration_ms": 396426,
-      "name": "Westinghouse",
-      "url": "https://open.spotify.com/track/5xBnT2MvhDcEmkE5OT9fvi"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "We've Just Begun",
         "url": "https://open.spotify.com/album/0IDhy8JGpoMH9xw4gnMHZh"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 401233,
       "name": "Comes Love",
       "url": "https://open.spotify.com/track/6KPzkbirCRJJdgRHFM9ozt"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Fellowship",
+        "url": "https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF"
+      },
+      "artists": [
+        {
+          "name": "Glenn Zaleski",
+          "url": "https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W"
+        }
+      ],
+      "duration_ms": 396426,
+      "name": "Westinghouse",
+      "url": "https://open.spotify.com/track/5xBnT2MvhDcEmkE5OT9fvi"
     }
   ],
   "unique_name": "Spring Jazz",

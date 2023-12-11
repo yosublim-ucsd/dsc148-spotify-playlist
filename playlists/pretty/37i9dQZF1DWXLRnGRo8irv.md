@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 2023년EQUAL Korea를 빛낸 트랙들을 만나보세요! \(Highlights of 2023, listen to women at full volume.\) \(Cover: Red Velvet\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,182 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,180 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [To Reach You](https://open.spotify.com/track/4eRJjFCRLAEGG3LTNeSfan) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Each Other's Hearts](https://open.spotify.com/album/15AKFuq4y9lh8MCobYuk0l) | 3:58 |
 | 50 | [Entrance](https://open.spotify.com/track/0ZLNsexvuCJL8ng84GfH2t) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY) | [TROUBLE](https://open.spotify.com/album/3IYrL8FzKrX5DOlxvqXOlZ) | 1:40 |
 
-Snapshot ID: `MCw1YzM4YThiYzFjYjY3MjM4N2UxYzMxNjQ1NDI3ZmIwNGFiZThjOTdh`
+Snapshot ID: `MCwwNTdjZDZjNDdlZGU5YjgwZWYxODExZjA2YWM4NzY4ZjdiN2EyYzk4`

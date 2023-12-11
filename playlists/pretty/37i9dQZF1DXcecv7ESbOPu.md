@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,740 likes - 105 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,806 likes - 105 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 28 | [Min Skugga](https://open.spotify.com/track/5wOO2PntnNbOSgaszLkbt7) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Min Skugga](https://open.spotify.com/album/6PUHMo6qU9N8GpE4vjLwHE) | 3:09 |
 | 29 | [Okay](https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Okay](https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc) | 3:12 |
 | 30 | [Peace In Silence](https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Peace In Silence](https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx) | 2:10 |
-| 31 | [This Time](https://open.spotify.com/track/0rsCo6I7DyOFPHkMBDyHf5) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Transparency](https://open.spotify.com/album/3ZapMaumC12jGWOjUWH56a) | 2:59 |
+| 31 | [This Time](https://open.spotify.com/track/0rsCo6I7DyOFPHkMBDyHf5) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [TRANSPARENCY](https://open.spotify.com/album/3ZapMaumC12jGWOjUWH56a) | 2:59 |
 | 32 | [Can You Believe It?](https://open.spotify.com/track/4JCdKIbTurUEw62DBZWerI) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [DAYYANI](https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g) | [Can You Believe It](https://open.spotify.com/album/23tw3QTMSjioZa9SwmqLZ9) | 2:58 |
 | 33 | [EASE MY MIND](https://open.spotify.com/track/2RwGziqLwMsSTE6tZdckEh) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [EASE MY MIND](https://open.spotify.com/album/2Gp2L1uGCTT7f7x3wYKuUc) | 2:53 |
 | 34 | [Eat Sleep Repeat](https://open.spotify.com/track/2T5dAsOqcibvLHEFko9Po3) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Eat Sleep Repeat](https://open.spotify.com/album/6jPcv4k7vKSH2mqtBlJlKw) | 3:03 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 92 | [Pull Up](https://open.spotify.com/track/46OvKF6wbqiM8Ohaxdkw16) | [CRASKIN](https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz), [THODE](https://open.spotify.com/artist/5VIf3wqHaZNvHCQ89yapqD) | [Pull Up](https://open.spotify.com/album/5vMHT6ZU11pEr1RbfiW2lh) | 2:45 |
 | 93 | [Super Lazy Girl](https://open.spotify.com/track/1G03Wd21uw9Ago2maWReLj) | [Mall Girl](https://open.spotify.com/artist/77W4p4twkLnwNkMp7t3KBf) | [Super Lazy Girl](https://open.spotify.com/album/63BzY8PZkNoaisUWLQB65N) | 4:23 |
 | 94 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 |
-| 95 | [Outbound \(feat\. grandpa juile\)](https://open.spotify.com/track/1hN9P4VZol7Hxfn7Z4ZHBu) | [Hitch](https://open.spotify.com/artist/0EqZqTzwUy9Sgm7yFIllLo), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/album/31Z21p10mUPCn4hQfGsVZv) | 3:39 |
+| 95 | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/track/1hN9P4VZol7Hxfn7Z4ZHBu) | [Hitch](https://open.spotify.com/artist/0EqZqTzwUy9Sgm7yFIllLo), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/album/31Z21p10mUPCn4hQfGsVZv) | 3:39 |
 | 96 | [You’ve Got the Love](https://open.spotify.com/track/2sySG3jCja59LAWEyaRMf8) | [Deficio](https://open.spotify.com/artist/6cr4pxggIRj1H8ravy0SOR) | [You’ve Got the Love](https://open.spotify.com/album/185WQAmS9irvAiV6DVEMy6) | 2:46 |
 | 97 | [Pub hopping in Dublin](https://open.spotify.com/track/7A795Tnnw9cepzbMcSw7sX) | [Ninjaneers](https://open.spotify.com/artist/1NcntxsDrvr9p5PyqP5LwW) | [European Serenades](https://open.spotify.com/album/5GuGhtR8tjLzUQnanCKfjw) | 2:44 |
 | 98 | [Whip It Up](https://open.spotify.com/track/6u9plBOCtznp7bGnxNZt5S) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Peaceful James](https://open.spotify.com/artist/7GmgIztm5lnP5w3pefyYF1) | [Whip It Up](https://open.spotify.com/album/1HovnCOvJthebS7vPVVw63) | 2:21 |

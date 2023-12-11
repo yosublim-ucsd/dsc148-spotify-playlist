@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 13784,
+  "num_followers": 13815,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWMyZjE3OWYyMTkzYzZmNTI2YTkyYmQ5MTA3ODdiNjU4NjFmZWZk",
+  "snapshot_id": "MCw0ZGY1MjkwNDY4ZDcwMzJiNWE0NDM5MmYxMjZjNmE5MjhmMmI3Njgz",
   "tracks": [
     {
       "added_at": "2023-12-08 13:51:38",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
+        "name": "A Volta Do Astro-Rei",
+        "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
+      },
+      "artists": [
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        }
+      ],
+      "duration_ms": 152941,
+      "name": "A Volta Do Astro-Rei",
+      "url": "https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
         "name": "Sabe Que \u00c9 Gostosa",
         "url": "https://open.spotify.com/album/3ZQOEv7DHr6xKvbzl8blVC"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 214545,
       "name": "Sabe Que \u00c9 Gostosa",
       "url": "https://open.spotify.com/track/6adhxEi2jRAMIiZ5Yjbdcd"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
-        "name": "A Volta Do Astro-Rei",
-        "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
-      },
-      "artists": [
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "A Volta Do Astro-Rei",
-      "url": "https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
+        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Oh N\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4OjfLZXliygHX2OeXKmc9i"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -603,26 +619,6 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
-      },
-      "artists": [
-        {
-          "name": "D'Castelo",
-          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
-        },
-        {
-          "name": "BRUNNOASH",
-          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
-        }
-      ],
-      "duration_ms": 220389,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
         "name": "Que Cal\u00f4",
         "url": "https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD"
       },
@@ -671,6 +667,26 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
+      },
+      "artists": [
+        {
+          "name": "D'Castelo",
+          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
+        },
+        {
+          "name": "BRUNNOASH",
+          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
+        }
+      ],
+      "duration_ms": 220389,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
         "name": "Quando c\u00ea vem",
         "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 216666,
       "name": "Quando c\u00ea vem",
       "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
-        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Oh N\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/4OjfLZXliygHX2OeXKmc9i"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
         "name": "Do Nada",
         "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 205531,
       "name": "Do Nada",
       "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 144522,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     },
     {
       "added_at": "2023-12-08 13:51:38",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-12-08 13:51:38",
       "album": {
-        "name": "S\u00f3 Me Usa",
-        "url": "https://open.spotify.com/album/0xmojnhZydiC9P120Le1Ol"
-      },
-      "artists": [
-        {
-          "name": "Mc Robs",
-          "url": "https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "S\u00f3 Me Usa",
-      "url": "https://open.spotify.com/track/09Cf8HaJnxYlJgKESVv5HL"
-    },
-    {
-      "added_at": "2023-12-08 13:51:38",
-      "album": {
         "name": "Yo Quiero Te Namorar",
         "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 198070,
       "name": "Yo Quiero Te Namorar",
       "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
+    },
+    {
+      "added_at": "2023-12-08 13:51:38",
+      "album": {
+        "name": "S\u00f3 Me Usa",
+        "url": "https://open.spotify.com/album/0xmojnhZydiC9P120Le1Ol"
+      },
+      "artists": [
+        {
+          "name": "Mc Robs",
+          "url": "https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "S\u00f3 Me Usa",
+      "url": "https://open.spotify.com/track/09Cf8HaJnxYlJgKESVv5HL"
     },
     {
       "added_at": "2023-12-08 13:51:38",

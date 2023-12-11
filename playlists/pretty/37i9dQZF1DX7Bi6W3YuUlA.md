@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,007 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,046 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 55 | [REST](https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8) | [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [HELLO KIZZY & COMPANY](https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO) | 3:07 |
 | 56 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
 | 57 | [CATFISH](https://open.spotify.com/track/6tSD4UimW65YowULzt7eSz) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [CATFISH](https://open.spotify.com/album/2a9DwZ7PIgBX9sV956vyID) | 2:48 |
-| 58 | [Look Up to the Sky](https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Look Up to the Sky](https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn) | 2:53 |
-| 59 | [Libre \(feat\. Tommy Royale\)](https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:49 |
+| 58 | [Libre \(feat\. Tommy Royale\)](https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:49 |
+| 59 | [Look Up to the Sky](https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Look Up to the Sky](https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn) | 2:53 |
 | 60 | [Backslide](https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Backslide](https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F) | 2:30 |
 | 61 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 |
 | 62 | [They Didn’t Know II](https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [They Didn’t Know II](https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA) | 2:58 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 81 | [Don’t Forget Who You Are](https://open.spotify.com/track/2bUOUKpJmF0KQqWpu8HIlX) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 2:53 |
 | 82 | [Hold Me Back](https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Hold Me Back](https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E) | 3:07 |
 | 83 | [Supernatural](https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Supernatural](https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD) | 2:19 |
-| 84 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 |
-| 85 | [Put In Work](https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [24](https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT) | 2:36 |
+| 84 | [Put In Work](https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [24](https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT) | 2:36 |
+| 85 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 |
 | 86 | [Enemies and Foes](https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Enemies and Foes](https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a) | 4:49 |
 | 87 | [Pull Up](https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Sunday In Lagos](https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc) | 2:33 |
 | 88 | [Who That Is](https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Dj Laz](https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ) | [Who That Is](https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq) | 2:24 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 92 | [His Side](https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Donovan S Davis](https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG) | [His Side](https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM) | 2:48 |
 | 93 | [97](https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [97](https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM) | 2:55 |
 | 94 | [I's On Him](https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan) | [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [I's On Him](https://open.spotify.com/album/1331lQw385FSkpj02K7pOF) | 3:01 |
-| 95 | [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 |
-| 96 | [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 |
+| 95 | [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 |
+| 96 | [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 |
 | 97 | [SIX THIRTY](https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [SIX THIRTY](https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV) | 3:42 |
 | 98 | [Be Gone \(feat\. Mike Teezy\)](https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Be Gone \(feat\. Mike Teezy\)](https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5) | 2:56 |
 | 99 | [GOOD TO ME](https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW) | [nathan huang](https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [GOOD TO ME](https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek) | 3:27 |
 | 100 | [Hold Me Back](https://open.spotify.com/track/1ahWWaHuP2LtyLfoB1g9By) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Hold Me Back](https://open.spotify.com/album/4D5iRWNKdcqfryA717B96y) | 2:18 |
 
-Snapshot ID: `MCxmMmVmYjcwZjYyZmJjNGQ3YmE2ZTE1ZjdkNGE1ZDlkOTk4Njg2NDIz`
+Snapshot ID: `MCwxMzM4NjNjOTQ0ZTUwOWI2YmMwMzc2ODVmN2JlZjk4YjAwM2U2ZTg2`

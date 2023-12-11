@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ LA SAD e i Bnkr44 in cover🩸
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,499 likes - 73 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,494 likes - 73 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 34 | [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 |
 | 35 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 |
 | 36 | [NORA](https://open.spotify.com/track/014uMfW2DbnRXlA9KtVwQO) | [Silly Sam](https://open.spotify.com/artist/2Xt16y9iLI16gSYQ0yhkHm), [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [NORA](https://open.spotify.com/album/2tRTNRrSmnVnQGCA3GmWik) | 2:51 |
-| 37 | [OGNI VOLTA CHE](https://open.spotify.com/track/2yVn6HBQboZnJruNoauin7) | [Noe](https://open.spotify.com/artist/6Q22Q3ZahamD7Y7Bks4NmI), [harley](https://open.spotify.com/artist/1GclkIumqMDyVGxnsAe0AW) | [OGNI VOLTA CHE](https://open.spotify.com/album/3Luv0tPhZOng66qDJmRwBI) | 3:12 |
+| 37 | [OGNI VOLTA CHE](https://open.spotify.com/track/2yVn6HBQboZnJruNoauin7) | [Noe](https://open.spotify.com/artist/6Q22Q3ZahamD7Y7Bks4NmI), [harley](https://open.spotify.com/artist/4wzXxFtXjjKfqVN3RFPR5k) | [OGNI VOLTA CHE](https://open.spotify.com/album/3Luv0tPhZOng66qDJmRwBI) | 3:12 |
 | 38 | [UOMINI ALFA](https://open.spotify.com/track/3gO4AZ8ok8ocf2zpvT2kdI) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UOMINI ALFA](https://open.spotify.com/album/2mMTSFIK3FOR0HAK1Zhmbt) | 2:59 |
 | 39 | [INCIAMPO](https://open.spotify.com/track/62QFoL2os7QiXM7j2dWsED) | [nonhassenso](https://open.spotify.com/artist/7vC2c6xld28yTNqYxEeIeo) | [INCIAMPO](https://open.spotify.com/album/72xxjvKFxjap8te9IAHHMB) | 2:16 |
 | 40 | [faceplant](https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [faceplant](https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup) | 2:41 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 72 | [VELENO](https://open.spotify.com/track/5P7L3SQJM0ZKzP029SV1Gk) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo) | [VELENO](https://open.spotify.com/album/0QHZmMimUXG4SLIf7rbNrp) | 3:21 |
 | 73 | [Puoi fare meglio](https://open.spotify.com/track/6m1y1HHAlYjB2pmi9I8gRV) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Puoi fare meglio](https://open.spotify.com/album/1j2XwuZzOBU5fXZjsnxcW3) | 2:57 |
 
-Snapshot ID: `MCw3ZGE4MjM1NTk4MGM1NTkxYzkzNGZjNDk5ZjIwN2UxNTlhOGIyMGMy`
+Snapshot ID: `MCxkMmI3NzRlZTY0YmVhZjc0MmE1Zjc4NzI1ZTFkZGUxYmFmOTlkY2Q1`

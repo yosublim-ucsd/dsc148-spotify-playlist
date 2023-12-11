@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 232946,
       "name": "IDEN",
       "url": "https://open.spotify.com/track/5nXb09reEw4Iat5wLkSgaU"
@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
@@ -4392,7 +4392,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-11",
       "duration_ms": 350704,
       "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
       "url": "https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6"
@@ -6636,6 +6636,24 @@
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
+    },
+    {
+      "album": {
+        "name": "We Love Mackey",
+        "url": "https://open.spotify.com/album/60SAcVHhDuo8KgYm802Rlp"
+      },
+      "artists": [
+        {
+          "name": "Miho Fukuhara",
+          "url": "https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298400,
+      "name": "\u7d20\u76f4",
+      "url": "https://open.spotify.com/track/3WMOGfwdooXGzFI62zi7JK"
     },
     {
       "album": {
