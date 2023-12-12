@@ -1822,10 +1822,32 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 180846,
       "name": "Sin Pagar Renta",
       "url": "https://open.spotify.com/track/5yFHXr3m32xB4fGGMBOcjJ"
+    },
+    {
+      "album": {
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/4ZEvCEAotJdxnFr61RfBkJ"
+      },
+      "artists": [
+        {
+          "name": "DISTINTO NORTE",
+          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
+        },
+        {
+          "name": "Conjunto Nuevo Amanecer",
+          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180924,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/2BuzAPLd2DEzmHVDD9kDI3"
     },
     {
       "album": {

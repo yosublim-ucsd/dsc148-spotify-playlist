@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-109 songs - 10 hr 30 min
+111 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Agora a Casa Cai](https://open.spotify.com/track/77D3GyRZ2ddba9uJ50rQbX) | [Doctor MC's](https://open.spotify.com/artist/3Jj7NIBaqFSHmcsO33ilwh) | [Doctor MC's](https://open.spotify.com/album/18LMHVIJXOZSUwuZSDcnug) | 3:30 | 2022-02-25 |  |
 | [Aquela Mina É Firmeza \- Ao Vivo](https://open.spotify.com/track/5gesUH0sJXw221guYq6dKV) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Ao Vivo](https://open.spotify.com/album/2rn3pMVhAcNOxZM4bAZEcq) | 6:34 | 2022-02-25 |  |
 | [Aquela Mina É Firmeza \- Ao Vivo](https://open.spotify.com/track/4MEJ6rpnZSOBgA9B5xaFpg) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Ao Vivo](https://open.spotify.com/album/1uE5G37TRNrqrXJvn2hPNu) | 6:34 | 2022-02-25 | 2022-07-29 |
-| [Artistas ou Não](https://open.spotify.com/track/0dRgUTQzIdmDuvmPQszmEO) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Juventude de Atitude](https://open.spotify.com/album/22Vf9nDmlJ6xmfvL4yLJh1) | 5:27 | 2022-02-25 |  |
+| [Artista Ou Não](https://open.spotify.com/track/0pIMZYjPsk8TRRQC4dktjh) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Juventude de Atitude](https://open.spotify.com/album/7M1OkrmtqKuOkfzSjw8Syn) | 5:27 | 2022-12-02 |  |
+| [Artistas ou Não](https://open.spotify.com/track/0dRgUTQzIdmDuvmPQszmEO) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Juventude de Atitude](https://open.spotify.com/album/22Vf9nDmlJ6xmfvL4yLJh1) | 5:27 | 2022-02-25 | 2023-12-12 |
 | [Assim Que Se Fala](https://open.spotify.com/track/5zzFPS7ALuQg9X0FIZzGfr) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [GOG](https://open.spotify.com/artist/5htWBC2D9S0SZXTiKKdkGj), [Possemente Zulu](https://open.spotify.com/artist/4uNcO3pgF32wPx8UUFRr6L) | [Todos São Manos](https://open.spotify.com/album/63Gr4jBolAXKU8DsZDgDVf) | 6:13 | 2022-02-25 |  |
 | [Bomba H](https://open.spotify.com/track/0oqRkUeUEc0SNzoy4oParq) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [O Crime do Raciocínio](https://open.spotify.com/album/1fcbnOnbQwZPrQhk26ChOt) | 6:24 | 2022-02-25 |  |
 | [Bomba H](https://open.spotify.com/track/5ppBRENgvv5yADpOGQ6iO7) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [O Crime do Raciocínio](https://open.spotify.com/album/0G72VfXULEv3NrRCT6dOW3) | 6:24 | 2022-02-25 | 2022-07-29 |
@@ -34,8 +35,9 @@
 | [Fim de Semana no Parque](https://open.spotify.com/track/6NKchtT70MibwEZfK2ksjl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ) | 7:47 | 2022-02-25 |  |
 | [Fúria de Titãs](https://open.spotify.com/track/6t1QyknKQsFnDPPdllGaAl) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 3:56 | 2022-02-25 |  |
 | [Homem na Estrada](https://open.spotify.com/track/36fttUvKnvYuzB5ASzxhkD) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ) | 8:41 | 2022-02-25 |  |
-| [Isso Aqui É uma Guerra](https://open.spotify.com/track/77XTtDeV1SljrkeM3TXUsr) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/6klzQ2I4ekdPh2jGSJ41PW) | 4:26 | 2022-02-25 |  |
+| [Isso Aqui É uma Guerra](https://open.spotify.com/track/77XTtDeV1SljrkeM3TXUsr) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/6klzQ2I4ekdPh2jGSJ41PW) | 4:26 | 2022-02-25 | 2023-12-12 |
 | [Isso Aqui É uma Guerra](https://open.spotify.com/track/0aaVL58r9tX4wUrJM9K0RZ) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/0NVLGw47LBem7p3rsQrrV8) | 4:26 | 2022-02-25 | 2022-11-18 |
+| [Isso Aqui É Uma Guerra](https://open.spotify.com/track/5Y5ya3T9L0byu2NNesfge9) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/38kExzaGD52pvVAhbe4wxx) | 4:27 | 2022-12-02 |  |
 | [Jesus Chorou](https://open.spotify.com/track/5wZUvwWGKaZ6NG8yckZcTM) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 7:51 | 2022-02-25 |  |
 | [L\. Gelada \- 3 da Madrugada](https://open.spotify.com/track/32mcFZ8uedc5Wd5xoZsNXe) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Declaração de Guerra](https://open.spotify.com/album/0qMoXv72zaGupEdMRJmjNg) | 7:21 | 2022-02-25 |  |
 | [Lei da Periferia](https://open.spotify.com/track/0CoYJSj7z3XiUqyIyxY0hO) | [Consciência Humana](https://open.spotify.com/artist/1nwuifu5rxgVlrGwjjoJOt) | [Entre a Adolescência e o Crime](https://open.spotify.com/album/6ndOfkbN2BiLUzE4x5tprw) | 7:21 | 2022-02-25 |  |

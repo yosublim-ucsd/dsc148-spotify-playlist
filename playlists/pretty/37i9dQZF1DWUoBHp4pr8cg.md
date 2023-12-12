@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Nasty C and ODUMODUBLVCK \(pictured\), Offset, Blxckie, Drake, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,719 likes - 61 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,784 likes - 61 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 60 | [Forecast 23](https://open.spotify.com/track/10FicYAHW4yw4ucDHq9dM9) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Forecast 23](https://open.spotify.com/album/5uFJvBk8muHSCeOtJhb4C8) | 3:52 |
 | 61 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 |
 
-Snapshot ID: `MCw5OTY4YTc0YzBmMDdhN2Q4NDFhYmRkMGU2YjRiYmIyOTFkZmU3N2Jh`
+Snapshot ID: `MCwwMGNjYzVlMzAzOWUyOTU2NzY3Y2Q4NDkxZjk1YzdlZDEzOGQ5ZDc2`

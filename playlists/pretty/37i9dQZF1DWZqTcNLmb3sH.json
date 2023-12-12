@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kaatera\n",
-  "num_followers": 56111,
+  "num_followers": 56128,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTA1YjM5ODE1NDRlMTFlYTE4ZWYzODFjYTY4NDFiZWUyODk1Nzhi",
+  "snapshot_id": "MCwxNDU4ZjNmZDQ5NTNlYjUyNjQ2NWI1ZGQxMzhkOGI5MDZmNWE2YzE5",
   "tracks": [
     {
       "added_at": "2023-12-05 06:44:55",
@@ -87,6 +87,50 @@
       "duration_ms": 133894,
       "name": "Gaju Koodide (From \"Sapta Sagaradaache Ello - Side B\")",
       "url": "https://open.spotify.com/track/4IETWOXTRt5tT7J0eZxUj0"
+    },
+    {
+      "added_at": "2023-12-11 05:59:46",
+      "album": {
+        "name": "Chigurodedide (From \"Schoool Ramayana\") [Male Vocals]",
+        "url": "https://open.spotify.com/album/3ZIPwM6d5IpTTzt3g6pI3j"
+      },
+      "artists": [
+        {
+          "name": "Karthik Nagalapura",
+          "url": "https://open.spotify.com/artist/6UTITQWoVdmj2eREASH6cT"
+        },
+        {
+          "name": "Ajay Warrier",
+          "url": "https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC"
+        },
+        {
+          "name": "Aarohan Karthik Venkatesh",
+          "url": "https://open.spotify.com/artist/1guoPhvtL06vVIvtKxDVtg"
+        }
+      ],
+      "duration_ms": 206717,
+      "name": "Chigurodedide (From \"Schoool Ramayana\") - Male Vocals",
+      "url": "https://open.spotify.com/track/0U5km0S9s1Og1Yq0StbiRr"
+    },
+    {
+      "added_at": "2023-12-11 13:26:57",
+      "album": {
+        "name": "TOXIC - TITLE OST",
+        "url": "https://open.spotify.com/album/7v4U7x631hPTMe1PPmDeVI"
+      },
+      "artists": [
+        {
+          "name": "Shruti Haasan",
+          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
+        },
+        {
+          "name": "Jeremy Stack",
+          "url": "https://open.spotify.com/artist/5ULeF7n20nKasmgi3k8LlA"
+        }
+      ],
+      "duration_ms": 77000,
+      "name": "TOXIC - TITLE OST",
+      "url": "https://open.spotify.com/track/4lnnr3Qi5hMEsByLRSA7O2"
     },
     {
       "added_at": "2023-12-07 12:32:14",
@@ -1617,30 +1661,6 @@
       "url": "https://open.spotify.com/track/5zQyHWspgGA6nkCkeQXHed"
     },
     {
-      "added_at": "2023-10-11 12:45:39",
-      "album": {
-        "name": "Oh Baale (From \"ANIMAL\") [KANNADA]",
-        "url": "https://open.spotify.com/album/1QBVsVnaxZNTSuDulnBh5F"
-      },
-      "artists": [
-        {
-          "name": "Raghav Chaitanya",
-          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        }
-      ],
-      "duration_ms": 275439,
-      "name": "Oh Baale (From \"ANIMAL\") [KANNADA]",
-      "url": "https://open.spotify.com/track/4ewggQjpnST5rb6j3QjrW5"
-    },
-    {
       "added_at": "2023-10-12 13:40:46",
       "album": {
         "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\")",
@@ -1665,26 +1685,6 @@
       "url": "https://open.spotify.com/track/3XDiDgVmgQVQUxvQbE9pbO"
     },
     {
-      "added_at": "2023-10-10 07:56:30",
-      "album": {
-        "name": "Raktaksha (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4te7Bszifj3jLQ6Gpnzj0J"
-      },
-      "artists": [
-        {
-          "name": "Supriyaa Ram",
-          "url": "https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp"
-        },
-        {
-          "name": "Dossmode",
-          "url": "https://open.spotify.com/artist/1A7mR5Rc1i25LIVp8hIz4b"
-        }
-      ],
-      "duration_ms": 200950,
-      "name": "Arrest Me Baby",
-      "url": "https://open.spotify.com/track/3YPzv066UZeQlfAcOOF4Xk"
-    },
-    {
       "added_at": "2023-10-04 11:00:27",
       "album": {
         "name": "Bad Manners (Original Motion Picture Soundtrack)",
@@ -1699,22 +1699,6 @@
       "duration_ms": 186915,
       "name": "I'M IN Love",
       "url": "https://open.spotify.com/track/344Y5pjalizVER38YjdUes"
-    },
-    {
-      "added_at": "2023-10-07 10:55:54",
-      "album": {
-        "name": "Ronnie - The Hunter",
-        "url": "https://open.spotify.com/album/7aCgJef0ecRYjrLHTxnCtL"
-      },
-      "artists": [
-        {
-          "name": "Aishwarya Rangarajan",
-          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
-        }
-      ],
-      "duration_ms": 195201,
-      "name": "Hey Ivan Yaro",
-      "url": "https://open.spotify.com/track/2AAbCJPAwCHxElbz34ps3F"
     }
   ],
   "unique_name": "Latest Kannada",

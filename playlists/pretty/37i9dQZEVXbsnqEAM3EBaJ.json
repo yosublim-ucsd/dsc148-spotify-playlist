@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNjY3NDAsMDAwMDAwMDBiZjUyYTQxMjYxNTllOWViNTQ1MDcxM2VhMmQ1MmUwMw==",
+  "snapshot_id": "MjgzNjY3NDAsMDAwMDAwMDA2ZjFiNzk3N2QyMjhlMjEyODgwNDE3NWY5OTQzOGI1Yg==",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "50th Anniversary Live - First Night",
-        "url": "https://open.spotify.com/album/0MnKe6xNpkKkjAhzGDkra8"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 240901,
-      "name": "Dancin' In The Ruins - Live",
-      "url": "https://open.spotify.com/track/24a7LwTRotFfFtmPhnEgqv"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "The Beautiful Dark of Life",
         "url": "https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp"
       },
@@ -111,8 +95,24 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "50th Anniversary Live - First Night",
+        "url": "https://open.spotify.com/album/0MnKe6xNpkKkjAhzGDkra8"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 240901,
+      "name": "Dancin' In The Ruins - Live",
+      "url": "https://open.spotify.com/track/24a7LwTRotFfFtmPhnEgqv"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Already Over (Live in Los Angeles)",
-        "url": "https://open.spotify.com/album/04NA84v0zrpmifSbVRAwjj"
+        "url": "https://open.spotify.com/album/1JSd8QQUFM6Qpvgi74U76X"
       },
       "artists": [
         {
@@ -122,7 +122,7 @@
       ],
       "duration_ms": 159731,
       "name": "Already Over (Live in Los Angeles)",
-      "url": "https://open.spotify.com/track/3tMOjKAhLwLhC1IF7wp0jm"
+      "url": "https://open.spotify.com/track/6Ck87MYZbayjTY50KBqMuS"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
         }
       ],
-      "duration_ms": 203515,
-      "name": "Nocturnal Fear",
-      "url": "https://open.spotify.com/track/3kAR8IZNpye5CWWFqCfh16"
+      "duration_ms": 135228,
+      "name": "Satan My Master",
+      "url": "https://open.spotify.com/track/3oSrSbj2lWjfFohtbWXy5c"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -207,8 +207,8 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Icon 30",
-        "url": "https://open.spotify.com/album/3pr4hQdl7fbVNb5ZXO6RaI"
+        "name": "True Belief",
+        "url": "https://open.spotify.com/album/3KsKehD23jDVjsLxsfovH4"
       },
       "artists": [
         {
@@ -218,7 +218,23 @@
       ],
       "duration_ms": 272813,
       "name": "True Belief",
-      "url": "https://open.spotify.com/track/1SvZmrS7sXYghUHvuypJE4"
+      "url": "https://open.spotify.com/track/5ZW4JXZKsy28uOKCc1nJsi"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "i/o",
+        "url": "https://open.spotify.com/album/1mhuLKVEwZH4aTJXCLuhec"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 406972,
+      "name": "Live and Let Live - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/1vQUh3oButfNbma7dwwnjr"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -239,24 +255,8 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Live and Let Live (Bright-Side Mix)",
-        "url": "https://open.spotify.com/album/6OV1d8eJOZop5qg4cl3EeT"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 406972,
-      "name": "Live and Let Live - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/3G4SxcaSkW7JXn3vfa4Vdq"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/6yLorJHpW7BUD7RecIVLfI"
+        "name": "Best of The Corrs",
+        "url": "https://open.spotify.com/album/6HjzFZsg2S3soe9Dqd9yeL"
       },
       "artists": [
         {
@@ -266,7 +266,7 @@
       ],
       "duration_ms": 203080,
       "name": "Songbird",
-      "url": "https://open.spotify.com/track/6nfrIohSDBQvBX6rlHWEVO"
+      "url": "https://open.spotify.com/track/7nrvvUfMUXdPf0McTsDFti"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Owner Of A Lonely Heart (farfetch'd Edit)",
-        "url": "https://open.spotify.com/album/5QNsNfBYB23lwvGXMLH3RK"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        },
-        {
-          "name": "farfetch'd",
-          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
-        }
-      ],
-      "duration_ms": 152023,
-      "name": "Owner Of A Lonely Heart (farfetch'd Edit)",
-      "url": "https://open.spotify.com/track/1sN8YtuNoj8t7gMDX9EBfb"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/22V1HdrXA98V9wELP3Ptio"
       },
@@ -431,8 +411,28 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Viral Christmas: Sped Up + Slowed",
-        "url": "https://open.spotify.com/album/47MrmOjxT2nrbtQoM6SLSH"
+        "name": "Owner Of A Lonely Heart (farfetch'd Edit)",
+        "url": "https://open.spotify.com/album/5QNsNfBYB23lwvGXMLH3RK"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        },
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        }
+      ],
+      "duration_ms": 152023,
+      "name": "Owner Of A Lonely Heart (farfetch'd Edit)",
+      "url": "https://open.spotify.com/track/1sN8YtuNoj8t7gMDX9EBfb"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Christmas Remixes 2023",
+        "url": "https://open.spotify.com/album/4eUMG5yauLMEwO0JxTvrox"
       },
       "artists": [
         {
@@ -446,7 +446,7 @@
       ],
       "duration_ms": 177662,
       "name": "What Christmas Means to Me (feat. Stevie Wonder) - Slowed & Reverb",
-      "url": "https://open.spotify.com/track/7qdQEcxu2pV6EZI21Aa1o0"
+      "url": "https://open.spotify.com/track/5nKBUrVglNxDx1XPKow558"
     },
     {
       "added_at": "2023-12-08 03:00:00",

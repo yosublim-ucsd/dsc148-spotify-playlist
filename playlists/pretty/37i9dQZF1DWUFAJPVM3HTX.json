@@ -1,12 +1,12 @@
 {
   "description": "The top 150 tracks from Fresh Finds R&B in 2023. Cover: <a href=\"https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD?si=tXThmOY1RGeAdeUHnJBI8w\"> JayO </a>. Updates every Wednesday.",
-  "num_followers": 220395,
+  "num_followers": 220546,
   "original_name": "Fresh Finds R&B Best of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzUwNWE3ZDI2M2MxZDU3M2JkMWYxOWYxYjczYjlkNWJiYjE0OTM1",
+  "snapshot_id": "MCxkYWQ1MjI3YmUzNDI3YTNkNDczMDk1NjEwMDMyNGU5MzcwYTQ3NDVh",
   "tracks": [
     {
       "added_at": "2023-11-29 12:18:55",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/1sd3owtgEdz4FtoCynU6Ev"
-      },
-      "artists": [
-        {
-          "name": "H33RA",
-          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
-        }
-      ],
-      "duration_ms": 190468,
-      "name": "Make Your Move",
-      "url": "https://open.spotify.com/track/4eNhlwQKsXKDUOJhOOHjJB"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Advantage",
         "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 205813,
       "name": "Advantage",
       "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/1sd3owtgEdz4FtoCynU6Ev"
+      },
+      "artists": [
+        {
+          "name": "H33RA",
+          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
+        }
+      ],
+      "duration_ms": 190468,
+      "name": "Make Your Move",
+      "url": "https://open.spotify.com/track/4eNhlwQKsXKDUOJhOOHjJB"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -583,30 +583,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Oyster",
-        "url": "https://open.spotify.com/album/19wYgVlKnIZLtT33X81U54"
-      },
-      "artists": [
-        {
-          "name": "HMLT",
-          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
-        },
-        {
-          "name": "Eric Ryan",
-          "url": "https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp"
-        },
-        {
-          "name": "Julles",
-          "url": "https://open.spotify.com/artist/59RKDymdV7jSSYMk7kLdko"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Oyster",
-      "url": "https://open.spotify.com/track/5dVfBpvcz0LYoY6KFyitCk"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Before We Crash",
         "url": "https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP"
       },
@@ -639,18 +615,26 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Do You Wanna",
-        "url": "https://open.spotify.com/album/25rLA2BTBErQArmHw75Ra5"
+        "name": "Oyster",
+        "url": "https://open.spotify.com/album/19wYgVlKnIZLtT33X81U54"
       },
       "artists": [
         {
-          "name": "Binta",
-          "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
+          "name": "HMLT",
+          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
+        },
+        {
+          "name": "Eric Ryan",
+          "url": "https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp"
+        },
+        {
+          "name": "Julles",
+          "url": "https://open.spotify.com/artist/59RKDymdV7jSSYMk7kLdko"
         }
       ],
-      "duration_ms": 166355,
-      "name": "Do You Wanna",
-      "url": "https://open.spotify.com/track/6Gt65Ye6Ra5XrDIz9zJ4Bt"
+      "duration_ms": 120000,
+      "name": "Oyster",
+      "url": "https://open.spotify.com/track/5dVfBpvcz0LYoY6KFyitCk"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
+        "name": "Do You Wanna",
+        "url": "https://open.spotify.com/album/25rLA2BTBErQArmHw75Ra5"
+      },
+      "artists": [
+        {
+          "name": "Binta",
+          "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
+        }
+      ],
+      "duration_ms": 166355,
+      "name": "Do You Wanna",
+      "url": "https://open.spotify.com/track/6Gt65Ye6Ra5XrDIz9zJ4Bt"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
         "name": "BLOOD",
         "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 123966,
       "name": "BLOOD",
       "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
-        "name": "Raining Tomorrow",
-        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 228484,
-      "name": "Raining Tomorrow",
-      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Pink Magnolia",
-        "url": "https://open.spotify.com/album/5IMmIvFq2CChk3Fuz4FHf8"
+        "name": "Raining Tomorrow",
+        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
       },
       "artists": [
         {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Purple Room",
-      "url": "https://open.spotify.com/track/67eYQpO7xtAcKlPu0oDDhe"
+      "duration_ms": 228484,
+      "name": "Raining Tomorrow",
+      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -751,22 +735,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "ACT 2",
-        "url": "https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        }
-      ],
-      "duration_ms": 168128,
-      "name": "WICKED",
-      "url": "https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Life Is Better Now",
         "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
       },
@@ -779,6 +747,38 @@
       "duration_ms": 151724,
       "name": "Troubling",
       "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "Pink Magnolia",
+        "url": "https://open.spotify.com/album/5IMmIvFq2CChk3Fuz4FHf8"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Purple Room",
+      "url": "https://open.spotify.com/track/67eYQpO7xtAcKlPu0oDDhe"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "ACT 2",
+        "url": "https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "duration_ms": 168128,
+      "name": "WICKED",
+      "url": "https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Cold Showers",
-        "url": "https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Cold Showers",
-      "url": "https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Glowin 4 Me",
         "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 145609,
       "name": "Glowin 4 Me",
       "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "Cold Showers",
+        "url": "https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cold Showers",
+      "url": "https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/3h9geYca2KTbsfQIhXoZL3"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "duration_ms": 174377,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/4BDXUhFFtnMvf5eJ5Pqv9M"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
         "name": "June 15th",
         "url": "https://open.spotify.com/album/3NZoQUV5mWoXx9CrCZvulx"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "'95 Civic",
-        "url": "https://open.spotify.com/album/3h9geYca2KTbsfQIhXoZL3"
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
       },
       "artists": [
         {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
         }
       ],
-      "duration_ms": 174377,
-      "name": "Nightmares",
-      "url": "https://open.spotify.com/track/4BDXUhFFtnMvf5eJ5Pqv9M"
+      "duration_ms": 130021,
+      "name": "Sadboy",
+      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1019,22 +1035,6 @@
       "duration_ms": 165310,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2CxwqktUwLHo0XtgMaI9Qc"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
-        "name": "Sadboy, Vol. 1",
-        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 130021,
-      "name": "Sadboy",
-      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "AQUARIUS",
-        "url": "https://open.spotify.com/album/0bzEqzgIeug1z49RboQE8i"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 235235,
-      "name": "AQUARIUS",
-      "url": "https://open.spotify.com/track/0Ttmsrh12z26jzhu0LkEar"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Just Like Her Father",
         "url": "https://open.spotify.com/album/5sGcc4EJoo4wxKQEe2eTQ9"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 162666,
       "name": "Just Like Her Father",
       "url": "https://open.spotify.com/track/4CdlBxaStYMMIQTsA8jFDk"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "AQUARIUS",
+        "url": "https://open.spotify.com/album/0bzEqzgIeug1z49RboQE8i"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 235235,
+      "name": "AQUARIUS",
+      "url": "https://open.spotify.com/track/0Ttmsrh12z26jzhu0LkEar"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "I Don't Think You Know Me That Well",
-        "url": "https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK"
-      },
-      "artists": [
-        {
-          "name": "Blue Nightmare",
-          "url": "https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX"
-        }
-      ],
-      "duration_ms": 70711,
-      "name": "This Is What You're Gonna Get (Intro)",
-      "url": "https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 189063,
       "name": "If You Leave",
       "url": "https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "I Don't Think You Know Me That Well",
+        "url": "https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK"
+      },
+      "artists": [
+        {
+          "name": "Blue Nightmare",
+          "url": "https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX"
+        }
+      ],
+      "duration_ms": 70711,
+      "name": "This Is What You're Gonna Get (Intro)",
+      "url": "https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "duration_ms": 257726,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/7qghdTl0t1CSalzT6s9w85"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
         "name": "I've Been Waiting",
         "url": "https://open.spotify.com/album/6cREBSkIEgQ8fxi2NbpfF0"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 187370,
       "name": "I've Been Waiting",
       "url": "https://open.spotify.com/track/2oRGtL4mO7TyYmVt2davbf"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P"
-      },
-      "artists": [
-        {
-          "name": "Gareth Donkin",
-          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
-        }
-      ],
-      "duration_ms": 257726,
-      "name": "Tell Me Something",
-      "url": "https://open.spotify.com/track/7qghdTl0t1CSalzT6s9w85"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Affirm Me",
-        "url": "https://open.spotify.com/album/63T7MVZ5c7tS9ZDNB1H6i2"
-      },
-      "artists": [
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Affirm Me",
-      "url": "https://open.spotify.com/track/0BxOS9BMSKeRjxhraqlARz"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "From Me, To Me",
         "url": "https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 196487,
       "name": "Opps",
       "url": "https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "Affirm Me",
+        "url": "https://open.spotify.com/album/63T7MVZ5c7tS9ZDNB1H6i2"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Affirm Me",
+      "url": "https://open.spotify.com/track/0BxOS9BMSKeRjxhraqlARz"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Renata",
-        "url": "https://open.spotify.com/album/6QyRqDmyqo7IIA6H0mWr5c"
+        "name": "Quality Time",
+        "url": "https://open.spotify.com/album/7kYz4UL4VgC206CC6gxgUj"
       },
       "artists": [
         {
-          "name": "Storm Ford",
-          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+          "name": "Jasmine Janai",
+          "url": "https://open.spotify.com/artist/7vNrZ0Dps51Eg9LrY0FVjU"
         }
       ],
-      "duration_ms": 120020,
-      "name": "Renata",
-      "url": "https://open.spotify.com/track/6ayG9P7pZh5uzOioDCnsap"
+      "duration_ms": 150019,
+      "name": "Quality Time",
+      "url": "https://open.spotify.com/track/1TLp3J6pkoNNdDlpS11GXG"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Quality Time",
-        "url": "https://open.spotify.com/album/7kYz4UL4VgC206CC6gxgUj"
+        "name": "Renata",
+        "url": "https://open.spotify.com/album/6QyRqDmyqo7IIA6H0mWr5c"
       },
       "artists": [
         {
-          "name": "Jasmine Janai",
-          "url": "https://open.spotify.com/artist/7vNrZ0Dps51Eg9LrY0FVjU"
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
         }
       ],
-      "duration_ms": 150019,
-      "name": "Quality Time",
-      "url": "https://open.spotify.com/track/1TLp3J6pkoNNdDlpS11GXG"
+      "duration_ms": 120020,
+      "name": "Renata",
+      "url": "https://open.spotify.com/track/6ayG9P7pZh5uzOioDCnsap"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
+        "name": "Help Me Fight a Losing Battle",
+        "url": "https://open.spotify.com/album/6kBvVJERDoMx7Ec7L3BjOT"
+      },
+      "artists": [
+        {
+          "name": "Kaleem Taylor",
+          "url": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Help Me Fight a Losing Battle",
+      "url": "https://open.spotify.com/track/29Dpkv9ruNKicm9Xhx4mYL"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
         "name": "Forever & A Day",
         "url": "https://open.spotify.com/album/5kc8fel1fPNOGmoDgRtRhz"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 173000,
       "name": "Ride",
       "url": "https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
-        "name": "Help Me Fight a Losing Battle",
-        "url": "https://open.spotify.com/album/6kBvVJERDoMx7Ec7L3BjOT"
-      },
-      "artists": [
-        {
-          "name": "Kaleem Taylor",
-          "url": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Help Me Fight a Losing Battle",
-      "url": "https://open.spotify.com/track/29Dpkv9ruNKicm9Xhx4mYL"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "THE CITY",
-        "url": "https://open.spotify.com/album/2NCmWdgFie2IewMrKzvOYX"
-      },
-      "artists": [
-        {
-          "name": "AMEN DENIRO",
-          "url": "https://open.spotify.com/artist/5i5IBAqlmKRwgkalA07mZ5"
-        }
-      ],
-      "duration_ms": 143499,
-      "name": "THE CITY",
-      "url": "https://open.spotify.com/track/6k8KSVKyMNZWtt8P4v6m2u"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Meet Me Upstrz",
         "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 156107,
       "name": "Mine",
       "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "THE CITY",
+        "url": "https://open.spotify.com/album/2NCmWdgFie2IewMrKzvOYX"
+      },
+      "artists": [
+        {
+          "name": "AMEN DENIRO",
+          "url": "https://open.spotify.com/artist/5i5IBAqlmKRwgkalA07mZ5"
+        }
+      ],
+      "duration_ms": 143499,
+      "name": "THE CITY",
+      "url": "https://open.spotify.com/track/6k8KSVKyMNZWtt8P4v6m2u"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/3O0EiV1Cmvs4aofd2h9JPN"
-      },
-      "artists": [
-        {
-          "name": "Bik\u00f4k\u00f4",
-          "url": "https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV"
-        }
-      ],
-      "duration_ms": 162339,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/30RhSFeWLZUJ7RSQ3rZUkl"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/4e3Fl3nn9ApHxMvkHueCWr"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 180577,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/41lilOBIc82q3CvsCiq8D7"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/3O0EiV1Cmvs4aofd2h9JPN"
+      },
+      "artists": [
+        {
+          "name": "Bik\u00f4k\u00f4",
+          "url": "https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV"
+        }
+      ],
+      "duration_ms": 162339,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/30RhSFeWLZUJ7RSQ3rZUkl"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
+        "name": "& what else?",
+        "url": "https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 223023,
+      "name": "10months",
+      "url": "https://open.spotify.com/track/5ASXnZiupJI6wW73JACpwq"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
         "name": "Through the Cycle",
         "url": "https://open.spotify.com/album/2DffcF8Rm4H7VpRpLnndPX"
       },
@@ -2275,22 +2291,6 @@
       "duration_ms": 197424,
       "name": "Lions & Cowards",
       "url": "https://open.spotify.com/track/3GLBd1LUUtRn9RGCl91I73"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
-        "name": "& what else?",
-        "url": "https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 223023,
-      "name": "10months",
-      "url": "https://open.spotify.com/track/5ASXnZiupJI6wW73JACpwq"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "ATARI! The Album",
-        "url": "https://open.spotify.com/album/1aWsCTeBi5UvrzL552cs7I"
-      },
-      "artists": [
-        {
-          "name": "Loona Dae",
-          "url": "https://open.spotify.com/artist/0GEOpkT89APucSXvhPvymq"
-        }
-      ],
-      "duration_ms": 246603,
-      "name": "kindness",
-      "url": "https://open.spotify.com/track/3J8UxzkEWpe00UB1IfeOQz"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "old ways. [crazy bout u].",
         "url": "https://open.spotify.com/album/2bGoLkcpE7sDEsLNq3vWSr"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 259285,
       "name": "old ways. [crazy bout u].",
       "url": "https://open.spotify.com/track/4oEMtBecxEJzSLToJBXFni"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "ATARI! The Album",
+        "url": "https://open.spotify.com/album/1aWsCTeBi5UvrzL552cs7I"
+      },
+      "artists": [
+        {
+          "name": "Loona Dae",
+          "url": "https://open.spotify.com/artist/0GEOpkT89APucSXvhPvymq"
+        }
+      ],
+      "duration_ms": 246603,
+      "name": "kindness",
+      "url": "https://open.spotify.com/track/3J8UxzkEWpe00UB1IfeOQz"
     },
     {
       "added_at": "2023-11-29 12:18:55",

@@ -4,7 +4,7 @@
 
 > Músicas calminhas pra começar o dia bem relax.
 
-232 songs - 13 hr 9 min
+233 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Quando Você Olha Pra Ela](https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Estratosférica](https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H) | 4:27 | 2022-04-01 | 2023-03-07 |
 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 | 2023-10-02 | 2023-10-14 |
 | [Quero Ir pra Bahia Com Você \- Acústico](https://open.spotify.com/track/3MFd8Cl5aWa9bEd59bYVIL) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Quero Ir pra Bahia Com Você \(Acústico\)](https://open.spotify.com/album/4xwpbcPIP9HA8roUPwnoQA) | 2:46 | 2022-04-01 | 2022-04-19 |
-| [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 | 2022-02-18 |  |
+| [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 | 2022-02-18 | 2023-12-12 |
+| [Romã](https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Romã](https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR) | 3:14 | 2023-12-11 |  |
 | [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-09-22 | 2023-10-24 |
 | [Se Fosse Normal Ser Louco?](https://open.spotify.com/track/71gGD458tFryCohEK1iJy3) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz), [Cris Braun](https://open.spotify.com/artist/2JgOpjAclT7MnRKsYekXuf), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Cheio de Vazio](https://open.spotify.com/album/0WXeAvwodZTkZg1HpFVGr0) | 2:46 | 2022-04-01 | 2022-04-20 |
 | [Se Perder](https://open.spotify.com/track/4no2z9sJGD1O2iHCCDDgEC) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Se Perder](https://open.spotify.com/album/4elS2JhpQVGLNOH2Xr0pkg) | 3:12 | 2022-02-18 | 2022-07-28 |

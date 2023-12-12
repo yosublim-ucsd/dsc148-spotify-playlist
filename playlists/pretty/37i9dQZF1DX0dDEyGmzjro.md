@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dDEyGmzjro.md) - [plain]
 
 > Featuring Nicki Nicole, Young Miko, Myke Towers & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,869 likes - 25 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,874 likes - 25 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dDEyGmzjro.md) - [plain]
 | 24 | [CREAM CARAMEL](https://open.spotify.com/track/4la3LtvfpDLQcS0DXLONEy) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 2:27 |
 | 25 | [Fatal](https://open.spotify.com/track/73n6qiGIOCKW8eImS71oP7) | [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [Fatal](https://open.spotify.com/album/25IcGnmcCrXqygh2A3YzYn) | 2:33 |
 
-Snapshot ID: `MCwyMTUwOTAyNjliNDUyMGFjNmY0NzRjZTE5OTE1YzFkZTA3ZDU1ZDlk`
+Snapshot ID: `MCw5YzJjMzY3MjFiNzE3ODY4MWM3NTYxYTc3ODJjZjA0YTE5Y2IwZWZh`

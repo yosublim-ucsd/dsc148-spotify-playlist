@@ -4,7 +4,7 @@
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-86 songs - 5 hr 21 min
+87 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Saviours](https://open.spotify.com/track/5tAlsl4G3LoIU5Dzo44JV0) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Saviours](https://open.spotify.com/album/1plr1caOwmIHriazUNB9S4) | 3:36 | 2022-10-14 |  |
 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 | 2022-10-14 |  |
 | [Sexy Trippin'](https://open.spotify.com/track/3CHWc5zfSNC3tldOuKnu7P) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Freedom EP](https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO) | 4:33 | 2022-10-14 |  |
-| [Sirens \(feat\. Caroline Polachek\) \[Sofia Kourtesis Remix\]](https://open.spotify.com/track/1KHY07C9hNsaQGvNRa7lK2) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces : The Remixes, Pt\. 2](https://open.spotify.com/album/40p5qaIMZREYF9S6vKzFf5) | 4:35 | 2022-10-14 |  |
+| [Sirens \(feat\. Caroline Polachek\) \[Sofia Kourtesis Remix\]](https://open.spotify.com/track/6ef8fMWzwo7UItuHeJ98ql) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sirens \(feat\. Caroline Polachek\) \[Sofia Kourtesis Remix\]](https://open.spotify.com/album/5lDEJQDkYqDwowD9ENcPG8) | 4:35 | 2022-10-14 |  |
+| [Sirens \(feat\. Caroline Polachek\) \[Sofia Kourtesis Remix\]](https://open.spotify.com/track/1KHY07C9hNsaQGvNRa7lK2) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces : The Remixes, Pt\. 2](https://open.spotify.com/album/40p5qaIMZREYF9S6vKzFf5) | 4:35 | 2022-10-14 | 2023-12-12 |
 | [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 | 2022-10-14 |  |
 | [Spooky](https://open.spotify.com/track/2strBUa5wqXflJ1P5OHPUr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Grace Galu](https://open.spotify.com/artist/4ZDvMIGKnQwEJl0hIwLynN) | [Spooky](https://open.spotify.com/album/6UfKa4tiMxXCrc84faB64N) | 2:51 | 2022-10-14 |  |
 | [Stay](https://open.spotify.com/track/3BiAtP4bR65aPWtr9YV6ME) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Stay](https://open.spotify.com/album/0y8xXX19Rb2naestMkHGHT) | 3:22 | 2022-10-14 |  |

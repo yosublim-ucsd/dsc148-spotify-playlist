@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 
 > Over 5 hours of classic heaters 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,142 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,160 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 77 | [One Night \(feat\. Raphaella\)](https://open.spotify.com/track/4QUA94c3ycZm8dnpPih4sf) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [One Night \(feat\. Raphaella\)](https://open.spotify.com/album/7yA2y59fjfh7VaIuwg3sfZ) | 2:41 |
 | 78 | [Cut Me Loose](https://open.spotify.com/track/0B6QOJU4D9nLqKeNNSVEvh) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj), [Cardboard Foxes](https://open.spotify.com/artist/4cz5606ByK5SmBO27dcf2g), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Cut Me Loose \(D.O.D Remix\)](https://open.spotify.com/album/5fc9N2WT99xvZyeP9LaEX4) | 4:59 |
 | 79 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 |
-| 80 | [Promesses \- Radio Edit](https://open.spotify.com/track/75usYC3ytzfttweGDXKMdE) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Promesses](https://open.spotify.com/album/1gdtdSLixKvaeIlbJ9k8uU) | 2:39 |
+| 80 | [Promesses \(Radio Edit\)](https://open.spotify.com/track/4Vkvji54GIGgL9e2cxRlP9) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Promesses](https://open.spotify.com/album/00GUzcgfjekKl2EUMS584F) | 2:39 |
 | 81 | [Treasured Soul \- Radio Edit](https://open.spotify.com/track/2z9BHtXQT5XsrIThekoZ8s) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Treasured Soul \(Radio Edit\)](https://open.spotify.com/album/7HE9ahCfQSGIc4rlIr2O4k) | 2:57 |
 | 82 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 |
 | 83 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 99 | [Nobody Does It Better](https://open.spotify.com/track/71qJKN5aGOnAHHuui6344H) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Nobody Does It Better](https://open.spotify.com/album/3vgpPO8Z1AhRDdQAsUJUKQ) | 2:28 |
 | 100 | [Bullit](https://open.spotify.com/track/0HFmNBn8c5oHCkg8oEjEEA) | [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Bullit](https://open.spotify.com/album/5yIGnF3aTgLLVVtnG9b8Qw) | 3:15 |
 
-Snapshot ID: `MCwxMDIxODAyMDVjMTdkNGRkZTI3ZmMzN2YyYTRmZjczODU5M2ZkNzI5`
+Snapshot ID: `MCw1ZmI1Y2QwNDNkMTY5ZWVjN2E0YWEzMTg1NzAzM2YyNTU3NGUzNzJh`

@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "A. Hole",
+        "url": "https://open.spotify.com/album/0oyN7KFYXUH32KK5jxxcDj"
+      },
+      "artists": [
+        {
+          "name": "Phi11a",
+          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
+        },
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152060,
+      "name": "A. Hole",
+      "url": "https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97"
+    },
+    {
+      "album": {
         "name": "About Me",
         "url": "https://open.spotify.com/album/4rMJURfRMq7kPbYbt02Wkq"
       },
@@ -12766,7 +12788,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 219800,
       "name": "Oaklands Finest Glass Beaches",
       "url": "https://open.spotify.com/track/7npNvZnmP6lmVH0TcVJuRC"

@@ -578,6 +578,24 @@
     {
       "album": {
         "name": "Heirloom",
+        "url": "https://open.spotify.com/album/2FjjBjJLjsmvRv3SzhRqyK"
+      },
+      "artists": [
+        {
+          "name": "KISLO",
+          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283461,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/0OYUp11ElGJsLWqxQNXBE3"
+    },
+    {
+      "album": {
+        "name": "Heirloom",
         "url": "https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN"
       },
       "artists": [
@@ -588,7 +606,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 283461,
       "name": "Heirloom",
       "url": "https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS"

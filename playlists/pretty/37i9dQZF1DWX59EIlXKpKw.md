@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX59EIlXKpKw.md) - [plain]
 
 > Listen to all the music from the hit series, and your favorite science songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,611 likes - 20 songs - 40 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 18,639 likes - 20 songs - 40 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX59EIlXKpKw.md) - [plain]
 | 8 | [Scientific Method](https://open.spotify.com/track/5SvRpPCx20jXnwIRhaqLtN) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:27 |
 | 9 | [Science Safety Song](https://open.spotify.com/track/08zVXpxlOLeNAribgD0IU0) | [T\-Rex Ranch](https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn) | [Science Safety Song](https://open.spotify.com/album/1kKsfxd9UKEUj59tYegN1t) | 1:56 |
 | 10 | [I Give Up](https://open.spotify.com/track/4b0tUaeZ4mSt95nmuhgdFp) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 0:50 |
-| 11 | [How Do We Know?](https://open.spotify.com/track/1g1IQy1dUQytk434js3Bxw) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Giants of Science](https://open.spotify.com/album/4ui5dHNvWSER4CI1gxYFEl) | 1:55 |
+| 11 | [How Do We Know?](https://open.spotify.com/track/226AYbpi0Wqym8UdKciCx8) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Giants of Science](https://open.spotify.com/album/5XRx47sQo8DQR8KdevmJmA) | 1:55 |
 | 12 | [Scientist](https://open.spotify.com/track/3qrwwhSKYFoQWpViXkNvaN) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2) | 1:02 |
 | 13 | [Put It to the Test](https://open.spotify.com/track/0ms5bzYdvWBnrayTs9RFcf) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:41 |
 | 14 | [The New Periodic Table Song](https://open.spotify.com/track/2Cmth2GiA4UsABtEvYsCM1) | [AsapSCIENCE](https://open.spotify.com/artist/7E8gU2qkctwGqHBizPRH9A) | [The New Periodic Table Song](https://open.spotify.com/album/7hV9SjMjh5lSEDx34xz967) | 2:49 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX59EIlXKpKw.md) - [plain]
 | 19 | [Science](https://open.spotify.com/track/6y527slRv6wrd7eM7PjYaM) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Thoughtful Songs for Little People](https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA) | 3:40 |
 | 20 | [Curious \- Radio Edit](https://open.spotify.com/track/5G0lNxYMUZFTIr1GL7EgQA) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [Curious: Think Outside the Pipeline!](https://open.spotify.com/album/0TgG27H7fFvAhb1RWvrAn6) | 2:30 |
 
-Snapshot ID: `MCwzOWU1MzlkMTM2ZGM2MTJjNWU3NDBiMzY1ZGMxMzk4MGE5YmEyMTI5`
+Snapshot ID: `MCw1M2ViNWVlNzI3OGI1OWFhNDVmODE5YjRhMzNkZTg1MzJkNmVjMTcz`

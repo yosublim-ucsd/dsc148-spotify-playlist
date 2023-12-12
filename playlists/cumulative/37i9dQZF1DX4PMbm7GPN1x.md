@@ -4,7 +4,7 @@
 
 > Relive the disco era with these superhits\. Cover \- Disco Dancer
 
-78 songs - 7 hr 23 min
+79 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Gunmaster G\-9](https://open.spotify.com/track/6kAVYOf6CbuLO7odHTiRJu) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Annette Pinto](https://open.spotify.com/artist/1iAJP0fds4MdLGjha2ahDt) | [Surakksha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y96C5codhCZcwTr8inaLU) | 5:17 | 2021-11-16 |  |
 | [Hari Om Hari](https://open.spotify.com/track/01XB8eBdOVeSzNGIRQqqv7) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Pyaara Dushman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EGYsYtquqd98zUrLOn53B) | 6:38 | 2021-11-16 |  |
 | [I Am A Disco Dancer](https://open.spotify.com/track/5IvBhmCrAHyNRIqBQ0n00Q) | [Vijay Benedict](https://open.spotify.com/artist/0LyiuqDYSPZCXAuEkPJ8jZ) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 7:47 | 2021-11-16 |  |
+| [I Wanna See You Dance \- From "Kho Gaye Hum Kahan"](https://open.spotify.com/track/1n4sbdd6MHD7mIByj2HI0Q) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Kho Gaye Hum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O) | 2:42 | 2023-12-11 |  |
 | [Jaana](https://open.spotify.com/track/0WqcILbK5MRChFWC8uAzby) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Star \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13) | 4:51 | 2022-06-08 |  |
 | [Jaana](https://open.spotify.com/track/1a7zy1Iouc7jnGew6Up2Ai) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Star](https://open.spotify.com/album/26siYxrJglhhCtAsv1hoP0) | 4:51 | 2021-11-16 | 2022-07-29 |
 | [Jawani Janeman](https://open.spotify.com/track/32S5nqTsMlizQPTG6MwSqN) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Namak Halaal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JuMfPhV42wJD0dcjn9ZX3) | 5:35 | 2021-11-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: YOVNGCHIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,057 likes - 202 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,086 likes - 202 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [Check It](https://open.spotify.com/track/4o8Y6HsCCMyYFTAAYbSgqQ) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [CODA](https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1) | 2:40 |
 | 202 | [White Socks](https://open.spotify.com/track/2sEBxymOvbJIDHOfnZFzCS) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [CODA](https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1) | 3:17 |
 
-Snapshot ID: `MCw2Njc5YTYyY2U5MWNlNzE0MjJkZjY2NGVkZjM5MjM1NTQyNGNjNzUw`
+Snapshot ID: `MCxiYjQ1YTRlMDhhMWU3MWZlYjdiMzYzMjk3ZjExMTUwMWM3MWRhYjUx`

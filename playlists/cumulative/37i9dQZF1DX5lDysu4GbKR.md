@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-210 songs - 12 hr 46 min
+211 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/track/29OB96bcpEnlfbdVREAr83) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/album/0qb2JuzgSBbbrJJM6sDWLU) | 3:11 | 2021-12-09 | 2023-04-09 |
 | [Belong To You](https://open.spotify.com/track/6pda92NQRMnWwbOgQhYhtw) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Belong To You](https://open.spotify.com/album/4zvlLzjTjhSzZeINzOcp5Q) | 3:05 | 2021-12-09 |  |
 | [Biting These Bullets](https://open.spotify.com/track/26DRE0b2MT2ym9LxVpfgDa) | [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [Biting These Bullets](https://open.spotify.com/album/7h5jbvfnzdxDUtKd9vUj8U) | 3:22 | 2023-10-12 |  |
-| [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 | 2021-12-09 |  |
+| [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 | 2021-12-09 | 2023-12-12 |
 | [Body \- Remastered](https://open.spotify.com/track/0RMG7vVLwdPFfcfiTeceOa) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Body \(Remastered\)](https://open.spotify.com/album/2rKyEZj5sLPoy2UXudGswY) | 2:52 | 2021-12-09 | 2023-10-13 |
 | [BRB \- Acoustic](https://open.spotify.com/track/2a8LoldsEpzYbwAs7uf4Sl) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [BRB \(Acoustic\)](https://open.spotify.com/album/0ZJVf5ifFPQg6Zb6tNpDKZ) | 2:32 | 2021-12-09 | 2023-08-16 |
 | [Breathe Me \(Homegrown Session\)](https://open.spotify.com/track/1k8AvMh61nJFUIak5NXdEY) | [Maya Mae](https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv) | [Breathe Me \(Homegrown Session\)](https://open.spotify.com/album/0BkgJSfl9AGCRvIj5Oekk0) | 2:48 | 2021-12-09 |  |
@@ -128,6 +128,7 @@
 | [Love No Limit \(For Lisa\)](https://open.spotify.com/track/3cHaDV8U7srUIF4MeBubXf) | [Ernie Halter](https://open.spotify.com/artist/5B8M0EkuUFr6fGN66BO8H8) | [Acoustic Throwback \- Nineties Rhythm and Blues](https://open.spotify.com/album/1fvArybR5Lu1ShVdZKq3VX) | 3:05 | 2021-12-09 | 2022-01-26 |
 | [Lover, You Should've Come Over \(Exclusive Cover Version\)](https://open.spotify.com/track/4Pzim4c56ntyReaKmjcIIL) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Lover, You Should've Come Over](https://open.spotify.com/album/5VellzrJuIcQsc2JjB0hrv) | 3:00 | 2021-12-09 |  |
 | [Loyalty \- Acoustic](https://open.spotify.com/track/6FTpo3Ji9LOFC5Iv3MFxuF) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Loyalty \(Acoustic\)](https://open.spotify.com/album/0bsda3ccZoEUpiRW4zwMud) | 4:23 | 2021-12-09 | 2022-01-14 |
+| [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2023-12-11 |  |
 | [Magic](https://open.spotify.com/track/0hNa2G3CxcEFD1iG0GM2rY) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 4:42 | 2022-10-27 |  |
 | [Make the Most \- Live](https://open.spotify.com/track/40jbQpNvRIFpV1i9UTcNgB) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Make the Most \(Live\)](https://open.spotify.com/album/1bGkar5XcMRqcs4sxp02sF) | 3:42 | 2021-12-09 | 2023-08-31 |
 | [Meant to Be](https://open.spotify.com/track/4SmFQJI0xNBavjodMBfscN) | [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Thankful](https://open.spotify.com/album/2yhzbRsA4dOr3OV5gzHXqt) | 4:34 | 2021-12-09 | 2023-04-09 |

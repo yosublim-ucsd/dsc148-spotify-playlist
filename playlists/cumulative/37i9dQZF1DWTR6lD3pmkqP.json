@@ -2610,6 +2610,60 @@
     {
       "album": {
         "name": "Erzeben Koma",
+        "url": "https://open.spotify.com/album/7BFK6tjzAS9CXoa0gCMOjJ"
+      },
+      "artists": [
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        },
+        {
+          "name": "Koma Saxo",
+          "url": "https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8"
+        },
+        {
+          "name": "Antti L\u00f6tj\u00f6nen",
+          "url": "https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR"
+        },
+        {
+          "name": "Jonas Kullhammar",
+          "url": "https://open.spotify.com/artist/3hHc4tqyPsRJOzzqaxkadB"
+        },
+        {
+          "name": "Mikko Innanen",
+          "url": "https://open.spotify.com/artist/4HWtSGcRzJwM9qj21ODsIj"
+        },
+        {
+          "name": "Otis Sandsj\u00f6",
+          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
+        },
+        {
+          "name": "Jussi Kannaste",
+          "url": "https://open.spotify.com/artist/5MrinOzalbDrw6L1AvPmbV"
+        },
+        {
+          "name": "Christian Lillinger",
+          "url": "https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26"
+        },
+        {
+          "name": "Joonas Riippa",
+          "url": "https://open.spotify.com/artist/21QtF2eJhE5KpCFib3zfqO"
+        },
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252174,
+      "name": "Erzeben Koma",
+      "url": "https://open.spotify.com/track/3RXwZ1NjIlCnpAgeru2QY2"
+    },
+    {
+      "album": {
+        "name": "Erzeben Koma",
         "url": "https://open.spotify.com/album/4L9VLs7hNMPmVABfTpOExT"
       },
       "artists": [
@@ -8430,7 +8484,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 230000,
       "name": "Soho Grandey",
       "url": "https://open.spotify.com/track/2YmPxLYEXMK2uFEWVAyJPx"

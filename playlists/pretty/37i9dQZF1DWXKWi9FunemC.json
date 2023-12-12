@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 247664,
+  "num_followers": 247848,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2VkNzMzYWY2OWU5NWYwZGIwMzlmNTgyOWFiMzYxNzQ2ZGIyZGFh",
+  "snapshot_id": "MCxjZTYxYmJkZTRkNDBiYzM0YTg3NzhjNjI0YmMwNmQ5OTI2NmI5ODZh",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Charmed",
+        "url": "https://open.spotify.com/album/3zfFEn0p5vxMcLDqZVYGcc"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 213157,
+      "name": "Charmed",
+      "url": "https://open.spotify.com/track/0IQeeIqzADdN1xh0B3ZAwu"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "TOGETHER (Acoustic Version)",
         "url": "https://open.spotify.com/album/2bxW2yfuNRzAYao44imd3E"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 216681,
       "name": "TOGETHER (Acoustic Version)",
       "url": "https://open.spotify.com/track/3TX44ZXlkDzGkk8QmlxuYr"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Charmed",
-        "url": "https://open.spotify.com/album/3zfFEn0p5vxMcLDqZVYGcc"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 213157,
-      "name": "Charmed",
-      "url": "https://open.spotify.com/track/0IQeeIqzADdN1xh0B3ZAwu"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Meadow",
-        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Meadow",
-      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Heavenly Father",
         "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 374117,
       "name": "Heavenly Father",
       "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Ashes to Skies",
-        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Ashes to Skies",
-      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Morning Sun, Rising Tide",
         "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 236466,
       "name": "Oh What a Father",
       "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Ashes to Skies",
+        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Ashes to Skies",
+      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Closer Than a Brother",
-        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "I can always find You",
         "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 226063,
       "name": "I can always find You",
       "url": "https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Closer Than a Brother",
+        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
-      },
-      "artists": [
-        {
-          "name": "Finding Favour",
-          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
-        }
-      ],
-      "duration_ms": 221684,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
         "url": "https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 354407,
       "name": "Praise You In This Storm - New York Sessions",
       "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
+      },
+      "artists": [
+        {
+          "name": "Finding Favour",
+          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
+        }
+      ],
+      "duration_ms": 221684,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1503,38 +1503,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Ever Be",
-        "url": "https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 306506,
-      "name": "God Evermore",
-      "url": "https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "The Word Remains",
-        "url": "https://open.spotify.com/album/0sZsZtYQfj2PNZ9THp2fFo"
-      },
-      "artists": [
-        {
-          "name": "Woodside Worship",
-          "url": "https://open.spotify.com/artist/51TNr4se0ZZqdT55ydHiRX"
-        }
-      ],
-      "duration_ms": 289315,
-      "name": "The Word Remains",
-      "url": "https://open.spotify.com/track/5PfYj5wpkr3whpuydlL5pR"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "New York Sessions",
         "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
       },
@@ -1547,6 +1515,22 @@
       "duration_ms": 272625,
       "name": "Who Am I - New York Sessions",
       "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Ever Be",
+        "url": "https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 306506,
+      "name": "God Evermore",
+      "url": "https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Letting Go (Alternate Version)",
-        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
+        "name": "The Word Remains",
+        "url": "https://open.spotify.com/album/0sZsZtYQfj2PNZ9THp2fFo"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "Woodside Worship",
+          "url": "https://open.spotify.com/artist/51TNr4se0ZZqdT55ydHiRX"
         }
       ],
-      "duration_ms": 212739,
-      "name": "Letting Go - Alternate Version",
-      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
+      "duration_ms": 289315,
+      "name": "The Word Remains",
+      "url": "https://open.spotify.com/track/5PfYj5wpkr3whpuydlL5pR"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+        "name": "Letting Go (Alternate Version)",
+        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
       },
       "artists": [
         {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
+      "duration_ms": 212739,
+      "name": "Letting Go - Alternate Version",
+      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 282000,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Fortress (Acoustic)",
+        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+      },
+      "artists": [
+        {
+          "name": "Refuge Worship",
+          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+        }
+      ],
+      "duration_ms": 249485,
+      "name": "Fortress (Acoustic)",
+      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2023-07-28 04:01:00",

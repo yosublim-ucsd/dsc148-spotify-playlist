@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 76091,
+  "num_followers": 76128,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmY3YWM1MDc5ZGNhMzZkNTlmYWE1YjVmZGJlMmMwMTBkOWI4NjUy",
+  "snapshot_id": "MCw3ODkyYTYwZWZiYzgwNDIzZjcxNzRjZDMyYWRiNmU4MDQ3YjAyZTQ4",
   "tracks": [
     {
       "added_at": "2023-10-20 04:59:00",
@@ -143,26 +143,6 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
-      },
-      "artists": [
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 137560,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
         "name": "Si T\u00fa Me Quisieras",
         "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 180626,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 137560,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Cuando Te Encuentre",
-        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 176056,
-      "name": "Cuando Te Encuentre",
-      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Contigo - Tema Remasterizado",
+      "url": "https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/28wQLNnT2Vt6yrsoNAxErW"
       },
@@ -315,6 +315,22 @@
       "duration_ms": 153533,
       "name": "El Contragolpe",
       "url": "https://open.spotify.com/track/34vslpjwLp3AiR86EwJgCz"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "Cuando Te Encuentre",
+        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 176056,
+      "name": "Cuando Te Encuentre",
+      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -347,22 +363,6 @@
       "duration_ms": 171432,
       "name": "Mil Cosas",
       "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
-        "name": "Leyendas Solamente Los Mejores",
-        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Contigo - Tema Remasterizado",
-      "url": "https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -415,26 +415,6 @@
       "duration_ms": 169960,
       "name": "T\u00fa Me Haces Falta",
       "url": "https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
-        "name": "Aunque Me Cueste la Vida",
-        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
-      },
-      "artists": [
-        {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Aunque Me Cueste la Vida",
-      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -515,6 +495,26 @@
       "duration_ms": 132426,
       "name": "Amor De Pobre",
       "url": "https://open.spotify.com/track/7b280q5Y2W7X4a6lNTln2B"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "Aunque Me Cueste la Vida",
+        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+      },
+      "artists": [
+        {
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Aunque Me Cueste la Vida",
+      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
+        "name": "El Rey de las Cantinas",
+        "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
+      },
+      "artists": [
+        {
+          "name": "Guiller",
+          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "Corazoncito",
+      "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
         "name": "Las Estrellas De La Matancera",
         "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 195000,
       "name": "Solo Cenizas Quedaron",
       "url": "https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
-        "name": "El Rey de las Cantinas",
-        "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
-      },
-      "artists": [
-        {
-          "name": "Guiller",
-          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "Corazoncito",
-      "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
+        "name": "La Dama del Bolero",
+        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zevallos",
+          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
+        }
+      ],
+      "duration_ms": 190365,
+      "name": "Coraz\u00f3n Herido",
+      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
         "name": "Colecci\u00f3n Diamante",
         "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 166800,
       "name": "Lo Que Quiera Lola",
       "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
-        "name": "La Dama del Bolero",
-        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
-      },
-      "artists": [
-        {
-          "name": "Gaby Zevallos",
-          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
-        }
-      ],
-      "duration_ms": 190365,
-      "name": "Coraz\u00f3n Herido",
-      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
     },
     {
       "added_at": "2023-10-20 04:59:00",

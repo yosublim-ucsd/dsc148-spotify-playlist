@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,191 likes - 79 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,291 likes - 79 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SKEU SKEU \(feat\. wilsko & 7ia\) \- Speed Up](https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\) \[Speed Up\]](https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7) | 2:35 |
-| 2 | [Twee Motten](https://open.spotify.com/track/5ttRhxHIw2xddeqtlcwWzs) | [Dorus](https://open.spotify.com/artist/1pXwedNJp8Le9pKUCzr9pA) | [De singles: A & B Kanten 1956\-1969](https://open.spotify.com/album/3HrjrKXZQ8L9w42lQomn3C) | 3:06 |
-| 3 | [Meer Niet Minder](https://open.spotify.com/track/6ZLenpFuI8pxKkqmi2feSj) | [Schoppenvier](https://open.spotify.com/artist/2G4yKSjBFu05HsEkxkYZwV) | [Meer Niet Minder](https://open.spotify.com/album/5iZ9vkNLhGfQvAYTgJVP6o) | 2:25 |
+| 1 | [Meer Niet Minder](https://open.spotify.com/track/6ZLenpFuI8pxKkqmi2feSj) | [Schoppenvier](https://open.spotify.com/artist/2G4yKSjBFu05HsEkxkYZwV) | [Meer Niet Minder](https://open.spotify.com/album/5iZ9vkNLhGfQvAYTgJVP6o) | 2:25 |
+| 2 | [SKEU SKEU \(feat\. wilsko & 7ia\) \- Speed Up](https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\) \[Speed Up\]](https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7) | 2:35 |
+| 3 | [Twee Motten](https://open.spotify.com/track/5ttRhxHIw2xddeqtlcwWzs) | [Dorus](https://open.spotify.com/artist/1pXwedNJp8Le9pKUCzr9pA) | [De singles: A & B Kanten 1956\-1969](https://open.spotify.com/album/3HrjrKXZQ8L9w42lQomn3C) | 3:06 |
 | 4 | [Speciaal](https://open.spotify.com/track/1IJ2kXcVKw9Of3weornLMo) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [DJ Madam Julie](https://open.spotify.com/artist/39OsGk5DvHyZ1DA7ApDKHh), [Kaeh](https://open.spotify.com/artist/57LrSRUxhQm9hQ1hdhW27D) | [Francis](https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2) | 3:31 |
 | 5 | [This Is The Life](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [This Is The Life](https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp) | 2:11 |
 | 6 | [SUPARO \- SPEED UP](https://open.spotify.com/track/7sf9InBTBA24jMwMHpiq2K) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV) | [SUPARO \(SPEED UP\)](https://open.spotify.com/album/2rygY1Vjrl34eG7IJ9wJFa) | 1:58 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 78 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 79 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 |
 
-Snapshot ID: `MCw0ZWFjN2U1MGE0NmZhMGFlY2M3ZDUyMGFkOGI4MzJlZWRjYzQzZjBh`
+Snapshot ID: `MCw3NWY0YWYyZjcxNTJjMThjZjRkODczYzBiYzZiYWQ3YzdkZjMzMWJk`

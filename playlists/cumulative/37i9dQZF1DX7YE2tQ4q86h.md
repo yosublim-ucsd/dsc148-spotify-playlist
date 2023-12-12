@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Slayyyter
 
-743 songs - 1 day 13 hr 30 min
+745 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,7 @@
 | [Out Of Time](https://open.spotify.com/track/7tlJGdzYF0qXmeyeqSA7dP) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Out Of Time](https://open.spotify.com/album/7fHa0ax9vb9EDVAuI3d8U5) | 3:10 | 2023-06-09 | 2023-08-19 |
 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 | 2023-02-24 | 2023-05-13 |
 | [Overdrive](https://open.spotify.com/track/6qiTAGpnHIYB1mh1c1U3wI) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Your Engine](https://open.spotify.com/album/0FbsiG21VNxPTf1IF95fHt) | 3:06 | 2023-11-03 |  |
-| [Ozempic Wegovy Mounjaro](https://open.spotify.com/track/1UchiQD1aiASH7b5PymAM9) | [Ari Dayan](https://open.spotify.com/artist/7GaejO7nB6Tyt5S462Fn6o) | [Ozempic Wegovy Mounjaro](https://open.spotify.com/album/4chId4NVXnGG9YOFZVPJCh) | 1:51 | 2023-06-02 |  |
+| [Ozempic Wegovy Mounjaro](https://open.spotify.com/track/1UchiQD1aiASH7b5PymAM9) | [Ari Dayan](https://open.spotify.com/artist/7GaejO7nB6Tyt5S462Fn6o) | [Ozempic Wegovy Mounjaro](https://open.spotify.com/album/4chId4NVXnGG9YOFZVPJCh) | 1:51 | 2023-06-02 | 2023-12-12 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-05-19 | 2023-09-23 |
 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-06-16 | 2023-09-09 |
 | [PDA](https://open.spotify.com/track/2p4b5rDiiGZyiSiLo6RPkB) | [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [PDA](https://open.spotify.com/album/4BkL6XR15aQOvDcpyPdWkF) | 3:02 | 2022-08-12 | 2022-08-27 |
@@ -547,6 +547,7 @@
 | [Rebel Revolution](https://open.spotify.com/track/1GmC0Iva33Hf3uCF5VU7ZJ) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Rebel Revolution](https://open.spotify.com/album/6qIZTPqy1uZCIkvJaxfwCV) | 3:08 | 2022-07-31 | 2022-09-03 |
 | [Rebel Revolution](https://open.spotify.com/track/1dIFTswy9iCiF2gVVvmwNV) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Rebel Revolution](https://open.spotify.com/album/4OpD2M4bZ8BMgOkWl7OfxO) | 3:08 | 2022-05-27 | 2022-08-01 |
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-10-13 |  |
+| [RELAX AFTER WORK WITH A DRINK](https://open.spotify.com/track/6pCesx8BBK7A6wevRbTVfk) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 1:57 | 2023-12-11 |  |
 | [Remedy](https://open.spotify.com/track/5C3J3C5nzBclrE8xuW5UQ7) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/5DkP7hUfhlC2lvvJ0d1jtz) | 2:27 | 2022-07-25 | 2022-07-30 |
 | [Remedy](https://open.spotify.com/track/5wXpoS2j5VYb7V3nK66xDe) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/3HbUBiBpAWBzQlVej5s73c) | 2:27 | 2022-02-15 | 2022-07-29 |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2022-11-18 | 2023-02-18 |
@@ -619,7 +620,7 @@
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2022-11-18 | 2023-03-11 |
 | [Stupid Boy \(feat\. Big Freedia\)](https://open.spotify.com/track/56P7blUafQK9P8LKda9Y6P) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Stupid Boy \(feat\. Big Freedia\)](https://open.spotify.com/album/759tt2Z0PhIjKDEmbEVswM) | 3:52 | 2022-02-15 | 2022-06-18 |
 | [STUPID HEART](https://open.spotify.com/track/5fwOGyjuy8iaAxGcE6d9Mf) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [STUPID HEART](https://open.spotify.com/album/28AxQ5DakM1ij2SBornxx9) | 2:38 | 2023-06-02 | 2023-09-09 |
-| [Stupid Little Party Girl](https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw) | 2:59 | 2023-09-29 |  |
+| [Stupid Little Party Girl](https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw) | 2:59 | 2023-09-29 | 2023-12-12 |
 | [Substitution](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Substitution](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-03-31 | 2023-06-17 |
 | [SUCK](https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCK](https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF) | 2:20 | 2023-06-16 | 2023-08-07 |
 | [SUCKER 4 GREEN](https://open.spotify.com/track/4C7qGYJ9vMAzX95o2xTdhA) | [LIL TAY](https://open.spotify.com/artist/5dsEqJbJ3ZC5A77Yaqwnu3) | [SUCKER 4 GREEN](https://open.spotify.com/album/5hDOPaghJtj3fUPrpE28uE) | 3:34 | 2023-10-06 |  |
@@ -631,6 +632,7 @@
 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-07-29 | 2022-09-10 |
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 | 2022-10-21 | 2022-12-17 |
 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:03 | 2023-09-22 |  |
+| [SUPERSTAR](https://open.spotify.com/track/0f4IgvYuSp3Ui1418ZZLoM) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 2:52 | 2023-12-11 |  |
 | [Superstitious](https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [Superstitious](https://open.spotify.com/album/0l4Yv8Woti8eZ16wiV5A8H) | 3:07 | 2022-03-18 | 2022-04-29 |
 | [Surrender My Heart](https://open.spotify.com/track/0Fx3fYbcYx3iDNrduNMlde) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:48 | 2022-10-21 | 2023-01-28 |
 | [Swing!](https://open.spotify.com/track/6As82n96RAwuoR9Y69N0EB) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Swing!](https://open.spotify.com/album/3LrxGxVT1ScQcKHkPHjzuD) | 2:50 | 2022-10-08 | 2022-12-10 |

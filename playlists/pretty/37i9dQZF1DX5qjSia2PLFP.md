@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Guest Curator:   <a href="spotify:artist:4jwROPSUkTkohLCRiyjiZZ">Destin Conrad</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,032 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,052 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [hero](https://open.spotify.com/track/18lAKG8sITz9QGPZX0hSnp) | [Jontha Links](https://open.spotify.com/artist/7Ln3gaFhj7V95vXvKH0wXq) | [hero](https://open.spotify.com/album/7oyTziYcO7kKyvsBnpNfh9) | 2:42 |
 | 100 | [Next Best Exit](https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Next Best Exit](https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB) | 2:46 |
 
-Snapshot ID: `MCw3MjUxZmExMzcwNmNkZGIyYmQ2NzlkMTRjYWQ2NmE2ZDQ5MWNmYWUy`
+Snapshot ID: `MCxmNjc5NGIwNmE3NjVhN2VkZDFkOTQ1MzQ2NzIxODdiYjY0Y2FhYjQz`

@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-186 songs - 9 hr 40 min
+187 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [MY STORY \(DLOG\)](https://open.spotify.com/track/458QnarswOrqqJB84qVdOw) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [DLOG](https://open.spotify.com/album/4tnNsvUsbJAoI9FESgvkOJ) | 2:44 | 2021-12-01 |  |
 | [Nevermind](https://open.spotify.com/track/2JKrC6yV9TckvJViTTj3WJ) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [Nevermind](https://open.spotify.com/album/4hG3kuD8ef0zVUHEsDcP16) | 3:09 | 2021-12-01 |  |
 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 | 2021-12-01 |  |
-| [Oh, But Lover](https://open.spotify.com/track/3bHeVMbA84wmuHr5p2POrp) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/1OeU8CeNl7tLWNWrKTQ8QO) | 4:04 | 2021-12-01 |  |
+| [Oh, But Lover](https://open.spotify.com/track/3bHeVMbA84wmuHr5p2POrp) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/1OeU8CeNl7tLWNWrKTQ8QO) | 4:04 | 2021-12-01 | 2023-12-12 |
+| [Oh, But Lover](https://open.spotify.com/track/58Sk3DtxUNtE3B2H0yGObE) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/7F2YDpbOx9HBlJc8n8rSoJ) | 4:04 | 2021-12-01 |  |
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2021-12-01 |  |
 | [On Time For Her](https://open.spotify.com/track/497mQQdUubKJdTqYUg0D2d) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3jH2bcVzgYzznFCliV5EdI) | 3:38 | 2021-12-01 | 2022-11-13 |
 | [On Time For Her](https://open.spotify.com/track/4NBziq4rWXCDDzBYIBDKb1) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3Y2eQzXDS2MaiRIIPbnXb2) | 3:38 | 2021-12-01 | 2022-10-17 |

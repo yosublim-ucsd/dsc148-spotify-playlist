@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Giolì & Assia
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,510 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,540 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [running in circles \- David Bay Remix](https://open.spotify.com/track/1yZ4BB0ks2tfGC6NuU7hJz) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [running in circles \(David Bay Remix\)](https://open.spotify.com/album/3oyEwXZ8tKl17RmhJBM7jJ) | 2:54 |
 | 75 | [Off And On](https://open.spotify.com/track/2t0RlrKuzerkIeujXbRS4l) | [5K HD](https://open.spotify.com/artist/6ZMLkcfjNwPGCAlL7LvMyr) | [Off And On](https://open.spotify.com/album/0fr3l4VLVWCdSSJh1BdSRc) | 4:24 |
 
-Snapshot ID: `MCxiOWQ4YjA4NWFhMTQ4YTA4ZGI3YjBmMDEwN2Y2NzlkYTBmMTE4ODE0`
+Snapshot ID: `MCxiNmFiMGE5NTljZWNlNDY4Yzg5MDdkZDc4ODFmZDczODkxMGExNTM2`

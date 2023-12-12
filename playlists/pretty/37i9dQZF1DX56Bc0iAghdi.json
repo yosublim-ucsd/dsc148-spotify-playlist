@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 27760,
+  "num_followers": 27783,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODc0Mjc3YzRiOTRhMjE2MThjOGM5NWVkZjNlOGEwMmI5MzI4YmE4",
+  "snapshot_id": "MCxlOTQ4OWIxNDhhZTgwNTI5ZjExNjVjMDEyY2ZkMmFjOWQyMTkzY2E0",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/62VCya3aXX842Or8W3ITLZ"
-      },
-      "artists": [
-        {
-          "name": "HGHTS",
-          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
-        },
-        {
-          "name": "Kristen Hicks",
-          "url": "https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 497289,
       "name": "Incense - Live",
       "url": "https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/62VCya3aXX842Or8W3ITLZ"
+      },
+      "artists": [
+        {
+          "name": "HGHTS",
+          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
+        },
+        {
+          "name": "Kristen Hicks",
+          "url": "https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC"
     },
     {
       "added_at": "2023-02-18 06:22:02",

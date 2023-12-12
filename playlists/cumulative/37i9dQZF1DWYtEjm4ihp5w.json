@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Valen, Madd",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Kartman, Stormy",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 112000,
       "name": "BREDA",
       "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
@@ -2730,6 +2730,24 @@
       "duration_ms": 188040,
       "name": "SOMNIFERE",
       "url": "https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv"
+    },
+    {
+      "album": {
+        "name": "SOUVENIRS",
+        "url": "https://open.spotify.com/album/0OIv1dSO03mVAV7HasG78H"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185514,
+      "name": "SOUVENIRS",
+      "url": "https://open.spotify.com/track/2RdFjBnr4vPvUDHoYhzeDs"
     },
     {
       "album": {

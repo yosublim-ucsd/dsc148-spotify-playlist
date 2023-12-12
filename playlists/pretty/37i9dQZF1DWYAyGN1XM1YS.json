@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: The Get Up Kids",
-  "num_followers": 125644,
+  "num_followers": 125639,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDg1M2FhMTNlMTNhNTRjNzQzMTJhNTAwMzE4NGVmMGI0ZmIxNjgz",
+  "snapshot_id": "MCw0NmM2YjgzMWM1ZGIwNmYxNThhZWE2N2Q3MGRkYmVkNDNkNjk0Mjlm",
   "tracks": [
     {
       "added_at": "2023-03-28 15:58:25",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
+        "name": "American Football",
+        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "duration_ms": 370506,
+      "name": "Honestly?",
+      "url": "https://open.spotify.com/track/0QNdEegC3Q9AVoAMmd8MEL"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
         "name": "Through Being Cool",
         "url": "https://open.spotify.com/album/3yRpyOundyELlkOO6O4YSo"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 199573,
       "name": "Shoulder to the Wheel",
       "url": "https://open.spotify.com/track/4dKu1HkVL1xh96F1JfDTrn"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
-        "name": "Translating the Name",
-        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "3rd Measurement in C",
-      "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -347,34 +347,34 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "American Football",
-        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
       "artists": [
         {
-          "name": "American Football",
-          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 370506,
-      "name": "Honestly?",
-      "url": "https://open.spotify.com/track/0QNdEegC3Q9AVoAMmd8MEL"
+      "duration_ms": 229706,
+      "name": "Lucky Denver Mint",
+      "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
     },
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Full Collapse",
-        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+        "name": "Translating the Name",
+        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
       },
       "artists": [
         {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 222040,
-      "name": "Standing On The Edge Of Summer",
-      "url": "https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT"
+      "duration_ms": 158360,
+      "name": "3rd Measurement in C",
+      "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Standing On The Edge Of Summer",
+      "url": "https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -420,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 229706,
-      "name": "Lucky Denver Mint",
-      "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
+      "duration_ms": 246560,
+      "name": "For Me This Is Heaven",
+      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Cursive's Domestica",
-        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
-      },
-      "artists": [
-        {
-          "name": "Cursive",
-          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "The Casualty",
-      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "War All The Time",
         "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
       },
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
+        "name": "Cursive's Domestica",
+        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
+      },
+      "artists": [
+        {
+          "name": "Cursive",
+          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "The Casualty",
+      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
         "name": "Parting the Sea Between Brightness and Me",
         "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 66053,
       "name": "Pathfinder",
       "url": "https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 246560,
-      "name": "For Me This Is Heaven",
-      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "In / Casino / Out",
-        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
-      },
-      "artists": [
-        {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Napoleon Solo",
-      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Nothing Feels Good",
         "url": "https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
+        "name": "In / Casino / Out",
+        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Napoleon Solo",
+      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
         "name": "Frame & Canvas",
         "url": "https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 153800,
       "name": "Killing A Camera",
       "url": "https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S"
-      },
-      "artists": [
-        {
-          "name": "Sparta",
-          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "While Oceana Sleeps",
-      "url": "https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S"
+      },
+      "artists": [
+        {
+          "name": "Sparta",
+          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "While Oceana Sleeps",
+      "url": "https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
         "name": "For Your Own Special Sweetheart",
         "url": "https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Everything You Ever Wanted To Know About Silence Remaster",
-        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Siberian Kiss - 2009 Remaster",
-      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "The Power of Failing",
         "url": "https://open.spotify.com/album/7tAXE0Z5GtVJf0NcJ7Qtp7"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 231933,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/0T4Gs697qQdHvaNLm24LcO"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Everything You Ever Wanted To Know About Silence Remaster",
+        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Siberian Kiss - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
     },
     {
       "added_at": "2023-03-28 15:58:25",

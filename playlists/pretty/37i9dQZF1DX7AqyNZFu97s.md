@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > Presenting the biggest tracks from the Class of 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,280 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,288 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Memory](https://open.spotify.com/track/3VcqPv1b86jzRehX2Zp9kh) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Issac Frank](https://open.spotify.com/artist/5WO9zC3eugins48Y4ERwAj) | [Memory](https://open.spotify.com/album/6YEKFQbcHqoNMmRoDzqZae) | 2:45 |
 | 100 | [Alchemy](https://open.spotify.com/track/1bP5YTdgH4jr13CDDSpBdE) | [INDIA BLUE](https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI) | [Alchemy](https://open.spotify.com/album/4Xwwc7D75MxlvO8mAs78BV) | 3:13 |
 
-Snapshot ID: `MCxmMzYxNjljMWE4NmZmNTE0ZTY1OGIxMzEzNjBmMDViMmZlNjRhMjc2`
+Snapshot ID: `MCw1Yzk0N2M3NWQ1ODEyZmMyZGQzMzliZWFkNDUwZDM2NGZhZjEyNjAy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: LANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,166 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,177 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 79 | [Helter Skelter](https://open.spotify.com/track/75gtSkZ8ko4aiNysNRaWLc) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [Helter Skelter](https://open.spotify.com/album/03jk8TVKp0zhwochd99y6t) | 3:05 |
 | 80 | [Ride on a Dawn Train](https://open.spotify.com/track/38beTpJ8H27fvJTYO4SVHr) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [Ride on a Dawn Train](https://open.spotify.com/album/5epXRUHUcADonSmQZBRewU) | 4:40 |
 
-Snapshot ID: `MCxlNjUxYTAwOGJlNmUyNjViNTcxZTA0YmJhZGIwZjdjMTZlNjgxOGE4`
+Snapshot ID: `MCw1MjFhODE0MDQ4NzhkYmI2YTgwN2E4ZDgzMDE2NmJjYmE4NDk1ODU3`

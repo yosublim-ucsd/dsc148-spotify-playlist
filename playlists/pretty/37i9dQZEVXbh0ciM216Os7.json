@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNjY4NjAsMDAwMDAwMDA5ODc2NWNmYTg0MTViYWJiMmI5MDBhMTFjMjg5M2NiNQ==",
+  "snapshot_id": "MjgzNjY4NjAsMDAwMDAwMDAwY2Y2M2I3ZGQxZjJmMTkyNzg4MmEwMjg2MjJmN2I1Yw==",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -59,34 +59,42 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "CHRYSALIS",
-        "url": "https://open.spotify.com/album/4j6yMI3a0GsrrkkwgJpSIO"
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
       "artists": [
         {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 173560,
-      "name": "COMPANY",
-      "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Life's a Sugar Pill",
-        "url": "https://open.spotify.com/album/4RmqwBMr1KetAesVgG6w5s"
+        "name": "I'm Sorry (ft. Lous and The Yakuza)",
+        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
       },
       "artists": [
         {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
         }
       ],
-      "duration_ms": 185295,
-      "name": "Baptism",
-      "url": "https://open.spotify.com/track/4W83KRyGMfl9HeT4Hj9GkZ"
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -107,6 +115,46 @@
       "duration_ms": 459741,
       "name": "Sweet Sounds Of Heaven (feat. Lady Gaga) - Live at Racket, NYC",
       "url": "https://open.spotify.com/track/5vo05MN3AjGdbiTtnw5jbg"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Life's a Sugar Pill",
+        "url": "https://open.spotify.com/album/4RmqwBMr1KetAesVgG6w5s"
+      },
+      "artists": [
+        {
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+        }
+      ],
+      "duration_ms": 185295,
+      "name": "Baptism",
+      "url": "https://open.spotify.com/track/4W83KRyGMfl9HeT4Hj9GkZ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Inte utan mina Timbos",
+        "url": "https://open.spotify.com/album/7pPeeKGv1Yj2H90riTDQYa"
+      },
+      "artists": [
+        {
+          "name": "Dogge Doggelito",
+          "url": "https://open.spotify.com/artist/4nqYfDP6BoiVWj8mqzp2dw"
+        },
+        {
+          "name": "Emilush",
+          "url": "https://open.spotify.com/artist/5nRpThqM28nrzaCdE5kInp"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Bonanza",
+      "url": "https://open.spotify.com/track/6TuDaRtXXc7KTKrPaEyK37"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -139,30 +187,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Inte utan mina Timbos",
-        "url": "https://open.spotify.com/album/7pPeeKGv1Yj2H90riTDQYa"
-      },
-      "artists": [
-        {
-          "name": "Dogge Doggelito",
-          "url": "https://open.spotify.com/artist/4nqYfDP6BoiVWj8mqzp2dw"
-        },
-        {
-          "name": "Emilush",
-          "url": "https://open.spotify.com/artist/5nRpThqM28nrzaCdE5kInp"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 235862,
-      "name": "Bonanza",
-      "url": "https://open.spotify.com/track/6TuDaRtXXc7KTKrPaEyK37"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E"
       },
@@ -183,42 +207,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "I'm Sorry (ft. Lous and The Yakuza)",
-        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+        "name": "CHRYSALIS",
+        "url": "https://open.spotify.com/album/4j6yMI3a0GsrrkkwgJpSIO"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
         }
       ],
-      "duration_ms": 187282,
-      "name": "I'm Sorry (ft. Lous and The Yakuza)",
-      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 180869,
-      "name": "Everybody (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
+      "duration_ms": 173560,
+      "name": "COMPANY",
+      "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -255,26 +255,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Schoenberg: Suite for Piano, Op. 25: VI. Gigue (Musical Moments)",
-        "url": "https://open.spotify.com/album/76tMrjiiyTkRO0GyzEDVED"
-      },
-      "artists": [
-        {
-          "name": "Arnold Schoenberg",
-          "url": "https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 138171,
-      "name": "Suite for Piano, Op. 25: VI. Gigue - Musical Moments",
-      "url": "https://open.spotify.com/track/0wwReHfskijZp6CXo9PwAp"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Masithokoze",
         "url": "https://open.spotify.com/album/4QreHarJCZPr11JUW3shdT"
       },
@@ -299,6 +279,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Schoenberg: Suite for Piano, Op. 25: VI. Gigue (Musical Moments)",
+        "url": "https://open.spotify.com/album/76tMrjiiyTkRO0GyzEDVED"
+      },
+      "artists": [
+        {
+          "name": "Arnold Schoenberg",
+          "url": "https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 138171,
+      "name": "Suite for Piano, Op. 25: VI. Gigue - Musical Moments",
+      "url": "https://open.spotify.com/track/0wwReHfskijZp6CXo9PwAp"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Feliz Navidad (Metal Version)",
         "url": "https://open.spotify.com/album/0oJsglUpQOb3imRXh3iMSa"
       },
@@ -311,6 +311,26 @@
       "duration_ms": 219263,
       "name": "Feliz Navidad (Metal Version)",
       "url": "https://open.spotify.com/track/6oZD9wB0TopUfxE4G8J0Nb"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Soul Room",
+        "url": "https://open.spotify.com/album/6POS6eyYngSVFXzQRyg1u7"
+      },
+      "artists": [
+        {
+          "name": "Mateo Santiago",
+          "url": "https://open.spotify.com/artist/0c7bsEYzoQOexKPoC4ggSC"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 117398,
+      "name": "So Just Rid Yourself Of Him",
+      "url": "https://open.spotify.com/track/7wSrE8gDihaPSQ7Fqqaney"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -335,26 +355,6 @@
       "duration_ms": 165403,
       "name": "Highway to Heaven",
       "url": "https://open.spotify.com/track/1t76vFG3TW5f4w1s8iWDz4"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Soul Room",
-        "url": "https://open.spotify.com/album/6POS6eyYngSVFXzQRyg1u7"
-      },
-      "artists": [
-        {
-          "name": "Mateo Santiago",
-          "url": "https://open.spotify.com/artist/0c7bsEYzoQOexKPoC4ggSC"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 117398,
-      "name": "So Just Rid Yourself Of Him",
-      "url": "https://open.spotify.com/track/7wSrE8gDihaPSQ7Fqqaney"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Trial By Fire",
+        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 645887,
       "name": "Free Bird",
       "url": "https://open.spotify.com/track/2UybVyb3uhTFig2pXXiAja"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Trial By Fire",
-        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Up on the Housetop",
+        "url": "https://open.spotify.com/album/1X9qEFsBIondSzwmT2yPWn"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 170300,
+      "name": "Up on the Housetop",
+      "url": "https://open.spotify.com/track/1z5GlN4nJElIMEBaiy9FyY"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "DOWN BY LAW (Live from Atlanta, GA)",
         "url": "https://open.spotify.com/album/2wUHWUiKrAcb6kHx2VKQVm"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 242561,
       "name": "DOWN BY LAW - Live from Atlanta, GA",
       "url": "https://open.spotify.com/track/6rgawPzwREAF01BSJFXXxD"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Up on the Housetop",
-        "url": "https://open.spotify.com/album/1X9qEFsBIondSzwmT2yPWn"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 170300,
-      "name": "Up on the Housetop",
-      "url": "https://open.spotify.com/track/1z5GlN4nJElIMEBaiy9FyY"
     },
     {
       "added_at": "2023-12-08 05:00:00",

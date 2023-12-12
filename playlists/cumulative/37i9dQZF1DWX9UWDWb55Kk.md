@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-441 songs - 1 day 3 hr 57 min
+443 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 | 2022-04-08 |  |
 | [All About the Music](https://open.spotify.com/track/4ZYjeXb7idg3lSEKA1DHUI) | [WAS](https://open.spotify.com/artist/0Vy8ogc0toTWyui4W7FEB6) | [All About the Music](https://open.spotify.com/album/7wK6THr4RFx8DSSxHy9P0q) | 3:38 | 2021-09-01 |  |
 | [All I Need](https://open.spotify.com/track/45tEa06w991TxJZ2qWWFYe) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [it's the end of the world, but it's ok](https://open.spotify.com/album/62PLeXBXAAo4eRR3a8lKIs) | 4:10 | 2021-09-01 |  |
-| [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place](https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp) | 4:03 | 2022-11-24 |  |
+| [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place](https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp) | 4:03 | 2022-11-24 | 2023-12-12 |
+| [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/track/6EhRListpw2YeQqgcInfci) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place](https://open.spotify.com/album/6ybnHrTm473zIEshemCuS0) | 4:03 | 2022-11-24 |  |
 | [All In Place \(feat\. Bearcubs\) \(Nathan Fake Remix\)](https://open.spotify.com/track/0CBK22JtRADJszMrZSbnBD) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Giving Up Air \(Remixes\)](https://open.spotify.com/album/6TitMGZay7YyY7a0msiknE) | 6:24 | 2022-11-29 |  |
 | [All In Place \(feat\. Bearcubs\) \[Nathan Fake Remix\]](https://open.spotify.com/track/5F2ktgdhVn79jwhnxouAjO) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [All In Place \(feat\. Bearcubs\) \[Remixes\]](https://open.spotify.com/album/4r6LMenu9pD3n3UYNbmTlp) | 6:24 | 2022-11-29 | 2023-12-11 |
 | [All My Friends Are Falling In Love](https://open.spotify.com/track/0JAQUGJudVlhRoAqqhVoYX) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [All My Friends Are Falling In Love](https://open.spotify.com/album/36dPTCQrHjXgcgKhHi6jcV) | 3:30 | 2021-09-01 |  |
@@ -249,7 +250,8 @@
 | [Lo Que No Sabes](https://open.spotify.com/track/2w4Apocnq858NCmzWlB8W9) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Lo Que No Sabes](https://open.spotify.com/album/31ZWi8b1CuqzIOL80XwVE9) | 3:54 | 2021-09-01 |  |
 | [Lolita, No!](https://open.spotify.com/track/0xi4FLOU6Yhmh8JrtJLOeL) | [DUO](https://open.spotify.com/artist/6FFSeDNJPtdauDFJQt6hZD) | [DUO](https://open.spotify.com/album/1FbcUqWeMZSvqPyMQLkUpG) | 3:08 | 2022-04-08 |  |
 | [Loner Boogie](https://open.spotify.com/track/1mgIlvtm1aQr6ei17gDALV) | [Boy Azooga](https://open.spotify.com/artist/4S2f4BosAW2oF9AfGEK8ZL) | [1, 2, Kung Fu!](https://open.spotify.com/album/1JIuboQphPsmFWxajY8dUY) | 2:05 | 2021-09-01 |  |
-| [Look At That Butt](https://open.spotify.com/track/6itsZ3QsDvfEFoklc08YHD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [WUT WUT](https://open.spotify.com/album/1mdsI3uD5YlpbymXaGqkVE) | 2:32 | 2022-04-08 |  |
+| [Look At That Butt](https://open.spotify.com/track/4dmbMCZW8PQfZW7DCZvBuB) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [WUT WUT](https://open.spotify.com/album/5VMvnNI6nPJdk5GU4wKvAZ) | 2:32 | 2022-04-08 |  |
+| [Look At That Butt](https://open.spotify.com/track/6itsZ3QsDvfEFoklc08YHD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [WUT WUT](https://open.spotify.com/album/1mdsI3uD5YlpbymXaGqkVE) | 2:32 | 2022-04-08 | 2023-12-12 |
 | [Los Amigos Que Perdí](https://open.spotify.com/track/4dVd7gOcupYmG6eQJCvzWV) | [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO) | [Diez Años y un Día](https://open.spotify.com/album/7jfF8MMGc6d8jIoq4blJmU) | 4:11 | 2021-09-01 |  |
 | [Los Chicos Hoy Saltarán A La Pista](https://open.spotify.com/track/04wL0E4tBCOYDTj09wPCzS) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [La Polinesia Meridional](https://open.spotify.com/album/232LpqTsWlBTyslwqu1CCG) | 3:22 | 2021-09-01 |  |
 | [Los Días Raros](https://open.spotify.com/track/0eVB5kmXBHSKgTYxgI77kq) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Mapas](https://open.spotify.com/album/1Oow7d8D859T5Xd2tsQUzG) | 6:27 | 2021-09-01 |  |

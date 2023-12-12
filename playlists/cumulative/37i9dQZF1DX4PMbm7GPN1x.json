@@ -769,6 +769,32 @@
     },
     {
       "album": {
+        "name": "Kho Gaye Hum Kahan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Saba Azad",
+          "url": "https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162473,
+      "name": "I Wanna See You Dance - From \"Kho Gaye Hum Kahan\"",
+      "url": "https://open.spotify.com/track/1n4sbdd6MHD7mIByj2HI0Q"
+    },
+    {
+      "album": {
         "name": "Star (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13"
       },

@@ -4,7 +4,7 @@
 
 > Throwback to the golden age of Indian pop\. Cover \- Piya Basanti
 
-93 songs - 7 hr 45 min
+94 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Pyaar Ke Pal](https://open.spotify.com/track/7dzXBjG9GHuvvpb0YkiZP2) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Best of Bollywood: KK](https://open.spotify.com/album/1RNb1kwVUmpsCb0ncWeuKJ) | 5:59 | 2022-04-11 | 2023-10-13 |
 | [Raat Shabnami](https://open.spotify.com/track/0t6B3uOAmzEzf1o7fandDd) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Jaanam Samjha Karo](https://open.spotify.com/album/0LbuyS4guhU6d1LcfmpD0a) | 6:09 | 2022-04-11 |  |
 | [Sa Ni Dha Pa](https://open.spotify.com/track/2sF9kShaPgkYHT2lr2OCy8) | [Colonial Cousins](https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P) | [Colonial Cousins](https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC) | 5:06 | 2022-04-11 | 2023-04-22 |
+| [Saade Dil Te Chhuriyan Chaliyan](https://open.spotify.com/track/4MmlE62E59WSZtH90Kbu5C) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Ho Jayegi Balle Balle](https://open.spotify.com/album/3GRXDOkaGugQQWm0dQgdxM) | 3:12 | 2023-12-11 |  |
 | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/track/3LZYmdTuRWMgajd91up13j) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/album/1ZOAdeDl57AM0k8Em2X7Mv) | 4:08 | 2022-04-11 | 2023-10-13 |
 | [Saiyyan](https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Jhoomo Re](https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5) | 5:43 | 2023-10-12 |  |
 | [Sali Tu Maney Nahi](https://open.spotify.com/track/0TjKYEnNKghcdci6kKyeFK) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Buri Baat Hai](https://open.spotify.com/album/0OTlz9jTKBc1Ws8Ie8QyWu) | 4:04 | 2022-04-11 | 2023-02-14 |

@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz, ENNIO
 
-467 songs - 22 hr 36 min
+469 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Genug](https://open.spotify.com/track/75uNUFBi9YnNGhIX2nyIxA) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Genug](https://open.spotify.com/album/1TO4mrBv3ZocDgZs31LDlL) | 2:22 | 2023-07-06 | 2023-09-15 |
 | [Gepäckträger](https://open.spotify.com/track/6giLl2EnhBmbDQjiJrav49) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Gepäckträger](https://open.spotify.com/album/2CtUfGY2aIn2pquv1XLNpH) | 2:35 | 2023-07-06 | 2023-09-01 |
 | [Geruch von Koks \(feat\. Paula Hartmann\)](https://open.spotify.com/track/3RC8VtoWlLcwYoZbz3zpBX) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Geruch von Koks \(feat\. Paula Hartmann\)](https://open.spotify.com/album/2irGlvjYWIG5mtVwlahBu3) | 3:35 | 2023-02-02 | 2023-03-25 |
-| [Gib her was dich kaputt macht](https://open.spotify.com/track/1mGvGbF4qKoRQy4hdpDnqR) | [Tigermilch](https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN) | [Gib her was dich kaputt macht](https://open.spotify.com/album/4yrfckEAdy9HRpemsJzMr6) | 3:43 | 2023-11-09 |  |
+| [Gib her was dich kaputt macht](https://open.spotify.com/track/1mGvGbF4qKoRQy4hdpDnqR) | [Tigermilch](https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN) | [Gib her was dich kaputt macht](https://open.spotify.com/album/4yrfckEAdy9HRpemsJzMr6) | 3:43 | 2023-11-09 | 2023-12-12 |
 | [Girls](https://open.spotify.com/track/1ekbaHcYd9fUMvRVWT1IHF) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Girls](https://open.spotify.com/album/3iQ4meV1NB6JdhEEKm05CL) | 3:08 | 2023-03-02 | 2023-09-15 |
 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 | 2023-02-02 |  |
 | [gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [gloria](https://open.spotify.com/album/0Jprwfz5Yv9WzebYv5fKWQ) | 2:33 | 2023-09-14 | 2023-11-10 |
@@ -385,7 +385,7 @@
 | [Sommerregen](https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Sommerregen](https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl) | 3:45 | 2023-02-13 | 2023-02-15 |
 | [Songs for a lonely night](https://open.spotify.com/track/2ZXmuWfXTdSQYBdco2DkbK) | [Ann Can't Talk](https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9) | [Songs for a lonely night](https://open.spotify.com/album/3b2nRMB3mYChP32i5lApzo) | 2:55 | 2023-02-09 | 2023-03-03 |
 | [Sonne](https://open.spotify.com/track/6XWGkUp5gJEd9Jhaipw13x) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [Sonne](https://open.spotify.com/album/3HGcEZt1WSbG0mQpGVQGzs) | 2:04 | 2023-02-09 | 2023-03-10 |
-| [sowas von da \(hellwach\)](https://open.spotify.com/track/0YYvd9mj8va83hI7iUAWSW) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [sowas von da \(hellwach\)](https://open.spotify.com/album/6apTYDBoUc9GxiSPyLZawl) | 2:30 | 2023-11-09 |  |
+| [sowas von da \(hellwach\)](https://open.spotify.com/track/0YYvd9mj8va83hI7iUAWSW) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [sowas von da \(hellwach\)](https://open.spotify.com/album/6apTYDBoUc9GxiSPyLZawl) | 2:30 | 2023-11-09 | 2023-12-12 |
 | [Spaghetti \(bitte küss mich\)](https://open.spotify.com/track/14a2h2TpfHk3wj7WZBH91W) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Spaghetti](https://open.spotify.com/album/3CJpdZXe7e9O52KWkEUFRu) | 2:07 | 2023-11-24 |  |
 | [Spiegelbild](https://open.spotify.com/track/3cubpQ3kOp2Pm32YoSjpva) | [kevin](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz) | [Endstation](https://open.spotify.com/album/6xryVW2EPOunePnaCH1NIW) | 2:02 | 2023-04-27 | 2023-05-12 |
 | [Sprite](https://open.spotify.com/track/4ytM9tGEHg9si6PHlem15h) | [ANOKI](https://open.spotify.com/artist/3EhgyxwXCxedAWunhIwSFx) | [Sprite](https://open.spotify.com/album/1laGBRu72LIQ4NQNL3smsX) | 2:31 | 2023-08-24 | 2023-09-29 |
@@ -393,6 +393,7 @@
 | [Stadtpark Insomnia](https://open.spotify.com/track/2AegBY2u1iOIY5dpWgb1EQ) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Stadtpark Insomnia](https://open.spotify.com/album/4nU2qhJUgxLtKoVeqnK3Gk) | 2:49 | 2023-03-02 | 2023-03-25 |
 | [Star](https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Star](https://open.spotify.com/album/6wukO4YtfgoQP5aGZ5q7gi) | 2:38 | 2023-07-27 | 2023-09-15 |
 | [STAR](https://open.spotify.com/track/2TLPItRuC0tBBdO1zLuAim) | [JPD](https://open.spotify.com/artist/6GINGsiSYu415FMWN9xbBN) | [STAR](https://open.spotify.com/album/38BjctnUG9JnykZ2M1gWO5) | 3:21 | 2023-02-16 | 2023-03-03 |
+| [Sterne Sehen](https://open.spotify.com/track/4vNMyM0fSjooHCBFOH0q8d) | [Sandra](https://open.spotify.com/artist/3cnQzVpUDcSTevTmiDthJ7) | [Sterne Sehen](https://open.spotify.com/album/3wD3VRmKxHgUpQ9NdngzZx) | 2:56 | 2023-12-11 |  |
 | [Strausberger Platz](https://open.spotify.com/track/3mD1vuBTjDkRJVgZ4ykVsz) | [Torky Tork](https://open.spotify.com/artist/2ULrSviyq7At3VlxHGe1ml), [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [Goldroger](https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM) | [Strausberger Platz](https://open.spotify.com/album/2dkB7IBPXXVswdgsfWfk86) | 2:56 | 2023-02-02 | 2023-03-10 |
 | [streetsmart](https://open.spotify.com/track/0Qe3c6avosY3zD6m6nmK24) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [streetsmart](https://open.spotify.com/album/6dHxhtdsS5j3GxXbOr7T46) | 2:32 | 2023-08-31 | 2023-12-01 |
 | [Superkraft](https://open.spotify.com/track/3pRsPjpPnnCDGgNJZZiATR) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Superkraft](https://open.spotify.com/album/0zdMpT5ovFKv42wOfvo54Z) | 2:20 | 2023-08-03 | 2023-08-18 |
@@ -423,6 +424,7 @@
 | [Utopie](https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Utopie](https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E) | 2:43 | 2023-10-05 |  |
 | [Vampir](https://open.spotify.com/track/0HP48knRNuDkoXJ7ynlbTs) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Vampir](https://open.spotify.com/album/48qoR2gkEP5yqbkxfUSKko) | 2:34 | 2023-02-16 | 2023-03-03 |
 | [Verliebt](https://open.spotify.com/track/5RefEA1Ixv3mtxHFwrNydi) | [Rainald Grebe](https://open.spotify.com/artist/3RCOgmbS8WtFSMKQAholxE) | [Das Hongkongkonzert](https://open.spotify.com/album/2VVI4GC46JFO3KaW87r0mb) | 2:53 | 2023-02-13 | 2023-02-15 |
+| [vermiss nicht mehr](https://open.spotify.com/track/226lOE0355w0RBUXsn3XWV) | [Mika](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [vermiss nicht mehr](https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ) | 2:53 | 2023-12-11 |  |
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB) | 2:41 | 2023-02-13 | 2023-02-15 |
 | [Verrückt](https://open.spotify.com/track/3fdtL03cpv8g91L8ZB2xXA) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Verrückt](https://open.spotify.com/album/3V4NoETSPCqAiKSlY1ckWe) | 3:06 | 2023-06-22 | 2023-09-08 |
 | [Veuve](https://open.spotify.com/track/6Rf0Rg1UgoBj0zoGyoAcSW) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Nie verliebt](https://open.spotify.com/album/5dFqidhoMEed1Nx9gO9M71) | 3:09 | 2023-02-13 | 2023-02-15 |

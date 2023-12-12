@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241056,
+  "num_followers": 241101,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODZiZmNmZjYyNTYzY2E1NTUyMWU0ZWQ5N2ZmMmIwZmIyZjFiNDgx",
+  "snapshot_id": "MCwxMTIyMzBmMTVjYTg3OTE1MjIxZjJlMTkwNGM5Y2I2ZTRkNThmYTAy",
   "tracks": [
     {
       "added_at": "2023-12-07 23:37:57",
@@ -131,18 +131,26 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "WY@",
-        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 208038,
-      "name": "WY@",
-      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
+      "duration_ms": 247100,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -215,30 +223,6 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "Good Good",
-        "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 247100,
-      "name": "Good Good",
-      "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 223480,
       "name": "No One Else (feat. Fridayy)",
       "url": "https://open.spotify.com/track/1lYqI9WKBPsL6Hf93yT9bB"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
+        "name": "WY@",
+        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 208038,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -323,22 +323,18 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 237852,
-      "name": "Feelings (feat. J Hus)",
-      "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
+      "duration_ms": 251038,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -359,18 +355,22 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "That's You",
-        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 251038,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+      "duration_ms": 237852,
+      "name": "Feelings (feat. J Hus)",
+      "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -791,18 +791,22 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "Words of Affirmation",
-        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
       },
       "artists": [
         {
           "name": "Queen Naija",
           "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 186095,
-      "name": "Words of Affirmation",
-      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
+      "duration_ms": 190498,
+      "name": "All or Nothing (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -871,6 +875,22 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
+        "name": "Words of Affirmation",
+        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "duration_ms": 186095,
+      "name": "Words of Affirmation",
+      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 183022,
       "name": "Word For Word",
       "url": "https://open.spotify.com/track/6YRe3sTiUR0ACtSQTejxCt"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
-        "name": "After the Butterflies",
-        "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 190498,
-      "name": "All or Nothing (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1391,42 +1391,6 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "Private",
-        "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        },
-        {
-          "name": "Bad\u00ed",
-          "url": "https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa"
-        }
-      ],
-      "duration_ms": 158901,
-      "name": "Private",
-      "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
-        "name": "2 Am",
-        "url": "https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu"
-      },
-      "artists": [
-        {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
-        }
-      ],
-      "duration_ms": 160604,
-      "name": "2 Am",
-      "url": "https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1"
       },
@@ -1447,6 +1411,42 @@
       "duration_ms": 169727,
       "name": "Peace",
       "url": "https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
+        "name": "2 Am",
+        "url": "https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu"
+      },
+      "artists": [
+        {
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+        }
+      ],
+      "duration_ms": 160604,
+      "name": "2 Am",
+      "url": "https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
+        "name": "Private",
+        "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "Bad\u00ed",
+          "url": "https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa"
+        }
+      ],
+      "duration_ms": 158901,
+      "name": "Private",
+      "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
-      },
-      "artists": [
-        {
-          "name": "Miss Lafamilia",
-          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
-        }
-      ],
-      "duration_ms": 173909,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
         "name": "Headlights",
         "url": "https://open.spotify.com/album/2OqSKDW0ZotjVuZPrg15N8"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
+      },
+      "artists": [
+        {
+          "name": "Miss Lafamilia",
+          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
       },
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "Love On Film",
-        "url": "https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
       },
       "artists": [
         {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
         }
       ],
-      "duration_ms": 123825,
-      "name": "Love On Film",
-      "url": "https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0"
+      "duration_ms": 181422,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
+        "name": "Love On Film",
+        "url": "https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW"
       },
       "artists": [
         {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
         }
       ],
-      "duration_ms": 181422,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
+      "duration_ms": 123825,
+      "name": "Love On Film",
+      "url": "https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
+        "name": "Whatever I Guess?",
+        "url": "https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu"
+      },
+      "artists": [
+        {
+          "name": "Ashia Vu",
+          "url": "https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4"
+        }
+      ],
+      "duration_ms": 213383,
+      "name": "Whatever I Guess?",
+      "url": "https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/113oIbTJ2PlFjNOw6xyMrF"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 172941,
       "name": "Awareness - Radio Edit",
       "url": "https://open.spotify.com/track/2bp8l2gJkGgsUszjJaruXp"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
-        "name": "Whatever I Guess?",
-        "url": "https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu"
-      },
-      "artists": [
-        {
-          "name": "Ashia Vu",
-          "url": "https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4"
-        }
-      ],
-      "duration_ms": 213383,
-      "name": "Whatever I Guess?",
-      "url": "https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz"
     },
     {
       "added_at": "2023-12-07 23:37:57",

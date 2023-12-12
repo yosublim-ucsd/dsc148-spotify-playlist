@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:HEIZE\( 헤이즈\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,537 likes - 108 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,609 likes - 108 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 107 | [Look into eyes say it](https://open.spotify.com/track/47KIdFLacEnfEzVNCxs80H) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Again,Star \#2](https://open.spotify.com/album/4BqNdozu75WCs9C07CjPl0) | 3:56 |
 | 108 | [Eclipse](https://open.spotify.com/track/5m52cGb4MWsj44ggieU76K) | [오현우](https://open.spotify.com/artist/1PQQMG99o0K7BBYAwVpTqf) | [Eclipse](https://open.spotify.com/album/1TyitQhFrsvGGQu9lYNEsw) | 4:08 |
 
-Snapshot ID: `MCxkMDc5NmRlNjRmOWIyMWYxM2U4NjVmMTY4OTQ1MjA0ZjMwNTA4MGJj`
+Snapshot ID: `MCw5YTYyNzdmYzYzZTY4YjlkMjA4OThiYzJiNDJmOWVkMTA0YTY3ZTRl`

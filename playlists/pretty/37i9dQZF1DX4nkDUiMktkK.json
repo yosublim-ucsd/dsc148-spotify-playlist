@@ -1,12 +1,12 @@
 {
   "description": "All juice",
-  "num_followers": 9195,
+  "num_followers": 9218,
   "original_name": "juice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTAyYWY3MTMwYzk5ZWE3MmFkYzJiNGIwYWU1ZDY2OWM0MDYzZTI0",
+  "snapshot_id": "MCxlN2M3NjhjZDY0NTZkY2Q0MmQ2Y2ExNWI3MzAyNDlmNmI1ZTRkNzJm",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -135,6 +135,26 @@
       "duration_ms": 185053,
       "name": "Last Time (feat. EVALINA)",
       "url": "https://open.spotify.com/track/17T4FxhvOsK908WhWhk2Fn"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Start Again (GAUCI Remix)",
+        "url": "https://open.spotify.com/album/409XopDAUORKmouS5Gl7eh"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        },
+        {
+          "name": "GAUCI",
+          "url": "https://open.spotify.com/artist/4cZCJhHp1jIH1NZ02799nY"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Start Again - GAUCI Remix",
+      "url": "https://open.spotify.com/track/44egGgtkchzt3rtxCSdbS6"
     },
     {
       "added_at": "2023-12-08 07:22:08",

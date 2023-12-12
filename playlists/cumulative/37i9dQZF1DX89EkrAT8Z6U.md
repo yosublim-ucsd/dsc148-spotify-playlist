@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-297 songs - 12 hr 36 min
+298 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Bars No Jutsu](https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae) | [Louis Capone](https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu) | [Bars No Jutsu](https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT) | 2:28 | 2022-05-25 | 2023-09-30 |
 | [Berserk \(Guts\)](https://open.spotify.com/track/02TkW3n36h68GDwOnGPvYV) | [Daddyphatsnaps](https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91) | [Berserk \(Guts\)](https://open.spotify.com/album/41Cw2k5xNcQ2j0Ho9GTdUI) | 3:34 | 2022-05-25 | 2022-07-29 |
 | [Black Clover](https://open.spotify.com/track/40hSfhLVRH8Unwiwk16WIA) | [HazTik](https://open.spotify.com/artist/6xZtfGoy2JCGqSUPdAUHbX) | [Black Clover](https://open.spotify.com/album/7JVokvPC8GQTmoDNHRvhpL) | 2:05 | 2022-05-25 | 2022-07-25 |
-| [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 | 2022-06-10 |  |
+| [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 | 2022-06-10 | 2023-12-12 |
 | [Blind Boy](https://open.spotify.com/track/0gqhiqBWmcXDrUiThfJmgf) | [Earl Stan](https://open.spotify.com/artist/3eCkVzIeYAyuPkVNoCKyUL) | [Blind Boy](https://open.spotify.com/album/7d0A9KYIGrTGoGbxMi6D4M) | 2:00 | 2022-05-25 | 2022-07-29 |
 | [Blood \(Alucard Rap\)](https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [TOPHAMHAT\-KYO](https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ) | [Blood \(Alucard Rap\)](https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ) | 3:17 | 2023-07-13 |  |
 | [blood+ \(feat\. Witchouse 40k\)](https://open.spotify.com/track/2TL8BUI18wZJHlApaa9mex) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [in my restless dreams, i see you](https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao) | 2:21 | 2023-09-29 | 2023-11-28 |
@@ -286,6 +286,7 @@
 | [Who Cares](https://open.spotify.com/track/1lxqjPD6gd7ZXjWMptbqXX) | [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [Who Cares](https://open.spotify.com/album/5Q33pplnMDG6xh41dpHirg) | 2:12 | 2023-09-15 | 2023-09-27 |
 | [Wind \(Naruto\) \- Trap Remix](https://open.spotify.com/track/2LmyFJW92BeYl0qdH3ztiO) | [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3), [Tha J\-SQUAD](https://open.spotify.com/artist/1GaBxa6meZLiIEHjCIzEzb) | [Wind \(Naruto\) \[Trap Remix\]](https://open.spotify.com/album/3ak7Khm75GZ0K3ivsJndS7) | 3:00 | 2022-06-21 | 2022-07-27 |
 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 | 2022-11-29 |  |
+| [XO EViL LiF3 \(.DEMON.\)](https://open.spotify.com/track/0oUmiDcH2jBUEgiSnob5JW) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [XO EViL LiF3 \(.DEMON.\)](https://open.spotify.com/album/6bGikVVE4O3ZEHmmbhCkMm) | 2:03 | 2023-11-28 |  |
 | [XO EViL LiF3 \(.DEMON.\)](https://open.spotify.com/track/275Fj1aAcHS9uFZMFo8clT) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [XO EViL LiF3 \(.DEMON.\)](https://open.spotify.com/album/51XqwJgWBT9PnevYJqrmAz) | 2:03 | 2023-11-28 | 2023-12-02 |
 | [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [XOXO \(Kisses Hugs\)](https://open.spotify.com/album/7ypr8nw5re15S7r5XR8Q28) | 2:10 | 2023-09-15 | 2023-09-27 |
 | [XTAYALIVE](https://open.spotify.com/track/1JjiTsqfpfMoukoIW9cM5O) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [XTAYALIVE](https://open.spotify.com/album/48QWy8mreJlAa6XdruLXtl) | 2:06 | 2023-09-15 | 2023-09-27 |

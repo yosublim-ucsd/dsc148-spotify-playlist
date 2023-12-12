@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume! Cover: Jessica Mauboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,739 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,753 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 47 | [Changes](https://open.spotify.com/track/13CoTwU7uuvbnCfejIhH7n) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh), [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d) | [Changes](https://open.spotify.com/album/29MhV870Wmh41zik9fFSZK) | 3:07 |
 | 48 | [High Enough](https://open.spotify.com/track/4YAI7r0QJ9rqfi8gk9HvLp) | [Indyah](https://open.spotify.com/artist/5JOPsHUGjo5V5yPDUurZRy) | [High Enough](https://open.spotify.com/album/1fUQDGUPGhduQZRKKpXrp6) | 3:19 |
 | 49 | [Bigger](https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Bigger](https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl) | 3:18 |
-| 50 | [NIGHTS LIKE THIS](https://open.spotify.com/track/2hOKrPOGFsWinOWguSvjSR) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/3gKp0v7cx8VBr0C3dzgizg) | 3:03 |
+| 50 | [NIGHTS LIKE THIS](https://open.spotify.com/track/5O4M1IKBXrjbLOV5GYUvIF) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/5MRrj25dOkNmXrQc0lLsBX) | 3:03 |
 
-Snapshot ID: `MCxiNmM4NzhmMTZmOWI2ODRlMzdlMTIyZWQyN2I3NmI2Y2EyNjYxNWFi`
+Snapshot ID: `MCw1ZTVmMzk1NTMxZTQyMWRmMmE4NGMwMmI3NmFjNDY4N2I1NDU1Yzlj`

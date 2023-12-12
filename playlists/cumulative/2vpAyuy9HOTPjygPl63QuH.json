@@ -6498,7 +6498,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 196386,
       "name": "Do For\u00e7a",
       "url": "https://open.spotify.com/track/6vvHVzlCx5Rc5Z1G6bBFbT"
@@ -30774,6 +30774,24 @@
       "duration_ms": 216960,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/5OuWYrXjymXPDdzj7sr6qm"
+    },
+    {
+      "album": {
+        "name": "What Is Right",
+        "url": "https://open.spotify.com/album/74oXtCFopUqsz9tSPyrKKJ"
+      },
+      "artists": [
+        {
+          "name": "Naes London",
+          "url": "https://open.spotify.com/artist/06ToTnaBMXRD0fRLRqW4VI"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369523,
+      "name": "What Is Right",
+      "url": "https://open.spotify.com/track/6sp7wtuRu787wESII65Y16"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Dreaming of a white Christmas ✨❄️
 
-343 songs - 18 hr 41 min
+344 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,8 @@
 | [Slide On Christmas](https://open.spotify.com/track/6q5mRQkkn9iG7H3Kl5YdcJ) | [John Concepcion](https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY) | [Slide On Christmas](https://open.spotify.com/album/3A2ZgopwrWy9AKNKZcdkeZ) | 3:56 | 2021-12-24 | 2023-10-14 |
 | [Snow Place Like Home](https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Snow Place Like Home](https://open.spotify.com/album/7dhOMOFSDR1kNvknQCbhJ8) | 3:20 | 2021-12-24 | 2023-09-16 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2023-10-13 |  |
-| [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 | 2023-11-26 |  |
+| [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 | 2023-11-26 | 2023-12-12 |
+| [Someday At Christmas](https://open.spotify.com/track/777bpngWpsT8TTqrrO0Zde) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:48 | 2023-12-11 |  |
 | [Someday At Christmas](https://open.spotify.com/track/0GMbNoVqoycx9qd9ggIP8V) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Jingle Bells](https://open.spotify.com/album/5NlA5cPHtHxIMOO9tqH7ar) | 2:49 | 2023-10-13 | 2023-11-30 |
 | [Someday at Christmas](https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Someday at Christmas](https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0) | 3:06 | 2021-12-24 | 2023-10-14 |
 | [Sometimes A Whisper](https://open.spotify.com/track/1KHenB2fugJ57aKecUw0fZ) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Amero Little Christmas](https://open.spotify.com/album/0jXf1Ua0zJdfKgOo4dLGCy) | 3:41 | 2021-12-24 | 2022-07-29 |

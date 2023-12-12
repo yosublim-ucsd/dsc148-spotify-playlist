@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra alma mater es la calle\. La Santa Grifa en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,478 likes - 84 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,481 likes - 84 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 14 | [No Tengo Cura](https://open.spotify.com/track/6lk6v8pYFjDbMxYZVMpHPR) | [Chikano Jcr](https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC), [Maniako](https://open.spotify.com/artist/4XVWGb0bUVdiBhmWbSKSF3) | [No Tengo Cura](https://open.spotify.com/album/1Jx62LgAEuVk0PRRwk4g6S) | 3:26 |
 | 15 | [De Abajo Pa'rriba](https://open.spotify.com/track/6PjZKJvXhZcyBKSX0kNa7R) | [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V), [Farock](https://open.spotify.com/artist/68ozuRzjeeZGbKPU9b1nb2) | [De Abajo Pa'rriba](https://open.spotify.com/album/2xQWLcU7XkscadXAhDmbJl) | 3:20 |
 | 16 | [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 |
-| 17 | [BOOMBAP](https://open.spotify.com/track/0SLdDk7e4cnp8MFmcf16pi) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Kintuper](https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ), [POLLO 821](https://open.spotify.com/artist/035y0yO89K3Ry2LDbUkOib) | [BOOMBAP](https://open.spotify.com/album/0jNLK0SIfOlYA9A3bsicAJ) | 4:02 |
+| 17 | [Boombap](https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Kintuper](https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ) | [Boombap](https://open.spotify.com/album/3DrFQ81DOctYiOHoVbvZJk) | 4:02 |
 | 18 | [En El Barrio](https://open.spotify.com/track/6W89riCJaMblBi5CHhB6Vi) | [El Borrado M](https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U), [El Lirikario](https://open.spotify.com/artist/3Iouw6T9joHE8dX2TomvNM), [Lirik Dog](https://open.spotify.com/artist/089lHQDlY6FIMtKzztdUAb) | [En El Barrio](https://open.spotify.com/album/7IBfh4NB9SG92PhyqfoI3x) | 4:15 |
 | 19 | [Flight 0010](https://open.spotify.com/track/4JiJIHGtiXypG2yw804UvJ) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [Flight 0010](https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ) | 2:10 |
 | 20 | [Una Madre Llora](https://open.spotify.com/track/6YT9Q9zhziCCy9lCL4NMNw) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Una Madre Llora](https://open.spotify.com/album/0PYFde6TvdgoNlERpFDl4n) | 2:34 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 83 | [HDP](https://open.spotify.com/track/6Yz3ftaOXFBSIUh8DKFoLp) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Dorian Cracken](https://open.spotify.com/artist/1qrJLoZNlTEVIg47qBWCnc), [Cuervo Loomi](https://open.spotify.com/artist/5I3JpPqcXZjUiLOmDFKQfE) | [HDP](https://open.spotify.com/album/671zdpfcfgpxxEsEP3XUo5) | 3:42 |
 | 84 | [Nos Van a Conocer](https://open.spotify.com/track/1XcODam3aq5Zs70GFXlhei) | [Agw Beats](https://open.spotify.com/artist/5cCs0AWlMd3d3sBMqE2gLy), [Char MX](https://open.spotify.com/artist/4iE0sXv3Oyfskggb2BKjnW), [Kambu](https://open.spotify.com/artist/57rDkxjPOZ5Tvy1MbSv9nQ) | [Nos Van a Conocer](https://open.spotify.com/album/3iXBS3JlOxBn65Q1uBTvLc) | 3:12 |
 
-Snapshot ID: `MCw0NDEyZGE4Y2QwMTBlODQ0ZmViYjU5NjYyOWQ3NGY5NzUzOTA0MmUz`
+Snapshot ID: `MCxjOTJiNmFlMDQ4MTQxMWI1ZmRhN2Y2YzFlNDEyZmRkYTdlNWMzNzQ3`

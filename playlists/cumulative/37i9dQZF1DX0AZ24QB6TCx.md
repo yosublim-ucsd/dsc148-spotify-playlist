@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-308 songs - 1 day 2 hr 41 min
+309 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Eye of the Storm](https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Ivy Purple](https://open.spotify.com/artist/0kHMWR7Mbh9rkQGgjVtdOF) | [Eye of the Storm](https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw) | 7:38 | 2022-04-15 | 2022-06-25 |
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2021-12-23 | 2022-11-26 |
 | [Eyes Alive](https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Eyes Alive](https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5) | 6:05 | 2022-02-04 | 2023-03-25 |
-| [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 | 2022-09-30 |  |
+| [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 | 2022-09-30 | 2023-12-12 |
 | [Fade To What](https://open.spotify.com/track/4UcL3esUZ0vZK2u4dQnKI9) | [Crouwel](https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE), [Erik Buschmann](https://open.spotify.com/artist/6ayPPyDLx13CCYtvlO9YhD) | [Fade To What](https://open.spotify.com/album/2dn3g6XKsqthu7LBgZZBQz) | 4:29 | 2023-01-13 | 2023-02-04 |
 | [Fall into My Ocean \- Edit](https://open.spotify.com/track/36bxazxRTPwTsd5k7LcJUf) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [David Schwartz](https://open.spotify.com/artist/4V6JlvIHwUcmYTPlUwHBrg) | [Fall into My Ocean \(Edit\)](https://open.spotify.com/album/69WbK7Rsp8HEmVpZS3X9JD) | 4:51 | 2021-12-23 | 2022-07-23 |
 | [Falling](https://open.spotify.com/track/6Hf0m3sPjC6Gf1Uys1JUoA) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Falling](https://open.spotify.com/album/4SPgxTRFoFh6d40U1uw9MN) | 4:10 | 2023-11-14 |  |
@@ -233,6 +233,7 @@
 | [Remote](https://open.spotify.com/track/15TtysbOXi4qEcnysiD57w) | [MagnusTheMagnus](https://open.spotify.com/artist/7xS4HWHJv4AKkOhzehHjSs) | [Remote](https://open.spotify.com/album/2tHib5oHi8AfZviIsluhN7) | 3:18 | 2022-01-21 |  |
 | [Request the Love in Me](https://open.spotify.com/track/187ZB1UdSKSOaZgWAu0wuy) | [Death on the Balcony](https://open.spotify.com/artist/7cZsqiYF7SFQ0Ni24ly624), [Caramelli](https://open.spotify.com/artist/6er51kyvwfLSDzYVUooJok) | [Request the Love in Me](https://open.spotify.com/album/2Lhe6zKFMOlDDbX6IDSqas) | 9:39 | 2022-04-04 | 2022-04-21 |
 | [Rio Secreto](https://open.spotify.com/track/6Dtmck4yTQkCEjnOhKfOBh) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Human Nature \(Night\)](https://open.spotify.com/album/6HqvZTY7Gmp0pIub9JfkXi) | 6:14 | 2021-12-23 | 2022-07-25 |
+| [Rio Secreto](https://open.spotify.com/track/7MXu9rAQDign2nhEVp5tbL) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Rio Secreto](https://open.spotify.com/album/6OZ8EuKS1bqv4W709VRak4) | 6:14 | 2023-11-14 |  |
 | [Roller Coaster \- Jan Blomqvist Remix](https://open.spotify.com/track/4hZys9awWLo6Fc3N8dL8K7) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Roller Coaster \(Jan Blomqvist Remix\)](https://open.spotify.com/album/5LTEg96uLy3NjQ6drbiJnm) | 4:20 | 2021-12-23 | 2022-07-29 |
 | [Ronda](https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ronda](https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz) | 5:46 | 2021-12-23 | 2023-07-01 |
 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 | 2021-12-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > Top 100 tracks from Fresh Finds Hip\-Hop in 2023\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,064 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,188 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [love & confessions'](https://open.spotify.com/track/5flonwLJEWr9vN6fvgCa8W) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [Westin Wednesday, Vol\. 1](https://open.spotify.com/album/5bkJWzrbEomB0Vjvp8zMc2) | 2:34 |
 | 100 | [That's Tuff!](https://open.spotify.com/track/0c2DtieVbDxUUf1lxpBJLX) | [Kwajo](https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6), [Tal Cohen](https://open.spotify.com/artist/3vnyQqnb4LP5Wmt3qUUstR) | [Spleck](https://open.spotify.com/album/05pZKIa1i7qGQL7AfQrm8X) | 3:07 |
 
-Snapshot ID: `MCw5NzczY2I5ZGU5Y2ZmNmMxMzFjNGI5Y2RhNjRmODg4Mjg3ZmNmODQ4`
+Snapshot ID: `MCwyZGI1OGZlNmNhZjE2YWYyNTdjZjA3MzZhY2FlM2I1NzA4Yzk2YzI3`

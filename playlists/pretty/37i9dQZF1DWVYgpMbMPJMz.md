@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:7iETGaxJ4crz3qaljDPCKC">Brooke Ligertwood</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,093 likes - 100 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,196 likes - 100 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [Remain \- Live](https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Jeremiah Mateola](https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY), [Rozanne Hodgetts](https://open.spotify.com/artist/14fiyawUXDIsruSLGvFHgl) | [Living Breathing Miracle \(Live\)](https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J) | 6:25 |
 | 100 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 |
 
-Snapshot ID: `MCwyNTU0NTMzZTQyOTBiOTQ0MmEwMDViOWZhOWIzNGQwYzk3NzBiMjY5`
+Snapshot ID: `MCxlZTYxMTc4MTk0NTRkOGRmZDA1YTgxOTEzZmRhZGI5NmZjZmFhNDI4`

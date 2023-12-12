@@ -5990,7 +5990,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 90000,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
@@ -6392,6 +6392,28 @@
       "duration_ms": 142153,
       "name": "GTTM",
       "url": "https://open.spotify.com/track/5tsmt6wAwjgj5iNID2nATh"
+    },
+    {
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12"
+      },
+      "artists": [
+        {
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151850,
+      "name": "Gucci Flip Flops (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/3hv6ndi7uFT9L9wrhQCsqY"
     },
     {
       "album": {
@@ -8728,7 +8750,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 109722,
       "name": "KNOYA",
       "url": "https://open.spotify.com/track/7KlYBKL2aNJJ3kQI1iO96M"
@@ -9620,7 +9642,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 130707,
       "name": "Looking For The Hoes (Ain\u2019t My Fault)",
       "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
@@ -10322,7 +10344,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 158137,
       "name": "MMM HMM (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
@@ -13136,7 +13158,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 118923,
       "name": "RICH SCHOLAR",
       "url": "https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy"
@@ -13855,6 +13877,24 @@
     },
     {
       "album": {
+        "name": "Shotta Flow 7",
+        "url": "https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165433,
+      "name": "Shotta Flow 7",
+      "url": "https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa"
+    },
+    {
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/3fQgV59rik8qhrdYOeJS7l"
       },
@@ -14466,7 +14506,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 147049,
       "name": "Special K",
       "url": "https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl"
@@ -15060,7 +15100,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 85161,
       "name": "TADA",
       "url": "https://open.spotify.com/track/2cXeUYMss6hflg9hSZHePD"
@@ -17220,7 +17260,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 57029,
       "name": "X & Sex",
       "url": "https://open.spotify.com/track/6qyAMxx8th14kYK4LlxpTc"

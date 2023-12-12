@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 259980,
+  "num_followers": 260007,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzEzNzI5YzljMmFlMWM2Y2U3MzI4ZGJlY2UxMjFkMTgyNWMyNTQ0",
+  "snapshot_id": "MCxhZDU5MzFjMDEyZGU5NjViNzg1Y2UyOGM5ODg4MzZiNzg0MGU5NWZk",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -515,6 +515,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Unusable Love",
         "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
       },
@@ -535,26 +551,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "VIII",
-        "url": "https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        },
-        {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        }
-      ],
-      "duration_ms": 130271,
-      "name": "(Interlude)",
-      "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Naps",
         "url": "https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl"
       },
@@ -567,22 +563,6 @@
       "duration_ms": 238148,
       "name": "Naps",
       "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -675,6 +655,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "I've Always Been",
         "url": "https://open.spotify.com/album/1p0q7Jmjsqwkt8xXmE9OcV"
       },
@@ -695,22 +691,6 @@
       "duration_ms": 114929,
       "name": "I've Always Been",
       "url": "https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -997,6 +977,22 @@
       "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     },
     {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "\"What Is This Heart?\" (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf"
+      },
+      "artists": [
+        {
+          "name": "How To Dress Well",
+          "url": "https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI"
+        }
+      ],
+      "duration_ms": 378253,
+      "name": "Words I Don't Remember",
+      "url": "https://open.spotify.com/track/69tms8bn7pYZck6hJw6X1e"
+    },
+    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "VALIS",
@@ -1015,22 +1011,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "\"What Is This Heart?\" (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf"
-      },
-      "artists": [
-        {
-          "name": "How To Dress Well",
-          "url": "https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI"
-        }
-      ],
-      "duration_ms": 378253,
-      "name": "Words I Don't Remember",
-      "url": "https://open.spotify.com/track/69tms8bn7pYZck6hJw6X1e"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Broken Clinic",
         "url": "https://open.spotify.com/album/3ifqH567bhxDsguSelvA6m"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 230523,
       "name": "Medication",
       "url": "https://open.spotify.com/track/2p2xu7jiPzZG0W7IvXhEY7"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Holiday (Kyson Remix)",
+        "url": "https://open.spotify.com/album/47zoz7TyC4OsXUTOSZiMRx"
+      },
+      "artists": [
+        {
+          "name": "Drinker",
+          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 281727,
+      "name": "Holiday - Kyson Remix",
+      "url": "https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ"
     }
   ],
   "unique_name": "Mellow Mood",

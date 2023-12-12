@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 194492,
+  "num_followers": 194562,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGVjYWY3YzNkMzQ1ZDI2MDRiM2UxNmI3YzQwMjdkYTA4MzI1ZjJh",
+  "snapshot_id": "MCw1M2UwMGRmYTIxYzRjOGM0Y2Y2YmRkMDljNTIyZTBiOGY5NGI3MDZj",
   "tracks": [
     {
       "added_at": "2023-12-08 14:35:35",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Magic Stone",
-        "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Magic Stone",
-      "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Magic Chairs",
-        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
+        "name": "Magic Stone",
+        "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
       },
       "artists": [
         {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 293760,
-      "name": "Modern Drift",
-      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
+      "duration_ms": 213106,
+      "name": "Magic Stone",
+      "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -627,6 +611,22 @@
       "duration_ms": 299840,
       "name": "bl\u00f3mi",
       "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Magic Chairs",
+        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
+      },
+      "artists": [
+        {
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        }
+      ],
+      "duration_ms": 293760,
+      "name": "Modern Drift",
+      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Through The Eyes Of A Woman",
-        "url": "https://open.spotify.com/album/5Fp6OQtwSjjNumqtryDIxO"
-      },
-      "artists": [
-        {
-          "name": "Lucky Lo",
-          "url": "https://open.spotify.com/artist/5RJfw4mV4qlNjmve8u1Unz"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Through The Eyes Of A Woman",
-      "url": "https://open.spotify.com/track/2f5TJq8mnPoG03pHkIJamG"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Sun, Moon, Stars",
         "url": "https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 275613,
       "name": "Sun, Moon, Stars",
       "url": "https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Through The Eyes Of A Woman",
+        "url": "https://open.spotify.com/album/5Fp6OQtwSjjNumqtryDIxO"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lo",
+          "url": "https://open.spotify.com/artist/5RJfw4mV4qlNjmve8u1Unz"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Through The Eyes Of A Woman",
+      "url": "https://open.spotify.com/track/2f5TJq8mnPoG03pHkIJamG"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -799,18 +799,34 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Darkest Night",
-        "url": "https://open.spotify.com/album/38Zutwd997e5hLl2565HfV"
+        "name": "Palomino Deluxe (Child of Summer Edition)",
+        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 165066,
-      "name": "Darkest Night",
-      "url": "https://open.spotify.com/track/0WjjBxrfnjtW8c2WSHZDJF"
+      "duration_ms": 220573,
+      "name": "Angel - Acoustic String Version",
+      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Fredsvenn",
+        "url": "https://open.spotify.com/album/6zm3WOslNglQXQNuJT0Tt5"
+      },
+      "artists": [
+        {
+          "name": "Simen Mitlid",
+          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+        }
+      ],
+      "duration_ms": 241274,
+      "name": "Border",
+      "url": "https://open.spotify.com/track/31KepypEknlgoYnBwxR36s"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -831,18 +847,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Palomino Deluxe (Child of Summer Edition)",
-        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
+        "name": "Darkest Night",
+        "url": "https://open.spotify.com/album/38Zutwd997e5hLl2565HfV"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Angel - Acoustic String Version",
-      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
+      "duration_ms": 165066,
+      "name": "Darkest Night",
+      "url": "https://open.spotify.com/track/0WjjBxrfnjtW8c2WSHZDJF"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -859,22 +875,6 @@
       "duration_ms": 267711,
       "name": "1989",
       "url": "https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Fredsvenn",
-        "url": "https://open.spotify.com/album/6zm3WOslNglQXQNuJT0Tt5"
-      },
-      "artists": [
-        {
-          "name": "Simen Mitlid",
-          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
-        }
-      ],
-      "duration_ms": 241274,
-      "name": "Border",
-      "url": "https://open.spotify.com/track/31KepypEknlgoYnBwxR36s"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "You Don't Know",
-        "url": "https://open.spotify.com/album/4EeoeBGm4VyncHWSoX3gld"
-      },
-      "artists": [
-        {
-          "name": "Ellison",
-          "url": "https://open.spotify.com/artist/1pF3ZfKACJViikvLsIjELq"
-        }
-      ],
-      "duration_ms": 188953,
-      "name": "You Don't Know",
-      "url": "https://open.spotify.com/track/4nm8FXnQSkdPgpJEmwpfVT"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Tran\u00f8y fyr",
         "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 236480,
       "name": "Tran\u00f8y fyr",
       "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/4EeoeBGm4VyncHWSoX3gld"
+      },
+      "artists": [
+        {
+          "name": "Ellison",
+          "url": "https://open.spotify.com/artist/1pF3ZfKACJViikvLsIjELq"
+        }
+      ],
+      "duration_ms": 188953,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/4nm8FXnQSkdPgpJEmwpfVT"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Late December",
-        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
       },
       "artists": [
         {
-          "name": "Mathias Gundhus",
-          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
         }
       ],
-      "duration_ms": 179545,
-      "name": "Late December",
-      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
+      "duration_ms": 225939,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
     }
   ],
   "unique_name": "Nordic Folk",

@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 36875,
+  "num_followers": 36870,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmFlMjVjMTM1ZTIyM2M2YmIxOWU4YWE5ZjMzZjRiM2NjMGJiNjJh",
+  "snapshot_id": "MCw5M2E0NTk4MzdkNTFmZGJmNTRiMzg3MmY2ZWNiMzM5YzhjNDQwYjE2",
   "tracks": [
     {
       "added_at": "2023-11-10 17:37:13",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Tell Mama",
         "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 156653,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Ain't That Good News",
         "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 191160,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 188613,
       "name": "I Wish I Knew How It Would Feel to Be Free",
       "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 307053,
       "name": "What'd I Say, Pt. 1 & 2",
       "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "When You Were Mine",
-        "url": "https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 203483,
-      "name": "When You Were Mine",
-      "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Sonia Dada",
         "url": "https://open.spotify.com/album/5pvGQ3nohEcX2yJ1hAyX7u"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 247626,
       "name": "(Lover) You Don't Treat Me No Good",
       "url": "https://open.spotify.com/track/1wdQiMzfdRiufsCKWH2anl"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "When You Were Mine",
+        "url": "https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 203483,
+      "name": "When You Were Mine",
+      "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Tell Mama",
-      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 175173,
       "name": "From A Lover",
       "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Tell Mama",
+      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Katata",
-        "url": "https://open.spotify.com/album/6NArqG0EGzKBknB2x88YlL"
-      },
-      "artists": [
-        {
-          "name": "Bamily",
-          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
-        }
-      ],
-      "duration_ms": 216150,
-      "name": "Katata",
-      "url": "https://open.spotify.com/track/38e0QxmoRqsBQr6Y4TwMHp"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Mrs Blue",
         "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 267535,
       "name": "Mrs Blue",
       "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Katata",
+        "url": "https://open.spotify.com/album/6NArqG0EGzKBknB2x88YlL"
+      },
+      "artists": [
+        {
+          "name": "Bamily",
+          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
+        }
+      ],
+      "duration_ms": 216150,
+      "name": "Katata",
+      "url": "https://open.spotify.com/track/38e0QxmoRqsBQr6Y4TwMHp"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Dublin Sessions",
-        "url": "https://open.spotify.com/album/5dFdSNChr9iVoEMBdCVB4w"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 189306,
-      "name": "Courtyard Theatre",
-      "url": "https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Please Love Me Again",
         "url": "https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Angels & Queens - Part I (Track by Track)",
-        "url": "https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h"
+        "name": "Dublin Sessions",
+        "url": "https://open.spotify.com/album/5dFdSNChr9iVoEMBdCVB4w"
       },
       "artists": [
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
         }
       ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO"
+      "duration_ms": 189306,
+      "name": "Courtyard Theatre",
+      "url": "https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1451,6 +1435,22 @@
       "duration_ms": 186000,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Angels & Queens - Part I (Track by Track)",
+        "url": "https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1475,22 +1475,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7"
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/3HUWH7rKToMqZDBuX2ECAa"
       },
       "artists": [
         {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "Taura Lamb",
-          "url": "https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH"
+          "name": "Alfie Sharp",
+          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
         }
       ],
-      "duration_ms": 223873,
-      "name": "Nostalgia (feat. Taura)",
-      "url": "https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt"
+      "duration_ms": 242732,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1511,18 +1507,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/3HUWH7rKToMqZDBuX2ECAa"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7"
       },
       "artists": [
         {
-          "name": "Alfie Sharp",
-          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Taura Lamb",
+          "url": "https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH"
         }
       ],
-      "duration_ms": 242732,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm"
+      "duration_ms": 223873,
+      "name": "Nostalgia (feat. Taura)",
+      "url": "https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/5hBs54fSWzHghnJYobTNLS"
-      },
-      "artists": [
-        {
-          "name": "Alfie Sharp",
-          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
-        }
-      ],
-      "duration_ms": 265240,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/37C4hvdsHygqpA4Xzo8eAW"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Siesta (feat. Emeli Sand\u00e9)",
         "url": "https://open.spotify.com/album/2mLz1qJnElGlzVDpBV8PQI"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 348000,
       "name": "Siesta (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/32OSu2ZovlRteBCFyB3NLo"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5hBs54fSWzHghnJYobTNLS"
+      },
+      "artists": [
+        {
+          "name": "Alfie Sharp",
+          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
+        }
+      ],
+      "duration_ms": 265240,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/37C4hvdsHygqpA4Xzo8eAW"
     },
     {
       "added_at": "2023-11-10 17:37:13",

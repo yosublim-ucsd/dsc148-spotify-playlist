@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-798 songs - 1 day 19 hr 23 min
+799 songs - 1 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 | 2022-01-14 | 2022-02-12 |
 | [Ik Kudi](https://open.spotify.com/track/4dpIFUAr0byE6N4oalHTFa) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Ik Kudi](https://open.spotify.com/album/6SQaMW7xiLvL8PmGdWZIwv) | 3:24 | 2022-12-08 | 2023-02-04 |
 | [Ik Mili Mainu Apsraa](https://open.spotify.com/track/39chWL7FFnxleLCBUXquv4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Ik Mili Mainu Apsraa](https://open.spotify.com/album/6UBOEZZXK11zsgwekmcMKa) | 4:02 | 2022-01-15 | 2022-02-01 |
+| [Ik Tu Goriye](https://open.spotify.com/track/155WbOc8SuCW9ZyIh4rFI4) | [Vicky](https://open.spotify.com/artist/6Sft7Ky5jRS8AaHCEr4Ice), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Ik Tu Goriye](https://open.spotify.com/album/003fTrJAdHyNsxNLh22vsy) | 4:00 | 2023-12-11 |  |
 | [Ikk Number](https://open.spotify.com/track/3IIfZy5KjNupxhlZfoPfOw) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Ikk Number](https://open.spotify.com/album/2zzVGCWpet59talzUugOaA) | 3:02 | 2023-11-07 |  |
 | [Ikk Taara Tuta \- From "P.R."](https://open.spotify.com/track/0XpQ26NbTXPyqCRRCoZ9Zp) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Sabir Ali](https://open.spotify.com/artist/3tZ8wQquxUwLnS4yr7czym) | [Ikk Taara Tuta \(From "P.R."\)](https://open.spotify.com/album/3CiJDlIoqFmzcT4yaU1aTZ) | 8:29 | 2022-06-01 | 2022-07-06 |
 | [Iko Zindagi](https://open.spotify.com/track/3qTAXAJXCmYxbc9AnEeVlS) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Prince Rakhdi](https://open.spotify.com/artist/27D50vNC9ZMp58DGsWU2g2), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Iko Zindagi](https://open.spotify.com/album/0STaVuZue6lZ2VIbcGpZfh) | 2:51 | 2023-01-11 | 2023-02-04 |
@@ -465,7 +466,7 @@
 | [Moonglade](https://open.spotify.com/track/4Tiy5veKfyUfSjpHMNqPV3) | [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Moonglade](https://open.spotify.com/album/728QDtU7zh9qh1hJkDIL9k) | 3:06 | 2022-11-17 | 2023-02-02 |
 | [Moonlight](https://open.spotify.com/track/5FTcLPsQFX2NZaBQHbTz06) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Moonlight](https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ) | 3:18 | 2021-12-02 | 2022-12-16 |
 | [Morni](https://open.spotify.com/track/4QdDTR7XcgHfYhpKmkgYL4) | [Pavvy Virk](https://open.spotify.com/artist/1AQZgGdnLJOu37cxZzIkxX) | [Morni](https://open.spotify.com/album/1DTXPbMDvoXGKjRtSkom6j) | 3:20 | 2022-08-31 | 2022-09-03 |
-| [Morniye](https://open.spotify.com/track/2JXWYP2pzGT097OydwlHh9) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Still Here](https://open.spotify.com/album/55nYYOQPH0AUrbfsV0Nhgl) | 2:32 | 2023-11-28 |  |
+| [Morniye](https://open.spotify.com/track/2JXWYP2pzGT097OydwlHh9) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Still Here](https://open.spotify.com/album/55nYYOQPH0AUrbfsV0Nhgl) | 2:32 | 2023-11-28 | 2023-12-12 |
 | [Move On](https://open.spotify.com/track/2fb1j5P2TqUbvpa1u2gfc7) | [Joban Sandhu](https://open.spotify.com/artist/5IMKL9U2FzIB9fFn2kILAf) | [Move On](https://open.spotify.com/album/5UBI3j3IpxKulky5cSUo5k) | 2:13 | 2022-04-25 | 2022-05-11 |
 | [Move On](https://open.spotify.com/track/3gZtIhtPkPK5tDJ5iCpgvp) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Archives](https://open.spotify.com/album/2L0jISPU1EHSXOiwkrCOks) | 2:57 | 2023-06-29 |  |
 | [Move On](https://open.spotify.com/track/7s8wMKOZLOxwO7gzovABYN) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Inder](https://open.spotify.com/artist/4BTiv9wnMrhxZNxaTb3rwT) | [Archives](https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq) | 2:57 | 2022-12-09 | 2023-07-01 |

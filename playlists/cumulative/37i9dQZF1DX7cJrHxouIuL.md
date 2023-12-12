@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-199 songs - 9 hr 31 min
+200 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [For the Long Night](https://open.spotify.com/track/17F95g980LpKuKWjo3r43y) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Amadou Kouyate](https://open.spotify.com/artist/1WLB9ei0uFv9aDdnE2LXpg) | [Let Love Be Your Guide](https://open.spotify.com/album/29YQcKWonRl02h3pypRui6) | 4:17 | 2022-04-15 |  |
 | [From My Head to My Toes](https://open.spotify.com/track/02XuozZPsS2Exfcz10Bnvl) | [Music with Mandy](https://open.spotify.com/artist/2FkQ1kvpxbGnnL3hIW0uJ2) | [From My Head to My Toes](https://open.spotify.com/album/5GqrcPwPUPHuHGnmkBOaWA) | 4:00 | 2022-04-15 |  |
 | [Getting The Job Done](https://open.spotify.com/track/3yOp3GzFSCDE0UEilodXxN) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/1R2BqByAAsMXoGaa6Q2iNc) | 3:39 | 2022-04-15 | 2022-07-29 |
-| [Getting The Job Done](https://open.spotify.com/track/7LHPkrPgSFKyGO6Ru6tdDu) | [Tps](https://open.spotify.com/artist/20uljvju3dv59k8Oz9dOtl) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 3:39 | 2022-04-15 |  |
+| [Getting The Job Done](https://open.spotify.com/track/6ziD7qS2BGG8y5LhJ8FClh) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H) | 3:39 | 2023-09-08 |  |
+| [Getting The Job Done](https://open.spotify.com/track/7LHPkrPgSFKyGO6Ru6tdDu) | [Tps](https://open.spotify.com/artist/20uljvju3dv59k8Oz9dOtl) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 3:39 | 2022-04-15 | 2023-12-12 |
 | [Good Morning](https://open.spotify.com/track/7mwyLcoz7a4YwWg2vWrs24) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Good Morning](https://open.spotify.com/album/7qZlj8JaGC91YZb2jklkhG) | 3:37 | 2022-04-15 |  |
 | [Happiness Is Simple](https://open.spotify.com/track/7DaPyur46lgI5csRDosSPE) | [Rabbit!](https://open.spotify.com/artist/2PD0xyJOdwn3i3fKhgRDA8) | [Happiness Is Simple](https://open.spotify.com/album/1QopRRYf8U9hdYCg348skK) | 3:23 | 2022-04-15 |  |
 | [Happy](https://open.spotify.com/track/2UW1WAywpS3DWVLckJQJOI) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Happy To Be Here](https://open.spotify.com/album/5ryBpO4WnX4pjdU6rA8xdX) | 2:03 | 2023-06-09 |  |

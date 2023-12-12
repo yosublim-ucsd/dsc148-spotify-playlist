@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in rock this week\. Cover: Elephant Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,262 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,261 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [XOXO](https://open.spotify.com/track/2gsQSr676Ri06KDDtUqjAs) | [Gee Clarke](https://open.spotify.com/artist/5mKjDMrHsXXsNPqIvVX3j3), [Command Sisters](https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed) | [XOXO](https://open.spotify.com/album/4vvX6eL8vfklKlxiREbon5) | 2:15 |
 | 100 | [Plaster Girl](https://open.spotify.com/track/4WJJ5Klv5EgxXpw7Kl7Vdt) | [Thermal](https://open.spotify.com/artist/0rXfVyHv2j4AaWRvhM44KS) | [Plaster Girl](https://open.spotify.com/album/7pbvS6lwjSmn48GlPUim2H) | 4:40 |
 
-Snapshot ID: `MCw5N2M5YTY4ZjljY2ZlMGRkNWQyZjllYmQ4OTk2ZjA5NTdkODU5ZmVj`
+Snapshot ID: `MCxmY2VhOGQxNGMxNzk0NWQ5NjIxYjRiYjE5YTRkNTA2ODRiOTcxNzc0`

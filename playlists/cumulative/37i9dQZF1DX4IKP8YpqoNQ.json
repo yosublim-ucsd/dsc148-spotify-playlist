@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Drown in My Own Tears (The Circle Session, 2023)",
+        "url": "https://open.spotify.com/album/55cxl6L7iAOxkxBsaL6Z2S"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304033,
+      "name": "Drown in My Own Tears - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/3fWwmVNCqqckIU5lMEnfIz"
+    },
+    {
+      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 196040,
       "name": "I Plan to Stay a Believer - Live at The Bitter End, NYC",
       "url": "https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS"
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 341551,
       "name": "Send It On",
       "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
@@ -3136,6 +3154,24 @@
       "duration_ms": 145066,
       "name": "To Know Him Is To Love Him - Live",
       "url": "https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg"
+    },
+    {
+      "album": {
+        "name": "Feng Suave (Live from Studio Helmbreker)",
+        "url": "https://open.spotify.com/album/5lIGf0Fnor9WkgTRo0fIfn"
+      },
+      "artists": [
+        {
+          "name": "Feng Suave",
+          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261306,
+      "name": "Tomb For Rockets - Live from Studio Helmbreker",
+      "url": "https://open.spotify.com/track/2AH5B9nSUeUGqJGNqUFpvW"
     },
     {
       "album": {

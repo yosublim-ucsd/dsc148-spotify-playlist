@@ -1,12 +1,12 @@
 {
   "description": "wo hen lei (i'm very tired) ",
-  "num_followers": 53838,
+  "num_followers": 53846,
   "original_name": "tired lei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGVkZTU5NDJiMjVmNDc4Mzg2MWFlNzVmNDYwYjY0OTYyNzYzNTQ3",
+  "snapshot_id": "MCw0MzZmYjc5NDk5MDU0MzU1ZTg2NjU0MTY2MTk0ODY0M2VjYmM0NjYw",
   "tracks": [
     {
       "added_at": "2023-11-09 06:59:49",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 132000,
       "name": "my type",
       "url": "https://open.spotify.com/track/1tvxzDoafjqs4yvjZW4n2K"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "High School in Jakarta",
-      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -219,22 +219,18 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "Head In The Clouds Forever",
-        "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
+        "name": "Oceans & Engines",
+        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
       },
       "artists": [
         {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 152910,
-      "name": "Best Lover",
-      "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
+      "duration_ms": 336000,
+      "name": "Oceans & Engines",
+      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -251,6 +247,26 @@
       "duration_ms": 205346,
       "name": "TOUCH",
       "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "Head In The Clouds Forever",
+        "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 152910,
+      "name": "Best Lover",
+      "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -303,22 +319,6 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "Oceans & Engines",
-        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Oceans & Engines",
-      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
         "name": "your love",
         "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 155923,
       "name": "your love",
       "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
-        "name": "confidence in me",
-        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 162151,
-      "name": "confidence in me",
-      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -403,22 +387,6 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "relationshit",
-        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "do me right",
-      "url": "https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
         "name": "Meant 2 Be",
         "url": "https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd"
       },
@@ -455,6 +423,38 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
+        "name": "relationshit",
+        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "do me right",
+      "url": "https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "confidence in me",
+        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 162151,
+      "name": "confidence in me",
+      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
         "name": "Dancing with my phone",
         "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
       },
@@ -483,38 +483,6 @@
       "duration_ms": 205552,
       "name": "Oh It's You",
       "url": "https://open.spotify.com/track/56vmm78xsrxvFMaJstBPKj"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
-        "name": "Favourite Things",
-        "url": "https://open.spotify.com/album/2ZYa2kgcZsK7fiNPXurRyg"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Favourite Things",
-      "url": "https://open.spotify.com/track/5qDfGiZz9Soxb9Xn2jQ8hk"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
-        "name": "juice",
-        "url": "https://open.spotify.com/album/6DY3UVNU1qvSjY4HIiLkP2"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "juice",
-      "url": "https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -583,22 +551,6 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "Other Half",
-        "url": "https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 215647,
-      "name": "Other Half",
-      "url": "https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
         "name": "One Last Dance (feat. Milky Day)",
         "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
       },
@@ -635,6 +587,38 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
+        "name": "juice",
+        "url": "https://open.spotify.com/album/6DY3UVNU1qvSjY4HIiLkP2"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "juice",
+      "url": "https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "Favourite Things",
+        "url": "https://open.spotify.com/album/2ZYa2kgcZsK7fiNPXurRyg"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Favourite Things",
+      "url": "https://open.spotify.com/track/5qDfGiZz9Soxb9Xn2jQ8hk"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
         "name": "I Wouldn't Know Any Better Than You",
         "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
       },
@@ -647,26 +631,6 @@
       "duration_ms": 151041,
       "name": "I Wouldn't Know Any Better Than You",
       "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -755,6 +719,42 @@
       "duration_ms": 244800,
       "name": "Give Me Your Forever (ft. Billkin)",
       "url": "https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "Other Half",
+        "url": "https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 215647,
+      "name": "Other Half",
+      "url": "https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "Make Me Wanna",
-        "url": "https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
         "name": "Like All My Friends",
         "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
+        "name": "Make Me Wanna",
+        "url": "https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/52oE4nDKCn2ib916I5RzZW"
       },
@@ -907,6 +907,26 @@
       "duration_ms": 175200,
       "name": "UNREQUITED",
       "url": "https://open.spotify.com/track/2fTu2cGWAlpNmGDir37308"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "tired",
+        "url": "https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA"
+      },
+      "artists": [
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        },
+        {
+          "name": "asheu",
+          "url": "https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3"
+        }
+      ],
+      "duration_ms": 144793,
+      "name": "tired",
+      "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -939,26 +959,6 @@
       "duration_ms": 189931,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/1DYqJtsqLYXCKh7CIgZ4bG"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
-        "name": "tired",
-        "url": "https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA"
-      },
-      "artists": [
-        {
-          "name": "yuji",
-          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
-        },
-        {
-          "name": "asheu",
-          "url": "https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3"
-        }
-      ],
-      "duration_ms": 144793,
-      "name": "tired",
-      "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "It's You (feat. Kaleb J)",
-        "url": "https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa"
-      },
-      "artists": [
-        {
-          "name": "Sezairi",
-          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
-        },
-        {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
-        }
-      ],
-      "duration_ms": 269712,
-      "name": "It's You (feat. Kaleb J)",
-      "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
         "name": "Pulang",
         "url": "https://open.spotify.com/album/1V4CJZSntqPLeiWuKlV0JI"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 260000,
       "name": "Pulang",
       "url": "https://open.spotify.com/track/2OwVW3JSGKjW767yndxeqc"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "It's You (feat. Kaleb J)",
+        "url": "https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa"
+      },
+      "artists": [
+        {
+          "name": "Sezairi",
+          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+        },
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "duration_ms": 269712,
+      "name": "It's You (feat. Kaleb J)",
+      "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "the boy",
-        "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 216530,
-      "name": "the boy",
-      "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
         "name": "Like California (feat. DeVita)",
         "url": "https://open.spotify.com/album/1Q3J1EjS9oEJgVoILiHiTS"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 162385,
       "name": "Like California (feat. DeVita)",
       "url": "https://open.spotify.com/track/7ouOGLgqPhs5ezGPegOT6t"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "the boy",
+        "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 216530,
+      "name": "the boy",
+      "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
     }
   ],
   "unique_name": "tired lei",

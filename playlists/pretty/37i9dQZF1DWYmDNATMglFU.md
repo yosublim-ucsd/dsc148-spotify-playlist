@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. MOD SUN & LiL Lotus
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,938 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,909 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [stuck.](https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck.](https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR) | 2:14 |
 | 80 | [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 |
 
-Snapshot ID: `MCwxN2Q1MzM3YWNjOTg2NDA1NzhhNzFkOGI2YmQ1NmU0NTJlYTUzMWMz`
+Snapshot ID: `MCw1MGNlZTkyMWU5NDY0ZTFhYjNhYjk2YjM0NmQ5MTZjMWE1YzA5MmEz`

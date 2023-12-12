@@ -4,7 +4,7 @@
 
 > Highlights of 2023, listen to women at full volume! Cover: Jessica Mauboy
 
-534 songs - 1 day 4 hr 42 min
+535 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,8 @@
 | [Night Drive](https://open.spotify.com/track/5s7oLHFgcsaYY1aM4eTDqh) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Superfeeling](https://open.spotify.com/album/4lpupHh13ucR6AOhtf9ZN8) | 2:55 | 2023-05-31 | 2023-11-08 |
 | [Nightmare](https://open.spotify.com/track/0JyWZ4BrLIlvyJ5lt7HNM1) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Nightmare](https://open.spotify.com/album/7kmb7rf1uASmCbFe3YLfhV) | 3:29 | 2022-02-03 | 2022-05-28 |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz) | 3:03 | 2023-06-30 | 2023-10-14 |
-| [NIGHTS LIKE THIS](https://open.spotify.com/track/2hOKrPOGFsWinOWguSvjSR) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/3gKp0v7cx8VBr0C3dzgizg) | 3:03 | 2023-09-30 |  |
+| [NIGHTS LIKE THIS](https://open.spotify.com/track/2hOKrPOGFsWinOWguSvjSR) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/3gKp0v7cx8VBr0C3dzgizg) | 3:03 | 2023-09-30 | 2023-12-12 |
+| [NIGHTS LIKE THIS](https://open.spotify.com/track/5O4M1IKBXrjbLOV5GYUvIF) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/5MRrj25dOkNmXrQc0lLsBX) | 3:03 | 2023-11-29 |  |
 | [No One Else](https://open.spotify.com/track/5reK4IbQK4Sk9QbH8rTsAm) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [No One Else](https://open.spotify.com/album/32jVR4jOs3EgWbBLy5ouhP) | 2:45 | 2022-04-05 | 2022-05-28 |
 | [NOT TODAY](https://open.spotify.com/track/08cnccQSKCljeUlyZVSCK4) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [NOT TODAY](https://open.spotify.com/album/3RoUi8w1jkr5Kgf4DItl2O) | 3:22 | 2022-04-05 | 2022-10-29 |
 | [NOT TODAY](https://open.spotify.com/track/3HsI6hyDi9yuTeT7nHyhFc) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [PURE ENERGY](https://open.spotify.com/album/3daboqKiZqOpKWdsI1tP3k) | 3:22 | 2022-10-02 | 2022-12-01 |

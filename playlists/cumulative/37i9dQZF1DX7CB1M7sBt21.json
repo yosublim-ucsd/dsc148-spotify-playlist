@@ -650,7 +650,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 189677,
       "name": "Coffee (Give Me Something)",
       "url": "https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD"
@@ -4166,6 +4166,36 @@
       "duration_ms": 172480,
       "name": "The Dirt - Alternative Version",
       "url": "https://open.spotify.com/track/5EaJ5uIPi6QoiZfBKb3kau"
+    },
+    {
+      "album": {
+        "name": "The Logical Song (feat. Julia Hallasen)",
+        "url": "https://open.spotify.com/album/5JLQ1THp53UVka5E7xt30M"
+      },
+      "artists": [
+        {
+          "name": "GYMBRO",
+          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+        },
+        {
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        },
+        {
+          "name": "Danny Ores",
+          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
+        },
+        {
+          "name": "Julia Hallasen",
+          "url": "https://open.spotify.com/artist/31Izzl2gwnqQ3G4LKCyEup"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141387,
+      "name": "The Logical Song (feat. Julia Hallasen)",
+      "url": "https://open.spotify.com/track/29kDU3QBj31gIGZqjnZKvF"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2050092,
+  "num_followers": 2050183,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQzMTksZGQzN2IxNzdhY2E1NmNjYmIxMjcxNjI1ZWI3NTQ2M2NjY2ZlZDRhMg==",
+  "snapshot_id": "MTQzMjcsMTk5OGFhMjNhZjZkOWUzYTk5ZmM4ZjQ2YjYyMTM2NjQ5YjA4YjI1MA==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -247,74 +247,6 @@
       "duration_ms": 192000,
       "name": "UCLA",
       "url": "https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG"
-    },
-    {
-      "added_at": "2023-11-17 06:45:01",
-      "album": {
-        "name": "LSD",
-        "url": "https://open.spotify.com/album/2uy91QEOLtNigoebYUXknj"
-      },
-      "artists": [
-        {
-          "name": "Besomorph",
-          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
-        },
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/03nVbs87Wv4nvL3YZrdy3n"
-    },
-    {
-      "added_at": "2023-12-08 18:58:44",
-      "album": {
-        "name": "Shift",
-        "url": "https://open.spotify.com/album/6mT3Y11cQk2dSQBdjhrgCP"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Shift",
-      "url": "https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO"
-    },
-    {
-      "added_at": "2023-11-29 01:11:09",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5NGF1TNUtmTgydrsYTREGu"
-      },
-      "artists": [
-        {
-          "name": "Yonexx",
-          "url": "https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm"
-        },
-        {
-          "name": "CR\u00c8ME",
-          "url": "https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H"
-        }
-      ],
-      "duration_ms": 149798,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/3WNJYcfFVvlTCTi7bGltnV"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -705,6 +637,74 @@
       "url": "https://open.spotify.com/track/5mToqBm5bPq6UbDT7wYuM3"
     },
     {
+      "added_at": "2023-11-17 06:45:01",
+      "album": {
+        "name": "LSD",
+        "url": "https://open.spotify.com/album/2uy91QEOLtNigoebYUXknj"
+      },
+      "artists": [
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/03nVbs87Wv4nvL3YZrdy3n"
+    },
+    {
+      "added_at": "2023-12-08 18:58:44",
+      "album": {
+        "name": "Shift",
+        "url": "https://open.spotify.com/album/6mT3Y11cQk2dSQBdjhrgCP"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Shift",
+      "url": "https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO"
+    },
+    {
+      "added_at": "2023-11-29 01:11:09",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5NGF1TNUtmTgydrsYTREGu"
+      },
+      "artists": [
+        {
+          "name": "Yonexx",
+          "url": "https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm"
+        },
+        {
+          "name": "CR\u00c8ME",
+          "url": "https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H"
+        }
+      ],
+      "duration_ms": 149798,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/3WNJYcfFVvlTCTi7bGltnV"
+    },
+    {
       "added_at": "2023-12-07 23:17:15",
       "album": {
         "name": "The Top",
@@ -739,6 +739,22 @@
       "duration_ms": 239853,
       "name": "Light",
       "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
+    },
+    {
+      "added_at": "2023-12-11 18:34:34",
+      "album": {
+        "name": "It's Cold Outside",
+        "url": "https://open.spotify.com/album/5YWmOqClt8OSgWNYjmFMHe"
+      },
+      "artists": [
+        {
+          "name": "SKG",
+          "url": "https://open.spotify.com/artist/062sVQSOvOr69kPms0aKDL"
+        }
+      ],
+      "duration_ms": 70048,
+      "name": "Anthem Of the Bells",
+      "url": "https://open.spotify.com/track/4h5pNIuFxUYDwioQDbQ2kl"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -1695,6 +1711,22 @@
       "duration_ms": 121535,
       "name": "Black & Yellow",
       "url": "https://open.spotify.com/track/3HPdRX1UJIYoaoDkE5uDxn"
+    },
+    {
+      "added_at": "2023-12-11 18:34:53",
+      "album": {
+        "name": "It's Cold Outside",
+        "url": "https://open.spotify.com/album/5YWmOqClt8OSgWNYjmFMHe"
+      },
+      "artists": [
+        {
+          "name": "K1do",
+          "url": "https://open.spotify.com/artist/5p0UDxKNoQli0B8MOYwT4U"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/5sH8SyXWK0KlLe4tmqB6KH"
     },
     {
       "added_at": "2023-11-27 18:07:07",

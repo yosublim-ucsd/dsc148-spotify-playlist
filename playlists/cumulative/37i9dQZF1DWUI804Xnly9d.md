@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-223 songs - 12 hr 30 min
+224 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Alag Aasman](https://open.spotify.com/track/4VgkQazKMpeWrCX2LT8CtW) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA) | [Alag Aasman](https://open.spotify.com/album/4nhqssTZYpv8dTO29InlEG) | 2:23 | 2023-10-26 | 2023-11-08 |
 | [Alvida \- Unplugged](https://open.spotify.com/track/2MEviVXfyeaCCbro4ewCiJ) | [Dhiren](https://open.spotify.com/artist/1sRgove6hd99H244tmsvxZ) | [Alvida \(Unplugged\)](https://open.spotify.com/album/6HMp56pHJKt4f6q2r2EwD8) | 3:30 | 2023-05-17 | 2023-07-25 |
 | [Aye Ajnabi](https://open.spotify.com/track/2pifOwXzqTdRHnVWXWoozl) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Aye Ajnabi](https://open.spotify.com/album/1n55d51MmvrGDqKba3Fx5W) | 2:56 | 2023-05-31 | 2023-09-23 |
+| [Baahon Mein Teri \- From "Kho Gaye Hum Kahan"](https://open.spotify.com/track/10iPsqVBevgJOVj77WnaPe) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Kho Gaye Hum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O) | 4:43 | 2023-12-11 |  |
 | [Baaki](https://open.spotify.com/track/4xOUx15uKcn2583G3Kd1CO) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Baaki](https://open.spotify.com/album/4M4AZLajLYMgSFg1m4dgpY) | 3:51 | 2023-11-05 |  |
 | [Baarish Ki Boondein](https://open.spotify.com/track/18FhNEar51YMYXureTvkIn) | [Vibhas Arora](https://open.spotify.com/artist/5XNdEnoXYNrEm253PGukm3) | [Baarish Ki Boondein](https://open.spotify.com/album/178HTP7ToLI97nK9HySr0m) | 3:28 | 2023-07-07 |  |
 | [Baarishein](https://open.spotify.com/track/07Nu7WQpx6eKoS3VLprxOR) | [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Baarishein](https://open.spotify.com/album/0391DL7W1ftvUB6K1TO4an) | 3:33 | 2023-08-04 | 2023-10-11 |
@@ -48,7 +49,7 @@
 | [Bolo Na](https://open.spotify.com/track/3lX88j758RWOL5B7uAM3tR) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Bolo Na](https://open.spotify.com/album/58XBnOka4Z1C8NEyvbAd38) | 3:10 | 2023-06-05 | 2023-07-01 |
 | [Calmoshiya](https://open.spotify.com/track/0k68HmAy5WgSZBcI7NW7cU) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Calmoshiya](https://open.spotify.com/album/1xrLuscNmcMYH4xs0UHCCs) | 2:37 | 2023-08-03 | 2023-09-28 |
 | [Chal Bhool Ja](https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Chal Bhool Ja](https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg) | 2:28 | 2023-06-16 | 2023-06-21 |
-| [Chale Gaye](https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Chale Gaye](https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz) | 3:58 | 2023-09-27 |  |
+| [Chale Gaye](https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Chale Gaye](https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz) | 3:58 | 2023-09-27 | 2023-12-12 |
 | [Chalenge Wahin](https://open.spotify.com/track/4ivXGD5mirJrO1Y6w88J1K) | [Anushka Gupta](https://open.spotify.com/artist/72383grtnEIxiyYCo76KtJ) | [Chalenge Wahin](https://open.spotify.com/album/7eIWWjP5MxC2AQCoPDQD2A) | 3:37 | 2023-05-24 | 2023-09-21 |
 | [Chehra 2.0](https://open.spotify.com/track/6d3lOkNs93ZbMkhmoUCGbS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Thank You for Coming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EFK3YhILj3V22ifGoyLsJ) | 4:07 | 2023-10-06 | 2023-11-22 |
 | [Chhipa Hoon](https://open.spotify.com/track/7ufgQB1szGY68NSXxCGFnV) | [Anupam Hazra](https://open.spotify.com/artist/1aKIIGG77pUWHh51RDdmW8) | [Chhipa Hoon](https://open.spotify.com/album/6lF4M45kwtSY83I3CjMoa5) | 4:07 | 2023-05-17 | 2023-07-04 |

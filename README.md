@@ -199,7 +199,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [2022 Top Songs Copy \- made by Elizabeth](/playlists/pretty/7uVQFBe7HHB2LQRMiU1XI9.md)
 - [2023 Billboard Music Awards Official Playlist](/playlists/pretty/37i9dQZF1DWWGeEU3DbvDJ.md)
 - [2023 Dove Awards Nominees](/playlists/pretty/37i9dQZF1DXbuw9ZO9Mfq5.md)
-- [2023 MAMA AWARDS: Worldwide Fans’ Choice: The Winners](/playlists/pretty/37i9dQZF1DX4q2RwtiYXlg.md)
+- [2023 MAMA AWARDS: The Winners](/playlists/pretty/37i9dQZF1DX4q2RwtiYXlg.md)
 - [2023 Top Party Hits](/playlists/pretty/1QBiXlEscYkB1YauNmOcUS.md)
 - [2023 Weverse Con Festival](/playlists/pretty/37i9dQZF1DX7L8tfJz5HGb.md)
 - [2024 グラミー賞 ノミネート作品](/playlists/pretty/37i9dQZF1DX67CQamTl3jY.md)

@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/13VcsBtpmsDqJB74117zFY"
+      },
+      "artists": [
+        {
+          "name": "Brody Hoffman",
+          "url": "https://open.spotify.com/artist/0uhaq6FovIMxF03O8Z9omG"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139122,
+      "name": "Chamber",
+      "url": "https://open.spotify.com/track/2Rv4TFPwOC4Bf0ubqxaBzY"
+    },
+    {
+      "album": {
         "name": "Last Escape",
         "url": "https://open.spotify.com/album/11TckwddbOYHGhcqy9CF6F"
       },
@@ -668,6 +686,24 @@
       "duration_ms": 166596,
       "name": "Chrome.exe",
       "url": "https://open.spotify.com/track/2b4UETKynUkjq3EB2MuXCX"
+    },
+    {
+      "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/0msZInJFTtdbr16VH20Yr7"
+      },
+      "artists": [
+        {
+          "name": "FM Attack",
+          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200019,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/3wf9McgT0EvShX4i2xAwmr"
     },
     {
       "album": {
@@ -920,7 +956,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 298973,
       "name": "Death - Crystal Castles Remix",
       "url": "https://open.spotify.com/track/7aJ9CAwlrviuV99usANITI"
@@ -2337,6 +2373,28 @@
     },
     {
       "album": {
+        "name": "107.5 Darkstar Radio",
+        "url": "https://open.spotify.com/album/1Nq95VfOx1TlqiAkIqFKva"
+      },
+      "artists": [
+        {
+          "name": "Po\u0142oz",
+          "url": "https://open.spotify.com/artist/1zYoJwd806MyTe23nwzBV2"
+        },
+        {
+          "name": "\u0141otr",
+          "url": "https://open.spotify.com/artist/4q3yZ8lEUk9EYH2zj20Lvg"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194626,
+      "name": "Memories of Mzuzu",
+      "url": "https://open.spotify.com/track/7tqint12AqRI6k0Mz8Rbdj"
+    },
+    {
+      "album": {
         "name": "The Love Market",
         "url": "https://open.spotify.com/album/3lmFgGdypU8ao0db6ff6xS"
       },
@@ -2946,7 +3004,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 249661,
       "name": "Runway J",
       "url": "https://open.spotify.com/track/0wagEJiJSu5DwpMP77wGCH"
@@ -3152,7 +3210,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 166374,
       "name": "Stress",
       "url": "https://open.spotify.com/track/6KpazZd2nACE5cwsjAP2x2"
@@ -3561,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Untouched",
+        "url": "https://open.spotify.com/album/10wCnOZGGGuFGQSPbVTHAo"
+      },
+      "artists": [
+        {
+          "name": "m_a_",
+          "url": "https://open.spotify.com/artist/79ytbyzVzOO3lIOSysPogt"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Untouched",
+      "url": "https://open.spotify.com/track/4a32TizUHXG4lHXz1ygILV"
+    },
+    {
+      "album": {
         "name": "Pure Salope",
         "url": "https://open.spotify.com/album/1gqNBDymF6oOVuwDJhDbjY"
       },
@@ -3778,7 +3854,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 216146,
       "name": "XIII",
       "url": "https://open.spotify.com/track/6dPmWrkCwm4qHoS8Re5RqA"

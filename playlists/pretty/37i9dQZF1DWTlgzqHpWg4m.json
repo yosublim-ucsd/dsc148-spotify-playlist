@@ -1,12 +1,12 @@
 {
   "description": "welcome to the Golden State.",
-  "num_followers": 820598,
+  "num_followers": 820659,
   "original_name": "California Rock State",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2RiNzI4ZDY5M2ViM2U5MTAxZTdlNmViNmUwM2Y4MWQxY2JhNTNh",
+  "snapshot_id": "MCxhNjU2ZTE2OTk1ZGU2MWFkOWVkNGY5ZjU1YTlkNWI5ZDUwOGExYTE2",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Fush Yu Mang (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt"
-      },
-      "artists": [
-        {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Walkin' On The Sun",
-      "url": "https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "She Wants Revenge",
         "url": "https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 284613,
       "name": "Tear You Apart",
       "url": "https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Fush Yu Mang (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Walkin' On The Sun",
+      "url": "https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1"
     },
     {
       "added_at": "2023-02-24 05:01:00",

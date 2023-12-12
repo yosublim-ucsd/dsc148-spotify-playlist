@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,348 likes - 87 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,346 likes - 87 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 79 | [Good in Goodbye](https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye) | [Good in Goodbye](https://open.spotify.com/album/1UlMDQn059Zho0E2dZXlyH) | 3:00 |
 | 80 | [I WRITE SONGS ABOUT YOU](https://open.spotify.com/track/0qYeqpxqxQB7VSegLNRBRc) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CATALYST\- EP](https://open.spotify.com/album/6gyeFXC2dYLrU3O0tovWqC) | 2:14 |
 | 81 | [I'm okay](https://open.spotify.com/track/7Ifacym53lOQSS38tgwgKf) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [After Love](https://open.spotify.com/album/2OUaeEG9GKYOIIEZkLPdfP) | 3:23 |
-| 82 | [My First Snow](https://open.spotify.com/track/4MlK9AIBYomZN8vzAg1Kzt) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [My First Snow](https://open.spotify.com/album/7DHnZSD1Q492k9IYulGKgG) | 3:55 |
+| 82 | [My First Snow](https://open.spotify.com/track/4MlK9AIBYomZN8vzAg1Kzt) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [My First Snow](https://open.spotify.com/album/7DHnZSD1Q492k9IYulGKgG) | 3:56 |
 | 83 | [WE CONNECT \(feat\. ONCHA\)](https://open.spotify.com/track/3GdgIiVEtDl1X0VfJXowQs) | [YUNB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [ONCHA](https://open.spotify.com/artist/1bFopqNLKXpBvGmcG2sx7x) | [WE CONNECT \(feat\. ONCHA\)](https://open.spotify.com/album/04Or0N6xWhIlDrV0TEcguw) | 2:11 |
 | 84 | [18](https://open.spotify.com/track/3bXTpnBUoU4hJvkRQiZQrs) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [18](https://open.spotify.com/album/6lMeuUVkmw1ZtlH7S9LjT2) | 3:38 |
 | 85 | [Charisma](https://open.spotify.com/track/2mtBjvQzQHtknKFQKTbCbX) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Charisma](https://open.spotify.com/album/2TcKAlzwi9pSGMpVOIXho4) | 2:57 |
 | 86 | [Sad Tomorrow](https://open.spotify.com/track/42ne6UiPfTi2Vek8KdWAcX) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH), [Rian Cult](https://open.spotify.com/artist/2idZntzccbSKeEzNWqzamb) | [Sad Tomorrow](https://open.spotify.com/album/0D8uRtVYFcfnXJXfVRH4GW) | 3:02 |
 | 87 | [LET ME BE!](https://open.spotify.com/track/236IyEKTINi297J8eZDfYM) | [gencry](https://open.spotify.com/artist/5TTgTTAxOez6W6bnKpphrc) | [LET ME BE!](https://open.spotify.com/album/3T7YEnmKdcD2xk5GMPb66E) | 3:15 |
 
-Snapshot ID: `MCxkMGJlMjkxMTdiZDkzNWE4ZWFmZGI0ZjQxMTIzYzQyNmYwOTlkNmEz`
+Snapshot ID: `MCxlZjVjMGI4MDdlNWE3YjQwYWNhNTYwZDU4MGQzNDc4Y2E3MjM2MWIy`

@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the internet. Cover: Lil Mabu",
-  "num_followers": 1392623,
+  "num_followers": 1392661,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDAyOGE5NjkzYjEwYTMyOTNkODhlY2Q0NDllMjhmMTA0MWQzODI2",
+  "snapshot_id": "MCwxZDZjOTM2NzRjY2Q2NGVmZGI1YTU1YTVjZGQyZDkwMWZlYjk2YTE5",
   "tracks": [
     {
       "added_at": "2023-12-06 21:50:48",
@@ -79,6 +79,26 @@
       "duration_ms": 140455,
       "name": "Violent Lullaby (with Yung Lean)",
       "url": "https://open.spotify.com/track/1SrBdekTYaJnynRr2gKNAb"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "sins (let me in) [Remix]",
+        "url": "https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "sins (let me in) - Remix",
+      "url": "https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o"
     },
     {
       "added_at": "2023-12-07 20:20:23",
@@ -177,6 +197,38 @@
       "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
     },
     {
+      "added_at": "2023-12-11 17:22:28",
+      "album": {
+        "name": "Shotta Flow 7",
+        "url": "https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 165433,
+      "name": "Shotta Flow 7",
+      "url": "https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "60 Miles",
+        "url": "https://open.spotify.com/album/0ZERBpDfUs0o3ZULTzb3cj"
+      },
+      "artists": [
+        {
+          "name": "Lil RT",
+          "url": "https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H"
+        }
+      ],
+      "duration_ms": 126802,
+      "name": "60 Miles",
+      "url": "https://open.spotify.com/track/3dyhk17fDgslADTDnU6sgG"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Nice to meet you (feat. Central Cee)",
@@ -211,26 +263,6 @@
       "duration_ms": 142400,
       "name": "What Yo Name Is",
       "url": "https://open.spotify.com/track/4vuPGGHHQrKqKSjgVFJcBc"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "sins (let me in) [Remix]",
-        "url": "https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 164589,
-      "name": "sins (let me in) - Remix",
-      "url": "https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -285,6 +317,26 @@
       "url": "https://open.spotify.com/track/4ZBAIrRUGcRnTWWNEVlnWi"
     },
     {
+      "added_at": "2023-12-11 17:22:28",
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12"
+      },
+      "artists": [
+        {
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 151850,
+      "name": "Gucci Flip Flops (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/3hv6ndi7uFT9L9wrhQCsqY"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Barbie",
@@ -303,22 +355,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "60 Miles",
-        "url": "https://open.spotify.com/album/0ZERBpDfUs0o3ZULTzb3cj"
-      },
-      "artists": [
-        {
-          "name": "Lil RT",
-          "url": "https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H"
-        }
-      ],
-      "duration_ms": 126802,
-      "name": "60 Miles",
-      "url": "https://open.spotify.com/track/3dyhk17fDgslADTDnU6sgG"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "LIFE IN HELL",
         "url": "https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM"
       },
@@ -331,6 +367,22 @@
       "duration_ms": 187893,
       "name": "LANCEY OR LANCEY",
       "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Me, Myself & I",
+        "url": "https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "duration_ms": 236251,
+      "name": "Darkest Before Dawn",
+      "url": "https://open.spotify.com/track/4RIdKsqdglJ5JqTG8kTvw7"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -367,6 +419,22 @@
       "duration_ms": 123076,
       "name": "GAHDAMN",
       "url": "https://open.spotify.com/track/0UmTizjqbT13uqaBhZpWxe"
+    },
+    {
+      "added_at": "2023-12-11 17:22:28",
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -567,22 +635,6 @@
       "duration_ms": 126350,
       "name": "STICKS ON READY",
       "url": "https://open.spotify.com/track/5ucX2TbTFb0Mw9LWgyOnly"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Me, Myself & I",
-        "url": "https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok"
-      },
-      "artists": [
-        {
-          "name": "BashfortheWorld",
-          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
-        }
-      ],
-      "duration_ms": 236251,
-      "name": "Darkest Before Dawn",
-      "url": "https://open.spotify.com/track/4RIdKsqdglJ5JqTG8kTvw7"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1027,22 +1079,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Special K",
-        "url": "https://open.spotify.com/album/2D926NuFDl3yhbM10yhZQG"
-      },
-      "artists": [
-        {
-          "name": "BLP KOSHER",
-          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
-        }
-      ],
-      "duration_ms": 147049,
-      "name": "Special K",
-      "url": "https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Hood Bitch Aesthetic",
         "url": "https://open.spotify.com/album/6am3JP04WcRJlPeqIYJJVj"
       },
@@ -1187,22 +1223,6 @@
       "duration_ms": 168071,
       "name": "DTD",
       "url": "https://open.spotify.com/track/7rTsCvIxfjT5NsWYbiDdL1"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "RICH SCHOLAR",
-        "url": "https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om"
-      },
-      "artists": [
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        }
-      ],
-      "duration_ms": 118923,
-      "name": "RICH SCHOLAR",
-      "url": "https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1603,22 +1623,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Osama Season",
-        "url": "https://open.spotify.com/album/6rwxZslqJuyF0DivxOB0w9"
-      },
-      "artists": [
-        {
-          "name": "OsamaSon",
-          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        }
-      ],
-      "duration_ms": 57029,
-      "name": "X & Sex",
-      "url": "https://open.spotify.com/track/6qyAMxx8th14kYK4LlxpTc"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "waiting alonE",
         "url": "https://open.spotify.com/album/342UvGijO1QgI9wQFXDq9m"
       },
@@ -1695,42 +1699,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "MMM HMM (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
-      },
-      "artists": [
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 158137,
-      "name": "MMM HMM (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "TADA",
-        "url": "https://open.spotify.com/album/6jGsvxeVlhZziD1iHC2M3m"
-      },
-      "artists": [
-        {
-          "name": "Unghetto",
-          "url": "https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s"
-        }
-      ],
-      "duration_ms": 85161,
-      "name": "TADA",
-      "url": "https://open.spotify.com/track/2cXeUYMss6hflg9hSZHePD"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "IN THIS (feat. Cash Cobain)",
         "url": "https://open.spotify.com/album/3N9nENhwITwssTP88KMxl3"
       },
@@ -1751,22 +1719,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "KNOYA",
-        "url": "https://open.spotify.com/album/1dxFSqmTFEKpva3RnzQf9c"
-      },
-      "artists": [
-        {
-          "name": "tana",
-          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
-        }
-      ],
-      "duration_ms": 109722,
-      "name": "KNOYA",
-      "url": "https://open.spotify.com/track/7KlYBKL2aNJJ3kQI1iO96M"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Just Like Me",
         "url": "https://open.spotify.com/album/1sbizSerYAgDqpFUAgCTQP"
       },
@@ -1779,22 +1731,6 @@
       "duration_ms": 125100,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/4lcrZiMuwz0VWiwrrqGgOW"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK"
-      },
-      "artists": [
-        {
-          "name": "Bravo 1-2",
-          "url": "https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX"
-        }
-      ],
-      "duration_ms": 90000,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
     },
     {
       "added_at": "2023-12-01 05:00:00",

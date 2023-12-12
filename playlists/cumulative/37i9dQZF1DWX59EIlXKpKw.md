@@ -4,7 +4,7 @@
 
 > Listen to all the music from the hit series, and your favorite science songs!
 
-23 songs - 45 min 20 sec
+24 songs - 47 min 15 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Black Lives Made STEM History](https://open.spotify.com/track/78MBph27OvsmvxCauXGZOx) | [Roy Moye III](https://open.spotify.com/artist/1FBZZD3fC7SuYBb8PsZWuf) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:14 | 2022-03-03 |  |
 | [Brainstorm](https://open.spotify.com/track/0KI9LENUe0rDhTe9mWbPeQ) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:18 | 2022-03-03 |  |
 | [Curious \- Radio Edit](https://open.spotify.com/track/5G0lNxYMUZFTIr1GL7EgQA) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [Curious: Think Outside the Pipeline!](https://open.spotify.com/album/0TgG27H7fFvAhb1RWvrAn6) | 2:30 | 2022-03-03 |  |
-| [How Do We Know?](https://open.spotify.com/track/1g1IQy1dUQytk434js3Bxw) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Giants of Science](https://open.spotify.com/album/4ui5dHNvWSER4CI1gxYFEl) | 1:55 | 2022-03-03 |  |
+| [How Do We Know?](https://open.spotify.com/track/1g1IQy1dUQytk434js3Bxw) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Giants of Science](https://open.spotify.com/album/4ui5dHNvWSER4CI1gxYFEl) | 1:55 | 2022-03-03 | 2023-12-12 |
+| [How Do We Know?](https://open.spotify.com/track/226AYbpi0Wqym8UdKciCx8) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Giants of Science](https://open.spotify.com/album/5XRx47sQo8DQR8KdevmJmA) | 1:55 | 2022-03-03 |  |
 | [Hypothesis](https://open.spotify.com/track/51o2AxOpFq2jqLFUTtON90) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:30 | 2022-03-03 |  |
 | [I Give Up](https://open.spotify.com/track/4b0tUaeZ4mSt95nmuhgdFp) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 0:50 | 2022-03-03 |  |
 | [Put It to the Test](https://open.spotify.com/track/0ms5bzYdvWBnrayTs9RFcf) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:41 | 2022-03-03 |  |

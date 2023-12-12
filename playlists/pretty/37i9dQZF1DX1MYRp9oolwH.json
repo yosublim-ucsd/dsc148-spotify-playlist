@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Hi Nanna",
-  "num_followers": 113988,
+  "num_followers": 114091,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDg3NTJlYTNiNWY2MjQwZWU0M2JjOTdkZTc4ZTU0OTE5OWU5YWVi",
+  "snapshot_id": "MCw5MWYwM2JjYmFiYmE5YTFmZTUxNmMwYWJhYjgzNzEzNzI0MWRmYzc3",
   "tracks": [
     {
       "added_at": "2023-12-07 04:51:29",
@@ -23,6 +23,30 @@
       "duration_ms": 215175,
       "name": "Idhe Idhe (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/7681Ik3vkdgdwlNpABKtfa"
+    },
+    {
+      "added_at": "2023-12-11 14:06:21",
+      "album": {
+        "name": "Sarada Saradaga (From \"Saindhav\") (Telugu)",
+        "url": "https://open.spotify.com/album/69tu5JQzhjbk0uNMdzurjU"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 218842,
+      "name": "Sarada Saradaga (From \"Saindhav\") (Telugu)",
+      "url": "https://open.spotify.com/track/7vhRfB1xkdItr7e6ilLYxS"
     },
     {
       "added_at": "2023-11-06 09:56:31",

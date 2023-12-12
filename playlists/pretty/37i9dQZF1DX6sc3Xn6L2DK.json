@@ -1,12 +1,12 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 36911,
+  "num_followers": 36920,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWUwMjJiMjg4M2MxMjI1NWE1NWRmOGRlZGRjZWJkYTUwM2E1OGE0",
+  "snapshot_id": "MCw5YzUyMTU5ZGJmYjBlYzc2MWM3MzRlOGE0OGNiM2I1YWFjYzNiZWMx",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Western Swing & Waltzes and Other Punchy Songs",
-        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Cowpoke",
-      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Old Time Feeling",
         "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
       },
@@ -203,18 +187,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+        "name": "Western Swing & Waltzes and Other Punchy Songs",
+        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+      "duration_ms": 192626,
+      "name": "Cowpoke",
+      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -243,6 +227,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Room 41",
         "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 239803,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Colter Wall & The Scary Prairie Boys",
-        "url": "https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 323853,
-      "name": "Bob Fudge",
-      "url": "https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+        "name": "Colter Wall & The Scary Prairie Boys",
+        "url": "https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4"
       },
       "artists": [
         {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+      "duration_ms": 323853,
+      "name": "Bob Fudge",
+      "url": "https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 365746,
-      "name": "Riding For The Feeling",
-      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "No Glory in the West",
         "url": "https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 253586,
       "name": "No Glory in the West",
       "url": "https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 365746,
+      "name": "Riding For The Feeling",
+      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
     },
     {
       "added_at": "2023-10-27 04:00:00",

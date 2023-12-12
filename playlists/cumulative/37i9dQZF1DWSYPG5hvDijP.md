@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-194 songs - 10 hr 19 min
+195 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Industry Galat](https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Industry Galat](https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP) | 3:08 | 2023-03-29 |  |
 | [International](https://open.spotify.com/track/1sV2f9mG1FEHaE4mSdDEwU) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Eyes On The Prize](https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe) | 2:50 | 2023-10-12 |  |
 | [Iran](https://open.spotify.com/track/2sAvvxcPYW5qJmFWCTSoFv) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 2:35 | 2023-06-23 |  |
+| [Ishq Nachaawe \- From "Kho Gaye Hum Kahan"](https://open.spotify.com/track/4lQzrLcNfjm1fqBpQmbHG6) | [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Kho Gaye Hum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O) | 3:41 | 2023-12-11 |  |
 | [It's Aight](https://open.spotify.com/track/0m6q4ExjPAlpICPMN0Mnd3) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Prophet Joegus](https://open.spotify.com/artist/5PsSnCWLBoL7bdXFk02Q2a) | [A Message from the Moon](https://open.spotify.com/album/4LpX3ETuKXYM2z29WySuP8) | 3:21 | 2023-06-01 | 2023-08-05 |
 | [Jhoot](https://open.spotify.com/track/74hAMFrOY3TwKRa25QoWAB) | [Void](https://open.spotify.com/artist/3rPEiLwMVfd4Vg3BlRbuJK), [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [Exult Yowl](https://open.spotify.com/artist/6szIEcaQzaFdMn8e1UQzwU) | [Lonely December](https://open.spotify.com/album/6XxG32SXPyQLwhYeH1KKZf) | 3:51 | 2023-03-29 | 2023-04-17 |
 | [Judgement](https://open.spotify.com/track/4XoECpd0nkk9OSLUIEOi1i) | [Gopi Longia](https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE) | [Judgement](https://open.spotify.com/album/3e1XAJm7FEvTMaaJ5SiksX) | 5:14 | 2023-03-29 | 2023-04-25 |
@@ -177,7 +178,7 @@
 | [STILL NUMBER 1](https://open.spotify.com/track/0nXYmY9YtiHkFGlR3cusur) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [STILL NUMBER 1](https://open.spotify.com/album/6pJ9lDsQqTMlcvxqbMbmtM) | 3:55 | 2023-10-27 |  |
 | [STRAP](https://open.spotify.com/track/1GmaStjvbOzszpxINI8oTi) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [STRAP](https://open.spotify.com/album/4S53T78rr9YNwFGG08bkNI) | 2:42 | 2023-10-26 |  |
 | [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 | 2023-11-26 |
-| [Subz](https://open.spotify.com/track/3fF8CmtFnZSqeejn5ea1OC) | [KNAV](https://open.spotify.com/artist/5v5zR0FGvZ5A8ztsWS1sL2), [XTACY ON THE BEAT](https://open.spotify.com/artist/1biv7Fr36uAj6PO7icQAEy), [Baba Bachi](https://open.spotify.com/artist/2z9Au2AnKOY9H1UdVi07Ja) | [Subz](https://open.spotify.com/album/0MBb6wPG1sjs6n9OP8lXeN) | 2:36 | 2023-08-11 |  |
+| [Subz](https://open.spotify.com/track/3fF8CmtFnZSqeejn5ea1OC) | [KNAV](https://open.spotify.com/artist/5v5zR0FGvZ5A8ztsWS1sL2), [XTACY ON THE BEAT](https://open.spotify.com/artist/1biv7Fr36uAj6PO7icQAEy), [Baba Bachi](https://open.spotify.com/artist/2z9Au2AnKOY9H1UdVi07Ja) | [Subz](https://open.spotify.com/album/0MBb6wPG1sjs6n9OP8lXeN) | 2:36 | 2023-08-11 | 2023-12-12 |
 | [Sunti Kaha Hai](https://open.spotify.com/track/0JAPkDAXbRsMtQtsYkW3xP) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sunti Kaha Hai](https://open.spotify.com/album/73AFjr9LKzEDYX3wCWAcuL) | 2:36 | 2023-03-29 | 2023-07-21 |
 | [Taakat](https://open.spotify.com/track/2AMP8Rey8W6sxsXKUpgWRb) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Taakat](https://open.spotify.com/album/0ccts7BfXm24XXSyNmwHYR) | 2:36 | 2023-04-16 |  |
 | [Tanha](https://open.spotify.com/track/2WhvRVQUwKBqKqtAZjdN5O) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Tanha](https://open.spotify.com/album/3Ucq0Rcp8X8bYtRqEvC3ql) | 2:33 | 2023-10-16 |  |

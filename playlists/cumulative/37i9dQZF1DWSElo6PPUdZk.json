@@ -761,6 +761,32 @@
     },
     {
       "album": {
+        "name": "Lala Lala",
+        "url": "https://open.spotify.com/album/2i03NF2qSpfLiH5zeUEIW4"
+      },
+      "artists": [
+        {
+          "name": "Baani Sandhu",
+          "url": "https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "Lala Lala",
+      "url": "https://open.spotify.com/track/02FQ4MmF9Q7us88QgTSQnJ"
+    },
+    {
+      "album": {
         "name": "License",
         "url": "https://open.spotify.com/album/0yDxXtnTfsajw6L4idWi4Q"
       },

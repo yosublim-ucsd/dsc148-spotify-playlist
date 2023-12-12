@@ -1,12 +1,12 @@
 {
   "description": "Thunder is coming.",
-  "num_followers": 426335,
+  "num_followers": 426309,
   "original_name": "Calm Before the Storm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjM3M2EyNDZlMmE3YTQxMjBkZGM0NjBlNzVjNmIwZmJlYjg2MWFm",
+  "snapshot_id": "MCxkYmQyYmZiNTU4MzZkNDNjYmRlZjM1NGY3NDk4YWMzODYyNGEwZjQ2",
   "tracks": [
     {
       "added_at": "2023-10-19 17:09:31",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "Takk...",
-        "url": "https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP"
-      },
-      "artists": [
-        {
-          "name": "Sigur R\u00f3s",
-          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
-        }
-      ],
-      "duration_ms": 375933,
-      "name": "Gl\u00f3s\u00f3li",
-      "url": "https://open.spotify.com/track/0YTfMKGPhWhjS9wgzWvfaf"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "Young Mountain",
         "url": "https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 432306,
       "name": "The World Is Our ___",
       "url": "https://open.spotify.com/track/1EKk6Xvei9N9scaQcrax2S"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "Takk...",
+        "url": "https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "duration_ms": 375933,
+      "name": "Gl\u00f3s\u00f3li",
+      "url": "https://open.spotify.com/track/0YTfMKGPhWhjS9wgzWvfaf"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
+        "name": "S/T",
+        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
+      },
+      "artists": [
+        {
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+        }
+      ],
+      "duration_ms": 339600,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
         "name": "Systems / Layers",
         "url": "https://open.spotify.com/album/3CnIIKifMcJsclpMDEG9y4"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 378066,
       "name": "Water from the Same Source",
       "url": "https://open.spotify.com/track/7vVoaTSJ0k4i2quvEDa3cP"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
-        "name": "S/T",
-        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
-      },
-      "artists": [
-        {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
-        }
-      ],
-      "duration_ms": 339600,
-      "name": "Threads",
-      "url": "https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/2iNLwx97kVhWiEAdJqALOL"
-      },
-      "artists": [
-        {
-          "name": "Jakob",
-          "url": "https://open.spotify.com/artist/0SBEeMzVANjUpI6gTQdTic"
-        }
-      ],
-      "duration_ms": 473733,
-      "name": "Safety in Numbers",
-      "url": "https://open.spotify.com/track/5RDhMJXMbRMIdRkvV3w2Df"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/5hSPs0thai8mK30ivMFHeY"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 403000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4h0iGeA83sYvsngisIw92M"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/2iNLwx97kVhWiEAdJqALOL"
+      },
+      "artists": [
+        {
+          "name": "Jakob",
+          "url": "https://open.spotify.com/artist/0SBEeMzVANjUpI6gTQdTic"
+        }
+      ],
+      "duration_ms": 473733,
+      "name": "Safety in Numbers",
+      "url": "https://open.spotify.com/track/5RDhMJXMbRMIdRkvV3w2Df"
     },
     {
       "added_at": "2023-10-19 17:09:31",

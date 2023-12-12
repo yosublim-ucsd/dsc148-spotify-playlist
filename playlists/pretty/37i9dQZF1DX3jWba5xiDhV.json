@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 177637,
+  "num_followers": 177785,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODUzMDdkZWM1OGIwODMzMTJmZDQyNzFjY2IzY2UwZWRmYTQwOTU3",
+  "snapshot_id": "MCxiZTU2YTc3Mzk4YjU1YTRjMTAxNjk3ZWEyMTBkMGQ5OGE4OWUxMDJk",
   "tracks": [
     {
       "added_at": "2023-12-01 10:57:43",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-12-01 10:57:43",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Give Me Love - 1977",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
-    },
-    {
-      "added_at": "2023-12-01 10:57:43",
-      "album": {
         "name": "Nuova Napoli",
         "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 263508,
       "name": "Disco Sole",
       "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
+    },
+    {
+      "added_at": "2023-12-01 10:57:43",
+      "album": {
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Give Me Love - 1977",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
       "added_at": "2023-12-01 10:57:43",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-12-01 10:57:43",
       "album": {
-        "name": "Greatest Hits & Remixes",
-        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
-      },
-      "artists": [
-        {
-          "name": "Ken Laszlo",
-          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Hey Hey Guy (7\" Vocal Version)",
-      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
-    },
-    {
-      "added_at": "2023-12-01 10:57:43",
-      "album": {
         "name": "The Sound of Tony Esposito",
         "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 313133,
       "name": "Kalimba de luna",
       "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+    },
+    {
+      "added_at": "2023-12-01 10:57:43",
+      "album": {
+        "name": "Greatest Hits & Remixes",
+        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
+      },
+      "artists": [
+        {
+          "name": "Ken Laszlo",
+          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Hey Hey Guy (7\" Vocal Version)",
+      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
     },
     {
       "added_at": "2023-12-01 10:57:43",

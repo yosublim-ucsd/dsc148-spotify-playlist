@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 217903,
       "name": "Ave Nocturna",
       "url": "https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5"
@@ -1034,6 +1034,24 @@
       "duration_ms": 230763,
       "name": "El Cometa",
       "url": "https://open.spotify.com/track/3SlCL3FMrOJGpIvJiGSseK"
+    },
+    {
+      "album": {
+        "name": "Recaer",
+        "url": "https://open.spotify.com/album/5sRXzUvy7eUEUFpxnL1i2Z"
+      },
+      "artists": [
+        {
+          "name": "Distimia Agoraf\u00f3bica",
+          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181668,
+      "name": "El Mar",
+      "url": "https://open.spotify.com/track/77ffP2sNki7kJcv5iDi7ZG"
     },
     {
       "album": {

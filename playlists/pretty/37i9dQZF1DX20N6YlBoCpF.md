@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd?si=n\-r0jeoTS8G\_44K7sOPvsw">Kurt Darren</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,487 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,529 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 64 | [Terapie Vir Nou](https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Terapie Vir Nou](https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN) | 3:38 |
 | 65 | [KANNIE WARRIE](https://open.spotify.com/track/5yjXBgnXdZDzqJIuhxgDBF) | [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [KANNIE WARRIE](https://open.spotify.com/album/2chOPP9olG7mcTVGALmcrG) | 3:30 |
 
-Snapshot ID: `MCw1NDZhZjNlZTg2YjI1YmIxYjQ2YzY1MjQyMTFkZmIwZDcwMzdlZmRj`
+Snapshot ID: `MCw4NjlhYjAzN2QyM2E4MGE5M2Y3ZWE1MjRjNzE4MmFmNmM5ZWFhN2U2`

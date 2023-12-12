@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-220 songs - 12 hr 0 min
+221 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Daari \- The Way of Life](https://open.spotify.com/track/0upvnzpFrtV9TqTA7cfJhC) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Daari \- The Way of Life](https://open.spotify.com/album/5LzEpngZmmTKQ228rk64Ln) | 4:15 | 2023-12-07 |  |
 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 | 2023-11-24 |  |
 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 | 2023-03-23 |  |
-| [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 |  |
+| [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 | 2023-12-12 |
 | [Dosthi](https://open.spotify.com/track/6kikzlcHn876UkFBtdYrai) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Dosthi](https://open.spotify.com/album/4d4tz7uQcWFs5H9G38FiG8) | 2:50 | 2023-09-20 |  |
 | [E Preeti](https://open.spotify.com/track/01ivpm8n90rIrUQUAKtvon) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [E Preeti](https://open.spotify.com/album/65sytc26MQaDBrib5Dc4ml) | 2:48 | 2023-05-29 |  |
 | [E Sanje](https://open.spotify.com/track/4sWgM5L4JddTcTa4LP210V) | [Pramodh Acharya](https://open.spotify.com/artist/0wxKIZSaPnlZMc2jlsnIyI), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [E Sanje](https://open.spotify.com/album/07avNTtRS5qqrtUOXGxvL5) | 3:32 | 2023-03-13 | 2023-09-30 |
@@ -98,6 +98,7 @@
 | [Kanmaniye](https://open.spotify.com/track/3qm6n1CpNTb3OllQZpI2db) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ), [Chaithra Ganiga](https://open.spotify.com/artist/19MiECEeL27gGfhbyxRfEK) | [Kanmaniye](https://open.spotify.com/album/40I6bsgUWOe19iiJkNDlbL) | 4:29 | 2023-08-05 |  |
 | [Kannada Balso](https://open.spotify.com/track/5XoGUpJ2Q7u2lBfpgznbxG) | [Vibe Guru](https://open.spotify.com/artist/7bd8H4hvMWUY8v6I54DCvi) | [Kannada Balso](https://open.spotify.com/album/1w3uXnjR5gDuVTNTdnqlsO) | 2:46 | 2023-10-26 |  |
 | [Kannalle](https://open.spotify.com/track/4V8RNKh9RTAdGMnZOSlrpp) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i) | [Kannalle](https://open.spotify.com/album/3w0f7cvKqi5sQ8wWxJJTAV) | 1:11 | 2023-09-04 |  |
+| [Karedaaga Ninna](https://open.spotify.com/track/0pXdz1EvBsUGXSfF2KfZyj) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Karedaaga Ninna](https://open.spotify.com/album/7ec96HDzbEIgAuIMrq6a3G) | 2:09 | 2023-12-11 |  |
 | [Karma](https://open.spotify.com/track/5uOfjSX8fqPKTqdmDwoXKK) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Karma](https://open.spotify.com/album/0otfI7PmqVOgKLlmktOaB9) | 1:25 | 2023-07-17 |  |
 | [Kelilli](https://open.spotify.com/track/7oVFj9kWbTuHbNafpcLqbi) | [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Kelilli](https://open.spotify.com/album/0Tzvd8xmI0kKZPwIIedKHM) | 2:22 | 2023-10-19 |  |
 | [Khayali](https://open.spotify.com/track/4yQSmhi8kCpEoNAN4PCELf) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Khayali](https://open.spotify.com/album/6QNuYLe3fEVm43H8ADzTTU) | 3:09 | 2023-04-22 | 2023-06-08 |

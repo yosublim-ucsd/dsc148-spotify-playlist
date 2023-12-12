@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmU0ZDg3YzEwOWJkNTQ0MTc0YzFhN2U1N2NiNzJmMGM5ZGJiZWZk",
+  "snapshot_id": "MCw5NjExZjYyNzkwN2FkMDA3OGM0ODBhMWQzNWIxNmM0NjkzMjJhYmQw",
   "tracks": [
     {
       "added_at": "2023-05-24 15:45:04",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Verities & Balderdash",
-        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
-      },
-      "artists": [
-        {
-          "name": "Harry Chapin",
-          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
-        }
-      ],
-      "duration_ms": 222951,
-      "name": "Cat's in the Cradle",
-      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Like My Father",
         "url": "https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 183428,
       "name": "Like My Father",
       "url": "https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Verities & Balderdash",
+        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
+      },
+      "artists": [
+        {
+          "name": "Harry Chapin",
+          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
+        }
+      ],
+      "duration_ms": 222951,
+      "name": "Cat's in the Cradle",
+      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
       "added_at": "2022-06-09 16:13:45",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t"
     },
     {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
-        "name": "Not All Heroes Wear Capes",
-        "url": "https://open.spotify.com/album/4r0pE9K65165ei9BT5Jn7Q"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 226568,
-      "name": "Not All Heroes Wear Capes",
-      "url": "https://open.spotify.com/track/0b0a4nsj1ukHm5VPzCcCIM"
-    },
-    {
       "added_at": "2023-05-31 15:14:57",
       "album": {
         "name": "Hits Alive",
@@ -543,6 +527,22 @@
       "duration_ms": 268186,
       "name": "Anything Like Me",
       "url": "https://open.spotify.com/track/74mZKvZcZzzvbOnt8NfWda"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Not All Heroes Wear Capes",
+        "url": "https://open.spotify.com/album/4r0pE9K65165ei9BT5Jn7Q"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 226568,
+      "name": "Not All Heroes Wear Capes",
+      "url": "https://open.spotify.com/track/0b0a4nsj1ukHm5VPzCcCIM"
     },
     {
       "added_at": "2022-06-09 16:13:45",

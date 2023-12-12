@@ -1,12 +1,12 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 352416,
+  "num_followers": 352445,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjIwYjRjOTU1NDU0Y2Y4YjQwYzg0YTJmZWFlNDk4NWZhYjgyYzVh",
+  "snapshot_id": "MCw0MmM4YmQ1YWZhMzk4NjZhYzBhNDU4MjU0NDk5ODNkM2UwYmM5YzZh",
   "tracks": [
     {
       "added_at": "2023-10-17 16:16:50",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
         "name": "Baby Now That I've Found You",
         "url": "https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2023-10-17 16:16:50",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 141693,
       "name": "Love Me Do - Remastered 2009",
       "url": "https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2023-10-17 16:16:50",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Where Did Our Love Go",
-      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
         "name": "In the Midnight Hour",
         "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Where Did Our Love Go",
+      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
     },
     {
       "added_at": "2023-10-17 16:16:50",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
-        "name": "The 35th Anniversary Collection",
-        "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "I Second That Emotion",
-      "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
         "name": "Rhythm Of The Rain",
         "url": "https://open.spotify.com/album/0JdsCjqgkPenYahT4NoE17"
       },
@@ -787,22 +771,6 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
-        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
-        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
-      },
-      "artists": [
-        {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
-        }
-      ],
-      "duration_ms": 158853,
-      "name": "Then He Kissed Me",
-      "url": "https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
         "name": "Circulate (Expanded Edition)",
         "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
       },
@@ -835,6 +803,22 @@
       "duration_ms": 173866,
       "name": "You're All I Need To Get By",
       "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
+        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
+      },
+      "artists": [
+        {
+          "name": "The Crystals",
+          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+        }
+      ],
+      "duration_ms": 158853,
+      "name": "Then He Kissed Me",
+      "url": "https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh"
     },
     {
       "added_at": "2023-10-17 16:16:50",
@@ -1067,6 +1051,26 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
+        "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+        "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra",
+      "url": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
         "name": "If You Can Believe Your Eyes And Ears",
         "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
       },
@@ -1095,26 +1099,6 @@
       "duration_ms": 152333,
       "name": "Soothe Me",
       "url": "https://open.spotify.com/track/3pL0x4IUqemNfzJPn5Hvbi"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
-        "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
-        "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra",
-      "url": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9"
     },
     {
       "added_at": "2023-10-17 16:16:50",
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
-        "name": "How Do You Like It? [Mono And Stereo Version]",
-        "url": "https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2"
-      },
-      "artists": [
-        {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
-        }
-      ],
-      "duration_ms": 164173,
-      "name": "You'll Never Walk Alone - Stereo; 1997 Remaster",
-      "url": "https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
         "name": "The Legendary Masters Series",
         "url": "https://open.spotify.com/album/434hmQ0GM7ynBeMZz5BSQ3"
       },
@@ -1199,6 +1167,22 @@
       "duration_ms": 150866,
       "name": "Take Good Care Of My Baby - 1990 Remastered",
       "url": "https://open.spotify.com/track/1MR7XamWS0XH6vZxeeRdE0"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
+        "name": "How Do You Like It? [Mono And Stereo Version]",
+        "url": "https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2"
+      },
+      "artists": [
+        {
+          "name": "Gerry & The Pacemakers",
+          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+        }
+      ],
+      "duration_ms": 164173,
+      "name": "You'll Never Walk Alone - Stereo; 1997 Remaster",
+      "url": "https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv"
     },
     {
       "added_at": "2023-10-17 16:16:50",
@@ -1311,6 +1295,22 @@
       "duration_ms": 144013,
       "name": "Cathy's Clown",
       "url": "https://open.spotify.com/track/1MA9StLzlFftLbuqOmoWij"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
+        "name": "Playlist: The Best Of Little Eva",
+        "url": "https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "duration_ms": 139120,
+      "name": "The Locomotion",
+      "url": "https://open.spotify.com/track/53UXqZaarqFPAFEy7dT1m1"
     }
   ],
   "unique_name": "Easy 60s",

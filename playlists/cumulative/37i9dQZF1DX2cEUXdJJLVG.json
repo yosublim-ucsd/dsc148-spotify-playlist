@@ -896,7 +896,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 304000,
       "name": "Clinging On Me",
       "url": "https://open.spotify.com/track/2EGyiht9vLt5NQ2KOdWOml"
@@ -2989,6 +2989,36 @@
     },
     {
       "album": {
+        "name": "Love Is Alive (Original)",
+        "url": "https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        },
+        {
+          "name": "Steve Biko.K",
+          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
+        },
+        {
+          "name": "Dani\u00ebl von Piekartz",
+          "url": "https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331636,
+      "name": "Love is Alive - Original",
+      "url": "https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR"
+    },
+    {
+      "album": {
         "name": "Love Like This Before - Spotify Studio Oyster Recording",
         "url": "https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH"
       },
@@ -5032,6 +5062,28 @@
       "duration_ms": 193729,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
+    },
+    {
+      "album": {
+        "name": "Forever Never Cares",
+        "url": "https://open.spotify.com/album/7pearr4dOjSf9cNDe5lHeL"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "Jordan Brown",
+          "url": "https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227583,
+      "name": "Starstruck",
+      "url": "https://open.spotify.com/track/6xfghae1MOkdMCf3xDCcxP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-253 songs - 23 hr 46 min
+254 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Pra Sempre YHWH](https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Pra Sempre YHWH](https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO) | 7:33 | 2023-11-24 |  |
 | [Pra Ti Eu Vou \- Ao Vivo](https://open.spotify.com/track/2U9pql1iLy9o3ZRKygbMwR) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Pra Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/1cpQFbRUBIAbX77LqwdkjB) | 5:03 | 2023-10-20 | 2023-12-02 |
 | [Promises \(feat\. Joe L Barnes\)](https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 10:46 | 2022-09-09 | 2023-07-15 |
-| [Quando o Céu Invade a Terra \- Ao Vivo](https://open.spotify.com/track/1l7obBlq9HK2PjzvTo7GRT) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Quando o Céu Invade a Terra \(Ao Vivo\)](https://open.spotify.com/album/6QOtQcdneALMp3VOgFsmqE) | 6:02 | 2023-10-20 |  |
+| [Quando o Céu Invade a Terra \- Ao Vivo](https://open.spotify.com/track/1l7obBlq9HK2PjzvTo7GRT) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Quando o Céu Invade a Terra \(Ao Vivo\)](https://open.spotify.com/album/6QOtQcdneALMp3VOgFsmqE) | 6:02 | 2023-10-20 | 2023-12-12 |
 | [Quarto Secreto](https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Quarto Secreto](https://open.spotify.com/album/4it8ereveBK8yFE4Ja2R87) | 5:07 | 2023-03-17 | 2023-09-02 |
 | [Que Amor É Esse](https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Que Amor É Esse](https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd) | 7:00 | 2022-09-09 | 2023-07-08 |
 | [Quem Te Guarda É Deus](https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Quem Te Guarda É Deus](https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h) | 3:13 | 2023-11-24 |  |
@@ -198,6 +198,7 @@
 | [Raridade](https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:57 | 2022-09-09 |  |
 | [Recebo a Vida \- Ao Vivo](https://open.spotify.com/track/4aZteh08WVxvTDjAWdGWYi) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Recebo a Vida \(Ao Vivo\)](https://open.spotify.com/album/1jBKZa8IyMgyURntDB1VAt) | 7:02 | 2023-10-20 |  |
 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 | 2022-09-09 | 2023-08-19 |
+| [Redimido \- Ao Vivo](https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Redimido \(Ao Vivo\)](https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt) | 5:47 | 2023-11-24 |  |
 | [Rei da Glória \- Ao Vivo](https://open.spotify.com/track/5bkQg34pw8HgHEWIHVrR9a) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 8:33 | 2023-07-14 | 2023-09-02 |
 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 | 2022-09-09 |  |
 | [Restitui \- Ao Vivo](https://open.spotify.com/track/0NJuAF3mbH1EL3d8WAJ7Ra) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Restitui \(ao Vivo\)](https://open.spotify.com/album/3jKdDH1635WQtIUD52qCvp) | 4:17 | 2023-06-23 |  |

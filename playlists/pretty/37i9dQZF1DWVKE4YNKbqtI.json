@@ -1,12 +1,12 @@
 {
   "description": "Little Walter, Junior Wells, James Cotton the finest blues harmonica players.",
-  "num_followers": 10201,
+  "num_followers": 10205,
   "original_name": "Blues Harp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmRmNWJhYWE4MmE4ZmY1ODZiZmY5ODRkZGY5ODhkZTg4MWJiODA5",
+  "snapshot_id": "MCwyYTFmNzNkN2Y5MmNjZjQyNWFjNjRhZWRhMmE3NTE5MDcwZjYxODY1",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -163,38 +163,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Sonny Boy Williamson Vol. 1 (1937 - 1938)",
-        "url": "https://open.spotify.com/album/7FJtjm0Fhd7q8n4JkA290L"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson I",
-          "url": "https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4"
-        }
-      ],
-      "duration_ms": 153260,
-      "name": "Got The Bottle Up And Gone",
-      "url": "https://open.spotify.com/track/1a8JNXclpuzv9Rx8KxBbIO"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Have A Good Time",
-      "url": "https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -227,54 +195,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Back Where I Belong",
-        "url": "https://open.spotify.com/album/59auu3dHE34dRuCajZ2Kd2"
+        "name": "Sonny Boy Williamson Vol. 1 (1937 - 1938)",
+        "url": "https://open.spotify.com/album/7FJtjm0Fhd7q8n4JkA290L"
       },
       "artists": [
         {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+          "name": "Sonny Boy Williamson I",
+          "url": "https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4"
         }
       ],
-      "duration_ms": 219560,
-      "name": "I Wish You Would",
-      "url": "https://open.spotify.com/track/6YSJ7rgjRiO3glbDJrBZR3"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Shake My Hand",
-        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
-      },
-      "artists": [
-        {
-          "name": "Snooky Pryor",
-          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Work With Me Annie",
-      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
+      "duration_ms": 153260,
+      "name": "Got The Bottle Up And Gone",
+      "url": "https://open.spotify.com/track/1a8JNXclpuzv9Rx8KxBbIO"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -303,6 +235,74 @@
       "duration_ms": 383933,
       "name": "Down Home Blues",
       "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 126933,
+      "name": "Hoodoo Man Blues",
+      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Have A Good Time",
+      "url": "https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Shake My Hand",
+        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
+      },
+      "artists": [
+        {
+          "name": "Snooky Pryor",
+          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Work With Me Annie",
+      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Back Where I Belong",
+        "url": "https://open.spotify.com/album/59auu3dHE34dRuCajZ2Kd2"
+      },
+      "artists": [
+        {
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "I Wish You Would",
+      "url": "https://open.spotify.com/track/6YSJ7rgjRiO3glbDJrBZR3"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -339,6 +339,22 @@
       "duration_ms": 217226,
       "name": "Diggin' My Potatoes",
       "url": "https://open.spotify.com/track/7vsJLJHAYHRmovTbRTgRFx"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Deep In The Blues",
+        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Play With Your Poodle",
+      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -427,6 +443,26 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "No Mercy In This Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4"
       },
@@ -447,38 +483,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Whoopin'",
-        "url": "https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry",
-          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
-        }
-      ],
-      "duration_ms": 286693,
-      "name": "Sonny's Whoopin' The Doop",
-      "url": "https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Deep In The Blues",
-        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Play With Your Poodle",
-      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Heartaches And Pain",
         "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
       },
@@ -491,6 +495,22 @@
       "duration_ms": 211426,
       "name": "Carey Bell Rocks",
       "url": "https://open.spotify.com/track/0vZun5MdpB8oEjq2Ekw4K9"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Whoopin'",
+        "url": "https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry",
+          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
+        }
+      ],
+      "duration_ms": 286693,
+      "name": "Sonny's Whoopin' The Doop",
+      "url": "https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -531,22 +551,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Sonny Is King",
-        "url": "https://open.spotify.com/album/4ewWMXqCejyno0okSIOVnd"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry",
-          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "One Monkey Don't Stop The Show",
-      "url": "https://open.spotify.com/track/2S4f3cNofjA6pQNWQHcSM3"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "That's Life",
         "url": "https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii"
       },
@@ -579,6 +583,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Sonny Is King",
+        "url": "https://open.spotify.com/album/4ewWMXqCejyno0okSIOVnd"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry",
+          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "One Monkey Don't Stop The Show",
+      "url": "https://open.spotify.com/track/2S4f3cNofjA6pQNWQHcSM3"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Abolutely the Best: The Complete Jewel Singles 1965-1972",
         "url": "https://open.spotify.com/album/4Vp7gTydgX0GiYyYOeJ3mJ"
       },
@@ -607,46 +627,6 @@
       "duration_ms": 194586,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Dirty Memory",
-        "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
-      },
-      "artists": [
-        {
-          "name": "JJ Appleton",
-          "url": "https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE"
-        },
-        {
-          "name": "Jason Ricci",
-          "url": "https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN"
-        }
-      ],
-      "duration_ms": 217376,
-      "name": "Can't Believe It's This Good",
-      "url": "https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -719,6 +699,26 @@
       "duration_ms": 548440,
       "name": "Bad Boys Heaven",
       "url": "https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Dirty Memory",
+        "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
+      },
+      "artists": [
+        {
+          "name": "JJ Appleton",
+          "url": "https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE"
+        },
+        {
+          "name": "Jason Ricci",
+          "url": "https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN"
+        }
+      ],
+      "duration_ms": 217376,
+      "name": "Can't Believe It's This Good",
+      "url": "https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe"
     },
     {
       "added_at": "2020-10-22 17:19:34",

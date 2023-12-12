@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 32957,
+  "num_followers": 32970,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWQ5MmNmYWYzYzMyZDM4ODA1ZmFhNjZjNjg2MDI0YmRkYzM2YjJm",
+  "snapshot_id": "MCxiZWM3Yjc5ZTg1MzU2NzFiZDE2ZjliNTZlOGMzMTBiMmIxZDhlYmFh",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -171,6 +171,30 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Soweto Blues",
+        "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 298997,
+      "name": "Soweto Blues",
+      "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -211,30 +235,6 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Soweto Blues",
-        "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Busiswa",
-          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 298997,
-      "name": "Soweto Blues",
-      "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 327231,
-      "name": "Rainbow Road",
-      "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Nubya's 5ive",
         "url": "https://open.spotify.com/album/6gVTOEeb9Hd1EO4A6kYEOE"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 458605,
       "name": "Lost Kingdoms",
       "url": "https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 327231,
+      "name": "Rainbow Road",
+      "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -763,18 +763,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+        "name": "Umama - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw"
       },
       "artists": [
         {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
         }
       ],
-      "duration_ms": 346361,
-      "name": "Aletheia",
-      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
+      "duration_ms": 244928,
+      "name": "Umama - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -803,18 +803,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Umama - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw"
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
       },
       "artists": [
         {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
         }
       ],
-      "duration_ms": 244928,
-      "name": "Umama - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN"
+      "duration_ms": 346361,
+      "name": "Aletheia",
+      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",

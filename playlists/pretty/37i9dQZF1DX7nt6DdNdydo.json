@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 46707,
+  "num_followers": 46729,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjE5MmQ3YjYxZWFjMWI2MjM0YjEyMTQ2NmVkYjhiMWU3M2M3Y2Qz",
+  "snapshot_id": "MCxiOWM3MjJmODExOGFhMTMxOWExOTU2MGRjN2ZiMjg4ZjliN2NlZDBi",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 145443,
+      "name": "Lovin' Machine",
+      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "The EP Collection",
         "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 153573,
       "name": "Soft",
       "url": "https://open.spotify.com/track/5u87THoJXo4YgI7pxjwaqI"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Boogie At Midnight",
-        "url": "https://open.spotify.com/album/3TlIlU1oNMJkDNxZ53OgKC"
-      },
-      "artists": [
-        {
-          "name": "Roy Brown",
-          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
-        }
-      ],
-      "duration_ms": 143230,
-      "name": "Mighty Mighty Man",
-      "url": "https://open.spotify.com/track/5tBDBrsPypLVJ9Rbpy3MNm"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 145443,
-      "name": "Lovin' Machine",
-      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -243,6 +227,38 @@
       "duration_ms": 170533,
       "name": "Going Back To New Orleans",
       "url": "https://open.spotify.com/track/15UtASGoJcuIZlLRTUGYVZ"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Boogie At Midnight",
+        "url": "https://open.spotify.com/album/3TlIlU1oNMJkDNxZ53OgKC"
+      },
+      "artists": [
+        {
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
+        }
+      ],
+      "duration_ms": 143230,
+      "name": "Mighty Mighty Man",
+      "url": "https://open.spotify.com/track/5tBDBrsPypLVJ9Rbpy3MNm"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 160827,
+      "name": "Bloodshot Eyes",
+      "url": "https://open.spotify.com/track/4w873lwWDABniYU2MOaXYQ"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -295,6 +311,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Roy Milton And His Solid Senders",
+        "url": "https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO"
+      },
+      "artists": [
+        {
+          "name": "Roy Milton",
+          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Big Fat Mama",
+      "url": "https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "The EP Collection",
         "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
       },
@@ -311,22 +343,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 160827,
-      "name": "Bloodshot Eyes",
-      "url": "https://open.spotify.com/track/4w873lwWDABniYU2MOaXYQ"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
         "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 334360,
       "name": "Saturday Night Fish Fry - Pts. 1 & 2",
       "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Roy Milton And His Solid Senders",
-        "url": "https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO"
-      },
-      "artists": [
-        {
-          "name": "Roy Milton",
-          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Big Fat Mama",
-      "url": "https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -415,18 +415,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Jump Blue: Rockin' The Jukes",
-        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
       },
       "artists": [
         {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
         }
       ],
-      "duration_ms": 124333,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
+      "duration_ms": 135853,
+      "name": "Shake That Thing",
+      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
+        "name": "Jump Blue: Rockin' The Jukes",
+        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
       },
       "artists": [
         {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
         }
       ],
-      "duration_ms": 135853,
-      "name": "Shake That Thing",
-      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
+      "duration_ms": 124333,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Keep On Churnin' (Till The Butter Come)",
-      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Joe Williams' Finest Hour",
         "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 371893,
       "name": "Is You Is Or Is You Ain't My Baby",
       "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Keep On Churnin' (Till The Butter Come)",
+      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
     },
     {
       "added_at": "2022-03-28 19:44:25",

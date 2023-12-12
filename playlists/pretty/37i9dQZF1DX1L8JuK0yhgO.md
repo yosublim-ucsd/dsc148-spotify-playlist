@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,307 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,311 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Toxic Love](https://open.spotify.com/track/2Oa8yH2CacmF1jYEEbfqpB) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH) | [Toxic Love](https://open.spotify.com/album/2XXdrTRRcnmWrIgsyNtIV4) | 5:34 |
 | 60 | [FCKNJP](https://open.spotify.com/track/5txPLu9suP8msI1sVUApbV) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [FCKNJP](https://open.spotify.com/album/7gT7u7jM7N5w4TPrxaSDzm) | 3:27 |
 
-Snapshot ID: `MCwwODIxYTg5MWQzYzA0YmU3YTg3MWY2ZTA3MGIzMjA2ZDMxY2UzYjkx`
+Snapshot ID: `MCxhMGEwYjdlOGFkZjBkOTM3YWNmODcyZDdiNzliMzBhNTZlYzI0NjQy`

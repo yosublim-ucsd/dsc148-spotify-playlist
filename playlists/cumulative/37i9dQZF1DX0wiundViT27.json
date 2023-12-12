@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235613,
+      "name": "Bored to Death",
+      "url": "https://open.spotify.com/track/12YGKHMw1l36tXlgU2Vrjj"
+    },
+    {
+      "album": {
         "name": "Bored To Death",
         "url": "https://open.spotify.com/album/7fLWWLAmqWQh2xk3mFX4I5"
       },
@@ -2700,7 +2718,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 217187,
       "name": "MORE THAN YOU KNOW",
       "url": "https://open.spotify.com/track/6apKpbDebOi4RXhmcgOCNz"

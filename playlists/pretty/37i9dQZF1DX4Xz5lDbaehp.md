@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,922 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,919 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 84 | [sophomore sweetheart](https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [sophomore sweetheart](https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv) | 3:37 |
 | 85 | [Since I Got On](https://open.spotify.com/track/47ZtiCCEmSBMwUqNwlA400) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [fernospazzin](https://open.spotify.com/artist/6O9CfRjEddj1DVd3G2CE7l) | [Since I Got On](https://open.spotify.com/album/5IoTaH8PUjcp2hTL40lCJp) | 2:40 |
 | 86 | [we made it.](https://open.spotify.com/track/6IZcstDyHttGulqxPpY7xe) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Blossom Hill](https://open.spotify.com/album/13zctNY8KiJPH0H6iaQMED) | 2:44 |
-| 87 | [Oh, But Lover](https://open.spotify.com/track/3bHeVMbA84wmuHr5p2POrp) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/1OeU8CeNl7tLWNWrKTQ8QO) | 4:04 |
+| 87 | [Oh, But Lover](https://open.spotify.com/track/58Sk3DtxUNtE3B2H0yGObE) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/7F2YDpbOx9HBlJc8n8rSoJ) | 4:04 |
 | 88 | [All Made Up](https://open.spotify.com/track/3L5dOP6Ihkg8dxkMzxJUuc) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4jCnOBRxxucPjnNMr1NYGK) | 4:10 |
 | 89 | [Trap Salsa](https://open.spotify.com/track/736NMAWokZxwV7oLQzj8OH) | [NOKKI CABRERA](https://open.spotify.com/artist/1UBVQhdDEHGqhMYpUFSM29) | [TRAP SALSA](https://open.spotify.com/album/71ppda8M3GxuTJPy4CwJCc) | 2:57 |
 | 90 | [Still Not Made It](https://open.spotify.com/track/6FG7ys3vNRSrTEdE4EnpDo) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Still Not Made It](https://open.spotify.com/album/1RaQ9qJJGREcwBNAXCnp6n) | 3:14 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MCxhM2Q2M2E5NmI4YWUwMTVmYWFkNGIwOWRjNWI0YzhlYzZmNjczZTBj`
+Snapshot ID: `MCw3ZmQ4NDliNjZkZmNjZmJmYWJiOGNkZWZhNmZkNzk5ZmZiNDMzNjUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1x6GrB4XNiHiMCA2ADWjUZ.md) - [plain]
 
 > Fuel your workouts with a collection of high\-energy and motivating tracks!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 6,873 likes - 53 songs - 2 hr 37 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 6,872 likes - 53 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

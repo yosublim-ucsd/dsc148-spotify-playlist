@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 421256,
+  "num_followers": 421362,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YThmMzk4NzhiMmM3MGFjN2Y1NzUyNmJhNzYwYWRlMTkyOTczOTY0",
+  "snapshot_id": "MCwxOWIyNTkwNTVkODcxNjEwNGZiOWNhMzVkY2M2NTJlNTUxNjM2YTky",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Schlagenheim",
-        "url": "https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN"
-      },
-      "artists": [
-        {
-          "name": "black midi",
-          "url": "https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL"
-        }
-      ],
-      "duration_ms": 296746,
-      "name": "bmbmbm",
-      "url": "https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Schlagenheim",
+        "url": "https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN"
+      },
+      "artists": [
+        {
+          "name": "black midi",
+          "url": "https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL"
+        }
+      ],
+      "duration_ms": 296746,
+      "name": "bmbmbm",
+      "url": "https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Services",
         "url": "https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 316899,
       "name": "My Cosmos Is Mine",
       "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "A Different Arrangement",
-        "url": "https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG"
-      },
-      "artists": [
-        {
-          "name": "Black Marble",
-          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
-        }
-      ],
-      "duration_ms": 224180,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/4wo2FC3qqvi1gDKJZg4Boc"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "It Was Gone",
         "url": "https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 307069,
       "name": "It Was Gone",
       "url": "https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "A Different Arrangement",
+        "url": "https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG"
+      },
+      "artists": [
+        {
+          "name": "Black Marble",
+          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
+        }
+      ],
+      "duration_ms": 224180,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/4wo2FC3qqvi1gDKJZg4Boc"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "When I Have Fears",
-        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 241332,
-      "name": "Slowdance I",
-      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Serfs Up!",
         "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 342538,
       "name": "Tastes Good With The Money",
       "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "When I Have Fears",
+        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 241332,
+      "name": "Slowdance I",
+      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
     },
     {
       "added_at": "2023-11-03 23:08:22",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=LE\_AWnYITxmEyJm2j\-RCpQ">Davido</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,500 likes - 65 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,521 likes - 65 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ) | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH) | 2:54 |
 | 2 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:51 |
-| 3 | [Man Down](https://open.spotify.com/track/61eUczFKcjmdfX5FtFUpyW) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 4:04 |
+| 3 | [Man Down](https://open.spotify.com/track/61eUczFKcjmdfX5FtFUpyW) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 4:04 |
 | 4 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 |
 | 5 | [Test My Patience](https://open.spotify.com/track/2b9M5HCxQfO2eW9QrkjKcI) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Test My Patience](https://open.spotify.com/album/4eZBROOHJS10x63PWPZuvy) | 3:09 |
 | 6 | [Maria](https://open.spotify.com/track/3c1dmfIGuGXSKtQGejjc2T) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Maria](https://open.spotify.com/album/6jlHvs6KPAfRC2UBMZlOWs) | 3:07 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 64 | [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 |
 | 65 | [Ghana](https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM) | [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Ghana](https://open.spotify.com/album/2qjTD6OsQqyry3q7J0yETh) | 4:11 |
 
-Snapshot ID: `MCw0YzRmNzBmYzQwMDBmYjE4MWQ4OGEwOTNmMDAzMDk2NzQ5N2ZkMjI5`
+Snapshot ID: `MCw4ODc4MzVkOWYzMjU1ZDA4YTBlZjliYzQ2OWU0YzRkNzJhNDAxMTgy`

@@ -1455,6 +1455,32 @@
     },
     {
       "album": {
+        "name": "Sirens (feat. Caroline Polachek) [Sofia Kourtesis Remix]",
+        "url": "https://open.spotify.com/album/5lDEJQDkYqDwowD9ENcPG8"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275121,
+      "name": "Sirens (feat. Caroline Polachek) [Sofia Kourtesis Remix]",
+      "url": "https://open.spotify.com/track/6ef8fMWzwo7UItuHeJ98ql"
+    },
+    {
+      "album": {
         "name": "Palaces : The Remixes, Pt. 2",
         "url": "https://open.spotify.com/album/40p5qaIMZREYF9S6vKzFf5"
       },
@@ -1474,7 +1500,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 275121,
       "name": "Sirens (feat. Caroline Polachek) [Sofia Kourtesis Remix]",
       "url": "https://open.spotify.com/track/1KHY07C9hNsaQGvNRa7lK2"

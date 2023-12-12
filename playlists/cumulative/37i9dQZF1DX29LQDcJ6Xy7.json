@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 243814,
       "name": "I Am Nothing",
       "url": "https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx"
@@ -2068,6 +2068,24 @@
       "duration_ms": 187422,
       "name": "Justice Way",
       "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/3Rl2iVccsforOkAyvahXa0"
+      },
+      "artists": [
+        {
+          "name": "Processor",
+          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187422,
+      "name": "Justice Way",
+      "url": "https://open.spotify.com/track/6gshopMLlSl0KP4ZNHp7qw"
     },
     {
       "album": {

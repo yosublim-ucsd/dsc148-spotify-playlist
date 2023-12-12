@@ -4,7 +4,7 @@
 
 > Country hits that will have you singing every word\. Cover: Riley Green
 
-279 songs - 15 hr 10 min
+280 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2023-11-10 |  |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-07-21 |  |
 | [Day Drunk](https://open.spotify.com/track/7nGuT0EfqQ1TXcADEKwB6Q) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 3:14 | 2022-11-15 | 2023-07-22 |
+| [Daylight Savings](https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [If We Were A Love Song](https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx) | 2:47 | 2023-12-08 |  |
 | [Daylight Savings](https://open.spotify.com/track/4MQ3oCdmDXeXizWdYxdPM3) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Daylight Savings](https://open.spotify.com/album/7jsv9bvXyQpHw0fXynMtKf) | 2:47 | 2023-09-22 | 2023-11-25 |
-| [Daylight Savings](https://open.spotify.com/track/5sNgfXPdcRqpF27qjaxZFV) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Beautiful Thing](https://open.spotify.com/album/70cGCG1fpSqwNbO1XRp4OQ) | 2:47 | 2023-11-24 |  |
+| [Daylight Savings](https://open.spotify.com/track/5sNgfXPdcRqpF27qjaxZFV) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Beautiful Thing](https://open.spotify.com/album/70cGCG1fpSqwNbO1XRp4OQ) | 2:47 | 2023-11-24 | 2023-12-12 |
 | [Dear Alcohol](https://open.spotify.com/track/3HgmGFYiO8967EFji8CSdM) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Dear Alcohol](https://open.spotify.com/album/6TtLuu7MV4ptXoXBCIq6xL) | 3:56 | 2022-07-21 | 2023-08-21 |
 | [Dear Alcohol](https://open.spotify.com/track/7Bg1pphdvxWtvYqGGdqSOk) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [What is life?](https://open.spotify.com/album/7ykz0afInygEfdlOVuDy70) | 3:56 | 2023-08-25 | 2023-10-21 |
 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 | 2022-07-21 | 2023-08-05 |

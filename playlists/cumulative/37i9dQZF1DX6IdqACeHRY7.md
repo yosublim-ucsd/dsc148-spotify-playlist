@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-383 songs - 22 hr 16 min
+384 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Moonlight](https://open.spotify.com/track/6Lx8iWqYzIT5hnuriaGCY9) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Moonlight](https://open.spotify.com/album/7xe4K8R3RaC5405EABFdTM) | 3:31 | 2020-10-06\* | 2022-10-13 |
 | [Must Have Been The Wind](https://open.spotify.com/track/6lERHAmBCZmgODv3OYENXi) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 2:57 | 2022-05-09 |  |
 | [Must Have Been The Wind](https://open.spotify.com/track/1PsMieVYFXrSeXMxuE2SbG) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Must Have Been The Wind](https://open.spotify.com/album/0A5GgdYeE7UJDnBeXuZWma) | 2:59 | 2020-10-06\* | 2021-10-16 |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-12-11 |  |
 | [My Side \- Acoustic](https://open.spotify.com/track/6X2olHkmEtmBXP8rvXDijE) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [My Side \(Acoustic\)](https://open.spotify.com/album/4gghJ4xqEX3KFvmSEvoPTM) | 2:48 | 2021-05-22 | 2021-10-14 |
 | [Nattely](https://open.spotify.com/track/2ySo8G1HaHvgqual8p2Nti) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Nattely](https://open.spotify.com/album/6ZbsGkNQtTQXQ2sEf5BTo7) | 3:31 | 2021-12-09 | 2023-01-06 |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 | 2022-05-09 |  |
@@ -372,7 +373,7 @@
 | [Wild Love](https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:17 | 2022-05-09 |  |
 | [Wild Love](https://open.spotify.com/track/6JnRLa50GuHzF0ucg9AGMI) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love](https://open.spotify.com/album/5c9YBir9B4KdAOJZH4k5xw) | 3:17 | 2021-05-22 | 2021-10-16 |
 | [Wildfire \- Alternate Version](https://open.spotify.com/track/1afyMOxQCyfxUOSrCkStsy) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/1xntJyNQRAflZzEY1QRjLg) | 3:53 | 2021-05-25 | 2021-10-14 |
-| [Wildfire \- Alternate Version](https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY) | 3:53 | 2022-05-09 |  |
+| [Wildfire \- Alternate Version](https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY) | 3:53 | 2022-05-09 | 2023-12-12 |
 | [Wish I Was Right For You](https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg) | [Wish I Was Right For You](https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR) | 3:02 | 2020-10-06\* | 2022-11-13 |
 | [Worst In Me](https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 3:22 | 2022-05-09 |  |
 | [Worst In Me](https://open.spotify.com/track/3rK43VNP0142Kbxt8nuAhD) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/22aqlgX39cWQMWazg9qwuv) | 3:26 | 2021-05-22 | 2021-10-16 |

@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 141722,
       "name": "Crickets Singing in the Rain",
       "url": "https://open.spotify.com/track/3vZDRvQcdxROqj6E5WxK63"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Humid Trail",
       "url": "https://open.spotify.com/track/0sXVczy0THItL74ACWvRdF"
@@ -740,6 +740,24 @@
       "duration_ms": 232000,
       "name": "Jungle Night Sounds",
       "url": "https://open.spotify.com/track/2WPt88T68DH3UFhIveodsx"
+    },
+    {
+      "album": {
+        "name": "Calming Rainforest Paradise",
+        "url": "https://open.spotify.com/album/1E7KduKpRq5w5iEYZujOVS"
+      },
+      "artists": [
+        {
+          "name": "The Forest Escape",
+          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Jungle Nights",
+      "url": "https://open.spotify.com/track/1Bk9iW9gtzgLzLLizWaBxO"
     },
     {
       "album": {
@@ -934,7 +952,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 212000,
       "name": "Meet Me In The Woods",
       "url": "https://open.spotify.com/track/7wYt8tyEAcA9UFsM0vx8Pi"

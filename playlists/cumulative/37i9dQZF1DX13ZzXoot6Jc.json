@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "If We Were A Love Song",
+        "url": "https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "Daylight Savings",
+      "url": "https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit"
+    },
+    {
+      "album": {
         "name": "Daylight Savings",
         "url": "https://open.spotify.com/album/7jsv9bvXyQpHw0fXynMtKf"
       },
@@ -892,7 +910,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 167333,
       "name": "Daylight Savings",
       "url": "https://open.spotify.com/track/5sNgfXPdcRqpF27qjaxZFV"

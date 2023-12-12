@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 76004,
+  "num_followers": 76050,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDNiYjZhOGI5ZDY5NDVkYjkyZDcwYjI2NDJiMDg2Y2EwMmMxZDk3",
+  "snapshot_id": "MCxlYzdmNzE3MDFmZDM1MDE0YThkOTQwMDNlMGRlZDdjNGJiNjllODZj",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -551,6 +551,26 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "Yoga",
+        "url": "https://open.spotify.com/album/3jGiYAECmbxAsnF7Z7o8Nw"
+      },
+      "artists": [
+        {
+          "name": "Only Fire",
+          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
+        },
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "Yoga",
+      "url": "https://open.spotify.com/track/0tsYFj9sMgKtCbCaBMbRyv"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "Dance Trax, Vol. 36",
         "url": "https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 166990,
       "name": "I'm Perfect",
       "url": "https://open.spotify.com/track/3YK1uAScUpCaFNCn004pm6"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "Yoga",
-        "url": "https://open.spotify.com/album/3jGiYAECmbxAsnF7Z7o8Nw"
-      },
-      "artists": [
-        {
-          "name": "Only Fire",
-          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
-        },
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        }
-      ],
-      "duration_ms": 179104,
-      "name": "Yoga",
-      "url": "https://open.spotify.com/track/0tsYFj9sMgKtCbCaBMbRyv"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Make You Scream",
-        "url": "https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46"
-      },
-      "artists": [
-        {
-          "name": "VTSS",
-          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
-        }
-      ],
-      "duration_ms": 163909,
-      "name": "Make You Scream",
-      "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
         "name": "Horsey",
         "url": "https://open.spotify.com/album/7dlCLHgCNz5vyliNZf8XNv"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 137206,
       "name": "Horsey",
       "url": "https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "Make You Scream",
+        "url": "https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "duration_ms": 163909,
+      "name": "Make You Scream",
+      "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -803,30 +803,6 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "SEXORCISM",
-        "url": "https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv"
-      },
-      "artists": [
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 178203,
-      "name": "FMU",
-      "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
         "name": "Hoe",
         "url": "https://open.spotify.com/album/3WVWxLyo3jYBbUi2orG7RF"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 237109,
       "name": "Bunny Is A Rider - Doss Remix",
       "url": "https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "SEXORCISM",
+        "url": "https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 178203,
+      "name": "FMU",
+      "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
     },
     {
       "added_at": "2023-07-24 14:56:33",

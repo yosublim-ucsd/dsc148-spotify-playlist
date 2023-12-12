@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,353 likes - 52 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,380 likes - 52 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 2 | [No Good For Me](https://open.spotify.com/track/0L0n5Yx0nVMeUjLmgvhyWi) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq) | 3:35 |
 | 3 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 |
 | 4 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
-| 5 | [The Worry](https://open.spotify.com/track/7hYPLCXAAf9AHy7Uv6v1fZ) | [Seekae](https://open.spotify.com/artist/4lCsf6uYTVnWSKm99eKkdY) | [The Worry](https://open.spotify.com/album/7Jp2TvcFSRvEDgNnaYLAdW) | 5:48 |
+| 5 | [The Worry](https://open.spotify.com/track/5nbcRryUdXIsfILEXMFGDK) | [Seekae](https://open.spotify.com/artist/4lCsf6uYTVnWSKm99eKkdY) | [The Worry](https://open.spotify.com/album/7ytIchDIk21osbT3cuVp8n) | 5:48 |
 | 6 | [Donpar Le Cuivre Tiens Moi Juteux](https://open.spotify.com/track/0d8xUFJbuUeGQx7lgfAP0f) | [Mézigue](https://open.spotify.com/artist/7B8eMhFI61FTQYeLSERF0l) | [Donpar Le Cuivre Tiens Moi Juteux](https://open.spotify.com/album/4bSXhmHEBTH9TjIQoFpkwj) | 5:20 |
 | 7 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 |
 | 8 | [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 51 | [Love Loop To Fade](https://open.spotify.com/track/2tFR5NPXOFszGPGcrAazJB) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 2:03 |
 | 52 | [COPY COPY \- Logic1000 & Big Ever Remix](https://open.spotify.com/track/5QglfG3SyT9ZHFTtcxA0FK) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:15 |
 
-Snapshot ID: `MCw1MjA1ZDdiNjZkOTI4ZDUyNDE5ZjIzNDk0NGQyYzAxYmRlYzQzN2M2`
+Snapshot ID: `MCxlM2IzNjZkN2M2NTA2N2M2ZjI2ZjI4NmMzZjU0NmU2MzllOWM1M2Y5`

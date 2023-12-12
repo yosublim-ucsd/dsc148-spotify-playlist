@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 21586,
+  "num_followers": 21591,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDg2YjM2ZmUwZmQxMTc0YzhhYmE1ZTM5ODExY2FmNmJjNWJjZmEz",
+  "snapshot_id": "MCw1NjU3MzBkZGI5YzdhMWMyMjM0N2RhZTM3NjBmMGQ0YTdkNWIyZTU3",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Blowin' Like Hell",
-        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+        "name": "Hound Dog Taylor and The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
       },
       "artists": [
         {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
         }
       ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
+      "duration_ms": 219066,
+      "name": "Wild About You, Baby",
+      "url": "https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+      },
+      "artists": [
+        {
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+        }
+      ],
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "3rd Degree (Remastered)",
         "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 395800,
       "name": "Third Degree - Remastered",
       "url": "https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Hound Dog Taylor and The Houserockers",
-        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor & The HouseRockers",
-          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
-        }
-      ],
-      "duration_ms": 219066,
-      "name": "Wild About You, Baby",
-      "url": "https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "West Side Strut",
-        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
-      },
-      "artists": [
-        {
-          "name": "Eddy Clearwater",
-          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
-        }
-      ],
-      "duration_ms": 280440,
-      "name": "Gotta Move On",
-      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "Frostbite",
         "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
       },
@@ -355,6 +339,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "West Side Strut",
+        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
+      },
+      "artists": [
+        {
+          "name": "Eddy Clearwater",
+          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
+        }
+      ],
+      "duration_ms": 280440,
+      "name": "Gotta Move On",
+      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "The Son Seals Blues Band",
         "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 276000,
       "name": "Your Love Is Like A Cancer",
       "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "Evil On My Mind - Remastered",
-      "url": "https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -431,22 +415,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Roots And Branches - The Songs Of Little Walter",
-        "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
       },
       "artists": [
         {
-          "name": "Billy Branch",
-          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
-        },
-        {
-          "name": "Billy Branch & The Sons of Blues",
-          "url": "https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 187186,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
+      "duration_ms": 141373,
+      "name": "Evil On My Mind - Remastered",
+      "url": "https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -467,6 +447,26 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Roots And Branches - The Songs Of Little Walter",
+        "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
+      },
+      "artists": [
+        {
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
+        },
+        {
+          "name": "Billy Branch & The Sons of Blues",
+          "url": "https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Wander This World",
         "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
       },
@@ -479,26 +479,6 @@
       "duration_ms": 210973,
       "name": "Cherry Red Wine",
       "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Meet Me In Bluesland",
-        "url": "https://open.spotify.com/album/6AOvEQvCDRMkymHKKOn0ZS"
-      },
-      "artists": [
-        {
-          "name": "The Kentucky Headhunters",
-          "url": "https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY"
-        },
-        {
-          "name": "Johnnie Johnson",
-          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "Walking With The Wolf",
-      "url": "https://open.spotify.com/track/1scXvckUDN7ViQDPB77MqJ"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -519,6 +499,26 @@
       "duration_ms": 227373,
       "name": "Cotton Mouth Man",
       "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Meet Me In Bluesland",
+        "url": "https://open.spotify.com/album/6AOvEQvCDRMkymHKKOn0ZS"
+      },
+      "artists": [
+        {
+          "name": "The Kentucky Headhunters",
+          "url": "https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY"
+        },
+        {
+          "name": "Johnnie Johnson",
+          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "Walking With The Wolf",
+      "url": "https://open.spotify.com/track/1scXvckUDN7ViQDPB77MqJ"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Alligator Records 45th Anniversary Collection",
-        "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Common Ground",
-      "url": "https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "Cotton Mouth Man",
         "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 201626,
       "name": "Never Trust A Man",
       "url": "https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Alligator Records 45th Anniversary Collection",
+        "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh"
     },
     {
       "added_at": "2023-05-17 15:52:13",

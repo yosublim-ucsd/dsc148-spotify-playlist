@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 392748,
+  "num_followers": 392938,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWFiOWJhOTE3MmY4NGMyZmIxZTQ1ZTE5MDgzZmRmNTAxNzgwZmNl",
+  "snapshot_id": "MCw5MmQyZGRmZDliNjNlZTY4MTMzOWRiNzVhYjZiNTRlNGQ0ZWFkZjg3",
   "tracks": [
     {
       "added_at": "2023-12-04 22:42:21",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "land in sight",
-        "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
-      },
-      "artists": [
-        {
-          "name": "Alfons Daiminger",
-          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "land in sight",
-      "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "For A Moment",
         "url": "https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 201874,
       "name": "For A Moment",
       "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "land in sight",
+        "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "land in sight",
+      "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "Waitings",
-        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
+        "name": "Hearts of Desire",
+        "url": "https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb"
       },
       "artists": [
         {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
         }
       ],
-      "duration_ms": 139411,
-      "name": "Waitings",
-      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
+      "duration_ms": 139312,
+      "name": "Hearts of Desire",
+      "url": "https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "Hearts of Desire",
-        "url": "https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb"
-      },
-      "artists": [
-        {
-          "name": "Cole Neumann",
-          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
-        }
-      ],
-      "duration_ms": 139312,
-      "name": "Hearts of Desire",
-      "url": "https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "Cataverdis",
         "url": "https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 149629,
       "name": "Cataverdis",
       "url": "https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "Waitings",
+        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 139411,
+      "name": "Waitings",
+      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
-      },
-      "artists": [
-        {
-          "name": "Elijah Reeves",
-          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "Window Seat",
         "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 145120,
       "name": "Window Seat",
       "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
+      },
+      "artists": [
+        {
+          "name": "Elijah Reeves",
+          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 199166,
-      "name": "The Tree",
-      "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 172500,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "The Tree",
+      "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "Wreszcie",
-        "url": "https://open.spotify.com/album/68AlPgfClESbRVI28gvegI"
-      },
-      "artists": [
-        {
-          "name": "Zuzana Kudov\u00e1",
-          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
-        }
-      ],
-      "duration_ms": 175825,
-      "name": "Wreszcie",
-      "url": "https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "Elysian",
         "url": "https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 139375,
       "name": "Elysian",
       "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "Wreszcie",
+        "url": "https://open.spotify.com/album/68AlPgfClESbRVI28gvegI"
+      },
+      "artists": [
+        {
+          "name": "Zuzana Kudov\u00e1",
+          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
+        }
+      ],
+      "duration_ms": 175825,
+      "name": "Wreszcie",
+      "url": "https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "Onward",
-        "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
-      },
-      "artists": [
-        {
-          "name": "Remi Sinclair",
-          "url": "https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Onward",
-      "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "Luce",
         "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 130403,
       "name": "Luce",
       "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "Onward",
+        "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
+      },
+      "artists": [
+        {
+          "name": "Remi Sinclair",
+          "url": "https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Onward",
+      "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "The Coming Day",
-        "url": "https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa"
-      },
-      "artists": [
-        {
-          "name": "Jack Pelayo",
-          "url": "https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG"
-        }
-      ],
-      "duration_ms": 152518,
-      "name": "The Coming Day",
-      "url": "https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "Peace flow",
         "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 137692,
       "name": "Peace flow",
       "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "The Coming Day",
+        "url": "https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa"
+      },
+      "artists": [
+        {
+          "name": "Jack Pelayo",
+          "url": "https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG"
+        }
+      ],
+      "duration_ms": 152518,
+      "name": "The Coming Day",
+      "url": "https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "Balloon",
-        "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Balloon",
-      "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 156000,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "Balloon",
+        "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 197750,
+      "name": "Balloon",
+      "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "Azalea",
-        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 143750,
-      "name": "Azalea",
-      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "Release from silence",
         "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 137642,
       "name": "Release from silence",
       "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 143750,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "Felt Improv No. 4",
-        "url": "https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4"
-      },
-      "artists": [
-        {
-          "name": "Elias Kiefer",
-          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
-        }
-      ],
-      "duration_ms": 125500,
-      "name": "Felt Improv No. 4",
-      "url": "https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "Act Of Reconciling",
         "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 143400,
       "name": "Act Of Reconciling",
       "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "Felt Improv No. 4",
+        "url": "https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4"
+      },
+      "artists": [
+        {
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+        }
+      ],
+      "duration_ms": 125500,
+      "name": "Felt Improv No. 4",
+      "url": "https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "Lofoten",
-        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
-      },
-      "artists": [
-        {
-          "name": "Otto Noir",
-          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
-        }
-      ],
-      "duration_ms": 161913,
-      "name": "Lofoten",
-      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "Lofoten",
+        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "duration_ms": 161913,
+      "name": "Lofoten",
+      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "Tranquillity waltz",
-        "url": "https://open.spotify.com/album/3QMb20fXVrYo4PcZVlkmbq"
-      },
-      "artists": [
-        {
-          "name": "Thomas Perceval",
-          "url": "https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5"
-        }
-      ],
-      "duration_ms": 118624,
-      "name": "Tranquillity waltz",
-      "url": "https://open.spotify.com/track/4httQXCwO5j2i57mmJZvFL"
-    },
-    {
-      "added_at": "2023-12-04 22:42:21",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2023-12-04 22:42:21",
       "album": {
-        "name": "Printemps",
-        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
+        "name": "Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
       "artists": [
         {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+          "name": "J\u00f8rg Sorensen",
+          "url": "https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b"
         }
       ],
-      "duration_ms": 137424,
-      "name": "Printemps",
-      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
+      "duration_ms": 127250,
+      "name": "Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
     },
     {
       "added_at": "2023-12-04 22:42:21",
@@ -1611,6 +1595,22 @@
       "duration_ms": 147507,
       "name": "A Place To Hide",
       "url": "https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y"
+    },
+    {
+      "added_at": "2023-12-04 22:42:21",
+      "album": {
+        "name": "Printemps",
+        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "duration_ms": 137424,
+      "name": "Printemps",
+      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
     }
   ],
   "unique_name": "Coffee and Piano",

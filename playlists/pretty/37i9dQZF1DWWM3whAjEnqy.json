@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 40448,
+  "num_followers": 40456,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjY1NmExODEyMDFhYmI5NDI0M2Q5ZjRiMTRjYmYwNDAxODY1ZWU1",
+  "snapshot_id": "MCw3ZGU0Yjk5NTk1MDExZmU4MWE4Y2RjNGM3OWE0ZWEwODRjZGMwZDk2",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
       },
@@ -239,38 +255,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Simply Paradise",
         "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 155695,
       "name": "Simply Paradise",
       "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6SGoFZFKjF1ZbGDkImEaS7"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Land & Sea",
         "url": "https://open.spotify.com/album/7pxSTUp39k2AOxRDb4ahhR"
       },
@@ -359,18 +343,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 215493,
-      "name": "Lay It on Me",
-      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
+      "duration_ms": 202440,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6SGoFZFKjF1ZbGDkImEaS7"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -407,22 +391,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Baby Come Back (triple j Like A Version)",
         "url": "https://open.spotify.com/album/6xMXgNfeyiLo3jPfk19aRc"
       },
@@ -439,18 +407,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 206360,
-      "name": "We're Going Home",
-      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -471,6 +439,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Lay It on Me",
+      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Waking Up Easy",
         "url": "https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx"
       },
@@ -483,22 +467,6 @@
       "duration_ms": 236808,
       "name": "Waking Up Easy",
       "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "White Water",
-        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "White Water",
-      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -519,6 +487,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Millionaire",
+        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 138190,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "White Water",
+        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "White Water",
+      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 194000,
       "name": "Skin",
       "url": "https://open.spotify.com/track/1LdGcv246dZ321xFTrNUIe"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Millionaire",
-        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 138190,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -595,6 +579,22 @@
       "duration_ms": 254465,
       "name": "The Sun Comes Up",
       "url": "https://open.spotify.com/track/6aNVEIjxBi4gm0t1CFg7uk"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "We're Going Home",
+      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "14 Steps To A Better You",
         "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "A Book Like This",
-        "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Mango Tree",
-      "url": "https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT"
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1127,6 +1111,22 @@
       "duration_ms": 209656,
       "name": "Black Lagoon",
       "url": "https://open.spotify.com/track/6wRFl2hcs3sPkYN4pgqTl1"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Mango Tree",
+      "url": "https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Sponge Cake",
-        "url": "https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 245687,
-      "name": "Be About You",
-      "url": "https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Moonfire",
         "url": "https://open.spotify.com/album/3UsAObHERCrshH20RiicHG"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "The Art of Escape",
-        "url": "https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn"
+        "name": "Sponge Cake",
+        "url": "https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov"
       },
       "artists": [
         {
-          "name": "Hein Cooper",
-          "url": "https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0"
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 198582,
-      "name": "Rusty",
-      "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
+      "duration_ms": 245687,
+      "name": "Be About You",
+      "url": "https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1239,6 +1223,22 @@
       "duration_ms": 197594,
       "name": "Believe (Triple J Like A Version)",
       "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "The Art of Escape",
+        "url": "https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn"
+      },
+      "artists": [
+        {
+          "name": "Hein Cooper",
+          "url": "https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "Rusty",
+      "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/3DasFU2wqxdxyV6Wbm8SHI"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 237377,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/3DasFU2wqxdxyV6Wbm8SHI"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "White Moth",
-        "url": "https://open.spotify.com/album/2qUM67vpnB4wehzTRik1uc"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Better People",
-      "url": "https://open.spotify.com/track/1k9fcGWwrnyuij2Lvd3OHs"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Vantage Point",
         "url": "https://open.spotify.com/album/0brAypU3M5W90PnDBs0aGH"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 179642,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/2XXWxbULM7crzDMiXgcw4Q"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "HOPE Campaign Tribute Album 2010",
+        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "La Mar",
+      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
     }
   ],
   "unique_name": "Coast to Coast",

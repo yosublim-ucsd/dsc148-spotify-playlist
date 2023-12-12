@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 230721,
+  "num_followers": 230715,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWNmZTI3ZjdkYjU5NmExMWUzMTQzODUyYmRiNDRjMWI0ZTk3ZjU5",
+  "snapshot_id": "MCwyNTA0NTJmMmE1M2U4YjJiMGVlM2ExMDU0YWY3ZDNhMDhmMjA0YmFm",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -379,38 +379,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 220320,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/1NLv2AywCBibMUaGLKj5B4"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Latin Grooves - Samba",
-        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Keti",
-          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
-        }
-      ],
-      "duration_ms": 123760,
-      "name": "A Voz do Morro",
-      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Sambabook Jo\u00e3o Nogueira, 2",
         "url": "https://open.spotify.com/album/72PzoPL30DnS51nE6UMzfH"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 278853,
       "name": "Clube do Samba",
       "url": "https://open.spotify.com/track/6NV8IxFmG9cPtnZqQwulAy"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/1NLv2AywCBibMUaGLKj5B4"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Latin Grooves - Samba",
+        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Keti",
+          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
+        }
+      ],
+      "duration_ms": 123760,
+      "name": "A Voz do Morro",
+      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Mais Feliz",
-        "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 224376,
-      "name": "Dependente Do Amor",
-      "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Sambista Perfeito",
         "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 216933,
       "name": "Menina Voc\u00ea Bebeu",
       "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Mais Feliz",
+        "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 224376,
+      "name": "Dependente Do Amor",
+      "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
-        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Nogueira",
-          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Boteco do Arlindo",
-      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "De M\u00e3os Dadas",
         "url": "https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 174000,
       "name": "Promessa",
       "url": "https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
+        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Nogueira",
+          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Boteco do Arlindo",
+      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Da M\u00fasica",
-        "url": "https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM"
-      },
-      "artists": [
-        {
-          "name": "Arlindo Cruz & Sombrinha",
-          "url": "https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE"
-        }
-      ],
-      "duration_ms": 264466,
-      "name": "Pintou uma Lua L\u00e1",
-      "url": "https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Jorge 70: Ao Vivo em S\u00e3o Paulo, Pt. 1",
         "url": "https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 251850,
       "name": "Eu e Voc\u00ea Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Da M\u00fasica",
+        "url": "https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM"
+      },
+      "artists": [
+        {
+          "name": "Arlindo Cruz & Sombrinha",
+          "url": "https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE"
+        }
+      ],
+      "duration_ms": 264466,
+      "name": "Pintou uma Lua L\u00e1",
+      "url": "https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr"
     },
     {
       "added_at": "2023-08-04 03:01:00",

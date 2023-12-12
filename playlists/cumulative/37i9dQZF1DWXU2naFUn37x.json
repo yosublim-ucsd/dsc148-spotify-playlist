@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "A45S",
+        "url": "https://open.spotify.com/album/6KQ0Nzqei7dU85H2OtzIrQ"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "A45S",
+      "url": "https://open.spotify.com/track/3NCw6IFbl8NTQHDwxkj1UC"
+    },
+    {
+      "album": {
         "name": "ABC (feat. Bello Figo)",
         "url": "https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR"
       },
@@ -4152,7 +4170,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 164042,
       "name": "IMBORGHESI",
       "url": "https://open.spotify.com/track/08sKSGw1ADTFGbPfg8EtTY"
@@ -5022,7 +5040,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 180046,
       "name": "MAR7ABA (feat. Nabi)",
       "url": "https://open.spotify.com/track/3WFlIMxM6GteBtgtt5nNFg"
@@ -8258,6 +8276,28 @@
       "duration_ms": 159711,
       "name": "TE STESSO",
       "url": "https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS"
+    },
+    {
+      "album": {
+        "name": "MEZZA PAROLA",
+        "url": "https://open.spotify.com/album/6GosI4zndYwzR1ht3SOi8H"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148394,
+      "name": "Tech Pack (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/3GNdB5bw9Nal39eCqCLJAm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with LOONY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,130 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,205 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 14 | [Don't Call Me Selfish](https://open.spotify.com/track/1u9OkMaHqaqt4cyRqJEH0v) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Don't Call Me Selfish](https://open.spotify.com/album/6HDUZeiiXZvcN5IpDsNjOH) | 2:33 |
 | 15 | [Nowhere](https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Nowhere](https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu) | 2:57 |
 | 16 | [A.S.Y.](https://open.spotify.com/track/6367lNIm1vlSqHL4E5dC00) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [A.S.Y.](https://open.spotify.com/album/7d5CZfin6YhhfrIMav3TRC) | 3:03 |
-| 17 | [Gemini Season](https://open.spotify.com/track/6NIvS0dnPIL4gK259AW7ut) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj), [polun](https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq) | [Gemini Season](https://open.spotify.com/album/5mEUou1YIVRufhBXxkV06R) | 3:03 |
+| 17 | [Gemini Season \(You Don't Know Me\)](https://open.spotify.com/track/6NIvS0dnPIL4gK259AW7ut) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj), [polun](https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq) | [Gemini Season \(You Don't Know Me\)](https://open.spotify.com/album/5mEUou1YIVRufhBXxkV06R) | 3:03 |
 | 18 | [Take Me Down](https://open.spotify.com/track/5FsKNN0EKXevpZ3IQLURvT) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Take Me Down](https://open.spotify.com/album/1HgUqAtLT1htnY592eO54C) | 3:36 |
 | 19 | [Favorite Girl \(feat\. Offset\)](https://open.spotify.com/track/1FLoO1AlfxAqJ84FIeJrKZ) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:03 |
 | 20 | [WHY](https://open.spotify.com/track/5QTkqZQWmzPMCaKozOy9l2) | [Public Goods](https://open.spotify.com/artist/4cQuovzAeCxbyJV7EAsh3l), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Pvrx](https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ), [FrancisGotHeat](https://open.spotify.com/artist/43xx9BioWvl8pstIMp0pAt) | [WHY](https://open.spotify.com/album/6qq37q7Okd5vtk7LbuUwiE) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 |
 | 100 | [Always \(feat\. Summer Walker\) \- Bonus](https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:42 |
 
-Snapshot ID: `MCwyMzcyZGY2ZDgzYWJhNjBkMWQ2YjQ4ODFjY2NlOTFiMDVlMDExNjQ1`
+Snapshot ID: `MCw0MGU1ODMzYThiZjJjNmM1YTczYTBhY2NhZTA3YTdjY2FkOTFhZWVm`

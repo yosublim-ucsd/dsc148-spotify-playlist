@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 
 > Classic and contemporary pioneers of New Age music\. Cover: Constance Demby
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,090 likes - 73 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,113 likes - 73 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 | 2 | [Quiet Joy](https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Quiet Joy / Domestic Peace](https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb) | 3:02 |
 | 3 | [The Two Feathers](https://open.spotify.com/track/41SCDPYvddVF6dVnQ33U18) | [Cheryl B\. Engelhardt](https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [The Passenger](https://open.spotify.com/album/6BOlCg7eDQ6dECEPIXOuK5) | 3:26 |
 | 4 | [Solace](https://open.spotify.com/track/1X24Py9UDIXggX46BGph4i) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Solace](https://open.spotify.com/album/5hCRHq9hCkIzpV7dOXNYOp) | 3:44 |
-| 5 | [The Reminder of Long Ago](https://open.spotify.com/track/2yBCqt3B2iGGlGOafa3DfX) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 4:54 |
+| 5 | [The Reminder of Long Ago](https://open.spotify.com/track/2lxaVGCy6yd4xdN1CegBtf) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Sounds of The Sea](https://open.spotify.com/album/3DSg8Ljevyy63dE6dcZ9Vz) | 4:54 |
 | 6 | [Li Sun](https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr) | [Judith Tripp](https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 6:39 |
 | 7 | [Each Good Rain](https://open.spotify.com/track/39ODuGSNU6Zk2tzEfIP6me) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Seventh Wave](https://open.spotify.com/album/0cSf6C08lki2lPgMAWNV0y) | 3:48 |
 | 8 | [In Dreaming](https://open.spotify.com/track/6NJFt45q01ZZx0Z4aoMCb3) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Gary Miraz](https://open.spotify.com/artist/32puo5NH9sjHN4OMphc8bh) | [Resonance](https://open.spotify.com/album/4iNADa6Esr3HGXxwIBmsCJ) | 8:52 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 | 64 | [Into the Gloaming](https://open.spotify.com/track/0QAeOEJ3XApAgAIuXRFR8K) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [The Shimmering Land](https://open.spotify.com/album/3uKsRcKOfpqKGyzLhJ53gG) | 9:16 |
 | 65 | [Port Ana](https://open.spotify.com/track/3BY8WGHPLIBAPw7lwkp3cX) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [Port Ana](https://open.spotify.com/album/0c6yAyZOGJEerke86Fxb9G) | 3:45 |
 | 66 | [Rising](https://open.spotify.com/track/2NaCaczaxowz52EreEMlQT) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 8:36 |
-| 67 | [Diving Deeper, Remembering Love](https://open.spotify.com/track/4pQyO2JsMYBZkkHflJWjAH) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 5:33 |
+| 67 | [Diving Deeper, Remembering Love](https://open.spotify.com/track/1wacH5ABapeCVfTrKv8HY0) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Sounds of The Sea](https://open.spotify.com/album/3DSg8Ljevyy63dE6dcZ9Vz) | 5:33 |
 | 68 | [Revealed Spirit](https://open.spotify.com/track/6H26D7E7brtSsmaQCP4xK3) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Meditations](https://open.spotify.com/album/4csMLWzL1MrzK68NUh6adm) | 11:28 |
 | 69 | [The Eighteen Beautiful Memories](https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:03 |
 | 70 | [Rain Again](https://open.spotify.com/track/4R7vKWacSrqaOiyfWaDTDH) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [Port Ana](https://open.spotify.com/album/0c6yAyZOGJEerke86Fxb9G) | 3:29 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 | 72 | [Requiem](https://open.spotify.com/track/1gayETCFqhIo2HAfgQFOD9) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Solace](https://open.spotify.com/album/5hCRHq9hCkIzpV7dOXNYOp) | 4:01 |
 | 73 | [Walk Softly into the Night](https://open.spotify.com/track/2NSIBktrcGeMsp2AbbDchC) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Blue Cosmos](https://open.spotify.com/album/6XpGe8ue2wcvkDc0RWpsff) | 6:56 |
 
-Snapshot ID: `MCxkOGE5Yzk5MDQ5MTdmOTU2ODdiZWE1ZGIyN2VkY2E0Y2RlNDUzNzE4`
+Snapshot ID: `MCw0NWZhODAwMzI2YzQ0OWMxYzRkMzE2NGRmN2FmYTQ4YTI5NTlkYmFl`

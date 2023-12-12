@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Hi Nanna
 
-181 songs - 11 hr 51 min
+182 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 | 2022-05-04 | 2023-02-21 |
 | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG) | 3:24 | 2023-09-16 |  |
 | [Sammohanuda \(From "Rules Ranjann"\)](https://open.spotify.com/track/0kB5Nih2zCKYAhgszQbp35) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amrish](https://open.spotify.com/artist/0aGTnzmMIRLkP50xeuuINj) | [Sammohanuda \(From "Rules Ranjann"\)](https://open.spotify.com/album/2fdBGU2kwItuRq2OweJrBi) | 3:19 | 2023-07-31 |  |
+| [Sarada Saradaga \(From "Saindhav"\) \(Telugu\)](https://open.spotify.com/track/7vhRfB1xkdItr7e6ilLYxS) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Sarada Saradaga \(From "Saindhav"\) \(Telugu\)](https://open.spotify.com/album/69tu5JQzhjbk0uNMdzurjU) | 3:38 | 2023-12-11 |  |
 | [Sasivadane \(From "Sasivadane"\)](https://open.spotify.com/track/56hTZ6zIdAWyp0hfaDm41T) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Sasivadane \(From "Sasivadane"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0om1k7mkxELxkWOyfqoiWQ) | 3:44 | 2023-02-02 | 2023-06-03 |
 | [Seethakoka Chiluka](https://open.spotify.com/track/4V1B6HlZ7UABy0FBuyqaHU) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1Mf6cONL3hjHRkxXXbFbWX) | 4:05 | 2022-10-28 | 2023-05-10 |
 | [Shanna Shanna](https://open.spotify.com/track/4hqLCbV2r2g5LTyBIhzOQ6) | [Yasaswi Kondepudi](https://open.spotify.com/artist/3VR731cNZHEYH9krO4ewOb), [Pragna Nayani](https://open.spotify.com/artist/2Ih0i7NCAiVhyIkyp1kmL4) | [Mayapetika](https://open.spotify.com/album/4aT3YgjStbhHTyCXvd3mcN) | 4:08 | 2023-01-31 | 2023-02-21 |

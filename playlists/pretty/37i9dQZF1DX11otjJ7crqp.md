@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: FLETCHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,608 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,641 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 89 | [Liquor Over U](https://open.spotify.com/track/2zWBxcWYX32fXgmzaksA6j) | [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [Tia Tia](https://open.spotify.com/album/2olewYGi4Q7EqYdgkL2qrb) | 2:54 |
 | 90 | [Cheerleaders and Jocks](https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Cheerleaders and Jocks](https://open.spotify.com/album/0x1qVcEYZiyq36Ps01Til8) | 3:47 |
 
-Snapshot ID: `MCxjMjM4MDI3NmNjMWNmYTFmNDk5OTJmM2QzZGM1ZGZkNTIxZDBlYTE1`
+Snapshot ID: `MCwxMGViOWUzOGFiMzljOWQzMTc3ZmZjMzFiZTJjOGI5MTEzNmQzMDgy`

@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 268122,
       "name": "Before",
       "url": "https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 229432,
       "name": "blurry",
       "url": "https://open.spotify.com/track/2UkC6lFTKIAIiAErr6fDo0"
@@ -1781,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "Stepdream",
+        "url": "https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228916,
+      "name": "Comatose",
+      "url": "https://open.spotify.com/track/0u0SIh7y7UopLQMFUvEhvp"
+    },
+    {
+      "album": {
         "name": "Comatose",
         "url": "https://open.spotify.com/album/699HPxSGvoihD45uGQbBYv"
       },
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 228916,
       "name": "Comatose",
       "url": "https://open.spotify.com/track/1nrY9vaRGbSu8Oyp5Wlyu1"
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 145696,
       "name": "dark out",
       "url": "https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9"
@@ -2502,6 +2520,24 @@
       "duration_ms": 318959,
       "name": "Dodem",
       "url": "https://open.spotify.com/track/6WVvlRjBgIkpK29xDRm9VG"
+    },
+    {
+      "album": {
+        "name": "isolation",
+        "url": "https://open.spotify.com/album/0kkH2SdCtkPBUCWRA5jysT"
+      },
+      "artists": [
+        {
+          "name": "flyingfish",
+          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173139,
+      "name": "doesn't matter now",
+      "url": "https://open.spotify.com/track/2OTEroQUWvg5fy9hAlB37T"
     },
     {
       "album": {
@@ -4042,7 +4078,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 195062,
       "name": "her distortion",
       "url": "https://open.spotify.com/track/3ZspmUmIrhadEBXCK2kM9Q"
@@ -4150,7 +4186,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 176558,
       "name": "How to Hold a Knife",
       "url": "https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0"
@@ -5126,7 +5162,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-28",
+      "date_removed": null,
       "duration_ms": 203294,
       "name": "life imitates life",
       "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
@@ -5714,6 +5750,24 @@
       "duration_ms": 154920,
       "name": "Mumble",
       "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
+    },
+    {
+      "album": {
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179562,
+      "name": "my little tony",
+      "url": "https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73"
     },
     {
       "album": {
@@ -6608,7 +6662,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 252492,
       "name": "Protocol",
       "url": "https://open.spotify.com/track/33RhN1w5CsMahDUlGIPLhw"
@@ -6734,7 +6788,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 106866,
       "name": "Rdo",
       "url": "https://open.spotify.com/track/5uPwj0ULJrOIhCzJHt6hhz"
@@ -6918,7 +6972,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 239586,
       "name": "Scapa Flow",
       "url": "https://open.spotify.com/track/1Qw8bC0vgxhLx1kLcNFEkk"
@@ -7416,7 +7470,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 211506,
       "name": "South",
       "url": "https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1"
@@ -7974,7 +8028,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 264306,
       "name": "The Luck You Had",
       "url": "https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb"

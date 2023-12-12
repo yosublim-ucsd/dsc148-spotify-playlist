@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,944 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,939 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 53 | [Alma Rota](https://open.spotify.com/track/13fm0n3dQGNwMzVPdayFe9) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [Las Cosas Que Nunca Te Dije](https://open.spotify.com/album/5NQAx2tanyqT0G3t219BDe) | 2:55 |
 | 54 | [Erro da Minha Vida \- Ao Vivo](https://open.spotify.com/track/5Vdesd774o3oOtaxxQoA3D) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Erro da Minha Vida \(Ao Vivo\)](https://open.spotify.com/album/0cWnsFwtqhiFPdqnw9HEjh) | 2:51 |
 
-Snapshot ID: `MCw5NzQxNmQ3YjMwODdlMDBkOTllNDVjYWJiZDIxNDg2MDcyN2EyMmYw`
+Snapshot ID: `MCxlMTZmNDZiOGI2MWQ5MjcyZTI1YzIxMzA1ZjFiOTNlMWI5Y2YyOWVk`

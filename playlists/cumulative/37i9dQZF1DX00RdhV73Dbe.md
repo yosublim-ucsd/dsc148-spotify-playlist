@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-131 songs - 10 hr 36 min
+132 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [TECHNOPOLIS](https://open.spotify.com/track/025rboHEX5F2T0jRBMjuxI) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [Norio Yoshizawa](https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT) | [Solid State Survivor](https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe) | 4:14 | 2023-04-13 |  |
 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 | 2022-07-29 | 2023-04-14 |
 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 | 2023-04-13 |  |
-| [The Worry](https://open.spotify.com/track/7hYPLCXAAf9AHy7Uv6v1fZ) | [Seekae](https://open.spotify.com/artist/4lCsf6uYTVnWSKm99eKkdY) | [The Worry](https://open.spotify.com/album/7Jp2TvcFSRvEDgNnaYLAdW) | 5:48 | 2023-04-13 |  |
+| [The Worry](https://open.spotify.com/track/5nbcRryUdXIsfILEXMFGDK) | [Seekae](https://open.spotify.com/artist/4lCsf6uYTVnWSKm99eKkdY) | [The Worry](https://open.spotify.com/album/7ytIchDIk21osbT3cuVp8n) | 5:48 | 2023-04-13 |  |
+| [The Worry](https://open.spotify.com/track/7hYPLCXAAf9AHy7Uv6v1fZ) | [Seekae](https://open.spotify.com/artist/4lCsf6uYTVnWSKm99eKkdY) | [The Worry](https://open.spotify.com/album/7Jp2TvcFSRvEDgNnaYLAdW) | 5:48 | 2023-04-13 | 2023-12-12 |
 | [Tree Song](https://open.spotify.com/track/2lYCfrY6K50MyzBDruQsWE) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Cherry Drops II](https://open.spotify.com/album/0Mkzv9nvRSfEXd8IrlzzGQ) | 9:43 | 2022-07-29 | 2023-04-14 |
 | [Turn to Silence](https://open.spotify.com/track/6U1fOPHQZb0pjAHmTTmV0S) | [Eleven Pond](https://open.spotify.com/artist/4VCsAaq5iupGwoL62VJqft) | [Assemblage](https://open.spotify.com/album/4RvBzScNwZiRLJ2WweAinB) | 5:01 | 2022-07-29 | 2023-04-14 |
 | [Unknown At Night](https://open.spotify.com/track/6SqqiAyIewLLvoQiZaLMs6) | [DJ PGZ](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX) | [Unknown At Night](https://open.spotify.com/album/0n9IBgZECMy8Bq2c6kwqgG) | 4:27 | 2022-07-29 | 2023-04-14 |

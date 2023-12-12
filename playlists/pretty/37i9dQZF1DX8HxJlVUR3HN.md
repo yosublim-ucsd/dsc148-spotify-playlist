@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Us Blazing](https://open.spotify.com/track/2zbYpfHRqYn5HD4G5PySMt) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Strangers](https://open.spotify.com/album/5Ce8rKh0mR6CitOLVaJXmW) | 3:09 |
 | 50 | [Thank You/Maniac](https://open.spotify.com/track/1uNpK2GKKq7SRDnRLT2A4y) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [Thank You/Maniac](https://open.spotify.com/album/56ywlwSmohBIYYAObUSISx) | 4:26 |
 
-Snapshot ID: `MCw1YTY3YTc0MWM1MmNmMzk5ZTcyZjY3MGNjMzgyOTI3OGU3ZGEwMmY1`
+Snapshot ID: `MCxmYWQxN2Y0ZWY2MjU5YTQwYzliMzM3ODdhMmM3MDMwN2NkZDg2ODA0`

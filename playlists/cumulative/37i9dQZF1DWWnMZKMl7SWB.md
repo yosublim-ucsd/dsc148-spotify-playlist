@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,308 songs - 2 day 9 hr 39 min
+1,311 songs - 2 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Andromeda](https://open.spotify.com/track/6k9E1xFOHqUcsd6FhHF2YO) | [Astrocats](https://open.spotify.com/artist/0dUcMmfiS0evuaD6VrmRoL) | [Andromeda](https://open.spotify.com/album/19yw5FapXq0tg4zNkGHpjk) | 1:57 | 2023-09-22 |  |
 | [anemone](https://open.spotify.com/track/1MD2yGSeBRALkMui1fZ05P) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [fabulist](https://open.spotify.com/album/1vaFEGAj0JSQSM2SlK0B3X) | 3:48 | 2022-04-12 | 2023-09-09 |
 | [Another](https://open.spotify.com/track/3jOoFaPVncF4E0g050jGU9) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/5PLEEcxdBS03aJq52w7MlM) | 2:32 | 2023-09-08 | 2023-11-25 |
-| [Antarctica](https://open.spotify.com/track/4XSdiAZD5pzVku3fnetINH) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT) | [Antarctica](https://open.spotify.com/album/55QTVMZ5wMsZRJLyogNTkm) | 2:03 | 2023-09-22 |  |
+| [Antarctica](https://open.spotify.com/track/4XSdiAZD5pzVku3fnetINH) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT) | [Antarctica](https://open.spotify.com/album/55QTVMZ5wMsZRJLyogNTkm) | 2:03 | 2023-09-22 | 2023-12-12 |
 | [Anywhere But Here](https://open.spotify.com/track/0eHG8d8vt9Od9fGU6mnrCL) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Anywhere But Here](https://open.spotify.com/album/7IKpVNi7hkPwUYP6lAvPnD) | 1:34 | 2023-09-08 | 2023-11-25 |
 | [Apaixonar](https://open.spotify.com/track/0uX8h1vgDzUwQJAH4jEYsV) | [akoYuno](https://open.spotify.com/artist/6Qofl0SeZbGEtuigHU5L46) | [Apaixonar](https://open.spotify.com/album/1XzpwsmYrpP5QMz1rMJPXo) | 2:09 | 2023-09-08 | 2023-11-25 |
 | [Apart & Beyond](https://open.spotify.com/track/1FODiQJw75rxHyV2LZ8xIr) | [Partika](https://open.spotify.com/artist/3kKhFe1UhACeP31S9i1ZvS) | [Apart & Beyond](https://open.spotify.com/album/19vpRsrsBJp47KdMT8crx4) | 5:36 | 2022-04-12 | 2023-09-09 |
@@ -260,6 +260,7 @@
 | [Cold](https://open.spotify.com/track/52ySoNs47RPsBJEEjUvnQe) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Cold](https://open.spotify.com/album/6EXP2j4i43fQjPy1qdIecE) | 2:15 | 2023-09-22 |  |
 | [Cold](https://open.spotify.com/track/4k4XSebMs9YTob9EteN0rQ) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Cold](https://open.spotify.com/album/5zJxYQ8vgaYru1uBzEH1ge) | 1:37 | 2023-09-22 |  |
 | [Cold Nose](https://open.spotify.com/track/4UmcSZJKJ63wnB5qHyYaIV) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Lofi Koji](https://open.spotify.com/artist/6TEf8a5eAulCH644EY9Hvf) | [Cold Nose](https://open.spotify.com/album/3pDDF30FOgvIJwueAXVWDZ) | 2:24 | 2023-09-22 | 2023-12-10 |
+| [collogue](https://open.spotify.com/track/5sw8eqqQPKLkXydIyoLg2K) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [collogue](https://open.spotify.com/album/1xexMTvQ3GWUGxhlxZ7min) | 2:00 | 2023-12-08 |  |
 | [Cologne](https://open.spotify.com/track/51Y2wtkgr7E6H2qs0w1xi0) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Cologne](https://open.spotify.com/album/7KU81f2QeZGlqrGMztXlmW) | 1:36 | 2023-09-22 | 2023-09-29 |
 | [Color Violet](https://open.spotify.com/track/4ZxMXRYsecrYMvVD8FPHwA) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Color Violet](https://open.spotify.com/album/2tmTKjBGtFNnSZqabuflcE) | 2:08 | 2023-09-22 |  |
 | [Colora](https://open.spotify.com/track/6cbqqfG9sIGOkUNFpEdV9I) | [Ellyaz](https://open.spotify.com/artist/26l6f5xmFB8UjSd9ngQtuY) | [Colora](https://open.spotify.com/album/5uNNfZZDqFxFGdoATsnIQK) | 1:57 | 2023-09-08 | 2023-11-25 |
@@ -376,6 +377,7 @@
 | [Fade](https://open.spotify.com/track/5AOVlBVKca5uYJ18Q29U6D) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Fade](https://open.spotify.com/album/6IFb5yjI69X7igE69Gm2dY) | 3:05 | 2023-09-22 |  |
 | [Fade To Dawn](https://open.spotify.com/track/1yXAd2cV8iuryyrrfe7I73) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Fade To Dawn](https://open.spotify.com/album/4hUYjD0WL1t4KGjw4Z6WCh) | 2:25 | 2023-09-22 |  |
 | [Fading](https://open.spotify.com/track/1mL3YZ7HjesgGu2RWHacxv) | [Twofacts](https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf) | [Fading](https://open.spotify.com/album/3dzs7o0stX20Z105dG4Ffh) | 1:57 | 2023-09-08 | 2023-11-25 |
+| [Faint Light](https://open.spotify.com/track/5XtvHaPeewGmFmTsOUNSvF) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Faint Light](https://open.spotify.com/album/7ukkwqkIMsfgYyQwiYXGG5) | 2:04 | 2023-12-08 |  |
 | [Fall In Love \- Instrumental](https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 | 2022-11-11 | 2022-11-13 |
 | [Fall in Love \- Instrumental Mix](https://open.spotify.com/track/3ja2YGSkDFbVGQ9G4Ch0Kc) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic Vol\. 2.10](https://open.spotify.com/album/2Qte0SXVglEr7EI7rQFADp) | 3:07 | 2022-04-12 | 2022-07-28 |
 | [Fall In Love \- Instrumental Mix](https://open.spotify.com/track/6JadvSKE7WPUr0Jyi6Tf2q) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:07 | 2022-04-12 | 2023-09-09 |
@@ -633,6 +635,7 @@
 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 | 2022-04-12 | 2023-09-09 |
 | [Listen](https://open.spotify.com/track/7qw7kzv9dioHte3XY5MVnJ) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Listen](https://open.spotify.com/album/3LsLzJIgkNTN7ZlelPGvj8) | 2:24 | 2023-09-22 |  |
 | [lite](https://open.spotify.com/track/4IXfJbHFwjkDKLKBS9IZwK) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [lite](https://open.spotify.com/album/3pd6RWbrq8w1QzkrIPHXxJ) | 1:59 | 2023-12-08 |  |
+| [Little Did I Know](https://open.spotify.com/track/2sf7qX369WsHFulMxWgQzN) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [Little Did I Know](https://open.spotify.com/album/0N7Jz53U5I1wJfQ7tSDmVs) | 2:18 | 2023-12-08 |  |
 | [Little Guy](https://open.spotify.com/track/183IRlW7ahpqcjp6m6tPYi) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM) | [Little Guy](https://open.spotify.com/album/3k20NEqxiRxWpdN2eYppye) | 2:26 | 2022-04-12 | 2023-09-09 |
 | [Little Guy](https://open.spotify.com/track/3Ca3zAKGzcrd9ToMleCcdX) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM) | [Little Guy](https://open.spotify.com/album/5D0r2UquUzoaVC2HQcD1h0) | 2:26 | 2022-04-12 | 2022-07-29 |
 | [Lizards and Lattes](https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Lizards and Lattes](https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb) | 1:59 | 2023-09-29 |  |
@@ -1046,7 +1049,7 @@
 | [somethings up](https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [somethings up](https://open.spotify.com/album/3f5XgiJhXdkBL7yqY9PuP9) | 1:52 | 2023-09-22 |  |
 | [Sooner Or Later](https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Sooner Or Later](https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky) | 2:52 | 2022-04-12 | 2023-09-09 |
 | [soothing slow](https://open.spotify.com/track/2I1rQ8ULEI4jbh28pz2C4n) | [lo.a.pauly](https://open.spotify.com/artist/24bLJIthLjTIcLO2iw9saJ) | [soothing slow](https://open.spotify.com/album/0c0MZM1KmS06hbIlKNUGnm) | 2:04 | 2023-09-22 |  |
-| [soul pattern](https://open.spotify.com/track/2WjFg4N7R6CcGcZUIF1NYT) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [soul pattern](https://open.spotify.com/album/2aH5Phgsjyudh7Ijs8Lfe5) | 2:16 | 2023-09-22 |  |
+| [soul pattern](https://open.spotify.com/track/2WjFg4N7R6CcGcZUIF1NYT) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [soul pattern](https://open.spotify.com/album/2aH5Phgsjyudh7Ijs8Lfe5) | 2:16 | 2023-09-22 | 2023-12-12 |
 | [SoulShower](https://open.spotify.com/track/5aeQDI9LxC5Aiuc5Vqo65K) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [SoulShower](https://open.spotify.com/album/6JrRnSqrgKmEAIgx6f0qWX) | 3:13 | 2023-12-08 |  |
 | [Sounds From The Park](https://open.spotify.com/track/55uqa2dZDFoy45LNi2c0Da) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Sounds From The Park](https://open.spotify.com/album/1hZjugixYJQrlemnJEwnLE) | 1:54 | 2023-09-22 |  |
 | [spacewalk](https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [spacewalk](https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX) | 2:15 | 2023-11-17 |  |
@@ -1312,7 +1315,7 @@
 | [Your Vibe](https://open.spotify.com/track/1DM6OEWbOSsaL0eDMQBmhV) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [De La Crème](https://open.spotify.com/album/7sdDO4v6wf19Kz60IszTap) | 1:27 | 2023-09-22 |  |
 | [You’re a wizard Larry](https://open.spotify.com/track/4uj5GzaGYcWhMQJ8gs2Muf) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [You’re a wizard Larry](https://open.spotify.com/album/2u5LhMdMHGTbQU5JC7wXhM) | 2:07 | 2023-09-08 | 2023-11-25 |
 | [Zakky](https://open.spotify.com/track/0hZ2N9qQUApVWKWR1allC5) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Zakky](https://open.spotify.com/album/0qoRty23FJ6Whk9gQQvBIT) | 2:35 | 2023-09-08 | 2023-09-29 |
-| [Zen A.M.](https://open.spotify.com/track/2Hv9wGHbkfIBScQg4Tti11) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Zen A.M.](https://open.spotify.com/album/2j59lkIwIxqO2VcqNQXb3l) | 2:00 | 2023-09-22 |  |
+| [Zen A.M.](https://open.spotify.com/track/2Hv9wGHbkfIBScQg4Tti11) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Zen A.M.](https://open.spotify.com/album/2j59lkIwIxqO2VcqNQXb3l) | 2:00 | 2023-09-22 | 2023-12-12 |
 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 | 2023-11-17 |  |
 | [Zlatan](https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Zlatan](https://open.spotify.com/album/56xbsZljmmaVTlTNAwtr5v) | 1:45 | 2023-09-22 |  |
 | [zodiac](https://open.spotify.com/track/52IDolnJNCfL4rA6UwDCi3) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [zodiac](https://open.spotify.com/album/6cyHjL3dwTcUhaYmdkrCxa) | 2:21 | 2023-09-22 |  |

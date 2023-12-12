@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Little Bit Of Life",
+        "url": "https://open.spotify.com/album/2x764D5eh4pngebgnkt3Yj"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228653,
+      "name": "International Harvester",
+      "url": "https://open.spotify.com/track/43Z2NVNkX2TuDymLQ89pI2"
+    },
+    {
+      "album": {
         "name": "For My Broken Heart",
         "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
@@ -3192,7 +3210,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 182280,
       "name": "You've Got to Stand for Something",
       "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"

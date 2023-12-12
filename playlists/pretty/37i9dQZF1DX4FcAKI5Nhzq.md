@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: BAEKHO
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,625 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,806 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [Baila Conmigo](https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [La Dolce Vita](https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5) | 3:08 |
 | 50 | [You're Beautiful](https://open.spotify.com/track/6Ca2C9ycBna1WXfL5cB6Gn) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [You're Beautiful](https://open.spotify.com/album/1WAhLhtqvSSjspHe2kzYhF) | 3:55 |
 
-Snapshot ID: `MCwzMDc2NDVhOTA0OTE4MjBiZmZhN2UwNDhiNjM4OWRkYzYxODI0NzU1`
+Snapshot ID: `MCw0ZGEyYjFlYjlmMDViNmI2NjFiM2ZhYWM3NDhmODg2ODI3ZTY3Zjg2`

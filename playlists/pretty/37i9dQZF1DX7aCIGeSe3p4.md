@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aCIGeSe3p4.md) - [plain]
 
 > si me alejo de tu vida es para siempre 💔😭  Cosechando los éxitos del internet 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,214 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,315 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aCIGeSe3p4.md) - [plain]
 | 74 | [Más Que Disney](https://open.spotify.com/track/3opTNcoH22CTN1XMtf6tw3) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Norteño Vibe](https://open.spotify.com/album/6nw6hmqQLQTGjhVJLThXWs) | 2:42 |
 | 75 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 |
 
-Snapshot ID: `MCw5NTE5MjhjYWQ5ZjUxYzI1Yjc1NzRkOTJhMzNjYjBiOWFiNDJlYWE3`
+Snapshot ID: `MCxhODM1MjJhN2Q4ZmU1NzVkYWRhMjhlMjc4YWJjZTFmNDM2ZWE2Njky`

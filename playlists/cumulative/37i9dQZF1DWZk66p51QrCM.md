@@ -4,7 +4,7 @@
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-41 songs - 2 hr 43 min
+43 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Immortal](https://open.spotify.com/track/4j3LxTzYF8IY5Y3h80dl8v) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/7xnzTKq48BTxKQ3JABpFxN) | 4:08 | 2023-06-05 |  |
 | [Miss The Days](https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/2RR9j2toHQhD2V4bsr2DWK) | 3:40 | 2023-06-05 |  |
 | [No Reason](https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [No Reason](https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt) | 4:00 | 2023-06-05 |  |
-| [Oceans](https://open.spotify.com/track/2H28Hbm2ScwDoWdsbHUsNB) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Oceans](https://open.spotify.com/album/5momdt5jI4owNpsBqNhfwm) | 4:53 | 2023-06-05 |  |
+| [Oceans](https://open.spotify.com/track/2H28Hbm2ScwDoWdsbHUsNB) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Oceans](https://open.spotify.com/album/5momdt5jI4owNpsBqNhfwm) | 4:53 | 2023-06-05 | 2023-12-12 |
+| [Oceans](https://open.spotify.com/track/7LTCoTHHcnjdynFlryWhEA) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Oceans](https://open.spotify.com/album/2BxDSp6LSx39BL1j1oNqIA) | 4:53 | 2023-06-05 |  |
 | [Oi](https://open.spotify.com/track/1q3Bh0X0zCczI7ewPQnmsg) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oi](https://open.spotify.com/album/1MyrJ9bOkmIBHPT04WlUup) | 3:36 | 2023-06-05 |  |
 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 | 2023-06-05 |  |
 | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/track/2Z9NWTkvE7dDFDpWhCY3bQ) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/album/71qWeuLd6mu03o55lvJPKH) | 6:45 | 2023-06-05 | 2023-12-11 |
@@ -48,6 +49,7 @@
 | [Transport God](https://open.spotify.com/track/5pthouxnG0MLtbjmJvZ42v) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [GENESIS](https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v) | 2:12 | 2023-06-05 |  |
 | [Used To This](https://open.spotify.com/track/1iL5lMhZdMmVg34AM6xQxx) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 3:46 | 2023-06-05 |  |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2023-06-05 | 2023-11-05 |
-| [We've Got A Good Thing Going](https://open.spotify.com/track/47FUHv5KRr4nQ1xyJoTNZR) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [We've Got A Good Thing Going](https://open.spotify.com/album/6EXOECUag8jXX4iJIu4mJ5) | 5:01 | 2023-06-05 |  |
+| [We've Got A Good Thing Going](https://open.spotify.com/track/1lif9WxA6rqFfNiY7ADXY7) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [We've Got A Good Thing Going](https://open.spotify.com/album/706duPlQALlEPbsTrHPZFo) | 5:01 | 2023-06-05 |  |
+| [We've Got A Good Thing Going](https://open.spotify.com/track/47FUHv5KRr4nQ1xyJoTNZR) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [We've Got A Good Thing Going](https://open.spotify.com/album/6EXOECUag8jXX4iJIu4mJ5) | 5:01 | 2023-06-05 | 2023-12-12 |
 
 \*This playlist was first scraped on 2023-06-06. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-290 songs - 16 hr 20 min
+291 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [All of my Love](https://open.spotify.com/track/6njFhFU1tSIY897jUc16HL) | [Dexter Mars](https://open.spotify.com/artist/11r9LS6eetjB3U4WZauIDR) | [All of my Love](https://open.spotify.com/album/7HMhA5ZAbP1Lizu8zc9ieJ) | 2:18 | 2022-07-19 |  |
 | [Always Sometimes](https://open.spotify.com/track/0CccKVvnGtDBJHfeb0IdiE) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Always Sometimes](https://open.spotify.com/album/6RyzF1MQrLOeGgUqgDP3LK) | 3:25 | 2022-07-19 |  |
 | [Always Sometimes](https://open.spotify.com/track/12hUalAK3jyfO3GreZSca3) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Always Sometimes](https://open.spotify.com/album/5gpjS6oyQ2TkyqcozSDYId) | 3:25 | 2022-06-29 | 2022-07-29 |
-| [Ambient Cave](https://open.spotify.com/track/1UceKtnkOPzcBCv6qo11OT) | [Story Dancer](https://open.spotify.com/artist/3JtIuaPG9kYHalFVXZkFsv) | [Rivers of Rain](https://open.spotify.com/album/2N6ptDOlAGH8qMB5FCYQ9h) | 3:57 | 2022-06-29 |  |
+| [Ambient Cave](https://open.spotify.com/track/1UceKtnkOPzcBCv6qo11OT) | [Story Dancer](https://open.spotify.com/artist/3JtIuaPG9kYHalFVXZkFsv) | [Rivers of Rain](https://open.spotify.com/album/2N6ptDOlAGH8qMB5FCYQ9h) | 3:57 | 2022-06-29 | 2023-12-12 |
 | [Amplitude](https://open.spotify.com/track/0F8nxG2gJ6xXpanrZlfp4D) | [Lawrence Blake](https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv) | [Amplitude](https://open.spotify.com/album/2sBHOOGlTnp4LhXTq5G6fX) | 2:47 | 2022-06-29 |  |
 | [And She Came Home \- Mary Lattimore Rework](https://open.spotify.com/track/6lvBZ7cylUHrZzgJCSl0hw) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [And She Came Home \(Mary Lattimore Rework\)](https://open.spotify.com/album/3nr4ZmLW5VK3DrNQM3BUSX) | 3:34 | 2022-06-29 | 2022-07-29 |
 | [Angelical](https://open.spotify.com/track/6ESl6rt4YenKE7XJuv4LTN) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Know Yourself](https://open.spotify.com/album/0Xhp6naFew0khbul6bzuNt) | 2:30 | 2022-06-29 |  |
@@ -146,6 +146,7 @@
 | [It Feels Like Floating](https://open.spotify.com/track/1aFLwFLsTdqSl7tDGTAreU) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [It Feels Like Floating](https://open.spotify.com/album/0dHj3cuRmt0WUDpF1I8V3E) | 11:31 | 2022-07-19 | 2022-07-28 |
 | [It Feels Like Floating](https://open.spotify.com/track/5P0cbDhsv6wCqyAqfhBxaW) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Hundreds of Days](https://open.spotify.com/album/3htG3vw3Y9SZuoKFEvQ9FI) | 11:31 | 2022-07-19 |  |
 | [Joy](https://open.spotify.com/track/4uZAkcN4TU1TYyNK1hCOHO) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/3pW85ZtP8lSFoo2Tmcgpb0) | 5:00 | 2022-07-19 | 2022-07-24 |
+| [Joy](https://open.spotify.com/track/5CNvpsmmuWL9qChEbFbBcc) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/7cGsWLE0Hde48FV4MCftR3) | 5:00 | 2023-11-10 |  |
 | [Joy](https://open.spotify.com/track/7EeryB0GNXvD5taPP2U5fB) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/5kdVD9PtZicTzx47uOOg2Z) | 5:00 | 2022-07-19 | 2023-04-29 |
 | [Kaolin](https://open.spotify.com/track/2wlu4KMCvR202beZHns8Mb) | [Noon2Nine](https://open.spotify.com/artist/1IkCT4cMi56FGqY7Y6KOrS) | [Kaolin](https://open.spotify.com/album/6CR7aqDABp8BtTiuMKvaJB) | 3:14 | 2022-07-19 | 2022-07-29 |
 | [Kaolin](https://open.spotify.com/track/7CPRnvO2o4BJmGDVxh46VN) | [Noon2Nine](https://open.spotify.com/artist/1IkCT4cMi56FGqY7Y6KOrS) | [Kaolin](https://open.spotify.com/album/6fvXg0ETAANzFd06M5KnzI) | 3:14 | 2022-07-19 | 2023-02-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,199 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,288 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 55 | [Delincuente](https://open.spotify.com/track/1JEnGuyq3nuFOySCBXyE1O) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Delincuente](https://open.spotify.com/album/1Xs7sQ4nPCeKMKpzefHGzE) | 2:28 |
 | 56 | [Salsa](https://open.spotify.com/track/3jNBMlxOni0T96uWAemGt6) | [Ery](https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD) | [Salsa](https://open.spotify.com/album/0455Zaij9nyVQi3X7zvmzy) | 2:15 |
 
-Snapshot ID: `MCxhYjY2ZjdiMjIzM2Y3MmJmMDgyMTEzZTA1YzVmMmYyMmI5N2Y0ZTg0`
+Snapshot ID: `MCw1MGUxZTM5YTI0NTU3NzE4ZThkYWQwMTUxZWVlMGQyODJiZGY2YzJl`

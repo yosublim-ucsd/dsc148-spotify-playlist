@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 244878,
       "name": "Fade Into Black",
       "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
@@ -4576,6 +4576,24 @@
       "duration_ms": 374828,
       "name": "Rio Secreto",
       "url": "https://open.spotify.com/track/6Dtmck4yTQkCEjnOhKfOBh"
+    },
+    {
+      "album": {
+        "name": "Rio Secreto",
+        "url": "https://open.spotify.com/album/6OZ8EuKS1bqv4W709VRak4"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374828,
+      "name": "Rio Secreto",
+      "url": "https://open.spotify.com/track/7MXu9rAQDign2nhEVp5tbL"
     },
     {
       "album": {

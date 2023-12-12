@@ -2,7 +2,7 @@
 
 ### [Women of Pop](https://open.spotify.com/playlist/37i9dQZF1DX3WvGXE8FqYX)
 
-> Celebrating all the great women of pop music\. Cover: Britney Spears
+> Celebrating all the great women of pop music\. Cover: Olivia Rodrigo & Cher
 
 550 songs - 1 day 8 hr 58 min
 

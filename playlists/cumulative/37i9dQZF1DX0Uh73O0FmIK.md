@@ -4,7 +4,7 @@
 
 > 01101110 01100101 01110010 01100100
 
-203 songs - 14 hr 30 min
+207 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,9 +40,11 @@
 | [Bury](https://open.spotify.com/track/4336Bwzy1TUIGZeO7YKfxG) | [Mire.](https://open.spotify.com/artist/1tERo1AaIEC4X7PKG8futp) | [A Meaning of Love](https://open.spotify.com/album/0TgDjPWkpbfdu2RkyKAy3a) | 3:55 | 2022-05-19 | 2023-10-12 |
 | [Business Class](https://open.spotify.com/track/6562NxLaKG87YFbsUHFBKu) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Business Class](https://open.spotify.com/album/6Q73cei1BLUT7RdFR7dDvX) | 4:42 | 2022-07-01 | 2022-10-14 |
 | [Cave Crawl](https://open.spotify.com/track/34uiE9j8DXfab7oaw1PdV9) | [Navie D](https://open.spotify.com/artist/02VthzO4Cde9DFB0Up91Ka) | [Music to Banana To](https://open.spotify.com/album/3C9JPvvy49HuNgSzuZz5zh) | 3:28 | 2023-10-11 |  |
+| [Chamber](https://open.spotify.com/track/2Rv4TFPwOC4Bf0ubqxaBzY) | [Brody Hoffman](https://open.spotify.com/artist/0uhaq6FovIMxF03O8Z9omG) | [Blues](https://open.spotify.com/album/13VcsBtpmsDqJB74117zFY) | 2:19 | 2023-12-11 |  |
 | [Chase](https://open.spotify.com/track/6BsKEHEM030NplaMi3kzvs) | [Cartridge 1987](https://open.spotify.com/artist/359GzoMEPYlm349fhv6YHo) | [Last Escape](https://open.spotify.com/album/11TckwddbOYHGhcqy9CF6F) | 5:49 | 2023-10-11 |  |
 | [Chrome Country](https://open.spotify.com/track/5G54EXkOheyrrT3CDM07Mm) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR) | 5:05 | 2022-05-19 | 2022-12-21 |
 | [Chrome.exe](https://open.spotify.com/track/2b4UETKynUkjq3EB2MuXCX) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [JPEG](https://open.spotify.com/album/1sHkNBY1Uy6H34UI6815jQ) | 2:46 | 2023-10-11 |  |
+| [City Lights](https://open.spotify.com/track/3wf9McgT0EvShX4i2xAwmr) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [Cosmic](https://open.spotify.com/album/0msZInJFTtdbr16VH20Yr7) | 3:20 | 2023-12-11 |  |
 | [Commencement](https://open.spotify.com/track/7pQeAmlwfruYGmr02T4LZ6) | [Gost](https://open.spotify.com/artist/46HcJG62ky3Tj7yJpB2Qqg) | [Non Paradisi](https://open.spotify.com/album/22w3kMjHKkmG44BEgE4Bxc) | 5:02 | 2023-10-11 |  |
 | [Contrivance](https://open.spotify.com/track/7gLSX6HlNso7WkoWPCGNGr) | [Thomas Barrandon](https://open.spotify.com/artist/5HaHjEOMBZBDiMXP7Wz1Zr) | [The Quiet Earth](https://open.spotify.com/album/09Rd5hfBdtOBIhLaRvm96M) | 5:06 | 2023-10-11 |  |
 | [Convergence](https://open.spotify.com/track/7KH5htx0WuHNYWAqFUU6I1) | [Carl Finlow](https://open.spotify.com/artist/6g7KhV5p6W6oK0gZJkZXZW) | [Introspective](https://open.spotify.com/album/2qP9olpi9rBto8CauxQcl3) | 5:35 | 2023-10-11 |  |
@@ -56,7 +58,7 @@
 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 | 2022-05-19 | 2023-10-12 |
 | [Dark City](https://open.spotify.com/track/0vC2Q9Xa4uoINi4Jvh8U1u) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [CHAM!](https://open.spotify.com/album/4mk2tlpNn3mQKa6TlNNhnc) | 3:26 | 2023-10-11 |  |
 | [Data Kiss](https://open.spotify.com/track/0jnFH19G4etib1kVkIPtMi) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [In Decay](https://open.spotify.com/album/6M4kfVR0hxL1zXfoANKP0q) | 4:08 | 2023-10-11 |  |
-| [Death \- Crystal Castles Remix](https://open.spotify.com/track/7aJ9CAwlrviuV99usANITI) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [To Lose My Life ..\. \(10th Anniversary Edition\)](https://open.spotify.com/album/5K3neFtm7JRXQhCzNmyATU) | 4:58 | 2023-10-11 |  |
+| [Death \- Crystal Castles Remix](https://open.spotify.com/track/7aJ9CAwlrviuV99usANITI) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [To Lose My Life ..\. \(10th Anniversary Edition\)](https://open.spotify.com/album/5K3neFtm7JRXQhCzNmyATU) | 4:58 | 2023-10-11 | 2023-12-12 |
 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 | 2023-02-01 | 2023-04-09 |
 | [Deicide](https://open.spotify.com/track/2qMIhahrpJUksR0MuigQV6) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Deicide](https://open.spotify.com/album/5c4BOFn4ycw9NZGmOCv3rY) | 4:54 | 2022-05-19 | 2023-07-29 |
 | [Derezzed \- From "TRON: Legacy"/Score](https://open.spotify.com/track/5X4ojuZG2mZ68EcLyBQ1D3) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx) | 1:44 | 2022-05-19 |  |
@@ -132,6 +134,7 @@
 | [Luv Deluxe](https://open.spotify.com/track/6NFVMrNI3mHeFSAwdbAYfU) | [Cinnamon Chasers](https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B) | [A Million Miles from Home](https://open.spotify.com/album/4atwagTKLpazdKchxdJEnI) | 4:33 | 2022-05-19 | 2023-10-12 |
 | [Make This Right](https://open.spotify.com/track/7mSmt2yar5VUXZNBV4AnpE) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Furi \(Original Game Soundtrack\)](https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA) | 5:48 | 2022-12-20 | 2023-10-12 |
 | [Melancholia Staroy Pornozvezdy](https://open.spotify.com/track/4dj4UwGoigzV4Fvq8AhLBP) | [AL\-90](https://open.spotify.com/artist/5Um9iF4JwwEyx5K5TW4uE8), [Spurv](https://open.spotify.com/artist/4V5cDBPMMnbdefVmdMLReN) | [Code\-915913](https://open.spotify.com/album/1Pm3pNfib1zckTiH5k22je) | 5:57 | 2023-10-11 |  |
+| [Memories of Mzuzu](https://open.spotify.com/track/7tqint12AqRI6k0Mz8Rbdj) | [Połoz](https://open.spotify.com/artist/1zYoJwd806MyTe23nwzBV2), [Łotr](https://open.spotify.com/artist/4q3yZ8lEUk9EYH2zj20Lvg) | [107.5 Darkstar Radio](https://open.spotify.com/album/1Nq95VfOx1TlqiAkIqFKva) | 3:14 | 2023-12-11 |  |
 | [Monster Models](https://open.spotify.com/track/00HJyryBykgxYYY868N78W) | [Filmmaker](https://open.spotify.com/artist/2V2SmuR8XmWsKjGzTSk6Hp) | [The Love Market](https://open.spotify.com/album/3lmFgGdypU8ao0db6ff6xS) | 3:54 | 2023-10-11 |  |
 | [More Coke!!](https://open.spotify.com/track/3IQ4kBI1VBRa4YoGtW8mGU) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 2:52 | 2023-04-29 | 2023-07-29 |
 | [Motor](https://open.spotify.com/track/155t0i7MddhDV4l1KzXgdj) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Total](https://open.spotify.com/album/5WXzljd68vlJL83jHUFcCo) | 4:03 | 2022-05-19 |  |
@@ -165,7 +168,7 @@
 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2022-05-19 | 2022-07-30 |
 | [RGB](https://open.spotify.com/track/13m5qv9bHI7Q7J9ScWcZd8) | [Scattle](https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA) | [Sketch](https://open.spotify.com/album/7aqeGazGxWGxzPHLfvvByi) | 4:07 | 2023-10-11 |  |
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2022-05-19 | 2022-10-14 |
-| [Runway J](https://open.spotify.com/track/0wagEJiJSu5DwpMP77wGCH) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Fashion Week](https://open.spotify.com/album/0T0hdMTypoYTFhgk4ugXkN) | 4:09 | 2023-10-11 |  |
+| [Runway J](https://open.spotify.com/track/0wagEJiJSu5DwpMP77wGCH) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Fashion Week](https://open.spotify.com/album/0T0hdMTypoYTFhgk4ugXkN) | 4:09 | 2023-10-11 | 2023-12-12 |
 | [Send The Pain On](https://open.spotify.com/track/36b17t2DXiN1lWr9SbsuVR) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Sparks](https://open.spotify.com/album/2SDRefKHEIs8bWDACXPuVr) | 5:37 | 2022-05-19 | 2023-10-12 |
 | [Septic Shock](https://open.spotify.com/track/6xXaVjXPv6aR6PhQjn7jTN) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [148](https://open.spotify.com/album/47rrhji1V9rRBgYIDCWgQJ) | 3:39 | 2023-10-11 |  |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-05-19 | 2022-12-21 |
@@ -176,7 +179,7 @@
 | [Spitfire](https://open.spotify.com/track/0ERv9Zf4AJJdQ1sIztb15v) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Always Outnumbered, Never Outgunned](https://open.spotify.com/album/6kjD6MJ95xECin1kxGeAlM) | 5:07 | 2022-10-24 | 2023-02-02 |
 | [Stand\-Upon The Earth](https://open.spotify.com/track/4DjNXYgBmoKE5JnY0P3sft) | [jinkasei](https://open.spotify.com/artist/4nrZ7yhBckcZ3QsPzF3EHV), [1rokit](https://open.spotify.com/artist/6E5AX6DUZsGLaIW5NzEqqQ) | [Hyperscapism](https://open.spotify.com/album/2lx14hf7n6ys3Rbm1Zew6e) | 4:06 | 2022-07-07 | 2023-07-29 |
 | [Starfields](https://open.spotify.com/track/4gTl3JQCVkk6YxGVOFBETv) | [Maximum Love](https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ) | [Under the Shadow](https://open.spotify.com/album/3HRv1MX7BRwu1wQv0CMaQp) | 2:59 | 2023-10-11 |  |
-| [Stress](https://open.spotify.com/track/6KpazZd2nACE5cwsjAP2x2) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:46 | 2023-10-11 |  |
+| [Stress](https://open.spotify.com/track/6KpazZd2nACE5cwsjAP2x2) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:46 | 2023-10-11 | 2023-12-12 |
 | [Stress](https://open.spotify.com/track/1YdbiBOWvFUi6Zko3HXyEG) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:58 | 2022-05-19 | 2022-07-02 |
 | [Suffer With Me](https://open.spotify.com/track/3nfj9Fdbl30TvcZE9sU0Vx) | [líue](https://open.spotify.com/artist/3xFXCUS8RN65oCwsO4PJRI) | [Suffer With Me](https://open.spotify.com/album/6G8FJ9OgqUFa5p7qxhAqki) | 3:27 | 2022-05-19 | 2023-10-12 |
 | [Suicide](https://open.spotify.com/track/3CTCq5KkL2Od9jVDCrTQra) | [Mascarpone](https://open.spotify.com/artist/1ZEO1krHa0ACcotXAANFmL) | [Dodecacotronic](https://open.spotify.com/album/6S4omhs5ujZWDo2dzOSH7h) | 4:08 | 2023-10-11 |  |
@@ -198,6 +201,7 @@
 | [Time For Crime](https://open.spotify.com/track/28EvBSVXP4bqNxnshOJb77) | [Orion](https://open.spotify.com/artist/762tIikXbFRfp0Jl17ufIJ) | [Time For Crime](https://open.spotify.com/album/4FQ5G82EAAbIC7c7Pqp506) | 3:21 | 2023-10-11 |  |
 | [Tribulations](https://open.spotify.com/track/5JOO8UMaEpOfhhatQQsAqm) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 4:59 | 2022-05-19 | 2022-10-14 |
 | [Turn the Fridge On](https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky) | [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [Midnight Store](https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl) | 2:37 | 2023-10-11 |  |
+| [Untouched](https://open.spotify.com/track/4a32TizUHXG4lHXz1ygILV) | [m\_a\_](https://open.spotify.com/artist/79ytbyzVzOO3lIOSysPogt) | [Untouched](https://open.spotify.com/album/10wCnOZGGGuFGQSPbVTHAo) | 3:12 | 2023-12-11 |  |
 | [Vantablack](https://open.spotify.com/track/50mASHeTrGgYcuS9Sj1EHy) | [Damn Whøre](https://open.spotify.com/artist/1ld3NT4hubdY5jvc3r7ZD8) | [Pure Salope](https://open.spotify.com/album/1gqNBDymF6oOVuwDJhDbjY) | 3:29 | 2023-10-11 |  |
 | [Video Stalker](https://open.spotify.com/track/0uLbJlKzJCeYwfLD5SZH56) | [Mega Drive](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8) | [198XAD](https://open.spotify.com/album/25oR6eQLbYn34kpSQNVwGR) | 3:46 | 2023-10-11 |  |
 | [Vietnam](https://open.spotify.com/track/1KuorL0TWWgu4GZqnyv29K) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ) | 5:06 | 2023-10-11 |  |
@@ -209,7 +213,7 @@
 | [We Will Choke](https://open.spotify.com/track/1HxTHYeFL38aCU9N3LtjG4) | [△Sco△](https://open.spotify.com/artist/3Hlp7o0Wfy8UpZ3mohj63k) | [Freestyle Witch House Music](https://open.spotify.com/album/4lffcSPrOUJuNbxdOEoC4t) | 5:38 | 2023-10-11 |  |
 | [Witchcraft \- Bonus Track](https://open.spotify.com/track/7AL579yxZz3xtp8iU0g2Hg) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Psycho Tropical Berlin \(Bonus Track Version\)](https://open.spotify.com/album/7ExUxli1vAsXcgijfi2Abr) | 3:49 | 2023-10-11 |  |
 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 | 2022-05-19 |  |
-| [XIII](https://open.spotify.com/track/6dPmWrkCwm4qHoS8Re5RqA) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 3:36 | 2023-10-11 |  |
+| [XIII](https://open.spotify.com/track/6dPmWrkCwm4qHoS8Re5RqA) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 3:36 | 2023-10-11 | 2023-12-12 |
 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2022-05-19 | 2023-10-12 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

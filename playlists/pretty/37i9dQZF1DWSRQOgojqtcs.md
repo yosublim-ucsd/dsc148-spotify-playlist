@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,970 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,972 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 8 | [Aï\-Aï Heyveh Heyveh](https://open.spotify.com/track/4Qr32AUTbgtobPsduiefqE) | [Hamlet Minassian](https://open.spotify.com/artist/68S0gjRMzuqF5zzDlJekQ2) | [Armenian Pop Music](https://open.spotify.com/album/2AqtoC4FaYHRGOYHpbdLRl) | 7:51 |
 | 9 | [La Receta](https://open.spotify.com/track/0NK83JCa5xqVMJrEXW3WqB) | [Kemo The Blaxican](https://open.spotify.com/artist/3ARkK5SVTmR3IxAb7pBEyf) | [Simple Plan](https://open.spotify.com/album/1rI0hBIInUgSE701IxUYc4) | 3:43 |
 | 10 | [Affection](https://open.spotify.com/track/3fTxLcPR2i8b9yIrvNScuC) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Affection](https://open.spotify.com/album/2mz3UwcraODF5DIF7AnpDE) | 3:39 |
-| 11 | [Must Be Love](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 |
+| 11 | [Must Be Love](https://open.spotify.com/track/5bIcHT2jjWqm9UVpIJwIId) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love](https://open.spotify.com/album/3KZrksMVrTZVqKu2qIJ0G4) | 4:30 |
 | 12 | [D.Y.S\. \(Defend Your Situation\)](https://open.spotify.com/track/5Td3xKQXxOkQBLYcLucJMY) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [D.Y.S\. \(Defend Your Situation\)](https://open.spotify.com/album/5ruET6Mgzqi9namZ7q4rwP) | 3:19 |
 | 13 | [Lung](https://open.spotify.com/track/04oeGmus2VnjkBRNIU15qa) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [GLYPH](https://open.spotify.com/album/01ukt6uUhOmr6N9TvAsUrE) | 3:44 |
 | 14 | [Flex](https://open.spotify.com/track/2T2RnC6fdRTE3z41tz4i2e) | [Komang](https://open.spotify.com/artist/56MwiXqdnILouLqFJPx3nT) | [Flex](https://open.spotify.com/album/3J8qf7WLuEAIKLTVojjQ2U) | 3:47 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 124 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 125 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 
-Snapshot ID: `MCwzZTZjNjc3Zjc0NTM3MWI5OGM1MjZjNDlkZmQwNzcxNmI4NDAxODY4`
+Snapshot ID: `MCxlMDIzMmEwOTEwNjEyOWFhMWQ5OTY5NmVmNDEzMzY1MWNmOTVmMjIz`

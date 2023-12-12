@@ -4,7 +4,7 @@
 
 > A levantar polvadera con lo mejor de la música de sax\. Julión Álvarez en portada.
 
-121 songs - 6 hr 19 min
+122 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/1nThd666DrTYTk1Fs9h3Lr) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Se Abre el Telón](https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt) | 3:09 | 2023-03-06 | 2023-11-18 |
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/0sMcEkGA1IzgGXhm9BjfI7) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/1GGzzw6iGWfiGuB9RJpG0K) | 3:09 | 2023-09-29 |  |
 | [Simplemente Gracias](https://open.spotify.com/track/0HGxHzii8mi1z2tB7z2FvW) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Simplemente Gracias](https://open.spotify.com/album/1s3r2lkbalw3SIolEp0IMV) | 3:05 | 2023-03-06 | 2023-11-18 |
-| [Sin Pagar Renta](https://open.spotify.com/track/5yFHXr3m32xB4fGGMBOcjJ) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L), [Conjunto Nuevo Amanecer](https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc) | [Sin Pagar Renta](https://open.spotify.com/album/7FEVQ3o1EKEqa0RFRPjSEH) | 3:00 | 2023-11-08 |  |
+| [Sin Pagar Renta](https://open.spotify.com/track/5yFHXr3m32xB4fGGMBOcjJ) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L), [Conjunto Nuevo Amanecer](https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc) | [Sin Pagar Renta](https://open.spotify.com/album/7FEVQ3o1EKEqa0RFRPjSEH) | 3:00 | 2023-11-08 | 2023-12-12 |
+| [Sin Pagar Renta](https://open.spotify.com/track/2BuzAPLd2DEzmHVDD9kDI3) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L), [Conjunto Nuevo Amanecer](https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc) | [Sin Pagar Renta](https://open.spotify.com/album/4ZEvCEAotJdxnFr61RfBkJ) | 3:00 | 2023-11-17 |  |
 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 | 2023-03-06 |  |
 | [Sobran Motivos](https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Sobran Motivos](https://open.spotify.com/album/5OlH80w34KGZEUvUvTk75l) | 3:06 | 2023-07-14 |  |
 | [Stand By Me](https://open.spotify.com/track/1lctBYvNCptEvAHz7s1yLb) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Stand By Me](https://open.spotify.com/album/2k3VR0pvO9KcfUm6wxC28P) | 2:47 | 2023-03-06 | 2023-11-09 |

@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Marshmello & Tyla
 
-783 songs - 1 day 14 hr 41 min
+784 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2021-11-05 | 2022-05-20 |
 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 | 2022-11-11 | 2023-03-11 |
 | [Damn, I miss you](https://open.spotify.com/track/0U5ok644ffKGSKW8HaaZsX) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Damn, I miss you](https://open.spotify.com/album/0Byim1JQ7KLiOph79QbFQQ) | 2:40 | 2023-10-20 | 2023-12-09 |
+| [DANCE](https://open.spotify.com/track/4LyqcBID3VprlOZhYsB5nW) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 3:14 | 2023-12-11 |  |
 | [Dance Around It](https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Dance Around It](https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt) | 2:24 | 2023-05-12 | 2023-07-15 |
 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-05-27 | 2022-07-23 |
 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-26 | 2023-06-17 |
@@ -514,7 +515,7 @@
 | [party in my head \(ur not invited\)](https://open.spotify.com/track/5EPBBxuMALRFTMimsm1OsX) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [party in my head \(ur not invited\)](https://open.spotify.com/album/3imQuJ7FuS85XSHrsAkTCy) | 3:03 | 2022-09-09 | 2022-12-10 |
 | [Party's Over](https://open.spotify.com/track/4DPRz4NNpFtmqYTqbAnEvU) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Party's Over](https://open.spotify.com/album/6wsGIebo4XbIg59xGBlPF0) | 2:35 | 2022-01-14 | 2022-02-05 |
 | [Passive Aggressive \- Johnny GOLD Remix](https://open.spotify.com/track/2d1ppBbwZuzitwfKIOtLAQ) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Johnny GOLD](https://open.spotify.com/artist/42s6z4jFABqd0XFJHyma3p) | [Phoenix \(Deluxe\)](https://open.spotify.com/album/3RHWRodXUkFBjtdlstP0rw) | 2:51 | 2021-11-12 | 2022-02-19 |
-| [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2023-09-22 |  |
+| [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2023-09-22 | 2023-12-12 |
 | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/track/6VcpaoEQRxc9wrAtYBqKwz) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/album/7xerYbkUGD5BazNdP6OaZW) | 3:23 | 2022-03-04 | 2022-05-20 |
 | [PCH \(Pretty Cold Heart\)](https://open.spotify.com/track/0atvEjBXJ87W2ets3Lkdrh) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [PCH \(Pretty Cold Heart\)](https://open.spotify.com/album/2oGlz1scWCU0uehlNA8fJv) | 2:47 | 2022-09-30 | 2022-12-24 |
 | [Perfect Love \(feat\. Mila Falls\)](https://open.spotify.com/track/5iag0U1zHcmy5IKPb7BEGz) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Perfect Love \(feat\. Mila Falls\)](https://open.spotify.com/album/2hBjckThyUfbVmY56mtdBF) | 2:43 | 2022-09-02 | 2022-11-19 |

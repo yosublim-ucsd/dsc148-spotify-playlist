@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,791 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,784 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 | 28 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 |
 | 29 | [Playing Games With My Heart](https://open.spotify.com/track/2AWXvbEbadUGqiv2j9feJM) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Take It Easy Riddim](https://open.spotify.com/album/0TqFhExMlnbaroKXraK06c) | 3:55 |
 | 30 | [Who Knows](https://open.spotify.com/track/43CAMHDrAVA3nJP2zgKJDI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Ancient Future](https://open.spotify.com/album/6BsOed5euH2KWEujQZrFaF) | 3:28 |
-| 31 | [Get Free](https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:49 |
+| 31 | [Get Free](https://open.spotify.com/track/56hYeuutlZO5Pkm99FzLCW) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8) | 4:49 |
 | 32 | [You're Wondering Now](https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:33 |
 | 33 | [Soulfly](https://open.spotify.com/track/0UN8Z2HRedptKTAD9FlvMO) | [Dreadsquad](https://open.spotify.com/artist/7xFwx08ljvRKCtwduYfLFY), [Kasia Malenda](https://open.spotify.com/artist/5D4fBGqLIv53APmy6VxYCo) | [The Riddim Machine](https://open.spotify.com/album/6T3Cr6QdXOWxnlyG1o69au) | 3:45 |
 | 34 | [Uk Warriors](https://open.spotify.com/track/5qaXwF5J3fHpGRAEkr1JYz) | [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY), [Riddla](https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw) | [Dub Come Save Me](https://open.spotify.com/album/7xYeBl2gT9GoKjfCHJ5UXx) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 | 49 | [Special Delivery](https://open.spotify.com/track/6YwqfLLJVipwMZoFxhFpNq) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Special Delivery](https://open.spotify.com/album/0R8MTkNTCXHFFXYu8awNfq) | 1:42 |
 | 50 | [Whine Up \(feat\. Elephant Man\) \- English Version](https://open.spotify.com/track/7L1zJMkc9Ho7Ox0uSFC9TL) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP), [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Whine Up \(feat\. Elephant Man\) \[English Version\]](https://open.spotify.com/album/0VFNKCeUyetANvSnS5KLQe) | 3:23 |
 
-Snapshot ID: `MCxmMzJiYmFhM2QxNjRlNWI3NjcwNDRmMWQ2ZGIyYjkxMTk1MTNhODU3`
+Snapshot ID: `MCxhM2Y1YzBkY2RmNzEzNjM1OWI4ZGQ4OWI2M2Y2NmYyMDhhNGZiOGQ4`

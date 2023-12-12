@@ -2007,6 +2007,32 @@
     },
     {
       "album": {
+        "name": "Kho Gaye Hum Kahan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O"
+      },
+      "artists": [
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221323,
+      "name": "Ishq Nachaawe - From \"Kho Gaye Hum Kahan\"",
+      "url": "https://open.spotify.com/track/4lQzrLcNfjm1fqBpQmbHG6"
+    },
+    {
+      "album": {
         "name": "A Message from the Moon",
         "url": "https://open.spotify.com/album/4LpX3ETuKXYM2z29WySuP8"
       },
@@ -3686,7 +3712,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 156000,
       "name": "Subz",
       "url": "https://open.spotify.com/track/3fF8CmtFnZSqeejn5ea1OC"

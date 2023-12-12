@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: YOVNGCHIMI\n",
-  "num_followers": 522034,
+  "num_followers": 522078,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjhhZjUzYTM0OTE0OTI4YTdlZTdmMzIwYmQ4NDM0ZDUzM2JkMzE3",
+  "snapshot_id": "MCw5OWVhNWM4ZWE0Yzg1Njk5NDZlZDQ5MjE1M2QyMjMwZjA1ZjJjODc4",
   "tracks": [
     {
       "added_at": "2023-12-08 20:24:21",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
         "name": "Labios Mordidos (with KAROL G)",
         "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 195373,
       "name": "Labios Mordidos (with KAROL G)",
       "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 267194,
-      "name": "MONACO",
-      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -427,26 +427,18 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "Piscina",
-        "url": "https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0"
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 225661,
-      "name": "Piscina",
-      "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
+      "duration_ms": 191959,
+      "name": "CYBERTRUCK",
+      "url": "https://open.spotify.com/track/4Jc7252S1P99DjQ1lNGEOc"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -483,6 +475,30 @@
       "duration_ms": 149032,
       "name": "Fria",
       "url": "https://open.spotify.com/track/7iIREj4nlpvuDQqhj1DB4e"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "Piscina",
+        "url": "https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 225661,
+      "name": "Piscina",
+      "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -532,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 191959,
-      "name": "CYBERTRUCK",
-      "url": "https://open.spotify.com/track/4Jc7252S1P99DjQ1lNGEOc"
+      "duration_ms": 225654,
+      "name": "NO ME QUIERO CASAR",
+      "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -683,22 +699,30 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+        "name": "Palabras Sobran (Remix)",
+        "url": "https://open.spotify.com/album/4sqkoyyQKAmoIgYZypfLn9"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
-      "duration_ms": 121920,
-      "name": "LA VUELTA",
-      "url": "https://open.spotify.com/track/01W6syCgxisKd0gDqFRdEG"
+      "duration_ms": 288053,
+      "name": "PALABRAS SOBRAN - REMIX",
+      "url": "https://open.spotify.com/track/2I4ZalccAYtOnI9tnKDDml"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -731,50 +755,6 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 225654,
-      "name": "NO ME QUIERO CASAR",
-      "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
-        "name": "Palabras Sobran (Remix)",
-        "url": "https://open.spotify.com/album/4sqkoyyQKAmoIgYZypfLn9"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "PALABRAS SOBRAN - REMIX",
-      "url": "https://open.spotify.com/track/2I4ZalccAYtOnI9tnKDDml"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 233333,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        }
+      ],
+      "duration_ms": 121920,
+      "name": "LA VUELTA",
+      "url": "https://open.spotify.com/track/01W6syCgxisKd0gDqFRdEG"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "Oye BB",
-        "url": "https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 147662,
-      "name": "Oye BB",
-      "url": "https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
         "name": "Le Gustan lo' Flaites",
         "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 183328,
       "name": "Le Gustan lo' Flaites",
       "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "Oye BB",
+        "url": "https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 147662,
+      "name": "Oye BB",
+      "url": "https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "Bandidona",
-        "url": "https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Bandidona",
-      "url": "https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 191588,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "Bandidona",
+        "url": "https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Bandidona",
+      "url": "https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1055,22 +1055,22 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "Partyson",
-        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+        "name": "LOCO X PERREARTE",
+        "url": "https://open.spotify.com/album/1EKXvsbN9F0aBxigrLRXnc"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Mia Na' Mas",
-      "url": "https://open.spotify.com/track/0QlLclyUHQs859oPptz6qh"
+      "duration_ms": 212024,
+      "name": "LOCO X PERREARTE",
+      "url": "https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1091,22 +1091,22 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "LOCO X PERREARTE",
-        "url": "https://open.spotify.com/album/1EKXvsbN9F0aBxigrLRXnc"
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
         }
       ],
-      "duration_ms": 212024,
-      "name": "LOCO X PERREARTE",
-      "url": "https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux"
+      "duration_ms": 185600,
+      "name": "Mia Na' Mas",
+      "url": "https://open.spotify.com/track/0QlLclyUHQs859oPptz6qh"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "Maullame",
-        "url": "https://open.spotify.com/album/02SfPrc9u72kuzrv2ZFjFj"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 246428,
-      "name": "Maullame",
-      "url": "https://open.spotify.com/track/0hKXlakDWwbKS43VuHDV5d"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
-        "name": "VISAJE",
-        "url": "https://open.spotify.com/album/3rmJz1xTuiVeUPGRwpfDmb"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "VISAJE",
-      "url": "https://open.spotify.com/track/6P8exce0caeTZ1uaKkS2wT"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
         "name": "PLEBITA",
         "url": "https://open.spotify.com/album/1LeugvjTI7mdcVwmED0DpW"
       },
@@ -1199,6 +1167,22 @@
       "duration_ms": 147228,
       "name": "PLEBITA",
       "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "VISAJE",
+        "url": "https://open.spotify.com/album/3rmJz1xTuiVeUPGRwpfDmb"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "VISAJE",
+      "url": "https://open.spotify.com/track/6P8exce0caeTZ1uaKkS2wT"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1239,8 +1223,8 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "Partyson",
-        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+        "name": "Maullame",
+        "url": "https://open.spotify.com/album/02SfPrc9u72kuzrv2ZFjFj"
       },
       "artists": [
         {
@@ -1248,9 +1232,9 @@
           "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Solt\u00e1ndote",
-      "url": "https://open.spotify.com/track/1Wez9szTYiHFQVtjNTID4h"
+      "duration_ms": 246428,
+      "name": "Maullame",
+      "url": "https://open.spotify.com/track/0hKXlakDWwbKS43VuHDV5d"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1371,34 +1355,6 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
-        "url": "https://open.spotify.com/album/705CyZCCFXeFcybba6kvmv"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        }
-      ],
-      "duration_ms": 308252,
-      "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
-      "url": "https://open.spotify.com/track/2EudY7VpHg91v5PDkinD37"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
         "name": "Perreando Triste (feat. Uzielito Mix)",
         "url": "https://open.spotify.com/album/0Z0tJ5ucn0zI9Z1nuPruCs"
       },
@@ -1427,6 +1383,22 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
+        "name": "La Manzana",
+        "url": "https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "La Manzana",
+      "url": "https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
         "name": "ALTER EGO",
         "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
       },
@@ -1443,6 +1415,66 @@
       "duration_ms": 168125,
       "name": "Ella Perrea",
       "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
+        "url": "https://open.spotify.com/album/705CyZCCFXeFcybba6kvmv"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "duration_ms": 308252,
+      "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
+      "url": "https://open.spotify.com/track/2EudY7VpHg91v5PDkinD37"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Solt\u00e1ndote",
+      "url": "https://open.spotify.com/track/1Wez9szTYiHFQVtjNTID4h"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
+        "name": "Te Leo",
+        "url": "https://open.spotify.com/album/64eQsDC3CcmAxkXjkyYhT2"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "duration_ms": 154946,
+      "name": "Te Leo",
+      "url": "https://open.spotify.com/track/342n43KiWAClLsJi1JTvRb"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1499,34 +1531,22 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "La Manzana",
-        "url": "https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s"
+        "name": "Maleante (Remix)",
+        "url": "https://open.spotify.com/album/5aNTwj8EGOyacwFpHnz79w"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 196626,
-      "name": "La Manzana",
-      "url": "https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
-        "name": "Te Leo",
-        "url": "https://open.spotify.com/album/64eQsDC3CcmAxkXjkyYhT2"
-      },
-      "artists": [
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        },
         {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 154946,
-      "name": "Te Leo",
-      "url": "https://open.spotify.com/track/342n43KiWAClLsJi1JTvRb"
+      "duration_ms": 192498,
+      "name": "Maleante - Remix",
+      "url": "https://open.spotify.com/track/1UZBseuNx6Z3o4y0n7UqmE"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1587,26 +1607,6 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "Maleante (Remix)",
-        "url": "https://open.spotify.com/album/5aNTwj8EGOyacwFpHnz79w"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 192498,
-      "name": "Maleante - Remix",
-      "url": "https://open.spotify.com/track/1UZBseuNx6Z3o4y0n7UqmE"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
         "name": "SIGUE ROMPIENDO",
         "url": "https://open.spotify.com/album/568DuSYRbAO53b0PYiynGg"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
+        "name": "Nos Entendemos",
+        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 176016,
+      "name": "Nos Entendemos",
+      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+    },
+    {
+      "added_at": "2023-12-08 20:24:21",
+      "album": {
         "name": "EASY BOY",
         "url": "https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd"
       },
@@ -1663,18 +1679,22 @@
     {
       "added_at": "2023-12-08 20:24:21",
       "album": {
-        "name": "Nos Entendemos",
-        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
+        "name": "Suena El Bajo",
+        "url": "https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP"
       },
       "artists": [
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 176016,
-      "name": "Nos Entendemos",
-      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+      "duration_ms": 194968,
+      "name": "Suena el Bajo",
+      "url": "https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2"
     },
     {
       "added_at": "2023-12-08 20:24:21",
@@ -1715,26 +1735,6 @@
       "duration_ms": 221664,
       "name": "PARTY TETEO",
       "url": "https://open.spotify.com/track/4vJJKzfLfLEOGHG4b1G9Y1"
-    },
-    {
-      "added_at": "2023-12-08 20:24:21",
-      "album": {
-        "name": "Suena El Bajo",
-        "url": "https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 194968,
-      "name": "Suena el Bajo",
-      "url": "https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2"
     },
     {
       "added_at": "2023-12-08 20:24:21",

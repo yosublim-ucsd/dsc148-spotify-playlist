@@ -4053,6 +4053,32 @@
     },
     {
       "album": {
+        "name": "Modo",
+        "url": "https://open.spotify.com/album/2zp7KQL4JmQHf5NbQt3Ygk"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Dj Kamo",
+          "url": "https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6"
+        },
+        {
+          "name": "Oyoshe",
+          "url": "https://open.spotify.com/artist/6t49JCW50szpbRh9TuX2s8"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Modo",
+      "url": "https://open.spotify.com/track/2o0p3cv07zS46ieNAwfKlW"
+    },
+    {
+      "album": {
         "name": "Gifted",
         "url": "https://open.spotify.com/album/6Sxy1EntT5Zo3xFCwyXKKs"
       },
@@ -4826,7 +4852,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 229560,
       "name": "Parole",
       "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"

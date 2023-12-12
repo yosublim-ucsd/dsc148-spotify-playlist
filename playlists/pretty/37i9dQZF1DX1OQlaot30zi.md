@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Drefgold, Tony Boy, Artie 5ive, Rondodasosa e molti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,872 likes - 90 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,885 likes - 90 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 89 | [OK MAMI](https://open.spotify.com/track/6t5W1nl8h6VPHEE2MgEicl) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [OK MAMI](https://open.spotify.com/album/3HwtyUSCaTG0ckyLmdZBdz) | 2:34 |
 | 90 | [6AM](https://open.spotify.com/track/3skksFC3Gy9u6iLm84rJOk) | [Bl3dem](https://open.spotify.com/artist/5b9VtaD7uwViASOs11FquB) | [6AM](https://open.spotify.com/album/5omc58Ar8rHuw2qUYWFswU) | 3:27 |
 
-Snapshot ID: `MCw1NWMwZWRkYjE0YTAzODYyOWRlNjE3ZjM0NmE5YWJmMzYxZjVkZjU3`
+Snapshot ID: `MCwyYmRkOWI3MWNhZWMwY2UwYjFkZWM0ZGZlMDVhNjJjMDQ4NGYzNGRm`

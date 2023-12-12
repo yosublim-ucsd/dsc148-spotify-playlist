@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 25187,
+  "num_followers": 25204,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTZmNTFmYmNjMmZlNWE3YjVjYzk4MjhjNjcxYmUzOTM3ZjE3OTNk",
+  "snapshot_id": "MCxkNmU4MTViMmRmMzE0MTA3ZjY3N2M2MTFkZmNkZGQ2ZWFmZWI5NTM5",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
-        "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Italian Classics: Fred Bongusto, Vol. 1",
         "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 168642,
       "name": "Una rotonda sul mare",
       "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
+        "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Il Meglio",
-        "url": "https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU"
-      },
-      "artists": [
-        {
-          "name": "Mario Tessuto",
-          "url": "https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Lisa dagli occhi blu",
-      "url": "https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Ritratto Di Gianni",
         "url": "https://open.spotify.com/album/47klfSZp0cH7rvCj9S0qmo"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 136000,
       "name": "Se Puoi Uscire Una Domenica Sola Con Me",
       "url": "https://open.spotify.com/track/0IX18Ln5xLonOn4DKXlcMt"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Il Meglio",
+        "url": "https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU"
+      },
+      "artists": [
+        {
+          "name": "Mario Tessuto",
+          "url": "https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Lisa dagli occhi blu",
+      "url": "https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Anni '60",
+        "url": "https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 137665,
+      "name": "24.000 Baci",
+      "url": "https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Righeira The 80's Hit Songs",
         "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 198373,
       "name": "Un'estate al mare",
       "url": "https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Anni '60",
-        "url": "https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 137665,
-      "name": "24.000 Baci",
-      "url": "https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK"
     },
     {
       "added_at": "2023-06-05 07:42:38",

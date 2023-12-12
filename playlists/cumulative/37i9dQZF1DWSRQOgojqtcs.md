@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-144 songs - 8 hr 54 min
+145 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [M31 \(Racing down the Hume\)](https://open.spotify.com/track/4UR73u6KPuWoqIKv4JwwiJ) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [M31 \(Racing down the Hume\)](https://open.spotify.com/album/0OU300xi5Q4hmuU6nv2Kp8) | 2:14 | 2022-09-14 |  |
 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 | 2022-09-14 |  |
 | [Monologue](https://open.spotify.com/track/2gV5NMri6fyQfOf2M1ovJM) | [Putrika](https://open.spotify.com/artist/5awAtBuVQEV68Nvs1loiby) | [Silmara](https://open.spotify.com/album/1px4Nxt7hD6KtVBlNLDXzb) | 4:30 | 2022-09-14 |  |
-| [Must Be Love](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2022-09-14 |  |
+| [Must Be Love](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2022-09-14 | 2023-12-12 |
+| [Must Be Love](https://open.spotify.com/track/5bIcHT2jjWqm9UVpIJwIId) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love](https://open.spotify.com/album/3KZrksMVrTZVqKu2qIJ0G4) | 4:30 | 2022-09-15 |  |
 | [Natural Beauty](https://open.spotify.com/track/0WEnEhULdWHeKDr4gsropA) | [LJ Waiters](https://open.spotify.com/artist/67wGdNGk0xWzIN4J86W9Iz) | [Lost in Sound \- Rare Soul & Funk Essentials](https://open.spotify.com/album/6BbMWc3YyOT6BXQP1I36OV) | 3:03 | 2022-09-14 |  |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-09-14 |  |
 | [On The Move](https://open.spotify.com/track/0bHyslF1DSnm9eyYQOQUtE) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [On the Move](https://open.spotify.com/album/1VLMheujIj4G6USXsYgEqp) | 3:14 | 2022-09-14 |  |

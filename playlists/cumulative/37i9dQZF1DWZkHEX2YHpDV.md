@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,094 songs - 2 day 9 hr 47 min
+1,095 songs - 2 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [A Real Thing](https://open.spotify.com/track/5cHFMi5m8FTcYOjzgzmXt1) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [A Real Thing](https://open.spotify.com/album/53IuAG6Mqh2iMjI3b1ithn) | 3:35 | 2022-02-11 | 2022-04-12 |
 | [A Song For Dan](https://open.spotify.com/track/7yNGXJgbrWuDBuaw0epS6W) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Twenty](https://open.spotify.com/album/675XmEdhjSVOK5HT4gDQBe) | 4:59 | 2022-03-25 | 2022-04-12 |
 | [A Summer Song](https://open.spotify.com/track/7nCcB00RZZFD3BEAQMa4O3) | [Dusty Miller](https://open.spotify.com/artist/43iKuF1Cf7G4jp0N9mOnTP) | [A Summer Song](https://open.spotify.com/album/3AAnAmJWM9t1YkW9zS9U7d) | 3:22 | 2022-03-25 | 2022-04-11 |
+| [A\. Hole](https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97) | [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS), [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [A\. Hole](https://open.spotify.com/album/0oyN7KFYXUH32KK5jxxcDj) | 2:32 | 2023-12-08 |  |
 | [About Me](https://open.spotify.com/track/6DPYOdc3XuaZNFVm3QVghN) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [About Me](https://open.spotify.com/album/4rMJURfRMq7kPbYbt02Wkq) | 3:32 | 2023-11-10 |  |
 | [Act Like That](https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 3:03 | 2022-05-13 | 2023-12-09 |
 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/6PxNpy8jOjyZ8aGCD58LpW) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1) | 3:11 | 2021-12-10 | 2022-11-05 |
@@ -679,7 +680,7 @@
 | [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 | 2023-04-28 |  |
 | [Numb](https://open.spotify.com/track/6cAfDyLZ3QYHVdVxMZKPl1) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Numb](https://open.spotify.com/album/0747YzEM47zpjBxHEWX8ho) | 2:26 | 2021-12-10 | 2022-05-20 |
 | [Numb Without You](https://open.spotify.com/track/22aSl53GhZ1y0R4neQ11pd) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [You Are OK](https://open.spotify.com/album/0DRUOQBsax8QLUVctbEIAT) | 3:32 | 2021-12-10 | 2022-06-08 |
-| [Oaklands Finest Glass Beaches](https://open.spotify.com/track/7npNvZnmP6lmVH0TcVJuRC) | [The Seafloor Cinema](https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru) | [Oaklands Finest Glass Beaches](https://open.spotify.com/album/6R88hYGnHoU0jzGwAtJZtq) | 3:39 | 2023-12-08 |  |
+| [Oaklands Finest Glass Beaches](https://open.spotify.com/track/7npNvZnmP6lmVH0TcVJuRC) | [The Seafloor Cinema](https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru) | [Oaklands Finest Glass Beaches](https://open.spotify.com/album/6R88hYGnHoU0jzGwAtJZtq) | 3:39 | 2023-12-08 | 2023-12-12 |
 | [October Forever](https://open.spotify.com/track/0jXWHgBV8o9XJjBqTAOLal) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [October Forever](https://open.spotify.com/album/0gI8bB60XLjJWKPC2bWtcS) | 4:11 | 2021-12-10 | 2023-04-11 |
 | [Oh Sh!t](https://open.spotify.com/track/0Bk4UjGoO5RLjPnGq19lw5) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [Oh Sh!t](https://open.spotify.com/album/2wkX6PQGxNyh7uCgHsL8Ov) | 3:06 | 2021-12-10 | 2022-06-24 |
 | [Ohio is for Lovers](https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ohio is for Lovers](https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331) | 3:52 | 2021-12-10 | 2023-04-06 |

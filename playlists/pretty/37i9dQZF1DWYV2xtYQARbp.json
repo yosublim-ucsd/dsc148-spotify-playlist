@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 14331,
+  "num_followers": 14332,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmMyNjMxOWQzOGIxYWFhYTRjMmNlMjg0ZTU3OGNmNjllYTBiZTUy",
+  "snapshot_id": "MCwyZmY4YjU4YjJjNzlkNGVjYWU0MDBjZjJhMDAwMTgzOGFkYjg1Nzg1",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Acme",
         "url": "https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 175440,
       "name": "Davy Crockett",
       "url": "https://open.spotify.com/track/31YjnyR8BJphQKK33Rm1wD"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -187,6 +187,38 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 160506,
+      "name": "The Way I Walk",
+      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Horndog Fest",
+        "url": "https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK"
+      },
+      "artists": [
+        {
+          "name": "The Dirtbombs",
+          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "I Can't Stop Thinking About It",
+      "url": "https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Moanin'",
         "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
       },
@@ -219,18 +251,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Horndog Fest",
-        "url": "https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK"
+        "name": "Dual Mono",
+        "url": "https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk"
       },
       "artists": [
         {
-          "name": "The Dirtbombs",
-          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
+          "name": "The Greenhornes",
+          "url": "https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv"
         }
       ],
-      "duration_ms": 183533,
-      "name": "I Can't Stop Thinking About It",
-      "url": "https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ"
+      "duration_ms": 247306,
+      "name": "Too Much Sorrow",
+      "url": "https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -247,22 +279,6 @@
       "duration_ms": 177546,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Dual Mono",
-        "url": "https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk"
-      },
-      "artists": [
-        {
-          "name": "The Greenhornes",
-          "url": "https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Too Much Sorrow",
-      "url": "https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -295,22 +311,6 @@
       "duration_ms": 232626,
       "name": "Nitroglycerine",
       "url": "https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "The Way I Walk",
-      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Thunderbird ESQ",
+      "url": "https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Fire of Love (Remastered 2020)",
         "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 250146,
       "name": "Rock & Roll Nurse",
       "url": "https://open.spotify.com/track/4LSmyBPIS2d9vGjsI9omRn"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Thunderbird ESQ",
-      "url": "https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Popular Favorites",
         "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+        "name": "Too Much Guitar",
+        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
       },
       "artists": [
         {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+          "name": "Reigning Sound",
+          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
+      "duration_ms": 123013,
+      "name": "Get It!",
+      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -635,22 +651,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Too Much Guitar",
-        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
-      },
-      "artists": [
-        {
-          "name": "Reigning Sound",
-          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
-        }
-      ],
-      "duration_ms": 123013,
-      "name": "Get It!",
-      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "14 Frenzied Shakers",
         "url": "https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "(Sometimes You Got to Be) Gentle",
-      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The Kids Are All Square - This Is Hip & Girlsville",
         "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 145400,
       "name": "Round Every Corner",
       "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "(Sometimes You Got to Be) Gentle",
+      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
     },
     {
       "added_at": "2022-03-28 20:14:58",

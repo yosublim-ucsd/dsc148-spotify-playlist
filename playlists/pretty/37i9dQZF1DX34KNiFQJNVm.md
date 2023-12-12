@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Solange Almeida e Mari Fernandez, Luan Santana e Ana Castela, Peso Pluma e Anitta e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,926,859 likes - 97 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,927,227 likes - 97 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 91 | [Abusadamente 2](https://open.spotify.com/track/6pRHt5rkipM8gcMVI5j8WG) | [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez), [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at), [DJ Cassula](https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny) | [Abusadamente 2](https://open.spotify.com/album/7gUcOks8xynqwfiqmJGMND) | 3:33 |
 | 92 | [Vacilou](https://open.spotify.com/track/5uLt3BGKQLN7Vgue5YHMqC) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP) | [Vacilou](https://open.spotify.com/album/0Z8D5uBGTJuYxJkYljlt9h) | 3:02 |
 | 93 | [Natal Diferenciado ou Presente Antecipado](https://open.spotify.com/track/3ZdrVgmggXYdvWtprqZrSa) | [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v), [MC Senna](https://open.spotify.com/artist/4ltBJ2gTEDle49DY0DuWXY), [A Chave](https://open.spotify.com/artist/00i5TkJbhMJt2oa9GwOjck) | [Natal Diferenciado ou Presente Antecipado](https://open.spotify.com/album/5rLi04kP0iguJQnjHNxIde) | 2:18 |
-| 94 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
+| 94 | [VAPOR](https://open.spotify.com/track/3yzvgHmlM3nOPuzSmIz43Z) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Luiz Brazil](https://open.spotify.com/artist/4eVBI7aLNfxuynEDNki3wk) | [DNA](https://open.spotify.com/album/2MsolTrnzuwbFCDwzXsbdp) | 2:19 |
 | 95 | [Juras De Amor](https://open.spotify.com/track/5TTerkWDZPhRqFaHBTfiV0) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Juras De Amor](https://open.spotify.com/album/7kHFuafy2K2CSNghMZuFsY) | 2:59 |
-| 96 | [CAVALO](https://open.spotify.com/track/1sUm4MP3HONaWirVHHQolW) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [DNA](https://open.spotify.com/album/2MsolTrnzuwbFCDwzXsbdp) | 3:43 |
-| 97 | [Chega No Céu](https://open.spotify.com/track/1qJQ19YelMgCwKzCksuAuv) | [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Chega No Céu](https://open.spotify.com/album/5ouXiGEQDB4dKZZdwYhUVS) | 3:47 |
+| 96 | [Chega No Céu](https://open.spotify.com/track/1qJQ19YelMgCwKzCksuAuv) | [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Chega No Céu](https://open.spotify.com/album/5ouXiGEQDB4dKZZdwYhUVS) | 3:47 |
+| 97 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
 
-Snapshot ID: `MCxmY2IxNWFjMzFlNDQyOTczODk5NWNiODUxYjA2Mjg4YWNhODQ0N2Vh`
+Snapshot ID: `MCw3ZTJiOTRlODIxZDFlNWNhZmE4ZmZhOGMzNzI5Mzk3MTJiZGI3NTg5`

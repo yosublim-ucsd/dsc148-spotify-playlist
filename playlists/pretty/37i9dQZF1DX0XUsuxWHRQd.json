@@ -1,35 +1,15 @@
 {
   "description": "New music from Nicki Minaj, NLE Choppa and Southside with Lil Yachty. ",
-  "num_followers": 15706651,
+  "num_followers": 15708086,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWUyZjI1NWI0OTc3ZDI2YzgzMWNlYzQxNDRlZTU4M2I3YzRjYjY4",
+  "snapshot_id": "MCxlNzk3YzI0NWZiMjAyNTM3MjQyNGM0NGVmOWJlZDAzNGQwYjJhZThi",
   "tracks": [
     {
-      "added_at": "2023-12-08 05:00:13",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 235689,
-      "name": "Needle (feat. Drake)",
-      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
-    },
-    {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -45,7 +25,7 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -65,7 +45,7 @@
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
@@ -89,7 +69,27 @@
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
+    {
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Tee's Coney Island",
         "url": "https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Lottery Pick",
         "url": "https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/1fKT7RUtOf4xNEqctEFe5L"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Shotta Flow 7",
         "url": "https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -177,27 +177,7 @@
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
-      "album": {
-        "name": "Gimme Da Lite",
-        "url": "https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx"
-      },
-      "artists": [
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Gimme Da Lite",
-      "url": "https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn"
-    },
-    {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
@@ -217,7 +197,7 @@
       "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "500lbs",
         "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
@@ -233,7 +213,7 @@
       "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
@@ -249,7 +229,7 @@
       "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -265,7 +245,7 @@
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
@@ -289,7 +269,7 @@
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Mmhmm",
         "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
@@ -305,7 +285,7 @@
       "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -321,7 +301,27 @@
       "url": "https://open.spotify.com/track/0ZhPWSfAKzeVQbRG08E1iI"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
+      "album": {
+        "name": "Gimme Da Lite",
+        "url": "https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Gimme Da Lite",
+      "url": "https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn"
+    },
+    {
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "HVN ON EARTH",
         "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "First Day Out (Freestyle)",
         "url": "https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Glizock & Wizop (feat. Key Glock)",
         "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Now or Neva (feat. Moneybagg Yo & YTB Fatt)",
         "url": "https://open.spotify.com/album/3kDxLToBvaHZetsjwy605w"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/7rx8jrF9kvwIr2lQIMPZLG"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Bent",
         "url": "https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "THE BIGGEST",
         "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Presha",
         "url": "https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Big Dog",
         "url": "https://open.spotify.com/album/5N1Y4h6H1fiS7tIL0fPivM"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Been One",
         "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Cottonwood 2 (Deluxe 2.0)",
         "url": "https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Bachelor",
         "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Cobra",
         "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Turn Yo Clic Up (feat. Future)",
         "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
         "url": "https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "B4 BOA",
         "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "When I Was Dead",
         "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Cold (feat. B.G. & Mike WiLL Made-It)",
         "url": "https://open.spotify.com/album/30n2gaTkEAk04fqVGusVNh"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/4PKh6tJP16etcy2eKyMODe"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Nightmares In the Trenches",
         "url": "https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/24zmKlJp1LlIRpagSbMaRY"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "ISSA PARTY (feat. BabyDrill)",
         "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Too Good To Be True",
         "url": "https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX"
@@ -953,7 +953,7 @@
       "url": "https://open.spotify.com/track/3dw4v5lOsKRqIX3c1bouJW"
     },
     {
-      "added_at": "2023-12-08 05:00:13",
+      "added_at": "2023-12-11 16:08:43",
       "album": {
         "name": "Decided 2",
         "url": "https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ"

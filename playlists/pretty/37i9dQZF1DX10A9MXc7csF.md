@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Cuatro De Oro
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,271 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,277 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 64 | [Dame Amor](https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Dame Amor](https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs) | 3:29 |
 | 65 | [Salieron Rumores](https://open.spotify.com/track/0SX9Hs9YY4AP4Z9CR33tAv) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Salieron Rumores](https://open.spotify.com/album/6Fs1Gcj7MrYUMEzOUA7CYB) | 2:19 |
 
-Snapshot ID: `MCw3M2I0OGJiYTQyMmU5ZWQ4MjNiNWRlZmYyYzdmMzU1YTdjMWFkMmY0`
+Snapshot ID: `MCw4NTVjNDA2ODM1ZTc5NTJjN2NiMTdjNjk1ZDgyMWFjYTM1MDk4NDAz`

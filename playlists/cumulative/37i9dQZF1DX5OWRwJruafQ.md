@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-269 songs - 12 hr 50 min
+270 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 | 2023-03-29 |  |
 | [Ilzaam](https://open.spotify.com/track/0orOI8nTid7fxPvWIx1tKP) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:07 | 2023-07-07 |  |
 | [Immortal](https://open.spotify.com/track/1kaKltt8lpftj69XODO4RM) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:51 | 2023-09-04 | 2023-10-07 |
-| [IN THE STREETS](https://open.spotify.com/track/1jAepNdYeGKA4yWE2NXxeI) | [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [IN THE STREETS](https://open.spotify.com/album/5ysZuIFL6tlJnFFPitsuIF) | 2:07 | 2023-11-29 |  |
+| [IN THE STREETS](https://open.spotify.com/track/1jAepNdYeGKA4yWE2NXxeI) | [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [IN THE STREETS](https://open.spotify.com/album/5ysZuIFL6tlJnFFPitsuIF) | 2:07 | 2023-11-29 | 2023-12-12 |
 | [Invincible \(feat\. Stefflon Don\)](https://open.spotify.com/track/2NBYiYtI4v1ujkhHZBq3xw) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:04 | 2023-03-29 | 2023-07-15 |
 | [Iran](https://open.spotify.com/track/2sAvvxcPYW5qJmFWCTSoFv) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 2:35 | 2023-06-23 | 2023-07-13 |
 | [It Ain't Legal](https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 3:34 | 2023-03-29 | 2023-07-15 |
@@ -144,6 +144,7 @@
 | [Khadaak](https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok), [Micheal](https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1) | [Khadaak](https://open.spotify.com/album/0Wjak0wq7GXx6Gkf0FN1Q5) | 2:37 | 2023-09-21 |  |
 | [Khauf \(From "Zindagi Zindabaad"\)](https://open.spotify.com/track/4AOblHfneYWvjUl1clwzLU) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c), [Pardeep Malak](https://open.spotify.com/artist/2adVNkNRt1fiCW4vIeK2NO) | [Khauf \(From "Zindagi Zindabaad"\)](https://open.spotify.com/album/4k5j3g48igjYLTmFGITUSc) | 3:18 | 2023-10-11 |  |
 | [Kheti](https://open.spotify.com/track/1hMyjH2oMJFxvSCCrPZZJu) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Kheti](https://open.spotify.com/album/3e3Q7c1GmicU3kxmU9WWg8) | 2:15 | 2023-06-09 | 2023-07-13 |
+| [KILLSHOT](https://open.spotify.com/track/0kkipac2zXY3DO7UcajsAg) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Dhanju](https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M) | [KILLSHOT](https://open.spotify.com/album/51xLM3es2JQBxvbeRcKDEs) | 2:37 | 2023-12-11 |  |
 | [Koi Chakkar Nii](https://open.spotify.com/track/1z3Urp9Mt8wAIozjMtRkhf) | [Khush Brarr](https://open.spotify.com/artist/2gERdqGqefecJixIARKagS), [Sukh Husnar](https://open.spotify.com/artist/14EtzLs3uZ8lzMDTXFb6T1) | [Koi Chakkar Nii](https://open.spotify.com/album/7e1K5CwQVHPF9jAFsC2FyI) | 2:15 | 2023-11-15 | 2023-11-24 |
 | [La La La La](https://open.spotify.com/track/07NxMfatGTEK0P5gZPFKd2) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx) | [La La La La](https://open.spotify.com/album/4emZDlp8foAyMAScjiZmjQ) | 2:39 | 2023-07-20 | 2023-08-04 |
 | [Laadla](https://open.spotify.com/track/5mGAQXwHbwdknsmupmSvrI) | [Deep Kahlon](https://open.spotify.com/artist/13I6uR82Cjz7RlWtGDBXnz) | [Laadla](https://open.spotify.com/album/5NyFfchNcLDT04OTahxUPI) | 4:07 | 2023-10-04 |  |

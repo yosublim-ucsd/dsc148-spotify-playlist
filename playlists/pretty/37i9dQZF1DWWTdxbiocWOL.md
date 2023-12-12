@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Thunder is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,335 likes - 40 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,309 likes - 40 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,15 +20,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 10 | [Frozen Twilight](https://open.spotify.com/track/6yMlHBgwnIhrF2Qvnt2Yyn) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [A Moment of Stillness \(2011 Remastered Edition\)](https://open.spotify.com/album/1eVrXeDRsZQFM4DtSbUzKr) | 6:17 |
 | 11 | [Worth Everything Ever Wished for](https://open.spotify.com/track/2j3qLgBCLoLhv4zbzNmc16) | [The End Of The Ocean](https://open.spotify.com/artist/4AXRViJcT2cJ0x1CxSSldW) | [Pacific•atlantic](https://open.spotify.com/album/0AcN6qKwf00huBIs83EcSO) | 5:54 |
 | 12 | [Twentytwofourteen](https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 5:40 |
-| 13 | [Glósóli](https://open.spotify.com/track/0YTfMKGPhWhjS9wgzWvfaf) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 6:15 |
-| 14 | [The World Is Our \_\_\_](https://open.spotify.com/track/1EKk6Xvei9N9scaQcrax2S) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Young Mountain](https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5) | 7:12 |
+| 13 | [The World Is Our \_\_\_](https://open.spotify.com/track/1EKk6Xvei9N9scaQcrax2S) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Young Mountain](https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5) | 7:12 |
+| 14 | [Glósóli](https://open.spotify.com/track/0YTfMKGPhWhjS9wgzWvfaf) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 6:15 |
 | 15 | [I'm Jim Morrison, I'm Dead](https://open.spotify.com/track/1fV2Bp9JpE1CavonususVW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [The Hawk Is Howling](https://open.spotify.com/album/6XfWE0VdiRbH9QWfyLibxW) | 6:44 |
 | 16 | [The First Fire](https://open.spotify.com/track/0glEvaWrhIP0boU56o5Q9U) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Red Forest](https://open.spotify.com/album/0i1vP6JtYq4kE3oygILHzk) | 6:30 |
 | 17 | [Silent Flight, Sleeping Dawn \- Remastered](https://open.spotify.com/track/0Dv3M0Ck4n9anoPu1VQ5fU) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind \(Anniversary Edition\)](https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK) | 6:00 |
 | 18 | [Zaris](https://open.spotify.com/track/3lG9eYlhnipGfvAR4ZkBk7) | [Mooncake](https://open.spotify.com/artist/6DKVucXliE7U2RV52HF1YL) | [Zaris / Cast the Route](https://open.spotify.com/album/7s5TjksKTu7Ox6KMgHTqBt) | 5:15 |
 | 19 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
-| 20 | [Water from the Same Source](https://open.spotify.com/track/7vVoaTSJ0k4i2quvEDa3cP) | [Christian Erik Frederickson](https://open.spotify.com/artist/2Gl0BI6yJTFHtkSBdDV4Dn), [Jason Bingham Noble](https://open.spotify.com/artist/37icBaQPxG3PZU6h5pTQMK), [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9), [Rachel's](https://open.spotify.com/artist/0sXLPUQAB1hir58hoQnxZa) | [Systems / Layers](https://open.spotify.com/album/3CnIIKifMcJsclpMDEG9y4) | 6:18 |
-| 21 | [Threads](https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 5:39 |
+| 20 | [Threads](https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 5:39 |
+| 21 | [Water from the Same Source](https://open.spotify.com/track/7vVoaTSJ0k4i2quvEDa3cP) | [Christian Erik Frederickson](https://open.spotify.com/artist/2Gl0BI6yJTFHtkSBdDV4Dn), [Jason Bingham Noble](https://open.spotify.com/artist/37icBaQPxG3PZU6h5pTQMK), [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9), [Rachel's](https://open.spotify.com/artist/0sXLPUQAB1hir58hoQnxZa) | [Systems / Layers](https://open.spotify.com/album/3CnIIKifMcJsclpMDEG9y4) | 6:18 |
 | 22 | [Unmake the Wild Light](https://open.spotify.com/track/7EmaLbhPGnQuw4riUkvlkp) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [Wild Light](https://open.spotify.com/album/3a68UJXba5ejXgM5K8BUVF) | 6:23 |
 | 23 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 |
 | 24 | [Job's Lament](https://open.spotify.com/track/6rK7VyAi0XGdhz4LdzXVZj) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 8:02 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 33 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 6:07 |
 | 34 | [In Illusions Of Order](https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g) | [Red Sparowes](https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw) | [The Fear Is Excruciating, But Therein Lies The Answer](https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR) | 7:36 |
 | 35 | [From Embrace To Embrace](https://open.spotify.com/track/2AHejGSGKvO4qu4f26uyEa) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 6:23 |
-| 36 | [Safety in Numbers](https://open.spotify.com/track/5RDhMJXMbRMIdRkvV3w2Df) | [Jakob](https://open.spotify.com/artist/0SBEeMzVANjUpI6gTQdTic) | [Solace](https://open.spotify.com/album/2iNLwx97kVhWiEAdJqALOL) | 7:53 |
-| 37 | [Alaska](https://open.spotify.com/track/4h0iGeA83sYvsngisIw92M) | [Kwoon](https://open.spotify.com/artist/1ctreRQSlu47UoP3po9zd2) | [Alaska](https://open.spotify.com/album/5hSPs0thai8mK30ivMFHeY) | 6:43 |
+| 36 | [Alaska](https://open.spotify.com/track/4h0iGeA83sYvsngisIw92M) | [Kwoon](https://open.spotify.com/artist/1ctreRQSlu47UoP3po9zd2) | [Alaska](https://open.spotify.com/album/5hSPs0thai8mK30ivMFHeY) | 6:43 |
+| 37 | [Safety in Numbers](https://open.spotify.com/track/5RDhMJXMbRMIdRkvV3w2Df) | [Jakob](https://open.spotify.com/artist/0SBEeMzVANjUpI6gTQdTic) | [Solace](https://open.spotify.com/album/2iNLwx97kVhWiEAdJqALOL) | 7:53 |
 | 38 | [A Sixth Trumpet](https://open.spotify.com/track/0kqR9yoySq4IQSvEql8h4L) | [From Monument To Masses](https://open.spotify.com/artist/1U5hX2xotG9ilMOlgNekbq) | [On Little Known Frequencies](https://open.spotify.com/album/7lBdDIeIgMb1mWloh7N3Ea) | 5:35 |
 | 39 | [El Odio\. Parte I](https://open.spotify.com/track/0NE9QEMV1ljhNC8WB6UqYC) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [Hex](https://open.spotify.com/album/13NnZjrIhPo1L9W4flldxv) | 8:05 |
 | 40 | [We'll Find the Light in Darkness](https://open.spotify.com/track/1aWPIurjGonozOh46AzNcj) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [We'll Find the Light in Darkness](https://open.spotify.com/album/7JOwJdBWGN0GAKcEf1qanb) | 4:41 |
 
-Snapshot ID: `MCxhZjM3M2EyNDZlMmE3YTQxMjBkZGM0NjBlNzVjNmIwZmJlYjg2MWFm`
+Snapshot ID: `MCxkYmQyYmZiNTU4MzZkNDNjYmRlZjM1NGY3NDk4YWMzODYyNGEwZjQ2`

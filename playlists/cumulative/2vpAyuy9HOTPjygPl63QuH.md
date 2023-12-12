@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,586 songs - 3 day 18 hr 28 min
+1,587 songs - 3 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Dive In \(feat\. Notelle\)](https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Dive In \(feat\. Notelle\)](https://open.spotify.com/album/1GTv5ZKph34mZHssztNvVe) | 2:51 | 2023-09-29 | 2023-10-07 |
 | [DNA \- Edit](https://open.spotify.com/track/1gN4h4k7jraLSnWMaX5VUR) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [DNA / Fire](https://open.spotify.com/album/5dl70z79HnPBuZWeggQsAj) | 2:44 | 2023-12-01 |  |
 | [DO 2 U](https://open.spotify.com/track/5Y9MCecovfguPkYHw63jvJ) | [Bryan Softwell](https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf) | [DO 2 U](https://open.spotify.com/album/1CBv0oYf70prTPOBSr7llx) | 3:12 | 2022-07-29 | 2022-08-06 |
-| [Do Força](https://open.spotify.com/track/6vvHVzlCx5Rc5Z1G6bBFbT) | [DYSLOYAL](https://open.spotify.com/artist/4Nd0iuDHi8BNYsdXQR6DrT) | [Do Força](https://open.spotify.com/album/1zljvPZiE2W7f2zCx5Qgm4) | 3:16 | 2023-12-06 |  |
+| [Do Força](https://open.spotify.com/track/6vvHVzlCx5Rc5Z1G6bBFbT) | [DYSLOYAL](https://open.spotify.com/artist/4Nd0iuDHi8BNYsdXQR6DrT) | [Do Força](https://open.spotify.com/album/1zljvPZiE2W7f2zCx5Qgm4) | 3:16 | 2023-12-06 | 2023-12-12 |
 | [Do It](https://open.spotify.com/track/30RRuLFFXeW12R9nj5hDK5) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Maldades](https://open.spotify.com/album/5uAzH6sE61O90Sul8421QN) | 4:04 | 2023-02-17 | 2023-02-25 |
 | [Do It Like Me](https://open.spotify.com/track/3xgNqQJ6GCMb6kRZyLvnyz) | [Logan Camin](https://open.spotify.com/artist/1ZYrw1flEe0vZfDwE94G7o) | [Do It Like Me](https://open.spotify.com/album/2nrliuY92znfzFnihbY20f) | 3:04 | 2023-11-27 | 2023-12-09 |
 | [Do My Thing](https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Do My Thing](https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu) | 3:02 | 2023-06-09 | 2023-06-25 |
@@ -1524,6 +1524,7 @@
 | [What Are You Willing to Do?](https://open.spotify.com/track/6LQhlnQMLR6zF3a5ovlxY3) | [BIONT](https://open.spotify.com/artist/7Ju5W94oRtrScSvbIQywkq) | [What Are You Willing to Do?](https://open.spotify.com/album/1DHjxoHM5ngmuTVuivG1Y9) | 2:31 | 2023-05-19 | 2023-06-10 |
 | [What I Like](https://open.spotify.com/track/6nxucYK1pWYusbF7IMOoPO) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [What I Like](https://open.spotify.com/album/0f4b7yuFbZijD6nhZFnEOm) | 3:13 | 2023-09-08 | 2023-09-16 |
 | [What Is Love](https://open.spotify.com/track/5OuWYrXjymXPDdzj7sr6qm) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Tears & Marble](https://open.spotify.com/artist/3uyGXP74exNBF2EEGpFddA) | [What Is Love](https://open.spotify.com/album/1n2Ymd72BWdEauzzue9YRk) | 3:36 | 2022-06-23 | 2022-06-25 |
+| [What Is Right](https://open.spotify.com/track/6sp7wtuRu787wESII65Y16) | [Naes London](https://open.spotify.com/artist/06ToTnaBMXRD0fRLRqW4VI) | [What Is Right](https://open.spotify.com/album/74oXtCFopUqsz9tSPyrKKJ) | 6:09 | 2023-12-11 |  |
 | [What You Do To Me](https://open.spotify.com/track/4NCYMrOLBrhc9quAyZXfAy) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [DJ Justin James](https://open.spotify.com/artist/4uUSaemNvusVeyZFWSWLVh) | [What You Do To Me](https://open.spotify.com/album/0pQcJVRWTxU6QCrO0NB3Ft) | 4:38 | 2022-09-17 | 2022-09-24 |
 | [What You Say](https://open.spotify.com/track/2mkwcQDjwb9ZYdLECzjWYt) | [Frankie Polari](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9), [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [What You Say](https://open.spotify.com/album/7vIsH2fkaKrUaAvc1wZruE) | 2:38 | 2022-11-05 | 2022-11-12 |
 | [What You Waiting For?](https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [What You Waiting For?](https://open.spotify.com/album/122TcLx7ilK2T5Ri3mJ92C) | 3:51 | 2022-07-09 | 2022-07-16 |

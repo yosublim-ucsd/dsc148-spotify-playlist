@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-843 songs - 1 day 8 hr 46 min
+844 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Dreamz](https://open.spotify.com/track/2mooZdBPN5CMd9sLLqn7rl) | [August Sky](https://open.spotify.com/artist/6hm8yEY43m6Q5aq1O8oLwI) | [Dreamz](https://open.spotify.com/album/0nsR1tVzZZ1uFOKgXqswau) | 3:49 | 2022-04-15 |  |
 | [Driftwood](https://open.spotify.com/track/5Df3pDneVxrgAvEbgSX3Yv) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Driftwood](https://open.spotify.com/album/5pwPeU5EW7xkYcXYixuvjP) | 1:47 | 2022-04-15 | 2023-10-13 |
 | [Drip](https://open.spotify.com/track/3IjWchZ6NabiqZNzJ1yhCa) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Drip](https://open.spotify.com/album/5ZL8AF9ifQ7roWRyq6npH3) | 2:21 | 2023-09-04 | 2023-10-13 |
-| [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 | 2022-11-25 |  |
+| [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 | 2022-11-25 | 2023-12-12 |
 | [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2022-10-14 | 2023-10-20 |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2022-05-20 |  |
@@ -363,6 +363,7 @@
 | [Lazy Dreams](https://open.spotify.com/track/0MeDQSiROjluPfu8hF00bT) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Lazy Dreams](https://open.spotify.com/album/0dsR4JBGi6wYvVh8NF9PB9) | 2:12 | 2022-08-19 | 2023-09-11 |
 | [Lazy Wave](https://open.spotify.com/track/0NnNuDaIWS2aPRkKCgTDvE) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z) | [Lazy Wave](https://open.spotify.com/album/1gXyrT30rMvmePGUziVIVO) | 2:26 | 2022-10-14 |  |
 | [Leaves in the Wind](https://open.spotify.com/track/5M9p88M16vOx2r4WzDWghD) | [Tristan Wolf](https://open.spotify.com/artist/5IAm7Y4cKtHu7UC0ctNi7f), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Leaves in the Wind](https://open.spotify.com/album/3cK3SJKB0XOsULFz01Sx2r) | 2:18 | 2022-08-05 | 2022-08-12 |
+| [Left Behind](https://open.spotify.com/track/5nerxClu54joJ7YWik41y8) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [Left Behind](https://open.spotify.com/album/0FMVhAsPlHxnzT1IFSjyot) | 2:05 | 2023-12-08 |  |
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-15 | 2022-07-29 |
 | [Lemon Ginger](https://open.spotify.com/track/5YWNeJW5s40JgHGFiNhFh2) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Lemon Ginger](https://open.spotify.com/album/6TtmdWWZP4o3gJgUb2Q83f) | 2:33 | 2022-04-15 | 2022-07-22 |
 | [Lepricorn Ride](https://open.spotify.com/track/2YO5oyN7TcyRMlytlKxLmr) | [Sebastian Flecci](https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S) | [Magicos](https://open.spotify.com/album/1ji6VCa1jsz9wQ6cTX5Y0E) | 2:03 | 2022-09-02 |  |

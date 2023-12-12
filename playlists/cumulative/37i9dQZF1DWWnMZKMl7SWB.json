@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 123000,
       "name": "Antarctica",
       "url": "https://open.spotify.com/track/4XSdiAZD5pzVku3fnetINH"
@@ -4773,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "collogue",
+        "url": "https://open.spotify.com/album/1xexMTvQ3GWUGxhlxZ7min"
+      },
+      "artists": [
+        {
+          "name": "pipetiger",
+          "url": "https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120490,
+      "name": "collogue",
+      "url": "https://open.spotify.com/track/5sw8eqqQPKLkXydIyoLg2K"
+    },
+    {
+      "album": {
         "name": "Cologne",
         "url": "https://open.spotify.com/album/7KU81f2QeZGlqrGMztXlmW"
       },
@@ -6926,6 +6944,24 @@
       "duration_ms": 117120,
       "name": "Fading",
       "url": "https://open.spotify.com/track/1mL3YZ7HjesgGu2RWHacxv"
+    },
+    {
+      "album": {
+        "name": "Faint Light",
+        "url": "https://open.spotify.com/album/7ukkwqkIMsfgYyQwiYXGG5"
+      },
+      "artists": [
+        {
+          "name": "Dip Lewis",
+          "url": "https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "Faint Light",
+      "url": "https://open.spotify.com/track/5XtvHaPeewGmFmTsOUNSvF"
     },
     {
       "album": {
@@ -11736,6 +11772,24 @@
       "duration_ms": 119166,
       "name": "lite",
       "url": "https://open.spotify.com/track/4IXfJbHFwjkDKLKBS9IZwK"
+    },
+    {
+      "album": {
+        "name": "Little Did I Know",
+        "url": "https://open.spotify.com/album/0N7Jz53U5I1wJfQ7tSDmVs"
+      },
+      "artists": [
+        {
+          "name": "Miki Maou",
+          "url": "https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Little Did I Know",
+      "url": "https://open.spotify.com/track/2sf7qX369WsHFulMxWgQzN"
     },
     {
       "album": {
@@ -19440,7 +19494,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 136500,
       "name": "soul pattern",
       "url": "https://open.spotify.com/track/2WjFg4N7R6CcGcZUIF1NYT"
@@ -24456,7 +24510,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 120666,
       "name": "Zen A.M.",
       "url": "https://open.spotify.com/track/2Hv9wGHbkfIBScQg4Tti11"

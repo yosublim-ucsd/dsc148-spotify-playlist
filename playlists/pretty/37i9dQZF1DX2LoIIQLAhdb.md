@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Dadju x Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,776 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,850 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Mauvais garçon](https://open.spotify.com/track/46N4tFPQSCIjEohElQWrJC) | [Wensly](https://open.spotify.com/artist/3w01B4w7nqtWsIX5ShvHSV) | [Mauvais garçon](https://open.spotify.com/album/1ZA1hPGaEm7bbUVt6oDOYQ) | 2:01 |
 | 40 | [Raison](https://open.spotify.com/track/1qViJHPK9172gdxvkzuEoD) | [Cristina](https://open.spotify.com/artist/2otrzAaHAsniPlX95lxLbC) | [Raison](https://open.spotify.com/album/5aGS7j1Vjyh1d0mnvvPFAo) | 2:22 |
 
-Snapshot ID: `MCxkM2MwYTcwYzE0ZTQ2MmU1YmNmNDZkZGRlMWY1OWMxZWU0ZjE5NmRj`
+Snapshot ID: `MCxiMzAzOWE0ZDY0ZmY1NzE3Yzc2NThlNDI1OTBjZDA4MTAwYmE3YzMx`

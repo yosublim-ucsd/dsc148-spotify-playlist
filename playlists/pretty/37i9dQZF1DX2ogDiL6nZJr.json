@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 667813,
+  "num_followers": 667989,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmQzNWM0NDk4OWE3YTdhMDAxZjkyY2NiNmU3MWQ4MWJkNDMxNjc3",
+  "snapshot_id": "MCw1MmEzZWE4ODBkMzgzMTQwYmRmZDExNmEyNGE2MGYyOGNmMmM1YzZh",
   "tracks": [
     {
       "added_at": "2023-11-21 11:44:08",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -379,6 +363,38 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
         "name": "she goes",
         "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 205680,
       "name": "Losers",
       "url": "https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 298720,
-      "name": "Paper Thin",
-      "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Hotel Surrender",
         "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 298720,
+      "name": "Paper Thin",
+      "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 205657,
-      "name": "You Needed Love, I Needed You",
-      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "The Last Exit",
         "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 205657,
+      "name": "You Needed Love, I Needed You",
+      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Blue Hours",
         "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 250760,
       "name": "All That You Are",
       "url": "https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
+        "name": "Welcome To Kookoo Island",
+        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 226165,
+      "name": "Belo Horizonte",
+      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
         "name": "Rio Grande",
         "url": "https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Welcome To Kookoo Island",
-        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
+        "name": "anew",
+        "url": "https://open.spotify.com/album/5wutBSXdX6kR0QdVK2X24K"
       },
       "artists": [
         {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 226165,
-      "name": "Belo Horizonte",
-      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
+      "duration_ms": 215599,
+      "name": "anew",
+      "url": "https://open.spotify.com/track/2E17445RgPqXOH7Jfn0Hhf"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -999,22 +1015,6 @@
       "duration_ms": 175348,
       "name": "Colorado - Acoustic Version",
       "url": "https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
-        "name": "anew",
-        "url": "https://open.spotify.com/album/5wutBSXdX6kR0QdVK2X24K"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 215599,
-      "name": "anew",
-      "url": "https://open.spotify.com/track/2E17445RgPqXOH7Jfn0Hhf"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+      "duration_ms": 228253,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1195,22 +1211,6 @@
       "duration_ms": 228059,
       "name": "Price",
       "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
-        "name": "Blue Hours",
-        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Unpack Your Bags (Radio Edit)",
-        "url": "https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU"
-      },
-      "artists": [
-        {
-          "name": "Lemony Rug",
-          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
-        }
-      ],
-      "duration_ms": 184692,
-      "name": "Unpack Your Bags - Radio Edit",
-      "url": "https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+        "name": "Unpack Your Bags (Radio Edit)",
+        "url": "https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
         }
       ],
-      "duration_ms": 200693,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
+      "duration_ms": 184692,
+      "name": "Unpack Your Bags - Radio Edit",
+      "url": "https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "The Barrel",
-        "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 219510,
-      "name": "The Barrel - Edit",
-      "url": "https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV"
+      "duration_ms": 200693,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
+        "name": "The Barrel",
+        "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 219510,
+      "name": "The Barrel - Edit",
+      "url": "https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Le temps se fuit",
+        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "Le temps se fuit",
+      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1471,22 +1487,6 @@
       "duration_ms": 219562,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
-        "name": "Le temps se fuit",
-        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "Le temps se fuit",
-      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 301346,
+      "name": "Black & Thunder",
+      "url": "https://open.spotify.com/track/2oJDtsC8StI3UIX1zEGiAr"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
         "name": "Hole Digger",
         "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 185076,
       "name": "Hole Digger",
       "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 301346,
-      "name": "Black & Thunder",
-      "url": "https://open.spotify.com/track/2oJDtsC8StI3UIX1zEGiAr"
     },
     {
       "added_at": "2023-11-21 11:44:08",

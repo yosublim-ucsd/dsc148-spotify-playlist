@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 137365,
+  "num_followers": 137421,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDNiN2FlM2UzNjNjOTZiMmMwZGJjYzJkNzBiYjY5NDY0YjVlNWEw",
+  "snapshot_id": "MCxlMDNiYzM0YzA3NzFjYjgwMjczMTgzMGNiNjM5Yjc2NjEzZDI3NjY5",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -215,6 +215,26 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Bocelli (Remastered)",
+        "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "duration_ms": 265584,
+      "name": "Vivo per lei",
+      "url": "https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -231,6 +251,22 @@
       "duration_ms": 191426,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Primavera anticipada",
+        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "En cambio no",
+      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -275,26 +311,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Bocelli (Remastered)",
-        "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        }
-      ],
-      "duration_ms": 265584,
-      "name": "Vivo per lei",
-      "url": "https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -311,22 +327,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Primavera anticipada",
-        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "En cambio no",
-      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "El Privilegio De Amar",
         "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
       },
@@ -339,6 +339,22 @@
       "duration_ms": 236493,
       "name": "El Privilegio De Amar",
       "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -375,22 +391,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Orgullo De Mujer",
         "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 217426,
       "name": "Corazones Invencibles",
       "url": "https://open.spotify.com/track/1vrq0gc8U6kxkNNnD79gEp"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Nunca Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -455,22 +471,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Nunca Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Entre El Amor Y Yo",
         "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "Si T\u00fa Supieras",
-      "url": "https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Yahir",
         "url": "https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 304426,
       "name": "Alucinado",
       "url": "https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Si T\u00fa Supieras",
+      "url": "https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Esto Es Lo Que Soy",
+        "url": "https://open.spotify.com/album/1eUFNH2L3oshE8wK5wwLlS"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Esto Es Lo Que Soy",
+      "url": "https://open.spotify.com/track/1CKuenidvmGFUuakoN67YZ"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Ricardo Montaner Volumen 2",
         "url": "https://open.spotify.com/album/2OLhHgoFR9T1SebPzV0bjD"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 211160,
       "name": "A D\u00f3nde Va Nuestro Amor - Versi\u00f3n Telenovela",
       "url": "https://open.spotify.com/track/0zA1PzaGYhJSdOFcsFOyUS"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Esto Es Lo Que Soy",
-        "url": "https://open.spotify.com/album/1eUFNH2L3oshE8wK5wwLlS"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Esto Es Lo Que Soy",
-      "url": "https://open.spotify.com/track/1CKuenidvmGFUuakoN67YZ"
     },
     {
       "added_at": "2022-05-06 18:32:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Cédrik St\-Onge
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,214 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,239 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Alice](https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Blowing Up The Workshop 48](https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK) | 3:14 |
 | 100 | [Neon](https://open.spotify.com/track/2M2MpJLcjmuXYDbFrA8OoE) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Flickering Lights](https://open.spotify.com/album/6w8iEyywSIzRUayxEjr9JC) | 3:16 |
 
-Snapshot ID: `MCwwZmQwNjJlOGFiYTliMzk4NzMyZWNlMTNiOWZlMzA4YjEyNjVmNzAw`
+Snapshot ID: `MCwzZTZiYzYxNDU3Y2QwNDBlMzA2MzIyYmY1NjBiYTFlN2JkN2JiOTk5`

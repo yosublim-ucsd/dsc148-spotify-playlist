@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15087,
+  "num_followers": 15084,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzVmNDI1MmJhMTE2NTE1NTRhMWE5ZWQzYTQ3NDU5ODZkOTNiYTAz",
+  "snapshot_id": "MCwxYzcwMWIxNmVhY2QxNDZmM2U2MGVjOWM4NjY3NTJlYTk0N2YyNzdj",
   "tracks": [
     {
       "added_at": "2023-11-03 06:18:18",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Blueming",
+      "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
       },
@@ -191,18 +207,22 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+        "name": "OO",
+        "url": "https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 217053,
-      "name": "Blueming",
-      "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
+      "duration_ms": 207492,
+      "name": "Complex (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -239,42 +259,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "OO",
-        "url": "https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 207492,
-      "name": "Complex (Feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "Take You Home - SM STATION",
-        "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 234954,
-      "name": "Take You Home",
-      "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "Red Moon: To You My Light",
         "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 265586,
       "name": "To You My Light (feat. LEE RAON)",
       "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Take You Home - SM STATION",
+        "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 234954,
+      "name": "Take You Home",
+      "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -327,6 +327,26 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 217412,
+      "name": "Palette (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 217412,
-      "name": "Palette (feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "THINKING Part.1",
-        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 237520,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "how i remember",
         "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
       },
@@ -471,18 +455,18 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "be",
-        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
+        "name": "THINKING Part.1",
+        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
       },
       "artists": [
         {
-          "name": "EUNHYUK",
-          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 229066,
-      "name": "be",
-      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
+      "duration_ms": 237520,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -503,18 +487,18 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
+        "name": "be",
+        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "EUNHYUK",
+          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
         }
       ],
-      "duration_ms": 245349,
-      "name": "Bravo, My Life!",
-      "url": "https://open.spotify.com/track/5IBGJAEwVNkV1zF5oQzu1N"
+      "duration_ms": 229066,
+      "name": "be",
+      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -531,6 +515,22 @@
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 245349,
+      "name": "Bravo, My Life!",
+      "url": "https://open.spotify.com/track/5IBGJAEwVNkV1zF5oQzu1N"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 258238,
+      "name": "Love poem",
+      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "be by my side",
-        "url": "https://open.spotify.com/album/6Fhp3DHf8QeJ77Buf1KLjA"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 213320,
-      "name": "be by my side",
-      "url": "https://open.spotify.com/track/1K3N3pF1uu1WPRD2QFEz06"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+        "name": "be by my side",
+        "url": "https://open.spotify.com/album/6Fhp3DHf8QeJ77Buf1KLjA"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 258238,
-      "name": "Love poem",
-      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
+      "duration_ms": 213320,
+      "name": "be by my side",
+      "url": "https://open.spotify.com/track/1K3N3pF1uu1WPRD2QFEz06"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -727,26 +727,6 @@
       "duration_ms": 185986,
       "name": "Fighting!",
       "url": "https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "From Midnight To Sunrise",
-        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Wake Up (Feat. DEAN)",
-      "url": "https://open.spotify.com/track/6ttHs2fIX0XM2qkEMGhLkA"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -843,6 +823,22 @@
       "duration_ms": 202866,
       "name": "Another Dream",
       "url": "https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 200778,
+      "name": "Help me",
+      "url": "https://open.spotify.com/track/5N1hJiGqAmn6P7zGgWAu28"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

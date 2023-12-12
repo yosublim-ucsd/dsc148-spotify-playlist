@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Ellise
 
-554 songs - 1 day 1 hr 26 min
+555 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Sicko \(feat\. Paycheck & TIMMS\)](https://open.spotify.com/track/3NeuyR9x5qZDL9Jwn6fWGL) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5), [Paycheck](https://open.spotify.com/artist/1xd5p7u9w8mQc2nU8GwBib), [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Sicko \(feat\. Paycheck & TIMMS\)](https://open.spotify.com/album/6CZAE3lo4cII14VOCED6Gh) | 3:19 | 2023-01-27 | 2023-08-05 |
 | [Sink Or Swim](https://open.spotify.com/track/2X0hSfFCaunosj2mcLU4Y4) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Sink Or Swim](https://open.spotify.com/album/4L15oA6HAW5cywuJjNBc44) | 3:04 | 2022-01-14 | 2022-04-02 |
 | [Siren](https://open.spotify.com/track/5psxNqlcbQhHuMLY7NT5Hr) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [I AM](https://open.spotify.com/album/386kgx8oUr4TFpLXuEMzBh) | 2:36 | 2023-11-17 |  |
+| [SIREN](https://open.spotify.com/track/2SRHNn97rMNVYdtmH1gmd5) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 2:16 | 2023-12-11 |  |
 | [Sirens \(feat\. Sophie Powers\)](https://open.spotify.com/track/0mRsuiV1DDTFCoig8O7Bga) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Sirens \(feat\. Sophie Powers\)](https://open.spotify.com/album/2pDrVZZDZDVWyb0eNW1YWe) | 3:08 | 2023-09-08 | 2023-11-05 |
 | [Sirens \(feat\. Sophie Powers\)](https://open.spotify.com/track/4ssqA7CeDI5XmEh4Yez5H5) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Sirens \(feat\. Sophie Powers\)](https://open.spotify.com/album/6Aks7AMXw2jt1Ue5WZQCUQ) | 3:08 | 2023-10-06 | 2023-12-09 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW) | [Malia J](https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ) | [Smells Like Teen Spirit](https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As) | 3:59 | 2021-09-10 | 2022-03-18 |
@@ -523,7 +524,7 @@
 | [Villain](https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:25 | 2022-08-12 | 2023-05-20 |
 | [VILLAIN](https://open.spotify.com/track/5Y7xJHElBKXnsKQvFtTZLb) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [VILLAIN](https://open.spotify.com/album/6mwWQJgPfc49JAeOXDOgy9) | 3:24 | 2023-10-20 |  |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-03-31 | 2023-08-05 |
-| [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-08-26 |  |
+| [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-08-26 | 2023-12-12 |
 | [Walking On The Moon](https://open.spotify.com/track/5o6XukezQCeF9aLPyS1jOz) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Walking On The Moon](https://open.spotify.com/album/3DK47cdBduFGS7RiAsLz65) | 2:40 | 2021-11-12 | 2022-04-29 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-11 | 2022-03-26 |
 | [Want U Back](https://open.spotify.com/track/2BMhTcquomJgCq3MfNkY1P) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [Want U Back](https://open.spotify.com/album/37YWIL8h1u1TZIzbKTETRA) | 2:30 | 2023-04-14 | 2023-08-19 |

@@ -3907,7 +3907,7 @@
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 110769,
+      "duration_ms": 109384,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa"
     },
@@ -4081,6 +4081,28 @@
     },
     {
       "album": {
+        "name": "Vem Morenin",
+        "url": "https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK"
+      },
+      "artists": [
+        {
+          "name": "Neno No beat",
+          "url": "https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ"
+        },
+        {
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159276,
+      "name": "Vem Morenin",
+      "url": "https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx"
+    },
+    {
+      "album": {
         "name": "Pivete do Arrocha Funk",
         "url": "https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9"
       },
@@ -4096,7 +4118,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 159276,
       "name": "Vem Morenin",
       "url": "https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M"

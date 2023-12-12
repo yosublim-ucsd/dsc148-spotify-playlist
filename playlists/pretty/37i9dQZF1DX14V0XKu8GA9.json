@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos representing Hip-Hop in the U.S. Cover: King Lil G & Young Drummer Boy",
-  "num_followers": 30156,
+  "num_followers": 30211,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzEwN2Y4NDcwNjNlZGExZTUzNzE0MjQ0MTk3MDNkOGYxMTc1ZWJi",
+  "snapshot_id": "MCwwYTliMThjMjI5MTFlZWY5ODAyNjgxMjFkZjcyMjAwMDJhYjljNjg5",
   "tracks": [
     {
       "added_at": "2023-11-23 01:13:56",
@@ -171,30 +171,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
-        }
-      ],
-      "duration_ms": 185736,
-      "name": "Hit List (with BigXthaPlug & Big Yavo)",
-      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "HF47",
         "url": "https://open.spotify.com/album/0yL32sfKEyaJpQqvethBlJ"
       },
@@ -227,6 +203,46 @@
       "duration_ms": 109274,
       "name": "Down",
       "url": "https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "duration_ms": 185736,
+      "name": "Hit List (with BigXthaPlug & Big Yavo)",
+      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
+      },
+      "artists": [
+        {
+          "name": "Chito Rana$",
+          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
+        }
+      ],
+      "duration_ms": 187898,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -283,22 +299,6 @@
       "duration_ms": 108984,
       "name": "Star Shootin",
       "url": "https://open.spotify.com/track/59iGJ5GJdXHT1sbIOb7zyN"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
-      },
-      "artists": [
-        {
-          "name": "Chito Rana$",
-          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
-        }
-      ],
-      "duration_ms": 187898,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Chingon (with Peso Peso)",
-        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
-        }
-      ],
-      "duration_ms": 125930,
-      "name": "Chingon (with Peso Peso)",
-      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "This Is What I Need",
         "url": "https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 134400,
       "name": "This Is What I Need",
       "url": "https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Chingon (with Peso Peso)",
+        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        }
+      ],
+      "duration_ms": 125930,
+      "name": "Chingon (with Peso Peso)",
+      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC"
+      },
+      "artists": [
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j"
       },
@@ -731,38 +747,18 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Villain",
-        "url": "https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC"
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
       },
       "artists": [
         {
-          "name": "Conejo",
-          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
         }
       ],
-      "duration_ms": 165214,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
-        "name": "She gon choose",
-        "url": "https://open.spotify.com/album/54oZoaoaXspC5YzHqtH6Jk"
-      },
-      "artists": [
-        {
-          "name": "Dj Flippp",
-          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
-        },
-        {
-          "name": "J.I Bandz",
-          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "She gon choose",
-      "url": "https://open.spotify.com/track/3PPAAIrkrrmBPuXf54xsqd"
+      "duration_ms": 176506,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -787,18 +783,22 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Vivid Dreams",
-        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+        "name": "She gon choose",
+        "url": "https://open.spotify.com/album/54oZoaoaXspC5YzHqtH6Jk"
       },
       "artists": [
         {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+          "name": "Dj Flippp",
+          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
+        },
+        {
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Vivid Dreams",
-      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
+      "duration_ms": 146400,
+      "name": "She gon choose",
+      "url": "https://open.spotify.com/track/3PPAAIrkrrmBPuXf54xsqd"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -851,30 +851,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Are We Really Free",
-        "url": "https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO"
-      },
-      "artists": [
-        {
-          "name": "Emilio Rojas",
-          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
-        },
-        {
-          "name": "Doeman",
-          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
-        },
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        }
-      ],
-      "duration_ms": 287582,
-      "name": "Are We Really Free",
-      "url": "https://open.spotify.com/track/3XDJen8F9IIGdBNJp5SheH"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "Hometown (Remix)",
         "url": "https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 156966,
       "name": "Hometown - Remix",
       "url": "https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Are We Really Free",
+        "url": "https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO"
+      },
+      "artists": [
+        {
+          "name": "Emilio Rojas",
+          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
+        },
+        {
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        }
+      ],
+      "duration_ms": 287582,
+      "name": "Are We Really Free",
+      "url": "https://open.spotify.com/track/3XDJen8F9IIGdBNJp5SheH"
     },
     {
       "added_at": "2023-11-23 01:13:56",

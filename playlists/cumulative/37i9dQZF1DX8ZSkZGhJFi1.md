@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-659 songs - 1 day 2 hr 45 min
+660 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [Slipping Mats](https://open.spotify.com/track/72wDz8RDKFvffQJhHucHDy) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Slipping Mats](https://open.spotify.com/album/3wH3cUze42grMn3r4LTZHF) | 2:29 | 2023-09-08 |  |
 | [Slowdown](https://open.spotify.com/track/2IpmQO6mPAmx3StyIDpqKe) | [landq](https://open.spotify.com/artist/1RbHqyLEOuXC9fy1me1VFJ) | [Slowdown](https://open.spotify.com/album/4BIBrBkF0tGLUsid8qR738) | 2:09 | 2023-09-08 | 2023-12-11 |
 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 | 2023-11-24 |  |
-| [Smells Like Silverblue](https://open.spotify.com/track/6OmRE9XnZrMMfS9TuuQCPU) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Smells Like Silverblue](https://open.spotify.com/album/21oPNtdHyQvc3V0BQ5SG35) | 2:40 | 2023-09-08 | 2023-12-11 |
+| [Smells Like Silverblue](https://open.spotify.com/track/6OmRE9XnZrMMfS9TuuQCPU) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Smells Like Silverblue](https://open.spotify.com/album/21oPNtdHyQvc3V0BQ5SG35) | 2:40 | 2023-09-08 |  |
 | [SMOKE BREAK](https://open.spotify.com/track/3CPtS5vGos6uIlYf0Nqc4L) | [NIGHTSHOW](https://open.spotify.com/artist/3eO8RkSNmOmPFIRXP6i1S8) | [SMOKE BREAK](https://open.spotify.com/album/1EjwtUUR8Ju58b9UUQiD4v) | 3:19 | 2022-02-17 | 2023-09-09 |
 | [Soakysun](https://open.spotify.com/track/4mY6CgDg0SU6YeqnQpNHQT) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Soakysun](https://open.spotify.com/album/6IYzaxjgbNHy5KftjruUE8) | 2:02 | 2023-09-08 |  |
 | [Social Jazz](https://open.spotify.com/track/7GzdWuACBcAB9nmz0JJ4Pl) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Social Jazz](https://open.spotify.com/album/2FOY9O0VU5AEfvmEXQYbQT) | 2:01 | 2023-09-08 |  |
@@ -519,7 +519,7 @@
 | [Soul Calibre](https://open.spotify.com/track/6hagXr40I8q0fHJ1uwWnj0) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Soul Calibre](https://open.spotify.com/album/3IJdOutsIz9NSd1cfHOJys) | 2:33 | 2023-09-08 |  |
 | [Sounds From The Park](https://open.spotify.com/track/55uqa2dZDFoy45LNi2c0Da) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Sounds From The Park](https://open.spotify.com/album/1hZjugixYJQrlemnJEwnLE) | 1:54 | 2023-09-08 |  |
 | [Soundtrack the World!](https://open.spotify.com/track/2ORTnfqcHyGGzlZ14wpqrT) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [New Elevations](https://open.spotify.com/album/4q0Mu1FbIzqKqqgPBuAnWa) | 3:16 | 2022-02-17 | 2023-09-09 |
-| [Space Ride](https://open.spotify.com/track/0nvoFTmrfqVMjlTvhx1Sl5) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI) | [Space Ride](https://open.spotify.com/album/1Vj9dgQZ3GUR1ju2D7jBeC) | 2:42 | 2023-09-08 |  |
+| [Space Ride](https://open.spotify.com/track/0nvoFTmrfqVMjlTvhx1Sl5) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI) | [Space Ride](https://open.spotify.com/album/1Vj9dgQZ3GUR1ju2D7jBeC) | 2:42 | 2023-09-08 | 2023-12-12 |
 | [Space Whale](https://open.spotify.com/track/5EIM4pAvU17vH3hs00Q5Z2) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK), [aitlofi](https://open.spotify.com/artist/2LhvxbUfc5pT3NRKkO3UMH) | [Space Whale](https://open.spotify.com/album/0UaSTg34G9s1EaNED2VDXc) | 2:03 | 2023-09-08 | 2023-12-05 |
 | [spacewalk](https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [spacewalk](https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX) | 2:15 | 2023-11-17 |  |
 | [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2023-09-08 |  |
@@ -550,6 +550,7 @@
 | [Sunglasses at Night](https://open.spotify.com/track/7bprxmvPWGSdYIyjcXKVSV) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunglasses at Night](https://open.spotify.com/album/7gmLOUJFVnq4SNAKOdpstk) | 2:05 | 2023-09-08 |  |
 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 | 2023-09-08 |  |
 | [Sunny Side](https://open.spotify.com/track/2J8gE4IMrJhOpKad0UgM25) | [Hawk Town](https://open.spotify.com/artist/4kr96RAgKYYkht9GMqFKY1) | [Sunny Side](https://open.spotify.com/album/0JjSuWZ8awn89gBUKP4urE) | 2:37 | 2023-09-08 |  |
+| [Sunrise Over Seattle](https://open.spotify.com/track/3athjQzCfwoqj5xv8Qd8hy) | [Anthony Smith](https://open.spotify.com/artist/67dt5GuTNqsdlSfaTDky4S) | [Sunrise Over Seattle](https://open.spotify.com/album/4i7PFRW6S4g44lgqL0Qk8c) | 2:31 | 2023-12-08 |  |
 | [Sunset](https://open.spotify.com/track/3ct0r8yR5ORqdmY9d55nZF) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Sunset](https://open.spotify.com/album/5jAOZGhUvxBYeiK8uUxn4c) | 2:14 | 2023-09-08 | 2023-09-23 |
 | [Sunset Wish](https://open.spotify.com/track/5OuutCf0GMIB0fSyI2kHNr) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Sunset Wish](https://open.spotify.com/album/63RgFySdicgg8HLgCbSTen) | 2:14 | 2023-09-08 |  |
 | [Sunshine](https://open.spotify.com/track/4noLQWyJ28F0zFz6eTSOOW) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Ultramarinblau](https://open.spotify.com/artist/0ZzVsShp5a93vikX006voH) | [Sunshine](https://open.spotify.com/album/5ufcAAHfkltz0Ch9ZDTWTX) | 2:24 | 2023-09-08 |  |
@@ -647,7 +648,7 @@
 | [Who's World Is This?](https://open.spotify.com/track/6dL7z10QINju4SHT3O3cxC) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Who's World Is This](https://open.spotify.com/album/19Hp7di22vmwP4DrX1y6ex) | 2:36 | 2023-09-08 |  |
 | [whoops i'm napping](https://open.spotify.com/track/5Wxany1ffEA1DxkRBvnLJ0) | [Pistachio](https://open.spotify.com/artist/1zj6sjoit7AFmmBfozJX1H) | [whoops i'm napping](https://open.spotify.com/album/7rqTIV0hWHwjxCchxWWlg6) | 2:54 | 2023-09-08 |  |
 | [Wild poetry](https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Wild poetry](https://open.spotify.com/album/4TEKZ8XR8LUO3oXsbShFgx) | 3:48 | 2023-09-08 |  |
-| [Willow](https://open.spotify.com/track/0ungxzIT4zXR4YofdK04Xh) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Willow](https://open.spotify.com/album/6v7cDjYKyljCw8HWwZzhuF) | 2:29 | 2023-09-08 |  |
+| [Willow](https://open.spotify.com/track/0ungxzIT4zXR4YofdK04Xh) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Willow](https://open.spotify.com/album/6v7cDjYKyljCw8HWwZzhuF) | 2:29 | 2023-09-08 | 2023-12-12 |
 | [Winter Wander](https://open.spotify.com/track/3EPBKsUyZH08juX1WfKOXS) | [kosmikk](https://open.spotify.com/artist/7ttBQqZEqRcKAyTstldlyj), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Winter Wander](https://open.spotify.com/album/1A5gxXGpnI1l7jGHzDt66n) | 1:46 | 2023-09-08 | 2023-09-23 |
 | [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2023-10-13 |  |
 | [Wonder](https://open.spotify.com/track/5i0QmCyCt4qJudSqoNbu17) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Wonder](https://open.spotify.com/album/1upkA8NqjW7otpz8jaheYg) | 3:12 | 2023-09-08 |  |

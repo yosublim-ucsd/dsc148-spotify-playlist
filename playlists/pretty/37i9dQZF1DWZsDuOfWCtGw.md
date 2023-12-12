@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 
 > The biggest house tracks we couldn't get enough of this year\. Cover: FISHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,311 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,120 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 | 74 | [Drive](https://open.spotify.com/track/61k7UiVsYL4S19A2XgJYhi) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Le Funk](https://open.spotify.com/album/60BqgLIFbLMXQTBiTQqiyp) | 3:59 |
 | 75 | [Move With Me](https://open.spotify.com/track/2Z97CJDXvzW9DpoUv5lMBY) | [Mia More](https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2) | [Move With Me](https://open.spotify.com/album/5v5gVZILcpnPhyGfeeVPrc) | 2:41 |
 
-Snapshot ID: `MCwyNTYxNTYyYWU1M2JhNzlkODk2M2U5ZmUyZjQ3NmFkZjQyMGMxZGY2`
+Snapshot ID: `MCxiMDYyNWZjNDNiZDM5ZjQ0OTIyNWY0OGMxNDUwNTE2Nzk1YzM3YjZj`

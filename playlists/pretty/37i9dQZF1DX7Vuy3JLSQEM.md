@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,150 likes - 84 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,154 likes - 84 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 34 | [Honey](https://open.spotify.com/track/2bOalEb2NVugngrIPAx4Vg) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Honey](https://open.spotify.com/album/0dxP5UGRoYHs2n7IODw7ql) | 2:34 |
 | 35 | [Under Pressure](https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Under Pressure](https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q) | 3:15 |
 | 36 | [Las Tres Hermanas](https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Las Tres Hermanas](https://open.spotify.com/album/7HJ6ekJSoJP6utcPh1HmK9) | 3:49 |
-| 37 | [Sirens \(feat\. Caroline Polachek\) \[Sofia Kourtesis Remix\]](https://open.spotify.com/track/1KHY07C9hNsaQGvNRa7lK2) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces : The Remixes, Pt\. 2](https://open.spotify.com/album/40p5qaIMZREYF9S6vKzFf5) | 4:35 |
+| 37 | [Sirens \(feat\. Caroline Polachek\) \[Sofia Kourtesis Remix\]](https://open.spotify.com/track/6ef8fMWzwo7UItuHeJ98ql) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sirens \(feat\. Caroline Polachek\) \[Sofia Kourtesis Remix\]](https://open.spotify.com/album/5lDEJQDkYqDwowD9ENcPG8) | 4:35 |
 | 38 | [Labios](https://open.spotify.com/track/3AKPeJf6bp4pPeHDa6uHA8) | [Kendrū](https://open.spotify.com/artist/5O1NzRiu7a6Rx8dIJ7JlpX), [Aizaz](https://open.spotify.com/artist/2ZKA0ui8JWxFhUaNr4jrBL) | [Labios](https://open.spotify.com/album/4MWu4fVheTeh73ool8IapM) | 3:12 |
 | 39 | [Uh](https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm) | [Uh](https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU) | 2:36 |
 | 40 | [Spooky](https://open.spotify.com/track/2strBUa5wqXflJ1P5OHPUr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Grace Galu](https://open.spotify.com/artist/4ZDvMIGKnQwEJl0hIwLynN) | [Spooky](https://open.spotify.com/album/6UfKa4tiMxXCrc84faB64N) | 2:51 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 83 | [Enviada](https://open.spotify.com/track/7a6Wi2bVkphjCOfLfQeaTr) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:03 |
 | 84 | [Despertar](https://open.spotify.com/track/5zVRJaJBPPtOuc6ku1tln2) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Sketches, Vol\. 1 \(2004\-2007\)](https://open.spotify.com/album/2hCHId2M6SQ48hFEfIOtfh) | 3:37 |
 
-Snapshot ID: `MCxjZjdmNTBiYmFmMzY5NjdlOWE0OTQ4ZTYyOTRjZmZjZDM0YjNiN2Q4`
+Snapshot ID: `MCwxNmM0ZmM1YjhiOWI5OGQ2Y2M3OGI1Y2UwYWZiNzUyNTEyMWY2ZDc0`

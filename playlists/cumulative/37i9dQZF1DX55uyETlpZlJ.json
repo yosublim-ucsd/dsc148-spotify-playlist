@@ -876,7 +876,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 227994,
       "name": "Doora",
       "url": "https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7"
@@ -1902,6 +1902,24 @@
       "duration_ms": 71400,
       "name": "Kannalle",
       "url": "https://open.spotify.com/track/4V8RNKh9RTAdGMnZOSlrpp"
+    },
+    {
+      "album": {
+        "name": "Karedaaga Ninna",
+        "url": "https://open.spotify.com/album/7ec96HDzbEIgAuIMrq6a3G"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129476,
+      "name": "Karedaaga Ninna",
+      "url": "https://open.spotify.com/track/0pXdz1EvBsUGXSfF2KfZyj"
     },
     {
       "album": {

@@ -2,15 +2,16 @@
 
 ### [GLOW Polska](https://open.spotify.com/playlist/37i9dQZF1DWUN8lkHHQsn9)
 
-> Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:2FhI5QfUYl5iIlUog9HHEw">27.Fuckdemons</a>
+> Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:7qAu2kYGjO28g0CJERiQhM">MAJA</a>
 
-161 songs - 9 hr 12 min
+162 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z) | 2:38 | 2023-03-17 |  |
 | [49 Groszy](https://open.spotify.com/track/7E9o5ZkutleRx9BS6GWK9Q) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [49 Groszy](https://open.spotify.com/album/7evYzPUD456BPo5RYfeK66) | 2:20 | 2023-06-20 | 2023-08-08 |
 | [49 Groszy \- Remix](https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Młody B](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c) | [4900 Groszy](https://open.spotify.com/album/4YLvr3nm2e4Dt8L04dwu2a) | 2:09 | 2023-10-09 | 2023-11-14 |
+| [52 Kilo](https://open.spotify.com/track/7gwi5NDvGXmEphUGAKPKeL) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [52 Kilo](https://open.spotify.com/album/2ybhVe7eucFViFRCMbGqyr) | 2:03 | 2023-12-11 |  |
 | [Attention](https://open.spotify.com/track/32CGVs9AmSfVZjfYBWv9Ot) | [Bloo Crane](https://open.spotify.com/artist/2fArSWn7Q393fy7zt2Im9I) | [Bloo Feelings](https://open.spotify.com/album/4YFda393j1BTBGPBNFvaiq) | 3:06 | 2021-06-22 | 2022-06-01 |
 | [Barbie](https://open.spotify.com/track/2L2qDPcoGTL7AKC38BTr0l) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 2:21 | 2022-06-17 | 2023-01-20 |
 | [Barbie](https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 2:21 | 2022-07-22 |  |
@@ -125,7 +126,7 @@
 | [S3X EDUCATION](https://open.spotify.com/track/4qEqxYGN7ijJoXUeafQpsY) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [S3X EDUCATION](https://open.spotify.com/album/4cAZu0wXymmnCclvt7Hf3x) | 2:56 | 2023-03-17 | 2023-07-11 |
 | [Sabotażysta](https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G) | 3:24 | 2023-06-20 |  |
 | [San Marino](https://open.spotify.com/track/0S7mUSGHPGmzHvFraY4X9B) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [San Marino](https://open.spotify.com/album/2G9kR3HTdrhZ62yI7WVsFQ) | 2:48 | 2022-06-01 | 2022-06-04 |
-| [Scarchest](https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Scarchest](https://open.spotify.com/album/5uRIdLZnznQsisjxhqFZ8P) | 2:34 | 2023-08-07 |  |
+| [Scarchest](https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Scarchest](https://open.spotify.com/album/5uRIdLZnznQsisjxhqFZ8P) | 2:34 | 2023-08-07 | 2023-12-12 |
 | [Sen](https://open.spotify.com/track/0LEPsgHnSSUtMxNDY03GGa) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Who the F\*\*\* is Dawid Grzelak?](https://open.spotify.com/album/38qGUVS5YFVqArJRocg0b4) | 4:40 | 2021-06-22 | 2022-06-01 |
 | [Shine](https://open.spotify.com/track/1BZrovLZ6QTTFxn4Ng4v2m) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Reincarnation EP](https://open.spotify.com/album/6W74HIJEn8xY0swZtCJHDd) | 3:58 | 2023-06-06 | 2023-09-12 |
 | [SLAY](https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [SLAY](https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m) | 2:59 | 2023-06-20 |  |

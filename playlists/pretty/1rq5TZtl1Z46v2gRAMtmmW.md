@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 28,862 likes - 40 songs - 2 hr 32 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 28,870 likes - 49 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,14 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 38 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 |
 | 39 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 40 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
+| 41 | [Lonely Night](https://open.spotify.com/track/3AXnJq4P3X03O4NVSHQv9c) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 3:29 |
+| 42 | [Cash](https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Cash](https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14) | 2:42 |
+| 43 | [A Smile at Last](https://open.spotify.com/track/2baiAXelyMJXPu14eyglDC) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 2:53 |
+| 44 | [Ain’t No Place](https://open.spotify.com/track/2kwDjw07hMHJErQCprXxid) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 4:01 |
+| 45 | [Vast Oceans, Empty Skies](https://open.spotify.com/track/6Vxm5h0BxHdwM5oBMhTi3E) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 4:20 |
+| 46 | [Nyiego](https://open.spotify.com/track/3knchrfS2GkZfFhljRp3Cr) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 4:29 |
+| 47 | [To the Sea](https://open.spotify.com/track/3WoMBqCRLxtFhghYQAxzYZ) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 3:57 |
+| 48 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 |
+| 49 | [Small Sanctuary \- nimino Remix](https://open.spotify.com/track/3edXY8UqTv1SEC6JOrfBPQ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Small Sanctuary \(nimino Remix\)](https://open.spotify.com/album/33ws6D4NAo3jubkN9o7BOQ) | 4:12 |
 
-Snapshot ID: `MzUzOCxlYmY0YWZkYWMyOTAyZmI2MTViZjZmYjMxMTk4MzFkODk1YTM4ODdl`
+Snapshot ID: `MzU0NyxhYTQ2OTNiMmYxZGQxMzMzZjBhOTVmOWYyYmRiMTAzY2ZkMTBiY2Zk`

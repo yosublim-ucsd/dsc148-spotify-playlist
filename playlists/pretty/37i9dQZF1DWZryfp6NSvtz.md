@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Dead Poet Society
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,284 likes - 39 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,453 likes - 39 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 38 | [Don't Pretend](https://open.spotify.com/track/4IdbQ9URcg2JQKZAKAJPSJ) | [Bad Juju](https://open.spotify.com/artist/0JEXbU5CMLdo03UvBqAvyB) | [Don't Pretend](https://open.spotify.com/album/6BJwosTdQ1NrNiRihehOlL) | 2:36 |
 | 39 | [XRN](https://open.spotify.com/track/15Yt5G42FjOhzuyRpfevzt) | [Sierra Annie](https://open.spotify.com/artist/4pkX7arvlf9ZVAu7Hpff2w) | [XRN](https://open.spotify.com/album/2FaDm4LP05a8DCvQzzekuy) | 2:49 |
 
-Snapshot ID: `MCwxZTc5MmEwODRmODIzMjkyMWY5ZmFlMDBlMjQ0ZWMyYWQ2YmQzOWJj`
+Snapshot ID: `MCwzNDYzMTk1YTY5OWI4ZDcxOTcxNmM5MjkxOTZjMjI5NDllNGY2ZmRl`

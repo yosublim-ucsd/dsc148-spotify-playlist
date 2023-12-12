@@ -2,7 +2,7 @@
 
 ### [Hardstyle Adrenaline! 2023](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Updated weekly \| Hardstyle \| Cover: Gunz For Hire \(Ran\-D & Adaro\)
+> Updated weekly \| Hardstyle \| Cover: Sub Sonik
 
 701 songs - 1 day 14 hr 18 min
 

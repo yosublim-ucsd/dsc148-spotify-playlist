@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,261 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,289 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 29 | [Ain't The First Time](https://open.spotify.com/track/2kOfFQYXdYqave7rKo5hvh) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Ain't The First Time](https://open.spotify.com/album/0PNpJQdaCqnZaFVv0QvIsK) | 4:20 |
 | 30 | [Everything About You \(feat\. Marlee\)](https://open.spotify.com/track/6WEJfyD3saydrkwaGEAYI5) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Marlee](https://open.spotify.com/artist/4NrOT7BZU0GjwOyw2P0Vmb) | [Everything About You](https://open.spotify.com/album/0cyH1iWX95Bpsp01sFGInX) | 3:27 |
 | 31 | [Movin' On \- Live](https://open.spotify.com/track/3XlnwrRvWSmK3mAygwhiaM) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Jonny x Mali: Live in LA \(Stereo\)](https://open.spotify.com/album/7ze06tCYbvgbZWVcGIQdfO) | 4:20 |
-| 32 | [Brokenhearted \(with Marvin L\. Winans\) \- Live](https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Marvin L\. Winans](https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:01 |
-| 33 | [Maybe Tables Turn \(demo\)](https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Maybe Tables Turn \(demo\)](https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M) | 2:37 |
-| 34 | [You'll Find Love Again](https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:21 |
-| 35 | [Shoot Me Down](https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Shoot Me Down](https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8) | 3:06 |
+| 32 | [Shoot Me Down](https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Shoot Me Down](https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8) | 3:06 |
+| 33 | [Brokenhearted \(with Marvin L\. Winans\) \- Live](https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Marvin L\. Winans](https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:01 |
+| 34 | [Maybe Tables Turn \(demo\)](https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Maybe Tables Turn \(demo\)](https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M) | 2:37 |
+| 35 | [You'll Find Love Again](https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:21 |
 | 36 | [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 |
 | 37 | [Why Am I Not Yours](https://open.spotify.com/track/3E5F6g4wXD7D8tkyZa6mnt) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [an Anecdote of Love and All that Lies Within](https://open.spotify.com/album/5UjR03cOSRrwzj2abbu0DM) | 3:44 |
 | 38 | [Stay](https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [The After](https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
 | 50 | [Memories \- Remastered](https://open.spotify.com/track/4zHq7tEb1aU14yBI3h48Dn) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Illuminate](https://open.spotify.com/album/3gv6D5I0UO9vDypT3H9UbX) | 4:07 |
 
-Snapshot ID: `MCw0MTA2MTYyMjU1YmJlMTRkMjcwOTY0YmM5M2JiODhmNTU5ZmZkYjkw`
+Snapshot ID: `MCw0NGNhY2EzZDkxNzUzMmQ3ZmU5MDhjMzkwZDNlOTRjYjUwYTViMTJi`

@@ -1,12 +1,12 @@
 {
   "description": "he was a boy, i was a horse. could that make it any more difficult. ",
-  "num_followers": 425735,
+  "num_followers": 425857,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWFiYzBlMjRmOWE3Yzc1MGVmNjM5NTBiMTZjM2E3NjU4MjEzYTEw",
+  "snapshot_id": "MCwxMGIzOGM3MTJlYzhlMDY5ZGU2NWRjYTcwZGVjNTMxZDQxMTJiNjVk",
   "tracks": [
     {
       "added_at": "2023-12-08 13:59:45",
@@ -63,6 +63,22 @@
       "duration_ms": 114626,
       "name": "IT IS WHAT IT IS",
       "url": "https://open.spotify.com/track/54rkDSLIa8TbUi7yZOoD33"
+    },
+    {
+      "added_at": "2023-12-11 16:49:12",
+      "album": {
+        "name": "Affirmations",
+        "url": "https://open.spotify.com/album/6fswdiE5noqpRbyZCj3fnm"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Affirmations",
+      "url": "https://open.spotify.com/track/5BgsNewvpXArLhK1sxZyPB"
     },
     {
       "added_at": "2023-12-08 13:59:45",

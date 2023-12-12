@@ -4,7 +4,7 @@
 
 > Classic and contemporary pioneers of New Age music\. Cover: Constance Demby
 
-89 songs - 8 hr 4 min
+91 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [Dark Green](https://open.spotify.com/track/4leNLyb6fZZPzMZd40lkcv) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:46 | 2021-10-15 |  |
 | [Dawn's Spirit](https://open.spotify.com/track/1CodjlFitI1S49ioxKShjM) | [Marcomé](https://open.spotify.com/artist/2OHDbsHt9Q2xzyK77hf9k8) | [River of Soul](https://open.spotify.com/album/5oWq6DEjHyb3YcX4Sn8ttI) | 2:11 | 2022-05-06 |  |
 | [Dawn's Spirit](https://open.spotify.com/track/5PMBjrY5bBwTdXCUSd3OxB) | [Marcomé](https://open.spotify.com/artist/2OHDbsHt9Q2xzyK77hf9k8) | [River of Soul](https://open.spotify.com/album/2NTRMhenzHxhSwX432jWJO) | 2:14 | 2021-10-15 | 2022-07-29 |
+| [Diving Deeper, Remembering Love](https://open.spotify.com/track/1wacH5ABapeCVfTrKv8HY0) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Sounds of The Sea](https://open.spotify.com/album/3DSg8Ljevyy63dE6dcZ9Vz) | 5:33 | 2023-08-24 |  |
 | [Diving Deeper, Remembering Love](https://open.spotify.com/track/4JVexVRi9SDqqUjtFT6z1f) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ) | 5:33 | 2021-10-15 | 2022-07-29 |
-| [Diving Deeper, Remembering Love](https://open.spotify.com/track/4pQyO2JsMYBZkkHflJWjAH) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 5:33 | 2022-05-06 |  |
+| [Diving Deeper, Remembering Love](https://open.spotify.com/track/4pQyO2JsMYBZkkHflJWjAH) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 5:33 | 2022-05-06 | 2023-12-12 |
 | [Each Good Rain](https://open.spotify.com/track/39ODuGSNU6Zk2tzEfIP6me) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Seventh Wave](https://open.spotify.com/album/0cSf6C08lki2lPgMAWNV0y) | 3:48 | 2021-10-15 |  |
 | [Emerald Dreams](https://open.spotify.com/track/5wVjrlKyfCEvrLXDD4UPoc) | [Cheryl B\. Engelhardt](https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9) | [A Seeker's Slumber](https://open.spotify.com/album/2QROyDVkX8jL2hHvPy3qX6) | 3:29 | 2021-10-15 |  |
 | [Equatorial Sunrise](https://open.spotify.com/track/0D0KOxwPkS2SniweX6eFCS) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/40tlrXYp2qd0ioGD92haRj) | 6:10 | 2021-10-15 | 2022-07-29 |
@@ -83,7 +84,8 @@
 | [The Eighteen Beautiful Memories](https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:03 | 2022-05-06 |  |
 | [The Fire Sower](https://open.spotify.com/track/5Pxm2DfLPXVLo9CLboB3bw) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Blue Cosmos](https://open.spotify.com/album/6XpGe8ue2wcvkDc0RWpsff) | 8:47 | 2021-10-15 |  |
 | [The Healing Spirit](https://open.spotify.com/track/1VYFtuXIZE8Mh9u7OHl4Y0) | [Diane Arkenstone](https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29) | [The Healing Spirit](https://open.spotify.com/album/1F10bJp6oauVcAYNrFzyzY) | 3:43 | 2021-10-15 |  |
-| [The Reminder of Long Ago](https://open.spotify.com/track/2yBCqt3B2iGGlGOafa3DfX) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 4:54 | 2022-05-06 |  |
+| [The Reminder of Long Ago](https://open.spotify.com/track/2lxaVGCy6yd4xdN1CegBtf) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Sounds of The Sea](https://open.spotify.com/album/3DSg8Ljevyy63dE6dcZ9Vz) | 4:54 | 2023-08-24 |  |
+| [The Reminder of Long Ago](https://open.spotify.com/track/2yBCqt3B2iGGlGOafa3DfX) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 4:54 | 2022-05-06 | 2023-12-12 |
 | [The Reminder of Long Ago](https://open.spotify.com/track/5lwF8gbYyZ8LSdrVAqlFxt) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ) | 4:54 | 2021-10-15 | 2022-07-29 |
 | [The Silence of Grace](https://open.spotify.com/track/0V0kO7OPzP95tTSlFZv6f7) | [Deborah Martin](https://open.spotify.com/artist/21A7hijIs2g7i44kE2HUvq), [Jill Haley](https://open.spotify.com/artist/6NdwACy3mQjqlQ8WX1iyyZ) | [The Silence of Grace](https://open.spotify.com/album/4vMBG50zF7pYRPUUZOo1xd) | 6:54 | 2021-10-15 |  |
 | [The Sweetness of Mist](https://open.spotify.com/track/6sAl9wE59xAC4w8rS5HpNp) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [The Shimmering Land](https://open.spotify.com/album/3uKsRcKOfpqKGyzLhJ53gG) | 8:50 | 2021-10-15 |  |

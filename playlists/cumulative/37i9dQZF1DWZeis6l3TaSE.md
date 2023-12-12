@@ -4,7 +4,7 @@
 
 > Seize the day...Maybe? Listen to the music from and inspired by Everything Now, now streaming on Netflix.
 
-85 songs - 4 hr 32 min
+86 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Get Up I Feel Like Being A Sex Machine \- Pt\. 1 / Single Version](https://open.spotify.com/track/6Bne501HS96nEeNq8Gn87R) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The 50th Anniversary Collection](https://open.spotify.com/album/1pHE92AvWAt4IIRUCVFnEl) | 2:50 | 2023-10-05 |  |
 | [Ghostkeeper](https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Ghostkeeper](https://open.spotify.com/album/0ZoNlJeutDZYpf1rSzGInO) | 5:31 | 2023-10-05 |  |
 | [Guess Who](https://open.spotify.com/track/3jxySCW1WyDUyA8BbFYhpT) | [Starmaxx](https://open.spotify.com/artist/1ks5okJd9Z0hnv7fqhTzrC) | [Totally](https://open.spotify.com/album/26Fou7Q1EIw4TLU4UrcI8D) | 3:02 | 2023-10-05 |  |
-| [Heirloom](https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS) | [KISLO](https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6) | [Heirloom](https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN) | 4:43 | 2023-10-05 |  |
+| [Heirloom](https://open.spotify.com/track/0OYUp11ElGJsLWqxQNXBE3) | [KISLO](https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6) | [Heirloom](https://open.spotify.com/album/2FjjBjJLjsmvRv3SzhRqyK) | 4:43 | 2023-10-06 |  |
+| [Heirloom](https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS) | [KISLO](https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6) | [Heirloom](https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN) | 4:43 | 2023-10-05 | 2023-12-12 |
 | [Home](https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Home](https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR) | 3:41 | 2023-10-05 | 2023-11-03 |
 | [Home](https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk) | 3:41 | 2023-10-06 |  |
 | [Home Is Here](https://open.spotify.com/track/6dVZLfpMeBcTrK36UEmUBa) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Everything Now \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1fdsa2x1cRV7eGnpsfj7MD) | 1:04 | 2023-10-06 |  |

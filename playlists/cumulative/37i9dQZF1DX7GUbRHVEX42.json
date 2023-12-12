@@ -3630,7 +3630,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 222000,
       "name": "Rocking Style",
       "url": "https://open.spotify.com/track/29JK0ruGJvJmKqdqBWiWtI"
@@ -3996,6 +3996,32 @@
       "duration_ms": 223000,
       "name": "Sky Way",
       "url": "https://open.spotify.com/track/0VpJsmh0WGBthUjVinfS3k"
+    },
+    {
+      "album": {
+        "name": "Sky Way",
+        "url": "https://open.spotify.com/album/4H8nwaQmH3l0W21jrn83F6"
+      },
+      "artists": [
+        {
+          "name": "Ras-I",
+          "url": "https://open.spotify.com/artist/1AiPTeSRCKWwP2o7OXtoY9"
+        },
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        },
+        {
+          "name": "Koastal Kings",
+          "url": "https://open.spotify.com/artist/7LupR1EmUqcWYvc5X7o4Ws"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Sky Way",
+      "url": "https://open.spotify.com/track/3jOydeGVAsjdYoYVeqVS5U"
     },
     {
       "album": {

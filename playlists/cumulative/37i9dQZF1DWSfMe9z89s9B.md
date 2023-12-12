@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Frex & Jordan Ward
 
-1,043 songs - 2 day 7 hr 41 min
+1,044 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [best](https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:16 | 2022-10-21 | 2023-12-09 |
 | [best](https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:16 | 2022-10-21 | 2022-11-03 |
 | [BIG BOYS DON'T CRY](https://open.spotify.com/track/3TWE0jIXNuI2DVa5Y1fKRf) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [BIG BOYS DON'T CRY](https://open.spotify.com/album/0dIY9BClkUUgfe7zthyBVv) | 2:35 | 2023-04-28 | 2023-10-25 |
+| [BIG BOYS DON'T CRY](https://open.spotify.com/track/5VLm4s6b7rUFus9NDbynAR) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [BIG BOYS DON'T CRY](https://open.spotify.com/album/4fey3LtV0RwTPv8WOu94SL) | 2:35 | 2023-04-28 |  |
 | [BILL$ \(SPED UP\)](https://open.spotify.com/track/4zworCuBwlCfrkcFWCRaIo) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 2:00 | 2022-09-09 | 2023-02-18 |
 | [Bitch Don't Be Mad](https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Habits](https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq) | 3:05 | 2021-04-30 | 2022-08-06 |
 | [Bitches Be \(with Jst Ray\)](https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Jst Ray](https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:24 | 2022-08-05 | 2022-10-30 |
@@ -852,7 +853,7 @@
 | [Strange Love \- Single Edit](https://open.spotify.com/track/0dgehlr08kKoyl2nG7Dhv4) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Strange Love \- Single Edit](https://open.spotify.com/album/2GU9e1FHv9tJan1R3TXxTZ) | 3:01 | 2021-06-04 | 2022-07-29 |
 | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/album/32mKnCP2lxdUKl87kQTrAF) | 2:38 | 2023-01-27 | 2023-06-03 |
 | [Strawberry Perfume](https://open.spotify.com/track/4IbE8jxsczCxfGYJCE2T1x) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Strawberry Perfume](https://open.spotify.com/album/1JloybRxPNoSQRTxPqsGxU) | 1:56 | 2023-05-12 |  |
-| [Strawberry Perfume \(feat\. Essosa\)](https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Strawberry Perfume](https://open.spotify.com/album/73fdLbhr35YUOF7IW8R6ZN) | 2:42 | 2023-10-20 |  |
+| [Strawberry Perfume \(feat\. Essosa\)](https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Strawberry Perfume](https://open.spotify.com/album/73fdLbhr35YUOF7IW8R6ZN) | 2:42 | 2023-10-20 | 2023-12-12 |
 | [street fighter blues](https://open.spotify.com/track/5rKtPQp55pJVHlTKbw1iUt) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:55 | 2023-01-06 | 2023-01-14 |
 | [Stuck](https://open.spotify.com/track/0kzUzaT9BZzrXXloLk49ig) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Stuck](https://open.spotify.com/album/6U726nWLVts6WivbWjjdIq) | 2:38 | 2021-09-17 | 2022-07-25 |
 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 | 2022-07-15 | 2023-02-04 |

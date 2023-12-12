@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,666 songs - 3 day 2 hr 2 min
+1,667 songs - 3 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,6 +875,7 @@
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2021-06-10 | 2022-09-13 |
 | [Modena](https://open.spotify.com/track/3iEbunxqmwNPKpuleXc3GD) | [Francesco Tulman](https://open.spotify.com/artist/4EdOyuppNt5Sa85jGs4dC4) | [Forgiveness](https://open.spotify.com/album/1Znd2KJt1kbfwFqBjur2bU) | 2:19 | 2020-08-04 | 2021-11-11 |
 | [Moment of Silence](https://open.spotify.com/track/5bAeFY9aWmcu0PKqDfUNgc) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Moment of Silence](https://open.spotify.com/album/1dNQqeC8YWcWicqTOd7ngE) | 3:33 | 2020-09-15 | 2022-04-15 |
+| [Moment of Solace](https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Moment of Solace](https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1) | 2:18 | 2023-12-11 |  |
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-01-04 | 2023-11-29 |
 | [Momentum](https://open.spotify.com/track/3dTGRSCi9Zw7fT5lA2mDnV) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Momentum](https://open.spotify.com/album/2unepZAwGZ41hI7ZRHxH8f) | 2:27 | 2021-12-21 | 2022-09-24 |
 | [Mon Ami](https://open.spotify.com/track/5uq2R1bTmJaqRrY8uwstVS) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Mon Ami](https://open.spotify.com/album/6O7GyDT1FY6Yi1mZ7wd3vs) | 2:26 | 2022-02-02 | 2022-07-29 |

@@ -212,7 +212,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 180560,
       "name": "El Negro Bemb\u00f3n",
       "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Fe, Esperanza y Caridad",
+        "url": "https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII"
+      },
+      "artists": [
+        {
+          "name": "Henry Fiol",
+          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469840,
+      "name": "La juma de ayer",
+      "url": "https://open.spotify.com/track/3pL77Aed5ZBnS5IRjPcGF4"
+    },
+    {
+      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 196226,
       "name": "Que Se Sepa",
       "url": "https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln"
@@ -680,7 +698,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 227400,
       "name": "Salsa Y Control",
       "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"

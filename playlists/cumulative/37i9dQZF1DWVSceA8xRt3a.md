@@ -4,7 +4,7 @@
 
 > Celine Song of A24's Past Lives curates a playlist of "love songs about cities"
 
-48 songs - 3 hr 4 min
+49 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [This Is The Dream Of Win & Regine](https://open.spotify.com/track/65tg2FnizGXtnOt8PnDSU7) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Has A Good Home](https://open.spotify.com/album/17EcSC0HhQC3x7clTT9Mn7) | 3:24 | 2023-09-26 |  |
 | [Toronto 4](https://open.spotify.com/track/36mfVVBV9EHw5UyrHxzLvs) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Music@Work](https://open.spotify.com/album/1HUCg8G3crYzn2sGujgSho) | 2:59 | 2023-09-26 |  |
 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2023-09-26 |  |
-| [Vegas](https://open.spotify.com/track/5q6Fabq1sHrItopagxkIgc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 2:19 | 2023-09-26 |  |
+| [Vegas](https://open.spotify.com/track/5q6Fabq1sHrItopagxkIgc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 2:19 | 2023-09-26 | 2023-12-12 |
+| [Vegas \- 2023 Remaster](https://open.spotify.com/track/2KgWGc5KgyNS0scSS6KLmJ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:19 | 2023-09-26 |  |
 | [Washington, D.C.](https://open.spotify.com/track/22reYeFPVc6i15XGmbUs7i) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 1:53 | 2023-09-26 |  |
 | [Way Down in Stockholm](https://open.spotify.com/track/6WGtg05ZcrOpqS1cVZYUtV) | [Will Epstein](https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I) | [Wendy](https://open.spotify.com/album/0eI20QwDDcx6kA3NzVhVuW) | 2:52 | 2023-09-26 |  |
 | [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 | 2023-09-26 |  |

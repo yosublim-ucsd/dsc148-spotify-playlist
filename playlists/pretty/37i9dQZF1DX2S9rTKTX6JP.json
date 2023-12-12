@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 665769,
+  "num_followers": 665835,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2U5N2UzMzk1YTljZDAzZWY3OTUyNTUwNmI3ZGZjY2M1NDE0NTI1",
+  "snapshot_id": "MCw4ZTI5OGRkZTRkN2Y0M2FlZWFmMWE1ZDJkNjEyMzE1OGY1OGNkNGQx",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 215203,
-      "name": "Love Buzz",
-      "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Shake Your Money Maker",
         "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 188066,
       "name": "Hard To Handle",
       "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 215203,
+      "name": "Love Buzz",
+      "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Predator",
-        "url": "https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 275968,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Experience Hendrix: The Best Of Jimi Hendrix",
         "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 238626,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Predator",
+        "url": "https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 275968,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "All Animal",
-        "url": "https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6"
-      },
-      "artists": [
-        {
-          "name": "Through Fire",
-          "url": "https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "Listen To Your Heart",
-      "url": "https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Live & Inspired",
         "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 226293,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "All Animal",
+        "url": "https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6"
+      },
+      "artists": [
+        {
+          "name": "Through Fire",
+          "url": "https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Decade II: Rock & Acoustic",
-        "url": "https://open.spotify.com/album/2KTwK7D7uge6M1x6PzKHfi"
-      },
-      "artists": [
-        {
-          "name": "The Veer Union",
-          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "Numb (Acoustic)",
-      "url": "https://open.spotify.com/track/4D6amyd3ONcv28VBe07xsk"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 152377,
       "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
       "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Decade II: Rock & Acoustic",
+        "url": "https://open.spotify.com/album/2KTwK7D7uge6M1x6PzKHfi"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "Numb (Acoustic)",
+      "url": "https://open.spotify.com/track/4D6amyd3ONcv28VBe07xsk"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Ballroom Blitz",
         "url": "https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 249853,
       "name": "Ballroom Blitz",
       "url": "https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
     },
     {
       "added_at": "2023-11-17 05:00:00",

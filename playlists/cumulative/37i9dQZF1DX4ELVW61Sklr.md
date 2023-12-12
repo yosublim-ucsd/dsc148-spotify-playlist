@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-154 songs - 10 hr 0 min
+155 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Someday At Christmas](https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Someday At Christmas](https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq) | 3:23 | 2021-12-15 | 2023-11-18 |
 | [Someday at Christmas](https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 3:02 | 2021-12-15 |  |
 | [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 | 2021-12-15 | 2023-12-11 |
+| [Someday At Christmas](https://open.spotify.com/track/777bpngWpsT8TTqrrO0Zde) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:48 | 2021-12-15 |  |
 | [Someday At Christmas](https://open.spotify.com/track/2GQnHafw2F53REsJctsPCC) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Weihnachten 2020](https://open.spotify.com/album/2jM3hSRUb1U55ok8ad85tb) | 2:49 | 2021-12-15 | 2022-11-13 |
 | [Someday At Christmas](https://open.spotify.com/track/6VqLlCjW2IPuNWyVa6Ramd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Motown Christmas](https://open.spotify.com/album/109y0mnkGZAYVQNdT0SN3q) | 2:50 | 2021-12-15 | 2022-07-28 |
 | [Soul Holidays](https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 6:00 | 2021-12-15 |  |
@@ -145,7 +146,7 @@
 | [This Day \(feat\. Kiana Ledé\) \- from the Netflix Original Motion Picture Jingle Jangle](https://open.spotify.com/track/1ub1mjaj5QG9fdaCIBSPsH) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [This Day \(feat\. Kiana Ledé\) \[from the Netflix Original Motion Picture Jingle Jangle\]](https://open.spotify.com/album/18Y2FVvp3r41QQ5asBYWzl) | 3:48 | 2021-12-15 | 2022-11-26 |
 | [To: You](https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [To: You \(a holiday joint\)](https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df) | 3:12 | 2022-11-25 | 2023-10-15 |
 | [Try A Little Tenderness](https://open.spotify.com/track/34sxylPJvXX86OD4mtvGcl) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 6:13 | 2022-11-25 |  |
-| [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 | 2022-11-25 |  |
+| [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 | 2022-11-25 | 2023-12-12 |
 | [Very Merry Christmas](https://open.spotify.com/track/0Wigv8bZvAWXI9KnzMDbql) | [Phaedra](https://open.spotify.com/artist/7INtiKMHZb5e9tOpMj5vUS), [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [J\-Sol](https://open.spotify.com/artist/0moTgm8lXIQpK1EXLSgJFR) | [Love at Christmas](https://open.spotify.com/album/2673S2JiNKmPHvbuct5oLs) | 4:31 | 2021-12-15 | 2022-11-26 |
 | [What Child Is This?](https://open.spotify.com/track/3hIRSyKuEG7C22MDmyaK1v) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Best Of/20th Century \- Christmas](https://open.spotify.com/album/1nH7gyIHFcEAkDoGL0j49f) | 3:52 | 2021-12-15 | 2022-07-28 |
 | [What Child Is This?](https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Star Bright](https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df) | 3:52 | 2021-12-15 |  |

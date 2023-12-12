@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,127 likes - 70 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,175 likes - 70 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 7 | [O Homem estragou tudo](https://open.spotify.com/track/3QF009hr5Vu9o6d3z3ViQ0) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Direto do Campo de Extermínio](https://open.spotify.com/album/3SStKpKrLzkfETa9i73mMn) | 5:15 |
 | 8 | [Dia de Visita \- Ao Vivo](https://open.spotify.com/track/2cMC75ZGakoHD31Yvp3mbA) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF) | [Realidade Cruel \(Ao Vivo\)](https://open.spotify.com/album/3d5zGxG8wFLzc0pAlE2xTH) | 4:55 |
 | 9 | [Favela Sinistra](https://open.spotify.com/track/3G8gF1ClzlQBV66fz6S6JB) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [Us Fracu Num Tem Veiz](https://open.spotify.com/album/0biw33bgZqGqmrxjGp0e3b) | 3:35 |
-| 10 | [Artistas ou Não](https://open.spotify.com/track/0dRgUTQzIdmDuvmPQszmEO) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Juventude de Atitude](https://open.spotify.com/album/22Vf9nDmlJ6xmfvL4yLJh1) | 5:27 |
+| 10 | [Artista Ou Não](https://open.spotify.com/track/0pIMZYjPsk8TRRQC4dktjh) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Juventude de Atitude](https://open.spotify.com/album/7M1OkrmtqKuOkfzSjw8Syn) | 5:27 |
 | 11 | [Olha O Menino](https://open.spotify.com/track/0ptYXDqZ9GVPhJGPbUG8yY) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 3:53 |
 | 12 | [Paz Interior](https://open.spotify.com/track/5hO76mbTvvaKqpo3EmMb8N) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 6:06 |
 | 13 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/66073TiPtbCattnpSkyuKq) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 6:23 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 34 | [Malandragem da um Tempo](https://open.spotify.com/track/5Z1FBi4zkRt6DPHLxKsq1e) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg), [Che Leal](https://open.spotify.com/artist/0UCyolhfGmv9eSXextqpJJ) | [Preste Atenção](https://open.spotify.com/album/4QhLW1Z07WU2CrQcerA7wy) | 6:52 |
 | 35 | [Sou Negrão](https://open.spotify.com/track/22jyfobuA8gTgTsTHGAPzG) | [Possemente Zulu](https://open.spotify.com/artist/6jXPqaCexpo7b4JHeFsmSV) | [Revolusom: A Volta do Tape Perdido](https://open.spotify.com/album/0S2iqPNC2M1taMpLWA2Map) | 6:25 |
 | 36 | [Traficando Informação](https://open.spotify.com/track/1vSxH0qXUvKvgyE4PXi4i6) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [DJ Jr](https://open.spotify.com/artist/5QlOcu6Gkblz9Ix9w6yudx) | [Traficando Informação](https://open.spotify.com/album/0Tl0xR97QwbyY6YU5Q70mV) | 6:46 |
-| 37 | [Isso Aqui É uma Guerra](https://open.spotify.com/track/77XTtDeV1SljrkeM3TXUsr) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/6klzQ2I4ekdPh2jGSJ41PW) | 4:26 |
+| 37 | [Isso Aqui É Uma Guerra](https://open.spotify.com/track/5Y5ya3T9L0byu2NNesfge9) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/38kExzaGD52pvVAhbe4wxx) | 4:27 |
 | 38 | [Só Quem É Louco](https://open.spotify.com/track/78NAfjEvh6P8TVRzTty98M) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv) | [Rap das Quebradas](https://open.spotify.com/album/5VgX0CKs44YLtzDFrCuMdE) | 4:57 |
 | 39 | [Somos Nós](https://open.spotify.com/track/5VEDQknmwe4XlPrn74e8zU) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk), [Rafael Crespo](https://open.spotify.com/artist/1WstEGWD2CqKbpqn6g3HAS) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 4:35 |
 | 40 | [Fúria de Titãs](https://open.spotify.com/track/6t1QyknKQsFnDPPdllGaAl) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 3:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 69 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 |
 | 70 | [Mandando Bronca](https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Max](https://open.spotify.com/artist/4uPE8jQtZMzl7kYevZv26v), [Igor Cavalera](https://open.spotify.com/artist/54SDl74Lz33Vi2SnbO5GFu) | [Cadeia Nacional](https://open.spotify.com/album/1c7a4F6mAh53vef9gWrhl5) | 4:26 |
 
-Snapshot ID: `MCxmOTRlMzk1YWU3ZDcxNThlZDlhZGFkYTQ2ODg1Mjc1NDM4NWZlZjRh`
+Snapshot ID: `MCwwODI1OGIwZGJmNTVjNWI0MThmZGJkM2M4MzU0MWQ3NmFiZDYwZDEz`

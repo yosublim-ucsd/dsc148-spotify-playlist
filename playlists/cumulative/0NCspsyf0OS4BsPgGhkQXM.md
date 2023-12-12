@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-971 songs - 2 day 3 hr 12 min
+973 songs - 2 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Another Level](https://open.spotify.com/track/6QgMM1Y9w6PsSTRUWc97b5) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq), [Bad Luck Boy](https://open.spotify.com/artist/2OrJJy9wTNBkOfS5hCwTSk) | [NOWHERE](https://open.spotify.com/album/2Umgb5V6u7umS1BMXq4UXQ) | 2:55 | 2022-01-14 | 2022-02-17 |
 | [Another Way](https://open.spotify.com/track/6sm1OQ89659UUpGctNTXvv) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Another Way](https://open.spotify.com/album/2k8sl8eCdvZGmLT2udUJLe) | 4:51 | 2022-10-07 | 2022-11-11 |
 | [Anthem](https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Anthem](https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY) | 2:15 | 2022-01-14 | 2022-03-05 |
+| [Anthem Of the Bells](https://open.spotify.com/track/4h5pNIuFxUYDwioQDbQ2kl) | [SKG](https://open.spotify.com/artist/062sVQSOvOr69kPms0aKDL) | [It's Cold Outside](https://open.spotify.com/album/5YWmOqClt8OSgWNYjmFMHe) | 1:10 | 2023-12-11 |  |
 | [Antidote](https://open.spotify.com/track/4abpXJR8JbbUcvse4ahiQn) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ) | [RUPTURE EP](https://open.spotify.com/album/7LnfIDPLv8OgdwZfXN7iGt) | 2:36 | 2022-09-02 | 2022-11-24 |
 | [Anxious](https://open.spotify.com/track/3oHu4UWGFkZ44PcBGELEdf) | [Neovaii](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv) | [Aurora](https://open.spotify.com/album/7zqw1bn9eX0xi6ZjL9SYH0) | 2:40 | 2022-01-14 | 2022-06-04 |
 | [Anywhere You Want](https://open.spotify.com/track/5ELKE3vp9qZ2war37maWN3) | [BB Cooper](https://open.spotify.com/artist/2J1QfFspvaEyOJ4w4GhLGi) | [In My Dreams](https://open.spotify.com/album/6VMdhmUtWuoZtG866uXm9j) | 3:02 | 2022-08-26 | 2022-10-08 |
@@ -922,6 +923,7 @@
 | [Walk Me Home \- Effin Remix](https://open.spotify.com/track/7q6WPPeZP3lU8Xb9YPRFBV) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:51 | 2022-07-29 | 2023-02-22 |
 | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1) | 3:02 | 2022-11-17 | 2023-09-23 |
 | [Walked Through Fire](https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [Walked Through Fire](https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn) | 3:34 | 2022-08-26 | 2022-10-08 |
+| [Wander](https://open.spotify.com/track/5sH8SyXWK0KlLe4tmqB6KH) | [K1do](https://open.spotify.com/artist/5p0UDxKNoQli0B8MOYwT4U) | [It's Cold Outside](https://open.spotify.com/album/5YWmOqClt8OSgWNYjmFMHe) | 3:36 | 2023-12-11 |  |
 | [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 | 2023-02-21 |  |
 | [WANT 2 \(feat\. Snoop Dogg\)](https://open.spotify.com/track/1sPaKzY12RpRuY0IeFcaPM) | [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [WANT 2 \(feat\. Snoop Dogg\)](https://open.spotify.com/album/4HGwuo32aQEziAi12CdUXc) | 2:38 | 2023-05-12 |  |
 | [Want It](https://open.spotify.com/track/3oImOUmlh3VnTc0saqOqVG) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Want It \(Remixes\)](https://open.spotify.com/album/4Vz1Xbx9XetfeKtBpqSRTC) | 3:36 | 2023-01-21 |  |

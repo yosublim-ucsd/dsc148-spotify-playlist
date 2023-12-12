@@ -4,7 +4,7 @@
 
 > That's that big energy\. Cover: Tokischa, Sexyy Redd
 
-180 songs - 8 hr 55 min
+181 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ambrosia](https://open.spotify.com/track/0t4XPmrCs5f9JWo26yQdPz) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Ambrosia](https://open.spotify.com/album/6liLrRZ18eTnyKwKKdlhYB) | 3:06 | 2023-10-13 |  |
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c) | 4:20 | 2023-08-18 | 2023-11-11 |
 | [Angel](https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB) | [Raquel](https://open.spotify.com/artist/2WKGwl7U3upSvwbJrBJSla), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Angel](https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl) | 2:59 | 2023-09-02 | 2023-09-30 |
+| [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2023-12-11 |  |
 | [Anna Wintour](https://open.spotify.com/track/5Pm7KrSKkDj37SZoMYyXDX) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Anna Wintour](https://open.spotify.com/album/6CdoZyh1IJzKRs7tw5WM8e) | 4:33 | 2023-11-24 | 2023-12-02 |
 | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/album/60LPFmZ5vcbDBZRexNZ9c1) | 3:18 | 2023-08-18 | 2023-09-09 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-08-18 | 2023-09-02 |
@@ -69,7 +70,7 @@
 | [Ghetto & Ratchet](https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Ghetto & Ratchet](https://open.spotify.com/album/7ECwZpB5z3OPS0HNAtNhDC) | 2:06 | 2023-09-02 |  |
 | [GO WITH GUT](https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [GO WITH GUT](https://open.spotify.com/album/01Xj382BlVU0Jlcd46b4ra) | 3:20 | 2023-09-22 | 2023-11-11 |
 | [Gotta](https://open.spotify.com/track/0jSECADSXPJ1YnBlN5AqX2) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Oryane](https://open.spotify.com/artist/6ealaBsCtCp93xGB1sL1Mz), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Gotta](https://open.spotify.com/album/0HuKERuRN16uvegUjmBsfH) | 3:32 | 2023-09-22 | 2023-10-14 |
-| [Grandma's Kitchen](https://open.spotify.com/track/2BU9FTy2ctWdTjiPiXLZZr) | [KwolleM](https://open.spotify.com/artist/5SFnJjOMV4N33wEpGvDwik), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Melo](https://open.spotify.com/album/3m8xFZm5azXCXreTC3rJ0Q) | 2:27 | 2023-11-10 |  |
+| [Grandma's Kitchen](https://open.spotify.com/track/2BU9FTy2ctWdTjiPiXLZZr) | [KwolleM](https://open.spotify.com/artist/5SFnJjOMV4N33wEpGvDwik), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Melo](https://open.spotify.com/album/3m8xFZm5azXCXreTC3rJ0Q) | 2:27 | 2023-11-10 | 2023-12-12 |
 | [Gyal Clown](https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gyal Clown](https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h) | 2:16 | 2023-12-01 |  |
 | [Hatin on Me](https://open.spotify.com/track/6swmJkUuSvIVs7SgBAzufv) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Real Rap B\*\*\*\*](https://open.spotify.com/album/24BlqiVfMDly6VLwxA6OA1) | 3:24 | 2023-12-01 |  |
 | [Heart & Soul](https://open.spotify.com/track/1PWBYzmvcB8dTWG4QTplUC) | [Lincoln Blaché](https://open.spotify.com/artist/0fzmGXcEo7zd9ISaWviObI) | [Heart & Soul](https://open.spotify.com/album/1PxnQeiEqOcVZQZhvmF1hK) | 2:56 | 2023-09-08 | 2023-09-30 |

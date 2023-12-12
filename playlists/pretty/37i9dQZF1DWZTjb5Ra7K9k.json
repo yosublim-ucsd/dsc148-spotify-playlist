@@ -1,12 +1,12 @@
 {
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
-  "num_followers": 189739,
+  "num_followers": 189733,
   "original_name": "Free Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2YzNTE1ODdhYTI4ZjAyODY3NTg0ZDNkOWM4YjcyOWUyY2E3ZTlj",
+  "snapshot_id": "MCwwZWUzMGQwMTgxODk4N2U5OTc0MWVlZGQ2YjA1NDk5YTJjYmJmNWJk",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Imunidade Musical",
         "url": "https://open.spotify.com/album/1l8K5fgYz4J0ZZyjMVd6Q1"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 282400,
       "name": "The Adventures of Rain Dance Maggie",
       "url": "https://open.spotify.com/track/0PgNhIg5n0UAOBVn43b8b6"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Soul Pirate",
         "url": "https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
-        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Born and Raised",
-        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Queen of California",
-      "url": "https://open.spotify.com/track/0CETmgFGt8Ne8vLnaLcduU"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Forty Licks",
         "url": "https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi"
       },
@@ -551,6 +535,38 @@
       "duration_ms": 223289,
       "name": "Jumpin' Jack Flash",
       "url": "https://open.spotify.com/track/1GOdYykgw2W0OcjPANvwgE"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Brushfire Fairytales [Remastered (Bonus Version)]",
+        "url": "https://open.spotify.com/album/23BBbqDGMhloT6f2YBecSr"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 281749,
+      "name": "Flake",
+      "url": "https://open.spotify.com/track/54S3uCvfZauNw8lVCHZYYo"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Born and Raised",
+        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Queen of California",
+      "url": "https://open.spotify.com/track/0CETmgFGt8Ne8vLnaLcduU"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -583,22 +599,6 @@
       "duration_ms": 173493,
       "name": "Pressure Drop - Single Version",
       "url": "https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Brushfire Fairytales [Remastered (Bonus Version)]",
-        "url": "https://open.spotify.com/album/23BBbqDGMhloT6f2YBecSr"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 281749,
-      "name": "Flake",
-      "url": "https://open.spotify.com/track/54S3uCvfZauNw8lVCHZYYo"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Welcome To The Cruel World",
+        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Sawdust",
         "url": "https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 253813,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6qS04no9s93xryizOrZ4ru"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Welcome To The Cruel World",
-        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Welcome To The Cruel World",
-        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "The Three Of Us",
-      "url": "https://open.spotify.com/track/1VD8kfTLRwQErMZkLtHjcP"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Poetry In Motion",
         "url": "https://open.spotify.com/album/4Zf1Hm15ddDthWt93135aK"
       },
@@ -1099,22 +1083,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Brother the Cloud",
-        "url": "https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 262226,
-      "name": "Brother the Cloud",
-      "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Surfin' USA (Remastered)",
         "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
@@ -1131,18 +1099,34 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Pass It Around",
-        "url": "https://open.spotify.com/album/5UGyKjOCdpxPkamcLkJNZL"
+        "name": "Welcome To The Cruel World",
+        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
       },
       "artists": [
         {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 190760,
-      "name": "Life, Love & Laughter",
-      "url": "https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV"
+      "duration_ms": 155400,
+      "name": "The Three Of Us",
+      "url": "https://open.spotify.com/track/1VD8kfTLRwQErMZkLtHjcP"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Brother the Cloud",
+        "url": "https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 262226,
+      "name": "Brother the Cloud",
+      "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1163,22 +1147,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Fight For Your Mind",
-        "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Ground On Down",
-      "url": "https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "The Real Deal: Greatest Hits Volume 2",
         "url": "https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1"
       },
@@ -1195,6 +1163,22 @@
       "duration_ms": 179626,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/4JnefzMlvvO3OUBRW4oLlU"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Pass It Around",
+        "url": "https://open.spotify.com/album/5UGyKjOCdpxPkamcLkJNZL"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Life, Love & Laughter",
+      "url": "https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1243,6 +1227,22 @@
       "duration_ms": 202080,
       "name": "Living Single",
       "url": "https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Earthling",
+        "url": "https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 286950,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM"
     }
   ],
   "unique_name": "Free Surf",

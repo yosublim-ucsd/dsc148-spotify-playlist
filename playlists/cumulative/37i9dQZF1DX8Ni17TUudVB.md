@@ -4,10 +4,11 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-211 songs - 11 hr 3 min
+212 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2 Die 4](https://open.spotify.com/track/1VYlIU9IpVa4MHUqzKHyOb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 3:05 | 2023-09-11 |  |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-08-16 | 2023-12-11 |
 | [50 Days](https://open.spotify.com/track/0bLgmoLTwCWOausnxpHfGw) | [HOBIN ROOD](https://open.spotify.com/artist/3fXOalppivovgebzJRNv3w) | [50 Days](https://open.spotify.com/album/2lSMjZSJ3Deq1zVgnnbysk) | 2:23 | 2022-01-04 | 2022-07-20 |
 | [Accolade](https://open.spotify.com/track/1KDyVnIPThBqm7mnj8MTYl) | [Jordan Comolli](https://open.spotify.com/artist/0OirGRY55NlQeqOHKhvpbm) | [Accolade](https://open.spotify.com/album/09Wo9BiQx4H6qTKCVgrR74) | 2:57 | 2022-03-29 | 2022-05-12 |
@@ -181,7 +182,7 @@
 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 | 2022-07-26 |  |
 | [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 | 2022-10-12 |  |
 | [Shake It](https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa) | 2:47 | 2022-01-04 | 2023-01-30 |
-| [Shock \(feat\. Kabasaki\)](https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Fuka](https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/album/3Bz8QogW92aM0p6YkXwqsp) | 2:47 | 2023-05-12 |  |
+| [Shock \(feat\. Kabasaki\)](https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Fuka](https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/album/3Bz8QogW92aM0p6YkXwqsp) | 2:47 | 2023-05-12 | 2023-12-12 |
 | [Shout \- le Shuuk Remix](https://open.spotify.com/track/1BmYhtZrAuhxcg8aOBhX3F) | [Max Lean](https://open.spotify.com/artist/4sOc3KgWiki8GMnvxYH8sh), [Ane](https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Shout \(le Shuuk Remix\)](https://open.spotify.com/album/4aGVUiUTh8VPXPXNYdVBoR) | 2:51 | 2022-01-04 | 2022-06-21 |
 | [Show Me Love](https://open.spotify.com/track/0MiKO3HIvUreM5Tn986NGq) | [Fortu & Mendoza](https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex) | [Show Me Love](https://open.spotify.com/album/2g2SBkcTs9xneesZOBOimD) | 3:18 | 2022-01-04 | 2022-07-29 |
 | [Show Me Love \- Kryder & Tom Staar Remix](https://open.spotify.com/track/6iplImDoHCSM74kGVVKARL) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt), [Kryder](https://open.spotify.com/artist/4GEuI6dz6nB4E7qYgdnJBL), [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u) | [Show Me Love \(Remixes 2\)](https://open.spotify.com/album/3Lyu7NctI2QfKiO6eLHjsb) | 4:38 | 2022-01-04 | 2022-07-17 |

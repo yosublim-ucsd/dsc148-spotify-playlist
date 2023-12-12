@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDA4OTRkZjAzZTkwMDMxNWE0NGJjN2I0ZmNmYzc2ZjBmMTQ5YzY2",
+  "snapshot_id": "MCw0ZGU0ZGE4OWRiZjI3NWI2NTBkM2IwNDllMDgyZThmMjI0NmU0NTY1",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -135,26 +135,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Salary",
-        "url": "https://open.spotify.com/album/0ysAKohoYkEI47eHS9GPry"
-      },
-      "artists": [
-        {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        },
-        {
-          "name": "Selecta Jeff",
-          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Salary",
-      "url": "https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "NANA (feat. Joeboy, King Promise & BIEN) [Remix]",
         "url": "https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 199190,
       "name": "NANA - Remix",
       "url": "https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Salary",
+        "url": "https://open.spotify.com/album/0ysAKohoYkEI47eHS9GPry"
+      },
+      "artists": [
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        },
+        {
+          "name": "Selecta Jeff",
+          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Salary",
+      "url": "https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -263,26 +263,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Bedroom Essentials",
-        "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
-      },
-      "artists": [
-        {
-          "name": "Elijah Kitaka",
-          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
-        },
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Tutu Mama",
-      "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "No Lie",
         "url": "https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI"
       },
@@ -303,22 +283,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "AFRICAN MUSIC",
-        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
+        "name": "Bedroom Essentials",
+        "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
       },
       "artists": [
         {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+          "name": "Elijah Kitaka",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
         },
         {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
         }
       ],
-      "duration_ms": 210724,
-      "name": "Majje",
-      "url": "https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k"
+      "duration_ms": 186947,
+      "name": "Tutu Mama",
+      "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -375,22 +355,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2"
       },
@@ -407,6 +371,26 @@
       "duration_ms": 227027,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "AFRICAN MUSIC",
+        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 210724,
+      "name": "Majje",
+      "url": "https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -459,6 +443,22 @@
       "duration_ms": 187200,
       "name": "Nkwata Bulungi (Bailamos)",
       "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Omwenge",
         "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 212903,
       "name": "Omwana",
       "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -719,6 +719,22 @@
       "duration_ms": 172016,
       "name": "Bega Bega",
       "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4Or0X5Z3c0lxpfcDe9I7M4"
+      },
+      "artists": [
+        {
+          "name": "SHENA SKIES",
+          "url": "https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -807,22 +823,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Pretty Young Thing",
-        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Pretty Young Thing",
-      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Ekyama",
         "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
       },
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/4Or0X5Z3c0lxpfcDe9I7M4"
+        "name": "Pretty Young Thing",
+        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
       },
       "artists": [
         {
-          "name": "SHENA SKIES",
-          "url": "https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO"
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq"
+      "duration_ms": 190000,
+      "name": "Pretty Young Thing",
+      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
     },
     {
       "added_at": "2023-12-08 00:08:00",

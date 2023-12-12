@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "Badhaai Do (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6aoSVvw7A1ULSKXCkn4Kl3"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Rupali Moghe",
+          "url": "https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199407,
+      "name": "Atak Gaya",
+      "url": "https://open.spotify.com/track/5Z2k12MKbQTUYLKHSPs2jc"
+    },
+    {
+      "album": {
         "name": "Musical Bond: Jeet Gannguli & Arijit Singh",
         "url": "https://open.spotify.com/album/5Z5vhemw4ig06H73KolMti"
       },
@@ -828,7 +850,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 279107,
       "name": "Deva Deva (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O"
@@ -1320,7 +1342,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 183882,
       "name": "In Raahon Mein (From \"The Archies\")",
       "url": "https://open.spotify.com/track/25qNCxhu9VzFgcCPawszwh"
@@ -1872,6 +1894,32 @@
       "duration_ms": 313051,
       "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
       "url": "https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7"
+    },
+    {
+      "album": {
+        "name": "O Maahi (From \"Dunki\")",
+        "url": "https://open.spotify.com/album/011VDmbOf50dqxmLnkdsoC"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233453,
+      "name": "O Maahi (From \"Dunki\")",
+      "url": "https://open.spotify.com/track/0qQ4IdhjzNr0gJhdMTf2n3"
     },
     {
       "album": {

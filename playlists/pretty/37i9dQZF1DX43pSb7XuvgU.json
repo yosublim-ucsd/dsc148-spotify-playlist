@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 132942,
+  "num_followers": 133086,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2MyNGNlNGI1OGNkNWVlMmRkNTIwZWU3YWU1NjQ3YmIzODQ4M2Mx",
+  "snapshot_id": "MCwzZGFlZDkxZjFmNzU0ZDc0ZWIzOTc4YjRjNDE5YWRhNzNlZGE5YTMw",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -351,6 +351,26 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Juntos Otra Vez (with Juan Gabriel)",
+        "url": "https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "El Destino (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/137as1w4u30ZTyLXn5HK69"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 205866,
       "name": "Siempre en Mi Mente",
       "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Juntos Otra Vez (with Juan Gabriel)",
-        "url": "https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "El Destino (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/137as1w4u30ZTyLXn5HK69"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Juan Gabriel - 40 Aniversario",
         "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 253080,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/55LmsCprSozlCgM2XbmhhW"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "El Pr\u00edncipe de la Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Soy As\u00ed",
-      "url": "https://open.spotify.com/track/6HcYWQs3yAb1CJH4MS41N1"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Juan Gabriel Con Banda... El Recodo",
         "url": "https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 302906,
       "name": "Ahora Con la Banda... Te Voy a Olvidar / Ya para Qu\u00e9 / La Farsante",
       "url": "https://open.spotify.com/track/4tZ4seoyOqBvjlGlrJenF3"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "El Pr\u00edncipe de la Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Soy As\u00ed",
+      "url": "https://open.spotify.com/track/6HcYWQs3yAb1CJH4MS41N1"
     },
     {
       "added_at": "2021-12-29 23:33:57",

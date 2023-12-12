@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 62172,
+  "num_followers": 62170,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjhjYzU0NGQ5ZDY4NGI5MWZmMDIxYzgxNWUxZWMwMTM0YjljZTA0",
+  "snapshot_id": "MCwyZjg2NzFkNDY1MDkzNDIwM2E2M2ZiN2I1ZGQwODYzNGFmZGZjZmQx",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 351626,
-      "name": "Common People - Full Length Version",
-      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 351626,
+      "name": "Common People - Full Length Version",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Scouting For Girls (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV"
-      },
-      "artists": [
-        {
-          "name": "Scouting For Girls",
-          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "She's So Lovely",
-      "url": "https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Scouting For Girls (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV"
+      },
+      "artists": [
+        {
+          "name": "Scouting For Girls",
+          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "She's So Lovely",
+      "url": "https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg"
     },
     {
       "added_at": "2021-06-15 09:25:05",

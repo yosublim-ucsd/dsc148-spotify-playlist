@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 204657,
       "name": "3AM",
       "url": "https://open.spotify.com/track/6TAnJ7ubFuZ7nYgzYst2Wp"
@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Black Is Beautiful",
+        "url": "https://open.spotify.com/album/4sN4yMm3Hre2UaIl22E1hx"
+      },
+      "artists": [
+        {
+          "name": "Ebony Winter",
+          "url": "https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240700,
+      "name": "Black Is Beautiful",
+      "url": "https://open.spotify.com/track/3tRn27FqOl08WqhTvWrXUw"
+    },
+    {
+      "album": {
         "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
         "url": "https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv"
       },
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 142941,
       "name": "Champagne Problems",
       "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 200000,
       "name": "Dead Inside Shuffle",
       "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 205201,
       "name": "Heat of the Moon",
       "url": "https://open.spotify.com/track/7GmSvY6pk87MO2GaMnXLLN"
@@ -3846,6 +3864,28 @@
       "duration_ms": 199011,
       "name": "Make A Place",
       "url": "https://open.spotify.com/track/1tnHsDjJqZPp7uZNqCERJ9"
+    },
+    {
+      "album": {
+        "name": "Marking My Time (BADBADNOTGOOD Edit)",
+        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252503,
+      "name": "Marking My Time - BADBADNOTGOOD Edit",
+      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
     },
     {
       "album": {
@@ -5292,7 +5332,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 258979,
       "name": "sealand",
       "url": "https://open.spotify.com/track/5vyHC9KyYoXTUH2eLUwK8P"
@@ -5314,7 +5354,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 215772,
       "name": "Security Code",
       "url": "https://open.spotify.com/track/2ZOIl2JPKxTKNqJboeSrWd"
@@ -5996,7 +6036,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 222518,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw"
@@ -6306,7 +6346,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 195782,
       "name": "Take My Picture",
       "url": "https://open.spotify.com/track/6kYMoYJnbXVuiqVMCkL2Pe"
@@ -6961,6 +7001,40 @@
     },
     {
       "album": {
+        "name": "HOUSE OF GROOVE",
+        "url": "https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        },
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+        },
+        {
+          "name": "The NightBirds",
+          "url": "https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216154,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH"
+    },
+    {
+      "album": {
         "name": "AUTUMN BOON",
         "url": "https://open.spotify.com/album/24Gu4tv2kH4rtNc795TNYF"
       },
@@ -6972,7 +7046,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 282500,
       "name": "U MOVE ME",
       "url": "https://open.spotify.com/track/0hEfncfojHOofdZdJCoHgk"
@@ -7078,7 +7152,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-12",
       "duration_ms": 518557,
       "name": "Virgo (feat. Brandee Younger, Julius Rodriguez)",
       "url": "https://open.spotify.com/track/3Gm0VzTqEbbHF5B92Ntkz4"

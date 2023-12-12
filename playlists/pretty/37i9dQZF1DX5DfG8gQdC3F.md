@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Tate McRae, Nicki Minaj, Peso Pluma & Anitta, Night Lovell and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,244 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,259 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 86 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 |
 | 87 | [Knowing You](https://open.spotify.com/track/6KO3ebcMoEN3vjltHo9FWI) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Knowing You](https://open.spotify.com/album/664Cc2ZdpJQZCoYdOnhtl8) | 3:50 |
 | 88 | [Beyond Spiritual \(feat\. Wiz Khalifa, Big K.R.I.T\. & Curren$y\)](https://open.spotify.com/track/2Fy4jOsRb58vn9bgJw1TxA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Flying Objects \(Extended Version\)](https://open.spotify.com/album/5dZKoTH8rRl5DDqU5lmn3a) | 5:41 |
-| 89 | [Gemini Season](https://open.spotify.com/track/6NIvS0dnPIL4gK259AW7ut) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj), [polun](https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq) | [Gemini Season](https://open.spotify.com/album/5mEUou1YIVRufhBXxkV06R) | 3:03 |
+| 89 | [Gemini Season \(You Don't Know Me\)](https://open.spotify.com/track/6NIvS0dnPIL4gK259AW7ut) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj), [polun](https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq) | [Gemini Season \(You Don't Know Me\)](https://open.spotify.com/album/5mEUou1YIVRufhBXxkV06R) | 3:03 |
 | 90 | [Nightmares & Ice Cream](https://open.spotify.com/track/0NC3Pb4nIcNZOxpXS16oLX) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Part II \- Nightmares & Ice Cream](https://open.spotify.com/album/3ShSlafzZQwwzOEmU52iok) | 4:05 |
 | 91 | [Gone](https://open.spotify.com/track/2N00RnLgnk4g9mrTHIViHy) | [Geddy Lee](https://open.spotify.com/artist/1mVhi0LYM9U7DEZNrKyC0l) | [The Lost Demos](https://open.spotify.com/album/4me6wWFc3aF7gEPlNFzFm8) | 4:15 |
 | 92 | [Supernatural](https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Supernatural](https://open.spotify.com/album/0NIqLdZS16xSe11Tk1gabP) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [THE WOLF](https://open.spotify.com/track/0Be1p9GZJlbBd7cONbRgra) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [THE WOLF](https://open.spotify.com/album/34nx9Nn2GQ48ziOsccw7Ow) | 3:40 |
 | 100 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
 
-Snapshot ID: `MCxmZjM1MDc0NDIzYmVlNzlkM2I1ZDIwNjI4MTA0YzI0YjQ3MWNhZjFh`
+Snapshot ID: `MCxkYjlhZjM0ZWQ3YjExMzYxYjA0YmM2NTZhY2JhMGFjYzYxNzkwMjg1`

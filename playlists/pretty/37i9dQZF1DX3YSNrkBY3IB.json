@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 72031,
+  "num_followers": 72124,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmFiZjI2OTlhM2VlN2NlYmViZmEzNGZlNmZkZDlkNTFmZWNjMWUy",
+  "snapshot_id": "MCwzYmQwNWJiOGU0MjEwMDI3ZDVlYjM5ZGUwNjhlOTM2ZTJkNjE2YTY4",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "The Score (Expanded Edition)",
@@ -219,6 +203,22 @@
       "duration_ms": 273093,
       "name": "No Woman, No Cry",
       "url": "https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2022-01-10 20:50:24",
@@ -289,34 +289,6 @@
       "url": "https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1"
     },
     {
-      "added_at": "2021-03-19 15:07:31",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy"
-      },
-      "artists": [
-        {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pras",
-          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
-        }
-      ],
-      "duration_ms": 290293,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
-    },
-    {
       "added_at": "2020-09-29 17:19:21",
       "album": {
         "name": "Profilin': The Hits",
@@ -363,6 +335,34 @@
       "duration_ms": 427360,
       "name": "Rapper's Delight",
       "url": "https://open.spotify.com/track/7sZDbHZiuHEzS00vzCuhqS"
+    },
+    {
+      "added_at": "2021-03-19 15:07:31",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Pras",
+          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
+        }
+      ],
+      "duration_ms": 290293,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -455,6 +455,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 272706,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 272706,
-      "name": "Tennessee",
-      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Paid In Full",
         "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 463733,
       "name": "The Breaks",
       "url": "https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -603,6 +587,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Holy Intellect (Expanded Edition)",
         "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "2 Hype",
-        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
-      },
-      "artists": [
-        {
-          "name": "Kid 'N Play",
-          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
-        }
-      ],
-      "duration_ms": 284040,
-      "name": "Gittin' Funky",
-      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 224826,
       "name": "Monie in the Middle",
       "url": "https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "2 Hype",
+        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
+      },
+      "artists": [
+        {
+          "name": "Kid 'N Play",
+          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
+        }
+      ],
+      "duration_ms": 284040,
+      "name": "Gittin' Funky",
+      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
     },
     {
       "added_at": "2020-09-29 17:19:21",

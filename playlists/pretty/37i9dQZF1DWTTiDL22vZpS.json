@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 20070,
+  "num_followers": 20087,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjk5YTU0NTEzY2I3MThlYTY1ZDNjMTFkNzM5OGI1ZWMwZWNmNWJl",
+  "snapshot_id": "MCwyM2IzNTNjZTBmMjgzMDg4MTkyNDNlMjZiOGNlMTU5YWY0ODcyNGU4",
   "tracks": [
     {
       "added_at": "2023-12-05 22:25:36",
@@ -175,26 +175,6 @@
     {
       "added_at": "2023-12-05 22:25:36",
       "album": {
-        "name": "Buitres & Co.",
-        "url": "https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 225458,
-      "name": "Rotos",
-      "url": "https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi"
-    },
-    {
-      "added_at": "2023-12-05 22:25:36",
-      "album": {
         "name": "Hush (Still Woozy Remix)",
         "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 182346,
       "name": "Hush - Still Woozy Remix",
       "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
+    },
+    {
+      "added_at": "2023-12-05 22:25:36",
+      "album": {
+        "name": "Buitres & Co.",
+        "url": "https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 225458,
+      "name": "Rotos",
+      "url": "https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi"
     },
     {
       "added_at": "2023-12-05 22:25:36",
@@ -263,18 +263,22 @@
     {
       "added_at": "2023-12-05 22:25:36",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
+      "duration_ms": 260299,
+      "name": "Funky Fiesta",
+      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
     },
     {
       "added_at": "2023-12-05 22:25:36",
@@ -295,6 +299,22 @@
     {
       "added_at": "2023-12-05 22:25:36",
       "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
+    },
+    {
+      "added_at": "2023-12-05 22:25:36",
+      "album": {
         "name": "Cortes Modernos",
         "url": "https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 223621,
       "name": "Cortes Modernos",
       "url": "https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX"
-    },
-    {
-      "added_at": "2023-12-05 22:25:36",
-      "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 260299,
-      "name": "Funky Fiesta",
-      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
     },
     {
       "added_at": "2023-12-05 22:25:36",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-12-05 22:25:36",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 318058,
-      "name": "Esta canci\u00f3n",
-      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
-    },
-    {
-      "added_at": "2023-12-05 22:25:36",
-      "album": {
         "name": "Trippy Caribbean",
         "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 275785,
       "name": "A\u00f1ejo",
       "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
+    },
+    {
+      "added_at": "2023-12-05 22:25:36",
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2023-12-05 22:25:36",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-12-05 22:25:36",
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
+    },
+    {
+      "added_at": "2023-12-05 22:25:36",
+      "album": {
         "name": "Cuando Regreses a M\u00ed",
         "url": "https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 192000,
       "name": "Cuando Regreses a M\u00ed",
       "url": "https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ"
-    },
-    {
-      "added_at": "2023-12-05 22:25:36",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 271162,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
     },
     {
       "added_at": "2023-12-05 22:25:36",
@@ -591,6 +591,22 @@
       "duration_ms": 218666,
       "name": "Ultra-Funk",
       "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
+    },
+    {
+      "added_at": "2023-12-05 22:25:36",
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 326040,
+      "name": "Tr\u00e1game Tierra",
+      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": "2023-12-05 22:25:36",
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-12-05 22:25:36",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "Tr\u00e1game Tierra",
-      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
-    },
-    {
-      "added_at": "2023-12-05 22:25:36",
-      "album": {
         "name": "CAMALOVE",
         "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
       },
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-12-05 22:25:36",
       "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Chacon",
+          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
+    },
+    {
+      "added_at": "2023-12-05 22:25:36",
+      "album": {
         "name": "Peque\u00f1ines",
         "url": "https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 227933,
       "name": "Peque\u00f1ines",
       "url": "https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId"
-    },
-    {
-      "added_at": "2023-12-05 22:25:36",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Chacon",
-          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
     },
     {
       "added_at": "2023-12-05 22:25:36",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-12-05 22:25:36",
       "album": {
-        "name": "TTT",
-        "url": "https://open.spotify.com/album/7qOQ37eoRAF8YR1MehRim6"
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
       },
       "artists": [
         {
-          "name": "We The Lion",
-          "url": "https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z"
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
         }
       ],
-      "duration_ms": 205452,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/0O6CZiLgMKYbBQ7qPM2enO"
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
     }
   ],
   "unique_name": "feels like latin funk",

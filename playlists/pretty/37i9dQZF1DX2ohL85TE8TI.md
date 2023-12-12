@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: CASTAWAY DIVA\(무인도의 디바\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,539,384 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,539,511 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [love condition](https://open.spotify.com/track/6HcbotM1ErtNzmT3zuiwKj) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Nomovie OST PART3](https://open.spotify.com/album/5J6WnRII8NapBBP5BbvczP) | 2:57 |
 | 100 | [You Were Beautiful \(My love X Kim Min\-seok \(MeloMance\)\)](https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy) | [Kim Min\-seok \(MeloMance\)](https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp) | [You Were Beautiful \(My love X Kim Min\-seok \(MeloMance\)\)](https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie) | 4:32 |
 
-Snapshot ID: `MCw4ZWE0YWI0NzRiMWQ5MjRkODRhNmQ4N2ExZjA2N2MxN2NlNmRmYjgx`
+Snapshot ID: `MCxmMzcyZThhMTI5MWI5MjUwMWQwMTFjNzAxMjJiODJhZDE4Njk5YzJi`

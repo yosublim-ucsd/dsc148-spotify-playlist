@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 75,919 likes - 52 songs - 3 hr 30 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 75,918 likes - 52 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3887,
+  "num_followers": 3886,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTU5MWY1ZGQ1YmM3YzQ4NDQ4ZGU5NWNjN2FmNjVhNWFkZjkyMDVh",
+  "snapshot_id": "MCw3MTk5MzNkY2QyOGQ3YzI0NTc0YTA0OGZiNWZmZDM4MTQ1YmY2NGRm",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pour la vie enti\u00e8re",
-        "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
-      },
-      "artists": [
-        {
-          "name": "blond",
-          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Pour la vie enti\u00e8re",
-      "url": "https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Les Royaumes Minuscules",
         "url": "https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 252146,
       "name": "L'hiver",
       "url": "https://open.spotify.com/track/3gUgoLt5p69lJCfCJ7bhLd"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pour la vie enti\u00e8re",
+        "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
+      },
+      "artists": [
+        {
+          "name": "blond",
+          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Pour la vie enti\u00e8re",
+      "url": "https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pont Champlain",
-        "url": "https://open.spotify.com/album/1fumWxp522ocJH8odkks3L"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        }
-      ],
-      "duration_ms": 210296,
-      "name": "Pont Champlain",
-      "url": "https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Tes mains sales",
         "url": "https://open.spotify.com/album/1qHu35g9fesjTYiBQzL057"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 158160,
       "name": "Tes mains sales",
       "url": "https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pont Champlain",
+        "url": "https://open.spotify.com/album/1fumWxp522ocJH8odkks3L"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "duration_ms": 210296,
+      "name": "Pont Champlain",
+      "url": "https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Quoi-ce tu fais \u00e7a pour?",
-        "url": "https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7"
-      },
-      "artists": [
-        {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
-        }
-      ],
-      "duration_ms": 192653,
-      "name": "Quoi-ce tu fais \u00e7a pour?",
-      "url": "https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Ses plus belles chansons",
         "url": "https://open.spotify.com/album/2T9LjWDkThEi1wfB3PBJi7"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 233000,
       "name": "Marie-H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/2FGJUywuJ7MyFXtJpM6YrH"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Quoi-ce tu fais \u00e7a pour?",
+        "url": "https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7"
+      },
+      "artists": [
+        {
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+        }
+      ],
+      "duration_ms": 192653,
+      "name": "Quoi-ce tu fais \u00e7a pour?",
+      "url": "https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
-        "url": "https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY"
-      },
-      "artists": [
-        {
-          "name": "FUUDGE",
-          "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
-        }
-      ],
-      "duration_ms": 151253,
-      "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
-      "url": "https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Anh\u00e9donie",
         "url": "https://open.spotify.com/album/7188natmAynJElRoh3pKWD"
       },
@@ -2047,6 +2031,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
+        "url": "https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY"
+      },
+      "artists": [
+        {
+          "name": "FUUDGE",
+          "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
+        }
+      ],
+      "duration_ms": 151253,
+      "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
+      "url": "https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Winston Express",
         "url": "https://open.spotify.com/album/5vPTLJRuspTFLoFb0u3wbT"
       },
@@ -2059,6 +2059,22 @@
       "duration_ms": 220186,
       "name": "Fais-moi tien",
       "url": "https://open.spotify.com/track/4vj6a6z7R1kBa4W9RTS4Le"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Chou",
+        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
+      },
+      "artists": [
+        {
+          "name": "Chou",
+          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
+        }
+      ],
+      "duration_ms": 123541,
+      "name": "Chou",
+      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2083,18 +2099,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Chou",
-        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
+        "name": "El Futuro Es Tribal",
+        "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
       },
       "artists": [
         {
-          "name": "Chou",
-          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
+          "name": "Akawui",
+          "url": "https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa"
         }
       ],
-      "duration_ms": 123541,
-      "name": "Chou",
-      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
+      "duration_ms": 307337,
+      "name": "Breath Of Fire",
+      "url": "https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2115,18 +2131,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "El Futuro Es Tribal",
-        "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
+        "name": "Bad Vibrations",
+        "url": "https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO"
       },
       "artists": [
         {
-          "name": "Akawui",
-          "url": "https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa"
+          "name": "Mudie",
+          "url": "https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr"
         }
       ],
-      "duration_ms": 307337,
-      "name": "Breath Of Fire",
-      "url": "https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV"
+      "duration_ms": 167851,
+      "name": "Alien 2, le retour",
+      "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2143,22 +2159,6 @@
       "duration_ms": 181286,
       "name": "Lance-Flamme Lance-Glace",
       "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Bad Vibrations",
-        "url": "https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO"
-      },
-      "artists": [
-        {
-          "name": "Mudie",
-          "url": "https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr"
-        }
-      ],
-      "duration_ms": 167851,
-      "name": "Alien 2, le retour",
-      "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
     },
     {
       "added_at": "2023-05-25 23:46:15",
