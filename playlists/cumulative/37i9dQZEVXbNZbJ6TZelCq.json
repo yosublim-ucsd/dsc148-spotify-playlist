@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 160551,
       "name": "BUGATTI",
       "url": "https://open.spotify.com/track/4ZIUTq57n9YpRCIl5WLM0i"
@@ -3720,7 +3720,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 97391,
       "name": "BULIBA$HA",
       "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
@@ -5352,7 +5352,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 145846,
       "name": "CONTACT FATAL 2",
       "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
@@ -8486,7 +8486,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -16174,7 +16174,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -18930,7 +18930,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -21036,10 +21036,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "album": {
+        "name": "Christmas & Chill",
+        "url": "https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203493,
+      "name": "Santa Tell Me - Naughty Version",
+      "url": "https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q"
     },
     {
       "album": {
@@ -22184,7 +22202,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 166764,
       "name": "Skinny",
       "url": "https://open.spotify.com/track/0PrEHlFBgEsAxwJ3oKgxX3"
@@ -22352,7 +22370,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -23506,7 +23524,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 134519,
       "name": "SUNETE 2",
       "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
@@ -24512,7 +24530,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 158297,
       "name": "Terorist",
       "url": "https://open.spotify.com/track/043xuu25Tey8erikkqAoIT"
@@ -25652,7 +25670,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 169411,
       "name": "Trotinete - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/1cr9iS5IDEcrxNrRszr6wr"
@@ -26086,7 +26104,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"

@@ -386,7 +386,7 @@
       ],
       "date_added": "2018-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 191258,
       "name": "Drive (feat. Delilah Montagu) - Edit",
       "url": "https://open.spotify.com/track/6X7PK2UQMUU36ux9pynSkV"
@@ -924,6 +924,32 @@
       "duration_ms": 197419,
       "name": "Move All Night",
       "url": "https://open.spotify.com/track/6RKFXPdoCBRcLljsxKZUNw"
+    },
+    {
+      "album": {
+        "name": "Move All Night (feat. Kole)",
+        "url": "https://open.spotify.com/album/5U2Vw8rl0lLAV69R5Lf9en"
+      },
+      "artists": [
+        {
+          "name": "SNBRN",
+          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+        },
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "KOLE",
+          "url": "https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8"
+        }
+      ],
+      "date_added": "2019-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Move All Night (feat. Kole)",
+      "url": "https://open.spotify.com/track/6kNx6oySNfaqH3P4CGiKVL"
     },
     {
       "album": {

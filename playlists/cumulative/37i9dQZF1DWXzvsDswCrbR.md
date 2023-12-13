@@ -4,7 +4,7 @@
 
 > The sound of bounce, curated by Big Freedia.
 
-23 songs - 1 hr 34 min
+24 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [N.O\. Block Party](https://open.spotify.com/track/1L5lQh9dO1NbXhBLPntTwD) | [DJ Jubilee](https://open.spotify.com/artist/1n4iSRo9CNY0IRnPpMQh6I), [Partners\-N\-Crime](https://open.spotify.com/artist/45QC24TiJaUefMd4ZXqMpB) | [New Orleans Bounce Essentials, Vol\. 1](https://open.spotify.com/album/1ErFP5RZYuAr6OcwyYPmqn) | 6:41 | 2021-02-16 |  |
 | [Pipe That \(feat\. Icona Pop & The Soul Rebels\)](https://open.spotify.com/track/2PZSDlMj55mheRfBELyAsy) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Louder](https://open.spotify.com/album/1LoYYEZkYPEXKzTiw7p37T) | 2:50 | 2021-02-16 |  |
 | [Platinum](https://open.spotify.com/track/6IiMrJX8AvYCCt8Tcm9276) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Platinum](https://open.spotify.com/album/6MuJ7AjwnsuXXn43s8dctR) | 3:39 | 2021-02-16 |  |
-| [Play Yo Part](https://open.spotify.com/track/3DAHvC1IghkthR5Gps3ZVK) | [ReUp Reedy](https://open.spotify.com/artist/3pNZLl18qy2KqKBra9JW4l) | [The Reup](https://open.spotify.com/album/2J3lSRjlJhgo2r6P8wOIju) | 3:25 | 2021-02-16 |  |
+| [Play Yo Part](https://open.spotify.com/track/3DAHvC1IghkthR5Gps3ZVK) | [ReUp Reedy](https://open.spotify.com/artist/3pNZLl18qy2KqKBra9JW4l) | [The Reup](https://open.spotify.com/album/2J3lSRjlJhgo2r6P8wOIju) | 3:25 | 2021-02-16 | 2023-12-13 |
+| [Play Yo Part](https://open.spotify.com/track/5WVjcGACwHssjF8LyPzymd) | [ReUp Reedy](https://open.spotify.com/artist/3pNZLl18qy2KqKBra9JW4l) | [The Reup](https://open.spotify.com/album/4a3HnTIBzEX7HpuOOoX86F) | 3:26 | 2021-02-16 |  |
 | [Rump Shaking Love Making](https://open.spotify.com/track/5y9e4vt9o3JLlvPrttgDwy) | [HaSizzle](https://open.spotify.com/artist/22mB4zQKJDI9I7ZnYs80iX) | [Rump Shaking Love Making](https://open.spotify.com/album/3UfDF4kAOBZwZq6nmKvkaH) | 2:52 | 2021-02-16 |  |
 | [Shake It Like a Dog](https://open.spotify.com/track/2R7wqBIsyqse2wjDR12m39) | [Partners\-N\-Crime](https://open.spotify.com/artist/45QC24TiJaUefMd4ZXqMpB) | [The Lost Tapes](https://open.spotify.com/album/2mYqZj0EnRZVWAy7lM7LqQ) | 2:38 | 2021-02-16 |  |
 | [Smoking Gun](https://open.spotify.com/track/3nOE0JabbXrgjYr7R7PRXf) | [Magnolia Shorty](https://open.spotify.com/artist/31CN1AJfh8Oe1WBcELxK08) | [Shake Twerk & Wobble 2](https://open.spotify.com/album/7uvRdlfrGiOEZfAaERZNkA) | 3:23 | 2021-02-16 | 2023-08-12 |

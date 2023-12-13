@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: FANTASTICS from EXILE TRIBE",
+  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: JO1",
   "name": "Boys Group Japan",
   "tracks": [
     {
@@ -34,10 +34,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 211078,
       "name": "Awakening Light",
       "url": "https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl"
+    },
+    {
+      "album": {
+        "name": "Black Out (JO1 ver.)",
+        "url": "https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203695,
+      "name": "Black Out (JO1 ver.)",
+      "url": "https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE"
     },
     {
       "album": {
@@ -131,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Clutch",
+        "url": "https://open.spotify.com/album/7a3bJzOr4Mq2B74YIXsoHO"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u308c\u3044\u3059",
+          "url": "https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201899,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/5JGhgaH8Cf0OsGJhmtgrNC"
+    },
+    {
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/50yJa8hh5iKiLnqpDkK4Dh"
       },
@@ -178,7 +214,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 205555,
       "name": "CRUISIN'",
       "url": "https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7"
@@ -200,6 +236,24 @@
       "duration_ms": 191533,
       "name": "DARK MATTER",
       "url": "https://open.spotify.com/track/0JTMpgGCb3AYhFj5CT8C6V"
+    },
+    {
+      "album": {
+        "name": "DOMINO (JO1 ver.)",
+        "url": "https://open.spotify.com/album/6An9Xdk3z7317nbg66wVAs"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207985,
+      "name": "DOMINO (JO1 ver.)",
+      "url": "https://open.spotify.com/track/2rz0rsOMAqjJUUnRNwZET3"
     },
     {
       "album": {
@@ -532,6 +586,24 @@
       "duration_ms": 212400,
       "name": "NANAKORO!",
       "url": "https://open.spotify.com/track/2gdcsqjx4y0ioJmu4o9B15"
+    },
+    {
+      "album": {
+        "name": "VOL ONE",
+        "url": "https://open.spotify.com/album/3c4NWHoiWcJLNBYJCnZKPB"
+      },
+      "artists": [
+        {
+          "name": "Ennui Boys Club",
+          "url": "https://open.spotify.com/artist/0OPl3KW0woHv7jrxHIGkbG"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "NEW KIDZ",
+      "url": "https://open.spotify.com/track/2aMr20hmw6g8dbvNtzpbot"
     },
     {
       "album": {
@@ -1036,10 +1108,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 237440,
       "name": "\u305d\u308c\u305e\u308c\u3002",
       "url": "https://open.spotify.com/track/4IDv79DIXD5H0pimT4fL0m"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30d6\u30e4 \u5348\u5f8c6\u6642",
+        "url": "https://open.spotify.com/album/67FCElXIveudgnyB5o908R"
+      },
+      "artists": [
+        {
+          "name": "ICEx",
+          "url": "https://open.spotify.com/artist/36eLruAH70vIII9ppzQ5QP"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230280,
+      "name": "\u30b7\u30d6\u30e4 \u5348\u5f8c6\u6642",
+      "url": "https://open.spotify.com/track/48u2iW5oJKCzTHdP1d6bNc"
     },
     {
       "album": {
@@ -1072,7 +1162,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 215690,
       "name": "\u30ca\u30a4\u30e2\u30ce\u30cd\u30c0\u30ea",
       "url": "https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0"
@@ -1108,7 +1198,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 207000,
       "name": "\u5b58\u5728\u8a3c\u660e",
       "url": "https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O"

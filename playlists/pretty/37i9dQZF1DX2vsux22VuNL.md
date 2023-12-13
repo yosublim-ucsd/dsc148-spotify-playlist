@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Thiaguinho, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,211 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,202 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 42 | [Refém](https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Refém](https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0) | 3:00 |
 | 43 | [Sacada](https://open.spotify.com/track/4e64LuNXrIJ4M788FG79kK) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Sacada](https://open.spotify.com/album/5E6CAgzHkHTejiQSaQhLe7) | 2:41 |
 | 44 | [Acústico Altamira \#20 \- Mulher Carioca](https://open.spotify.com/track/1dPYH7lKhUZHoaZMMeQHN3) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8), [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Acústico Altamira \#20 \- Mulher Carioca](https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m) | 6:04 |
-| 45 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
-| 46 | [Bandida](https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Bandida](https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY) | 3:27 |
+| 45 | [Bandida](https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Bandida](https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY) | 3:27 |
+| 46 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
 | 47 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 |
 | 48 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
 | 49 | [Um Pouco Mais](https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb) | [João Zoli](https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Um Pouco Mais](https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 79 | [Risco de se Apaixonar](https://open.spotify.com/track/1M6puHONy969ZeGYemki1M) | [Marcello Melo Jr.](https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp), [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Risco de se Apaixonar](https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH) | 2:21 |
 | 80 | [Madrugada](https://open.spotify.com/track/7C5w2OYf3yJKulOiRnTCNR) | [Fraterna Trip](https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL) | [Madrugada](https://open.spotify.com/album/0r5mDYKIYX2ES3EZf3TGKM) | 2:48 |
 
-Snapshot ID: `MCwzNjZiMTJhMGFlMDUyNDc5MzY0ZWQ1ZTRjZTE5MTc3N2E0NWQzZWE1`
+Snapshot ID: `MCw3Mjc1MDc1NzBkMGQ0Mjc2OTI2MDU5ZDFiMTU0MDU0ZDZiMjg0ZTli`

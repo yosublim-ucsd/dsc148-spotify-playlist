@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FnQY7eQxRt.md) - [plain]
 
 > Your favourite Christmas carols, performed and re\-imagined by the world's greatest choirs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,808 likes - 65 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,117 likes - 65 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FnQY7eQxRt.md) - [plain]
 | 64 | [I Wonder as I Wander \(arr\. S\. Pilkington for voice and choir\)](https://open.spotify.com/track/5l8F71WY0kXRwBvx8J9ysa) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Steve Pilkington](https://open.spotify.com/artist/7ho80ABePjM5kMLrfRsBHE), [Megan Gallagher](https://open.spotify.com/artist/0GDI71xrtmsjvGgTxsipCq), [Westminster Williamson Voices](https://open.spotify.com/artist/15lRUiqnNSQsU2oIawSYrr), [James Jordan](https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26) | [Whitbourn: Carolae – Music for Christmas](https://open.spotify.com/album/5FQaP3lkpARGMlSZ3oRuPD) | 3:58 |
 | 65 | [Tomorrow Shall Be My Dancing Day \(Arr\. J\. Rutter for Choir & Orchestra\)](https://open.spotify.com/track/0FZJC2ONkPMSlQw8CBqwkI) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Farnham Youth Choir](https://open.spotify.com/artist/0PVpgx2tuVZecDGqukYEKC), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe) | [A Christmas Festival](https://open.spotify.com/album/3Xnd3MsioB1TNQag1qnCnY) | 2:53 |
 
-Snapshot ID: `MCwyZWYyMzFmYWY5ZGU5ODA2YTlmN2NlMTVlOGEyM2Q3ZmUxYzE0ZmQ4`
+Snapshot ID: `MCxiZmM1YjhmY2RlOTdlNjM3OWUxZjdhNWM2ZmY4NWU1NjY0M2Y2Yjk1`

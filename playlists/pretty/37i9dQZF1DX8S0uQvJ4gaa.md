@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Boots is proud to support St\. Jude this holiday season! Learn more at MusicGives.org\. Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,717 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,060 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 91 | [Sun Ain't Even Gone Down Yet](https://open.spotify.com/track/7ccQIxIpqbY4PHtPZVeTgT) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Sun Ain't Even Gone Down Yet](https://open.spotify.com/album/7J42i27HBSFw2ne3Upoj1T) | 3:02 |
 | 92 | [Thank God She's a Country Girl](https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Thank God She's A Country Girl](https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa) | 2:08 |
 | 93 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 |
-| 94 | [Pill](https://open.spotify.com/track/0xUNUBJAxEj3irTEMdXgGh) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Pill](https://open.spotify.com/album/50aQUH3IU37mxCgTAi9yHO) | 4:43 |
+| 94 | [Pill](https://open.spotify.com/track/0xUNUBJAxEj3irTEMdXgGh) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Pill](https://open.spotify.com/album/50aQUH3IU37mxCgTAi9yHO) | 4:41 |
 | 95 | [Son Of The Mountains](https://open.spotify.com/track/3MEw32BjByG0vS8YVe5Sfa) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Son Of The Mountains: The First Four Tracks](https://open.spotify.com/album/1lk9TilfdJzp9dIpPSyl4D) | 3:27 |
 | 96 | [Luke Combs](https://open.spotify.com/track/4MEJ73SRDNLQSHpqTkdjm6) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY \(DELUXE\)](https://open.spotify.com/album/2GBaNzYtAW6NgOW4VHxnlq) | 3:13 |
 | 97 | [Dirt Roads And Jesus](https://open.spotify.com/track/0rAsn40XCigrz7XZNxV2pr) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Breakin' in Boots](https://open.spotify.com/track/4usnf7irdy9PrVsmb82BXI) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots](https://open.spotify.com/album/1sHuCLfs5sMWVneNgcCoqS) | 2:35 |
 | 100 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW) | 3:43 |
 
-Snapshot ID: `MCxmNWM4ZWMwMDM1NGNmNjk0NmZkMDIyOWQwMmQ2ZWE1NThkNjc5Mjk2`
+Snapshot ID: `MCwzYjQwMzQxODE5MzA1OTMwY2M1YzMxYWVjYzcwY2U1YjZjMWMzMTk4`

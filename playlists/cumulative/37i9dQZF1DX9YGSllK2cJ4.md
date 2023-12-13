@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-355 songs - 15 hr 56 min
+357 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Forever](https://open.spotify.com/track/1JUlfV6Dj06XkGLlVZaSEY) | [Richard Noé](https://open.spotify.com/artist/3aUTUUnDU6XhCLuYELfl4N) | [Forever](https://open.spotify.com/album/4VMVsxb3ooYMH6sV1m78kp) | 2:06 | 2023-01-31 | 2023-03-23 |
 | [Forever Changed](https://open.spotify.com/track/6u20TgouBczWOOlnR6703e) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Forever Changed](https://open.spotify.com/album/5r8Z1CKRpkrqF8IqcHnEY7) | 1:59 | 2022-08-01 | 2022-11-15 |
 | [Fornaboda](https://open.spotify.com/track/0kMtMEFvFQjTa7H7bdkCKM) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Fornaboda](https://open.spotify.com/album/3LyjyHrROwekL8eomtUcxd) | 2:28 | 2023-03-07 |  |
+| [Fragile](https://open.spotify.com/track/7DMI6v7HOEgX4fIwZxsJeP) | [Joseph McGrahl](https://open.spotify.com/artist/6PlWx5ZUw2UWUIltBfrNrH) | [Fragile](https://open.spotify.com/album/6nxvub5CmCskmSojqoFEsZ) | 2:15 | 2023-12-12 |  |
 | [Fragile Beauty](https://open.spotify.com/track/1hroEYeXHwndmO03pfIu9u) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Fragile Beauty](https://open.spotify.com/album/63UFtAXFba8wSrPEouv010) | 2:30 | 2023-05-09 |  |
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2022-08-01 |  |
 | [From Home](https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt) | 3:22 | 2022-12-05 | 2023-10-11 |
@@ -141,6 +142,7 @@
 | [La Valse d'Amélie \- Version piano](https://open.spotify.com/track/6bpmBNPfQ2KFAW0ik6F9Vq) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:38 | 2022-12-05 | 2022-12-21 |
 | [La Vie Nocturne](https://open.spotify.com/track/1UzVcvNxlu1ETdJKYZyL46) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [La Vie Nocturne](https://open.spotify.com/album/7HNS7mWpejwTmtXXplpGW2) | 3:13 | 2022-12-20 |  |
 | [La vérité](https://open.spotify.com/track/3hqCeRRTNreQ9CFtpk19JR) | [Mano Vecina](https://open.spotify.com/artist/1II3YMefTHllayrOSkbwRf) | [La vérité](https://open.spotify.com/album/6z9YiFp74ziLOCjGQDnEe5) | 2:27 | 2022-08-01 |  |
+| [Lacrime](https://open.spotify.com/track/7xArJQH5yrnZiXpf71YZ47) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Lacrime](https://open.spotify.com/album/1VvGmHVLmbNBakqjUoOIJT) | 2:52 | 2023-12-12 |  |
 | [Lament](https://open.spotify.com/track/20p6ToTwOlMsocEiFtQm1I) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Lament](https://open.spotify.com/album/5D9OH4oMw2vOC5rSCbJbvZ) | 2:10 | 2022-10-24 |  |
 | [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2023-09-05 |  |
 | [Larissa](https://open.spotify.com/track/1GsXfbpjrnAr8G4LcnhlPt) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Larissa](https://open.spotify.com/album/7yIOkTmGYFxv0GYLwoAHE4) | 2:38 | 2022-08-01 |  |

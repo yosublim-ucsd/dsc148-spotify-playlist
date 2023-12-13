@@ -1,12 +1,12 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 285964,
+  "num_followers": 286118,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODc1NTQ1ZTBhNTRhYWNkMGY4YWIwOTAxMGNkOWRiOWMxMDFhMGZl",
+  "snapshot_id": "MCxiNmM1Yzg2ZmE0YmUxNTY1NTA3NmU5N2UyM2JiZTYwYTcyNTRkZDdj",
   "tracks": [
     {
       "added_at": "2023-03-03 13:37:54",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
+        "name": "P*$$Y Fairy (OTW)",
+        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 181860,
+      "name": "P*$$Y Fairy (OTW)",
+      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
         "name": "Call Me Crazy, But...",
         "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 281080,
       "name": "It Won't Stop (feat. Chris Brown) - EP Version",
       "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
-        "name": "P*$$Y Fairy (OTW)",
-        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 181860,
-      "name": "P*$$Y Fairy (OTW)",
-      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -683,26 +683,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Pain Is Love",
-        "url": "https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Always On Time",
-      "url": "https://open.spotify.com/track/2lXJr5BkUPZpQUV2ZGN1Wv"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "Here I Am (Deluxe Version)",
         "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 230560,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Always On Time",
+      "url": "https://open.spotify.com/track/2lXJr5BkUPZpQUV2ZGN1Wv"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -963,22 +963,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "King of R&B",
-        "url": "https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW"
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/3zTN3hhVzNr1xr6bulWF97"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "TK Kravitz",
+          "url": "https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo"
         },
         {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         }
       ],
-      "duration_ms": 206893,
-      "name": "Risk It All (feat. Tory Lanez)",
-      "url": "https://open.spotify.com/track/7ncVTZ86MJQZK1FuW4hWLs"
+      "duration_ms": 219437,
+      "name": "Ocean (feat. Jacquees)",
+      "url": "https://open.spotify.com/track/2yI8omCrTAyrTcK7NRppu7"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -999,22 +999,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/3zTN3hhVzNr1xr6bulWF97"
+        "name": "King of R&B",
+        "url": "https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW"
       },
       "artists": [
         {
-          "name": "TK Kravitz",
-          "url": "https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo"
-        },
-        {
           "name": "Jacquees",
           "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
         }
       ],
-      "duration_ms": 219437,
-      "name": "Ocean (feat. Jacquees)",
-      "url": "https://open.spotify.com/track/2yI8omCrTAyrTcK7NRppu7"
+      "duration_ms": 206893,
+      "name": "Risk It All (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/7ncVTZ86MJQZK1FuW4hWLs"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "7 Series",
-        "url": "https://open.spotify.com/album/5TeAtFCYpc0WELiph7eiAg"
-      },
-      "artists": [
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "F With U (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6mLfR7fHVDcCKpLwGLWCWw"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "Late Nights: Red Roses",
         "url": "https://open.spotify.com/album/0AM64fik2T2jcT1C8cuuYx"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 179653,
       "name": "The Light",
       "url": "https://open.spotify.com/track/3Pfalb3fHDKpCvt05ZJraQ"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "7 Series",
+        "url": "https://open.spotify.com/album/5TeAtFCYpc0WELiph7eiAg"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "F With U (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6mLfR7fHVDcCKpLwGLWCWw"
     },
     {
       "added_at": "2023-03-03 13:37:54",

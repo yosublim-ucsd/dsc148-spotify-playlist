@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-252 songs - 13 hr 55 min
+253 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/7enVhl0fuHvQ4ErXvAXYIH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08) | 3:04 | 2021-12-24 |  |
 | [Sleigh Ride](https://open.spotify.com/track/5UnfYTAWlLpSZ76QzJtMuS) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas](https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l) | 3:05 | 2021-12-24 | 2022-10-26 |
 | [Snow Angel](https://open.spotify.com/track/2yOnJWBcEM5MnbPciHIomB) | [Elli Moore](https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir) | [Snow Angel](https://open.spotify.com/album/7lRL5q93UMPkuYaZaYPjvc) | 3:20 | 2021-12-24 | 2022-11-12 |
+| [Snow Day](https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 3:54 | 2023-12-12 |  |
 | [Snow In California](https://open.spotify.com/track/6BqE2EzcqW6sNYf7SeGfuN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/7nIbIFeXJSBFWY0C7xGg9O) | 3:26 | 2021-12-24 | 2022-07-29 |
 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 | 2021-12-24 | 2022-10-26 |
 | [Snowman](https://open.spotify.com/track/3mj6prXmzqkj3PA3lg5ySK) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Snowman](https://open.spotify.com/album/3zWQCOHI3ygGPNiGPMnd8i) | 2:45 | 2021-12-24 | 2022-07-29 |
@@ -218,7 +219,7 @@
 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 | 2022-11-11 |  |
 | [Stretchy Pants](https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Stretchy Pants](https://open.spotify.com/album/6yMUbq6Ij65DrdAApMDgvD) | 3:07 | 2021-12-24 | 2022-10-26 |
 | [Thank You Note](https://open.spotify.com/track/5EHoaIl9RURnb8nhyf26ug) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Thank You Note](https://open.spotify.com/album/3rRIBVqBytXrBgtfsNpBe9) | 2:36 | 2021-12-24 | 2023-10-25 |
-| [Thank You Note](https://open.spotify.com/track/67ss3RFo9MIjrdJcyINI0w) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Thank You Note](https://open.spotify.com/album/15XmhSKh6fCVeiRbknWKlT) | 2:36 | 2023-10-06 |  |
+| [Thank You Note](https://open.spotify.com/track/67ss3RFo9MIjrdJcyINI0w) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Thank You Note](https://open.spotify.com/album/15XmhSKh6fCVeiRbknWKlT) | 2:36 | 2023-10-06 | 2023-12-13 |
 | [the b\*tch who stole christmas](https://open.spotify.com/track/16diS2hN9fIZiyjdtjJjPE) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [the b\*tch who stole christmas](https://open.spotify.com/album/60bxITz36xeSamTsQ0Kn8d) | 2:22 | 2023-12-01 |  |
 | [The Bells Are Ringing \- Acoustic](https://open.spotify.com/track/2bCs42HuMNTnbH4JCJ7tDo) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [The Bells Are Ringing \(Acoustic\)](https://open.spotify.com/album/0d4tQ6L8nuQiYMxtkM8iOI) | 3:05 | 2021-12-24 | 2022-10-26 |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/2cUW96AVns2GoEO3DWGo8v) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 4:15 | 2021-12-24 | 2023-12-02 |

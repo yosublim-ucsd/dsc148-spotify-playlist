@@ -1,12 +1,12 @@
 {
   "description": "Grupo Benzadeus e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 223540,
+  "num_followers": 223609,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDE2MGNhY2ExNWM5ZDcxZmI4MDJmZTkyZTYyYWUzZDEyYjZlMTQw",
+  "snapshot_id": "MCw2MTlmZGFjMjUxOGY3YWUzMTJhMjlmZmFkMDIzZGUwMjFmMmY2ODJh",
   "tracks": [
     {
       "added_at": "2023-12-08 03:32:45",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-12-08 03:32:45",
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 133517,
+      "name": "Pensamentos Intrusivos",
+      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
+    },
+    {
+      "added_at": "2023-12-08 03:32:45",
+      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 216000,
       "name": "Alma",
       "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
-    },
-    {
-      "added_at": "2023-12-08 03:32:45",
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 133517,
-      "name": "Pensamentos Intrusivos",
-      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
     },
     {
       "added_at": "2023-12-08 03:32:45",
@@ -839,30 +839,6 @@
     {
       "added_at": "2023-12-08 03:32:45",
       "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 206869,
-      "name": "Show Lotado",
-      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
-    },
-    {
-      "added_at": "2023-12-08 03:32:45",
-      "album": {
         "name": "TAURUS",
         "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 190344,
       "name": "99 Problemas",
       "url": "https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw"
+    },
+    {
+      "added_at": "2023-12-08 03:32:45",
+      "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 206869,
+      "name": "Show Lotado",
+      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
     },
     {
       "added_at": "2023-12-08 03:32:45",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-12-08 03:32:45",
       "album": {
-        "name": "Vai",
-        "url": "https://open.spotify.com/album/1br8sVqsgWydRdIk3dg0t0"
-      },
-      "artists": [
-        {
-          "name": "GB",
-          "url": "https://open.spotify.com/artist/10wxxaU5ZgVxbyM3547gFl"
-        },
-        {
-          "name": "Pique Novo",
-          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
-        }
-      ],
-      "duration_ms": 177410,
-      "name": "Vai",
-      "url": "https://open.spotify.com/track/23Ma7NUOB7oy1sM3gR3wiN"
-    },
-    {
-      "added_at": "2023-12-08 03:32:45",
-      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 170647,
       "name": "N\u00fameros da Sorte",
       "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
+    },
+    {
+      "added_at": "2023-12-08 03:32:45",
+      "album": {
+        "name": "Vai",
+        "url": "https://open.spotify.com/album/1br8sVqsgWydRdIk3dg0t0"
+      },
+      "artists": [
+        {
+          "name": "GB",
+          "url": "https://open.spotify.com/artist/10wxxaU5ZgVxbyM3547gFl"
+        },
+        {
+          "name": "Pique Novo",
+          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
+        }
+      ],
+      "duration_ms": 177410,
+      "name": "Vai",
+      "url": "https://open.spotify.com/track/23Ma7NUOB7oy1sM3gR3wiN"
     },
     {
       "added_at": "2023-12-08 03:32:45",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-12-08 03:32:45",
       "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "added_at": "2023-12-08 03:32:45",
+      "album": {
         "name": "N\u00e3o Tenho Tempo",
         "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
@@ -1027,46 +1047,46 @@
     {
       "added_at": "2023-12-08 03:32:45",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
-          "name": "Dj Alle da coro",
-          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
         },
         {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         }
       ],
-      "duration_ms": 146490,
-      "name": "Boa Sorte Mesmo",
-      "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
+      "duration_ms": 175031,
+      "name": "Cruzeiro do Ney",
+      "url": "https://open.spotify.com/track/3FN25B7rk6JlKNFiPsP74t"
     },
     {
       "added_at": "2023-12-08 03:32:45",
       "album": {
-        "name": "Espero Que Entendam (Freestyle)",
-        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+        "name": "\u00c9 OS D",
+        "url": "https://open.spotify.com/album/7duVEHhFXXNS4GF0OFYBIN"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
         },
         {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
-      "duration_ms": 211859,
-      "name": "Espero Que Entendam - Freestyle",
-      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+      "duration_ms": 176000,
+      "name": "\u00c9 OS D",
+      "url": "https://open.spotify.com/track/0FqqR9vFwoJoBKhTUfJl6q"
     },
     {
       "added_at": "2023-12-08 03:32:45",
@@ -1115,46 +1135,46 @@
     {
       "added_at": "2023-12-08 03:32:45",
       "album": {
-        "name": "\u00c9 OS D",
-        "url": "https://open.spotify.com/album/7duVEHhFXXNS4GF0OFYBIN"
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
       "artists": [
         {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+          "name": "Dj Alle da coro",
+          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
         }
       ],
-      "duration_ms": 176000,
-      "name": "\u00c9 OS D",
-      "url": "https://open.spotify.com/track/0FqqR9vFwoJoBKhTUfJl6q"
+      "duration_ms": 146490,
+      "name": "Boa Sorte Mesmo",
+      "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
     },
     {
       "added_at": "2023-12-08 03:32:45",
       "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
       "artists": [
         {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
         },
         {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
         }
       ],
-      "duration_ms": 175031,
-      "name": "Cruzeiro do Ney",
-      "url": "https://open.spotify.com/track/3FN25B7rk6JlKNFiPsP74t"
+      "duration_ms": 154789,
+      "name": "Porsche \"Ye Yo\"",
+      "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
     },
     {
       "added_at": "2023-12-08 03:32:45",
@@ -1255,50 +1275,6 @@
     {
       "added_at": "2023-12-08 03:32:45",
       "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9 Santiago",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        }
-      ],
-      "duration_ms": 154789,
-      "name": "Porsche \"Ye Yo\"",
-      "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
-    },
-    {
-      "added_at": "2023-12-08 03:32:45",
-      "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "Famigerado",
-      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
-    },
-    {
-      "added_at": "2023-12-08 03:32:45",
-      "album": {
         "name": "Bem Vindo Natal Mixtape 2",
         "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
       },
@@ -1335,6 +1311,30 @@
       "duration_ms": 194753,
       "name": "Me Assume Ou Me Esquece - Ao Vivo",
       "url": "https://open.spotify.com/track/71clr6L0EOTBfZPHh5MwM9"
+    },
+    {
+      "added_at": "2023-12-08 03:32:45",
+      "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "RT Mallone",
+          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Hitchcock - Feat. RT Mallone",
+      "url": "https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez"
     }
   ],
   "unique_name": "AMPLIFIKA",

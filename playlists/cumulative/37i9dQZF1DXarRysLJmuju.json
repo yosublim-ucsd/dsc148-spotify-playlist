@@ -17475,6 +17475,24 @@
     },
     {
       "album": {
+        "name": "POP MUSIC",
+        "url": "https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117021,
+      "name": "RELAX AFTER WORK WITH A DRINK",
+      "url": "https://open.spotify.com/track/6pCesx8BBK7A6wevRbTVfk"
+    },
+    {
+      "album": {
         "name": "Based On A True Story...",
         "url": "https://open.spotify.com/album/1Dk3gly6NaYZkimTVCFK4s"
       },

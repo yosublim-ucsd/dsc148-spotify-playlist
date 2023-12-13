@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,346 likes - 87 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,347 likes - 87 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 86 | [Sad Tomorrow](https://open.spotify.com/track/42ne6UiPfTi2Vek8KdWAcX) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH), [Rian Cult](https://open.spotify.com/artist/2idZntzccbSKeEzNWqzamb) | [Sad Tomorrow](https://open.spotify.com/album/0D8uRtVYFcfnXJXfVRH4GW) | 3:02 |
 | 87 | [LET ME BE!](https://open.spotify.com/track/236IyEKTINi297J8eZDfYM) | [gencry](https://open.spotify.com/artist/5TTgTTAxOez6W6bnKpphrc) | [LET ME BE!](https://open.spotify.com/album/3T7YEnmKdcD2xk5GMPb66E) | 3:15 |
 
-Snapshot ID: `MCxlZjVjMGI4MDdlNWE3YjQwYWNhNTYwZDU4MGQzNDc4Y2E3MjM2MWIy`
+Snapshot ID: `MCw1ZjM3NWIxMmRiOTU0Mjg2ODgxOWRiZGFiOTc5YTNiOGIwMGE4N2Y5`

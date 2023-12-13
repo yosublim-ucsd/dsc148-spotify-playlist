@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,584 likes - 55 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,622 likes - 55 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 54 | [Pic Of U](https://open.spotify.com/track/3UeFYO0RNiqPkje6IcueO7) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Pic Of U](https://open.spotify.com/album/6bcqYpFr49i5TsKEbewLIV) | 2:02 |
 | 55 | [Ax Mr\. L.](https://open.spotify.com/track/1IsTjsZ93VVERHRD5jl1fL) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Revep](https://open.spotify.com/album/0nWCa0VuF2knFYgWrqyQJt) | 4:18 |
 
-Snapshot ID: `MCw1ZTRmZmZiZmYwYmIxMzIxYWViZjY5NTJkNzU1YjIxZDQ2YmIzZjBh`
+Snapshot ID: `MCw4OTUzMzAzNzUxMTlkYzlmMWFhNmRiM2JlNjc3NDM1MjQxYTNmNjk1`

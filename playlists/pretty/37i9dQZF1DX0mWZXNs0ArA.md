@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,870,399 likes - 102 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,870,958 likes - 102 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 101 | [Fall In Love Alone \- Sped Up Version](https://open.spotify.com/track/24iWUKHLXE4ZDkAj0GK4kt) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone \(Sped Up Version\)](https://open.spotify.com/album/4cTiISMNquBWO0LE3a8tRD) | 2:38 |
 | 102 | [Wannabe \- Sped Up Version](https://open.spotify.com/track/6BP729RazoZBV8nrOUJI85) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe \(Sped Up Version\)](https://open.spotify.com/album/78cUelBdPNPOmQ5IumegJQ) | 3:19 |
 
-Snapshot ID: `MCxlMmQyZTliYWFmY2E1NDg4ZmMwODkyOWVmZGRjNGJkYTIzYjE1NmRi`
+Snapshot ID: `MCw4NjY2MjU4MWEyZjIwMTBkNGY5MmJjZTc1YTUyYTNlMjEwYWE1YWUx`

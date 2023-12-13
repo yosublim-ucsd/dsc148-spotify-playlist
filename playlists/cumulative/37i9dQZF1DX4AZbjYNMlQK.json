@@ -810,7 +810,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 166891,
       "name": "Duende",
       "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
@@ -980,6 +980,24 @@
       "duration_ms": 159973,
       "name": "El Mejor Regalo",
       "url": "https://open.spotify.com/track/1IWAy4qkSoNrqCYTuYXlo2"
+    },
+    {
+      "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/1mEfHecK8f4IttPQqoICQQ"
+      },
+      "artists": [
+        {
+          "name": "Saak",
+          "url": "https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160066,
+      "name": "El Mejor Regalo",
+      "url": "https://open.spotify.com/track/5PNGu7VLAg5cznoJ9trohF"
     },
     {
       "album": {

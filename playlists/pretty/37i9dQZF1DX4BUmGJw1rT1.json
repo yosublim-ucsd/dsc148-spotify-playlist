@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 67730,
+  "num_followers": 67729,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTllNjFhMTY0N2E0MGE1ZjVlYzZjZmI1Y2YyYTdjN2FmOGYxZjE2",
+  "snapshot_id": "MCxkNjRkZWNlOTkzMzljNmRjNjJlMTBlYTVhZjRhMTk3MzM4YTMyMTY0",
   "tracks": [
     {
       "added_at": "2023-11-24 19:22:06",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Goodbye's Kickin' In",
-        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 201970,
-      "name": "Goodbye\u2019s Kickin\u2019 In",
-      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Fighting for Peace",
         "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 202058,
       "name": "Fighting for Peace",
       "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Goodbye's Kickin' In",
+        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 201970,
+      "name": "Goodbye\u2019s Kickin\u2019 In",
+      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Make It All Work Out",
         "url": "https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 185133,
       "name": "Make It All Work Out",
       "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 239893,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "In The Basement: The Chess Recordings",
-        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
-      },
-      "artists": [
-        {
-          "name": "Sugar Pie DeSanto",
-          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Slip-In Mules",
-      "url": "https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 297893,
       "name": "Set Sail part I (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "In The Basement: The Chess Recordings",
+        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pie DeSanto",
+          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Slip-In Mules",
+      "url": "https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "Blues Music",
-      "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 190772,
       "name": "My Journey To The Sky",
       "url": "https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "G. Love And Special Sauce",
+        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "Blues Music",
+      "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "I Got Your Love",
-        "url": "https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Innes",
-          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
-        },
-        {
-          "name": "Seibold",
-          "url": "https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR"
-        }
-      ],
-      "duration_ms": 133777,
-      "name": "I Got Your Love",
-      "url": "https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Out Of Sight",
         "url": "https://open.spotify.com/album/5o9sRpyDsuhc3fiS7y99gK"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 228904,
       "name": "Out Of Sight",
       "url": "https://open.spotify.com/track/3s6cuxFNe2so5aX2NTAM6Q"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "I Got Your Love",
+        "url": "https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        },
+        {
+          "name": "Seibold",
+          "url": "https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR"
+        }
+      ],
+      "duration_ms": 133777,
+      "name": "I Got Your Love",
+      "url": "https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 356426,
+      "name": "A Quitter Never Wins",
+      "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 210428,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 356426,
-      "name": "A Quitter Never Wins",
-      "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 473080,
-      "name": "Need Your Love So Bad - 2002 Digital Remaster",
-      "url": "https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "How Many Times?",
         "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 285701,
       "name": "How Many Times?",
       "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 473080,
+      "name": "Need Your Love So Bad - 2002 Digital Remaster",
+      "url": "https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Country Girl",
-      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "What Happens Next",
         "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 282253,
       "name": "Hell To Pay",
       "url": "https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Country Girl",
+      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1715,18 +1715,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Tempting Fate",
-        "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
+        "name": "Blood on My Hands",
+        "url": "https://open.spotify.com/album/10dbGQiopAbLHmxglr90rl"
       },
       "artists": [
         {
-          "name": "Carolyn Wonderland",
-          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
+          "name": "Emanuel Casablanca",
+          "url": "https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Fortunate Few",
-      "url": "https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp"
+      "duration_ms": 221653,
+      "name": "Bloodshot Eyes",
+      "url": "https://open.spotify.com/track/4nRumK6k3u0twKpqmhd49n"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1747,22 +1751,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Blood on My Hands",
-        "url": "https://open.spotify.com/album/10dbGQiopAbLHmxglr90rl"
+        "name": "Tempting Fate",
+        "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
       },
       "artists": [
         {
-          "name": "Emanuel Casablanca",
-          "url": "https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p"
-        },
-        {
-          "name": "Albert Castiglia",
-          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+          "name": "Carolyn Wonderland",
+          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
         }
       ],
-      "duration_ms": 221653,
-      "name": "Bloodshot Eyes",
-      "url": "https://open.spotify.com/track/4nRumK6k3u0twKpqmhd49n"
+      "duration_ms": 205333,
+      "name": "Fortunate Few",
+      "url": "https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Oh Frustration",
+        "url": "https://open.spotify.com/album/0wvfEf0tnVJ0tf44k4AxVo"
+      },
+      "artists": [
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        }
+      ],
+      "duration_ms": 226792,
+      "name": "Oh Frustration",
+      "url": "https://open.spotify.com/track/6wzjO71k5y5NLqOqQmnZDP"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Slipstream",
         "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 193621,
       "name": "Storm a Comin'",
       "url": "https://open.spotify.com/track/2zekfUFBwfKIO3OK6NERsM"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Oh Frustration",
-        "url": "https://open.spotify.com/album/0wvfEf0tnVJ0tf44k4AxVo"
-      },
-      "artists": [
-        {
-          "name": "AJ Fullerton",
-          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
-        }
-      ],
-      "duration_ms": 226792,
-      "name": "Oh Frustration",
-      "url": "https://open.spotify.com/track/6wzjO71k5y5NLqOqQmnZDP"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "The Waiting",
-        "url": "https://open.spotify.com/album/4FCWhHOuymzhC1q4I9ADTW"
-      },
-      "artists": [
-        {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
-        }
-      ],
-      "duration_ms": 288466,
-      "name": "The Waiting",
-      "url": "https://open.spotify.com/track/1kQTeVdIjcB9HNwm9Wzdj4"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "South Side Of Soul Street: The SSS Sessions (Remastered 2022)",
         "url": "https://open.spotify.com/album/3u1omgR0jZ23t1KdAmsaef"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 172480,
       "name": "Henrietta",
       "url": "https://open.spotify.com/track/4X7ZaOPsDlhuEgKorpP6Ea"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "The Waiting",
+        "url": "https://open.spotify.com/album/4FCWhHOuymzhC1q4I9ADTW"
+      },
+      "artists": [
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        }
+      ],
+      "duration_ms": 288466,
+      "name": "The Waiting",
+      "url": "https://open.spotify.com/track/1kQTeVdIjcB9HNwm9Wzdj4"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Let Me Down Easy",
-        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Me to You",
         "url": "https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 234000,
       "name": "A Better Man",
       "url": "https://open.spotify.com/track/7v7dx0S3dO2AKQDCJLwqLS"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Let Me Down Easy",
+        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 317275,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Got Me a Party",
         "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
       },
@@ -2239,22 +2255,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 317275,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Not the One",
         "url": "https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS"
       },
@@ -2271,18 +2271,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "The Deep And The Dirty",
-        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/4dEMN1VQLVic39QCsULlAG"
       },
       "artists": [
         {
-          "name": "Eric Johanson",
-          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+          "name": "Vicky Tafoya",
+          "url": "https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu"
         }
       ],
-      "duration_ms": 260866,
-      "name": "Just Like New",
-      "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
+      "duration_ms": 154065,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/1AKkHclqUO2FqtL3Z9Ec8b"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2299,6 +2299,22 @@
       "duration_ms": 207653,
       "name": "Fireman",
       "url": "https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "The Deep And The Dirty",
+        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
+      },
+      "artists": [
+        {
+          "name": "Eric Johanson",
+          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Just Like New",
+      "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2431,22 +2447,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/4dEMN1VQLVic39QCsULlAG"
-      },
-      "artists": [
-        {
-          "name": "Vicky Tafoya",
-          "url": "https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu"
-        }
-      ],
-      "duration_ms": 154065,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/1AKkHclqUO2FqtL3Z9Ec8b"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "West Coast Eyes",
         "url": "https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC"
       },
@@ -2479,30 +2479,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Interstate 75 (LP Versions)",
-        "url": "https://open.spotify.com/album/1QLTGqmDE8GBxM614S8GhZ"
-      },
-      "artists": [
-        {
-          "name": "Marcus Malone and the Motor City Hustlers",
-          "url": "https://open.spotify.com/artist/7vg8LTvYnCnUMtteLInaGG"
-        },
-        {
-          "name": "Marcus Malone",
-          "url": "https://open.spotify.com/artist/1N3tM9SkDC5lYIDRVBBuiR"
-        },
-        {
-          "name": "Daniel John Montagu Smith",
-          "url": "https://open.spotify.com/artist/7hT4ypSnWrWU2K9V1I3cOO"
-        }
-      ],
-      "duration_ms": 187439,
-      "name": "Interstate 75 - LP Version Radio Edit",
-      "url": "https://open.spotify.com/track/2AMkOVyQWkC1QhtZNmtkUQ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Look Up!",
         "url": "https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK"
       },
@@ -2528,25 +2504,49 @@
           "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
         }
       ],
-      "duration_ms": 406432,
-      "name": "The Man I Ought To Be",
-      "url": "https://open.spotify.com/track/0iMbe85OzernkDXLzGZ37e"
+      "duration_ms": 290502,
+      "name": "Hear My Prayer",
+      "url": "https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn"
     },
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "I Need the Lord",
-        "url": "https://open.spotify.com/album/1g0lFxfFtSo2WaimhqDhYu"
+        "name": "Am I Still Mine",
+        "url": "https://open.spotify.com/album/1wziCgGwodAnDKC8gIT3Qr"
       },
       "artists": [
         {
-          "name": "Elizabeth King",
-          "url": "https://open.spotify.com/artist/2rYdxt7Boyo1L88Li76b4V"
+          "name": "Murphy",
+          "url": "https://open.spotify.com/artist/3GeAbNoHc67eZKfxO6KtdN"
         }
       ],
-      "duration_ms": 319126,
-      "name": "I Got a Love",
-      "url": "https://open.spotify.com/track/7B3Sw98sgND7SKFU586chA"
+      "duration_ms": 155965,
+      "name": "Am I Still Mine",
+      "url": "https://open.spotify.com/track/7kiIMHdCluymsCJ6DmxuyU"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Interstate 75 (LP Versions)",
+        "url": "https://open.spotify.com/album/1QLTGqmDE8GBxM614S8GhZ"
+      },
+      "artists": [
+        {
+          "name": "Marcus Malone and the Motor City Hustlers",
+          "url": "https://open.spotify.com/artist/7vg8LTvYnCnUMtteLInaGG"
+        },
+        {
+          "name": "Marcus Malone",
+          "url": "https://open.spotify.com/artist/1N3tM9SkDC5lYIDRVBBuiR"
+        },
+        {
+          "name": "Daniel John Montagu Smith",
+          "url": "https://open.spotify.com/artist/7hT4ypSnWrWU2K9V1I3cOO"
+        }
+      ],
+      "duration_ms": 187439,
+      "name": "Interstate 75 - LP Version Radio Edit",
+      "url": "https://open.spotify.com/track/2AMkOVyQWkC1QhtZNmtkUQ"
     }
   ],
   "unique_name": "Home at Last",

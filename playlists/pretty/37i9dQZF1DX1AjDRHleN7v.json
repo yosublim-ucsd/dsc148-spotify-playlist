@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 290009,
+  "num_followers": 290153,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2NmZGU1ZDMwMjE1YmM3MjQ4MzAwOWE5MjRjYWQ5YTM4ZDA5ZThh",
+  "snapshot_id": "MCw3YjA3MmMyMjQ0YzJkYzE2OThkMTczYmQwMmNmNDQ3MzBkN2FjYTlm",
   "tracks": [
     {
       "added_at": "2023-12-08 13:22:37",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-12-08 13:22:37",
       "album": {
+        "name": "Sess\u00e3o Aberta Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 245312,
+      "name": "Sem Medo",
+      "url": "https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB"
+    },
+    {
+      "added_at": "2023-12-08 13:22:37",
+      "album": {
         "name": "Vou Agradecer",
         "url": "https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-12-08 13:22:37",
       "album": {
-        "name": "Sess\u00e3o Aberta Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 245312,
-      "name": "Sem Medo",
-      "url": "https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB"
-    },
-    {
-      "added_at": "2023-12-08 13:22:37",
-      "album": {
         "name": "Ascenda",
         "url": "https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8"
       },
@@ -743,30 +743,6 @@
       "duration_ms": 217941,
       "name": "Tchau Querido",
       "url": "https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8"
-    },
-    {
-      "added_at": "2023-12-08 13:22:37",
-      "album": {
-        "name": "40 Graus",
-        "url": "https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56"
-      },
-      "artists": [
-        {
-          "name": "Igor Borborema",
-          "url": "https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2"
-        },
-        {
-          "name": "Khouri",
-          "url": "https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ"
-        },
-        {
-          "name": "Menestrel Republicano",
-          "url": "https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8"
-        }
-      ],
-      "duration_ms": 186909,
-      "name": "40 Graus",
-      "url": "https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj"
     },
     {
       "added_at": "2023-12-08 13:22:37",
@@ -799,6 +775,30 @@
       "duration_ms": 268706,
       "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
       "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
+    },
+    {
+      "added_at": "2023-12-08 13:22:37",
+      "album": {
+        "name": "40 Graus",
+        "url": "https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56"
+      },
+      "artists": [
+        {
+          "name": "Igor Borborema",
+          "url": "https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2"
+        },
+        {
+          "name": "Khouri",
+          "url": "https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ"
+        },
+        {
+          "name": "Menestrel Republicano",
+          "url": "https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8"
+        }
+      ],
+      "duration_ms": 186909,
+      "name": "40 Graus",
+      "url": "https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj"
     },
     {
       "added_at": "2023-12-08 13:22:37",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-12-08 13:22:37",
       "album": {
-        "name": "Avenida da Paix\u00e3o",
-        "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
-      },
-      "artists": [
-        {
-          "name": "Pagui",
-          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
-        }
-      ],
-      "duration_ms": 152934,
-      "name": "Avenida da Paix\u00e3o",
-      "url": "https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX"
-    },
-    {
-      "added_at": "2023-12-08 13:22:37",
-      "album": {
         "name": "Eleva",
         "url": "https://open.spotify.com/album/2ihl3JKPKWTIS342D41zFA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 214798,
       "name": "Eleva",
       "url": "https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00"
+    },
+    {
+      "added_at": "2023-12-08 13:22:37",
+      "album": {
+        "name": "Avenida da Paix\u00e3o",
+        "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
+      },
+      "artists": [
+        {
+          "name": "Pagui",
+          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
+        }
+      ],
+      "duration_ms": 152934,
+      "name": "Avenida da Paix\u00e3o",
+      "url": "https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX"
     },
     {
       "added_at": "2023-12-08 13:22:37",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-12-08 13:22:37",
       "album": {
+        "name": "Sonhei Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/1u0B2BCspLVI28BFpLZ8kr"
+      },
+      "artists": [
+        {
+          "name": "Henrique Portugal",
+          "url": "https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5"
+        },
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Sonhei Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/0qAyRZdiNmuSxo9S9cB80y"
+    },
+    {
+      "added_at": "2023-12-08 13:22:37",
+      "album": {
         "name": "Cardeal",
         "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
       },
@@ -959,26 +979,6 @@
     {
       "added_at": "2023-12-08 13:22:37",
       "album": {
-        "name": "Sonhei Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/1u0B2BCspLVI28BFpLZ8kr"
-      },
-      "artists": [
-        {
-          "name": "Henrique Portugal",
-          "url": "https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5"
-        },
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Sonhei Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/0qAyRZdiNmuSxo9S9cB80y"
-    },
-    {
-      "added_at": "2023-12-08 13:22:37",
-      "album": {
         "name": "O Amor Venceu",
         "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
       },
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-12-08 13:22:37",
       "album": {
+        "name": "sei l\u00e1",
+        "url": "https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "duration_ms": 192446,
+      "name": "sei l\u00e1",
+      "url": "https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B"
+    },
+    {
+      "added_at": "2023-12-08 13:22:37",
+      "album": {
         "name": "Enquanto Houver",
         "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 180481,
       "name": "Enquanto Houver",
       "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
-    },
-    {
-      "added_at": "2023-12-08 13:22:37",
-      "album": {
-        "name": "sei l\u00e1",
-        "url": "https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h"
-      },
-      "artists": [
-        {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
-        }
-      ],
-      "duration_ms": 192446,
-      "name": "sei l\u00e1",
-      "url": "https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B"
     },
     {
       "added_at": "2023-12-08 13:22:37",

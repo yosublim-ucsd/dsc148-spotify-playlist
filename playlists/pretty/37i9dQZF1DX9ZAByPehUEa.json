@@ -1,12 +1,12 @@
 {
   "description": "A happy place.",
-  "num_followers": 88599,
+  "num_followers": 88749,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTAwNDBlNzllNzY2YzMzOWU3ZDM4OWUyMjE5ZTRlOGI0MGMyNzEz",
+  "snapshot_id": "MCwwNzc2ZmY2NTc4ZmYzZjc5YjY4MDcxZGZkOTIwZWI2ZTk1MDg3Zjkx",
   "tracks": [
     {
       "added_at": "2023-10-02 16:24:06",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-10-02 16:24:06",
       "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG"
+    },
+    {
+      "added_at": "2023-10-02 16:24:06",
+      "album": {
         "name": "Hipcats",
         "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 129836,
       "name": "Hipcats",
       "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
-    },
-    {
-      "added_at": "2023-10-02 16:24:06",
-      "album": {
-        "name": "That! Feels Good!",
-        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Pearls",
-      "url": "https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG"
     },
     {
       "added_at": "2023-10-02 16:24:06",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-10-02 16:24:06",
       "album": {
+        "name": "Love You Better",
+        "url": "https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1"
+      },
+      "artists": [
+        {
+          "name": "Alex Preston",
+          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD"
+    },
+    {
+      "added_at": "2023-10-02 16:24:06",
+      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
-    },
-    {
-      "added_at": "2023-10-02 16:24:06",
-      "album": {
-        "name": "Love You Better",
-        "url": "https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1"
-      },
-      "artists": [
-        {
-          "name": "Alex Preston",
-          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Love You Better",
-      "url": "https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD"
     },
     {
       "added_at": "2023-10-02 16:24:06",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-10-02 16:24:06",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK"
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
       },
       "artists": [
         {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
         }
       ],
-      "duration_ms": 159072,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4"
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
     }
   ],
   "unique_name": "DISCOLAND",

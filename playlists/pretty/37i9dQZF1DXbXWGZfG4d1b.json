@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 20931,
+  "num_followers": 20959,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjA1YzI3ZDZlMTFkOTBiNjZlNjc2MTMyOTk3Y2MyZjIxYjNmNTAy",
+  "snapshot_id": "MCxlYmQ5ZTU0ZGYwNmNlNWVlMTBhNzMwZWY1MTM0MDNlMzUxOGIzY2Uy",
   "tracks": [
     {
       "added_at": "2023-12-07 21:35:13",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
+        "name": "Vamos a Destruir",
+        "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "duration_ms": 250621,
+      "name": "Cangrejal",
+      "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
         "name": "Las Flores Sangran",
         "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
       },
@@ -155,18 +171,18 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "Vamos a Destruir",
-        "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
       "artists": [
         {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 250621,
-      "name": "Cangrejal",
-      "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
+      "duration_ms": 182599,
+      "name": "Claro Ma",
+      "url": "https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -191,6 +207,22 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
+      },
+      "artists": [
+        {
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
       },
@@ -207,18 +239,38 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "Mojigata",
-        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
+        "name": "Una Propuesta",
+        "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 182599,
-      "name": "Claro Ma",
-      "url": "https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX"
+      "duration_ms": 195760,
+      "name": "Una Propuesta",
+      "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
+        "name": "El rock and roll pas\u00f3 de moda",
+        "url": "https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        },
+        {
+          "name": "Lucas Jaubet",
+          "url": "https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr"
+        }
+      ],
+      "duration_ms": 241297,
+      "name": "El rock and roll pas\u00f3 de moda",
+      "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -263,18 +315,18 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "Una Propuesta",
-        "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
         }
       ],
-      "duration_ms": 195760,
-      "name": "Una Propuesta",
-      "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
+      "duration_ms": 206875,
+      "name": "Perla",
+      "url": "https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -295,22 +347,6 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 206875,
-      "name": "Perla",
-      "url": "https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
         "name": "Todo de mi (Todo de vos)",
         "url": "https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG"
       },
@@ -327,26 +363,6 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "El rock and roll pas\u00f3 de moda",
-        "url": "https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        },
-        {
-          "name": "Lucas Jaubet",
-          "url": "https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr"
-        }
-      ],
-      "duration_ms": 241297,
-      "name": "El rock and roll pas\u00f3 de moda",
-      "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
       },
@@ -359,6 +375,22 @@
       "duration_ms": 137584,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
+        "name": "Vamos a destruir",
+        "url": "https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Vamos a destruir",
+      "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -415,22 +447,6 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "Vamos a destruir",
-        "url": "https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Vamos a destruir",
-      "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
         "name": "Humo y Menta",
         "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 183242,
       "name": "Humo y Menta",
       "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
-        "name": "El Tiempo",
-        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
-      },
-      "artists": [
-        {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "Amor Express",
-        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
-      },
-      "artists": [
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        }
-      ],
-      "duration_ms": 214409,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
         "name": "Comprensi\u00f3n1",
         "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 145407,
       "name": "5A",
       "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
+        "name": "Amor Express",
+        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        }
+      ],
+      "duration_ms": 214409,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
+        "name": "MALA INFLUENCIA",
+        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        },
+        {
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+        }
+      ],
+      "duration_ms": 133775,
+      "name": "MALA INFLUENCIA",
+      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
         "name": "Frutillas con Crema",
         "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
       },
@@ -647,6 +667,22 @@
       "duration_ms": 162605,
       "name": "Frutillas con Crema",
       "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
+      },
+      "artists": [
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "duration_ms": 236890,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -671,22 +707,6 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
-      },
-      "artists": [
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "duration_ms": 236890,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
         "name": "La Cena",
         "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
       },
@@ -703,22 +723,6 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "El Verano",
-        "url": "https://open.spotify.com/album/2d5Aw2Cfe1s7MdJbPgw0w2"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        }
-      ],
-      "duration_ms": 320300,
-      "name": "El verano",
-      "url": "https://open.spotify.com/track/37fjzTuEuHnwmsZFTOFQEo"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
         "name": "Cae la noche",
         "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
       },
@@ -731,6 +735,22 @@
       "duration_ms": 244144,
       "name": "Cae la noche",
       "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
+        "name": "El Verano",
+        "url": "https://open.spotify.com/album/2d5Aw2Cfe1s7MdJbPgw0w2"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "duration_ms": 320300,
+      "name": "El verano",
+      "url": "https://open.spotify.com/track/37fjzTuEuHnwmsZFTOFQEo"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -831,26 +851,6 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "MALA INFLUENCIA",
-        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        },
-        {
-          "name": "Mora y los Metegoles",
-          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
-        }
-      ],
-      "duration_ms": 133775,
-      "name": "MALA INFLUENCIA",
-      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
         "name": "Pajarito",
         "url": "https://open.spotify.com/album/1CMxNtkxsF3JS5KmOBVGrU"
       },
@@ -895,6 +895,30 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
+        "name": "NT al sol",
+        "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        },
+        {
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        },
+        {
+          "name": "El Mundo Limon",
+          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
+        }
+      ],
+      "duration_ms": 202827,
+      "name": "NT al sol",
+      "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
         "name": "Lo Que Queda",
         "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
       },
@@ -927,30 +951,6 @@
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
-        "name": "NT al sol",
-        "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        },
-        {
-          "name": "Paul Higgs",
-          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
-        },
-        {
-          "name": "El Mundo Limon",
-          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
-        }
-      ],
-      "duration_ms": 202827,
-      "name": "NT al sol",
-      "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "atr\u00e1s de los \u00e1rboles",
-        "url": "https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh"
-      },
-      "artists": [
-        {
-          "name": "Salvador Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT"
-        }
-      ],
-      "duration_ms": 146734,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
         "name": "Anclado",
         "url": "https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 264500,
       "name": "Anclado",
       "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
+        "name": "atr\u00e1s de los \u00e1rboles",
+        "url": "https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh"
+      },
+      "artists": [
+        {
+          "name": "Salvador Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT"
+        }
+      ],
+      "duration_ms": 146734,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy"
     },
     {
       "added_at": "2023-12-07 21:35:13",

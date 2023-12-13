@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,338 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,471 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 49 | [L'ultima volta \- feat\. Massimo Pericolo](https://open.spotify.com/track/3rOw9WmYFCRLHTRcbOjhUl) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [17](https://open.spotify.com/album/11T8pkk7VAT7LeoReyY7B7) | 3:30 |
 | 50 | [Mondo Di Fango](https://open.spotify.com/track/3rR90ytwXhFCGXjbDzN7HI) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC9 \- QUELLO CHE VI CONSIGLIO VOL\. 9](https://open.spotify.com/album/5lfSlorm20o9qN9YoDmwFe) | 1:57 |
 | 51 | [Male](https://open.spotify.com/track/1Dl5iWa6lWEZpkQDZNuVnO) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 2:41 |
-| 52 | [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:28 |
+| 52 | [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/05Wr6HJmrXiK42rE7Gu8FB) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s) | 3:28 |
 | 53 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 |
 | 54 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 |
 | 55 | [KUMITE](https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 59 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 |
 | 60 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 
-Snapshot ID: `MCxkNmM3ZGYyMWQyYmRhNTAxYmFlZTk5ZjBkYWNmMzFkNGI0NDk3Njlj`
+Snapshot ID: `MCw5OWFmZTQ4ZDg5YTk2ZGQ0ODdjMmE0Y2ZhNjNiMzk3ZmFiY2I2MDI5`

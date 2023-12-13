@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: J Rabbit(\uc81c\uc774\ub798\ube57))",
+  "description": "All about Korean Jazz hits & new (Cover: Mia & Yeore(\ubbf8\uc544 & \uc5ec\ub808))",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 436320,
       "name": "3\uc6d4\uc758 \ubc24",
       "url": "https://open.spotify.com/track/3V1YH9HkdVyurldYIMZX8C"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 258452,
       "name": "Bohemian",
       "url": "https://open.spotify.com/track/2ragyAOyclvs6CaBEE3Ouw"
@@ -913,6 +913,28 @@
     },
     {
       "album": {
+        "name": "Eutopia",
+        "url": "https://open.spotify.com/album/1eTONEvpqONG733rCRwCP3"
+      },
+      "artists": [
+        {
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/1s3S4AjGqTNTWpxcoYLt3v"
+        },
+        {
+          "name": "Yeore",
+          "url": "https://open.spotify.com/artist/7FoL8vsCZFp6V1AD2X4Uqv"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409417,
+      "name": "Eutopia",
+      "url": "https://open.spotify.com/track/407bLxRDt9EZveTmxEHwIe"
+    },
+    {
+      "album": {
         "name": "Every Little Step",
         "url": "https://open.spotify.com/album/6gQfvxjDsW0NiV0a2a7DVl"
       },
@@ -1133,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "I Will Never Fall In Love",
+        "url": "https://open.spotify.com/album/3UXU5KaF2nWski3HG5SyBb"
+      },
+      "artists": [
+        {
+          "name": "SHUYA",
+          "url": "https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "I Will Never Fall In Love",
+      "url": "https://open.spotify.com/track/3q0ASOCaqKj4ESgjx8wucp"
+    },
+    {
+      "album": {
         "name": "I Wished On The Moon",
         "url": "https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d"
       },
@@ -1246,6 +1286,24 @@
       "duration_ms": 186343,
       "name": "It\u2019s Beginning To Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/7lbY854EPMs6Py64XcEZN8"
+    },
+    {
+      "album": {
+        "name": "Koi's Kingdom",
+        "url": "https://open.spotify.com/album/2HajUU3V95X59f43ulHYwF"
+      },
+      "artists": [
+        {
+          "name": "Echae Kang",
+          "url": "https://open.spotify.com/artist/0reIv9BhOh8MRF71RuxHHB"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187866,
+      "name": "Koi's Kingdom",
+      "url": "https://open.spotify.com/track/1j2U7kwhsJvTfPcRYkwVBo"
     },
     {
       "album": {
@@ -2156,7 +2214,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 216170,
       "name": "Sebaet-noli",
       "url": "https://open.spotify.com/track/3RA5FtWW7iYcxbhpA3fjq7"
@@ -2900,7 +2958,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 311445,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/7hVGDWmkXtSIv5XwJuc4AW"
@@ -2918,7 +2976,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 199573,
       "name": "Yes, It's You",
       "url": "https://open.spotify.com/track/0weLc1Dv24xWH4LvRB6W3p"
@@ -3012,7 +3070,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 166090,
       "name": "\ubb34\uc9c0\uac1c\ub098\ub77c",
       "url": "https://open.spotify.com/track/6hxwYtDkQ35mNuYsiRgqId"

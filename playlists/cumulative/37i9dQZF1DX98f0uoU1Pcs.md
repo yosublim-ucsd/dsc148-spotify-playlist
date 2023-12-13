@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-591 songs - 1 day 8 hr 15 min
+593 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Fate Is...](https://open.spotify.com/track/0pMAi0RA1Y1zKt5VNM4uED) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/4Qe5TvCjMQmX0gjjYwtARt) | 2:40 | 2022-01-07 | 2022-07-29 |
 | [Fate Is…](https://open.spotify.com/track/0wIwl2tvNN2fxKFh7V9rPF) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/07dXaYcSea0bdLcwmpeZJw) | 2:40 | 2022-07-08 | 2022-11-22 |
 | [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 | 2023-02-13 | 2023-04-09 |
+| [Final Summer](https://open.spotify.com/track/1Vl9uXkXwSCEit0hafWtFd) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Final Summer](https://open.spotify.com/album/1QXeBl2ZJ382SCUs2uqJK5) | 2:36 | 2023-12-12 |  |
 | [Find The Light](https://open.spotify.com/track/0uzhHBYfoXelqQ0IICgZnx) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [In The Wild](https://open.spotify.com/album/0YNHnVxMqfHsVQUdJn7HgI) | 2:50 | 2022-06-14 | 2023-04-15 |
 | [Fingers of Steel](https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:21 | 2023-02-24 |  |
 | [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 | 2023-01-06 | 2023-02-25 |
@@ -194,7 +195,7 @@
 | [Friends On Ice](https://open.spotify.com/track/0ZDKTKucM4P27wWEuXh7Bt) | [Yung](https://open.spotify.com/artist/5XXsYiiQV6g24ksM2iAdtM) | [Ongoing Dispute](https://open.spotify.com/album/1ygTSPHT2gdItEzuDAKJth) | 4:06 | 2022-01-07 | 2023-01-21 |
 | [From The Hill](https://open.spotify.com/track/1k92uboBqSFq7mjUYhxbjl) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [From The Hill](https://open.spotify.com/album/1zSOkxK3AgqU2ldlfWLKYL) | 3:21 | 2022-10-07 | 2023-05-23 |
 | [FSU](https://open.spotify.com/track/53HwLBMjXoJxxUO4QkjBta) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FSU](https://open.spotify.com/album/0XO3RJGqJwWmAfP1X7gxhr) | 2:12 | 2022-08-26 | 2022-11-22 |
-| [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 | 2023-02-24 |  |
+| [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 | 2023-02-24 | 2023-12-13 |
 | [Fuck Love, I Just Bought a New Truck](https://open.spotify.com/track/11RNMyEALKUFkA1ItyhHi7) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [These Are Some B\-Sides](https://open.spotify.com/album/0PwOTtqMM4b0I7IpPY25Kb) | 1:27 | 2023-10-20 | 2023-12-07 |
 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 | 2022-08-05 | 2022-09-20 |
 | [Garbage People](https://open.spotify.com/track/3l0K7EhHhTRTCaaZoBzM43) | [Wimps](https://open.spotify.com/artist/6eNVMKPPp3KDkErLErP98E) | [Garbage People](https://open.spotify.com/album/58WgYLrPjz02XrWj4JXLEf) | 2:17 | 2021-10-07 | 2022-01-26 |
@@ -382,6 +383,7 @@
 | [Neon Signs](https://open.spotify.com/track/6JZj85Iz5sc4cGKvOefO7G) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Milk Teeth](https://open.spotify.com/album/2SH7pbrUVL6DRWB6g8BALw) | 3:13 | 2022-11-04 | 2023-02-18 |
 | [Nervous](https://open.spotify.com/track/3JaI7w5XQuJni4fX03MZIb) | [HUSHPUPPY](https://open.spotify.com/artist/40OzWU8bIYirFgmNSy6qct) | [Nervous](https://open.spotify.com/album/3qLRGWTOndzbYgUDi2kd85) | 1:30 | 2022-03-11 | 2022-08-06 |
 | [Never Gonna Be What You Want Me to Be](https://open.spotify.com/track/28ybirZALd6kPxDsufqXMb) | [Surfbort](https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx) | [Never Gonna Be What You Want Me to Be](https://open.spotify.com/album/5U3lPzoYKLugbBER2HsB9N) | 3:22 | 2022-08-16 | 2023-01-21 |
+| [New Beginning \(Water From Your Eyes Remix\)](https://open.spotify.com/track/25NKkvS9TA1Ftvm6YgcyJu) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU), [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [New Beginning \(Water From Your Eyes Remix\)](https://open.spotify.com/album/7ibRuWSlOgG0pA7c6cs1qN) | 3:11 | 2023-12-12 |  |
 | [NEW HEART DESIGN](https://open.spotify.com/track/6J2Y5iz8C5b83ndoPun6aF) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:27 | 2021-10-07 | 2022-01-08 |
 | [No One Left](https://open.spotify.com/track/5qmnuhrhYIK7QznDcN40Q4) | [Odonis Odonis](https://open.spotify.com/artist/33qVw2pK7R3Io2tMPNOIf0), [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [No One Left](https://open.spotify.com/album/6rSWWykMsUkoz6ivtbniMo) | 3:24 | 2023-05-22 |  |
 | [No Proper Life](https://open.spotify.com/track/3CUd4oB20LXnoWlzQDxTgy) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT) | 2:45 | 2023-05-22 | 2023-06-03 |
@@ -439,7 +441,7 @@
 | [Ride On](https://open.spotify.com/track/1MEhbR2no3zdS1EuvuCE2E) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Ride On](https://open.spotify.com/album/3X3uvP1QBimhhgz8w7we1Z) | 4:44 | 2023-01-25 | 2023-03-11 |
 | [Ride On](https://open.spotify.com/track/7mEkQOIF0GtCWD4ch2EIjW) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/5rhWpaut3ohLsONxiS3ffn) | 4:44 | 2023-03-10 |  |
 | [Rip It Up](https://open.spotify.com/track/6INTk2XZ9uQemi6STedkB6) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 1:43 | 2021-10-07 | 2022-01-08 |
-| [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2022-12-09 |  |
+| [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2022-12-09 | 2023-12-13 |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-08-16 | 2023-10-21 |
 | [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 | 2023-10-30 |  |
 | [Rot](https://open.spotify.com/track/1RNPJPzixqVMv1oOhtOeLA) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Rot](https://open.spotify.com/album/0cSwU3Xvv5guTM0qlBSyY8) | 3:21 | 2021-10-07 | 2022-01-08 |

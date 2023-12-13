@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Yarea",
-  "num_followers": 25188,
+  "num_followers": 25194,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTJiMzU5N2Y4ZGZlZDg0NTk3NjExOTY1OTc3NmJhYjQ1MjM3NWZm",
+  "snapshot_id": "MCwxMzQxY2ZkMzhiODc5N2MwYWU4MWM3M2I0NGY3NTA5YjljZTM3Y2Nk",
   "tracks": [
     {
       "added_at": "2023-10-13 09:57:11",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "si tiene que ser ser\u00e1.",
-        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 201998,
-      "name": "si tiene que ser ser\u00e1.",
-      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 151214,
       "name": "La Tortura - Spotify Singles",
       "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "si tiene que ser ser\u00e1.",
+        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 201998,
+      "name": "si tiene que ser ser\u00e1.",
+      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -175,22 +175,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "De Charco En Charco",
-        "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
+        "name": "T\u00c1NGER Y ZAHARA",
+        "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 160589,
-      "name": "De Charco En Charco",
-      "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
+      "duration_ms": 160666,
+      "name": "ZAHARA",
+      "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -211,18 +207,22 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "T\u00c1NGER Y ZAHARA",
-        "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
+        "name": "De Charco En Charco",
+        "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
       },
       "artists": [
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
         }
       ],
-      "duration_ms": 160666,
-      "name": "ZAHARA",
-      "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
+      "duration_ms": 160589,
+      "name": "De Charco En Charco",
+      "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Tiro Al Aire",
-        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 200145,
-      "name": "Tiro Al Aire",
-      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
+      "duration_ms": 167311,
+      "name": "Soy El \u00danico - Spotify Singles",
+      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
+        "name": "Tiro Al Aire",
+        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
       },
       "artists": [
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 167311,
-      "name": "Soy El \u00danico - Spotify Singles",
-      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
+      "duration_ms": 200145,
+      "name": "Tiro Al Aire",
+      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
     },
     {
       "added_at": "2023-10-13 09:57:11",

@@ -14675,6 +14675,24 @@
     },
     {
       "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "The Paradigm",
+      "url": "https://open.spotify.com/track/2lqaVvI8tqZpVwC5Cuxsbn"
+    },
+    {
+      "album": {
         "name": "The Party",
         "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
       },

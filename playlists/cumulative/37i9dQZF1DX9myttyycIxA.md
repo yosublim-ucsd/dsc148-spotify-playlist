@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: ratbag
 
-1,114 songs - 2 day 15 hr 23 min
+1,115 songs - 2 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Feelings Meeting](https://open.spotify.com/track/7yAWOJIWEbyWj9pHu2j9jD) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 3:59 | 2022-05-20 | 2022-12-17 |
 | [Fiction](https://open.spotify.com/track/4aUjQItsB04t5an7cVq1Fs) | [Calm Canopy](https://open.spotify.com/artist/447h1Ae7Mshk1gSW4rcjK3) | [Fiction](https://open.spotify.com/album/3UwAX9we1CsibtClGkimq7) | 3:20 | 2021-03-05 | 2022-01-02 |
 | [Fire Eyes](https://open.spotify.com/track/0nXZ4ce5pUr3oOGNxfc2ZJ) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Fire Eyes](https://open.spotify.com/album/2wjMI8baH8TRM1YVs1jusO) | 3:03 | 2022-06-10 | 2022-08-06 |
+| [First Rule of the Bug](https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Spirit World Tour](https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2) | 3:27 | 2023-12-12 |  |
 | [Flake](https://open.spotify.com/track/6uqRFrcyYKVdcxwSJtHOUI) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Flake](https://open.spotify.com/album/4nAy8xZCkPn9WswSlsm933) | 3:07 | 2022-08-19 | 2022-12-17 |
 | [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 | 2023-11-07 |  |
 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 | 2023-03-10 | 2023-06-16 |
@@ -376,8 +377,8 @@
 | [floor 20](https://open.spotify.com/track/7LFWmxHI2ftcIS13s6ZsAC) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c), [Nyzahir](https://open.spotify.com/artist/1Ryitzfsu2Ed71p54ZdQZf) | [Secret Third Thing](https://open.spotify.com/album/3vFvfJN9AISogzUwKuMu3P) | 2:37 | 2022-10-29 | 2022-11-05 |
 | [Florida](https://open.spotify.com/track/34pOJWcmlxBUDkHaoqG1K2) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Florida](https://open.spotify.com/album/3tUZTMKsWtJZbs55y1tnm7) | 2:27 | 2022-12-16 | 2023-03-04 |
 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 | 2021-03-05 | 2022-06-19 |
-| [fool for you](https://open.spotify.com/track/2WN6K7GSUcYh90kSq6bVAz) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [fool for you](https://open.spotify.com/album/4CpWJqS8wfTKf3Osp4uwoz) | 3:19 | 2023-09-08 | 2023-12-09 |
 | [fool for you](https://open.spotify.com/track/4uhx82pIQtY9S3xmHKbztZ) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [fool for you](https://open.spotify.com/album/2RrAue7Ur84t4Qe6MAJwsP) | 3:19 | 2023-12-08 |  |
+| [fool for you](https://open.spotify.com/track/2WN6K7GSUcYh90kSq6bVAz) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [fool for you](https://open.spotify.com/album/4CpWJqS8wfTKf3Osp4uwoz) | 3:19 | 2023-09-08 | 2023-12-09 |
 | [For Today](https://open.spotify.com/track/5yK7yW57GecYWgf5gn74lP) | [The Lost Days](https://open.spotify.com/artist/1oZJCe4m2fO2hSZKndGimL), [Tony Molina](https://open.spotify.com/artist/2fmfhABysLV519rQYOBvtm) | [In the Store](https://open.spotify.com/album/2S4ZM2zLPEDxtxExcrJuGY) | 1:06 | 2023-06-15 | 2023-11-18 |
 | [Foreign Land](https://open.spotify.com/track/2CxhLkidVJI6pufYJuiBGd) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Foreign Land](https://open.spotify.com/album/2Lkz0vxOzbglSgoFbhmpyc) | 3:54 | 2023-06-09 | 2023-06-16 |
 | [forget her](https://open.spotify.com/track/3IbN46ROZg3EjzttvYscQK) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [fluke](https://open.spotify.com/album/1GJcQho6zi8rICzT8Yi3l8) | 3:08 | 2023-04-07 | 2023-06-16 |

@@ -1667,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/6nxvub5CmCskmSojqoFEsZ"
+      },
+      "artists": [
+        {
+          "name": "Joseph McGrahl",
+          "url": "https://open.spotify.com/artist/6PlWx5ZUw2UWUIltBfrNrH"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135992,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/7DMI6v7HOEgX4fIwZxsJeP"
+    },
+    {
+      "album": {
         "name": "Fragile Beauty",
         "url": "https://open.spotify.com/album/63UFtAXFba8wSrPEouv010"
       },
@@ -2424,6 +2442,24 @@
       "duration_ms": 147407,
       "name": "La v\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/3hqCeRRTNreQ9CFtpk19JR"
+    },
+    {
+      "album": {
+        "name": "Lacrime",
+        "url": "https://open.spotify.com/album/1VvGmHVLmbNBakqjUoOIJT"
+      },
+      "artists": [
+        {
+          "name": "Lilas D\u00e9lice",
+          "url": "https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Lacrime",
+      "url": "https://open.spotify.com/track/7xArJQH5yrnZiXpf71YZ47"
     },
     {
       "album": {

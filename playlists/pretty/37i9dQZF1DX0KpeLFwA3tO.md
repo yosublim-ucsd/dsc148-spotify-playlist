@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: BIG SPECIAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,487 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,558 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 62 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 |
 | 63 | [Always Halloween](https://open.spotify.com/track/1aeX231BhYUlBQHJB2XgNp) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [Always Halloween](https://open.spotify.com/album/5kJ9dTRSxvxyoegmdPl2MS) | 3:47 |
 | 64 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 |
-| 65 | [she's a vampire](https://open.spotify.com/track/0TijcPb77nixLGQQzVECLJ) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [she's a vampire](https://open.spotify.com/album/5DKISuJT879vrCsbUcKAt4) | 3:09 |
+| 65 | [she's a vampire](https://open.spotify.com/track/0mKgF83Y31cJKwPc13o5nR) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [nosebleeder](https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3) | 3:09 |
 | 66 | [CBD](https://open.spotify.com/track/5J7ftbuLUi35CDW29GHaxn) | [This Modern](https://open.spotify.com/artist/483EUi5pUJ5MDXow158yT7) | [CBD](https://open.spotify.com/album/49J55fxrJnV1GOHilhxgZn) | 2:46 |
 | 67 | [Forgot To Grow](https://open.spotify.com/track/6paoS9bgvq5NQVrljedfFm) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Forgot To Grow](https://open.spotify.com/album/0QP79EOlImpXgzioV8GdeX) | 3:12 |
 | 68 | [He's A Man](https://open.spotify.com/track/0XwS7lGdF8Ax41IIhnzuBh) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [He's A Man](https://open.spotify.com/album/2N6rm4h0A4I8nfh7q218bN) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Identical Days](https://open.spotify.com/track/4hrptHq1WUVnUIsZpyt3YE) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Identical Days](https://open.spotify.com/album/519UtOzExBjOwddalv1eJL) | 3:04 |
 | 100 | [Try](https://open.spotify.com/track/1isiUXaYArJVAFe2f6vRPt) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:57 |
 
-Snapshot ID: `MCxhYjU0OGNiNzBmZmU5OWEyNmJhNWRiODMyNTAxNjQ5MDMzMDI1MjJh`
+Snapshot ID: `MCwyNWRlOWE2MGMwZTUxZTI4MGQzYzc4YTNkNjNlNjMzN2JhZGQwODI3`

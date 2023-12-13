@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Drefgold, Tony Boy, Artie 5ive, Rondodasosa e molti altri!
 
-2,749 songs - 5 day 4 hr 41 min
+2,750 songs - 5 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,6 +768,7 @@
 | [DREAM GIRL \- Remix](https://open.spotify.com/track/0EMVZeMJyXuUITGPAqOWZ6) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Eris Gacha](https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2) | [DREAM GIRL \(Remix\)](https://open.spotify.com/album/0riJyZP0CkWn0DxcvHAezn) | 2:31 | 2022-10-27 | 2022-11-18 |
 | [Dream Squad](https://open.spotify.com/track/1cDTGSuHKPxdrbjf8MWUHF) | [Doxa Laem](https://open.spotify.com/artist/3bc4Xbf9QPUdWIN0ooiUyu), [headows](https://open.spotify.com/artist/13LA1PXTvCYn9VT4dqGAfq), [UttaCTRL](https://open.spotify.com/artist/4ZIkaXIHGZtmNoF5uDdXhX) | [Dream Squad](https://open.spotify.com/album/1xNQPqnuHmTHfaSFn7KD5e) | 2:28 | 2023-11-23 | 2023-12-08 |
 | [Dream Team](https://open.spotify.com/track/5Cv7syuN0JoYSCzj4Ow2mi) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E) | [Dream Team](https://open.spotify.com/album/6NxPuLnfHoj7X2akdm2mFw) | 2:44 | 2022-09-29 | 2022-10-28 |
+| [Driftando \(feat\. Tony 2Milli\)](https://open.spotify.com/track/3KVW8uK3CatQ599k3ahRGn) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Driftando \(feat\. Tony 2Milli\)](https://open.spotify.com/album/4R1P9WFBnwmIuI0Cb88tjW) | 2:40 | 2023-12-12 |  |
 | [Drifting](https://open.spotify.com/track/50PmGEBQINwjeJZgHa1n2u) | [Angelo Kras](https://open.spotify.com/artist/36GKpvoEgJCwtYR7tmSBGL), [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU) | [Drifting](https://open.spotify.com/album/0Z4UQUdBAIVo9ogPee9r07) | 2:06 | 2022-11-24 | 2022-12-02 |
 | [DRILLMOON \(feat\. thasup\)](https://open.spotify.com/track/6Y2Z4GgQaDD31T9HLBtpD2) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:30 | 2022-11-04 | 2022-12-02 |
 | [DRIN DRIN](https://open.spotify.com/track/612PXA92Q1NbUPQyASYQIr) | [SixOneSix](https://open.spotify.com/artist/5QK6u3vdOJBt4hJjJoYCLd), [Young AM](https://open.spotify.com/artist/2upvuqOIxuRf1vq9KsojFJ) | [DRIN DRIN](https://open.spotify.com/album/3mD0elMxiueTlKnDZJiyBQ) | 1:50 | 2023-01-12 | 2023-02-03 |
@@ -1912,7 +1913,7 @@
 | [PIANO A](https://open.spotify.com/track/4jPL4uSWLoB2rXZWERdATk) | [Erme](https://open.spotify.com/artist/6FJt4SyHTRXO4LClEehJKa) | [PIANO A](https://open.spotify.com/album/5SaycE1ju1wQICaj3zCT12) | 2:31 | 2023-10-19 | 2023-10-27 |
 | [Piano di Fuga](https://open.spotify.com/track/3EzWzZR1J1KP0ZDTDBR0l6) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Piano di Fuga](https://open.spotify.com/album/3aPAkN5q9b1sEo4LxTAHLR) | 2:18 | 2023-06-01 | 2023-06-23 |
 | [Piano Piano](https://open.spotify.com/track/5AhrivUIMMA91FycZDfsuD) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [Piano Piano](https://open.spotify.com/album/4LWUtGZwPpJMYOnCFUPpnk) | 2:55 | 2023-06-08 | 2023-07-07 |
-| [Piazza](https://open.spotify.com/track/0stSf8oATJNZLbouBirgjn) | [Lil Parta](https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP) | [Piazza](https://open.spotify.com/album/6JWgkf4A5ZtMzhcPDLhSDm) | 2:15 | 2023-12-01 |  |
+| [Piazza](https://open.spotify.com/track/0stSf8oATJNZLbouBirgjn) | [Lil Parta](https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP) | [Piazza](https://open.spotify.com/album/6JWgkf4A5ZtMzhcPDLhSDm) | 2:15 | 2023-12-01 | 2023-12-13 |
 | [Piazza Affari](https://open.spotify.com/track/0irM9vSb4u8dUWMgAbANrJ) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [Piazza Affari](https://open.spotify.com/album/1ZToE2WrAGtomIllERroNM) | 2:41 | 2023-05-11 | 2023-05-19 |
 | [Piazza Maggiore](https://open.spotify.com/track/1RD6Qil7pAjQOgFGZ2Y4Xd) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Piazza Maggiore](https://open.spotify.com/album/1Dm5PJQHTguYs3L9WEjOBl) | 2:28 | 2022-10-27 | 2022-11-04 |
 | [Piccola Peste](https://open.spotify.com/track/6wZ8XgjQVoKPc72Kh6CjWr) | [PLAYBOIKIRA](https://open.spotify.com/artist/4SXKXgZLapOYWThvUIpZpV) | [Piccola Peste](https://open.spotify.com/album/0qVOnlmaGY9va4LAVqRIc6) | 2:05 | 2022-07-07 | 2022-07-22 |

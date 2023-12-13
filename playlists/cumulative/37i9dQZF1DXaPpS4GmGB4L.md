@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-184 songs - 10 hr 39 min
+185 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Baby We're Through](https://open.spotify.com/track/138LkLoWuHhs4eteMxjPde) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [You Broke Me](https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh) | 3:56 | 2023-07-14 |  |
 | [Baby We're Through](https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Baby We're Through](https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU) | 3:56 | 2022-04-01 | 2022-12-30 |
 | [Bad Boy](https://open.spotify.com/track/7IiqtwxMj0kV0hTutzZmzy) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Juke Joint Chapel](https://open.spotify.com/album/29nPDxXHBFcsp2o4rZZKIs) | 7:40 | 2021-12-20 |  |
-| [Bankman](https://open.spotify.com/track/2Pnmd8q9aMbByETxKPHQHq) | [Andrea and Mud](https://open.spotify.com/artist/2IW4MLR7TBzqVSl8LBrmws) | [Bankman](https://open.spotify.com/album/5EsF28LYzzvj7babiQ9ewP) | 4:15 | 2023-08-18 |  |
+| [Bankman](https://open.spotify.com/track/2Pnmd8q9aMbByETxKPHQHq) | [Andrea and Mud](https://open.spotify.com/artist/2IW4MLR7TBzqVSl8LBrmws) | [Bankman](https://open.spotify.com/album/5EsF28LYzzvj7babiQ9ewP) | 4:15 | 2023-08-18 | 2023-12-13 |
 | [Bayou Blues \- Demo Version](https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm) | [Lily Belle](https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd) | [Bayou Blues \(Demo Version\)](https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM) | 3:37 | 2023-02-03 |  |
 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 | 2021-12-20 |  |
 | [Black Magic](https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Black Magic](https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A) | 4:25 | 2023-10-13 |  |
@@ -168,6 +168,7 @@
 | [Texas Louisiana \(feat\. Buddy Guy\)](https://open.spotify.com/track/3Wed8ynhMSTPj9ErweJIVl) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 2:55 | 2023-08-18 |  |
 | [That's What Love Will Make You Do](https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [That's What Love Will Make You Do](https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp) | 4:05 | 2023-01-13 |  |
 | [That's What You Do](https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:23 | 2022-05-27 |  |
+| [The Bait In The Snare](https://open.spotify.com/track/2jk8ZBsS18w67UjQO8u3qK) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [The Bait In The Snare](https://open.spotify.com/album/5JV5PJBe0MqEdiwLDbxN4H) | 3:00 | 2023-11-24 |  |
 | [The Blues Had a Baby and They Named It Rock and Roll](https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:34 | 2021-12-20 |  |
 | [The Boss](https://open.spotify.com/track/22I0XpzDVsVTdaJ6KiOh8e) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Deluxe Edition](https://open.spotify.com/album/396pJAs7awQ2WPVDHZLPRh) | 4:26 | 2021-12-20 | 2023-09-07 |
 | [The Wrong Number](https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 2:50 | 2021-12-20 |  |

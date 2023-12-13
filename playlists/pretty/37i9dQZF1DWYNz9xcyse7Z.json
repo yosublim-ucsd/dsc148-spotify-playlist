@@ -1,12 +1,12 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 74024,
+  "num_followers": 74185,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjUxNzhiYWU1YThlNmM3MTYwODc1ZDRkMzNhYjNhODQwYzEwZWRj",
+  "snapshot_id": "MCwxMTNmOTAxZWZkM2ZjZDVlNjVjZmI2ZjBmMWJhMzM3YWQ5NDQ0OGVk",
   "tracks": [
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Los Dos De La Sierra",
+        "url": "https://open.spotify.com/album/0240X6ItNjZMOqwX6ZbkYL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos De La Sierra",
+          "url": "https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc"
+        }
+      ],
+      "duration_ms": 201549,
+      "name": "Los Barandales Del Puente",
+      "url": "https://open.spotify.com/track/6ISYzpM2NIThCoOtfUVpC1"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "El Diablo y el Federal",
         "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 156942,
       "name": "Rama Verde",
       "url": "https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Los Dos De La Sierra",
-        "url": "https://open.spotify.com/album/0240X6ItNjZMOqwX6ZbkYL"
-      },
-      "artists": [
-        {
-          "name": "Los Dos De La Sierra",
-          "url": "https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc"
-        }
-      ],
-      "duration_ms": 201549,
-      "name": "Los Barandales Del Puente",
-      "url": "https://open.spotify.com/track/6ISYzpM2NIThCoOtfUVpC1"
     },
     {
       "added_at": "2023-11-09 23:10:04",

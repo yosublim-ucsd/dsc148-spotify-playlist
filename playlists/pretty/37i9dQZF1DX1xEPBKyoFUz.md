@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Plug\-in to the official Kickback 2023 playlist, co\-created by gamers, producers, and the Atlanta community.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,080 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,515 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 38 | [MIDDLE CHILD](https://open.spotify.com/track/29H8RkqW9GaFy8tdjriuX3) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3sKVIPkLkFNgyc02SCDQVW) | 3:33 |
 | 39 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/1AFAn7IMQDSM95ZIcZJCP4) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who is Nardo Wick?](https://open.spotify.com/album/5rr453Bj1rQuZMwp13I4sz) | 4:39 |
 | 40 | [STREET SWEEPER \(feat\. Future\)](https://open.spotify.com/track/6FccIKUJRJefzuUQmWWn56) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 3:12 |
-| 41 | [ADDYS \(feat\. Nechie\)](https://open.spotify.com/track/4zLPScUJbOSqLdU650FV2W) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Nechie](https://open.spotify.com/artist/0DO5d7KMv6Gn1mIbDhlyUf) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 2:59 |
-| 42 | [SKYBOX](https://open.spotify.com/track/1b9Gr8TaCLNaNGs0CThOq1) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 2:58 |
-| 43 | [ROCKSTAR BIKERS & CHAINS](https://open.spotify.com/track/29I6SeVUhXghf2pCQkh5Q4) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 2:09 |
-| 44 | [Hot \(feat\. Gunna\)](https://open.spotify.com/track/5PIWsuoBRvyxw4Ex1xNh4P) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/5AivpkHClIpmRxheNz1TzN) | 3:13 |
-| 45 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/6LG2kCL9HLP0gEfv2slGuC) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/1qXoQyLW6uBNVLsC4jleZC) | 3:23 |
-| 46 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 |
-| 47 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 48 | [No Safety](https://open.spotify.com/track/1Lr8d7A8ULhBM9RQbWiAvW) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2LmhG8xpWgv3DjjlX0Zzj2) | 3:09 |
-| 49 | [Stronger](https://open.spotify.com/track/1gudTcOiMosmCC6EKEzomI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 5:12 |
-| 50 | [Yesterdays to Tomorrows](https://open.spotify.com/track/5NJ8q6zVtTJPJhzLfwZPNp) | [Mayyadda](https://open.spotify.com/artist/2K2XjOICH966gvQiMhSPZv) | [Try&Remember](https://open.spotify.com/album/084efuvmmovwz7pb6tP38W) | 2:51 |
 
-Snapshot ID: `MCxlZGE3ZGEzOTZhYzkzNjMzNDQ2YmQ4MTEzMzM3YjcyMDVkM2MyYjM5`
+Snapshot ID: `MCxiYjc3MTlkODQ0M2UxNTA5YzA0MWIzOWQ5ZjJiZTVlMzdlOGQ4MDVl`

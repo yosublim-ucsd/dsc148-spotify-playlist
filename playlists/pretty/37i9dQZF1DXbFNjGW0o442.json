@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Barbi Recanati",
-  "num_followers": 37381,
+  "num_followers": 37397,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGY3OTlkMDBmOGZiNDdkZTE5YzUyYWVhZjc2NjY1ZWVmZTI5YTlj",
+  "snapshot_id": "MCw4N2YzNDJlNTJhYTFiZDE2NTBiZWI3MmNiZTNjY2M0OGFlNzlhM2E1",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -203,6 +203,26 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "FOCKIT",
+        "url": "https://open.spotify.com/album/4nnNxlAnRrPpq60rfQQGFj"
+      },
+      "artists": [
+        {
+          "name": "Sara Socas",
+          "url": "https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "FOCKIT",
+      "url": "https://open.spotify.com/track/5GtpLxt1nATe0TtoTRrRud"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Prender un Fuego",
         "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 194999,
       "name": "Hice Todo Mal",
       "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "FOCKIT",
-        "url": "https://open.spotify.com/album/4nnNxlAnRrPpq60rfQQGFj"
-      },
-      "artists": [
-        {
-          "name": "Sara Socas",
-          "url": "https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d"
-        },
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "FOCKIT",
-      "url": "https://open.spotify.com/track/5GtpLxt1nATe0TtoTRrRud"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -291,70 +291,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Seremos Primavera",
-        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 205704,
-      "name": "Carapaz\u00f3n",
-      "url": "https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Fuego Artificial",
-        "url": "https://open.spotify.com/album/3e2SVjsf68I0bdnMxjIRPR"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 183088,
-      "name": "En Invierno",
-      "url": "https://open.spotify.com/track/3i0uMKGh0Q0LQxZAVcS9Gv"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Teoria Espacial",
-        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 230833,
-      "name": "Teoria Espacial",
-      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP"
       },
@@ -371,6 +307,22 @@
       "duration_ms": 176528,
       "name": "EGO",
       "url": "https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Seremos Primavera",
+        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 205704,
+      "name": "Carapaz\u00f3n",
+      "url": "https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -423,8 +375,8 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Piedra del \u00c1guila",
-        "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
+        "name": "Fuego Artificial",
+        "url": "https://open.spotify.com/album/3e2SVjsf68I0bdnMxjIRPR"
       },
       "artists": [
         {
@@ -432,9 +384,25 @@
           "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
         }
       ],
-      "duration_ms": 194470,
-      "name": "Piedra del \u00c1guila",
-      "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
+      "duration_ms": 183088,
+      "name": "En Invierno",
+      "url": "https://open.spotify.com/track/3i0uMKGh0Q0LQxZAVcS9Gv"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -455,18 +423,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Seremos Primavera",
-        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
+        "name": "Teoria Espacial",
+        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 233943,
-      "name": "Creo",
-      "url": "https://open.spotify.com/track/4BhbOEiG8TIh244Keuvg44"
+      "duration_ms": 230833,
+      "name": "Teoria Espacial",
+      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -487,26 +455,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Ubicaci\u00f3n en Tiempo Real",
-        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        },
-        {
-          "name": "Paula Trama",
-          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
-        }
-      ],
-      "duration_ms": 255860,
-      "name": "Los D\u00edas Que No Est\u00e1s",
-      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Secreto",
         "url": "https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7"
       },
@@ -519,6 +467,22 @@
       "duration_ms": 283380,
       "name": "Desordenar",
       "url": "https://open.spotify.com/track/2Pha6dxvBxVmwwpGkwjWRb"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Seremos Primavera",
+        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 233943,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/4BhbOEiG8TIh244Keuvg44"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -539,18 +503,38 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Dopelganga",
-        "url": "https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl"
+        "name": "Piedra del \u00c1guila",
+        "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
         }
       ],
-      "duration_ms": 245645,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/50qbVfHyBNEHImuPvgFEqM"
+      "duration_ms": 194470,
+      "name": "Piedra del \u00c1guila",
+      "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Ubicaci\u00f3n en Tiempo Real",
+        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        },
+        {
+          "name": "Paula Trama",
+          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
+        }
+      ],
+      "duration_ms": 255860,
+      "name": "Los D\u00edas Que No Est\u00e1s",
+      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -587,22 +571,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "La Nieve",
-        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 211699,
-      "name": "La Nieve",
-      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "No Te Perdono",
         "url": "https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0"
       },
@@ -615,6 +583,38 @@
       "duration_ms": 203792,
       "name": "No Te Perdono",
       "url": "https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Ibiza Pareo",
+        "url": "https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "Arido Espejismo",
+      "url": "https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "La Nieve",
+        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 211699,
+      "name": "La Nieve",
+      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -635,38 +635,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Nada Salvaje (En Vivo Estadio Obras)",
-        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
+        "name": "Dopelganga",
+        "url": "https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl"
       },
       "artists": [
         {
           "name": "Eruca Sativa",
           "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 278984,
-      "name": "Nada Salvaje (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Ibiza Pareo",
-        "url": "https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "Arido Espejismo",
-      "url": "https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6"
+      "duration_ms": 245645,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/50qbVfHyBNEHImuPvgFEqM"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -735,6 +715,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Arriba Es Abajo",
+        "url": "https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My"
+      },
+      "artists": [
+        {
+          "name": "Chini and The Technicians",
+          "url": "https://open.spotify.com/artist/6WUEX7OnXihiMxJM6HZcIR"
+        }
+      ],
+      "duration_ms": 247349,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "RANDOM",
         "url": "https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1"
       },
@@ -751,18 +747,38 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Arriba Es Abajo",
-        "url": "https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My"
+        "name": "Nada Salvaje (En Vivo Estadio Obras)",
+        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
       },
       "artists": [
         {
-          "name": "Chini and The Technicians",
-          "url": "https://open.spotify.com/artist/6WUEX7OnXihiMxJM6HZcIR"
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 247349,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ"
+      "duration_ms": 278984,
+      "name": "Nada Salvaje (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc"
+      },
+      "artists": [
+        {
+          "name": "Natalia y La Forquetina",
+          "url": "https://open.spotify.com/artist/2aotoGt6dVYi7Mr3YRmDK3"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "Ser Humano",
+      "url": "https://open.spotify.com/track/5RcDXoxRQIlxsjJnQbkMGm"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -799,22 +815,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc"
-      },
-      "artists": [
-        {
-          "name": "Natalia y La Forquetina",
-          "url": "https://open.spotify.com/artist/2aotoGt6dVYi7Mr3YRmDK3"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "Ser Humano",
-      "url": "https://open.spotify.com/track/5RcDXoxRQIlxsjJnQbkMGm"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Misterio Relampago",
         "url": "https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Chica Violeta",
-        "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
-      },
-      "artists": [
-        {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
-        }
-      ],
-      "duration_ms": 386900,
-      "name": "Chica Violeta",
-      "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Mala (Edici\u00f3n Mal\u00edsima)",
         "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 220473,
       "name": "Haku - Bonus Track",
       "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Chica Violeta",
+        "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "duration_ms": 386900,
+      "name": "Chica Violeta",
+      "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -991,38 +991,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Tigre Ulli",
-        "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Postales Blancas",
-      "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Ojos que ladran",
-        "url": "https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT"
-      },
-      "artists": [
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "duration_ms": 192984,
-      "name": "Palo de Amansar",
-      "url": "https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "15 A\u00f1os de Exitos",
         "url": "https://open.spotify.com/album/3R1IPI5OFMNFXrd7PfgZW6"
       },
@@ -1035,6 +1003,22 @@
       "duration_ms": 257079,
       "name": "Azul Casi Morado",
       "url": "https://open.spotify.com/track/2UU9JV6RUuyveQWqq3xlBF"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Tigre Ulli",
+        "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Postales Blancas",
+      "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Ojos que ladran",
+        "url": "https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT"
+      },
+      "artists": [
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "duration_ms": 192984,
+      "name": "Palo de Amansar",
+      "url": "https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Ando Buscando",
         "url": "https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE"
       },
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 169398,
+      "name": "Clav\u00edcula",
+      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Ruta Hotel",
         "url": "https://open.spotify.com/album/5198xcABxOJ3tJicMBwchi"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Preguntame",
-        "url": "https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx"
+        "name": "Gracias por Cuidar el Equipo",
+        "url": "https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY"
       },
       "artists": [
         {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+          "name": "MUGRE",
+          "url": "https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V"
         }
       ],
-      "duration_ms": 204336,
-      "name": "Preguntame",
-      "url": "https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK"
+      "duration_ms": 227328,
+      "name": "Directa",
+      "url": "https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1199,34 +1215,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+        "name": "All\u00e1 en la Tierra",
+        "url": "https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn"
       },
       "artists": [
         {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+          "name": "Sr Tomate",
+          "url": "https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8"
         }
       ],
-      "duration_ms": 169398,
-      "name": "Clav\u00edcula",
-      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Gracias por Cuidar el Equipo",
-        "url": "https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY"
-      },
-      "artists": [
-        {
-          "name": "MUGRE",
-          "url": "https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Directa",
-      "url": "https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc"
+      "duration_ms": 239093,
+      "name": "Dibujo un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "All\u00e1 en la Tierra",
-        "url": "https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn"
+        "name": "Preguntame",
+        "url": "https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx"
       },
       "artists": [
         {
-          "name": "Sr Tomate",
-          "url": "https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8"
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
         }
       ],
-      "duration_ms": 239093,
-      "name": "Dibujo un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII"
+      "duration_ms": 204336,
+      "name": "Preguntame",
+      "url": "https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd"
-      },
-      "artists": [
-        {
-          "name": "Karina Vismara",
-          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "Nada, Nadie",
-      "url": "https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Epica & Fant\u00e1stica",
         "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 245246,
       "name": "Piedra Marea Fuego",
       "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd"
+      },
+      "artists": [
+        {
+          "name": "Karina Vismara",
+          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "Nada, Nadie",
+      "url": "https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 232975,
-      "name": "Unfuckable",
-      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Esquizofrenia",
         "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 188330,
       "name": "Esquizofrenia",
       "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 232975,
+      "name": "Unfuckable",
+      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Tiro de Gracia",
+        "url": "https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "Tiro de Gracia",
+      "url": "https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Desvelo",
         "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Tiro de Gracia",
-        "url": "https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU"
+        "name": "bi/MENTAL",
+        "url": "https://open.spotify.com/album/74buoPf0UxcLGAI0oUjkGn"
       },
       "artists": [
         {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+          "name": "Le Butcherettes",
+          "url": "https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6"
         }
       ],
-      "duration_ms": 222911,
-      "name": "Tiro de Gracia",
-      "url": "https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc"
+      "duration_ms": 220561,
+      "name": "give/UP",
+      "url": "https://open.spotify.com/track/2rVDacOFhSBzcPzfG9ITfm"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1595,22 +1611,6 @@
       "duration_ms": 203094,
       "name": "Suave",
       "url": "https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "bi/MENTAL",
-        "url": "https://open.spotify.com/album/74buoPf0UxcLGAI0oUjkGn"
-      },
-      "artists": [
-        {
-          "name": "Le Butcherettes",
-          "url": "https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6"
-        }
-      ],
-      "duration_ms": 220561,
-      "name": "give/UP",
-      "url": "https://open.spotify.com/track/2rVDacOFhSBzcPzfG9ITfm"
     },
     {
       "added_at": "2023-11-24 03:00:00",

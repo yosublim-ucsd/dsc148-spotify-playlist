@@ -6186,7 +6186,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 181428,
       "name": "Hum Toh Deewane",
       "url": "https://open.spotify.com/track/2A4lcqTJZgUs1XrW6TSvt0"
@@ -6248,6 +6248,24 @@
       "duration_ms": 243187,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o"
+    },
+    {
+      "album": {
+        "name": "Husn",
+        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217894,
+      "name": "Husn",
+      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
     },
     {
       "album": {
@@ -8578,7 +8596,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 160500,
       "name": "Lalkara",
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
@@ -10113,6 +10131,28 @@
     },
     {
       "album": {
+        "name": "Dard",
+        "url": "https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Mannat",
+      "url": "https://open.spotify.com/track/26elzgFl8tvajnDfeoY1YF"
+    },
+    {
+      "album": {
         "name": "Marakkuma Nenjam (From \"Vendhu Thanindhathu Kaadu\")",
         "url": "https://open.spotify.com/album/27abynwxVqQdw5HxC54tHJ"
       },
@@ -10190,7 +10230,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 280161,
       "name": "Mast Magan (From \"2 States\")",
       "url": "https://open.spotify.com/track/4wIWWEhbdgKAxhR68eE0Ye"
@@ -10538,6 +10578,32 @@
       "duration_ms": 132158,
       "name": "Mere Liye Tum Kaafi Ho (From \"Shubh Mangal Zyada Saavdhan\")",
       "url": "https://open.spotify.com/track/3qrdLVOClRU4yPkcXZ7c5u"
+    },
+    {
+      "album": {
+        "name": "Mere Sohneya (From \"Kabir Singh\")",
+        "url": "https://open.spotify.com/album/4Vyb6DpCBuDYJFgnByGq3A"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193355,
+      "name": "Mere Sohneya (From \"Kabir Singh\")",
+      "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
     },
     {
       "album": {
@@ -11038,7 +11104,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 248181,
       "name": "Naa Ready",
       "url": "https://open.spotify.com/track/13ZISM2bmrMBCRlMzl669x"
@@ -11454,7 +11520,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 170387,
       "name": "No Love",
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"

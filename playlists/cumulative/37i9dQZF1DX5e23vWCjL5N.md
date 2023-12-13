@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Guè
 
-136 songs - 7 hr 18 min
+137 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [BU!](https://open.spotify.com/track/6uL3MVuQUc1eLAMRganscL) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:25 | 2023-05-30 |  |
 | [BUONANOTTE](https://open.spotify.com/track/5MNHrahj1qZFjh46GZmqLT) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:40 | 2022-12-06 | 2023-01-13 |
 | [BUONANOTTE](https://open.spotify.com/track/6QgnT0tFcEWqzAO6GrYvff) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:40 | 2022-11-17 | 2022-12-08 |
-| [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:28 | 2022-04-15 |  |
+| [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/05Wr6HJmrXiK42rE7Gu8FB) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s) | 3:28 | 2023-12-04 |  |
+| [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:28 | 2022-04-15 | 2023-12-13 |
 | [BUSY](https://open.spotify.com/track/24icItMZ9lKoUtHznlAInH) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [BUSY](https://open.spotify.com/album/2Y2WIoNpftwf8IeWDGv9bD) | 2:10 | 2023-11-02 | 2023-11-17 |
 | [CATTIVE INTENZIONI \(feat\. Salmo\)](https://open.spotify.com/track/0OmnpUgUBVcCnKdS7o9P03) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 2:48 | 2022-12-06 | 2023-05-05 |
 | [CATTIVE INTENZIONI \(feat\. Salmo\)](https://open.spotify.com/track/1qeKaa5Cyw1Xi6PzoNpen5) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 2:48 | 2022-11-17 | 2022-12-08 |

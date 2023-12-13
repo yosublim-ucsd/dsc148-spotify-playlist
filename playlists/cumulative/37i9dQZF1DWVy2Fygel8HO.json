@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Inner Peace Of Mind",
+        "url": "https://open.spotify.com/album/1sys8kVADrVBBiPvB21JRi"
+      },
+      "artists": [
+        {
+          "name": "Tjeerd Oosterhuis",
+          "url": "https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186384,
+      "name": "Inner Peace Of Mind",
+      "url": "https://open.spotify.com/track/1vQc1CMKybARohCOtrr7Oc"
+    },
+    {
+      "album": {
         "name": "La grande Nue",
         "url": "https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh"
       },
@@ -2174,6 +2192,24 @@
       "duration_ms": 147075,
       "name": "Your Happiness",
       "url": "https://open.spotify.com/track/5KWf6l4r8SmAI2kOkYCWwU"
+    },
+    {
+      "album": {
+        "name": "\u00c9clat de Brume",
+        "url": "https://open.spotify.com/album/6O2UnhVcWDP22Nxy1fMcbG"
+      },
+      "artists": [
+        {
+          "name": "Amine Ayad",
+          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160343,
+      "name": "\u00c9clat de Brume",
+      "url": "https://open.spotify.com/track/2AID3rEEd5Wd3Le09Ht6Gm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVy2Fygel8HO"

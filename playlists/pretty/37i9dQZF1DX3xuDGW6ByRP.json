@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: Hotelo",
-  "num_followers": 46902,
+  "num_followers": 46908,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Yjg2MGU4MjUyYzU0NmMxYTEwM2Y5OWUzMTQ2Y2I2MjJmN2EyM2M0",
+  "snapshot_id": "MCxmZWNlZTU2OTI3MmFkYTA5YmE2NjVlNzkyNTA0M2U0NjQxYTg5MzFm",
   "tracks": [
     {
       "added_at": "2023-12-08 10:20:35",
@@ -135,18 +135,18 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -167,34 +167,18 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 137391,
-      "name": "One & Only",
-      "url": "https://open.spotify.com/track/1CjD9etP1cSqhqhRWOGAJw"
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -211,6 +195,22 @@
       "duration_ms": 205256,
       "name": "N\u00e3o Fosse T\u00e3o Tarde",
       "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 137391,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/1CjD9etP1cSqhqhRWOGAJw"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "O Amor Machuca Demais",
-        "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 188638,
-      "name": "O Amor Machuca Demais",
-      "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
         "name": "cuida de mim",
         "url": "https://open.spotify.com/album/0wy3T5ywwjxTpi2iR37ddE"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 173995,
       "name": "cuida de mim",
       "url": "https://open.spotify.com/track/0T83WyyuuFXfQzjzu8gwSd"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "O Amor Machuca Demais",
+        "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 188638,
+      "name": "O Amor Machuca Demais",
+      "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "\u00daltimo Clich\u00ea",
-        "url": "https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE"
-      },
-      "artists": [
-        {
-          "name": "Cine",
-          "url": "https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "\u00daltimo Clich\u00ea",
-      "url": "https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
         "name": "Foi Tudo Aqui",
         "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 189901,
       "name": "Deixa Estar",
       "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "\u00daltimo Clich\u00ea",
+        "url": "https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE"
+      },
+      "artists": [
+        {
+          "name": "Cine",
+          "url": "https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "\u00daltimo Clich\u00ea",
+      "url": "https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
+        "name": "Depois das Seis",
+        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 180488,
+      "name": "Depois Das Seis",
+      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
         "name": "QUEM NUNCA??",
         "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "144",
-        "url": "https://open.spotify.com/album/6EGMD8lu6cqhdbd0UcnKoo"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00e7a",
-          "url": "https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5"
-        }
-      ],
-      "duration_ms": 139156,
-      "name": "144",
-      "url": "https://open.spotify.com/track/2UrTBYA7g5uQDeE1refIs6"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
         "name": "VERMELHO FAROL",
         "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
       },
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "Depois das Seis",
-        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
+        "name": "144",
+        "url": "https://open.spotify.com/album/6EGMD8lu6cqhdbd0UcnKoo"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "Ra\u00e7a",
+          "url": "https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5"
         }
       ],
-      "duration_ms": 180488,
-      "name": "Depois Das Seis",
-      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
+      "duration_ms": 139156,
+      "name": "144",
+      "url": "https://open.spotify.com/track/2UrTBYA7g5uQDeE1refIs6"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
-        "name": "VSF (Telefone)",
-        "url": "https://open.spotify.com/album/3Q3DAfcLrkaArCrr3AgTKL"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        }
-      ],
-      "duration_ms": 161951,
-      "name": "VSF (Telefone)",
-      "url": "https://open.spotify.com/track/7JCv3LOgpS0qwh8V1mYU7A"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
         "name": "Andar 14",
         "url": "https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 173949,
       "name": "Andar 14",
       "url": "https://open.spotify.com/track/4mric8489EFF7DxpQfonKw"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
+        "name": "VSF (Telefone)",
+        "url": "https://open.spotify.com/album/3Q3DAfcLrkaArCrr3AgTKL"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        }
+      ],
+      "duration_ms": 161951,
+      "name": "VSF (Telefone)",
+      "url": "https://open.spotify.com/track/7JCv3LOgpS0qwh8V1mYU7A"
     },
     {
       "added_at": "2023-12-08 10:20:35",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-12-08 10:20:35",
       "album": {
+        "name": "Trisal",
+        "url": "https://open.spotify.com/album/5Zt8H350R5JhsPaVFoLiwO"
+      },
+      "artists": [
+        {
+          "name": "Lupa",
+          "url": "https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902"
+        }
+      ],
+      "duration_ms": 154243,
+      "name": "Trisal",
+      "url": "https://open.spotify.com/track/0ycqfGbV1ULq8k4FCWFfqY"
+    },
+    {
+      "added_at": "2023-12-08 10:20:35",
+      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/7qk4AUAt8F9m508h7HV8sj"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 134382,
       "name": "Legado",
       "url": "https://open.spotify.com/track/22hTtzEc2038qqwCuiZ687"
-    },
-    {
-      "added_at": "2023-12-08 10:20:35",
-      "album": {
-        "name": "Trisal",
-        "url": "https://open.spotify.com/album/5Zt8H350R5JhsPaVFoLiwO"
-      },
-      "artists": [
-        {
-          "name": "Lupa",
-          "url": "https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902"
-        }
-      ],
-      "duration_ms": 154243,
-      "name": "Trisal",
-      "url": "https://open.spotify.com/track/0ycqfGbV1ULq8k4FCWFfqY"
     },
     {
       "added_at": "2023-12-08 10:20:35",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNjY3NDAsMDAwMDAwMDA2ZjFiNzk3N2QyMjhlMjEyODgwNDE3NWY5OTQzOGI1Yg==",
+  "snapshot_id": "MjgzNjY3NDAsMDAwMDAwMDA4MjE0MDA2MWNiOWZmMzI5MGUzMzdjOWE0MjcxYWNlMQ==",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "50th Anniversary Live - First Night",
+        "url": "https://open.spotify.com/album/0MnKe6xNpkKkjAhzGDkra8"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 240901,
+      "name": "Dancin' In The Ruins - Live",
+      "url": "https://open.spotify.com/track/24a7LwTRotFfFtmPhnEgqv"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "A Monster Only You Can't See",
         "url": "https://open.spotify.com/album/3gObgFliVNVCROweTRHIZE"
       },
@@ -95,24 +111,8 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "50th Anniversary Live - First Night",
-        "url": "https://open.spotify.com/album/0MnKe6xNpkKkjAhzGDkra8"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 240901,
-      "name": "Dancin' In The Ruins - Live",
-      "url": "https://open.spotify.com/track/24a7LwTRotFfFtmPhnEgqv"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Already Over (Live in Los Angeles)",
-        "url": "https://open.spotify.com/album/1JSd8QQUFM6Qpvgi74U76X"
+        "url": "https://open.spotify.com/album/04NA84v0zrpmifSbVRAwjj"
       },
       "artists": [
         {
@@ -122,7 +122,7 @@
       ],
       "duration_ms": 159731,
       "name": "Already Over (Live in Los Angeles)",
-      "url": "https://open.spotify.com/track/6Ck87MYZbayjTY50KBqMuS"
+      "url": "https://open.spotify.com/track/3tMOjKAhLwLhC1IF7wp0jm"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
         }
       ],
-      "duration_ms": 135228,
-      "name": "Satan My Master",
-      "url": "https://open.spotify.com/track/3oSrSbj2lWjfFohtbWXy5c"
+      "duration_ms": 203515,
+      "name": "Nocturnal Fear",
+      "url": "https://open.spotify.com/track/3kAR8IZNpye5CWWFqCfh16"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -207,8 +207,8 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "True Belief",
-        "url": "https://open.spotify.com/album/3KsKehD23jDVjsLxsfovH4"
+        "name": "Icon 30",
+        "url": "https://open.spotify.com/album/3pr4hQdl7fbVNb5ZXO6RaI"
       },
       "artists": [
         {
@@ -218,23 +218,7 @@
       ],
       "duration_ms": 272813,
       "name": "True Belief",
-      "url": "https://open.spotify.com/track/5ZW4JXZKsy28uOKCc1nJsi"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "i/o",
-        "url": "https://open.spotify.com/album/1mhuLKVEwZH4aTJXCLuhec"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 406972,
-      "name": "Live and Let Live - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/1vQUh3oButfNbma7dwwnjr"
+      "url": "https://open.spotify.com/track/1SvZmrS7sXYghUHvuypJE4"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -255,8 +239,24 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Best of The Corrs",
-        "url": "https://open.spotify.com/album/6HjzFZsg2S3soe9Dqd9yeL"
+        "name": "i/o",
+        "url": "https://open.spotify.com/album/1mhuLKVEwZH4aTJXCLuhec"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 406972,
+      "name": "Live and Let Live - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/1vQUh3oButfNbma7dwwnjr"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/6yLorJHpW7BUD7RecIVLfI"
       },
       "artists": [
         {
@@ -266,7 +266,7 @@
       ],
       "duration_ms": 203080,
       "name": "Songbird",
-      "url": "https://open.spotify.com/track/7nrvvUfMUXdPf0McTsDFti"
+      "url": "https://open.spotify.com/track/6nfrIohSDBQvBX6rlHWEVO"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 403575,
-      "name": "Dixie Highway - Live",
-      "url": "https://open.spotify.com/track/35VaQZ1H6HZ0YoHpLqYCuD"
+      "duration_ms": 144072,
+      "name": "Guitar Solo (Neal Schon) - Live",
+      "url": "https://open.spotify.com/track/2NWbOuarPwAo7G3erN0xjI"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -431,8 +431,8 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Christmas Remixes 2023",
-        "url": "https://open.spotify.com/album/4eUMG5yauLMEwO0JxTvrox"
+        "name": "xmas sped up + slowed",
+        "url": "https://open.spotify.com/album/0QplsJsS4g4VFDCJODfyaL"
       },
       "artists": [
         {
@@ -446,7 +446,7 @@
       ],
       "duration_ms": 177662,
       "name": "What Christmas Means to Me (feat. Stevie Wonder) - Slowed & Reverb",
-      "url": "https://open.spotify.com/track/5nKBUrVglNxDx1XPKow558"
+      "url": "https://open.spotify.com/track/14TIy5ASSW9O354VELxV5I"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -515,34 +515,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "The Green Willow Tree",
-        "url": "https://open.spotify.com/album/1ErYH78IVjcfor1UtQcDea"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
       "artists": [
         {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
           "name": "Sting",
           "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "Archie Churchill-Moss",
-          "url": "https://open.spotify.com/artist/2lUG0DnSJvZOrjuL23oPRD"
-        },
-        {
-          "name": "Ben Tunnicliffe",
-          "url": "https://open.spotify.com/artist/0tS3TD2NR8dVkQlgXayL70"
-        },
-        {
-          "name": "Patrick Rimes",
-          "url": "https://open.spotify.com/artist/2xvtXSbHqfdcvF4sSW6RVi"
         }
       ],
-      "duration_ms": 183386,
-      "name": "The Green Willow Tree",
-      "url": "https://open.spotify.com/track/2OoI1WWucbF8pJMTwsmClH"
+      "duration_ms": 262683,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/0olhDuJdwF3WbIu16hCE3S"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

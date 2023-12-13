@@ -4,7 +4,7 @@
 
 > Quand l'indie et l'electro ne font qu'un.
 
-60 songs - 4 hr 18 min
+62 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Flux](https://open.spotify.com/track/3V4LTMmu764I724y0ToD2d) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:35 | 2023-02-07 |  |
 | [Future](https://open.spotify.com/track/1L44XODDvPjK4Tl9airKLy) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Bright Like Neon Love](https://open.spotify.com/album/4AyAxuQiwiloLye3qxuXq4) | 5:12 | 2023-02-07 |  |
 | [Get Myself Into It](https://open.spotify.com/track/0ZbNQQtAbdQoTWxt4avi2w) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Pieces Of The People We Love](https://open.spotify.com/album/1IjCAQlroTjoaRMayE3Unf) | 4:39 | 2023-02-07 |  |
-| [Heartbreaker \(feat\. John Legend\)](https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize) | 3:12 | 2023-02-07 |  |
+| [Heartbreaker](https://open.spotify.com/track/6DaYun5YOndnPYkwn6KwU8) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/00KfMW922SvIZ1FPWU7bzF) | 3:12 | 2023-11-29 |  |
+| [Heartbreaker \(feat\. John Legend\)](https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize) | 3:12 | 2023-02-07 | 2023-12-13 |
 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 | 2023-11-15 |  |
 | [I Believe](https://open.spotify.com/track/10zzmoWQkfiUfZRBDS88i9) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:16 | 2023-02-07 |  |
 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 | 2023-02-07 |  |
@@ -51,7 +52,8 @@
 | [O.N.E.](https://open.spotify.com/track/5IN6s1ESshNEs5cCKMGcfc) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/4OTfa7TIDrZjGKCDu8dUqG) | 5:23 | 2023-02-07 |  |
 | [Oceans Niagara](https://open.spotify.com/track/57zPzYQf43mAewduTJPJLp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:31 | 2023-02-07 | 2023-10-17 |
 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 | 2023-02-07 |  |
-| [OK](https://open.spotify.com/track/6CNskuICDfoju7WXRSq6ME) | [Shitdisco](https://open.spotify.com/artist/1gnKXnSL1BgGCTIrV3d4iq) | [The Emanator](https://open.spotify.com/album/1zm5jMajSrMRW5dGmSC7xO) | 4:02 | 2023-02-07 |  |
+| [OK](https://open.spotify.com/track/2ApjMCGxa1dYz8dPRTLeIx) | [Shitdisco](https://open.spotify.com/artist/1gnKXnSL1BgGCTIrV3d4iq) | [The Emanator](https://open.spotify.com/album/6dH0AER8RD3s9OyejHkJeT) | 4:02 | 2023-11-29 |  |
+| [OK](https://open.spotify.com/track/6CNskuICDfoju7WXRSq6ME) | [Shitdisco](https://open.spotify.com/artist/1gnKXnSL1BgGCTIrV3d4iq) | [The Emanator](https://open.spotify.com/album/1zm5jMajSrMRW5dGmSC7xO) | 4:02 | 2023-02-07 | 2023-12-13 |
 | [Reservoir](https://open.spotify.com/track/2zZW0SmKlZEoiDJwssNZqA) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Love Letters](https://open.spotify.com/album/4ncxigcuC9s3fyjiuJSfQq) | 3:14 | 2023-02-07 |  |
 | [Run Boy Run](https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2) | 3:33 | 2023-02-07 |  |
 | [Running Up That Hill](https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:06 | 2023-11-15 |  |

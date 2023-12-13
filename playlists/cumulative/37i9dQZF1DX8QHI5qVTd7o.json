@@ -816,10 +816,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 311312,
       "name": "Snake",
       "url": "https://open.spotify.com/track/2kFCLPMtn29QkjjoZOXCK5"
+    },
+    {
+      "album": {
+        "name": "Snake",
+        "url": "https://open.spotify.com/album/6lVSAkADWMNdSKSOi56cDL"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311312,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/5VNzNv5Yh9Tw6cBs3VdC4J"
     },
     {
       "album": {

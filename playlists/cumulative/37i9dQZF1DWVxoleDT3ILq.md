@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Yorka
 
-441 songs - 1 day 2 hr 33 min
+442 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Eufrasia en el Desierto](https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [La Vida, un Viaje](https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d) | 4:07 | 2023-05-26 | 2023-07-14 |
 | [Eufrasia en el Desierto \- Demo](https://open.spotify.com/track/5mB4NbIA9lWbCx8emXhzm2) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Eufrasia en el Desierto \(Demo\)](https://open.spotify.com/album/2Ac9xJEoseepEa8eR8Zgul) | 3:32 | 2023-07-07 | 2023-08-19 |
 | [Extrañarte Bonito](https://open.spotify.com/track/7tkHJ1MHMlMDRnGq7Er60B) | [María Compás](https://open.spotify.com/artist/4eEVhR6Pn7VusF04jeYxXP) | [Extrañarte Bonito](https://open.spotify.com/album/2OYAuIpEgAYwopGIAtsBc2) | 3:12 | 2022-04-15 | 2022-07-29 |
-| [Fachada Continua](https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Fachada Continua](https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR) | 4:06 | 2022-07-22 |  |
+| [Fachada Continua](https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Fachada Continua](https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR) | 4:06 | 2022-07-22 | 2023-12-13 |
 | [Fantasma Encantador](https://open.spotify.com/track/0ZDwUoCh4BBGMo6jEVFWTy) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Fantasma Encantador](https://open.spotify.com/album/2KSnj4HOx7bzl7IjxKQbyQ) | 4:13 | 2022-04-15 | 2022-08-27 |
 | [Fargo](https://open.spotify.com/track/7m2q127NIf7fIsBo6UyYjF) | [Frucola Frappé](https://open.spotify.com/artist/4ZLUNtFI5oNh5xiEew8X2v) | [Fargo](https://open.spotify.com/album/3YunrwATPNb4lg5pXA8tPF) | 2:56 | 2022-04-15 | 2023-01-28 |
 | [Fauna](https://open.spotify.com/track/5psoojvi7byUFe64ualJqY) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Fauna](https://open.spotify.com/album/55jrTHJvi8JRdVUZlInVIq) | 3:55 | 2022-04-15 | 2022-07-27 |
@@ -242,6 +242,7 @@
 | [Me Porto Bonito \- \(Post\-Punk\)](https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Me Porto Bonito \(Post\-Punk\)](https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy) | 3:00 | 2022-08-26 |  |
 | [Me Puedo Morir](https://open.spotify.com/track/3nb9xSUUpEGdKuFtpgR91I) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Me Puedo Morir](https://open.spotify.com/album/3BYhGn7oJWC1ML1Yvzp39c) | 4:04 | 2022-04-15 | 2022-08-04 |
 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 | 2023-02-03 | 2023-08-12 |
+| [Medianeras](https://open.spotify.com/track/7qGj9ul5qnpApUFj2niril) | [Ciclo Violeta](https://open.spotify.com/artist/0gi0BcCKIX8STum0IASxe7), [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga) | [Medianeras](https://open.spotify.com/album/0VDKsl3orfDHU6NinYBST1) | 4:20 | 2023-12-07 |  |
 | [Metatrón](https://open.spotify.com/track/6qUsTRejNR8WuUVqClm8Li) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Metatrón](https://open.spotify.com/album/5ATddaIPfN60xIgidfZSEV) | 3:56 | 2023-10-12 | 2023-12-11 |
 | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/track/5wnn9v60XXqJIdP2e7yPHK) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/album/5YqfkhcnCPjF7JF5eBY2U0) | 3:18 | 2022-04-15 | 2022-08-03 |
 | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D) | 2:57 | 2022-08-26 | 2023-11-30 |

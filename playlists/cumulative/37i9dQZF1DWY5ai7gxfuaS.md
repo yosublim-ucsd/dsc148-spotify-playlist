@@ -4,11 +4,11 @@
 
 > The future of metal is here.
 
-198 songs - 13 hr 26 min
+199 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 | 2022-03-10 |  |
+| [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 | 2022-03-10 | 2023-12-13 |
 | [A Bellyful of Salt and Spleen](https://open.spotify.com/track/0MNI4YG8dQ82tRR2St6q6V) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [A Bellyful of Salt and Spleen](https://open.spotify.com/album/4MuT9lqZBCN7JSDEKuzEOP) | 4:36 | 2021-12-20 | 2022-07-29 |
 | [A Bellyful of Salt and Spleen](https://open.spotify.com/track/2lKPQGRL2KyIqfEYQyzeGc) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [A Bellyful of Salt and Spleen](https://open.spotify.com/album/7tyS8cEiRHj1i3HmvvUszv) | 4:36 | 2022-09-29 | 2022-11-13 |
 | [A Bellyful of Salt and Spleen](https://open.spotify.com/track/7pFdW0mdlfHPXAmQIPtQzL) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Throes of Joy in the Jaws of Defeatism \(Bonus Tracks Version\)](https://open.spotify.com/album/4O3oSTv5mauxfXPdMRrayQ) | 4:36 | 2022-07-26 | 2022-11-19 |
@@ -162,6 +162,7 @@
 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 | 2021-12-20 |  |
 | [Soul Revolution](https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution](https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel) | 3:34 | 2022-07-26 |  |
 | [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 | 2021-12-20 | 2023-02-24 |
+| [Square One](https://open.spotify.com/track/0U6wtwuY9V5qWqnAXz90Y4) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Over The Threshold](https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU) | 3:09 | 2023-12-07 |  |
 | [Storm](https://open.spotify.com/track/5C4y8xih0UowIf9yPgSAYT) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A) | [Silver Lake by Esa Holopainen](https://open.spotify.com/album/2zWSbMftaoejsLk66Rzsj4) | 4:14 | 2022-07-26 |  |
 | [Storm](https://open.spotify.com/track/42NbA1vTZi5K9oGKojFV7O) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A), [Håkan Hemlin](https://open.spotify.com/artist/0saFQxCdkPcbgbAf01nvvt) | [Storm](https://open.spotify.com/album/3EV5RQNHxvoJgyUN7ursVu) | 4:14 | 2021-12-20 | 2022-07-29 |
 | [Stuck In My Ways](https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Cheaper Than Therapy](https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb) | 4:48 | 2021-12-20 |  |

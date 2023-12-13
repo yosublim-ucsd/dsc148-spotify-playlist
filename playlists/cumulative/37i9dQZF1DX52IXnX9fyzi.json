@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Amber Nights",
+        "url": "https://open.spotify.com/album/0Qp3LdQrtI7fXmWpFlyKJS"
+      },
+      "artists": [
+        {
+          "name": "Emilio Chiara",
+          "url": "https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157908,
+      "name": "Amber Nights",
+      "url": "https://open.spotify.com/track/4D0aSwsmi9K1pf7ndTsbdP"
+    },
+    {
+      "album": {
         "name": "Amber Road",
         "url": "https://open.spotify.com/album/6HeYvdS0Nyd0LCWEbdnR5s"
       },
@@ -909,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Blue Balloon",
+        "url": "https://open.spotify.com/album/6158ZLfj9UTMVQsCcUbNKm"
+      },
+      "artists": [
+        {
+          "name": "Saah",
+          "url": "https://open.spotify.com/artist/1gu7CrdnoVqZKicUZlyhoa"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145760,
+      "name": "Blue Balloon",
+      "url": "https://open.spotify.com/track/1L06LDQLfZlCDbM54Wo9gT"
+    },
+    {
+      "album": {
         "name": "Blue Light",
         "url": "https://open.spotify.com/album/7LcAKBxLzrACoefQrTLUQ1"
       },
@@ -1017,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Book Of Vespers - Midnight Prayer",
+        "url": "https://open.spotify.com/album/0kuM6393FCA8AEDtjG84Xt"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8sefine",
+          "url": "https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108625,
+      "name": "Book Of Vespers - Second Psalm",
+      "url": "https://open.spotify.com/track/3niN1UM28w5u0VL3beKCTx"
+    },
+    {
+      "album": {
         "name": "Book Of Vespers - Third Psalm",
         "url": "https://open.spotify.com/album/7kwVqoDo8TdA9o060qthLa"
       },
@@ -1028,7 +1082,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 108625,
       "name": "Book Of Vespers - Second Psalm",
       "url": "https://open.spotify.com/track/4TfmUcDnkEVw8DhEx98x8p"
@@ -1899,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/50QPaMBUUiOcn9MgsYryG3"
+      },
+      "artists": [
+        {
+          "name": "Allard Sidonia",
+          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131106,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5FR4qwfIZJu9sUBjR77l99"
+    },
+    {
+      "album": {
         "name": "Fallen Leaves",
         "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
       },
@@ -1986,6 +2058,24 @@
       "duration_ms": 126624,
       "name": "Fleurs S\u00e9ch\u00e9es",
       "url": "https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj"
+    },
+    {
+      "album": {
+        "name": "Floating On Air",
+        "url": "https://open.spotify.com/album/37WJSTkxpHbwheZXWqVR8Y"
+      },
+      "artists": [
+        {
+          "name": "Coeur",
+          "url": "https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Floating On Air",
+      "url": "https://open.spotify.com/track/6SgKdyN8RJnVWBtrPxeKvS"
     },
     {
       "album": {
@@ -2296,6 +2386,24 @@
       "duration_ms": 134571,
       "name": "Give and Take",
       "url": "https://open.spotify.com/track/1ZuWu44vG2cTSX2BaTMORM"
+    },
+    {
+      "album": {
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf"
+      },
+      "artists": [
+        {
+          "name": "Charles Weathersby",
+          "url": "https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160741,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58"
     },
     {
       "album": {
@@ -3704,6 +3812,24 @@
       "duration_ms": 134056,
       "name": "Lost to memories",
       "url": "https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx"
+    },
+    {
+      "album": {
+        "name": "Luce Stellare",
+        "url": "https://open.spotify.com/album/1OcsLFeL0V4NNNjilW4ha0"
+      },
+      "artists": [
+        {
+          "name": "Simone Scarda",
+          "url": "https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156372,
+      "name": "Luce Stellare",
+      "url": "https://open.spotify.com/track/3JFkFQzyMjfZxhPneUDSsk"
     },
     {
       "album": {
@@ -5477,6 +5603,24 @@
     },
     {
       "album": {
+        "name": "Shadow Lake",
+        "url": "https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz"
+      },
+      "artists": [
+        {
+          "name": "Lisa Kriegler",
+          "url": "https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151185,
+      "name": "Shadow Lake",
+      "url": "https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N"
+    },
+    {
+      "album": {
         "name": "Shadows Cast Asunder",
         "url": "https://open.spotify.com/album/1LaVIfUyiLKCxURtLnmtUo"
       },
@@ -5935,6 +6079,24 @@
     },
     {
       "album": {
+        "name": "S\u00b4embrassant",
+        "url": "https://open.spotify.com/album/5V6fXutbMK04kxw1AXQURA"
+      },
+      "artists": [
+        {
+          "name": "Petit Lilou",
+          "url": "https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "S\u00b4embrassant",
+      "url": "https://open.spotify.com/track/2p0Y2bYm5ICR6upjdPC69n"
+    },
+    {
+      "album": {
         "name": "Tales of an Oak",
         "url": "https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb"
       },
@@ -6094,6 +6256,24 @@
       "duration_ms": 184019,
       "name": "The Half Light",
       "url": "https://open.spotify.com/track/71yLhDpyToB7Z0e7COEd6a"
+    },
+    {
+      "album": {
+        "name": "The Last Falling Leaves",
+        "url": "https://open.spotify.com/album/2GzrCiNw6A4YOc7cEBHDMG"
+      },
+      "artists": [
+        {
+          "name": "George Agate",
+          "url": "https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171992,
+      "name": "The Last Falling Leaves",
+      "url": "https://open.spotify.com/track/4n3FI6GHSd8HFhpiCqqF3s"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,263 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,330 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -304,7 +304,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 294 | [Let Me Love You](https://open.spotify.com/track/6gJfFDLXgOHdxZR3eNaA4K) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [2Crimes](https://open.spotify.com/artist/277Kc4G3Enhr4X2uKrKkvP), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Let Me Love You](https://open.spotify.com/album/5Kz63YySC7KgnFe32HvvSu) | 2:37 |
 | 295 | [Snow \(Hey Oh\)](https://open.spotify.com/track/1kUXWeiuaYR5eO2xRh8JYl) | [Goldbird](https://open.spotify.com/artist/7bULzWHUuhNDPOrfv30dSq), [Offmind](https://open.spotify.com/artist/085SqcJuCauCoaZ9ZXGAzb) | [Snow \(Hey Oh\)](https://open.spotify.com/album/6rG26DDmDBXZK1OQaloagu) | 2:44 |
 | 296 | [Heaven Is A Place On Earth](https://open.spotify.com/track/4NcW4k39BVv2KzqXzg7gYt) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Heaven Is A Place On Earth](https://open.spotify.com/album/3MDrqH7JAEghnH5ELRpyQ3) | 2:34 |
-| 297 | [Complicated \(feat\. Ryan Caraveo\)](https://open.spotify.com/track/5Gycqp4tJ7dA5yNvbIOEG7) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Ryan Caraveo](https://open.spotify.com/artist/1PDE2MIJ4M6uvFJDrslazf) | [Complicated \(feat\. Ryan Caraveo\)](https://open.spotify.com/album/3FiL8F9xjsosWNYtNHazaP) | 3:24 |
+| 297 | [Complicated \(feat\. Ryan Caraveo\)](https://open.spotify.com/track/3pwKc5j7pB4VBShyjXesy6) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yves V](https://open.spotify.com/artist/7eou0SpSsKDJGouUekzpnK), [Ryan Caraveo](https://open.spotify.com/artist/1PDE2MIJ4M6uvFJDrslazf) | [Complicated \(feat\. Ryan Caraveo\)](https://open.spotify.com/album/56ZHBoO47AFn8NNKmq7UYL) | 3:24 |
 | 298 | [Demons](https://open.spotify.com/track/6997op11buHVAiqQvjqNHr) | [CPX](https://open.spotify.com/artist/2PPhcBfaeaUDjqGwTqn8JL), [Yohan Gerber](https://open.spotify.com/artist/0KxXlISC2jglmPDAGGBlra), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Demons](https://open.spotify.com/album/450WJ711VT7jFp2oyncOwJ) | 2:09 |
 | 299 | [Show Me the Meaning of Being Lonely \- Club Edit](https://open.spotify.com/track/4nBzR5kIT7W93ru55nl3eH) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk), [Adam Bü](https://open.spotify.com/artist/1XmQF3YXcIjv9PhNN69v8s) | [Show Me the Meaning of Being Lonely](https://open.spotify.com/album/3VlATUP5o3qSKP7g7FAVCS) | 2:12 |
 | 300 | [Mad World](https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv) | 2:33 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 359 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 360 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCxiMWUyOTQwYzA3YjU4YTEwZGI1YzQzNGU2YjE4ZWNlZWI0NzMyMmQ2`
+Snapshot ID: `MCxlNmQxNTdlNzQ5ZGIwNTk3ZWVkMThlY2M4ZGVmZWZjYjI4ZjM5OTFh`

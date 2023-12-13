@@ -4,7 +4,7 @@
 
 > Enjoy the soundtrack of Twenty Five Twenty One! \(청춘을 이야기하는 드라마 스물다섯 스물하나의 사운드트랙을 즐겨보세요!\)
 
-54 songs - 2 hr 36 min
+55 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Your Existence \(Inst.\)](https://open.spotify.com/track/1QBok3UbAy4D6mBs260946) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 | 2022-04-08 |  |
 | [Your world](https://open.spotify.com/track/27kzK6uZ1njMM5VDZ4nRAD) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Twenty\-Five Twenty\-One OST Part 9](https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9) | 3:27 | 2022-04-08 |  |
 | [Your world \(Inst.\)](https://open.spotify.com/track/1DElktBD30P1aiIQXErMLG) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Twenty\-Five Twenty\-One OST Part 9](https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9) | 3:27 | 2022-04-08 |  |
-| [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2022-04-08 |  |
+| [스물다섯, 스물하나](https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2Db7g2nYCXggiNOJc59vkS) | 4:44 | 2022-04-08 |  |
+| [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2022-04-08 | 2023-12-13 |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que brillaron en 2023. Foto: Vesta Lugg",
-  "num_followers": 13195,
+  "num_followers": 13206,
   "original_name": "EQUAL Chile: Lo Mejor de 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmZjNGY0NDMxN2UxYjViYWFlNWRkZmVmOTE2OGI5MmI1N2Y2M2Jj",
+  "snapshot_id": "MCw3ODViNDE0YzIzMzFiZmYzNTM1YzA2NjZkNzc5NDlmYTg2NmEzNzI3",
   "tracks": [
     {
       "added_at": "2023-11-29 12:15:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Ahora Vienes A Llorar",
-        "url": "https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2"
-      },
-      "artists": [
-        {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "Ahora Vienes A Llorar",
-      "url": "https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Divina",
         "url": "https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 177468,
       "name": "Agua",
       "url": "https://open.spotify.com/track/52grFNgo0fWp9KzFioiuav"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Ahora Vienes A Llorar",
+        "url": "https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2"
+      },
+      "artists": [
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Ahora Vienes A Llorar",
+      "url": "https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Molly",
-        "url": "https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK"
-      },
-      "artists": [
-        {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
-        }
-      ],
-      "duration_ms": 176249,
-      "name": "Molly",
-      "url": "https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Antes que el sol nos queme",
         "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 255268,
       "name": "Antes que el sol nos queme",
       "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK"
+      },
+      "artists": [
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        }
+      ],
+      "duration_ms": 176249,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "Las palabras que no sientes",
+        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
+      },
+      "artists": [
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        }
+      ],
+      "duration_ms": 148339,
+      "name": "Las palabras que no sientes",
+      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "Qui\u00e9n me va a Cuidar",
         "url": "https://open.spotify.com/album/6JJUxUcY7NDbfjgWuvSZLU"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 202814,
       "name": "Qui\u00e9n me va a Cuidar",
       "url": "https://open.spotify.com/track/7E7IomTA0czZ9RfuHDCpce"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "Las palabras que no sientes",
-        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
-      },
-      "artists": [
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        }
-      ],
-      "duration_ms": 148339,
-      "name": "Las palabras que no sientes",
-      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "traves\u00eda",
-        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 149151,
-      "name": "nada!",
-      "url": "https://open.spotify.com/track/0yD6cfX6MaSzK5Z5PS9J0O"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Sesiones 050: Rosario Alfonso",
         "url": "https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 356806,
       "name": "Que no te haga falta nada",
       "url": "https://open.spotify.com/track/0ShKnHt3NjEhcyby0TGOWu"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "traves\u00eda",
+        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 149151,
+      "name": "nada!",
+      "url": "https://open.spotify.com/track/0yD6cfX6MaSzK5Z5PS9J0O"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "NO ES TAN EASY",
+        "url": "https://open.spotify.com/album/2CILbbOCAltIv15hsEPYyR"
+      },
+      "artists": [
+        {
+          "name": "Gigi Caro",
+          "url": "https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8"
+        }
+      ],
+      "duration_ms": 201702,
+      "name": "NO ES TAN EASY",
+      "url": "https://open.spotify.com/track/4Hhko23YrzihKi3zEeXMFw"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "qui\u00e9n llama a esta hora",
         "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 282983,
       "name": "paterson",
       "url": "https://open.spotify.com/track/14ueXImr9oNsOt5bcBmJsJ"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "NO ES TAN EASY",
-        "url": "https://open.spotify.com/album/2CILbbOCAltIv15hsEPYyR"
-      },
-      "artists": [
-        {
-          "name": "Gigi Caro",
-          "url": "https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8"
-        }
-      ],
-      "duration_ms": 201702,
-      "name": "NO ES TAN EASY",
-      "url": "https://open.spotify.com/track/4Hhko23YrzihKi3zEeXMFw"
     },
     {
       "added_at": "2023-11-29 12:15:00",

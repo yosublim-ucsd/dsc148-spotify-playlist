@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685816,
+  "num_followers": 685809,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmRiZjgzZDE5MDBhMzIzYWUzZmE2N2FiYTQwODUwMDBiYmM2MDc2",
+  "snapshot_id": "MCw4YTg1ZjMzOGQ2NDA5YWJjYmY1MjcyYTY1M2IzZTY0Njc0NmNiY2Ni",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "My Humps",
         "url": "https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 186124,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 284026,
-      "name": "When A Fire Starts To Burn",
-      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Good for Me (feat. Anna Straker)",
         "url": "https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 144960,
       "name": "Good for Me (feat. Anna Straker)",
       "url": "https://open.spotify.com/track/2uq1PtuZxq2BAWqZSS80Bd"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "When A Fire Starts To Burn",
+      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Motown Philly",
-        "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 158140,
-      "name": "Motown Philly",
-      "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 168201,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Motown Philly",
+        "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 158140,
+      "name": "Motown Philly",
+      "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/54HlnxJS63kUPHH144QsDk"
+      },
+      "artists": [
+        {
+          "name": "SUB-X",
+          "url": "https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG"
+        }
+      ],
+      "duration_ms": 171178,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/6fwosYHgw98fyKpNTV96vk"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Only Honest On The Weekend",
         "url": "https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 168960,
       "name": "Through The Night (feat. 220 KID)",
       "url": "https://open.spotify.com/track/6WJaPzHfbfomchPuCNSjli"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "What You Do To Me",
-        "url": "https://open.spotify.com/album/54HlnxJS63kUPHH144QsDk"
-      },
-      "artists": [
-        {
-          "name": "SUB-X",
-          "url": "https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG"
-        }
-      ],
-      "duration_ms": 171178,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/6fwosYHgw98fyKpNTV96vk"
     },
     {
       "added_at": "2023-11-10 00:01:00",

@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> A Spotify program to promote exciting artists! RADAR BNLX:  Kids With Buns, \(cover\) Shermanology, Siggy & D1ns, Pommelien Thijs, Haunted Youth & Zoë Tauran
+> A Spotify program to promote exciting artists! RADAR BNLX:  Roxy Dekker \(cover\) Kids With Buns, Shermanology, Siggy & D1ns, Pommelien Thijs, Haunted Youth & Zoë Tauran
 
-161 songs - 8 hr 28 min
+162 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Running Backwards Into The Future](https://open.spotify.com/track/6roWUYJAxJW0o5Khr1sU9F) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [blue](https://open.spotify.com/album/26sG7sfbd4Omstr01DGf16) | 3:54 | 2023-03-08 | 2023-06-05 |
 | [Running Backwards Into The Future](https://open.spotify.com/track/7dvwk1q1jCt8lYY3S7Duog) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Red / Yellow / Blue](https://open.spotify.com/album/4jsaaN4FCIJRNHkikQulD2) | 3:54 | 2023-05-22 |  |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-10-17 | 2023-09-15 |
+| [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2023-12-12 |  |
 | [Saw It Coming](https://open.spotify.com/track/6gecBiCMM6BBttZ4r9BOma) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Saw It Coming](https://open.spotify.com/album/4hO2snTnpeTR9DxIpyGAPY) | 3:09 | 2023-03-08 | 2023-09-15 |
 | [Scars On My Skin](https://open.spotify.com/track/2GLh4XC9C7FJQorZ1160kT) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug), [HMLSS](https://open.spotify.com/artist/5Ft8jDLOn1p42XMZjekdBs) | [Scars On My Skin](https://open.spotify.com/album/3Otn8P0b8DHJpLLX5QyrF0) | 3:04 | 2023-01-27 | 2023-09-15 |
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2022-02-25 | 2022-08-26 |

@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 179306,
       "name": "honestly",
       "url": "https://open.spotify.com/track/7ntRuy1lDZsIXNeSNsuCkz"
@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "watermelon (demo)",
+        "url": "https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88733,
+      "name": "watermelon (demo)",
+      "url": "https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3"
+    },
+    {
+      "album": {
         "name": "Two Moon",
         "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
       },
@@ -792,7 +810,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 215093,
       "name": "\u30b0\u30c3\u30c9\u306a\u97f3\u697d\u3092",
       "url": "https://open.spotify.com/track/2vAtN2fB1zqTzfPGxqHmyO"
@@ -1174,6 +1192,24 @@
       "duration_ms": 219121,
       "name": "\u6b63\u8ad6\u3055\u3093",
       "url": "https://open.spotify.com/track/3guBJ3pWlpOKxS6aGJH3OD"
+    },
+    {
+      "album": {
+        "name": "\u7cbe\u795e\u30ed\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1VMeEQKCxiGnloMZvdqVvS"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173706,
+      "name": "\u7cbe\u795e\u30ed\u30c3\u30af",
+      "url": "https://open.spotify.com/track/5H3po4kcJFSyiz2tv2iFdz"
     },
     {
       "album": {

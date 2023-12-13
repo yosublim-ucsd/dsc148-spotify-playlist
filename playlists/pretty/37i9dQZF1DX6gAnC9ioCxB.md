@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gAnC9ioCxB.md) - [plain]
 
 > Get inspired by these stories and conversations around self\-improvement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,417 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 11,419 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCxjZTRlODUzYjczYzZmMTBhY2I2ZTAyNDJkYWUxNDZkOWNmOGEyMTVj`
+Snapshot ID: `MCw3ZTAzNDRiMTBhYzBkOTljY2Q4MjI3ZmU1MzY2OTBmNmI0MTMyNTg5`

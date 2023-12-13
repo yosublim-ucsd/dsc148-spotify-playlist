@@ -2589,13 +2589,21 @@
     },
     {
       "album": {
-        "name": "Up Is Just A Place Ft. George Clinton x Fred Wesley x Omar - Xtended Mix",
+        "name": "Up Is Just A Place (Xtended Mix Feat. Fred Wesley)",
         "url": "https://open.spotify.com/album/0e8IootF0vFHJzuOszLEot"
       },
       "artists": [
         {
           "name": "Smudge All Stars",
           "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
         },
         {
           "name": "Pee Wee Ellis",
@@ -2616,21 +2624,13 @@
         {
           "name": "Fred Wesley",
           "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        },
-        {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
         }
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 305454,
-      "name": "Up Is Just A Place Ft. George Clinton x Fred Wesley x Omar - Xtended Mix",
+      "name": "Up Is Just A Place (Xtended Mix Feat. Fred Wesley)",
       "url": "https://open.spotify.com/track/2X1jifAuCUkeIiidlRDxFl"
     },
     {

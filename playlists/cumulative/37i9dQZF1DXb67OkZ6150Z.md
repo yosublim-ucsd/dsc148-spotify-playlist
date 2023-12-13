@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-425 songs - 1 day 2 hr 5 min
+426 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [high and dry](https://open.spotify.com/track/6B9bHLVreCYkEgMs3SnQnY) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [high and dry](https://open.spotify.com/album/3QF88Oi8ah5VqZZD7cgfF2) | 4:05 | 2021-03-12 | 2022-04-08 |
 | [High and Dry](https://open.spotify.com/track/4XBanipnWptd3FPUlMkss8) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [High and Dry](https://open.spotify.com/album/06gtbsD5DmpApjUcGsHG0X) | 5:16 | 2021-08-27 | 2022-07-13 |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-03-12 | 2023-12-09 |
+| [High And Dry](https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV) | 3:52 | 2023-10-13 |  |
 | [High And Dry](https://open.spotify.com/track/6WjSqMgLFntUlzISKJ6UU1) | [TRACES](https://open.spotify.com/artist/74qSjJarNp1Ilz2kp7IMdL) | [High And Dry](https://open.spotify.com/album/1xZFnD8iOdaJG1xgG99dFv) | 3:10 | 2021-03-12 | 2022-04-04 |
 | [Higher Love](https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 3:34 | 2021-03-12 | 2022-08-10 |
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2021-03-12 | 2022-04-20 |
@@ -367,7 +368,7 @@
 | [This Must Be The Place \- Talking Heads Cover](https://open.spotify.com/track/7lb3KFSZJQmClYK9NjDcPl) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [This Must Be The Place \(Talking Heads Cover\)](https://open.spotify.com/album/5CVd6HJNljPHLdjq4cDih2) | 3:24 | 2021-03-12 | 2022-07-20 |
 | [This Time Around](https://open.spotify.com/track/0FS8j0Ft1O5Dik7NfogTGf) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [This Time Around](https://open.spotify.com/album/3zsAhHvn0VOa7G9HPFauVC) | 4:04 | 2021-03-12 | 2022-07-28 |
 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 | 2021-03-12 | 2023-08-09 |
-| [Three Hours](https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT) | 4:32 | 2023-05-26 |  |
+| [Three Hours](https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT) | 4:32 | 2023-05-26 | 2023-12-13 |
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-03-12 | 2022-08-10 |
 | [Time After Time](https://open.spotify.com/track/3HDZQxaCWGJPw3fVVmFGIO) | [Cigar Cigarette](https://open.spotify.com/artist/6WGuOKz6ZtJRcioWOMy9My), [MOTHERMARY](https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA) | [Time After Time](https://open.spotify.com/album/66GlghGOJDomu7fXWrkEWo) | 4:19 | 2021-04-19 | 2022-04-11 |
 | [Time Out of Mind](https://open.spotify.com/track/495mG0890vzv6TGc4Fltxd) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Time Out of Mind](https://open.spotify.com/album/3RQ11zU2MBm5mz5xEHXGRB) | 3:39 | 2021-03-12 | 2022-07-18 |

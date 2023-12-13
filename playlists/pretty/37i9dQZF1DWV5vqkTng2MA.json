@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 377392,
+  "num_followers": 377454,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWJjYTViMWM5NTUwNDRmODhkOTFiNDIxZDU2NjIwYmMyYjYxOGRk",
+  "snapshot_id": "MCwyNjE5YjIyODg1ZTljODlmYzJlYzYxMjdjY2FmNjZlNzQzOTI3ODUy",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 210840,
       "name": "C'mon Baby, Cry",
       "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Plastic Bouquet",
         "url": "https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 125840,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5XOzpTZGe4onY74BFK0ziS"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "First Flower",
-        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 227092,
-      "name": "To the Boys",
-      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Human Nature",
         "url": "https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 208213,
       "name": "No Sugar In My Coffee",
       "url": "https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 227092,
+      "name": "To the Boys",
+      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Alexander",
-        "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
-      },
-      "artists": [
-        {
-          "name": "Alex Ebert",
-          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Bad Bad Love",
-      "url": "https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "All My Shades Of Blue",
         "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 201000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Alexander",
+        "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
+      },
+      "artists": [
+        {
+          "name": "Alex Ebert",
+          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Bad Bad Love",
+      "url": "https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "The Very Last Day",
-      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Max Jury",
         "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 250414,
       "name": "Numb",
       "url": "https://open.spotify.com/track/70HTUTCkfEgNDvKCzTNnV4"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "The Very Last Day",
+      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1275,18 +1275,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Side Pony",
-        "url": "https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX"
+        "name": "My Back Was A Bridge For You To Cross",
+        "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
         }
       ],
-      "duration_ms": 217680,
-      "name": "I Don't Care About You",
-      "url": "https://open.spotify.com/track/5sOhS3m45IPP9sUBXXlYGI"
+      "duration_ms": 295013,
+      "name": "It Must Change",
+      "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1307,22 +1311,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "My Back Was A Bridge For You To Cross",
-        "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
+        "name": "Side Pony",
+        "url": "https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX"
       },
       "artists": [
         {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        },
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
         }
       ],
-      "duration_ms": 295013,
-      "name": "It Must Change",
-      "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
+      "duration_ms": 217680,
+      "name": "I Don't Care About You",
+      "url": "https://open.spotify.com/track/5sOhS3m45IPP9sUBXXlYGI"
     },
     {
       "added_at": "2023-09-15 04:00:00",

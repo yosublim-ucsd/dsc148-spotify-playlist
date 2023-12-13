@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1ArdWOMZjR.md) - [plain]
 
 > Wake me up before you go\-go! Check out Wham!'s top tracks to celebrate their documentary, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,873 likes - 22 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,882 likes - 22 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1ArdWOMZjR.md) - [plain]
 | 21 | [Blue \(Armed with Love\)](https://open.spotify.com/track/22rrsoGa6pChGr2S5CPQA8) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven \(Expanded\)](https://open.spotify.com/album/1iq5Vk9BsERGNNw7NGIpD4) | 3:55 |
 | 22 | [Last Christmas \- Single Version](https://open.spotify.com/track/4bKOmJyV4cLwaRwfJdscwG) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven \(Expanded\)](https://open.spotify.com/album/1iq5Vk9BsERGNNw7NGIpD4) | 4:25 |
 
-Snapshot ID: `MCw1OTU2OGU1NTU1YjcwZTE4YWE3OWRhNjkyMDIzZDk5NDgxMmE1ZGIw`
+Snapshot ID: `MCwyZGU0MzUyOGEwM2RhMzk5MjQ4MGM1MTE2NGU5YWMzMmFjZGI0MGUy`

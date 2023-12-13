@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "AppleApple",
+        "url": "https://open.spotify.com/album/59anTPOWmg1MeVx0TQ8Afl"
+      },
+      "artists": [
+        {
+          "name": "Soh Yoshioka",
+          "url": "https://open.spotify.com/artist/4USl3CP524USarOun6zfdQ"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243461,
+      "name": "AppleApple",
+      "url": "https://open.spotify.com/track/07uIaycMN9TEiPtwaVlLfP"
+    },
+    {
+      "album": {
         "name": "\u30dd\u30f3\u30b3\u30c4\u30bb\u30ab\u30a4",
         "url": "https://open.spotify.com/album/29NUFBpjtofJoaei3woQ98"
       },
@@ -187,6 +205,28 @@
     },
     {
       "album": {
+        "name": "Ears Lollipop",
+        "url": "https://open.spotify.com/album/7uOKYWOFv5BhO3Ku4Ct3bQ"
+      },
+      "artists": [
+        {
+          "name": "Twinfield",
+          "url": "https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222758,
+      "name": "Ears Lollipop (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6Q6SpzhmhiSuua8797QqFT"
+    },
+    {
+      "album": {
         "name": "#B.E.R.5th",
         "url": "https://open.spotify.com/album/4Lgue6ZPWL1XxGQc0d0WSc"
       },
@@ -238,7 +278,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 262989,
       "name": "KEEP OUT",
       "url": "https://open.spotify.com/track/3svTAq7limchEiM2FlRm6f"
@@ -278,7 +318,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 208656,
       "name": "Midnight Junkie (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/4NFJKu9ciQRCHtVofVcEIP"
@@ -314,7 +354,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 280000,
       "name": "Right\u00d7Dark",
       "url": "https://open.spotify.com/track/1AQLCS82yjnvHK5qSNYQuv"
@@ -416,6 +456,28 @@
       "duration_ms": 272983,
       "name": "Studio Avenger",
       "url": "https://open.spotify.com/track/75J8n2ppr3lxauFBHCwyMp"
+    },
+    {
+      "album": {
+        "name": "CHAPTER #1",
+        "url": "https://open.spotify.com/album/45vdAv1Oxc1gpM91Iq14f5"
+      },
+      "artists": [
+        {
+          "name": "Shino",
+          "url": "https://open.spotify.com/artist/0zrkJ96y7Bjl9cP5Lx5way"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201065,
+      "name": "Summertime Lovegame (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/6lp4CDrnwxQjADR9Fu8c6w"
     },
     {
       "album": {
@@ -700,10 +762,32 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 167461,
       "name": "\u30bd\u30ec\u30e0 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/054E21JyZZUmwCC3v6c2pl"
+    },
+    {
+      "album": {
+        "name": "\u30d1\u30ad\u30d1\u30ad\u5929\u4f7f\u306e\u30cf\u30fc\u30c9\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4OuZr8zn6IwZjKlCWeWvgm"
+      },
+      "artists": [
+        {
+          "name": "STEAKA",
+          "url": "https://open.spotify.com/artist/5FJiFnQENgHOWUOYyqDol5"
+        },
+        {
+          "name": "\u308a\u3080\u308b",
+          "url": "https://open.spotify.com/artist/7l1BiGYw9sJ9M53zaV9aJB"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131034,
+      "name": "\u30d1\u30ad\u30d1\u30ad\u5929\u4f7f\u306e\u30cf\u30fc\u30c9\u30e9\u30c3\u30af (feat. \u308a\u3080\u308b)",
+      "url": "https://open.spotify.com/track/3jh0Pv9zptcRIphRMCVR6g"
     },
     {
       "album": {
@@ -718,10 +802,28 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 241797,
       "name": "\u30de\u30fc\u30ad\u30e5\u30ea\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2GBNa60LfNydq7ai3XGqr2"
+    },
+    {
+      "album": {
+        "name": "\u30ef\u30fc\u30eb\u30c9Re\u30c8\u30ea\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/2C05zcE5ku7YRnBUD3dE1g"
+      },
+      "artists": [
+        {
+          "name": "waka/IMBK",
+          "url": "https://open.spotify.com/artist/2imRJw6HFjC4okbuZuIGc9"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214227,
+      "name": "\u30ef\u30fc\u30eb\u30c9Re\u30c8\u30ea\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/4R8WfOF8Ge6yqhFC8hJl0C"
     },
     {
       "album": {

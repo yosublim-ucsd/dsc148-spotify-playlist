@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,177 likes - 92 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,302 likes - 92 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 91 | [Ride 4 Me](https://open.spotify.com/track/6zx3qdGDRyogH9WlM7lGGH) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/2hkUv5Lqfj0pVgTYanPNw2) | 3:12 |
 | 92 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 |
 
-Snapshot ID: `MCwxMWZhYThhYWYwZjJmMjQxYmM4NTc2OTY2ZWRiOGU4ZTk1ODQ3ZWRk`
+Snapshot ID: `MCw3OGUwZjg2YTg4Y2UyZTY3ZjExMjAzZGE3NDg2YWViMTFhN2E2MDRl`

@@ -1,12 +1,12 @@
 {
   "description": "set your intentions at the highest of vibrations. ",
-  "num_followers": 76318,
+  "num_followers": 76404,
   "original_name": "supermoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGRmOTI5NzIxMjZhYzg2ZGI1M2RhMjdmMTRkMGUxNTc2OTM0YTI2",
+  "snapshot_id": "MCw5NjRkMmZlODIzMjQ4YTUyOTllNDdhNzgzMmMyYmVhMGQ2OGQ2OTRj",
   "tracks": [
     {
       "added_at": "2023-08-21 18:54:53",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-21 18:54:53",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
-    },
-    {
-      "added_at": "2023-08-21 18:54:53",
-      "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
+    {
+      "added_at": "2023-08-21 18:54:53",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
       "added_at": "2023-08-21 18:54:53",

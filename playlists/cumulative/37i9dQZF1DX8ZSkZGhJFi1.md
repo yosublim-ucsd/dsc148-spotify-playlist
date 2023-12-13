@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-660 songs - 1 day 2 hr 47 min
+661 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2023-09-08 | 2023-11-29 |
 | [Low Jump](https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Low Jump](https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ) | 1:36 | 2023-09-08 |  |
 | [low wave](https://open.spotify.com/track/0uJzNH4kMiF3k8JotEVf4h) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [low wave](https://open.spotify.com/album/7nYHKRzvaKeJ4XOzIC8bXw) | 1:37 | 2023-09-08 |  |
+| [lucid](https://open.spotify.com/track/5Mmwj21GsWUNJga9RQSolY) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [lucid](https://open.spotify.com/album/0rMoBJlYV5Ie2EYnfZnR2g) | 2:06 | 2023-12-08 |  |
 | [Lucid Living](https://open.spotify.com/track/4wzysfxJsTFm2UvgOYFvrV) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Lucid Living](https://open.spotify.com/album/2ynlL4uaTJ9hMecU8W5LKb) | 2:26 | 2023-09-08 |  |
 | [lucky punch](https://open.spotify.com/track/4Q7dEitZXGBrgu3UzAfeZo) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [lucky punch](https://open.spotify.com/album/0ufZPC4ZmewfYvz84hExIS) | 2:08 | 2023-09-08 |  |
 | [Luma Beach](https://open.spotify.com/track/4Sn9pCrvAruVFVAIP3rppA) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Luma Beach](https://open.spotify.com/album/7LjazepQBFDepvqeF5UPOR) | 2:40 | 2023-09-08 |  |
@@ -405,7 +406,7 @@
 | [Orange and More Orange](https://open.spotify.com/track/7zLvnQVUahgEm9TmV7dtjn) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [This Must Be the Place](https://open.spotify.com/album/6MqKvZpyncm6ycEpmFm1M2) | 3:12 | 2023-09-08 |  |
 | [Orchid](https://open.spotify.com/track/2YCCzhXCvptKWzr2aN5Lbv) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Orchid](https://open.spotify.com/album/376EH4CpgOo1mCyj6z7nsb) | 2:34 | 2022-02-17 | 2023-09-09 |
 | [Out Of Order](https://open.spotify.com/track/5UgCKTRv3o4HrS5gOLUN4b) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Out Of Order](https://open.spotify.com/album/6IeQxgTkyOgmyo26GKWCNl) | 2:21 | 2023-09-08 |  |
-| [out there](https://open.spotify.com/track/1LpcIXQCaXY5qyNNsSKvYC) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [out there](https://open.spotify.com/album/4jUQoI5Gb7IpUWeIEVaBen) | 2:10 | 2023-09-08 |  |
+| [out there](https://open.spotify.com/track/1LpcIXQCaXY5qyNNsSKvYC) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [out there](https://open.spotify.com/album/4jUQoI5Gb7IpUWeIEVaBen) | 2:10 | 2023-09-08 | 2023-12-13 |
 | [outta pocket](https://open.spotify.com/track/3K9nYguUdYNPB8APzCAk7R) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [outta pocket](https://open.spotify.com/album/1c8PXZmTKvn1JER2EaKjg8) | 1:37 | 2023-09-08 |  |
 | [oyoyoy](https://open.spotify.com/track/3olHLiTm1rO8x0MzyP1ad7) | [bito bitox](https://open.spotify.com/artist/4biX5gqFgXs4cSzHcdVFms) | [oyoyoy](https://open.spotify.com/album/6pC5QrbAOUJcl4Tu62lRmR) | 2:24 | 2023-09-08 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/0Po3LlQVxAG4F7P4xceR7b) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [P.S\. I Love You](https://open.spotify.com/album/3lyhm1eO4SAd3Kqg3OE1YM) | 2:07 | 2023-09-08 |  |

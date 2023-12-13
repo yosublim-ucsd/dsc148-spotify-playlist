@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Bibi Club",
-  "num_followers": 3585,
+  "num_followers": 3590,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTVkMThhNzVlODlhNDAzYmRlMWFlN2VjNzU1OTliNWEzMmM3NWIz",
+  "snapshot_id": "MCxjMmRmMTNlZTc4YzQxYzEwODU1YTYwMWU2NjNlMWFjZmI2ZjE4NzBh",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Elle vit dans les bois",
-        "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 209570,
-      "name": "Elle vit dans les bois",
-      "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "P\u00eale-m\u00eale",
-        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
+        "name": "Elle vit dans les bois",
+        "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
       },
       "artists": [
         {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
         }
       ],
-      "duration_ms": 149882,
-      "name": "America",
-      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
+      "duration_ms": 209570,
+      "name": "Elle vit dans les bois",
+      "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -427,6 +411,22 @@
       "duration_ms": 155982,
       "name": "Fant\u00f4mes",
       "url": "https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "P\u00eale-m\u00eale",
+        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 149882,
+      "name": "America",
+      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 200765,
+      "name": "Demande-moi",
+      "url": "https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "tu penses-tu + veux veux pas",
         "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
       },
@@ -607,18 +623,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+        "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
+        "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Backxwash",
+          "url": "https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg"
+        },
+        {
+          "name": "Ada Rook",
+          "url": "https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY"
         }
       ],
-      "duration_ms": 200765,
-      "name": "Demande-moi",
-      "url": "https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1"
+      "duration_ms": 298336,
+      "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
+      "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -671,22 +691,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
-        "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
+        "name": "Darl\u00e8ne",
+        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
       },
       "artists": [
         {
-          "name": "Backxwash",
-          "url": "https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg"
-        },
-        {
-          "name": "Ada Rook",
-          "url": "https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY"
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
         }
       ],
-      "duration_ms": 298336,
-      "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
-      "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
+      "duration_ms": 145936,
+      "name": "Ton h\u00f4tel",
+      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -707,18 +723,34 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Darl\u00e8ne",
-        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
+        "name": "sadguitar_V777.wav",
+        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
       },
       "artists": [
         {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
         }
       ],
-      "duration_ms": 145936,
-      "name": "Ton h\u00f4tel",
-      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+      "duration_ms": 237022,
+      "name": "sadguitar_V777.wav",
+      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "We Are Sunshine",
+        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
+      },
+      "artists": [
+        {
+          "name": "The Blaze Velluto Collection",
+          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "The Rabbit Song",
+      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -771,34 +803,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "We Are Sunshine",
-        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
+        "name": "PICTURA DE IPSE : Musique directe",
+        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
       },
       "artists": [
         {
-          "name": "The Blaze Velluto Collection",
-          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
         }
       ],
-      "duration_ms": 195000,
-      "name": "The Rabbit Song",
-      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "sadguitar_V777.wav",
-        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
-      },
-      "artists": [
-        {
-          "name": "Emma Beko",
-          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
-        }
-      ],
-      "duration_ms": 237022,
-      "name": "sadguitar_V777.wav",
-      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 253546,
       "name": "La vie attend pas",
       "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "PICTURA DE IPSE : Musique directe",
-        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        }
-      ],
-      "duration_ms": 189712,
-      "name": "DIMANCHE SOIR",
-      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Mitshuap",
-        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
-      },
-      "artists": [
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
-        }
-      ],
-      "duration_ms": 226649,
-      "name": "Ekuan Ek(u)",
-      "url": "https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Chicout",
         "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 220607,
       "name": "Feu de for\u00eat",
       "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Mitshuap",
+        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
+      },
+      "artists": [
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        }
+      ],
+      "duration_ms": 226649,
+      "name": "Ekuan Ek(u)",
+      "url": "https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "C'est ma lady",
-        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "C'est ma lady",
-      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Premier juin",
         "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 268426,
       "name": "Ma\u00efa",
       "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "C'est ma lady",
+        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "C'est ma lady",
+      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "mile \u200eend (kiss ur friends)",
+        "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u200emile \u200eend",
+      "url": "https://open.spotify.com/track/3lqVjU8Shn7UGlqY9ZDvpP"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Sweet Mont\u00e9r\u00e9gie",
         "url": "https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Parfaite \u00e0 l'\u00e9cran",
-        "url": "https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP"
-      },
-      "artists": [
-        {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Parfaite \u00e0 l'\u00e9cran",
-      "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Comme dans un penthouse",
         "url": "https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR"
       },
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "mile \u200eend (kiss ur friends)",
-        "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
+        "name": "Parfaite \u00e0 l'\u00e9cran",
+        "url": "https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP"
       },
       "artists": [
         {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
         }
       ],
-      "duration_ms": 192000,
-      "name": "\u200emile \u200eend",
-      "url": "https://open.spotify.com/track/3lqVjU8Shn7UGlqY9ZDvpP"
+      "duration_ms": 168853,
+      "name": "Parfaite \u00e0 l'\u00e9cran",
+      "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
     }
   ],
   "unique_name": "ALT_QC",

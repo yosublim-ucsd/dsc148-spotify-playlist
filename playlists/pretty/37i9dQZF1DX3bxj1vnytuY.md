@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,675 likes - 100 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,750 likes - 100 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
-| 2 | [Mogo](https://open.spotify.com/track/3akGuvuTvyiItgLT30Vzeo) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Mogo](https://open.spotify.com/album/4PxVKlw9yeGuOpYKChdC0e) | 5:51 |
-| 3 | [Middle East](https://open.spotify.com/track/3HmtMuseYTOz2M04s2Phc2) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Nadav Vee](https://open.spotify.com/artist/7ME7ha3w7CeCKpHnZlabEa), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Humans](https://open.spotify.com/album/2ao2WewM26IVC402ocZNwt) | 7:04 |
-| 4 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 1 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 2 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
+| 3 | [Mogo](https://open.spotify.com/track/3akGuvuTvyiItgLT30Vzeo) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Mogo](https://open.spotify.com/album/4PxVKlw9yeGuOpYKChdC0e) | 5:51 |
+| 4 | [Middle East](https://open.spotify.com/track/3HmtMuseYTOz2M04s2Phc2) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Nadav Vee](https://open.spotify.com/artist/7ME7ha3w7CeCKpHnZlabEa), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Humans](https://open.spotify.com/album/2ao2WewM26IVC402ocZNwt) | 7:04 |
 | 5 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 |
 | 6 | [Emowe](https://open.spotify.com/track/0HEmkRtbVxUJGcZOXWYiNf) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Emowe](https://open.spotify.com/album/6vWHRHnbKMN5OeqAZcoIbI) | 7:40 |
 | 7 | [Papi \(Bhabi\)](https://open.spotify.com/track/2jxJzUWxqX2fnQTD9lmi2x) | [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [Papi \(Bhabi\)](https://open.spotify.com/album/3CmWvWiEAkuipFIqyhs5ps) | 5:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Izvor](https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1) | 6:40 |
 | 100 | [Sunsets in Marrakech](https://open.spotify.com/track/3C1Dn6K7TGnSmPYhmqh5x3) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/4FYCKpFao26D6pirX7A5Nk) | 6:18 |
 
-Snapshot ID: `MCw5MzEyMzdlYjY1ZTE4YWUzZWYyZjMwZTA1MDAxNDhlNmZkYWQwOThh`
+Snapshot ID: `MCw3YzYxMDQ2Yjg3MTg4MGMxMzQzZjY5YzUxZGYxYTM5ZDQ1NzU5NWYw`

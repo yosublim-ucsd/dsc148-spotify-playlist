@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Dead Poet Society
 
-5,044 songs - 11 day 22 hr 13 min
+5,045 songs - 11 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1501,6 +1501,7 @@
 | [Flash Flood](https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Flash Flood](https://open.spotify.com/album/1Z1k6oJZoPNGGTwGIrrpDq) | 2:39 | 2023-05-05 | 2023-05-13 |
 | [Flatline](https://open.spotify.com/track/6UsbYaAw2qKDXLXwdI0wj9) | [Blackbird Hill](https://open.spotify.com/artist/49Ypkl4ltiWhxXcLILO8W1) | [Flatline](https://open.spotify.com/album/70KjhibN2tRoCfKJOGOg64) | 3:45 | 2022-05-12 | 2022-05-20 |
 | [Flawless](https://open.spotify.com/track/3HsWxuom5hEHp0RWRM9nHs) | [The Alchemy](https://open.spotify.com/artist/4SsZtOnTAm0Et9A8mkquKm) | [Idle Ghosts](https://open.spotify.com/album/1Fz9F0PKyo1b6OGYjZik31) | 4:07 | 2022-05-19 | 2022-05-27 |
+| [FLESH AND BONE](https://open.spotify.com/track/4jj7lOFhYu59x8QUgvQ6NJ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [DEATH CULT \- 8323](https://open.spotify.com/album/6E5Nnp3cPI7gGTIW9XJpqr) | 3:18 | 2023-12-08 |  |
 | [Flex](https://open.spotify.com/track/6FH8IW5riTYXQKYH0kri6d) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Flex](https://open.spotify.com/album/0gf3BkJ3VnUWtaun2OyUHS) | 4:23 | 2023-07-07 | 2023-07-15 |
 | [FLM](https://open.spotify.com/track/5JgZtVW4bvBuBGsldmjrEW) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [FLM](https://open.spotify.com/album/5pi8TnkYGSVhBNh9yobH0X) | 3:15 | 2022-02-03 | 2022-02-11 |
 | [Floating Like](https://open.spotify.com/track/4MDPyqKZLDYd1PsGGYMThw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Blink Twice \(Extended\)](https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe) | 3:04 | 2022-11-18 | 2022-11-26 |

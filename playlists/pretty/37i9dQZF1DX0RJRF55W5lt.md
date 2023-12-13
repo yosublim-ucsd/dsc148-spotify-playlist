@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,113 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,202 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Blues For You \(Hard Dub\)](https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P) | [Logic](https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT) | [Blues for You](https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA) | 4:29 |
 | 75 | [Space Rider \- MJ Cole Vocal Mix](https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Oyster Music \- The MJ Cole Mixes](https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY) | 5:15 |
 
-Snapshot ID: `MCxhMDgxM2E0MWExOWI2MmIxOWI2Yzg3ODU0NzdlYzMwNjAyYWM4ZDEz`
+Snapshot ID: `MCw2ZTQwZWI2MWEwMjNlYjk2NjQ3MWMwOTM3MDc2NmY1ZjQ4MTY2Mzdj`

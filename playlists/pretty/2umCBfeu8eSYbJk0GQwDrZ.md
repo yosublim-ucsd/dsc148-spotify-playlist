@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,551 likes - 60 songs - 3 hr 20 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,549 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 25 | [bumpercar](https://open.spotify.com/track/7zBRgPUID7ERXyims1BufW) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [bumpercar](https://open.spotify.com/album/3qkjGDRmq1rl1j8ljNHdjk) | 2:24 |
 | 26 | [Lunar Eclipse](https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Lunar Eclipse](https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6) | 2:56 |
 | 27 | [Running Out of Time](https://open.spotify.com/track/6nKxsabsxc5tAdLvhIL0y0) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Running Out of Time](https://open.spotify.com/album/2nAxalqTK7QcLPgQNPJkm0) | 3:44 |
-| 28 | [Buik](https://open.spotify.com/track/31Vsakk4P0GK89taZPvCHy) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Hindsight is 50/50](https://open.spotify.com/album/0Ahyl5qytaDHcK6qJC1n2w) | 3:17 |
+| 28 | [Buik](https://open.spotify.com/track/31Vsakk4P0GK89taZPvCHy) | [GHOSTWOMAN](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Hindsight is 50/50](https://open.spotify.com/album/0Ahyl5qytaDHcK6qJC1n2w) | 3:17 |
 | 29 | [Home To You](https://open.spotify.com/track/4l8quRVm1alY13vw2dUz0L) | [Post\-Modern Connection](https://open.spotify.com/artist/5F8oPLYeNdQR8btNkeb4xR) | [A Welcome Change](https://open.spotify.com/album/660simutXbvry7FxV27Cds) | 3:01 |
 | 30 | [Be my baby \- up tempo](https://open.spotify.com/track/4tAhdFF2zvgmhvvxbxA98z) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Be my baby \(up tempo\)](https://open.spotify.com/album/1ujz8A8AZVgghgtYGPTPuk) | 2:55 |
 | 31 | [Brambles](https://open.spotify.com/track/2sHWoU97dgQfATRm99WFzr) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Brambles](https://open.spotify.com/album/1LqHcvT0n9mb3DSp6oL8NB) | 3:32 |

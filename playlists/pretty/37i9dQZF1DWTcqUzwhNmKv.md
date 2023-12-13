@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Architects on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,466,681 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,466,860 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Chaos Horrific](https://open.spotify.com/track/4Zsix11Dx5iiS0X7EclZSF) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Chaos Horrific](https://open.spotify.com/album/2OsBHxwlW8kJx2YCnhH7rI) | 3:32 |
 | 75 | [Two Alive Amongst The Dead](https://open.spotify.com/track/4CjxnxOt8coAxh51QZEHkI) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Two Alive Amongst The Dead](https://open.spotify.com/album/4Kwjj9SUOtSG80euLteDsS) | 2:47 |
 
-Snapshot ID: `MCxmZjgwM2VkYjAzZGY4OTNjNmMzYzEyNDFiNjViMTA3ODBmMDZiZThm`
+Snapshot ID: `MCwwMjlkZWMxZTI1NjQ5ZmY5OWM2MTQ3ZTU0MWJmYTBmMmNlNWQ2NGI4`

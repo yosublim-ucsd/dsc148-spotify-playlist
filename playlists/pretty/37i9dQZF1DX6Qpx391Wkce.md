@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,791 likes - 70 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,815 likes - 70 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 8 | [Embodied](https://open.spotify.com/track/7fHzuPcwP0U25WlqpLLgl1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Embodied](https://open.spotify.com/album/3YZWZ2ddtjq4e5LZeBH55G) | 6:40 |
 | 9 | [The House of House \- 1994 Remix by Thomas Schumacher](https://open.spotify.com/track/56Cf6TQ24vaSfum7KW3jKj) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [The House of House \(1994 Remix by Thomas Schumacher\)](https://open.spotify.com/album/3xdslxjDIK3hHNwgxTIJBP) | 4:33 |
 | 10 | [Wasted \- Extended Mix](https://open.spotify.com/track/2d9JcfJczE9MOI4IvoSOul) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Wasted \(Extended Mix\)](https://open.spotify.com/album/3NlvAEJXKcegWczMcSeHTs) | 6:05 |
-| 11 | [One Love \- Nick Curly 2023 Edit](https://open.spotify.com/track/33kXRY2IXNhfxGlmUiECkp) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t), [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [One Love \(Nick Curly 2023 Edit\)](https://open.spotify.com/album/3lSVfXX7vj16HzbscmcetC) | 3:48 |
+| 11 | [One Love \- Nick Curly Remix \[2023 Edit\]](https://open.spotify.com/track/33kXRY2IXNhfxGlmUiECkp) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t), [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [One Love \(Nick Curly Remix \[2023 Edit\]\)](https://open.spotify.com/album/3lSVfXX7vj16HzbscmcetC) | 3:48 |
 | 12 | [High Street \- Astrix Remix](https://open.spotify.com/track/2aXisW2ZScuxitKImCxk3A) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit) | [High Street Remixes EP](https://open.spotify.com/album/4PaScJ9nWTATvbOHpYYMRQ) | 8:24 |
 | 13 | [Cycle of Life](https://open.spotify.com/track/3HA1tvMrOoOnZl3GOb3rEB) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Cycle of Life](https://open.spotify.com/album/5mnmAkEBByR4mXyA8ybYsc) | 5:55 |
 | 14 | [Insomnia](https://open.spotify.com/track/54CN08RqyML43UbOHuGp1M) | [Nicolas Taboada](https://open.spotify.com/artist/6dcbo1dJld5wdwLeno5MBE) | [Insomnia](https://open.spotify.com/album/21l8PikLKnjDBvEtbtg9hm) | 3:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 69 | [Hick \- Pan\-Pot Remix](https://open.spotify.com/track/5sGtHaUKoaGlp68uEp7oz6) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Rainer Weichhold](https://open.spotify.com/artist/5ZZEDlsQsxJqj2svh4GqZD), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Hick \(Pan\-Pot Remix\)](https://open.spotify.com/album/6fthnKNuVFdWZOhFFlRJEK) | 6:40 |
 | 70 | [The Beat Just Goes Straight on and On](https://open.spotify.com/track/0UOdOG9XKi7gpAD72fZo1q) | [Perry & Rhodan](https://open.spotify.com/artist/7eyhmCn1XGDpFbrWkQMXhK) | [The Beat Just Goes Straight on and On](https://open.spotify.com/album/43e0TVbRqCaVKIBnA6xqPE) | 9:53 |
 
-Snapshot ID: `MCxjMGI0ZTYxZGFkMzdmN2YzOTkzNTQ2MTcyYjg0ZmU3ZTA2OGE5ZTRi`
+Snapshot ID: `MCw1NzNmNzg0MDE1YzRkMmU4MzQ3YjhmYjVlMmVhYWU4ZTFiYzM0ZTcw`

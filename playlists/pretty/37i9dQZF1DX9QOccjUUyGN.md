@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Gaab, Mc Daniel, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,667 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,668 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [BARRAS & BARRAS](https://open.spotify.com/track/5SlIDR9KTk0VbzkgQCHn0Y) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [BARRAS & BARRAS](https://open.spotify.com/album/7hk6SnodcEFVXZefWi8SKK) | 2:00 |
 | 75 | [Sal e Pimenta](https://open.spotify.com/track/41PSYvvRRloahcTUdYBchA) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 3:26 |
 
-Snapshot ID: `MCwxMTY1YTkzYzFmODYzODQ2Y2VmMDc5NWMwNjQ1M2NjMjM5YWQ1YzQ0`
+Snapshot ID: `MCxjMzZhMzRmOThkZTkwMjhiZTlmMTNlYWQ0YTIxZWQ2MDZkZjA2M2I5`

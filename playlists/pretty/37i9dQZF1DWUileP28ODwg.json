@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 326079,
+  "num_followers": 326212,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmU5N2JhNGRjYzdkMWYwNGZmMjVkZTQ2MTgzNWQ0MTViZDY1NDFi",
+  "snapshot_id": "MCwyNzYxODRiZWRkN2U4MWE0YjhmMTE3YmZhYWY2MDczNmVmODhiMTQy",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Yeshua (Friend Of Sinners)",
-        "url": "https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O"
-      },
-      "artists": [
-        {
-          "name": "Mike Donehey",
-          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Yeshua (Friend Of Sinners)",
-      "url": "https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "While I Can",
         "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 186029,
       "name": "While I Can",
       "url": "https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Yeshua (Friend Of Sinners)",
+        "url": "https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O"
+      },
+      "artists": [
+        {
+          "name": "Mike Donehey",
+          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Yeshua (Friend Of Sinners)",
+      "url": "https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "That's The Thing About Praise (Extended Play)",
+        "url": "https://open.spotify.com/album/0FZwqhAXgnKySevFdR3ljd"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 236172,
+      "name": "That's The Thing About Praise - Radio Version",
+      "url": "https://open.spotify.com/track/1cDxFFKvI33Xg6jbPmzBBz"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 147670,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "That's The Thing About Praise (Extended Play)",
-        "url": "https://open.spotify.com/album/0FZwqhAXgnKySevFdR3ljd"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 236172,
-      "name": "That's The Thing About Praise - Radio Version",
-      "url": "https://open.spotify.com/track/1cDxFFKvI33Xg6jbPmzBBz"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Mountain Top",
-        "url": "https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw"
-      },
-      "artists": [
-        {
-          "name": "Leslie Perez",
-          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
-        }
-      ],
-      "duration_ms": 233470,
-      "name": "Mountain Top",
-      "url": "https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "At The End Of The River",
         "url": "https://open.spotify.com/album/7bfqllwYRjQSG6PfUGJsCX"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 282848,
       "name": "At The End Of The River",
       "url": "https://open.spotify.com/track/1l1NFdzq5team6HHbWlTLk"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw"
+      },
+      "artists": [
+        {
+          "name": "Leslie Perez",
+          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
+        }
+      ],
+      "duration_ms": 233470,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Burial",
-        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 278119,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Worthy One",
         "url": "https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 236806,
       "name": "Worthy One",
       "url": "https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Burial",
+        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 278119,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
     },
     {
       "added_at": "2023-11-17 05:00:00",

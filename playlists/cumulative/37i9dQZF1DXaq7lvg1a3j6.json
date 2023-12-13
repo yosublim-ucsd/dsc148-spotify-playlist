@@ -635,6 +635,32 @@
     },
     {
       "album": {
+        "name": "Yeh Jawaani Hai Deewani",
+        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260552,
+      "name": "Dilliwaali Girlfriend",
+      "url": "https://open.spotify.com/track/3W1XPf7mvuQcWQB7U7MbTM"
+    },
+    {
+      "album": {
         "name": "Dilon Ki Doriyan (From \"Bawaal\")",
         "url": "https://open.spotify.com/album/0weAJmsM6oa2aJAv2TBsPc"
       },
@@ -676,7 +702,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 215304,
       "name": "Din Shagna Da",
       "url": "https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp"
@@ -842,6 +868,10 @@
         {
           "name": "Jyoti Noora",
           "url": "https://open.spotify.com/artist/7ho6U1pgk5AfbhhoS3qggE"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
         }
       ],
       "date_added": "2023-09-25",
@@ -968,7 +998,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 196124,
       "name": "JALSA 2.0 - From \"Mission Raniganj: The Great Bharat Rescue\"",
       "url": "https://open.spotify.com/track/4OgcGtcurJBgS7H1iW7peT"
@@ -986,10 +1016,52 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 142208,
       "name": "Jugjugg Jeeyo",
       "url": "https://open.spotify.com/track/3RQcCpagpbqjwOvZnxhsuH"
+    },
+    {
+      "album": {
+        "name": "Baar Baar Dekho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq"
+      },
+      "artists": [
+        {
+          "name": "Prem",
+          "url": "https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l"
+        },
+        {
+          "name": "Hardeep",
+          "url": "https://open.spotify.com/artist/6a9AtaXEnfNdyDju1FrXfT"
+        },
+        {
+          "name": "Amar Arshi",
+          "url": "https://open.spotify.com/artist/3f7Qfkua3IcRpUFzUaUnrX"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Indeep Bakshi",
+          "url": "https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ"
+        },
+        {
+          "name": "Amrik Singh",
+          "url": "https://open.spotify.com/artist/1Sqacm1VMROsVrDOUwxS5G"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187006,
+      "name": "Kala Chashma",
+      "url": "https://open.spotify.com/track/6mdLX10dvBb7rGYbMXpKzz"
     },
     {
       "album": {
@@ -1462,6 +1534,36 @@
       "duration_ms": 184617,
       "name": "Naah Goriye",
       "url": "https://open.spotify.com/track/2q12vH6qEvg8y1XBCgTbHZ"
+    },
+    {
+      "album": {
+        "name": "Baar Baar Dekho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Harshdeep Kaur",
+          "url": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
+        },
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        },
+        {
+          "name": "Aditya Sharma",
+          "url": "https://open.spotify.com/artist/2V3QpcHI40ZRGMUhr3bHsl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194761,
+      "name": "Nachde Ne Saare",
+      "url": "https://open.spotify.com/track/7HuLB7m448hiKT7Af60Ew3"
     },
     {
       "album": {
@@ -2041,6 +2143,44 @@
     },
     {
       "album": {
+        "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Ranveer Singh",
+          "url": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
+        },
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213611,
+      "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"
+    },
+    {
+      "album": {
         "name": "Yaad Piya Ki Aane Lagi",
         "url": "https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS"
       },
@@ -2096,7 +2236,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 280974,
       "name": "Ye Ishq Hai (From \"Jab We Met\")",
       "url": "https://open.spotify.com/track/1UHVj0W8BRn08AXvWcv8i6"

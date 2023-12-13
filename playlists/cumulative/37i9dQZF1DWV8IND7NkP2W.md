@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-693 songs - 1 day 7 hr 0 min
+694 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Awesome City](https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/05PDJXae0t0adaepucRPVP) | 2:40 | 2023-10-19 | 2023-10-21 |
 | [Awesome City](https://open.spotify.com/track/5tmItGDYOoSnA44DZKLFU1) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/5zXZG6idXS00IwMztd621i) | 2:40 | 2023-10-19 |  |
 | [B\-Boy Meets B\-Girl](https://open.spotify.com/track/5n0NIb4O98klpL6E0vSs0F) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0) | [B\-Boy Meets B\-Girl](https://open.spotify.com/album/5ORiWIvK84Z1wE5V5o2jEe) | 4:24 | 2022-07-21 | 2022-07-29 |
+| [b.o.t.m.beats3](https://open.spotify.com/track/1VDsI21IKl27Y7UB4b3cj9) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [BEATS OF THE MONTH 1](https://open.spotify.com/album/2FhxSv1ba7m9YiJB9bbdw8) | 4:48 | 2023-12-12 |  |
 | [Baby Since I Got You](https://open.spotify.com/track/7hAdCAQps5pBHyGE6RIWhW) | [Yaboy](https://open.spotify.com/artist/261tfDi8O7e45yOgAiukDl) | [Having A Ball](https://open.spotify.com/album/3Umnf8FuQpVwrEwK0r2RCK) | 2:18 | 2021-12-23 | 2022-04-16 |
 | [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 | 2023-01-12 | 2023-01-14 |
 | [Back in a day](https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N) | 1:54 | 2023-01-12 | 2023-06-23 |
@@ -470,7 +471,7 @@
 | [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2021-12-23 | 2022-07-28 |
 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 | 2023-05-25 |  |
 | [Passage \- KNOTT ADD VIBES](https://open.spotify.com/track/59njcdgyK8AOZG6FINwv8R) | [KNOTT](https://open.spotify.com/artist/2NF3xtDv37VbHGizBsCQRh) | [Passage \(KNOTT ADD VIBES\)](https://open.spotify.com/album/2XCBA4wih5iyTrIqnQdE8q) | 2:07 | 2023-03-09 | 2023-03-11 |
-| [Passage \- KNOTT ADD VIBES](https://open.spotify.com/track/5p7i7uM9HcXdOy6TCH0NXt) | [KNOTT](https://open.spotify.com/artist/2NF3xtDv37VbHGizBsCQRh) | [Passage \(KNOTT ADD VIBES\)](https://open.spotify.com/album/7wBEl65P75MYTxo9R7Sequ) | 2:07 | 2023-03-09 |  |
+| [Passage \- KNOTT ADD VIBES](https://open.spotify.com/track/5p7i7uM9HcXdOy6TCH0NXt) | [KNOTT](https://open.spotify.com/artist/2NF3xtDv37VbHGizBsCQRh) | [Passage \(KNOTT ADD VIBES\)](https://open.spotify.com/album/7wBEl65P75MYTxo9R7Sequ) | 2:07 | 2023-03-09 | 2023-12-13 |
 | [Peace to the HIP\-HOP crowd](https://open.spotify.com/track/0ThjfSJgCX0fFMllwjMjwF) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Peace to the HIP\-HOP crowd](https://open.spotify.com/album/4eLL0s6K0Gsot9Qx0VHQZn) | 2:57 | 2021-12-23 | 2022-07-29 |
 | [petals falling from the cherry tree](https://open.spotify.com/track/6SQIUSVmT3cE41g46FFlGK) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [petals falling from the cherry tree](https://open.spotify.com/album/5mAPlVmKAPZXmu2pVnlQDI) | 2:11 | 2021-12-23 | 2022-07-24 |
 | [Phantom](https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf) | [DJ Ryow a.k.a\. Smooth Current](https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy) | [Phantom](https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa) | 3:09 | 2021-12-23 |  |

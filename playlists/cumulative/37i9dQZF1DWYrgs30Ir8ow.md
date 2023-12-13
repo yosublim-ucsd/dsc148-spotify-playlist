@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Tyla
 
-396 songs - 19 hr 6 min
+397 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-20 | 2023-04-21 |
 | [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 | 2023-10-12 | 2023-11-14 |
 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 | 2023-09-11 | 2023-10-13 |
-| [Allang Niet Meer Van Jou](https://open.spotify.com/track/6NkWvNIyu2tBHlmzOaBrEG) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 4:27 | 2023-12-08 |  |
+| [Allang Niet Meer Van Jou](https://open.spotify.com/track/6NkWvNIyu2tBHlmzOaBrEG) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 4:27 | 2023-12-08 | 2023-12-13 |
 | [Alleen \(Weer\)](https://open.spotify.com/track/2KhW9wzxsOjcHhRqIq1dfn) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Alleen \(Weer\)](https://open.spotify.com/album/4ygSGZsHpGfCkTcRVjiAco) | 3:37 | 2023-03-27 | 2023-04-20 |
 | [Alles Al](https://open.spotify.com/track/57rACaa3LKTruOGUENOXjW) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Alles Al](https://open.spotify.com/album/3QxGactgkMfFmkUaqvr0mP) | 3:04 | 2023-04-27 | 2023-05-12 |
 | [Alone](https://open.spotify.com/track/5MyCaoBEvkZu14UkR9qHCY) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Alone](https://open.spotify.com/album/3FPgvqujrdfzx0YxmAVLbv) | 2:43 | 2023-02-23 | 2023-03-14 |
@@ -147,6 +147,7 @@
 | [Flip Flops](https://open.spotify.com/track/6uVTOJ519YPiVjQqV52nse) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Flip Flops](https://open.spotify.com/album/357TcCWG8M77WVXX1xXWmY) | 3:29 | 2023-10-05 | 2023-11-03 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-23 | 2023-03-02 |
 | [Friends ;\)](https://open.spotify.com/track/49SNbAIw8fVt05OzBArbr7) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Friends ;\)](https://open.spotify.com/album/5CrUfeMnviNo7PA8j3lMDk) | 2:33 | 2023-02-23 | 2023-03-28 |
+| [Friesenjung](https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:26 | 2023-12-12 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-08-03 | 2023-09-01 |
 | [Frontline](https://open.spotify.com/track/1hK04TxJcQJbyceKIPEfNH) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Wonderland](https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4) | 2:51 | 2023-11-16 | 2023-12-08 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-20 | 2023-08-04 |

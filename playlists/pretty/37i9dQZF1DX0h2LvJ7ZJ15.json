@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1117852,
+  "num_followers": 1119225,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2JmNDY5YTQ3M2JmMmI4YmJhMGRhYjdkZDgyYWI3MDIyYjY5NWI0",
+  "snapshot_id": "MCwxMTA2YjFiNmZlYzYyM2NjMmM3MDE0YzA4ZDAxNzJhMGY1MDFlYjll",
   "tracks": [
     {
       "added_at": "2023-12-08 16:27:46",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-12-08 16:27:46",
       "album": {
-        "name": "Kerosene (Slowed)",
-        "url": "https://open.spotify.com/album/6tiGvKDEPIPBW0LeGXnNQX"
-      },
-      "artists": [
-        {
-          "name": "fam0uz",
-          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
-        }
-      ],
-      "duration_ms": 142105,
-      "name": "Kerosene - Slowed",
-      "url": "https://open.spotify.com/track/3BOQDjSv5ANlwvK97WDSyK"
-    },
-    {
-      "added_at": "2023-12-08 16:27:46",
-      "album": {
         "name": "Untitled #13 (Super Slowed)",
         "url": "https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 192000,
       "name": "Untitled #13 (Super Slowed)",
       "url": "https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R"
+    },
+    {
+      "added_at": "2023-12-08 16:27:46",
+      "album": {
+        "name": "Kerosene (Slowed)",
+        "url": "https://open.spotify.com/album/6tiGvKDEPIPBW0LeGXnNQX"
+      },
+      "artists": [
+        {
+          "name": "fam0uz",
+          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Kerosene - Slowed",
+      "url": "https://open.spotify.com/track/3BOQDjSv5ANlwvK97WDSyK"
     },
     {
       "added_at": "2023-12-08 16:27:46",
@@ -223,6 +223,30 @@
       "duration_ms": 152674,
       "name": "LOVELY BASTARDS - Slowed",
       "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
+    },
+    {
+      "added_at": "2023-12-08 16:27:46",
+      "album": {
+        "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
+        "url": "https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "duration_ms": 83576,
+      "name": "MONTAGEM - PR FUNK - Slowed & Reveerb",
+      "url": "https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ"
     },
     {
       "added_at": "2023-12-08 16:27:46",
@@ -259,30 +283,6 @@
     {
       "added_at": "2023-12-08 16:27:46",
       "album": {
-        "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
-        "url": "https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 83576,
-      "name": "MONTAGEM - PR FUNK - Slowed & Reveerb",
-      "url": "https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ"
-    },
-    {
-      "added_at": "2023-12-08 16:27:46",
-      "album": {
         "name": "sex money feelings die (slowed version)",
         "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
       },
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-12-08 16:27:46",
       "album": {
-        "name": "Close Eyes (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 143769,
-      "name": "Close Eyes - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
-    },
-    {
-      "added_at": "2023-12-08 16:27:46",
-      "album": {
         "name": "green to blue (slowed + reverbed)",
         "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 187068,
       "name": "green to blue - slowed + reverbed",
       "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
+    },
+    {
+      "added_at": "2023-12-08 16:27:46",
+      "album": {
+        "name": "Close Eyes (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 143769,
+      "name": "Close Eyes - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
     },
     {
       "added_at": "2023-12-08 16:27:46",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
     },
     {
-      "added_at": "2023-12-08 16:27:46",
-      "album": {
-        "name": "Sahara (Slowed)",
-        "url": "https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw"
-      },
-      "artists": [
-        {
-          "name": "Hensonn",
-          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
-        }
-      ],
-      "duration_ms": 214894,
-      "name": "Sahara - Slowed",
-      "url": "https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk"
-    },
-    {
       "added_at": "2023-12-08 16:29:47",
       "album": {
         "name": "NO GOING BACK",
@@ -779,6 +763,22 @@
       "duration_ms": 138000,
       "name": "BAIXO - slowed",
       "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
+    },
+    {
+      "added_at": "2023-12-08 16:27:46",
+      "album": {
+        "name": "Sahara (Slowed)",
+        "url": "https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw"
+      },
+      "artists": [
+        {
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+        }
+      ],
+      "duration_ms": 214894,
+      "name": "Sahara - Slowed",
+      "url": "https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk"
     },
     {
       "added_at": "2023-12-08 16:27:46",

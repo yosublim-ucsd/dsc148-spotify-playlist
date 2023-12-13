@@ -4,7 +4,7 @@
 
 > The soundtrack to your festive get\-together!
 
-126 songs - 7 hr 22 min
+127 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Christmas In Hollis](https://open.spotify.com/track/1MxFicnnrdo9RzFLAm4Gsf) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 2:58 | 2021-10-28 | 2022-07-29 |
 | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/track/46w8k81V0eSBx64XuVHxT2) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/album/4XzNQosYnRNJ29QYsMV98V) | 3:31 | 2021-10-28 |  |
 | [Christmas Wrapping \- Single Edit](https://open.spotify.com/track/3WLX1Cs8PHIWJFAyUwDuhk) | [The Waitresses](https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8) | [Deluxe Special](https://open.spotify.com/album/23tDoFtY91BNu8laE4I1Sy) | 4:34 | 2021-10-28 |  |
+| [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 | 2023-12-12 |  |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/7IbB9ccl3nkSGof0K5tMd2) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Christmas Rock Music](https://open.spotify.com/album/7abCyFIJQ5R85d1O6pBrfe) | 3:41 | 2021-10-28 | 2022-11-14 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/1hvpDAxZPKjKztOc72sv06) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know Its Christmas?](https://open.spotify.com/album/5v6oVunOk4DA8SMlBFqsKG) | 3:42 | 2021-10-28 | 2022-07-29 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 | 2021-10-28 |  |
@@ -96,7 +97,7 @@
 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/3IV8xIrnjv7TdJY6KUmdrD) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain Christmas](https://open.spotify.com/album/0dXhgmr4nXrx4lTVC2IKBq) | 1:43 | 2021-10-28 | 2022-07-29 |
 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/3vXnnXluEiB3oc62q6QckE) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain Christmas](https://open.spotify.com/album/0T1OPbbHzWErKBMdZrbhCQ) | 1:47 | 2021-10-28 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/3ysMlskkPSSCV87YoDWY2D) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Best Of/20th Century \- Christmas](https://open.spotify.com/album/3NvQHnWAogPjOyi9zeekOR) | 3:12 | 2021-10-28 | 2022-11-13 |
-| [Run Rudolph Run](https://open.spotify.com/track/2fpZlIhqXByz1IJke9B4zY) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:12 | 2021-10-28 |  |
+| [Run Rudolph Run](https://open.spotify.com/track/2fpZlIhqXByz1IJke9B4zY) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:12 | 2021-10-28 | 2023-12-13 |
 | [Run Rudolph Run](https://open.spotify.com/track/56MD76UpyaINinoqWzcqVM) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/0SnP7ybqXYGyRFNqhmxWE1) | 3:12 | 2021-10-28 | 2022-07-29 |
 | [Santa Baby](https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas](https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W) | 3:21 | 2021-10-28 |  |
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/35ys6iS1supcwFoxLJkFbg) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 4:27 | 2021-10-28 | 2022-07-29 |

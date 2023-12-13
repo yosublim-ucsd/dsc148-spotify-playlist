@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 27701,
+  "num_followers": 27731,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWNjY2Y0NzJmNzk1YTlkNWEzMDRkYmEyYTNjZDBkMGRkZGFlMGE5",
+  "snapshot_id": "MCxlMzA5ZWRlYjM4MjQ3NDNmMzQ4NjZlN2FkMDM0OTRmNmRmMjU3Mzdl",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:35",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Dance Mania Vol.1",
         "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
@@ -155,22 +139,34 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Alma de negro",
-        "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
+        "name": "Canciones De Amor",
+        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
       },
       "artists": [
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
         }
       ],
-      "duration_ms": 140146,
-      "name": "Aquellos ojos verdes (bolero)",
-      "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
+      "duration_ms": 194466,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -207,18 +203,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Canciones De Amor",
-        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
+        "name": "Alma de negro",
+        "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
       },
       "artists": [
         {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
+      "duration_ms": 140146,
+      "name": "Aquellos ojos verdes (bolero)",
+      "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "El Rey del Mambo",
+        "url": "https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado y Su Gran Orquesta",
+          "url": "https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Que Rico el Mambo",
+      "url": "https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "La Sonora Matancera Desde Cuba. 20 \u00c9xitos",
         "url": "https://open.spotify.com/album/1kbXCTnGNOxY3jPGnrfxN1"
       },
@@ -263,22 +279,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Leyendas Solamente Los Mejores",
-        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Mi \u00daltimo Fracaso",
-      "url": "https://open.spotify.com/track/6fy5Q2Pkdltq3GkDD6UXRk"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "60 Rancheras Inmortales",
         "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
       },
@@ -291,22 +291,6 @@
       "duration_ms": 197666,
       "name": "T\u00fa, solo t\u00fa",
       "url": "https://open.spotify.com/track/1sQ5nok0rccMPmAyGdQzvt"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
-        "name": "El Rey del Mambo",
-        "url": "https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado y Su Gran Orquesta",
-          "url": "https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Que Rico el Mambo",
-      "url": "https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -359,6 +343,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Mi \u00daltimo Fracaso",
+      "url": "https://open.spotify.com/track/6fy5Q2Pkdltq3GkDD6UXRk"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "Mar\u00eda Victoria",
         "url": "https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i"
       },
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "The King of Mambo",
+        "url": "https://open.spotify.com/album/4gIaN0sSqN7fjDq9NG4vFp"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Cherry Pink And Apple Blossom White",
+      "url": "https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "El Revolucionario",
         "url": "https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Sus Mejores Boleros",
-        "url": "https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "No Me Platiques M\u00e1s",
-      "url": "https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "60 Rancheras Inmortales",
         "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 159666,
       "name": "La que se fue",
       "url": "https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Sus Mejores Boleros",
+        "url": "https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "No Me Platiques M\u00e1s",
+      "url": "https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -487,38 +503,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "The King of Mambo",
-        "url": "https://open.spotify.com/album/4gIaN0sSqN7fjDq9NG4vFp"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Cherry Pink And Apple Blossom White",
-      "url": "https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
-        "name": "Canciones del Corazon",
-        "url": "https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 185547,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/6vJJdNPTJKUsUMDmDwfCuB"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+        "name": "Canciones del Corazon",
+        "url": "https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 195946,
-      "name": "P\u00e9njamo",
-      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
+      "duration_ms": 185547,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/6vJJdNPTJKUsUMDmDwfCuB"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -599,18 +583,18 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 144544,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/5wgEPKwKpTS8g6fYejxXyh"
+      "duration_ms": 195946,
+      "name": "P\u00e9njamo",
+      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -631,22 +615,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "His 28 Greatest Hits",
-        "url": "https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon"
-      },
-      "artists": [
-        {
-          "name": "Trini Lopez",
-          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
         "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
       },
@@ -663,6 +631,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "His 28 Greatest Hits",
+        "url": "https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon"
+      },
+      "artists": [
+        {
+          "name": "Trini Lopez",
+          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "The Best Of Perez Prado: The Original Mambo #5",
         "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 150386,
       "name": "Mambo en Sax",
       "url": "https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "duration_ms": 144544,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/5wgEPKwKpTS8g6fYejxXyh"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Los Grandes Idolos: Teen Tops",
-        "url": "https://open.spotify.com/album/7xGhNr451u4c8GXzZau85m"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 176927,
-      "name": "Lucila",
-      "url": "https://open.spotify.com/track/1OiKlPrbgZdDEDt0QPHAjB"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Cienfuegos (Remastered)",
         "url": "https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 161782,
       "name": "El agarrao - Remastered",
       "url": "https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Los Grandes Idolos: Teen Tops",
+        "url": "https://open.spotify.com/album/7xGhNr451u4c8GXzZau85m"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 176927,
+      "name": "Lucila",
+      "url": "https://open.spotify.com/track/1OiKlPrbgZdDEDt0QPHAjB"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Como Acostumbras",
-        "url": "https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A"
-      },
-      "artists": [
-        {
-          "name": "Gloria Lasso",
-          "url": "https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Luna de miel",
-      "url": "https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Cuban Carnival",
         "url": "https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 167506,
       "name": "Cha-Cha De Pollos (Cha-Cha for Chicks)",
       "url": "https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Como Acostumbras",
+        "url": "https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A"
+      },
+      "artists": [
+        {
+          "name": "Gloria Lasso",
+          "url": "https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Luna de miel",
+      "url": "https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R"
     }
   ],
   "unique_name": "50s Latino",

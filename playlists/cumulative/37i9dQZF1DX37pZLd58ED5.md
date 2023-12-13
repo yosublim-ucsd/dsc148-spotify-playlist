@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Geolier
 
-136 songs - 7 hr 26 min
+137 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Brutto Sogno](https://open.spotify.com/track/4poLmuelQUDfAPPB4G94Z7) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Brutto Sogno](https://open.spotify.com/album/5Hs2qAbyTo605RNTgYbdUh) | 3:05 | 2023-10-26 | 2023-12-01 |
 | [BUONANOTTE](https://open.spotify.com/track/5MNHrahj1qZFjh46GZmqLT) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:40 | 2022-12-05 | 2023-03-25 |
 | [BUONANOTTE](https://open.spotify.com/track/6QgnT0tFcEWqzAO6GrYvff) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:40 | 2022-11-17 | 2022-12-08 |
-| [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:28 | 2022-04-28 |  |
+| [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/05Wr6HJmrXiK42rE7Gu8FB) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s) | 3:28 | 2023-12-04 |  |
+| [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:28 | 2022-04-28 | 2023-12-13 |
 | [Bébé](https://open.spotify.com/track/1NaONd9FKyujY4ikVUtaPV) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 2:34 | 2022-06-09 | 2022-07-15 |
 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 | 2022-04-28 |  |
 | [Catrame \(Piano Solo\) \[feat\. Elodie & Tedua\]](https://open.spotify.com/track/4pDkYM6khFgQTqS8V0RNBB) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Re Mida \(Piano Solo\)](https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd) | 3:38 | 2022-04-28 |  |

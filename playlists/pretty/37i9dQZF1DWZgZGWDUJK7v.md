@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Operation: True Love\(작전명 순정\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,588 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,655 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 99 | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5) | 4:20 |
 | 100 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
 
-Snapshot ID: `MCwzMjc1MWE2Y2Q1YmI5NTQyNGU0MjIxZGRmM2I3MDY3ZmYxNTUyYjFm`
+Snapshot ID: `MCxhNDFiZjE1ZDhmZmJiZWI5ZGU5YjIxOWRhNjMzOGU3YTIyZmI3YmE0`

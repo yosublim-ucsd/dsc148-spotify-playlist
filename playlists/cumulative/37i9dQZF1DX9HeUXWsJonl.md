@@ -4,7 +4,7 @@
 
 > Les hits tunisiens du moment.
 
-184 songs - 11 hr 19 min
+186 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [7kit M3a Leb7ar](https://open.spotify.com/track/1S3vLnBYhccO9L5o46HtH8) | [Aveyro Ave](https://open.spotify.com/artist/0gcWKqqEEiY4xLTxZDBDu4) | [Infection 5 Revelation](https://open.spotify.com/album/2OAGlBJZcVhyP0YjNJDfhr) | 6:40 | 2022-11-29 | 2023-01-18 |
 | [9al w 9il](https://open.spotify.com/track/3GDQzysNN5JUDclQHMtvHG) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 3:02 | 2022-10-04 |  |
 | [9ased Rabbi \- قاصد ربي](https://open.spotify.com/track/4OiyOUXW7IzOT8rHrSIzUh) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [9ased Rabbi \(قاصد ربي\)](https://open.spotify.com/album/6NU1cd9ixX7q50aeM0AhWl) | 3:44 | 2023-03-06 |  |
+| [A7lemi Tayra](https://open.spotify.com/track/4P5izN8cO2xwwqRlTNiJ6F) | [D\-Boy](https://open.spotify.com/artist/6otSIar9KKYxrD3XAJWRwX) | [A7lemi Tayra](https://open.spotify.com/album/22UMmR7pSEIvA38jtq9JGl) | 2:56 | 2023-12-12 |  |
 | [Aal Hit](https://open.spotify.com/track/5bmskSTrIQF9AG3QRNcRs7) | [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba) | [PRELUDE](https://open.spotify.com/album/1F9rHP1TBv73QVgvxqfF9R) | 5:42 | 2022-04-14 | 2022-09-09 |
 | [Ahla Snin \- أحلى سنين](https://open.spotify.com/track/5ir8hEkSEKRDSjkCqxus04) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Jimmy H.](https://open.spotify.com/artist/6MHcMsdioNgN4XXoXk9J4e) | [Ahla Snin \(أحلى سنين\)](https://open.spotify.com/album/7eWYBxxxai1vRBcY5qW8ne) | 3:50 | 2021-12-10 | 2022-03-01 |
 | [Aini Fi Ainik](https://open.spotify.com/track/5uMzLIfazXkkR4Y4vDJDwH) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Aini Fi Ainik](https://open.spotify.com/album/3Sx1Q724f8iVGOZ3jggG5V) | 2:47 | 2021-12-10 | 2022-04-01 |
@@ -46,7 +47,7 @@
 | [Chkoun F'eddar](https://open.spotify.com/track/5koKnPTZc5Cb2mKckBV9nF) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Chkoun F'eddar](https://open.spotify.com/album/0OKERQHLeD3og47pdZrcWi) | 3:22 | 2022-01-14 | 2022-04-01 |
 | [Chlonak](https://open.spotify.com/track/3rkuOoH3o33ni0sNOEZQs7) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Chlonak](https://open.spotify.com/album/0cGkSy5xNbR16gSUlqgtIe) | 3:26 | 2022-12-12 | 2023-06-28 |
 | [Cicatrice](https://open.spotify.com/track/4ijVcIJQmQJsMM79kQ6axU) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Cicatrice](https://open.spotify.com/album/4xRldT6DB8MdQp60tBVwgq) | 4:03 | 2022-11-07 | 2023-03-21 |
-| [Darou Bina](https://open.spotify.com/track/4Z1SY1cNKNQF7OJ7xjcN2y) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Darou Bina](https://open.spotify.com/album/0hQXPEP6DmJTNxth8jmgSc) | 3:30 | 2023-05-30 |  |
+| [Darou Bina](https://open.spotify.com/track/4Z1SY1cNKNQF7OJ7xjcN2y) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Darou Bina](https://open.spotify.com/album/0hQXPEP6DmJTNxth8jmgSc) | 3:30 | 2023-05-30 | 2023-12-13 |
 | [Demi\-tour](https://open.spotify.com/track/3ZqeaCp6xjjOKGt1KOEyXQ) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ) | [Demi\-tour](https://open.spotify.com/album/7r9DuONoCBCEhVHXpSzUTH) | 2:58 | 2022-02-22 | 2022-12-24 |
 | [Denya Bkhout \- دنيا بخوت](https://open.spotify.com/track/7vA7XKOXZcVVAwYw9d1ZYc) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Khaled L'artiste](https://open.spotify.com/artist/6nUgQSUscZW4aFAg3C2ZPu) | [Denya Bkhout \(دنيا بخوت\)](https://open.spotify.com/album/5TA7rpDHWi2M9RWYOScgNn) | 3:25 | 2023-01-19 |  |
 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 | 2023-06-04 |  |
@@ -76,6 +77,7 @@
 | [Kadhabin](https://open.spotify.com/track/03T7JF553K5pvxODKBsgVm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Kadhabin](https://open.spotify.com/album/5JYLLub4A1GNowDyy0XdeL) | 4:40 | 2022-09-01 | 2022-12-13 |
 | [Kafon GALBI](https://open.spotify.com/track/7HuPW3FTvf32teIRVdRGnt) | [Rap City](https://open.spotify.com/artist/2Bg8pjIGpTytyqqpkFZ9q0) | [Kafon GALBI](https://open.spotify.com/album/2C25uD29j9XKiApzQadZNu) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Kberna](https://open.spotify.com/track/3qPuUbEjX7fBcj4WPUkbh4) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:24 | 2022-11-26 | 2023-06-28 |
+| [Keema Ena](https://open.spotify.com/track/5WsYnPl5q3qNh3LuyGTuhR) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Keema Ena](https://open.spotify.com/album/1bHxBuCsEYnrYS9kOv21MO) | 3:53 | 2023-12-12 |  |
 | [Khali Hazzar](https://open.spotify.com/track/4X8wfDqiJvoszsn08O7kBJ) | [Manel Amara](https://open.spotify.com/artist/2E6PtFWoDSwZ3VXTVCbdpN) | [Khali Hazzar](https://open.spotify.com/album/3KtF6Ut396rlyNgVr71Dfi) | 3:16 | 2023-02-11 | 2023-02-21 |
 | [Khallini](https://open.spotify.com/track/0gJcpURgVWr1p0dCk5Si5i) | [Mehdi Mouelhi](https://open.spotify.com/artist/5ElZnSkmzaDnZykhi1wjj5), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0), [Rana Zarrouk](https://open.spotify.com/artist/04tYosSfS1AAx5yM8vyJLF) | [Khallini](https://open.spotify.com/album/11s7SEvvNazLRiehoHaI3p) | 3:03 | 2023-03-30 | 2023-08-20 |
 | [Khamsa Wekhmis](https://open.spotify.com/track/1WfIwSm6R98vRKPvFol0hN) | [Master Sina](https://open.spotify.com/artist/50YiAJFQLuv0Ncrl9zuhZq), [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [Khamsa Wekhmis](https://open.spotify.com/album/2u0bXhsQ5cZgPLpYORW0F2) | 4:05 | 2022-01-24 | 2022-09-13 |
@@ -104,7 +106,7 @@
 | [Maghrebins](https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:23 | 2023-01-06 |  |
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 | 2022-07-12 |
 | [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2023-10-23 |  |
-| [Manansech \- مننساش](https://open.spotify.com/track/0ZHftCnY8Dlvpo8CFF2SBn) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Manansech \(مننساش\)](https://open.spotify.com/album/1uTvUDzsXMJlFuIbeNyvKp) | 2:56 | 2023-09-25 |  |
+| [Manansech \- مننساش](https://open.spotify.com/track/0ZHftCnY8Dlvpo8CFF2SBn) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Manansech \(مننساش\)](https://open.spotify.com/album/1uTvUDzsXMJlFuIbeNyvKp) | 2:56 | 2023-09-25 | 2023-12-13 |
 | [Manetfergou](https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Manetfergou](https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8) | 3:17 | 2023-08-15 |  |
 | [Mani Nassi \- مانى ناسى](https://open.spotify.com/track/3GdU3rvO5odP2AIGSmm24z) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Mani Nassi \(مانى ناسى\)](https://open.spotify.com/album/6k0QEgsFV320r0Sr16RJVM) | 3:29 | 2023-03-22 | 2023-04-21 |
 | [Mani Wlidek](https://open.spotify.com/track/3sWOuPS3srcCShuoYjd6hG) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Mani Wlidek](https://open.spotify.com/album/7cRWMRusoJ6juDguMnq7pI) | 2:56 | 2021-12-10 | 2022-10-05 |

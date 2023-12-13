@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain]
 
 > The sound of bounce, curated by Big Freedia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,005 likes - 22 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,007 likes - 22 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain]
 | 17 | [Jubilee All \(Stop Pause\)](https://open.spotify.com/track/6NfQPBPcXFSwLeVSMDSQOA) | [DJ Jubilee](https://open.spotify.com/artist/1n4iSRo9CNY0IRnPpMQh6I) | [New Orleans Bounce Essentials, Vol\. 2](https://open.spotify.com/album/6r7QMaUDxBLMbtfzdpIHoz) | 8:50 |
 | 18 | [My Boy \(feat\. Magnolia Shorty\)](https://open.spotify.com/track/4s8H16vVF4DAnR6bQHUFxe) | [Kourtney Heart](https://open.spotify.com/artist/1wyALyfK8AGXjc5zbX7eTC), [Magnolia Shorty](https://open.spotify.com/artist/31CN1AJfh8Oe1WBcELxK08) | [Eye Dee Kay](https://open.spotify.com/album/0xgiUNgaXXnZzybC6RbuLy) | 3:36 |
 | 19 | [Louder \(feat\. Icona Pop\)](https://open.spotify.com/track/2fhtmxAUyNd9vyLq1vk2eD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Louder \(feat\. Icona Pop\)](https://open.spotify.com/album/6sqTulnqSRsDGE63jaZp6t) | 3:24 |
-| 20 | [Play Yo Part](https://open.spotify.com/track/3DAHvC1IghkthR5Gps3ZVK) | [ReUp Reedy](https://open.spotify.com/artist/3pNZLl18qy2KqKBra9JW4l) | [The Reup](https://open.spotify.com/album/2J3lSRjlJhgo2r6P8wOIju) | 3:25 |
+| 20 | [Play Yo Part](https://open.spotify.com/track/5WVjcGACwHssjF8LyPzymd) | [ReUp Reedy](https://open.spotify.com/artist/3pNZLl18qy2KqKBra9JW4l) | [The Reup](https://open.spotify.com/album/4a3HnTIBzEX7HpuOOoX86F) | 3:26 |
 | 21 | [Do It Again](https://open.spotify.com/track/1PiuN63vMoORqfCsF4ob1Q) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Cheeky Blakk](https://open.spotify.com/artist/2fPRPvD5jBW4fKLCRX9wLu) | [Ya\-Ka\-May \(Deluxe Edition\)](https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6) | 2:31 |
 | 22 | [Pipe That \(feat\. Icona Pop & The Soul Rebels\)](https://open.spotify.com/track/2PZSDlMj55mheRfBELyAsy) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Louder](https://open.spotify.com/album/1LoYYEZkYPEXKzTiw7p37T) | 2:50 |
 
-Snapshot ID: `MCw4OGY5ZDgzMzAyZjMwYTliZGY4ZWIwODc0OGY5MjJiOTAzZGVmNmIw`
+Snapshot ID: `MCw2OWIxNjEyZGMxZjY3ZGRjNjBiNmEzOGY1YzVhNDg2ZWExMWZhY2Iy`

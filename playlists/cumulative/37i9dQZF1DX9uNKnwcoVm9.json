@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Encuentros",
+        "url": "https://open.spotify.com/album/4oUfJWOg2hDqi8wjqgshPU"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278500,
+      "name": "Cree Solamente",
+      "url": "https://open.spotify.com/track/6cLuBLskbkBxJrb0evIlNJ"
+    },
+    {
+      "album": {
         "name": "Me Visti\u00f3 De Promesas",
         "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
       },
@@ -2892,7 +2910,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 387450,
       "name": "Tu Voluntad",
       "url": "https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G"

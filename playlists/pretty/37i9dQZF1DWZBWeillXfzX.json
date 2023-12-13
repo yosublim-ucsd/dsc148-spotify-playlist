@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 21274,
+  "num_followers": 21282,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTc1Nzg4ZjFkZGFiMDEwZjAxOTQ4YjYzOWE5ZGFhZjQ3Y2E1ZTdk",
+  "snapshot_id": "MCw4NDg3MGU0YzM2Y2JhN2E0YTA1ZDkzNzBmNWMxMjMwYWJkY2VmMjk1",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -275,22 +275,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 157413,
-      "name": "Got to Get Up",
-      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Kill Or Be Kind",
         "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 207306,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "Got to Get Up",
+      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 250182,
-      "name": "Brown Gatton",
-      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
-    },
-    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Surfing",
@@ -483,6 +467,22 @@
       "duration_ms": 165687,
       "name": "Surfing",
       "url": "https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 250182,
+      "name": "Brown Gatton",
+      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
     },
     {
       "added_at": "2020-10-21 17:37:12",

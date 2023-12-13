@@ -686,10 +686,28 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 296013,
       "name": "LOST",
       "url": "https://open.spotify.com/track/3t8nzuzkwU6URJqdtmhg83"
+    },
+    {
+      "album": {
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/4g5IaIy258fL8jCAt6WM1K"
+      },
+      "artists": [
+        {
+          "name": "Guckkasten",
+          "url": "https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296020,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/4kMLshVJfNm7pOBX6Eh0Yb"
     },
     {
       "album": {
@@ -1004,7 +1022,7 @@
     {
       "album": {
         "name": "HAPPY 25th JAURIM",
-        "url": "https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk"
+        "url": "https://open.spotify.com/album/0EYPtkfya6BlVlpejEyChD"
       },
       "artists": [
         {
@@ -1015,6 +1033,24 @@
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 458464,
+      "name": "our song",
+      "url": "https://open.spotify.com/track/4A8Mh04VLJHq9f8dew1FsL"
+    },
+    {
+      "album": {
+        "name": "HAPPY 25th JAURIM",
+        "url": "https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
       "duration_ms": 458464,
       "name": "our song",
       "url": "https://open.spotify.com/track/7bucDwUAM9hzKXSaAeeDP8"
@@ -1414,10 +1450,46 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 198906,
       "name": "STAY WITH ME",
       "url": "https://open.spotify.com/track/0qVbIVwY9X66HTtJkxlQ2W"
+    },
+    {
+      "album": {
+        "name": "LOVE FOREVER",
+        "url": "https://open.spotify.com/album/4JEdbYDhjv8NyPweUT36uh"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198906,
+      "name": "STAY WITH ME",
+      "url": "https://open.spotify.com/track/6ZpOLjmneyTh2apv5wzMqr"
+    },
+    {
+      "album": {
+        "name": "STRANGER",
+        "url": "https://open.spotify.com/album/7E6NadtjLvbsR8d46EV2q1"
+      },
+      "artists": [
+        {
+          "name": "Guckkasten",
+          "url": "https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232999,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/23XEH2j03M6L0eoxY29gfC"
     },
     {
       "album": {
@@ -1432,7 +1504,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 233012,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/4FRbVqOjut5qPui5JV18yg"
@@ -1772,7 +1844,7 @@
     {
       "album": {
         "name": "YOUR NAME",
-        "url": "https://open.spotify.com/album/7LARavbpFIvMcOo9xavaAQ"
+        "url": "https://open.spotify.com/album/35tvaeZG95AJ7xeEVfUXIX"
       },
       "artists": [
         {
@@ -1783,6 +1855,24 @@
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231000,
+      "name": "YOUR NAME",
+      "url": "https://open.spotify.com/track/1uFbXCrtZebDkYO0bKlG9q"
+    },
+    {
+      "album": {
+        "name": "YOUR NAME",
+        "url": "https://open.spotify.com/album/7LARavbpFIvMcOo9xavaAQ"
+      },
+      "artists": [
+        {
+          "name": "Guckkasten",
+          "url": "https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
       "duration_ms": 231000,
       "name": "YOUR NAME",
       "url": "https://open.spotify.com/track/7f89Yk34t4azDcAkqmGAjV"
@@ -2126,7 +2216,7 @@
     {
       "album": {
         "name": "Goodbye, grief.",
-        "url": "https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg"
+        "url": "https://open.spotify.com/album/2Db7g2nYCXggiNOJc59vkS"
       },
       "artists": [
         {
@@ -2139,7 +2229,43 @@
       "date_removed": null,
       "duration_ms": 284720,
       "name": "\uc2a4\ubb3c\ub2e4\uc12f, \uc2a4\ubb3c\ud558\ub098",
+      "url": "https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2"
+    },
+    {
+      "album": {
+        "name": "Goodbye, grief.",
+        "url": "https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 284720,
+      "name": "\uc2a4\ubb3c\ub2e4\uc12f, \uc2a4\ubb3c\ud558\ub098",
       "url": "https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV"
+    },
+    {
+      "album": {
+        "name": "\uc790\uc6b0\ub9bc",
+        "url": "https://open.spotify.com/album/2v4ebwS0Pd1CPMyGT2UDTs"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236186,
+      "name": "\uc601\uc6d0\ud788 \uc601\uc6d0\ud788",
+      "url": "https://open.spotify.com/track/0spPlZg9yHPFMSTnFY8Tje"
     },
     {
       "album": {
@@ -2154,7 +2280,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 236186,
       "name": "\uc601\uc6d0\ud788 \uc601\uc6d0\ud788",
       "url": "https://open.spotify.com/track/6GsUtu6tlXNkQ83wwGHKJ5"
@@ -2190,10 +2316,28 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 218426,
       "name": "\uc788\uc9c0",
       "url": "https://open.spotify.com/track/0K2guQ8Z2I3PfrkiRnfew5"
+    },
+    {
+      "album": {
+        "name": "\uc790\uc6b0\ub9bc",
+        "url": "https://open.spotify.com/album/2v4ebwS0Pd1CPMyGT2UDTs"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218426,
+      "name": "\uc788\uc9c0",
+      "url": "https://open.spotify.com/track/6r0hfhaITECuZrEQTfrTLT"
     },
     {
       "album": {

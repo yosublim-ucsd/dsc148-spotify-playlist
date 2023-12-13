@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,686 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,727 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Afrikaan Beat](https://open.spotify.com/track/3fFXhwkwFDhcCuEjzm4EqM) | [Lester Sterling](https://open.spotify.com/artist/0bxvspvRBbcpshzQFSqKVv) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:56 |
 | 60 | [You'll Get Your Pay](https://open.spotify.com/track/0QS4vNmAoV6Y0FMz0FTYhe) | [Linton Cooper \(w\. The Brentford Disco Set\)](https://open.spotify.com/artist/0Zc8HYdVsRDDYj2atgS3aI) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 2:56 |
 
-Snapshot ID: `MCw1NjgwNjQwNGMxNjdkNjVhOWRmNGM5MTU2NDUzNTVhNTUyY2RhYWMy`
+Snapshot ID: `MCxiNTI4NjM1NmM2NWI5YTY0YzU2YTYxYWI0ZTZjNzdiNGY1ODk5MTkx`

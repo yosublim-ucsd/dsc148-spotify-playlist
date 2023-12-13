@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Christian Löffler, Malou
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,718 likes - 90 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,815 likes - 90 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 43 | [Disconnect](https://open.spotify.com/track/4yzaeprujqqP0lUFrdYHel) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Disconnect](https://open.spotify.com/album/66faGqyvcdo34RE3CeJByv) | 4:22 |
 | 44 | [PowerHouse](https://open.spotify.com/track/5RNJQYjPzlrCXwX48St7UR) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [PowerHouse](https://open.spotify.com/album/0R4Rx9VsDDnulXCPbOWW14) | 5:30 |
 | 45 | [We Were In Love \- Narciss Remix](https://open.spotify.com/track/4SqIAZdRaaDMEbz1UDSSmo) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [We Were In Love \(Narciss Remix\)](https://open.spotify.com/album/5BxbTfPG4eF6qpZ4HsN6Mb) | 3:33 |
-| 46 | [One Love \- Nick Curly 2023 Edit](https://open.spotify.com/track/33kXRY2IXNhfxGlmUiECkp) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t), [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [One Love \(Nick Curly 2023 Edit\)](https://open.spotify.com/album/3lSVfXX7vj16HzbscmcetC) | 3:48 |
+| 46 | [One Love \- Nick Curly Remix \[2023 Edit\]](https://open.spotify.com/track/33kXRY2IXNhfxGlmUiECkp) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t), [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [One Love \(Nick Curly Remix \[2023 Edit\]\)](https://open.spotify.com/album/3lSVfXX7vj16HzbscmcetC) | 3:48 |
 | 47 | [Never](https://open.spotify.com/track/677o8urOiqwtkBNcDPOLSc) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Never](https://open.spotify.com/album/0xkASrrIVvrH6uYvVEYlat) | 7:17 |
 | 48 | [Hypochondria](https://open.spotify.com/track/2QI8L5Zn8EgHaDkYjCiBcH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Hypochondria](https://open.spotify.com/album/6BfZRqmyiPDvJ4gnThXhQf) | 5:46 |
 | 49 | [Bell](https://open.spotify.com/track/42iMxUFc8IoedPBcQySzW9) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bell](https://open.spotify.com/album/0wyKisLhaV7LDJPPkN8U4w) | 4:00 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Yame](https://open.spotify.com/track/1HZfIKYCxYQNg3g4bb21YV) | [The Mekanism](https://open.spotify.com/artist/28QIgdCMLnz3ZBkFRCkD5h) | [Maera Compilation, Vol\. II](https://open.spotify.com/album/6vGMufhkc9MavNJz59BhWy) | 7:50 |
 | 90 | [The Other Side \- Original Radio Edit](https://open.spotify.com/track/273olfcCZ9Rx2ANiHHp4Dm) | [Juliet Sikora](https://open.spotify.com/artist/27dP6YOr1pGNXLpHRLjvYx) | [The Other Side](https://open.spotify.com/album/4NNxWFqzSbK27OHlZarRdH) | 2:47 |
 
-Snapshot ID: `MCwwNWNmZmEyZDUyOWNhZTYzYjJiNmQ4M2Q3NzllYzczZGYxNDQyZjBj`
+Snapshot ID: `MCw2MTBkNzQxZGYxMTJkZGZiOWRjOTYzYjNkZGE5ZWVmNjI1OWVmODBm`

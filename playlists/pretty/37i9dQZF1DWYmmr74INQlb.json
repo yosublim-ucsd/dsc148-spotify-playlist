@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 20 years of \"Diary of Alicia Keys\". Cover: Alicia Keys",
-  "num_followers": 4609721,
+  "num_followers": 4610460,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzFlYTM5OTk5OTExYTRiNGVkODYwZTBhZmU1MDkzYzgzMTMzNGFk",
+  "snapshot_id": "MCw1MDVlYTdhNmU3MDY1ZmRkYjJhYjQ3ZjhkZjcwNmRmNjI4ZjU3YWYz",
   "tracks": [
     {
       "added_at": "2023-12-03 16:39:22",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "Love Vs Money",
+        "url": "https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "duration_ms": 221920,
+      "name": "Rockin' That Shit",
+      "url": "https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Southside",
         "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 277840,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Love Vs Money",
-        "url": "https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw"
-      },
-      "artists": [
-        {
-          "name": "The-Dream",
-          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
-        }
-      ],
-      "duration_ms": 221920,
-      "name": "Rockin' That Shit",
-      "url": "https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh"
     },
     {
       "added_at": "2022-02-11 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: erdocia
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,691 likes - 98 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,700 likes - 98 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 83 | [Sent on Wednesday](https://open.spotify.com/track/6cIxoAKwaxZOr8FJb6MimD) | [Tsoiwaijenjen](https://open.spotify.com/artist/3wTDAuG2SWbTjvxLe3kgnj) | [Sent on Wednesday](https://open.spotify.com/album/232i6EAZ5mZKXtpc2VekJi) | 3:32 |
 | 84 | [idundomuchtalkingnow](https://open.spotify.com/track/669OXkisqk5sChjgpcwaTI) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [Jonwl](https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz) | [idundomuchtalkingnow](https://open.spotify.com/album/30aPnV4ctObMcAxSlO2uPx) | 3:45 |
 | 85 | [沉船餐廳](https://open.spotify.com/track/4HabOX14Cckr3ZFWpAl37K) | [FOOLYA 虎牙](https://open.spotify.com/artist/6okFqqvBQmOxtw8pxX43ui) | [沉船餐廳](https://open.spotify.com/album/3fWrBfiO6BMJw3oLh0Ovvl) | 3:30 |
-| 86 | [世界薄情但你有熱情](https://open.spotify.com/track/0Y1Z3QVN4XxGgUk3wnXWAS) | [Slizznico](https://open.spotify.com/artist/1f4DlxMF8s5JcELJ8vBImy) | [世界薄情但你有熱情](https://open.spotify.com/album/2AaV73yXp43sIepmxDnoN7) | 2:20 |
+| 86 | [世界薄情但你有熱情](https://open.spotify.com/track/0Y1Z3QVN4XxGgUk3wnXWAS) | [Slizznico](https://open.spotify.com/artist/1f4DlxMF8s5JcELJ8vBImy), [Zacuri](https://open.spotify.com/artist/4HeWzghjvC94NIPM3iZeW0) | [世界薄情但你有熱情](https://open.spotify.com/album/2AaV73yXp43sIepmxDnoN7) | 2:20 |
 | 87 | [USE](https://open.spotify.com/track/7qLc278qge2t34PrvsqhZr) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [130k across the highway](https://open.spotify.com/album/1Ce0uQijUbWZ130GVqGWif) | 2:34 |
 | 88 | [Don’t Say Goodnight](https://open.spotify.com/track/387ZUKmGoVVahky9sfjzQe) | [Charming Way](https://open.spotify.com/artist/1us1dhuQC9cgSiJT3qEQJb) | [Don’t Say Goodnight](https://open.spotify.com/album/6gTPwxBc5uM0WbVH063fQv) | 4:21 |
 | 89 | [In Love](https://open.spotify.com/track/1lBpl7dFv6n9nNzcn93bD2) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [In Love](https://open.spotify.com/album/5W8d6Co4CvHGH5WQ2VTGUF) | 4:20 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 97 | [Crashing Chase \(Drillphony\)](https://open.spotify.com/track/5yaoEzPu52YqtGGWm7uRlN) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [Crashing Chase \(Drillphony\)](https://open.spotify.com/album/4cGqnjLgNFjhI2vyMDa4pO) | 2:34 |
 | 98 | [Sorry呢度係香港 \- REMIX](https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O), [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Sorry呢度係香港 \(REMIX\)](https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN) | 4:06 |
 
-Snapshot ID: `MCxhM2Y1NmY3ODYxZGM5ZmZkMDA2NzFmYmQwMzYwMjBmNzkwZWIzYWI4`
+Snapshot ID: `MCxkNzEyYzA0MzBjMTA3N2Y3MTJjNzkxM2Y5OTZjNDMyMGZkMWYzMTI2`

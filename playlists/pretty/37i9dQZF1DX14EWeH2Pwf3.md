@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Massimo Pericolo\.  <a href="spotify:playlist:37i9dQZF1DWYQKKZPHGppf">Scopri il Best Of del 2023 qui!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,650 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,864 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 34 | [Baby Mama](https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Baby Mama](https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO) | 2:31 |
 | 35 | [Syrup](https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Syrup](https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37) | 3:08 |
 | 36 | [Dentro la mia testa](https://open.spotify.com/track/0A5Z02uM5JoFh8IxRUjyCX) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Umile \(Deluxe\)](https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t) | 2:41 |
-| 37 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:56 |
+| 37 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 |
 | 38 | [RAY LIOTTA \- goodfellas](https://open.spotify.com/track/2ghK72VHQzKy3olZWsrwQ7) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Effetto notte \(L'alba\)](https://open.spotify.com/album/1RwNWkA8leLYPXdCjoOdHl) | 3:04 |
 | 39 | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 |
 | 40 | [Restare \(feat\. Lazza\)](https://open.spotify.com/track/4Vguuo2E1onl5knqW1X3fH) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [SELEÇAO \(prod\. MILES\) 07.07.23](https://open.spotify.com/track/20vV3sZSFlDW4JMmJ0HNW7) | [yungest Moonstar](https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb) | [SELEÇAO \(prod\. MILES\) 07.07.23](https://open.spotify.com/album/5dixIOOyTr0IaF2LVFlGIx) | 2:21 |
 | 50 | [Mare d'Inverno \(feat\. ARIETE & VillaBanks\)](https://open.spotify.com/track/6jBojPXv2qWNMuiorvrGnX) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Identità](https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN) | 3:08 |
 
-Snapshot ID: `MCw1ZjliNWRkOTFhYmZiYzJjZmUyMDUwMmIyNDM3ZWZlNDhhYTRiYjJk`
+Snapshot ID: `MCxhZjhmZDc3MjI5NmNkZjY1OGNlMzYyZjkxODgxZDg5MzkyMTVjYjgz`

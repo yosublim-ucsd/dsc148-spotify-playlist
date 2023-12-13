@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Guè
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,984 likes - 59 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,058 likes - 59 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 42 | [Pochette \(feat\. Noyz Narcos\)](https://open.spotify.com/track/7px3nxEoSvAHCvAZq3r38W) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 |
 | 43 | [NOI](https://open.spotify.com/track/6g4ZDGB7jj7T1X8sWB5GFQ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 4:32 |
 | 44 | [Free \(feat\. Marracash & Rkomi\)](https://open.spotify.com/track/2bTt0QXf4b1gmIhD4zyXxP) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:10 |
-| 45 | [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:28 |
+| 45 | [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/05Wr6HJmrXiK42rE7Gu8FB) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s) | 3:28 |
 | 46 | [DOPE BOY](https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 2:39 |
 | 47 | [BU!](https://open.spotify.com/track/6uL3MVuQUc1eLAMRganscL) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:25 |
 | 48 | [GHIGLIOTTINA \- feat\. Noyz Narcos](https://open.spotify.com/track/01BCvCKQNDmFQQQSjrzPnm) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 3:06 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 58 | [Morto di fame \(feat\. Lazza\)](https://open.spotify.com/track/4hqi818jHZUJIbJ6OJllGI) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Keta Music, Vol\. 3](https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa) | 2:43 |
 | 59 | [Noia](https://open.spotify.com/track/67eVdMdbm9cp8A1Thsdcr1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 4:44 |
 
-Snapshot ID: `MCwzNjY4NjY2MDFjNDVlN2M4MWNhMDQ1Mjg4ZTk3NDkxNzQxZTNkOGRh`
+Snapshot ID: `MCwyMjA3MDA0ZTU4Njg2ZGNhNDBjZmFhMTMxNDY2MGMwMWQ0YTU0Mzc3`

@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-699 songs - 1 day 6 hr 13 min
+708 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Clear Air](https://open.spotify.com/track/1WmJtAYlrss3fI2jn5NF2R) | [Coralia del Villar](https://open.spotify.com/artist/2IJGrdQIdQyqJ40KID5MQ9) | [Clear Air](https://open.spotify.com/album/10mVsVqSOV0duq1RCxrUaW) | 1:37 | 2022-12-05 | 2023-07-19 |
 | [Cold Fire](https://open.spotify.com/track/1C8yK8kQsb2J4wzavoa1gR) | [Lot Gordon](https://open.spotify.com/artist/1Q6LTB4M1mV3SVrtW0ZIWl) | [Cold Fire](https://open.spotify.com/album/3gcMnFOQNITW4ULBIGhpcj) | 3:01 | 2023-09-18 |  |
 | [Collecting Memories](https://open.spotify.com/track/6aFHghBSzxP3QPxS30qqp0) | [Aija Alsina](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [Collecting Memories](https://open.spotify.com/album/6VSobr1DUTShD75358fUps) | 2:47 | 2022-07-19 |  |
+| [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 | 2023-12-12 |  |
 | [Common Ground](https://open.spotify.com/track/6xRvgTp2yFfkOua9icx0rD) | [Camilla Turgot](https://open.spotify.com/artist/4dMzIDrTnlZ42GJiWGxzB2) | [Common Ground](https://open.spotify.com/album/1SZeNgnZXcm31SvYRsWWJY) | 2:02 | 2023-01-09 |  |
 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-12-07 | 2023-05-04 |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-03-16 |  |
@@ -165,6 +166,7 @@
 | [Dévouement](https://open.spotify.com/track/1IxqOTOmyJh9f8gSO9YbK2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Dévouement](https://open.spotify.com/album/0UBhbhhh9HC0cJaLtFhNel) | 2:16 | 2023-08-01 |  |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-02-15 | 2023-06-21 |
 | [Ebbe](https://open.spotify.com/track/2tMAQUBzGA8VqP8sLJvkdS) | [Kia Leonharts](https://open.spotify.com/artist/6EEGgdrklC8HMkuZRXkfTx) | [Ebbe](https://open.spotify.com/album/3ZP0FpVQ6OAJM2Gns4lfOE) | 2:43 | 2021-12-07 | 2022-07-20 |
+| [Echoes Of Forgotten Times](https://open.spotify.com/track/7HlfgPAVPHtUAH2joYyyAC) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Echoes Of Forgotten Times](https://open.spotify.com/album/2gerydg3DbPYBjAsAnvgpS) | 2:42 | 2023-12-12 |  |
 | [Eclectism](https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Eclectism](https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ) | 2:53 | 2021-12-07 |  |
 | [Eclipse](https://open.spotify.com/track/0Ck0h2BOe48JxLlPQrl1sV) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Eclipse](https://open.spotify.com/album/2tFttOMbr6jYqnsulIqdAy) | 2:17 | 2021-12-07 | 2022-10-05 |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2021-12-07 |  |
@@ -215,6 +217,7 @@
 | [For You](https://open.spotify.com/track/2MQYYyWv4oin7VlNQDFb6n) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [For You](https://open.spotify.com/album/5ny130qGLNcwVqTEDMlVr4) | 3:12 | 2022-07-19 |  |
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2021-12-07 | 2022-04-08 |
 | [Forever Changed](https://open.spotify.com/track/6u20TgouBczWOOlnR6703e) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Forever Changed](https://open.spotify.com/album/5r8Z1CKRpkrqF8IqcHnEY7) | 1:59 | 2021-12-07 | 2022-10-05 |
+| [Forevermore](https://open.spotify.com/track/45sfMp43IgWGmDTIMLmQVP) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Forevermore](https://open.spotify.com/album/3UO20taGCEiekfz1zBnQOI) | 2:56 | 2023-12-12 |  |
 | [Forgot To Say Goodbye](https://open.spotify.com/track/6qur9OV1k8uH56yC9K7cCd) | [JD Stanton](https://open.spotify.com/artist/628Au8BwLToI3XOL3fX7Fs) | [Forgot To Say Goodbye](https://open.spotify.com/album/0dmLV2jKtYDCzZtH1G4WRC) | 2:29 | 2022-07-19 |  |
 | [Fóra](https://open.spotify.com/track/6ZpsiNnK2yPcigPrtScGHG) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Fóra](https://open.spotify.com/album/5fsRgzEKg3LSht3LtDXJWI) | 2:14 | 2021-12-07 |  |
 | [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2021-12-07 |  |
@@ -372,6 +375,7 @@
 | [Meandering](https://open.spotify.com/track/4jpRyLpvGSUPVSx8oO8xWo) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Meandering](https://open.spotify.com/album/2Q4TRJ0g4yMoOUcCciKZr9) | 2:53 | 2022-03-01 | 2022-07-20 |
 | [Med lukkede øyne](https://open.spotify.com/track/2E7s7HybOzu68ug7gJWeL0) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Med lukkede øyne](https://open.spotify.com/album/39hfQ5HdJ6I1WL3858QOVr) | 2:29 | 2022-04-07 |  |
 | [Med solen i øynene](https://open.spotify.com/track/0jw7ZhzCPQVAR6b7rQT1QJ) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Med solen i øynene](https://open.spotify.com/album/1ryTkAZErijdDtxLoMHklz) | 2:27 | 2023-06-27 |  |
+| [Meditation At My Piano](https://open.spotify.com/track/7sl3E8PLvMf15zgImYCFy5) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Meditation At My Piano](https://open.spotify.com/album/4CHtOAO19iANd8BS47Ttdh) | 2:47 | 2023-12-12 |  |
 | [Melodrome](https://open.spotify.com/track/27ftHERJqvYDHTPpcebRsb) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Melodrome](https://open.spotify.com/album/2ZEJfWjjBJBhENAQKKkmQk) | 2:51 | 2021-12-07 | 2022-07-20 |
 | [Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Parterre](https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv) | 2:08 | 2021-12-07 | 2023-10-05 |
 | [Memoria](https://open.spotify.com/track/1ZWLEXzTlMvJVT80NpsoR4) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Memoria](https://open.spotify.com/album/4vHvAO3vlJBIjwBeyaNHqw) | 2:01 | 2021-12-07 | 2023-04-19 |
@@ -439,6 +443,7 @@
 | [Opus 5](https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 5](https://open.spotify.com/album/264MR7dpX3eMMMctQ26xRz) | 2:45 | 2022-02-15 | 2022-07-20 |
 | [Out the Dark](https://open.spotify.com/track/4KWm3DyengX39eIr3p9mVs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Out the Dark](https://open.spotify.com/album/4qC7JDS4bSpJams0JSWAR1) | 2:24 | 2022-08-09 | 2022-10-17 |
 | [Out the Dark](https://open.spotify.com/track/4hRsKj4mQgoJPYuZtj84FL) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:24 | 2022-10-13 |  |
+| [Over The Fields](https://open.spotify.com/track/0t0mP5UyvLADSM7E97iJCl) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Over The Fields](https://open.spotify.com/album/0jClBDY4X9H1YixLl3sbhH) | 2:45 | 2023-12-12 |  |
 | [Overcoming](https://open.spotify.com/track/0vsFwLrazvsKYDalACjCXQ) | [Jean\-Pierre Elman](https://open.spotify.com/artist/70WcF6zocxsqUIuoI4E12E) | [Overcoming](https://open.spotify.com/album/2cekUsqKAoR1DAUqndUHul) | 2:06 | 2021-12-07 | 2022-07-29 |
 | [Overcoming](https://open.spotify.com/track/7xUlSPFsbp0NbH297CenJy) | [Jean\-Pierre Elman](https://open.spotify.com/artist/70WcF6zocxsqUIuoI4E12E) | [Overcoming](https://open.spotify.com/album/6kitpH9oAvToRbzYoOoP8u) | 2:06 | 2022-07-28 | 2022-10-05 |
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2021-12-07 |  |
@@ -628,6 +633,7 @@
 | [Traces](https://open.spotify.com/track/5F9n6BJytzN6kqEQR2wv05) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:01 | 2021-12-07 | 2022-09-13 |
 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2021-12-07 | 2022-10-14 |
 | [Trails In The Sand](https://open.spotify.com/track/2kNdebYESPkIXVcTxlNWMi) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Trails In The Sand](https://open.spotify.com/album/3JDPEQbjLKJy86z3OkKk3H) | 2:31 | 2021-12-07 | 2022-07-20 |
+| [Transition](https://open.spotify.com/track/1iQNwvTF6FXb28I585ATyJ) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Transition](https://open.spotify.com/album/408lspWbRDyL2gdcgXsGZA) | 3:01 | 2023-12-12 |  |
 | [Transitions](https://open.spotify.com/track/2G2Be7WBq744i4aBamHv8o) | [Amélie Doret](https://open.spotify.com/artist/06pZeDECUky6aiFA6GjYg0) | [Transitions](https://open.spotify.com/album/7gaX1sOn0G412TvHVdZBtX) | 2:40 | 2021-12-07 |  |
 | [Transnistria](https://open.spotify.com/track/51yKQJ4uJXSB2usG9ycoyv) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Transnistria](https://open.spotify.com/album/7nEu7TPJYmOmvOvhG1mUf2) | 1:56 | 2022-03-01 | 2023-11-21 |
 | [Treading Lightly](https://open.spotify.com/track/23ySDJ9m6BLY13Bju0t3VE) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [Treading Lightly](https://open.spotify.com/album/6yq4dA4UPNEYGRoyu1emE3) | 2:29 | 2021-12-07 | 2022-10-14 |
@@ -646,7 +652,8 @@
 | [Unfinished Letter](https://open.spotify.com/track/5qjp7GhgW7HW0fy5JXRs3l) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Unfinished Letter](https://open.spotify.com/album/2UvacRcaEAPlFOUuPBB2Vq) | 1:50 | 2023-07-03 | 2023-07-19 |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2021-12-07 | 2023-10-05 |
 | [Unspoken Declarations](https://open.spotify.com/track/7CnmcN4DEFQzrZZIlwGqoC) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Unspoken Declarations](https://open.spotify.com/album/5n8PoAzYh537L5XWWGvfz8) | 3:08 | 2021-12-07 | 2022-08-10 |
-| [Until The Blissful Dawn](https://open.spotify.com/track/0H6sCVuzUEVuXwbeuChYvz) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Good Night My Boy](https://open.spotify.com/album/1hVGbiYBujj0qqqJymDUUq) | 2:34 | 2023-11-20 |  |
+| [Until The Blissful Dawn](https://open.spotify.com/track/0H6sCVuzUEVuXwbeuChYvz) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Good Night My Boy](https://open.spotify.com/album/1hVGbiYBujj0qqqJymDUUq) | 2:34 | 2023-11-20 | 2023-12-13 |
+| [Until The Blissful Dawn](https://open.spotify.com/track/0kF1mTANh8DDXGqHANSodq) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Dream](https://open.spotify.com/album/4wJjh6QsoPWdDObVTHHJMh) | 2:34 | 2023-12-12 |  |
 | [Until The Blissful Dawn](https://open.spotify.com/track/2Q2kTuZPYXsiRlNisH6oPV) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Where Love Is Endless](https://open.spotify.com/album/4RNFuZ5GkDi2Xlw7GtxzuH) | 2:34 | 2023-11-07 | 2023-11-17 |
 | [Until The Blissful Dawn](https://open.spotify.com/track/3OI2aqr0KvuMY5hwqbvtWh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Theme For Nils](https://open.spotify.com/album/4yMPsNxmYZMLj9xmaFr59w) | 2:34 | 2023-11-20 | 2023-12-07 |
 | [Until The Blissful Dawn](https://open.spotify.com/track/3kqEGyRlhFVx269Ndkyt3o) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And We Eternal](https://open.spotify.com/album/7LNpuu6rkVrWpQ4zZJ8ST5) | 2:34 | 2023-11-07 | 2023-11-29 |
@@ -682,8 +689,10 @@
 | [Whisper Trail](https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB) | [Peter Mandel](https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g) | [Whisper Trail](https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU) | 2:35 | 2021-12-07 |  |
 | [Whispering Pines](https://open.spotify.com/track/7Ia1tIQDGAFfZWYJc1vFcN) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [Whispering Pines](https://open.spotify.com/album/6859sgyqyzsrzEhQwoO91Q) | 2:13 | 2023-03-29 |  |
 | [Whispers in the Fog](https://open.spotify.com/track/098b2wZzLGe9RwVCh1YZay) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Whispers in the Fog](https://open.spotify.com/album/13C3NpipjChcRCQIAERjk6) | 2:16 | 2023-11-07 |  |
+| [Wildflower](https://open.spotify.com/track/4Z9NDrWiibsmI4tw2b2XkX) | [Myron Andersen](https://open.spotify.com/artist/3sZcw1QKEb35aR9fur7WNo) | [Wildflower](https://open.spotify.com/album/76Gi2XBhnCQVowOBhUhu6T) | 2:37 | 2023-12-12 |  |
 | [Winged Melancholy](https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Winged Melancholy](https://open.spotify.com/album/4XXfes67gExeafFINOtoPL) | 2:19 | 2021-12-07 | 2022-09-13 |
 | [Winona](https://open.spotify.com/track/3E8FaarMpFzi6HiSRUWSrV) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Winona](https://open.spotify.com/album/79UbHE7JTha6egAQMu4aiy) | 2:51 | 2023-06-20 |  |
+| [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 | 2023-12-12 |  |
 | [Wishes](https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Wishes](https://open.spotify.com/album/5gaGIa6VJgu090XhGHc6To) | 2:02 | 2022-12-05 |  |
 | [Wishes](https://open.spotify.com/track/1KnTw354jtQmDvA6b3Fvi0) | [Mewael Yemane](https://open.spotify.com/artist/0F2QkwRNLwkdDnsY0LIA1x) | [Wishes](https://open.spotify.com/album/0qcFUWhrhzdUn1F0bC46wU) | 1:38 | 2021-12-07 | 2022-09-13 |
 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 | 2022-03-16 | 2022-10-25 |

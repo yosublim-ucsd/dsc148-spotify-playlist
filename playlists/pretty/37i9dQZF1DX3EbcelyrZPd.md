@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jaivah
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,685 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,770 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Hapa](https://open.spotify.com/track/3o2XGqeVS2V6zQWjCtSBPd) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Hapa](https://open.spotify.com/album/1Q88BNMCpqlFBh46WRR7pn) | 3:17 |
 | 70 | [Slow](https://open.spotify.com/track/04Out6ePtODoAuUqr38uXt) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Slow](https://open.spotify.com/album/2sPnCcwPuXdwD7dwssEITQ) | 3:03 |
 
-Snapshot ID: `MCxmZTkyNGZiMWEyNzAyOWM3Y2Q3MGU4ZDMwODVmM2FhYTk5OTRkNjk4`
+Snapshot ID: `MCw0NDQ0M2NlNGQ0ZTQyOWU0YmU3OTc3M2E0MTA2ZGRlMTJhZTk2ZjIw`

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 228508,
+  "num_followers": 228606,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTc4ZGNmN2E1MTFmOGMxMTY4ZDQzZjFlYTZkYTQwYzM3YWZkYTA0",
+  "snapshot_id": "MCw0ODRlNWU5N2E0NTdmOWNkODE4NTZmNjllNGZiOTQ2NjI4Mzg2OTYx",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -335,8 +335,8 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Gorilla (2019 Remaster)",
-        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
+        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 216386,
-      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
-      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+      "duration_ms": 268866,
+      "name": "You've Got a Friend - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -447,8 +447,8 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
+        "name": "Gorilla (2019 Remaster)",
+        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 268866,
-      "name": "You've Got a Friend - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+      "duration_ms": 216386,
+      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
+      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Jack Rabbit Slim",
-        "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
-      },
-      "artists": [
-        {
-          "name": "Steve Forbert",
-          "url": "https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty"
-        }
-      ],
-      "duration_ms": 212471,
-      "name": "Romeo's Tune",
-      "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Lost Without Your Love",
         "url": "https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 176893,
       "name": "Lost Without Your Love",
       "url": "https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Jack Rabbit Slim",
+        "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
+      },
+      "artists": [
+        {
+          "name": "Steve Forbert",
+          "url": "https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty"
+        }
+      ],
+      "duration_ms": 212471,
+      "name": "Romeo's Tune",
+      "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Doctor Hook",
-        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Sylvia's Mother",
-      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Pretzel Logic",
         "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 187345,
       "name": "Any Major Dude Will Tell You",
       "url": "https://open.spotify.com/track/1u42hFacJ1Bs8H9GX2O8z3"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Doctor Hook",
+        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Sylvia's Mother",
+      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Till It Shines",
-      "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "What Were Once Vices Are Now Habits",
         "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 267800,
       "name": "Another Park, Another Sunday",
       "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Till It Shines",
+      "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
     },
     {
       "added_at": "2023-03-29 17:34:27",

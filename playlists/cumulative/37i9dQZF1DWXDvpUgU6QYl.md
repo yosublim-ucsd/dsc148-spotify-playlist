@@ -4,7 +4,7 @@
 
 > A groovy and soulful house collection\. Cover: Calvin Harris, Eliza Rose
 
-101 songs - 6 hr 5 min
+102 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Raining Again \- Roger Sanchez Black Rain Remix](https://open.spotify.com/track/6pPQdOea7ko8xaxk3YkiZ3) | [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Raining Again \(Roger Sanchez Black Rain Remix\)](https://open.spotify.com/album/6elaN37ksb4OePcQloU7Lw) | 6:17 | 2023-09-05 | 2023-09-16 |
 | [Real Love](https://open.spotify.com/track/4HrLjuPDoxwofY6azxdzb0) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Real Love](https://open.spotify.com/album/6XU17Ta3KWa045AfQV0mLM) | 2:53 | 2023-11-17 |  |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-09-05 |  |
-| [Release Me](https://open.spotify.com/track/0w1diO9XWMX1Dm4r9hIDJg) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Release Me](https://open.spotify.com/album/19OdgoDqsF92wIeku24MBv) | 4:39 | 2023-10-06 |  |
+| [Release Me](https://open.spotify.com/track/0w1diO9XWMX1Dm4r9hIDJg) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Release Me](https://open.spotify.com/album/19OdgoDqsF92wIeku24MBv) | 4:39 | 2023-10-06 | 2023-12-13 |
+| [Release Me](https://open.spotify.com/track/1coVUd9d9hyQkE8ZSnwMcD) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [U Never Listen](https://open.spotify.com/album/3ueYV7bLypt5ngonawI8Sd) | 4:39 | 2023-12-01 |  |
 | [Release Me](https://open.spotify.com/track/0dyNRRAiEnX98U4BlZkbfT) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Release Me](https://open.spotify.com/album/0tJ2xpt6XRAjBeARDB9JKk) | 2:48 | 2023-12-01 |  |
 | [Ride Inside the Uk](https://open.spotify.com/track/2atgyIXUwUN7IsMFrygEpN) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q) | [Ride Inside the Uk](https://open.spotify.com/album/5zOBNEQB8oC896bMa6RYe7) | 2:54 | 2023-09-05 | 2023-10-21 |
 | [Rules Of Love](https://open.spotify.com/track/5ltPxMRV198CleQMdjwd1R) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Rockefeller](https://open.spotify.com/artist/4QgLZ8nDYxhOWOAYYypKd9) | [Rules Of Love](https://open.spotify.com/album/3qEjZx7j0AXDVZC7Ce2cgm) | 2:49 | 2023-09-05 | 2023-11-18 |

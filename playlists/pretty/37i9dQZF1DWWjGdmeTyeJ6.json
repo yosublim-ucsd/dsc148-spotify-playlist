@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best tracks from independent, developing artists around the world this year. Cover: Searows",
-  "num_followers": 1172390,
+  "num_followers": 1172705,
   "original_name": "Fresh Finds Class of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjMyOWFlYWIwN2RkZjdkOGE4YTQxYWQzMmJhNmY2YWE5NGE3N2Y5",
+  "snapshot_id": "MCwzODQwMmNiOWFjNTc2ZDYxY2I2NzlkMjA3N2EwNGU5ZjFiN2U4NWFi",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3"
-      },
-      "artists": [
-        {
-          "name": "Chikoruss",
-          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
-        }
-      ],
-      "duration_ms": 203637,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Come Over And Love Me",
         "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 161266,
       "name": "Come Over And Love Me",
       "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "duration_ms": 203637,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/7pGwBisCaQygmhmC1UADsC"
-      },
-      "artists": [
-        {
-          "name": "Zinadelphia",
-          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
-        }
-      ],
-      "duration_ms": 208965,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/6zHJ0wJT8MWEpVJADAwxN9"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Familiar",
         "url": "https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 190474,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/7pGwBisCaQygmhmC1UADsC"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "duration_ms": 208965,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/6zHJ0wJT8MWEpVJADAwxN9"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "CEO of the friendship group",
-        "url": "https://open.spotify.com/album/1s7zUfyNtrsXXoKvRGrNV1"
-      },
-      "artists": [
-        {
-          "name": "Zino Vinci",
-          "url": "https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK"
-        }
-      ],
-      "duration_ms": 108812,
-      "name": "CEO of the friendship group",
-      "url": "https://open.spotify.com/track/0LBvqSkfl9FgOuKYg04l1s"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "No Substance Mixtape",
         "url": "https://open.spotify.com/album/0kpW838mH6r1S09dKgNH72"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 182307,
       "name": "Since September",
       "url": "https://open.spotify.com/track/5SjNIwfjW1Yw0dURGbnrRL"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "CEO of the friendship group",
+        "url": "https://open.spotify.com/album/1s7zUfyNtrsXXoKvRGrNV1"
+      },
+      "artists": [
+        {
+          "name": "Zino Vinci",
+          "url": "https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK"
+        }
+      ],
+      "duration_ms": 108812,
+      "name": "CEO of the friendship group",
+      "url": "https://open.spotify.com/track/0LBvqSkfl9FgOuKYg04l1s"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Times It By Two",
-        "url": "https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp"
-      },
-      "artists": [
-        {
-          "name": "Annie Tracy",
-          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
-        }
-      ],
-      "duration_ms": 205743,
-      "name": "Times It By Two",
-      "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Spiritual Cramp",
         "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 155280,
       "name": "Talkin' On The Internet",
       "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Times It By Two",
+        "url": "https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        }
+      ],
+      "duration_ms": 205743,
+      "name": "Times It By Two",
+      "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "The CARR Show",
-        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "Spiral City",
-      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Anyway",
         "url": "https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 223231,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "The CARR Show",
+        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "Spiral City",
+      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Erotic Probiotic 2",
+        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "As Days Go By",
         "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Erotic Probiotic 2",
-        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "After The Day Party",
-      "url": "https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "from here on out",
         "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 242580,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "After The Day Party",
+      "url": "https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1255,6 +1255,26 @@
       "duration_ms": 325204,
       "name": "dickhead blues",
       "url": "https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "Sariah Mae",
+          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
+        }
+      ],
+      "duration_ms": 178477,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1323,26 +1343,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
-      },
-      "artists": [
-        {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        },
-        {
-          "name": "Sariah Mae",
-          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
-        }
-      ],
-      "duration_ms": 178477,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Raining Tomorrow",
         "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w"
-      },
-      "artists": [
-        {
-          "name": "Leah Marie Mason",
-          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
-        }
-      ],
-      "duration_ms": 210315,
-      "name": "Black Sheep",
-      "url": "https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "My Future",
         "url": "https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 155468,
       "name": "My Future",
       "url": "https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w"
+      },
+      "artists": [
+        {
+          "name": "Leah Marie Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "duration_ms": 210315,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Apple Cake",
-        "url": "https://open.spotify.com/album/4cXLQRQn0cOr7OQZMjvd7V"
-      },
-      "artists": [
-        {
-          "name": "Filip Sterne",
-          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
-        },
-        {
-          "name": "Daniel Hawes",
-          "url": "https://open.spotify.com/artist/5VGSBJHxdNEpZcI8Kx09HH"
-        }
-      ],
-      "duration_ms": 193437,
-      "name": "Apple Cake",
-      "url": "https://open.spotify.com/track/3ngJEdR8mdQicBQn3PnSsS"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Colder in June",
         "url": "https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 210877,
       "name": "Talk of the Town - acoustic",
       "url": "https://open.spotify.com/track/15XKG1dgXflgyD5QhgX8XU"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Apple Cake",
+        "url": "https://open.spotify.com/album/4cXLQRQn0cOr7OQZMjvd7V"
+      },
+      "artists": [
+        {
+          "name": "Filip Sterne",
+          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
+        },
+        {
+          "name": "Daniel Hawes",
+          "url": "https://open.spotify.com/artist/5VGSBJHxdNEpZcI8Kx09HH"
+        }
+      ],
+      "duration_ms": 193437,
+      "name": "Apple Cake",
+      "url": "https://open.spotify.com/track/3ngJEdR8mdQicBQn3PnSsS"
     },
     {
       "added_at": "2023-11-29 12:16:00",

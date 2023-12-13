@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Ric Hassani",
-  "num_followers": 218787,
+  "num_followers": 218862,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTI1ZGEwZWE3M2FhZDZhNGI2ZDUyMjZkNGI1ZTI2MGQzYmQ2YzIy",
+  "snapshot_id": "MCwyZGEyNjczZDI1NTk4NmM1MDQyODRkYTI0MzQ0NzU2ZjQ0MjA0OTlh",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 218657,
+      "name": "Pidgin & English",
+      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Jaga Jaga (with Babyboy AV)",
         "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 226000,
       "name": "Jaga Jaga (with Babyboy AV)",
       "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 218657,
-      "name": "Pidgin & English",
-      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -771,30 +771,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
-      },
-      "artists": [
-        {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
-        },
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "NESTA",
-          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -811,26 +787,6 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Rora",
-        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        }
-      ],
-      "duration_ms": 143762,
-      "name": "Rora",
-      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -859,6 +815,50 @@
       "duration_ms": 182400,
       "name": "Honest",
       "url": "https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "duration_ms": 143762,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Don't Tell Anyone",
-        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 177300,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 182442,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Don't Tell Anyone",
+        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 177300,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Hillary Remix (feat. Pabi Cooper)",
-        "url": "https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH"
+        "name": "Area Party",
+        "url": "https://open.spotify.com/album/29FyZCVFynYTLUDkMFkEZL"
       },
       "artists": [
         {
-          "name": "Noon Dave",
-          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
-        },
-        {
-          "name": "Pabi Cooper",
-          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+          "name": "Novemba",
+          "url": "https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ"
         }
       ],
-      "duration_ms": 174953,
-      "name": "Hillary Remix (feat. Pabi Cooper)",
-      "url": "https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt"
+      "duration_ms": 122474,
+      "name": "Area Party",
+      "url": "https://open.spotify.com/track/3HhFNwoskRIUdj8nadvmzp"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1231,18 +1227,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Area Party",
-        "url": "https://open.spotify.com/album/29FyZCVFynYTLUDkMFkEZL"
+        "name": "Hillary Remix (feat. Pabi Cooper)",
+        "url": "https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH"
       },
       "artists": [
         {
-          "name": "Novemba",
-          "url": "https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ"
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        },
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
         }
       ],
-      "duration_ms": 122474,
-      "name": "Area Party",
-      "url": "https://open.spotify.com/track/3HhFNwoskRIUdj8nadvmzp"
+      "duration_ms": 174953,
+      "name": "Hillary Remix (feat. Pabi Cooper)",
+      "url": "https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1479,22 +1479,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "I Know I Am",
-        "url": "https://open.spotify.com/album/0n8t233j9SxfeORXpC9msV"
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv"
       },
       "artists": [
         {
-          "name": "Basiil",
-          "url": "https://open.spotify.com/artist/1KOeTyRjoGl0MPu4NRklMV"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
         },
         {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+          "name": "LeriQ",
+          "url": "https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl"
         }
       ],
-      "duration_ms": 156961,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4nZrMIPiY3Ti2OdsQkOb8I"
+      "duration_ms": 145892,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS"
     }
   ],
   "unique_name": "Ginger Me",

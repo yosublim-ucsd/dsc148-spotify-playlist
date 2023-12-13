@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: MIEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,632 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,638 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 31 | [Si Es Trucho Es Trucho \(feat\. El Alfa & Farruko\) \- Tiësto Remix](https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Si Es Trucho Es Trucho \(feat\. El Alfa & Farruko\) \[Tiësto Remix\]](https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt) | 2:26 |
 | 32 | [Tamos de Fiesta \- Remix](https://open.spotify.com/track/6OQHg2To0EDiaj4XyfJuBz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Tamos de Fiesta \(Remix\)](https://open.spotify.com/album/2qQ3Xr5jANxRww4AFN1ga2) | 2:22 |
 | 33 | [DUKKE](https://open.spotify.com/track/11O9yw4Gpb5wU1rifpydJY) | [Marco Acevedo](https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC), [Sevensito](https://open.spotify.com/artist/3u9YbhHMsajWonQjI6a2oO), [Los Jaycobz](https://open.spotify.com/artist/0S5cWKgY3Y63IbykHSqPgN) | [DUKKE](https://open.spotify.com/album/6ybxYARmSJiSOeQkIfmiF1) | 2:50 |
-| 34 | [Siliwa Hay \(feat\. Max\-Africana\)](https://open.spotify.com/track/2BxNmiURRvrvQutWGrUizS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Max\-Africana](https://open.spotify.com/artist/56t1JMFLdAwMU8z1BO4JF0) | [Siliwa Hay \(feat\. Max\-Africana\)](https://open.spotify.com/album/2Kse4Br3Ttokkwgznu05qI) | 3:47 |
+| 34 | [Siliwa Hay \(feat\. Max\-Africana\)](https://open.spotify.com/track/30ZPCyUqNsNRfBGwltMOjE) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Max\-Africana](https://open.spotify.com/artist/56t1JMFLdAwMU8z1BO4JF0) | [Siliwa Hay \(feat\. Max\-Africana\)](https://open.spotify.com/album/05Va152RyB3CWhCEMWTaxg) | 3:47 |
 | 35 | [Acordeão](https://open.spotify.com/track/0XOpvVTsOIdYQ3gyyu9onu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [Together](https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ) | 2:11 |
 | 36 | [neon lover](https://open.spotify.com/track/6YaQ2f40fCn5xBySaXHDQg) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [neon lover](https://open.spotify.com/album/2HICIGI5RJRALblqaBIhHV) | 3:58 |
 | 37 | [Alba \(Morning Edit\)](https://open.spotify.com/track/6wD0PUnxMFZyH8j87BFCzR) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Gazelle](https://open.spotify.com/artist/4avg26YpNfxui1Jl40RdFU) | [Alba \(Morning Edit\)](https://open.spotify.com/album/5Tf7ljSwfqPqQENBDmC8OT) | 3:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 59 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 |
 | 60 | [Cantalo](https://open.spotify.com/track/6UIqRcSumEv1ITtXB3rc8X) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Cantalo](https://open.spotify.com/album/1ID1oLpVJ0wcBeYblNRiQn) | 4:02 |
 
-Snapshot ID: `MCw2NzBlMjA4N2JjNDQxNzNlM2EyZGI4ZWNkNDlhYjMyZDllMWU4MTUy`
+Snapshot ID: `MCw0ZTlhMzM1ZTk5NzYyMDJmZWRlZTkxMTVmNzM4ZDMyYTNiYTI4MTJh`

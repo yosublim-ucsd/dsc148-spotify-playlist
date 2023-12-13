@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,095 songs - 2 day 9 hr 50 min
+1,096 songs - 2 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,7 +820,8 @@
 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 | 2022-08-02 | 2023-11-04 |
 | [She Likes My Tattoos](https://open.spotify.com/track/70VBBZjawKfX6Jkrb0ru4d) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/album/0D0K1XSh7i6MkbWBZTPmeH) | 2:44 | 2023-10-27 | 2023-11-11 |
 | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr) | 3:02 | 2023-12-08 |  |
-| [she's a vampire](https://open.spotify.com/track/0TijcPb77nixLGQQzVECLJ) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [she's a vampire](https://open.spotify.com/album/5DKISuJT879vrCsbUcKAt4) | 3:09 | 2023-10-27 |  |
+| [she's a vampire](https://open.spotify.com/track/0TijcPb77nixLGQQzVECLJ) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [she's a vampire](https://open.spotify.com/album/5DKISuJT879vrCsbUcKAt4) | 3:09 | 2023-10-27 | 2023-12-13 |
+| [she's a vampire](https://open.spotify.com/track/0mKgF83Y31cJKwPc13o5nR) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [nosebleeder](https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3) | 3:09 | 2023-12-08 |  |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Shhhh! Golf is On](https://open.spotify.com/album/5IDAHjsSQvZr1bzQHb7QrD) | 2:44 | 2023-04-10 | 2023-05-13 |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 | 2023-05-12 |  |
 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 | 2022-04-08 |  |

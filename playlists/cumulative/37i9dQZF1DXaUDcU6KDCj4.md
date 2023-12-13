@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Brenn!
 
-1,679 songs - 4 day 6 hr 43 min
+1,680 songs - 4 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -936,7 +936,8 @@
 | [Moments Flow Upwards](https://open.spotify.com/track/5Ia2g4VpIrzH0mlDFriO6V) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [The Nature Within](https://open.spotify.com/album/08fChfKBNOXRh6bDRri7e7) | 2:59 | 2023-09-08 | 2023-11-18 |
 | [Mona Lisa](https://open.spotify.com/track/7E110kFvnr62SHSux6KknV) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS), [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Mona Lisa](https://open.spotify.com/album/2wA90OPibv0s0y6ssrVuoD) | 3:54 | 2022-06-10 | 2022-07-23 |
 | [Monochrome](https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Monochrome](https://open.spotify.com/album/2nXzlL3Zhd3LnZkAMyvesX) | 3:28 | 2022-08-19 | 2023-01-06 |
-| [Monogamy](https://open.spotify.com/track/0uCKOztTB9eW3ApEAGpeS5) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn, More](https://open.spotify.com/album/39ePBzunWnT1ieSGbjUbsM) | 3:16 | 2023-12-08 |  |
+| [Monogamy](https://open.spotify.com/track/06lClREmXPgjQmqXoTOibz) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn, More](https://open.spotify.com/album/7luXeiReXJUtjhqSqBORT7) | 3:16 | 2023-12-12 |  |
+| [Monogamy](https://open.spotify.com/track/0uCKOztTB9eW3ApEAGpeS5) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn, More](https://open.spotify.com/album/39ePBzunWnT1ieSGbjUbsM) | 3:16 | 2023-12-08 | 2023-12-13 |
 | [Moonstruck](https://open.spotify.com/track/3c2EJZOuPkXFAqiroBQVox) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Moonstruck](https://open.spotify.com/album/1gEJ7uSk7dwenIOGNtKpuu) | 4:29 | 2023-07-07 | 2023-09-16 |
 | [More](https://open.spotify.com/track/0gXTRiC1YckfXlxP8KexYk) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [More](https://open.spotify.com/album/04jYznyMPGDRW0SxmsvywD) | 4:05 | 2023-09-08 | 2023-11-18 |
 | [More of Your Love](https://open.spotify.com/track/7fA7DeIVWaXOjHj9QfjzsM) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [More of Your Love](https://open.spotify.com/album/15iwuw5NkGLK78cvvoCGr1) | 3:35 | 2023-01-27 | 2023-04-29 |

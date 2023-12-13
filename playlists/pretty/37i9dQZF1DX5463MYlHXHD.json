@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 566509,
+  "num_followers": 566641,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjdhYjk5ZGIyZGRiMTY0NWMxYzg4MTc3NTIxMzM3ZDllY2QwMTVh",
+  "snapshot_id": "MCxmNmNiODFlYTlhNWNjOTFmMjBlYTRiYjJkYjk3NDFiZjk0ODkzODZj",
   "tracks": [
     {
       "added_at": "2023-12-08 12:25:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-12-08 12:25:00",
       "album": {
-        "name": "Mata",
-        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Mata",
-      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
-    },
-    {
-      "added_at": "2023-12-08 12:25:00",
-      "album": {
         "name": "PICA",
         "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 164531,
       "name": "PICA",
       "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
+    },
+    {
+      "added_at": "2023-12-08 12:25:00",
+      "album": {
+        "name": "Mata",
+        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Mata",
+      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
     },
     {
       "added_at": "2023-12-08 12:25:00",
@@ -1259,22 +1259,30 @@
     {
       "added_at": "2023-12-08 12:25:00",
       "album": {
-        "name": "FUMAN TWO",
-        "url": "https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy"
+        "name": "EXCUSAS (feat. Dj Lauuh)",
+        "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
       },
       "artists": [
         {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+          "name": "OKY",
+          "url": "https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU"
         },
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        },
+        {
+          "name": "Dj Lauuh",
+          "url": "https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF"
         }
       ],
-      "duration_ms": 114860,
-      "name": "FUMAN TWO",
-      "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
+      "duration_ms": 221333,
+      "name": "EXCUSAS (feat. Dj Lauuh)",
+      "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
     },
     {
       "added_at": "2023-12-08 12:25:00",
@@ -1319,30 +1327,22 @@
     {
       "added_at": "2023-12-08 12:25:00",
       "album": {
-        "name": "EXCUSAS (feat. Dj Lauuh)",
-        "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
+        "name": "FUMAN TWO",
+        "url": "https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy"
       },
       "artists": [
         {
-          "name": "OKY",
-          "url": "https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU"
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
         },
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "NEGRO DUB",
-          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
-        },
-        {
-          "name": "Dj Lauuh",
-          "url": "https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF"
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
         }
       ],
-      "duration_ms": 221333,
-      "name": "EXCUSAS (feat. Dj Lauuh)",
-      "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
+      "duration_ms": 114860,
+      "name": "FUMAN TWO",
+      "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
     },
     {
       "added_at": "2023-12-08 12:25:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-12-08 12:25:00",
       "album": {
-        "name": "Par-Tusa",
-        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Par-Tusa",
-      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
-    },
-    {
-      "added_at": "2023-12-08 12:25:00",
-      "album": {
         "name": "Pinta",
         "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 177950,
       "name": "Pinta",
       "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
+    },
+    {
+      "added_at": "2023-12-08 12:25:00",
+      "album": {
+        "name": "Par-Tusa",
+        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "Par-Tusa",
+      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
     },
     {
       "added_at": "2023-12-08 12:25:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-12-08 12:25:00",
       "album": {
+        "name": "La Vanda M\u00e1s Loca",
+        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
+      },
+      "artists": [
+        {
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Sos Bot\u00f3n",
+      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
+    },
+    {
+      "added_at": "2023-12-08 12:25:00",
+      "album": {
         "name": "Cual Fue? (Remix)",
         "url": "https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 204022,
       "name": "Cual Fue? - Remix",
       "url": "https://open.spotify.com/track/7ESW1EAnlel9tDIeR0BJE7"
-    },
-    {
-      "added_at": "2023-12-08 12:25:00",
-      "album": {
-        "name": "La Vanda M\u00e1s Loca",
-        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
-      },
-      "artists": [
-        {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Sos Bot\u00f3n",
-      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
     },
     {
       "added_at": "2023-12-08 12:25:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-12-08 12:25:00",
       "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
+    },
+    {
+      "added_at": "2023-12-08 12:25:00",
+      "album": {
         "name": "AL RITMO | E2",
         "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 176842,
       "name": "AL RITMO | E2",
       "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
-    },
-    {
-      "added_at": "2023-12-08 12:25:00",
-      "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
     },
     {
       "added_at": "2023-12-08 12:25:00",
@@ -1719,6 +1719,22 @@
       "duration_ms": 152125,
       "name": "El Whatsapp",
       "url": "https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf"
+    },
+    {
+      "added_at": "2023-12-08 12:25:00",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/6ilkDJx9M7ppTKzFvs5tQx"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "duration_ms": 134217,
+      "name": "Hoy Ac\u00e1 en el Baile (Cara de Gitana) - Versi\u00f3n El Pepo",
+      "url": "https://open.spotify.com/track/0GXohhvxGe7ehlH84YGBO5"
     },
     {
       "added_at": "2023-12-08 12:25:00",
@@ -1771,22 +1787,6 @@
       "duration_ms": 1047973,
       "name": "Batalla Villera",
       "url": "https://open.spotify.com/track/3RxFQSlNXtcH3gVlAsCRhE"
-    },
-    {
-      "added_at": "2023-12-08 12:25:00",
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/6ilkDJx9M7ppTKzFvs5tQx"
-      },
-      "artists": [
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        }
-      ],
-      "duration_ms": 134217,
-      "name": "Hoy Ac\u00e1 en el Baile (Cara de Gitana) - Versi\u00f3n El Pepo",
-      "url": "https://open.spotify.com/track/0GXohhvxGe7ehlH84YGBO5"
     },
     {
       "added_at": "2023-12-08 12:25:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-12-08 12:25:00",
       "album": {
-        "name": "M\u00e1s Duros que Nunca",
-        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
-      },
-      "artists": [
-        {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "La Jarra Loca",
-      "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
-    },
-    {
-      "added_at": "2023-12-08 12:25:00",
-      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd"
       },
@@ -2139,18 +2123,18 @@
     {
       "added_at": "2023-12-08 12:25:00",
       "album": {
-        "name": "Alta Gira",
-        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
+        "name": "M\u00e1s Duros que Nunca",
+        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
       },
       "artists": [
         {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
         }
       ],
-      "duration_ms": 247144,
-      "name": "Vos de Bebe",
-      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
+      "duration_ms": 238933,
+      "name": "La Jarra Loca",
+      "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
     },
     {
       "added_at": "2023-12-08 12:25:00",
@@ -2171,6 +2155,22 @@
       "duration_ms": 160988,
       "name": "Los Dos Fallamos",
       "url": "https://open.spotify.com/track/54cM6oKMmHbhrzTV6Qj0KQ"
+    },
+    {
+      "added_at": "2023-12-08 12:25:00",
+      "album": {
+        "name": "Alta Gira",
+        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
+      },
+      "artists": [
+        {
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+        }
+      ],
+      "duration_ms": 247144,
+      "name": "Vos de Bebe",
+      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
     },
     {
       "added_at": "2023-12-08 12:25:00",
@@ -2207,30 +2207,6 @@
     {
       "added_at": "2023-12-08 12:25:00",
       "album": {
-        "name": "Mirame a la Cara 2",
-        "url": "https://open.spotify.com/album/3ytpZ963aOa2imkhVqlHRX"
-      },
-      "artists": [
-        {
-          "name": "El Tecla",
-          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
-        },
-        {
-          "name": "Niko Falero",
-          "url": "https://open.spotify.com/artist/2XEkeHFfw9gjyrL2Qoi0vj"
-        },
-        {
-          "name": "Treekoo",
-          "url": "https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB"
-        }
-      ],
-      "duration_ms": 191788,
-      "name": "Mirame a La Cara 2",
-      "url": "https://open.spotify.com/track/03e0QOtYjB7yg2eZ5mPSYG"
-    },
-    {
-      "added_at": "2023-12-08 12:25:00",
-      "album": {
         "name": "DALE DALE",
         "url": "https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9"
       },
@@ -2251,6 +2227,30 @@
       "duration_ms": 183418,
       "name": "DALE DALE",
       "url": "https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb"
+    },
+    {
+      "added_at": "2023-12-08 12:25:00",
+      "album": {
+        "name": "Mirame a la Cara 2",
+        "url": "https://open.spotify.com/album/3ytpZ963aOa2imkhVqlHRX"
+      },
+      "artists": [
+        {
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+        },
+        {
+          "name": "Niko Falero",
+          "url": "https://open.spotify.com/artist/2XEkeHFfw9gjyrL2Qoi0vj"
+        },
+        {
+          "name": "Treekoo",
+          "url": "https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB"
+        }
+      ],
+      "duration_ms": 191788,
+      "name": "Mirame a La Cara 2",
+      "url": "https://open.spotify.com/track/03e0QOtYjB7yg2eZ5mPSYG"
     },
     {
       "added_at": "2023-12-08 12:25:00",

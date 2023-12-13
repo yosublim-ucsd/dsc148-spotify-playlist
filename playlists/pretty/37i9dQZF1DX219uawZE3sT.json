@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 137421,
+  "num_followers": 137474,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDNiYzM0YzA3NzFjYjgwMjczMTgzMGNiNjM5Yjc2NjEzZDI3NjY5",
+  "snapshot_id": "MCxhYTY0MTI1NTM4NDNmZTVhODUxMmYwNTFhNTkwZDlhOTRjODY3YTg0",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Sue\u00f1os de Juventud",
-        "url": "https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk"
-      },
-      "artists": [
-        {
-          "name": "DKDA",
-          "url": "https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb"
-        }
-      ],
-      "duration_ms": 335751,
-      "name": "\u00c1mame Como Soy (En Vivo)",
-      "url": "https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Mirada de Mujer",
         "url": "https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 179520,
       "name": "Dime",
       "url": "https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Sue\u00f1os de Juventud",
+        "url": "https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk"
+      },
+      "artists": [
+        {
+          "name": "DKDA",
+          "url": "https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb"
+        }
+      ],
+      "duration_ms": 335751,
+      "name": "\u00c1mame Como Soy (En Vivo)",
+      "url": "https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "1985-1998",
-        "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "La Usurpadora",
-      "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Hasta Ahora",
         "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 245000,
       "name": "Amor Real",
       "url": "https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "1985-1998",
+        "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "La Usurpadora",
+      "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
     },
     {
       "added_at": "2022-05-06 18:32:26",

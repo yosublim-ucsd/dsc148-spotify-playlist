@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 71189,
+  "num_followers": 71203,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjgxOGRkNzIzZTc4N2Q2YTA4N2U5ODA3M2FlNTZlMTJhMGFiNjg1",
+  "snapshot_id": "MCwwOWVhYjVkNjVkNTEyMDMxZjFjZDAwY2QzNTUyNTIwOTgwYmQzOWE1",
   "tracks": [
     {
       "added_at": "2023-12-04 02:19:56",
@@ -87,22 +87,6 @@
     {
       "added_at": "2023-12-04 02:19:56",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "Down by the Water",
-      "url": "https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL"
-    },
-    {
-      "added_at": "2023-12-04 02:19:56",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 255143,
       "name": "Growing Sideways",
       "url": "https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2"
+    },
+    {
+      "added_at": "2023-12-04 02:19:56",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "Down by the Water",
+      "url": "https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL"
     },
     {
       "added_at": "2023-12-04 02:19:56",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-12-04 02:19:56",
       "album": {
-        "name": "A World Gone By",
-        "url": "https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 253597,
-      "name": "Ordinary People",
-      "url": "https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb"
-    },
-    {
-      "added_at": "2023-12-04 02:19:56",
-      "album": {
         "name": "Six Feet Apart",
         "url": "https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 173705,
       "name": "Six Feet Apart",
       "url": "https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm"
+    },
+    {
+      "added_at": "2023-12-04 02:19:56",
+      "album": {
+        "name": "A World Gone By",
+        "url": "https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 253597,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb"
     },
     {
       "added_at": "2023-12-04 02:19:56",

@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-259 songs - 13 hr 58 min
+260 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 | 2023-03-20 | 2023-03-28 |
 | [get2know](https://open.spotify.com/track/4PjMMVmd9Sxe4K3EiAFnfQ) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [get2know](https://open.spotify.com/album/4ZRUUWKt8BonBz7fh1QDHJ) | 3:01 | 2022-06-06 | 2022-07-29 |
 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2023-01-23 | 2023-12-07 |
+| [Green Green Grass](https://open.spotify.com/track/6UbM3KyXtvfZr06ixZhea1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 2:47 | 2023-12-04 |  |
 | [ground zero](https://open.spotify.com/track/2CZOoc9wPOPVmxutXjkKIC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [ground zero](https://open.spotify.com/album/6FNIsL7WujpVXF975ZC6ri) | 2:43 | 2023-02-01 | 2023-02-07 |
 | [GUY.exe](https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:42 | 2022-07-25 |  |
 | [Hanson Ghost](https://open.spotify.com/track/5aCELTcNE4OSg0bLEhNfLc) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [From Mexico with Love](https://open.spotify.com/album/3qSSoMApIWkXTmCn4IaC30) | 3:28 | 2022-11-07 | 2022-11-15 |
@@ -213,7 +214,7 @@
 | [Some Things Never Change](https://open.spotify.com/track/04ZQVZvFadkN5wA88owIxv) | [Laura Ribeiro](https://open.spotify.com/artist/0VwEJB7l36x6SorcdfcT5a), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Some Things Never Change](https://open.spotify.com/album/573Vfx55DSu8ysefBIU3QP) | 2:54 | 2022-06-13 | 2022-07-17 |
 | [something special](https://open.spotify.com/track/10e9vFUj8aRJItKhhIsmRT) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [something special \(hi\)](https://open.spotify.com/album/3ym5rYu42SjQOoirjjg8Dy) | 2:37 | 2022-06-06 | 2022-07-29 |
 | [STAY](https://open.spotify.com/track/453LUWCXecCS234CYjtnoL) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [STAY](https://open.spotify.com/album/6MUZsclNb2Ve2A5lSzmPQ7) | 3:33 | 2022-06-06 | 2022-07-29 |
-| [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-25 |  |
+| [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-25 | 2023-12-13 |
 | [Sugar High](https://open.spotify.com/track/4kxvZQphY6GoRbtmqBMhqE) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Sugar High](https://open.spotify.com/album/0Zy8jxZXmjO5gi48lDdmPx) | 3:25 | 2022-06-27 | 2022-07-04 |
 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-15 |  |
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2022-11-07 | 2023-08-23 |

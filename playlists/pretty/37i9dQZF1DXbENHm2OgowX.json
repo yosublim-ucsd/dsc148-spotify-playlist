@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 146260,
+  "num_followers": 147004,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGQwYzJkN2MzYjdiOTliN2QyYjExZjhkMWZmY2M3MTdkZjIxMWM0",
+  "snapshot_id": "MCw5NWFhNGI3OWRiODNkZTJhMmQzNDIxNjRiZGJmYWVhZjdlMmQxYzEy",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 317455,
-      "name": "come",
-      "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "A I A: Alien Observer",
         "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 236480,
       "name": "Alien Observer",
       "url": "https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 317455,
+      "name": "come",
+      "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 486277,
-      "name": "No One Is Ever Going to Want Me",
-      "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "You Stay by the Sea (Deluxe)",
         "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 486277,
+      "name": "No One Is Ever Going to Want Me",
+      "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Green Wall",
         "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
       },
@@ -611,38 +611,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 477000,
-      "name": "The Haunting Presence",
-      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "Disengaged",
-      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -659,6 +627,22 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "Disengaged",
+      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -691,6 +675,22 @@
       "duration_ms": 316000,
       "name": "Gazing Back At Earth",
       "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 477000,
+      "name": "The Haunting Presence",
+      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
-      },
-      "artists": [
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 70306,
-      "name": "Safn",
-      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Weighing Souls With Sand",
         "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 572189,
       "name": "The Promise of Snakes",
       "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 70306,
+      "name": "Safn",
+      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -871,74 +871,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Set the Weather Fair: Seasons",
-        "url": "https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq"
-      },
-      "artists": [
-        {
-          "name": "Digitonal",
-          "url": "https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai"
-        },
-        {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
-        }
-      ],
-      "duration_ms": 396773,
-      "name": "Gold of the Azure - Marconi Union Remix",
-      "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 489320,
-      "name": "Spectral",
-      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "...Is Doomed",
-        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
-      },
-      "artists": [
-        {
-          "name": "Black Wing",
-          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
-        }
-      ],
-      "duration_ms": 505249,
-      "name": "If I Let Him In",
-      "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Let the Earth be Silent",
-        "url": "https://open.spotify.com/album/5kHFBHMQiNM05M6eN4R0ez"
-      },
-      "artists": [
-        {
-          "name": "Fvnerals",
-          "url": "https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu"
-        }
-      ],
-      "duration_ms": 452869,
-      "name": "For Horror Eats The Light",
-      "url": "https://open.spotify.com/track/5N4723h6DlwmmbpuNA895G"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
@@ -959,6 +891,74 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Set the Weather Fair: Seasons",
+        "url": "https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq"
+      },
+      "artists": [
+        {
+          "name": "Digitonal",
+          "url": "https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai"
+        },
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 396773,
+      "name": "Gold of the Azure - Marconi Union Remix",
+      "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "...Is Doomed",
+        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
+      },
+      "artists": [
+        {
+          "name": "Black Wing",
+          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
+        }
+      ],
+      "duration_ms": 505249,
+      "name": "If I Let Him In",
+      "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 489320,
+      "name": "Spectral",
+      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Let the Earth be Silent",
+        "url": "https://open.spotify.com/album/5kHFBHMQiNM05M6eN4R0ez"
+      },
+      "artists": [
+        {
+          "name": "Fvnerals",
+          "url": "https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu"
+        }
+      ],
+      "duration_ms": 452869,
+      "name": "For Horror Eats The Light",
+      "url": "https://open.spotify.com/track/5N4723h6DlwmmbpuNA895G"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Vintage Well",
         "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
@@ -975,8 +975,8 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "haunted (remixes)",
-        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
+        "name": "haunted, but it's ambient",
+        "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
         }
       ],
-      "duration_ms": 153984,
-      "name": "haunted (florence slowed version)",
-      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
+      "duration_ms": 136800,
+      "name": "haunted, but it's ambient",
+      "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "As Bright as the Night",
-      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Lie Beneath the Stars",
         "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
       },
@@ -1059,22 +1043,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "haunted, but it's ambient",
-        "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
       "artists": [
         {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 136800,
-      "name": "haunted, but it's ambient",
-      "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
+      "duration_ms": 296000,
+      "name": "As Bright as the Night",
+      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1099,6 +1079,26 @@
       "duration_ms": 437322,
       "name": "I filled my Lungs with the Necessary Air, and yelled! - Ben Lukas Boysen Rework",
       "url": "https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "haunted (remixes)",
+        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        }
+      ],
+      "duration_ms": 153984,
+      "name": "haunted (florence slowed version)",
+      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
     },
     {
       "added_at": "2023-09-22 12:14:33",

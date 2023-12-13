@@ -1,12 +1,12 @@
 {
-  "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 20069,
-  "original_name": "Chill Bops",
+  "description": "afrobeats: best served chill",
+  "num_followers": 20089,
+  "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTAwZmFmMTY2YjJjMTY4ODk4ZjQzZjI1YzZiZGMxNmU5YmQ4NDVj",
+  "snapshot_id": "MCxmOTE5MjY4ZGUzMGNiMWY1MDY1Y2JjMjQ1Mjc1MTQ4Mjg0ZjAwZTc1",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -51,6 +51,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Baby Riddim",
+        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Baby Riddim",
+      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Baby Riddim",
-        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Baby Riddim",
-      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "L.I.T (Lost In Translation)",
-        "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "40 Days",
-      "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "L.I.T (Lost In Translation)",
+        "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "40 Days",
+      "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -807,26 +807,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Sundress",
-        "url": "https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
       },
       "artists": [
         {
-          "name": "Chop Daily",
-          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         },
         {
-          "name": "Deyon Agoi",
-          "url": "https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT"
-        },
-        {
-          "name": "July 7",
-          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         }
       ],
-      "duration_ms": 132837,
-      "name": "Sundress",
-      "url": "https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D"
+      "duration_ms": 238917,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -851,22 +847,26 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
+        "name": "Sundress",
+        "url": "https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
         },
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Deyon Agoi",
+          "url": "https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT"
+        },
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
         }
       ],
-      "duration_ms": 238917,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
+      "duration_ms": 132837,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Do What U Want",
-        "url": "https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib"
-      },
-      "artists": [
-        {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
-        }
-      ],
-      "duration_ms": 112540,
-      "name": "Do What U Want",
-      "url": "https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "L.I.T.A",
         "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 228470,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Do What U Want",
+        "url": "https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib"
+      },
+      "artists": [
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        }
+      ],
+      "duration_ms": 112540,
+      "name": "Do What U Want",
+      "url": "https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1119,6 +1119,42 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "SUPARO (Remix)",
+        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
+      },
+      "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "SUPARO - Remix",
+      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "GROOVE WITH ME - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1AFLKfNYVhAgGZubUO2glF"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 165330,
+      "name": "GROOVE WITH ME - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "BIG TIME (Deluxe)",
         "url": "https://open.spotify.com/album/6od58yWAflemDXwGLtzUWd"
       },
@@ -1159,22 +1195,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "GROOVE WITH ME - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1AFLKfNYVhAgGZubUO2glF"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 165330,
-      "name": "GROOVE WITH ME - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 208692,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "SUPARO (Remix)",
-        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
-      },
-      "artists": [
-        {
-          "name": "WAYNE FLENORY",
-          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "SUPARO - Remix",
-      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Naked Wire",
+        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Naked Wire",
+      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Tighter",
         "url": "https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 210000,
       "name": "Tighter",
       "url": "https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Naked Wire",
-        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Naked Wire",
-      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "That's Alright",
-        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 232021,
-      "name": "That's Alright",
-      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
       },
@@ -1527,8 +1511,24 @@
       "duration_ms": 204444,
       "name": "Tales By Moonlight (Ft Amaarae)",
       "url": "https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "That's Alright",
+        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 232021,
+      "name": "That's Alright",
+      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
     }
   ],
-  "unique_name": "Chill Bops",
+  "unique_name": "Afro Chill",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2YOadVouRc8"
 }

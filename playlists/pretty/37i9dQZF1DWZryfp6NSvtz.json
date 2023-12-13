@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: Dead Poet Society",
-  "num_followers": 438453,
+  "num_followers": 438658,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDYzMTk1YTY5OWI4ZDcxOTcxNmM5MjkxOTZjMjI5NDllNGY2ZmRl",
+  "snapshot_id": "MCw2ODI5NzQ5M2ZhNDgxNTRjOTBlMGVhZWU1ODllOTM3MTUyMDc1MTlj",
   "tracks": [
     {
       "added_at": "2023-12-08 05:01:00",
@@ -211,6 +211,22 @@
       "duration_ms": 356149,
       "name": "Deconstruction",
       "url": "https://open.spotify.com/track/0qX3XuE9FpgCLoHYzsdIKM"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "DEATH CULT - 8323",
+        "url": "https://open.spotify.com/album/6E5Nnp3cPI7gGTIW9XJpqr"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "duration_ms": 198097,
+      "name": "FLESH AND BONE",
+      "url": "https://open.spotify.com/track/4jj7lOFhYu59x8QUgvQ6NJ"
     },
     {
       "added_at": "2023-12-08 05:01:00",

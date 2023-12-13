@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: TAEYEON",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: BABYMONSTER",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -3092,7 +3092,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 183826,
       "name": "Hmm-cheat",
       "url": "https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg"
@@ -4525,6 +4525,24 @@
     },
     {
       "album": {
+        "name": "Born to be XX",
+        "url": "https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN"
+    },
+    {
+      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
@@ -5508,7 +5526,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 233775,
       "name": "Screen Time (Feat. Hoshi of SEVENTEEN)",
       "url": "https://open.spotify.com/track/4yorFTfi9Tay8tG0NNK7vB"
@@ -6940,6 +6958,28 @@
       "duration_ms": 206920,
       "name": "Welcome To MY World (feat. n\u00e6vis)",
       "url": "https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N"
+    },
+    {
+      "album": {
+        "name": "What are we (Feat. PARK JIWON of fromis_9)",
+        "url": "https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa"
+      },
+      "artists": [
+        {
+          "name": "BAEKHO",
+          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
+        },
+        {
+          "name": "PARK JIWON of fromis_9",
+          "url": "https://open.spotify.com/artist/7HiDoJ7GFuGv7WNfu4qv8B"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178226,
+      "name": "What are we (Feat. PARK JIWON of fromis_9)",
+      "url": "https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3"
     },
     {
       "album": {

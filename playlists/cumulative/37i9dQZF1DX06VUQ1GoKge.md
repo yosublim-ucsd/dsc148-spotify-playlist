@@ -4,7 +4,7 @@
 
 > Attribute to the strength built through the years, as Robb would say.
 
-250 songs - 17 hr 14 min
+251 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,8 @@
 | [Under and Over It](https://open.spotify.com/track/7DyCmfT0WNViykLTHGT3yO) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 3:38 | 2021-03-29 | 2023-08-20 |
 | [Unsainted](https://open.spotify.com/track/2093eVNfimjmNjU1gk1ES7) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Unsainted](https://open.spotify.com/album/6OmUwiZBss5csDAD3IAhdD) | 4:20 | 2021-03-29 | 2022-07-29 |
 | [Unsainted](https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 4:20 | 2021-03-29 |  |
-| [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-10-05 |  |
+| [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-10-05 | 2023-12-13 |
+| [Unstoppable](https://open.spotify.com/track/6l769YojBjFfjOItRJQPCM) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa) | 3:58 | 2023-11-30 |  |
 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 | 2023-02-24 |  |
 | [Viral](https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:01 | 2021-03-29 | 2023-01-02 |
 | [Vivid](https://open.spotify.com/track/4oOo9YXmxtrzCNOdTN7xI3) | [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w) | [The Future in Whose Eyes?](https://open.spotify.com/album/3AglitukJSID7M51tDEDdH) | 4:28 | 2021-03-29 | 2022-07-19 |

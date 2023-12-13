@@ -4,7 +4,7 @@
 
 > Remembering the voices that have always spoken truth to power.
 
-46 songs - 4 hr 5 min
+47 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Last Speech](https://open.spotify.com/track/3PWTko96IQ2lNlUpzufFRT) | [Malcolm X](https://open.spotify.com/artist/2IsulP0BplLNJn8BGsvUQo) | [Speeches By Malcom X \- The Ultimate Collection](https://open.spotify.com/album/0K7r0Jn2cl3evFj6MFAK2c) | 14:03 | 2021-04-16 |  |
 | [Lift Every Voice and Sing](https://open.spotify.com/track/6utcrEbz9W9cFoha3ouoc2) | [The Boys Choir Of Harlem](https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11) | [We Shall Overcome](https://open.spotify.com/album/7cklzk697oyuNTu9QJadxB) | 5:30 | 2021-04-16 |  |
 | [My Beliefs](https://open.spotify.com/track/079pZO9Yzp8zyXf9j8JLK3) | [Assata Shakur](https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew) | [The Vinyl Project](https://open.spotify.com/album/0LIGpl05li5brnrlNOGstL) | 0:30 | 2021-04-16 | 2022-07-29 |
-| [My Beliefs](https://open.spotify.com/track/4iuf8G1xTIy9GxebzDTOvm) | [Assata Shakur](https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew) | [The Vinyl Project](https://open.spotify.com/album/2lfolXtk5xklnxieg24LQR) | 0:30 | 2021-04-16 |  |
+| [My Beliefs](https://open.spotify.com/track/4iuf8G1xTIy9GxebzDTOvm) | [Assata Shakur](https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew) | [The Vinyl Project](https://open.spotify.com/album/2lfolXtk5xklnxieg24LQR) | 0:30 | 2021-04-16 | 2023-12-13 |
+| [My Beliefs](https://open.spotify.com/track/57xQwyodBEko9mzkqx2USC) | [Assata Shakur](https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew) | [The Vinyl Project](https://open.spotify.com/album/5BdWkNEy7V4sNqHupJj1NJ) | 0:30 | 2021-04-16 |  |
 | [My Petition](https://open.spotify.com/track/2op7tTCjyyDTP1nMGoB7aC) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 4:11 | 2021-04-16 |  |
 | [Mystery of Iniquity \- Live](https://open.spotify.com/track/5KZwRD3KklSP73jnLoNWtF) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 5:10 | 2021-04-16 |  |
 | [On Becoming An Activist](https://open.spotify.com/track/0lyAZ6lmJKcmJRZGDxGAaw) | [Angela Davis](https://open.spotify.com/artist/4LsP9Fcfyln6GOh8GwYDkT) | [The Prison Industrial Complex](https://open.spotify.com/album/4CAWyoeSPevGr4NyTD9U3U) | 3:36 | 2021-04-16 |  |

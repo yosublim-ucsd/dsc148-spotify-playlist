@@ -2,9 +2,9 @@
 
 ### [SPY×FAMILY](https://open.spotify.com/playlist/37i9dQZF1DX8hWYpNQhxSa)
 
-> Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©TE/S, SFP
+> Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©2023「劇場版 SPY×FAMILY」製作委員会　©遠藤達哉／集英社
 
-139 songs - 11 hr 43 min
+141 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Small Daily Life](https://open.spotify.com/track/4eGZlL5m5KT627dtNj7zxs) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:54 | 2022-06-25 | 2022-07-29 |
 | [snake in the grass](https://open.spotify.com/track/0yIkqTBYemyfdUZfVXRj2p) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:17 | 2022-06-25 | 2022-07-29 |
 | [snake in the grass](https://open.spotify.com/track/1PXozEaoPMr6H4mG79BGBP) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 2:17 | 2022-06-25 |  |
+| [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-13 |  |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-09-28 |  |
 | [State Security Service](https://open.spotify.com/track/2xS1SaDq0xETzdA7DJHOdt) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:46 | 2022-06-25 | 2022-07-29 |
 | [State Security Service](https://open.spotify.com/track/5QPa7jsgJUnxw405SLh4iW) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:46 | 2022-06-25 |  |
@@ -141,6 +142,7 @@
 | [without tears](https://open.spotify.com/track/17AAEk14kARZqTVti9uqvq) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 3:58 | 2022-06-25 |  |
 | [without tears](https://open.spotify.com/track/3mPTk5z1YXfJIRDzZLjv0s) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 3:58 | 2022-06-25 | 2022-07-29 |
 | [woolly](https://open.spotify.com/track/2Fl0EuplSz1Q8EqxlGKtWR) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY \(ORIGINAL TELEVISION SOUNDTRACK\)](https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic) | 1:43 | 2022-12-20 |  |
+| [『劇場版 SPY×FAMILY CODE: White』スペシャルメッセージ！](https://open.spotify.com/track/6HujhRfSJqGnJ1cG3Gi7xb) | [『劇場版 SPY×FAMILY CODE: White』](https://open.spotify.com/artist/16AwjLUzJT8iLBo6LDLCse) | [『劇場版 SPY×FAMILY CODE: White』スペシャルメッセージ！](https://open.spotify.com/album/06Rq1cHo2LJxitn2h629qN) | 0:26 | 2023-12-13 |  |
 | [トドメの一撃](https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:10 | 2023-10-14 |  |
 | [ミックスナッツ](https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ミックスナッツ](https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz) | 3:33 | 2022-05-08 | 2022-07-29 |
 | [予告編 〜本編は4/10スタート](https://open.spotify.com/episode/6AnGu6LG6tOWAOaBT5h4xa) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | 1:00 | 2022-12-20 | 2023-01-20 |

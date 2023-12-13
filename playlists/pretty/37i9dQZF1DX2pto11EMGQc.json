@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 93638,
+  "num_followers": 93635,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDBmZTY1N2FhZTkyNDA5YjUzMzMwN2VkNzE5NTFlYzkyNWU5MDg0",
+  "snapshot_id": "MCxmZTc3NzU1ZDdiNjZmZTk1ZGExNWI4MmFkNjcxOGRmZGMzNDliNTUz",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "Laugh Now Cry Later (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 261492,
       "name": "Laugh Now Cry Later (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "The Click (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3fhEairiL0g4qfXVUTFtF1"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Burn The House Down",
+      "url": "https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
-        "name": "The Click (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3fhEairiL0g4qfXVUTFtF1"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Burn The House Down",
-      "url": "https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC"
     },
     {
       "added_at": "2022-05-11 15:37:27",

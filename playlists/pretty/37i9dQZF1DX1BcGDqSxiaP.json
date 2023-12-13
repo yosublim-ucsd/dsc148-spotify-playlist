@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 21591,
+  "num_followers": 21597,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjU3MzBkZGI5YzdhMWMyMjM0N2RhZTM3NjBmMGQ0YTdkNWIyZTU3",
+  "snapshot_id": "MCwzOWU5NDVmNjBkZmVhYjdkN2Q5ZWJkZDhmOWIyOTc3YjY0YzIxYjNk",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Salt In My Wounds",
-      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "Country Ghetto",
         "url": "https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 358306,
       "name": "The Sun Is Shining Down",
       "url": "https://open.spotify.com/track/411kkbixYrnqF7IAU8cSko"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Salt In My Wounds",
+      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
     },
     {
       "added_at": "2023-05-17 15:52:13",

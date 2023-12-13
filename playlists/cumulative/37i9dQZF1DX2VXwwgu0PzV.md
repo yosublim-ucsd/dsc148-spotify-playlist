@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas?si=2aNAVs5GRtS8zAQIBnp6eQ">Victor Thompson</a>
 
-515 songs - 1 day 6 hr 25 min
+516 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Formula 1](https://open.spotify.com/track/7qJtU5f9m6yulehi4GjktK) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Formula 1](https://open.spotify.com/album/5tEiXnkdcYcSGZyGPuaDDH) | 2:38 | 2023-11-24 |  |
 | [Free](https://open.spotify.com/track/41HYH4xwi9lv6ZiVsxTL3S) | [Lapel J Datpastorboi](https://open.spotify.com/artist/1XAFWrXyu7iWY0ZixxUYL6), [G ben](https://open.spotify.com/artist/7gxmVlZ8xqNzB9Sup3rh21) | [Free](https://open.spotify.com/album/6oeNMAEIvOiiPc4dRpwlkI) | 4:13 | 2023-07-21 | 2023-08-12 |
 | [Free, Pt\. 2](https://open.spotify.com/track/5FY9J29KgfImVtacAJor1F) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Free, Pt\. 2](https://open.spotify.com/album/0uBdvE9bfkTdKQcQGZ5HAZ) | 3:46 | 2023-11-10 |  |
+| [Freedom Dance](https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Freedom Dance](https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH) | 2:54 | 2023-12-12 |  |
 | [Friday](https://open.spotify.com/track/6XrKk0ENod8h5oK47TohYg) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Glitzbeatz](https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK) | [The Rubble](https://open.spotify.com/album/7Kjqr2xjgOQpFItLq5nvkz) | 3:05 | 2023-10-27 |  |
 | [Get Life](https://open.spotify.com/track/1IebogScf6Y1hidP6VMYoi) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Get Life](https://open.spotify.com/album/4ze6VirKRBFHmYcBUoeE0W) | 2:36 | 2023-04-07 | 2023-06-16 |
 | [Get Up \- Refix](https://open.spotify.com/track/2I7SGytzYZY3Cu0hliNToq) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Kerusso Records](https://open.spotify.com/artist/1bXSwH3GPHWrNYCLDz1I2O) | [Get Up \(Refix\)](https://open.spotify.com/album/3dAN2xmNKnjMlO0COMvyRR) | 3:13 | 2023-12-01 |  |

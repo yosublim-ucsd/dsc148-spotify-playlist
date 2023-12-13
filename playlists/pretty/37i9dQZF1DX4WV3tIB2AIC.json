@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best gaming tracks of the year. Cover: ericdoa",
-  "num_followers": 10461,
+  "num_followers": 10545,
   "original_name": "Top Gaming Tracks of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTUyMmYyMzZmNWI1YjgyZDU5NmE1ZTIwMmY2YTg5Y2M1YTA1NzEz",
+  "snapshot_id": "MCwxMjRmZTVhZWFlYzVkOGY2MzkzYzAxNzA1MjhkZWZmYmY5MThjYzdh",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Hate.",
+        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Hate.",
+      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 175271,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Hate.",
-        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Hate.",
-      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
     },
     {
       "added_at": "2023-11-29 12:16:00",

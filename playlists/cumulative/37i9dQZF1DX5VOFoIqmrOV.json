@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 239372,
       "name": "Andamaina Lokam",
       "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
@@ -184,6 +184,32 @@
       "duration_ms": 226187,
       "name": "Antha Ishtam",
       "url": "https://open.spotify.com/track/1VNGeVuR8QfMunZ3RzoN5m"
+    },
+    {
+      "album": {
+        "name": "Kushi (Telugu)",
+        "url": "https://open.spotify.com/album/78bohc0Dzw7AoPpqVn9rsl"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282222,
+      "name": "Aradhya",
+      "url": "https://open.spotify.com/track/3nCqpSpwxuO4gYF1wGS6WM"
     },
     {
       "album": {
@@ -380,7 +406,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 280000,
       "name": "Bapu Gari Bommo",
       "url": "https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F"
@@ -406,7 +432,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 259096,
       "name": "Bhale Bhale Banjara",
       "url": "https://open.spotify.com/track/1GP0KRgqPjkzG9SGuYZKZA"
@@ -462,7 +488,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Bheemla Nayak Title Song",
       "url": "https://open.spotify.com/track/6BiLK0zV9MULmHcM7G7L2W"
@@ -602,7 +628,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 237263,
       "name": "Bullet Song",
       "url": "https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa"
@@ -1020,7 +1046,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 224026,
       "name": "Darlingey",
       "url": "https://open.spotify.com/track/5PXmfhFNAxiqK86Xknc1HB"
@@ -1776,7 +1802,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 266760,
       "name": "Idhedho Bagundhe",
       "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
@@ -2730,7 +2756,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 225953,
       "name": "Mari Antaga",
       "url": "https://open.spotify.com/track/1VBvgXzwESW9V7DXXGSiwm"
@@ -2880,7 +2906,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 83448,
       "name": "Mirchi",
       "url": "https://open.spotify.com/track/4cjoZb33Fk1dZYrIRMg8Q6"
@@ -3019,6 +3045,28 @@
     },
     {
       "album": {
+        "name": "Virupaksha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7vQjNbwpLh0RNmFihCMiVa"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222135,
+      "name": "Nachavule Nachavule",
+      "url": "https://open.spotify.com/track/262JdRWNmvNX8maNyOz0c7"
+    },
+    {
+      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F"
       },
@@ -3150,7 +3198,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 240070,
       "name": "Ninnele",
       "url": "https://open.spotify.com/track/7uo3wgB8We99kdcJpKDiq9"
@@ -3190,7 +3238,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 331133,
       "name": "Ninnu Chudagaane",
       "url": "https://open.spotify.com/track/1E5zyR7GT3PKjH3cqhVXVf"
@@ -3587,6 +3635,32 @@
     },
     {
       "album": {
+        "name": "Adipurush (TELUGU)",
+        "url": "https://open.spotify.com/album/0zRFnm1hqjtY0c7ozMK2Lh"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201130,
+      "name": "Priya Mithunam (Telugu)",
+      "url": "https://open.spotify.com/track/4wFU6Q4vInTg2HQ2mkko8x"
+    },
+    {
+      "album": {
         "name": "Majili",
         "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
       },
@@ -3928,6 +4002,32 @@
       "duration_ms": 219818,
       "name": "Samajavaragamana",
       "url": "https://open.spotify.com/track/3j9DrRebdWK1jkpOw9FZUy"
+    },
+    {
+      "album": {
+        "name": "Samayama (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204181,
+      "name": "Samayama (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
     },
     {
       "album": {
@@ -4348,7 +4448,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 213437,
       "name": "Tharagathi Gadhi",
       "url": "https://open.spotify.com/track/7h8pQvwKxRYTt3oRGjNT93"
@@ -4406,7 +4506,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 257925,
       "name": "Top Lesi Poddi",
       "url": "https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5"
@@ -4630,7 +4730,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 263729,
       "name": "Violin Song",
       "url": "https://open.spotify.com/track/1C2gJaINSao4GEXySYopiS"

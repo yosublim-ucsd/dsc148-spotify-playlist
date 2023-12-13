@@ -17362,6 +17362,24 @@
     {
       "album": {
         "name": "To Learn, More",
+        "url": "https://open.spotify.com/album/7luXeiReXJUtjhqSqBORT7"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196313,
+      "name": "Monogamy",
+      "url": "https://open.spotify.com/track/06lClREmXPgjQmqXoTOibz"
+    },
+    {
+      "album": {
+        "name": "To Learn, More",
         "url": "https://open.spotify.com/album/39ePBzunWnT1ieSGbjUbsM"
       },
       "artists": [
@@ -17372,7 +17390,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 196313,
       "name": "Monogamy",
       "url": "https://open.spotify.com/track/0uCKOztTB9eW3ApEAGpeS5"

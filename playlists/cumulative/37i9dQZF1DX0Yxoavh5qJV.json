@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/6zsXpKxvpjmwXvoxPdN2eQ"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302013,
+      "name": "Grown-Up Christmas List",
+      "url": "https://open.spotify.com/track/24lCPIiEWKg9K7k1Gh1h8q"
+    },
+    {
+      "album": {
         "name": "'Tis The Season",
         "url": "https://open.spotify.com/album/15q3oOSeIVFQeAtwKWiWcn"
       },
@@ -3540,7 +3558,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 164053,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg"

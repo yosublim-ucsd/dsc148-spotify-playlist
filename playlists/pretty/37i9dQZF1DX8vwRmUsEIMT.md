@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Libianca
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,342 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,389 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Lunar Eclipse](https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Lunar Eclipse](https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6) | 2:56 |
 | 80 | [Better Way To Live](https://open.spotify.com/track/1ifVrAQPH2DZ3FBFu48rFw) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Better Way To Live](https://open.spotify.com/album/5gXiWUFAEycihknbHFFRUM) | 3:01 |
 
-Snapshot ID: `MCxiNzU3NTFmMzIzMTk1ZDUxYTBjMmEyZGQxNzY1MDQ3MmQ5M2E2MWUz`
+Snapshot ID: `MCw3MWE3Y2U1MjRmZmMxZDY1MWFkMWViNWEwOGQ3MzcyYjE4ZjI0YjE3`

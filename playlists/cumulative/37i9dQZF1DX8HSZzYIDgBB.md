@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Jarina De Marco en portada.
 
-299 songs - 17 hr 56 min
+300 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Ildé Pa’ Beberte](https://open.spotify.com/track/59sYzy6WyqIzHQS2bH32cy) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ildé Pa’ Beberte](https://open.spotify.com/album/7CDuf3GTMDB759dQwH0yPw) | 3:28 | 2021-10-05 | 2022-07-28 |
 | [Ildé Pa’ Beberte](https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ildé Pa’ Beberte](https://open.spotify.com/album/1QX928uCKilM7KCE9G0xhO) | 3:28 | 2021-10-05 | 2023-04-01 |
 | [Joyas](https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Joyas](https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN) | 2:52 | 2022-09-15 | 2023-04-01 |
-| [Juntos](https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:19 | 2023-02-28 |  |
+| [Juntos](https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:19 | 2023-02-28 | 2023-12-13 |
 | [Kiss the Frog](https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0) | [Afrodita](https://open.spotify.com/artist/63b3XLtJeDkzJqg6yQWCYm), [Asagi Saundo](https://open.spotify.com/artist/54X6HgtuXxwfT1QBhwwgMU) | [New Latam Beats from Mexico Curated by Diguital Trip](https://open.spotify.com/album/3T4SxLhzVaweReuWbisvrz) | 7:14 | 2022-04-12 | 2023-04-01 |
 | [Kristina](https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Kristina](https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT) | 3:58 | 2023-03-31 | 2023-12-07 |
 | [La Culebra](https://open.spotify.com/track/5amzhRZcpT9RSkGJVdnlRR) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [La Culebra](https://open.spotify.com/album/7dUAcht0jlp9S3mTCc9ye9) | 3:52 | 2023-03-22 | 2023-06-11 |
@@ -241,6 +241,7 @@
 | [Real Luv](https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:25 | 2023-12-07 |  |
 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 | 2021-10-05 | 2023-12-04 |
 | [Rúmbala](https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Rúmbala](https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR) | 2:58 | 2022-01-17 |  |
+| [Sabata](https://open.spotify.com/track/4XhU47wfklTbNr5o7xzw2e) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Sabata](https://open.spotify.com/album/1bExPBNKnxGVnH6sZX0lkL) | 2:33 | 2023-12-12 |  |
 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 | 2021-12-17 | 2023-12-07 |
 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 | 2022-07-01 | 2022-08-02 |
 | [Sagitario](https://open.spotify.com/track/47o3EFBMHF6d7HgKbmA0oo) | [Mila La Morena](https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P), [C∆IRNS](https://open.spotify.com/artist/0VWzC7LRAtMuSYC5wndrPb) | [Sagitario](https://open.spotify.com/album/0caakYqzmMN6U2kOsdBugO) | 4:25 | 2023-05-05 | 2023-12-10 |

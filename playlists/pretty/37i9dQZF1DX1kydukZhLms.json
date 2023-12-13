@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1301246,
+  "num_followers": 1301728,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzYxNGM1MGZhMTY1NmQ3OWNmYjI3NjM1YjJhYTU5YmM4M2YyZGRm",
+  "snapshot_id": "MCwzOWVlYmExZDNjZDY2NGIzODUyNTA0OWFmM2U5NjU1MzA0ZWE1MGE3",
   "tracks": [
     {
       "added_at": "2023-02-06 10:03:23",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 355915,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/60a5c4dDARPsksClcom0OD"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 237346,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 355915,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/60a5c4dDARPsksClcom0OD"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Vulgar Display of Power",
         "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
@@ -911,18 +895,34 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
       "artists": [
         {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Follow Your Heart",
+        "url": "https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "Follow Your Heart",
+      "url": "https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Follow Your Heart",
-        "url": "https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB"
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
         }
       ],
-      "duration_ms": 245626,
-      "name": "Follow Your Heart",
-      "url": "https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd"
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396440,
+      "name": "The Unforgiven II",
+      "url": "https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
         "name": "Whitesnake (2018 Remaster)",
         "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 265160,
       "name": "You're All I Need",
       "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396440,
-      "name": "The Unforgiven II",
-      "url": "https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Whitesnake (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 397768,
-      "name": "Still of the Night - 2018 Remaster",
-      "url": "https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 229493,
       "name": "The Price",
       "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Whitesnake (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 397768,
+      "name": "Still of the Night - 2018 Remaster",
+      "url": "https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2t8hAwOuHbNOl76LBWMU0R"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
         "name": "Kings of Metal",
         "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+        "name": "Stained Class",
+        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 268853,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2t8hAwOuHbNOl76LBWMU0R"
+      "duration_ms": 409800,
+      "name": "Beyond the Realms of Death",
+      "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Stained Class",
-        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
+        "name": "Keeper of the Seven Keys, Pts. I & II (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6YpYaGFJFed2XKq26Qthz5"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 409800,
-      "name": "Beyond the Realms of Death",
-      "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
+      "duration_ms": 283693,
+      "name": "A Tale That Wasn't Right",
+      "url": "https://open.spotify.com/track/4wVLhKcqtrfVahc5WfleaS"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1583,22 +1599,6 @@
       "duration_ms": 271440,
       "name": "Fall to Pieces",
       "url": "https://open.spotify.com/track/4A9O9e4iTm4bYnOPSzWaGb"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
-        "name": "Keeper of the Seven Keys, Pts. I & II (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6YpYaGFJFed2XKq26Qthz5"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 283693,
-      "name": "A Tale That Wasn't Right",
-      "url": "https://open.spotify.com/track/4wVLhKcqtrfVahc5WfleaS"
     },
     {
       "added_at": "2023-02-06 10:03:23",

@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Kyan",
-  "num_followers": 135716,
+  "num_followers": 135715,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGYxZjgxNTUwY2RhMWU3ODUzZjMxZWQzMjM1NTgyNTg4Y2UyOGZj",
+  "snapshot_id": "MCxmYmFiYmZiYjIzYzE4MWVkNjc0ZWQ3M2QwZmRiNmQxYWUwMGYwNzhi",
   "tracks": [
     {
       "added_at": "2023-12-08 03:33:34",
@@ -411,6 +411,42 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nick Nash",
+          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
+        },
+        {
+          "name": "Wylo",
+          "url": "https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 210545,
+      "name": "Vida Chique",
+      "url": "https://open.spotify.com/track/6tGQ5RuoGC9jYuiVVLWBMo"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
       },
@@ -451,42 +487,6 @@
       "duration_ms": 202451,
       "name": "Sem Compaix\u00e3o",
       "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nick Nash",
-          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
-        },
-        {
-          "name": "Wylo",
-          "url": "https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 210545,
-      "name": "Vida Chique",
-      "url": "https://open.spotify.com/track/6tGQ5RuoGC9jYuiVVLWBMo"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -603,50 +603,6 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Um Toque de Malandragem",
-        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Ensinamento do Pai",
-      "url": "https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "Cheiro de Sexo",
-      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
         "name": "Clickbait",
         "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
       },
@@ -671,6 +627,70 @@
       "duration_ms": 161344,
       "name": "Clickbait",
       "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
+        "name": "Um Toque de Malandragem",
+        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Ensinamento do Pai",
+      "url": "https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "Cheiro de Sexo",
+      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -703,22 +723,22 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Espero Que Entendam (Freestyle)",
-        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
         },
         {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
         }
       ],
-      "duration_ms": 211859,
-      "name": "Espero Que Entendam - Freestyle",
-      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+      "duration_ms": 154789,
+      "name": "Porsche \"Ye Yo\"",
+      "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -747,22 +767,30 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+        "name": "Londres Freestyle",
+        "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
       },
       "artists": [
         {
-          "name": "J\u00e9 Santiago",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
         }
       ],
-      "duration_ms": 154789,
-      "name": "Porsche \"Ye Yo\"",
-      "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
+      "duration_ms": 128000,
+      "name": "Londres Freestyle",
+      "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -835,34 +863,6 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Londres Freestyle",
-        "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Londres Freestyle",
-      "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -915,30 +915,6 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/5OwBKcZtC3sa8Pwnu9Mqho"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        }
-      ],
-      "duration_ms": 130690,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/7jEi9ueOKZkwsnqIuWB2PB"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
         "name": "O Bagulho \u00c9 Trap II",
         "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
@@ -963,22 +939,26 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Bem Vindo Natal Mixtape 2",
-        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/5OwBKcZtC3sa8Pwnu9Mqho"
       },
       "artists": [
         {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
         }
       ],
-      "duration_ms": 129923,
-      "name": "Toca Na Corrente",
-      "url": "https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq"
+      "duration_ms": 130690,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/7jEi9ueOKZkwsnqIuWB2PB"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -1007,22 +987,18 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "BLOCKO",
-        "url": "https://open.spotify.com/album/2AUYOZad5ek65kNUprn5EM"
+        "name": "Fontalis / N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
+        "url": "https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl"
       },
       "artists": [
         {
-          "name": "N.A.N.A.",
-          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
-        },
-        {
-          "name": "The Boy",
-          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
         }
       ],
-      "duration_ms": 151489,
-      "name": "BLOCKO",
-      "url": "https://open.spotify.com/track/34Tg2hUpJ0KfHktOEOmv8G"
+      "duration_ms": 91890,
+      "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
+      "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -1047,18 +1023,42 @@
     {
       "added_at": "2023-12-08 03:33:34",
       "album": {
-        "name": "Fontalis / N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
-        "url": "https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl"
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
       },
       "artists": [
         {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         }
       ],
-      "duration_ms": 91890,
-      "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
-      "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
+      "duration_ms": 129923,
+      "name": "Toca Na Corrente",
+      "url": "https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
+        "name": "BLOCKO",
+        "url": "https://open.spotify.com/album/2AUYOZad5ek65kNUprn5EM"
+      },
+      "artists": [
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        }
+      ],
+      "duration_ms": 151489,
+      "name": "BLOCKO",
+      "url": "https://open.spotify.com/track/34Tg2hUpJ0KfHktOEOmv8G"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -1079,26 +1079,6 @@
       "duration_ms": 159798,
       "name": "FREDDIE MERCURY",
       "url": "https://open.spotify.com/track/4EpS720DSnhvLM9TV995M1"
-    },
-    {
-      "added_at": "2023-12-08 03:33:34",
-      "album": {
-        "name": "Bem Vindo Natal Mixtape 2",
-        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
-      },
-      "artists": [
-        {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Sa\u00ed da Biqueira",
-      "url": "https://open.spotify.com/track/7DOJ3635MnSx8Q7HMOtog1"
     },
     {
       "added_at": "2023-12-08 03:33:34",
@@ -1211,6 +1191,26 @@
       "duration_ms": 363145,
       "name": "TAMBOR",
       "url": "https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY"
+    },
+    {
+      "added_at": "2023-12-08 03:33:34",
+      "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Sa\u00ed da Biqueira",
+      "url": "https://open.spotify.com/track/7DOJ3635MnSx8Q7HMOtog1"
     },
     {
       "added_at": "2023-12-08 03:33:34",

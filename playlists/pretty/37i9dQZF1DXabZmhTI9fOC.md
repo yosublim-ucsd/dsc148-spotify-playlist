@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,120 likes - 225 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,136 likes - 225 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 46 | [Ready or Not \(feat\. Esthero\)](https://open.spotify.com/track/0tjTzWkZwjoyQwd0NgnL3y) | [Mischa "Book" Chillak](https://open.spotify.com/artist/31nZOLCXFsFlhMP1BBhfsa), [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Ready or Not \(feat\. Esthero\)](https://open.spotify.com/album/6cm8vvv5HPoiF13ebfCR9a) | 2:33 |
 | 47 | [Thinking](https://open.spotify.com/track/7A4EuppedQjfYJwR9Rpbvs) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Thinking](https://open.spotify.com/album/6ba6t2QiNOTPDft0CLToQ4) | 2:41 |
 | 48 | [Sunshine](https://open.spotify.com/track/19AbIIdWxmJoLkk41jJWkc) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR: The Full Spectrum](https://open.spotify.com/album/5PxSXvwxo1pKKcEl0S6qY7) | 2:29 |
-| 49 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 |
+| 49 | [No One Dies From Love](https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 3:06 |
 | 50 | [Start of Something New](https://open.spotify.com/track/28eWw6U9PofoJbLbp3LdSe) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Start of Something New](https://open.spotify.com/album/4dhMHtA1NZMSjwf8RqRXvM) | 3:02 |
 | 51 | [Whose Side Are You On](https://open.spotify.com/track/0MOlM2M1hR6MYzQtXe4GVd) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Cinematic Songs \(Vol\. 1\)](https://open.spotify.com/album/6uRzweLeJ13G56tHv7zvWK) | 3:11 |
 | 52 | [Tattoo Me](https://open.spotify.com/track/6w7pIPYCU3rdEN4bkA7uM9) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Tattoo Me](https://open.spotify.com/album/0FQkq0uVVyzhePyM5zr1qq) | 3:17 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 224 | [Rise Above](https://open.spotify.com/track/1hXiLd0EV2krVVBQaxcjnB) | [Veigar Margeirsson](https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF) | [Rise Above \- Position Music Orchestral Series Vol\. 8](https://open.spotify.com/album/5kimW3aRgVsPGVIrrAkYCF) | 2:41 |
 | 225 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
 
-Snapshot ID: `MCxiNDU1OTMwMjUzMTFhZjkzMzk5YjU5ODI1NzI2OWIwZTZmZjk3YzA1`
+Snapshot ID: `MCw5YmQwN2E4MWQxY2MwZWQ4MzEwMjRlMzFkMjdkOWRhZmQyNjgyNGZi`

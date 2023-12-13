@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "ALLERGICA ALLE FRAGOLE",
+        "url": "https://open.spotify.com/album/3uaa9er9i5Qmpq64qmS8N5"
+      },
+      "artists": [
+        {
+          "name": "AYLE",
+          "url": "https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106971,
+      "name": "ALLERGICA ALLE FRAGOLE",
+      "url": "https://open.spotify.com/track/0hYdFsDUc23IOXCra6ddkB"
+    },
+    {
+      "album": {
         "name": "A\u0160",
         "url": "https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE"
       },

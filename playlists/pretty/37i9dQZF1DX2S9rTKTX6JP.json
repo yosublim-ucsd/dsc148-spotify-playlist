@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 665835,
+  "num_followers": 665906,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTI5OGRkZTRkN2Y0M2FlZWFmMWE1ZDJkNjEyMzE1OGY1OGNkNGQx",
+  "snapshot_id": "MCw4YTVkODJmYWExYjc2OTdjZTIzMTMwOWMxMGVhZmUxOGI2OTkyMWVh",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
+        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 238626,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq"
+      "duration_ms": 274829,
+      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
+      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
-        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 274829,
-      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
-      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
+      "duration_ms": 238626,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Falling In",
         "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 315491,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Punk Goes 90's, Vol. 2",
-        "url": "https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/4mBJUbN4VLcpT36O4uf8t3"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Don't Worry About Me",
         "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 143360,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Punk Goes 90's, Vol. 2",
+        "url": "https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/4mBJUbN4VLcpT36O4uf8t3"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Rebels",
         "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 278280,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "The Human Condition (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4ZtEyTG6s7MfPjoEDrxH9C"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 214325,
+      "name": "Give Me One Reason (The Plug)",
+      "url": "https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Girl With the Dragon Tattoo",
         "url": "https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 167508,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "The Human Condition (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4ZtEyTG6s7MfPjoEDrxH9C"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 214325,
-      "name": "Give Me One Reason (The Plug)",
-      "url": "https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "The Chain (from Gears 5)",
+        "url": "https://open.spotify.com/album/0oP07JNydHXvXKegHE675I"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 252170,
+      "name": "The Chain (from Gears 5)",
+      "url": "https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
       },
@@ -2287,22 +2303,6 @@
       "duration_ms": 123733,
       "name": "Bag Lady / Split - Live",
       "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "The Chain (from Gears 5)",
-        "url": "https://open.spotify.com/album/0oP07JNydHXvXKegHE675I"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 252170,
-      "name": "The Chain (from Gears 5)",
-      "url": "https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Crawling",
+        "url": "https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
         "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 211616,
       "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
       "url": "https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Crawling",
-        "url": "https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc"
-      },
-      "artists": [
-        {
-          "name": "Dream State",
-          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Crawling",
-      "url": "https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby"
     },
     {
       "added_at": "2023-11-17 05:00:00",

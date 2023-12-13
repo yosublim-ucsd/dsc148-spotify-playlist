@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Enjoy music & episodes of \"SPY\u00d7FAMILY\"! /\u300cSPY\u00d7FAMILY\u300d\u306e\u697d\u66f2\u3068\u30a8\u30d4\u30bd\u30fc\u30c9\u3092\uff11\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\u00a9TE/S, SFP",
+  "description": "Enjoy music & episodes of \"SPY\u00d7FAMILY\"! /\u300cSPY\u00d7FAMILY\u300d\u306e\u697d\u66f2\u3068\u30a8\u30d4\u30bd\u30fc\u30c9\u3092\uff11\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\u00a92023\u300c\u5287\u5834\u7248 SPY\u00d7FAMILY\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a\u3000\u00a9\u9060\u85e4\u9054\u54c9\uff0f\u96c6\u82f1\u793e",
   "name": "SPY\u00d7FAMILY",
   "tracks": [
     {
@@ -1705,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "SOULSOUP",
+        "url": "https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314469,
+      "name": "SOULSOUP",
+      "url": "https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi"
+    },
+    {
+      "album": {
         "name": "SOUVENIR",
         "url": "https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7"
       },
@@ -2416,6 +2434,24 @@
       "duration_ms": 103333,
       "name": "woolly",
       "url": "https://open.spotify.com/track/2Fl0EuplSz1Q8EqxlGKtWR"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/06Rq1cHo2LJxitn2h629qN"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f",
+          "url": "https://open.spotify.com/artist/16AwjLUzJT8iLBo6LDLCse"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26901,
+      "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/6HujhRfSJqGnJ1cG3Gi7xb"
     },
     {
       "album": {

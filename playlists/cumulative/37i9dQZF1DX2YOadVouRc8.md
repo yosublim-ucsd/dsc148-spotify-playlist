@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2YOadVouRc8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2YOadVouRc8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2YOadVouRc8)
 
-### [Chill Bops](https://open.spotify.com/playlist/37i9dQZF1DX2YOadVouRc8)
+### [Afro Chill](https://open.spotify.com/playlist/37i9dQZF1DX2YOadVouRc8)
 
-> Slow jams from West Africa that unwind and relax
+> afrobeats: best served chill
 
 337 songs - 16 hr 47 min
 

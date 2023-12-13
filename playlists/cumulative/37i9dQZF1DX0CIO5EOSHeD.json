@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2020-10-27",
   "description": "Slacker jams. Cover: feeble little horse",
-  "name": "Lo-fi Indie",
+  "name": "Lofi Indie",
   "tracks": [
     {
       "album": {
@@ -460,6 +460,24 @@
       "duration_ms": 249405,
       "name": "Apex",
       "url": "https://open.spotify.com/track/7iKBBvHlTccAOg62uOC0jx"
+    },
+    {
+      "album": {
+        "name": "Mammalian Sighing Reflex",
+        "url": "https://open.spotify.com/album/31KiskR7q89oowARNCmSMG"
+      },
+      "artists": [
+        {
+          "name": "Wilbur Soot",
+          "url": "https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159141,
+      "name": "Around the Pomegranate",
+      "url": "https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3"
     },
     {
       "album": {
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 182250,
       "name": "buzzkill bummer",
       "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
@@ -3414,7 +3432,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 228898,
       "name": "Jelsy",
       "url": "https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF"
@@ -3916,6 +3934,24 @@
       "duration_ms": 136649,
       "name": "mean creek.",
       "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
+    },
+    {
+      "album": {
+        "name": "Mammalian Sighing Reflex",
+        "url": "https://open.spotify.com/album/31KiskR7q89oowARNCmSMG"
+      },
+      "artists": [
+        {
+          "name": "Wilbur Soot",
+          "url": "https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230377,
+      "name": "Melatonin 130",
+      "url": "https://open.spotify.com/track/5Iy5ERWGB2lLscr6SiZHT6"
     },
     {
       "album": {

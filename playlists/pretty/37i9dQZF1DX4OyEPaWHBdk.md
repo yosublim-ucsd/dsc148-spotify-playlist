@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain]
 
 > Check out the winners from this year's 2022 MAMA AWARDS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,785 likes - 26 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,758 likes - 26 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,6 +33,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain]
 | 23 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 24 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 |
 | 25 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 |
-| 26 | [하하하쏭 25th](https://open.spotify.com/track/1OOTvc4Ak2K6rPTxMUzXWh) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 3:16 |
+| 26 | [하하하쏭 25th](https://open.spotify.com/track/2nCRVI1O6qV4mHzg9tviU1) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/0EYPtkfya6BlVlpejEyChD) | 3:16 |
 
-Snapshot ID: `MCw2MDg5MDllOGI0Nzg2MjgzMTdlYWUzYjk3OTdhZGNmN2Y2MTE1MTc1`
+Snapshot ID: `MCxjMDZhOTcyNzhhY2Y2YmRkMGRmMzg5NzgyZjIxNzZiMDc0MDZlYjky`

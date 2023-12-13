@@ -4,7 +4,7 @@
 
 > torturing ourselves by watching them over and over this halloween season
 
-40 songs - 2 hr 34 min
+41 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/424DkevE18QJazwlljiTD4) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Talk to Me \(Original Soundtrack\)](https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw) | 2:14 | 2023-10-12 |  |
 | [Love](https://open.spotify.com/track/5XIROml6NGQvRdDiEQ7Hy7) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Under The Skin \(Original Soundtrack Album\)](https://open.spotify.com/album/0MJwS1KqklO8tr95IJAcQA) | 5:10 | 2023-10-12 |  |
 | [Mannequin Metric](https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a) | 4:14 | 2023-10-12 |  |
-| [My City](https://open.spotify.com/track/2P9ExFxXy14bh37CEuqsZE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [AGAINST ALL ODDS](https://open.spotify.com/album/1xutecVmBomJ4LFjzxnOPo) | 2:49 | 2023-10-12 |  |
+| [My City](https://open.spotify.com/track/0DqIzDu0BK4dkhABRt4iFT) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Against All Odds](https://open.spotify.com/album/4VT9Y4UGDGFs723kYsTXJU) | 2:51 | 2023-10-12 |  |
+| [My City](https://open.spotify.com/track/2P9ExFxXy14bh37CEuqsZE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [AGAINST ALL ODDS](https://open.spotify.com/album/1xutecVmBomJ4LFjzxnOPo) | 2:49 | 2023-10-12 | 2023-12-13 |
 | [Never Came Close](https://open.spotify.com/track/3unXSIvpQCF59i711AtiuQ) | [Belong](https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW) | [Dark Places \(Original Soundtrack Album\)](https://open.spotify.com/album/2I0sfyQkpF1wuuwrXrIvwZ) | 4:14 | 2023-10-12 |  |
 | [new body rhumba \(from the film White Noise\)](https://open.spotify.com/track/2iqA5Na5vlo0bnZUf8KT1N) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [new body rhumba \(from the film White Noise\)](https://open.spotify.com/album/0NIz7gtDhMS3pqFnCgcZCy) | 7:23 | 2023-10-12 |  |
 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 | 2023-10-12 |  |

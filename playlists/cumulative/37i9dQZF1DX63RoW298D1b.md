@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-132 songs - 5 hr 30 min
+138 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2023-05-09 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-05-09 |  |
 | [Credo](https://open.spotify.com/track/7GhpnGB1M8qQ04yqHLdoaE) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Credo](https://open.spotify.com/album/7F2h54BsLRxDAfmi0Wa4f9) | 2:30 | 2023-05-09 |  |
+| [Dahlia](https://open.spotify.com/track/64ovZi9kM3UqPSPgGYaf5l) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Dahlia](https://open.spotify.com/album/78wynCL5BJIJe0utApFZko) | 2:55 | 2023-12-12 |  |
 | [Deferment](https://open.spotify.com/track/0ibKzzyo527y98eTHe7Ktg) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Deferment](https://open.spotify.com/album/24Ldw57mkv72yL3aq8yYV6) | 2:06 | 2023-11-07 |  |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 | 2023-11-13 |  |
@@ -71,6 +72,7 @@
 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 | 2023-05-09 |  |
 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 | 2023-09-05 |  |
 | [Largo](https://open.spotify.com/track/5rRK6mamdef3a6eWz14vzU) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Afterglow](https://open.spotify.com/album/6Xc8TRCE8M96FBYcPp34YT) | 3:13 | 2023-05-09 |  |
+| [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 | 2023-12-12 |  |
 | [Lemon Drops](https://open.spotify.com/track/7DOdOzLWTowPBXMCHpR3mq) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Lemon Drops](https://open.spotify.com/album/4jT1vkr1Nu2b74zbo8xDSU) | 2:11 | 2023-07-18 |  |
 | [Les couleurs du ciel](https://open.spotify.com/track/3nyasiaSCFSEfxEEYg4jpx) | [Évariste Lacroix](https://open.spotify.com/artist/0d5qOOMJckpL05pEN7aKhz) | [Les couleurs du ciel](https://open.spotify.com/album/7mrY9VkXPs93zAM44QbWjB) | 2:41 | 2023-05-09 |  |
 | [Libellule](https://open.spotify.com/track/1ypwYxSqProWa2PHp8try8) | [De Gruy](https://open.spotify.com/artist/1yfYcQByfFNOqdcv2u9J9q) | [Libellule](https://open.spotify.com/album/4g0YAEbTo4dqyxkPxqRiVV) | 2:20 | 2023-05-09 |  |
@@ -78,10 +80,12 @@
 | [Libélula](https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Libélula](https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT) | 2:45 | 2023-05-09 |  |
 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 | 2023-07-04 |  |
 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 | 2023-05-09 |  |
+| [Longing](https://open.spotify.com/track/7jL00x2jA5kyTuaqqf8PYq) | [Dan Lambert](https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI), [Daniel John Lambert](https://open.spotify.com/artist/1WUO2ZI6dRetKraww27VZ8) | [Echoes of Home](https://open.spotify.com/album/7yCqK5TU8KBZM4MeyHqydu) | 2:22 | 2023-12-12 |  |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2023-05-09 |  |
 | [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 | 2023-05-09 |  |
 | [Mercury](https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Mercury](https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7) | 3:00 | 2023-05-09 |  |
 | [Milleniaria](https://open.spotify.com/track/0EmLqKNpKexYXHjw5fqeiW) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Milleniaria](https://open.spotify.com/album/29E0EReVASfd4J3qZuJBgT) | 2:57 | 2023-05-09 |  |
+| [Moment of Solace](https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Moment of Solace](https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1) | 2:18 | 2023-12-12 |  |
 | [Morro Da Saudade](https://open.spotify.com/track/4vXsKnpFye30mrSj3QqMjb) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Bob Marconi](https://open.spotify.com/artist/3C0kjCJadbdNXJXJmjzEn5) | [Morro Da Saudade](https://open.spotify.com/album/5PwlrJ6yMoMPYvGBo0kzOw) | 2:49 | 2023-05-09 |  |
 | [New Joy](https://open.spotify.com/track/434bUY0izo0oDWZgs9QEb7) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Horse Teeth](https://open.spotify.com/album/31WT0zYnQLseWQPfmCTYt7) | 1:57 | 2023-05-09 |  |
 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 | 2023-10-10 |  |
@@ -119,6 +123,7 @@
 | [Thaw](https://open.spotify.com/track/4uDMx10yG5CQgJTxR3dK66) | [Kepus](https://open.spotify.com/artist/1KRgUQR76UU7X6rxxaDbyd) | [Thaw](https://open.spotify.com/album/0BT7yQ0FIC1yMzrpj5rENc) | 1:53 | 2023-05-09 |  |
 | [The Everglowing Sea](https://open.spotify.com/track/43bZxiDpp5FKPS2tvFxhZ5) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [The Everglowing Sea](https://open.spotify.com/album/7s2KndJgSdfA66l6XvcN2J) | 2:23 | 2023-05-09 |  |
 | [The lake](https://open.spotify.com/track/6V4TlZBtC8nk9de3rpYbGj) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [The lake](https://open.spotify.com/album/69H1nz2SYvGwh0F97bDvjs) | 2:42 | 2023-09-18 |  |
+| [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 | 2023-12-12 |  |
 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 | 2023-05-09 |  |
 | [The Way Home](https://open.spotify.com/track/3EviaQw7x1Wn6wxVbjvNRs) | [Matthew Adam](https://open.spotify.com/artist/1JShgWc7ZWXxlqGENVf4qb) | [The Way Home](https://open.spotify.com/album/0MgiFWUWfLEJjBgFz4mH3b) | 2:46 | 2023-05-09 |  |
 | [Through Valleys](https://open.spotify.com/track/5SdiqWxI5tTOAugHmijeSN) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Through Valleys](https://open.spotify.com/album/6j2Q4yWL0niKxmWAplQolc) | 2:01 | 2023-05-09 |  |
@@ -136,6 +141,7 @@
 | [Wavering in the wind](https://open.spotify.com/track/65R91R603eXiAOa0K4bar0) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Wavering in the wind](https://open.spotify.com/album/189614dABOnS6fQzug1EGC) | 2:28 | 2023-05-09 |  |
 | [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 | 2023-05-09 |  |
 | [What She Said](https://open.spotify.com/track/01DgyWLmCNuUBJJGuokRiq) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [What She Said](https://open.spotify.com/album/4b6MJlepYeFPi7MYuaRUiT) | 2:04 | 2023-05-09 |  |
+| [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 | 2023-12-12 |  |
 | [With Fewer Tensions](https://open.spotify.com/track/0Sd9ECo0muEWnz9CTP1TAT) | [Douglas Simmons](https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS) | [With Fewer Tensions](https://open.spotify.com/album/5GvWxTKxOSzDLGJG6cu0b1) | 3:13 | 2023-05-09 |  |
 | [Worn, Torn and Beautiful](https://open.spotify.com/track/3OlZj48BbU9OHoeL0mbAB2) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Worn, Torn and Beautiful](https://open.spotify.com/album/6pmwVjP0vMio73k949BsA4) | 2:09 | 2023-05-09 |  |
 | [Wreszcie](https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Wreszcie](https://open.spotify.com/album/68AlPgfClESbRVI28gvegI) | 2:55 | 2023-09-05 |  |

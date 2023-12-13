@@ -1,12 +1,12 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 88073,
+  "num_followers": 88113,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTYzMmRhNGM4ZTYyMWFjYmNiMzQzMjBiZjcyNjFjNzIyYmE2OGZh",
+  "snapshot_id": "MCwwM2RiZGM1YTAyODE3YTIzOTI0MjBmODNiMGM0Yzc5MzNlY2Y1ODQz",
   "tracks": [
     {
       "added_at": "2021-04-23 23:14:33",
@@ -79,26 +79,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Wasted Love (feat. Lagique)",
-        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
-        }
-      ],
-      "duration_ms": 139563,
-      "name": "Wasted Love (feat. Lagique)",
-      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Wasted Love (feat. Lagique)",
+        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "duration_ms": 139563,
+      "name": "Wasted Love (feat. Lagique)",
+      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
     },
     {
       "added_at": "2021-04-23 23:14:33",
@@ -503,26 +503,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Las Chicas",
-        "url": "https://open.spotify.com/album/6H7aIWUr3asorKwbRpih3m"
-      },
-      "artists": [
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        },
-        {
-          "name": "Almanac",
-          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "Las Chicas",
-      "url": "https://open.spotify.com/track/7pgPk50uMallAw6rGYlqgp"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/2JDxkewW94MQj5GUi5Efvo"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/44wMXyr2IbVa1e2t1XeSvI"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Las Chicas",
+        "url": "https://open.spotify.com/album/6H7aIWUr3asorKwbRpih3m"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Las Chicas",
+      "url": "https://open.spotify.com/track/7pgPk50uMallAw6rGYlqgp"
     },
     {
       "added_at": "2021-04-23 23:14:33",
@@ -579,26 +579,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Unite",
-        "url": "https://open.spotify.com/album/0V1uXFisZk2rhJrkNPZVAD"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        },
-        {
-          "name": "Tony Dark Eyes",
-          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
-        }
-      ],
-      "duration_ms": 220004,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/33UmrviWxUiiXGUotGuKi9"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "Day N' Night",
         "url": "https://open.spotify.com/album/2Cb1nGPZtIKEoNUjDhiZw0"
       },
@@ -619,6 +599,26 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/0V1uXFisZk2rhJrkNPZVAD"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        },
+        {
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
+        }
+      ],
+      "duration_ms": 220004,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/33UmrviWxUiiXGUotGuKi9"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
         "name": "La M\u00fasica",
         "url": "https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc"
       },
@@ -631,6 +631,26 @@
       "duration_ms": 210956,
       "name": "La M\u00fasica",
       "url": "https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/0SIxLZVzSBT22y2s8Iw4X6"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "SPECT3R",
+          "url": "https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t"
+        }
+      ],
+      "duration_ms": 205645,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/1niAie0JRjlHg1id7hFCfS"
     },
     {
       "added_at": "2021-04-23 23:14:33",
@@ -655,26 +675,6 @@
       "duration_ms": 175248,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/5AObadnwUbTjOtpJf6X10i"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
-        "name": "Let You Down",
-        "url": "https://open.spotify.com/album/0SIxLZVzSBT22y2s8Iw4X6"
-      },
-      "artists": [
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        },
-        {
-          "name": "SPECT3R",
-          "url": "https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t"
-        }
-      ],
-      "duration_ms": 205645,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/1niAie0JRjlHg1id7hFCfS"
     },
     {
       "added_at": "2021-04-23 23:14:33",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "OOF (Out Of Office Forever)",
         "url": "https://open.spotify.com/album/6FdN7rdTvgCtpodN0A4vsm"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 173225,
       "name": "OOF (Out Of Office Forever)",
       "url": "https://open.spotify.com/track/3wZrmARwWF8g4XXu5yDT66"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6"
     },
     {
       "added_at": "2021-04-23 23:14:33",

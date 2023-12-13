@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Khali
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,891 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,935 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 22 | [Le Nine](https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Le Nine](https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr) | 3:20 |
 | 23 | [Makeup](https://open.spotify.com/track/35MhSTXjGaO1dOMKd7WdKV) | [Max DLG](https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw) | [Makeup](https://open.spotify.com/album/11ibFDueN32scqYIGwAX51) | 3:10 |
 | 24 | [AKANI](https://open.spotify.com/track/4u9p90qPMSsEgifmnpEe64) | [Berry](https://open.spotify.com/artist/2DkgMESM21mm7IoELw2tjQ) | [AKANI](https://open.spotify.com/album/3UL2npniaZarBXBS10qpZl) | 2:40 |
-| 25 | [semaine](https://open.spotify.com/track/7goMhYijPlWUKJDJLOv1BQ) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [semaine](https://open.spotify.com/album/1ryox3WvXWyAMAr0Ax4lNP) | 1:54 |
+| 25 | [semaine](https://open.spotify.com/track/3bpXZgji2jrTE32XpsZI6k) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 |
 | 26 | [MEILLEUR](https://open.spotify.com/track/5atKLIetNSwYT8mYdVRWQO) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/7JZT9iNvgUcdmiju0ps1z9) | 3:03 |
 | 27 | [Jour de pluie](https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Jour de pluie](https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO) | 3:17 |
 | 28 | [NUIT ET JOUR](https://open.spotify.com/track/400rEn95uXwJ6akAq4jSNY) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [NUIT ET JOUR](https://open.spotify.com/album/6ooUr10tF4PtDsa9yhP5sy) | 1:53 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [SITCOM](https://open.spotify.com/track/5vcpJ2wHyrWCCbhy20FvCL) | [S4Y](https://open.spotify.com/artist/730brklpRJyEsMwAd4mQRp) | [SITCOM](https://open.spotify.com/album/1dgFGmX8Pogi4Ol44jDgFY) | 2:13 |
 | 40 | [Dr\. Surprise](https://open.spotify.com/track/0lL5qRP6yOTkaCl9Hy48ZB) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [Dr\. Surprise](https://open.spotify.com/album/1EZFmNCKU4wn8tNk6sRsJg) | 1:54 |
 
-Snapshot ID: `MCw3MDk4ODRjODk0MDFhOGRiZTE3YmI4OTBiYzJlZWQzYjFmNDdlOTRj`
+Snapshot ID: `MCxmNGIyMDVhYzBiYjZjNzIzZWM1MjYwOTQ5OTkzM2JiMTdjN2Q5MmEz`

@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-578 songs - 1 day 9 hr 37 min
+580 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [C'est La Vie](https://open.spotify.com/track/6a82z5ikHjwFQv4AxAF2mu) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/2XS7GlLtan2DkXnoUxAbww) | 3:10 | 2023-09-29 | 2023-11-18 |
 | [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 | 2021-12-06 |  |
 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 | 2021-12-06 | 2023-04-22 |
-| [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 | 2022-07-15 |  |
+| [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 | 2022-07-15 | 2023-12-13 |
 | [Campfire Light](https://open.spotify.com/track/6DJs7pZjXXp1lZB8OJlOrp) | [Tequila & The Sunrise Gang](https://open.spotify.com/artist/14NP6vwv3dCn1ckRIhVlZw) | [Fire Island](https://open.spotify.com/album/4BPUme4NuJx36uU6crZCGG) | 3:20 | 2021-12-06 | 2023-04-22 |
 | [Can't Be Caught](https://open.spotify.com/track/0G0nGUx7JH075HVQbjMJDl) | [Big D and the Kids Table](https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD) | [Good\-Luck](https://open.spotify.com/album/6qIBfjeKlmPRvheVE76qAA) | 2:55 | 2021-12-06 | 2022-07-16 |
 | [Cannabis](https://open.spotify.com/track/2z4zG9TYSCEiXAgWqW57KW) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3ZWacCdQYwy3BqMbz9x4M4) | 4:25 | 2021-12-06 | 2022-07-29 |
@@ -243,7 +243,7 @@
 | [La Dosis Perfecta](https://open.spotify.com/track/7qKtcEDbth6kOM5s4uJzw3) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Frente a Frente \- Panteón Rococó & SKA\-P](https://open.spotify.com/album/44diTb5U8zqa1yokVLOWyQ) | 4:15 | 2021-12-06 | 2022-07-27 |
 | [La Herida](https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Sueños de Anoche](https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff) | 3:57 | 2021-12-06 |  |
 | [La Herida](https://open.spotify.com/track/2b8OrrQmDScF3TtbDvwWfy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Camino Clandestino](https://open.spotify.com/album/5zueG558h4DXnC7KORcaLm) | 3:59 | 2021-12-06 | 2022-07-29 |
-| [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 | 2021-12-06 |  |
+| [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 | 2021-12-06 | 2023-12-13 |
 | [La Zona del Terror](https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:03 | 2021-12-06 | 2023-04-22 |
 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 | 2021-12-06 |  |
 | [Labios Rojos](https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Salvador Moreno](https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:39 | 2021-12-06 |  |
@@ -459,6 +459,7 @@
 | [Sometimes](https://open.spotify.com/track/6wXSxcSZLLNjGk7caf8RIh) | [Oxo86](https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5), [Ole \- Brutal Bravo](https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx) | [...and the usual suspects](https://open.spotify.com/album/5ZSDfArBiEUAH38G7mpdwW) | 3:59 | 2023-07-28 | 2023-08-27 |
 | [Sometimes](https://open.spotify.com/track/7t3rhIBQIcJf3e9k6ZXLUw) | [Oxo86](https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5), [Ole \- Brutal Bravo](https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx) | [...and the usual suspects](https://open.spotify.com/album/0hdaLgM8dAeOCsPkOzgOXj) | 3:59 | 2023-07-14 | 2023-07-16 |
 | [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 | 2021-12-06 | 2023-12-04 |
+| [Somos del Barrio](https://open.spotify.com/track/6gKOMpon4qc0A9Z2z0XX8S) | [Rude Boys](https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z) | [El Precio del Sudor](https://open.spotify.com/album/2IL52akN7BWBZkH6Cx6Nnz) | 2:44 | 2023-12-12 |  |
 | [Sound System](https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy](https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e) | 2:14 | 2021-12-06 | 2022-07-21 |
 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 | 2021-12-06 |  |
 | [Spacciatore di cacao](https://open.spotify.com/track/6T8BILchaPSARIuaOWK5dH) | [Club99](https://open.spotify.com/artist/0TmBJQpcXJ3BYK1iLmV0Hu) | [Taxi Driver](https://open.spotify.com/album/2zEbBYSqhrwzYANRs8u3vK) | 3:11 | 2021-12-06 | 2022-07-26 |
@@ -478,6 +479,7 @@
 | [Super Rad!](https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Fury of the Aquabats!](https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM) | 3:02 | 2021-12-06 | 2023-04-22 |
 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 | 2021-12-06 |  |
 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 | 2021-12-06 | 2022-07-29 |
+| [Sweet Loneliness](https://open.spotify.com/track/0CS6MtBUa48ZzYgqJaNf9F) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Reggae gordo for days and extra days](https://open.spotify.com/album/7AaDhCvk72WXKICLHYDuHC) | 3:52 | 2023-12-12 |  |
 | [Swing Easy](https://open.spotify.com/track/6gyKNejreOJfwfeQQ7fNVw) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 6:22 | 2021-12-06 | 2023-04-22 |
 | [Sólo vivir](https://open.spotify.com/track/3D1c2GyM0Ry46Ioj4EefUF) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Klub ska](https://open.spotify.com/album/4FiDsEVAFgxVG9xUnXnf51) | 3:26 | 2021-12-06 | 2022-07-27 |
 | [Sólo Vivir](https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Klub Ska](https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w) | 3:26 | 2021-12-06 |  |

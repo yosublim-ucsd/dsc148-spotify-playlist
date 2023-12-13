@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 380456,
+  "num_followers": 380479,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzczNTYyNzAxYTZiMThhYTYwZTFmNDhkZTEyYzYwMWFmZGZhOTAw",
+  "snapshot_id": "MCw3MmJhNTZjMTUyNDYzNDhmOTYzNmNkMGMyZDUwZDBhMDQwMzdkMDEx",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Letting In",
-        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
-      },
-      "artists": [
-        {
-          "name": "Beauville",
-          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
-        },
-        {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "Letting In",
-      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Letting In",
+        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
+      },
+      "artists": [
+        {
+          "name": "Beauville",
+          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
+        },
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "Letting In",
+      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 254871,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 185480,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 254871,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Home of Sanity (the playlist)",
-        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "ophelie",
-      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Phase (Deluxe)",
         "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Home of Sanity (the playlist)",
+        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "ophelie",
+      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "A Light for Attracting Attention",
         "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
@@ -659,6 +659,26 @@
       "duration_ms": 252864,
       "name": "Free In The Knowledge",
       "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Heiress",
+        "url": "https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        },
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "Silvery",
+      "url": "https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -687,26 +707,6 @@
       "duration_ms": 160505,
       "name": "My Love",
       "url": "https://open.spotify.com/track/398CKeawsPHfonnxsimsPe"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Heiress",
-        "url": "https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        },
-        {
-          "name": "Lowswimmer",
-          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
-        }
-      ],
-      "duration_ms": 232613,
-      "name": "Silvery",
-      "url": "https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "something more",
-        "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
-      },
-      "artists": [
-        {
-          "name": "j ember",
-          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "something more",
-      "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Wild Girl",
         "url": "https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 194088,
       "name": "Wild Girl",
       "url": "https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "something more",
+        "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "something more",
+      "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/4rYFRnhDXnSduTCS4BgAZd"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "I Can't Believe I Had You",
+      "url": "https://open.spotify.com/track/7n4UFFZEY1HfF87DfG2LZ4"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Until We Meet Again",
-        "url": "https://open.spotify.com/album/4rYFRnhDXnSduTCS4BgAZd"
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
         }
       ],
-      "duration_ms": 268000,
-      "name": "I Can't Believe I Had You",
-      "url": "https://open.spotify.com/track/7n4UFFZEY1HfF87DfG2LZ4"
+      "duration_ms": 199371,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1147,22 +1163,6 @@
       "duration_ms": 212773,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 199371,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/2EoEQOoH5UuAyY1U690LqO"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 200368,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/6nWbDZ8FJMm8FQD5afg62D"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Friend Goals",
         "url": "https://open.spotify.com/album/3lyvbuaHTM8p1xEe9pqdXX"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 207499,
       "name": "Fluff",
       "url": "https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/2EoEQOoH5UuAyY1U690LqO"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 200368,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/6nWbDZ8FJMm8FQD5afg62D"
     },
     {
       "added_at": "2023-01-11 21:01:15",

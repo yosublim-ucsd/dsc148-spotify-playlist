@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Dfideliz
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,840 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,917 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 39 | [Eu já me vi](https://open.spotify.com/track/3iZDBIcAXnSVriFGRNKhw5) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Eu já me vi](https://open.spotify.com/album/5QN345qS310NSgX1ovzqRH) | 2:31 |
 | 40 | [Nosso Lance](https://open.spotify.com/track/5GWeVMAWLoMZz7WrZrOXxb) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9) | [Nosso Lance](https://open.spotify.com/album/5HEh622ffeLHgN4R0VChlS) | 3:15 |
 | 41 | [Goddam!](https://open.spotify.com/track/0iHPoeN5LtLopd000INsVF) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [Zzz, Vol\. 2](https://open.spotify.com/album/51kX2muIvK8Z8I8mb9H1Y6) | 3:00 |
-| 42 | [O Crime e a Música](https://open.spotify.com/track/5GtWzXQ423s75pn5n0OmGb) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [O Crime e a Música](https://open.spotify.com/album/3v3cwXZhmUYIUrxxs7lpFZ) | 3:19 |
+| 42 | [O Crime e a Música](https://open.spotify.com/track/5GtWzXQ423s75pn5n0OmGb) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [O Crime e a Música](https://open.spotify.com/album/3v3cwXZhmUYIUrxxs7lpFZ) | 3:19 |
 | 43 | [Carta Aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Carta Aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 |
 | 44 | [AGILIDADE](https://open.spotify.com/track/7aTSVvdzV8GRiWNX7lgkrC) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [AGILIDADE](https://open.spotify.com/album/0WViaVdGPXcK3RwXPuMA4c) | 2:27 |
 | 45 | [Ela Gostou do Trap!!](https://open.spotify.com/track/3DToQG8kY8mrmBDVOFFdut) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [1ukazzoff](https://open.spotify.com/artist/3dzH8o24SFoHLMdFzKtxUs), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [2 L3Trinha](https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN) | 2:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [2023](https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:58 |
 | 75 | [Não Me Para](https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:29 |
 
-Snapshot ID: `MCw2OGQyMGJiYzU3OWM4ZDg4N2IxYzdiZTc3ZTBiMWExYzM2ZmEzNDM1`
+Snapshot ID: `MCwwM2U2NjQxZWFkNjBlYzVmNzhhMTJhMjRiZDdjNWE0YmU2ZjQ4ZmVk`

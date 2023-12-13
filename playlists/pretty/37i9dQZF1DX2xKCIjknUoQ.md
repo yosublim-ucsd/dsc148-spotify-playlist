@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Skip The Use
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,188 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,239 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 49 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
 | 50 | [L'iditenté](https://open.spotify.com/track/6mZO5vMvCTBQ9JyBx5D5gH) | [Têtes Raides](https://open.spotify.com/artist/2omAWwH1ZV9JYIyfMUQSgG) | [Gratte Poil](https://open.spotify.com/album/2utInP6jbz1gVaTm8Djozo) | 4:27 |
 
-Snapshot ID: `MCw1YWRkMWE3ODAzNWM3ZGFhY2IyOTgyMmQ4ODIyYzMyZDZhYjA3MjU1`
+Snapshot ID: `MCw0YmMxMjg5Y2RmZmJmZTQ1OTNmZGRlY2QwOWFkOTBjNDAyM2IyYTJi`

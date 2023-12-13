@@ -1,12 +1,12 @@
 {
   "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=\"https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ\">Anendlessocean</a> ",
-  "num_followers": 4335,
+  "num_followers": 4413,
   "original_name": "Praise and Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWNlZDgzYzBjYTU4NjhlZmVhNWM1OWEwY2E5OTRkNmY3NTU3Njdl",
+  "snapshot_id": "MCxiYTkxODZmN2M0ZWZiMGE0MDdmMTk5NTBjOTEzZDY5YmQ5YjJhZTli",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -27,6 +27,22 @@
       "duration_ms": 208031,
       "name": "Provider",
       "url": "https://open.spotify.com/track/0n9BmdMs7fugQBsLAOmMGg"
+    },
+    {
+      "added_at": "2023-12-12 09:28:16",
+      "album": {
+        "name": "Freedom Dance",
+        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
     },
     {
       "added_at": "2023-12-01 00:01:00",

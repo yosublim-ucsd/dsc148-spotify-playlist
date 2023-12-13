@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the selection of \u2018vocals with unique voices\u2019 selected by BMK! (BMK\uac00 \uc120\uace1\ud55c '\ub3c5\ubcf4\uc801\uc778 \uc74c\uc0c9\uc774 \ub3cb\ubcf4\uc774\ub294 \ubcf4\uceec\ub4e4' \uc120\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 327083,
+  "num_followers": 327068,
   "original_name": "v o K a l : BMK Takeover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWJlZWViZjZjODkxMDJjZjM5ZmE0Mzc1NjM1ZTY3YmNjODM2YTRl",
+  "snapshot_id": "MCxkN2Y4YTQwMTBiZmE5YzUzMDM5MjU0MTZlNDIxODVhOGViN2YxNWJh",
   "tracks": [
     {
       "added_at": "2023-12-06 09:08:29",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
+        "name": "Love, Maybe (A Business Proposal OST Special Track)",
+        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
         "name": "Hotel del Luna (Original Television Soundtrack) Pt.3",
         "url": "https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 169448,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
-        "name": "Love, Maybe (A Business Proposal OST Special Track)",
-        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Love, Maybe",
-      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
         "name": "Me After You",
         "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
       },
@@ -535,18 +551,22 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
+      "duration_ms": 205120,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -567,22 +587,6 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
@@ -599,6 +603,22 @@
       "duration_ms": 219106,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -631,50 +651,6 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -727,22 +703,6 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "Principle Of My Soul",
-        "url": "https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 308186,
-      "name": "Memory Of The Wind",
-      "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
         "name": "180\u02da",
         "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
@@ -759,6 +719,22 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
+        "name": "Principle Of My Soul",
+        "url": "https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 308186,
+      "name": "Memory Of The Wind",
+      "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
         "name": "Jelly box Flower Way SEJEONG",
         "url": "https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 239122,
       "name": "Flower Way (Prod. By ZICO)",
       "url": "https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
         }
       ],
-      "duration_ms": 223214,
-      "name": "Love Is Ugly (Feat. Hwa Sa)",
-      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
+      "duration_ms": 228615,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -863,22 +859,6 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "Stay Here",
-        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 228615,
-      "name": "Stay Here",
-      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
         "name": "LOVE.",
         "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
@@ -895,18 +875,22 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "Do",
-        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
       "artists": [
         {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 165986,
-      "name": "Do",
-      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
+      "duration_ms": 223214,
+      "name": "Love Is Ugly (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -931,6 +915,22 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
+        "name": "WOOOF!",
+        "url": "https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 267857,
+      "name": "Baby I Know",
+      "url": "https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
         "name": "WINTER",
         "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
       },
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "WOOOF!",
-        "url": "https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV"
+        "name": "Do",
+        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
       },
       "artists": [
         {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
-      "duration_ms": 267857,
-      "name": "Baby I Know",
-      "url": "https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs"
+      "duration_ms": 165986,
+      "name": "Do",
+      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "The King's Affection OST Part.3",
-        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
-      },
-      "artists": [
-        {
-          "name": "Baek Ji Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "IF I",
-      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
         "name": "Naul <Ballad Pop City>",
         "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 260668,
       "name": "Nights Into Days (Prod. by Naul)",
       "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
+        "name": "The King's Affection OST Part.3",
+        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
+      },
+      "artists": [
+        {
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "IF I",
+      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -1087,6 +1087,22 @@
       "duration_ms": 228369,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/5kHAdANv7GJ4YuX55WVG8I"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "I Want to Be Closer to You",
-      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "I Want to Be Closer to You",
+      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
         "name": "Because I am a woman",
         "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "I'M",
-        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 238252,
-      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
+        "name": "I'M",
+        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 238252,
+      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
         "name": "Butterfly Effect",
         "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 273680,
       "name": "Space",
       "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
-        "name": "Like Yesterday",
-        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "You&I",
+      "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
+    },
+    {
+      "added_at": "2023-12-06 09:08:29",
+      "album": {
         "name": "Everytime",
         "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
+        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
         }
       ],
-      "duration_ms": 221333,
-      "name": "You&I",
-      "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
+      "duration_ms": 212146,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
     },
     {
       "added_at": "2023-12-06 09:08:29",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2023-12-06 09:08:29",
-      "album": {
         "name": "Trip: Tape #01",
         "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
       },
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-12-06 09:08:29",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+      "duration_ms": 234269,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
     }
   ],
   "unique_name": "v o K a l : BMK Takeover",

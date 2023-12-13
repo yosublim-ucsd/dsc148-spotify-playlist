@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,091 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,172 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Idhe Idhe \(From "Hi Nanna"\)](https://open.spotify.com/track/7681Ik3vkdgdwlNpABKtfa) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Idhe Idhe \(From "Hi Nanna"\)](https://open.spotify.com/album/6lBRZkJAa2tOGgPXeYuoUK) | 3:35 |
-| 2 | [Sarada Saradaga \(From "Saindhav"\) \(Telugu\)](https://open.spotify.com/track/7vhRfB1xkdItr7e6ilLYxS) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Sarada Saradaga \(From "Saindhav"\) \(Telugu\)](https://open.spotify.com/album/69tu5JQzhjbk0uNMdzurjU) | 3:38 |
+| 2 | [Sarada Saradaga \(From "Saindhav"\)](https://open.spotify.com/track/1fOr0ysbNOkHy23yJ5IR1a) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Sarada Saradaga \(From "Saindhav"\)](https://open.spotify.com/album/1t517JI97YzmweInvj2heT) | 3:38 |
 | 3 | [Nuvve Nuvve \(From "Sapta Sagaralu Dhaati \- Side B"\)](https://open.spotify.com/track/1rB5ytMmm0IjMOydmIwX75) | [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k), [Battu Vijay Kumar](https://open.spotify.com/artist/3yywCO2Grag7FotoRYObNR), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Nuvve Nuvve \(From "Sapta Sagaralu Dhaati \- Side B"\)](https://open.spotify.com/album/6ZUTj4n7Kf5mtu2K41LdzV) | 3:12 |
 | 4 | [Humma Humma](https://open.spotify.com/track/4gkjonokhGz5iVg0Af5z1A) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Tirupathi Jaavana](https://open.spotify.com/artist/6kRspxY3CqfVt2tiKbd8HP) | [Ooru Peru Bhairavakona](https://open.spotify.com/album/6Sa8qfKnsIgzRch6aR7fga) | 3:09 |
 | 5 | [Hey Bujji Bangaram](https://open.spotify.com/track/2myUwmXr6AoPqvbyfKEgZB) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Yamini Ghantasala](https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Aadikeshava](https://open.spotify.com/album/51Jfh7J7GTf3CR6l3bpq9S) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
 | 50 | [Ninnu Choosi Choodanga](https://open.spotify.com/track/5ab5N1AiyDJBxZ1237eBqS) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Katha Venuka Katha](https://open.spotify.com/album/2jFleBZRXrLDcBHKACAucc) | 3:30 |
 
-Snapshot ID: `MCw5MWYwM2JjYmFiYmE5YTFmZTUxNmMwYWJhYjgzNzEzNzI0MWRmYzc3`
+Snapshot ID: `MCw0NGY2NDdiMmZmY2IzZmEwOWYwNWY4OWVhMGEzMWJlZTEyNGYzY2U3`

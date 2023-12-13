@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 109648,
+  "num_followers": 110062,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjFhYmYzODQ4MTE3YjNhMDIyYTJjOTUzNzY5OWM1ZTBlZTRmODEw",
+  "snapshot_id": "MCw4MmVlYTY0YmFiMDU2ZTI3ZmZkNDEzZDFmY2U1MDZlMWY0YTk2YTdk",
   "tracks": [
     {
       "added_at": "2023-12-06 13:05:27",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-12-06 13:05:27",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "(There's No Place Like) Home for the Holidays - 1954 Version",
-      "url": "https://open.spotify.com/track/5mKxNjNnRFpO9Muzw3Ug0u"
-    },
-    {
-      "added_at": "2023-12-06 13:05:27",
-      "album": {
         "name": "Warm In December (Edit)",
         "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 161210,
       "name": "Warm In December - Edit",
       "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
+    },
+    {
+      "added_at": "2023-12-06 13:05:27",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 145693,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/01FPQJHDGVAVpcaTwMIoS2"
     },
     {
       "added_at": "2023-12-06 13:05:27",
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 145693,
-      "name": "I Saw Mommy Kissing Santa Claus",
-      "url": "https://open.spotify.com/track/01FPQJHDGVAVpcaTwMIoS2"
+      "duration_ms": 171333,
+      "name": "(There's No Place Like) Home for the Holidays - 1954 Version",
+      "url": "https://open.spotify.com/track/5mKxNjNnRFpO9Muzw3Ug0u"
     },
     {
       "added_at": "2023-12-06 13:05:27",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-12-06 13:05:27",
       "album": {
-        "name": "The Complete Decca Singles Vol. 4: 1950-1955",
-        "url": "https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 189497,
-      "name": "Santa Claus Got Stuck (In My Chimney)",
-      "url": "https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq"
-    },
-    {
-      "added_at": "2023-12-06 13:05:27",
-      "album": {
         "name": "Jolly old st Nicolas",
         "url": "https://open.spotify.com/album/5cqLmVLHqKrcSDE2i4T9o5"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 104169,
       "name": "Jolly old st Nicolas",
       "url": "https://open.spotify.com/track/4i7Gh6vfIhFA6HTWERr2TM"
+    },
+    {
+      "added_at": "2023-12-06 13:05:27",
+      "album": {
+        "name": "The Complete Decca Singles Vol. 4: 1950-1955",
+        "url": "https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 189497,
+      "name": "Santa Claus Got Stuck (In My Chimney)",
+      "url": "https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq"
     },
     {
       "added_at": "2023-12-06 13:05:27",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-12-06 13:05:27",
       "album": {
-        "name": "Louis Wishes You a Cool Yule",
-        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "I've Got My Love To Keep Me Warm",
-      "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
-    },
-    {
-      "added_at": "2023-12-06 13:05:27",
-      "album": {
         "name": "Jolly Holiday",
         "url": "https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN"
       },
@@ -587,6 +567,22 @@
     {
       "added_at": "2023-12-06 13:05:27",
       "album": {
+        "name": "When We Kissed Under The Mistletoe",
+        "url": "https://open.spotify.com/album/43omzeS1WIBkcVZuPkh3zs"
+      },
+      "artists": [
+        {
+          "name": "Gus Anderson",
+          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
+        }
+      ],
+      "duration_ms": 144248,
+      "name": "When We Kissed Under The Mistletoe",
+      "url": "https://open.spotify.com/track/5vt00tH4PyhiAuV4kGIUAK"
+    },
+    {
+      "added_at": "2023-12-06 13:05:27",
+      "album": {
         "name": "Their Complete Recordings Together",
         "url": "https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7"
       },
@@ -607,18 +603,38 @@
     {
       "added_at": "2023-12-06 13:05:27",
       "album": {
-        "name": "When We Kissed Under The Mistletoe",
-        "url": "https://open.spotify.com/album/43omzeS1WIBkcVZuPkh3zs"
+        "name": "The Song Society Playlist",
+        "url": "https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX"
       },
       "artists": [
         {
-          "name": "Gus Anderson",
-          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 144248,
-      "name": "When We Kissed Under The Mistletoe",
-      "url": "https://open.spotify.com/track/5vt00tH4PyhiAuV4kGIUAK"
+      "duration_ms": 253388,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN"
+    },
+    {
+      "added_at": "2023-12-06 13:05:27",
+      "album": {
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "I've Got My Love To Keep Me Warm",
+      "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
     },
     {
       "added_at": "2023-12-06 13:05:27",
@@ -635,38 +651,6 @@
       "duration_ms": 68707,
       "name": "Here We Come A-Caroling",
       "url": "https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ"
-    },
-    {
-      "added_at": "2023-12-06 13:05:27",
-      "album": {
-        "name": "Ella & Louis Christmas",
-        "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
-    },
-    {
-      "added_at": "2023-12-06 13:05:27",
-      "album": {
-        "name": "The Song Society Playlist",
-        "url": "https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 253388,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN"
     },
     {
       "added_at": "2023-12-06 13:05:27",
@@ -783,6 +767,22 @@
       "duration_ms": 208026,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST"
+    },
+    {
+      "added_at": "2023-12-06 13:05:27",
+      "album": {
+        "name": "Ella & Louis Christmas",
+        "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
     },
     {
       "added_at": "2023-12-06 13:05:27",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-06 13:05:27",
       "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "What a Night!",
-      "url": "https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv"
-    },
-    {
-      "added_at": "2023-12-06 13:05:27",
-      "album": {
         "name": "A Very Swingin\u2019 Basie Christmas!",
         "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 290826,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
+    },
+    {
+      "added_at": "2023-12-06 13:05:27",
+      "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "What a Night!",
+      "url": "https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv"
     },
     {
       "added_at": "2023-12-06 13:05:27",

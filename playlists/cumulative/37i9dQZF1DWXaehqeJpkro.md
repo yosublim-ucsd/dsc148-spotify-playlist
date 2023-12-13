@@ -4,7 +4,7 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: Parc Jae Jung\(박재정\)\)
 
-282 songs - 18 hr 31 min
+283 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,8 @@
 | [사랑이란 멜로는 없어](https://open.spotify.com/track/0CGovscVJUxLASfj6KnVwO) | [Jeon Sang Geun](https://open.spotify.com/artist/6MfFHNKaZ7lAQsm52eLNvJ) | [사랑이란 멜로는 없어](https://open.spotify.com/album/2S4OdUnpgE2uf3rAz614v5) | 4:35 | 2022-02-23 |  |
 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 | 2022-02-17 |  |
 | [서툰 이별을 하려해](https://open.spotify.com/track/4so85rrFc5TCgT6rd2vweV) | [Yountoven](https://open.spotify.com/artist/13PsdrWmNx5EcibArzkbcO), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [서툰 이별을 하려해](https://open.spotify.com/album/67bM1eAH4Sn29yE3wOeiJc) | 4:01 | 2022-02-17 |  |
-| [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2022-02-17 |  |
+| [스물다섯, 스물하나](https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2Db7g2nYCXggiNOJc59vkS) | 4:44 | 2023-11-14 |  |
+| [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2022-02-17 | 2023-12-13 |
 | [스토커 Stalker](https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 4:12 | 2022-02-17 |  |
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-02-17 | 2023-06-04 |
 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 | 2023-02-16 |  |

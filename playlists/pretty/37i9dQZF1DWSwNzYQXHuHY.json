@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9723,
+  "num_followers": 9726,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWU1YzU4MDc2NTYxN2M4Y2UyOGE1NWY1Mzk1YzRjNDcyYmZhOTAy",
+  "snapshot_id": "MCxlZGViN2M2NDczN2U5NjAxMDY0MGRjZTFjYjVlYWI5MDM2NGQxNWM1",
   "tracks": [
     {
       "added_at": "2023-12-09 12:43:14",
@@ -439,6 +439,26 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
+        "name": "What are we (Feat. PARK JIWON of fromis_9)",
+        "url": "https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa"
+      },
+      "artists": [
+        {
+          "name": "BAEKHO",
+          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
+        },
+        {
+          "name": "PARK JIWON of fromis_9",
+          "url": "https://open.spotify.com/artist/7HiDoJ7GFuGv7WNfu4qv8B"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "What are we (Feat. PARK JIWON of fromis_9)",
+      "url": "https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3"
+    },
+    {
+      "added_at": "2023-12-09 12:43:14",
+      "album": {
         "name": "Sequence : 7272",
         "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 194999,
       "name": "Feel Like Falling In Love",
       "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
-    },
-    {
-      "added_at": "2023-12-09 12:43:14",
-      "album": {
-        "name": "What are we (Feat. PARK JIWON of fromis_9)",
-        "url": "https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa"
-      },
-      "artists": [
-        {
-          "name": "BAEKHO",
-          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
-        },
-        {
-          "name": "PARK JIWON of fromis_9",
-          "url": "https://open.spotify.com/artist/7HiDoJ7GFuGv7WNfu4qv8B"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "What are we (Feat. PARK JIWON of fromis_9)",
-      "url": "https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3"
     },
     {
       "added_at": "2023-12-09 12:43:14",

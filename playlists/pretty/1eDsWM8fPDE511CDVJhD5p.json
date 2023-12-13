@@ -6,8 +6,100 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "Njg2LDhiYmFmMTdiYzE3YWUzNDljMGQ4MDUyNmFkMzViOTRlYTY3MzAzMjI=",
+  "snapshot_id": "NjkzLGFjMWY0MTIxNWUxYWY2M2E4ZDk0MmE5MTE2ZGJhMjJjNmQ4ODhhZDg=",
   "tracks": [
+    {
+      "added_at": "2023-12-12 02:49:20",
+      "album": {
+        "name": "CHAPTER #1",
+        "url": "https://open.spotify.com/album/45vdAv1Oxc1gpM91Iq14f5"
+      },
+      "artists": [
+        {
+          "name": "Shino",
+          "url": "https://open.spotify.com/artist/0zrkJ96y7Bjl9cP5Lx5way"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 201065,
+      "name": "Summertime Lovegame (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/6lp4CDrnwxQjADR9Fu8c6w"
+    },
+    {
+      "added_at": "2023-12-12 02:49:33",
+      "album": {
+        "name": "Ears Lollipop",
+        "url": "https://open.spotify.com/album/7uOKYWOFv5BhO3Ku4Ct3bQ"
+      },
+      "artists": [
+        {
+          "name": "Twinfield",
+          "url": "https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 222758,
+      "name": "Ears Lollipop (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6Q6SpzhmhiSuua8797QqFT"
+    },
+    {
+      "added_at": "2023-12-12 02:49:50",
+      "album": {
+        "name": "\u30d1\u30ad\u30d1\u30ad\u5929\u4f7f\u306e\u30cf\u30fc\u30c9\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4OuZr8zn6IwZjKlCWeWvgm"
+      },
+      "artists": [
+        {
+          "name": "STEAKA",
+          "url": "https://open.spotify.com/artist/5FJiFnQENgHOWUOYyqDol5"
+        },
+        {
+          "name": "\u308a\u3080\u308b",
+          "url": "https://open.spotify.com/artist/7l1BiGYw9sJ9M53zaV9aJB"
+        }
+      ],
+      "duration_ms": 131034,
+      "name": "\u30d1\u30ad\u30d1\u30ad\u5929\u4f7f\u306e\u30cf\u30fc\u30c9\u30e9\u30c3\u30af (feat. \u308a\u3080\u308b)",
+      "url": "https://open.spotify.com/track/3jh0Pv9zptcRIphRMCVR6g"
+    },
+    {
+      "added_at": "2023-12-12 02:50:02",
+      "album": {
+        "name": "AppleApple",
+        "url": "https://open.spotify.com/album/59anTPOWmg1MeVx0TQ8Afl"
+      },
+      "artists": [
+        {
+          "name": "Soh Yoshioka",
+          "url": "https://open.spotify.com/artist/4USl3CP524USarOun6zfdQ"
+        }
+      ],
+      "duration_ms": 243461,
+      "name": "AppleApple",
+      "url": "https://open.spotify.com/track/07uIaycMN9TEiPtwaVlLfP"
+    },
+    {
+      "added_at": "2023-12-12 02:50:13",
+      "album": {
+        "name": "\u30ef\u30fc\u30eb\u30c9Re\u30c8\u30ea\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/2C05zcE5ku7YRnBUD3dE1g"
+      },
+      "artists": [
+        {
+          "name": "waka/IMBK",
+          "url": "https://open.spotify.com/artist/2imRJw6HFjC4okbuZuIGc9"
+        }
+      ],
+      "duration_ms": 214227,
+      "name": "\u30ef\u30fc\u30eb\u30c9Re\u30c8\u30ea\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/4R8WfOF8Ge6yqhFC8hJl0C"
+    },
     {
       "added_at": "2023-11-28 06:36:08",
       "album": {
@@ -631,94 +723,6 @@
       "duration_ms": 218106,
       "name": "Orion",
       "url": "https://open.spotify.com/track/3zvVD5oQBACKYHFlr4BZBI"
-    },
-    {
-      "added_at": "2023-10-10 06:45:54",
-      "album": {
-        "name": "\u30bd\u30ec\u30e0",
-        "url": "https://open.spotify.com/album/6C2laFLtmP9IPJEabwkm95"
-      },
-      "artists": [
-        {
-          "name": "Twinfield",
-          "url": "https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 167461,
-      "name": "\u30bd\u30ec\u30e0 (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/054E21JyZZUmwCC3v6c2pl"
-    },
-    {
-      "added_at": "2023-10-10 06:46:14",
-      "album": {
-        "name": "Overtune",
-        "url": "https://open.spotify.com/album/2iXjY4dPqoEXeHVrmIoLh7"
-      },
-      "artists": [
-        {
-          "name": "tekalu",
-          "url": "https://open.spotify.com/artist/15kivPrbU8SkQsiSkNXqFN"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        }
-      ],
-      "duration_ms": 208656,
-      "name": "Midnight Junkie (feat. \u93e1\u97f3\u30ea\u30f3)",
-      "url": "https://open.spotify.com/track/4NFJKu9ciQRCHtVofVcEIP"
-    },
-    {
-      "added_at": "2023-10-10 06:47:59",
-      "album": {
-        "name": "\u30c8\u30e9\u30b4\u30a4\u30c7\u30a3\u30a2",
-        "url": "https://open.spotify.com/album/6leHflF9HTg5PHcJpcn4lb"
-      },
-      "artists": [
-        {
-          "name": "wotaku",
-          "url": "https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX"
-        }
-      ],
-      "duration_ms": 241797,
-      "name": "\u30de\u30fc\u30ad\u30e5\u30ea\u30fc (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/2GBNa60LfNydq7ai3XGqr2"
-    },
-    {
-      "added_at": "2023-10-10 07:30:05",
-      "album": {
-        "name": "KOLLECTION+OI",
-        "url": "https://open.spotify.com/album/1poWkUXeHp5mZCOEVk2dXe"
-      },
-      "artists": [
-        {
-          "name": "ELECTROCUTICA",
-          "url": "https://open.spotify.com/artist/4O8BZqEodCX6jrOUlGASkA"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Right\u00d7Dark",
-      "url": "https://open.spotify.com/track/1AQLCS82yjnvHK5qSNYQuv"
-    },
-    {
-      "added_at": "2023-10-10 06:50:10",
-      "album": {
-        "name": "\u30b7\u30e3\u30ed\u30b1\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/0NhwuWkroKD60Ro5AeUWkh"
-      },
-      "artists": [
-        {
-          "name": "miyumP",
-          "url": "https://open.spotify.com/artist/5riibTe0cFrclf0bgRx6DR"
-        }
-      ],
-      "duration_ms": 262989,
-      "name": "KEEP OUT",
-      "url": "https://open.spotify.com/track/3svTAq7limchEiM2FlRm6f"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

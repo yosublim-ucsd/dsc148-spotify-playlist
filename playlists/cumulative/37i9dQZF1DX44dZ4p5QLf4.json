@@ -826,7 +826,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 210977,
       "name": "Bounce Back",
       "url": "https://open.spotify.com/track/4Mb1aR0pnjMoVmyQQ3WC6Y"
@@ -3358,6 +3358,32 @@
       "duration_ms": 226629,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/3UJUR8VPooWaFP3qkqfHzB"
+    },
+    {
+      "album": {
+        "name": "Katsu Sunrise",
+        "url": "https://open.spotify.com/album/6Cyss3e5qUbarjggBphlce"
+      },
+      "artists": [
+        {
+          "name": "LIKEMINDS",
+          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182304,
+      "name": "Katsu Sunrise",
+      "url": "https://open.spotify.com/track/4AHdwLWt6MpMrIeOVhreuL"
     },
     {
       "album": {

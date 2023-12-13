@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Grone, Orochi, SD9, Big Bllakk",
-  "num_followers": 35150,
+  "num_followers": 35170,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2YxMmUxMmIzMzFiMDVmYjc0N2M5MWQ3YjhlYTAxYWNjY2QxMzJh",
+  "snapshot_id": "MCxjMTdlNjZhMjRkYTkxYWUxMjhjMjJkOTFjNTQ1NmM1NjJlZWZkM2Y3",
   "tracks": [
     {
       "added_at": "2023-12-08 13:28:42",
@@ -927,38 +927,6 @@
     {
       "added_at": "2023-12-08 13:28:42",
       "album": {
-        "name": "Passa Nada",
-        "url": "https://open.spotify.com/album/7AAwkqFgpxCSOomrrxQFlT"
-      },
-      "artists": [
-        {
-          "name": "Boca",
-          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
-        },
-        {
-          "name": "Nochica",
-          "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
-        },
-        {
-          "name": "JEFFRO",
-          "url": "https://open.spotify.com/artist/5jkObTziesSFoINHI1ZVUi"
-        }
-      ],
-      "duration_ms": 224216,
-      "name": "Passa Nada",
-      "url": "https://open.spotify.com/track/2ppPUewH2bl3W80Zp6zKcD"
-    },
-    {
-      "added_at": "2023-12-08 13:28:42",
-      "album": {
         "name": "Drill de Cria 3 - Intoc\u00e1vel",
         "url": "https://open.spotify.com/album/2R5RG4a9iF3D9gDeubsXSM"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 241714,
       "name": "Drill de Cria 3 - Intoc\u00e1vel",
       "url": "https://open.spotify.com/track/1UbEWKj79Cw4tepAkBpGO7"
+    },
+    {
+      "added_at": "2023-12-08 13:28:42",
+      "album": {
+        "name": "Passa Nada",
+        "url": "https://open.spotify.com/album/7AAwkqFgpxCSOomrrxQFlT"
+      },
+      "artists": [
+        {
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
+        },
+        {
+          "name": "Nochica",
+          "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
+        },
+        {
+          "name": "JEFFRO",
+          "url": "https://open.spotify.com/artist/5jkObTziesSFoINHI1ZVUi"
+        }
+      ],
+      "duration_ms": 224216,
+      "name": "Passa Nada",
+      "url": "https://open.spotify.com/track/2ppPUewH2bl3W80Zp6zKcD"
     },
     {
       "added_at": "2023-12-08 13:28:42",

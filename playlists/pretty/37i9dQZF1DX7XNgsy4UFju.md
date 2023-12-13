@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie songs of the moment\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,834 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,841 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Do I](https://open.spotify.com/track/7Epytn0uHYrSyr933fqrCg) | [Sasha Cay](https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc) | [Spin](https://open.spotify.com/album/6C8DvllbjfiHGnKRQtWTFA) | 5:38 |
 | 100 | [candyflips!](https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [I feel like doing candy flips and riding elephants](https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8) | 2:28 |
 
-Snapshot ID: `MCxjMzQzNGE2NzM2ODAyMGEyMzU1ZWM1MjhkYjBjZDZhYmI2YmIyNWYx`
+Snapshot ID: `MCxhYTQ1OTM5NjkxNjJjNTYzNDJhZGNiOGE3ZDg2YmNlNzY3MzdhZjY0`

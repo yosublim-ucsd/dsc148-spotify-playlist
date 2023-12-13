@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > ¡Pa' toda la raza carnavalera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,001 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,065 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,21 +67,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 57 | [Carnavalezco](https://open.spotify.com/track/0kk8kIdLalXbrl3DaFrXPM) | [Los Oaxapen´S](https://open.spotify.com/artist/3ZrpEqKME1c5ZXm6g4ZLI8) | [Las más muerteras](https://open.spotify.com/album/3gjCOwINDNAOi3VIk8PbZ8) | 3:34 |
 | 58 | [Zapateando Con La Banda](https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [Mas Zacatecano Que Nunca](https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH) | 2:34 |
 | 59 | [Cinco Trancazos](https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [Para Ti](https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr) | 2:46 |
-| 60 | [El Sonao](https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Bailando Ando](https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss) | 4:21 |
+| 60 | [La Mariquita](https://open.spotify.com/track/1YIYdQ8yVTH2ER7Dko6n1j) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9), [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [La Mariquita](https://open.spotify.com/album/0GOqWn6wVT5MgFJtuPMOKZ) | 3:18 |
 | 61 | [Carnavaleando](https://open.spotify.com/track/2J0zZ1yfeibAX3LCdJe8j9) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [¡La Mera Mera! \(10 Aniversario\) \[La Historia Continúa\]](https://open.spotify.com/album/5rsRnvD5GXtK6IjyaHWexK) | 5:45 |
-| 62 | [La Mariquita](https://open.spotify.com/track/1YIYdQ8yVTH2ER7Dko6n1j) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9), [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [La Mariquita](https://open.spotify.com/album/0GOqWn6wVT5MgFJtuPMOKZ) | 3:18 |
+| 62 | [El Sonao](https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Bailando Ando](https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss) | 4:21 |
 | 63 | [El Pato Asado, El Ahualulco \(En Vivo\)](https://open.spotify.com/track/2Nat0Cc2ddJVkkRqKlRN0M) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 5:25 |
 | 64 | [El Huitzuqueño](https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko \(Serie Titanium\)](https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo) | 3:07 |
-| 65 | [Homenaje a Un Barbaro ..\. Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Piña](https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 4:48 |
-| 66 | [El Sinaloense](https://open.spotify.com/track/0b9MLh70Nx7Ix3Nn3Azs0E) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [En Vivo](https://open.spotify.com/album/4XNAcJHIkjMeV634pBtTY5) | 4:33 |
+| 65 | [El Sinaloense](https://open.spotify.com/track/0b9MLh70Nx7Ix3Nn3Azs0E) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [En Vivo](https://open.spotify.com/album/4XNAcJHIkjMeV634pBtTY5) | 4:33 |
+| 66 | [Homenaje a Un Barbaro ..\. Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Piña](https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 4:48 |
 | 67 | [El Tololoche \- La Tuba Chicoteada](https://open.spotify.com/track/6v0cboH1Qxb4Alx751Do8f) | [Banda La Caminera](https://open.spotify.com/artist/2xOt8IryZyGdnIu3IxTh8U) | [Éxitos: No Me Sé Rajar](https://open.spotify.com/album/12J1rTiFvKIh2zj1dTikNr) | 2:41 |
 | 68 | [Chocolate Olé](https://open.spotify.com/track/02ncC6OvkiakpPtWXkPe8f) | [Banda Los Coyulitos](https://open.spotify.com/artist/0CVlSXCgXIMQgojZ2irFYT) | [Chocolate Olé](https://open.spotify.com/album/1WAjhUwqgTHT2HKPLxVTmj) | 2:05 |
 | 69 | [Son de la Cotorra](https://open.spotify.com/track/58Giumsuoa58XMfSUca4pF) | [La Super Banda De Chilacachapa](https://open.spotify.com/artist/60WAscKOtR4uzuKWqjnHn4) | [Vamos Pa' Los Toros](https://open.spotify.com/album/09zNtJ7OrP7eZNieO2qk8F) | 2:47 |
 | 70 | [Pica Perica \- En Vivo Desde El Rancho](https://open.spotify.com/track/3rRsyxWKh1znG601xHefUN) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:36 |
-| 71 | [Sin Miedo Al Toro](https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Sin Miedo Al Toro](https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar) | 3:19 |
-| 72 | [Corazon De Texas](https://open.spotify.com/track/2QOpqX6wuf0wZhJto3jWKY) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 3:33 |
+| 71 | [Corazon De Texas](https://open.spotify.com/track/2QOpqX6wuf0wZhJto3jWKY) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 3:33 |
+| 72 | [Sin Miedo Al Toro](https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Sin Miedo Al Toro](https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar) | 3:19 |
 | 73 | [La Ardilla](https://open.spotify.com/track/1bhgkbzzfIxxInt7Hzs2et) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:44 |
 | 74 | [La Chiclanera](https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:11 |
 | 75 | [Palillos Chinos \(En Vivo\)](https://open.spotify.com/track/4INNovqJJ4umIRINUqQTRJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 2:32 |
 
-Snapshot ID: `MCxkOWRiOGI3YWNjNWEwZTVlZDA0YjMzMmI5MDVkZTRiMWNhZGRjMjRj`
+Snapshot ID: `MCwzZTljNzYzZDk0MTNhMGIwYTI4NzgwNWU5MDU5NjczOWI4M2I3Mjll`

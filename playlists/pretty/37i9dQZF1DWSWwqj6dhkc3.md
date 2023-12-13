@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,670 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,668 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 75 | [Voilà](https://open.spotify.com/track/7z9b9sw3k2ov3fO6YHKLHO) | [Club Yoko](https://open.spotify.com/artist/3kcV06zLtzUXC1p43aO5DJ) | [Voilà](https://open.spotify.com/album/7asKOioOiNZUhL5JiQs30H) | 2:25 |
 | 76 | [Everybody Hurts](https://open.spotify.com/track/1keQQqma4XPBRL1e6USd7Z) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:36 |
 
-Snapshot ID: `MCxkNzMzYzZjM2EyNjEyYWNlMjk5MDRhOTkyMGU1NjI5ZWFkMTAwOWQx`
+Snapshot ID: `MCw3ZTZkY2ZhMmM0ZjlkZmE5YzEwYzNlNDU0ZmFlNjJhZGQ3MTlmYjdm`

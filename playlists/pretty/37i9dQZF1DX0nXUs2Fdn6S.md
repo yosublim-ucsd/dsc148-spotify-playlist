@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,106 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,127 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 15 | [Sayonee \- Sartek Remix](https://open.spotify.com/track/4H9XYpaxiCOOmDLS2zBW2G) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Sartek](https://open.spotify.com/artist/7twKy3fK03wqUCnHDCL6Qc) | [Sayonee \(Sartek Remix\)](https://open.spotify.com/album/0BvLTzENzNKdkqurIMVIX0) | 3:04 |
 | 16 | [Jogan](https://open.spotify.com/track/71zyIZd2ICR7S5ymc6JYgi) | [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w), [GNDHI](https://open.spotify.com/artist/3JCQBfcQu5347GddKkbKlo) | [Jogan](https://open.spotify.com/album/54Pd2Eg7lW2GHtXWjSSoza) | 3:00 |
 | 17 | [Bhayanak Atma](https://open.spotify.com/track/3niyBBBg3177KzOKDwxVzH) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Bhayanak Atma](https://open.spotify.com/album/16pdgGrQ5x2CfLxzckL0GS) | 3:30 |
-| 18 | [Jadi Buti \(Nucleya VIP Remix\)](https://open.spotify.com/track/1lbVysCV8VAQ37iyiFoaqQ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Music Is The Weapon \(Remixes\)](https://open.spotify.com/album/2PoUNP3XnxGDDdTpURcHoY) | 2:41 |
+| 18 | [Jadi Buti \(Nucleya VIP Remix\)](https://open.spotify.com/track/2y03eCRUXcs6uH7SNWY60b) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Music Is The Weapon \(Remixes\)](https://open.spotify.com/album/1xPaBWpYSQ6ucVTCltxgTs) | 2:41 |
 | 19 | [Umang](https://open.spotify.com/track/3XHvNtpFNFJSJG2ZY7JOq5) | [Shak Attack Music](https://open.spotify.com/artist/55hFQMGx9ryWaWL4B97PtD) | [Umang](https://open.spotify.com/album/6NEgJjPgsFroLbEOJBOIJB) | 3:22 |
 | 20 | [Chemistry](https://open.spotify.com/track/79yCicUXsMibJTNY0y5CXE) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kanchan Daniel](https://open.spotify.com/artist/3PLLYBkFo8mZO9JIsXRRUA) | [Music For The \# Generation](https://open.spotify.com/album/5eEqeXiXjxhcZisBravDBr) | 3:39 |
 | 21 | [Mantrah](https://open.spotify.com/track/0aq7hOP81yTb9E9cXdlT63) | [Ishan Majee](https://open.spotify.com/artist/6ov51eeD29HZd2uA3wGk6S) | [Mantrah](https://open.spotify.com/album/1UfBit4VHYP1bSKdbmRQ3d) | 2:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 59 | [Uncomplicated](https://open.spotify.com/track/1xn3ESNRR5wbpZwEU3xlBv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Matthew Steeper](https://open.spotify.com/artist/5BCqO5LyLTOvo7etwfgQ7b) | [Uncomplicated](https://open.spotify.com/album/0vZhZVruxqC8HEGc1Wdwtr) | 3:25 |
 | 60 | [Roshni](https://open.spotify.com/track/0MZ6NFEV7oQSDMzuXBVS5E) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Roshni](https://open.spotify.com/album/27KyEgaluOMGNdtKud8Axt) | 2:54 |
 
-Snapshot ID: `MCxjZjMwZDNmYTMxNDU2NmMyMjM5YTBlMTBjNzAzNGRiZGUyMTMzNjI4`
+Snapshot ID: `MCxlMTMyZjkwMzVmNjAxMDAyMmEyNTNkN2E0NjMyZjNhZTU0YmYyN2Vm`

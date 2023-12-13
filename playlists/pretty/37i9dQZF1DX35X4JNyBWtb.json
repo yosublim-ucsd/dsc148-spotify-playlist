@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 770228,
+  "num_followers": 770784,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDk5YjcyOGQ5MWQ3OWQ1ZTFmZjQxY2M5ZDNmMDg4YWY4N2QwNzE3",
+  "snapshot_id": "MCwwZTVlMTBlMzEyZTRmZTA0NzBkY2Y5NTU1ODcwMGY2NWE5NTE2ZDIy",
   "tracks": [
     {
       "added_at": "2023-10-23 12:12:38",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-23 12:12:38",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
-    },
-    {
-      "added_at": "2023-10-23 12:12:38",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": "2023-10-23 12:12:38",
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2023-10-23 12:12:38",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-23 12:12:38",
       "album": {
-        "name": "Before the Storm, Special Edition",
-        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Sandstorm",
-      "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
-    },
-    {
-      "added_at": "2023-10-23 12:12:38",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 155409,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN"
+    },
+    {
+      "added_at": "2023-10-23 12:12:38",
+      "album": {
+        "name": "Before the Storm, Special Edition",
+        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
     },
     {
       "added_at": "2023-10-23 12:12:38",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-10-23 12:12:38",
       "album": {
+        "name": "Drop That Low (When I Dip)",
+        "url": "https://open.spotify.com/album/3ijcuTSUg192BerlqA1gxR"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 159999,
+      "name": "Drop That Low (When I Dip)",
+      "url": "https://open.spotify.com/track/0WSjVLITbxV6kVXndziQDm"
+    },
+    {
+      "added_at": "2023-10-23 12:12:38",
+      "album": {
         "name": "One Love (Deluxe)",
         "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 210093,
       "name": "Memories (feat. Kid Cudi)",
       "url": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
-    },
-    {
-      "added_at": "2023-10-23 12:12:38",
-      "album": {
-        "name": "Drop That Low (When I Dip)",
-        "url": "https://open.spotify.com/album/3ijcuTSUg192BerlqA1gxR"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 159999,
-      "name": "Drop That Low (When I Dip)",
-      "url": "https://open.spotify.com/track/0WSjVLITbxV6kVXndziQDm"
     },
     {
       "added_at": "2023-10-23 12:12:38",
@@ -2291,26 +2291,6 @@
     {
       "added_at": "2023-10-23 12:12:38",
       "album": {
-        "name": "Sunglasses At Night",
-        "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Sunglasses At Night",
-      "url": "https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx"
-    },
-    {
-      "added_at": "2023-10-23 12:12:38",
-      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
       },
@@ -2327,6 +2307,26 @@
       "duration_ms": 236068,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
+    },
+    {
+      "added_at": "2023-10-23 12:12:38",
+      "album": {
+        "name": "Sunglasses At Night",
+        "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx"
     },
     {
       "added_at": "2023-10-23 12:12:38",
@@ -2467,18 +2467,18 @@
     {
       "added_at": "2023-10-23 12:12:38",
       "album": {
-        "name": "Boyz N Da Club (Radio Edit)",
-        "url": "https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4IU5ADOJ9DnVa9clXVhrEE"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
         }
       ],
-      "duration_ms": 141395,
-      "name": "Boyz N Da Club - Radio Edit",
-      "url": "https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV"
+      "duration_ms": 173066,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW"
     },
     {
       "added_at": "2023-10-23 12:12:38",
@@ -2499,22 +2499,6 @@
       "duration_ms": 139411,
       "name": "On The Move",
       "url": "https://open.spotify.com/track/7lEBtmu2qRLupeSOupBa1j"
-    },
-    {
-      "added_at": "2023-10-23 12:12:38",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4IU5ADOJ9DnVa9clXVhrEE"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW"
     },
     {
       "added_at": "2023-10-23 12:12:38",
@@ -2543,6 +2527,22 @@
       "duration_ms": 133724,
       "name": "Say It Right - ILURO Remix",
       "url": "https://open.spotify.com/track/5ofHoV0ywhsZUOArK1Oa1h"
+    },
+    {
+      "added_at": "2023-10-23 12:12:38",
+      "album": {
+        "name": "Boyz N Da Club (Radio Edit)",
+        "url": "https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 141395,
+      "name": "Boyz N Da Club - Radio Edit",
+      "url": "https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV"
     },
     {
       "added_at": "2023-10-23 12:12:38",
@@ -2731,22 +2731,18 @@
     {
       "added_at": "2023-10-23 12:12:38",
       "album": {
-        "name": "LET'S GO",
-        "url": "https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan"
+        "name": "One (Your Name)",
+        "url": "https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd"
       },
       "artists": [
         {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         }
       ],
-      "duration_ms": 196880,
-      "name": "LET'S GO",
-      "url": "https://open.spotify.com/track/2dRwRtYFH95QcMcRhUVWBB"
+      "duration_ms": 169920,
+      "name": "One - Radio Edit",
+      "url": "https://open.spotify.com/track/41KPpw0EZCytxNkmEMJVgr"
     },
     {
       "added_at": "2023-10-23 12:12:38",
@@ -2775,22 +2771,6 @@
     {
       "added_at": "2023-10-23 12:12:38",
       "album": {
-        "name": "One (Your Name)",
-        "url": "https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "One - Radio Edit",
-      "url": "https://open.spotify.com/track/41KPpw0EZCytxNkmEMJVgr"
-    },
-    {
-      "added_at": "2023-10-23 12:12:38",
-      "album": {
         "name": "I'm Blue (Club Mixes)",
         "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
       },
@@ -2803,6 +2783,26 @@
       "duration_ms": 150000,
       "name": "I'm Blue - Club Mix",
       "url": "https://open.spotify.com/track/0P5lXk4fg0682IgDyK7GFM"
+    },
+    {
+      "added_at": "2023-10-23 12:12:38",
+      "album": {
+        "name": "LET'S GO",
+        "url": "https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 196880,
+      "name": "LET'S GO",
+      "url": "https://open.spotify.com/track/2dRwRtYFH95QcMcRhUVWBB"
     },
     {
       "added_at": "2023-10-23 12:12:38",
@@ -2843,6 +2843,34 @@
       "duration_ms": 202745,
       "name": "Places",
       "url": "https://open.spotify.com/track/4QcDkuGQx9824a6X9BZF4e"
+    },
+    {
+      "added_at": "2023-10-23 12:12:38",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "Klahr",
+          "url": "https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD"
+        }
+      ],
+      "duration_ms": 186805,
+      "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
+      "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"
     },
     {
       "added_at": "2023-10-23 12:12:38",
@@ -2959,54 +2987,6 @@
     {
       "added_at": "2023-10-23 12:12:38",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        },
-        {
-          "name": "Klahr",
-          "url": "https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD"
-        }
-      ],
-      "duration_ms": 186805,
-      "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
-      "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"
-    },
-    {
-      "added_at": "2023-10-23 12:12:38",
-      "album": {
-        "name": "Hear Me Say",
-        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 190772,
-      "name": "Hear Me Say",
-      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
-    },
-    {
-      "added_at": "2023-10-23 12:12:38",
-      "album": {
         "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/4VQTonYI4isi3H2prtuKOX"
       },
@@ -3027,6 +3007,26 @@
       "duration_ms": 172799,
       "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1"
+    },
+    {
+      "added_at": "2023-10-23 12:12:38",
+      "album": {
+        "name": "Hear Me Say",
+        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 190772,
+      "name": "Hear Me Say",
+      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
     },
     {
       "added_at": "2023-10-23 12:12:38",

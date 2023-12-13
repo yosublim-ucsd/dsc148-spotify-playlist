@@ -1,32 +1,36 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kaatera\n",
-  "num_followers": 56128,
+  "num_followers": 56148,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDU4ZjNmZDQ5NTNlYjUyNjQ2NWI1ZGQxMzhkOGI5MDZmNWE2YzE5",
+  "snapshot_id": "MCxlMTk4OWFlZGM4ZTgyNDFjZGQ0N2NkZmI4MTVmOTgwMDBkNzAzZjNm",
   "tracks": [
     {
-      "added_at": "2023-12-05 06:44:55",
+      "added_at": "2023-12-12 05:37:45",
       "album": {
-        "name": "Pasandaagavne ( from\"Kaatera\")",
-        "url": "https://open.spotify.com/album/40WrIkUrjtryaA1mpmagga"
+        "name": "Yava Janumada Gelathi (from \"Kaatera\")",
+        "url": "https://open.spotify.com/album/5vzLCnSQxi25b62VEiktbY"
       },
       "artists": [
         {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+          "name": "Hemanth Kumar",
+          "url": "https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
         },
         {
           "name": "V. Harikrishna",
           "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
         }
       ],
-      "duration_ms": 211155,
-      "name": "Pasandaagavne - (from \"Kaatera\")",
-      "url": "https://open.spotify.com/track/1wPHTQyG7dUvmQ0DWahRMm"
+      "duration_ms": 233492,
+      "name": "Yava Janumada Gelathi (from \"Kaatera\")",
+      "url": "https://open.spotify.com/track/0Uw7FTZyC35WQtqt0kDweW"
     },
     {
       "added_at": "2023-12-07 12:31:19",
@@ -131,6 +135,50 @@
       "duration_ms": 77000,
       "name": "TOXIC - TITLE OST",
       "url": "https://open.spotify.com/track/4lnnr3Qi5hMEsByLRSA7O2"
+    },
+    {
+      "added_at": "2023-12-12 05:41:20",
+      "album": {
+        "name": "Life Alli Nimge (From \"Maayanagari\")",
+        "url": "https://open.spotify.com/album/4eXKORXdY1wFqRDQVHuEiJ"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Yograj Bhat",
+          "url": "https://open.spotify.com/artist/5SQ4TP2GqwNGiDDEcOg905"
+        }
+      ],
+      "duration_ms": 245875,
+      "name": "Life Alli Nimge - From \"Maayanagari\"",
+      "url": "https://open.spotify.com/track/7zlD52pDXUzesR7RqazeMY"
+    },
+    {
+      "added_at": "2023-12-05 06:44:55",
+      "album": {
+        "name": "Pasandaagavne ( from\"Kaatera\")",
+        "url": "https://open.spotify.com/album/40WrIkUrjtryaA1mpmagga"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 211155,
+      "name": "Pasandaagavne - (from \"Kaatera\")",
+      "url": "https://open.spotify.com/track/1wPHTQyG7dUvmQ0DWahRMm"
     },
     {
       "added_at": "2023-12-07 12:32:14",
@@ -1425,38 +1473,6 @@
       "url": "https://open.spotify.com/track/1hIToKt93BWgWbrR8dzfHi"
     },
     {
-      "added_at": "2023-10-20 10:49:09",
-      "album": {
-        "name": "Shantala (Kannada)",
-        "url": "https://open.spotify.com/album/4RKiBuhfvguhg2QNK4ltWg"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "Priya Prakash",
-          "url": "https://open.spotify.com/artist/3hHVnX47eTvjEzihcOWOG1"
-        },
-        {
-          "name": "Feji",
-          "url": "https://open.spotify.com/artist/5u4EqWwVkgK60JH2ZkPybR"
-        },
-        {
-          "name": "Renuka",
-          "url": "https://open.spotify.com/artist/2o7fW1wIbJrOVVeNsNEJbo"
-        },
-        {
-          "name": "Kinnal Raj",
-          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
-        }
-      ],
-      "duration_ms": 220086,
-      "name": "Rise of Shantala",
-      "url": "https://open.spotify.com/track/5tLJBlEImSeJJ4GvcaCO2W"
-    },
-    {
       "added_at": "2023-10-17 12:02:20",
       "album": {
         "name": "Bhavapoorna (Original Motion Picture Soundtrack)",
@@ -1499,34 +1515,6 @@
       "duration_ms": 104851,
       "name": "Kadalanu (From \"Sapta Sagaradaache Ello - Side A\")",
       "url": "https://open.spotify.com/track/1SRXTf3yNjZh1x0DTQv6MH"
-    },
-    {
-      "added_at": "2023-10-13 11:40:34",
-      "album": {
-        "name": "Naa Ready [From \"Leo (Kannada)\"]",
-        "url": "https://open.spotify.com/album/2Q3JxgvQbEWacIkcjVt3UT"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "L. V. Revanth",
-          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
-        },
-        {
-          "name": "Roll Rida",
-          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
-        },
-        {
-          "name": "Ritesh G Rao",
-          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
-        }
-      ],
-      "duration_ms": 248181,
-      "name": "Naa Ready (From \"Leo (Kannada)\")",
-      "url": "https://open.spotify.com/track/3385GNbN3vSr53ePAIqo4M"
     },
     {
       "added_at": "2023-10-12 13:40:46",

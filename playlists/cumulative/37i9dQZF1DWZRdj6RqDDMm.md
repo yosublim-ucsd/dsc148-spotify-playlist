@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ">Anendlessocean</a>
 
-109 songs - 7 hr 14 min
+110 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [FOCUS](https://open.spotify.com/track/7rvky1xs7Ewil4rUjtxcSk) | [Same OG](https://open.spotify.com/artist/76h9OBfmrRBZI5R4PA3r6i), [Licy\-Be](https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA) | [FOCUS](https://open.spotify.com/album/0GzUWbbrW1mpSpb2iSNhzr) | 2:01 | 2023-10-20 |  |
 | [Formula 1](https://open.spotify.com/track/7qJtU5f9m6yulehi4GjktK) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Formula 1](https://open.spotify.com/album/5tEiXnkdcYcSGZyGPuaDDH) | 2:38 | 2023-11-24 |  |
 | [Free, Pt\. 2](https://open.spotify.com/track/5FY9J29KgfImVtacAJor1F) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Free, Pt\. 2](https://open.spotify.com/album/0uBdvE9bfkTdKQcQGZ5HAZ) | 3:46 | 2023-11-10 | 2023-11-17 |
+| [Freedom Dance](https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Freedom Dance](https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH) | 2:54 | 2023-12-12 |  |
 | [Glory](https://open.spotify.com/track/3KC5eGrdYOhTqjVgcA3g0h) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Glory](https://open.spotify.com/album/7foKRWx8Bfg6TwKoQ0g8Tz) | 3:12 | 2023-11-03 |  |
 | [Good](https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Good](https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i) | 3:36 | 2023-10-20 |  |
 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-20 |  |

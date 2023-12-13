@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,531 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,540 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 33 | [Return of Captain Rock](https://open.spotify.com/track/0hgZX6Vss9TjUitrDspu7u) | [Captain Rock](https://open.spotify.com/artist/6EoN0UOcwpUcv1ljI9nzAz) | [To the Future Shock](https://open.spotify.com/album/4q5We78ZSDvwkWnkOpfmWR) | 3:56 |
 | 34 | [Electricity](https://open.spotify.com/track/1pSI4VjT9OD0lk6wcrBUjI) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [Greatest Hits](https://open.spotify.com/album/4s7ceLc5ZtNLxPOiWOFXay) | 6:59 |
 | 35 | [Sticky Situation](https://open.spotify.com/track/2Uw8Ujmn5TQuziGYTn6muu) | [Tyrone Brunson](https://open.spotify.com/artist/2iOW6LuBHr1Qzb9gtu6ZMn) | [Sticky Situation \(Expanded\)](https://open.spotify.com/album/3xkIqTjIIytRAA3IZYM4ts) | 6:32 |
-| 36 | [The Key](https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf) | [Wuf Ticket](https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ) | [Rare Preludes, Vol\. 4](https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1) | 6:42 |
-| 37 | [Stellar Fungk](https://open.spotify.com/track/2NtsQwYhpOG6RQS99s7fwY) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [The Concept](https://open.spotify.com/album/3hCQBRTU8qzvjeLNTzxm89) | 8:43 |
+| 36 | [Stellar Fungk](https://open.spotify.com/track/2NtsQwYhpOG6RQS99s7fwY) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [The Concept](https://open.spotify.com/album/3hCQBRTU8qzvjeLNTzxm89) | 8:43 |
+| 37 | [The Key](https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf) | [Wuf Ticket](https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ) | [Rare Preludes, Vol\. 4](https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1) | 6:42 |
 | 38 | [Call Me Up](https://open.spotify.com/track/50oH96vYAuUy0PUaxY6FeW) | [Bromar](https://open.spotify.com/artist/4EG6PjDBrNbpKdQft6rk5S) | [Call Me Up](https://open.spotify.com/album/7wbGGlVNSqFOB0GXiC4S0d) | 6:43 |
 | 39 | [Mega\-Mix "Prelude \#1" \- Inch By Inch, Music, Go With The Flow, Just Keep On Walking, Beat The Street, Keep Giving Me Love, Youre The One For Me, Must Be The Music, D Train \(Dub\) & Body Music](https://open.spotify.com/track/4lqzp8Llnu34IOAA0pKj31) | [Strikers](https://open.spotify.com/artist/6UZO3p1zvBC1QuPdgKDbzR), [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe), [Weeks & Co.](https://open.spotify.com/artist/5RVgCRheVivlGnWebsyzaR), [Rod](https://open.spotify.com/artist/4B9tusBz94bD4jx4ErFjFB), [Sharon Redd & Secret Weapon](https://open.spotify.com/artist/3i2CCa9WEfTdnN2Vw1I0R5) | [Prelude Mastermixes, Vol.3](https://open.spotify.com/album/5WjHKodl6cRGe3prMvjuzr) | 11:26 |
 | 40 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCwzNTlmMTEzZGYxNTRhNWQ5YmNiNTBhYjRiODIwODIwMzljNGRhM2Vi`
+Snapshot ID: `MCw4YzljODEyMTc5ZWYxYTAxZWVjN2IzMTExN2Q2N2JhNDRjYzcxM2Iz`

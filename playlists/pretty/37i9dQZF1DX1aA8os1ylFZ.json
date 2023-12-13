@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241101,
+  "num_followers": 241148,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTIyMzBmMTVjYTg3OTE1MjIxZjJlMTkwNGM5Y2I2ZTRkNThmYTAy",
+  "snapshot_id": "MCwyMzJkODkyZDk0ZTA2OGE4NWRjZTBiNzVjODM3ZTQ1Yjc4YmE1MjFm",
   "tracks": [
     {
       "added_at": "2023-12-07 23:37:57",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "Hennessy (feat. Blxst)",
-        "url": "https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk"
-      },
-      "artists": [
-        {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 144710,
-      "name": "Hennessy (feat. Blxst)",
-      "url": "https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 265906,
       "name": "New Type (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
+        "name": "Hennessy (feat. Blxst)",
+        "url": "https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 144710,
+      "name": "Hennessy (feat. Blxst)",
+      "url": "https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
+        "name": "Loveloca",
+        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Loveloca",
+      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
         "name": "Emotionally Unavailable",
         "url": "https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 142857,
       "name": "Emotionally Unavailable",
       "url": "https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
-        "name": "Loveloca",
-        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Loveloca",
-      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 183996,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
+    },
+    {
+      "added_at": "2023-12-07 23:37:57",
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
       },
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
+        "name": "Love On Film",
+        "url": "https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW"
       },
       "artists": [
         {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
         }
       ],
-      "duration_ms": 183996,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
+      "duration_ms": 123825,
+      "name": "Love On Film",
+      "url": "https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1663,18 +1679,18 @@
     {
       "added_at": "2023-12-07 23:37:57",
       "album": {
-        "name": "Love On Film",
-        "url": "https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW"
+        "name": "Do They Know",
+        "url": "https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM"
       },
       "artists": [
         {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
         }
       ],
-      "duration_ms": 123825,
-      "name": "Love On Film",
-      "url": "https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0"
+      "duration_ms": 122400,
+      "name": "Do They Know",
+      "url": "https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU"
     },
     {
       "added_at": "2023-12-07 23:37:57",
@@ -1691,22 +1707,6 @@
       "duration_ms": 121263,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
-    },
-    {
-      "added_at": "2023-12-07 23:37:57",
-      "album": {
-        "name": "Do They Know",
-        "url": "https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM"
-      },
-      "artists": [
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "Do They Know",
-      "url": "https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU"
     },
     {
       "added_at": "2023-12-07 23:37:57",

@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 945461,
+  "num_followers": 946142,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmQ5OGZlNTI4YjcwNGFlYjVjNTZlMDg4NzMyNjAxNDk0NjQ3YTFl",
+  "snapshot_id": "MCw2OWE0MjgwYzYxM2RkMGVhN2YxNTVlMzM5NjUzMmJhOTNlNmEyYmM3",
   "tracks": [
     {
       "added_at": "2023-03-01 15:25:34",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "Balls to Picasso (2001 Remaster)",
+        "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "duration_ms": 384013,
+      "name": "Tears of the Dragon (2001 Remaster)",
+      "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "Empire - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 321573,
       "name": "Jet City Woman - Remastered 2003",
       "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 344360,
-      "name": "Night Crawler",
-      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Balls to Picasso (2001 Remaster)",
-        "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
       "artists": [
         {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 384013,
-      "name": "Tears of the Dragon (2001 Remaster)",
-      "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
+      "duration_ms": 344360,
+      "name": "Night Crawler",
+      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Blues for the Red Sun",
-        "url": "https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f"
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
       },
       "artists": [
         {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 217906,
-      "name": "Green Machine",
-      "url": "https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX"
+      "duration_ms": 438120,
+      "name": "Fear of the Dark (2015 Remaster)",
+      "url": "https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Fear of the Dark (2015 Remaster)",
-        "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
+        "name": "Blues for the Red Sun",
+        "url": "https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
         }
       ],
-      "duration_ms": 438120,
-      "name": "Fear of the Dark (2015 Remaster)",
-      "url": "https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"
+      "duration_ms": 217906,
+      "name": "Green Machine",
+      "url": "https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX"
     },
     {
       "added_at": "2023-03-01 15:25:34",

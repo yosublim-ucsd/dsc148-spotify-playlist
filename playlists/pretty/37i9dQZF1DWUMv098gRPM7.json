@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Daniel Caesar",
-  "num_followers": 8658,
+  "num_followers": 8668,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTRiMDA3MTNhNDM2MjA1MDFiNjUyNDM5ZDI4MzhhMmU5MDI2NDgy",
+  "snapshot_id": "MCw1NjViZjQ1NTc2YzliNzZjMzU0YWZiZTM0MzZiYzQ4YWQyYTQ2MjAz",
   "tracks": [
     {
       "added_at": "2023-12-08 05:01:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
-      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
         "name": "BEFORE LOVE CAME TO KILL US (Deluxe)",
         "url": "https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 215213,
       "name": "FAR AWAY II (feat. A Boogie Wit da Hoodie & JID)",
       "url": "https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
     },
     {
       "added_at": "2023-12-08 05:01:00",

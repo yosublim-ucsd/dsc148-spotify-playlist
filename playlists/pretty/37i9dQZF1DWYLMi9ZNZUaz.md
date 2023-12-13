@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,243 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,323 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [SUNDAY HIPHOP CYPHER](https://open.spotify.com/track/3q9N2v6fXZFLdTrXS6v8Ma) | [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [R.I.C](https://open.spotify.com/artist/53eTc0Nlir9E3ezMBekpsU) | [SUNDAY HIPHOP CYPHER](https://open.spotify.com/album/5zbmwF8UNv4ZZVHj3Dy5NS) | 2:55 |
 | 50 | [Cypher 2G2G](https://open.spotify.com/track/19bybZCZQPWmawAkCkAPDg) | [G\-Family](https://open.spotify.com/artist/5RiAPQ4fpNGYxMWT74EOHG), [Hata](https://open.spotify.com/artist/45jqppZY2cPbkdlNEP6BwJ), [Joka3iz](https://open.spotify.com/artist/0ocO9wD6nzLDn1HCwTmioM), [Cá Nóc](https://open.spotify.com/artist/1BfR0BlYBhvyNDwJ0oWw8A), [Lil Ce](https://open.spotify.com/artist/0iwaeyoF7NzZmTlcB1BdU6), [ACY](https://open.spotify.com/artist/2GArxmZZYPKHA2iFAVa7pL), [Mikezy](https://open.spotify.com/artist/0feVoaMDDoLF3y6Hpz0FFy), [Sol'bass](https://open.spotify.com/artist/1m8EOH3PWa22EUbKRkOXiR), [B2C](https://open.spotify.com/artist/75HZNjBcz1exr6UXEJlgOB), [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D), [Leo](https://open.spotify.com/artist/6c8nLoaCbXqx2fwEWmeY0l), [Blacka](https://open.spotify.com/artist/0JggLWdYe1p6oHZoHpyPSD), [Logan](https://open.spotify.com/artist/2q8w1qcJJmvYpTc58BaaaD) | [Cypher 2G2G](https://open.spotify.com/album/2Ts7YFVcnlksAYYsh1xQgt) | 6:24 |
 
-Snapshot ID: `MCwwZDE5NmYyOTZhMmYyNDFmZDcwNDJhYjlkMTM1ZmRkNjQxYTgwYjcy`
+Snapshot ID: `MCw4MzZiNDZiNTY1Y2VkNThkMGQ2YWFmOGJkZjZjMGIyNWQ1M2UyOTEy`

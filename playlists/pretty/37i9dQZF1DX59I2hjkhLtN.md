@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: SleepyThePrince.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,077 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,082 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 67 | [I.G.I](https://open.spotify.com/track/6v9BxSZSYJ7crFCaGB0JVQ) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP), [DTM4535](https://open.spotify.com/artist/41GyohIwX2ngEqFmBKViVj), [SomeOne](https://open.spotify.com/artist/6zxBdkNQMucMYpijGdotmW) | [I.G.I](https://open.spotify.com/album/70BkuhaGcQPUzjwGSprSPv) | 2:43 |
 | 68 | [Uhhh](https://open.spotify.com/track/1iZXkSTeRP5bPcOpHfNqSr) | [Pepinz](https://open.spotify.com/artist/5RSOOjDzMG5bf6TdM5VOfR) | [Uhhh](https://open.spotify.com/album/7MEglQk1l4RfMwcgmbRccc) | 2:21 |
 | 69 | [Nocivo](https://open.spotify.com/track/58IwGlBIXwExd2BXohsmYM) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [Biox](https://open.spotify.com/artist/1gZL90jBtuW3kgeF8nVjcM), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Nocivo](https://open.spotify.com/album/48VdO7ErRTz3GmHB5I3xUA) | 2:50 |
-| 70 | [TERRA DO NUNCA](https://open.spotify.com/track/1zRfFIkeNhH6UpqAT0r0uK) | [Pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [OKAY OKAY](https://open.spotify.com/album/6iefuQOEzgoYh3UHbHpkQN) | 2:13 |
+| 70 | [TERRA DO NUNCA](https://open.spotify.com/track/1zRfFIkeNhH6UpqAT0r0uK) | [pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [OKAY OKAY](https://open.spotify.com/album/6iefuQOEzgoYh3UHbHpkQN) | 2:13 |
 | 71 | [TOP!AN](https://open.spotify.com/track/7HS2rF70uFwJn9fgM5G8hD) | [Floraby](https://open.spotify.com/artist/4tAsolL2PXyAM31wuVCC85) | [TOP!AN](https://open.spotify.com/album/31a9nXSPEAtaU1hTMSO6vg) | 3:41 |
 | 72 | [Pocket](https://open.spotify.com/track/7E5FfVfXQLK9NfpmO5fUML) | [QVXNO](https://open.spotify.com/artist/7sQiNKC05009DdquIQkhYm) | [Pocket](https://open.spotify.com/album/0UEnxRNvBkHXsiFVWGBo3z) | 3:03 |
 | 73 | [BAG](https://open.spotify.com/track/7utsad5kHaDF8V0P8WFEZx) | [Tixa](https://open.spotify.com/artist/1iF4itLUs7fOyHFRfXFAiu), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [BAG](https://open.spotify.com/album/750A6O1bCEAW4kqiwqFwtp) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [ilha](https://open.spotify.com/track/1DzPbtEQOJD0l4hl94T6hO) | [ifloow10k](https://open.spotify.com/artist/7jsTdkR1StdUR03rWY8gpa) | [ilha](https://open.spotify.com/album/25zvWPWpyna9Gqw709QR6F) | 2:30 |
 | 100 | [Amor](https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Amor](https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG) | 3:01 |
 
-Snapshot ID: `MCw3NmM1MTI3MGE3MzBmMDg3N2FiODJhNmQ0ZmQ4MmRiZDA3YzkxMmE3`
+Snapshot ID: `MCw0MTg0YjgwMGY2ZGFlMzkzNmI5MTliYjI3NTlmYTZiZTdhOWIyZmM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=0UB5UrM3SRKJyuFiLPDgfQ">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,415 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,436 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 84 | [Flowers](https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Flowers](https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv) | 2:57 |
 | 85 | [Friends](https://open.spotify.com/track/2nhyCoUnpb9hea8f95iK4K) | [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Friends](https://open.spotify.com/album/6LGd6l4RhmR8hh99nPdLbK) | 3:18 |
 
-Snapshot ID: `MCw2N2ExZmQ3OTM5OTI3ODlmYzNmNTg0ODI3YTU1YzNhZmI0ZDI2NDkx`
+Snapshot ID: `MCw4NDM1YjQwMTMzYjJlYjZlNmQ0ODc3MDYzM2U2OGQ5YmU5NmNiYjVl`

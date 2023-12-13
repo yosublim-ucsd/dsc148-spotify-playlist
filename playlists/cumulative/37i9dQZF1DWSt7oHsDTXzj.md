@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist\. Cover: boygenius
 
-229 songs - 12 hr 35 min
+230 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Christmas Time Is Here](https://open.spotify.com/track/3hpvCB2XjiN6RVedOQ2437) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Christmas Time Is Here b/w Christmas Time Is Here \(Version Mary\)](https://open.spotify.com/album/5ChEH0yrY32PuizMC4qnSv) | 3:26 | 2021-11-12 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/70zkxzNyrAp6EMVDMwp3xf) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Christmas Time Is Here b/w Christmas Time Is Here \(Version Mary\)](https://open.spotify.com/album/0OZ5baLiodw7bWaafAjLNC) | 3:26 | 2021-11-12 | 2022-07-29 |
 | [Christmas Time Is Here](https://open.spotify.com/track/4B0CilLLPrk9AnYxbMRMdv) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Christmas Time Is Here b/w La Peregrinación](https://open.spotify.com/album/6puZZH8FMsJbRR8bvQVAX2) | 3:01 | 2021-11-12 | 2022-11-09 |
+| [Christmas Time Is Here](https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:43 | 2023-12-12 |  |
 | [Christmas Treat](https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 3:11 | 2022-10-14 |  |
 | [Christmas Trees In Rain](https://open.spotify.com/track/3LWDAisPvTSwPY1yDekJ4h) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Christmas Trees In Rain](https://open.spotify.com/album/7DIfJbxj5P6nW3NOuAEhhc) | 3:06 | 2021-11-12 | 2022-07-28 |
 | [Christmas Without You](https://open.spotify.com/track/267kRsUEcJoUyGHN7un0mo) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Christmas Without You](https://open.spotify.com/album/2G4xZw2aWxW1v6Ksw5QsHA) | 3:36 | 2021-11-12 | 2022-07-22 |
@@ -116,7 +117,7 @@
 | [In The Bleak Midwinter](https://open.spotify.com/track/59vU9HvjJx09uWeAC7wai5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [In The Bleak Midwinter](https://open.spotify.com/album/7wVUdg2hmTl1GBYq6xSHT3) | 3:51 | 2021-11-12 | 2022-07-23 |
 | [In the Bleak Midwinter](https://open.spotify.com/track/2Q7EmuVCLEY72iw7klTdPA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [In the Bleak Midwinter](https://open.spotify.com/album/43u0uu5HLQ0nXJqIxlWwiW) | 4:20 | 2022-12-23 | 2023-07-06 |
 | [It's All Gunna Go Wrong This Christmas](https://open.spotify.com/track/3nhFfJ2uGkKPW5AzU8YgNs) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [It's All Gunna Go Wrong This Christmas](https://open.spotify.com/album/2KAc30ScQ8fSAXzAvNSR4H) | 3:13 | 2021-11-12 | 2022-07-29 |
-| [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 2:29 | 2022-10-14 |  |
+| [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 2:29 | 2022-10-14 | 2023-12-13 |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/7GBuc4Sh26BLDLCsLWuCde) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/55qxgy5RW3lwMxPlpOdlAC) | 2:29 | 2021-11-12 | 2022-07-27 |
 | [It's Christmas](https://open.spotify.com/track/3IDTHSXjwV2ngdJXGcoOuc) | [Cody](https://open.spotify.com/artist/4HGUydh9BtymmiwT62K7wT) | [It's Christmas](https://open.spotify.com/album/1spQ9drDNBcMtJBVTcxzZ8) | 3:47 | 2021-11-12 | 2022-07-20 |
 | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/track/1lXkOnvzw4o6dncgSc9kwU) | [Jessicka](https://open.spotify.com/artist/69LuZP8tLC8m268w9sHj2i) | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/album/4URQ2nU0Yy86AJ17phLBap) | 3:37 | 2021-11-12 | 2022-07-08 |

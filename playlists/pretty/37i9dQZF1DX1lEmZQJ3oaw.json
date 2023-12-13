@@ -1,12 +1,12 @@
 {
   "description": "Best of Jazz music from Bollywood. Cover - A R Rahman",
-  "num_followers": 33443,
+  "num_followers": 33475,
   "original_name": "Bollywood Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGJhYzdjOWEzZDRiMjdmOTI2NjE4NzJhNjBkZWZkYzQ3NWNjNjQy",
+  "snapshot_id": "MCw0ZGE0OGZmMzQxNTg0NTIyODM1NGIyMWNhMWUwYmFkNDE3Yzk2NDY2",
   "tracks": [
     {
       "added_at": "2023-11-27 13:28:25",
@@ -686,6 +686,10 @@
         {
           "name": "Anmol Malik",
           "url": "https://open.spotify.com/artist/1NuyYLdcAzg9EmaLxMkKZE"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
         }
       ],
       "duration_ms": 219022,

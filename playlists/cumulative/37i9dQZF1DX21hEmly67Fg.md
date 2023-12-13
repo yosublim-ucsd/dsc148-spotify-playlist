@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-198 songs - 11 hr 28 min
+200 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,10 +85,12 @@
 | [God Help the Outcasts](https://open.spotify.com/track/6Gc3wspd9Xqx4BlGHxWpqE) | [Vanessa Khan](https://open.spotify.com/artist/6cjzprtxAqmx74FtQbotMV) | [God Help the Outcasts](https://open.spotify.com/album/07leyNFhgegG6d02Be7wck) | 2:08 | 2023-09-05 |  |
 | [God's Plan](https://open.spotify.com/track/0u3JkMF1s1fbKt3FyIEBdq) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2018](https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31) | 2:23 | 2022-11-18 | 2022-11-26 |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/4NyXOt1GM6PaSyg7kkPI9u) | [Georg Erixon](https://open.spotify.com/artist/2YohShuz0Lf4i09lImCR5r) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/2ltdhm5JuSUm5L0DizaUwO) | 3:13 | 2021-11-25 |  |
+| [Got Me Started](https://open.spotify.com/track/57oJOxhRWwsuUQHt9HqGaS) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Got Me Started](https://open.spotify.com/album/6d1tsnZvDEndqo4F8olKAs) | 3:47 | 2023-12-12 |  |
 | [Greatest Love of All](https://open.spotify.com/track/5jgYxqTewXtM1qcsWHnawA) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [Two from the 80s](https://open.spotify.com/album/6NuD4zVpPFvzJUESLH5svW) | 3:52 | 2023-04-04 |  |
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2021-11-25 | 2022-07-29 |
 | [Hallelujah](https://open.spotify.com/track/3OIuwKMMuO3tVZ9futeIfb) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/5iFn9WyVbL1FIRJACbkdlR) | 2:45 | 2022-07-15 | 2023-08-15 |
 | [Happier Than Ever](https://open.spotify.com/track/6YdoHXpaoC41PACP5q6VSu) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Happier Than Ever](https://open.spotify.com/album/7ghv2N51bQG2GegOqLwjpm) | 3:51 | 2022-07-15 | 2023-06-24 |
+| [Happier Than Ever](https://open.spotify.com/track/7s8N22VkwQQMYaCvIw0BtI) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Happier Than Ever](https://open.spotify.com/album/2Qy3PrG7ftu8pVijsAUiXf) | 2:32 | 2023-12-12 |  |
 | [Have I Told You Lately](https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Have I Told You Lately](https://open.spotify.com/album/3SKmeoVfGxc9RePhU4j6wu) | 3:01 | 2023-02-14 |  |
 | [Hello](https://open.spotify.com/track/6wXcmmbuKgyCz5nnU7T4lI) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Hello](https://open.spotify.com/album/6mOZiUSBptJqx5zzDlbBlG) | 3:57 | 2023-03-07 |  |
 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-28 |  |

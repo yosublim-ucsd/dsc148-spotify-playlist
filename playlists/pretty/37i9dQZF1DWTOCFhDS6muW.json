@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 21909,
+  "num_followers": 21928,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjIzMjZiYjdlMGJkOTA2Zjk5OTc3ZDQ4YmYyNWZlZmFkYzhiNGU4",
+  "snapshot_id": "MCwwNzE0OTRhZjRhZTFkMGM2ZGUxNTgwZjg1NmI3MGIzMzRiZWM0MWZk",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -467,8 +467,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 1",
-        "url": "https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD"
+        "name": "Batalla de las Puntas, Vol. 10",
+        "url": "https://open.spotify.com/album/4vH68G4MKGfdcs49bPpNUF"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
         }
       ],
-      "duration_ms": 282723,
-      "name": "Punta Silver",
-      "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
+      "duration_ms": 230800,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/4yCeZVmXYQwCSdvck8zFqg"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -583,8 +583,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 10",
-        "url": "https://open.spotify.com/album/4vH68G4MKGfdcs49bPpNUF"
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
         }
       ],
-      "duration_ms": 230800,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/4yCeZVmXYQwCSdvck8zFqg"
+      "duration_ms": 282723,
+      "name": "Punta Silver",
+      "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
     },
     {
       "added_at": "2020-05-26 15:53:13",

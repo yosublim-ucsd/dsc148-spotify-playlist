@@ -1,13 +1,29 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 151387,
+  "num_followers": 151562,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTJhZTQwZTY3NzM5ZDc4ZDk1NGRlNjBiZDBiYWU2MWI5NjY4YjQw",
+  "snapshot_id": "MCxjMTYxOTQwMThkMDM0YzEyYzRkNTYyNDhiODllOGIwY2Q2OTZmOGJm",
   "tracks": [
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Triebwerke",
+        "url": "https://open.spotify.com/album/1C7cbYCvAR2A3e7zOQriFg"
+      },
+      "artists": [
+        {
+          "name": "Alligatoah",
+          "url": "https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb"
+        }
+      ],
+      "duration_ms": 218964,
+      "name": "Willst du",
+      "url": "https://open.spotify.com/track/3FcqFCeCD6QRtRo6WGLCnC"
+    },
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
@@ -31,22 +47,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Triebwerke",
-        "url": "https://open.spotify.com/album/1C7cbYCvAR2A3e7zOQriFg"
-      },
-      "artists": [
-        {
-          "name": "Alligatoah",
-          "url": "https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb"
-        }
-      ],
-      "duration_ms": 218964,
-      "name": "Willst du",
-      "url": "https://open.spotify.com/track/3FcqFCeCD6QRtRo6WGLCnC"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Raop",
         "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
       },
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Nur f\u00fcr Dich",
-      "url": "https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Die gute Seite (Die lange Seite)",
         "url": "https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 198400,
       "name": "Ein Kompliment",
       "url": "https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Nur f\u00fcr Dich",
+      "url": "https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Melodie",
-        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 195548,
-      "name": "Traum",
-      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Von hier an blind",
         "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 236200,
       "name": "Nur ein Wort",
       "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Melodie",
+        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 195548,
+      "name": "Traum",
+      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "30-11-80",
-        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 195416,
-      "name": "Liebe",
-      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Raop",
         "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 174873,
       "name": "Du",
       "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "30-11-80",
+        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 195416,
+      "name": "Liebe",
+      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Muttersprache (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Connor",
-          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Wie sch\u00f6n du bist",
-      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Immer in Bewegung",
         "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 212520,
       "name": "Ich lass f\u00fcr dich das Licht an",
       "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Muttersprache (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Wie sch\u00f6n du bist",
+      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Wenn ich wein",
-        "url": "https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj"
-      },
-      "artists": [
-        {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Wenn ich wein",
-      "url": "https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 222613,
       "name": "Nur getr\u00e4umt",
       "url": "https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Wenn ich wein",
+        "url": "https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Wenn ich wein",
+      "url": "https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Von Wind und Anonymit\u00e4t",
-        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 162380,
-      "name": "Unique",
-      "url": "https://open.spotify.com/track/76NbcSdF8lF5Ujd065C0wf"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Hollywood (Akustik Version)",
         "url": "https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 152378,
       "name": "Hollywood - Akustik Version",
       "url": "https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 162380,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/76NbcSdF8lF5Ujd065C0wf"
     },
     {
       "added_at": "2023-03-06 08:21:00",

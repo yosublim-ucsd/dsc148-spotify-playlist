@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=I\_2getjJRpygLbICxn8L5Q"> Sarkodie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,709 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,728 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 |
 | 80 | [Mass Murder](https://open.spotify.com/track/2G4nKBQR7c8Ci301HH2dO1) | [Cj Biggerman](https://open.spotify.com/artist/1Vl2tN2L85Viewqi6PzAzl), [Taitan](https://open.spotify.com/artist/3fMJMhEMvRMGJh3FS8EOh7) | [Mass Murder](https://open.spotify.com/album/6OCrBOP38y7o7OKsuyZrxA) | 3:14 |
 
-Snapshot ID: `MCw1ZjY0M2ExYTkwZDY4Nzk2NGVkZDgwMTAyZTU0MWY5ZTBmYzQ0ZWRi`
+Snapshot ID: `MCwwMDkxMDAyOWIxOTZiNWQ1ZTQ1YWYyODNmYTc2NGY0N2ViZDA0Yjlj`

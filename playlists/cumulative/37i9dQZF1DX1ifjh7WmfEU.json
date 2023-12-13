@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Dahlia",
+        "url": "https://open.spotify.com/album/78wynCL5BJIJe0utApFZko"
+      },
+      "artists": [
+        {
+          "name": "Alfred Janders",
+          "url": "https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175163,
+      "name": "Dahlia",
+      "url": "https://open.spotify.com/track/64ovZi9kM3UqPSPgGYaf5l"
+    },
+    {
+      "album": {
         "name": "Dawn Of Day",
         "url": "https://open.spotify.com/album/3cLULRxqDxLAtlHe35y3Dx"
       },
@@ -1911,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Le Recueillement",
+        "url": "https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6"
+      },
+      "artists": [
+        {
+          "name": "Abelin Lagarde",
+          "url": "https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147098,
+      "name": "Le Recueillement",
+      "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
+    },
+    {
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ"
       },
@@ -2196,6 +2232,24 @@
       "duration_ms": 121063,
       "name": "Merveilleuse",
       "url": "https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB"
+    },
+    {
+      "album": {
+        "name": "Moment of Solace",
+        "url": "https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1"
+      },
+      "artists": [
+        {
+          "name": "Eva Starr",
+          "url": "https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Moment of Solace",
+      "url": "https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW"
     },
     {
       "album": {
@@ -3279,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "The Old Garden",
+        "url": "https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM"
+      },
+      "artists": [
+        {
+          "name": "Sanna Aalto",
+          "url": "https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174781,
+      "name": "The Old Garden",
+      "url": "https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh"
+    },
+    {
+      "album": {
         "name": "The Proposal",
         "url": "https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW"
       },
@@ -3882,6 +3954,24 @@
       "duration_ms": 252160,
       "name": "Winter - Ambient Mix",
       "url": "https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
+      },
+      "artists": [
+        {
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
     },
     {
       "album": {

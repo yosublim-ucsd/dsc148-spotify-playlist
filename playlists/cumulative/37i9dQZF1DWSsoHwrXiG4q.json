@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "Blanche",
+        "url": "https://open.spotify.com/album/0CHB3250EKccFpd1Q8PJkz"
+      },
+      "artists": [
+        {
+          "name": "Nothing Matters",
+          "url": "https://open.spotify.com/artist/2qNCzD0MZP9ySoahNngGzv"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248117,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/0G73PAIeqQFjXT0upZPNdh"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3bti1dr6JCjaYudAsjH09S"
       },
@@ -857,6 +875,24 @@
     },
     {
       "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/5m6JGBwfYQp6ZWpSbylrdj"
+      },
+      "artists": [
+        {
+          "name": "Hiyayakko",
+          "url": "https://open.spotify.com/artist/4yVyPczI3DoCsOECKEc6rg"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285090,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/6ztmiz6nijHxCsEDxMmTnV"
+    },
+    {
+      "album": {
         "name": "Inner Echo/ Thrive Pattern VIP",
         "url": "https://open.spotify.com/album/0X5CFT37lTT3nWkVlJBY37"
       },
@@ -1212,6 +1248,24 @@
       "duration_ms": 226206,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/3HjRaXVmPDawlKmRtH5pTA"
+    },
+    {
+      "album": {
+        "name": "Memories of Us",
+        "url": "https://open.spotify.com/album/4CvBSIopVSEkw9SOuLYDNF"
+      },
+      "artists": [
+        {
+          "name": "Yakkan",
+          "url": "https://open.spotify.com/artist/7sC8QEM8NC6XmIC59a5kcz"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209207,
+      "name": "Memories of Us",
+      "url": "https://open.spotify.com/track/0IQPNwi9n8DZdCURmokB3F"
     },
     {
       "album": {
@@ -1994,6 +2048,24 @@
       "duration_ms": 157374,
       "name": "Vivid Vibes",
       "url": "https://open.spotify.com/track/2TW12PMlCXbnWHTuNxxqTw"
+    },
+    {
+      "album": {
+        "name": "Voice Note",
+        "url": "https://open.spotify.com/album/3Dz2xO0au2kRCUFlcgczEr"
+      },
+      "artists": [
+        {
+          "name": "Geguri",
+          "url": "https://open.spotify.com/artist/4lAapgqEcBAmv4qqwAGUbL"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261528,
+      "name": "Voice Note",
+      "url": "https://open.spotify.com/track/20UKA9nmDp3T2v6GhiCoq5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-178 songs - 8 hr 55 min
+179 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Break Up](https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Break Up](https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01) | 2:37 | 2022-09-15 | 2023-10-03 |
 | [Breathe](https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX) | [Breathe](https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ) | 2:48 | 2022-09-29 | 2023-03-18 |
 | [Can't Let You Go](https://open.spotify.com/track/2bh7A1pUvpZMiwzck86oLQ) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Can't Let You Go](https://open.spotify.com/album/75EO9h5vhfNkTLGyMHyftF) | 3:22 | 2022-09-29 | 2022-10-22 |
-| [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-09-29 |  |
+| [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-09-29 | 2023-12-13 |
 | [Careless Whisper](https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [ALUR](https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Careless Whisper](https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI) | 2:52 | 2023-06-26 |  |
 | [Chasing Daydreams](https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Chasing Daydreams](https://open.spotify.com/album/3Q1SershhxnM6HmiZy9bPw) | 2:45 | 2022-10-13 | 2023-03-02 |
 | [Close To Me](https://open.spotify.com/track/7ufA7tIRMoFd1jTKgAfgRF) | [Ryan Murgatroyd](https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU), [Amy Jones](https://open.spotify.com/artist/7fQm8t9kG15pcP3BFVqXQk) | [Close To Me](https://open.spotify.com/album/6puejdn1tcxwEHrxnjU5oj) | 4:57 | 2022-12-01 | 2022-12-18 |
@@ -137,6 +137,7 @@
 | [Ready For Your Love](https://open.spotify.com/track/2KNGqTAuFjtHnOwMHM2pSW) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Ready For Your Love](https://open.spotify.com/album/7bvIM3qgpX7b252SMdiGpz) | 2:22 | 2023-11-16 |  |
 | [Rebirth](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 4:44 | 2022-09-15 |  |
 | [Rest Of My Life](https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Rest Of My Life](https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul) | 2:19 | 2023-05-18 | 2023-11-25 |
+| [Rest of My Life](https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Rest of My Life](https://open.spotify.com/album/3Gq46ztXW7cqnXOmTydi1R) | 2:19 | 2023-12-08 |  |
 | [Rewind](https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Rewind](https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp) | 2:41 | 2023-06-29 | 2023-08-26 |
 | [Rooftop](https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Rooftop](https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL) | 3:19 | 2023-01-13 | 2023-11-28 |
 | [Room](https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Room](https://open.spotify.com/album/2Rp0zDV32VxKHoTh1hPyzV) | 2:58 | 2022-09-15 | 2022-12-17 |

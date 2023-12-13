@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-185 songs - 12 hr 25 min
+186 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Much More \- 30/70 Crushin Mix](https://open.spotify.com/track/4kXh3uCLSAaFQJa1geebum) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM) | [Much More \(30/70 Crushin Mix\)](https://open.spotify.com/album/72wCxJtjRZ0nC0VUDhm1sA) | 5:38 | 2023-08-10 | 2023-09-01 |
 | [Musica](https://open.spotify.com/track/1PcorHXcbsQu0II44fnwAZ) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Musica](https://open.spotify.com/album/4h30UXcT18pyZ5YMmT8kdY) | 5:49 | 2023-11-16 |  |
 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 | 2023-08-17 |  |
-| [Nautical \- Radio Edit](https://open.spotify.com/track/2fuEnEKYed6EpgWcMjVVqx) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9), [Novak Manojlovic](https://open.spotify.com/artist/3m2QbQV4vmNLDSCbQlBkJB) | [Nautical](https://open.spotify.com/album/74YCnRRhFUIFbGbRcN4xkY) | 3:17 | 2023-08-31 |  |
+| [Nautical \- Radio Edit](https://open.spotify.com/track/2fuEnEKYed6EpgWcMjVVqx) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9), [Novak Manojlovic](https://open.spotify.com/artist/3m2QbQV4vmNLDSCbQlBkJB) | [Nautical](https://open.spotify.com/album/74YCnRRhFUIFbGbRcN4xkY) | 3:17 | 2023-08-31 | 2023-12-13 |
 | [Never Fight The Way You Feel](https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Never Fight The Way You Feel](https://open.spotify.com/album/3zc7JOm4n76FkKzaNwV3qQ) | 2:43 | 2023-10-10 |  |
 | [New Meaning](https://open.spotify.com/track/6mPQan4lLDiKid0LWGIPHm) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Shadowlands](https://open.spotify.com/album/0kiImzjohOce2DmKzymLju) | 3:35 | 2023-09-14 |  |
 | [Nightclub Daydream](https://open.spotify.com/track/5tIWokaSlLIeH4xiQ5U1we) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5) | [Rarities 2010 \- 2020: Japanese Tour Singles](https://open.spotify.com/album/30lV8rmhO9bbOTD6NpZMts) | 3:32 | 2023-08-10 | 2023-09-01 |
@@ -114,6 +114,7 @@
 | [No Confusion \(feat\. Kojey Radical\)](https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:14 | 2023-09-11 | 2023-09-21 |
 | [Nothing on Me](https://open.spotify.com/track/4qsv98a7IMkAJQzO1k8hkx) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:44 | 2023-09-14 |  |
 | [On Land \- Hugh B Dub](https://open.spotify.com/track/754xe1zYNdjnHjxFM3nInA) | [Loose Fit](https://open.spotify.com/artist/0uheKgZvAN1XtSaIsSV3IO), [Hugh B](https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn) | [Remixes and Dubs](https://open.spotify.com/album/44fftVVsXoC0zoDrUPpRSS) | 4:10 | 2023-08-10 | 2023-10-06 |
+| [Origami Song](https://open.spotify.com/track/20jLunM1GMasrScNWN45mP) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 4:21 | 2023-12-12 |  |
 | [Oscillate](https://open.spotify.com/track/2KCj8oBO9PmOgSOqEOyQQK) | [Alexander Flood](https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz) | [Oscillate](https://open.spotify.com/album/0mTLIPyWBKcuMRXnOj1yH6) | 6:13 | 2023-08-10 | 2023-09-15 |
 | [Otherway](https://open.spotify.com/track/1HibS69wIuHNaotBNJeCk2) | [Daniel Noah Miller](https://open.spotify.com/artist/0ofVQtXisiSCBVTW9tNUTS), [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Otherway](https://open.spotify.com/album/5oZxjxrWQOSFLahaUvAqZq) | 2:50 | 2023-09-14 |  |
 | [Over The Moon](https://open.spotify.com/track/5asQpx4UqHbWOYBNP375Qv) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 3:32 | 2023-08-10 | 2023-09-15 |

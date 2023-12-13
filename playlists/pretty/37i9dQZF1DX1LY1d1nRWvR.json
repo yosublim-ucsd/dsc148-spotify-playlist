@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 32970,
+  "num_followers": 32982,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWM3Yjc5ZTg1MzU2NzFiZDE2ZjliNTZlOGMzMTBiMmIxZDhlYmFh",
+  "snapshot_id": "MCxiOWNmYTRlMzMxOWQ5OTI3MGZlYzM3YjI0NTQ5ZjYxMTdkMzhhYWEx",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -331,26 +331,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Buya",
-        "url": "https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU"
+        "name": "Nubya's 5ive",
+        "url": "https://open.spotify.com/album/6gVTOEeb9Hd1EO4A6kYEOE"
       },
       "artists": [
         {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Toshi",
-          "url": "https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63"
-        },
-        {
-          "name": "Da Capo",
-          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
         }
       ],
-      "duration_ms": 464182,
-      "name": "Buya - Da Capo Remix",
-      "url": "https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt"
+      "duration_ms": 458605,
+      "name": "Lost Kingdoms",
+      "url": "https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -371,22 +363,6 @@
       "duration_ms": 367413,
       "name": "Learn Your Lesson - Photay Remix",
       "url": "https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Nubya's 5ive",
-        "url": "https://open.spotify.com/album/6gVTOEeb9Hd1EO4A6kYEOE"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 458605,
-      "name": "Lost Kingdoms",
-      "url": "https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -427,22 +403,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Yardley Suite",
-        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
-        }
-      ],
-      "duration_ms": 235803,
-      "name": "Yardley Suite",
-      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
       },
@@ -455,6 +415,38 @@
       "duration_ms": 298208,
       "name": "Puppets",
       "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/731CVmFi5tJ0gT2wvVQAss"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "duration_ms": 376960,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/4nEHMZYdH2z4vPO8nJW9wF"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Yardley Suite",
+        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+        }
+      ],
+      "duration_ms": 235803,
+      "name": "Yardley Suite",
+      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -479,22 +471,6 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/731CVmFi5tJ0gT2wvVQAss"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 376960,
-      "name": "Bamboo",
-      "url": "https://open.spotify.com/track/4nEHMZYdH2z4vPO8nJW9wF"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -659,6 +635,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        }
+      ],
+      "duration_ms": 513226,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Cleo",
         "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
       },
@@ -675,18 +667,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
+        "name": "All My Troubles",
+        "url": "https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN"
       },
       "artists": [
         {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
         }
       ],
-      "duration_ms": 513226,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
+      "duration_ms": 308000,
+      "name": "All My Troubles",
+      "url": "https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -743,22 +735,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Straight Line (Remixed)",
-        "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
+        "name": "Tanto Tiempo",
+        "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
       },
       "artists": [
         {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+          "name": "Scrimshire",
+          "url": "https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL"
         },
         {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
+        },
+        {
+          "name": "Village Cuts",
+          "url": "https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU"
         }
       ],
-      "duration_ms": 376489,
-      "name": "Straight Line - Neil Cowley Remix",
-      "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
+      "duration_ms": 295606,
+      "name": "Tanto Tiempo - Village Cuts Remix",
+      "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -775,6 +771,26 @@
       "duration_ms": 244928,
       "name": "Umama - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Straight Line (Remixed)",
+        "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
+      },
+      "artists": [
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        },
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 376489,
+      "name": "Straight Line - Neil Cowley Remix",
+      "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -815,46 +831,6 @@
       "duration_ms": 346361,
       "name": "Aletheia",
       "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Tanto Tiempo",
-        "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
-      },
-      "artists": [
-        {
-          "name": "Scrimshire",
-          "url": "https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL"
-        },
-        {
-          "name": "Penya",
-          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
-        },
-        {
-          "name": "Village Cuts",
-          "url": "https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU"
-        }
-      ],
-      "duration_ms": 295606,
-      "name": "Tanto Tiempo - Village Cuts Remix",
-      "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "All My Troubles",
-        "url": "https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN"
-      },
-      "artists": [
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "All My Troubles",
-      "url": "https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -919,6 +895,26 @@
       "duration_ms": 272893,
       "name": "Been A Long Night",
       "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Follow You EP (feat. Floating Points)",
+        "url": "https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw"
+      },
+      "artists": [
+        {
+          "name": "Fatima",
+          "url": "https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 267520,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk"
     }
   ],
   "unique_name": "lush",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > he was a boy, i was a horse\. could that make it any more difficult.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,857 likes - 144 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,978 likes - 144 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 12 | [New Beginning \(Water From Your Eyes Remix\)](https://open.spotify.com/track/25NKkvS9TA1Ftvm6YgcyJu) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU), [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [New Beginning \(Water From Your Eyes Remix\)](https://open.spotify.com/album/7ibRuWSlOgG0pA7c6cs1qN) | 3:11 |
 | 13 | [where’s my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where’s my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 |
 | 14 | [amends](https://open.spotify.com/track/2zeyfLYqiAp0dkvaKY93HI) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [amends](https://open.spotify.com/album/4eVKslgPopgYARIH7TiSPX) | 2:38 |
-| 15 | [Kota on the plane \- MGNA Crrrta Remix](https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [MGNA Crrrtr](https://open.spotify.com/artist/5KCMTtoQ1ouhC4GGHZQb8m) | [Kota on the plane \(MGNA Crrrta Remix\)](https://open.spotify.com/album/3GM9knfczDc5qvrFAwL70Y) | 2:53 |
+| 15 | [Kota on the plane \- MGNA Crrrta Remix](https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Kota on the plane \(MGNA Crrrta Remix\)](https://open.spotify.com/album/3GM9knfczDc5qvrFAwL70Y) | 2:53 |
 | 16 | [Marathon](https://open.spotify.com/track/0zDRnQ4QrSrZ5miTxAQvvP) | [omniboi](https://open.spotify.com/artist/3I4kM4D2rNnlG8JwEH5bHx) | [Panorama](https://open.spotify.com/album/2r9KUGokNx9AtexlIK3E5n) | 2:54 |
 | 17 | [FCKNSTR](https://open.spotify.com/track/7GQlDWxQJ0J7JdXnqPAwkC) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [FCKNSTR](https://open.spotify.com/album/6T5QtDBPJ24NqXvI7d4u5o) | 2:36 |
 | 18 | [Myspace](https://open.spotify.com/track/51iKD7bo0AT1o8kF5qFEuT) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Myspace](https://open.spotify.com/album/4e7FjD0RXSRgRsPYdcc0Sl) | 3:24 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 143 | [Lock Screen](https://open.spotify.com/track/47OXSrqD2OqBu3jI3R785W) | [plastic pet](https://open.spotify.com/artist/5LhRO5xKEb5FKQfQY0nke6), [TUNA DISPLAY](https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J) | [Lock Screen](https://open.spotify.com/album/3Vqzez3P1GB4yppr0aaCiL) | 4:47 |
 | 144 | [W.U.S.S\. \(why you so scared\)](https://open.spotify.com/track/7Hf2AUc1VUOGDvsd8yy2Ou) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9), [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [W.U.S.S\. \(why you so scared\)](https://open.spotify.com/album/1j55nj87PQvkooVWUfFftR) | 3:04 |
 
-Snapshot ID: `MCwxMGIzOGM3MTJlYzhlMDY5ZGU2NWRjYTcwZGVjNTMxZDQxMTJiNjVk`
+Snapshot ID: `MCxhMzAwNTczNjFhYzlmNzJhMzMzNDRkZWY5YTkxMDY4NGVkZDQ5OWEz`

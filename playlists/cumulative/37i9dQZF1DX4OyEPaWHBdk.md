@@ -4,7 +4,7 @@
 
 > Check out the winners from this year's 2022 MAMA AWARDS!
 
-186 songs - 10 hr 27 min
+187 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [메밀꽃 필무렵](https://open.spotify.com/track/53I6kSOmOfiLkKwqmIsM7a) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [..선물](https://open.spotify.com/album/6HIQAmkFGFsv6ezQtnHmJx) | 3:49 | 2022-01-27 | 2022-10-25 |
 | [오래된 노래](https://open.spotify.com/track/5gllIJSLyRouz1bGO5ues4) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Shine](https://open.spotify.com/album/2aDdQBInFcVq7XHrPPkxfe) | 4:32 | 2022-01-27 | 2022-10-25 |
 | [오래된 노래](https://open.spotify.com/track/1YlTjvNlsRBvSOcCqv5xm4) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [오래된 노래](https://open.spotify.com/album/0Qo4SwPnDQNL7AMiDSlisL) | 4:32 | 2022-01-27 | 2022-07-29 |
-| [하하하쏭 25th](https://open.spotify.com/track/1OOTvc4Ak2K6rPTxMUzXWh) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 3:16 | 2022-12-02 |  |
+| [하하하쏭 25th](https://open.spotify.com/track/1OOTvc4Ak2K6rPTxMUzXWh) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 3:16 | 2022-12-02 | 2023-12-13 |
+| [하하하쏭 25th](https://open.spotify.com/track/2nCRVI1O6qV4mHzg9tviU1) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/0EYPtkfya6BlVlpejEyChD) | 3:16 | 2022-12-02 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

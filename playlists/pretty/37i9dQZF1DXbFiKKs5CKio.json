@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 52997,
+  "num_followers": 53126,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDE4ZDNhMjNkMjExM2I3M2IxYjdhZDY5MDA3YWFjODY4YTY5ZDkx",
+  "snapshot_id": "MCw4NjA5ZDZjZTlkZTRiMjU4Yzc4MmM4Zjg2NjA2ZDM5Y2U0NjE5ZmUx",
   "tracks": [
     {
       "added_at": "2023-12-08 13:39:11",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
         "name": "MOVA - Algumas Verdades, Outras Mentiras",
         "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 176285,
       "name": "E EU?",
       "url": "https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "Sinto a Sua Falta",
-        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
-      },
-      "artists": [
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 201620,
-      "name": "Sinto a Sua Falta",
-      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
         "name": "Coisas De Amor",
         "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 204500,
       "name": "VAI DAR BOM",
       "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
+        "name": "Sinto a Sua Falta",
+        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 201620,
+      "name": "Sinto a Sua Falta",
+      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
+        "name": "Ondina",
+        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
+      },
+      "artists": [
+        {
+          "name": "Jadidi",
+          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Ondina",
+      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
         "name": "Ouroboros",
         "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
       },
@@ -451,38 +467,6 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "Aeroporto",
-        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 209537,
-      "name": "Aeroporto",
-      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
-        "name": "Ondina",
-        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
-      },
-      "artists": [
-        {
-          "name": "Jadidi",
-          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Ondina",
-      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
         "name": "SHAWTY",
         "url": "https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 173385,
       "name": "SHAWTY",
       "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
+        "name": "Aeroporto",
+        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 209537,
+      "name": "Aeroporto",
+      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
+        "name": "That's Why I Love You",
+        "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
+      },
+      "artists": [
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        },
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "That's Why I Love You",
+      "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
         "name": "Hip Hop Machine #18",
         "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
       },
@@ -587,26 +607,6 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "That's Why I Love You",
-        "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
-      },
-      "artists": [
-        {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
-        },
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "That's Why I Love You",
-      "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
         "name": "Pulando",
         "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 164000,
       "name": "Pulando",
       "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -707,30 +707,6 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "n \u00e9 vc, sou eu",
-        "url": "https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3"
-      },
-      "artists": [
-        {
-          "name": "Amxedx",
-          "url": "https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0"
-        },
-        {
-          "name": "Nader",
-          "url": "https://open.spotify.com/artist/5hJTj1DEcSkY1t64AOPVKV"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 160024,
-      "name": "n \u00e9 vc, sou eu",
-      "url": "https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
         "name": "Renascer",
         "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
       },
@@ -743,22 +719,6 @@
       "duration_ms": 294693,
       "name": "Renascer",
       "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
-        "name": "Entre Mem\u00f3rias Tristes",
-        "url": "https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf"
-      },
-      "artists": [
-        {
-          "name": "C.I.D",
-          "url": "https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl"
-        }
-      ],
-      "duration_ms": 317059,
-      "name": "Entre Mem\u00f3rias Tristes",
-      "url": "https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -779,6 +739,46 @@
       "duration_ms": 180894,
       "name": "Um momento",
       "url": "https://open.spotify.com/track/3ZBvsS1lEFjKc6kUqsAcHY"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
+        "name": "Entre Mem\u00f3rias Tristes",
+        "url": "https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf"
+      },
+      "artists": [
+        {
+          "name": "C.I.D",
+          "url": "https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl"
+        }
+      ],
+      "duration_ms": 317059,
+      "name": "Entre Mem\u00f3rias Tristes",
+      "url": "https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
+        "name": "n \u00e9 vc, sou eu",
+        "url": "https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3"
+      },
+      "artists": [
+        {
+          "name": "Amxedx",
+          "url": "https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0"
+        },
+        {
+          "name": "Nader",
+          "url": "https://open.spotify.com/artist/5hJTj1DEcSkY1t64AOPVKV"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 160024,
+      "name": "n \u00e9 vc, sou eu",
+      "url": "https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "Canela e hortel\u00e3",
-        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
-      },
-      "artists": [
-        {
-          "name": "Gray C.",
-          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Canela e hortel\u00e3",
-      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
+        "name": "Canela e hortel\u00e3",
+        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
+      },
+      "artists": [
+        {
+          "name": "Gray C.",
+          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Canela e hortel\u00e3",
+      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
     },
     {
       "added_at": "2023-12-08 13:39:11",

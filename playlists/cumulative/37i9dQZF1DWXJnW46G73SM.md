@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-696 songs - 1 day 15 hr 31 min
+697 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [La Ay Ay](https://open.spotify.com/track/2IszeNhqqD0vLT4hPtMGI0) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [La Ay Ay](https://open.spotify.com/album/43dhjgwEzz6JGwAU6n2hlY) | 3:39 | 2021-12-23 | 2022-03-10 |
 | [La Lay Lay La](https://open.spotify.com/track/5LH9gY7Tz78O5fxKtCczVX) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM), [Mahmoud ElShemy](https://open.spotify.com/artist/59SiYTnxeuYJ3eukvx0P8X) | [La Lay Lay La](https://open.spotify.com/album/2ntsTRVQ3nJhhVhHoNHB44) | 3:13 | 2022-01-20 | 2022-04-08 |
 | [La Malama \(Bonus Track\)](https://open.spotify.com/track/0A7OGFaJTpBL9a8XfABHXw) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [La Malama \(Bonus Track\)](https://open.spotify.com/album/6PMtOPP4EYJEOoqBJE5pP2) | 3:48 | 2021-12-23 | 2022-01-28 |
-| [La Ta3leeq](https://open.spotify.com/track/5RyWy9rM02SbMhHHXHslFP) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [La Ta3leeq](https://open.spotify.com/album/6YhmwIu3a0I250FGrBZ1JJ) | 3:14 | 2023-08-24 |  |
+| [La Ta3leeq](https://open.spotify.com/track/5RyWy9rM02SbMhHHXHslFP) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [La Ta3leeq](https://open.spotify.com/album/6YhmwIu3a0I250FGrBZ1JJ) | 3:14 | 2023-08-24 | 2023-12-13 |
 | [La3allo Khair](https://open.spotify.com/track/59EZZvHmbQDBH2ps7l3Yik) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [La3allo Khair](https://open.spotify.com/album/25NCozQQ4atkiVbjhOJndY) | 3:39 | 2023-08-09 | 2023-08-17 |
 | [Lama El Waat Yekhlas \- لما الوقت يخلص](https://open.spotify.com/track/71hKEpvELYUmzgMWXuv18Q) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Lama El Waat Yekhlas \- لما الوقت يخلص](https://open.spotify.com/album/0PDM2uTkZjylHhBcCuG0Zs) | 2:48 | 2023-08-01 | 2023-08-25 |
 | [Lama kont soghayer](https://open.spotify.com/track/4Ub9lUKMl4ae0tLDMpqCBx) | [Shady Shamel](https://open.spotify.com/artist/1vJHplJeBXGKfMzvQrldkb) | [Lama kont soghayer](https://open.spotify.com/album/4nqKCa79eGrrz2CwfIfvcs) | 3:53 | 2022-03-03 | 2022-06-21 |
@@ -521,6 +521,7 @@
 | [احنا في حتة تانية](https://open.spotify.com/track/2qf81ena3saXA1BHE9Kbxk) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [احنا في حتة تانية](https://open.spotify.com/album/3R4q4R8A2zdjMF1WavLYeS) | 3:18 | 2022-12-29 | 2023-01-13 |
 | [اختياراتي \- من فيلم مستر إكس](https://open.spotify.com/track/3ilp9U50Ak4CKkS7jdCY4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اختياراتي \(من فيلم مستر إكس\)](https://open.spotify.com/album/1RJUtPJMzR9NYADVQwStNT) | 2:50 | 2023-06-20 | 2023-08-10 |
 | [استنى ليه بقى](https://open.spotify.com/track/5aePWn3QLCKxKq5HLViDEi) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [استنى ليه بقى](https://open.spotify.com/album/0oLm76ZSd5hNSDnUNYHevK) | 3:42 | 2021-12-23 | 2022-01-21 |
+| [اسقيني](https://open.spotify.com/track/3UvItzqBASEeNcv1SQpXf5) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [اسقيني](https://open.spotify.com/album/5b95RnfBRDGQqltiA61qDf) | 3:00 | 2023-12-12 |  |
 | [اصحى للكلام](https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [اصحى للكلام](https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1) | 3:14 | 2023-06-25 | 2023-07-29 |
 | [اعدائك كترت](https://open.spotify.com/track/0CFfVxPKnJfh7bIxzgOyO0) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [اعدائك كترت](https://open.spotify.com/album/5FTpX2Ws71TQRQyec4CbqY) | 3:27 | 2022-09-21 | 2022-12-09 |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-02-08 | 2022-05-19 |

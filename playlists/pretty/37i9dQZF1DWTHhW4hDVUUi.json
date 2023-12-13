@@ -1,12 +1,12 @@
 {
   "description": "Check out Jennifer Lopez's Official Halftime playlist. ",
-  "num_followers": 6107,
+  "num_followers": 6109,
   "original_name": "Halftime Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YThhYjc2ZjgxYzkxMjRiN2I5N2JhZTI3NmEwMjgyN2UwODg5YWYz",
+  "snapshot_id": "MCwwNjQ2Yzg2NTM4ZDI5ZDc3YTU4Zjg5ZDUzZmExYmUyOTZmNWVjOTk1",
   "tracks": [
     {
       "added_at": "2022-06-16 21:12:22",
@@ -432,12 +432,16 @@
       "added_at": "2022-06-14 21:43:07",
       "album": {
         "name": "Medicine (Steve Aoki from the Block Remix)",
-        "url": "https://open.spotify.com/album/5aUhH2lFb3Qrj0ngazduEQ"
+        "url": "https://open.spotify.com/album/5BdjEDMPPAPr9TNUFg8I7q"
       },
       "artists": [
         {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         },
         {
           "name": "Steve Aoki",
@@ -446,7 +450,7 @@
       ],
       "duration_ms": 170285,
       "name": "Medicine - Steve Aoki from the Block Remix",
-      "url": "https://open.spotify.com/track/5OPrQhuX6OP06gGtYS1S0f"
+      "url": "https://open.spotify.com/track/0q4JbreE13Hz9sfS5kIuuW"
     },
     {
       "added_at": "2022-06-14 21:43:07",

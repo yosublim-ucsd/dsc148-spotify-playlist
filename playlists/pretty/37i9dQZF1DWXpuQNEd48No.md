@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Elvish Yadav
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,544 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,588 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 15 | [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 |
 | 16 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 |
 | 17 | [Yamraaj](https://open.spotify.com/track/3YaeW3xxbjiLITtHQIK3y0) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Yamraaj](https://open.spotify.com/album/6yXzEfYAv5KsrReCdVWgJw) | 3:29 |
-| 18 | [Death Row](https://open.spotify.com/track/0Rx6TVOQ137NAN4UZF6GmT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Death Row](https://open.spotify.com/album/7IflR8avCHPbAfp5wOpoD3) | 3:41 |
+| 18 | [Jat Clan](https://open.spotify.com/track/3rtxNJ7AOwcOXEbYvUznKy) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Yogi Aulakh](https://open.spotify.com/artist/5J2xmfWX1pR9OgoGb4Zuaz) | [Jat Clan](https://open.spotify.com/album/51MBb7ysU3Uzr3ASUVR3Kk) | 3:26 |
 | 19 | [Mashooka](https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Mashooka](https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc) | 2:28 |
 | 20 | [Desi Haan Ji](https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Desi Haan Ji](https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo) | 3:53 |
 | 21 | [Goli](https://open.spotify.com/track/5Eg7UwkwmvZ6klpm26opBD) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Nonu Rana](https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn), [Khushi Verma](https://open.spotify.com/artist/2bdyNpVEnnVc1WDz79Riz4) | [Goli](https://open.spotify.com/album/1x72UEEAlwx8Idzm6buZd8) | 2:34 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 24 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 |
 | 25 | [12 Bore](https://open.spotify.com/track/45BRHFObplu7mg7PAOUB0M) | [Rahul Kadyan](https://open.spotify.com/artist/4Clvkor0pUXm35Gdz0fbJt) | [12 Bore](https://open.spotify.com/album/04nAiiHzOLmmCG6zT12e7g) | 3:21 |
 | 26 | [Naina Ki Talwar](https://open.spotify.com/track/0o26gLFYauwW6oBwtHZFZZ) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:43 |
-| 27 | [Jat Clan](https://open.spotify.com/track/3rtxNJ7AOwcOXEbYvUznKy) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Yogi Aulakh](https://open.spotify.com/artist/5J2xmfWX1pR9OgoGb4Zuaz) | [Jat Clan](https://open.spotify.com/album/51MBb7ysU3Uzr3ASUVR3Kk) | 3:26 |
+| 27 | [Death Row](https://open.spotify.com/track/0Rx6TVOQ137NAN4UZF6GmT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Death Row](https://open.spotify.com/album/7IflR8avCHPbAfp5wOpoD3) | 3:41 |
 | 28 | [Jhotte](https://open.spotify.com/track/5AbkBdjwjALBd3h4rNgJeX) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Jhotte](https://open.spotify.com/album/0UCnUqid4KKnDXIlpwyy4U) | 3:37 |
 | 29 | [Sheesha](https://open.spotify.com/track/0aFLaSo21GazAKoZDooDuc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sheesha](https://open.spotify.com/album/3H2mp5opnTBnWbFYQlxEaT) | 3:37 |
 | 30 | [Been](https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Been](https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 49 | [Sneeze](https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sneeze](https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o) | 4:16 |
 | 50 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 |
 
-Snapshot ID: `MCw4ZWI2OGY4MWQ4ZmZjZDZlOWUwNDcxZWRlMDU0YzExZGUxYzgwYmQ1`
+Snapshot ID: `MCxhYjU4Njc4YTk3MzNlYjU0ZTZmNGI0MThlYTFlYjIwNDIxZTEyMWVj`

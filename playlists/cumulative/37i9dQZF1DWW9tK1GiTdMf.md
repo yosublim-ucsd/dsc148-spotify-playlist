@@ -4,7 +4,7 @@
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ LA SAD e i Bnkr44 in cover🩸
 
-740 songs - 1 day 9 hr 59 min
+741 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [alice 02](https://open.spotify.com/track/4RBJ8vdDXJz6xsJ4AaySUd) | [Voodoo Kid](https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk) | [alice 02](https://open.spotify.com/album/30eSkLB83fEbFLkYiQnkuV) | 2:39 | 2022-07-14 | 2022-09-23 |
 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 | 2022-08-04 | 2022-08-26 |
 | [Alla lettera](https://open.spotify.com/track/54hUdI3CT5EtALpDC2Dkpm) | [FirkLøver](https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R) | [Alla lettera](https://open.spotify.com/album/4kdnvGljxgXqasJpYR4oXR) | 2:28 | 2022-09-29 | 2023-01-20 |
+| [ALLERGICA ALLE FRAGOLE](https://open.spotify.com/track/0hYdFsDUc23IOXCra6ddkB) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [ALLERGICA ALLE FRAGOLE](https://open.spotify.com/album/3uaa9er9i5Qmpq64qmS8N5) | 1:46 | 2023-12-12 |  |
 | [Almeno Stasera](https://open.spotify.com/track/6lICy5xp0iuiFkrRE7IFfv) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i) | [AŠ](https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE) | 2:18 | 2022-05-06 | 2022-06-03 |
 | [Amare o cambiare](https://open.spotify.com/track/4R0XQZsEceTCg8by7i1qON) | [GiorniTristi](https://open.spotify.com/artist/0KjmZKo6Rhw4m4MaFlVVUa) | [Amare o cambiare](https://open.spotify.com/album/1CefCOIxekWVwogZgcwbO2) | 3:23 | 2023-10-26 |  |
 | [AMAREGGIANTE](https://open.spotify.com/track/2Qc89TuAewUg1bf158o42k) | [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [AMAREGGIANTE](https://open.spotify.com/album/7DHAvzWxK0HhdZfrjoOD8s) | 2:10 | 2022-12-01 | 2023-05-05 |

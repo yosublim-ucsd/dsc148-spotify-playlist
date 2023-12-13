@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 345952,
       "name": "16:28",
       "url": "https://open.spotify.com/track/6uqVlsFHg4Nkr1wRenev6O"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 204946,
       "name": "shower room rendezvous",
       "url": "https://open.spotify.com/track/4656G8EnjFhXdKQDpTnUPg"
@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3053\u304c\u308c",
+        "url": "https://open.spotify.com/album/4DTZkr6ieYJUi9gzDXpHiB"
+      },
+      "artists": [
+        {
+          "name": "Asagaya Romantics",
+          "url": "https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239594,
+      "name": "\u3042\u3053\u304c\u308c",
+      "url": "https://open.spotify.com/track/3Q4836EU8FkGpjR5WbkE67"
+    },
+    {
+      "album": {
         "name": "\u3044\u3064\u3057\u304b",
         "url": "https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq"
       },
@@ -531,6 +549,28 @@
     },
     {
       "album": {
+        "name": "\u611b\u2103",
+        "url": "https://open.spotify.com/album/5d9Z5IN5TO2Z8PI5i6VfGS"
+      },
+      "artists": [
+        {
+          "name": "TakaseToya",
+          "url": "https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O"
+        },
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179763,
+      "name": "\u3067\u3082\u3001",
+      "url": "https://open.spotify.com/track/1eiflYv62PGfglEC0Dc9rH"
+    },
+    {
+      "album": {
         "name": "\u306a\u306a\u3044\u308d",
         "url": "https://open.spotify.com/album/2sUrTKjCG9KpLfORi8v87S"
       },
@@ -542,7 +582,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 259877,
       "name": "\u306a\u306a\u3044\u308d",
       "url": "https://open.spotify.com/track/1k1zTwX433BlwP6FLOPBpD"
@@ -560,7 +600,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 146588,
       "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
       "url": "https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt"
@@ -787,6 +827,24 @@
     },
     {
       "album": {
+        "name": "\u50d5\u3060\u3051\u304c\u611b",
+        "url": "https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323251,
+      "name": "\u50d5\u3060\u3051\u304c\u611b",
+      "url": "https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb"
+    },
+    {
+      "album": {
         "name": "\u521d\u604b",
         "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
       },
@@ -802,6 +860,24 @@
       "duration_ms": 195657,
       "name": "\u521d\u604b",
       "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
+    },
+    {
+      "album": {
+        "name": "\u53f3\u624b\u306e\u30cd\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/6kcHo9w5zCAJlr6wmEexd0"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259560,
+      "name": "\u53f3\u624b\u306e\u30cd\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/1Sl2DHDcnQlLPq8Ko68bHW"
     },
     {
       "album": {

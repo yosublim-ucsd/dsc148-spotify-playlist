@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aquene
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,740 likes - 76 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,739 likes - 76 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 75 | [Sejuta Miliar Dunia](https://open.spotify.com/track/2WqJ37P5GBXLXRkI2wLwZo) | [Sheemar](https://open.spotify.com/artist/39ALTxB78V8iEZbk5Q7D7h), [Melanie Putria](https://open.spotify.com/artist/6pFL2wbw65ZTXhtrvYIpem) | [Sejuta Miliar Dunia](https://open.spotify.com/album/7cGMUJGQj1x256p0rLo1la) | 3:48 |
 | 76 | [Hai Untukmu](https://open.spotify.com/track/59ztqQ3cU7tAZs8PtaWajM) | [Twnts](https://open.spotify.com/artist/25k3BnaRLcfQLY8ok2iAnb) | [Arah Waktu](https://open.spotify.com/album/73XdZzJsyKCQZyhIS4hdKv) | 3:45 |
 
-Snapshot ID: `MCw0YzUwNzI0NTJhYTlkN2ZmODNlNmI3MTQ0NmY0MzNjNjUwNTY2Y2U5`
+Snapshot ID: `MCxhZmE3NjAxN2IyNTFiNDQ2ZjNmMmQ0NGIxMmU1OGI4NWZmYThmZDA3`

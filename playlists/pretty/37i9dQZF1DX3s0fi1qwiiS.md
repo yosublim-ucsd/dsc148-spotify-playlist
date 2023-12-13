@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 
 > Who order Azul?
 
-[Spotify](https://open.spotify.com/user/spotify) - 635 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 639 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 50 | [Mahama Paper](https://open.spotify.com/track/5vA0BlTP16GqJsieTaPRzp) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [After the Storm](https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6) | 3:55 |
 | 51 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
 | 52 | [Jama](https://open.spotify.com/track/59qTPQbGwetpMucsi03W97) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Shaker](https://open.spotify.com/artist/7ArAbdLBhHHZbkJI4cfndo) | [Jama](https://open.spotify.com/album/080VXLloTgqny7EUtmZ05Z) | 3:54 |
-| 53 | [Double Trouble \(feat\. King Promise & Sarkodie\)](https://open.spotify.com/track/024Si0VrgGuslpbud96tnX) | [Vision DJ](https://open.spotify.com/artist/7GfpJld16SWfiFALBo3qB8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Double Trouble \(feat\. King Promise & Sarkodie\)](https://open.spotify.com/album/7fyUYO50TXvcsbVQa4kcC9) | 4:23 |
+| 53 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
 | 54 | [Turn On The Lights](https://open.spotify.com/track/6RstYH2vOXeXnz5hj3Ppnv) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Turn On The Lights](https://open.spotify.com/album/7J1jyEOZjy5DJwPk3bXuou) | 2:50 |
-| 55 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
+| 55 | [Double Trouble \(feat\. King Promise & Sarkodie\)](https://open.spotify.com/track/024Si0VrgGuslpbud96tnX) | [Vision DJ](https://open.spotify.com/artist/7GfpJld16SWfiFALBo3qB8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Double Trouble \(feat\. King Promise & Sarkodie\)](https://open.spotify.com/album/7fyUYO50TXvcsbVQa4kcC9) | 4:23 |
 | 56 | [Too Risky \(feat\. Sister Deborah\)](https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7) | [Disturbation](https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6) | 4:00 |
 | 57 | [AKWAABA](https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Patapaa](https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [AKWAABA](https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj) | 3:26 |
 | 58 | [Amanfuor Girls](https://open.spotify.com/track/01q9VZfRk6bCEe2jgx64tN) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Amanfuor Girls](https://open.spotify.com/album/1NU6M9KwNpddbZGa1xqlBi) | 3:13 |
 | 59 | [Grind](https://open.spotify.com/track/2wN5MOqC1C9UeUjw4Z4DPo) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Grind](https://open.spotify.com/album/59IqtbSMonpFQaM1WngQig) | 3:47 |
 | 60 | [Dangote](https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:45 |
 
-Snapshot ID: `MCwzNDU4YTA0MDdjMzk2ZDRhMDI4NTA3NGU1ZDZhZTEwMDEwYTlmMWUw`
+Snapshot ID: `MCxmNTE1NjFmOGM2Mzc2N2JjZmYxZmVlNGIwNjY2NmUxMzRmNDViNGUw`

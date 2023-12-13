@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Brenn!
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,499 likes - 151 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,674 likes - 151 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 11 | [Forever](https://open.spotify.com/track/0YRJGTKAJ9e9x7PYd7RS1S) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Forever](https://open.spotify.com/album/10xsmEnHMmoquA1mqZfuxD) | 2:40 |
 | 12 | [Without You](https://open.spotify.com/track/2dWDBNoDgU0kyoWpYJwTn3) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [Without You](https://open.spotify.com/album/3NBSCEVnytQJCnea1uDaDy) | 1:58 |
 | 13 | [London](https://open.spotify.com/track/6ffvsCiyxNdxPzsjxP5q16) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [London](https://open.spotify.com/album/6ztopxq8V8PtZpwULj1tss) | 3:16 |
-| 14 | [Monogamy](https://open.spotify.com/track/0uCKOztTB9eW3ApEAGpeS5) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn, More](https://open.spotify.com/album/39ePBzunWnT1ieSGbjUbsM) | 3:16 |
+| 14 | [Monogamy](https://open.spotify.com/track/06lClREmXPgjQmqXoTOibz) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn, More](https://open.spotify.com/album/7luXeiReXJUtjhqSqBORT7) | 3:16 |
 | 15 | [Days Unchanged](https://open.spotify.com/track/37XDCuEaa4pfj7RlcNlM3Z) | [Asia Chow](https://open.spotify.com/artist/5psfiJzM6PZbUzfah6tgqT) | [Days Unchanged](https://open.spotify.com/album/6zh55y7nQtec3JiVMJDAsF) | 3:58 |
 | 16 | [silver girl](https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [dope girl chronicles](https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH) | 3:25 |
 | 17 | [The Weeping](https://open.spotify.com/track/2PwSwr3KmNRdI4RLnMBxyB) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [The Weeping](https://open.spotify.com/album/6EMlBxT1YwUbDS06D4LUvV) | 5:08 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 150 | [Animals](https://open.spotify.com/track/0TGUD9uAqKpcHLDhnu6Z6S) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Animals](https://open.spotify.com/album/1fg06zDibZzm469G27MGSa) | 3:49 |
 | 151 | [Necklace](https://open.spotify.com/track/2uW2mr7xyFXwxG0cHNq87B) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Necklace](https://open.spotify.com/album/1YaEANXHSIKzuHEcClw2eY) | 3:31 |
 
-Snapshot ID: `MCxiNWI3YzQ0ZTQzNjQwNzdjYzRiYmMwZGQ1ODU0ZDg5YjRkZGJiMTcz`
+Snapshot ID: `MCxkY2I1MjgxZDY4N2I5YjAzYWJkYTc5YTBmNWIxODZlMTE2MjdkNTk4`

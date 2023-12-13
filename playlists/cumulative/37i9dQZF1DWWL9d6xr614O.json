@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Lord I Come",
+        "url": "https://open.spotify.com/album/4IBxJfazadFZ2fEhSmITGy"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Angeles",
+          "url": "https://open.spotify.com/artist/3xvz4vKojMUraZ8aR92Hbx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256842,
+      "name": "Sinasamba Kita",
+      "url": "https://open.spotify.com/track/1aBymU4ycD12YpUBT9nuaj"
+    },
+    {
+      "album": {
         "name": "Sinasamba Kita",
         "url": "https://open.spotify.com/album/4l55w0haSeiQxv5VlLwZHM"
       },
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 256842,
       "name": "Sinasamba Kita",
       "url": "https://open.spotify.com/track/46VE4tQX8PVDo5z6ADonxH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 
 > A groovy and soulful house collection\. Cover: Calvin Harris, Eliza Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,827 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,849 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 48 | [Better Times](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Better Times](https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T) | 3:19 |
 | 49 | [Feel The Same](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 |
 | 50 | [Two Hearts \- Original Mix](https://open.spotify.com/track/7wtjDhC7rShqYPdFIrxcor) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Two Hearts EP](https://open.spotify.com/album/5EmhtGastrE8dksOnUGZLF) | 3:39 |
-| 51 | [Release Me](https://open.spotify.com/track/0w1diO9XWMX1Dm4r9hIDJg) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Release Me](https://open.spotify.com/album/19OdgoDqsF92wIeku24MBv) | 4:39 |
+| 51 | [Release Me](https://open.spotify.com/track/1coVUd9d9hyQkE8ZSnwMcD) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [U Never Listen](https://open.spotify.com/album/3ueYV7bLypt5ngonawI8Sd) | 4:39 |
 | 52 | [Work My Body](https://open.spotify.com/track/3NKqBjQukraU5HKh8Grll8) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Work My Body](https://open.spotify.com/album/1fVn8tp1AtcxRqA10k7kNx) | 6:13 |
 | 53 | [Groove It Up \- Radio\-Edit](https://open.spotify.com/track/6TX8ZxZRwGIpxSaMQMRJxI) | [Dompe](https://open.spotify.com/artist/6izT1rIpURdkh4cjgsileU) | [Groove It Up](https://open.spotify.com/album/5kVt5OxMsyzpuWfmHN3O0O) | 3:37 |
 | 54 | [I'm A Woman](https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [I'm A Woman](https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL) | 2:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 59 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 |
 | 60 | [Take It Back \(feat\. Davie\)](https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Take It Back \(feat\. Davie\)](https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr) | 3:36 |
 
-Snapshot ID: `MCwzZDcyYjNjYmQ5MTY5ZGJiN2JjZmExOWQxOWQ1ZWY0Y2EzZjM2Mjc1`
+Snapshot ID: `MCxjNjg4NTM1ZGQ2MDgzMTAyMjBmMGEyOTJkOGFmZDQyMzEyMDY2MGQw`

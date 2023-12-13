@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 40456,
+  "num_followers": 40476,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGU0Yjk5NTk1MDExZmU4MWE4Y2RjNGM3OWE0ZWEwODRjZGMwZDk2",
+  "snapshot_id": "MCwyZWZhNzcxMzQwMjY4Yjg0ZWM2NzJmMzBlN2E0YWMzYjVmNzFhNjJi",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Tea & Sympathy",
-        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
-      },
-      "artists": [
-        {
-          "name": "Bernard Fanning",
-          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
-        }
-      ],
-      "duration_ms": 156280,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Tea & Sympathy",
+        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
+      },
+      "artists": [
+        {
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
+        }
+      ],
+      "duration_ms": 156280,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Barefoot",
         "url": "https://open.spotify.com/album/019HD6vbtg0G9wrqZXJCt8"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 177466,
       "name": "Sunbleached Girl",
       "url": "https://open.spotify.com/track/7xeJKKmWX8PT0N5jZccbVD"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Millionaire",
-        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 138190,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 233391,
       "name": "White Water",
       "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Millionaire",
+        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 138190,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Honey Bones",
         "url": "https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 288013,
       "name": "Uptown Folks",
       "url": "https://open.spotify.com/track/13ZpvzL10nw52uCDY13SkF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Casino Twilight Dogs",
+        "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
+      },
+      "artists": [
+        {
+          "name": "Youth Group",
+          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Keepsake",
         "url": "https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 243131,
       "name": "Drift",
       "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Casino Twilight Dogs",
-        "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
-      },
-      "artists": [
-        {
-          "name": "Youth Group",
-          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Sponge Cake",
-        "url": "https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 245687,
-      "name": "Be About You",
-      "url": "https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Believe (Triple J Like A Version)",
         "url": "https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 197594,
       "name": "Believe (Triple J Like A Version)",
       "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Sponge Cake",
+        "url": "https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 245687,
+      "name": "Be About You",
+      "url": "https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 157787,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Half Mile Harvest",
         "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 263840,
       "name": "I Get Up",
       "url": "https://open.spotify.com/track/1ZvZONTDAMki5FLguXTju4"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 157787,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
     },
     {
       "added_at": "2023-11-15 02:04:48",

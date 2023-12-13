@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover- Raftaar",
+  "description": "India's Rap Scene. Cover- MC SQUARE",
   "name": "RAP 91",
   "tracks": [
     {
@@ -1097,6 +1097,32 @@
     },
     {
       "album": {
+        "name": "Gurjari",
+        "url": "https://open.spotify.com/album/6zG42VggnsjGC7mJhiq7SZ"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Alan Sampson",
+          "url": "https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96"
+        },
+        {
+          "name": "ADP",
+          "url": "https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Gurjari",
+      "url": "https://open.spotify.com/track/2G6xSLWVj94AwzwdsbLJ29"
+    },
+    {
+      "album": {
         "name": "Haryana Hood",
         "url": "https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj"
       },
@@ -1950,7 +1976,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 220800,
       "name": "RAASHAH",
       "url": "https://open.spotify.com/track/7sAb2f62IJ28DvEP6x3FRw"

@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 83777,
+  "num_followers": 83827,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODI1ZmI5NTNiZjliMGRjYjIzYTliNjNlYzM5ZjYzYTY2NGViYTEw",
+  "snapshot_id": "MCw3YTM4ZWMyOWM1ZDdmODFkMTBmMTE3OGQyMTMzY2NiY2QyZTgxZmNk",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Prime Chops",
-        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
-      },
-      "artists": [
-        {
-          "name": "Roy Rogers",
-          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 262000,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Prime Chops",
+        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
+      },
+      "artists": [
+        {
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "White Hot Blues",
-        "url": "https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 303520,
-      "name": "Highway 61 Revisited - Live in California - September 1975",
-      "url": "https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Don't Let The Bossman Get You Down!",
         "url": "https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 176933,
       "name": "Devil's Slide",
       "url": "https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "White Hot Blues",
+        "url": "https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 303520,
+      "name": "Highway 61 Revisited - Live in California - September 1975",
+      "url": "https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs"
     },
     {
       "added_at": "2023-01-16 21:05:55",

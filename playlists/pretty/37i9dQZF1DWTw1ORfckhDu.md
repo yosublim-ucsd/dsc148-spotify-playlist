@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa AHTI ja HUGO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,790 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,801 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Reckless](https://open.spotify.com/track/5om9e07j4TldvFZ5QeMRxX) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Reckless](https://open.spotify.com/album/1fNVh4Q9l4k7WKEWsH7hnS) | 2:44 |
 | 60 | [Pavlovin koira](https://open.spotify.com/track/3HHaCbh6efnW0bvHfxbCPp) | [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny) | [Pavlovin koira](https://open.spotify.com/album/35L1h9yiKcgK3EGuiW2rND) | 2:53 |
 
-Snapshot ID: `MCxmMzBhNTRiNjYxNGFlMjkzZWMxNzkxMjgwYTc5NzA1ODBhMTE5YmFh`
+Snapshot ID: `MCw4MjE3NmQ4Mzk3ZGJkYzIzZmRmNTk5Zjk3NDhhMjg0MGMyZGI2M2Yx`

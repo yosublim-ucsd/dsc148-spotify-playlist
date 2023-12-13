@@ -4,7 +4,7 @@
 
 > The best in house music
 
-365 songs - 1 day 1 hr 48 min
+366 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-03-09 |  |
 | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-07-03 |  |
 | [Good Morning Gorgeous \(Emmaculate Remix\)](https://open.spotify.com/track/0pWn3bA7mOP38Vmx1lQNco) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Good Morning Gorgeous \(Emmaculate Remix\)](https://open.spotify.com/album/2hHgzsGpk9K4cebpE2VibI) | 4:30 | 2022-09-19 | 2022-10-07 |
-| [Good Times \- Radio Edit](https://open.spotify.com/track/2oVeXlWPMaRxwZzcVwqTmv) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Ben Rainey](https://open.spotify.com/artist/7n7VU5WFgmKTwDIXHZSQgN) | [Good Times](https://open.spotify.com/album/23CkTM2VAbypE4c3RCHb9W) | 3:12 | 2022-04-14 |  |
+| [Good Times \- Radio Edit](https://open.spotify.com/track/2oVeXlWPMaRxwZzcVwqTmv) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Ben Rainey](https://open.spotify.com/artist/7n7VU5WFgmKTwDIXHZSQgN) | [Good Times](https://open.spotify.com/album/23CkTM2VAbypE4c3RCHb9W) | 3:12 | 2022-04-14 | 2023-12-13 |
 | [Good Woman \- Edit](https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm) | 3:35 | 2023-04-06 | 2023-08-25 |
 | [Good Woman \- Edit](https://open.spotify.com/track/69gBITZ6WnJFUIe1b2EMeg) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/6d9RyDwoZCI52HG5sQVUbz) | 3:35 | 2022-09-01 | 2023-03-09 |
 | [Gotta Dance](https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Gotta Dance](https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP) | 3:17 | 2023-01-12 |  |
@@ -187,6 +187,7 @@
 | [Levante](https://open.spotify.com/track/6Pf7har3IRGctriYzbanjM) | [Qubiko](https://open.spotify.com/artist/7GklfVLAXAgRjh6Y0yOgMq), [Miki Sax](https://open.spotify.com/artist/3cAeOoTvF23n4F59GgpvZM) | [Levante](https://open.spotify.com/album/6HQMIkx3pO5qAAhRmw5vcR) | 5:56 | 2022-04-14 | 2022-07-29 |
 | [Life](https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Life](https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b) | 2:50 | 2022-09-15 | 2023-06-09 |
 | [Life So Bright](https://open.spotify.com/track/2t0LqsZpeBXUkhLUneynjA) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Life So Bright EP](https://open.spotify.com/album/6Opq0kA0g15ql0eEz51VAo) | 5:06 | 2022-10-27 | 2023-01-07 |
+| [Lights Go Down](https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 3:03 | 2023-12-01 |  |
 | [Lights Go Down \(with SIDEPIECE\)](https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:03 | 2022-04-20 | 2023-12-11 |
 | [Like I Used To](https://open.spotify.com/track/2SMqAHurJ7vtu16DSQojou) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Like I Used To](https://open.spotify.com/album/6rEWmgcCkLgFmfdh0gJt1M) | 2:58 | 2022-12-01 | 2023-07-11 |
 | [Like It Is \- Mixed](https://open.spotify.com/track/5ReLOUboXvaOVariwEJnl3) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Defected In The House Radio Show Episode 041 \(hosted by Sam Divine\)](https://open.spotify.com/album/21vNE48kEQUwOIDNfG8Ihm) | 4:22 | 2022-04-14 |  |

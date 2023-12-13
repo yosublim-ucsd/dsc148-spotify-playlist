@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > seduced in the shadows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,362 likes - 58 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,817 likes - 58 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 57 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
 | 58 | [Lithium](https://open.spotify.com/track/5YaLFRpqpUzgLLDcukNn0H) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:44 |
 
-Snapshot ID: `MCwzMTBjZDdlZmViMDk2NTk2MTJjYjQ5NWFlMWJkMDllMTdjYjBjOTM3`
+Snapshot ID: `MCwzZWZkOTQyMjMzNDQ3M2I5MThhMGU5YzE0MTU5NDQyZGQ1Y2ZlZGU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Kayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,544 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,614 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 8 | [Jadui Pari](https://open.spotify.com/track/5QPSxr7k2kyFCpZXFKm9T6) | [Raman](https://open.spotify.com/artist/60Pg5sPykBui7UZsqaoHu8) | [Jadui Pari](https://open.spotify.com/album/0B8PgzP5Vbl3GyCDKtYHwF) | 2:39 |
 | 9 | [Bahaane](https://open.spotify.com/track/2qsEw2ppdcdXNw6JtpJEkg) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ), [Rahul Pais](https://open.spotify.com/artist/0iByQOkheGQaW823yagplF) | [Friday Night Plan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tcYcevPh9JYTtznxgUE4S) | 3:32 |
 | 10 | [Kill Me Now](https://open.spotify.com/track/173057f6S2oeU3E3fOn4Fs) | [Sahir](https://open.spotify.com/artist/4mVLU0C7PoQ6ETixTAQuuK), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [Kill Me Now](https://open.spotify.com/album/4xHyno8Hir0GxtyuKgaKuf) | 3:37 |
-| 11 | [Under The Sheets](https://open.spotify.com/track/3JIdAllIMfaBqHfXjpw9fN) | [Aamir Rizvi](https://open.spotify.com/artist/0x25jhlNyAEkoq6ofG9Mud) | [Under The Sheets](https://open.spotify.com/album/5FYsBgSEK86pAKmjsoqlJW) | 5:12 |
+| 11 | [Under The Sheets](https://open.spotify.com/track/3JIdAllIMfaBqHfXjpw9fN) | [Aamir Rizvi](https://open.spotify.com/artist/0x25jhlNyAEkoq6ofG9Mud) | [Under The Sheets](https://open.spotify.com/album/5FYsBgSEK86pAKmjsoqlJW) | 5:23 |
 | 12 | [Hua Asar Tera](https://open.spotify.com/track/2pfxlloUY1qL5zPCgI6r5N) | [Abhishek Dubey](https://open.spotify.com/artist/1F3kuxj7cocQq595sYWupE), [SubhoBeatz](https://open.spotify.com/artist/4SGq5oF0H0cp6ec91JMn8T), [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni) | [Hua Asar Tera](https://open.spotify.com/album/1eQl2ZWPmTHquboYllLZ6L) | 3:07 |
 | 13 | [Gunaah](https://open.spotify.com/track/0PubHA6MT8JwEXWT73ABiu) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW) | [Gunaah](https://open.spotify.com/album/0CFuHxMQXg9HqKtoEkrYEB) | 1:55 |
 | 14 | [Saawariye](https://open.spotify.com/track/1JwqmEex2rrgDjw7UZH7Ak) | [Chazz Bhalla](https://open.spotify.com/artist/1KWkWVcQv13SkHQYNjFu2V), [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Saawariye](https://open.spotify.com/album/6McMW7HpJxuxI9ACcDRwNX) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Tera Ho Gaya](https://open.spotify.com/track/59FM7MmPIP1MsQE5cMlAAn) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Tera Ho Gaya](https://open.spotify.com/album/2E6IlsJetcFPCCtqxLLCJs) | 2:58 |
 | 50 | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/track/0eCVQoYH5nTFgmmjQqsJmG) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Nolan Santo](https://open.spotify.com/artist/2w4TUuwxwWPYy1eDqWolzC) | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/album/7rwO4jDTCmn5njEzs5jKAK) | 2:16 |
 
-Snapshot ID: `MCw3Y2JiOTZkNWEzZGRhMjA2ZGM0NzI5NWQxOTQzOTJmMmQ0M2YxYzZh`
+Snapshot ID: `MCw0NDRmZjc0ZWJhMWU3M2UwYzkwZDYxMjg4ZjQ0YTUyMjI3ZjczNjM1`

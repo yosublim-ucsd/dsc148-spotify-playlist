@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Sevek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,272 likes - 72 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,484 likes - 72 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 71 | [Desire \(with Sam Smith\) \- Alok Remix](https://open.spotify.com/track/7qyoYlYSgfeTqAqJXmoIKe) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Desire \(with Sam Smith\) \[Alok Remix\]](https://open.spotify.com/album/46I5OWuJfe8XtaRaofQbv4) | 2:56 |
 | 72 | [When I See It \(feat\. The Vic\)](https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [When I See It \(feat\. The Vic\)](https://open.spotify.com/album/0fzfB2d2fwXPjqhoKhbME1) | 3:15 |
 
-Snapshot ID: `MCxhMmE3YzRiZTFhNjJkYWExY2Q1NjhkZWI1ZmY0Nzc5Y2Q3M2IwZDUy`
+Snapshot ID: `MCwzNTkyYjQ4ZWQ3MThmZGEwMTA3NWUyOGEzZjQzNjdhMmM3M2U4MDkw`

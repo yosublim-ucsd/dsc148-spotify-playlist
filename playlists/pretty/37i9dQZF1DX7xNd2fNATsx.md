@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,325 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,343 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 33 | [Future](https://open.spotify.com/track/1L44XODDvPjK4Tl9airKLy) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Bright Like Neon Love](https://open.spotify.com/album/4AyAxuQiwiloLye3qxuXq4) | 5:12 |
 | 34 | [Lotus Flower](https://open.spotify.com/track/2QeutlLcJf2V1cMUUsDFT1) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 5:00 |
 | 35 | [My Delirium](https://open.spotify.com/track/3vqSWOEMO4OOxa2QJHuitI) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Ladyhawke](https://open.spotify.com/album/0AvEEMu6w6U9neLNaHu4G8) | 4:15 |
-| 36 | [OK](https://open.spotify.com/track/6CNskuICDfoju7WXRSq6ME) | [Shitdisco](https://open.spotify.com/artist/1gnKXnSL1BgGCTIrV3d4iq) | [The Emanator](https://open.spotify.com/album/1zm5jMajSrMRW5dGmSC7xO) | 4:02 |
+| 36 | [OK](https://open.spotify.com/track/2ApjMCGxa1dYz8dPRTLeIx) | [Shitdisco](https://open.spotify.com/artist/1gnKXnSL1BgGCTIrV3d4iq) | [The Emanator](https://open.spotify.com/album/6dH0AER8RD3s9OyejHkJeT) | 4:02 |
 | 37 | [Boys Latin](https://open.spotify.com/track/178yi3jvbIHwnaxeAVUCD9) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Panda Bear Meets The Grim Reaper](https://open.spotify.com/album/4iRqf2zoGhh7yO5evg1NYj) | 4:12 |
 | 38 | [I Come With Knives](https://open.spotify.com/track/2FnukbZsuLUY3BK6lWtx1K) | [IAMX](https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD) | [The Unified Field](https://open.spotify.com/album/0l86PJLl6c3BvzHSTRiBmf) | 4:22 |
 | 39 | [Agenda Suicide](https://open.spotify.com/track/1eX0GWObMA2EAnkv5vuWw2) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Danse Macabre](https://open.spotify.com/album/4avCxtm2y5e8so2aipSIfV) | 3:58 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 42 | [Skeleton Boy](https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU) | 3:33 |
 | 43 | [It's Not Over Yet](https://open.spotify.com/track/0TRvSkiK0eQEejmiu4vBzi) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 3:35 |
 | 44 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
-| 45 | [Heartbreaker \(feat\. John Legend\)](https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize) | 3:12 |
+| 45 | [Heartbreaker](https://open.spotify.com/track/6DaYun5YOndnPYkwn6KwU8) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/00KfMW922SvIZ1FPWU7bzF) | 3:12 |
 | 46 | [I Believe](https://open.spotify.com/track/10zzmoWQkfiUfZRBDS88i9) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:16 |
 | 47 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
 | 48 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
 | 49 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
 | 50 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 |
 
-Snapshot ID: `MCxjNGY4Y2Y0NjdkOGE3N2M0NTk5MzEwOTk4NTM5NjViYmZmNWU5ZmZh`
+Snapshot ID: `MCw2Mzk4MDBlOGY4ZWQ4NjQ3NDliMjk2MGY5OGYyYjFmNmUyMDYyOWM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,703 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,777 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 49 | [Turn Me Up](https://open.spotify.com/track/0mSQpFmTxOWszXXftJ7UEt) | [Willy Denzey](https://open.spotify.com/artist/1Fji4YKhqgzROcDJI15iNZ), [Prodyge Crew](https://open.spotify.com/artist/7A5fMLrJ1voYaYjZXs92Jg) | [Caribbean Selection](https://open.spotify.com/album/5Kojc994qKwaR1X4ayZbaH) | 4:36 |
 | 50 | [Maldòn \- Version originale](https://open.spotify.com/track/6YoBe1FqFL5w10bQbemW16) | [Zouk Machine](https://open.spotify.com/artist/7g4xlENR9dJm09i7ADhi21) | [Maldòn \(La musique dans la peau\)](https://open.spotify.com/album/7zrPW2t1vhy9fjOfopjQYN) | 4:05 |
 
-Snapshot ID: `MCw2NzRkZGQzZDM4OTliZjA3OGRmNzBlNDhjYjkwMGNkYzY3MThjOGUz`
+Snapshot ID: `MCwwYjJiNmNmNjM0YmY5ZjY3MzdkNzYzMjM2MDU3ZjNiYjY4OTk1YWRj`

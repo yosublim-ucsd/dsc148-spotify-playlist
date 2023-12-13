@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Tita Lau",
-  "num_followers": 599635,
+  "num_followers": 599853,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGVmMGY3NTNjYzU2ZTZmNmE3NzdiNDE0MzE1Mjk5NDg5YzY0NTMx",
+  "snapshot_id": "MCxlZTkyMzE0N2YxODE5NThiMjZmZDhkYzJlNjFlZDdjOTgwYjI5YjUw",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/6ORYPlWMiM54z2yQ5cPjnf"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/1WUgHCBCyORBL7xNgDagWL"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "LALALA",
         "url": "https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 169635,
       "name": "LALALA",
       "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/6ORYPlWMiM54z2yQ5cPjnf"
-      },
-      "artists": [
-        {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/1WUgHCBCyORBL7xNgDagWL"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/2kYXFfxK4k5IRtVWiUHug2"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Motown Philly",
         "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
       },
@@ -1725,6 +1709,22 @@
       "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/2kYXFfxK4k5IRtVWiUHug2"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Satisfy",
@@ -1739,6 +1739,22 @@
       "duration_ms": 184615,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/5lU7QrjCMU9JStXRUhVB2p"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Milkshake",
+        "url": "https://open.spotify.com/album/6sG0Y81AQVbRgDN3fGyfVL"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "duration_ms": 124824,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/1KJzlX849qCMfYWKOI7STr"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1785,22 +1801,6 @@
       "url": "https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Milkshake",
-        "url": "https://open.spotify.com/album/6sG0Y81AQVbRgDN3fGyfVL"
-      },
-      "artists": [
-        {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
-        }
-      ],
-      "duration_ms": 124824,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/1KJzlX849qCMfYWKOI7STr"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "TikTak",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Jack The House 4",
-        "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Chase The Sun (VIP)",
         "url": "https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 241838,
       "name": "Chase The Sun - VIP",
       "url": "https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Jack The House 4",
+        "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1895,6 +1895,26 @@
       "duration_ms": 210826,
       "name": "I Want Your Soul - Mau P Remix",
       "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "This Mixtape is Fire TOO",
+        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 206998,
+      "name": "On A Trip (with Marten H\u00f8rger)",
+      "url": "https://open.spotify.com/track/61nIe3FaqSOGtWdL1dsHCc"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1959,26 +1979,6 @@
       "duration_ms": 269160,
       "name": "Bongos",
       "url": "https://open.spotify.com/track/02iUOsajHXDI4ncxVT6u27"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "This Mixtape is Fire TOO",
-        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 206998,
-      "name": "On A Trip (with Marten H\u00f8rger)",
-      "url": "https://open.spotify.com/track/61nIe3FaqSOGtWdL1dsHCc"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2057,22 +2057,6 @@
       "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/1NZEAAcBizqIPTlViPC59g"
-      },
-      "artists": [
-        {
-          "name": "Florian Picasso",
-          "url": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/4TqGe1UaneqGotEIwraZ75"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "East Meets West",
@@ -2091,6 +2075,22 @@
       "duration_ms": 247500,
       "name": "Transcendence",
       "url": "https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/1NZEAAcBizqIPTlViPC59g"
+      },
+      "artists": [
+        {
+          "name": "Florian Picasso",
+          "url": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/4TqGe1UaneqGotEIwraZ75"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2147,6 +2147,26 @@
       "duration_ms": 144023,
       "name": "Bim Boom Bam",
       "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "duration_ms": 337000,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2241,22 +2261,6 @@
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Sick With It",
-        "url": "https://open.spotify.com/album/2CwMbsVWMU3mQhvUhwzyIA"
-      },
-      "artists": [
-        {
-          "name": "Kevin Knapp",
-          "url": "https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv"
-        }
-      ],
-      "duration_ms": 225208,
-      "name": "Sick With It",
-      "url": "https://open.spotify.com/track/15zpqXOkvL346KQVCK0lYT"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "All Night",
@@ -2273,20 +2277,36 @@
       "url": "https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "I Got U",
-        "url": "https://open.spotify.com/album/4kl7iQhSvKlcIOHLttDlIA"
+        "name": "Sick With It",
+        "url": "https://open.spotify.com/album/2CwMbsVWMU3mQhvUhwzyIA"
       },
       "artists": [
         {
-          "name": "Paul Damixie",
-          "url": "https://open.spotify.com/artist/0nkCaGdwKdFsufB3GbvCdk"
+          "name": "Kevin Knapp",
+          "url": "https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv"
         }
       ],
-      "duration_ms": 195765,
-      "name": "I Got U",
-      "url": "https://open.spotify.com/track/4qZ0WykWxm9aImzOI4Ig6L"
+      "duration_ms": 225208,
+      "name": "Sick With It",
+      "url": "https://open.spotify.com/track/15zpqXOkvL346KQVCK0lYT"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Boiling Room",
+        "url": "https://open.spotify.com/album/3hHdKTqywXKpJjOYjHCkui"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Boiling Room",
+      "url": "https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2307,18 +2327,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Boiling Room",
-        "url": "https://open.spotify.com/album/3hHdKTqywXKpJjOYjHCkui"
+        "name": "I Got U",
+        "url": "https://open.spotify.com/album/4kl7iQhSvKlcIOHLttDlIA"
       },
       "artists": [
         {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+          "name": "Paul Damixie",
+          "url": "https://open.spotify.com/artist/0nkCaGdwKdFsufB3GbvCdk"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Boiling Room",
-      "url": "https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM"
+      "duration_ms": 195765,
+      "name": "I Got U",
+      "url": "https://open.spotify.com/track/4qZ0WykWxm9aImzOI4Ig6L"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2343,26 +2363,6 @@
       "duration_ms": 170170,
       "name": "Valodja (Kryder Remix)",
       "url": "https://open.spotify.com/track/4D2PtwM3U40QFFBA62I49P"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        }
-      ],
-      "duration_ms": 337000,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
     },
     {
       "added_at": "2023-10-27 04:01:00",

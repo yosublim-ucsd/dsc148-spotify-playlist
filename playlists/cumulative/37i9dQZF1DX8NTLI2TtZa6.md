@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-462 songs - 19 hr 47 min
+466 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [a new love](https://open.spotify.com/track/4DOUtqXfuYKR6RqZ3O6TIi) | [Albrecht Valiery](https://open.spotify.com/artist/3GyopzakL0G5uqjcv56M9h) | [a new love](https://open.spotify.com/album/1OCzduP701HjAIhRhGaBts) | 3:02 | 2021-12-07 |  |
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2021-12-07 |  |
 | [A Secret Within](https://open.spotify.com/track/0xIdhwtIiUcA9IJXJjiWYS) | [Alina Yanovna](https://open.spotify.com/artist/1bcouKXyjgMXRI4zCQXo3Y) | [A Secret Within](https://open.spotify.com/album/2ZC5VlvFDg6ePLkPkGzicH) | 2:43 | 2021-12-07 | 2022-06-08 |
+| [A Time to Talk](https://open.spotify.com/track/1zic8kbRydAEqwdOx8T0Z0) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [A Time to Talk](https://open.spotify.com/album/6rN835FJyPw9GEVglWm0Nz) | 2:24 | 2023-12-12 |  |
 | [A Tough Hand](https://open.spotify.com/track/4UYSLzyr0ONAmb9MapOruJ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [A Tough Hand](https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe) | 2:27 | 2021-12-07 |  |
 | [Abstractions](https://open.spotify.com/track/7lvOQc9v9ybktcebHIaIFs) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:29 | 2022-12-22 | 2023-07-19 |
 | [Across Long Lakes](https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Across Long Lakes](https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ) | 2:28 | 2022-02-15 | 2023-10-05 |
@@ -38,7 +39,8 @@
 | [And There You Were](https://open.spotify.com/track/2B1QXUUeEdMoZ92ggrA1Rh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And We Eternal](https://open.spotify.com/album/7LNpuu6rkVrWpQ4zZJ8ST5) | 2:24 | 2023-11-07 | 2023-11-29 |
 | [And There You Were](https://open.spotify.com/track/2OLfuAdRtXwsoORwiWahPe) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A New Path](https://open.spotify.com/album/0sFVHCju4aS5BEiZtMt2LC) | 2:24 | 2023-08-21 | 2023-08-30 |
 | [And There You Were](https://open.spotify.com/track/4pe4ikorUF17h8dplM2JKv) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Where Love Is Endless](https://open.spotify.com/album/4RNFuZ5GkDi2Xlw7GtxzuH) | 2:24 | 2023-11-07 | 2023-11-17 |
-| [And There You Were](https://open.spotify.com/track/52jbzZPhldQ7ETBu20S0yr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Good Night My Boy](https://open.spotify.com/album/1hVGbiYBujj0qqqJymDUUq) | 2:24 | 2023-11-20 |  |
+| [And There You Were](https://open.spotify.com/track/52jbzZPhldQ7ETBu20S0yr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Good Night My Boy](https://open.spotify.com/album/1hVGbiYBujj0qqqJymDUUq) | 2:24 | 2023-11-20 | 2023-12-13 |
+| [And There You Were](https://open.spotify.com/track/54Z5v1xvglyOEh3KWsNsEr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Dream](https://open.spotify.com/album/4wJjh6QsoPWdDObVTHHJMh) | 2:24 | 2023-12-12 |  |
 | [And There You Were](https://open.spotify.com/track/5qcXvge6W2VFVwH20TNoPA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And Blueberries](https://open.spotify.com/album/5L2Y9P1JFnFirIsk9RbqWp) | 2:24 | 2023-08-21 | 2023-09-13 |
 | [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 | 2023-09-26 | 2023-10-25 |
 | [And There You Were](https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [From Out Of Nowhere](https://open.spotify.com/album/0UetsAF1JQXncnzxmbua3v) | 2:24 | 2023-07-25 | 2023-08-23 |
@@ -381,11 +383,13 @@
 | [Soft Amber](https://open.spotify.com/track/7uIAQEyXcPx9f2BTaVEAVt) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Soft Amber](https://open.spotify.com/album/6PIkPVbTBppn4zBRzcV7gS) | 2:19 | 2023-09-26 |  |
 | [Solace](https://open.spotify.com/track/2XpT1bngtM9pHoYEsfoYuu) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Solace](https://open.spotify.com/album/5EUQ58DddJWsBvzcKnjewJ) | 2:04 | 2023-01-26 |  |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-12-07 | 2023-10-05 |
+| [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 | 2023-12-12 |  |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2021-12-07 | 2022-08-10 |
 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-03-16 | 2022-07-29 |
 | [Sonne und Mond](https://open.spotify.com/track/2jpKwXSKceFIm2ZJF8gZO7) | [Vanya Sogaya](https://open.spotify.com/artist/52ZDvqSoUUMRtR9qjwyhq4) | [Sonne und Mond](https://open.spotify.com/album/01CosJGsY8PK0iH29KV2ht) | 3:15 | 2021-12-07 |  |
 | [Sonnen Sterne](https://open.spotify.com/track/1uKZ6TyMFXuvu9sZWpN202) | [Che Lan](https://open.spotify.com/artist/7spHGT6sHhYOiJN52obbbM) | [Tal Weg](https://open.spotify.com/album/4nZmqnXwBWbaPUvr44VG3u) | 2:59 | 2022-02-15 |  |
 | [Sparrow](https://open.spotify.com/track/2zFYk6wwcF2fTXrvsMaeEP) | [Ana Petrovna](https://open.spotify.com/artist/4g3wEGX9ERd45u8lFS7ei9) | [Sparrow](https://open.spotify.com/album/0vUq0BxoKFTGQTSK5ChdXM) | 2:10 | 2021-12-07 | 2022-05-21 |
+| [Spelbound](https://open.spotify.com/track/1jv9DlrIHMZAqMrPJi9r3T) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Spelbound](https://open.spotify.com/album/7FwlOvLJs31RfojM8LvteG) | 2:41 | 2023-12-12 |  |
 | [Spellbreaking](https://open.spotify.com/track/0baV2o4ykd6wIdv06jjZ7l) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [Spellbreaking](https://open.spotify.com/album/6DEEgZdvNyIxqlpVELejoX) | 3:07 | 2021-12-07 | 2022-02-02 |
 | [Spiral](https://open.spotify.com/track/61wV9acz3uYyXcv4UnjLxc) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Spiral](https://open.spotify.com/album/0cJNpSMDMrJspbp4f3YoK3) | 2:48 | 2023-05-03 |  |
 | [Stories of Hope](https://open.spotify.com/track/2pPaKO126yniarJuGFKj0j) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Stories of Hope](https://open.spotify.com/album/3OiHdkTm7zlyGZxlFrFiGd) | 3:11 | 2022-07-19 |  |

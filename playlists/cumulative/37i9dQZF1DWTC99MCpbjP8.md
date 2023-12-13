@@ -4,7 +4,7 @@
 
 > Slow down and soothe anxiety with soft, relaxing piano music.
 
-521 songs - 22 hr 34 min
+527 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Dévouement](https://open.spotify.com/track/1IxqOTOmyJh9f8gSO9YbK2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Dévouement](https://open.spotify.com/album/0UBhbhhh9HC0cJaLtFhNel) | 2:16 | 2023-08-01 |  |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-04-22 |  |
 | [Echo](https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Echo](https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6) | 2:01 | 2022-04-22 | 2023-01-27 |
+| [Echoes Of Forgotten Times](https://open.spotify.com/track/7HlfgPAVPHtUAH2joYyyAC) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Echoes Of Forgotten Times](https://open.spotify.com/album/2gerydg3DbPYBjAsAnvgpS) | 2:42 | 2023-12-12 |  |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2022-04-22 | 2023-04-04 |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-04-22 |  |
 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 | 2023-10-16 |  |
@@ -133,7 +134,7 @@
 | [Ethereal](https://open.spotify.com/track/7uC95ammTjIPwrMYb8YOkz) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Ethereal](https://open.spotify.com/album/1fZSnvJTvlQS220yBlAfvz) | 2:05 | 2022-04-22 |  |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2022-04-22 | 2023-08-15 |
 | [Evening tide](https://open.spotify.com/track/0CDcAZ780aambjOfSyi3nv) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Evening tide](https://open.spotify.com/album/5mDExQyqfGIgJ7d4PAsnXc) | 2:16 | 2023-01-31 |  |
-| [Everlost](https://open.spotify.com/track/5gKleAF9imvWmf46kIVar7) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Everlost](https://open.spotify.com/album/4OIaJjLneomYvwTl7zGRO7) | 3:01 | 2022-04-22 |  |
+| [Everlost](https://open.spotify.com/track/5gKleAF9imvWmf46kIVar7) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Everlost](https://open.spotify.com/album/4OIaJjLneomYvwTl7zGRO7) | 3:01 | 2022-04-22 | 2023-12-13 |
 | [Fairy Wings](https://open.spotify.com/track/6CMNS6pnhXrNMVIaySBaMY) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Fairy Wings](https://open.spotify.com/album/0AVeV4v7mhaOW7Okhxk7Yb) | 2:05 | 2023-06-19 |  |
 | [Faith](https://open.spotify.com/track/6rMKRMeW8iGPRGaAA3g8ZJ) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Faith](https://open.spotify.com/album/6KFLVb3LM2asbF4FbGdN99) | 2:13 | 2023-09-18 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-22 |  |
@@ -413,6 +414,7 @@
 | [Sonder](https://open.spotify.com/track/5uPgn899inp8HOHHzwUQhG) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Sonder](https://open.spotify.com/album/56CCqTnTPRi0pctNLKWHcS) | 2:17 | 2022-04-22 | 2023-01-27 |
 | [Sonnen Sterne](https://open.spotify.com/track/1uKZ6TyMFXuvu9sZWpN202) | [Che Lan](https://open.spotify.com/artist/7spHGT6sHhYOiJN52obbbM) | [Tal Weg](https://open.spotify.com/album/4nZmqnXwBWbaPUvr44VG3u) | 2:59 | 2022-04-22 |  |
 | [Sostenuto](https://open.spotify.com/track/2pmzW6PbqlAunOXe0AdYIw) | [Camilla Solheim](https://open.spotify.com/artist/0paoGI3ZzVd4kwjmsJI6B0) | [Sostenuto](https://open.spotify.com/album/5bve8ozqZzt01twy16odc3) | 2:09 | 2022-04-22 | 2023-04-19 |
+| [Soulmates](https://open.spotify.com/track/6PYnEn0EGxqCZoGhnq8Ric) | [Cedric Grey](https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO) | [Soulmates](https://open.spotify.com/album/5rT1pdcEFHe7MlkrHHuEy1) | 2:57 | 2023-12-12 |  |
 | [Souvenir des Alpes](https://open.spotify.com/track/3L3jNg0Hvd1MF81aDgnCNC) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Souvenir des Alpes](https://open.spotify.com/album/2xhn6cHDxsaGhMWrRaKRLe) | 3:14 | 2023-07-18 |  |
 | [Space Comfort](https://open.spotify.com/track/5mSl1LEERyevaU6mykcfh0) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Safe and Sound](https://open.spotify.com/album/116LyDErcLTqD1BBQ0nBJz) | 2:21 | 2022-04-22 | 2022-05-28 |
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-07-27 | 2023-08-15 |
@@ -473,6 +475,7 @@
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-09-15 |  |
 | [to the sea](https://open.spotify.com/track/6I9pSKGbuygkebmyt1ZuIL) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [to the sea](https://open.spotify.com/album/2RayBw83k7G2KMzRy4Ecmw) | 2:44 | 2022-07-27 | 2023-02-01 |
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2022-04-22 | 2023-08-08 |
+| [Transition](https://open.spotify.com/track/1iQNwvTF6FXb28I585ATyJ) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Transition](https://open.spotify.com/album/408lspWbRDyL2gdcgXsGZA) | 3:01 | 2023-12-12 |  |
 | [Translucency](https://open.spotify.com/track/6SsnBkri7GaVza5JovLs4W) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Translucency](https://open.spotify.com/album/1ZGgON2VfHVFro56xDJINn) | 2:35 | 2022-04-22 | 2023-01-27 |
 | [Tree Whisper](https://open.spotify.com/track/5a8V9tjazhBAIbUiFqpu8N) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Tree Whisper](https://open.spotify.com/album/6md3ncmAS84fTV1931NnTz) | 3:25 | 2022-04-22 |  |
 | [True Self](https://open.spotify.com/track/3wJYd4AguIe41wp8gPZAmL) | [Izzy Rubin](https://open.spotify.com/artist/3i9R9BlH4QfTzP3DZIEj86) | [True Self](https://open.spotify.com/album/6sqaTWutALgbYSSmYbSGnH) | 3:57 | 2022-04-22 | 2023-08-15 |
@@ -513,13 +516,16 @@
 | [Weightless](https://open.spotify.com/track/3yXQyJLMVElujd88Gt4fAf) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Weightless](https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s) | 2:18 | 2022-04-22 | 2023-01-27 |
 | [What We Hope For](https://open.spotify.com/track/7onCPDRFcCglFj03sdUhf9) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [What We Hope For](https://open.spotify.com/album/7t0oZryHJJnYR2lwQCLDiY) | 3:16 | 2022-04-22 |  |
 | [Whatever Will Be](https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Whatever Will Be](https://open.spotify.com/album/1lQs3tvAI1Sqh2kPAnCR56) | 1:52 | 2023-06-26 | 2023-08-15 |
+| [When Everything Is Calm](https://open.spotify.com/track/4haSmVvaqE5H7bHoH5Ji4N) | [Jon Thebur](https://open.spotify.com/artist/2Bhpy04Xbt9Vj0siuMXx3n) | [When Everything Is Calm](https://open.spotify.com/album/0x7gVCtQ16DwBB2G9GuKrD) | 2:44 | 2023-12-12 |  |
 | [When It Rains It Pours](https://open.spotify.com/track/2Dasbncj88VgX5FKh2ZVzs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [A Drop in the Ocean](https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM) | 2:28 | 2022-04-22 | 2023-04-19 |
 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 | 2022-04-22 | 2022-05-28 |
 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-04-22 | 2022-07-28 |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-04-22 |  |
 | [Whispered Winds](https://open.spotify.com/track/3Ts6C6TMvIzPIvdudMX7bH) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Whispered Winds](https://open.spotify.com/album/0et0WwbdnUCOzoDMQ4K8yQ) | 2:28 | 2022-04-22 | 2023-10-05 |
 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 | 2022-04-22 |  |
+| [Wildflower](https://open.spotify.com/track/4Z9NDrWiibsmI4tw2b2XkX) | [Myron Andersen](https://open.spotify.com/artist/3sZcw1QKEb35aR9fur7WNo) | [Wildflower](https://open.spotify.com/album/76Gi2XBhnCQVowOBhUhu6T) | 2:37 | 2023-12-12 |  |
 | [Winter \- Ambient Mix](https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter \(Ambient Mix\)](https://open.spotify.com/album/2kmzeCtSXl8N7ODN94r3RM) | 4:12 | 2022-11-14 |  |
+| [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 | 2023-12-12 |  |
 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 | 2022-04-22 | 2023-08-15 |
 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 | 2022-04-22 |  |
 | [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 | 2022-04-22 | 2023-01-27 |

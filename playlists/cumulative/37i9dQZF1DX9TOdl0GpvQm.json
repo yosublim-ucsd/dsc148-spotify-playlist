@@ -706,7 +706,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 387973,
       "name": "Cloud Cover - Andrew Weatherall Remix",
       "url": "https://open.spotify.com/track/1GEFOTr5SvRK0tlsiDKaam"
@@ -1888,6 +1888,24 @@
       "duration_ms": 160441,
       "name": "Kommissar Brenkstrupp (Main Titles)",
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+    },
+    {
+      "album": {
+        "name": "El Tonto",
+        "url": "https://open.spotify.com/album/7zPK13GhWDQlCIebA48xxE"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133853,
+      "name": "La Nebulosa",
+      "url": "https://open.spotify.com/track/7bnAhrmY8bSH8cw8zmI8DK"
     },
     {
       "album": {

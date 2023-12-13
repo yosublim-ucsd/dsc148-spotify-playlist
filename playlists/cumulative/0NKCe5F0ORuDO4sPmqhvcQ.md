@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-558 songs - 1 day 7 hr 26 min
+559 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Out Loud](https://open.spotify.com/track/49U21MjHXlWGrXnnDvf19I) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz) | [Out Loud](https://open.spotify.com/album/7spOlqAzvR0Qy9fXy6UYXM) | 2:52 | 2023-07-20 |  |
 | [over n over](https://open.spotify.com/track/6TYhK78FWxSMhGZ1lAEjHV) | [Marty Valentine](https://open.spotify.com/artist/7JCYYyIBno1eDpBqI436yk) | [over n over](https://open.spotify.com/album/5BWL5L3fYAzC7BrOCt2Dvj) | 2:12 | 2023-06-16 | 2023-08-18 |
 | [Over the Sun](https://open.spotify.com/track/6zqcYS3RD9SPG9I6u2n4DD) | [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz) | [Over the Sun](https://open.spotify.com/album/3mS2aEDIWw9Fr15ljWJdQT) | 3:09 | 2023-02-03 | 2023-04-01 |
+| [Paradise](https://open.spotify.com/track/3D9gig3g2yGheqkpzjnKnN) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Paradise](https://open.spotify.com/album/5FjrKHMfuMTNnp2SqAUzUN) | 2:39 | 2023-12-12 |  |
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-01-18 | 2022-02-05 |
 | [PCH \(Pretty Cold Heart\) \- Owen Jackson Remix](https://open.spotify.com/track/6ERM3XDlUMaSH7JpJSOkZI) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [Owen Jackson](https://open.spotify.com/artist/3XXJdZeiZdrrzj5oRq9SVD) | [Heartbreak County, Vol\. 2 \(Remix Pack\)](https://open.spotify.com/album/5J5GdWxNopj6y7Sf4iIqDA) | 3:41 | 2022-12-31 | 2023-07-20 |
 | [Phantom Love](https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Phantom Love](https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi) | 4:19 | 2023-10-09 |  |

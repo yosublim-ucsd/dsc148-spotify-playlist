@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 24065,
+  "num_followers": 24083,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmQ1NTkwZjdlMjRhZWQxM2FiY2ZlYzg3Y2E4MWMxYWRlYTgwMTEy",
+  "snapshot_id": "MCw3NDBmMWIzM2EwMmMzNThhNTYzNmM2NmQ1YWUzMDJiM2RjYWE1N2I4",
   "tracks": [
     {
       "added_at": "2023-10-02 12:15:54",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
-        "name": "Laysa",
-        "url": "https://open.spotify.com/album/59al6unEUgOFKSknNugus9"
-      },
-      "artists": [
-        {
-          "name": "Luay Hijazeen",
-          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Laysa",
-      "url": "https://open.spotify.com/track/2miXa7bxd39RSSn1VvPs7o"
-    },
-    {
-      "added_at": "2023-10-02 12:15:54",
-      "album": {
         "name": "Nasi",
         "url": "https://open.spotify.com/album/5LC6AvKrSmynyr7o50k5OM"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 224000,
       "name": "Nasi",
       "url": "https://open.spotify.com/track/2c2by2xH5vEW142S9zZD7G"
+    },
+    {
+      "added_at": "2023-10-02 12:15:54",
+      "album": {
+        "name": "Laysa",
+        "url": "https://open.spotify.com/album/59al6unEUgOFKSknNugus9"
+      },
+      "artists": [
+        {
+          "name": "Luay Hijazeen",
+          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Laysa",
+      "url": "https://open.spotify.com/track/2miXa7bxd39RSSn1VvPs7o"
     },
     {
       "added_at": "2023-10-02 12:15:54",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
-        "name": "Ma Bdi Heb",
-        "url": "https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z"
-      },
-      "artists": [
-        {
-          "name": "Toni Qattan",
-          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
-        }
-      ],
-      "duration_ms": 254394,
-      "name": "Ma Bdi Heb",
-      "url": "https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8"
-    },
-    {
-      "added_at": "2023-10-02 12:15:54",
-      "album": {
         "name": "Hala O Ghala",
         "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 211282,
       "name": "Hala O Ghala",
       "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
+    },
+    {
+      "added_at": "2023-10-02 12:15:54",
+      "album": {
+        "name": "Ma Bdi Heb",
+        "url": "https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z"
+      },
+      "artists": [
+        {
+          "name": "Toni Qattan",
+          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+        }
+      ],
+      "duration_ms": 254394,
+      "name": "Ma Bdi Heb",
+      "url": "https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8"
     }
   ],
   "unique_name": "Jordan Sounds",

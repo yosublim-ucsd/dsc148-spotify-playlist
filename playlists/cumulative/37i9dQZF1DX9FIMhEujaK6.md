@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-162 songs - 12 hr 43 min
+163 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Hungboo \- DJ\-Kicks](https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [DJ\-Kicks EP](https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE) | 4:35 | 2022-07-20 | 2023-11-17 |
 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 | 2023-09-01 |  |
 | [I Just Want To Love You](https://open.spotify.com/track/7wJW61D0zo0gPjomJLoiqe) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26) | 3:50 | 2023-09-22 |  |
+| [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 | 2023-11-17 |  |
 | [Idle](https://open.spotify.com/track/4nV7NfTgDupppPZf5ARmLY) | [Figgis](https://open.spotify.com/artist/5gPb5bWKSpRkBhLdlTZpiz) | [Idle](https://open.spotify.com/album/2jY7LdWedFXFppeqDTfGoq) | 4:59 | 2021-10-15 | 2022-07-28 |
 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 | 2022-07-20 | 2023-11-17 |
 | [Indigo](https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Indigo EP](https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM) | 6:12 | 2021-10-15 |  |
@@ -117,7 +118,7 @@
 | [Pithy](https://open.spotify.com/track/6v0QB50cfT7UuBMsrXHcXI) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi) | [Plunge](https://open.spotify.com/album/0WCy3Og33VGPDUh6R7ZpIY) | 4:12 | 2023-11-17 | 2023-12-07 |
 | [Pithy](https://open.spotify.com/track/7uPiExBiGuH8ocfFezmWuM) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi) | [Plunge](https://open.spotify.com/album/2h11IZVnNBKTeFrofHvqeZ) | 4:12 | 2021-10-15 | 2022-07-29 |
 | [Rainchecks In Montreal](https://open.spotify.com/track/0KkLtsiQKvJs1Sz7uka72J) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Rainchecks In Montreal](https://open.spotify.com/album/7kk2hdtBBbAuaFxdiCk243) | 6:30 | 2021-10-15 | 2022-07-29 |
-| [Rainchecks In Montreal](https://open.spotify.com/track/4eKwLXECCFNv4A8LzghcbP) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Rainchecks in Montreal](https://open.spotify.com/album/14kYR10NE4OWEt7paPnH6h) | 6:30 | 2023-11-17 |  |
+| [Rainchecks In Montreal](https://open.spotify.com/track/4eKwLXECCFNv4A8LzghcbP) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Rainchecks in Montreal](https://open.spotify.com/album/14kYR10NE4OWEt7paPnH6h) | 6:30 | 2023-11-17 | 2023-12-13 |
 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 | 2023-09-22 |  |
 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 | 2021-10-15 | 2023-05-30 |
 | [Retina](https://open.spotify.com/track/4Dlf0expNuCNzBEL7yytZN) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Retina / Stay](https://open.spotify.com/album/0fvdyiNRkHyE8OhCLvfB9s) | 3:54 | 2021-10-15 | 2022-07-27 |

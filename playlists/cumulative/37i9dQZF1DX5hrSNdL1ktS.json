@@ -5262,10 +5262,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 167295,
       "name": "MUAY THAI",
       "url": "https://open.spotify.com/track/3wrmv73k3sruc9rvSlR5Eb"
+    },
+    {
+      "album": {
+        "name": "MUAY THAI",
+        "url": "https://open.spotify.com/album/6DeG13kKoTUAii80Gwmlq8"
+      },
+      "artists": [
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167295,
+      "name": "MUAY THAI",
+      "url": "https://open.spotify.com/track/7M0jV4EvUzzodGbHepL7Ov"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,056 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,138 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Wanna](https://open.spotify.com/track/5FxmV25XctzXjuHNaQPpBz) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Wanna](https://open.spotify.com/album/5ziaDeu4Ulk0MkIujM5Fw8) | 2:33 |
 | 100 | [LINK UP](https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:05 |
 
-Snapshot ID: `MCwyZDQ4NTUyZTUxNzJkODk5Yzk4NThjYTE3ZGI5Y2RiY2ZlY2QyNTNj`
+Snapshot ID: `MCxhZTJlYTVkY2RiMWU3ZTMwZGQ4MGJiOGYwNWNkMGFhM2IxNmJlYTBh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Watson",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: CreativeDrugStore",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 185093,
       "name": "180",
       "url": "https://open.spotify.com/track/0UWUBGIvqn4sD479lvLhDx"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 185719,
       "name": "AIN'T NO USE",
       "url": "https://open.spotify.com/track/6cahdjgqcOKTrYcq0VoYYx"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 181188,
       "name": "All Day, All Night",
       "url": "https://open.spotify.com/track/10DXlPV9LD57cadftdxVQf"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 156000,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/6uS7M0RVH0B4aGJGyb4Lfs"
@@ -650,6 +650,32 @@
       "duration_ms": 202835,
       "name": "Bandiera",
       "url": "https://open.spotify.com/track/3FFrlPwGseeA6Xrc3647vG"
+    },
+    {
+      "album": {
+        "name": "BARI",
+        "url": "https://open.spotify.com/album/0BOYQ4lbrVuxczIx4PenXD"
+      },
+      "artists": [
+        {
+          "name": "T-K TONY",
+          "url": "https://open.spotify.com/artist/477kGCPUFTq18HY1B7dcNP"
+        },
+        {
+          "name": "eyezen",
+          "url": "https://open.spotify.com/artist/5BcJpRblTAzBQV0Qp0jewW"
+        },
+        {
+          "name": "Zetton",
+          "url": "https://open.spotify.com/artist/18zXwh1qgQsB78SOB5Kbn0"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192804,
+      "name": "BARI",
+      "url": "https://open.spotify.com/track/2trTAYylWgXMaheP9OqXqr"
     },
     {
       "album": {
@@ -2103,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "FLASH",
+        "url": "https://open.spotify.com/album/5T8F62YDxArVIPzttBa2yH"
+      },
+      "artists": [
+        {
+          "name": "Neibiss",
+          "url": "https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216067,
+      "name": "FLASH",
+      "url": "https://open.spotify.com/track/3vs2T06rOSjiieKHkgrRkb"
+    },
+    {
+      "album": {
         "name": "hallelujah",
         "url": "https://open.spotify.com/album/2oXVZzEnllAmk2EgEp9TYY"
       },
@@ -2196,6 +2240,28 @@
       "duration_ms": 215829,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/29zovESERgPJz1uaIFgsfS"
+    },
+    {
+      "album": {
+        "name": "From Nothing",
+        "url": "https://open.spotify.com/album/2BvujmbKlC09DRLJ6rEq7j"
+      },
+      "artists": [
+        {
+          "name": "ELIONE",
+          "url": "https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg"
+        },
+        {
+          "name": "ineedmorebux",
+          "url": "https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167833,
+      "name": "From Nothing",
+      "url": "https://open.spotify.com/track/56PqGnaQo7LXDQI9fsHKtE"
     },
     {
       "album": {
@@ -2443,6 +2509,28 @@
     },
     {
       "album": {
+        "name": "GINGINDEGO",
+        "url": "https://open.spotify.com/album/6bErHCwerAoOZsI2cEfXC2"
+      },
+      "artists": [
+        {
+          "name": "Ryuk",
+          "url": "https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX"
+        },
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111209,
+      "name": "GINGINDEGO",
+      "url": "https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR"
+    },
+    {
+      "album": {
         "name": "Chawalit vol.2",
         "url": "https://open.spotify.com/album/64HMOP2sZGssbrcPKdMyVP"
       },
@@ -2618,7 +2706,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 179310,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/3CAFHihskDnQ0gjnTpteho"
@@ -2702,7 +2790,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 163764,
       "name": "ha?",
       "url": "https://open.spotify.com/track/1AHAFgBaotPhp2PLonXRPW"
@@ -3889,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Marmot",
+        "url": "https://open.spotify.com/album/4nFJGNzMaehMhLng7f1P4F"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Marmot",
+      "url": "https://open.spotify.com/track/5BE8nmeeVfLv3TmRMTilIl"
+    },
+    {
+      "album": {
         "name": "Master Piece",
         "url": "https://open.spotify.com/album/4AJJcvPWdfEfHtUxGCTVva"
       },
@@ -4082,7 +4188,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 164885,
       "name": "MONEY LOVE RESPECT",
       "url": "https://open.spotify.com/track/6hpgmfe9GRmqaJxtevmSBr"
@@ -4152,7 +4258,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 196463,
       "name": "Mune Ni Loyalty",
       "url": "https://open.spotify.com/track/1SKUPtggLzRAGkoN4PmDhJ"
@@ -5283,6 +5389,24 @@
     },
     {
       "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/2WFlIYgR2ug61bzOoMXp4s"
+      },
+      "artists": [
+        {
+          "name": "CreativeDrugStore",
+          "url": "https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191306,
+      "name": "Retire",
+      "url": "https://open.spotify.com/track/45ZIUoqBT8uVWJSfmuOnsf"
+    },
+    {
+      "album": {
         "name": "REVENGE",
         "url": "https://open.spotify.com/album/42hlt0eaqW9269f8jqqa20"
       },
@@ -5836,7 +5960,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 219810,
       "name": "Suisei",
       "url": "https://open.spotify.com/track/3gXDPaDY1jfwNdMu8C4jtK"
@@ -6512,6 +6636,32 @@
       "duration_ms": 163146,
       "name": "What?",
       "url": "https://open.spotify.com/track/48s0kZFNaYxP0bOxOkNC6f"
+    },
+    {
+      "album": {
+        "name": "Mother Jane",
+        "url": "https://open.spotify.com/album/3jCRomBak2FVTlZ8RIclTm"
+      },
+      "artists": [
+        {
+          "name": "RYKEYDADDYDIRTY",
+          "url": "https://open.spotify.com/artist/6ABUnz5K0dZNw7svuQitJb"
+        },
+        {
+          "name": "Cocgi White",
+          "url": "https://open.spotify.com/artist/4GLl3EAOEZdXS4VTaB4Xfs"
+        },
+        {
+          "name": "KAN a.k.a. GAMI",
+          "url": "https://open.spotify.com/artist/47XrkMqishxh2RQSBWOEWq"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240340,
+      "name": "White Tranzit",
+      "url": "https://open.spotify.com/track/5KtkoaU1WcquKOcZJqd6uq"
     },
     {
       "album": {

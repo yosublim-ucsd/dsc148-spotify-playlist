@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-385 songs - 1 day 18 hr 9 min
+386 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Barbazan \- Zigan Aldi Remix](https://open.spotify.com/track/3g3DoR3C4Deg1VJPdIY1N7) | [il Civetto](https://open.spotify.com/artist/337iYuRKw6oyOfxsxRuR0o), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Barbazan](https://open.spotify.com/album/7u8JF1qpvRDoCLzDTo95lB) | 7:21 | 2021-12-17 | 2022-06-12 |
 | [Bayad](https://open.spotify.com/track/1ZbuLf8dUXFUvOcqSw31H0) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Bayad](https://open.spotify.com/album/3Lj3O6h25S4JdM1PguWEHA) | 5:12 | 2020-01-01 | 2021-05-08 |
 | [Beat Cari](https://open.spotify.com/track/4m4rGSD65TJeFqeA4CGcCT) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/5ALK0sedYEwpTi7cKuBGua) | 5:32 | 2021-02-16 | 2022-08-25 |
+| [Beat Cari](https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B) | 5:32 | 2023-11-14 |  |
 | [Before the Storm](https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Before the Storm](https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j) | 7:25 | 2021-03-14 |  |
 | [Behind The Wall](https://open.spotify.com/track/7p2HefMjnCywc3YuDaToJH) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Behind The Wall](https://open.spotify.com/album/1wAoIli83YBVmOvg87amiI) | 6:40 | 2021-08-21 | 2022-05-17 |
 | [Bekaboo](https://open.spotify.com/track/1HYPIyMIgHN9Gmv12es0xd) | [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Bekaboo](https://open.spotify.com/album/1A05Xaf6VxzQVJpEiMsa75) | 3:09 | 2023-03-25 | 2023-04-23 |
@@ -335,7 +336,7 @@
 | [Sumeru](https://open.spotify.com/track/4xFCGg8grxbA3pGYrX1Mcp) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Kaybola](https://open.spotify.com/album/6PNkN7oTTfp0tHN7ZFBCZK) | 4:57 | 2020-02-25 | 2022-07-29 |
 | [Take Me Back](https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [Tim Jules](https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk) | [Take Me Back](https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y) | 4:46 | 2020-09-26 | 2023-05-09 |
 | [Tasi](https://open.spotify.com/track/2ydBAmSGC32VDh34Libi1G) | [REYSIS](https://open.spotify.com/artist/19lIvmbu4jVhIIFhtbV2LC), [SIS](https://open.spotify.com/artist/4wzvXCxUnFdUjNgTwqPOf3), [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Tasi Lua](https://open.spotify.com/album/2bg07HDf5MxkkeNcnXgzul) | 8:43 | 2022-05-06 | 2022-07-27 |
-| [Tembo](https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Humanidad](https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6) | 8:41 | 2023-02-17 |  |
+| [Tembo](https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Humanidad](https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6) | 8:41 | 2023-02-17 | 2023-12-13 |
 | [Temple](https://open.spotify.com/track/4WtA5xiOoM3NvQgFUGkgNd) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Temple Dream](https://open.spotify.com/album/7jOqBniEJ1hn7nyPocGrVT) | 8:12 | 2020-12-05 | 2021-05-28 |
 | [Terra](https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 1:55 | 2021-05-09 |  |
 | [Terra Rasgada \- Santiago Garcia Remix](https://open.spotify.com/track/0pmAFbgm9YdB1teCoD8yY2) | [Embatucadores](https://open.spotify.com/artist/26WcldLimxcEG1SkHgP3ky), [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Terra Rasgada \(Santiago Garcia Remix\)](https://open.spotify.com/album/7kFv48dGaYfsVwpzBfVOWN) | 6:24 | 2019-09-20 | 2020-03-16 |

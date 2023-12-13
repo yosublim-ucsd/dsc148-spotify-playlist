@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 23258,
+  "num_followers": 23302,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGM3MWMwZTY0ODE3Njk5Mzc0NTVmOThmY2FkZGJjNTdjMzdlMzJl",
+  "snapshot_id": "MCwyYzIxNjQ3NTc4OGQ3NzdjNTM3NmY5Y2Q2NzYwZDEyMDRjN2U0Zjg4",
   "tracks": [
     {
       "added_at": "2023-12-07 22:03:40",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-12-07 22:03:40",
       "album": {
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
+      },
+      "artists": [
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/7zsgBOY20sX0Z8L4RTdU3Y"
+    },
+    {
+      "added_at": "2023-12-07 22:03:40",
+      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
-    },
-    {
-      "added_at": "2023-12-07 22:03:40",
-      "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
-      },
-      "artists": [
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/7zsgBOY20sX0Z8L4RTdU3Y"
     },
     {
       "added_at": "2023-12-07 22:03:40",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-12-07 22:03:40",
       "album": {
-        "name": "En Vivo En El Opera",
-        "url": "https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG"
+        "name": "100PRE",
+        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
       },
       "artists": [
         {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Sola En Los Bares",
-      "url": "https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ"
+      "duration_ms": 205511,
+      "name": "100PRE",
+      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
     }
   ],
   "unique_name": "Esto es Pop",

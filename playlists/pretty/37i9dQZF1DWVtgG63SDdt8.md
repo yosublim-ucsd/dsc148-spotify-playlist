@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:1zZDuiPTuQzsbXPj4N58G4">Eris Ford</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,788 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,848 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [BOSSA NOVA \(feat\. Aaron Cole\)](https://open.spotify.com/track/2M9Qr05EqIR3Wp7Bo0Vj7w) | [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [BOSSA NOVA \(feat\. Aaron Cole\)](https://open.spotify.com/album/4T1JkIOqz3htmhSMgwfkx7) | 2:36 |
 | 100 | [Hekima](https://open.spotify.com/track/6JxJEhBAHAnhjCtcHLJFNt) | [A.I\. The Anomaly](https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa) | [Hekima](https://open.spotify.com/album/66BRGKjTjQNF0KaVPnOnwi) | 4:00 |
 
-Snapshot ID: `MCwyYWIwY2Q5YzY1NDg0MGIwZWI5M2JjY2Y3Y2Q0NTlhMzJjZTlhYTBk`
+Snapshot ID: `MCw5NWI0ZjFmNjZlMzU2OGExMzNmYTEzYTk3ZTQyZDRjMmUxYzM2YTJl`

@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7525,
+  "num_followers": 7522,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzAxYzNiZjk2ODVjZDdhNTY4MDAzMmIwODRkZmNjNmY5Mzg3Mjgw",
+  "snapshot_id": "MCw4YjdiOTFlNGIzMzFkMWY0OTM0Y2Y2ZWI3ODI0ODRiYjBlOTZhMDI3",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -875,30 +875,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Mi Gente (Cedric Gervais Remix)",
-        "url": "https://open.spotify.com/album/0DWEKLIz2eHd8R9N3mhZaI"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "Mi Gente - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Major Lazer Essentials",
         "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
       },
@@ -919,6 +895,30 @@
       "duration_ms": 167310,
       "name": "Sua Cara",
       "url": "https://open.spotify.com/track/5D2m0GT5EDngcqD7YdkF7w"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Mi Gente (Cedric Gervais Remix)",
+        "url": "https://open.spotify.com/album/0DWEKLIz2eHd8R9N3mhZaI"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Mi Gente - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Mi Gente (Alesso Remix)",
-        "url": "https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Mi Gente - Alesso Remix",
-      "url": "https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Major Lazer Essentials",
         "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 173909,
       "name": "Buscando Huellas",
       "url": "https://open.spotify.com/track/1i0aPTo8twcVikCdiZzHse"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Mi Gente (Alesso Remix)",
+        "url": "https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Mi Gente - Alesso Remix",
+      "url": "https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1131,22 +1131,22 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Toda La Noche",
-        "url": "https://open.spotify.com/album/3GQZqxmeWL4dAJQKROGnbu"
+        "name": "Que Calor",
+        "url": "https://open.spotify.com/album/2TGVp98ZbzdhCaqBN82jss"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Toda La Noche",
-      "url": "https://open.spotify.com/track/74RrMiuSOzAHZEqLlC0BHz"
+      "duration_ms": 165176,
+      "name": "QueLoQue",
+      "url": "https://open.spotify.com/track/5jWiuNtsn9mUUEMa4bYYK3"
     }
   ],
   "unique_name": "Global Dance Crossover",

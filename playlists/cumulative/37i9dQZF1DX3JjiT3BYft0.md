@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-368 songs - 1 day 2 hr 43 min
+369 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Moonlight Walk](https://open.spotify.com/track/1BAbb94XTVroE18RcpfqD9) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/0qEUvpIcVXtvXvsWJKcMhK) | 3:46 | 2022-05-17 | 2022-07-28 |
 | [Neo\-Aspect](https://open.spotify.com/track/2ctkJPzluv1BfsEcsOPsS5) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/6nk5SUZlraHzpwIPUFdI84) | 5:10 | 2022-05-17 | 2022-07-27 |
 | [NO GIRL NO CRY \- Poppin'Party Ver.](https://open.spotify.com/track/7vjHI1ZrjMFuynrPmwvgG3) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91) | 5:11 | 2022-05-17 | 2022-07-19 |
-| [ON YOUR MARK](https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:00 | 2022-10-25 | 2023-05-10 |
+| [ON YOUR MARK](https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:00 | 2022-10-25 |  |
 | [ON YOUR MARK](https://open.spotify.com/track/3qU8WNOgUbch9q1MBwbmUH) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:01 | 2022-05-17 | 2022-07-28 |
 | [ON YOUR MARK](https://open.spotify.com/track/0AJMNmF8wA33dHu5DQ5oUO) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ON YOUR MARK](https://open.spotify.com/album/5NCnQuOJF3ERX7AgjmsJj0) | 4:01 | 2022-05-17 | 2022-07-27 |
 | [On Your New Journey \- Acoustic Ver.](https://open.spotify.com/track/7bQ5CkzVlHwtopBCxrwXBp) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [Hanazono Electric Guitar!!!](https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe) | 4:53 | 2022-06-23 | 2022-10-02 |
@@ -191,12 +191,13 @@
 | [That Is How I Roll!](https://open.spotify.com/track/2Kuv5okNDlV19y81tkiqdp) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [That Is How I Roll!](https://open.spotify.com/album/1S6QsRtMbeb3p5JFO7zhKc) | 3:59 | 2022-05-17 | 2022-06-25 |
 | [THE HISTORIC...](https://open.spotify.com/track/50mZB404Mh36IcnDvkGqqX) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1) | 4:31 | 2022-05-17 | 2022-07-29 |
 | [THE WAY OF LIFE](https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 3:57 | 2022-12-13 | 2023-06-28 |
-| [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 | 2023-05-09 |  |
+| [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 | 2023-05-09 | 2023-12-13 |
 | [Time Lapse](https://open.spotify.com/track/5T8colb4YzBDdOboom5twr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Time Lapse](https://open.spotify.com/album/1YMySyG5al3QpCnXQLey9R) | 4:05 | 2022-05-17 | 2022-07-01 |
 | [Tokimeki Experience!](https://open.spotify.com/track/5uxhAPNplFMEkvXNNLzEZl) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL) | 4:17 | 2022-06-23 | 2022-08-19 |
 | [True color](https://open.spotify.com/track/4x2Qz006ssbVrSeKAcU5Us) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [That Is How I Roll!](https://open.spotify.com/album/1S6QsRtMbeb3p5JFO7zhKc) | 4:12 | 2022-05-17 | 2022-07-29 |
 | [UNSTOPPABLE](https://open.spotify.com/track/4CVwzG3EE3LTnNaKtiH4yM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/28b3WsvQkZZvOZYN95BdSi) | 3:50 | 2022-05-17 | 2022-07-20 |
 | [UNSTOPPABLE](https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 3:50 | 2023-05-30 |  |
+| [VIOLET LINE](https://open.spotify.com/track/2HUCfy80ikYHcShBSaXEaW) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [VIOLET LINE](https://open.spotify.com/album/65qsdLloeZcbawKPvA1jNR) | 4:50 | 2023-12-12 |  |
 | [Wacha\-Mocha Pettan March](https://open.spotify.com/track/5XtTvwA9Scux2pdUs2WcVl) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [I need you!](https://open.spotify.com/album/1bD3P5yTAFAqE6rYGRG9IA) | 3:53 | 2022-06-23 | 2022-10-02 |
 | [What's the POPIPA!?](https://open.spotify.com/track/3ceacNpPfoVQny7eX9lsPm) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Jumpin'](https://open.spotify.com/album/15kWIDPuXd2W53eWSgghPS) | 4:38 | 2022-05-17 | 2022-07-28 |
 | [White Afternoon](https://open.spotify.com/track/31V6FvDnr17twvtDNLI91H) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [White Afternoon](https://open.spotify.com/album/7GUZfwkVnLI5aQZE0ZA8SC) | 4:58 | 2022-05-17 | 2022-07-13 |
@@ -340,7 +341,7 @@
 | [影色舞](https://open.spotify.com/track/4caYPoCfxiIzrxjIm0nr4y) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [影色舞](https://open.spotify.com/album/2FjnF7hRrVMzUKnqaWRDf4) | 3:29 | 2023-04-11 | 2023-04-13 |
 | [最高\(さあ行こう\)!](https://open.spotify.com/track/2SrYQHwBT8mQI7uVOLIUhp) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [二重の虹\(ダブル レインボウ\)/最高\(さあ行こう\)!](https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s) | 3:48 | 2022-05-17 | 2022-07-15 |
 | [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 | 2023-06-29 |  |
-| [極彩色](https://open.spotify.com/track/1ZweKgc1qVZjCt81HIW1M9) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:58 | 2023-05-09 |  |
+| [極彩色](https://open.spotify.com/track/1ZweKgc1qVZjCt81HIW1M9) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:58 | 2023-05-09 | 2023-12-13 |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/2mEX3FAVxS2fIcAxnrzqfm) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:21 | 2022-05-17 | 2022-07-29 |
 | [激動](https://open.spotify.com/track/5ocLAN2ZYl38qGKbGVWHEw) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 5:33 | 2022-05-17 | 2022-07-27 |
 | [灼熱 Bonfire!](https://open.spotify.com/track/0wKrUjs8c0CXu7fl4ScXUR) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/1aUP0huYCBSU0OPAkThfud) | 3:44 | 2022-05-17 | 2022-07-28 |

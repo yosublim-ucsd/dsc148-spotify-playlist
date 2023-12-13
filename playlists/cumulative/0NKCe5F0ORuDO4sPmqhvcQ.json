@@ -7397,6 +7397,24 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5FjrKHMfuMTNnp2SqAUzUN"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159614,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3D9gig3g2yGheqkpzjnKnN"
+    },
+    {
+      "album": {
         "name": "Parallel Heartbreak",
         "url": "https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd"
       },

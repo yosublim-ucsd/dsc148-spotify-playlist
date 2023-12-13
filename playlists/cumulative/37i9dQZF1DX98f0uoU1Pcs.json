@@ -3145,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "Final Summer",
+        "url": "https://open.spotify.com/album/1QXeBl2ZJ382SCUs2uqJK5"
+      },
+      "artists": [
+        {
+          "name": "Cloud Nothings",
+          "url": "https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156761,
+      "name": "Final Summer",
+      "url": "https://open.spotify.com/track/1Vl9uXkXwSCEit0hafWtFd"
+    },
+    {
+      "album": {
         "name": "In The Wild",
         "url": "https://open.spotify.com/album/0YNHnVxMqfHsVQUdJn7HgI"
       },
@@ -3408,7 +3426,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 172038,
       "name": "FUBAR",
       "url": "https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc"
@@ -6825,6 +6843,28 @@
     },
     {
       "album": {
+        "name": "New Beginning (Water From Your Eyes Remix)",
+        "url": "https://open.spotify.com/album/7ibRuWSlOgG0pA7c6cs1qN"
+      },
+      "artists": [
+        {
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        },
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191239,
+      "name": "New Beginning (Water From Your Eyes Remix)",
+      "url": "https://open.spotify.com/track/25NKkvS9TA1Ftvm6YgcyJu"
+    },
+    {
+      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -7878,7 +7918,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 318464,
       "name": "Road",
       "url": "https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2"

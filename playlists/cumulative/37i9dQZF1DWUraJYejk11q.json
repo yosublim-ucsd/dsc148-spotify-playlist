@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243664,
+      "name": "Bermondsey Bender",
+      "url": "https://open.spotify.com/track/2GOjnXqV31xkDYPSQrvLkT"
+    },
+    {
+      "album": {
         "name": "Agor",
         "url": "https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz"
       },
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 250200,
       "name": "SPIN FOREVER",
       "url": "https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC"

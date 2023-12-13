@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain]
 
 > Enjoy the JTBC drama 'IDOL : The Coup,' OSTs in a different way with the lines in the drama\. \(JTBC 드라마 '아이돌'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,235 likes - 26 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,238 likes - 26 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain]
 | 2 | [Special message from Seo Ji Han](https://open.spotify.com/track/3J4TORQwm9tcqX6FUzA2GN) | [Seo Ji Han](https://open.spotify.com/artist/75gPrnivUffQiLa2anLL4c) | [IDOL : The Coup audio message from the casts](https://open.spotify.com/album/45cNET5ON3WgoLa1r6EQsw) | 0:07 |
 | 3 | [Special message from Cha Jae Hyuk](https://open.spotify.com/track/6LInbfHqybj0kgV4iOEtNB) | [Cha Jae Hyuk](https://open.spotify.com/artist/1oFfGGG6QfcBYPweA6NIDz) | [IDOL : The Coup audio message from the casts](https://open.spotify.com/album/45cNET5ON3WgoLa1r6EQsw) | 0:09 |
 | 4 | [Finale](https://open.spotify.com/track/0oslYYo3t1iwbnoTJy1mja) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL : The Coup \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2RPRofE4Hq2f8KOLWR9B2M) | 3:07 |
-| 5 | [To U](https://open.spotify.com/track/5mvIFPXN7ImVG2jaxNnjfn) | [EUNSANG](https://open.spotify.com/artist/1UbuFUoIrtWpITdS9OMzJN) | [IDOL : The Coup \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2RPRofE4Hq2f8KOLWR9B2M) | 3:30 |
+| 5 | [To U](https://open.spotify.com/track/5mvIFPXN7ImVG2jaxNnjfn) | [EUNSANG](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [IDOL : The Coup \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2RPRofE4Hq2f8KOLWR9B2M) | 3:30 |
 | 6 | [To U](https://open.spotify.com/track/2lgy9lc8MU5PJXH2bDZdwO) | [Kim Min Kyu](https://open.spotify.com/artist/5rGTIicetUCmoXHgpU7fKz), [Cho Jun Young](https://open.spotify.com/artist/6RhT6uaJNqzRej3y1Ha5SH) | [IDOL : The Coup \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2RPRofE4Hq2f8KOLWR9B2M) | 3:30 |
-| 7 | [Tonight \(feat\. Green\)](https://open.spotify.com/track/3kI7FpzcdxS8bbd0UGtsAX) | [EUNSANG](https://open.spotify.com/artist/1UbuFUoIrtWpITdS9OMzJN), [Kim Min Kyu](https://open.spotify.com/artist/5rGTIicetUCmoXHgpU7fKz), [HONG EUNKI](https://open.spotify.com/artist/2MKcT836vEL1s5kJXJ9QNT), [Green](https://open.spotify.com/artist/6nCWlQAjygvM0xKg7rP0B0) | [IDOL : The Coup \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2RPRofE4Hq2f8KOLWR9B2M) | 2:37 |
+| 7 | [Tonight \(feat\. Green\)](https://open.spotify.com/track/3kI7FpzcdxS8bbd0UGtsAX) | [EUNSANG](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ), [Kim Min Kyu](https://open.spotify.com/artist/5rGTIicetUCmoXHgpU7fKz), [HONG EUNKI](https://open.spotify.com/artist/2MKcT836vEL1s5kJXJ9QNT), [Green](https://open.spotify.com/artist/6nCWlQAjygvM0xKg7rP0B0) | [IDOL : The Coup \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2RPRofE4Hq2f8KOLWR9B2M) | 2:37 |
 | 8 | [Cloud 9 \(IDOL: The Coup\)](https://open.spotify.com/track/1Bmoe6B9S2WAFLtyAYPqbU) | [MARS](https://open.spotify.com/artist/76PacqX55ge8eRPXe7PdJe) | [Cloud 9 \(IDOL: The Coup\)](https://open.spotify.com/album/6NHUEuDavvZnb9KAHAmmA6) | 3:10 |
 | 9 | [We Rise](https://open.spotify.com/track/4rv92w93ROUPu0ljeiNMoj) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/3YXITGpeUXUpQwdy1u37z3) | 3:29 |
 | 10 | [Remember Me](https://open.spotify.com/track/1ZLsDZmcABNOQh5SCYbegG) | [Ra.L](https://open.spotify.com/artist/2TICrL7vZOMidetbsKrbfv) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/3YXITGpeUXUpQwdy1u37z3) | 3:43 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain]
 | 25 | [Paradise](https://open.spotify.com/track/4IT5FuLhPEFlGfaApivmZi) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:28 |
 | 26 | [White Day \(IDOL: The Coup\)](https://open.spotify.com/track/0TRHKlHox8YVaBCJ6cUlGJ) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [White Day \(IDOL: The Coup\)](https://open.spotify.com/album/4Dm7MfVTVTr7toMxqZ9r9a) | 3:30 |
 
-Snapshot ID: `MCwxMTQyYmY1MmE5MWFlMzEzMDY2YjM1MTBiMjQwYTgyYjMyZmUxM2U2`
+Snapshot ID: `MCxhZGRjN2Q0ZTgyOGM3YTM3OTUzNzJmYTE5MTRjNWY2OThmYjJlN2Y1`

@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-372 songs - 1 day 10 hr 32 min
+373 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Anchor Point](https://open.spotify.com/track/6tE5zuD7eC7cV2O1IyjRLX) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Anchor Point EP](https://open.spotify.com/album/1WmE8DAfRSq16Qre7SEV1V) | 5:59 | 2023-04-28 |  |
 | [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 | 2022-10-28 | 2023-04-10 |
 | [Anything Else Feat\. Alix Edwards](https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r) | [Carlo](https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo) | [Carlito Archives](https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg) | 6:03 | 2022-06-24 | 2022-10-21 |
-| [Aperol Spiritz](https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Aperol Spiritz](https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2) | 5:15 | 2023-10-02 |  |
+| [Aperol Spiritz](https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Aperol Spiritz](https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2) | 5:15 | 2023-10-02 | 2023-12-13 |
 | [Arbora](https://open.spotify.com/track/1QgbpXgP9AGnEwTHtA51Al) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Arbora](https://open.spotify.com/album/5DLGmdDcettb6PPnfu11ch) | 3:40 | 2023-11-14 |  |
 | [Arc De Triomphe \- Brandt Brauer Frick Remix](https://open.spotify.com/track/1uiwyqzS8UMVExmJus9wn2) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Brandt Brauer Frick](https://open.spotify.com/artist/29TG40TGDvrOFQZM4adBf7) | [Ludwig \(Club Versions\)](https://open.spotify.com/album/6mtPPsbdZXFaGSpdoDgQvJ) | 6:48 | 2022-01-14 | 2022-07-22 |
 | [Atlantis](https://open.spotify.com/track/3N0Bk8zkKxuGHQslbFMmEk) | [Den Maar](https://open.spotify.com/artist/1AXeLwBPyiLoOXRLCHa4ic), [Off Night](https://open.spotify.com/artist/5qDJioeKV9r17pP8MybZoe) | [Atlantis](https://open.spotify.com/album/6upiYrO59qPQGyHgHqMkdZ) | 7:27 | 2022-05-13 | 2022-07-24 |
@@ -354,6 +354,7 @@
 | [Walking Away](https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Walking Away](https://open.spotify.com/album/7dEfqz2vpf9b77Lx4e4FkR) | 7:05 | 2021-11-26 | 2022-04-14 |
 | [Walls Around Me](https://open.spotify.com/track/3kymiOCRjfkuueb0HD2nNX) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Walls Around Me EP](https://open.spotify.com/album/0MkBm4v1xnbLiD0sh6lAJn) | 6:41 | 2021-11-26 | 2022-07-29 |
 | [Weakness Pays](https://open.spotify.com/track/5OczPhEGJ00jm8gNxAozcj) | [Paul Hazendonk](https://open.spotify.com/artist/1WvOL031HYqthvhtxb9Eh6) | [Weakness Pays](https://open.spotify.com/album/5eYEBkOogNo0i03gIWRIBO) | 6:44 | 2021-11-26 | 2022-02-13 |
+| [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/album/6Sv0gyjKWyrdij1ToQG6f0) | 4:09 | 2023-11-14 |  |
 | [Weightless \- jamesjamesjames Remix](https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv) | 4:09 | 2021-11-26 | 2023-12-11 |
 | [What Did You Do?](https://open.spotify.com/track/4GCjjTHiH5QEYnmxkX837H) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Tracee Meyn](https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly) | [What Did You Do?](https://open.spotify.com/album/3097xE7vnACYqYxXAY4v5z) | 5:36 | 2021-11-26 | 2022-06-22 |
 | [What U Doing](https://open.spotify.com/track/6bU9aYY97cCrzsx1IKdxZG) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 3:49 | 2023-10-02 |  |

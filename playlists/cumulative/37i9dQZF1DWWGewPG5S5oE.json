@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Bon",
+        "url": "https://open.spotify.com/album/1WSp8SF0pVmqAUJRGWjhP0"
+      },
+      "artists": [
+        {
+          "name": "Akira Ishiguro",
+          "url": "https://open.spotify.com/artist/2IAEUPE8iYRV5IWKh3ldvg"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296520,
+      "name": "Bon",
+      "url": "https://open.spotify.com/track/3n6PVc0hHuYbIuPaZbO4g9"
+    },
+    {
+      "album": {
         "name": "Borsalino",
         "url": "https://open.spotify.com/album/7hPxldYIIggDIeWfp9ZKME"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 251068,
       "name": "Borsalino",
       "url": "https://open.spotify.com/track/7jDMXduqVG5RPqiYVduwJr"
@@ -720,6 +738,28 @@
       "duration_ms": 333293,
       "name": "Children of Peace",
       "url": "https://open.spotify.com/track/2lnYMX79vLI5cj2LrNlRUN"
+    },
+    {
+      "album": {
+        "name": "Christmas Song II",
+        "url": "https://open.spotify.com/album/5mwTFbyzv89qTDbAlHCp2W"
+      },
+      "artists": [
+        {
+          "name": "Answer to Remember",
+          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
+        },
+        {
+          "name": "HIMI",
+          "url": "https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182530,
+      "name": "Christmas Song II",
+      "url": "https://open.spotify.com/track/7cvAdWZFK5ODIklRPHrnmO"
     },
     {
       "album": {
@@ -3074,7 +3114,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 252215,
       "name": "Spring Kiss",
       "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"

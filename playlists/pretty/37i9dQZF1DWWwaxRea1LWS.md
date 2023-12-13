@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT is easing into the Holiday rush with this decades spanning acoustic mix\. Cover: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,277,666 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,277,627 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Going to California \- Remaster](https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:32 |
 | 50 | [Don't Follow](https://open.spotify.com/track/7CI0VS6ETno5mgHi4PoCrY) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:22 |
 
-Snapshot ID: `MCxjNDg3NjRlNDE5ZDQzNTQyMTg0MmE5NjAwM2Q2NTVhZDVjMzlkNzRj`
+Snapshot ID: `MCxlMDM1NjI0ZjI1MzM4MjE4YzkyMGZlZDBhY2I4OTRmYjBmYTJmOWIw`

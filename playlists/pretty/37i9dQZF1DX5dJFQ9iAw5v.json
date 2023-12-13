@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 31656,
+  "num_followers": 31658,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjI0ZmI5YWRhNThlNTMxYWEwZDRmZjRiNGI0NzI2YTI0N2UxZjEz",
+  "snapshot_id": "MCw4MGExYjg5OGEzZTY4OGJjZjA4MzIzNDc2NmUzMGQ0N2M0MjkyNjdl",
   "tracks": [
     {
       "added_at": "2023-12-08 00:22:41",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+        }
+      ],
+      "duration_ms": 114760,
+      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
+      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 301493,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/7qMJVOUiXURGh27CQ8F2Fs"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
-        }
-      ],
-      "duration_ms": 114760,
-      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
-      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Milonga Del Fin Del Mundo",
-        "url": "https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 324720,
-      "name": "Milonga Del Fin Del Mundo",
-      "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Vo!!",
         "url": "https://open.spotify.com/album/5q1uIVIcEdu1ZoxMvCUxs4"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 353520,
       "name": "A Night in Tunisia",
       "url": "https://open.spotify.com/track/3MPjfDEQhRcG17M3MKqWfe"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 197196,
+      "name": "Encuentro",
+      "url": "https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -299,18 +299,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Encuentro",
-        "url": "https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz"
+        "name": "ROM\u00c1N",
+        "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
       },
       "artists": [
         {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+          "name": "ROM\u00c1N",
+          "url": "https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ"
+        },
+        {
+          "name": "Sergio Wagner",
+          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
         }
       ],
-      "duration_ms": 197196,
-      "name": "Encuentro",
-      "url": "https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE"
+      "duration_ms": 276249,
+      "name": "Scon",
+      "url": "https://open.spotify.com/track/75PPgwqKRWlnwPJyyhcIQ7"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -335,22 +339,66 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "ROM\u00c1N",
-        "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
+        "name": "Solo Guitarra",
+        "url": "https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU"
       },
       "artists": [
         {
-          "name": "ROM\u00c1N",
-          "url": "https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ"
-        },
-        {
-          "name": "Sergio Wagner",
-          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
         }
       ],
-      "duration_ms": 276249,
-      "name": "Scon",
-      "url": "https://open.spotify.com/track/75PPgwqKRWlnwPJyyhcIQ7"
+      "duration_ms": 175413,
+      "name": "Latin Bebop",
+      "url": "https://open.spotify.com/track/1c5jKl6KTDiz4sMh4toQAB"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "San Juan Live Sessions",
+        "url": "https://open.spotify.com/album/1ubJr6ptIPjunkPCrPIoJx"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 145601,
+      "name": "Summertime - San Juan Live Sessions",
+      "url": "https://open.spotify.com/track/4XlEKFkjAggPIEwQWEtVMz"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Milonga Del Fin Del Mundo",
+        "url": "https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 324720,
+      "name": "Milonga Del Fin Del Mundo",
+      "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Malosetti & la Colonia",
+        "url": "https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH"
+      },
+      "artists": [
+        {
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+        }
+      ],
+      "duration_ms": 368192,
+      "name": "Cleanie",
+      "url": "https://open.spotify.com/track/15SNYdk5pJfuWCVdrRRCkD"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -375,70 +423,6 @@
       "duration_ms": 493933,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Solo Guitarra",
-        "url": "https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU"
-      },
-      "artists": [
-        {
-          "name": "Luis Salinas",
-          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "Latin Bebop",
-      "url": "https://open.spotify.com/track/1c5jKl6KTDiz4sMh4toQAB"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Malosetti & la Colonia",
-        "url": "https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH"
-      },
-      "artists": [
-        {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
-        }
-      ],
-      "duration_ms": 368192,
-      "name": "Cleanie",
-      "url": "https://open.spotify.com/track/15SNYdk5pJfuWCVdrRRCkD"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "San Juan Live Sessions",
-        "url": "https://open.spotify.com/album/1ubJr6ptIPjunkPCrPIoJx"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 145601,
-      "name": "Summertime - San Juan Live Sessions",
-      "url": "https://open.spotify.com/track/4XlEKFkjAggPIEwQWEtVMz"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Bolombolo",
-        "url": "https://open.spotify.com/album/3IFEqe6eN93OVkaLOGnosX"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 284957,
-      "name": "Bolombolo",
-      "url": "https://open.spotify.com/track/15F0dvScWM4gTKHVbJDjgx"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -479,22 +463,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Cinemateca Finlandesa",
         "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
       },
@@ -515,6 +483,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
         "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Bolombolo",
+        "url": "https://open.spotify.com/album/3IFEqe6eN93OVkaLOGnosX"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 284957,
+      "name": "Bolombolo",
+      "url": "https://open.spotify.com/track/15F0dvScWM4gTKHVbJDjgx"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Bajo Piel",
         "url": "https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH"
       },
@@ -543,6 +543,26 @@
       "duration_ms": 301000,
       "name": "Willie",
       "url": "https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
+        "url": "https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Ni\u00f1o Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        }
+      ],
+      "duration_ms": 363986,
+      "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
+      "url": "https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -599,26 +619,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
-        "url": "https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Ni\u00f1o Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        }
-      ],
-      "duration_ms": 363986,
-      "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
-      "url": "https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "El Bosque Brillante",
         "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
       },
@@ -631,6 +631,42 @@
       "duration_ms": 232333,
       "name": "En Busca de la Tierra Sin Mal",
       "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "ONTOLOGY",
+        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Martin Bejerano",
+          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
+        }
+      ],
+      "duration_ms": 345370,
+      "name": "El Regreso (feat. Martin Bejerano)",
+      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+        }
+      ],
+      "duration_ms": 280635,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -655,18 +691,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Danza",
-        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
       "artists": [
         {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
         }
       ],
-      "duration_ms": 280635,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
+      "duration_ms": 140213,
+      "name": "I'm Beginning to See the Light",
+      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -699,22 +735,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        }
-      ],
-      "duration_ms": 140213,
-      "name": "I'm Beginning to See the Light",
-      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Piazzolla Plays Piazzolla",
         "url": "https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 279640,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "ONTOLOGY",
-        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Martin Bejerano",
-          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
-        }
-      ],
-      "duration_ms": 345370,
-      "name": "El Regreso (feat. Martin Bejerano)",
-      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Nude (En Vivo)",
-        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Est\u00e9vez",
-          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
-        }
-      ],
-      "duration_ms": 305108,
-      "name": "Learning the Blues - En Vivo",
-      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Swing Summit",
         "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 273213,
       "name": "Swing Summit",
       "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Nude (En Vivo)",
+        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Est\u00e9vez",
+          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
+        }
+      ],
+      "duration_ms": 305108,
+      "name": "Learning the Blues - En Vivo",
+      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1"
-      },
-      "artists": [
-        {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
-        }
-      ],
-      "duration_ms": 364453,
-      "name": "Full Glasses",
-      "url": "https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Umbral de M\u00ed",
         "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 296653,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1"
+      },
+      "artists": [
+        {
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+        }
+      ],
+      "duration_ms": 364453,
+      "name": "Full Glasses",
+      "url": "https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Bye Bye Blackbird",
-        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
+        "name": "Las Tardecitas de Miton's",
+        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
       },
       "artists": [
         {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+          "name": "Adrian Iaies Trio",
+          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
         }
       ],
-      "duration_ms": 188345,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
+      "duration_ms": 368586,
+      "name": "Cafetin de Buenos Aires",
+      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Las Tardecitas de Miton's",
-        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
       },
       "artists": [
         {
-          "name": "Adrian Iaies Trio",
-          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
         }
       ],
-      "duration_ms": 368586,
-      "name": "Cafetin de Buenos Aires",
-      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
+      "duration_ms": 188345,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Inocencia Repetida",
-        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
       "artists": [
         {
-          "name": "Ignacio Montoya Carlotto",
-          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
         }
       ],
-      "duration_ms": 157533,
-      "name": "Coplas de Luna Quieta",
-      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
+      "duration_ms": 405604,
+      "name": "La Novena",
+      "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
     }
   ],
   "unique_name": "Jazz Argentino",

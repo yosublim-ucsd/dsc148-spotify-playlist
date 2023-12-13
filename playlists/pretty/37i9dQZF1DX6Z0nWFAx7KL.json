@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47052,
+  "num_followers": 47059,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjRjMjU3N2E3OWY5YjU3YjMyMjM1OGFhNDdmNmNkMzc3ODc1NzFi",
+  "snapshot_id": "MCw5YTNmMWZlMDRlN2EyNzY2MTUxZDc0MDRiM2YwZGU2NzJmNzNkODQ0",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Botanica",
-        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 187377,
-      "name": "Botanica",
-      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Never Give Up On You",
         "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 216538,
       "name": "Never Give Up On You",
       "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Botanica",
+        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 187377,
+      "name": "Botanica",
+      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "See You On The Other Side",
+        "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 241061,
+      "name": "See You On The Other Side",
+      "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Scent of Wood (Bound to Divide Remix)",
         "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
       },
@@ -1335,18 +1351,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "See You On The Other Side",
-        "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
       },
       "artists": [
         {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+          "name": "Fredrik Ferrier",
+          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+        },
+        {
+          "name": "Electric Pineapple",
+          "url": "https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK"
         }
       ],
-      "duration_ms": 241061,
-      "name": "See You On The Other Side",
-      "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
+      "duration_ms": 174893,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1363,26 +1383,6 @@
       "duration_ms": 142363,
       "name": "Oasis de Gafsa",
       "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1411,22 +1411,74 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
       },
       "artists": [
         {
-          "name": "Fredrik Ferrier",
-          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
         },
         {
-          "name": "Electric Pineapple",
-          "url": "https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK"
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Rest of My Life",
+        "url": "https://open.spotify.com/album/3Gq46ztXW7cqnXOmTydi1R"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+        }
+      ],
+      "duration_ms": 139010,
+      "name": "Rest of My Life",
+      "url": "https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1451,58 +1503,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
-      },
-      "artists": [
-        {
-          "name": "Skye Holland",
-          "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
-        },
-        {
-          "name": "Steve Kroeger",
-          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
-        }
-      ],
-      "duration_ms": 189421,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "A Radiant Sign",
         "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
       },
@@ -1523,18 +1523,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
       },
       "artists": [
         {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+          "name": "Skye Holland",
+          "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
+        },
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
         }
       ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+      "duration_ms": 189421,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
     },
     {
       "added_at": "2023-12-08 00:09:00",

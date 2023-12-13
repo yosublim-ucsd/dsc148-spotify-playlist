@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 177824,
+  "num_followers": 177870,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTg1YTVlNGMzNDU2M2NjZmU0NTM2OWU0N2NlYjlhOGNiOWZhNDNj",
+  "snapshot_id": "MCw5YmYwNTIwZTRiY2RlOWIxOGZlMGZhZGUxYTZkZjc0ZGYyNGI4Y2Qy",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Por un Momento",
-        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
-      },
-      "artists": [
-        {
-          "name": "The cXurch",
-          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
-        },
-        {
-          "name": "Villanova",
-          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Por un Momento",
-      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Para Amarte",
         "url": "https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C"
       },
@@ -1395,18 +1375,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Todo Por Ti",
-        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+        "name": "Por un Momento",
+        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
       },
       "artists": [
         {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+          "name": "The cXurch",
+          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
+        },
+        {
+          "name": "Villanova",
+          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
         }
       ],
-      "duration_ms": 148988,
-      "name": "Todo Por Ti",
-      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+      "duration_ms": 211600,
+      "name": "Por un Momento",
+      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1427,6 +1411,22 @@
       "duration_ms": 186660,
       "name": "NO ME MOVER\u00c9",
       "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Todo Por Ti",
+        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 148988,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1471,30 +1471,6 @@
       "duration_ms": 241640,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Soy Tan Feliz",
-        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "DOMINICO GONZALEZ",
-          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
-        },
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 266571,
-      "name": "Soy Tan Feliz",
-      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1555,6 +1531,30 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Soy Tan Feliz",
+        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 266571,
+      "name": "Soy Tan Feliz",
+      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "TBT",
         "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
       },
@@ -1571,30 +1571,6 @@
       "duration_ms": 210266,
       "name": "TBT",
       "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Cielo",
-        "url": "https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Angel Brown",
-          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
-        },
-        {
-          "name": "Ada Betsabe",
-          "url": "https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1647,22 +1623,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Medicina",
-        "url": "https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 186602,
-      "name": "Medicina",
-      "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Vine a Salvarte",
         "url": "https://open.spotify.com/album/2gO95dqmltMXpDEGTZdvNu"
       },
@@ -1679,6 +1639,38 @@
       "duration_ms": 209458,
       "name": "Vine a Salvarte",
       "url": "https://open.spotify.com/track/5Kfw2HfUHc0amjBI7aM4uC"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Medicina",
+        "url": "https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 186602,
+      "name": "Medicina",
+      "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "No, No",
+        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 176158,
+      "name": "No, No",
+      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1719,18 +1711,42 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "No, No",
-        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet"
       },
       "artists": [
         {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Angel Brown",
+          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
+        },
+        {
+          "name": "Ada Betsabe",
+          "url": "https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT"
         }
       ],
-      "duration_ms": 176158,
-      "name": "No, No",
-      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
+      "duration_ms": 188800,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Mi Cielo",
+        "url": "https://open.spotify.com/album/37vtl31mdLh338b2xDh0Vx"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/0am2qeRMSo0KF3Q8SBjdhu"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1767,22 +1783,6 @@
       "duration_ms": 240500,
       "name": "Picheo",
       "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Mi Cielo",
-        "url": "https://open.spotify.com/album/37vtl31mdLh338b2xDh0Vx"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Mi Cielo",
-      "url": "https://open.spotify.com/track/0am2qeRMSo0KF3Q8SBjdhu"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Tu Siervo Pa",
+        "url": "https://open.spotify.com/album/2UdbIIyXUaN65csaScYVq8"
+      },
+      "artists": [
+        {
+          "name": "Melvin Ayala",
+          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
+        }
+      ],
+      "duration_ms": 310574,
+      "name": "Amor de Hermano",
+      "url": "https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Se Enamor\u00f3",
         "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 219500,
       "name": "Se Enamor\u00f3",
       "url": "https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Tu Siervo Pa",
-        "url": "https://open.spotify.com/album/2UdbIIyXUaN65csaScYVq8"
-      },
-      "artists": [
-        {
-          "name": "Melvin Ayala",
-          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
-        }
-      ],
-      "duration_ms": 310574,
-      "name": "Amor de Hermano",
-      "url": "https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO"
     },
     {
       "added_at": "2022-08-27 05:04:45",

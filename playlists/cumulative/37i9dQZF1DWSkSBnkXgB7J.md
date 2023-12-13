@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-104 songs - 5 hr 35 min
+105 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [A'yshtiny](https://open.spotify.com/track/4zfHwTLD44LYbz7HH1Lysg) | [Momen Rihan](https://open.spotify.com/artist/0CyOshhqVfUfmaBviztIeU) | [A'yshtiny](https://open.spotify.com/album/3tdL688raITLMsbWZ8tZxG) | 3:53 | 2022-10-10 |  |
 | [Akher Khiali](https://open.spotify.com/track/41FdOkXx25kXPZCfE9HYvl) | [Bader Alhomoudi](https://open.spotify.com/artist/0g7Qe6lsLO9rAO4GoWqfd6) | [Akher Khiali](https://open.spotify.com/album/0d4BpdGb5G1ljZLppOmzmy) | 2:49 | 2022-06-24 |  |
 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 | 2022-06-24 |  |
-| [AMANA](https://open.spotify.com/track/0rQFZ5pBJHxsMbF6bjTa3k) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [AMANA](https://open.spotify.com/album/7c2J6uQQaokBaxAEPQP8mK) | 2:46 | 2023-08-03 |  |
+| [AMANA](https://open.spotify.com/track/0rQFZ5pBJHxsMbF6bjTa3k) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [AMANA](https://open.spotify.com/album/7c2J6uQQaokBaxAEPQP8mK) | 2:46 | 2023-08-03 | 2023-12-13 |
+| [AMANA](https://open.spotify.com/track/0DAnkEea6lZ0CFlZMHWop0) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [AMANA](https://open.spotify.com/album/2TkMBE1z1BwYwuir446P1r) | 2:46 | 2023-10-05 |  |
 | [April](https://open.spotify.com/track/2cqcyd0XgDqiJhPsVtTW8e) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 3:42 | 2022-06-24 |  |
 | [Astahlik](https://open.spotify.com/track/2qCz9zvGLV479cUTzeXjNq) | [Ahmed Burhan](https://open.spotify.com/artist/7pWG2cgMJbZmMd2a0TqZJ0) | [Astahlik](https://open.spotify.com/album/20vCcB2a5j1MSStibILx1n) | 4:03 | 2022-06-24 | 2023-06-07 |
 | [Astronaut in the Ocean](https://open.spotify.com/track/27ErCu5vx463lPyabA87oi) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Astronaut in the Ocean](https://open.spotify.com/album/4JupiYe3WiIJwzA0BxXvXl) | 2:14 | 2022-06-24 | 2022-11-09 |

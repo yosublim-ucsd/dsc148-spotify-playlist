@@ -1,12 +1,12 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6271,
+  "num_followers": 6275,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWNjYTU1ODM4OWY4YzM0ZmQ0MTU0YjE5OWNhOGVmYzc5MzhjZTg2",
+  "snapshot_id": "MCw1MmM5MDNmMjA4MzU4YWNkYWFjNTlhNjgwOWRjNjRiZjRlM2YzYjIw",
   "tracks": [
     {
       "added_at": "2023-11-03 06:14:32",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
-        "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "FLOWER SHOWER",
         "url": "https://open.spotify.com/album/6WEd55Evvtz5ZTMogdK8Uu"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 188373,
       "name": "FLOWER SHOWER",
       "url": "https://open.spotify.com/track/7sjnURvuXBKEdM3fw698iq"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
+        "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "HOODIE E BANBAJI",
-        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
+        "name": "NEW TOMORROW",
+        "url": "https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU"
       },
       "artists": [
         {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+          "name": "FANTASY BOYS",
+          "url": "https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU"
         }
       ],
-      "duration_ms": 189973,
-      "name": "HOODIE E BANBAJI",
-      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
+      "duration_ms": 230933,
+      "name": "New Tomorrow",
+      "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "NEW TOMORROW",
-        "url": "https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU"
+        "name": "HOODIE E BANBAJI",
+        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
       },
       "artists": [
         {
-          "name": "FANTASY BOYS",
-          "url": "https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU"
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
         }
       ],
-      "duration_ms": 230933,
-      "name": "New Tomorrow",
-      "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
+      "duration_ms": 189973,
+      "name": "HOODIE E BANBAJI",
+      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
     },
     {
       "added_at": "2023-11-03 06:14:32",

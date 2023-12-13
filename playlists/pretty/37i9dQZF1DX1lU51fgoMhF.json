@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 182785,
+  "num_followers": 182927,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGJjODMyNDZmNDNkNzMyNWIzYjExM2MzNTA0OTc3NDFmMDhiNDkw",
+  "snapshot_id": "MCwwM2M0NTA5ZDAxOWM1YTE4MTI2M2Y0N2M2NWRmOWUxZTIzY2MwZjA3",
   "tracks": [
     {
       "added_at": "2023-09-14 10:27:59",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 251300,
-      "name": "Blueprint",
-      "url": "https://open.spotify.com/track/2JzOF5Ex1BfufuZ6DgvOPe"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 186573,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 251300,
+      "name": "Blueprint",
+      "url": "https://open.spotify.com/track/2JzOF5Ex1BfufuZ6DgvOPe"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "Summer Special [Flip That]",
-        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Flip That",
-      "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Mixtape : Time Out",
         "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
       },
@@ -1063,6 +1031,22 @@
       "duration_ms": 175293,
       "name": "Mixtape : Time Out",
       "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1083,6 +1067,38 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "ZERO : FEVER Part.1",
+        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/2dPETee06bbHulsABk0h7I"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "Summer Special [Flip That]",
+        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Flip That",
+      "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "FACE - The 1st Album",
         "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 190328,
       "name": "One of Those Nights",
       "url": "https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "ZERO : FEVER Part.1",
-        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/2dPETee06bbHulsABk0h7I"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "THE FIRST STEP : TREASURE EFFECT",
-        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "COME TO ME",
-      "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Love Never Dies",
         "url": "https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 185311,
       "name": "Love or Die",
       "url": "https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "COME TO ME",
+      "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "THE FIRST STEP : TREASURE EFFECT",
-        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+        "name": "Bare&Rare, Pt. 1",
+        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 205080,
-      "name": "B.L.T (BLING LIKE THIS)",
-      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
+      "duration_ms": 186906,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Bare&Rare, Pt. 1",
-        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 186906,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
+      "duration_ms": 205080,
+      "name": "B.L.T (BLING LIKE THIS)",
+      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "WE",
-        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "AH YEAH",
-      "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "The Road : Keep on Going - The 11th Album Vol.1",
         "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 199213,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "AH YEAH",
+      "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "The 2nd Mini Album 'Summer Vibe'",
-        "url": "https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "LOVEADE",
-      "url": "https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Summer Queen",
         "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 217320,
       "name": "Chi Mat Ba Ram",
       "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "The 2nd Mini Album 'Summer Vibe'",
+        "url": "https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "LOVEADE",
+      "url": "https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1660,7 +1660,7 @@
           "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
         },
         {
-          "name": "ANYUJIN (IVE)",
+          "name": "ANYUJIN",
           "url": "https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE"
         },
         {

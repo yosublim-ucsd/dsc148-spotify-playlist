@@ -17150,10 +17150,6 @@
       },
       "artists": [
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
           "name": "LEALL",
           "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         },
@@ -17164,6 +17160,10 @@
         {
           "name": "Ryu, the Runner",
           "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
           "name": "Babidi",

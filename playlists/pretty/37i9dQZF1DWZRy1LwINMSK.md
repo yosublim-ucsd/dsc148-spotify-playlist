@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Harry Nach & Aqua VS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,718 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,819 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 8 | [Mafia Chilena: ITALIA](https://open.spotify.com/track/2MKiUXYX1DHJRkuLKphm0B) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Mafia Chilena](https://open.spotify.com/album/24XYnzLNNmWOhyVoLLmjJk) | 2:25 |
 | 9 | [Mafia Chilena: WHIPPING](https://open.spotify.com/track/30O2NJ4xRG91Y50dI8A6mT) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Mafia Chilena: WHIPPING](https://open.spotify.com/album/2zbI7iT8G0YhWntW7bvFnN) | 3:00 |
 | 10 | [On God](https://open.spotify.com/track/5LuePRU2YArXpkCoU0cXaX) | [C\. Flee](https://open.spotify.com/artist/2ai7pfLQa1AFe6Pl8USsim), [Keed Baby](https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [On God](https://open.spotify.com/album/1vociHnTa4dFb6K5qYwrIp) | 2:57 |
-| 11 | [MONEY](https://open.spotify.com/track/1R3ctOVgBcWG8Z06dXzkrO) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk) | [MONEY](https://open.spotify.com/album/5o1UerVaeoTNUpz7ryr8Yj) | 3:19 |
+| 11 | [MONEY](https://open.spotify.com/track/1R3ctOVgBcWG8Z06dXzkrO) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk) | [MONEY](https://open.spotify.com/album/5o1UerVaeoTNUpz7ryr8Yj) | 3:20 |
 | 12 | [TROMPETAS \(feat\. King Savagge & Best\)](https://open.spotify.com/track/7FwUyEny91YMSWGPyi99dG) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TROMPETAS \(feat\. King Savagge & Best\)](https://open.spotify.com/album/7pm56gmohoxcfT1sGB41DR) | 2:46 |
 | 13 | [Mafia Chilena: NEWYORK GABANA](https://open.spotify.com/track/6m9AQlbsgXtkdzInoGovOi) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Mafia Chilena: NEWYORK GABANA](https://open.spotify.com/album/3koKjQhDGFhnic9KXMsmn0) | 1:59 |
 | 14 | [Joseando en el Block](https://open.spotify.com/track/6x9HJy6wQzqUZENgmnrKzr) | [Bastian la Amenaza](https://open.spotify.com/artist/1G5XkuGkIBMQYVjgXhjLWy), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Joseando en el Block](https://open.spotify.com/album/3pYiF4Z3xh1RrJpgU9UGBJ) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [Aburrido](https://open.spotify.com/track/1QX8IaUVnmdZo8jqyGyZfZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup), [Inti Illimani Histórico](https://open.spotify.com/artist/3ofeDjH3XD66EbnLIHWk8i) | [Aburrido](https://open.spotify.com/album/2MCIfa3wYX8ru8do68PxfJ) | 3:49 |
 | 100 | [MARILÚ](https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [MARILÚ](https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm) | 2:45 |
 
-Snapshot ID: `MCxlOWVjMzc4YzY0MjlhYzk1YWZhYjcwZGZhMGM4OTdmMGJmYTJhMTQ3`
+Snapshot ID: `MCw5ZTJkNTY1NjU4ZTZjN2M2NGY5MmM5NjFjNWEwOTg0NzZmYTNjNWMx`

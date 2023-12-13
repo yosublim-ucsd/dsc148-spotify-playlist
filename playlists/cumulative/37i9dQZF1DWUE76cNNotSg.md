@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-393 songs - 1 day 1 hr 29 min
+394 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-18 |  |
 | [Kin](https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 5:24 | 2020-12-22 |  |
 | [Kinda Lovely](https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Low Season](https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe) | 3:57 | 2020-12-22 | 2023-10-23 |
-| [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 | 2020-12-22 |  |
+| [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 | 2020-12-22 | 2023-12-13 |
 | [Kyoto](https://open.spotify.com/track/2QXvZBjs59MbSQ20GxoqA2) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [Kyoto](https://open.spotify.com/album/1qR5wPZbSGwhQso0PD8Zye) | 4:00 | 2020-12-22 | 2022-07-23 |
 | [La Perla \- Edit](https://open.spotify.com/track/6CldyxMa4XuHWAhAlaPWmt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 3:46 | 2021-03-19 | 2022-09-05 |
 | [La piscine](https://open.spotify.com/track/1iSzIT6j7be9u0oNTHutRn) | [Hypnolove](https://open.spotify.com/artist/1MRkDoyt3FmhmZNgnwkfLf) | [Plexus](https://open.spotify.com/album/1LnK1kq4zWwO5MEuJndzT0) | 3:48 | 2020-12-22 | 2022-04-20 |
@@ -379,6 +379,7 @@
 | [Water \- FKJ Remix](https://open.spotify.com/track/04bAqpyuPCsgZAfnbsGDXx) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Water \(FKJ Remix\)](https://open.spotify.com/album/3Y5zUsDwVrbVM408CAKXiz) | 3:19 | 2020-12-22 | 2022-07-29 |
 | [We Belong \- Odesza Remix](https://open.spotify.com/track/4tO93FtEpqdVA0b9RXK4xI) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Katie Herzig](https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3) | [We Belong \(Odesza Remix\)](https://open.spotify.com/album/4CXye0cetb3quBfN2PE5nb) | 5:18 | 2020-12-22 | 2023-11-18 |
 | [We Moved \- Edit](https://open.spotify.com/track/3Cb3u4BkHWcRVPp04zDsx9) | [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ), [Benja Lyman](https://open.spotify.com/artist/5eSeBQU6hhknzhLt4nLaEN) | [We Moved \(Edit\)](https://open.spotify.com/album/3Tzt6e2j5gBNiVkX4AYgIS) | 3:03 | 2020-12-22 | 2022-04-18 |
+| [We Stayed Up All Night](https://open.spotify.com/track/4Tq3QocH9Okvn4wDgTlkR5) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/0iKdUVQXTroQwMLsCEaVPy) | 4:25 | 2023-12-08 |  |
 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 | 2020-12-22 | 2023-12-12 |
 | [What Falling in Love Is For](https://open.spotify.com/track/3SxAg03DY1UYpP8RABjdDP) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [What Falling in Love Is For](https://open.spotify.com/album/5KFYPrdsq0FtuGtEH4jZUE) | 2:54 | 2020-12-22 | 2022-10-13 |
 | [What Falling in Love Is For](https://open.spotify.com/track/6TYT1WKmZXZOkZDqDoNuAX) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [What Falling in Love Is For](https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68) | 2:54 | 2023-03-20 |  |

@@ -4,10 +4,11 @@
 
 > und macht laune
 
-141 songs - 6 hr 38 min
+142 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [3 Haselnüsse](https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1) | [Jaques Raupé](https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [3 Haselnüsse](https://open.spotify.com/album/5UXeyjZUXUcpgRvb4E4a41) | 2:28 | 2023-12-12 |  |
 | [33 Max Verstappen](https://open.spotify.com/track/4nKRZAONxGgcKCMin730Ai) | [Carte Blanq](https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o), [Maxx Power](https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5) | [33 Max Verstappen](https://open.spotify.com/album/5ph3neJzadn49q1YxktC8V) | 2:50 | 2023-10-03 | 2023-11-18 |
 | [33 Max Verstappen](https://open.spotify.com/track/6OoGxii9mSxyt4JGab8PsG) | [Carte Blanq](https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o), [Maxx Power](https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5) | [33 Max Verstappen](https://open.spotify.com/album/7lBGYyVZ0yhpqZ3ol1CQ7i) | 2:50 | 2023-09-26 | 2023-09-30 |
 | [61 Grad \(Deep House RMX\)](https://open.spotify.com/track/5HsrYtb503rCCWyZvGtf4v) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7) | [61 Grad \(Deep House RMX\)](https://open.spotify.com/album/4lT60ivI572gAiaChQ6cCw) | 1:53 | 2023-07-21 |  |
@@ -58,7 +59,7 @@
 | [Friesenjung](https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [Friesenjung](https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn) | 2:26 | 2023-07-21 |  |
 | [Get Shaky](https://open.spotify.com/track/267DliVFe67u89luc9v6UD) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/11Xrum0ysuitc8vtBrlmQM) | 3:57 | 2023-09-08 |  |
 | [Get Shaky](https://open.spotify.com/track/5ZNa6S7agmCmaEnxIHE73m) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/2cBSMHLqs6Zaj3IIUrGTnD) | 3:57 | 2023-07-21 | 2023-08-23 |
-| [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 | 2023-07-21 |  |
+| [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 | 2023-07-21 | 2023-12-13 |
 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 | 2023-10-03 | 2023-10-29 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-07-21 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-07-21 |  |

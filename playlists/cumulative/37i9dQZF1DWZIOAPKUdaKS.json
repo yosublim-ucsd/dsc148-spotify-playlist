@@ -2007,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Come close",
+        "url": "https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6"
+      },
+      "artists": [
+        {
+          "name": "Korey Banks",
+          "url": "https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Come close",
+      "url": "https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt"
+    },
+    {
+      "album": {
         "name": "Common Ground",
         "url": "https://open.spotify.com/album/1SZeNgnZXcm31SvYRsWWJY"
       },
@@ -2836,6 +2854,24 @@
       "duration_ms": 163413,
       "name": "Ebbe",
       "url": "https://open.spotify.com/track/2tMAQUBzGA8VqP8sLJvkdS"
+    },
+    {
+      "album": {
+        "name": "Echoes Of Forgotten Times",
+        "url": "https://open.spotify.com/album/2gerydg3DbPYBjAsAnvgpS"
+      },
+      "artists": [
+        {
+          "name": "Joaquim Azevedo",
+          "url": "https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Echoes Of Forgotten Times",
+      "url": "https://open.spotify.com/track/7HlfgPAVPHtUAH2joYyyAC"
     },
     {
       "album": {
@@ -3748,6 +3784,24 @@
       "duration_ms": 119624,
       "name": "Forever Changed",
       "url": "https://open.spotify.com/track/6u20TgouBczWOOlnR6703e"
+    },
+    {
+      "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/3UO20taGCEiekfz1zBnQOI"
+      },
+      "artists": [
+        {
+          "name": "Domitila James",
+          "url": "https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/45sfMp43IgWGmDTIMLmQVP"
     },
     {
       "album": {
@@ -6581,6 +6635,24 @@
     },
     {
       "album": {
+        "name": "Meditation At My Piano",
+        "url": "https://open.spotify.com/album/4CHtOAO19iANd8BS47Ttdh"
+      },
+      "artists": [
+        {
+          "name": "Vincent Pino",
+          "url": "https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167750,
+      "name": "Meditation At My Piano",
+      "url": "https://open.spotify.com/track/7sl3E8PLvMf15zgImYCFy5"
+    },
+    {
+      "album": {
         "name": "Melodrome",
         "url": "https://open.spotify.com/album/2ZEJfWjjBJBhENAQKKkmQk"
       },
@@ -7788,6 +7860,24 @@
       "duration_ms": 144306,
       "name": "Out the Dark",
       "url": "https://open.spotify.com/track/4hRsKj4mQgoJPYuZtj84FL"
+    },
+    {
+      "album": {
+        "name": "Over The Fields",
+        "url": "https://open.spotify.com/album/0jClBDY4X9H1YixLl3sbhH"
+      },
+      "artists": [
+        {
+          "name": "Tamara Eden",
+          "url": "https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165394,
+      "name": "Over The Fields",
+      "url": "https://open.spotify.com/track/0t0mP5UyvLADSM7E97iJCl"
     },
     {
       "album": {
@@ -11197,6 +11287,24 @@
     },
     {
       "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/408lspWbRDyL2gdcgXsGZA"
+      },
+      "artists": [
+        {
+          "name": "Carl Fredman",
+          "url": "https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Transition",
+      "url": "https://open.spotify.com/track/1iQNwvTF6FXb28I585ATyJ"
+    },
+    {
+      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/7gaX1sOn0G412TvHVdZBtX"
       },
@@ -11536,10 +11644,28 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 154625,
       "name": "Until The Blissful Dawn",
       "url": "https://open.spotify.com/track/0H6sCVuzUEVuXwbeuChYvz"
+    },
+    {
+      "album": {
+        "name": "When You Dream",
+        "url": "https://open.spotify.com/album/4wJjh6QsoPWdDObVTHHJMh"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Until The Blissful Dawn",
+      "url": "https://open.spotify.com/track/0kF1mTANh8DDXGqHANSodq"
     },
     {
       "album": {
@@ -12173,6 +12299,24 @@
     },
     {
       "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/76Gi2XBhnCQVowOBhUhu6T"
+      },
+      "artists": [
+        {
+          "name": "Myron Andersen",
+          "url": "https://open.spotify.com/artist/3sZcw1QKEb35aR9fur7WNo"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157547,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/4Z9NDrWiibsmI4tw2b2XkX"
+    },
+    {
+      "album": {
         "name": "Winged Melancholy",
         "url": "https://open.spotify.com/album/4XXfes67gExeafFINOtoPL"
       },
@@ -12206,6 +12350,24 @@
       "duration_ms": 171596,
       "name": "Winona",
       "url": "https://open.spotify.com/track/3E8FaarMpFzi6HiSRUWSrV"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
+      },
+      "artists": [
+        {
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
     },
     {
       "album": {

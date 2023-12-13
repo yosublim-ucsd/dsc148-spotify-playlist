@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "<a href=\"https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=cUv1GfzoRpawWnAnf9b3pQ\">Prinx Emmanuel</a> takes over the Testify playlist with music for seasons of gratitude. ",
-  "name": "Testify Takeover",
+  "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx?si=Tv2vamPPQz61IxKbBvrFYw\">Gabriel Eziashi</a> ",
+  "name": "Testify",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 511207,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 209539,
       "name": "Afayo",
       "url": "https://open.spotify.com/track/7a1hq80YixqQiDqCKC2uHc"
@@ -72,7 +72,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 374780,
       "name": "Again",
       "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
@@ -94,7 +94,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 159428,
       "name": "AH-GA-LEO",
       "url": "https://open.spotify.com/track/4ZQ1L9fot5bU5h8EIfChnS"
@@ -152,7 +152,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 167106,
       "name": "Amarachi",
       "url": "https://open.spotify.com/track/4Mv5S4DBpeNtYTa4kjmxmZ"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 210291,
       "name": "Away",
       "url": "https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 324703,
       "name": "B'Ola - Honour",
       "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 176082,
       "name": "Bigger - odogwu",
       "url": "https://open.spotify.com/track/4g5KxATLbcyOGNpOYFErU7"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 163827,
       "name": "Bire",
       "url": "https://open.spotify.com/track/6PGTBSagHYqLOMbuCjaI6H"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 162569,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 160463,
       "name": "Bo Ta Joor",
       "url": "https://open.spotify.com/track/3RztRSbwhcy0LwgR6xcGNu"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 156631,
       "name": "Bololo",
       "url": "https://open.spotify.com/track/3SMnqyuEfq6HImqbnyAjyG"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 696179,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 138399,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/0q4CLQrdICC3mu073vZyfJ"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 638798,
       "name": "Calling My Name (I'm A Soldier) - Live",
       "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 204094,
       "name": "Capable God",
       "url": "https://open.spotify.com/track/25sRKHPOYj8XsDXbxxdx3y"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 301651,
       "name": "CHIOMA - AFRO VIBE",
       "url": "https://open.spotify.com/track/5OjleVny844yOAziATX4fR"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 184232,
       "name": "Come & See - Remix",
       "url": "https://open.spotify.com/track/5M2GkO1Erg3q1gZbDNQyEo"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 211764,
       "name": "Commando",
       "url": "https://open.spotify.com/track/72cRQRzXJLUM3Rbf1vyxtz"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 205712,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/1ZCgUvDTcHTRsl0SqZyWSw"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 299176,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 294053,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/1aNryETX3dSY4A0M8BIqPE"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 160000,
       "name": "CORRECT",
       "url": "https://open.spotify.com/track/0akvZghvgczbBpV09jxu08"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 208575,
       "name": "Daddy Wey Dey Pamper - Gbedu Version",
       "url": "https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 176571,
       "name": "Daily",
       "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 162000,
       "name": "Dance",
       "url": "https://open.spotify.com/track/1FNxXZfoIIl0FFwrWLibSL"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 324572,
       "name": "Dansaki",
       "url": "https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 172027,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 232071,
       "name": "Dependable God (Medley)",
       "url": "https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 153780,
       "name": "Doh Doh Doh",
       "url": "https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 176502,
       "name": "Ekele",
       "url": "https://open.spotify.com/track/3sn05ROGlflFz4hX2wu1X5"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 417169,
       "name": "Ekwueme",
       "url": "https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 195285,
       "name": "Elijah Level",
       "url": "https://open.spotify.com/track/5IjmyW8WYcxQ7apbudLqo9"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 173262,
       "name": "Elijah Level (with Limoblaze)",
       "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 657059,
       "name": "Fragrance to Fire",
       "url": "https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 149549,
       "name": "God No Go Shame Us",
       "url": "https://open.spotify.com/track/6oHUaQylY7C9vpLDrLR32C"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 189714,
       "name": "GOOD GOOD GOD",
       "url": "https://open.spotify.com/track/3tMVmejZwzphx1kjnWqYLw"
@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "I Am Yours",
+        "url": "https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD"
+      },
+      "artists": [
+        {
+          "name": "Tobass Adolphus",
+          "url": "https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237631,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08"
+    },
+    {
+      "album": {
         "name": "I Get",
         "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
       },
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 210124,
       "name": "I Get",
       "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 370000,
       "name": "I Know Who I Am - Live",
       "url": "https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD"
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 142915,
       "name": "I Take",
       "url": "https://open.spotify.com/track/6Ov8i3OdWpmaPYefzBbhAN"
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 298134,
       "name": "If No Be You",
       "url": "https://open.spotify.com/track/2l43vVH3G9IBxNx2H0c8Xe"
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 218166,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR"
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 319346,
       "name": "Imela",
       "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 354572,
       "name": "Imela (feat. Enitan Adaba)",
       "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 369529,
       "name": "Jesus at the Centre",
       "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 255384,
       "name": "Jesus Oh",
       "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 175333,
       "name": "Jireh",
       "url": "https://open.spotify.com/track/02tEWGFU203kUXfxDsuHQs"
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 126923,
       "name": "Joy in Chaos (Extended)",
       "url": "https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5"
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 360277,
       "name": "Kadosh Reprise",
       "url": "https://open.spotify.com/track/3f5ofl31bMBhueyCvQL2C5"
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 151836,
       "name": "Kpeme",
       "url": "https://open.spotify.com/track/7A2nBqZ1wxJX49n0TYrwtq"
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 124840,
       "name": "Kumama Papa - Tiktok refix version",
       "url": "https://open.spotify.com/track/2Pu5TsQ90hDVUZmuNDnzJc"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 591333,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 233404,
       "name": "Marvelous God",
       "url": "https://open.spotify.com/track/4pgOw2cCRtS0BWgn0lMdOZ"
@@ -1864,7 +1882,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 258062,
       "name": "Maximum Enjoyment",
       "url": "https://open.spotify.com/track/3hZ7ENafBwo41O5D2mbb3c"
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 1005517,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
@@ -1934,7 +1952,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 290530,
       "name": "Miracle Worker (feat. Nathaniel Bassey)",
       "url": "https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT"
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 295262,
       "name": "More Than Gold",
       "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 298306,
       "name": "Most High - African Worship Medley/Live",
       "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 148146,
       "name": "My God Is Good - Double Double Remix/Live",
       "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
@@ -2072,7 +2090,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 215876,
       "name": "My Trust Is in You",
       "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 164155,
       "name": "Na You",
       "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 182260,
       "name": "NEW LIFE",
       "url": "https://open.spotify.com/track/31WTMkVgApFF3lrAguVOE5"
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 157335,
       "name": "Oh the day",
       "url": "https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc"
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 436321,
       "name": "Olorun Agbaye - You Are Mighty",
       "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 257645,
       "name": "Omemma",
       "url": "https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk"
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 224000,
       "name": "On God",
       "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
@@ -2550,7 +2568,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 207946,
       "name": "Papa",
       "url": "https://open.spotify.com/track/1L95FAkZLM4pHa5kBBdU94"
@@ -2568,7 +2586,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 157500,
       "name": "Pariwo",
       "url": "https://open.spotify.com/track/57MJfukjIG6gh9G0MCITjM"
@@ -2608,7 +2626,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 154588,
       "name": "Pretty Day",
       "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
@@ -2670,7 +2688,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 157189,
       "name": "Put it On God",
       "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 150877,
       "name": "Salem",
       "url": "https://open.spotify.com/track/7CD0HthTp42ZoopBcfNa1O"
@@ -2766,7 +2784,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 193200,
       "name": "Standing",
       "url": "https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG"
@@ -2788,7 +2806,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 228806,
       "name": "Story Story",
       "url": "https://open.spotify.com/track/3CtEGDtDyQCj0kJHI21ZDP"
@@ -2854,7 +2872,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 136276,
       "name": "Talk N Do",
       "url": "https://open.spotify.com/track/6X2jbH1M9sA8x2B2e37TKH"
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 133053,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/3lZqJ8lyCWUobZLJ0vIr0w"
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 370964,
       "name": "Too Faithful",
       "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
@@ -3014,6 +3032,24 @@
       "duration_ms": 375625,
       "name": "UnguThixo Onomusa (Live)",
       "url": "https://open.spotify.com/track/12SS9xcUrNBWWiMIGCGRNQ"
+    },
+    {
+      "album": {
+        "name": "Sibonga Umusa (Live)",
+        "url": "https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3"
+      },
+      "artists": [
+        {
+          "name": "Sneziey",
+          "url": "https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375625,
+      "name": "UnguThixo Onomusa (Live)",
+      "url": "https://open.spotify.com/track/1CKjWM9UvF5aemROunyZLi"
     },
     {
       "album": {
@@ -3079,6 +3115,24 @@
     },
     {
       "album": {
+        "name": "Shemoneh",
+        "url": "https://open.spotify.com/album/0JEaUz6MRrYtki9Quyv2m0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427029,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/1r4RybdsgGw1GjvNe38b1Z"
+    },
+    {
+      "album": {
         "name": "Way Maker",
         "url": "https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H"
       },
@@ -3090,7 +3144,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 306780,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
@@ -3144,7 +3198,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 179700,
       "name": "Who Goes That Man",
       "url": "https://open.spotify.com/track/0tMKAOXphAtH2qia9Nm9C7"
@@ -3166,7 +3220,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
@@ -3184,7 +3238,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 234667,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
@@ -3202,7 +3256,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 144213,
       "name": "Wonderful - African Worship Medley/Live",
       "url": "https://open.spotify.com/track/7JV1mx4hsvRUtdkcXlZt8L"
@@ -3238,7 +3292,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 464306,
       "name": "Yeshua Hamashiach",
       "url": "https://open.spotify.com/track/6xmcjy9fiHc5UZlUZDg5uy"
@@ -3260,7 +3314,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 271438,
       "name": "You Are God (feat. Chigozie Achugo)",
       "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
@@ -3296,7 +3350,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 383424,
       "name": "You are Great",
       "url": "https://open.spotify.com/track/0BoMUR3WfVuGTSZ4DUEfnZ"
@@ -3332,7 +3386,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 279066,
       "name": "You are Yahweh",
       "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"

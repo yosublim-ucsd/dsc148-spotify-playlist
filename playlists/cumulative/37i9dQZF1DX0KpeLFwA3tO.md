@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: BIG SPECIAL
 
-1,482 songs - 3 day 2 hr 2 min
+1,483 songs - 3 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1118,7 +1118,8 @@
 | [Shaving My Legs](https://open.spotify.com/track/1I8lkFp7GUHzZ0x7pWuouL) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Shaving My Legs](https://open.spotify.com/album/1yCrDBB7pYNDM2uUbNacj2) | 2:42 | 2023-04-13 | 2023-06-16 |
 | [She Knows It](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [She Knows It](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2021-12-17 | 2022-01-21 |
 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 | 2022-07-21 | 2022-09-09 |
-| [she's a vampire](https://open.spotify.com/track/0TijcPb77nixLGQQzVECLJ) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [she's a vampire](https://open.spotify.com/album/5DKISuJT879vrCsbUcKAt4) | 3:09 | 2023-10-26 |  |
+| [she's a vampire](https://open.spotify.com/track/0TijcPb77nixLGQQzVECLJ) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [she's a vampire](https://open.spotify.com/album/5DKISuJT879vrCsbUcKAt4) | 3:09 | 2023-10-26 | 2023-12-13 |
+| [she's a vampire](https://open.spotify.com/track/0mKgF83Y31cJKwPc13o5nR) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [nosebleeder](https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3) | 3:09 | 2023-12-08 |  |
 | [She's Got A Gun](https://open.spotify.com/track/5MwfXcLUoVrPqpkPGw0Heb) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [She's Got A Gun](https://open.spotify.com/album/1xpaj8z0Fu1C3U5pZvp0Kl) | 3:03 | 2022-06-02 | 2022-07-15 |
 | [SHE’S MY \(SEXI BOY\)](https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:16 | 2022-10-27 | 2023-02-17 |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Shhhh! Golf is On](https://open.spotify.com/album/5IDAHjsSQvZr1bzQHb7QrD) | 2:44 | 2023-03-10 | 2023-04-21 |

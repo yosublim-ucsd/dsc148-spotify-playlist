@@ -4,13 +4,14 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-111 songs - 8 hr 59 min
+115 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1759](https://open.spotify.com/track/5E3DJhWBxPI5g6wGdpMll7) | [Kid Drama](https://open.spotify.com/artist/7w6o2HAvNOSFJqkSeVRsf4), [Garvo](https://open.spotify.com/artist/4wEfs20Mbsga9Cm0Y9uf9s) | [1759 / Nitrosurge](https://open.spotify.com/album/1IUvogiJuEUCw5b7JbD6Db) | 6:05 | 2023-09-28 |  |
 | [Believe If You Want](https://open.spotify.com/track/3f1DQmKY9IdmNcWvQMEQ8Z) | [Eastcolors](https://open.spotify.com/artist/0yJJHicyYpeDFfliRVqhsC) | [Vaska EP](https://open.spotify.com/album/4qb0wodiBVQQfWUWRU8D8q) | 6:08 | 2022-11-30 |  |
 | [Better On My Own](https://open.spotify.com/track/6ivAkCIVv986W98MiE7xB1) | [En:vy](https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU), [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w), [SHEIVA](https://open.spotify.com/artist/7gQPNN7t0vF7LjfCdXrCzA) | [Better On My Own / Darling](https://open.spotify.com/album/18zAr9OwZKslHj7ZHF38LH) | 4:30 | 2023-08-01 | 2023-08-19 |
+| [Blanche](https://open.spotify.com/track/0G73PAIeqQFjXT0upZPNdh) | [Nothing Matters](https://open.spotify.com/artist/2qNCzD0MZP9ySoahNngGzv) | [Blanche](https://open.spotify.com/album/0CHB3250EKccFpd1Q8PJkz) | 4:08 | 2023-12-12 |  |
 | [Bottles](https://open.spotify.com/track/4bqWWzjSKOZoFR5IptMO5v) | [FD](https://open.spotify.com/artist/76KMDlhW2f4qiTlepW5yfy) | [Better Days](https://open.spotify.com/album/3bti1dr6JCjaYudAsjH09S) | 5:44 | 2022-11-30 |  |
 | [But I Found](https://open.spotify.com/track/3yBgSB9KQowEW6EhaoGcu6) | [RoyGreen & Protone](https://open.spotify.com/artist/4OPV5x0WuglgLiOiD7up8E), [Robbe](https://open.spotify.com/artist/4TdEVctIWf0ljyQXr6u8NI) | [Ancient Soul EP](https://open.spotify.com/album/43pS2HuH8VI3MC93SwYprw) | 5:56 | 2022-11-30 |  |
 | [Candle in the dark](https://open.spotify.com/track/1v17sfEB8xIxfPmen30WVz) | [Quadrant](https://open.spotify.com/artist/2rekrvrzMex0PPBX6zvvfj), [Iris](https://open.spotify.com/artist/5PDWYfx3o05zDhOvruFS6N), [Dummy](https://open.spotify.com/artist/1EjePlzwExisnkgrQ2qRwo) | [Candle in the Dark / The Demon Haunted World](https://open.spotify.com/album/1cF3Ga7t5ZF8BywWvFS82w) | 4:44 | 2023-09-28 |  |
@@ -52,6 +53,7 @@
 | [I Need](https://open.spotify.com/track/7B1L226HntUkPZuxjYdPFc) | [Chiccoreli](https://open.spotify.com/artist/2ZJhfEA5oRnbtqWDY5zfka) | [I Need / In My Dreamz](https://open.spotify.com/album/6zHj6TTUSbgvDWSYC6uouU) | 4:33 | 2023-09-28 |  |
 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 | 2023-02-24 |  |
 | [IGGY](https://open.spotify.com/track/3Jhhgy33bLgTRTjr0hEM1F) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Pink Poppy](https://open.spotify.com/album/4ZCV3sUH3EoKPmyv0FCKlL) | 2:49 | 2023-11-17 |  |
+| [In Time](https://open.spotify.com/track/6ztmiz6nijHxCsEDxMmTnV) | [Hiyayakko](https://open.spotify.com/artist/4yVyPczI3DoCsOECKEc6rg) | [In Time](https://open.spotify.com/album/5m6JGBwfYQp6ZWpSbylrdj) | 4:45 | 2023-12-12 |  |
 | [Inner Echo](https://open.spotify.com/track/1tGwB0G7VOshhAyOQYaNbe) | [Mojoman](https://open.spotify.com/artist/2t7SxDJO8xs6RskGSLYwad) | [Inner Echo/ Thrive Pattern VIP](https://open.spotify.com/album/0X5CFT37lTT3nWkVlJBY37) | 7:29 | 2022-11-30 |  |
 | [Into the Motion](https://open.spotify.com/track/2oIOO3ZNR9yZ6zE20vrFZJ) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Glass / Into the Motion \(Extended Play\)](https://open.spotify.com/album/5mN40loDSsFN5uOFldIEDi) | 5:31 | 2022-11-30 | 2023-06-24 |
 | [Into the Motion](https://open.spotify.com/track/5tNE96eG01TDmBBlorv6gh) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Into the Motion](https://open.spotify.com/album/03ko03ArgYlgOqLJFGciZP) | 5:31 | 2023-02-14 |  |
@@ -71,6 +73,7 @@
 | [Losing my soul \- Original Mix](https://open.spotify.com/track/0UMr7sXDttPzFG1qVuTIBs) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Modern Soul 3 LP](https://open.spotify.com/album/69uFpVWTZxpdz9BTHRwFcv) | 5:14 | 2022-11-30 |  |
 | [Lost \- Pola & Bryson Remix](https://open.spotify.com/track/7uI90KliRDd8egscd650jj) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Lost \(Pola & Bryson Remix\)](https://open.spotify.com/album/5VgTlXbwBgqQgfQX7Pwdpn) | 5:36 | 2022-11-30 |  |
 | [Magnetic](https://open.spotify.com/track/3HjRaXVmPDawlKmRtH5pTA) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2) | [Magnetic](https://open.spotify.com/album/74zXp1spwIlWwm5rGOffjq) | 3:46 | 2023-05-19 |  |
+| [Memories of Us](https://open.spotify.com/track/0IQPNwi9n8DZdCURmokB3F) | [Yakkan](https://open.spotify.com/artist/7sC8QEM8NC6XmIC59a5kcz) | [Memories of Us](https://open.spotify.com/album/4CvBSIopVSEkw9SOuLYDNF) | 3:29 | 2023-12-12 |  |
 | [Minimal](https://open.spotify.com/track/4nQ6FKHEX4YnZCvfAjQwYG) | [Surreal](https://open.spotify.com/artist/5uWvpdaxp81vUjmd1ZyB2q) | [Signal EP](https://open.spotify.com/album/1RC36wrWedNH6KAr8dvTfy) | 4:35 | 2022-11-30 |  |
 | [Misty](https://open.spotify.com/track/1AFqQtfrQ0VMLeZxrSPrfM) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF) | [Bobby](https://open.spotify.com/album/3pQni96ENZH1JtBXAmOgZ1) | 4:53 | 2022-11-30 |  |
 | [Move On](https://open.spotify.com/track/7FbeLqRaDdLJrCk2P5XWHX) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Deeper Vibe \- EP](https://open.spotify.com/album/34kmVOEBV2gjnayjnTSwyv) | 6:16 | 2023-06-30 |  |
@@ -114,6 +117,7 @@
 | [Two Words](https://open.spotify.com/track/1gLFnkmHv1DDbZDDcxoSQQ) | [Workforce](https://open.spotify.com/artist/2im0IjdcMRFwGxc5R4Jj82) | [Late Night Soundtrack](https://open.spotify.com/album/68nlqsDJLMV1sKjFUvx87A) | 4:40 | 2022-11-30 |  |
 | [Ubiquitous](https://open.spotify.com/track/4U8ltC3h5mytL6jwSRnP8i) | [Phaction](https://open.spotify.com/artist/33CVzI4YFK6YBZsuxjKhHR) | [Ubiquitous \- EP](https://open.spotify.com/album/1An7AbyWhoU1ZdX74ykPge) | 5:14 | 2022-11-30 |  |
 | [Vivid Vibes](https://open.spotify.com/track/2TW12PMlCXbnWHTuNxxqTw) | [Floatational](https://open.spotify.com/artist/0n71HQhO8y90tbTIQzVRHY) | [Vivid Vibes](https://open.spotify.com/album/3IYhlB1VWARl3caQX12eNq) | 2:37 | 2023-08-25 |  |
+| [Voice Note](https://open.spotify.com/track/20UKA9nmDp3T2v6GhiCoq5) | [Geguri](https://open.spotify.com/artist/4lAapgqEcBAmv4qqwAGUbL) | [Voice Note](https://open.spotify.com/album/3Dz2xO0au2kRCUFlcgczEr) | 4:21 | 2023-12-12 |  |
 | [Watercolours](https://open.spotify.com/track/2pwMhToDEJRk2fOFLVox28) | [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u) | [Hospitality 2016](https://open.spotify.com/album/3YHpgFDlaJjSFZczWUKJFh) | 5:36 | 2023-02-14 |  |
 | [Watercolours](https://open.spotify.com/track/36C8hUGIuj1P9IARALVfUn) | [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u) | [Hospitality 2016](https://open.spotify.com/album/5YjeFnZfs3rck35FhyEOH6) | 5:36 | 2022-12-22 | 2023-11-16 |
 | [What You Say](https://open.spotify.com/track/2GufTqv5cwxqf80TJH69Ql) | [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR) | [DJ Patife Presents Viva Brazil: Sunandbass Sessions](https://open.spotify.com/album/1cbUibBHqT8u2s8ODPc5Ui) | 6:31 | 2022-12-22 |  |

@@ -4,7 +4,7 @@
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-510 songs - 1 day 3 hr 48 min
+511 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,8 @@
 | [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2023-07-29 |  |
 | [No Easy Way Out \- Epic Trailer Version](https://open.spotify.com/track/6NZMxSYawQ7oAI2TLWkTLR) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J), [VĒ](https://open.spotify.com/artist/1azXaTeQxY8ChkeQF7BwXy) | [Reawakenings Vol\. 2](https://open.spotify.com/album/2LrTI8TmMtjlAfGFvvMLoD) | 4:02 | 2022-08-12 | 2023-07-19 |
 | [No Mercy](https://open.spotify.com/track/3E56PIzUsN5bzRsE4f6JZB) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT) | [Modern Alchemy](https://open.spotify.com/album/26lJZZBUlOj3olP9sEESUZ) | 3:44 | 2023-08-07 |  |
-| [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-07-22 |  |
+| [No One Dies From Love](https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 3:06 | 2023-09-13 |  |
+| [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-07-22 | 2023-12-13 |
 | [Not Giving Up](https://open.spotify.com/track/7EYR3GjoC4l9g66mRFvQ6F) | [Goldbeam](https://open.spotify.com/artist/6jKZwcKkpcHRGKco0O6TuZ) | [Good Days](https://open.spotify.com/album/6NxyS1NtzsTBKRMwSI1eKF) | 3:14 | 2022-07-29 |  |
 | [Ocean Eyes \(Acoustic\)](https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Ocean Eyes \(Acoustic\)](https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj) | 3:36 | 2022-07-15 | 2023-07-19 |
 | [Oh Yeah](https://open.spotify.com/track/44IX8SM0fEWApOGlhUGAFc) | [Yello](https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi) | [Essential](https://open.spotify.com/album/2X923YDUN9MTWJ1vS4atnB) | 3:06 | 2023-07-31 |  |

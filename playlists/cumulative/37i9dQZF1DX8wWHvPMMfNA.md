@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-707 songs - 1 day 21 hr 7 min
+709 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Midnight Passion](https://open.spotify.com/track/3P62YgTZIrJR5RMKXFNMMr) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Midnight Passion](https://open.spotify.com/album/0vt5ejd6J0VlbhW41zN84q) | 2:29 | 2023-12-08 |  |
 | [Midnight Reverie](https://open.spotify.com/track/7tkPArhLCX4cDHkZMalG41) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [Midnight Reverie](https://open.spotify.com/album/1axg5vCMgiF7T7US2mv3Oc) | 3:48 | 2023-12-08 |  |
 | [Midnight Serenade](https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Midnight Serenade](https://open.spotify.com/album/3wIeHoxZk52kgKVI4IjeQh) | 4:19 | 2023-08-10 |  |
+| [Milano](https://open.spotify.com/track/3HqAqSU3Boz7wCwfiaXdfR) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Milano](https://open.spotify.com/album/0rcCAGcrW8YSqgqiUBguYm) | 3:58 | 2023-12-08 |  |
 | [Minor Matters](https://open.spotify.com/track/79TNrecUsky8SMPo7I1AJC) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Minor Matters](https://open.spotify.com/album/4FI5JIydsr1OYdMPVLoJX6) | 3:15 | 2023-08-24 |  |
 | [Miso the cat](https://open.spotify.com/track/6UoHrLNQE4UR8SG79V6FBX) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Miso the cat](https://open.spotify.com/album/5RmAvg9TQzDmm287fovehw) | 3:50 | 2023-08-10 |  |
 | [Missed The Last Dance With You](https://open.spotify.com/track/7mbGcxb8cInNijyo4nO6eu) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [Missed The Last Dance With You](https://open.spotify.com/album/6eDr3Uh3GuGGLURUqrV1k3) | 5:04 | 2023-11-24 |  |
@@ -463,6 +464,7 @@
 | [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-02-09 |  |
 | [Only Way To Play Is All In](https://open.spotify.com/track/5nEXgS8wX0y4dVqe3GUPHI) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Only Way To Play Is All In](https://open.spotify.com/album/4PzO4qn8WkZtHL6Fx6z65h) | 3:18 | 2023-06-01 |  |
 | [Our Love Story](https://open.spotify.com/track/1FW1U15nbWIAteWTI2Iy9L) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Our Love Story](https://open.spotify.com/album/3G7vIhBdcwdmKTMdr4NcYt) | 2:40 | 2023-04-20 |  |
+| [Out of Nowhere](https://open.spotify.com/track/4ZQa7Mh6yQ2PY4p3ahK9qU) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Out of Nowhere](https://open.spotify.com/album/0i7uLYNXlVDX8OwRmE57Px) | 2:48 | 2023-12-08 |  |
 | [Out Of The Blue](https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Out Of The Blue](https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI) | 2:58 | 2023-03-09 |  |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 |  |
 | [Over The Rooftops](https://open.spotify.com/track/2erYjP47q8077YP2LH8Ar2) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Over The Rooftops](https://open.spotify.com/album/0IxhkuCEcEtyo5uMoTjpYB) | 3:50 | 2023-06-01 |  |
@@ -583,7 +585,7 @@
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2023-06-01 |  |
 | [The Batysphere](https://open.spotify.com/track/7wjyhXjXor4PscmHQrImTy) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [The Batysphere](https://open.spotify.com/album/4LKbw609Uu1VvXpSc9RVc4) | 2:26 | 2023-08-24 |  |
 | [The Beat Of A Different Drum](https://open.spotify.com/track/67ljrdF7u8X2xbj4zgkPDQ) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [The Beat Of A Different Drum](https://open.spotify.com/album/1NSbnYV7dQaSqSeodWJHxA) | 3:23 | 2023-06-01 |  |
-| [The Cat Walk](https://open.spotify.com/track/0AzxtViaJfE9NuPYXNs3C1) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 5:47 | 2021-12-16 |  |
+| [The Cat Walk](https://open.spotify.com/track/0AzxtViaJfE9NuPYXNs3C1) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 5:47 | 2021-12-16 | 2023-12-13 |
 | [The Day that I Felt](https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:18 | 2023-06-01 |  |
 | [The Fate of Love](https://open.spotify.com/track/59VY0huVKd5pSuJLI9RrMO) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [The Fate of Love](https://open.spotify.com/album/4LYUSTQLCYtx3DZTfsXFly) | 2:50 | 2023-01-19 |  |
 | [The First Step](https://open.spotify.com/track/2CFUoit9OLr6gHZ2WUz7P1) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [The First Step](https://open.spotify.com/album/0npCvOirIl3qBkbtpkAufa) | 3:02 | 2023-11-24 |  |
@@ -614,7 +616,7 @@
 | [The Water Maiden](https://open.spotify.com/track/4Gj6COJPLXtgCoWen9kTiq) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [The Water Maiden](https://open.spotify.com/album/2VQ3bxCuOPtuHCzhMr2Ukm) | 3:27 | 2023-08-31 |  |
 | [Thea](https://open.spotify.com/track/6wyOFWdvUX8lKVVyzf2x5u) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Thea](https://open.spotify.com/album/1JWQZRwYtSDoW7P3Yy0uOq) | 3:46 | 2023-08-31 |  |
 | [Then I'll Be Tired Of You](https://open.spotify.com/track/6Spm4gF9hbIRiSBQVYJFYl) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Comin' Your Way](https://open.spotify.com/album/18C4w4Di2mjHHYTDQyuwUX) | 6:09 | 2022-01-26 | 2023-12-10 |
-| [Then I'll Be Tired Of You \- Instrumental](https://open.spotify.com/track/57ngHTYxMbRq17aPO2faFE) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [In A Mellow Tone](https://open.spotify.com/album/5Z3eZp41IkDzQT2L9KRuxT) | 5:08 | 2022-05-18 |  |
+| [Then I'll Be Tired Of You \- Instrumental](https://open.spotify.com/track/57ngHTYxMbRq17aPO2faFE) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [In A Mellow Tone](https://open.spotify.com/album/5Z3eZp41IkDzQT2L9KRuxT) | 5:08 | 2022-05-18 | 2023-12-13 |
 | [Then you appeared](https://open.spotify.com/track/33bQpN9jengdybIZ0ecfON) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Then you appeared](https://open.spotify.com/album/2LmLv8j1qX07BGUgSDsFdy) | 3:27 | 2023-06-01 |  |
 | [There Is No Greater Love](https://open.spotify.com/track/5MCVwLbFOCJ1zCPM1kJqH7) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [There Is No Greater Love](https://open.spotify.com/album/5p6RUhe5l5MYma5NfzTiDn) | 2:37 | 2023-06-01 |  |
 | [There Will Be Better Days](https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [There Will Be Better Days](https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli) | 4:59 | 2023-09-22 |  |

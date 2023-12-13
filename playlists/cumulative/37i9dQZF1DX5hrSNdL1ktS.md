@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Dani Flow en portada
 
-421 songs - 21 hr 5 min
+422 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,8 @@
 | [MOOD](https://open.spotify.com/track/5nRloY6Bqe7k0Ay5gm1ErY) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [MOOD](https://open.spotify.com/album/3D5MV1TC8L4HQvnZ4edTqq) | 3:10 | 2022-01-07 | 2022-05-07 |
 | [Morena Mía](https://open.spotify.com/track/5ppm2LDV6yqf7cxjKHOqkG) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Morena Mía](https://open.spotify.com/album/5oBKjHnCEXWK1KlaqcFpH0) | 2:43 | 2022-01-07 | 2023-02-18 |
 | [Morrita](https://open.spotify.com/track/5Pzzu7TwNaML451aIPrBAJ) | [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI), [Manni Martinez](https://open.spotify.com/artist/3ofYRHc7Ceggkp7CqLAsLK), [Ryan Vuitton](https://open.spotify.com/artist/1JPYoxwwyaxzIKvEm7lHVm) | [Morrita](https://open.spotify.com/album/5sKePlosokIdWtO99vYKLA) | 3:21 | 2023-06-30 | 2023-10-07 |
-| [MUAY THAI](https://open.spotify.com/track/3wrmv73k3sruc9rvSlR5Eb) | [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf) | [MUAY THAI](https://open.spotify.com/album/4Fb83Vq6urEz8svWD7bCmQ) | 2:47 | 2023-06-30 |  |
+| [MUAY THAI](https://open.spotify.com/track/3wrmv73k3sruc9rvSlR5Eb) | [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf) | [MUAY THAI](https://open.spotify.com/album/4Fb83Vq6urEz8svWD7bCmQ) | 2:47 | 2023-06-30 | 2023-12-13 |
+| [MUAY THAI](https://open.spotify.com/track/7M0jV4EvUzzodGbHepL7Ov) | [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf) | [MUAY THAI](https://open.spotify.com/album/6DeG13kKoTUAii80Gwmlq8) | 2:47 | 2023-12-01 |  |
 | [Mugrero](https://open.spotify.com/track/125nqMWKwiX4LhpxZvaUZL) | [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0) | [Mugrero](https://open.spotify.com/album/7iywd9GtY6ftsavIZgfkLM) | 2:52 | 2023-07-14 | 2023-10-14 |
 | [Mujer Ajena](https://open.spotify.com/track/4cfDy3twERwAsJ0tsyaZuA) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8) | [Mujer Ajena](https://open.spotify.com/album/4A1mQYXWcXunu97irugcVR) | 2:44 | 2023-05-26 | 2023-09-09 |
 | [Murió Cupido](https://open.spotify.com/track/6hJAMJ60n572mV0dBEIpva) | [Juvan](https://open.spotify.com/artist/4JAKBAP06YnDLKG1cgVUQ7), [P\-Chain](https://open.spotify.com/artist/2rfcUcI8g9cLyN63OsjUk4) | [Murió Cupido](https://open.spotify.com/album/1ExLWtRI8yr8tJ13AQjKzt) | 2:56 | 2023-04-28 | 2023-07-22 |

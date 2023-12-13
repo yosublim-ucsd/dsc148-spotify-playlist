@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Brianda en portada.",
-  "num_followers": 100031,
+  "num_followers": 100063,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmNjZjljZWY5MDkzZjQ5NTM1NGY2NDA5M2UyN2UzNDM2Y2I0OTI4",
+  "snapshot_id": "MCwyNjgyNTczMWI1N2U1NDhkZDNjNGJmYzliMGZkYmZjYzBlNGU3N2U3",
   "tracks": [
     {
       "added_at": "2023-12-01 06:00:00",
@@ -287,18 +287,22 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Canci\u00f3n Para Olvidarte",
-        "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
+        "name": "Ajustando Cuentas",
+        "url": "https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Diana Reyes",
+          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 164120,
-      "name": "Canci\u00f3n Para Olvidarte",
-      "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
+      "duration_ms": 222720,
+      "name": "Ajustando Cuentas",
+      "url": "https://open.spotify.com/track/3rbtjnfJKzKxvwvaB3zopY"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -399,22 +403,18 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Ajustando Cuentas",
-        "url": "https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV"
+        "name": "Canci\u00f3n Para Olvidarte",
+        "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
       },
       "artists": [
         {
-          "name": "Diana Reyes",
-          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Ajustando Cuentas",
-      "url": "https://open.spotify.com/track/3rbtjnfJKzKxvwvaB3zopY"
+      "duration_ms": 164120,
+      "name": "Canci\u00f3n Para Olvidarte",
+      "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
     },
     {
       "added_at": "2023-12-01 06:00:00",

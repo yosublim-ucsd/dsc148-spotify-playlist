@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-926 songs - 2 day 4 hr 47 min
+927 songs - 2 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [ia](https://open.spotify.com/track/2mnUQfzbAM5KLLL6vjhlpG) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8) | 4:14 | 2022-07-14 | 2022-07-29 |
 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 | 2023-07-14 |
 | [Identity](https://open.spotify.com/track/5MiihS6toSrDlwen3p6Slp) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [Identity](https://open.spotify.com/album/3WmF5fA11eq8wIjoj7Hmk0) | 2:41 | 2022-10-06 | 2022-10-19 |
+| [Igniter](https://open.spotify.com/track/2ft4oa972vArdrTKYdU6sd) | [Midnight Grand Orchestra](https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii) | [Starpeggio](https://open.spotify.com/album/4P0fK06vdodkHhWHdmY7ar) | 3:12 | 2023-12-12 |  |
 | [IMAGINARY LIKE THE JUSTICE](https://open.spotify.com/track/6cvjT8OfKJTTReE5DmNNlE) | [SymaG](https://open.spotify.com/artist/0Dju1ubNsfRe3jTH9RgJDh) | [G7](https://open.spotify.com/album/4YRAe1VOnILXlL0F2r5aSS) | 4:26 | 2023-03-16 | 2023-04-19 |
 | [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 | 2022-11-08 | 2023-03-10 |
 | [INAZMA](https://open.spotify.com/track/3POLsjox8STfaKN7p1no44) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [INAZMA](https://open.spotify.com/album/6ahRrIWu33oElg0xP5Umsb) | 3:31 | 2022-06-13 | 2022-07-10 |
@@ -740,7 +741,7 @@
 | [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2023-02-14 | 2023-02-16 |
 | [愛くるしい](https://open.spotify.com/track/7KxMETuGfHLNuSIjmioXMw) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [愛くるしい](https://open.spotify.com/album/1HvyZrbkhKUvkhlH63o83e) | 3:29 | 2022-06-21 | 2022-06-29 |
 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 | 2023-01-05 | 2023-07-07 |
-| [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 | 2023-09-19 |  |
+| [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 | 2023-09-19 | 2023-12-13 |
 | [抜刀 \(feat\. 花譜\)](https://open.spotify.com/track/3diUXDfx20uzySBCK3k9PZ) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [抜刀 \(feat\. 花譜\)](https://open.spotify.com/album/0kkMNmUqS0alqVxclf3Xho) | 3:34 | 2022-07-05 | 2022-07-23 |
 | [抱きしめたいほど美しい日々に](https://open.spotify.com/track/3HPZXJVEnxULarjQ2E61cY) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [抱きしめたいほど美しい日々に](https://open.spotify.com/album/1PFxujzYb1SjAaj9CubTIf) | 3:05 | 2022-06-09 | 2022-07-27 |
 | [推しと結婚したくてしぬ!](https://open.spotify.com/track/5A2MP7c9jAxMPSP7LwBbox) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [推しと結婚したくてしぬ!](https://open.spotify.com/album/3XJ9PoIpGyOKwJR2qA4PmC) | 2:04 | 2022-07-14 | 2022-07-20 |

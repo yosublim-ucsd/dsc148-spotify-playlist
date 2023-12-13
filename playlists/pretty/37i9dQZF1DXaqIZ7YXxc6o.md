@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Channel Tres
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,060 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,066 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 18 | [Honesty](https://open.spotify.com/track/6iA6GtMemHCED35sVrdP8R) | [Jantoje](https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx) | [Honesty](https://open.spotify.com/album/12j8u6UoRbRN26kkG7SK0Z) | 3:45 |
 | 19 | [Not Enough](https://open.spotify.com/track/4Vl1VQen5S0JNu3NYUPGCR) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z) | [Not Enough](https://open.spotify.com/album/4AtSvwjAtZV59YZJrISQa5) | 3:08 |
 | 20 | [A Little Taste](https://open.spotify.com/track/6uMNW5hrhvv64soTwiwS52) | [Sonny Grin](https://open.spotify.com/artist/1Nymwcz4ybOrV0WjkFPsne), [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [A Little Taste](https://open.spotify.com/album/7K5f8QZI56ygmIDuLKkCmv) | 3:57 |
-| 21 | [Kota on the plane \- MGNA Crrrta Remix](https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [MGNA Crrrtr](https://open.spotify.com/artist/5KCMTtoQ1ouhC4GGHZQb8m) | [Kota on the plane \(MGNA Crrrta Remix\)](https://open.spotify.com/album/3GM9knfczDc5qvrFAwL70Y) | 2:53 |
+| 21 | [Kota on the plane \- MGNA Crrrta Remix](https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Kota on the plane \(MGNA Crrrta Remix\)](https://open.spotify.com/album/3GM9knfczDc5qvrFAwL70Y) | 2:53 |
 | 22 | [Silly Banter](https://open.spotify.com/track/3jgEEKaw12kJgI3qrjpA0T) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [Silly Banter](https://open.spotify.com/album/4c6iutQGEeNdcMMYtRsa7M) | 3:10 |
 | 23 | [Pain Away \- Atura Remix](https://open.spotify.com/track/3hKpyQXNklbdtUq1mVJtkL) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu), [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF), [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [Pain Away \(Atura Remix\)](https://open.spotify.com/album/3nUTtQG5mGLqf3dKugipHw) | 3:19 |
 | 24 | [Affection](https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Affection](https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 |
 | 100 | [Meet Her \- Tiësto vs\. Da Hool](https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [Meet Her \(Tiësto vs\. Da Hool\)](https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT) | 2:12 |
 
-Snapshot ID: `MCw4YmRhYTI4YzBlZTMwNWUyZWZhYmQ3NDAzMWI0YmYyZTU3Yjk0MDc4`
+Snapshot ID: `MCw5ZmVkZDE2NTFkZDNhNjMzMTY5NjY5MTI5MjdhODRlMGI0NDA5NmZm`

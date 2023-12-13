@@ -1,12 +1,12 @@
 {
   "description": "Usar la imaginaci\u00f3n es la soluci\u00f3n de un mundo ideal, \u00a1Vivan lxs ni\u00f1xs!",
-  "num_followers": 147350,
+  "num_followers": 147396,
   "original_name": "\u00a1\u00a1Que vivan lxs ni\u00f1xs!!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2VkYzIwMWJiNGJkYzQ1ZGI5ZjMyYTk1YTZhYmMyNDZhNWY2YjBk",
+  "snapshot_id": "MCw4NzYwMTcwZTYyM2Y5NDNkZjQ1NzkxNWM3ZTNjYTQwNzA2ZDBiNTgw",
   "tracks": [
     {
       "added_at": "2023-10-20 00:27:36",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-10-20 00:27:36",
       "album": {
-        "name": "31 Minutos, Ratoncitos",
-        "url": "https://open.spotify.com/album/6UMrfvpI3aFUaguTlF7fEH"
-      },
-      "artists": [
-        {
-          "name": "31 Minutos",
-          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
-        },
-        {
-          "name": "Retrete Navarrete y Los Bulliciosos",
-          "url": "https://open.spotify.com/artist/6pv7Qa40FdlaCBPW978GI9"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "La Regla Primordial",
-      "url": "https://open.spotify.com/track/6WPUypjdzEgodbtnkreB62"
-    },
-    {
-      "added_at": "2023-10-20 00:27:36",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
       },
@@ -871,26 +851,6 @@
       "duration_ms": 200303,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H"
-    },
-    {
-      "added_at": "2023-10-20 00:27:36",
-      "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Farolito (with Gilberto Gil)",
-      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     },
     {
       "added_at": "2023-10-20 00:27:36",
@@ -911,6 +871,42 @@
     {
       "added_at": "2023-10-20 00:27:36",
       "album": {
+        "name": "Nana Boruca",
+        "url": "https://open.spotify.com/album/2hnrMIBi0zullEG1TYCZEJ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Baggio",
+          "url": "https://open.spotify.com/artist/72l6wuv5Ic1Lm9yAMayCKx"
+        }
+      ],
+      "duration_ms": 101520,
+      "name": "Nana Boruca",
+      "url": "https://open.spotify.com/track/3buxz8sFvbMoQdX5tQuBcz"
+    },
+    {
+      "added_at": "2023-10-20 00:27:36",
+      "album": {
+        "name": "31 Minutos, Ratoncitos",
+        "url": "https://open.spotify.com/album/6UMrfvpI3aFUaguTlF7fEH"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        },
+        {
+          "name": "Retrete Navarrete y Los Bulliciosos",
+          "url": "https://open.spotify.com/artist/6pv7Qa40FdlaCBPW978GI9"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "La Regla Primordial",
+      "url": "https://open.spotify.com/track/6WPUypjdzEgodbtnkreB62"
+    },
+    {
+      "added_at": "2023-10-20 00:27:36",
+      "album": {
         "name": "Canciones de Luna",
         "url": "https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL"
       },
@@ -927,18 +923,22 @@
     {
       "added_at": "2023-10-20 00:27:36",
       "album": {
-        "name": "Nana Boruca",
-        "url": "https://open.spotify.com/album/2hnrMIBi0zullEG1TYCZEJ"
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
       "artists": [
         {
-          "name": "Mariana Baggio",
-          "url": "https://open.spotify.com/artist/72l6wuv5Ic1Lm9yAMayCKx"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 101520,
-      "name": "Nana Boruca",
-      "url": "https://open.spotify.com/track/3buxz8sFvbMoQdX5tQuBcz"
+      "duration_ms": 161000,
+      "name": "Farolito (with Gilberto Gil)",
+      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     }
   ],
   "unique_name": "\u00a1\u00a1Que vivan lxs ni\u00f1xs!!",

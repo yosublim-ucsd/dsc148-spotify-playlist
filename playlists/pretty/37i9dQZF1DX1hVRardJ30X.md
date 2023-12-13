@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,288 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,368 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 33 | [Me Quieres Mal](https://open.spotify.com/track/6FgjyWp67Z4p3VMtR18cod) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Me Quieres Mal](https://open.spotify.com/album/0QDjsCyrCA0Imvb1HziKd9) | 3:13 |
 | 34 | [Ya No Tengo Tu Love](https://open.spotify.com/track/1koXGzfqMnrnb4M8FxOpWg) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Origami](https://open.spotify.com/album/5dBzqiqxBT3dOlNlBjx07x) | 3:57 |
 | 35 | [Dices me Extrañas](https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Dices me Extrañas](https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0) | 4:52 |
-| 36 | [First Love](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [First Love](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
+| 36 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
 | 37 | [DISTRACCIONES](https://open.spotify.com/track/2VfwnBJHhG8Ue4KRL8BjH0) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [DISTRACCIONES](https://open.spotify.com/album/6cJdhE7WbMik7x96Us1lMt) | 3:32 |
 | 38 | [tiroteAo](https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [tiroteAo](https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh) | 2:33 |
 | 39 | [GITANA](https://open.spotify.com/track/2CNfYe3Kzyw2IDGTIssbXb) | [ENEZ 4R](https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [GITANA](https://open.spotify.com/album/1UTkauY9kjvbCZYWGe6NI6) | 2:53 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 55 | [Delincuente](https://open.spotify.com/track/1JEnGuyq3nuFOySCBXyE1O) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Delincuente](https://open.spotify.com/album/1Xs7sQ4nPCeKMKpzefHGzE) | 2:28 |
 | 56 | [Salsa](https://open.spotify.com/track/3jNBMlxOni0T96uWAemGt6) | [Ery](https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD) | [Salsa](https://open.spotify.com/album/0455Zaij9nyVQi3X7zvmzy) | 2:15 |
 
-Snapshot ID: `MCw1MGUxZTM5YTI0NTU3NzE4ZThkYWQwMTUxZWVlMGQyODJiZGY2YzJl`
+Snapshot ID: `MCxkNTgzNmEyYzFiMGUyNDY1MTBkNmM4MmEwMjU4NTUxZWZkMTYzMjEz`

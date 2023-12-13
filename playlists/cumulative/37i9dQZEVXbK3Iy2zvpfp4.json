@@ -3065,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "Bejby",
+        "url": "https://open.spotify.com/album/4J2IQ01XunpWumV5rn4ceK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136124,
+      "name": "Bejby",
+      "url": "https://open.spotify.com/track/11oUseW6uGWlPDQ77M2GT1"
+    },
+    {
+      "album": {
         "name": "Bej\u0161\u00ed\u00ed",
         "url": "https://open.spotify.com/album/2Mknc3jb9ayNH367sgP6CR"
       },
@@ -3138,7 +3156,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 281000,
       "name": "Bengoro je sp\u00e1tky",
       "url": "https://open.spotify.com/track/6vaxL5p0Ig8dQdFHM9Qut3"
@@ -7248,6 +7266,24 @@
       "duration_ms": 204880,
       "name": "Don't Go Insane",
       "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "album": {
@@ -11419,6 +11455,28 @@
     },
     {
       "album": {
+        "name": "HipHop",
+        "url": "https://open.spotify.com/album/6DRPRI5KmDq15kwssv1xFz"
+      },
+      "artists": [
+        {
+          "name": "Tisci",
+          "url": "https://open.spotify.com/artist/7vdksiaT0UGPpZgCCPCKrU"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "HipHop",
+      "url": "https://open.spotify.com/track/4TGJgb17vO6UlgUGYakirQ"
+    },
+    {
+      "album": {
         "name": "O2H",
         "url": "https://open.spotify.com/album/2kfbPWfCU1pcyVJBL3SIg2"
       },
@@ -11703,6 +11761,28 @@
     },
     {
       "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3sh07a3frKt48B9WEzWwLj"
+      },
+      "artists": [
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q"
+        },
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6CPJzpQnFLO2a1BaVG5sQD"
+    },
+    {
+      "album": {
         "name": "Ch\u00fdba\u0161 mi",
         "url": "https://open.spotify.com/album/2OJ26HYxSjkzfKf62ilFCv"
       },
@@ -11950,7 +12030,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 164680,
       "name": "Hral na trubku",
       "url": "https://open.spotify.com/track/6Xu35QtXWwo5Q5xDEqTfyh"
@@ -15854,7 +15934,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -16664,6 +16744,28 @@
       "duration_ms": 152571,
       "name": "Ma\u010fari",
       "url": "https://open.spotify.com/track/48MFI7CDb3SE3bkKJEjnnA"
+    },
+    {
+      "album": {
+        "name": "MBAPP\u00c9",
+        "url": "https://open.spotify.com/album/7G3HEXBv4I6rMkZPBA6awx"
+      },
+      "artists": [
+        {
+          "name": "BADMAN",
+          "url": "https://open.spotify.com/artist/5Q6rYDuYVW0kumNJYp72vz"
+        },
+        {
+          "name": "Palermo",
+          "url": "https://open.spotify.com/artist/1Gy31Couy5B3s2S0sITxSe"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188256,
+      "name": "MBAPP\u00c9",
+      "url": "https://open.spotify.com/track/6EZfNz8zr6GSEUEnQuhX58"
     },
     {
       "album": {
@@ -17484,6 +17586,32 @@
       "duration_ms": 155100,
       "name": "Mlad\u00fd",
       "url": "https://open.spotify.com/track/3o6QbvMtAJkcuKx3XXvBDU"
+    },
+    {
+      "album": {
+        "name": "Mlad\u00fd Ale Pln\u00fd",
+        "url": "https://open.spotify.com/album/0ikvwHt4aaAvIjHTxlnFpF"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "D.Stroy",
+          "url": "https://open.spotify.com/artist/6dCnwT6gZmYTuVZtlqKtas"
+        },
+        {
+          "name": "Crosso",
+          "url": "https://open.spotify.com/artist/2UhQit3wwPVwOBt41vMu94"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274082,
+      "name": "Mlad\u00fd Ale Pln\u00fd",
+      "url": "https://open.spotify.com/track/5L6cPedOWiH3EnkwbdKBlc"
     },
     {
       "album": {
@@ -19944,7 +20072,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
@@ -20722,7 +20850,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -26274,7 +26402,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 238986,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
@@ -29318,7 +29446,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 210533,
       "name": "T\u00e1rgyal\u00e1s A N\u0151k Vez\u00e9rigazgat\u00f3j\u00e1val",
       "url": "https://open.spotify.com/track/616njAaXFdHu5rs3FbjyUw"
@@ -30180,6 +30308,36 @@
       "duration_ms": 186666,
       "name": "Vt\u00e1\u010dia perspekt\u00edva",
       "url": "https://open.spotify.com/track/61CDJYduP6dZRzw2BFLptu"
+    },
+    {
+      "album": {
+        "name": "Vultures",
+        "url": "https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Bump J",
+          "url": "https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237534,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
     },
     {
       "album": {

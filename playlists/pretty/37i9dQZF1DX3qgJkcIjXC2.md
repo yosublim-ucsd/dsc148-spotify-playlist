@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qgJkcIjXC2.md) - [plain]
 
 > Spotify's first ever all\-women soccer playlist\. Built by your favorite players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,299 likes - 126 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,353 likes - 126 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qgJkcIjXC2.md) - [plain]
 | 29 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
 | 30 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:35 |
 | 31 | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/track/6GRos6Klc30XItsQtGUcak) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 6:35 |
-| 32 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 |
+| 32 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/0j531pQwzTDW0z72QJ7Zod) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/64hkZLym75f49YAmQvke70) | 2:44 |
 | 33 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 34 | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq) | 2:37 |
 | 35 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qgJkcIjXC2.md) - [plain]
 | 125 | [Suzanne](https://open.spotify.com/track/3MBZ0BaWosUjsn40TeYYk5) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Suzanne](https://open.spotify.com/album/5N8jCZO1JZpiEMl1AyBZou) | 2:57 |
 | 126 | [Sway](https://open.spotify.com/track/3JtRSUOj7wSAXFG76T89v8) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Drive](https://open.spotify.com/album/6RKelNVLEA7UeWnJJaKcGo) | 4:22 |
 
-Snapshot ID: `MCw2YWRhYzEyYjEzZGRjMWQ4ODA1NTAwNzM1NzU2NTA4M2U2YWFkODBh`
+Snapshot ID: `MCw4NTYwM2VhMzNhNTI1NDFlMDNkODUyZmJiMjUxYmY3ZTQ2NTAxMDBk`

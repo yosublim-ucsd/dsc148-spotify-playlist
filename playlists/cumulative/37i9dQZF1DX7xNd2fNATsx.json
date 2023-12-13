@@ -356,6 +356,28 @@
     {
       "album": {
         "name": "Fist of God",
+        "url": "https://open.spotify.com/album/00KfMW922SvIZ1FPWU7bzF"
+      },
+      "artists": [
+        {
+          "name": "MSTRKRFT",
+          "url": "https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192853,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/6DaYun5YOndnPYkwn6KwU8"
+    },
+    {
+      "album": {
+        "name": "Fist of God",
         "url": "https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize"
       },
       "artists": [
@@ -370,7 +392,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 192853,
       "name": "Heartbreaker (feat. John Legend)",
       "url": "https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB"
@@ -808,6 +830,24 @@
     {
       "album": {
         "name": "The Emanator",
+        "url": "https://open.spotify.com/album/6dH0AER8RD3s9OyejHkJeT"
+      },
+      "artists": [
+        {
+          "name": "Shitdisco",
+          "url": "https://open.spotify.com/artist/1gnKXnSL1BgGCTIrV3d4iq"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242160,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/2ApjMCGxa1dYz8dPRTLeIx"
+    },
+    {
+      "album": {
+        "name": "The Emanator",
         "url": "https://open.spotify.com/album/1zm5jMajSrMRW5dGmSC7xO"
       },
       "artists": [
@@ -818,7 +858,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 242160,
       "name": "OK",
       "url": "https://open.spotify.com/track/6CNskuICDfoju7WXRSq6ME"

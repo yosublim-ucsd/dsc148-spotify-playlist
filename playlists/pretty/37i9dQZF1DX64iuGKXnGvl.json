@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 103626,
+  "num_followers": 103745,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTdkMWJjYThlM2RjMjU1YzRjMDE0MzFhZTU1Zjk4Yzc5Njk5Y2Mx",
+  "snapshot_id": "MCxiZWZiOWQyNWVkZTFlZmUzMDYyOTY0NDI0NzA3OGQ4NGRhMDZmNWU4",
   "tracks": [
     {
       "added_at": "2022-03-29 19:14:26",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "Haciendo Camino",
         "url": "https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 252839,
       "name": "Tan Enamorados (Nina Bonita)",
       "url": "https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     },
     {
       "added_at": "2022-03-29 19:14:26",

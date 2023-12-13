@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Raffa Moreira",
-  "num_followers": 126364,
+  "num_followers": 126408,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGZmOWMzYWQ2YTA1NjQ2Y2M4ZmY2YjFkOWY1Y2E5YThhMTQxYmUy",
+  "snapshot_id": "MCxiNTcxY2UwMGRjZTBhYTM2YTQ3YjYxNjQzMmM5OWE1MDZkYmM4N2Rk",
   "tracks": [
     {
       "added_at": "2023-12-10 14:36:57",
@@ -219,6 +219,30 @@
     {
       "added_at": "2023-12-10 14:36:57",
       "album": {
+        "name": "Licor 43",
+        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 142470,
+      "name": "Licor 43",
+      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
+    },
+    {
+      "added_at": "2023-12-10 14:36:57",
+      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -323,30 +347,6 @@
     {
       "added_at": "2023-12-10 14:36:57",
       "album": {
-        "name": "Licor 43",
-        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 142470,
-      "name": "Licor 43",
-      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
-    },
-    {
-      "added_at": "2023-12-10 14:36:57",
-      "album": {
         "name": "Paz Terr\u00edvel",
         "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
       },
@@ -391,38 +391,6 @@
       "duration_ms": 162585,
       "name": "Dama de Vermelho",
       "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
-    },
-    {
-      "added_at": "2023-12-10 14:36:57",
-      "album": {
-        "name": "Nota D\u00f3",
-        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "DJ DuBom",
-          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
-        }
-      ],
-      "duration_ms": 202550,
-      "name": "Nota D\u00f3",
-      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
     },
     {
       "added_at": "2023-12-10 14:36:57",
@@ -483,22 +451,34 @@
     {
       "added_at": "2023-12-10 14:36:57",
       "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
+        "name": "Nota D\u00f3",
+        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DJ DuBom",
+          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
         }
       ],
-      "duration_ms": 131927,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
+      "duration_ms": 202550,
+      "name": "Nota D\u00f3",
+      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
     },
     {
       "added_at": "2023-12-10 14:36:57",
@@ -523,6 +503,26 @@
       "duration_ms": 177877,
       "name": "Dose de Gin",
       "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
+    },
+    {
+      "added_at": "2023-12-10 14:36:57",
+      "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 131927,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
     },
     {
       "added_at": "2023-12-10 14:36:57",
@@ -587,6 +587,26 @@
     {
       "added_at": "2023-12-10 14:36:57",
       "album": {
+        "name": "Prazeres da Vida Noturna",
+        "url": "https://open.spotify.com/album/7gMJfejAZor5ULBw2oaHcX"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "duration_ms": 203128,
+      "name": "Prazeres da Vida Noturna",
+      "url": "https://open.spotify.com/track/66FenlqXH5BFAGehrxovT0"
+    },
+    {
+      "added_at": "2023-12-10 14:36:57",
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 162506,
       "name": "Celine",
       "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
-    },
-    {
-      "added_at": "2023-12-10 14:36:57",
-      "album": {
-        "name": "Prazeres da Vida Noturna",
-        "url": "https://open.spotify.com/album/7gMJfejAZor5ULBw2oaHcX"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        }
-      ],
-      "duration_ms": 203128,
-      "name": "Prazeres da Vida Noturna",
-      "url": "https://open.spotify.com/track/66FenlqXH5BFAGehrxovT0"
     },
     {
       "added_at": "2023-12-10 14:36:57",
@@ -687,30 +687,6 @@
     {
       "added_at": "2023-12-10 14:36:57",
       "album": {
-        "name": "Meu Nome N\u00e3o \u00e9 Igor %",
-        "url": "https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 291764,
-      "name": "Poderosa",
-      "url": "https://open.spotify.com/track/2XlFBuim68cXb9Xp7LmERL"
-    },
-    {
-      "added_at": "2023-12-10 14:36:57",
-      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -731,6 +707,30 @@
       "duration_ms": 170647,
       "name": "N\u00fameros da Sorte",
       "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
+    },
+    {
+      "added_at": "2023-12-10 14:36:57",
+      "album": {
+        "name": "Meu Nome N\u00e3o \u00e9 Igor %",
+        "url": "https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 291764,
+      "name": "Poderosa",
+      "url": "https://open.spotify.com/track/2XlFBuim68cXb9Xp7LmERL"
     },
     {
       "added_at": "2023-12-10 14:36:57",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-12-10 14:36:57",
       "album": {
-        "name": "Namora & Disfar\u00e7a (Bonus Track)",
-        "url": "https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS"
-      },
-      "artists": [
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 102400,
-      "name": "Namora & Disfar\u00e7a - Bonus Track",
-      "url": "https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify"
-    },
-    {
-      "added_at": "2023-12-10 14:36:57",
-      "album": {
         "name": "O Bagulho \u00c9 Trap II",
         "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
@@ -891,18 +871,22 @@
     {
       "added_at": "2023-12-10 14:36:57",
       "album": {
-        "name": "Pepp@",
-        "url": "https://open.spotify.com/album/1BGVpDtN7BiwUKQYvhnJtm"
+        "name": "Namora & Disfar\u00e7a (Bonus Track)",
+        "url": "https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS"
       },
       "artists": [
         {
-          "name": "LH CHUCRO",
-          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         }
       ],
-      "duration_ms": 110994,
-      "name": "Pepp@",
-      "url": "https://open.spotify.com/track/6tV3ou10FfpVcUbUwPfTjs"
+      "duration_ms": 102400,
+      "name": "Namora & Disfar\u00e7a - Bonus Track",
+      "url": "https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify"
     },
     {
       "added_at": "2023-12-10 14:36:57",
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-12-10 14:36:57",
       "album": {
+        "name": "Pepp@",
+        "url": "https://open.spotify.com/album/1BGVpDtN7BiwUKQYvhnJtm"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        }
+      ],
+      "duration_ms": 110994,
+      "name": "Pepp@",
+      "url": "https://open.spotify.com/track/6tV3ou10FfpVcUbUwPfTjs"
+    },
+    {
+      "added_at": "2023-12-10 14:36:57",
+      "album": {
         "name": "A Moda Antiga",
         "url": "https://open.spotify.com/album/5FEknIpgVG1BDUdR7oZwgA"
       },
@@ -955,6 +955,30 @@
       "duration_ms": 140571,
       "name": "J.O.B",
       "url": "https://open.spotify.com/track/3rtiVqkInMU2EcezNyYKnE"
+    },
+    {
+      "added_at": "2023-12-10 14:36:57",
+      "album": {
+        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "S\u00f3 Olha - Ao Vivo",
+      "url": "https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY"
     },
     {
       "added_at": "2023-12-10 14:36:57",
@@ -1035,30 +1059,6 @@
     {
       "added_at": "2023-12-10 14:36:57",
       "album": {
-        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "S\u00f3 Olha - Ao Vivo",
-      "url": "https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY"
-    },
-    {
-      "added_at": "2023-12-10 14:36:57",
-      "album": {
         "name": "Primeiro de Maio (Gostosas Inteligentes)",
         "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
       },
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-12-10 14:36:57",
       "album": {
+        "name": "Fontalis / N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
+        "url": "https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        }
+      ],
+      "duration_ms": 91890,
+      "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
+      "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
+    },
+    {
+      "added_at": "2023-12-10 14:36:57",
+      "album": {
         "name": "Novinha do Peito Bicudo",
         "url": "https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-12-10 14:36:57",
       "album": {
-        "name": "Fontalis / N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
-        "url": "https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl"
-      },
-      "artists": [
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        }
-      ],
-      "duration_ms": 91890,
-      "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
-      "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
-    },
-    {
-      "added_at": "2023-12-10 14:36:57",
-      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -1179,6 +1179,30 @@
       "duration_ms": 135773,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1GsOoDPsPpXhW1oJ2nPwNg"
+    },
+    {
+      "added_at": "2023-12-10 14:36:57",
+      "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "RT Mallone",
+          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Hitchcock - Feat. RT Mallone",
+      "url": "https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez"
     },
     {
       "added_at": "2023-12-10 14:36:57",
@@ -1227,30 +1251,6 @@
       "duration_ms": 126245,
       "name": "Uk Drill",
       "url": "https://open.spotify.com/track/46nlWdYZz0uf5rqi6zyE3S"
-    },
-    {
-      "added_at": "2023-12-10 14:36:57",
-      "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9 Santiago",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        },
-        {
-          "name": "RT Mallone",
-          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Hitchcock - Feat. RT Mallone",
-      "url": "https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez"
     },
     {
       "added_at": "2023-12-10 14:36:57",

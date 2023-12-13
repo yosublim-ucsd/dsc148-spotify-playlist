@@ -20426,10 +20426,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 142080,
       "name": "prayer1",
       "url": "https://open.spotify.com/track/2R4sIoCrJb4OV5qcsNDIQ6"
+    },
+    {
+      "album": {
+        "name": "prayer1",
+        "url": "https://open.spotify.com/album/0fODpsuQX4BZSnYoEnRHCf"
+      },
+      "artists": [
+        {
+          "name": "april27",
+          "url": "https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "prayer1",
+      "url": "https://open.spotify.com/track/4GCI038c3eATmIc1NwNIzs"
     },
     {
       "album": {

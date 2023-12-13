@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: BAEKHO",
+  "description": "Future K-Pop hits! Cover: BOL4",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -12337,6 +12337,24 @@
     },
     {
       "album": {
+        "name": "Ready for the World",
+        "url": "https://open.spotify.com/album/4AUH5o7KAs0BpvJwH1Je77"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185386,
+      "name": "Ready for the World",
+      "url": "https://open.spotify.com/track/1zh1cJT5qzuhb0F2S6X9ba"
+    },
+    {
+      "album": {
         "name": "SUN SEEKER",
         "url": "https://open.spotify.com/album/1FdVBP7g9FfMa7ifgyY4iA"
       },
@@ -12550,7 +12568,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 182346,
       "name": "Right Now (Feat. Crush)",
       "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
@@ -13992,6 +14010,24 @@
       "duration_ms": 194520,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/782PCvZRZ6QZ1hAdYPZryr"
+    },
+    {
+      "album": {
+        "name": "Merry Go Round",
+        "url": "https://open.spotify.com/album/02QQbP6IQkaGymlMKEulGz"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212773,
+      "name": "Snowball",
+      "url": "https://open.spotify.com/track/1leUcadFG0xkJXoA6KDLlJ"
     },
     {
       "album": {
@@ -17736,7 +17772,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 235175,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/6Ca2C9ycBna1WXfL5cB6Gn"

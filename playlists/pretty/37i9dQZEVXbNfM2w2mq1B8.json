@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "num_followers": 14584,
+  "num_followers": 14591,
   "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU1NjU5MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU1NzQ1NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
         "url": "https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "\u0410\u043a\u043e \u0442\u0438 \u0432\u044a\u0440\u043d\u0430",
         "url": "https://open.spotify.com/album/5DBpbfOm95GyWDbU6vcVPH"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4Xbk3eXJZvRLr1JpbnBtg0"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
         "url": "https://open.spotify.com/album/2yFMOSTwQWSgBkR3wDA9YG"
@@ -69,23 +69,7 @@
       "url": "https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "Ulitsata",
-        "url": "https://open.spotify.com/album/0ayda6ZTtMLDwW6KF2YZMJ"
-      },
-      "artists": [
-        {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        }
-      ],
-      "duration_ms": 204829,
-      "name": "Ulitsata",
-      "url": "https://open.spotify.com/track/4X99ol0n6puMQpiQyMxHJn"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/5jAWxbv8a4smUJxeqeHuSp"
@@ -105,27 +89,39 @@
       "url": "https://open.spotify.com/track/4h1koe32J3Sl7KPFZkKLtQ"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "Alcohol",
-        "url": "https://open.spotify.com/album/57UKx4LXqW0P7PmT9OHXw8"
+        "name": "Ulitsata",
+        "url": "https://open.spotify.com/album/0ayda6ZTtMLDwW6KF2YZMJ"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
-        },
-        {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
         }
       ],
-      "duration_ms": 191666,
-      "name": "Alcohol",
-      "url": "https://open.spotify.com/track/1Oxshg4204lRdcogzvdP4x"
+      "duration_ms": 204829,
+      "name": "Ulitsata",
+      "url": "https://open.spotify.com/track/4X99ol0n6puMQpiQyMxHJn"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "Ne znaesh koya sam",
+        "url": "https://open.spotify.com/album/5Z5kepFgoYaMUlvBgrwSO0"
+      },
+      "artists": [
+        {
+          "name": "Djena",
+          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Ne e lyubov",
+      "url": "https://open.spotify.com/track/1vQSEMGnWWKlz7V6jh73kf"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b",
         "url": "https://open.spotify.com/album/2u1eRbwrIxnHDr3ZrJquPW"
@@ -145,23 +141,27 @@
       "url": "https://open.spotify.com/track/5UHIkr0EzHVc1aCvXArWRr"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "Ne znaesh koya sam",
-        "url": "https://open.spotify.com/album/5Z5kepFgoYaMUlvBgrwSO0"
+        "name": "Alcohol",
+        "url": "https://open.spotify.com/album/57UKx4LXqW0P7PmT9OHXw8"
       },
       "artists": [
         {
-          "name": "Djena",
-          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
+        },
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Ne e lyubov",
-      "url": "https://open.spotify.com/track/1vQSEMGnWWKlz7V6jh73kf"
+      "duration_ms": 191666,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/1Oxshg4204lRdcogzvdP4x"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
         "url": "https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ"
@@ -177,7 +177,23 @@
       "url": "https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "\u041f\u043e, \u043f\u043e, \u043f\u043e",
         "url": "https://open.spotify.com/album/2DnO6wHygXfwSr18zUbPdl"
@@ -197,71 +213,23 @@
       "url": "https://open.spotify.com/track/5cnMyNarUAcwZ6GkXguSDT"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+        "name": "Svekarvishte",
+        "url": "https://open.spotify.com/album/1yQjKheEkPgqOAWj7psGLY"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
         }
       ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+      "duration_ms": 183448,
+      "name": "Svekarvishte",
+      "url": "https://open.spotify.com/track/0F2jva2ZcSCOO2vSua8XH4"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "The Singles: Echoes from the Edge of Heaven",
-        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "Last Christmas - Single Version",
-      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -285,43 +253,47 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
-        "url": "https://open.spotify.com/album/4yarZg2w7Qn15Nc1lDecVD"
+        "name": "\u041a\u0430\u0442\u043e \u043f\u0440\u0435\u0434\u0438",
+        "url": "https://open.spotify.com/album/1bbDYtn6GLJatGb0AfpSVd"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
+          "name": "Desi Slava",
+          "url": "https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG"
         },
         {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
         }
       ],
-      "duration_ms": 171400,
-      "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
-      "url": "https://open.spotify.com/track/0mOFdyp76eRHMi09yTolXS"
+      "duration_ms": 196000,
+      "name": "\u041a\u0430\u0442\u043e \u043f\u0440\u0435\u0434\u0438",
+      "url": "https://open.spotify.com/track/0nf8PqV3YPGbVyZWnDR9oA"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "Svekarvishte",
-        "url": "https://open.spotify.com/album/1yQjKheEkPgqOAWj7psGLY"
+        "name": "MARGINALA",
+        "url": "https://open.spotify.com/album/5gDt0JJ8LDNz22Qt0FNH9i"
       },
       "artists": [
         {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+          "name": "Mom4eto",
+          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
+        },
+        {
+          "name": "Dimoff",
+          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
         }
       ],
-      "duration_ms": 183448,
-      "name": "Svekarvishte",
-      "url": "https://open.spotify.com/track/0F2jva2ZcSCOO2vSua8XH4"
+      "duration_ms": 214736,
+      "name": "MARGINALA",
+      "url": "https://open.spotify.com/track/0QW4josN9fFAy5cbN4oHHh"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -345,27 +317,43 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "MARGINALA",
-        "url": "https://open.spotify.com/album/5gDt0JJ8LDNz22Qt0FNH9i"
+        "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
+        "url": "https://open.spotify.com/album/4yarZg2w7Qn15Nc1lDecVD"
       },
       "artists": [
         {
-          "name": "Mom4eto",
-          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
         },
         {
-          "name": "Dimoff",
-          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
         }
       ],
-      "duration_ms": 214736,
-      "name": "MARGINALA",
-      "url": "https://open.spotify.com/track/0QW4josN9fFAy5cbN4oHHh"
+      "duration_ms": 171400,
+      "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
+      "url": "https://open.spotify.com/track/0mOFdyp76eRHMi09yTolXS"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "MRUSNO",
         "url": "https://open.spotify.com/album/2e1LIrta3mP1uOui80H8Lj"
@@ -385,7 +373,23 @@
       "url": "https://open.spotify.com/track/28c39bRqOQYmEnnxTF9Zru"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
+        "url": "https://open.spotify.com/album/2u9hkU7grdSjkLPClwZ3He"
+      },
+      "artists": [
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
+      "url": "https://open.spotify.com/track/3VjtC9G89HrlWKwd1TuWwk"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -405,75 +409,39 @@
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
-        "url": "https://open.spotify.com/album/2u9hkU7grdSjkLPClwZ3He"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 185217,
-      "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
-      "url": "https://open.spotify.com/track/3VjtC9G89HrlWKwd1TuWwk"
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+        "name": "The Singles: Echoes from the Edge of Heaven",
+        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+      "duration_ms": 265960,
+      "name": "Last Christmas - Single Version",
+      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "\u041a\u0430\u0442\u043e \u043f\u0440\u0435\u0434\u0438",
-        "url": "https://open.spotify.com/album/1bbDYtn6GLJatGb0AfpSVd"
-      },
-      "artists": [
-        {
-          "name": "Desi Slava",
-          "url": "https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG"
-        },
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "\u041a\u0430\u0442\u043e \u043f\u0440\u0435\u0434\u0438",
-      "url": "https://open.spotify.com/track/0nf8PqV3YPGbVyZWnDR9oA"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
         "url": "https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc"
@@ -489,26 +457,42 @@
       "url": "https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 207199,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "Christmas & Chill",
+        "url": "https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt"
       },
       "artists": [
         {
@@ -516,96 +500,12 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+      "duration_ms": 203493,
+      "name": "Santa Tell Me - Naughty Version",
+      "url": "https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
-        "url": "https://open.spotify.com/album/30tRJ14dRISdoMJeedfayf"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
-      "url": "https://open.spotify.com/track/2Fs3HuNZQ2QK0Qcfr19L8Y"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Godzilla (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "\u041f\u043e\u043b\u0443\u0434\u044f\u0445",
         "url": "https://open.spotify.com/album/7gJItUuU2u9TynYjbMB7QP"
@@ -625,107 +525,7 @@
       "url": "https://open.spotify.com/track/5SVhcxTgaQjQZBg8bFWiAV"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "\u0422\u043e\u043a\u0441\u0438\u0447\u0435\u043d",
-        "url": "https://open.spotify.com/album/34bAlG5aCwHO8CNodbQd5N"
-      },
-      "artists": [
-        {
-          "name": "Desi Slava",
-          "url": "https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "\u0422\u043e\u043a\u0441\u0438\u0447\u0435\u043d",
-      "url": "https://open.spotify.com/track/46w6RqZXx96cORKIbExvSu"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "MAZNA",
-        "url": "https://open.spotify.com/album/3cugOGZrC7vLybuDCJ3L0B"
-      },
-      "artists": [
-        {
-          "name": "Dimoff",
-          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
-        }
-      ],
-      "duration_ms": 121297,
-      "name": "MAZNA",
-      "url": "https://open.spotify.com/track/6fDWIHsi9yw805Op5G6dtD"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "Ustnite ti mrasni",
-        "url": "https://open.spotify.com/album/0YaFAOACGiIuKix5Kwc8fP"
-      },
-      "artists": [
-        {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Ustnite ti mrasni",
-      "url": "https://open.spotify.com/track/2z0cwGTvP2Dqx5p2Ia0c9U"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "7 Dni",
         "url": "https://open.spotify.com/album/6FjH4zDKyAEV8dZgzcFXOK"
@@ -741,123 +541,55 @@
       "url": "https://open.spotify.com/track/1BnF35gLqCRWiTzSWgC9hK"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "Spomeni / Anamniseis",
-        "url": "https://open.spotify.com/album/1gBBu1rUFOXrVNEuOmXnZc"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        },
-        {
-          "name": "Aristos Constantinou",
-          "url": "https://open.spotify.com/artist/2YVliflb2HHp7RBP3AtUuK"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Spomeni / Anamniseis",
-      "url": "https://open.spotify.com/track/4ihsE0B7tB0rIKdBRig7qq"
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
-        "url": "https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
       },
       "artists": [
         {
-          "name": "Tsvetelina Yaneva",
-          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 218400,
-      "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
-      "url": "https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF"
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "Men Si Tarsil",
-        "url": "https://open.spotify.com/album/5WNRNUPRA3iUd1IfJBt4tf"
+        "name": "Vtori dom",
+        "url": "https://open.spotify.com/album/6LY6OXijZsm3DHTS9GuvNl"
       },
       "artists": [
         {
-          "name": "Andrea",
-          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
         }
       ],
-      "duration_ms": 201533,
-      "name": "Dai Mi Vsichko",
-      "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
+      "duration_ms": 231111,
+      "name": "Vtori dom",
+      "url": "https://open.spotify.com/track/17YEUOeBPpIUIIORfXyFd8"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/0fv4ZkhqYX39VAB6IYmkbx"
-      },
-      "artists": [
-        {
-          "name": "Torino",
-          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
-        },
-        {
-          "name": "Pashata",
-          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
-        },
-        {
-          "name": "Kamelia",
-          "url": "https://open.spotify.com/artist/0m8Tk5oVIhtGD0QRQGKnNe"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/6rQCv5zfqq8NLcUJbS5G1u"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Creepin' (with The Weeknd & 21 Savage)",
-      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
-    },
-    {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -881,26 +613,62 @@
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+        "name": "Men Si Tarsil",
+        "url": "https://open.spotify.com/album/5WNRNUPRA3iUd1IfJBt4tf"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
         }
       ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+      "duration_ms": 201533,
+      "name": "Dai Mi Vsichko",
+      "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
     },
     {
-      "added_at": "2023-12-11 09:27:56",
+      "added_at": "2023-12-12 10:28:30",
       "album": {
-        "name": "Vtori dom",
-        "url": "https://open.spotify.com/album/6LY6OXijZsm3DHTS9GuvNl"
+        "name": "\u0422\u043e\u043a\u0441\u0438\u0447\u0435\u043d",
+        "url": "https://open.spotify.com/album/34bAlG5aCwHO8CNodbQd5N"
+      },
+      "artists": [
+        {
+          "name": "Desi Slava",
+          "url": "https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "\u0422\u043e\u043a\u0441\u0438\u0447\u0435\u043d",
+      "url": "https://open.spotify.com/track/46w6RqZXx96cORKIbExvSu"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "Ustnite ti mrasni",
+        "url": "https://open.spotify.com/album/0YaFAOACGiIuKix5Kwc8fP"
       },
       "artists": [
         {
@@ -908,9 +676,253 @@
           "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
         }
       ],
-      "duration_ms": 231111,
-      "name": "Vtori dom",
-      "url": "https://open.spotify.com/track/17YEUOeBPpIUIIORfXyFd8"
+      "duration_ms": 187746,
+      "name": "Ustnite ti mrasni",
+      "url": "https://open.spotify.com/track/2z0cwGTvP2Dqx5p2Ia0c9U"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
+        "url": "https://open.spotify.com/album/30tRJ14dRISdoMJeedfayf"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
+      "url": "https://open.spotify.com/track/2Fs3HuNZQ2QK0Qcfr19L8Y"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "3/3",
+        "url": "https://open.spotify.com/album/0iPAgdeorXevx4eVGu3rpt"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "FYRE",
+          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+        },
+        {
+          "name": "Yoana Sashova",
+          "url": "https://open.spotify.com/artist/0WFMejgWiqbnkzhp3c3p3L"
+        }
+      ],
+      "duration_ms": 176155,
+      "name": "SULZI",
+      "url": "https://open.spotify.com/track/3H1jUz6uPDIIUmfBvS0YhQ"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7"
+      },
+      "artists": [
+        {
+          "name": "Tsvetelina Yaneva",
+          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Godzilla (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "MAZNA",
+        "url": "https://open.spotify.com/album/3cugOGZrC7vLybuDCJ3L0B"
+      },
+      "artists": [
+        {
+          "name": "Dimoff",
+          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
+        }
+      ],
+      "duration_ms": 121297,
+      "name": "MAZNA",
+      "url": "https://open.spotify.com/track/6fDWIHsi9yw805Op5G6dtD"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "Spomeni / Anamniseis",
+        "url": "https://open.spotify.com/album/1gBBu1rUFOXrVNEuOmXnZc"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        },
+        {
+          "name": "Aristos Constantinou",
+          "url": "https://open.spotify.com/artist/2YVliflb2HHp7RBP3AtUuK"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Spomeni / Anamniseis",
+      "url": "https://open.spotify.com/track/4ihsE0B7tB0rIKdBRig7qq"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "FACTOR",
+        "url": "https://open.spotify.com/album/4UryWPho5YcedoV2E8ukOE"
+      },
+      "artists": [
+        {
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Skupa",
+      "url": "https://open.spotify.com/track/6LpL3NUIJuJ3zyBfdMXD2O"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "Sartse ot lego",
+        "url": "https://open.spotify.com/album/3Qu9mPOeyhnZZxsuupQgSp"
+      },
+      "artists": [
+        {
+          "name": "Djena",
+          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Sartse ot lego",
+      "url": "https://open.spotify.com/track/5Awm1t92craHebGMzwY4kl"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "AZ I TI",
+        "url": "https://open.spotify.com/album/1sGVD9m3Z9kTgDAZjt5W4H"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "duration_ms": 227878,
+      "name": "AZ I TI",
+      "url": "https://open.spotify.com/track/0itd5lrE0cjqqIho0TYTKN"
+    },
+    {
+      "added_at": "2023-12-12 10:28:30",
+      "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

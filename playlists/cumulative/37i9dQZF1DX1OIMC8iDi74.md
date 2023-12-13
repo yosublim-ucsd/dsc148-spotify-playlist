@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: Jon Casey & Pauline Herr
 
-312 songs - 17 hr 7 min
+313 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Flying Spaghetti Monster](https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Animal Vegetable Mineral Pt\. 1](https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w) | 4:09 | 2022-02-01 | 2023-11-18 |
 | [FOOTWORK](https://open.spotify.com/track/1LDAyB24s26kvMt6hXFBks) | [Dropwizz](https://open.spotify.com/artist/3t4Po0hp4Vi8XqKipK3WJQ) | [FOOTWORK](https://open.spotify.com/album/0oi8NQS13uy43aHcy3xSFi) | 3:53 | 2021-11-19 | 2022-02-01 |
 | [Forget It \(feat\. Oliver Tree\)](https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Radical Dude!](https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz) | 3:32 | 2022-02-01 |  |
-| [Fresh Outta Japan](https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i) | 1:56 | 2021-11-19 |  |
+| [Fresh Outta Japan](https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i) | 1:56 | 2021-11-19 | 2023-12-13 |
 | [Friday Night‬‬‬](https://open.spotify.com/track/78zc6DT7A2ccehmIqef9mT) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [Friday Night](https://open.spotify.com/album/3L7dWkpi2vNPu3qiskT6Yj) | 2:53 | 2022-02-01 | 2022-11-19 |
 | [Fright](https://open.spotify.com/track/61vWNSNihrBo2LvAfipWae) | [Dav the Ninja](https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg) | [In Peace](https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p) | 3:12 | 2021-11-19 | 2022-01-18 |
 | [Front To Back \- Bassnectar Remix](https://open.spotify.com/track/7e0fO3VlPSkbpha0A9olGS) | [Buku](https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Front To Back \(Bassnectar Remix\)](https://open.spotify.com/album/0ZMQG8fMB38nOh3n7Kyaqv) | 3:08 | 2021-11-19 | 2022-02-03 |
@@ -231,7 +231,7 @@
 | [q\-edits \#2](https://open.spotify.com/track/13YU8o2EdM9XZk8EU35YHQ) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [q\-edits \#2](https://open.spotify.com/album/1rqnd5Dw3Jf7cSJIzNbTF5) | 2:21 | 2021-11-19 | 2022-07-29 |
 | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc) | 3:45 | 2022-02-01 |  |
 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 | 2021-11-19 |  |
-| [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 | 2021-11-19 | 2023-12-09 |
+| [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 | 2021-11-19 |  |
 | [Redline](https://open.spotify.com/track/4aazAfFSKtI5XIlkauNyJC) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG) | [Redline](https://open.spotify.com/album/4CIMWIQasnF1cP3lUjpFt0) | 3:56 | 2021-11-19 | 2022-01-12 |
 | [REDloop](https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [REDloop](https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq) | 3:45 | 2022-05-11 | 2023-12-11 |
 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 | 2022-02-01 |  |
@@ -240,7 +240,8 @@
 | [Replay](https://open.spotify.com/track/47dkQqmCfAjtKGofoDyd7x) | [Buku](https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Replay](https://open.spotify.com/album/6R8buPuDpgqL0fgSsdUWXF) | 3:48 | 2023-06-23 | 2023-10-17 |
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-11-19 | 2023-12-02 |
 | [Run Around](https://open.spotify.com/track/1RXh1aAInzM41tTIMwLMxX) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Run Around](https://open.spotify.com/album/6PEApdxop2cHLXra7RScde) | 2:19 | 2021-11-19 | 2022-07-29 |
-| [RXDIO ACTXVE](https://open.spotify.com/track/6K0VFqzZ53URyjfAjLDsqK) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXDIO ACTXVE](https://open.spotify.com/album/44AORFKg2rxNyDfppWfFwt) | 2:34 | 2023-11-24 |  |
+| [RXDIO ACTXVE](https://open.spotify.com/track/4JM7qqRrxfO3AH9KHAZB3c) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXDIO ACTXVE](https://open.spotify.com/album/6qPrdS4BljoJLdVUz2Y4j5) | 2:34 | 2023-11-24 |  |
+| [RXDIO ACTXVE](https://open.spotify.com/track/6K0VFqzZ53URyjfAjLDsqK) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXDIO ACTXVE](https://open.spotify.com/album/44AORFKg2rxNyDfppWfFwt) | 2:34 | 2023-11-24 | 2023-12-13 |
 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 | 2021-11-19 | 2023-12-09 |
 | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/album/2aOduwWZEWYDJ8389eDUar) | 3:12 | 2021-11-19 | 2023-03-02 |
 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 | 2021-11-19 | 2023-11-25 |

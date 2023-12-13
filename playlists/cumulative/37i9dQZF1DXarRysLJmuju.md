@@ -4,7 +4,7 @@
 
 > The latest pop hits in one playlist\. Cover: Tate McRae
 
-1,248 songs - 2 day 15 hr 21 min
+1,249 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -907,6 +907,7 @@
 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 | 2021-12-31 | 2022-03-12 |
 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 | 2023-01-13 | 2023-08-05 |
 | [redruM](https://open.spotify.com/track/0pnG6sIThf9kp9ebTqn44L) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [redruM](https://open.spotify.com/album/3sIQjig3kXpArR2S0nJ77P) | 2:52 | 2022-01-23 | 2022-04-29 |
+| [RELAX AFTER WORK WITH A DRINK](https://open.spotify.com/track/6pCesx8BBK7A6wevRbTVfk) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 1:57 | 2023-12-11 |  |
 | [Retrograde](https://open.spotify.com/track/1uni8la2ZuN5oGlkAFBn9R) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/1Dk3gly6NaYZkimTVCFK4s) | 3:39 | 2023-10-20 | 2023-12-02 |
 | [Right To Be Wrong](https://open.spotify.com/track/7E1gOUWLZfCDn6yEeZuafk) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Right To Be Wrong](https://open.spotify.com/album/47NhbVR5PrcYhGWXBk6Osm) | 2:06 | 2023-03-31 | 2023-04-15 |
 | [RIP To Us](https://open.spotify.com/track/52gczhu2uZy1nA5Algwlb9) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [RIP To Us](https://open.spotify.com/album/2QxT6vvUDYvqPWCRwFqiyM) | 2:34 | 2022-02-18 | 2022-03-12 |

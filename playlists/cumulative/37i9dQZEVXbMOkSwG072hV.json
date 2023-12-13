@@ -129,6 +129,32 @@
     },
     {
       "album": {
+        "name": "10 Carros",
+        "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "10 Carros",
+      "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
+    },
+    {
+      "album": {
         "name": "10 Things I Hate About You",
         "url": "https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6"
       },
@@ -2956,7 +2982,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 170202,
       "name": "At\u00e9 o Amanhecer - Speed",
       "url": "https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa"
@@ -3188,6 +3214,24 @@
       "duration_ms": 238153,
       "name": "AUTOMOTIVO DE ANDROMEDA (feat. MC LCKaiique, DJ Mandrake 100% Original, DJ Sagaz)",
       "url": "https://open.spotify.com/track/0CUNf5qYkPP78SYVMSrBgy"
+    },
+    {
+      "album": {
+        "name": "Automotivo do Pou",
+        "url": "https://open.spotify.com/album/6tJNic6hEOrd96MaAGd2we"
+      },
+      "artists": [
+        {
+          "name": "DJ NK3",
+          "url": "https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208658,
+      "name": "Automotivo do Pou",
+      "url": "https://open.spotify.com/track/0Tcmw0oNHha8kOIjmpiquE"
     },
     {
       "album": {
@@ -4674,6 +4718,24 @@
       "duration_ms": 155062,
       "name": "Bateu 20H",
       "url": "https://open.spotify.com/track/7CLwQ5MSaQjUD0Va27RAp1"
+    },
+    {
+      "album": {
+        "name": "BABYMONSTER Debut Digital Single [BATTER UP]",
+        "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188179,
+      "name": "BATTER UP",
+      "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
     },
     {
       "album": {
@@ -7572,7 +7634,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 156431,
       "name": "CHEIRO NA CAMISETA",
       "url": "https://open.spotify.com/track/6Td7nVeAOUz13zhDlUY8jv"
@@ -9404,7 +9466,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 192111,
       "name": "DEFINITIVA",
       "url": "https://open.spotify.com/track/2krRK5mPFejIewRSmkTKpb"
@@ -16420,7 +16482,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -19562,7 +19624,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 169193,
       "name": "Linda Mas N\u00e3o Presta",
       "url": "https://open.spotify.com/track/79ofWsbscjK85XQxbln8Rf"
@@ -19938,7 +20000,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -27441,6 +27503,24 @@
     },
     {
       "album": {
+        "name": "Pagode Russo",
+        "url": "https://open.spotify.com/album/3gIfSf28nagEBHytw6LOFb"
+      },
+      "artists": [
+        {
+          "name": "DJ JM DA IGREJINHA",
+          "url": "https://open.spotify.com/artist/686zEK0WsrBBJZ7livewAq"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118204,
+      "name": "Pagode Russo - Vers\u00e3o BH",
+      "url": "https://open.spotify.com/track/2aph9lbzZRsVr2WsMkJHQn"
+    },
+    {
+      "album": {
         "name": "Pagodin",
         "url": "https://open.spotify.com/album/0qxF58RwVxjcah4ktJyc8I"
       },
@@ -27728,7 +27808,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 214090,
       "name": "Pane no Sistema",
       "url": "https://open.spotify.com/track/7GjAXYuxjuXPbQJzRnNdob"
@@ -28464,7 +28544,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 159080,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
@@ -29050,6 +29130,24 @@
       "duration_ms": 135725,
       "name": "Plug de S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/2kxCo8vUJATmp3sL6L61dv"
+    },
+    {
+      "album": {
+        "name": "POCPOC",
+        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "POCPOC",
+      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
     },
     {
       "album": {
@@ -35751,6 +35849,24 @@
     },
     {
       "album": {
+        "name": "Tem Caf\u00e9",
+        "url": "https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5"
+      },
+      "artists": [
+        {
+          "name": "Hits Forr\u00f3",
+          "url": "https://open.spotify.com/artist/4xyZi8RUfi2Dh5UAHA8Ylq"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158122,
+      "name": "Tem Caf\u00e9",
+      "url": "https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b"
+    },
+    {
+      "album": {
         "name": "734",
         "url": "https://open.spotify.com/album/2P6mi8tsokPdCozUzsGMUF"
       },
@@ -35864,7 +35980,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 151384,
       "name": "Terminei Com A Ex",
       "url": "https://open.spotify.com/track/301UKq8uNAv7Zj7MQkQWyd"
@@ -35916,6 +36032,24 @@
       "duration_ms": 193548,
       "name": "Terra Prometida",
       "url": "https://open.spotify.com/track/2HNTWEJx0FtU6UQfT01VR1"
+    },
+    {
+      "album": {
+        "name": "Teto (Savana)",
+        "url": "https://open.spotify.com/album/0yuAr5ra8VBL9CG1zkFqPG"
+      },
+      "artists": [
+        {
+          "name": "pr\u00e9vias br",
+          "url": "https://open.spotify.com/artist/3BM9K0G2UnaLTD1hGxRmPA"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172265,
+      "name": "Teto (Savana)",
+      "url": "https://open.spotify.com/track/0Jb2lAOdoBR9ReI4ejXOYa"
     },
     {
       "album": {
@@ -36478,7 +36612,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 109384,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa"
@@ -36858,6 +36992,52 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+    },
+    {
+      "album": {
+        "name": "TRAP DE MALOKA",
+        "url": "https://open.spotify.com/album/5mDbL5J9Unm0GVZnZCMLmH"
+      },
+      "artists": [
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Danike",
+          "url": "https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK"
+        },
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Kayin",
+          "url": "https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        },
+        {
+          "name": "NERESZZ",
+          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "TRAP DE MALOKA",
+      "url": "https://open.spotify.com/track/7t0GcNEgTvKsBHP2EzWb4G"
     },
     {
       "album": {
@@ -39072,7 +39252,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 129562,
       "name": "Voc\u00ea J\u00e1 Sabe Qual \u00e9 - Piseiro",
       "url": "https://open.spotify.com/track/0A1Q6GhFPqYftFc3m9X4nq"
@@ -39370,6 +39550,36 @@
       "duration_ms": 192205,
       "name": "Vou Te Chamar de Vida",
       "url": "https://open.spotify.com/track/4mhIbwS9IqbUEMjR1kKIhx"
+    },
+    {
+      "album": {
+        "name": "Vultures",
+        "url": "https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Bump J",
+          "url": "https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237534,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
     },
     {
       "album": {

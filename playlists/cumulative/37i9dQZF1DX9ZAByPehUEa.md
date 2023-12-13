@@ -4,7 +4,7 @@
 
 > A happy place.
 
-275 songs - 18 hr 16 min
+276 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Buy Yourself friends](https://open.spotify.com/track/4kR4TenQVl9u5Emckj0fmX) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Shake Edits 1](https://open.spotify.com/album/6AnMnkiTrAAISLnkoHEpMk) | 8:16 | 2022-04-06 | 2022-04-19 |
 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 | 2023-06-16 |  |
 | [Calling Out Your Name \(I Can't Sleep\)](https://open.spotify.com/track/6zFjilXmasxhO0woY1ZgBo) | [Ben Rau](https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC) | [Calling Out Your Name \(I Can't Sleep\)](https://open.spotify.com/album/4I56zzyUFllXY2KPf1ycO1) | 3:31 | 2022-05-10 | 2022-07-15 |
-| [Celebration](https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celebration](https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK) | 2:39 | 2022-06-09 |  |
+| [Celebration](https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celebration](https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK) | 2:39 | 2022-06-09 | 2023-12-13 |
 | [Centocelle Nightmare](https://open.spotify.com/track/5AGmBzhFiZINB9icr6PXzi) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [Centocelle Nightmare](https://open.spotify.com/album/23Ws9k70pKIRbNTECWqZwe) | 3:01 | 2022-04-06 | 2022-04-21 |
 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 | 2022-01-14 |  |
 | [Chicago](https://open.spotify.com/track/2sJLAv6morhsfspLyV6XeS) | [East Coast Love Affair](https://open.spotify.com/artist/0FKqQAbZijrpGaRw6PqDDI) | [Chicago](https://open.spotify.com/album/2B6XynX7Yeijpi4C73pJKs) | 6:36 | 2022-06-09 | 2022-07-29 |
@@ -234,6 +234,7 @@
 | [Say U Luv Me](https://open.spotify.com/track/5EmMaG8PMp7Z9Z3s7Xxcp7) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2) | [Say U Luv Me](https://open.spotify.com/album/2vFU3j11ugCvViOeAU1nGN) | 3:58 | 2022-01-14 | 2022-07-20 |
 | [Say U Luv Me \- salute Remix](https://open.spotify.com/track/7uzMSnGDevJO66l5Y99OmJ) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Say U Luv Me](https://open.spotify.com/album/4PLYvCdeBDApCHZGiOfrQB) | 4:31 | 2022-01-14 | 2022-07-23 |
 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2022-01-14 | 2023-11-04 |
+| [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 | 2023-10-02 |  |
 | [Shit Cant Make Anything](https://open.spotify.com/track/39XdVtrOfiXIMqZ9YMJYLO) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Shit Cant Make Anything](https://open.spotify.com/album/52PiRAX8jw2CtkaEJSLZJr) | 3:13 | 2022-01-14 | 2022-07-29 |
 | [Silk Robe](https://open.spotify.com/track/1PLWMDuWR3gfsuBGMRUgY8) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06) | [Silk Robe](https://open.spotify.com/album/2cREL8DhgMw5f2VYC1I1Qv) | 3:38 | 2022-01-14 | 2022-07-28 |
 | [Sizzling](https://open.spotify.com/track/7AkuWVEfviEjaNa8ps3uVw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Paradise](https://open.spotify.com/artist/4tcARMnMEtBq3onlfD8Rgl) | [Sizzling EP](https://open.spotify.com/album/4W9aq61WczmInpQ2RBGj2B) | 5:21 | 2022-04-06 | 2023-06-10 |

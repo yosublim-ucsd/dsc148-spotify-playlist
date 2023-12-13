@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Solar, Białas
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,170 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,227 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Sextape](https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Sextape / MTW](https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2) | 3:13 |
 | 50 | [A ty co?](https://open.spotify.com/track/1hdwR8gQ0yEWRvLG4IcVkZ) | [E V](https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX), [Peja](https://open.spotify.com/artist/5IQZA1dxUd3Qv73mHNln59), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [A ty co?](https://open.spotify.com/album/3nUntRCPVHxANbFbapjqYc) | 3:00 |
 
-Snapshot ID: `MCwzYWZlODJhOGJkOWFlYzcwODg0ZTQ3ZWM0YTc3ZWZjMmY3OTg3ZTQy`
+Snapshot ID: `MCxhNTE2OWFkNGUxYjdlMGZhYzM1ZmVkNzcyMGE4MTgzNGUyZDg5ZWM5`

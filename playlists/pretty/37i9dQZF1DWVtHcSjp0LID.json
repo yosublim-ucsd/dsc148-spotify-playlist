@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 65603,
+  "num_followers": 65620,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTI0NTMxODFmMmJkZjFlMDA1MzM0YzUxZjUwMDYwYzA4YjkzYWI3",
+  "snapshot_id": "MCxiN2FkNTlmNjRlMmI5OTU4ZmZjODRlZWIyZDgwOTI3OWFmN2ZkMjQ3",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Dubmission (Original Edit)",
+        "url": "https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 395209,
+      "name": "Dubmission - Original",
+      "url": "https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Perfect in a Way (Remixes)",
         "url": "https://open.spotify.com/album/17doTJCIOkuz5LzMRioJvA"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 383250,
       "name": "Perfect in a Way - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/0G57FO3IP8Q6TTLiAMRLuc"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Dubmission (Original Edit)",
-        "url": "https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 395209,
-      "name": "Dubmission - Original",
-      "url": "https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -615,38 +615,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2"
-      },
-      "artists": [
-        {
-          "name": "Holly North",
-          "url": "https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p"
-        }
-      ],
-      "duration_ms": 250936,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 275199,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
       },
@@ -667,6 +635,38 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 275199,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2"
+      },
+      "artists": [
+        {
+          "name": "Holly North",
+          "url": "https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p"
+        }
+      ],
+      "duration_ms": 250936,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Years On Years (Remixes)",
         "url": "https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy"
       },
@@ -679,6 +679,26 @@
       "duration_ms": 123674,
       "name": "Years On Years",
       "url": "https://open.spotify.com/track/7jp4qGkFD3kSMekSTC8pTL"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Between Dreams and Reality EP",
+        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        },
+        {
+          "name": "Niko Schwind",
+          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+        }
+      ],
+      "duration_ms": 528410,
+      "name": "Between Dreams and Reality - Niko Schwind Remix",
+      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -707,26 +727,6 @@
       "duration_ms": 277567,
       "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
       "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Between Dreams and Reality EP",
-        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        },
-        {
-          "name": "Niko Schwind",
-          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
-        }
-      ],
-      "duration_ms": 528410,
-      "name": "Between Dreams and Reality - Niko Schwind Remix",
-      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -871,22 +871,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "In Another Lifetime",
-        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
+        "name": "Moon III",
+        "url": "https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Iron Curtis",
+          "url": "https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH"
         },
         {
-          "name": "Roos Jonker",
-          "url": "https://open.spotify.com/artist/7zKcaqZKaQv5O6oZYBoFBf"
+          "name": "Johannes Albert",
+          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
         }
       ],
-      "duration_ms": 303734,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/4yAGUSWR2xzOEV0SLgBWZX"
+      "duration_ms": 117868,
+      "name": "The Other Room",
+      "url": "https://open.spotify.com/track/3BqEAXUXFoBLm2JXbEuG7o"
     }
   ],
   "unique_name": "Deep Study",

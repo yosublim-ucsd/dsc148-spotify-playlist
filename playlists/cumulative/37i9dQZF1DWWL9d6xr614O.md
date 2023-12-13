@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-119 songs - 9 hr 19 min
+120 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Showers of Love](https://open.spotify.com/track/6TCAsOAsWZTwtI1SG22Ah3) | [Zid Yarcia](https://open.spotify.com/artist/2jOoGnvtJSkXrK0Ffcfcu0) | [Showers of Love](https://open.spotify.com/album/49Ednnj5rYeNJZgucYCTne) | 4:13 | 2023-03-29 |  |
 | [Sigaw Ng Puso](https://open.spotify.com/track/0SDhDia5qGCTCyDflHT0T5) | [Erik Santos](https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE) | [Sigaw Ng Puso](https://open.spotify.com/album/3houv6BmnMopjWysIRohVd) | 6:42 | 2022-04-15 | 2023-06-02 |
 | [Sigaw Ng Puso](https://open.spotify.com/track/5MhOky7jQ564pwCf6QbZrC) | [Erik Santos](https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE) | [Sigaw Ng Puso](https://open.spotify.com/album/2flD7DmaCDO7JAlWRBZakP) | 6:42 | 2023-05-05 |  |
-| [Sinasamba Kita](https://open.spotify.com/track/46VE4tQX8PVDo5z6ADonxH) | [Benjamin Angeles](https://open.spotify.com/artist/3xvz4vKojMUraZ8aR92Hbx) | [Sinasamba Kita](https://open.spotify.com/album/4l55w0haSeiQxv5VlLwZHM) | 4:16 | 2022-04-15 |  |
+| [Sinasamba Kita](https://open.spotify.com/track/1aBymU4ycD12YpUBT9nuaj) | [Benjamin Angeles](https://open.spotify.com/artist/3xvz4vKojMUraZ8aR92Hbx) | [Lord I Come](https://open.spotify.com/album/4IBxJfazadFZ2fEhSmITGy) | 4:16 | 2023-05-05 |  |
+| [Sinasamba Kita](https://open.spotify.com/track/46VE4tQX8PVDo5z6ADonxH) | [Benjamin Angeles](https://open.spotify.com/artist/3xvz4vKojMUraZ8aR92Hbx) | [Sinasamba Kita](https://open.spotify.com/album/4l55w0haSeiQxv5VlLwZHM) | 4:16 | 2022-04-15 | 2023-12-13 |
 | [Song of Freedom](https://open.spotify.com/track/3KuxuZqks50WAxMivImeBq) | [Mansville Worship](https://open.spotify.com/artist/0QEPHzdypXwFJStRnhHau0), [Ann Castro](https://open.spotify.com/artist/72DpgjafpMYZ3Wu1FYMPYE) | [Song of Freedom](https://open.spotify.com/album/1XPhZB0bje8woprQRWUcU0) | 4:25 | 2022-04-15 |  |
 | [SUMASALANGIT](https://open.spotify.com/track/5SUO3VivayfBeZ4lxOFtBJ) | [Judah Vibar](https://open.spotify.com/artist/027cRwJWoGBJ54pT7yMZ9Q) | [SUMASALANGIT](https://open.spotify.com/album/0gbnXnnrDu85LXuMZcXp5o) | 5:27 | 2023-03-31 |  |
 | [The Good God](https://open.spotify.com/track/13yRKcO7grILliLJxcGqDb) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [The Good God](https://open.spotify.com/album/2NT0QHJDsW8lupjeCBluL6) | 4:32 | 2022-04-15 | 2023-05-06 |

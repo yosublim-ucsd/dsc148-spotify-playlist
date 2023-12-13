@@ -1095,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "I'll miss you",
+        "url": "https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4"
+      },
+      "artists": [
+        {
+          "name": "Bassi Fox",
+          "url": "https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "I'll miss you",
+      "url": "https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe"
+    },
+    {
+      "album": {
         "name": "Idle",
         "url": "https://open.spotify.com/album/2jY7LdWedFXFppeqDTfGoq"
       },
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 390796,
       "name": "Rainchecks In Montreal",
       "url": "https://open.spotify.com/track/4eKwLXECCFNv4A8LzghcbP"

@@ -3414,10 +3414,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 196680,
       "name": "\ud558\ud558\ud558\uc3ed 25th",
       "url": "https://open.spotify.com/track/1OOTvc4Ak2K6rPTxMUzXWh"
+    },
+    {
+      "album": {
+        "name": "HAPPY 25th JAURIM",
+        "url": "https://open.spotify.com/album/0EYPtkfya6BlVlpejEyChD"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "\ud558\ud558\ud558\uc3ed 25th",
+      "url": "https://open.spotify.com/track/2nCRVI1O6qV4mHzg9tviU1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4OyEPaWHBdk"

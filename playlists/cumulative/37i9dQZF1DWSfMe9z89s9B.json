@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 155151,
       "name": "BIG BOYS DON'T CRY",
       "url": "https://open.spotify.com/track/5VLm4s6b7rUFus9NDbynAR"
@@ -5042,6 +5042,24 @@
       "duration_ms": 142269,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/52CFxHZxBbiZ1l9eTFpFxJ"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/37UvvLpEtCEfHZTRVK2KEn"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/3ynnGOYFsSPb0aUmWYZ6T3"
     },
     {
       "album": {
@@ -11316,7 +11334,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 173506,
       "name": "MiSS BEHAVE",
       "url": "https://open.spotify.com/track/5ShRfLOfpUdmDLGqLWrGKq"
@@ -12338,7 +12356,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 208706,
       "name": "ODEE",
       "url": "https://open.spotify.com/track/1DJLf5CTIbjI8gPqfZZ6Wj"
@@ -14653,6 +14671,24 @@
     },
     {
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/11O3GQQAOAVvsqrUnbtXgl"
+      },
+      "artists": [
+        {
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200597,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/2c28pB1VU06vVgOF5fzcTB"
+    },
+    {
+      "album": {
         "name": "Running In A Circle",
         "url": "https://open.spotify.com/album/1ir1Q3x9UIYnrkyt9LkMYq"
       },
@@ -16350,7 +16386,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 162724,
       "name": "Strawberry Perfume (feat. Essosa)",
       "url": "https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT"

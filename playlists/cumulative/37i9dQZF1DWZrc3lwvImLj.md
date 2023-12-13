@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-380 songs - 16 hr 41 min
+387 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [And There You Were](https://open.spotify.com/track/2B1QXUUeEdMoZ92ggrA1Rh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And We Eternal](https://open.spotify.com/album/7LNpuu6rkVrWpQ4zZJ8ST5) | 2:24 | 2023-11-14 | 2023-11-29 |
 | [And There You Were](https://open.spotify.com/track/2OLfuAdRtXwsoORwiWahPe) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A New Path](https://open.spotify.com/album/0sFVHCju4aS5BEiZtMt2LC) | 2:24 | 2023-08-14 | 2023-08-31 |
 | [And There You Were](https://open.spotify.com/track/4pe4ikorUF17h8dplM2JKv) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Where Love Is Endless](https://open.spotify.com/album/4RNFuZ5GkDi2Xlw7GtxzuH) | 2:24 | 2023-11-07 | 2023-11-17 |
-| [And There You Were](https://open.spotify.com/track/52jbzZPhldQ7ETBu20S0yr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Good Night My Boy](https://open.spotify.com/album/1hVGbiYBujj0qqqJymDUUq) | 2:24 | 2023-11-14 |  |
+| [And There You Were](https://open.spotify.com/track/52jbzZPhldQ7ETBu20S0yr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Good Night My Boy](https://open.spotify.com/album/1hVGbiYBujj0qqqJymDUUq) | 2:24 | 2023-11-14 | 2023-12-13 |
+| [And There You Were](https://open.spotify.com/track/54Z5v1xvglyOEh3KWsNsEr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Dream](https://open.spotify.com/album/4wJjh6QsoPWdDObVTHHJMh) | 2:24 | 2023-12-12 |  |
 | [And There You Were](https://open.spotify.com/track/5qcXvge6W2VFVwH20TNoPA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And Blueberries](https://open.spotify.com/album/5L2Y9P1JFnFirIsk9RbqWp) | 2:24 | 2023-08-14 | 2023-09-13 |
 | [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 | 2023-09-18 | 2023-10-25 |
 | [And There You Were](https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [From Out Of Nowhere](https://open.spotify.com/album/0UetsAF1JQXncnzxmbua3v) | 2:24 | 2023-08-07 | 2023-08-23 |
@@ -92,6 +93,7 @@
 | [El último vals](https://open.spotify.com/track/2rw220lcEpbi4RwyefjinW) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [El último vals](https://open.spotify.com/album/4b03MTEd0QTyJLIphDIKLk) | 3:52 | 2021-12-14 | 2022-05-21 |
 | [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 | 2023-10-10 |  |
 | [Elmegyünk](https://open.spotify.com/track/1hhRujLttXr7iYXQbFsgcT) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Elmegyünk](https://open.spotify.com/album/6ChJGxSn8Zawyjz2pzQe24) | 2:18 | 2022-05-04 |  |
+| [Elysian](https://open.spotify.com/track/1QYSgHrLS4eQpXA5Dn90nn) | [Dan Lambert](https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI) | [Elysian](https://open.spotify.com/album/1AMivM48J7s1rX5jPAj1Xm) | 2:36 | 2023-12-12 |  |
 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 | 2022-03-30 |  |
 | [En Croix](https://open.spotify.com/track/654q2B3IISzqGLze0GR9oC) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [En Croix](https://open.spotify.com/album/4B3HBQx4nsZnUWJ822TwR0) | 2:32 | 2022-02-16 | 2023-11-16 |
 | [Eosphoros](https://open.spotify.com/track/4QqXkYp0fsZZjyTBr7QtSS) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Eosphoros](https://open.spotify.com/album/09BUR6MGDwFlKtGWv0b7AM) | 2:09 | 2022-05-20 | 2023-11-16 |
@@ -106,6 +108,7 @@
 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 | 2021-12-14 | 2023-10-11 |
 | [Everyday](https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Everyday](https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2) | 2:19 | 2023-11-14 |  |
 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 | 2022-08-03 |  |
+| [Faith](https://open.spotify.com/track/5FR4qwfIZJu9sUBjR77l99) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [Faith](https://open.spotify.com/album/50QPaMBUUiOcn9MgsYryG3) | 2:11 | 2023-12-12 |  |
 | [Faith](https://open.spotify.com/track/4omFiQ6RZGmoC5QncFwZ5P) | [Oscar Grönborg](https://open.spotify.com/artist/6oelQEIUrYRIGVxWcFmtwn) | [Faith](https://open.spotify.com/album/30yFD3pNvrdGDCyGHB81lE) | 2:00 | 2022-05-04 | 2023-11-16 |
 | [Far Away Lands](https://open.spotify.com/track/7qMseyFxCjFXL4F1zU3RBA) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Far Away Lands](https://open.spotify.com/album/4sTwqQ9YDLigNpLqKFXiaM) | 3:14 | 2023-08-07 |  |
 | [Feathers](https://open.spotify.com/track/1CWes1ypvDpEAfpDpB5uWy) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Feathers](https://open.spotify.com/album/7jM0M6ag5Kcg2nK4sPWAl9) | 2:38 | 2023-11-07 |  |
@@ -172,6 +175,7 @@
 | [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 | 2021-12-14 | 2022-07-29 |
 | [Loma Alta](https://open.spotify.com/track/02K5XSjaev4kpxVFfYP7nd) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Loma Alta](https://open.spotify.com/album/7slnb5GLn20qDuRKGcXHel) | 2:10 | 2022-12-21 |  |
 | [London Sleeps](https://open.spotify.com/track/4f2TVTpqaFsZAXR8Vdzeor) | [Roberto Cacciapaglia](https://open.spotify.com/artist/359LKbZWLk6u3IpyNE2CQG) | [London Sleeps](https://open.spotify.com/album/4iIHf13M4302dc5yYuqZpC) | 4:50 | 2023-01-19 |  |
+| [Longing For](https://open.spotify.com/track/4aKiZxaugtwU2ow4p13qFJ) | [Herman Lundblad](https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz) | [Longing For](https://open.spotify.com/album/6LNMqIM9c1D2kBNrGFg7VN) | 2:23 | 2023-12-12 |  |
 | [Longing For Yesterday](https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:37 | 2021-12-14 | 2022-04-15 |
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2021-12-14 | 2022-05-21 |
 | [Lugn](https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lugn](https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh) | 2:18 | 2023-06-20 |  |
@@ -275,6 +279,7 @@
 | [Semplice](https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU) | [Simone Scarda](https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG) | [Semplice](https://open.spotify.com/album/4rHM6zmyde1MECxLPHw3vW) | 2:21 | 2022-03-17 |  |
 | [Serendipitous Moments](https://open.spotify.com/track/4U5cOQybpKtE5UU3uanEPi) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Serendipitous Moments](https://open.spotify.com/album/5gPa0qiVCOINiP66aBGGie) | 2:55 | 2023-09-05 |  |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-14 | 2023-05-10 |
+| [Shadow Lake](https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Shadow Lake](https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz) | 2:31 | 2023-12-12 |  |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2021-12-14 |  |
 | [Singularities](https://open.spotify.com/track/0Tkj0zVric1PWv2NVauxdi) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Singularities](https://open.spotify.com/album/6S4hCHy5zVfBy0Ceauipg9) | 2:29 | 2022-08-03 |  |
 | [Slow Retrieve](https://open.spotify.com/track/2Fw8qNX783GsOjRGPF4Diq) | [Joseph Stanley](https://open.spotify.com/artist/1qW4m07516Q5lMSerc7mr9) | [Slow Retrieve](https://open.spotify.com/album/6YsrFsOvySKWa7ye5xyTGl) | 4:03 | 2021-12-14 | 2022-05-21 |
@@ -310,6 +315,7 @@
 | [The Beginning](https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [The Beginning](https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA) | 2:04 | 2023-10-24 |  |
 | [The Corner Of Your Eye](https://open.spotify.com/track/2Ajr0zS7FbrGCYv0SmSIVI) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC) | [The Corner Of Your Eye](https://open.spotify.com/album/72gewhmKIYjaOLmf7Ka58e) | 1:58 | 2023-01-27 | 2023-11-08 |
 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-08-07 |  |
+| [The Last Falling Leaves](https://open.spotify.com/track/4n3FI6GHSd8HFhpiCqqF3s) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [The Last Falling Leaves](https://open.spotify.com/album/2GzrCiNw6A4YOc7cEBHDMG) | 2:51 | 2023-12-12 |  |
 | [The Might](https://open.spotify.com/track/57yfoJ5x6tF6B3vhhHr35I) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [The Might](https://open.spotify.com/album/3SA356mCov4slJR4zhvPXv) | 2:19 | 2023-08-14 |  |
 | [The Other Place](https://open.spotify.com/track/6RXyFqmnqRyVR7hAHSDCnD) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [The Other Place](https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8) | 2:46 | 2022-05-04 |  |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2021-12-14 |  |
@@ -373,6 +379,7 @@
 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 | 2021-12-14 | 2023-10-11 |
 | [Winged Melancholy](https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Winged Melancholy](https://open.spotify.com/album/4XXfes67gExeafFINOtoPL) | 2:19 | 2021-12-14 | 2023-10-11 |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-02-16 | 2023-11-08 |
+| [Winter Rêverie](https://open.spotify.com/track/7dUTihMyOevIEfSVM0ovfw) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Winter Rêverie](https://open.spotify.com/album/3fVMCuAguDmDn6yheHDdtr) | 2:11 | 2023-12-12 |  |
 | [Wishes](https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Wishes](https://open.spotify.com/album/5gaGIa6VJgu090XhGHc6To) | 2:02 | 2022-12-21 |  |
 | [Wistful Heart](https://open.spotify.com/track/7FUeGwCMN82RlhFLkBRbJV) | [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Wistful Heart](https://open.spotify.com/album/4oKAXORzsZEqbSNX0qIR0K) | 2:33 | 2021-12-14 | 2022-04-23 |
 | [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 | 2021-12-14 | 2023-10-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 106104,
+  "num_followers": 106135,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMThmOWI5OTVmYzFhZTU4ODM1NjE3OWYxNGVjYzI0NWZkODBmZjkz",
+  "snapshot_id": "MCw5YjU5MTdlNDk0YmNhOTNlMmZhMWM4MDM5MjM5N2RjMWNhYTMzZTUz",
   "tracks": [
     {
       "added_at": "2023-12-07 21:09:36",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-12-07 21:09:36",
       "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
       "artists": [
         {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 228144,
-      "name": "Toro y Pampa - En Vivo",
-      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
+      "duration_ms": 268840,
+      "name": "Perro Amor Explota - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/7a0yeeNookEFR7YjYAhyrf"
     },
     {
       "added_at": "2023-12-07 21:09:36",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-12-07 21:09:36",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
         }
       ],
-      "duration_ms": 268840,
-      "name": "Perro Amor Explota - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/7a0yeeNookEFR7YjYAhyrf"
+      "duration_ms": 228144,
+      "name": "Toro y Pampa - En Vivo",
+      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
     },
     {
       "added_at": "2023-12-07 21:09:36",
@@ -1323,38 +1323,6 @@
     {
       "added_at": "2023-12-07 21:09:36",
       "album": {
-        "name": "De No Olvidar (En Vivo)",
-        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "De No Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
-    },
-    {
-      "added_at": "2023-12-07 21:09:36",
-      "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 414120,
-      "name": "Marad\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH"
-    },
-    {
-      "added_at": "2023-12-07 21:09:36",
-      "album": {
         "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
         "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 339026,
       "name": "La Leyenda del Hada y el Mago - En Vivo",
       "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
+    },
+    {
+      "added_at": "2023-12-07 21:09:36",
+      "album": {
+        "name": "Huracanes en Luna Plateada (En Vivo)",
+        "url": "https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "Labios de Seda - En Vivo",
+      "url": "https://open.spotify.com/track/65tZTcEHzp0kUd09bJxM6B"
+    },
+    {
+      "added_at": "2023-12-07 21:09:36",
+      "album": {
+        "name": "De No Olvidar (En Vivo)",
+        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "De No Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
     },
     {
       "added_at": "2023-12-07 21:09:36",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-12-07 21:09:36",
       "album": {
-        "name": "Ped\u00eda Siempre Temas en la Radio\u2026 (En Vivo)",
-        "url": "https://open.spotify.com/album/4lPT2G3v115JNbMqsfrYjn"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 258816,
-      "name": "Ped\u00eda Siempre Temas en la Radio\u2026 - En Vivo",
-      "url": "https://open.spotify.com/track/66C4KiBFq72ehXJH43yQoc"
-    },
-    {
-      "added_at": "2023-12-07 21:09:36",
-      "album": {
         "name": "Una Vez M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 289074,
       "name": "Una Vez M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs"
+    },
+    {
+      "added_at": "2023-12-07 21:09:36",
+      "album": {
+        "name": "Ped\u00eda Siempre Temas en la Radio\u2026 (En Vivo)",
+        "url": "https://open.spotify.com/album/4lPT2G3v115JNbMqsfrYjn"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 258816,
+      "name": "Ped\u00eda Siempre Temas en la Radio\u2026 - En Vivo",
+      "url": "https://open.spotify.com/track/66C4KiBFq72ehXJH43yQoc"
     },
     {
       "added_at": "2023-12-07 21:09:36",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2023-12-07 21:09:36",
       "album": {
-        "name": "El Vuelo del Drag\u00f3n, Pt. 3",
-        "url": "https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x"
+        "name": "Strangerdanger (En Vivo)",
+        "url": "https://open.spotify.com/album/01GM7YDRe55MZHxHgjFgG7"
       },
       "artists": [
         {
-          "name": "Palo Pandolfo",
-          "url": "https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf"
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
         }
       ],
-      "duration_ms": 289804,
-      "name": "Ella Vendr\u00e1",
-      "url": "https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU"
+      "duration_ms": 184919,
+      "name": "Strangerdanger - En Vivo",
+      "url": "https://open.spotify.com/track/16KeH2DTffqLuGOtOnHxLZ"
     }
   ],
   "unique_name": "Vivo de Rock",

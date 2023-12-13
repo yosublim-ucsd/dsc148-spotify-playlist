@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173955,
+  "num_followers": 173975,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzc5NTYzZDFhZjU4MjRlOTljZmU4ZTljMDMwZjllZTQ1OGI4NTBh",
+  "snapshot_id": "MCxkZTZkYzk1OWI4YWI2OGY4ZThlM2FjYzYzNmJmZGNjOTQ2MDllNDY3",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Loud Guitars, Big Suspicions",
-        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
-      },
-      "artists": [
-        {
-          "name": "Shannon Curfman",
-          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "No Riders",
-      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Nowhere Left to Go",
         "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 227333,
       "name": "Nowhere Left to Go",
       "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Loud Guitars, Big Suspicions",
+        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
+      },
+      "artists": [
+        {
+          "name": "Shannon Curfman",
+          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "No Riders",
+      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
     },
     {
       "added_at": "2022-03-08 14:01:09",

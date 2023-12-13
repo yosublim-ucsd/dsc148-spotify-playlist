@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Usher & H.E.R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,454 likes - 175 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,629 likes - 175 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Mixed Signals](https://open.spotify.com/track/37Ul8ruDPOdhMuCRYbSUn6) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr), [Matt McGhee](https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN) | [Conversations From A Payphone](https://open.spotify.com/album/0T4Z5y6addAX9snpSlDNr7) | 4:08 |
 | 175 | [Man Down](https://open.spotify.com/track/5M3VijDTOgFsu9wtT2v4WM) | [JAAS](https://open.spotify.com/artist/58d2ZdXnLiZ4xhRNef78kt) | [Man Down](https://open.spotify.com/album/6MpUQUAXYyf69a2kSvIpyb) | 2:36 |
 
-Snapshot ID: `MCxhNDQyOWU5Y2QyOGYyZjBmNzUxMzdhZTE5NjliNzIyZTVjNmE5YzBj`
+Snapshot ID: `MCw3ZGQ5ODI2MjUzZjhiMzg3M2E2OTViNGUxMTVmOGVjMmJkYzQ3MGU2`

@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68616,
+  "num_followers": 68623,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmU4Njk3ZGNkODI0ZDEyYmYxYzA1YmM3YTIyNzExZjZlMDk2MWMz",
+  "snapshot_id": "MCxlZjZiYzAxNDcyNzNiYjk1ZTE3M2JhMDkwMzJlYWY5Njc1ZWU4OWMx",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
+        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Snapphaneklanen",
+      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Folkets R\u00f6st",
         "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 193908,
       "name": "Enda V\u00e4gen Fram",
       "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
-        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "Snapphaneklanen",
-      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "G\u00f6r Det \u00c4nd\u00e5",
-        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Vakna",
-      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "H\u00f6g standard",
         "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 316000,
       "name": "H\u00f6g standard",
       "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "G\u00f6r Det \u00c4nd\u00e5",
+        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Vakna",
+      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -811,18 +811,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Rotl\u00f6sa Singlar",
-        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
+        "name": "SELFMADE",
+        "url": "https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g"
       },
       "artists": [
         {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 233934,
-      "name": "Bida Din Tid",
-      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
+      "duration_ms": 240062,
+      "name": "Onda \u00f6gat",
+      "url": "https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -847,6 +851,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
+      },
+      "artists": [
+        {
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+        }
+      ],
+      "duration_ms": 233934,
+      "name": "Bida Din Tid",
+      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "The Tomtations Show",
         "url": "https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 282124,
       "name": "Aina \u00c4lskar Reggae",
       "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "SELFMADE",
-        "url": "https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g"
-      },
-      "artists": [
-        {
-          "name": "Blizzy",
-          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
-        },
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 240062,
-      "name": "Onda \u00f6gat",
-      "url": "https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC"
     }
   ],
   "unique_name": "Svensk Reggae",

@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: ratbag",
-  "num_followers": 292676,
+  "num_followers": 292777,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODMwZThhZjRlZTBjMDBlYWQyNTk1MTY5MTViMjEyZGZhOTVlODAx",
+  "snapshot_id": "MCxkMWFmMzdhMDVmMmMxZWRiMGQyNDI4NGRkNWUxNWM4YzFjNDkwMmQ0",
   "tracks": [
     {
       "added_at": "2023-12-08 17:28:54",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL"
     },
     {
+      "added_at": "2023-12-12 21:23:18",
+      "album": {
+        "name": "Spirit World Tour",
+        "url": "https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2"
+      },
+      "artists": [
+        {
+          "name": "Sword II",
+          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
+        }
+      ],
+      "duration_ms": 207618,
+      "name": "First Rule of the Bug",
+      "url": "https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC"
+    },
+    {
       "added_at": "2023-12-08 17:28:54",
       "album": {
         "name": "Tomorrow's Fire",
@@ -1196,7 +1212,7 @@
           "url": "https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj"
         }
       ],
-      "duration_ms": 199879,
+      "duration_ms": 199772,
       "name": "fool for you",
       "url": "https://open.spotify.com/track/4uhx82pIQtY9S3xmHKbztZ"
     },

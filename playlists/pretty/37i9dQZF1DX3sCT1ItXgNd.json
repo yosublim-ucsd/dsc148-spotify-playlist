@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: i\u00f1igo quintero",
-  "num_followers": 991773,
+  "num_followers": 991847,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjJiMDVhYzkyZjk3MjFkMDhiMDdlMGMyODQzNTNlMmFmZWIwY2I3",
+  "snapshot_id": "MCw1YmY4Y2YzYzUzOWJmM2VlNDRlNDUwYjNjYjNmYTM4N2QyZjc3NGYx",
   "tracks": [
     {
       "added_at": "2023-12-11 18:39:13",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-12-11 18:39:13",
       "album": {
-        "name": "S\u00e9 lo Que Hicisteis",
-        "url": "https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "Natos y Waor",
-          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
-        }
-      ],
-      "duration_ms": 209265,
-      "name": "S\u00e9 lo Que Hicisteis",
-      "url": "https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd"
-    },
-    {
-      "added_at": "2023-12-11 18:39:13",
-      "album": {
         "name": "Olvid\u00e9 Olvidarte",
         "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 181840,
       "name": "Olvid\u00e9 Olvidarte",
       "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
+    },
+    {
+      "added_at": "2023-12-11 18:39:13",
+      "album": {
+        "name": "S\u00e9 lo Que Hicisteis",
+        "url": "https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "duration_ms": 209265,
+      "name": "S\u00e9 lo Que Hicisteis",
+      "url": "https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd"
     },
     {
       "added_at": "2023-12-11 18:39:13",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-12-11 18:39:13",
       "album": {
-        "name": "Hablando En Plata",
-        "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
-        }
-      ],
-      "duration_ms": 188345,
-      "name": "Hablando En Plata",
-      "url": "https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F"
-    },
-    {
-      "added_at": "2023-12-11 18:39:13",
-      "album": {
         "name": "El Wey",
         "url": "https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 197836,
       "name": "El Wey",
       "url": "https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5"
+    },
+    {
+      "added_at": "2023-12-11 18:39:13",
+      "album": {
+        "name": "Hablando En Plata",
+        "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 188345,
+      "name": "Hablando En Plata",
+      "url": "https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F"
     },
     {
       "added_at": "2023-12-11 18:39:13",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-12-11 18:39:13",
       "album": {
+        "name": "TE TRAJE FLORES",
+        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "COMO TE QUIERO YO",
+      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
+    },
+    {
+      "added_at": "2023-12-11 18:39:13",
+      "album": {
         "name": "Frenes\u00ed",
         "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 204492,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
-    },
-    {
-      "added_at": "2023-12-11 18:39:13",
-      "album": {
-        "name": "TE TRAJE FLORES",
-        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "COMO TE QUIERO YO",
-      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
     },
     {
       "added_at": "2023-12-11 18:39:13",

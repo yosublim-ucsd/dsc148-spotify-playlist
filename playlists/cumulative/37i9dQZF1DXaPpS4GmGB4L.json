@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 255285,
       "name": "Bankman",
       "url": "https://open.spotify.com/track/2Pnmd8q9aMbByETxKPHQHq"
@@ -2970,6 +2970,28 @@
       "duration_ms": 203481,
       "name": "That's What You Do",
       "url": "https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk"
+    },
+    {
+      "album": {
+        "name": "The Bait In The Snare",
+        "url": "https://open.spotify.com/album/5JV5PJBe0MqEdiwLDbxN4H"
+      },
+      "artists": [
+        {
+          "name": "Nick Moss Band",
+          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
+        },
+        {
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "The Bait In The Snare",
+      "url": "https://open.spotify.com/track/2jk8ZBsS18w67UjQO8u3qK"
     },
     {
       "album": {

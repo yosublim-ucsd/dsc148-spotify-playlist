@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: 50 Cent
 
-589 songs - 1 day 8 hr 58 min
+590 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,8 @@
 | [NO LOVE LOST](https://open.spotify.com/track/7vB7zhGbL8gpIIuY97dyRY) | [RUNXGUN](https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI), [Kid Kold](https://open.spotify.com/artist/6igqpK05GtVQi9w4MSTWnt) | [NO LOVE LOST](https://open.spotify.com/album/0boWKLcAd00Aaozdw08JLw) | 2:24 | 2022-09-23 | 2022-11-12 |
 | [No Recognition](https://open.spotify.com/track/36K0WAKZhRaTXvBIHjiNS7) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [No Recognition](https://open.spotify.com/album/3ifWcPzyVDRIWejXzSVsKU) | 2:27 | 2022-07-01 | 2023-02-18 |
 | [Nobody \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/1W7gmQ7AgRMIUthrV0OD0h) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [King's Disease II](https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ) | 4:42 | 2022-04-29 | 2022-11-12 |
-| [Noir](https://open.spotify.com/track/4YF8Idp8iaVuNeot5NovUE) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [CONDUCTOR MACHINE](https://open.spotify.com/album/494PJlKkoC3pSrUK9l6jjW) | 2:31 | 2023-12-01 |  |
+| [Noir](https://open.spotify.com/track/1i2jEFzWKiLU6XupSzrJl5) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [CONDUCTOR MACHINE](https://open.spotify.com/album/4viREbIq5blFYimsKv6EI3) | 2:31 | 2023-12-08 |  |
+| [Noir](https://open.spotify.com/track/4YF8Idp8iaVuNeot5NovUE) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [CONDUCTOR MACHINE](https://open.spotify.com/album/494PJlKkoC3pSrUK9l6jjW) | 2:31 | 2023-12-01 | 2023-12-13 |
 | [Nose Ring](https://open.spotify.com/track/5I7Ld6K21mpD4rvlFXMRwr) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Nose Ring](https://open.spotify.com/album/06NZbsWUEvE8QNqW7w5ZgQ) | 3:19 | 2022-06-03 | 2022-07-23 |
 | [Nosetalgia](https://open.spotify.com/track/7aK5rlTVxSgcqShPMI1TTH) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [My Name Is My Name](https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC) | 3:36 | 2022-12-16 |  |
 | [Note To Self \(Feat\. Big Sean, Wale, Joey Bada$$ & Hitboy\)](https://open.spotify.com/track/5GSUrmDtxynQhBDLz7X2Mt) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [CHOMP 2](https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK) | 5:23 | 2022-04-29 | 2023-03-04 |

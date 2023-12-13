@@ -4,7 +4,7 @@
 
 > Funk\-inspired beats by latinos.
 
-107 songs - 6 hr 44 min
+108 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Fuma](https://open.spotify.com/track/1AYFgqbN7PuAFQ9gBf6DFx) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 3:12 | 2022-11-22 |  |
 | [Funky Fiesta](https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:20 | 2022-11-22 |  |
 | [Funky Man](https://open.spotify.com/track/0sosHfdwwsZV5BZsdbzB4t) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [Joe Bataan's Latin Soul Party: Black Sugar, Coco Lagos Y Sus Orates, Lu Logia Sarabanda & Joe Bataan](https://open.spotify.com/album/4NoBPQUYBcBmJBswHuQ8f4) | 2:08 | 2022-11-22 | 2022-12-04 |
+| [funkysolo](https://open.spotify.com/track/1wd9Yc43eVRgsfivN750MU) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [funkysolo](https://open.spotify.com/album/7HhpsWu3oXmYHGqYDkQ79V) | 3:46 | 2023-12-12 |  |
 | [Gobiérname](https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:31 | 2023-03-03 |  |
 | [Gobiérname](https://open.spotify.com/track/6Nh3jUe0llv1BsbyGraH5T) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Gobiérname](https://open.spotify.com/album/3cAjgVllvtmZAFN8xodK08) | 3:31 | 2022-11-22 | 2023-03-11 |
 | [Golden Choice](https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 3:48 | 2022-11-22 |  |
@@ -57,7 +58,7 @@
 | [Imposible](https://open.spotify.com/track/2xh8Xu93BdvH6a5GeappzM) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [Siempre Siempre](https://open.spotify.com/album/19SGpkKErbNmC4mbRF5x54) | 4:24 | 2022-11-22 | 2023-01-28 |
 | [In My Bones](https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [In My Bones](https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp) | 3:37 | 2023-07-14 |  |
 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 | 2022-11-22 |  |
-| [Juntos](https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:19 | 2023-03-24 |  |
+| [Juntos](https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:19 | 2023-03-24 | 2023-12-13 |
 | [Ki Flip](https://open.spotify.com/track/1JMCvBGLY8DvM8nXKGjP7D) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 2:35 | 2022-11-22 | 2023-10-11 |
 | [La Canción Bootleg](https://open.spotify.com/track/5SuQfdbJJzQqESfYZVts8P) | [Bruno Borlone](https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo) | [La Canción Bootleg](https://open.spotify.com/album/4kgFCJTsidOorDHEAWUA3J) | 4:21 | 2022-11-22 | 2022-11-25 |
 | [La Canción Bootleg](https://open.spotify.com/track/6ZL6eps0c2N7Ans3z6P4fS) | [Bruno Borlone](https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo) | [La Canción Bootleg](https://open.spotify.com/album/7mpvDiCsmHouF7FrQjE84T) | 4:31 | 2022-11-22 | 2022-12-22 |

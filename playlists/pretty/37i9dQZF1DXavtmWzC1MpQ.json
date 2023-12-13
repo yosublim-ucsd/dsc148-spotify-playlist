@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 129249,
+  "num_followers": 129339,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGFkOGFiMTZhM2EzOGJmMDNlYjJjZTkyMDc0NTMxOGU0NGM5NWNm",
+  "snapshot_id": "MCwxYTJmOGQyN2UyYmU3NjcwMjY3NTdkZjZjZmIzZTE0ZWE1MDA4OTRm",
   "tracks": [
     {
       "added_at": "2023-06-19 13:01:14",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Thunderstorms vol II",
-        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
-      },
-      "artists": [
-        {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Dripping Wet Leaves and Thunder",
-      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Light Forest Rain",
         "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
       },
@@ -363,18 +347,34 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Relaxed Minds",
-        "url": "https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm"
+        "name": "Thunderstorms vol II",
+        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
       },
       "artists": [
         {
-          "name": "Relaxed Minds",
-          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
         }
       ],
-      "duration_ms": 155295,
-      "name": "Tropical Waves",
-      "url": "https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs"
+      "duration_ms": 228500,
+      "name": "Dripping Wet Leaves and Thunder",
+      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Terapheutic Thunder",
+        "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f9h\u00e9 \u6108\u5408",
+          "url": "https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD"
+        }
+      ],
+      "duration_ms": 134313,
+      "name": "Presence of Thor",
+      "url": "https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Terapheutic Thunder",
-        "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
+        "name": "Relaxed Minds",
+        "url": "https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm"
       },
       "artists": [
         {
-          "name": "Y\u00f9h\u00e9 \u6108\u5408",
-          "url": "https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD"
+          "name": "Relaxed Minds",
+          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
         }
       ],
-      "duration_ms": 134313,
-      "name": "Presence of Thor",
-      "url": "https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ"
+      "duration_ms": 155295,
+      "name": "Tropical Waves",
+      "url": "https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -555,38 +555,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Country Birds",
-        "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
-      },
-      "artists": [
-        {
-          "name": "Hinterl\u00e4nder",
-          "url": "https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Pretty Birds",
-      "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Light Forest Rain",
-        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
-      },
-      "artists": [
-        {
-          "name": "Smoothe Sounds",
-          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Light Forest Rain Long",
-      "url": "https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "2017 Relaxing Outdoor Soundscapes",
         "url": "https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l"
       },
@@ -619,18 +587,34 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Thicket Winging",
-        "url": "https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l"
+        "name": "Light Forest Rain",
+        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
       },
       "artists": [
         {
-          "name": "Sounds of the Forest",
-          "url": "https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6"
+          "name": "Smoothe Sounds",
+          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
         }
       ],
-      "duration_ms": 376298,
-      "name": "Lakeside Repose",
-      "url": "https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY"
+      "duration_ms": 258000,
+      "name": "Light Forest Rain Long",
+      "url": "https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Country Birds",
+        "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
+      },
+      "artists": [
+        {
+          "name": "Hinterl\u00e4nder",
+          "url": "https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Pretty Birds",
+      "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
+        "name": "Thicket Winging",
+        "url": "https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l"
+      },
+      "artists": [
+        {
+          "name": "Sounds of the Forest",
+          "url": "https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6"
+        }
+      ],
+      "duration_ms": 376298,
+      "name": "Lakeside Repose",
+      "url": "https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
         "name": "Nature",
         "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Nature Sounds",
-        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
-      },
-      "artists": [
-        {
-          "name": "Nature Recordings",
-          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
-        }
-      ],
-      "duration_ms": 243919,
-      "name": "Summmer Forest",
-      "url": "https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 249739,
       "name": "Wave Foam",
       "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Nature Sounds",
+        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
+        }
+      ],
+      "duration_ms": 243919,
+      "name": "Summmer Forest",
+      "url": "https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM"
     },
     {
       "added_at": "2023-06-19 13:01:14",

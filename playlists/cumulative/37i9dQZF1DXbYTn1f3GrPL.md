@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-224 songs - 9 hr 38 min
+226 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Dream In Color](https://open.spotify.com/track/6Jl2hMsoSdY0RsfJZuGt9P) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Dream In Color](https://open.spotify.com/album/48i0tcVHtsvSeeZAFkNsPU) | 2:39 | 2023-04-03 |  |
 | [Drink the Dew](https://open.spotify.com/track/3uUXUwWgQ0SdkAY6BAJE4d) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Drink the Dew](https://open.spotify.com/album/5U5M1cpNoamvoYevrQQIOK) | 2:18 | 2023-04-03 |  |
 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2023-04-03 |  |
-| [EA \- Vail Bizier \- Comme tu veux](https://open.spotify.com/track/5ciI7iwMWAT5OpfHUOoDRp) | [Vail Bizier](https://open.spotify.com/artist/33QYi4D3jB1OJig8upNeMR) | [Comme tu veux](https://open.spotify.com/album/5npx3pFFCHzhZ2UH9yRkaS) | 2:21 | 2023-04-12 |  |
+| [EA \- Vail Bizier \- Comme tu veux](https://open.spotify.com/track/5ciI7iwMWAT5OpfHUOoDRp) | [Vail Bizier](https://open.spotify.com/artist/33QYi4D3jB1OJig8upNeMR) | [Comme tu veux](https://open.spotify.com/album/5npx3pFFCHzhZ2UH9yRkaS) | 2:21 | 2023-04-12 | 2023-12-13 |
 | [Eastbound and North](https://open.spotify.com/track/3ZoAuHnyRnb4X0HBfyYGIR) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Eastbound and North](https://open.spotify.com/album/739lH4T8HIvoHWzJ9xOClz) | 2:54 | 2023-04-03 |  |
 | [Echoes In The Wind](https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Echoes In The Wind](https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0) | 2:17 | 2023-04-03 |  |
 | [Ember Walk](https://open.spotify.com/track/7Iq0ZUPmHIqREIW6YW1MY8) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Ember Walk](https://open.spotify.com/album/5zvCB2Y4vMviQhVQt3iKFL) | 1:49 | 2023-04-03 | 2023-08-22 |
@@ -175,12 +175,14 @@
 | [She Sleeps](https://open.spotify.com/track/09GlKjOqndkGAXQW6b2YBa) | [Alvair](https://open.spotify.com/artist/3wwqxuKPDc2Lce3y94D48e) | [She Sleeps](https://open.spotify.com/album/24fkh13bTwIZ07ERd2XOg9) | 3:16 | 2023-04-03 |  |
 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 | 2023-04-03 |  |
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2023-04-03 |  |
+| [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 | 2023-12-11 |  |
 | [Sleeping Giant](https://open.spotify.com/track/07mYJZtAOLNsmCTQ8lt1BN) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Sleeping Giant](https://open.spotify.com/album/6ehXRByrOmrh5mwEjzXhCP) | 2:42 | 2023-04-03 |  |
 | [Sleeping On Clouds](https://open.spotify.com/track/3hZOoFLCKOWk7UlHbqQbo0) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Sleeping On Clouds](https://open.spotify.com/album/6EQ1DXLD8BGNnK2hgmcJv3) | 2:00 | 2023-11-29 |  |
 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2023-04-03 |  |
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2023-04-03 |  |
 | [Small Shelter](https://open.spotify.com/track/5Jo3ULRpXZqzc4bY8uhdFm) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Small Shelter](https://open.spotify.com/album/586Tbs7Rzob4HBU0eyCAId) | 1:41 | 2023-07-24 | 2023-08-22 |
 | [Snuggle Snore](https://open.spotify.com/track/2rt4PaD8ZPtTdF3nz15Sjc) | [Nell Watts](https://open.spotify.com/artist/3eKFzxUit6eaVMkmsfrI5Y) | [Snuggle Snore](https://open.spotify.com/album/249QCyyRj3rD7uy4zEwp9J) | 1:33 | 2023-05-03 | 2023-08-22 |
+| [Snuggled](https://open.spotify.com/track/75Zh8LLgK1jnGbHsAMN2vv) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Snuggled](https://open.spotify.com/album/3xjUvrQEXkBv2V1NiMw3Pv) | 2:11 | 2023-12-11 |  |
 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 | 2023-04-03 | 2023-04-19 |
 | [Solituned](https://open.spotify.com/track/2IBVV6781F86tJbtVP0M6k) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Solituned](https://open.spotify.com/album/3HtvOePMqTZ6XXSUbzL5gi) | 3:18 | 2023-04-03 | 2023-04-13 |
 | [Someplace Good](https://open.spotify.com/track/4l2aLCFBcycKU6Scz2esUs) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Someplace Good](https://open.spotify.com/album/4XjLBRHYd7E66x2pXxaDkB) | 3:28 | 2023-04-03 |  |

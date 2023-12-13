@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > All juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,218 likes - 169 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,232 likes - 169 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 18 | [Keep Things Random](https://open.spotify.com/track/7ElqztGIlLw0QQXiUR6Tk4) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [The World I'm Searching For](https://open.spotify.com/album/740kshLk68k7I9KSXFi8Hg) | 2:54 |
 | 19 | [Tigh Pop](https://open.spotify.com/track/54oQyfr7as59L7u4yvHS3H) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Tigh Pop](https://open.spotify.com/album/3yQOXiQZJVFSyovlXUhulQ) | 4:13 |
 | 20 | [Call Me When You're Lonely](https://open.spotify.com/track/4s7qAt7SbGCY7zUsEHvzJr) | [Eli Mich](https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj) | [Call Me When You're Lonely](https://open.spotify.com/album/18W2EsJg8RAEsFeOxkKEOu) | 3:11 |
-| 21 | [Kota on the plane \- MGNA Crrrta Remix](https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [MGNA Crrrtr](https://open.spotify.com/artist/5KCMTtoQ1ouhC4GGHZQb8m) | [Kota on the plane \(MGNA Crrrta Remix\)](https://open.spotify.com/album/3GM9knfczDc5qvrFAwL70Y) | 2:53 |
+| 21 | [Kota on the plane \- MGNA Crrrta Remix](https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Kota on the plane \(MGNA Crrrta Remix\)](https://open.spotify.com/album/3GM9knfczDc5qvrFAwL70Y) | 2:53 |
 | 22 | [first time \- OTR Remix](https://open.spotify.com/track/3J9yZngntlcWtUQHkmxgfF) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [first time \- OTR Remix](https://open.spotify.com/album/5b7vqarpGmJL9TBKv0rZJy) | 3:17 |
 | 23 | [Looking For Love](https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:50 |
 | 24 | [Freedom \(In Ur Mind\)](https://open.spotify.com/track/1eUW1kuvyCq6oFUXNLIumU) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Freedom \(In Ur Mind\)](https://open.spotify.com/album/3GRl72NOdFsZt7N55tGeS8) | 2:54 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 168 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 169 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCxlN2M3NjhjZDY0NTZkY2Q0MmQ2Y2ExNWI3MzAyNDlmNmI1ZTRkNzJm`
+Snapshot ID: `MCw3ZmI5MDQ4OTAxZGI4YTg5ZWMzM2VmNjU4NGY0ZjQxNDU2NjMzYjNi`

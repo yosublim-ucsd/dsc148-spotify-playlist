@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the internet. Cover: Lil Mabu",
-  "num_followers": 1392661,
+  "num_followers": 1392752,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDZjOTM2NzRjY2Q2NGVmZGI1YTU1YTVjZGQyZDkwMWZlYjk2YTE5",
+  "snapshot_id": "MCw1MDM2ZWE3YzlmZjk0ZjgxZTc4NmNlZGI5MTUxNDA3OGZiOTcyZmYz",
   "tracks": [
     {
       "added_at": "2023-12-06 21:50:48",
@@ -23,6 +23,22 @@
       "duration_ms": 93428,
       "name": "Diamondz n Roses (Back It Up!)",
       "url": "https://open.spotify.com/track/1kJSda5yj2yM7NLXItqgZD"
+    },
+    {
+      "added_at": "2023-12-08 22:46:00",
+      "album": {
+        "name": "douji feva",
+        "url": "https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5"
+      },
+      "artists": [
+        {
+          "name": "Barretta",
+          "url": "https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl"
+        }
+      ],
+      "duration_ms": 105229,
+      "name": "douji feva",
+      "url": "https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -45,20 +61,56 @@
       "url": "https://open.spotify.com/track/38R5sydMbsBzSPGPMfmtpb"
     },
     {
-      "added_at": "2023-12-08 22:46:00",
+      "added_at": "2023-12-12 21:16:28",
       "album": {
-        "name": "douji feva",
-        "url": "https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5"
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
       },
       "artists": [
         {
-          "name": "Barretta",
-          "url": "https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl"
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
         }
       ],
-      "duration_ms": 105229,
-      "name": "douji feva",
-      "url": "https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI"
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "sins (let me in) [Remix]",
+        "url": "https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "sins (let me in) - Remix",
+      "url": "https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Soak City (Do it)",
+        "url": "https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "duration_ms": 123547,
+      "name": "Soak City (Do it)",
+      "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -83,42 +135,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "sins (let me in) [Remix]",
-        "url": "https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 164589,
-      "name": "sins (let me in) - Remix",
-      "url": "https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o"
-    },
-    {
-      "added_at": "2023-12-07 20:20:23",
-      "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bombs Away",
-      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Running Late",
         "url": "https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 127137,
       "name": "Running Late",
       "url": "https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Soak City (Do it)",
-        "url": "https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        }
-      ],
-      "duration_ms": 123547,
-      "name": "Soak City (Do it)",
-      "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
     },
     {
       "added_at": "2023-12-07 20:20:23",
@@ -163,6 +163,22 @@
       "duration_ms": 119015,
       "name": "Mmhmm",
       "url": "https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU"
+    },
+    {
+      "added_at": "2023-12-07 20:20:23",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
     },
     {
       "added_at": "2023-12-01 05:00:00",

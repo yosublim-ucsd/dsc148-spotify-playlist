@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Thiaguinho, L7NNON",
-  "num_followers": 292211,
+  "num_followers": 292202,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjZiMTJhMGFlMDUyNDc5MzY0ZWQ1ZTRjZTE5MTc3N2E0NWQzZWE1",
+  "snapshot_id": "MCw3Mjc1MDc1NzBkMGQ0Mjc2OTI2MDU5ZDFiMTU0MDU0ZDZiMjg0ZTli",
   "tracks": [
     {
       "added_at": "2023-12-08 10:12:50",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-12-08 10:12:50",
       "album": {
-        "name": "Afetropia",
-        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 157628,
-      "name": "Te Ver Sorrindo",
-      "url": "https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD"
-    },
-    {
-      "added_at": "2023-12-08 10:12:50",
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 207500,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
+    },
+    {
+      "added_at": "2023-12-08 10:12:50",
+      "album": {
+        "name": "Afetropia",
+        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 157628,
+      "name": "Te Ver Sorrindo",
+      "url": "https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD"
     },
     {
       "added_at": "2023-12-08 10:12:50",

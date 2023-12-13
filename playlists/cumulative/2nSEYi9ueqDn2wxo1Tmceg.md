@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-715 songs - 2 day 1 hr 3 min
+716 songs - 2 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Rainbows and Dreams](https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Rainbows and Dreams](https://open.spotify.com/album/3DNBXQjwAZI8mtjMWWViWr) | 4:41 | 2022-07-27 | 2022-09-15 |
 | [Ready \(feat\. Art School Girlfriend\) \[Pretty Girl Remix\]](https://open.spotify.com/track/7wdQ2iSmAO67B9sKeguajU) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Ready \(feat\. Art School Girlfriend\) \[Pretty Girl Remix\]](https://open.spotify.com/album/4ihtyImsIgidtgGezSIEgT) | 3:19 | 2023-11-15 |  |
 | [Relegate](https://open.spotify.com/track/19CbAutaoNdC6M7edFdzWO) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Relegate](https://open.spotify.com/album/78QYwzV4OUNMflpPlZG6vz) | 5:03 | 2022-06-08 | 2022-07-07 |
+| [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 | 2023-12-12 |  |
 | [Remains](https://open.spotify.com/track/3Wn9UtA4Ij8HLtDLvmpaUi) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Tired of Liberty](https://open.spotify.com/album/3aHcCiEzSVklnAgGhl86K9) | 4:07 | 2022-08-31 | 2022-10-07 |
 | [Remote Control \- Superorganism Remix](https://open.spotify.com/track/2U0E3U3kmRtFBVItL3qz3p) | [Pictish Trail](https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Remote Control \(Superorganism Remix\)](https://open.spotify.com/album/71cwA1DoVn0MGgQqqdvb6T) | 3:20 | 2022-08-24 | 2022-10-07 |
 | [Retributions Of An Awful Life](https://open.spotify.com/track/7izjWViB7fRzSXuKGoYc6C) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Retributions Of An Awful Life](https://open.spotify.com/album/49aSnKrEZ3n4drbd78jUsy) | 5:25 | 2023-01-18 | 2023-02-16 |

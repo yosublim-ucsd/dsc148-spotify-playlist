@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi Hits with Diljit Dosanjh",
+  "description": "Ultimate 101 Punjabi Hits with Guru Randhawa",
   "name": "Punjabi 101",
   "tracks": [
     {
@@ -363,6 +363,32 @@
     },
     {
       "album": {
+        "name": "G Thing",
+        "url": "https://open.spotify.com/album/5PFlkcno9qStTmxIF7TXTN"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180083,
+      "name": "All Right",
+      "url": "https://open.spotify.com/track/2lgDE5H6bIpYATNtrQylcI"
+    },
+    {
+      "album": {
         "name": "Arjan Vailly (From \"ANIMAL\")",
         "url": "https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K"
       },
@@ -492,7 +518,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 168000,
       "name": "Back of Car",
       "url": "https://open.spotify.com/track/12VUzFFZktld3iDJjjD8ao"
@@ -1048,6 +1074,28 @@
       "duration_ms": 183756,
       "name": "Cheques",
       "url": "https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp"
+    },
+    {
+      "album": {
+        "name": "G Thing",
+        "url": "https://open.spotify.com/album/5PFlkcno9qStTmxIF7TXTN"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180711,
+      "name": "Chill Mode",
+      "url": "https://open.spotify.com/track/5YVUPrQIX3dGn5mf5eXyaB"
     },
     {
       "album": {
@@ -2676,7 +2724,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 156391,
       "name": "KNOWN FACE",
       "url": "https://open.spotify.com/track/2tKPYF2Pmpn0s3saQfUo6g"
@@ -4602,7 +4650,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 224347,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/2o8EWLq5zNfxm54WKvPp3H"
@@ -4854,6 +4902,32 @@
       "duration_ms": 210731,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/4BiU0doFkSv1mAFMwb5WvO"
+    },
+    {
+      "album": {
+        "name": "G Thing",
+        "url": "https://open.spotify.com/album/5PFlkcno9qStTmxIF7TXTN"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Shehnaaz Gill",
+          "url": "https://open.spotify.com/artist/1opCEf85NTZSE7YkxLCvmV"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187102,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4i6z4CQXt1HTGSjCJEquG6"
     },
     {
       "album": {

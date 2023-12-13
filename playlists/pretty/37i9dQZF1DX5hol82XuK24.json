@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 421362,
+  "num_followers": 421484,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWIyNTkwNTVkODcxNjEwNGZiOWNhMzVkY2M2NTJlNTUxNjM2YTky",
+  "snapshot_id": "MCwyMmQ1N2ExMDYxYTI4ZmZlNTUxYTk4MmVkNjE0NGY4NWY1NGU2NzFk",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 309786,
-      "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
-      "url": "https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Deaf Heat EP",
         "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 215729,
       "name": "Deep Green",
       "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 309786,
+      "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
+      "url": "https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "When I Have Fears",
-        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 241332,
-      "name": "Slowdance I",
-      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Debonair",
         "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 265879,
       "name": "Wharf (ii)",
       "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "When I Have Fears",
+        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 241332,
+      "name": "Slowdance I",
+      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "I, Gemini",
-        "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
-      },
-      "artists": [
-        {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
-        }
-      ],
-      "duration_ms": 339173,
-      "name": "Deep Six Textbook",
-      "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Wicked Animal",
         "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 284745,
       "name": "Wicked Animal",
       "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "I, Gemini",
+        "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
+      },
+      "artists": [
+        {
+          "name": "Let's Eat Grandma",
+          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+        }
+      ],
+      "duration_ms": 339173,
+      "name": "Deep Six Textbook",
+      "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+        "name": "Brkn",
+        "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
       },
       "artists": [
         {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+          "name": "VOID",
+          "url": "https://open.spotify.com/artist/5m7jKBcJl9VAPoejUW48gc"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+      "duration_ms": 179805,
+      "name": "Brkn",
+      "url": "https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Brkn",
-        "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
       },
       "artists": [
         {
-          "name": "VOID",
-          "url": "https://open.spotify.com/artist/5m7jKBcJl9VAPoejUW48gc"
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
         }
       ],
-      "duration_ms": 179805,
-      "name": "Brkn",
-      "url": "https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu"
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Used To It",
-        "url": "https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR"
-      },
-      "artists": [
-        {
-          "name": "Ethan P. Flynn",
-          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
-        }
-      ],
-      "duration_ms": 182002,
-      "name": "Used To It",
-      "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Tape V",
         "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 177801,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Used To It",
+        "url": "https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR"
+      },
+      "artists": [
+        {
+          "name": "Ethan P. Flynn",
+          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
+        }
+      ],
+      "duration_ms": 182002,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
     },
     {
       "added_at": "2023-11-03 23:08:22",

@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 191835,
       "name": "Doxy",
       "url": "https://open.spotify.com/track/1RkqoAf31HsCMaTNzTzcG6"
@@ -5470,6 +5470,24 @@
       "duration_ms": 304042,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V"
+    },
+    {
+      "album": {
+        "name": "Three Views Of A Secret",
+        "url": "https://open.spotify.com/album/59iZJ2RyW9pzRO12nD4ah2"
+      },
+      "artists": [
+        {
+          "name": "Bergsundet",
+          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229166,
+      "name": "Three Views Of A Secret",
+      "url": "https://open.spotify.com/track/1AjplssYs6wbBE3NcKBsQ9"
     },
     {
       "album": {

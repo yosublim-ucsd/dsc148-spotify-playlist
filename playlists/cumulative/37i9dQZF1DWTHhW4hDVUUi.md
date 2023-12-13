@@ -4,7 +4,7 @@
 
 > Check out Jennifer Lopez's Official Halftime playlist.
 
-32 songs - 2 hr 3 min
+33 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Live It Up](https://open.spotify.com/track/2FHdoPa5aWaAmjuf362KJ0) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Live It Up](https://open.spotify.com/album/5fnPOybc8Zo7IYvWbvrCKR) | 4:03 | 2022-06-14 |  |
 | [Love Don't Cost a Thing](https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 3:41 | 2022-06-14 |  |
 | [Love Don't Cost a Thing \(feat\. Fat Joe\) \- RJ Schoolyard Mix](https://open.spotify.com/track/4rblLT91sVtNHNi52yv1uG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [J To Tha L\-O! The Remixes](https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm) | 4:18 | 2022-06-14 |  |
-| [Medicine \- Steve Aoki from the Block Remix](https://open.spotify.com/track/5OPrQhuX6OP06gGtYS1S0f) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Medicine \(Steve Aoki from the Block Remix\)](https://open.spotify.com/album/5aUhH2lFb3Qrj0ngazduEQ) | 2:50 | 2022-06-14 |  |
+| [Medicine \- Steve Aoki from the Block Remix](https://open.spotify.com/track/0q4JbreE13Hz9sfS5kIuuW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Medicine \(Steve Aoki from the Block Remix\)](https://open.spotify.com/album/5BdjEDMPPAPr9TNUFg8I7q) | 2:50 | 2022-06-14 |  |
+| [Medicine \- Steve Aoki from the Block Remix](https://open.spotify.com/track/5OPrQhuX6OP06gGtYS1S0f) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Medicine \(Steve Aoki from the Block Remix\)](https://open.spotify.com/album/5aUhH2lFb3Qrj0ngazduEQ) | 2:50 | 2022-06-14 | 2023-12-13 |
 | [On My Way \(Marry Me\)](https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On My Way \(Marry Me\)](https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx) | 3:12 | 2022-06-14 |  |
 | [On The Floor](https://open.spotify.com/track/20zQZVyUNPbq8kZACdgYrh) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LOVE?](https://open.spotify.com/album/1RJ3ZqXAzt0rsJhs80AqRb) | 4:44 | 2022-06-14 |  |
 | [Papi \- Rosabel Radio](https://open.spotify.com/track/6nq5VKMm8jc7ocZunJmprv) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Rosabel](https://open.spotify.com/artist/04RXSUzDTSz2OIOvlAYVAv) | [Papi \(Remixes\)](https://open.spotify.com/album/5TgNttysHVjCbGudLHqV2q) | 3:24 | 2022-06-14 |  |

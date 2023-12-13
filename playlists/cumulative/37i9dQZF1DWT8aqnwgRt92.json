@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 234733,
       "name": "BOY",
       "url": "https://open.spotify.com/track/4UShpOJdauir54vMuaFLEV"
@@ -3532,7 +3532,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 279746,
       "name": "God Knows... - From CrosSing",
       "url": "https://open.spotify.com/track/5zXinlzLM41ZR5VpS6AJBT"
@@ -5562,7 +5562,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 219728,
       "name": "KUNOICHI",
       "url": "https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW"
@@ -6646,7 +6646,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 286488,
       "name": "more than words - English ver.",
       "url": "https://open.spotify.com/track/5zFmY6wFs4CeGJb5P5Wv5A"
@@ -7422,7 +7422,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 254879,
       "name": "NOTE",
       "url": "https://open.spotify.com/track/3uV183mN6huX2bG1cQaEql"
@@ -9374,7 +9374,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 222466,
       "name": "Sing a song together",
       "url": "https://open.spotify.com/track/2QYXjGOfahFNABoNSmMXwS"
@@ -9453,6 +9453,24 @@
     },
     {
       "album": {
+        "name": "Sleep Walking Orchestra",
+        "url": "https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235659,
+      "name": "Sleep Walking Orchestra",
+      "url": "https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7"
+    },
+    {
+      "album": {
         "name": "SLEEPLESS",
         "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
       },
@@ -9486,6 +9504,24 @@
       "duration_ms": 253386,
       "name": "Sorairo Days - From CrosSing",
       "url": "https://open.spotify.com/track/3YnFuf6DE54Uw3gt7iBgBF"
+    },
+    {
+      "album": {
+        "name": "SOULSOUP",
+        "url": "https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314469,
+      "name": "SOULSOUP",
+      "url": "https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi"
     },
     {
       "album": {
@@ -10072,7 +10108,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 193200,
       "name": "Super moon",
       "url": "https://open.spotify.com/track/67kIO6t0RAXrtDnOpfYkQj"
@@ -11108,6 +11144,24 @@
       "duration_ms": 184666,
       "name": "Verbal Justice",
       "url": "https://open.spotify.com/track/6H3uKz8oNZcNbzbZmfS0av"
+    },
+    {
+      "album": {
+        "name": "VIOLET LINE",
+        "url": "https://open.spotify.com/album/65qsdLloeZcbawKPvA1jNR"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290733,
+      "name": "VIOLET LINE",
+      "url": "https://open.spotify.com/track/2HUCfy80ikYHcShBSaXEaW"
     },
     {
       "album": {
@@ -12792,6 +12846,24 @@
       "duration_ms": 238039,
       "name": "\u3086\u305a\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/64qoBPI0CpORq70mlVrXWr"
+    },
+    {
+      "album": {
+        "name": "\u3086\u305a\u308c\u306a\u3044\u9858\u3044 - from CrosSing",
+        "url": "https://open.spotify.com/album/1YTqGEEZbcKXjIwRR4mMfb"
+      },
+      "artists": [
+        {
+          "name": "towana",
+          "url": "https://open.spotify.com/artist/7ab5IblJTWvfa31nymwt1v"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234120,
+      "name": "\u3086\u305a\u308c\u306a\u3044\u9858\u3044 - from CrosSing",
+      "url": "https://open.spotify.com/track/6Zy3WcnqhzLzXmMKuLguox"
     },
     {
       "album": {
@@ -16142,7 +16214,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 220213,
       "name": "\u4e00\u9014 (ALBUM ver.)",
       "url": "https://open.spotify.com/track/2MNBkwLzJuCzVQ8Z3G9qJo"

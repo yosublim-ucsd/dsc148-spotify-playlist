@@ -4,7 +4,7 @@
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-122 songs - 8 hr 16 min
+130 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Kyo181](https://open.spotify.com/track/0jqrftVPDJaSWpa31kgDrf) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Kyo181](https://open.spotify.com/album/3N0IUl4bbHeBmLFaMAVgCW) | 4:13 | 2023-09-04 |  |
 | [Let's Do Well](https://open.spotify.com/track/3LC2XvIgfPpJChlceA82qU) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [사랑의 단상 Chapter 5 : The Letter From Nowhere](https://open.spotify.com/album/28KClRRM4IQB7QN204Xkym) | 4:23 | 2023-09-04 |  |
 | [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2023-09-04 |  |
-| [LOST](https://open.spotify.com/track/3t8nzuzkwU6URJqdtmhg83) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/2R7autQAAltvOsyFuTYLUy) | 4:56 | 2023-09-04 |  |
+| [LOST](https://open.spotify.com/track/3t8nzuzkwU6URJqdtmhg83) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/2R7autQAAltvOsyFuTYLUy) | 4:56 | 2023-09-04 | 2023-12-13 |
+| [LOST](https://open.spotify.com/track/4kMLshVJfNm7pOBX6Eh0Yb) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/4g5IaIy258fL8jCAt6WM1K) | 4:56 | 2023-09-04 |  |
 | [Love and Peace](https://open.spotify.com/track/2T5YVtQspCHTAgk392GHNS) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Beginner's Luck](https://open.spotify.com/album/0rwMYpbxg4Iaw2RbCG07xv) | 5:33 | 2023-09-04 |  |
 | [Love Me Harder](https://open.spotify.com/track/3gChfwiB0yrnZRnlJ5Oq9E) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [EQUAL](https://open.spotify.com/album/0igEO1O1Uh5Cl9ymTaAMYG) | 3:27 | 2023-09-04 |  |
 | [Love Me Love Me](https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Love Me Love Me](https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY) | 3:26 | 2023-09-04 |  |
@@ -63,7 +64,8 @@
 | [Night overtime](https://open.spotify.com/track/7qjcLLTsztqrHnArCqJeO1) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Night overtime](https://open.spotify.com/album/4RPdJpWelwy3Cup5IUZVCW) | 3:44 | 2023-09-04 |  |
 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 | 2023-09-04 |  |
 | [Our Bubble](https://open.spotify.com/track/4GT4VsB0gbHicB2x76dPBC) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Our Bubble](https://open.spotify.com/album/59UEAx6Kjrd3zgmewzjeQi) | 2:54 | 2023-09-04 |  |
-| [our song](https://open.spotify.com/track/7bucDwUAM9hzKXSaAeeDP8) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 7:38 | 2023-09-04 |  |
+| [our song](https://open.spotify.com/track/4A8Mh04VLJHq9f8dew1FsL) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/0EYPtkfya6BlVlpejEyChD) | 7:38 | 2023-09-04 |  |
+| [our song](https://open.spotify.com/track/7bucDwUAM9hzKXSaAeeDP8) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 7:38 | 2023-09-04 | 2023-12-13 |
 | [Party Like Crazy](https://open.spotify.com/track/7FouYdNJFRPSrrLT9bOdMS) | [No Brain](https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7) | [SUPER HIGH TENSION](https://open.spotify.com/album/0d8U98AMajWvDxgLHNeGAt) | 3:20 | 2023-09-04 |  |
 | [Picture](https://open.spotify.com/track/0GPROFpPBqU5Si0xSGKLrU) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Manchild](https://open.spotify.com/album/21ZAH4W7oCQuiVM0xQteTd) | 3:19 | 2023-09-04 |  |
 | [Picture](https://open.spotify.com/track/23OpEAIXfU1V8IbLMOi7JL) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Manchild](https://open.spotify.com/album/0CcaHuVp8BowpADMsmkYxa) | 3:19 | 2023-09-04 | 2023-12-05 |
@@ -85,8 +87,10 @@
 | [Some Some Some](https://open.spotify.com/track/3TMIBHKwPBJrPJpyyl2zHI) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 3:06 | 2023-09-04 |  |
 | [Song of Ha Ha Ha](https://open.spotify.com/track/7JExsx3xFQhEs63fP0V7Xu) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [All You Need Is Love](https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj) | 3:14 | 2023-09-04 |  |
 | [Sprinkle!](https://open.spotify.com/track/7cgc2ngCcuO0b5uRMYKnYl) | [Tasty Shop](https://open.spotify.com/artist/41KEtibG8IoDciLbVIlV6E) | [Sprinkle!](https://open.spotify.com/album/5RpNILltsSIwALCmFRLvmp) | 3:33 | 2023-09-04 |  |
-| [STAY WITH ME](https://open.spotify.com/track/0qVbIVwY9X66HTtJkxlQ2W) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [LOVE FOREVER](https://open.spotify.com/album/2fBZRkqGTxBmy3DuYjmgVv) | 3:18 | 2023-09-04 |  |
-| [Stranger](https://open.spotify.com/track/4FRbVqOjut5qPui5JV18yg) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [STRANGER](https://open.spotify.com/album/3SnrWItCITZOoNs86k12NC) | 3:53 | 2023-09-04 |  |
+| [STAY WITH ME](https://open.spotify.com/track/0qVbIVwY9X66HTtJkxlQ2W) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [LOVE FOREVER](https://open.spotify.com/album/2fBZRkqGTxBmy3DuYjmgVv) | 3:18 | 2023-09-04 | 2023-12-13 |
+| [STAY WITH ME](https://open.spotify.com/track/6ZpOLjmneyTh2apv5wzMqr) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [LOVE FOREVER](https://open.spotify.com/album/4JEdbYDhjv8NyPweUT36uh) | 3:18 | 2023-09-04 |  |
+| [Stranger](https://open.spotify.com/track/23XEH2j03M6L0eoxY29gfC) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [STRANGER](https://open.spotify.com/album/7E6NadtjLvbsR8d46EV2q1) | 3:52 | 2023-09-04 |  |
+| [Stranger](https://open.spotify.com/track/4FRbVqOjut5qPui5JV18yg) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [STRANGER](https://open.spotify.com/album/3SnrWItCITZOoNs86k12NC) | 3:53 | 2023-09-04 | 2023-12-13 |
 | [Sunshine](https://open.spotify.com/track/6D4ZkbtBd4DshKMzStOf8x) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [SAVe tHE AiR GREEN CONCERT](https://open.spotify.com/album/7g9jb9Xf9iCZBbf46yMFVJ) | 3:46 | 2023-09-04 |  |
 | [SWIMMING](https://open.spotify.com/track/6y8BCw8EyaGOcjGpgqOnMx) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Piece of BTOB Vol.4](https://open.spotify.com/album/0maS5rDN2WBQElPQVR9GZW) | 4:20 | 2023-09-04 |  |
 | [Tattoo](https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Tattoo](https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08) | 3:09 | 2023-09-04 |  |
@@ -105,7 +109,8 @@
 | [Witchcraft](https://open.spotify.com/track/3EpkN5BvfFEGAEBaZtMPaJ) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Enlightenment](https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D) | 3:52 | 2023-09-04 |  |
 | [You are to me](https://open.spotify.com/track/4BZmO85MT6NaijjCw4H4CK) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [넌 나에게](https://open.spotify.com/album/0AVY7CcTOHqAbIy7xf5uHh) | 3:03 | 2023-09-04 |  |
 | [Your Crush On Me](https://open.spotify.com/track/2sDQ1EB8BvyL6YFxzXymoy) | [No Brain](https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7) | [SUPER HIGH TENSION](https://open.spotify.com/album/0d8U98AMajWvDxgLHNeGAt) | 3:43 | 2023-09-04 |  |
-| [YOUR NAME](https://open.spotify.com/track/7f89Yk34t4azDcAkqmGAjV) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [YOUR NAME](https://open.spotify.com/album/7LARavbpFIvMcOo9xavaAQ) | 3:51 | 2023-09-04 |  |
+| [YOUR NAME](https://open.spotify.com/track/1uFbXCrtZebDkYO0bKlG9q) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [YOUR NAME](https://open.spotify.com/album/35tvaeZG95AJ7xeEVfUXIX) | 3:51 | 2023-09-04 |  |
+| [YOUR NAME](https://open.spotify.com/track/7f89Yk34t4azDcAkqmGAjV) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [YOUR NAME](https://open.spotify.com/album/7LARavbpFIvMcOo9xavaAQ) | 3:51 | 2023-09-04 | 2023-12-13 |
 | [룩셈부르크 Luxembourg](https://open.spotify.com/track/0JvKtUqGrzI0XZQzrMdxe2) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [OK 목장의 젖소 Milk Cattle at the OK Corral](https://open.spotify.com/album/2ohRyGLhnzSVe1ajSigoWf) | 2:25 | 2023-09-04 |  |
 | [말달리자 Speed Up Losers](https://open.spotify.com/track/42OTaKIDWseqiU8qflqjap) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [말달리자 Speed Up Losers](https://open.spotify.com/album/2qGZXupHBC6oJQawNh13Pc) | 3:06 | 2023-09-04 |  |
 | [명동콜링 Myeong\-dong Calling](https://open.spotify.com/track/0AcSCfVYcXgNgcrZdyZXOh) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [OK 목장의 젖소 Milk Cattle at the OK Corral](https://open.spotify.com/album/2ohRyGLhnzSVe1ajSigoWf) | 3:48 | 2023-09-04 |  |
@@ -124,10 +129,13 @@
 | [비와 당신 \- 20th Anniv Version](https://open.spotify.com/track/1FcBUf1BE9uE4jNCHU1X6n) | [No Brain](https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7) | [20](https://open.spotify.com/album/2T0kN4dHBiv4b1xL1aubrj) | 4:54 | 2023-09-04 |  |
 | [사랑에 대하여 About love](https://open.spotify.com/track/3LdgMI3yPlnDztvchoBXIX) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Soft bench](https://open.spotify.com/album/5inSsD3hBp2Dm71bfvHoqn) | 2:20 | 2023-09-04 |  |
 | [선인장 \(feat\. Lucia\)](https://open.spotify.com/track/0uv5YRu8DUa0kAmfa7xXHf) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN), [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [유실물 보관소](https://open.spotify.com/album/4Locv1kDPE8beo4cRDPogA) | 3:30 | 2023-09-04 |  |
-| [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2023-09-04 |  |
-| [영원히 영원히](https://open.spotify.com/track/6GsUtu6tlXNkQ83wwGHKJ5) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/3IF1jhSCab7fmxdx6kSZRl) | 3:56 | 2023-09-04 |  |
+| [스물다섯, 스물하나](https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2Db7g2nYCXggiNOJc59vkS) | 4:44 | 2023-09-04 |  |
+| [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2023-09-04 | 2023-12-13 |
+| [영원히 영원히](https://open.spotify.com/track/0spPlZg9yHPFMSTnFY8Tje) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/2v4ebwS0Pd1CPMyGT2UDTs) | 3:56 | 2023-09-04 |  |
+| [영원히 영원히](https://open.spotify.com/track/6GsUtu6tlXNkQ83wwGHKJ5) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/3IF1jhSCab7fmxdx6kSZRl) | 3:56 | 2023-09-04 | 2023-12-13 |
 | [유채꽃](https://open.spotify.com/track/3cqqOeRvKwfjcXzgBEtEQa) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [유실물 보관소](https://open.spotify.com/album/4Locv1kDPE8beo4cRDPogA) | 3:18 | 2023-09-04 |  |
-| [있지](https://open.spotify.com/track/0K2guQ8Z2I3PfrkiRnfew5) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/3IF1jhSCab7fmxdx6kSZRl) | 3:38 | 2023-09-04 |  |
+| [있지](https://open.spotify.com/track/0K2guQ8Z2I3PfrkiRnfew5) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/3IF1jhSCab7fmxdx6kSZRl) | 3:38 | 2023-09-04 | 2023-12-13 |
+| [있지](https://open.spotify.com/track/6r0hfhaITECuZrEQTfrTLT) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/2v4ebwS0Pd1CPMyGT2UDTs) | 3:38 | 2023-09-04 |  |
 | [첫사랑](https://open.spotify.com/track/46Ve6ogw5551H07RkP1gpE) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Words in the mind](https://open.spotify.com/album/6t3ExmPeNU5M1LimWIG2r9) | 4:15 | 2023-09-04 |  |
 | [파이트 클럽](https://open.spotify.com/track/1BdEXKnVTQfReB1DZEbmsH) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU) | [파이트 클럽](https://open.spotify.com/album/17NHwoDpaaNetHG36nx8JT) | 3:42 | 2023-09-04 |  |
 

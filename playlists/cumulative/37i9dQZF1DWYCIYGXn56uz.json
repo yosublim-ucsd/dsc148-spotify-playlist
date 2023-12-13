@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 184022,
       "name": "A Squarciagola",
       "url": "https://open.spotify.com/track/1broDLBCr9ZXrMW3RjLa5J"
@@ -248,6 +248,24 @@
       "duration_ms": 162477,
       "name": "AFTER",
       "url": "https://open.spotify.com/track/5ODYIdPDyNVFXZpqAh3WEa"
+    },
+    {
+      "album": {
+        "name": "ALLERGICA ALLE FRAGOLE",
+        "url": "https://open.spotify.com/album/3uaa9er9i5Qmpq64qmS8N5"
+      },
+      "artists": [
+        {
+          "name": "AYLE",
+          "url": "https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106971,
+      "name": "ALLERGICA ALLE FRAGOLE",
+      "url": "https://open.spotify.com/track/0hYdFsDUc23IOXCra6ddkB"
     },
     {
       "album": {
@@ -486,7 +504,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 154666,
       "name": "Autogol",
       "url": "https://open.spotify.com/track/5QRvX3WAktD8SIN2fQ99e6"
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 159000,
       "name": "Laggi\u00f9",
       "url": "https://open.spotify.com/track/5zRHxcZwWJKqNFONmFZcbk"
@@ -3131,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "MI ODIERAI",
+        "url": "https://open.spotify.com/album/7rUUGvVIkru8hoJYd21OlT"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207034,
+      "name": "MI ODIERAI",
+      "url": "https://open.spotify.com/track/6eumBM7ThMaSPPGRlWZfWM"
+    },
+    {
+      "album": {
         "name": "Mi Pensi Ancora",
         "url": "https://open.spotify.com/album/3WVYb9E0xwiAK6ouuXEw9g"
       },
@@ -3424,7 +3460,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 165789,
       "name": "Non piangere",
       "url": "https://open.spotify.com/track/2gaO1JmvkTPBHYpqiQWh3z"
@@ -3576,6 +3612,24 @@
       "duration_ms": 180324,
       "name": "NULLA (feat. chiello)",
       "url": "https://open.spotify.com/track/2cUgStjffnjioamiHZV96J"
+    },
+    {
+      "album": {
+        "name": "NUVOLA",
+        "url": "https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk"
+      },
+      "artists": [
+        {
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169483,
+      "name": "NUVOLA",
+      "url": "https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud"
     },
     {
       "album": {
@@ -5332,7 +5386,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 182186,
       "name": "ULTRAS",
       "url": "https://open.spotify.com/track/2yQ0sTyePbwZrMBCSNnIGN"
@@ -5589,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "Viole e Violini",
+        "url": "https://open.spotify.com/album/6FPMkD4uAvcGVYxLQ0bm7Y"
+      },
+      "artists": [
+        {
+          "name": "Sarah Toscano",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Viole e Violini",
+      "url": "https://open.spotify.com/track/60ir328nxqnjOLXxvsqmHm"
+    },
+    {
+      "album": {
         "name": "Voglia di vivere",
         "url": "https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS"
       },
@@ -5604,6 +5676,24 @@
       "duration_ms": 160136,
       "name": "Vita morte e miracoli",
       "url": "https://open.spotify.com/track/6lg1cQeODHXiQv5xAiLVT2"
+    },
+    {
+      "album": {
+        "name": "VIVO",
+        "url": "https://open.spotify.com/album/2IokIZBdDMvu0nayy0ZEEB"
+      },
+      "artists": [
+        {
+          "name": "mew",
+          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203039,
+      "name": "VIVO",
+      "url": "https://open.spotify.com/track/5Z94e6QpyQI50ehSfeeLy3"
     },
     {
       "album": {

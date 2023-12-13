@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,295 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,315 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,18 +12,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 2 | [Song of Ha Ha Ha](https://open.spotify.com/track/7JExsx3xFQhEs63fP0V7Xu) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [All You Need Is Love](https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj) | 3:14 |
 | 3 | [Hey, Hey, Hey](https://open.spotify.com/track/5VgjKdEj2Ppv8bSXG3GWlY) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim 'True' Live \(Live\)](https://open.spotify.com/album/5Pejwbf19423OS2S2xoWOW) | 2:55 |
 | 4 | [I'm my fan](https://open.spotify.com/track/6JmBoeynRCVZ7Cak563VqQ) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim 04](https://open.spotify.com/album/5dghwP7uiwcgwD4amNSxi2) | 4:37 |
-| 5 | [our song](https://open.spotify.com/track/7bucDwUAM9hzKXSaAeeDP8) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 7:38 |
-| 6 | [STAY WITH ME](https://open.spotify.com/track/0qVbIVwY9X66HTtJkxlQ2W) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [LOVE FOREVER](https://open.spotify.com/album/2fBZRkqGTxBmy3DuYjmgVv) | 3:18 |
-| 7 | [있지](https://open.spotify.com/track/0K2guQ8Z2I3PfrkiRnfew5) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/3IF1jhSCab7fmxdx6kSZRl) | 3:38 |
+| 5 | [our song](https://open.spotify.com/track/4A8Mh04VLJHq9f8dew1FsL) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/0EYPtkfya6BlVlpejEyChD) | 7:38 |
+| 6 | [STAY WITH ME](https://open.spotify.com/track/6ZpOLjmneyTh2apv5wzMqr) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [LOVE FOREVER](https://open.spotify.com/album/4JEdbYDhjv8NyPweUT36uh) | 3:18 |
+| 7 | [있지](https://open.spotify.com/track/6r0hfhaITECuZrEQTfrTLT) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/2v4ebwS0Pd1CPMyGT2UDTs) | 3:38 |
 | 8 | [I am sorry, I hate you](https://open.spotify.com/track/0lyqOQHPupP6ruQ0f263WJ) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Lovers](https://open.spotify.com/album/3rSeHoJh2107T4qvc1h0Lf) | 3:55 |
-| 9 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 |
-| 10 | [영원히 영원히](https://open.spotify.com/track/6GsUtu6tlXNkQ83wwGHKJ5) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/3IF1jhSCab7fmxdx6kSZRl) | 3:56 |
-| 11 | [LOST](https://open.spotify.com/track/3t8nzuzkwU6URJqdtmhg83) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/2R7autQAAltvOsyFuTYLUy) | 4:56 |
+| 9 | [스물다섯, 스물하나](https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2Db7g2nYCXggiNOJc59vkS) | 4:44 |
+| 10 | [영원히 영원히](https://open.spotify.com/track/0spPlZg9yHPFMSTnFY8Tje) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/2v4ebwS0Pd1CPMyGT2UDTs) | 3:56 |
+| 11 | [LOST](https://open.spotify.com/track/4kMLshVJfNm7pOBX6Eh0Yb) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/4g5IaIy258fL8jCAt6WM1K) | 4:56 |
 | 12 | [FAUST](https://open.spotify.com/track/1aUPCCVLOhZ7eOTnqW0XQb) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 6:21 |
 | 13 | [Red](https://open.spotify.com/track/2GFiPfOXaj9ZS827spSKBJ) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [TIME AFTER TIME SELECTION](https://open.spotify.com/album/2TW8qvxl1EnJ2xpD2ZnMB1) | 4:04 |
-| 14 | [YOUR NAME](https://open.spotify.com/track/7f89Yk34t4azDcAkqmGAjV) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [YOUR NAME](https://open.spotify.com/album/7LARavbpFIvMcOo9xavaAQ) | 3:51 |
+| 14 | [YOUR NAME](https://open.spotify.com/track/1uFbXCrtZebDkYO0bKlG9q) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [YOUR NAME](https://open.spotify.com/album/35tvaeZG95AJ7xeEVfUXIX) | 3:51 |
 | 15 | [FRAME](https://open.spotify.com/track/6XI48NOQC0Q2TNL5ZAOY72) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/2R7autQAAltvOsyFuTYLUy) | 3:23 |
-| 16 | [Stranger](https://open.spotify.com/track/4FRbVqOjut5qPui5JV18yg) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [STRANGER](https://open.spotify.com/album/3SnrWItCITZOoNs86k12NC) | 3:53 |
+| 16 | [Stranger](https://open.spotify.com/track/23XEH2j03M6L0eoxY29gfC) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [STRANGER](https://open.spotify.com/album/7E6NadtjLvbsR8d46EV2q1) | 3:52 |
 | 17 | [Mirror](https://open.spotify.com/track/5DypcKUjc5MGsrVPCUpsVX) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 4:40 |
 | 18 | [SINK HOLE](https://open.spotify.com/track/1dhRhB9ZBVLN9JqLC5UtjC) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 4:14 |
 | 19 | [MANDRAKE](https://open.spotify.com/track/65WGn1Wrk9NiBLk0io6mjJ) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 6:11 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 119 | [나 좋자고 그러는겨 Did It For Me](https://open.spotify.com/track/0xLfKXJta9gzJzwzgGJUL9) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [하지 말래 Don't Do It](https://open.spotify.com/album/76YzPru5W3pRbdIYVEy7IS) | 2:57 |
 | 120 | [Autumn Color](https://open.spotify.com/track/0gn5tFa1L4r00MgZHa1GyU) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Autumn Color](https://open.spotify.com/album/4bacxFhgwgW5p5HWYl88J9) | 4:44 |
 
-Snapshot ID: `MCwzNjdlMTdmYjMwMWJhZmEwMjdiMmUwZDY5OGQwNDIwNDFhMmU5Mjkx`
+Snapshot ID: `MCw0Nzc3NjE1MTdiMDRhYzJjOTgwMWRjNzNkMzE1ODZkMDgyNzQ2M2Vk`

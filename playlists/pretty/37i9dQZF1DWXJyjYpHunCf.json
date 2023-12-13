@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Darren Kiely",
-  "num_followers": 882388,
+  "num_followers": 882583,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDI0MWEzM2E3NzM4ZmVmMzQxNzA4N2I0YTkzOGM0YWU4ZGRkMDQw",
+  "snapshot_id": "MCwxNGFlM2Y1YWE5MDUwYzY0ZDAxYmNkOGM5N2NlNGY5ZDc0MDc3MjYz",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 158568,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 158568,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
+        "name": "Backstage in Glasgow",
+        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
         }
       ],
-      "duration_ms": 136378,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
+      "duration_ms": 136107,
+      "name": "Backstage in Glasgow",
+      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Backstage in Glasgow",
-        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
       },
       "artists": [
         {
@@ -1328,25 +1328,9 @@
           "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
         }
       ],
-      "duration_ms": 136107,
-      "name": "Backstage in Glasgow",
-      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+      "duration_ms": 136378,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1363,6 +1347,22 @@
       "duration_ms": 179731,
       "name": "Blood Red",
       "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Made Up My Mind",
-        "url": "https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI"
+        "name": "Gold Rush Kid (Christmas Edition)",
+        "url": "https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0"
       },
       "artists": [
         {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        },
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 170858,
-      "name": "Made Up My Mind",
-      "url": "https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX"
+      "duration_ms": 194275,
+      "name": "Dance All Over Me",
+      "url": "https://open.spotify.com/track/2KFnufr3OFxvbv9JiQ9cty"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "We Still Move on Dance Floors",
-        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
+        "name": "Made Up My Mind",
+        "url": "https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        },
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 163893,
-      "name": "In This Life",
-      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
+      "duration_ms": 170858,
+      "name": "Made Up My Mind",
+      "url": "https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1495,6 +1495,22 @@
       "duration_ms": 160581,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "We Still Move on Dance Floors",
+        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "In This Life",
+      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Gold Rush Kid (Christmas Edition)",
-        "url": "https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 194275,
-      "name": "Dance All Over Me",
-      "url": "https://open.spotify.com/track/2KFnufr3OFxvbv9JiQ9cty"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Yellow Paper Daisy",
         "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Pollution",
-        "url": "https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 234031,
-      "name": "Pollution",
-      "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 176321,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Pollution",
+        "url": "https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 234031,
+      "name": "Pollution",
+      "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h"
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2"
       },
       "artists": [
         {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+          "name": "Good Old War",
+          "url": "https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL"
         }
       ],
-      "duration_ms": 202110,
-      "name": "The Hunt",
-      "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
+      "duration_ms": 182640,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0"
     }
   ],
   "unique_name": "Folk Pop",

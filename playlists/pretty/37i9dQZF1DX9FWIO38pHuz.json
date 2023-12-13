@@ -1,12 +1,12 @@
 {
   "description": "Funk favorites from 2023. Cover: Kossisko #SpotifyWrapped",
-  "num_followers": 6675,
+  "num_followers": 6715,
   "original_name": "Best Funk Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGYxNmQzNWU5YTc1MmE5MzY4YTBkY2M5ODIzMjc5NTI3ZjQ2M2I2",
+  "snapshot_id": "MCw1MjAxNDRmZDA0ZWE1OGZjZTYxNjBlNzhkYjZkNTE2YzdjM2FjYjYy",
   "tracks": [
     {
       "added_at": "2023-11-29 12:17:00",
@@ -679,13 +679,21 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Up Is Just A Place Ft. George Clinton x Fred Wesley x Omar - Xtended Mix",
+        "name": "Up Is Just A Place (Xtended Mix Feat. Fred Wesley)",
         "url": "https://open.spotify.com/album/0e8IootF0vFHJzuOszLEot"
       },
       "artists": [
         {
           "name": "Smudge All Stars",
           "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
         },
         {
           "name": "Pee Wee Ellis",
@@ -706,18 +714,10 @@
         {
           "name": "Fred Wesley",
           "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        },
-        {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
         }
       ],
       "duration_ms": 305454,
-      "name": "Up Is Just A Place Ft. George Clinton x Fred Wesley x Omar - Xtended Mix",
+      "name": "Up Is Just A Place (Xtended Mix Feat. Fred Wesley)",
       "url": "https://open.spotify.com/track/2X1jifAuCUkeIiidlRDxFl"
     },
     {

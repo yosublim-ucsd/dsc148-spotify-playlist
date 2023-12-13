@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 52257,
+  "num_followers": 52297,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGExMjZkZTI3ZTJlODc5N2IzOWRiOTRmOGYzOTM3ZWIxMDgwY2Rh",
+  "snapshot_id": "MCw5MWYwOTYwOTViZjYxMjIyYzlmODExNWVkZWVhNDFkNmU2YjBiMDc0",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "looking 4 me",
-        "url": "https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 147245,
-      "name": "looking 4 me",
-      "url": "https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
         "name": "Life Of The Party",
         "url": "https://open.spotify.com/album/3dSI7I49Isxr3gFt4V7rHz"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 279566,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/0dYD2Z4SHcYdefhgSWfKmJ"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "looking 4 me",
+        "url": "https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 147245,
+      "name": "looking 4 me",
+      "url": "https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -917,6 +917,22 @@
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Too Lazy",
+        "url": "https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 234482,
+      "name": "Too Lazy",
+      "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
+    },
+    {
       "added_at": "2023-11-17 16:57:48",
       "album": {
         "name": "Dancing in the Dark",
@@ -935,22 +951,6 @@
       "duration_ms": 167441,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/3DZExPtWIJE8LPMCLpHGxK"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Too Lazy",
-        "url": "https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 234482,
-      "name": "Too Lazy",
-      "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
     },
     {
       "added_at": "2023-12-01 00:01:00",

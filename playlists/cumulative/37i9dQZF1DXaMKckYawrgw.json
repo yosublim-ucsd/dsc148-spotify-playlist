@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
+    },
+    {
+      "album": {
         "name": "Libres Y Locos",
         "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
       },
@@ -884,6 +902,24 @@
       "duration_ms": 223013,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
+    },
+    {
+      "album": {
+        "name": "Muy Punk para los Fresas & Muy Fresa para los Punks",
+        "url": "https://open.spotify.com/album/1QNbPdLlyhRqtxzCZGhsgx"
+      },
+      "artists": [
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228442,
+      "name": "El Metro",
+      "url": "https://open.spotify.com/track/23W9dijRlTLFQlq1heyDab"
     },
     {
       "album": {
@@ -1176,7 +1212,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 304172,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg"
@@ -1430,6 +1466,24 @@
       "duration_ms": 423360,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
+    },
+    {
+      "album": {
+        "name": "La Chica Sobre Ruedas",
+        "url": "https://open.spotify.com/album/0NgmTjffvZLoZzMFLVfoSx"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205801,
+      "name": "La Chica Sobre Ruedas",
+      "url": "https://open.spotify.com/track/1bl0E3AqqtuJs9UrKiLRPs"
     },
     {
       "album": {
@@ -2130,7 +2184,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 153861,
       "name": "M\u00e9rida Ska",
       "url": "https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy"
@@ -3568,7 +3622,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 271301,
       "name": "Y la Recuerdo de Ayer",
       "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"

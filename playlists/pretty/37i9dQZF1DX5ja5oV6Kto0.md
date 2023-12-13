@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Rvdical the Kid & Maesu
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,601 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,652 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 89 | [In A Loop](https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:13 |
 | 90 | [Theysaid.](https://open.spotify.com/track/1jU9gOcHzL2FncEgneJQYD) | [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk), [Array.](https://open.spotify.com/artist/35Hb6TrgbjftU0vO14t7qF) | [Typewrit3R Vol\. 1](https://open.spotify.com/album/1s8TtslAPUXrruNLtH9Sv4) | 3:02 |
 
-Snapshot ID: `MCxhZmYzMDdmMzNhNmZjOGU5MzQ5NGY2OWQxZTRlNTdiNDhkZmIxOWZh`
+Snapshot ID: `MCw5ZDQwNmU4OWM1MjZjMjdmOTU5NzkxNThkZTcwZTQxOTI1NDdlYjky`

@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi ceremony.
 
-80 songs - 5 hr 51 min
+81 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Boliyan](https://open.spotify.com/track/1CG8ODAay6SHhlpgyshfJu) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Minda](https://open.spotify.com/artist/7mPA0gY5QgapTMfgLplro0) | [Muklawa](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:04 | 2022-03-14 | 2023-06-11 |
 | [Charda Siyaal](https://open.spotify.com/track/1olfUQXZoaqITRxmBq1Y1F) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Charda Siyaal \- Single](https://open.spotify.com/album/1pSrIo84dlxz8U2fyLEolg) | 3:20 | 2022-03-14 | 2023-11-18 |
 | [Chhalka Chhalka Re](https://open.spotify.com/track/1xf8CRmSxglu1ikMhmdAiq) | [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Vaishali](https://open.spotify.com/artist/0w8tFRpIwIcsX9HXUIaoAF), [Shoma](https://open.spotify.com/artist/7CRk1A0vdDJmyvoA3I4SkN) | [Mardaani's Picks Vol\-3 \(Original\)](https://open.spotify.com/album/1jovWFh0n5lhPO6lMXe71T) | 5:46 | 2022-03-14 |  |
+| [Dastoor](https://open.spotify.com/track/4INechXMli8qPmDg1hItRD) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Dastoor](https://open.spotify.com/album/0MGXB7AjKEuaqZy2rObHle) | 3:16 | 2023-12-12 |  |
 | [Din Shagna Da](https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Phillauri](https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE) | 3:35 | 2022-03-14 |  |
 | [Genda Phool](https://open.spotify.com/track/15Vuw407y6UWIPUfGrpJ1e) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 2:48 | 2022-03-14 |  |
 | [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 | 2022-03-14 |  |
@@ -32,7 +33,7 @@
 | [Jhalla Wallah](https://open.spotify.com/track/1y8Ck6jFOyxNC59SrQJIn6) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Ishaqzaade](https://open.spotify.com/album/7bJe5O77rwuYETK4zEp9Vu) | 5:51 | 2022-03-14 |  |
 | [Kabira \(Encore\)](https://open.spotify.com/track/3jJ5HgLRNydtLRghjWVaCG) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:30 | 2022-03-14 |  |
 | [Kala Sha Kala](https://open.spotify.com/track/48QEqHpLNEBpzW2Ef4LryG) | [Annamika](https://open.spotify.com/artist/4nRfn9j9OQZh1DXwmP3iA4) | [Bollywood to Bhangra](https://open.spotify.com/album/7zDbRVfHFjw7RqSIOedXWM) | 4:10 | 2022-03-14 | 2023-06-09 |
-| [Karmawali](https://open.spotify.com/track/6mfdRFpZTTOGwzRCHQlnDW) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Karmawali](https://open.spotify.com/album/7sh3XAVFEufhE6NVyiRDV4) | 4:20 | 2023-11-17 |  |
+| [Karmawali](https://open.spotify.com/track/6mfdRFpZTTOGwzRCHQlnDW) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Karmawali](https://open.spotify.com/album/7sh3XAVFEufhE6NVyiRDV4) | 4:20 | 2023-11-17 | 2023-12-13 |
 | [Kudmayi \(Film Version\)](https://open.spotify.com/track/3izZ5WaGr0uNsglsGvlyaM) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rocky Aur Rani Kii Prem Kahaani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu) | 4:25 | 2023-07-31 | 2023-09-06 |
 | [Kudmayi \(Film Version\)](https://open.spotify.com/track/7c6ULNGXJZ0Wf7voEUEcKu) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rocky Aur Rani Kii Prem Kahaani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YlugBItLrdu7CEZwRGskr) | 4:25 | 2023-08-08 |  |
 | [Lagdi Hai Thaai](https://open.spotify.com/track/4hY8QWl3BGv83htRjPfprx) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Lagdi Hai Thaai \(From "Simran"\)](https://open.spotify.com/album/72iWZXfl5gkum49zQAkdHl) | 2:45 | 2022-03-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,872 likes - 110 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,883 likes - 110 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [白夜](https://open.spotify.com/track/77ypIknTAFZbRDVWCggH0l) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [白夜](https://open.spotify.com/album/3p5oW50p6I2bYsfuOhTFVF) | 4:26 |
 | 110 | [假设](https://open.spotify.com/track/5eIvG3WhIn1Xt2i11fOExb) | [郑润泽](https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4), [孙盛希](https://open.spotify.com/artist/48KbdQ2h1Qq2G0mr3hVsls) | [绚烂 枯萎 以后](https://open.spotify.com/album/29GUxcViDudgrKO0IJpL72) | 3:34 |
 
-Snapshot ID: `MCxmMzgwNWMzOTljMWIyN2UxZmY4MTYwOTVmNDk0MzI1OTFhNjZkMTNl`
+Snapshot ID: `MCxlYjVlYzg4YzM2MDg0MzAxMDBjYmUzYWY0YTQwOGFiMDM4MjA1MTk5`

@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 5405,
+  "num_followers": 5403,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGI1MWU1NWQ2YmNhMDYxODQ3MWRhNGM1OTU5OTk1YThiNWIxMzQ1",
+  "snapshot_id": "MCwzMjRhZTg5MTczZWYwZTViMjIwMDI3YmFlMGQ4OTg5YjlmZTE2ZGRj",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -187,18 +187,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb"
       },
       "artists": [
         {
-          "name": "Kim Jong Kook",
-          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+          "name": "DELISPICE",
+          "url": "https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf"
         }
       ],
-      "duration_ms": 258973,
-      "name": "\ud55c \ub0a8\uc790",
-      "url": "https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc"
+      "duration_ms": 323531,
+      "name": "\uace0\ubc31",
+      "url": "https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
       },
       "artists": [
         {
-          "name": "DELISPICE",
-          "url": "https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf"
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
         }
       ],
-      "duration_ms": 323531,
-      "name": "\uace0\ubc31",
-      "url": "https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV"
+      "duration_ms": 258973,
+      "name": "\ud55c \ub0a8\uc790",
+      "url": "https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "White love",
-      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\ud574\uacb0\uc0ac - The 1st Album",
         "url": "https://open.spotify.com/album/04Mokiv2E1mI9SIF1AMzob"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 222933,
       "name": "\ud574\uacb0\uc0ac",
       "url": "https://open.spotify.com/track/14L6wWMb636kbjdjrYmFCC"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "White love",
+      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "Rhythm Light Beat Black",
         "url": "https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Wolf And Sheep",
-        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "We are the future",
-      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 234888,
       "name": "White",
       "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Wolf And Sheep",
+        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "We are the future",
+      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -827,22 +843,6 @@
       "duration_ms": 220760,
       "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "The Reign",
-        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
-      },
-      "artists": [
-        {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "A-Yo",
-      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "2nd",
         "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 249106,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "The Reign",
+        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
+      },
+      "artists": [
+        {
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "A-Yo",
+      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\ud64d\uacbd\ubbfc Vol. 3",
-        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
-      },
-      "artists": [
-        {
-          "name": "Hong Kyung-min",
-          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Shaky Friendship - Euru Remix Version",
-      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "HEY, COME ON! - The 4th Album",
         "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 208440,
       "name": "Hey, Come On!",
       "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\ud64d\uacbd\ubbfc Vol. 3",
+        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
+      },
+      "artists": [
+        {
+          "name": "Hong Kyung-min",
+          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Shaky Friendship - Euru Remix Version",
+      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "\uae40\ud604\ucca0 1\uc9d1 \uc624\ub79c\ub9cc\uc5d0/\ub3d9\ub124",
+        "url": "https://open.spotify.com/album/1cdhF1Mi82sHEttpJiOkNh"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        }
+      ],
+      "duration_ms": 272848,
+      "name": "\ub3d9\ub124",
+      "url": "https://open.spotify.com/track/5YKTjm1NVqGAFsuuzKHNG8"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 237029,
       "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
       "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "\uae40\ud604\ucca0 1\uc9d1 \uc624\ub79c\ub9cc\uc5d0/\ub3d9\ub124",
-        "url": "https://open.spotify.com/album/1cdhF1Mi82sHEttpJiOkNh"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Chul",
-          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
-        }
-      ],
-      "duration_ms": 272848,
-      "name": "\ub3d9\ub124",
-      "url": "https://open.spotify.com/track/5YKTjm1NVqGAFsuuzKHNG8"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Roo`ra Best Album",
-        "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
-      },
-      "artists": [
-        {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
-        }
-      ],
-      "duration_ms": 243435,
-      "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
-      "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "parkjiyoon 20th anniversary photo&live album",
         "url": "https://open.spotify.com/album/2th6tmq8mLVr3sUlcoOKru"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 229862,
       "name": "\uc18c\uc911\ud55c \uc0ac\ub791 Precious Love - Live",
       "url": "https://open.spotify.com/track/0KZ00Z3mrfCOVJzvnkNmSO"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Roo`ra Best Album",
+        "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
+      },
+      "artists": [
+        {
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+        }
+      ],
+      "duration_ms": 243435,
+      "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
+      "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 260560,
-      "name": "Blue Rain",
-      "url": "https://open.spotify.com/track/6NZUXr27vdx8gyWxVRrkLS"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Only One - The 3rd Album",
         "url": "https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 234400,
       "name": "Only One",
       "url": "https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 260560,
+      "name": "Blue Rain",
+      "url": "https://open.spotify.com/track/6NZUXr27vdx8gyWxVRrkLS"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 272196,
-      "name": "\ub108\uc758 \uc9d1\uc55e\uc5d0\uc11c",
-      "url": "https://open.spotify.com/track/3bItpNgSSL6mRWLoQGAecX"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\uc798\ubabb\ub41c \ub9cc\ub0a8",
         "url": "https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 270946,
       "name": "Friend? My Lover!",
       "url": "https://open.spotify.com/track/1XaP4DQKHAjuExKnzMq7Wg"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 272196,
+      "name": "\ub108\uc758 \uc9d1\uc55e\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/3bItpNgSSL6mRWLoQGAecX"
     },
     {
       "added_at": "2021-02-01 12:18:54",

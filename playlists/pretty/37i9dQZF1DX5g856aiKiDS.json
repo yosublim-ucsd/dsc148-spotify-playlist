@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 481736,
+  "num_followers": 481787,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTU2YTgwN2QwMWMyYzc1NjZhOWU3ODRkMTI5ZmZhM2QzNWM3ZjA5",
+  "snapshot_id": "MCwwYzlhMzk0ZTBjYTJkOWRjOWRlZWNlMzc3YzIzNDI2YTEzMGViNTVi",
   "tracks": [
     {
       "added_at": "2023-12-06 09:09:14",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
         "name": "Can I Love ?",
         "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
-        "name": "Bye Bye My Blue",
-        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Bye Bye My Blue",
-      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
     },
     {
       "added_at": "2023-12-06 09:09:14",
@@ -531,42 +531,6 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
-        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        },
-        {
-          "name": "SUNG HAN BIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Luv Luv Luv",
-      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 271215,
-      "name": "Popo (How deep is our love?)",
-      "url": "https://open.spotify.com/track/3qDlb0Fo29MtPKsr5sT80Z"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
         "name": "Chancellor",
         "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
       },
@@ -583,6 +547,26 @@
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
+        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        },
+        {
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Luv Luv Luv",
+      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
     },
     {
       "added_at": "2023-12-06 09:09:14",
@@ -607,6 +591,22 @@
       "duration_ms": 187089,
       "name": "Gloomy Star (feat. 1ho & Chan)",
       "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 271215,
+      "name": "Popo (How deep is our love?)",
+      "url": "https://open.spotify.com/track/3qDlb0Fo29MtPKsr5sT80Z"
     },
     {
       "added_at": "2023-12-06 09:09:14",
@@ -663,18 +663,22 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
+        "name": "You Might (Feat. SHIRT)",
+        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
         }
       ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+      "duration_ms": 187185,
+      "name": "You Might (Feat. SHIRT)",
+      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
     },
     {
       "added_at": "2023-12-06 09:09:14",
@@ -695,26 +699,6 @@
       "duration_ms": 257453,
       "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
-        "name": "You Might (Feat. SHIRT)",
-        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        },
-        {
-          "name": "SHIRT",
-          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "You Might (Feat. SHIRT)",
-      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
     },
     {
       "added_at": "2023-12-06 09:09:14",
@@ -755,6 +739,22 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
         "name": "fool",
         "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
         "name": "doodle",
         "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
+        "name": "5\uc6d4\uc758 \ubc24 (May)",
+        "url": "https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 196881,
+      "name": "5\uc6d4\uc758 \ubc24 (May)",
+      "url": "https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 188293,
       "name": "Flu",
       "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
+        "name": "cocoa",
+        "url": "https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "duration_ms": 187659,
+      "name": "cocoa",
+      "url": "https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF"
     },
     {
       "added_at": "2023-12-06 09:09:14",
@@ -851,38 +867,6 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
-        "name": "cocoa",
-        "url": "https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo"
-      },
-      "artists": [
-        {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
-        }
-      ],
-      "duration_ms": 187659,
-      "name": "cocoa",
-      "url": "https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
-        "name": "5\uc6d4\uc758 \ubc24 (May)",
-        "url": "https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 196881,
-      "name": "5\uc6d4\uc758 \ubc24 (May)",
-      "url": "https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
         "name": "Rain Song",
         "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 243785,
       "name": "Rain Song (Feat. Colde)",
       "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
     },
     {
       "added_at": "2023-12-06 09:09:14",

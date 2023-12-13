@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,808 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,903 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 41 | [Warico](https://open.spotify.com/track/4JoFTf46lLduGQsQUNLpGZ) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/2ovTeDR1IQRjZNRwPNuTAZ) | 3:27 |
 | 42 | [Atse Tewodros](https://open.spotify.com/track/21RdOi6iAjdIJK9yx8TYrG) | [Gabriella Ghermandi](https://open.spotify.com/artist/65kOUo79VAnY3KLSlkA620), [Yohannes Afework](https://open.spotify.com/artist/4sg8WHFt697sqaEvEmsySU), [Endris Hassan](https://open.spotify.com/artist/3S22bs2bLpIpscRmxjYSEe), [Michele Giuliani](https://open.spotify.com/artist/7MwNSA8qsLd0kBBtfbxAts), [Marcello Piarulli](https://open.spotify.com/artist/43JPaMurizq1fa9KKdnbKa), [Fasika Hailu](https://open.spotify.com/artist/20E2ikHhvy0jFgbcV9pqPf), [Cesare Pastanella](https://open.spotify.com/artist/5QqlZTWbIONXML0zihecw5) | [Celebrating Emperor Tewodros II](https://open.spotify.com/album/4oVxYRZO3pHTIhEd9g6hR1) | 6:06 |
 | 43 | [Imbukula](https://open.spotify.com/track/49SD731vKkB8DOy1Rqr340) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [Discover Music from Africa](https://open.spotify.com/album/6NzbFxFvkvUCoRn2YmjLXj) | 4:45 |
-| 44 | [Ndule](https://open.spotify.com/track/1z0iOMCfT7b5Wk9P8TR0cG) | [Jaja Bashengezi](https://open.spotify.com/artist/1RQv52rbKYfSKVkPfCvxxw) | [Putumayo Presents African Café](https://open.spotify.com/album/1hbhZdfJFRJsWttOQVlNMD) | 3:42 |
+| 44 | [Ndule](https://open.spotify.com/track/1z0iOMCfT7b5Wk9P8TR0cG) | [Jaja Bashengezi](https://open.spotify.com/artist/17JrE5cw1UXZbRylwys1Tb) | [Putumayo Presents African Café](https://open.spotify.com/album/1hbhZdfJFRJsWttOQVlNMD) | 3:42 |
 | 45 | [Kora by Night](https://open.spotify.com/track/2hU4x98c0LUwRUqjJE4ujy) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Kora Fo](https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh) | 3:45 |
 | 46 | [Good Things God Knows](https://open.spotify.com/track/5JJzSGrCDdPpyZAhBxVeNO) | [King Ayisoba](https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen) | [Work Hard](https://open.spotify.com/album/0SYEzD4cVKiPEXK5gfsK4N) | 5:04 |
 | 47 | [Sarama](https://open.spotify.com/track/7jDvPH18QP0Y35l20cjYgy) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Beautiful Africa](https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj) | 5:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Sohlangana khona \(We Will Meet There\)](https://open.spotify.com/track/5R53of9PqwA6RyDwht0Sun) | [Vusa Mkhaya](https://open.spotify.com/artist/1Zcfa6xRf2ZShaD9lcVR8E), [Brian Bangura](https://open.spotify.com/artist/1DzpwojcAYW8Pu3e90sJls), [Ramadu](https://open.spotify.com/artist/1xChafGbiQpAoWuyxFLWkY), [Handsome Mabhiza](https://open.spotify.com/artist/6AZhQmpoUMvqdA8b4r3q9b), [Othnell Mangoma Moyo](https://open.spotify.com/artist/2BTkglCPvt9QTqWZUWFxTn) | [Vusa Mkhaya: Vocalism](https://open.spotify.com/album/6YkNFMEvza2qgoyLKKYvfY) | 5:09 |
 | 100 | [Folly Cagni](https://open.spotify.com/track/37sZL7KtUzNhQdAL11ofet) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/2ovTeDR1IQRjZNRwPNuTAZ) | 3:08 |
 
-Snapshot ID: `MCwzOTRlMmU0YzY5NDE2NDMxYzJhODc4ZjlkY2NmYWEyMGIwZGM2ZmJh`
+Snapshot ID: `MCxmYWU4ZmExMmY4ZDhlYzMyNDkxOTRiM2U4ZTVjMGZmN2M4OGMzZTQy`

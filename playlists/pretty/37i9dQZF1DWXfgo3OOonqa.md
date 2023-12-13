@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,468 likes - 80 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,501 likes - 80 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 79 | [ELTON](https://open.spotify.com/track/0piouxd8gy4K1DnKMBAO0c) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [ELTON](https://open.spotify.com/album/2xNPeHuKdpeCyn65rkhN40) | 2:10 |
 | 80 | [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 |
 
-Snapshot ID: `MCw3NGFjNzQ0YTQ5M2M4YzIwMTVhZmMxMDY1NGI1NTQ0OWY4MWNhMTMx`
+Snapshot ID: `MCxiMGNjYjRiMGM0YmZjMTc5MjY1NWJiYWU0ZTI2MTZhNjVjNTYwZmI4`

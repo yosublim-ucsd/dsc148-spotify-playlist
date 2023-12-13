@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Night Lovell
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,164 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,171 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let Me Calm Down \(feat\. J\. Cole\)](https://open.spotify.com/track/44gmXwbdHjwQsQvsiraj14) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 4:04 |
 | 2 | [LIFE SUCKS SO WE FUCK \(feat\. ZillaKami\)](https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [I HOPE YOU'RE HAPPY](https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p) | 2:01 |
 | 3 | [Planet Giza "On The Radar" Freestyle](https://open.spotify.com/track/2T0Wl5G3ZyVSbu9Zy6ikMw) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Planet Giza "On The Radar" Freestyle](https://open.spotify.com/album/4RVeRwHtmm7cSoafWYb7u0) | 2:05 |
-| 4 | [jacob's ladder](https://open.spotify.com/track/6MAGYGhkXUAaQYSmDVBaX2) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [jacob's ladder](https://open.spotify.com/album/5rBTEcLaDLgNS263LsG5la) | 2:50 |
+| 4 | [jacob's ladder](https://open.spotify.com/track/6MAGYGhkXUAaQYSmDVBaX2) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [JACOB'S LADDER](https://open.spotify.com/album/5rBTEcLaDLgNS263LsG5la) | 2:50 |
 | 5 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 6 | [All I Want Is You \(feat\. NorthsideBenji\)](https://open.spotify.com/track/3C9YXCS9aS60nyGqL4X13l) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [All I Want Is You \(feat\. NorthsideBenji\)](https://open.spotify.com/album/7cKlRpmFXEjClzmrtmsHck) | 3:00 |
 | 7 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [REMEDIES](https://open.spotify.com/track/3YMPzE7yuh6Yph8v7Deofz) | [Sick Ppl](https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0), [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh) | [REMEDIES](https://open.spotify.com/album/4dbEUtDoY4HdOF1MwNBryr) | 1:58 |
 | 50 | [WHAT’S THE CATCH](https://open.spotify.com/track/5P3N2MHWMvP9mjaLY7Iwka) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [WHAT’S THE CATCH](https://open.spotify.com/album/4IvCOyZlolGdWDLwuOSiut) | 1:42 |
 
-Snapshot ID: `MCw3ZTUxZDEwMjE1MzE4ODAyYTJmODQ3ODljZjY3NGU4MWE4MmMzYjg1`
+Snapshot ID: `MCxlMjliNTRmYmJiOTY4YmIwYThhNWVmYzUwYzk0MWI2NDgwNDFiNjdm`

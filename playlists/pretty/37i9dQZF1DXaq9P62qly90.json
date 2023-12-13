@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12628,
+  "num_followers": 12630,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmVlNzRkMmNiZTQzODBkOGVkMTA1MTgwMjU2NjBiMWNjYzc5YjBi",
+  "snapshot_id": "MCxhNTlmYmYwMTJhZTVjMTBhMTdiMmU3ODIyNDJkMTNhM2Q3NDBmMzAw",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -744,8 +744,8 @@
           "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
         },
         {
-          "name": "Joseph",
-          "url": "https://open.spotify.com/artist/3nYWxemw6BD1qgixGfn8cI"
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
         }
       ],
       "duration_ms": 261006,
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Kulture",
-        "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
-      },
-      "artists": [
-        {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
-        }
-      ],
-      "duration_ms": 276017,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Take Your Power Back",
         "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
       },
@@ -851,18 +835,38 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Road Goes All Night",
-        "url": "https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D"
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
       },
       "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        },
         {
           "name": "Dirtwire",
           "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
         }
       ],
-      "duration_ms": 351272,
-      "name": "Steppegrass",
-      "url": "https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L"
+      "duration_ms": 262174,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Kulture",
+        "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
+      },
+      "artists": [
+        {
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
+        }
+      ],
+      "duration_ms": 276017,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe"
     }
   ],
   "unique_name": "Peace Of Mind",

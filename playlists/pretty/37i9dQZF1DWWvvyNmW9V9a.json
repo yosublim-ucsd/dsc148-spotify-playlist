@@ -1,12 +1,12 @@
 {
   "description": "She's the perfect all-american",
-  "num_followers": 2178241,
+  "num_followers": 2178193,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTE1OWIyOWY3YTBiYWI0ZTUyZDk3YTk2Yjg5NDMwMTFjNDA3ZTJm",
+  "snapshot_id": "MCw1MDE5YzUwYTgxMGI0NWZmZmZhZTIwYjk4YWUwZjAwMjZkYzQyN2Rk",
   "tracks": [
     {
       "added_at": "2023-12-11 05:03:11",
@@ -71,6 +71,22 @@
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
+    },
+    {
+      "added_at": "2023-12-12 19:08:53",
+      "album": {
+        "name": "Christmas & Chill",
+        "url": "https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Santa Tell Me - Naughty Version",
+      "url": "https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -311,6 +327,22 @@
       "duration_ms": 155586,
       "name": "Everybody Wants To Rule The World - From \u201cThe Hunger Games: Catching Fire\u201d Soundtrack",
       "url": "https://open.spotify.com/track/3S1tTwSKIZgf4QGltFyCxM"
+    },
+    {
+      "added_at": "2023-10-13 03:59:49",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -923,22 +955,6 @@
       "duration_ms": 177534,
       "name": "Sinister",
       "url": "https://open.spotify.com/track/5g3VLhRVLUpWJghanBJkMm"
-    },
-    {
-      "added_at": "2023-10-13 03:59:49",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
     },
     {
       "added_at": "2023-11-01 00:26:17",

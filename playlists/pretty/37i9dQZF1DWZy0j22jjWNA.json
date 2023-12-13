@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 88778,
+  "num_followers": 88799,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjE0MzA5ZDNiOWE5N2YzMTM0NTY0OTdjNjk2ZmVkYjA4ZTQ0Yzkx",
+  "snapshot_id": "MCxiMDRiMTgwNzI5YWIxNTYwNTFmMTM2N2M5MTdlMzU0OTc1YzkzNjk5",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Souls",
+        "url": "https://open.spotify.com/album/6h8evmiksmB6ZAXzg2ebQR"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Riah",
+          "url": "https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/6Nqzq8LbkpcnykQ7i59Yqq"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Grateful (feat. Poo Bear)",
         "url": "https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH"
       },
@@ -591,22 +611,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The Mountain (Live from 25in24)",
-        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        }
-      ],
-      "duration_ms": 231375,
-      "name": "The Mountain (Live from 25in24)",
-      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
         "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
       },
@@ -623,6 +627,22 @@
       "duration_ms": 222878,
       "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
       "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "The Mountain (Live from 25in24)",
+        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "duration_ms": 231375,
+      "name": "The Mountain (Live from 25in24)",
+      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -647,26 +667,6 @@
       "duration_ms": 221680,
       "name": "When the Walls Come Crashing Down (feat. Jon Foreman & Jillian Edwards)",
       "url": "https://open.spotify.com/track/6b0X26lFzNr7FnlbPTD4Qg"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Souls",
-        "url": "https://open.spotify.com/album/6h8evmiksmB6ZAXzg2ebQR"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Riah",
-          "url": "https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/6Nqzq8LbkpcnykQ7i59Yqq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Hold to the Light",
-        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
-      },
-      "artists": [
-        {
-          "name": "Brooke Annibale",
-          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Versions",
         "url": "https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 231346,
       "name": "Losing the Lonely",
       "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Hold to the Light",
+        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
+      },
+      "artists": [
+        {
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf"
     },
     {
       "added_at": "2020-09-04 04:02:00",

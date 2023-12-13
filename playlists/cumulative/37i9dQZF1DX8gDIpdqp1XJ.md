@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-917 songs - 2 day 12 hr 7 min
+918 songs - 2 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -799,6 +799,7 @@
 | [The Melting Of The Sun](https://open.spotify.com/track/4unEJMppi4oB9yoYRnTnq7) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Melting Of The Sun](https://open.spotify.com/album/0mOmcNkbEpgXvSWlhrHtdj) | 4:17 | 2021-04-02 | 2022-07-30 |
 | [The Night Has Missed Me](https://open.spotify.com/track/0tH8LYAaoTsPWmFeEUEnIF) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P) | [From Heaven](https://open.spotify.com/album/260smJl1zubR2fxh8OD0rz) | 3:49 | 2022-05-09 | 2022-07-30 |
 | [The Nowhere Inn](https://open.spotify.com/track/1yGiZ1DTPQAV9Ce4CdXUes) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Nowhere Inn](https://open.spotify.com/album/3s7Ckxb0AtvDSUXxuVg3ST) | 4:29 | 2021-09-17 | 2022-07-21 |
+| [The Paradigm](https://open.spotify.com/track/2lqaVvI8tqZpVwC5Cuxsbn) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Leave the World Behind \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr) | 2:19 | 2023-12-11 |  |
 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 | 2023-03-06 | 2023-07-14 |
 | [The Physical Attractions](https://open.spotify.com/track/2TeYAizye4GlmzQq5zyf91) | [The Symposium](https://open.spotify.com/artist/2FQgnKHydnhSnRS17BSy28) | [The Symposium](https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E) | 4:44 | 2022-05-24 | 2022-10-26 |
 | [The Skin And The Glove](https://open.spotify.com/track/27P3WtpJnHreSOmwAOH29O) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Skin And The Glove](https://open.spotify.com/album/4cS5ytj8t6O9hYJHQPi9QQ) | 6:02 | 2023-07-13 | 2023-08-27 |

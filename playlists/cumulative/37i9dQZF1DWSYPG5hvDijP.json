@@ -1645,6 +1645,32 @@
     },
     {
       "album": {
+        "name": "Gurjari",
+        "url": "https://open.spotify.com/album/6zG42VggnsjGC7mJhiq7SZ"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Alan Sampson",
+          "url": "https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96"
+        },
+        {
+          "name": "ADP",
+          "url": "https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Gurjari",
+      "url": "https://open.spotify.com/track/2G6xSLWVj94AwzwdsbLJ29"
+    },
+    {
+      "album": {
         "name": "Haath Varthi",
         "url": "https://open.spotify.com/album/6H44Nod2PTvbTuu7PnUZWg"
       },

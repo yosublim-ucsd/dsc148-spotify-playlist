@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Don Pero
 
-851 songs - 1 day 13 hr 5 min
+852 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Donnie Brasco freestyle](https://open.spotify.com/track/3UqHxUQxWivrX742Y4AhwM) | [Tommy Brillante](https://open.spotify.com/artist/3h4O6TeqWlerxYOmNvXQ4A) | [Donnie Brasco freestyle](https://open.spotify.com/album/78W5CaphrYeizlF43lpJFE) | 1:47 | 2022-08-18 | 2022-09-16 |
 | [DOPE](https://open.spotify.com/track/5AmUo8F3AVbhV24WUm1s9M) | [G.Issa](https://open.spotify.com/artist/7gU8RwGw5k4wbutDIrIimI), [Maggy](https://open.spotify.com/artist/4Y069eNjl2OxbwqsJghHHn) | [DOPE](https://open.spotify.com/album/2XQW0WCBXLN3OjcT2Dyleu) | 2:04 | 2022-05-10 | 2022-05-13 |
 | [Dream Team](https://open.spotify.com/track/5Cv7syuN0JoYSCzj4Ow2mi) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E) | [Dream Team](https://open.spotify.com/album/6NxPuLnfHoj7X2akdm2mFw) | 2:44 | 2022-09-29 | 2022-10-21 |
+| [Driftando \(feat\. Tony 2Milli\)](https://open.spotify.com/track/3KVW8uK3CatQ599k3ahRGn) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Driftando \(feat\. Tony 2Milli\)](https://open.spotify.com/album/4R1P9WFBnwmIuI0Cb88tjW) | 2:40 | 2023-12-12 |  |
 | [Drillin'](https://open.spotify.com/track/5yMYtbypj4UNornVo4zwGf) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Drillin'](https://open.spotify.com/album/35RjfCOtW30zX04JiqxPMp) | 2:38 | 2022-05-10 | 2022-06-03 |
 | [DRIN DRIN \(feat\. LJK\)](https://open.spotify.com/track/6l1kvKetaUlC235MpIJrUD) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [DRIN DRIN \(feat\. LJK\)](https://open.spotify.com/album/6NkKaJtAmmE29ghqrxUE5L) | 2:41 | 2023-07-27 | 2023-10-13 |
 | [DRUG DEALER](https://open.spotify.com/track/1VZMjXdmyH6WvBFJeIDuG1) | [AF6914](https://open.spotify.com/artist/2nSxU1GDMM5V87yXKVnGsz) | [DRUG DEALER](https://open.spotify.com/album/0DpRoF12BKXnso55BfjJYQ) | 2:17 | 2022-05-10 | 2022-06-23 |

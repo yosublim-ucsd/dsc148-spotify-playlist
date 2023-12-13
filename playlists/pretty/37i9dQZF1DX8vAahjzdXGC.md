@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Arsy Widianto, Ziva Magnolya
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,270 likes - 101 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,375 likes - 101 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 92 | [Good in Goodbye](https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye) | [Good in Goodbye](https://open.spotify.com/album/1UlMDQn059Zho0E2dZXlyH) | 3:00 |
 | 93 | [I WRITE SONGS ABOUT YOU](https://open.spotify.com/track/0qYeqpxqxQB7VSegLNRBRc) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CATALYST\- EP](https://open.spotify.com/album/6gyeFXC2dYLrU3O0tovWqC) | 2:14 |
 | 94 | [I'm okay](https://open.spotify.com/track/7Ifacym53lOQSS38tgwgKf) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [After Love](https://open.spotify.com/album/2OUaeEG9GKYOIIEZkLPdfP) | 3:23 |
-| 95 | [My First Snow](https://open.spotify.com/track/4MlK9AIBYomZN8vzAg1Kzt) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [My First Snow](https://open.spotify.com/album/7DHnZSD1Q492k9IYulGKgG) | 3:55 |
+| 95 | [My First Snow](https://open.spotify.com/track/4MlK9AIBYomZN8vzAg1Kzt) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [My First Snow](https://open.spotify.com/album/7DHnZSD1Q492k9IYulGKgG) | 3:56 |
 | 96 | [WE CONNECT \(feat\. ONCHA\)](https://open.spotify.com/track/3GdgIiVEtDl1X0VfJXowQs) | [YUNB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [ONCHA](https://open.spotify.com/artist/1bFopqNLKXpBvGmcG2sx7x) | [WE CONNECT \(feat\. ONCHA\)](https://open.spotify.com/album/04Or0N6xWhIlDrV0TEcguw) | 2:11 |
 | 97 | [Stars](https://open.spotify.com/track/3Etf6MmjZImqtjShVihi0e) | [Jay Ocean](https://open.spotify.com/artist/6WK3Qxj1lGo2lr8d7y2fZM) | [Stars](https://open.spotify.com/album/6UZqsM1laI8Ty4lz92Zw5A) | 2:30 |
 | 98 | [18](https://open.spotify.com/track/3bXTpnBUoU4hJvkRQiZQrs) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [18](https://open.spotify.com/album/6lMeuUVkmw1ZtlH7S9LjT2) | 3:38 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 100 | [Sad Tomorrow](https://open.spotify.com/track/42ne6UiPfTi2Vek8KdWAcX) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH), [Rian Cult](https://open.spotify.com/artist/2idZntzccbSKeEzNWqzamb) | [Sad Tomorrow](https://open.spotify.com/album/0D8uRtVYFcfnXJXfVRH4GW) | 3:02 |
 | 101 | [LET ME BE!](https://open.spotify.com/track/236IyEKTINi297J8eZDfYM) | [gencry](https://open.spotify.com/artist/5TTgTTAxOez6W6bnKpphrc) | [LET ME BE!](https://open.spotify.com/album/3T7YEnmKdcD2xk5GMPb66E) | 3:15 |
 
-Snapshot ID: `MCxiNDJhNjY0YjU4MWIxMTY4MzZiYmU0Y2ZiNzFlYjg4YjczYTEwNDAx`
+Snapshot ID: `MCwzNjhkYWZhODM5MTkyNTMwYzdhNWZkZDMxY2EyNjgyOGQ3NzRjYWFj`

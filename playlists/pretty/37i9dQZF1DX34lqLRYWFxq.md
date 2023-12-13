@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in rock this week\. Cover: Elephant Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,261 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,259 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 63 | [Clean](https://open.spotify.com/track/28OHFYWmXQf4rjVXAVDkmM) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Clean](https://open.spotify.com/album/0RXJVNNoCXQ3YgL16NsRcL) | 2:55 |
 | 64 | [On Again, Off Again](https://open.spotify.com/track/6UGznmMgsa1VzmHQLVgxO3) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [On Again, Off Again](https://open.spotify.com/album/6tA2a3k1uMIsqWZZeUsKYe) | 3:46 |
 | 65 | [SEX ON THE BEACH](https://open.spotify.com/track/1a66ctSliEPB63zvjrI9f0) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [SEX ON THE BEACH](https://open.spotify.com/album/2fhKQXM5B3No5aWHB3vuPi) | 3:10 |
-| 66 | [Juan](https://open.spotify.com/track/76bIIGkdgueve4mz3Sox52) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Hindsight is 50/50](https://open.spotify.com/album/1YRDxoprPeRTWFwDO9aZhI) | 6:38 |
+| 66 | [Juan](https://open.spotify.com/track/76bIIGkdgueve4mz3Sox52) | [GHOSTWOMAN](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Hindsight is 50/50](https://open.spotify.com/album/1YRDxoprPeRTWFwDO9aZhI) | 6:38 |
 | 67 | [Vendredi](https://open.spotify.com/track/4hdSkfUs1LUisa1owTWqe4) | [Rouge Pompier](https://open.spotify.com/artist/6juqd2DiJxLYeldyOvjzql) | [Vendredi](https://open.spotify.com/album/0SMlVogwTii9DqvIetc129) | 3:34 |
 | 68 | [Dazed & Confused](https://open.spotify.com/track/6zyNv3dTBNbOTYnnrAyBmT) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Hotel Bleu](https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI) | 2:48 |
 | 69 | [What the Sun Saw](https://open.spotify.com/track/0FLmUpO1w2sypa14wwPf7v) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Show Friends](https://open.spotify.com/album/4Giirh6zaV7k8g7INupvwH) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [XOXO](https://open.spotify.com/track/2gsQSr676Ri06KDDtUqjAs) | [Gee Clarke](https://open.spotify.com/artist/5mKjDMrHsXXsNPqIvVX3j3), [Command Sisters](https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed) | [XOXO](https://open.spotify.com/album/4vvX6eL8vfklKlxiREbon5) | 2:15 |
 | 100 | [Plaster Girl](https://open.spotify.com/track/4WJJ5Klv5EgxXpw7Kl7Vdt) | [Thermal](https://open.spotify.com/artist/0rXfVyHv2j4AaWRvhM44KS) | [Plaster Girl](https://open.spotify.com/album/7pbvS6lwjSmn48GlPUim2H) | 4:40 |
 
-Snapshot ID: `MCxmY2VhOGQxNGMxNzk0NWQ5NjIxYjRiYjE5YTRkNTA2ODRiOTcxNzc0`
+Snapshot ID: `MCw4YjgxMzUwMzczYjVmZmYzZjY2YmE4OTA2NDhhNjZiNmExNmU0MDE4`

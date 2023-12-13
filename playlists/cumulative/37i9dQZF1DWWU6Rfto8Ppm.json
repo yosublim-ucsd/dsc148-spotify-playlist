@@ -5,6 +5,60 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1mJzxguN12OGoxFK6VKOdK"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3z6HxlyOlcd2bPBTUNElC8"
+    },
+    {
+      "album": {
         "name": "301",
         "url": "https://open.spotify.com/album/4FnPPFM3Pb9SF9lIuQeEEC"
       },
@@ -234,24 +288,6 @@
       "duration_ms": 152106,
       "name": "Ag\u00e1rrala - Remix",
       "url": "https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr"
-    },
-    {
-      "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152163,
-      "name": "Ag\u00e1rrala - Remix",
-      "url": "https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ"
     },
     {
       "album": {
@@ -1958,7 +1994,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 203666,
       "name": "Dos Palgas",
       "url": "https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6"
@@ -2972,24 +3008,6 @@
       "duration_ms": 198720,
       "name": "Gata Celosa",
       "url": "https://open.spotify.com/track/31IeSPRxSCtQqyi7ixc3WZ"
-    },
-    {
-      "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208169,
-      "name": "Gata Fiera",
-      "url": "https://open.spotify.com/track/3z6HxlyOlcd2bPBTUNElC8"
     },
     {
       "album": {
@@ -4798,32 +4816,6 @@
       "duration_ms": 107572,
       "name": "No Es Culpa M\u00eda",
       "url": "https://open.spotify.com/track/4YAcCjGlRfpcFLyxiI54K7"
-    },
-    {
-      "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        },
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212767,
-      "name": "No Le Temas a \u00c9l",
-      "url": "https://open.spotify.com/track/1mJzxguN12OGoxFK6VKOdK"
     },
     {
       "album": {
@@ -8056,7 +8048,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 144186,
       "name": "Villana",
       "url": "https://open.spotify.com/track/3dvmH4H92kg3IR1FeimUFw"

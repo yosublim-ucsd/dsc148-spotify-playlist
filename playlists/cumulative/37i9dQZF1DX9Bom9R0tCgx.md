@@ -4,7 +4,7 @@
 
 > All the stuff that will blow your speakers!
 
-180 songs - 9 hr 16 min
+181 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Universo](https://open.spotify.com/track/5DRGuHS0xJ3X3OZjCrglTI) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Rising Dust](https://open.spotify.com/artist/5ljIs5Y5MfXRmhB97gQpq0) | [Universo](https://open.spotify.com/album/6lTv8SLRs1naQuh7YvdMjM) | 10:07 | 2023-08-31 |  |
 | [Vivaldi](https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Vivaldi](https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG) | 2:40 | 2023-08-31 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-14 |  |
-| [Waking Life \(A New Dawn\) \[feat\. Michael Ekow\]](https://open.spotify.com/track/3dZgjwk1krwcKzb5CFPmov) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Waking Life \(A New Dawn\) \[feat\. Michael Ekow\]](https://open.spotify.com/album/7wYR9YnoRuKOsrveDwkzcG) | 3:13 | 2023-11-16 |  |
+| [Voodoo People](https://open.spotify.com/track/1GjP81Vfj8qjra1WHmYXji) | [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37) | [Voodoo People](https://open.spotify.com/album/2SA0Lmd4YWjX0HpahKTXB0) | 2:00 | 2023-12-08 |  |
+| [Waking Life \(A New Dawn\) \[feat\. Michael Ekow\]](https://open.spotify.com/track/3dZgjwk1krwcKzb5CFPmov) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Waking Life \(A New Dawn\) \[feat\. Michael Ekow\]](https://open.spotify.com/album/7wYR9YnoRuKOsrveDwkzcG) | 3:13 | 2023-11-16 | 2023-12-13 |
 | [We No Speak Americano \- Luca\-Dante Spadafora & Niklas Dee Remix](https://open.spotify.com/track/57QDotZNUHiKkFlplhx3sE) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [We No Speak Americano \(Luca\-Dante Spadafora & Niklas Dee Remix\)](https://open.spotify.com/album/52zry5YLJvBVhYrFYq4a79) | 2:28 | 2023-11-09 |  |
 | [Weekend Party](https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Weekend Party](https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1) | 2:23 | 2023-08-31 |  |
 | [Welcome to the Club](https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Welcome to the Club](https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ) | 3:15 | 2023-08-31 |  |

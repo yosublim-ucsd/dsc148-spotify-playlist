@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-195 songs - 10 hr 23 min
+196 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [GUESS](https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GUESS](https://open.spotify.com/album/576uoepdv4Ygap72dx37gA) | 2:48 | 2023-03-29 | 2023-04-17 |
 | [Gulab Aur Kaante](https://open.spotify.com/track/4EU7KUawcpfOVIdlDdHsLX) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Gulab Aur Kaante](https://open.spotify.com/album/37wInAUaqFnnUogrDxOMDu) | 3:28 | 2023-10-19 |  |
 | [Gully Ka Sher](https://open.spotify.com/track/6mvCUCswLeGI86YviMtCCb) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Gully Ka Sher](https://open.spotify.com/album/2FxoC4BBFOIYF3BetK17RG) | 3:12 | 2023-06-09 |  |
+| [Gurjari](https://open.spotify.com/track/2G6xSLWVj94AwzwdsbLJ29) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [Gurjari](https://open.spotify.com/album/6zG42VggnsjGC7mJhiq7SZ) | 2:37 | 2023-12-12 |  |
 | [Haath Varthi](https://open.spotify.com/track/0H8I33DTtRS9nEZX2FLJV5) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Haath Varthi](https://open.spotify.com/album/6H44Nod2PTvbTuu7PnUZWg) | 2:29 | 2023-05-12 |  |
 | [Haraami 2](https://open.spotify.com/track/0FHT6mYzdrpnxbCtmw7m6I) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [DJ Lush](https://open.spotify.com/artist/7wF3w9xFKpJ4XoH3b52tH8), [Shubhankar Vaid](https://open.spotify.com/artist/29FZEz6utEPA25HVivPc5m), [Adi B](https://open.spotify.com/artist/410U8b20tmqVwS2T3g9gwU), [Ajay Rana](https://open.spotify.com/artist/6PSoBYTcsGfMnOg7RypdgG) | [Haraami 2](https://open.spotify.com/album/148IdeaVWQTqsk6jXhzGXi) | 3:51 | 2023-04-28 | 2023-07-21 |
 | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/track/5ZEp8HXjcsJVVfy88V9LfC) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Bella](https://open.spotify.com/artist/7JPv4d46znI7x7VOkdHNAa) | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/album/3WQxcltWctIEvmvdqK9gHG) | 2:33 | 2023-04-16 | 2023-07-21 |

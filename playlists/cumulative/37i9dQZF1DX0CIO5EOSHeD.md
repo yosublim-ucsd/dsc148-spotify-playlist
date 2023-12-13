@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0CIO5EOSHeD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0CIO5EOSHeD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0CIO5EOSHeD)
 
-### [Lo\-fi Indie](https://open.spotify.com/playlist/37i9dQZF1DX0CIO5EOSHeD)
+### [Lofi Indie](https://open.spotify.com/playlist/37i9dQZF1DX0CIO5EOSHeD)
 
 > Slacker jams\. Cover: feeble little horse
 
-377 songs - 20 hr 19 min
+379 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Answering Machine](https://open.spotify.com/track/3boC2M1D82RuRJhUOkSHtg) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 5:09 | 2023-09-15 |  |
 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 | 2022-03-30 | 2023-07-22 |
 | [Apex](https://open.spotify.com/track/7iKBBvHlTccAOg62uOC0jx) | [Melis](https://open.spotify.com/artist/2KocQ1sDusS8f9Gppxew1g) | [Apex](https://open.spotify.com/album/5MRcdjmdGpvovXlF63NVz6) | 4:09 | 2020-10-27\* | 2021-02-26 |
+| [Around the Pomegranate](https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Mammalian Sighing Reflex](https://open.spotify.com/album/31KiskR7q89oowARNCmSMG) | 2:39 | 2023-12-12 |  |
 | [Arp\-87](https://open.spotify.com/track/0VdOve6hETT3KF9u4v1QQ1) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [Arp\-87](https://open.spotify.com/album/7FoR9yVEiQEp5DgXcCz6Sa) | 2:49 | 2020-10-27\* | 2022-10-19 |
 | [Arp\-87](https://open.spotify.com/track/5On6JIPxzzvVZ40ViSzydm) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [Arp\-87](https://open.spotify.com/album/3XEUvW827y0tEadUoLhssf) | 2:49 | 2022-09-13 | 2022-12-14 |
 | [Artbook](https://open.spotify.com/track/3hDg7qkEQjEdfYz9nbewvs) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Artbook](https://open.spotify.com/album/0GcS4KiaFb2Xm0cVF7skIM) | 2:50 | 2021-09-25 | 2022-07-09 |
@@ -65,7 +66,7 @@
 | [breakdowns](https://open.spotify.com/track/04PS35sEKukUvvVwkFCIas) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [let's play pretend](https://open.spotify.com/album/2wh1Rl0Y4M75r6QJE3fm4S) | 2:36 | 2021-02-26 | 2022-04-19 |
 | [Bridges](https://open.spotify.com/track/1Tcg3ZfPAbIgxpXkV6k29S) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/79zUXfErg2kVJQxQ7ypEZ8) | 3:01 | 2020-10-30 | 2021-02-06 |
 | [Buzzkill Bummer](https://open.spotify.com/track/1A9E6L24cyCjWSyVquC2Nt) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [Buzzkill Bummer](https://open.spotify.com/album/1wyuVpcuONLiY5qsllzc4K) | 3:02 | 2021-08-13 | 2022-07-29 |
-| [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 | 2022-09-13 |  |
+| [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 | 2022-09-13 | 2023-12-13 |
 | [Buzzkill Bummer](https://open.spotify.com/track/5pLN9j3IQF63Dx4J5OT53p) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [Buzzkill Bummer](https://open.spotify.com/album/2TsdVKTcu9dzDb2SeZHMjd) | 3:02 | 2022-03-30 | 2022-12-05 |
 | [by the way](https://open.spotify.com/track/4zWrWNH8wEgJoLQwqjhTJE) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 3:44 | 2021-08-16 | 2022-07-22 |
 | [Cali](https://open.spotify.com/track/3C8XRQ7aJkPf64WpEHWIgg) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Cali](https://open.spotify.com/album/1YXwbTzHlv9v9ivzvsYM6f) | 3:34 | 2021-12-09 | 2022-07-24 |
@@ -193,7 +194,7 @@
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-03-30 |  |
 | [Jealous](https://open.spotify.com/track/50T09odwoubQPLVoL8ppeY) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/7HXurINUslsmsMvsdSgtnn) | 2:02 | 2022-09-13 | 2022-11-13 |
 | [Jealous](https://open.spotify.com/track/5KbTBSGUvgDg75gIVhUaAW) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf) | 2:02 | 2021-03-16 | 2022-07-29 |
-| [Jelsy](https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Jelsy](https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn) | 3:48 | 2023-12-02 |  |
+| [Jelsy](https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Jelsy](https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn) | 3:48 | 2023-12-02 | 2023-12-13 |
 | [Jonah](https://open.spotify.com/track/740cFOON0lTS7vwP8wpXLz) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [Jonah](https://open.spotify.com/album/1GwoB5FkcuDTrODlxHxeV8) | 3:11 | 2021-08-27 | 2022-05-17 |
 | [just the way it is](https://open.spotify.com/track/0hLf3CBO9Oq7OAQx3r4XRR) | [latenitexeno](https://open.spotify.com/artist/4ILu2F4cEF1CiFEUT8XFqF), [Triple$ix](https://open.spotify.com/artist/2UQuceFmElR6ErvDnT54eM), [front room club](https://open.spotify.com/artist/1sSuSoA3Mzz8T9LBA0hT8t) | [just the way it is](https://open.spotify.com/album/7ce6J51paS5QUNBeIwpjf0) | 3:07 | 2020-10-27\* | 2022-07-13 |
 | [Karaoke](https://open.spotify.com/track/3XDlKHONraLh0a7TsWUxyn) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Karaoke](https://open.spotify.com/album/2e51oImIs1Ewu7vlAhI6md) | 5:15 | 2021-08-20 | 2022-07-19 |
@@ -221,6 +222,7 @@
 | [Man Love](https://open.spotify.com/track/71nPVaCmjNptNeB9bPiJ8n) | [Margot](https://open.spotify.com/artist/7Gql8RptDsVy6MIJzTLaB6) | [Man Love](https://open.spotify.com/album/0Yefs8ZgP83qCBnm8DPcSL) | 4:56 | 2020-10-27\* | 2021-02-26 |
 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 | 2021-02-06 |  |
 | [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 | 2023-05-18 | 2023-10-04 |
+| [Melatonin 130](https://open.spotify.com/track/5Iy5ERWGB2lLscr6SiZHT6) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Mammalian Sighing Reflex](https://open.spotify.com/album/31KiskR7q89oowARNCmSMG) | 3:50 | 2023-12-12 |  |
 | [Midnight on a Sunny Day](https://open.spotify.com/track/0xxJmxdsfdNIO4uChWpitR) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/7g0KWmMqYJIWcHVVGycNqU) | 2:43 | 2021-09-03 | 2022-07-27 |
 | [Midnight on a Sunny Day](https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:43 | 2022-03-30 |  |
 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 | 2022-02-03 | 2022-07-29 |

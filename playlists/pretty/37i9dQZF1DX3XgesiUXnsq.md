@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: 50 Cent
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,945 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,984 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 17 | [Chief Rocka](https://open.spotify.com/track/34MRi5GRWHFUa731JBxFEl) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 4:07 |
 | 18 | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD) | 2:46 |
 | 19 | [Drug Trade Pt 2 \(feat\. Black Thought & Benny The Butcher\)](https://open.spotify.com/track/0caNSAOGrPfUQAvqi7H91l) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Drug Trade Pt 2 \(feat\. Black Thought & Benny The Butcher\)](https://open.spotify.com/album/6bcMIqGM6TwlPvhJYsCCSf) | 4:32 |
-| 20 | [Noir](https://open.spotify.com/track/4YF8Idp8iaVuNeot5NovUE) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [CONDUCTOR MACHINE](https://open.spotify.com/album/494PJlKkoC3pSrUK9l6jjW) | 2:31 |
+| 20 | [Noir](https://open.spotify.com/track/1i2jEFzWKiLU6XupSzrJl5) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [CONDUCTOR MACHINE](https://open.spotify.com/album/4viREbIq5blFYimsKv6EI3) | 2:31 |
 | 21 | [N.Y\. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:53 |
 | 22 | [How We Get It](https://open.spotify.com/track/7fUWdT1JMsoN0ZHOD9eXpi) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [How We Get It](https://open.spotify.com/album/1ClpBOmXZMVGBeN0pcPdoB) | 3:20 |
 | 23 | [Brooklyn Zoo](https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Father Time \- 2018 Version](https://open.spotify.com/track/3SmBlrwEkQGZEyt6YdVqCl) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Father Time \(2018 Version\)](https://open.spotify.com/album/7paQkDb3idCmqDqjGC6VnW) | 4:43 |
 | 100 | [Shootouts In Soho \(feat\. A$AP Rocky & Stove God Cooks\)](https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 3:29 |
 
-Snapshot ID: `MCxkOTA1ZDMwZDJmNmU1ZTA5MGQwODM2ZTc2Mjk4YjhkOTZmNWFiMGM0`
+Snapshot ID: `MCxmYTQwMDc0M2I3MDI4MWY5YjI2NTJhMWMwODg0YmE4NzA1NmQ2NGQ5`

@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-120 songs - 4 hr 56 min
+122 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Hideaway](https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Hideaway](https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy) | 2:28 | 2023-05-09 |  |
 | [Holding Hands](https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP) | [Junie Graziano](https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT) | [Holding Hands](https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc) | 1:39 | 2023-05-09 |  |
 | [I'll Meet You On The Clouds \- World Sleep Day Mix](https://open.spotify.com/track/2BeCRQKSIv9ilQrbl9GiMk) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [I’ll Meet You On The Clouds \(World Sleep Day Mix\)](https://open.spotify.com/album/5RxljAzNOU50KsHOpVmC93) | 3:12 | 2023-05-09 |  |
+| [Inner Peace Of Mind](https://open.spotify.com/track/1vQc1CMKybARohCOtrr7Oc) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Inner Peace Of Mind](https://open.spotify.com/album/1sys8kVADrVBBiPvB21JRi) | 3:06 | 2023-12-12 |  |
 | [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 | 2023-05-09 |  |
 | [Lassitude](https://open.spotify.com/track/3YC3J5jl254mN4yCTiZz27) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Lassitude](https://open.spotify.com/album/7KvllB6zOkX2mf0SCf9jp5) | 2:34 | 2023-05-09 |  |
 | [Last Sunday](https://open.spotify.com/track/6QIPjub60aFnvKxe4oNuEs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:23 | 2023-05-09 |  |
@@ -128,5 +129,6 @@
 | [White Garden](https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [White Garden](https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ) | 2:06 | 2023-05-09 |  |
 | [Winterfall](https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Winterfall](https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX) | 2:39 | 2023-05-09 |  |
 | [Your Happiness](https://open.spotify.com/track/5KWf6l4r8SmAI2kOkYCWwU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Happiness](https://open.spotify.com/album/3b9pDCFvoOXeKkJU0Q2di5) | 2:27 | 2023-08-15 |  |
+| [Éclat de Brume](https://open.spotify.com/track/2AID3rEEd5Wd3Le09Ht6Gm) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Éclat de Brume](https://open.spotify.com/album/6O2UnhVcWDP22Nxy1fMcbG) | 2:40 | 2023-12-12 |  |
 
 \*This playlist was first scraped on 2023-05-24. Prior content cannot be recovered.

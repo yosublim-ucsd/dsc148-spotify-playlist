@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,775 likes - 65 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,862 likes - 65 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This I Dig Of You \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/5f0n6K8hW2RIVXuZjxO0bu) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:25 |
 | 2 | [Move](https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:34 |
 | 3 | [Leap Frog \- Take 11 / Take 6 / Master Take](https://open.spotify.com/track/7xZLIErdMaUV0GmtsRclS5) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Curly Russell](https://open.spotify.com/artist/1zSDPSHsf6mXiNp3AHmSvG), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [Bird And Diz \(Expanded Edition\)](https://open.spotify.com/album/28R4xxdsuM5J9k8LekSnrK) | 2:37 |
-| 4 | [Cherokee](https://open.spotify.com/track/0BNrLm5na6f7witHj8769E) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:44 |
-| 5 | [Boogie Stop Shuffle](https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 4:58 |
+| 4 | [Boogie Stop Shuffle](https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 4:58 |
+| 5 | [Cherokee](https://open.spotify.com/track/0BNrLm5na6f7witHj8769E) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:44 |
 | 6 | [Yes Or No \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:39 |
 | 7 | [Bloomdido \- Master Take](https://open.spotify.com/track/2qkDwUvGAQcxqHWsguEbXV) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Bird And Diz: The Genius Of Charlie Parker \#4](https://open.spotify.com/album/7LVNnSl6UhjkLepWoPLqg1) | 3:25 |
 | 8 | [Without a Song \- Remastered](https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 7:26 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 29 | [Airegin](https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:26 |
 | 30 | [Limehouse Blues](https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 4:40 |
 | 31 | [Wee \(Allen's Alley\)](https://open.spotify.com/track/66D8kuQSFshLhI6aVaef2D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Ultimate Stan Getz](https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm) | 8:27 |
-| 32 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
-| 33 | [Ande \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 6:42 |
+| 32 | [Ande \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 6:42 |
+| 33 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
 | 34 | [Arietis \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:41 |
 | 35 | [Impressions \- Live At The Half Note /1965](https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 5:03 |
 | 36 | [Nutville](https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [The Best Of Horace Silver](https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT) | 7:15 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [A Shade Of Jade \- Rudy Van Gelder Edition/2003 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/71xfEEzdq8Mu02l5zkArzi) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Mode For Joe \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD) | 7:08 |
 | 65 | [Just One Of Those Things](https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Cooker](https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py) | 7:16 |
 
-Snapshot ID: `MCw2YjUxMWJlNWJlODg4MjY1MzM5ZmM1NzI5NzM2ZjdmZWZmOGI5YWFl`
+Snapshot ID: `MCw3MDAxNTQ3YTEwNWQxNjAzYTBhNWY3NWQzOTYxMDhhYmIzMzE0NjFh`

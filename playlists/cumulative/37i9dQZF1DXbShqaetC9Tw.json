@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Mondegreen",
+        "url": "https://open.spotify.com/album/2Ae2tMRKZsu376uIJx7MRP"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/7sZLNlcmE9fDPC8Mx4GzOX"
+    },
+    {
+      "album": {
         "name": "idealism",
         "url": "https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi"
       },
@@ -530,7 +548,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 233958,
       "name": "boy",
       "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 177877,
       "name": "in the car",
       "url": "https://open.spotify.com/track/3pYKGgI0CzsiXUtqI97tuR"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 197550,
       "name": "m o v i e (Feat. Jade)",
       "url": "https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ"

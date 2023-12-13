@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,366 likes - 317 songs - 17 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,537 likes - 317 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 24 | [Nobody](https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Nobody](https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW) | 3:46 |
 | 25 | [Confused 133](https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [Confused 133](https://open.spotify.com/album/318k5epPI1tchtYBglX5kM) | 2:42 |
 | 26 | [Atlantis](https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Atlantis](https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr) | 2:16 |
-| 27 | [Losing My Head \- CamrinWatsin Remix](https://open.spotify.com/track/2JI4l38QEH9Qi7OtC21H3a) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6) | [Losing My Head \(CamrinWatsin Remix\)](https://open.spotify.com/album/3n6Ge7ndkkmt8h9A29sBgJ) | 3:12 |
+| 27 | [Losing My Head \- CamrinWatsin Remix](https://open.spotify.com/track/2JI4l38QEH9Qi7OtC21H3a) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6) | [Losing My Head \(CamrinWatsin Remix\)](https://open.spotify.com/album/3n6Ge7ndkkmt8h9A29sBgJ) | 2:22 |
 | 28 | [High and I Like it](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [High and I Like it](https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL) | 3:43 |
 | 29 | [I DON'T WANT TO FALL IN LOVE](https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [I DON'T WANT TO FALL IN LOVE](https://open.spotify.com/album/0sXjHFUi5WyYVSkjwvDb4V) | 3:08 |
 | 30 | [Out Of My Hands \- Angrybaby Remix](https://open.spotify.com/track/2N0FdOSAWTUp5Vny0xEvPr) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt), [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [A R I Z O N A \(R E M I X E D\)](https://open.spotify.com/album/3ab2NFkx4nCfOmgh8VFz7P) | 3:32 |
@@ -326,4 +326,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 316 | [Here \- Cyril Hahn Remix](https://open.spotify.com/track/3GerYw4IzfAmx7qbHYwN6X) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Here \(Cyril Hahn Remix\)](https://open.spotify.com/album/0Br9OqErGn1qZHrOh05Ntf) | 4:01 |
 | 317 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 |
 
-Snapshot ID: `MCwxODZkNGRmZjVhMjAwYWU5ODZkMzI4NDk2OWY4MDFlYjE1MzIwZjdi`
+Snapshot ID: `MCw1MDdjNDc3ZjBhODNkMjkwNDcwNjA4YjAwZTRjMzM5NGU5MzYzMWFh`

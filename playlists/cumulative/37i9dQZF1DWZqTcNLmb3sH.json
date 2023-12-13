@@ -11975,6 +11975,32 @@
     },
     {
       "album": {
+        "name": "Life Alli Nimge (From \"Maayanagari\")",
+        "url": "https://open.spotify.com/album/4eXKORXdY1wFqRDQVHuEiJ"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Yograj Bhat",
+          "url": "https://open.spotify.com/artist/5SQ4TP2GqwNGiDDEcOg905"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245875,
+      "name": "Life Alli Nimge - From \"Maayanagari\"",
+      "url": "https://open.spotify.com/track/7zlD52pDXUzesR7RqazeMY"
+    },
+    {
+      "album": {
         "name": "Life Of Charlie (From \"777 Charlie\")",
         "url": "https://open.spotify.com/album/2TJXTtR3GukhFdrGy2urqe"
       },
@@ -14062,7 +14088,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 248181,
       "name": "Naa Ready (From \"Leo (Kannada)\")",
       "url": "https://open.spotify.com/track/3385GNbN3vSr53ePAIqo4M"
@@ -19256,7 +19282,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-13",
       "duration_ms": 220086,
       "name": "Rise of Shantala",
       "url": "https://open.spotify.com/track/5tLJBlEImSeJJ4GvcaCO2W"
@@ -22686,6 +22712,32 @@
       "duration_ms": 320191,
       "name": "Yava Chumbaka (From \"Chowka Bara\")",
       "url": "https://open.spotify.com/track/4CbO97rHZ1MFC9zLKxo2rg"
+    },
+    {
+      "album": {
+        "name": "Yava Janumada Gelathi (from \"Kaatera\")",
+        "url": "https://open.spotify.com/album/5vzLCnSQxi25b62VEiktbY"
+      },
+      "artists": [
+        {
+          "name": "Hemanth Kumar",
+          "url": "https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233492,
+      "name": "Yava Janumada Gelathi (from \"Kaatera\")",
+      "url": "https://open.spotify.com/track/0Uw7FTZyC35WQtqt0kDweW"
     },
     {
       "album": {

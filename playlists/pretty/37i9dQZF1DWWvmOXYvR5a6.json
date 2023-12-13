@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: BM) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 207774,
+  "num_followers": 207850,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzM2YWZiY2QzNTBkZGJlZDc3MzhjZGNhZTAyMmVlOTIyZGRiOWIw",
+  "snapshot_id": "MCwxZDZiY2QwMGM3MzFiMWUyOTY4M2IzMTE5MTU4ODY5ZmNjODE5ODA4",
   "tracks": [
     {
       "added_at": "2023-12-09 13:00:18",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-12-09 13:00:18",
       "album": {
-        "name": "Novel",
-        "url": "https://open.spotify.com/album/6O08w4c7AzjXzfhQbG8zz9"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "What Should I do",
-      "url": "https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY"
-    },
-    {
-      "added_at": "2023-12-09 13:00:18",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 207523,
       "name": "Error (Feat. Loopy)",
       "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
+    },
+    {
+      "added_at": "2023-12-09 13:00:18",
+      "album": {
+        "name": "Novel",
+        "url": "https://open.spotify.com/album/6O08w4c7AzjXzfhQbG8zz9"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY"
     },
     {
       "added_at": "2023-12-09 13:00:18",
@@ -1079,42 +1079,6 @@
     {
       "added_at": "2023-12-09 13:00:18",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 219090,
-      "name": "Remember me",
-      "url": "https://open.spotify.com/track/3nMLh6EKM1v7XW6flN2tLY"
-    },
-    {
-      "added_at": "2023-12-09 13:00:18",
-      "album": {
-        "name": "TOYSTORY3",
-        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        }
-      ],
-      "duration_ms": 135120,
-      "name": "Don\u2032t do That",
-      "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
-    },
-    {
-      "added_at": "2023-12-09 13:00:18",
-      "album": {
         "name": "EVERYWHERE",
         "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
       },
@@ -1139,22 +1103,58 @@
     {
       "added_at": "2023-12-09 13:00:18",
       "album": {
-        "name": "California Love",
-        "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
+        "name": "TOYSTORY3",
+        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
       "artists": [
         {
-          "name": "DONGHAE",
-          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         },
         {
-          "name": "JENO",
-          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
         }
       ],
-      "duration_ms": 228066,
-      "name": "California Love (feat. JENO of NCT)",
-      "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
+      "duration_ms": 135120,
+      "name": "Don\u2032t do That",
+      "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
+    },
+    {
+      "added_at": "2023-12-09 13:00:18",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 219090,
+      "name": "Remember me",
+      "url": "https://open.spotify.com/track/3nMLh6EKM1v7XW6flN2tLY"
+    },
+    {
+      "added_at": "2023-12-09 13:00:18",
+      "album": {
+        "name": "1st Single 'S.i.R'",
+        "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "Drowning (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
     },
     {
       "added_at": "2023-12-09 13:00:18",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2023-12-09 13:00:18",
       "album": {
-        "name": "1st Single 'S.i.R'",
-        "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
+        "name": "California Love",
+        "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
       },
       "artists": [
         {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+          "name": "DONGHAE",
+          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
         },
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "JENO",
+          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Drowning (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
+      "duration_ms": 228066,
+      "name": "California Love (feat. JENO of NCT)",
+      "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
     },
     {
       "added_at": "2023-12-09 13:00:18",
@@ -1223,26 +1223,6 @@
       "duration_ms": 196153,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
-    },
-    {
-      "added_at": "2023-12-09 13:00:18",
-      "album": {
-        "name": "Ring Ring",
-        "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "RING RING",
-      "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
     },
     {
       "added_at": "2023-12-09 13:00:18",
@@ -1275,6 +1255,26 @@
       "duration_ms": 266346,
       "name": "Good Day (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/6CxxgFhfvh5uz6h4l0ltzP"
+    },
+    {
+      "added_at": "2023-12-09 13:00:18",
+      "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "RING RING",
+      "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
     },
     {
       "added_at": "2023-12-09 13:00:18",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-12-09 13:00:18",
       "album": {
-        "name": "Metronome",
-        "url": "https://open.spotify.com/album/0UFVC9LxBrt7ZJg5SMfm7d"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "KEITA",
-          "url": "https://open.spotify.com/artist/3Kkl01m0g7rFMCPavpOmh6"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Metronome",
-      "url": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn"
-    },
-    {
-      "added_at": "2023-12-09 13:00:18",
-      "album": {
         "name": "COCO BOTTLE",
         "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
       },
@@ -1459,22 +1439,38 @@
     {
       "added_at": "2023-12-09 13:00:18",
       "album": {
-        "name": "bury.",
-        "url": "https://open.spotify.com/album/2nSMgMQr9dsqtcOD8jWjCq"
+        "name": "Metronome",
+        "url": "https://open.spotify.com/album/0UFVC9LxBrt7ZJg5SMfm7d"
       },
       "artists": [
         {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "KEITA",
+          "url": "https://open.spotify.com/artist/3Kkl01m0g7rFMCPavpOmh6"
         }
       ],
-      "duration_ms": 196960,
-      "name": "bury. (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/5SQjrx1k3ZSs5QISqoxIy9"
+      "duration_ms": 163373,
+      "name": "Metronome",
+      "url": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn"
+    },
+    {
+      "added_at": "2023-12-09 13:00:18",
+      "album": {
+        "name": "BLOO IN WONDERLAND 2",
+        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
     },
     {
       "added_at": "2023-12-09 13:00:18",
@@ -1499,18 +1495,22 @@
     {
       "added_at": "2023-12-09 13:00:18",
       "album": {
-        "name": "BLOO IN WONDERLAND 2",
-        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
+        "name": "bury.",
+        "url": "https://open.spotify.com/album/2nSMgMQr9dsqtcOD8jWjCq"
       },
       "artists": [
         {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 170520,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
+      "duration_ms": 196960,
+      "name": "bury. (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/5SQjrx1k3ZSs5QISqoxIy9"
     },
     {
       "added_at": "2023-12-09 13:00:18",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2023-12-09 13:00:18",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Shawty (feat. Coogie)",
-      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
-    },
-    {
-      "added_at": "2023-12-09 13:00:18",
-      "album": {
         "name": "FRIENDS",
         "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 190690,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
+    },
+    {
+      "added_at": "2023-12-09 13:00:18",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Shawty (feat. Coogie)",
+      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
     },
     {
       "added_at": "2023-12-09 13:00:18",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-12-09 13:00:18",
       "album": {
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Six Weeks",
+      "url": "https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO"
+    },
+    {
+      "added_at": "2023-12-09 13:00:18",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1743,42 +1759,6 @@
     {
       "added_at": "2023-12-09 13:00:18",
       "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Six Weeks",
-      "url": "https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO"
-    },
-    {
-      "added_at": "2023-12-09 13:00:18",
-      "album": {
-        "name": "I don\u2019t know a single thing",
-        "url": "https://open.spotify.com/album/0uEU48JdeuVxFZ5a4CUhuu"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "MEENOI",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 214111,
-      "name": "I don\u2019t know a single thing (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/0Y9C5yhzY7Pa1AqjUFrizq"
-    },
-    {
-      "added_at": "2023-12-09 13:00:18",
-      "album": {
         "name": "3-PAKTORY02",
         "url": "https://open.spotify.com/album/12jnTSyfUouBKTiOSyPBj6"
       },
@@ -1799,6 +1779,30 @@
       "duration_ms": 257986,
       "name": "When I fall in love",
       "url": "https://open.spotify.com/track/24kQoMnicTBAYZzHUozStq"
+    },
+    {
+      "added_at": "2023-12-09 13:00:18",
+      "album": {
+        "name": "TOYSTORY3",
+        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 180813,
+      "name": "2AM (Feat. CAMO)",
+      "url": "https://open.spotify.com/track/1C1quK9LCCHeUjrTONTH9C"
     },
     {
       "added_at": "2023-12-09 13:00:18",
@@ -1879,6 +1883,22 @@
     {
       "added_at": "2023-12-09 13:00:18",
       "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 210870,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
+    },
+    {
+      "added_at": "2023-12-09 13:00:18",
+      "album": {
         "name": "School Rapper4 Semi Final 1",
         "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
       },
@@ -1899,22 +1919,6 @@
       "duration_ms": 197714,
       "name": "Meu Tempo (Feat. BIBI & Simon Dominic) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/1nM7C8olIT4wk6Fji2ILYd"
-    },
-    {
-      "added_at": "2023-12-09 13:00:18",
-      "album": {
-        "name": "Movie",
-        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 210870,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
     },
     {
       "added_at": "2023-12-09 13:00:18",

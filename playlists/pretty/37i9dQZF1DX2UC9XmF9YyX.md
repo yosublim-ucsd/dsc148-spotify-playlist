@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UC9XmF9YyX.md) - [plain]
 
 > Experience both volumes and exclusive content, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,293 likes - 24 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,295 likes - 24 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UC9XmF9YyX.md) - [plain]
 | 23 | [Holiday \(feat\. Snoop Dogg, John Legend & Takeoff\)](https://open.spotify.com/track/08Wc3X7XNSyF8WYBPt2L8E) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 2:49 |
 | 24 | [Skrt On Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/7iDxZ5Cd0Yg08d4fI5WVtG) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:48 |
 
-Snapshot ID: `MCxiMjFiY2Q0N2QzMzQ4ODM4YTA0YjlmNmQ3MzhjN2FhMDM5ODhiM2U4`
+Snapshot ID: `MCxiZDc3NzM2Y2E0YWU2ODc5OTJlNzU0ZjlkYzIxMmVlZGM5Yzg0Zjk5`

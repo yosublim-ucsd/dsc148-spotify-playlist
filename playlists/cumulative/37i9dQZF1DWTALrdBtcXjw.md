@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-287 songs - 1 day 1 hr 54 min
+288 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Divergence](https://open.spotify.com/track/4SsYc7rzyUhEbXW0OPTDJf) | [Alistair Martin](https://open.spotify.com/artist/2fDpiP8x5yGXehZ6WrZFig) | [Oblivion](https://open.spotify.com/album/0ZmP5V1EPnCEVcyy1tV7pF) | 5:43 | 2022-02-18 |  |
 | [Dog Day](https://open.spotify.com/track/1XMZnGBdPepIKvMFai5v2f) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Dog Day](https://open.spotify.com/album/6XaCeKX8eXfyQQWseBzknI) | 3:39 | 2022-11-12 |  |
 | [Dolphin Dance](https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 4:54 | 2022-11-12 |  |
-| [Doxy](https://open.spotify.com/track/1RkqoAf31HsCMaTNzTzcG6) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn), [Ed Czach](https://open.spotify.com/artist/4f8lXgdyM6frbmDlADjgp9), [Aaron Kimmel](https://open.spotify.com/artist/6mKwJdaEvDUSLousOlnhAZ) | [Doxy](https://open.spotify.com/album/35ojbhp0w19sGLHuUV7uAU) | 3:11 | 2023-03-16 |  |
+| [Doxy](https://open.spotify.com/track/1RkqoAf31HsCMaTNzTzcG6) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn), [Ed Czach](https://open.spotify.com/artist/4f8lXgdyM6frbmDlADjgp9), [Aaron Kimmel](https://open.spotify.com/artist/6mKwJdaEvDUSLousOlnhAZ) | [Doxy](https://open.spotify.com/album/35ojbhp0w19sGLHuUV7uAU) | 3:11 | 2023-03-16 | 2023-12-13 |
 | [Draw Me Nearer](https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Eclipse](https://open.spotify.com/album/2tWjJCMYSGNRJg55XJj0rj) | 4:42 | 2020-03-31 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/1CgD99QQ8RReNg7LKbBO1y) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Dream A Little Dream Of Me](https://open.spotify.com/album/7ycWxV5g9evEkfpieN6YG1) | 3:00 | 2023-01-26 | 2023-11-17 |
 | [East of the Sun \(And West of the Moon\)](https://open.spotify.com/track/7dNORA3zEIgPBelCsFFMTH) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 7:41 | 2023-03-23 |  |
@@ -274,6 +274,7 @@
 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2020-03-31 | 2023-09-01 |
 | [There's Always A Way](https://open.spotify.com/track/1kILTrdSQFgpOSAeycMPAe) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [There's Always A Way](https://open.spotify.com/album/6i64NI6yiadQVZpDcljiqU) | 2:54 | 2023-05-25 |  |
 | [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 | 2022-02-18 | 2023-12-11 |
+| [Three Views Of A Secret](https://open.spotify.com/track/1AjplssYs6wbBE3NcKBsQ9) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Three Views Of A Secret](https://open.spotify.com/album/59iZJ2RyW9pzRO12nD4ah2) | 3:49 | 2023-12-08 |  |
 | [Tidal Breeze](https://open.spotify.com/track/4TRyfSh9IzlprJbTlMrWxl) | [Passport Quartet](https://open.spotify.com/artist/1sKCem3MqxDHeM5F5zAKfy), [Raphaël Imbert](https://open.spotify.com/artist/2FLekZm435IfyjMhb0JCIg) | [Invitation](https://open.spotify.com/album/6D6xpmmZhAg25csbBX8leD) | 1:13 | 2020-03-31 | 2022-04-21 |
 | [Time After Time](https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 7:43 | 2020-03-31 | 2022-05-18 |
 | [Tutto](https://open.spotify.com/track/62kqshOHXpzRjnjU32j3tk) | [Lorenzo Tucci](https://open.spotify.com/artist/3hTTFA9ODrbXSu1BJ82hsq) | [Happy end](https://open.spotify.com/album/6rMNuXq1cfyp747FxxOEDv) | 5:18 | 2023-02-11 |  |

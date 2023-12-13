@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover\- Raftaar
+> India's Rap Scene\. Cover\- MC SQUARE
 
-126 songs - 7 hr 6 min
+127 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [GTA NCR](https://open.spotify.com/track/5SVmwl5avNHU3clEo86jE9) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [GTA NCR](https://open.spotify.com/album/5Cji4DtVI1prgnhDMGjxTE) | 2:41 | 2023-04-19 | 2023-04-25 |
 | [GUESS](https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GUESS](https://open.spotify.com/album/576uoepdv4Ygap72dx37gA) | 2:48 | 2023-03-27 | 2023-08-18 |
 | [Gunehgar](https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/12fCusmTQwk6IZxNR5xKm8) | 2:43 | 2023-03-27 | 2023-09-02 |
+| [Gurjari](https://open.spotify.com/track/2G6xSLWVj94AwzwdsbLJ29) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [Gurjari](https://open.spotify.com/album/6zG42VggnsjGC7mJhiq7SZ) | 2:37 | 2023-12-12 |  |
 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 | 2023-08-17 |  |
 | [Haseena](https://open.spotify.com/track/0Q37Ax4ON1mIANcQvqfbOl) | [Kayden Sharma](https://open.spotify.com/artist/5Pa7FTzW1HcmSlaQc2Xbz8), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [Mtv Hustle 03 Represent Episode 5](https://open.spotify.com/album/1ilZ2aAxhdtzQDqBvtm1FR) | 3:02 | 2023-12-05 |  |
 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-27 | 2023-04-20 |
@@ -101,7 +102,7 @@
 | [Pinnak](https://open.spotify.com/track/3xL4EpclRaWvXhxCRpppaj) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2hcpAGNIH7eVABgcSWc0Lw) | 6:30 | 2023-03-27 |  |
 | [Pinnak](https://open.spotify.com/track/4kw1Tl4ryNxjTtAdFJkD19) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2tmCxw86Ns8FiYzR8NYPSx) | 6:30 | 2023-03-27 | 2023-04-15 |
 | [Punja Daab](https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Punja Daab](https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s) | 3:34 | 2023-04-12 | 2023-04-20 |
-| [RAASHAH](https://open.spotify.com/track/7sAb2f62IJ28DvEP6x3FRw) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:40 | 2023-04-19 |  |
+| [RAASHAH](https://open.spotify.com/track/7sAb2f62IJ28DvEP6x3FRw) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:40 | 2023-04-19 | 2023-12-13 |
 | [Ram Ram](https://open.spotify.com/track/64jX14ntYSUd1lbzVgBMr6) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:29 | 2023-07-17 |  |
 | [Ram Ram](https://open.spotify.com/track/06EgOhKj59Jk0AUSzly2Jn) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:33 | 2023-03-27 | 2023-07-22 |
 | [Rap Ka Mausam](https://open.spotify.com/track/46gjSGy1qoGyK7sjv1wbkZ) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Rap Ka Mausam](https://open.spotify.com/album/5K2yY9Zv5uNBFk7aSNANSA) | 2:30 | 2023-03-27 | 2023-09-02 |

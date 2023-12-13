@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,335 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,369 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 39 | [Cute Kittens Lick Cream](https://open.spotify.com/track/4IprCxGPjCfhHCE0oaqym3) | [Gyða Valtýsdóttir](https://open.spotify.com/artist/35tWzCzjzv7skImbSeb2hc) | [Ox](https://open.spotify.com/album/0SMZ2ZvDwuqjHo9uUz04Hu) | 3:57 |
 | 40 | [the color of the sky \- sleep rework](https://open.spotify.com/track/2YfZhXTjnsNOXfSeVZdmqy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(sleep rework\)](https://open.spotify.com/album/1Lv022YCTEYHI7B3lqLJ60) | 2:56 |
 
-Snapshot ID: `MCw0OGUxZjIyOGVmYmY5NzNjNDZhMDI4ODlmYTE3YWFlMDgzM2M2YTk4`
+Snapshot ID: `MCw0NmFiNGFlYzEwMDI5YTAyMmU3MjE3OGVmZDA5YmQ2NzUxZjRkNWVl`

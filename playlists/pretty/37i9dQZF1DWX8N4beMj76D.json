@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 10283,
+  "num_followers": 10286,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzQzZWFmYmVlMDBlZTE2ZGNmNTliMjk2MmM4YjVlMDU1NjJhYjNl",
+  "snapshot_id": "MCw5OTc1NzE5ZjQ5M2I4Y2JlZTFjYWIzZWQ4NDQwODllMTA2NTA4YzE0",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s",
-        "url": "https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 259546,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Is Your Love Big Enough? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3S7PPQijoPQ8ASlHl6LsJ9"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 183213,
       "name": "Hey, That's No Way to Say Goodbye (with Chilly Gonzales on Piano) - Piano by Chilly Gonzales in Paris",
       "url": "https://open.spotify.com/track/0mblDBhfX2SCQu2SbwTMgp"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s",
+        "url": "https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 259546,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN"
     },
     {
       "added_at": "2018-12-06 19:29:22",

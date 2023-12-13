@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Joaquin Medina, Grupo Marca Registrada & Grupo Firme
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,708,429 likes - 62 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,708,421 likes - 62 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 61 | [Loco Mio](https://open.spotify.com/track/3SU4qmYFMI353KqmfDduQo) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Loco Mio](https://open.spotify.com/album/6Cvm8XJPef2VaEalHUPE0a) | 3:04 |
 | 62 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
 
-Snapshot ID: `MCw5Njc5MDM4NjcxNmNlOTRjM2Q5ODcxM2UwZWUxYzM2Y2NlNGNhMmRk`
+Snapshot ID: `MCw2YzBiNDAwZTM3YjQ0ZGQyNGQ5MDBlNmE2MTIxYWE1NjY5OWRjN2M3`

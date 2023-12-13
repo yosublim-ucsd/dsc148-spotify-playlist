@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 130188,
+  "num_followers": 130209,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzBlNDlmNzg1YWY5YmQ5ZTliYWYwM2M4MmNlNWQxZTlkNWVmZmEx",
+  "snapshot_id": "MCw5MjQ2NWUzMjE4ZDkxNGVkNDc4Zjc2NjMxZDNjN2VhYzE0OTM1NDJl",
   "tracks": [
     {
       "added_at": "2023-11-30 11:53:23",
@@ -315,22 +315,18 @@
     {
       "added_at": "2023-11-30 11:53:23",
       "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+        "name": "DEVOTION",
+        "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+      "duration_ms": 231978,
+      "name": "DEVOTION",
+      "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
     },
     {
       "added_at": "2023-11-30 11:53:23",
@@ -435,18 +431,22 @@
     {
       "added_at": "2023-11-30 11:53:23",
       "album": {
-        "name": "DEVOTION",
-        "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 231978,
-      "name": "DEVOTION",
-      "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     },
     {
       "added_at": "2023-11-30 11:53:23",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-11-30 11:53:23",
       "album": {
-        "name": "ADOLESCENCE",
-        "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 192138,
-      "name": "Esther",
-      "url": "https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn"
-    },
-    {
-      "added_at": "2023-11-30 11:53:23",
-      "album": {
         "name": "No Nein",
         "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+    },
+    {
+      "added_at": "2023-11-30 11:53:23",
+      "album": {
+        "name": "ADOLESCENCE",
+        "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 192138,
+      "name": "Esther",
+      "url": "https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn"
     },
     {
       "added_at": "2023-11-30 11:53:23",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-11-30 11:53:23",
       "album": {
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2023-11-30 11:53:23",
+      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2023-11-30 11:53:23",
-      "album": {
-        "name": "Can't Do Without (My Baby)",
-        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Can't Do Without (My Baby)",
-      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
     },
     {
       "added_at": "2023-11-30 11:53:23",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2023-11-30 11:53:23",
       "album": {
+        "name": "What Comes Next",
+        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 243599,
+      "name": "Get To Know (feat. Winston Surfshirt)",
+      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
+    },
+    {
+      "added_at": "2023-11-30 11:53:23",
+      "album": {
         "name": "Chase the Sun (Odd Mob Remix)",
         "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 177422,
       "name": "Bad For Me",
       "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
-    },
-    {
-      "added_at": "2023-11-30 11:53:23",
-      "album": {
-        "name": "What Comes Next",
-        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Get To Know (feat. Winston Surfshirt)",
-      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
     }
   ],
   "unique_name": "Sunday Sessions",

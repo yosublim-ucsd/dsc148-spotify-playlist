@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 32321,
+  "num_followers": 32371,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGVmOTg1ZTc2NGI4ZWRkMGVlZTM0MjVlMWEwOTZiNjIyZWRiNDBj",
+  "snapshot_id": "MCwyOTJjOWYzYjJjZTQ3ZDI5NzU1YzYyNTU3Y2Y5MjFjMWNjMzEzNTgx",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -47,7 +47,7 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Worldwide",
+        "name": "WORLDWIDE",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
       "artists": [
@@ -61,7 +61,7 @@
         }
       ],
       "duration_ms": 204991,
-      "name": "MOMMAE",
+      "name": "MOMMAE (Feat. Ugly Duck)",
       "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x"
     },
     {
@@ -1603,7 +1603,7 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Worldwide",
+        "name": "WORLDWIDE",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
       "artists": [
@@ -1617,7 +1617,7 @@
         }
       ],
       "duration_ms": 244153,
-      "name": "YOU KNOW",
+      "name": "YOU KNOW (Feat. Okasian)",
       "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
     },
     {
@@ -1767,7 +1767,7 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Worldwide",
+        "name": "WORLDWIDE",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
       "artists": [
@@ -1785,7 +1785,7 @@
         }
       ],
       "duration_ms": 237903,
-      "name": "My Last",
+      "name": "My Last (Feat. Loco & GRAY)",
       "url": "https://open.spotify.com/track/2LTLUWY6bTkBZD5OAqhkuI"
     },
     {
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "All The Way Up",
-        "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 223059,
-      "name": "All The Way Up (K)",
-      "url": "https://open.spotify.com/track/072zJPb2mwUjrJLKJxYFLe"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "K-TOWN",
         "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
       },
@@ -1891,7 +1875,23 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Worldwide",
+        "name": "All The Way Up",
+        "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 223059,
+      "name": "All The Way Up (K)",
+      "url": "https://open.spotify.com/track/072zJPb2mwUjrJLKJxYFLe"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "WORLDWIDE",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
       "artists": [
@@ -1913,7 +1913,7 @@
         }
       ],
       "duration_ms": 258109,
-      "name": "MOMMAE - Remix",
+      "name": "MOMMAE (Feat. Crush, Simon Dominic & Honey Cocaine) - Remix",
       "url": "https://open.spotify.com/track/4D7itKLDptW3QjL32Uaa6F"
     },
     {

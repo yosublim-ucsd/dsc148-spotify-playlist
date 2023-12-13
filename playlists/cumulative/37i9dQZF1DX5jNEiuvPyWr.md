@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : Khali
 
-314 songs - 15 hr 37 min
+315 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,8 @@
 | [Sans ça](https://open.spotify.com/track/1VZr0fGotyAn61HlsUpk4R) | [Willyod](https://open.spotify.com/artist/58JTHHzGDeGIXUjUtbRvyO) | [Sans ça](https://open.spotify.com/album/7GpYNcQFtVQQfQ7wGyO3SF) | 2:35 | 2022-12-01 | 2023-02-17 |
 | [Saudade](https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7) | [Django](https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3) | [Saudade](https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6) | 2:35 | 2023-06-29 |  |
 | [Schémas Monotones](https://open.spotify.com/track/6cQrLizVUnTNQz5hNdnmIV) | [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Schémas Monotones](https://open.spotify.com/album/6YZxi7O8YpLl1VIPZRS3zJ) | 2:26 | 2022-07-14 | 2022-10-14 |
-| [semaine](https://open.spotify.com/track/7goMhYijPlWUKJDJLOv1BQ) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [semaine](https://open.spotify.com/album/1ryox3WvXWyAMAr0Ax4lNP) | 1:54 | 2023-11-09 |  |
+| [semaine](https://open.spotify.com/track/3bpXZgji2jrTE32XpsZI6k) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 | 2023-12-08 |  |
+| [semaine](https://open.spotify.com/track/7goMhYijPlWUKJDJLOv1BQ) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [semaine](https://open.spotify.com/album/1ryox3WvXWyAMAr0Ax4lNP) | 1:54 | 2023-11-09 | 2023-12-13 |
 | [Semblant](https://open.spotify.com/track/48cHrfBxVCy0x1hgNBACe4) | [Djiggy](https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa) | [Semblant](https://open.spotify.com/album/2lRudXz3qRULXLQz961e65) | 2:20 | 2023-09-21 | 2023-10-27 |
 | [Seul au monde](https://open.spotify.com/track/4luvWLKyAZbCMqltYuD9Dc) | [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [Seul au monde](https://open.spotify.com/album/1xyOjLlsdrQkcRg3dDpDig) | 2:53 | 2023-01-26 | 2023-02-24 |
 | [Si tu savais](https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N) | [Si tu savais](https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K) | 2:25 | 2023-11-09 |  |
